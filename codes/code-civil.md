@@ -119,10 +119,13 @@ Abrogés implicitement (Const. art. 18)
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Les actes de l’état civil énoncent l’année, le jour et l’heure où ils sont reçus, les prénoms et nom de l’officier de l’état civil, les prénoms, noms et domiciles de tous ceux qui y sont dénommés. Les dates et lieux de naissance:
 
-1. des parents dans les actes de naissance et de reconnaissance;
-2. de l’enfant dans les actes de reconnaissance;
-3. des conjoints dans les actes de mariage;
-4. du décédé dans les actes de décès sont indiqués lorsqu’ils sont connus. Dans le cas contraire, l’âge desdites personnes est désigné par leur nombre d’années, comme l’est, dans tous les cas, l’âge des déclarants.
+a) des parents dans les actes de naissance et de reconnaissance;
+
+b) de l’enfant dans les actes de reconnaissance;
+
+c) des conjoints dans les actes de mariage;
+
+d) du décédé dans les actes de décès sont indiqués lorsqu’ils sont connus. Dans le cas contraire, l’âge desdites personnes est désigné par leur nombre d’années, comme l’est, dans tous les cas, l’âge des déclarants.
 
 ##### Art. 35.
 
@@ -326,8 +329,9 @@ L'acte de reconnaissance d'un enfant sera inscrit sur les registres, à sa date;
 
 (2) La publication prévue au premier paragraphe ou, en cas de dispense de publication accordée conformément aux dispositions de l’ article 169 la célébration du mariage est subordonnée à la remise, pour chacun des futurs conjoints, des indications ou pièces suivantes:
 
-- les pièces exigées par les articles 70 ou 71 et, le cas échéant, par l’ article 73;
-- la justification de l’identité, du domicile ou de la résidence, et le cas échéant, de la capacité matrimoniale, au moyen de pièces délivrées par une autorité publique.
+aash les pièces exigées par les articles 70 ou 71 et, le cas échéant, par l’ article 73;
+
+bash la justification de l’identité, du domicile ou de la résidence, et le cas échéant, de la capacité matrimoniale, au moyen de pièces délivrées par une autorité publique.
 
 (3) L’officier de l’état civil, qui ne se conforme pas aux prescriptions des paragraphes précédents, est puni des peines prévues à l’ [article 264 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
 
@@ -395,12 +399,17 @@ L’officier de l’état civil reçoit de chaque partie, l’une après l’aut
 
 On énonce, dans l’acte de mariage :
 
-1. les prénoms, noms, sexes, lieux et dates de naissance et domicile des conjoints ;
-2. les prénoms, noms, sexes et domiciles des parents ;
-3. le consentement des parents, celui du conseil de famille, celui du tuteur ad hoc et, le cas échéant, l’accord du juge aux affaires familiales, dans les cas où ils sont requis ;
-4. les prénoms et nom du précédent conjoint de chacun des conjoints ;
-5. les publications dans les divers domiciles ;
-6. la déclaration des contractants de se prendre pour conjoint, et le prononcé de leur union par l’officier public.
+1\) les prénoms, noms, sexes, lieux et dates de naissance et domicile des conjoints ;
+
+2\) les prénoms, noms, sexes et domiciles des parents ;
+
+3\) le consentement des parents, celui du conseil de famille, celui du tuteur ad hoc et, le cas échéant, l’accord du juge aux affaires familiales, dans les cas où ils sont requis ;
+
+4\) les prénoms et nom du précédent conjoint de chacun des conjoints ;
+
+5\) les publications dans les divers domiciles ;
+
+6\) la déclaration des contractants de se prendre pour conjoint, et le prononcé de leur union par l’officier public.
 
 Il est fait mention de la célébration du mariage en marge de l’acte de naissance de chacun des conjoints.
 
@@ -526,9 +535,11 @@ Le procureur d'Etat peut procéder à la rectification administrative des erreur
 
 Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
 
-1. de se présenter publiquement comme appartenant au sexe revendiqué ;
-2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
-3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+1° de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2° d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3° d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
 
 (3) Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
 
@@ -542,9 +553,11 @@ Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée
 
 Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
 
-1. de se présenter publiquement comme appartenant au sexe revendiqué ;
-2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
-3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+1° de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2° d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3° d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
 
 (3) Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
 
@@ -556,9 +569,11 @@ Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée
 
 Les principaux de ces faits non cumulatifs, dont la preuve peut être rapportée par tous moyens, peuvent être :
 
-1. de se présenter publiquement comme appartenant au sexe revendiqué ;
-2. d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
-3. d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
+1° de se présenter publiquement comme appartenant au sexe revendiqué ;
+
+2° d’être connu sous le sexe revendiqué de son entourage familial, amical, professionnel ou associatif ;
+
+3° d’avoir obtenu le changement de son prénom afin qu'il corresponde au sexe revendiqué.
 
 (3) Nonobstant les mesures d’instruction que le tribunal peut prendre, le fait de ne pas avoir subi des traitements médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande.
 
@@ -866,8 +881,9 @@ A défaut d’une résidence continue de six mois, elle est faite au lieu de la 
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Le mariage doit être célébré:
 
-1. dans le cas où un des futurs conjoints est de nationalité luxembourgeoise ou réside habituellement au Luxembourg, lorsque les deux futurs conjoints satisfont aux conditions de fond de la loi luxembourgeoise; ou
-2. lorsque chacun des futurs conjoints remplit les conditions de fond exigées par la loi applicable à son statut personnel.
+1° dans le cas où un des futurs conjoints est de nationalité luxembourgeoise ou réside habituellement au Luxembourg, lorsque les deux futurs conjoints satisfont aux conditions de fond de la loi luxembourgeoise; ou
+
+2° lorsque chacun des futurs conjoints remplit les conditions de fond exigées par la loi applicable à son statut personnel.
 
 #### Chapitre III — Des oppositions au mariage
 
@@ -955,8 +971,9 @@ Lorsqu’il y a erreur dans la personne, le mariage ne peut être attaqué que p
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Néanmoins le mariage contracté par des conjoints qui n’avaient point encore l’âge requis ou dont l’un des deux n’avait point atteint cet âge, ne peut plus être attaqué:
 
-1. lorsqu’il s’est écoulé un an depuis que ce conjoint ou les conjoints ont atteint l’âge requis;
-2. lorsque la femme qui n’avait point cet âge, a conçu avec son conjoint avant l’échéance d’un an.
+1° lorsqu’il s’est écoulé un an depuis que ce conjoint ou les conjoints ont atteint l’âge requis;
+
+2° lorsque la femme qui n’avait point cet âge, a conçu avec son conjoint avant l’échéance d’un an.
 
 ##### Art. 186.
 
@@ -1058,8 +1075,9 @@ Le délai pour le réclamer est d’un an à partir du décès et se prolonge, e
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Les gendres et belles-filles doivent également, et dans les mêmes circonstances, des aliments à leurs beaux-pères et belles-mères; mais cette obligation cesse:
 
-1. lorsque le beau-père ou la belle-mère a convolé en secondes noces;
-2. lorsque celui des conjoints qui produisait l’affinité, et les enfants issus de son union avec l’autre conjoint, sont décédés.
+1° lorsque le beau-père ou la belle-mère a convolé en secondes noces;
+
+2° lorsque celui des conjoints qui produisait l’affinité, et les enfants issus de son union avec l’autre conjoint, sont décédés.
 
 ##### Art. 207.
 
@@ -1187,8 +1205,9 @@ Abrogé ([L. 12 décembre 1972](https://legilux.public.lu/eli/etat/leg/loi/1972/
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Le mariage se dissout:
 
-1. par la mort de l'un des conjoints;
-2. par le jugement de divorce ayant force de chose jugée.
+1° par la mort de l'un des conjoints;
+
+2° par le jugement de divorce ayant force de chose jugée.
 
 #### Chapitre VIII — Des seconds mariages (abrogé L. 4 juillet 2014)
 
@@ -1204,8 +1223,9 @@ Abrogé ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/
 
 Le divorce peut être prononcé en cas :
 
-1. soit de consentement mutuel ;
-2. soit de rupture irrémédiable des relations conjugales.
+1° soit de consentement mutuel ;
+
+2° soit de rupture irrémédiable des relations conjugales.
 
 ##### *Section I <sup>re</sup> .* — *Du divorce par consentement mutuel*
 
@@ -1215,16 +1235,13 @@ Le divorce par consentement mutuel peut être demandé conjointement par les con
 
 Les conjoints qui demandent le divorce par consentement mutuel soumettent à l’homologation du tribunal une convention réglant :
 
-1. la résidence de chacun des conjoints pendant le temps de la procédure ;
-2. l’administration de la personne et des biens des enfants communs mineurs, non mariés, ni émancipés, tant pendant le temps de la procédure qu’après le divorce, conformément aux règles définies aux Titres IX et X du Livre I
+1° la résidence de chacun des conjoints pendant le temps de la procédure ;
 
-   <sup>er</sup> ;
-3. la contribution de chacun des conjoints à l’entretien et à l’éducation des enfants communs, sans préjudice des obligations découlant du chapitre V du Titre V du Livre I
+2° l’administration de la personne et des biens des enfants communs mineurs, non mariés, ni émancipés, tant pendant le temps de la procédure qu’après le divorce, conformément aux règles définies aux Titres IX et X du Livre I <sup>er</sup> ;
 
-   <sup>er</sup> ;
-4. la pension alimentaire éventuelle à payer par l’un des conjoints à l’autre, pendant le temps de la procédure et après le divorce. La pension n’est plus due d’office en cas de remariage ou de partenariat au sens de la
+3° la contribution de chacun des conjoints à l’entretien et à l’éducation des enfants communs, sans préjudice des obligations découlant du chapitre V du Titre V du Livre I <sup>er</sup> ;
 
-   [loi modifiée du 9 juillet 2004.](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) Elle est révocable sur demande en cas de toute autre communauté de vie du créancier avec un tiers. Sont présumées vivre en communauté de vie les personnes qui vivent dans le cadre d’un foyer commun. La pension alimentaire peut être révisée sur demande en cas de détérioration de la situation du créancier ou du débiteur de la pension, à condition toutefois que cette détérioration soit indépendante de la volonté de celui dans le chef duquel elle a lieu. Par dérogation à ce qui précède, lorsque les conjoints s’accordent sur le versement de la pension alimentaire en capital, elle n’est ni révisable, ni révocable.
+4° la pension alimentaire éventuelle à payer par l’un des conjoints à l’autre, pendant le temps de la procédure et après le divorce. La pension n’est plus due d’office en cas de remariage ou de partenariat au sens de la [loi modifiée du 9 juillet 2004.](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) Elle est révocable sur demande en cas de toute autre communauté de vie du créancier avec un tiers. Sont présumées vivre en communauté de vie les personnes qui vivent dans le cadre d’un foyer commun. La pension alimentaire peut être révisée sur demande en cas de détérioration de la situation du créancier ou du débiteur de la pension, à condition toutefois que cette détérioration soit indépendante de la volonté de celui dans le chef duquel elle a lieu. Par dérogation à ce qui précède, lorsque les conjoints s’accordent sur le versement de la pension alimentaire en capital, elle n’est ni révisable, ni révocable.
 
 La convention est rédigée par un ou des avocat(s) à la Cour ou notaire(s). Les conjoints sont tenus de faire préalablement par notaire inventaire et estimation de tous leurs biens meubles et immeubles, et de régler leurs droits respectifs, sur lesquels il leur sera néanmoins libre de transiger. L’estimation des biens se fera, en cas d’accord, d’après les déclarations des conjoints, sinon par prisée. Lorsqu’il n’existe pas de biens à partager entre conjoints, les conjoints en feront la déclaration dans la convention prévue à l’alinéa 1 <sup>er</sup> et il ne sera dressé aucun acte notarié.
 
@@ -1290,8 +1307,9 @@ La mention ou la transcription est faite par les soins de l’officier de l’é
 
 La mention ou la transcription est faite :
 
-1. en cas de divorce prévu à l’article 230, à la diligence des conjoints ou de l’un d’eux ou de l’avocat à la Cour ou du notaire au nom des conjoints ;
-2. en cas de divorce prévu à l’article 232, au nom du ou des conjoint(s)qui a/ont demandé le divorce, à la diligence du ou des avocat(s) à la Cour.
+1° en cas de divorce prévu à l’article 230, à la diligence des conjoints ou de l’un d’eux ou de l’avocat à la Cour ou du notaire au nom des conjoints ;
+
+2° en cas de divorce prévu à l’article 232, au nom du ou des conjoint(s)qui a/ont demandé le divorce, à la diligence du ou des avocat(s) à la Cour.
 
 À cet effet, la décision est notifiée par lettre recommandée avec accusé de réception ou remise contre accusé de réception dans le délai d’un mois à compter de la date à laquelle elle a acquis force de chose jugée, à l’officier de l’état civil compétent.
 
@@ -1351,13 +1369,19 @@ Le tribunal peut imposer à l’un des conjoints l’obligation de verser à l�
 
 Dans la détermination des besoins et des facultés contributives, les éléments dont le tribunal tient compte incluent :
 
-1. l’âge et l’état de santé des conjoints ;
-2. la durée du mariage ;
-3. le temps déjà consacré ou qu’il leur faudra consacrer à l’éducation des enfants ;
-4. leur qualification et leur situation professionnelles au regard du marché du travail ;
-5. leur disponibilité pour de nouveaux emplois ;
-6. leurs droits existants et prévisibles ;
-7. leur patrimoine, tant en capital qu’en revenu, après la liquidation du régime matrimonial.
+1° l’âge et l’état de santé des conjoints ;
+
+2° la durée du mariage ;
+
+3° le temps déjà consacré ou qu’il leur faudra consacrer à l’éducation des enfants ;
+
+4° leur qualification et leur situation professionnelles au regard du marché du travail ;
+
+5° leur disponibilité pour de nouveaux emplois ;
+
+6° leurs droits existants et prévisibles ;
+
+7° leur patrimoine, tant en capital qu’en revenu, après la liquidation du régime matrimonial.
 
 **Art. 248.**
 
@@ -1425,9 +1449,11 @@ Le tribunal peut supprimer la jouissance du logement familial si des circonstanc
 
 Le divorce et la séparation de corps sont régis :
 
-1. par la loi nationale des conjoints lorsqu'elle leur est commune ;
-2. par la loi de leur domicile effectif commun lorsqu'ils sont de nationalité différente ;
-3. par la loi du for lorsque les conjoints de nationalité différente n'ont pas de domicile effectif commun.
+1° par la loi nationale des conjoints lorsqu'elle leur est commune ;
+
+2° par la loi de leur domicile effectif commun lorsqu'ils sont de nationalité différente ;
+
+3° par la loi du for lorsque les conjoints de nationalité différente n'ont pas de domicile effectif commun.
 
 #### Chapitre IV — Des effets du divorce
 
@@ -1461,8 +1487,9 @@ La séparation de corps emportera toujours séparation de biens.
 
 Si la séparation de corps cesse par la réconciliation des conjoints, ceux-ci demeurent soumis à la séparation de biens sauf à convenir d’un nouveau régime matrimonial en observant les règles de l’article 1397. La réconciliation n’est opposable aux tiers que si la reprise de la vie commune est constatée par acte passé devant notaire en minute, dont mention sera portée en marge :
 
-1. de l’acte de mariage ;
-2. du jugement qui a prononcé la séparation, l’extrait du jugement muni de cette mention étant d’ailleurs publié dans un des journaux imprimés au Grand-Duché.
+1° de l’acte de mariage ;
+
+2° du jugement qui a prononcé la séparation, l’extrait du jugement muni de cette mention étant d’ailleurs publié dans un des journaux imprimés au Grand-Duché.
 
 Les articles 239, alinéas 2 et 3, 240 et 241 sont applicables à la séparation de corps.
 
@@ -1542,11 +1569,15 @@ La possession d'état doit être continue.
 
 Les principaux de ces faits sont:
 
-- que l'individu a toujours porté le nom de ceux dont on le dit issu;
-- que les parents l'ont toujours traité comme leur enfant et qu'il les a traités comme ses parents;
-- qu'ils ont, en cette qualité, pourvu à son éducation, à son entretien et à son établissement;
-- qu'il est reconnu pour tel dans la société et par la famille;
-- que l'autorité publique le considère comme tel.
+aone que l'individu a toujours porté le nom de ceux dont on le dit issu;
+
+bone que les parents l'ont toujours traité comme leur enfant et qu'il les a traités comme ses parents;
+
+cone qu'ils ont, en cette qualité, pourvu à son éducation, à son entretien et à son établissement;
+
+done qu'il est reconnu pour tel dans la société et par la famille;
+
+eone que l'autorité publique le considère comme tel.
 
 ###### Art. 321-1.
 
@@ -1658,10 +1689,13 @@ Cette possession d'état s'établit par une réunion suffisante de faits qui ind
 
 Les principaux de ces faits sont:
 
-- que la mère a traité cet individu comme son enfant naturel et qu'il l'a traitée comme sa mère;
-- que la mère a, en cette qualité, pourvu ou participé à son éducation, à son entretien et à son établissement;
-- qu'il est reconnu pour tel dans la société et par la famille;
-- que l'autorité publique le considère comme tel.
+aone que la mère a traité cet individu comme son enfant naturel et qu'il l'a traitée comme sa mère;
+
+bone que la mère a, en cette qualité, pourvu ou participé à son éducation, à son entretien et à son établissement;
+
+cone qu'il est reconnu pour tel dans la société et par la famille;
+
+done que l'autorité publique le considère comme tel.
 
 ###### Art. 334-1.
 
@@ -1749,8 +1783,9 @@ La paternité hors mariage peut être judiciairement déclarée lorsqu'il est pr
 
 L'action en recherche de paternité n'est pas recevable:
 
-1. s'il est établi que, pendant la période légale de la conception, la mère était d'une inconduite notoire ou qu'elle a eu des relations sexuelles avec un autre individu, à moins qu'il ne résulte d'un examen des sangs ou de toute autre méthode médicale certaine que cet individu ne peut être le père;
-2. si le père prétendu justifie de faits propres à démontrer qu'il ne peut être le père.
+1° s'il est établi que, pendant la période légale de la conception, la mère était d'une inconduite notoire ou qu'elle a eu des relations sexuelles avec un autre individu, à moins qu'il ne résulte d'un examen des sangs ou de toute autre méthode médicale certaine que cet individu ne peut être le père;
+
+2° si le père prétendu justifie de faits propres à démontrer qu'il ne peut être le père.
 
 Quand est opposée la fin de non-recevoir tirée de ce que la mère a eu, pendant la période légale de la conception, des relations sexuelles avec un tiers, le juge peut ordonner que celui-ci soit appelé en la cause.
 
@@ -1854,13 +1889,15 @@ L'adoption ne peut avoir lieu que s'il y a de justes motifs et si elle présente
 
 (1) L’adoption peut être demandée :
 
-1. par deux conjoints non séparés de corps ;
-2. par deux partenaires au sens de la
+1° par deux conjoints non séparés de corps ;
 
-   [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ;
-3. par deux concubins ;
-4. par une personne seule, lorsqu’il s’agit de l’adoption de l’enfant légitime, naturel ou adoptif de son conjoint, partenaire ou concubin ;
-5. par une personne seule sans être engagée par un des liens visés aux points 1° à 3°.
+2° par deux partenaires au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ;
+
+3° par deux concubins ;
+
+4° par une personne seule, lorsqu’il s’agit de l’adoption de l’enfant légitime, naturel ou adoptif de son conjoint, partenaire ou concubin ;
+
+5° par une personne seule sans être engagée par un des liens visés aux points 1° à 3°.
 
 Si l’adoption est demandée conjointement par deux personnes visées aux points 1° à 3°, ces personnes peuvent être de sexe différent ou de même sexe.
 
@@ -2006,10 +2043,13 @@ La législation relative à la protection de la jeunesse et les dispositions pé
 
 Le mariage, le partenariat ou le concubinage au sens de l’article 344, paragraphe 1 <sup>er</sup> est prohibé :
 
-1. entre l’adoptant, l’adopté et ses descendants ;
-2. entre l’adopté et le conjoint, le partenaire ou le concubin de l’adoptant ; réciproquement entre l’adoptant et le conjoint, le partenaire ou le concubin de l’adopté ;
-3. entre les enfants adoptifs de la même personne ;
-4. entre l’adopté et les enfants de l’adoptant.
+1° entre l’adoptant, l’adopté et ses descendants ;
+
+2° entre l’adopté et le conjoint, le partenaire ou le concubin de l’adoptant ; réciproquement entre l’adoptant et le conjoint, le partenaire ou le concubin de l’adopté ;
+
+3° entre les enfants adoptifs de la même personne ;
+
+4° entre l’adopté et les enfants de l’adoptant.
 
 Néanmoins, les prohibitions portées aux 3° et 4° ci-dessus peuvent être levées par dispense du tribunal s’il y a des causes graves.
 
@@ -2311,16 +2351,19 @@ La jouissance légale appartient aux parents conjointement ou à celui des paren
 
 Le droit de jouissance cesse:
 
-1. par les causes qui mettent fin à l'autorité parentale, ou même plus spécialement par celles qui mettent fin à l'administration légale;
-2. par les causes qui emportent l'extinction de tout usufruit.
+1° par les causes qui mettent fin à l'autorité parentale, ou même plus spécialement par celles qui mettent fin à l'administration légale;
+
+2° par les causes qui emportent l'extinction de tout usufruit.
 
 ##### Art. 385.
 
 Les charges de cette jouissance sont:
 
-1. celles auxquelles sont tenus en général les usufruitiers;
-2. la nourriture, l'entretien et l'éducation de l'enfant, selon sa fortune;
-3. les dettes grevant la succession recueillie par l'enfant, en tant qu'elles auraient dû être acquittées sur les revenus.
+1° celles auxquelles sont tenus en général les usufruitiers;
+
+2° la nourriture, l'entretien et l'éducation de l'enfant, selon sa fortune;
+
+3° les dettes grevant la succession recueillie par l'enfant, en tant qu'elles auraient dû être acquittées sur les revenus.
 
 ##### Art. 386.
 
@@ -2398,15 +2441,15 @@ Le retrait total porte sur tous les droits qui découlent de l’autorité paren
 
 Il comprend pour celui qui en est frappé, à l’égard de l’enfant qu’il concerne et des descendants de celui-ci :
 
-1. l’exclusion du droit d’habiter avec l’enfant, de l’éduquer et de le surveiller ;
-2. l’incapacité de les représenter, de consentir à leurs actes et d’administrer leurs biens ;
-3. l’exclusion du droit de jouissance prévu aux articles 382 et suivants du
+1° l’exclusion du droit d’habiter avec l’enfant, de l’éduquer et de le surveiller ;
 
-   [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil) ;
-4. l’exclusion du droit de réclamer des aliments ;
-5. l’exclusion du droit de recueillir tout ou partie de leur succession par application de l’article 746 du
+2° l’incapacité de les représenter, de consentir à leurs actes et d’administrer leurs biens ;
 
-   [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
+3° l’exclusion du droit de jouissance prévu aux articles 382 et suivants du [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil) ;
+
+4° l’exclusion du droit de réclamer des aliments ;
+
+5° l’exclusion du droit de recueillir tout ou partie de leur succession par application de l’article 746 du [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
 
 En outre, le retrait total entraîne l’incapacité générale d’être tuteur, subrogé tuteur ou membre d’un conseil de famille.
 
@@ -2564,8 +2607,9 @@ Le droit individuel de choisir un tuteur, parent, ou non, n'appartient qu'au der
 
 Ce droit ne peut être exercé que de l'une des manières suivantes:
 
-1. par acte de dernière volonté;
-2. par déclaration faite ou devant le juge de paix, assisté de son greffier, ou devant notaire.
+1° par acte de dernière volonté;
+
+2° par déclaration faite ou devant le juge de paix, assisté de son greffier, ou devant notaire.
 
 **Art. 399 et 400.**
 
@@ -2769,19 +2813,19 @@ Les différentes charges de la tutelle peuvent être remplies par toutes personn
 
 Sont incapables des différentes charges de la tutelle:
 
-1. les mineurs, excepté l’un des parents;
-2. les interdits judiciaires, les aliénés colloqués ou internés et les personnes pourvues d'un conseil judiciaire.
+1° les mineurs, excepté l’un des parents;
+
+2° les interdits judiciaires, les aliénés colloqués ou internés et les personnes pourvues d'un conseil judiciaire.
 
 **Art. 443 — ([L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a589/jo))**
 
 Sont exclus ou destitués de plein droit des différentes charges de la tutelle :
 
-1. ceux qui ont été condamnés à une peine criminelle ou à qui l’exercice des charges tutélaires a été interdit par application des articles 11 à 13 du
+1° ceux qui ont été condamnés à une peine criminelle ou à qui l’exercice des charges tutélaires a été interdit par application des articles 11 à 13 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
+Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
 
-   Ils pourront, toutefois, être admis à la tutelle de leurs propres enfants, sur avis conforme du conseil de famille.
-2. ceux à qui l’autorité parentale a été retirée.
+2° ceux à qui l’autorité parentale a été retirée.
 
 **Art. 444.**
 
@@ -3033,9 +3077,11 @@ Du vivant de l'individu, l'action en nullité ne peut être exercée que par lui
 
 Après sa mort, les actes faits par un individu, autres que la donation entre vifs ou le testament, ne pourront être attaqués pour la cause prévue à l' article précédent que dans les cas ci-dessous énumérés:
 
-1. si l'acte porte en lui-même la preuve d'un trouble mental;
-2. s'il a été fait dans un temps où l'individu était placé sous la sauvegarde de justice;
-3. si une action avait été introduite avant le décès aux fins de faire ouvrir la tutelle ou la curatelle.
+1° si l'acte porte en lui-même la preuve d'un trouble mental;
+
+2° s'il a été fait dans un temps où l'individu était placé sous la sauvegarde de justice;
+
+3° si une action avait été introduite avant le décès aux fins de faire ouvrir la tutelle ou la curatelle.
 
 ##### Art. 489-2.
 
@@ -3853,11 +3899,15 @@ Si le troupeau ne périt pas entièrement, l'usufruitier est tenu de remplacer, 
 
 L'usufruit s'éteint:
 
-- par la mort naturelle de l'usufruitier;
-- par l'expiration du temps pour lequel il a été accordé;
-- par la consolidation ou la réunion sur la même tête, des deux qualités d'usufruitier et de propriétaire;
-- par le non-usage du droit pendant trente ans;
-- par la perte totale de la chose sur laquelle l'usufruit est établi.
+aone par la mort naturelle de l'usufruitier;
+
+bone par l'expiration du temps pour lequel il a été accordé;
+
+cone par la consolidation ou la réunion sur la même tête, des deux qualités d'usufruitier et de propriétaire;
+
+done par le non-usage du droit pendant trente ans;
+
+eone par la perte totale de la chose sur laquelle l'usufruit est établi.
 
 ###### Art. 618.
 
@@ -4139,10 +4189,13 @@ Les arbres qui se trouvent dans la haie mitoyenne sont mitoyens comme la haie, e
 
 Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non;
 
-- celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,
-- y adosser une étable,
-- ou établir contre ce mur un magasin de sel ou amas de matières corrosives,
-- est obligé à laisser la distance prescrite par les règlements et usages particuliers sur ces objets, ou à faire les ouvrages prescrits par les mêmes règlements et usages, pour éviter de nuire au voisin.
+aash celui qui veut y construire cheminée ou âtre, forge, four ou fourneau,
+
+bash y adosser une étable,
+
+cash ou établir contre ce mur un magasin de sel ou amas de matières corrosives,
+
+dash est obligé à laisser la distance prescrite par les règlements et usages particuliers sur ces objets, ou à faire les ouvrages prescrits par les mêmes règlements et usages, pour éviter de nuire au voisin.
 
 ##### Section III — Des vues sur la propriété de son voisin
 
@@ -4410,9 +4463,11 @@ Il ne peut exercer les droits et actions du défunt qu'après s'être fait envoy
 
 Pour succéder, il faut nécessairement exister à l'instant de l'ouverture de la succession. Ainsi sont incapables de succéder:
 
-1. celui qui n'est pas encore conçu;
-2. l'enfant qui n'est pas né viable;
-3. .....
+1° celui qui n'est pas encore conçu;
+
+2° l'enfant qui n'est pas né viable;
+
+3° .....
 
 ([L. 31 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/31/n6/jo)) Peut succéder celui dont l'absence est présumée selon l' [article 112](https://legilux.public.lu/eli/etat/leg/code/civil/art_112).
 
@@ -4424,9 +4479,11 @@ Abrogé ([L. 29 février 1872](https://legilux.public.lu/eli/etat/leg/loi/1872/0
 
 Sont indignes de succéder, et, comme tels, exclus des successions:
 
-1. celui qui serait condamné pour avoir donné ou tenté de donner la mort au défunt;
-2. celui qui a porté contre le défunt une accusation capitale jugée calomnieuse;
-3. l'héritier majeur qui, instruit du meurtre du défunt, ne l'aura pas dénoncé à la justice.
+1° celui qui serait condamné pour avoir donné ou tenté de donner la mort au défunt;
+
+2° celui qui a porté contre le défunt une accusation capitale jugée calomnieuse;
+
+3° l'héritier majeur qui, instruit du meurtre du défunt, ne l'aura pas dénoncé à la justice.
 
 ##### Art. 728.
 
@@ -4694,8 +4751,9 @@ La donation, vente ou transport que fait de ses droits successifs un des cohéri
 
 Il en est de même:
 
-1. de la renonciation, même gratuite, que fait un des héritiers au profit d'un ou de plusieurs de ses cohéritiers;
-2. de la renonciation qu'il fait même au profit de tous ses cohéritiers indistinctement, lorsqu'il reçoit le prix de sa renonciation.
+1° de la renonciation, même gratuite, que fait un des héritiers au profit d'un ou de plusieurs de ses cohéritiers;
+
+2° de la renonciation qu'il fait même au profit de tous ses cohéritiers indistinctement, lorsqu'il reçoit le prix de sa renonciation.
 
 ###### Art. 781.
 
@@ -4795,8 +4853,9 @@ L'héritier qui s'est rendu coupable de recel ou qui a omis, sciemment et de mau
 
 L'effet du bénéfice d'inventaire est de donner à l'héritier l'avantage:
 
-1. de n'être tenu du paiement des dettes de la succession que jusqu'à concurrence de la valeur des biens qu'il a recueillis, même de pouvoir se décharger du paiement des dettes en abandonnant tous les biens de la succession aux créanciers et aux légataires;
-2. de ne pas confondre ses biens personnels avec ceux de la succession et de conserver contre elle le droit de réclamer le paiement de ses créances.
+1° de n'être tenu du paiement des dettes de la succession que jusqu'à concurrence de la valeur des biens qu'il a recueillis, même de pouvoir se décharger du paiement des dettes en abandonnant tous les biens de la succession aux créanciers et aux légataires;
+
+2° de ne pas confondre ses biens personnels avec ceux de la succession et de conserver contre elle le droit de réclamer le paiement de ses créances.
 
 ###### Art. 803.
 
@@ -4878,13 +4937,15 @@ Les dispositions de la section III du présent chapitre, sur les formes de l'inv
 
 ###### Art. 815-1 — [L. du 2 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/02/a558/jo)
 
-1. À défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique viable et dont la mise en valeur effective était assurée par le défunt, par son conjoint ou par son partenaire héritier au sens de la
+1° À défaut d'accord amiable, l'indivision de toute exploitation agricole constituant une unité économique viable et dont la mise en valeur effective était assurée par le défunt, par son conjoint ou par son partenaire héritier au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats peut être maintenue, dans les conditions fixées par le tribunal, à la demande des personnes visées aux alinéas qui suivent. Le tribunal statue en fonction des intérêts en présence et des possibilités d'existence que la famille peut tirer des biens indivis. Le maintien de l'indivision demeure possible lorsque l'exploitation comprend des éléments dont l’héritier, le conjoint ou le partenaire héritier était déjà propriétaire ou copropriétaire avant l'ouverture de la succession ou qu'elle est fondée pour partie sur le bénéfice d'un ou de plusieurs baux de terres répondant aux conditions à fixer par règlement grand-ducal à prendre sur avis du Conseil d'État.
 
-   [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats peut être maintenue, dans les conditions fixées par le tribunal, à la demande des personnes visées aux alinéas qui suivent. Le tribunal statue en fonction des intérêts en présence et des possibilités d'existence que la famille peut tirer des biens indivis. Le maintien de l'indivision demeure possible lorsque l'exploitation comprend des éléments dont l’héritier, le conjoint ou le partenaire héritier était déjà propriétaire ou copropriétaire avant l'ouverture de la succession ou qu'elle est fondée pour partie sur le bénéfice d'un ou de plusieurs baux de terres répondant aux conditions à fixer par règlement grand-ducal à prendre sur avis du Conseil d'État.
-2. L'indivision peut également être maintenue à la demande des mêmes personnes et dans les conditions fixées par le tribunal en ce qui concerne la propriété des locaux d'habitation ou à usage agricole qui, à l'époque du décès, étaient effectivement utilisés pour cette habitation ou à cet usage par le défunt, son conjoint ou son partenaire héritier. Il en est de même des objets servant à l'exercice de la profession.
-3. Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé, soit par le conjoint survivant, soit par le partenaire survivant héritier, soit par d'autres descendants majeurs, soit par le représentant légal des mineurs.
-4. À défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et par le partenaire survivant héritier et à la condition qu'il ait été, avant le décès, ou soit devenu du fait du décès, copropriétaire de l'exploitation agricole ou des locaux d'habitation ou à usage professionnel. S'il s'agit de locaux d'habitation, le conjoint ou le partenaire survivant héritier doit avoir résidé dans les lieux à l'époque du décès.
-5. Le maintien de l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas prévu à l'alinéa 3, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu à l'alinéa 4, jusqu'au décès du conjoint survivant ou du partenaire survivant héritier. ».
+2° L'indivision peut également être maintenue à la demande des mêmes personnes et dans les conditions fixées par le tribunal en ce qui concerne la propriété des locaux d'habitation ou à usage agricole qui, à l'époque du décès, étaient effectivement utilisés pour cette habitation ou à cet usage par le défunt, son conjoint ou son partenaire héritier. Il en est de même des objets servant à l'exercice de la profession.
+
+3° Si le défunt laisse un ou plusieurs descendants mineurs, le maintien de l'indivision peut être demandé, soit par le conjoint survivant, soit par le partenaire survivant héritier, soit par d'autres descendants majeurs, soit par le représentant légal des mineurs.
+
+4° À défaut de descendants mineurs, le maintien de l'indivision ne peut être demandé que par le conjoint survivant et par le partenaire survivant héritier et à la condition qu'il ait été, avant le décès, ou soit devenu du fait du décès, copropriétaire de l'exploitation agricole ou des locaux d'habitation ou à usage professionnel. S'il s'agit de locaux d'habitation, le conjoint ou le partenaire survivant héritier doit avoir résidé dans les lieux à l'époque du décès.
+
+5° Le maintien de l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas prévu à l'alinéa 3, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu à l'alinéa 4, jusqu'au décès du conjoint survivant ou du partenaire survivant héritier. ».
 
 ###### Art. 815-2.
 
@@ -5530,8 +5591,9 @@ Les docteurs en médecine ou en chirurgie, les officiers de santé et les pharma
 
 Sont exceptées:
 
-1. les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus;
-2. les dispositions universelles, dans le cas de parenté jusqu'au quatrième degré inclusivement, pourvu toutefois que le décédé n'ait pas d'héritiers en ligne directe; à moins que celui au profit de qui la disposition a été faite, ne soit lui-même du nombre de ces héritiers.
+1° les dispositions rémunératoires faites à titre particulier, eu égard aux facultés du disposant et aux services rendus;
+
+2° les dispositions universelles, dans le cas de parenté jusqu'au quatrième degré inclusivement, pourvu toutefois que le décédé n'ait pas d'héritiers en ligne directe; à moins que celui au profit de qui la disposition a été faite, ne soit lui-même du nombre de ces héritiers.
 
 Les mêmes règles seront observées à l'égard du ministre du culte.
 
@@ -5785,9 +5847,11 @@ Dans le cas de la révocation pour cause d'inexécution des conditions, les bien
 
 La donation entre vifs ne pourra être révoquée pour cause d'ingratitude que dans les cas suivants:
 
-1. si le donataire a attenté à la vie du donateur;
-2. s'il s'est rendu coupable envers lui de sévices, délits ou injures graves;
-3. s'il lui refuse des aliments.
+1° si le donataire a attenté à la vie du donateur;
+
+2° s'il s'est rendu coupable envers lui de sévices, délits ou injures graves;
+
+3° s'il lui refuse des aliments.
 
 ###### Art. 956.
 
@@ -6089,8 +6153,9 @@ Néanmoins, le légataire particulier ne pourra se mettre en possession de la ch
 
 Les intérêts ou fruits de la chose léguée courront au profit du légataire, dès le jour du décès, et sans qu'il ait formé sa demande en justice:
 
-1. lorsque le testateur aura expressément déclaré sa volonté, à cet égard, dans le testament;
-2. lorsqu'une rente viagère ou une pension aura été léguée à titre d'aliments.
+1° lorsque le testateur aura expressément déclaré sa volonté, à cet égard, dans le testament;
+
+2° lorsqu'une rente viagère ou une pension aura été léguée à titre d'aliments.
 
 ###### Art. 1016.
 
@@ -6578,10 +6643,13 @@ Les règles particulières à certains contrats sont établies sous les titres r
 
 Quatre conditions sont essentielles pour la validité d'une convention:
 
-- le consentement de la partie qui s'oblige;
-- sa capacité de contracter;
-- un objet certain qui forme la matière de l'engagement;
-- une cause licite dans l'obligation.
+aash le consentement de la partie qui s'oblige;
+
+bash sa capacité de contracter;
+
+cash un objet certain qui forme la matière de l'engagement;
+
+dash une cause licite dans l'obligation.
 
 ##### Section Ire — Du consentement
 
@@ -7193,11 +7261,15 @@ L'obligation qui est susceptible de division doit être exécutée entre le cré
 
 Le principe établi dans l' article précédent reçoit exception à l'égard des héritiers du débiteur:
 
-1. dans le cas où la dette est hypothécaire;
-2. lorsqu'elle est d'un corps certain;
-3. lorsqu'il s'agit de la dette alternative de choses au choix du créancier, dont l'une est indivisible;
-4. lorsque l'un des héritiers est chargé seul, par le titre, de l'exécution de l'obligation;
-5. lorsqu'il résulte soit de la nature de l'engagement, soit de la chose qui en fait l'objet, soit de la fin qu'on s'est proposée dans le contrat, que l'intention des contractants a été que la dette ne pût s'acquitter partiellement.
+1° dans le cas où la dette est hypothécaire;
+
+2° lorsqu'elle est d'un corps certain;
+
+3° lorsqu'il s'agit de la dette alternative de choses au choix du créancier, dont l'une est indivisible;
+
+4° lorsque l'un des héritiers est chargé seul, par le titre, de l'exécution de l'obligation;
+
+5° lorsqu'il résulte soit de la nature de l'engagement, soit de la chose qui en fait l'objet, soit de la fin qu'on s'est proposée dans le contrat, que l'intention des contractants a été que la dette ne pût s'acquitter partiellement.
 
 Dans les trois premiers cas, l'héritier qui possède la chose due ou le fonds hypothéqué à la dette peut être poursuivi pour le tout sur la chose due ou sur le fonds hypothéqué, sauf le recours contre ses cohéritiers. Dans le quatrième cas, l'héritier seul chargé de la dette, et dans le cinquième cas, chaque héritier peut aussi être poursuivi pour le tout, sauf son recours contre ses cohéritiers.
 
@@ -7265,15 +7337,23 @@ Cette règle reçoit exception lorsque la clause pénale ayant été ajoutée da
 
 Les obligations s'éteignent:
 
-- par le paiement;
-- par la novation;
-- par la remise volontaire;
-- par la compensation;
-- par la confusion;
-- par la perte de la chose;
-- par la nullité ou la rescision;
-- par l'effet de la condition résolutoire, qui a été expliquée au chapitre précédent;
-- et par la prescription, qui fera l'objet d'un titre particulier.
+aash par le paiement;
+
+bash par la novation;
+
+cash par la remise volontaire;
+
+dash par la compensation;
+
+eash par la confusion;
+
+fash par la perte de la chose;
+
+gash par la nullité ou la rescision;
+
+hash par l'effet de la condition résolutoire, qui a été expliquée au chapitre précédent;
+
+iash et par la prescription, qui fera l'objet d'un titre particulier.
 
 ##### Section Ire — Du paiement
 
@@ -7357,17 +7437,21 @@ La subrogation dans les droits du créancier au profit d'une tierce personne qui
 
 Cette subrogation est conventionnelle:
 
-1. lorsque le créancier recevant son paiement d'une tierce personne la subroge dans ses droits, actions, privilèges ou hypothèques contre le débiteur: cette subrogation doit être expresse et faite en même temps que le paiement;
-2. lorsque le débiteur emprunte une somme à l'effet de payer sa dette, et de subroger le prêteur dans les droits du créancier. Il faut, pour que cette subrogation soit valable, que l'acte d'emprunt et la quittance soient passés devant le notaire; que dans l'acte d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la quittance il soit déclaré que le paiement a été fait des deniers fournis à cet effet par le nouveau créancier. Cette subrogation s'opère sans le concours de la volonté du créancier.
+1° lorsque le créancier recevant son paiement d'une tierce personne la subroge dans ses droits, actions, privilèges ou hypothèques contre le débiteur: cette subrogation doit être expresse et faite en même temps que le paiement;
+
+2° lorsque le débiteur emprunte une somme à l'effet de payer sa dette, et de subroger le prêteur dans les droits du créancier. Il faut, pour que cette subrogation soit valable, que l'acte d'emprunt et la quittance soient passés devant le notaire; que dans l'acte d'emprunt il soit déclaré que la somme a été empruntée pour faire le paiement, et que dans la quittance il soit déclaré que le paiement a été fait des deniers fournis à cet effet par le nouveau créancier. Cette subrogation s'opère sans le concours de la volonté du créancier.
 
 **Art. 1251.**
 
 La subrogation a lieu de plein droit:
 
-1. au profit de celui qui étant lui-même créancier, paye un autre créancier qui lui est préférable à raison de ses privilèges ou hypothèques;
-2. au profit de l'acquéreur d'un immeuble qui emploie le prix de son acquisition au paiement des créanciers auxquels cet héritage était hypothéqué;
-3. au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter;
-4. au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
+1° au profit de celui qui étant lui-même créancier, paye un autre créancier qui lui est préférable à raison de ses privilèges ou hypothèques;
+
+2° au profit de l'acquéreur d'un immeuble qui emploie le prix de son acquisition au paiement des créanciers auxquels cet héritage était hypothéqué;
+
+3° au profit de celui qui, étant tenu avec d'autres ou pour d'autres au paiement de la dette, avait intérêt de l'acquitter;
+
+4° au profit de l'héritier bénéficiaire qui a payé de ses deniers les dettes de la succession.
 
 **Art. 1252.**
 
@@ -7405,22 +7489,31 @@ Les offres réelles suivies d'une consignation libèrent le débiteur; elles tie
 
 Pour que les offres réelles soient valables, il faut:
 
-1. qu'elles soient faites au créancier ayant la capacité de recevoir, ou à celui qui a pouvoir de recevoir pour lui;
-2. qu'elles soient faites par une personne capable de payer;
-3. qu'elles soient de la totalité de la somme exigible, des arrérages ou intérêts dus, des frais liquidés, et d'une somme pour les frais non liquidés, sauf à la parfaire;
-4. que le terme soit échu, s'il a été stipulé en faveur du créancier;
-5. que la condition sous laquelle la dette a été contractée soit arrivée;
-6. que les offres soient faites au lieu dont on est convenu pour le paiement, et que, s'il n'y a pas de convention spéciale sur le lieu du paiement, elles soient faites ou à la personne du créancier, ou à son domicile, ou au domicile élu pour l'exécution de la convention;
-7. que les offres soient faites par un officier ministériel ayant caractère pour ces sortes d'actes.
+1° qu'elles soient faites au créancier ayant la capacité de recevoir, ou à celui qui a pouvoir de recevoir pour lui;
+
+2° qu'elles soient faites par une personne capable de payer;
+
+3° qu'elles soient de la totalité de la somme exigible, des arrérages ou intérêts dus, des frais liquidés, et d'une somme pour les frais non liquidés, sauf à la parfaire;
+
+4° que le terme soit échu, s'il a été stipulé en faveur du créancier;
+
+5° que la condition sous laquelle la dette a été contractée soit arrivée;
+
+6° que les offres soient faites au lieu dont on est convenu pour le paiement, et que, s'il n'y a pas de convention spéciale sur le lieu du paiement, elles soient faites ou à la personne du créancier, ou à son domicile, ou au domicile élu pour l'exécution de la convention;
+
+7° que les offres soient faites par un officier ministériel ayant caractère pour ces sortes d'actes.
 
 **Art. 1259.**
 
 Il n'est pas nécessaire, pour la validité de la consignation, qu'elle ait été autorisée par le juge, il suffit:
 
-1. qu'elle ait été précédée d'une sommation signifiée au créancier, et contenant l'indication du jour, de l'heure et du lieu où la chose offerte sera déposée;
-2. que le débiteur se soit dessaisi de la chose offerte, en la remettant dans le dépôt par la loi pour recevoir les consignations, avec les intérêts jusqu'au jour du dépôt;
-3. qu'il y ait eu procès-verbal dressé par l'officier ministériel, de la nature des espèces offertes, du refus qu'a fait le créancier de les recevoir ou de sa non-comparution, et enfin du dépôt;
-4. qu'en cas de non-comparution de la part du créancier, le procès-verbal du dépôt lui ait été signifié avec sommation de retirer la chose déposée.
+1° qu'elle ait été précédée d'une sommation signifiée au créancier, et contenant l'indication du jour, de l'heure et du lieu où la chose offerte sera déposée;
+
+2° que le débiteur se soit dessaisi de la chose offerte, en la remettant dans le dépôt par la loi pour recevoir les consignations, avec les intérêts jusqu'au jour du dépôt;
+
+3° qu'il y ait eu procès-verbal dressé par l'officier ministériel, de la nature des espèces offertes, du refus qu'a fait le créancier de les recevoir ou de sa non-comparution, et enfin du dépôt;
+
+4° qu'en cas de non-comparution de la part du créancier, le procès-verbal du dépôt lui ait été signifié avec sommation de retirer la chose déposée.
 
 **Art. 1260.**
 
@@ -7476,9 +7569,11 @@ Au surplus, elle ne libère le débiteur que jusqu'à concurrence de la valeur d
 
 La novation s'opère de trois manières:
 
-1. lorsque le débiteur contracte envers son créancier une nouvelle dette qui est substituée à l'ancienne, laquelle est éteinte;
-2. lorsqu'un nouveau débiteur est substitué à l'ancien qui est déchargé par le créancier;
-3. lorsque, par l'effet d'un nouvel engagement, un nouveau créancier est substitué à l'ancien, envers lequel le débiteur se trouve déchargé.
+1° lorsque le débiteur contracte envers son créancier une nouvelle dette qui est substituée à l'ancienne, laquelle est éteinte;
+
+2° lorsqu'un nouveau débiteur est substitué à l'ancien qui est déchargé par le créancier;
+
+3° lorsque, par l'effet d'un nouvel engagement, un nouveau créancier est substitué à l'ancien, envers lequel le débiteur se trouve déchargé.
 
 ###### Art. 1272.
 
@@ -7554,8 +7649,9 @@ La remise de la chose donnée en nantissement ne suffit point pour faire présum
 
 La remise ou décharge conventionnelle accordée au débiteur principal libère les cautions;
 
-- celle accordée à la caution ne libère pas le débiteur principal;
-- celle accordée à l'une des cautions ne libère pas les autres.
+aash celle accordée à la caution ne libère pas le débiteur principal;
+
+bash celle accordée à l'une des cautions ne libère pas les autres.
 
 ###### Art. 1288.
 
@@ -7585,9 +7681,11 @@ Le terme de grâce n'est point un obstacle à la compensation.
 
 La compensation a lieu, quelles que soient les causes de l'une ou l'autre des dettes, excepté dans le cas:
 
-1. de la demande en restitution d'une chose dont le propriétaire a été injustement dépouillé;
-2. de la demande en restitution d'un dépôt et du prêt à usage;
-3. d'une dette qui a pour cause des aliments déclarés insaisissables.
+1° de la demande en restitution d'une chose dont le propriétaire a été injustement dépouillé;
+
+2° de la demande en restitution d'un dépôt et du prêt à usage;
+
+3° d'une dette qui a pour cause des aliments déclarés insaisissables.
 
 ###### Art. 1294.
 
@@ -7719,9 +7817,11 @@ L'acte authentique est celui qui a été reçu par officiers publics ayant le dr
 
 Les titres et actes authentiques ainsi que leurs copies peuvent être dressés sous format électronique dans les conditions et formes fixées par les lois et règlements, sous réserve que :
 
-1. la personne les ayant reçus ou établis puisse être dûment identifiée ;
-2. le procédé technique utilisé pour les établir garantisse l’intégrité de leur contenu à compter du moment où ils ont été créés sous leur forme définitive
-3. le procédé technique utilisé pour les établir permette de les représenter d’une manière intelligible à l’humain.
+1° la personne les ayant reçus ou établis puisse être dûment identifiée ;
+
+2° le procédé technique utilisé pour les établir garantisse l’intégrité de leur contenu à compter du moment où ils ont été créés sous leur forme définitive
+
+3° le procédé technique utilisé pour les établir permette de les représenter d’une manière intelligible à l’humain.
 
 **Art. 1317-2 — ( L. 7 juillet 2023 )**
 
@@ -7809,8 +7909,9 @@ Les livres des marchands font preuve contre eux; mais celui qui en veut tirer av
 
 Les registres et papiers domestiques ne font point un titre pour celui qui les a écrits. Ils font foi contre lui:
 
-1. dans tous les cas où ils énoncent formellement un paiement reçu;
-2. lorsqu'ils contiennent la mention expresse que la note a été faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils énoncent une obligation.
+1° dans tous les cas où ils énoncent formellement un paiement reçu;
+
+2° lorsqu'ils contiennent la mention expresse que la note a été faite pour suppléer le défaut du titre en faveur de celui au profit duquel ils énoncent une obligation.
 
 **Art. 1332.**
 
@@ -7842,20 +7943,25 @@ Une copie ne peut être rejetée par le juge au seul motif qu’elle se présent
 
 Lorsque le titre original n'existe plus, les copies font foi d'après les distinctions suivantes:
 
-1. les grosses ou premières expéditions font la même foi que l'original; il en est de même des copies qui ont été tirées par l'autorité du magistrat, parties présentes ou dûment appelées, ou de celles qui ont été tirées en présence des parties et de leur consentement réciproque
-2. les copies qui, sans l'autorité du magistrat, ou sans le consentement des parties, et depuis la délivrance des grosses ou premières expéditions, auront été tirées sur la minute de l'acte par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, peuvent, au cas de perte de l'original, faire foi quand elles sont anciennes.
+1° les grosses ou premières expéditions font la même foi que l'original; il en est de même des copies qui ont été tirées par l'autorité du magistrat, parties présentes ou dûment appelées, ou de celles qui ont été tirées en présence des parties et de leur consentement réciproque
 
-   - Elles sont considérées comme anciennes quand elles ont plus de trente ans;
-   - si elles ont moins de trente ans, elles ne peuvent servir que de commencement de preuve par écrit;
-3. lorsque les copies tirées sur la minute d'un acte ne l'auront pas été par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, elles ne pourront servir, quelle que soit leur ancienneté, que de commencement de preuve par écrit;
-4. les copies de copies pourront, suivant les circonstances, être considérées comme simples renseignements.
+2° les copies qui, sans l'autorité du magistrat, ou sans le consentement des parties, et depuis la délivrance des grosses ou premières expéditions, auront été tirées sur la minute de l'acte par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, peuvent, au cas de perte de l'original, faire foi quand elles sont anciennes.
+
+aone Elles sont considérées comme anciennes quand elles ont plus de trente ans;
+
+bone si elles ont moins de trente ans, elles ne peuvent servir que de commencement de preuve par écrit;
+
+3° lorsque les copies tirées sur la minute d'un acte ne l'auront pas été par le notaire qui l'a reçu, ou par l'un de ses successeurs, ou par officiers publics qui, en cette qualité, sont dépositaires des minutes, elles ne pourront servir, quelle que soit leur ancienneté, que de commencement de preuve par écrit;
+
+4° les copies de copies pourront, suivant les circonstances, être considérées comme simples renseignements.
 
 **Art. 1336.**
 
 La transcription d'un acte sur les registres publics ne pourra servir que de commencement de preuve par écrit; et il faudra même pour cela:
 
-1. qu'il soit constant que toutes les minutes du notaire, de l'année dans laquelle l'acte paraît avoir été fait, soient perdues, ou que l'on prouve que la perte de la minute de cet acte a été faite par un accident particulier;
-2. qu'il existe un répertoire en règle du notaire, qui constate que l'acte a été fait à la même date.
+1° qu'il soit constant que toutes les minutes du notaire, de l'année dans laquelle l'acte paraît avoir été fait, soient perdues, ou que l'on prouve que la perte de la minute de cet acte a été faite par un accident particulier;
+
+2° qu'il existe un répertoire en règle du notaire, qui constate que l'acte a été fait à la même date.
 
 Lorsqu'au moyen du concours de ces deux circonstances, la preuve par témoins sera admise, il sera nécessaire que ceux qui ont été témoins de l'acte, s'ils existent encore, soient entendus.
 
@@ -7933,10 +8039,13 @@ Les présomptions sont des conséquences que la loi ou le magistrat tire d'un fa
 
 La présomption légale est celle qui est attachée par une loi spéciale à certains actes ou à certains faits: tels sont:
 
-1. les actes que la loi déclare nuls, comme présumés faits en fraude de ses dispositions, d'après leur seule qualité;
-2. les cas dans lesquels la loi déclare la propriété ou la libération résulter de certaines circonstances déterminées;
-3. l'autorité que la loi attribue à la chose jugée;
-4. la force que la loi attache à l'aveu de la partie ou à son serment.
+1° les actes que la loi déclare nuls, comme présumés faits en fraude de ses dispositions, d'après leur seule qualité;
+
+2° les cas dans lesquels la loi déclare la propriété ou la libération résulter de certaines circonstances déterminées;
+
+3° l'autorité que la loi attribue à la chose jugée;
+
+4° la force que la loi attache à l'aveu de la partie ou à son serment.
 
 **Art. 1351.**
 
@@ -7978,8 +8087,9 @@ Il ne peut être révoqué, à moins qu'on ne prouve qu'il a été la suite d'un
 
 Le serment judiciaire est de deux espèces:
 
-1. celui qu'une partie défère à l'autre pour en faire dépendre le jugement de la cause: il est appelé décisoire
-2. celui qui est déféré d'office par le juge à l'une ou l'autre des parties.
+1° celui qu'une partie défère à l'autre pour en faire dépendre le jugement de la cause: il est appelé décisoire
+
+2° celui qui est déféré d'office par le juge à l'une ou l'autre des parties.
 
 ###### Paragraphe Ier — Du serment décisoire
 
@@ -8043,8 +8153,9 @@ Le juge peut déférer à l'une des parties le serment, ou pour en faire dépend
 
 Le juge ne peut déférer d'office le serment, soit sur la demande, soit sur l'exception qui y est opposée, que sous les deux conditions suivantes: il faut:
 
-1. que la demande ou l'exception ne soit pas pleinement justifiée;
-2. qu'elle ne soit pas totalement dénuée de preuves.
+1° que la demande ou l'exception ne soit pas pleinement justifiée;
+
+2° qu'elle ne soit pas totalement dénuée de preuves.
 
 Hors ces deux cas, le juge doit ou adjuger ou rejeter purement et simplement la demande.
 
@@ -8252,9 +8363,11 @@ La communauté qui s'établit à défaut de contrat ou par simple déclaration q
 
 Entrent en communauté du chef de chacun des conjoints
 
-1. les produits de son travail,
-2. les fruits et revenus de ses biens propres, échus ou perçus pendant le mariage,
-3. les biens acquis par lui à titre onéreux pendant la durée du régime.
+1° les produits de son travail,
+
+2° les fruits et revenus de ses biens propres, échus ou perçus pendant le mariage,
+
+3° les biens acquis par lui à titre onéreux pendant la durée du régime.
 
 **Art. 1402.**
 
@@ -8274,10 +8387,13 @@ Forment des propres par leur nature, quand même ils auraient été acquis penda
 
 Sont notamment considérés comme tels:
 
-1. les vêtements et linges à l'usage personnel de l'un des conjoints;
-2. les correspondances, papiers et souvenirs de famille, diplômes et autres biens présentant pour le conjoint un intérêt moral prépondérant par rapport à leur valeur marchande;
-3. les droits de propriété littéraire, artistique ou industrielle, sous la réserve que les produits de leur exploitation tombent en communauté pendant la durée de celle-ci;
-4. les actions en réparation d'un dommage corporel ou moral.
+1° les vêtements et linges à l'usage personnel de l'un des conjoints;
+
+2° les correspondances, papiers et souvenirs de famille, diplômes et autres biens présentant pour le conjoint un intérêt moral prépondérant par rapport à leur valeur marchande;
+
+3° les droits de propriété littéraire, artistique ou industrielle, sous la réserve que les produits de leur exploitation tombent en communauté pendant la durée de celle-ci;
+
+4° les actions en réparation d'un dommage corporel ou moral.
 
 Forment aussi des propres par leur nature, mais sauf récompense s'il y a lieu, les instruments de travail nécessaires à la profession de l'un des conjoints, à moins qu'ils ne soient l'accessoire d'un fonds de commerce ou d'une exploitation faisant partie de la communauté.
 
@@ -8333,9 +8449,11 @@ Toutefois, le créancier a action sur tous les biens communs à l'exception de c
 
 Le paiement des dettes dont un conjoint vient à être tenu pendant la communauté peut être poursuivi sur l'ensemble des biens communs dans les cas suivants:
 
-1. Si l'engagement a été contracté pour l'entretien du ménage ou l'éducation des enfants, conformément à l' article 220;
-2. Si la dette a été contractée en vertu des pouvoirs accordés à chaque conjoint par l' article 1421-1;
-3. Si la dette a été contractée solidairement par les conjoints.
+1° Si l'engagement a été contracté pour l'entretien du ménage ou l'éducation des enfants, conformément à l' article 220;
+
+2° Si la dette a été contractée en vertu des pouvoirs accordés à chaque conjoint par l' article 1421-1;
+
+3° Si la dette a été contractée solidairement par les conjoints.
 
 **Art. 1413.**
 
@@ -8513,14 +8631,17 @@ La garantie de la dot est due par toute personne qui l'a constituée; et ses int
 
 La communauté se dissout:
 
-1. par la mort de l'un des conjoints;
-2. (
+1° par la mort de l'un des conjoints;
 
-   [L. 31 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/31/n6/jo)) par l'absence déclarée;
-3. par le divorce;
-4. par la séparation de corps;
-5. par la séparation de biens;
-6. par le changement du régime matrimonial.
+2° ([L. 31 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/31/n6/jo)) par l'absence déclarée;
+
+3° par le divorce;
+
+4° par la séparation de corps;
+
+5° par la séparation de biens;
+
+6° par le changement du régime matrimonial.
 
 **Art. 1442.**
 
@@ -8712,12 +8833,17 @@ Les conjoints peuvent, dans leur contrat de mariage, modifier la communauté lé
 
 Ils peuvent notamment convenir:
 
-1. que la communauté comprendra les meubles et les acquêts;
-2. qu'il sera dérogé aux règles concernant l'administration;
-3. que l'un des conjoints aura la faculté de prélever certains biens moyennant indemnité;
-4. que l'un des conjoints aura un préciput;
-5. que les conjoints auront des parts inégales;
-6. qu'il y aura entre eux communauté universelle.
+1° que la communauté comprendra les meubles et les acquêts;
+
+2° qu'il sera dérogé aux règles concernant l'administration;
+
+3° que l'un des conjoints aura la faculté de prélever certains biens moyennant indemnité;
+
+4° que l'un des conjoints aura un préciput;
+
+5° que les conjoints auront des parts inégales;
+
+6° qu'il y aura entre eux communauté universelle.
 
 Les règles de la communauté légale restent applicables en tous les points qui n'ont pas fait l'objet de la convention des parties.
 
@@ -9073,10 +9199,13 @@ Abrogé ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/
 
 Ne peuvent se rendre adjudicataires, sous peine de nullité, ni par eux-mêmes ni par des personnes interposées:
 
-- les tuteurs, des biens de ceux dont ils ont la tutelle;
-- les mandataires, des biens qu'ils sont chargés de vendre;
-- les administrateurs, de ceux des communes ou des établissements publics confiés à leurs soins;
-- les officiers publics, des biens nationaux dont les ventes se font par leur ministère.
+aash les tuteurs, des biens de ceux dont ils ont la tutelle;
+
+bash les mandataires, des biens qu'ils sont chargés de vendre;
+
+cash les administrateurs, de ceux des communes ou des établissements publics confiés à leurs soins;
+
+dash les officiers publics, des biens nationaux dont les ventes se font par leur ministère.
 
 ##### Art. 1597.
 
@@ -9134,14 +9263,17 @@ En cas de vente visée à l' [article 1601-4](https://legilux.public.lu/eli/etat
 
 Ils doivent être conclus par acte authentique et prévoir, en dehors des indications exigées par les [articles 8 et 9 de la loi sur la transcription des droits réels immobiliers](https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/jo) :
 
-1. l'identité du propriétaire du terrain et des constructions;
-2. la date de la délivrance des autorisations administratives et les conditions dont elles sont affectées;
-3. la description de l'immeuble ou de la partie d'immeuble vendu et le degré d'achèvement convenu;
-4. son prix et les modalités de paiement de celui-ci;
-5. le délai de livraison;
-6. (
+a) l'identité du propriétaire du terrain et des constructions;
 
-   [L. 8 août 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/08/08/n4/jo)) lorsqu'ils revêtent la forme prévue à l' [article 1601-3](https://legilux.public.lu/eli/etat/leg/code/civil/art_1601-3), la garantie de l'achèvement complet de l'immeuble dans les termes prévus par le contrat ou du remboursement des versements effectués en cas de résolution du contrat à défaut d'achèvement, dans les conditions et avec les modalités à fixer par règlement grand-ducal. Cette garantie n'est pas exigée pour les constructions réalisées directement par l'Etat, les communes, les établissements publics et les sociétés dans lesquelles ces collectivités possèdent une participation majoritaire.
+b) la date de la délivrance des autorisations administratives et les conditions dont elles sont affectées;
+
+c) la description de l'immeuble ou de la partie d'immeuble vendu et le degré d'achèvement convenu;
+
+d) son prix et les modalités de paiement de celui-ci;
+
+e) le délai de livraison;
+
+f) ([L. 8 août 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/08/08/n4/jo)) lorsqu'ils revêtent la forme prévue à l' [article 1601-3](https://legilux.public.lu/eli/etat/leg/code/civil/art_1601-3), la garantie de l'achèvement complet de l'immeuble dans les termes prévus par le contrat ou du remboursement des versements effectués en cas de résolution du contrat à défaut d'achèvement, dans les conditions et avec les modalités à fixer par règlement grand-ducal. Cette garantie n'est pas exigée pour les constructions réalisées directement par l'Etat, les communes, les établissements publics et les sociétés dans lesquelles ces collectivités possèdent une participation majoritaire.
 
 Cette garantie n'est pas non plus exigée pour la construction d'une maison à appartements multiples acquise par un propriétaire unique.
 
@@ -9151,9 +9283,11 @@ Ils doivent encore mentionner si le prix est ou non révisible et, dans l'affirm
 
 Ils doivent en outre comporter en annexe ou par référence à des documents déposés chez un notaire:
 
-1. les plans de construction comprenant au moins les plans des façades, les plans des différents niveaux et un plan-coupe de l'immeuble avec les cotes utiles et l'indication des surfaces de chacune des pièces et des dégagements;
-2. une notice descriptive indiquant la consistance et les caractéristiques techniques de l'immeuble ainsi que les matériaux à employer, les travaux à effectuer et les éléments d'équipement à installer;
-3. lorsqu'il s'agit d'une construction en copropriété, le règlement de copropriété; ce document doit être communiqué préalablement à l'acquéreur et un exemplaire doit lui être remis lors de la signature du contrat.
+a) les plans de construction comprenant au moins les plans des façades, les plans des différents niveaux et un plan-coupe de l'immeuble avec les cotes utiles et l'indication des surfaces de chacune des pièces et des dégagements;
+
+b) une notice descriptive indiquant la consistance et les caractéristiques techniques de l'immeuble ainsi que les matériaux à employer, les travaux à effectuer et les éléments d'équipement à installer;
+
+c) lorsqu'il s'agit d'une construction en copropriété, le règlement de copropriété; ce document doit être communiqué préalablement à l'acquéreur et un exemplaire doit lui être remis lors de la signature du contrat.
 
 L'accomplissement de ces formalités est constaté par une mention à l'acte.
 
@@ -9275,9 +9409,11 @@ L'obligation de délivrer les immeubles est remplie de la part du vendeur lorsqu
 
 La délivrance des effets mobiliers s'opère,
 
-- ou par la tradition réelle,
-- ou par la remise des clefs des bâtiments qui les contiennent,
-- ou même par le seul consentement des parties, si le transport ne peut pas s'en faire au moment de la vente, ou si l'acheteur les avait déjà en son pouvoir à un autre titre.
+aash ou par la tradition réelle,
+
+bash ou par la remise des clefs des bâtiments qui les contiennent,
+
+cash ou même par le seul consentement des parties, si le transport ne peut pas s'en faire au moment de la vente, ou si l'acheteur les avait déjà en son pouvoir à un autre titre.
 
 ###### Art. 1607.
 
@@ -9383,10 +9519,13 @@ Dans le même cas de stipulation de non-garantie, le vendeur, en cas d'éviction
 
 Lorsque la garantie a été promise, ou qu'il n'a rien été stipulé à ce sujet, si l'acquéreur est évincé, il a droit de demander contre le vendeur:
 
-1. la restitution du prix;
-2. celle des fruits, lorsqu'il est obligé de les rendre au propriétaire qui l'évince;
-3. les frais faits sur la demande en garantie de l'acheteur, et ceux faits par le demandeur originaire;
-4. enfin les dommages et intérêts, ainsi que les frais et loyaux coûts du contrat.
+1° la restitution du prix;
+
+2° celle des fruits, lorsqu'il est obligé de les rendre au propriétaire qui l'évince;
+
+3° les frais faits sur la demande en garantie de l'acheteur, et ceux faits par le demandeur originaire;
+
+4° enfin les dommages et intérêts, ainsi que les frais et loyaux coûts du contrat.
 
 **Art. 1631.**
 
@@ -9508,9 +9647,11 @@ S'il n'a rien été réglé à cet égard lors de la vente, l'acheteur doit paye
 
 L'acheteur doit l'intérêt du prix de la vente jusqu'au paiement du capital, dans les trois cas suivants:
 
-- s'il a été ainsi convenu lors de la vente;
-- si la chose vendue et livrée produit des fruits ou autres revenus;
-- si l'acheteur a été sommé de payer.
+aash s'il a été ainsi convenu lors de la vente;
+
+bash si la chose vendue et livrée produit des fruits ou autres revenus;
+
+cash si l'acheteur a été sommé de payer.
 
 Dans ce dernier cas, l'intérêt ne court que depuis la sommation.
 
@@ -9748,9 +9889,11 @@ La chose est censée litigieuse dès qu'il y a procès et contestation sur le fo
 
 La disposition portée en l' [article 1699](https://legilux.public.lu/eli/etat/leg/code/civil/art_1699) cesse:
 
-1. dans le cas où la cession a été faite à un cohéritier ou copropriétaire du droit cédé;
-2. lorsqu'elle a été faite à un créancier en paiement de ce qui lui est dû;
-3. lorsqu'elle a été faite au possesseur de l'héritage sujet au droit litigieux.
+1° dans le cas où la cession a été faite à un cohéritier ou copropriétaire du droit cédé;
+
+2° lorsqu'elle a été faite à un créancier en paiement de ce qui lui est dû;
+
+3° lorsqu'elle a été faite au possesseur de l'héritage sujet au droit litigieux.
 
 ### TITRE VII — De l'échange (Décrété le 7 mars 1804. Promulgué le 17 du même mois.)
 
@@ -9786,8 +9929,9 @@ Toutes les autres règles prescrites pour le contrat de vente s'appliquent d'ail
 
 Il y a deux sortes de contrats de louage:
 
-- celui des choses,
-- et celui d'ouvrage.
+aash celui des choses,
+
+bash et celui d'ouvrage.
 
 ##### Art. 1709.
 
@@ -9801,10 +9945,13 @@ Le louage d'ouvrage est un contrat par lequel l'une des parties s'engage à fair
 
 Ces deux genres de louage se subdivisent encore en plusieurs espèces particulières:
 
-- On appelle bail à loyer, le louage des maisons et celui des meubles;
-- bail à ferme, celui des héritages ruraux;
-- loyer, le louage du travail ou du service;
-- bail à cheptel, celui des animaux dont le profit se partage entre le propriétaire et celui à qui il les confie.
+aash On appelle bail à loyer, le louage des maisons et celui des meubles;
+
+bash bail à ferme, celui des héritages ruraux;
+
+cash loyer, le louage du travail ou du service;
+
+dash bail à cheptel, celui des animaux dont le profit se partage entre le propriétaire et celui à qui il les confie.
 
 Les devis, marché ou prix fait, pour l'entreprise d'un ouvrage moyennant un prix déterminé, sont aussi un louage, lorsque la matière est fournie par celui pour qui l'ouvrage se fait.
 
@@ -9852,9 +9999,11 @@ Cette clause est toujours de rigueur.
 
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière:
 
-1. de délivrer au preneur la chose louée;
-2. d'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée;
-3. d'en faire jouir paisiblement le preneur pendant la durée du bail.
+1° de délivrer au preneur la chose louée;
+
+2° d'entretenir cette chose en état de servir à l'usage pour lequel elle a été louée;
+
+3° d'en faire jouir paisiblement le preneur pendant la durée du bail.
 
 ###### Art. 1720.
 
@@ -9900,8 +10049,9 @@ Si ceux qui ont commis les voies de fait, prétendent avoir quelque droit sur la
 
 Le preneur est tenu de deux obligations principales:
 
-1. d'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant celle présumée d'après les circonstances, à défaut de convention;
-2. de payer le prix du bail aux termes convenus.
+1° d'user de la chose louée en bon père de famille, et suivant la destination qui lui a été donnée par le bail, ou suivant celle présumée d'après les circonstances, à défaut de convention;
+
+2° de payer le prix du bail aux termes convenus.
 
 ###### Art. 1729.
 
@@ -10115,8 +10265,9 @@ La résiliation est notifiée par lettre recommandée à la poste avec avis de r
 
 Le sursis, unique, ne pourra pas dépasser neuf mois et ne peut être accordé qu’aux conditions cumulatives suivantes :
 
-1. tous les loyers et avances sur charges échus ont été réglés au jour de l’introduction de la demande ; et,
-2. le sursis est accordé dans le but de permettre au requérant de trouver un autre immeuble en vue de poursuivre son activité et de répondre à ses obligations découlant des contrats de travail avec les salariés.
+1\. tous les loyers et avances sur charges échus ont été réglés au jour de l’introduction de la demande ; et,
+
+2\. le sursis est accordé dans le but de permettre au requérant de trouver un autre immeuble en vue de poursuivre son activité et de répondre à ses obligations découlant des contrats de travail avec les salariés.
 
 La décision autorisant le sursis au déguerpissement forcé du locataire ne sera pas susceptible d’opposition ou d’appel.
 
@@ -10136,18 +10287,19 @@ S’il y a plusieurs bailleurs, la demande devra être adressée à chacun d’e
 
 Le bailleur peut résilier le bail avec le préavis prévu à l’article 1762-7, ou en refuser le renouvellement :
 
-1. aux fins d’occupation personnelle par le bailleur ou par ses descendants au 1
+1\. aux fins d’occupation personnelle par le bailleur ou par ses descendants au 1 <sup>er</sup> degré ;
 
-   <sup>er</sup> degré ;
-2. en cas d’abandon de toute location aux fins d’activité identique ;
-3. en cas de reconstruction ou de transformation de l’immeuble loué.
+2\. en cas d’abandon de toute location aux fins d’activité identique ;
+
+3\. en cas de reconstruction ou de transformation de l’immeuble loué.
 
 ###### Art. 1762-12 — ([L. 3 février 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/02/03/a110/jo))
 
 (1) Le bailleur peut toujours, au terme d’une durée de neuf années au moins d’occupation des lieux loués, résilier le bail, ou en refuser le renouvellement, sans devoir fournir de justification :
 
-1. si le bailleur verse, avant la fin du bail au preneur une indemnité d’éviction ; ou
-2. si un tiers verse l’indemnité d’éviction avant la fin du bail.
+1\. si le bailleur verse, avant la fin du bail au preneur une indemnité d’éviction ; ou
+
+2\. si un tiers verse l’indemnité d’éviction avant la fin du bail.
 
 (2) À défaut de clause dans le contrat de bail permettant de déterminer le montant de l’indemnité d’éviction, les parties peuvent saisir le juge de paix qui fixera alors le montant de l’indemnité d’éviction sur base de la valeur marchande du fonds de commerce pour l’activité en question.
 
@@ -10253,11 +10405,11 @@ Le fermier sortant doit aussi laisser les pailles et engrais de l'année, s'il l
 
 Il y a trois espèces principales de louage d'ouvrage et d'industrie:
 
-1. le louage des gens de travail qui s'engagent au service de quelqu'un;
-2. celui des voitures, tant par terre que par eau, qui se chargent du transport des personnes ou des marchandises;
-3. (
+1° le louage des gens de travail qui s'engagent au service de quelqu'un;
 
-   [L. 28 décembre 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/12/28/n1/jo)) celui des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés.
+2° celui des voitures, tant par terre que par eau, qui se chargent du transport des personnes ou des marchandises;
+
+3° ([L. 28 décembre 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/12/28/n1/jo)) celui des architectes, entrepreneurs d'ouvrages et techniciens par suite d'études, devis ou marchés.
 
 ##### Section Ire — Du louage de domestiques et ouvriers
 
@@ -10359,9 +10511,11 @@ Le bail à cheptel est un contrat par lequel l'une des parties donne à l'autre 
 
 Il y a plusieurs sortes de cheptels:
 
-- le cheptel simple ou ordinaire;
-- le cheptel à moitié;
-- le cheptel donné au fermier ou au colon partiaire.
+aash le cheptel simple ou ordinaire;
+
+bash le cheptel à moitié;
+
+cash le cheptel donné au fermier ou au colon partiaire.
 
 Il y a encore une quatrième espèce de contrat improprement appelée cheptel.
 
@@ -10633,12 +10787,13 @@ Un associé a action contre la société, non seulement à raison des sommes qu'
 
 ([L. 10 août 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/08/10)) Sauf dispositions contraires des statuts, si un titre est grevé d’un usufruit notifié à la société ou accepté par elle en conformité avec les dispositions de l’article 1690:
 
-1. le droit de vote appartient au nu-propriétaire, à l’exception des décisions concernant l’affectation des bénéfices où il est réservé à l’usufruitier, et
-2. l’usufruitier a droit au bénéfice que la société décide de distribuer.
+1° le droit de vote appartient au nu-propriétaire, à l’exception des décisions concernant l’affectation des bénéfices où il est réservé à l’usufruitier, et
 
-   En cas de rachat par la société de ses propres titres, le nu-propriétaire et l’usufruitier ont respectivement droit à la valeur de la nue-propriété et de l’usufruit portant sur ces titres.
+2° l’usufruitier a droit au bénéfice que la société décide de distribuer.
 
-   Lors de la dissolution de la société, l’usufruitier a droit au quasi-usufruit exercé conformément à l'article 587 sur les sommes versées au nu-propriétaire ou sur la valeur des biens qui lui ont été remis.
+En cas de rachat par la société de ses propres titres, le nu-propriétaire et l’usufruitier ont respectivement droit à la valeur de la nue-propriété et de l’usufruit portant sur ces titres.
+
+Lors de la dissolution de la société, l’usufruitier a droit au quasi-usufruit exercé conformément à l'article 587 sur les sommes versées au nu-propriétaire ou sur la valeur des biens qui lui ont été remis.
 
 ###### Art. 1853.
 
@@ -10680,10 +10835,13 @@ S'il a été stipulé que l'un des administrateurs ne pourra rien faire sans l'a
 
 A défaut de stipulations spéciales sur le mode d'administration, l'on suit les règles suivantes:
 
-1. Les associés sont censés s'être donné réciproquement le pouvoir d'administrer l'un pour l'autre. Ce que chacun fait est valable même pour la part de ses associés, sans qu'il ait pris leur consentement; sauf le droit qu'ont ces derniers, ou l'un d'eux, de s'opposer à l'opération avant qu'elle soit conclue.
-2. Chaque associé peut se servir des choses appartenant à la société, pourvu qu'il les emploie à leur destination fixée par l'usage, et qu'il ne s'en serve pas contre l'intérêt de la société, ou de manière à empêcher ses associés d'en user selon leur droit.
-3. Chaque associé a le droit d'obliger ses associés à faire avec lui les dépenses qui sont nécessaires pour la conservation des choses de la société.
-4. L'un des associés ne peut faire d'innovations sur les immeubles dépendant de la société, même quand il les soutiendrait avantageuses à cette société, si les autres associés n'y consentent.
+1° Les associés sont censés s'être donné réciproquement le pouvoir d'administrer l'un pour l'autre. Ce que chacun fait est valable même pour la part de ses associés, sans qu'il ait pris leur consentement; sauf le droit qu'ont ces derniers, ou l'un d'eux, de s'opposer à l'opération avant qu'elle soit conclue.
+
+2° Chaque associé peut se servir des choses appartenant à la société, pourvu qu'il les emploie à leur destination fixée par l'usage, et qu'il ne s'en serve pas contre l'intérêt de la société, ou de manière à empêcher ses associés d'en user selon leur droit.
+
+3° Chaque associé a le droit d'obliger ses associés à faire avec lui les dépenses qui sont nécessaires pour la conservation des choses de la société.
+
+4° L'un des associés ne peut faire d'innovations sur les immeubles dépendant de la société, même quand il les soutiendrait avantageuses à cette société, si les autres associés n'y consentent.
 
 ###### Art. 1860.
 
@@ -10713,11 +10871,15 @@ La stipulation que l'obligation est contractée pour le compte de la société n
 
 La société finit:
 
-1. par l'expiration du temps pour lequel elle a été contractée;
-2. par l'extinction de la chose, ou la consommation de la négociation;
-3. par la mort naturelle de quelqu'un des associés;
-4. par....., l'interdiction ou la déconfiture de l'un d'eux;
-5. par la volonté qu'un seul ou plusieurs expriment de n'être plus en société.
+1° par l'expiration du temps pour lequel elle a été contractée;
+
+2° par l'extinction de la chose, ou la consommation de la négociation;
+
+3° par la mort naturelle de quelqu'un des associés;
+
+4° par....., l'interdiction ou la déconfiture de l'un d'eux;
+
+5° par la volonté qu'un seul ou plusieurs expriment de n'être plus en société.
 
 ##### Art. 1865bis.
 
@@ -10967,8 +11129,9 @@ Les parties peuvent seulement convenir que le rachat ne sera pas fait avant un d
 
 Le débiteur d'une rente constituée en perpétuel peut être contraint au rachat:
 
-1. s'il cesse de remplir ses obligations pendant deux années;
-2. s'il manque à fournir au prêteur les sûretés promises par le contrat.
+1° s'il cesse de remplir ses obligations pendant deux années;
+
+2° s'il manque à fournir au prêteur les sûretés promises par le contrat.
 
 ##### Art. 1913.
 
@@ -11050,10 +11213,13 @@ Le dépositaire doit apporter, dans la garde de la chose déposée, les mêmes s
 
 La disposition de l' article précédent doit être appliquée avec plus de rigueur:
 
-1. si le dépositaire s'est offert lui-même pour recevoir le dépôt;
-2. s'il a stipulé un salaire pour la garde du dépôt;
-3. si le dépôt a été fait uniquement pour l'intérêt du dépositaire;
-4. s'il a été convenu expressément que le dépositaire répondrait de toute espèce de faute.
+1° si le dépositaire s'est offert lui-même pour recevoir le dépôt;
+
+2° s'il a stipulé un salaire pour la garde du dépôt;
+
+3° si le dépôt a été fait uniquement pour l'intérêt du dépositaire;
+
+4° s'il a été convenu expressément que le dépositaire répondrait de toute espèce de faute.
 
 ###### Art. 1929.
 
@@ -11167,9 +11333,11 @@ Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemmen
 
 Sont considérés comme apportés à l'hôtel:
 
-1. les objets qui s'y trouvent pendant le temps où le voyageur dispose du logement;
-2. les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, hors de l'hôtel, pendant la période où le voyageur dispose du logement;
-3. les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, soit à l'hôtel, soit hors de l'hôtel, pendant une période d'une durée raisonnable, précédant ou suivant celle où le voyageur dispose du logement.
+a) les objets qui s'y trouvent pendant le temps où le voyageur dispose du logement;
+
+b) les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, hors de l'hôtel, pendant la période où le voyageur dispose du logement;
+
+c) les objets dont l'hôtelier ou une personne lui prêtant ses services assume la surveillance, soit à l'hôtel, soit hors de l'hôtel, pendant une période d'une durée raisonnable, précédant ou suivant celle où le voyageur dispose du logement.
 
 La responsabilité visée au présent article est limitée par sinistre à cent fois le prix de location du logement par journée. Un règlement grand-ducal peut fixer les éléments permettant de déterminer ce prix.
 
@@ -11177,9 +11345,11 @@ La responsabilité visée au présent article est limitée par sinistre à cent 
 
 ([L. 7 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/07/n1/jo)) La responsabilité de l'hôtelier est illimitée:
 
-1. lorsque les objets ont été déposés entre ses mains ou entre celles de personnes lui prêtant leurs services;
-2. lorsqu'il a refusé de recevoir en dépôt des objets qu'il est obligé d'accepter;
-3. lorsque la détérioration, la destruction ou la soustraction des objets visés à l' article 1952 est due à sa faute ou à celle de personnes lui prêtant leurs services.
+a) lorsque les objets ont été déposés entre ses mains ou entre celles de personnes lui prêtant leurs services;
+
+b) lorsqu'il a refusé de recevoir en dépôt des objets qu'il est obligé d'accepter;
+
+c) lorsque la détérioration, la destruction ou la soustraction des objets visés à l' article 1952 est due à sa faute ou à celle de personnes lui prêtant leurs services.
 
 L'hôtelier est obligé d'accepter en dépôt les papiers-valeurs, les espèces monnayées et les objets de valeur; il ne peut les refuser que s'ils sont dangereux ou si, relativement à l'importance ou aux conditions d'exploitation de l'hôtel, ils sont d'une valeur marchande excessive ou d'une nature encombrante.
 
@@ -11189,9 +11359,11 @@ Il peut exiger que l'objet qui lui est confié soit contenu dans un emballage fe
 
 ([L. 7 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/07/n1/jo)) L'hôtelier n'est pas responsable pour autant que la détérioration, la destruction ou la soustraction est due:
 
-1. au voyageur ou aux personnes qui l'accompagnent, sont à son service ou lui rendent visite;
-2. a une force majeure;
-3. à la nature de l'objet.
+a) au voyageur ou aux personnes qui l'accompagnent, sont à son service ou lui rendent visite;
+
+b) a une force majeure;
+
+c) à la nature de l'objet.
 
 ###### Art. 1954-1.
 
@@ -11243,9 +11415,11 @@ Le dépositaire chargé du séquestre ne peut être déchargé avant la contesta
 
 La justice peut ordonner le séquestre:
 
-1. des meubles saisis sur un débiteur;
-2. d'un immeuble ou d'une chose mobilière dont la propriété ou la possession est litigieuse entre deux ou plusieurs personnes;
-3. des choses qu'un débiteur offre pour sa libération.
+1° des meubles saisis sur un débiteur;
+
+2° d'un immeuble ou d'une chose mobilière dont la propriété ou la possession est litigieuse entre deux ou plusieurs personnes;
+
+3° des choses qu'un débiteur offre pour sa libération.
 
 ###### Art. 1962.
 
@@ -11269,9 +11443,11 @@ Le contrat aléatoire est une convention réciproque dont les effets, quant aux 
 
 Tels sont:
 
-- le contrat d'assurance;
-- le prêt à grosse aventure; le jeu et le pari;
-- le contrat de rente viagère.
+aash le contrat d'assurance;
+
+bash le prêt à grosse aventure; le jeu et le pari;
+
+cash le contrat de rente viagère.
 
 Les deux premiers sont régis par les lois maritimes.
 
@@ -11427,8 +11603,9 @@ Tout mandataire est tenu de rendre compte de sa gestion, et de faire raison au m
 
 Le mandataire répond de celui qu'il s'est substitué dans la gestion:
 
-1. quand il n'a pas reçu le pouvoir de se substituer quelqu'un;
-2. quand ce pouvoir lui a été conféré sans désignation d'une personne, et que celle dont il a fait choix était notoirement incapable ou insolvable.
+1° quand il n'a pas reçu le pouvoir de se substituer quelqu'un;
+
+2° quand ce pouvoir lui a été conféré sans désignation d'une personne, et que celle dont il a fait choix était notoirement incapable ou insolvable.
 
 Dans tous les cas, le mandant peut agir directement contre la personne que le mandataire s'est substituée.
 
@@ -11630,11 +11807,15 @@ Lorsque la caution aura payé sans être poursuivie et sans avoir averti le déb
 
 La caution, même avant d'avoir payé, peut agir contre le débiteur pour être par lui indemnisée:
 
-1. lorsqu'elle est poursuivie en justice pour le paiement;
-2. lorsque le débiteur a fait faillite, ou est en déconfiture;
-3. lorsque le débiteur s'est obligé de lui rapporter sa décharge dans un certain temps;
-4. lorsque la dette est devenue exigible par l'échéance du terme sous lequel elle avait été contractée;
-5. au bout de dix années, lorsque l'obligation principale n'a point de terme fixe d'échéance, à moins que l'obligation principale, telle qu'une tutelle, ne soit pas de nature à pouvoir être éteinte avant un temps déterminé.
+1° lorsqu'elle est poursuivie en justice pour le paiement;
+
+2° lorsque le débiteur a fait faillite, ou est en déconfiture;
+
+3° lorsque le débiteur s'est obligé de lui rapporter sa décharge dans un certain temps;
+
+4° lorsque la dette est devenue exigible par l'échéance du terme sous lequel elle avait été contractée;
+
+5° au bout de dix années, lorsque l'obligation principale n'a point de terme fixe d'échéance, à moins que l'obligation principale, telle qu'une tutelle, ne soit pas de nature à pouvoir être éteinte avant un temps déterminé.
 
 ##### Section III — De l'effet du cautionnement entre les cofidéjusseurs
 
@@ -11992,14 +12173,17 @@ Les privilèges sont ou généraux ou particuliers sur certains meubles.
 
 (1) Les créances privilégiées sur la généralité des meubles sont celles ci-après exprimées, et s'exercent dans l'ordre suivant:
 
-1. les frais de justice;
-2. les frais funéraires;
-3. les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, pendant un an, concurremment entre ceux à qui ils sont dus;
-4. les salaires, traitements et indemnités résultant du contrat de travail se rapportant aux six derniers mois de travail ainsi que les créances d'indemnités de toute nature résultant de la rupture du contrat de travail ou du contrat d'apprentissage pour le solde non couvert par le superprivilège visé au paragraphe (2) du présent article;
-5. (
+1° les frais de justice;
 
-   [L. du 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) les créances résultant de la liquidation du compte épargne-temps.
-6. les fournitures de subsistance faites au débiteur et à sa famille; à savoir, pendant les six derniers mois, par les marchands en détail, tels que boulangers, bouchers et autres, et pendant la dernière année, par les maîtres de pension et marchands en gros.
+2° les frais funéraires;
+
+3° les frais quelconques de la dernière maladie, quelle qu'en ait été la terminaison, pendant un an, concurremment entre ceux à qui ils sont dus;
+
+4° les salaires, traitements et indemnités résultant du contrat de travail se rapportant aux six derniers mois de travail ainsi que les créances d'indemnités de toute nature résultant de la rupture du contrat de travail ou du contrat d'apprentissage pour le solde non couvert par le superprivilège visé au paragraphe (2) du présent article;
+
+4bis ([L. du 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) les créances résultant de la liquidation du compte épargne-temps.
+
+5° les fournitures de subsistance faites au débiteur et à sa famille; à savoir, pendant les six derniers mois, par les marchands en détail, tels que boulangers, bouchers et autres, et pendant la dernière année, par les maîtres de pension et marchands en gros.
 
 (2) Les créances de salaires, de traitements et d'indemnités se rapportant aux six derniers mois de travail et les créances du salarié portant sur des indemnités de toute nature résultant de la rupture du contrat de travail ou du contrat d'apprentissage s'exercent et doivent être payées avant toute autre créance privilégiée y comprises celles garanties par le privilège du trésor et des autres titulaires de ce privilège, jusqu'à concurrence d'un plafond égal au sextuple du salaire social minimum de référence.
 
@@ -12013,30 +12197,35 @@ Un règlement grand-ducal pris sur avis du Conseil d'Etat et de l'assentiment de
 
 Les créances privilégiées sur certains meubles sont:
 
-1. les loyers et fermages des immeubles, sur les fruits de la récolte de l'année, et sur le prix de tout ce qui garnit la maison louée ou la ferme, et de tout ce qui sert à l'exploitation de la ferme; savoir, pour tout ce qui est échu, et pour tout ce qui est à échoir, si les baux sont authentiques, ou si, étant sous signature privée, ils ont une date certaine; et, dans ces deux cas, les autres créanciers ont le droit de relouer la maison ou la ferme pour le restant du bail, et de faire leur profit des baux ou fermages, à la charge toutefois de payer au propriétaire tout ce qui lui serait encore dû;
+1° les loyers et fermages des immeubles, sur les fruits de la récolte de l'année, et sur le prix de tout ce qui garnit la maison louée ou la ferme, et de tout ce qui sert à l'exploitation de la ferme; savoir, pour tout ce qui est échu, et pour tout ce qui est à échoir, si les baux sont authentiques, ou si, étant sous signature privée, ils ont une date certaine; et, dans ces deux cas, les autres créanciers ont le droit de relouer la maison ou la ferme pour le restant du bail, et de faire leur profit des baux ou fermages, à la charge toutefois de payer au propriétaire tout ce qui lui serait encore dû;
 
-   Et, à défaut de baux authentiques, ou lorsqu'étant sous signature privée, ils n'ont pas une date certaine, pour une année à partir de l'expiration de l'année courante;
+Et, à défaut de baux authentiques, ou lorsqu'étant sous signature privée, ils n'ont pas une date certaine, pour une année à partir de l'expiration de l'année courante;
 
-   Le même privilège a lieu pour les réparations locatives, et pour tout ce qui concerne l'exécution du bail;
+Le même privilège a lieu pour les réparations locatives, et pour tout ce qui concerne l'exécution du bail;
 
-   Néanmoins les sommes dues pour les semences ou pour les frais de la récolte de l'année, sont payées sur le prix de la récolte, et celles dues pour ustensiles, sur le prix de ces ustensiles, par préférence au propriétaire, dans l'un et l'autre cas;
+Néanmoins les sommes dues pour les semences ou pour les frais de la récolte de l'année, sont payées sur le prix de la récolte, et celles dues pour ustensiles, sur le prix de ces ustensiles, par préférence au propriétaire, dans l'un et l'autre cas;
 
-   Le propriétaire peut saisir les meubles qui garnissent sa maison ou sa ferme, lorsqu'ils ont été déplacés sans son consentement, et il conserve sur eux son privilège, pourvu qu'il ait fait la revendication; savoir, lorsqu'il s'agit du mobilier qui garnissait une ferme, dans le délai de quarante jours, et dans celui de quinzaine, s'il s'agit des meubles garnissant une maison;
-2. la créance sur le gage dont le créancier est saisi;
-3. les frais fait pour la conservation de la chose;
-4. le prix d'effets mobiliers non payés, s'ils sont encore en la possession du débiteur, soit qu'il ait acheté à terme ou sans terme.
+Le propriétaire peut saisir les meubles qui garnissent sa maison ou sa ferme, lorsqu'ils ont été déplacés sans son consentement, et il conserve sur eux son privilège, pourvu qu'il ait fait la revendication; savoir, lorsqu'il s'agit du mobilier qui garnissait une ferme, dans le délai de quarante jours, et dans celui de quinzaine, s'il s'agit des meubles garnissant une maison;
 
-   Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de l'acheteur, et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison, et que les effets se trouvent dans le même état dans lequel cette livraison a été faite;
+2° la créance sur le gage dont le créancier est saisi;
 
-   Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison ou de la ferme, à moins qu'il ne soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison ou sa ferme n'appartenaient pas au locataire;
+3° les frais fait pour la conservation de la chose;
 
-   Il n'est rien innové aux lois et usages du commerce sur la revendication;
-5. les fournitures d'un aubergiste, sur les effets du voyageur qui ont été transportés dans son auberge;
-6. les frais de voiture et les dépenses accessoires, sur la chose voiturée;
-7. Les créances résultant d'abus et prévarications commis par les fonctionnaires publics dans l'exercice de leurs fonctions, sur les fonds de leur cautionnement, et sur les intérêts qui en peuvent être dus;
-8. (
+4° le prix d'effets mobiliers non payés, s'ils sont encore en la possession du débiteur, soit qu'il ait acheté à terme ou sans terme.
 
-   [L. du 10 juin 1932](https://legilux.public.lu/eli/etat/leg/loi/1932/06/10/n1/jo)) ([L. du 7 avril 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/04/07/n1/jo)) Les créances nées d'un accident au profit des tiers lésés par cet accident ou de leurs ayants droit, sur l'indemnité dont l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention d'assurance.
+Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de l'acheteur, et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison, et que les effets se trouvent dans le même état dans lequel cette livraison a été faite;
+
+Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison ou de la ferme, à moins qu'il ne soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison ou sa ferme n'appartenaient pas au locataire;
+
+Il n'est rien innové aux lois et usages du commerce sur la revendication;
+
+5° les fournitures d'un aubergiste, sur les effets du voyageur qui ont été transportés dans son auberge;
+
+6° les frais de voiture et les dépenses accessoires, sur la chose voiturée;
+
+7° Les créances résultant d'abus et prévarications commis par les fonctionnaires publics dans l'exercice de leurs fonctions, sur les fonds de leur cautionnement, et sur les intérêts qui en peuvent être dus;
+
+8° ([L. du 10 juin 1932](https://legilux.public.lu/eli/etat/leg/loi/1932/06/10/n1/jo)) ([L. du 7 avril 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/04/07/n1/jo)) Les créances nées d'un accident au profit des tiers lésés par cet accident ou de leurs ayants droit, sur l'indemnité dont l'assureur de la responsabilité civile se reconnaît ou a été judiciairement reconnu débiteur à raison de la convention d'assurance.
 
 Aucun paiement fait à l'assuré ne sera libératoire tant que les créanciers privilégiés n'auront pas été désintéressés.
 
@@ -12048,17 +12237,19 @@ Ce privilège ne sera primé par aucun autre privilège général ou spécial, y
 
 Les créanciers privilégiés sur les immeubles sont:
 
-1. le vendeur sur l'immeuble vendu, pour paiement du prix.
+1° le vendeur sur l'immeuble vendu, pour paiement du prix.
 
-   S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le deuxième au troisième, et ainsi de suite.
-2. ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi, et, par la quittance du vendeur, que ce paiement a été fait des deniers empruntés.
-3. (
+S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le deuxième au troisième, et ainsi de suite.
 
-   [L. 13 juin 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/06/13/n2/jo)) les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux et des soultes ou retour de lots; pour la garantie des indemnités dues en application de l'article 924-3les immeubles donnés ou légués sont assimilés aux immeubles de la succession.
-4. les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de première instance dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient été, dans les six mois au plus tard de leur perfection reçus par un expert également nommé d'office.
+2° ceux qui ont fourni les deniers pour l'acquisition d'un immeuble, pourvu qu'il soit authentiquement constaté, par l'acte d'emprunt, que la somme était destinée à cet emploi, et, par la quittance du vendeur, que ce paiement a été fait des deniers empruntés.
 
-   Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits.
-5. ceux qui ont prêté les deniers pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble.
+3° ([L. 13 juin 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/06/13/n2/jo)) les cohéritiers, sur les immeubles de la succession, pour la garantie des partages faits entre eux et des soultes ou retour de lots; pour la garantie des indemnités dues en application de l'article 924-3les immeubles donnés ou légués sont assimilés aux immeubles de la succession.
+
+4° les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages quelconques, pourvu néanmoins que, par un expert nommé d'office par le tribunal de première instance dans le ressort duquel les bâtiments sont situés, il ait été dressé préalablement un procès-verbal, à l'effet de constater l'état des lieux relativement aux ouvrages que le propriétaire déclarera avoir dessein de faire, et que les ouvrages aient été, dans les six mois au plus tard de leur perfection reçus par un expert également nommé d'office.
+
+Mais le montant du privilège ne peut excéder les valeurs constatées par le second procès-verbal, et il se réduit à la plus-value existante à l'époque de l'aliénation de l'immeuble et résultant des travaux qui y ont été faits.
+
+5° ceux qui ont prêté les deniers pour payer ou rembourser les ouvriers, jouissent du même privilège, pourvu que cet emploi soit authentiquement constaté par l'acte d'emprunt, et par la quittance des ouvriers, ainsi qu'il a été dit ci-dessus pour ceux qui ont prêté les deniers pour l'acquisition d'un immeuble.
 
 ##### Section III — Des privilèges qui s'étendent sur les meubles et les immeubles
 
@@ -12070,8 +12261,9 @@ Les privilèges qui s'étendent sur les meubles et les immeubles sont ceux énon
 
 Lorsqu'à défaut de mobilier les privilégiés énoncés en l' article précédent se présentent pour être payés sur le prix d'un immeuble en concurrence avec les créanciers privilégiés sur l'immeuble, les paiements se font dans l'ordre qui suit:
 
-1. les frais de justice et autres énoncés en l' article 2101;
-2. les créances désignées en l' article 2103.
+1° les frais de justice et autres énoncés en l' article 2101;
+
+2° les créances désignées en l' article 2103.
 
 ##### Section IV — Comment se conservent les privilèges
 
@@ -12095,8 +12287,9 @@ Le vendeur privilégié conserve son privilège par la transcription du titre qu
 
 Les architectes, entrepreneurs, maçons et autres ouvriers employés pour édifier, reconstruire ou réparer des bâtiments, canaux, ou autres ouvrages et ceux qui ont, pour les payer et rembourser, prêté les deniers dont l'emploi a été constaté, conservent, par la double inscription faite,
 
-1. du procès-verbal qui constate l'état des lieux,
-2. du procès-verbal de réception,
+1° du procès-verbal qui constate l'état des lieux,
+
+2° du procès-verbal de réception,
 
 leur privilège à la date de l'inscription du premier procès-verbal.
 
@@ -12144,8 +12337,9 @@ L'hypothèque conventionnelle est celle qui dépend des conventions et de la for
 
 Sont seuls susceptibles d'hypothèques:
 
-1. les biens immobiliers qui sont dans le commerce, et leurs accessoires réputés immeubles;
-2. l'usufruit des mêmes biens et accessoires pendant le temps de sa durée.
+1° les biens immobiliers qui sont dans le commerce, et leurs accessoires réputés immeubles;
+
+2° l'usufruit des mêmes biens et accessoires pendant le temps de sa durée.
 
 ##### Art. 2119.
 
@@ -12255,11 +12449,15 @@ Pour opérer l'inscription, le créancier représente, soit par lui-même, soit 
 
 Il y joint deux bordereaux écrits sur papier timbré, dont l'un peut être porté sur l'expédition du titre; ils contiennent:
 
-1. les nom, prénom, domicile du créancier, sa profession, s'il, en a une, et l'élection d'un domicile pour lui dans un lieu quelconque de l'arrondissement du bureau;
-2. les nom, prénom, domicile du débiteur, sa profession, s'il en a une connue, ou une désignation individuelle et spéciale, telle que le conservateur puisse reconnaître et distinguer dans tous les cas l'individu grevé d'hypothèque;
-3. la date et la nature du titre;
-4. le montant du capital des créances exprimées dans le titre, ou évaluées par l'inscrivant, pour les rentes et prestations, ou pour les droits éventuels, conditionnels ou indéterminés, dans les cas où cette évaluation est ordonnée; comme aussi le montant des accessoires de ces capitaux, et l'époque de l'exigibilité;
-5. l'indication de l'espèce et de la situation des biens sur lesquels il entend conserver son privilège ou son hypothèque.
+1° les nom, prénom, domicile du créancier, sa profession, s'il, en a une, et l'élection d'un domicile pour lui dans un lieu quelconque de l'arrondissement du bureau;
+
+2° les nom, prénom, domicile du débiteur, sa profession, s'il en a une connue, ou une désignation individuelle et spéciale, telle que le conservateur puisse reconnaître et distinguer dans tous les cas l'individu grevé d'hypothèque;
+
+3° la date et la nature du titre;
+
+4° le montant du capital des créances exprimées dans le titre, ou évaluées par l'inscrivant, pour les rentes et prestations, ou pour les droits éventuels, conditionnels ou indéterminés, dans les cas où cette évaluation est ordonnée; comme aussi le montant des accessoires de ces capitaux, et l'époque de l'exigibilité;
+
+5° l'indication de l'espèce et de la situation des biens sur lesquels il entend conserver son privilège ou son hypothèque.
 
 Cette dernière disposition n'est pas nécessaire dans le cas des hypothèques légales ou judiciaires: à défaut de convention, une seule inscription, pour ces hypothèques, frappe tous les immeubles compris dans l'arrondissement du bureau.
 
@@ -12293,9 +12491,11 @@ Il est loisible à celui qui a requis une inscription, ainsi qu'à ses représen
 
 ([L. 6 février 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/02/06/n2/jo)) Les droits d'hypothèque purement légale de l'Etat, des communes et des établissements publics sur les biens des comptables, ceux des mineurs ou interdits sur les tuteurs ou les administrateurs légaux, seront inscrits sur la présentation de deux bordereaux contenant seulement:
 
-1. les nom, prénom, profession et domicile réel du créancier, et le domicile qui sera par lui, ou pour lui, élu dans un lieu quelconque du Grand-Duché;
-2. les nom, prénom, profession, domicile, ou désignation précise du débiteur;
-3. la nature des droits à conserver, et le montant de leur valeur quant aux objets déterminés, sans être tenu de la fixer quant à ceux qui sont conditionnels, éventuels ou indéterminés.
+1° les nom, prénom, profession et domicile réel du créancier, et le domicile qui sera par lui, ou pour lui, élu dans un lieu quelconque du Grand-Duché;
+
+2° les nom, prénom, profession, domicile, ou désignation précise du débiteur;
+
+3° la nature des droits à conserver, et le montant de leur valeur quant aux objets déterminés, sans être tenu de la fixer quant à ceux qui sont conditionnels, éventuels ou indéterminés.
 
 ##### Art. 2154.
 
@@ -12419,10 +12619,13 @@ Le tiers détenteur qui veut purger sa propriété en payant le prix, observe le
 
 Les privilèges et hypothèques s'éteignent:
 
-1. par l'extinction de l'obligation principale;
-2. par la renonciation du créancier à l'hypothèque;
-3. par l'accomplissement des formalités et conditions prescrites aux tiers détenteurs pour purger les biens par eux acquis;
-4. par la prescription.
+1° par l'extinction de l'obligation principale;
+
+2° par la renonciation du créancier à l'hypothèque;
+
+3° par l'accomplissement des formalités et conditions prescrites aux tiers détenteurs pour purger les biens par eux acquis;
+
+4° par la prescription.
 
 La prescription est acquise au débiteur, quant aux biens qui sont dans ses mains, par le temps fixé pour la prescription des actions qui donnent l'hypothèque ou le privilège.
 
@@ -12448,9 +12651,11 @@ Le vendeur ne transmet à l'acquéreur que la propriété et les droits qu'il av
 
 Si le nouveau propriétaire veut se garantir de l'effet des poursuites autorisées dans le chapitre VI du présent titre, il est tenu, soit avant les poursuites, soit dans le mois, au plus tard, à compter de la première sommation qui lui est faite, de notifier aux créanciers, aux domiciles par eux élus dans leurs inscriptions:
 
-1. extrait de son titre, contenant seulement la date et la qualité de l'acte, le nom et la désignation précise du vendeur ou du donateur, la nature et la situation de la chose vendue ou donnée; et, s'il s'agit d'un corps de biens, la dénomination générale seulement du domaine et des arrondissements dans lesquels il est situé, le prix et les charges faisant partie du prix de la vente ou l'évaluation de la chose, si elle a été donnée;
-2. extrait de la transcription de l'acte de vente;
-3. un tableau sur trois colonnes, dont la première contiendra la date des hypothèques et celle des inscriptions; la seconde, le nom des créanciers; la troisième, le montant des créances inscrites.
+1° extrait de son titre, contenant seulement la date et la qualité de l'acte, le nom et la désignation précise du vendeur ou du donateur, la nature et la situation de la chose vendue ou donnée; et, s'il s'agit d'un corps de biens, la dénomination générale seulement du domaine et des arrondissements dans lesquels il est situé, le prix et les charges faisant partie du prix de la vente ou l'évaluation de la chose, si elle a été donnée;
+
+2° extrait de la transcription de l'acte de vente;
+
+3° un tableau sur trois colonnes, dont la première contiendra la date des hypothèques et celle des inscriptions; la seconde, le nom des créanciers; la troisième, le montant des créances inscrites.
 
 ##### Art. 2184.
 
@@ -12460,11 +12665,15 @@ L'acquéreur ou le donataire déclarera, par le même acte, qu'il est prêt à a
 
 Lorsque le nouveau propriétaire a fait cette notification dans le délai fixé, tout créancier dont le titre est inscrit peut requérir la mise de l'immeuble aux enchères et adjudications publiques, à la charge.
 
-1. que cette réquisition sera signifiée au nouveau propriétaire dans quarante jours, au plus tard, de la notification faite à la requête de ce dernier, en y ajoutant deux jours par cinq myriamètres de distance entre le domicile élu et le domicile réel de chaque créancier requérant;
-2. qu'elle contiendra soumission du requérant, de porter ou faire porter le prix à un dixième en sus de celui qui aura été stipulé dans le contrat, ou déclaré par le nouveau propriétaire;
-3. que la même signification sera faite dans le même délai au précédent propriétaire, débiteur principal;
-4. que l'original et les copies de ces exploits seront signés par le créancier requérant, ou par son fondé de procuration expresse, lequel, en ce cas, est tenu de donner copie de sa procuration;
-5. qu'il offrira de donner caution jusqu'à concurrence du prix et des charges.
+1° que cette réquisition sera signifiée au nouveau propriétaire dans quarante jours, au plus tard, de la notification faite à la requête de ce dernier, en y ajoutant deux jours par cinq myriamètres de distance entre le domicile élu et le domicile réel de chaque créancier requérant;
+
+2° qu'elle contiendra soumission du requérant, de porter ou faire porter le prix à un dixième en sus de celui qui aura été stipulé dans le contrat, ou déclaré par le nouveau propriétaire;
+
+3° que la même signification sera faite dans le même délai au précédent propriétaire, débiteur principal;
+
+4° que l'original et les copies de ces exploits seront signés par le créancier requérant, ou par son fondé de procuration expresse, lequel, en ce cas, est tenu de donner copie de sa procuration;
+
+5° qu'il offrira de donner caution jusqu'à concurrence du prix et des charges.
 
 Le tout à peine de nullité.
 
@@ -12516,8 +12725,9 @@ Les conservateurs des hypothèques sont tenus de délivrer à tous ceux qui le r
 
 Ils sont responsables du préjudice résultant:
 
-1. de l'omission sur leurs registres, des transcriptions d'actes de mutation, et des inscriptions requises en leurs bureaux;
-2. du défaut de mention dans leurs certificats, d'une ou de plusieurs des inscriptions existantes, à moins dans ce dernier cas, que l'erreur ne provînt de désignations insuffisantes qui ne pourraient leur être imputées.
+1° de l'omission sur leurs registres, des transcriptions d'actes de mutation, et des inscriptions requises en leurs bureaux;
+
+2° du défaut de mention dans leurs certificats, d'une ou de plusieurs des inscriptions existantes, à moins dans ce dernier cas, que l'erreur ne provînt de désignations insuffisantes qui ne pourraient leur être imputées.
 
 ##### Art. 2198.
 
@@ -12551,8 +12761,9 @@ Les mentions de dépôts, les inscriptions et transcriptions sont faites sur les
 
 Le créancier peut poursuivre l'expropriation:
 
-1. des biens immobiliers et de leurs accessoires réputés immeubles appartenant en propriété à son débiteur;
-2. de l'usufruit appartenant au débiteur sur les biens de même nature.
+1° des biens immobiliers et de leurs accessoires réputés immeubles appartenant en propriété à son débiteur;
+
+2° de l'usufruit appartenant au débiteur sur les biens de même nature.
 
 ##### Art. 2205.
 
@@ -12886,10 +13097,13 @@ Se prescrivent par six mois.
 
 ([L. 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo))
 
-- L’action des huissiers, pour le salaire des actes qu'ils signifient, et des commissions qu'ils exécutent;
-- Celle des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands;
-- celle des maîtres de pension, pour le prix de la pension de leurs élèves; et autres maîtres, pour le prix de l'apprentissage;
-- se prescrivent par un an.
+aash L’action des huissiers, pour le salaire des actes qu'ils signifient, et des commissions qu'ils exécutent;
+
+bash Celle des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands;
+
+cash celle des maîtres de pension, pour le prix de la pension de leurs élèves; et autres maîtres, pour le prix de l'apprentissage;
+
+dash se prescrivent par un an.
 
 ###### Art. 2273.
 
@@ -12921,9 +13135,11 @@ Les avocats sont déchargés de leur responsabilité professionnelle et de la co
 
 Se prescrivent par cinq ans les actions de payement:
 
-- Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires;
-- Des loyers et fermages;
-- Des intérêts des sommes prêtées, et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
+– Des arrérages des rentes perpétuelles et viagères et de ceux des pensions alimentaires;
+
+– Des loyers et fermages;
+
+– Des intérêts des sommes prêtées, et généralement de tout ce qui est payable par année ou à des termes périodiques plus courts.
 
 ###### Art. 2278.
 

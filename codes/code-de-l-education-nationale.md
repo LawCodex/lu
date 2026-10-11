@@ -536,7 +536,7 @@ de gérer la mise en place et l’exploitation de plateformes internet, intranet
 d’assurer le suivi et l’évolution de l’outil informatique, y compris la fixation des standards technologiques et la veille
 technologique;
 
-7.
+7\.
 
 de faciliter les relations avec des services et organismes luxembourgeois ou étrangers ayant des missions similaires.»
 
@@ -650,20 +650,20 @@ Art. 20.
 Il est créé sous l’autorité du ministre un Conseil scientifique auprès du SCRIPT appelé par la suite «le Conseil».
 Art. 21.
 Le Conseil a pour mission:
-1)
+1\)
 
 d’aviser les programmes d’action et les rapports d’activités de chaque division du SCRIPT;
 
-2)
+2\)
 
 de proposer au ministre des critères d’évaluation de la qualité du système éducatif ainsi que des sujets susceptibles de
 faire l’objet d’une évaluation;
 
-3)
+3\)
 
 d’entériner les documents se rapportant à l’évaluation du système éducatif élaborés par l’institut universitaire;
 
-4)
+4\)
 
 de donner son avis sur toutes les questions qui lui sont soumises par le ministre.
 
@@ -682,25 +682,25 @@ Le directeur et le directeur adjoint du SCRIPT assistent avec voix délibérativ
 Il est créé sous l’autorité du ministre un Comité de gouvernance informatique auprès du Centre appelé par la suite «le
 Comité».
 Le Comité a pour missions:
-1)
+1\)
 
 de donner son avis sur les questions qui lui sont soumises par le ministre;
 
-2)
+2\)
 
 de présenter de sa propre initiative au ministre des propositions, suggestions et informations en relation avec les actions
 et les mesures à prendre en matière de gouvernance électronique;
 
-3)
+3\)
 
 de soumettre au ministre un programme d’actions annuel en matière de gestion informatique de l’administration de
 l’Éducation nationale;
 
-4)
+4\)
 
 d’aviser les projets d’informatisation des processus de l’administration de l’Éducation nationale et d’en assurer le suivi;
 
-5)
+5\)
 
 de conseiller, d’office ou sur demande, les responsables des services de l’administration de l’Éducation nationale et le
 directeur du Centre sur toute question relative à l’organisation et l’automatisation de l’administration.
@@ -749,14 +749,14 @@ Art. 28. (abrogé par la loi du 14 mars 2017)
 Art. 29.
 
 Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des fonctionnaires de l’État:
-\1. L’annexe A - Classification des fonctions - est modifiée comme suit:
+1\. L’annexe A - Classification des fonctions - est modifiée comme suit:
 \- Rubrique I. Administration générale:
 Au grade 9, la mention «Différents établissements scolaires - bibliothécaire-documentaliste [II-26,VI-13 a]» est remplacée par la mention «Différentes administrations - bibliothécaire-documentaliste [II-26,VI-13a]».
 \- Rubrique IV. Enseignement:
 à ajouter au grade E8 la mention «Centre de Technologie de l’Éducation - directeur».
-\2. L’annexe D - Détermination
-\1) des carrières inférieures, moyennes et supérieures;
-\2) du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial;
+2\. L’annexe D - Détermination
+1\) des carrières inférieures, moyennes et supérieures;
+2\) du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial;
 est modifiée comme suit:
 \- Rubrique IV. Enseignement:
 à ajouter au grade E8 la mention «Directeur du Centre de Technologie de l’Éducation - grade de computation de la
@@ -936,7 +936,7 @@ de la qualité des services ;
 
 organiser des réunions de concertation avec les directeurs des lycées et les services ;
 
-7.
+7\.
 
 contribuer à l’offre de formation initiale et continue, ainsi qu’à la définition des stratégies de formation du personnel
 éducatif et psycho-social des services et des enseignants y détachés, en collaboration avec l’Institut de formation de
@@ -1065,12 +1065,12 @@ d’information et d’orientation scolaires et professionnelles.
 (Mém. A – 26 du 7 juin 1988, p. 537)
 
 Art. 1er. – Composition
-1)
+1\)
 
 La commission nationale d’information et d’orientation scolaires et professionnelles, dénommée dans la suite «commission», se compose d’un président, d’un ou plusieurs secrétaires, dont un secrétaire administratif, de membres effectifs
 et de membres suppléants.
 
-2)
+2\)
 
 Sont représentés dans la commission:
 – le ministère de l’Éducation Nationale et de la Jeunesse,
@@ -1091,35 +1091,35 @@ collège des directeurs de l’enseignement secondaire technique,
 Avec l’accord du ministre de l’Éducation nationale et de la Jeunesse, la commission peut, en outre, recourir à des experts du
 monde scolaire, professionnel ou économique.
 Art. 2. Nomination
-1)
+1\)
 
 Les membres de la commission sont nommés pour un mandat renouvelable de trois ans par le ministre de l’Éducation
 nationale et de la Jeunesse, sur proposition des ministères, chambres et organismes visés ci-dessus.
 
-2)
+2\)
 
 Le président et le(s) secrétaire(s) de la commission sont désignés parmi les représentants du ministère de l’Éducation
 nationale et de la Jeunesse pour un mandat renouvelable de trois ans.
 
 Art. 3. Fonctionnement
-1)
+1\)
 
 La commission se réunit en séance plénière sur convocation du ministre de l’Éducation nationale et de la Jeunesse ou
 du président de la commission. La commission se réunit deux fois par an au moins.
 
-2)
+2\)
 
 La commission peut se constituer en sous-commissions en fonction des missions qui lui sont confiées et des domaines
 d’intervention définis. Elle désigne pour chaque sous-commission un rapporteur qui, en cas d’absence du président
 dans les séances des sous-commissions, en assume la présidence.
 
-3)
+3\)
 
 Les réunions des sous-commissions font l’objet, à des intervalles réguliers, d’un rapport détaillé qui est transmis au
 président de la commission. Les rapporteurs des sous-commissions coordonnent les travaux et assurent la rédaction
 des rapports.
 
-4)
+4\)
 
 A l’occasion de la réunion plénière de la commission, les sous-commissions présentent une synthèse de leurs rapports
 ainsi que les conclusions de leur travail. La commission décide du contenu du rapport final. Copie du rapport final, des
@@ -1176,27 +1176,27 @@ nommés par le ministre de l’Éducation nationale et de la Jeunesse, dont un c
 secrétaire choisi parmi le cadre du personnel du centre de psychologie et d’orientation scolaires. La commission désigne parmi
 ses membres deux correcteurs de l’épreuve écrite prévue à l’article 3.
 Art. 5. – Modalités des épreuves de l’examen d’admission au stage.
-1)
+1\)
 
 La commission constate la réussite ou l’échec des candidats et fixe les notes à attribuer à chaque candidat pour les
 deux épreuves prévues à l’article 3.
 
-2)
+2\)
 
 La commission ne peut délibérer valablement que si tous ses membres sont présents.
 
-3)
+3\)
 
 Pour réussir l’examen, le candidat doit avoir réussi toutes les épreuves prévues à l’article 3. Une épreuve est considérée
 comme réussie si le candidat a obtenu la moitié du maximum des points. Les épreuves sont cotées chacune sur un
 maximum de soixante points.
 
-4)
+4\)
 
 Un candidat qui a échoué à deux reprises aux épreuves de l’examen d’admission au stage ne peut plus se présenter à
 cet examen.
 
-5)
+5\)
 
 Les modalités d’exécution du présent article sont fixées par le ministre de l’Éducation nationale et de la Jeunesse.
 
@@ -1249,37 +1249,37 @@ choisi parmi le cadre du personnel du centre de psychologie et d’orientation s
 La commission désigne parmi ses membres deux correcteurs pour chacune des deux épreuves écrites prévues à l’article
 précédent.
 Art. 9 . Modalités des épreuves de l’examen de fin de stage.
-1)
+1\)
 
 Sauf empêchement reconnu par la commission d’examen, le candidat doit se présenter à la première session d’examen
 qui lui est proposée. En cas d’empêchement reconnu valable, le candidat doit se présenter à la deuxième session d’examen qui lui est proposée. Dans ce cas, la partie de l’examen qui, le cas échéant, a été subie à la session précédente,
 n’est plus répétée.
 
-2)
+2\)
 
 La commission examine l’admissibilité à l’examen de fin de stage des candidats. Elle s’assure notamment, avant de
 procéder à l’examen, que le stage a été accompli conformément aux dispositions du présent règlement.
 
-3)
+3\)
 
 La commission ne peut délibérer valablement que si tous ses membres sont présents.
 
-4)
+4\)
 
 Pour réussir l’examen, le candidat doit avoir réussi toutes les épreuves prévues à l’article 7. Une épreuve est considérée
 comme réussie si le candidat a obtenu la moitié du maximum des points.
 Les épreuves sont cotées chacune sur un maximum de soixante points.
 
-5)
+5\)
 
 La durée du stage du candidat qui a échoué à une ou plusieurs épreuves de l’examen de fin de stage peut être prolongée d’un an au plus par arrêté du ministre de l’Éducation nationale et de la Jeunesse.
 
-6)
+6\)
 
 Le candidat qui a échoué à une ou plusieurs épreuves de l’examen de fin de stage et qui se présente à une deuxième
 session de l’examen est tenu de refaire uniquement les épreuves jugées insuffisantes.
 
-7)
+7\)
 
 Les modalités d’exécution du présent article sont fixées par le ministre de l’Éducation nationale et de la Jeunesse.
 
@@ -1287,7 +1287,7 @@ Art. 10.
 Les indemnités des membres des commissions d’examen prévues aux articles 4 et 8 sont fixées par le Gouvernement en
 conseil.
 Art. 11. Dispositions transitoires.
-1)
+1\)
 
 Par dérogation aux dispositions des alinéas 3 et 4 de l’article 1er, les psychologues engagés à durée déterminée dans un
 service de psychologie et d’orientation scolaires et en service au moment de l’entrée en vigueur du présent règlement
@@ -1299,13 +1299,13 @@ tâche complète, sont admis prioritairement.
 \- 28 -
 
 CENTRE PSYCHO-SOCIAL ET D’ACCOMPAGNEMENT SOCIALES
-2)
+2\)
 
 La durée du stage des psychologues qui bénéficient des dispositions du présent article peut être réduite d’une année
 au plus par le ministre de l’Éducation nationale et de la Jeunesse. Les modalités du stage prévues à l’article 6 ainsi que
 les modalités de l’examen de fin de stage prévues à l’article 9 leur sont applicables.
 
-3)
+3\)
 
 Le programme de l’examen de fin de stage des psychologues bénéficiant des dispositions du présent article est arrêté
 par le ministre de l’Éducation nationale et de la Jeunesse.
@@ -1410,24 +1410,24 @@ Est admissible à l’examen-concours prévu à l’article 2 ci-dessous, le can
 A.
 
 Le candidat doit être détenteur :
-\1. soit du diplôme d’État luxembourgeois d’assistant social ou d’assistant d’hygiène sociale;
-\2. soit d’un diplôme étranger reconnu par le ministre de l’Éducation nationale, de la Formation professionnelle et des
+1\. soit du diplôme d’État luxembourgeois d’assistant social ou d’assistant d’hygiène sociale;
+2\. soit d’un diplôme étranger reconnu par le ministre de l’Éducation nationale, de la Formation professionnelle et des
 Sports, dénommé ci-après le ministre, conformément aux dispositions de l’article 12 de la loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d’infirmiers et d’infirmières et réglementant la collaboration entre
 le ministre de l’Éducation nationale et le ministre de la Santé.
 
 B.
 
 En outre, le candidat doit produire les pièces suivantes:
-\1. l’autorisation d’exercer la profession d’assistant social ou d’assistant d’hygiène sociale conférée par le ministre de la
+1\. l’autorisation d’exercer la profession d’assistant social ou d’assistant d’hygiène sociale conférée par le ministre de la
 Santé;
-\2. un certificat attestant que le candidat est ressortissant d’un État membre de l’Union Européenne;
-\3. un extrait de l’acte de naissance;
-\4. un extrait du casier judiciaire;
-\5. un certificat de moralité;
-\6. un certificat d’inscription aux listes électorales;
-\7. un certificat médical délivré sur formule prescrite, par un médecin désigné par le ministre de la Fonction publique et
+2\. un certificat attestant que le candidat est ressortissant d’un État membre de l’Union Européenne;
+3\. un extrait de l’acte de naissance;
+4\. un extrait du casier judiciaire;
+5\. un certificat de moralité;
+6\. un certificat d’inscription aux listes électorales;
+7\. un certificat médical délivré sur formule prescrite, par un médecin désigné par le ministre de la Fonction publique et
 de la Réforme administrative;
-\8. une notice biographique.
+8\. une notice biographique.
 
 C.
 
@@ -1602,18 +1602,18 @@ concernant l’aide financière de l’État pour études supérieures. Est éga
 
 établissement scolaire : un établissement de l’enseignement secondaire classique ou secondaire général luxembourgeois, y compris les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement luxembourgeois ;
 
-7.
+7\.
 
 ménage : communauté domestique dans laquelle habitent le demandeur, l’élève, tout autre enfant, ainsi que toutes les
 personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun.
 La situation de composition du ménage prise en compte est celle du moment de l’introduction de la demande en obtention d’une subvention pour ménage à faible revenu ou d’une subvention du maintien scolaire, dûment documentée par
 le registre national des personnes physiques ;
 
-8.
+8\.
 
 ministre : ministre ayant l’Éducation nationale dans ses attributions ;
 
-9.
+9\.
 
 Service : service psycho-social et d’accompagnement scolaires d’un établissement de l’enseignement secondaire classique ou secondaire général ;
 
@@ -1664,7 +1664,7 @@ l’élève ;
 le certificat d’inscription de l’élève dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté,
 apposé sur la demande vaut certificat d’inscription ;
 
-7.
+7\.
 
 pour les personnes concernées, un certificat d’inscription aux études post-secondaires d’autres membres du ménage.
 
@@ -1702,26 +1702,26 @@ CENTRE PSYCHO-SOCIAL ET D’ACCOMPAGNEMENT SOCIALES
 « 1. des revenus nets visés à l’article 10 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, y compris
 les rémunérations pour les heures de travail supplémentaires et déduction faite des cotisations sociales, des impôts
 effectivement retenus et des éléments non périodiques ; »
-\2. des indemnités de chômage ;
-\3. du revenu minimum garanti « et du revenu pour personnes gravement handicapées »2 ;
-\4. des pensions de survie ou des pensions attribuées par une caisse de pension d’un pays à l’étranger ;
-\5. de l’indemnité perçue pendant le congé parental ;
-\6. des pensions alimentaires perçues ;
-\7. des rentes d’invalidité et d’accident « , ainsi que de tout autre revenu de remplacement »2 ;
-\8. de l’allocation d’éducation ;
-\9. des revenus provenant de la location de biens ;
-\10. du forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil
+2\. des indemnités de chômage ;
+3\. du revenu minimum garanti « et du revenu pour personnes gravement handicapées »2 ;
+4\. des pensions de survie ou des pensions attribuées par une caisse de pension d’un pays à l’étranger ;
+5\. de l’indemnité perçue pendant le congé parental ;
+6\. des pensions alimentaires perçues ;
+7\. des rentes d’invalidité et d’accident « , ainsi que de tout autre revenu de remplacement »2 ;
+8\. de l’allocation d’éducation ;
+9\. des revenus provenant de la location de biens ;
+10\. du forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil
 de jour et de nuit ou de jour, conformément à l’article 15 de la loi modifiée du 16 décembre 2008 relative à l’aide à
 l’enfance et à la famille, limité à la part indemnisation ;
-\11. des revenus imposables d’une activité d’indépendant, d’agriculteur ou de viticulteur, documenté par le certificat le plus
+11\. des revenus imposables d’une activité d’indépendant, d’agriculteur ou de viticulteur, documenté par le certificat le plus
 récent du bureau d’imposition ;
 (Règl. g.-d. du 20 juillet 2018)
-\12. de l’indemnité d’apprentissage, de l’indemnité à la formation, de la prime à la formation et des indemnités versées dans
+12\. de l’indemnité d’apprentissage, de l’indemnité à la formation, de la prime à la formation et des indemnités versées dans
 le cadre de l’apprentissage pour adultes ;
-\13. des indemnités payées dans le cadre du service volontaire des jeunes ;
-\14. de la rente d’orphelin ;
-\15. de l’allocation mensuelle versée aux demandeurs de protection internationale ;
-\16. des allocations pour frais de vie et d’hébergement versées à l’élève majeur dans le cadre de la loi modifiée du 16
+13\. des indemnités payées dans le cadre du service volontaire des jeunes ;
+14\. de la rente d’orphelin ;
+15\. de l’allocation mensuelle versée aux demandeurs de protection internationale ;
+16\. des allocations pour frais de vie et d’hébergement versées à l’élève majeur dans le cadre de la loi modifiée du 16
 décembre 2008 relative à l’aide à l’enfance et à la famille.
 Les pensions alimentaires versées sont déduites du revenu mensuel net disponible.
 La moyenne arithmétique des trois derniers mois précédant l’introduction de la demande détermine le seuil de revenu, le
@@ -1759,18 +1759,18 @@ est de même après l’octroi de la subvention du maintien scolaire. (. . .)1
 (3) Pour l’obtention de la subvention du maintien scolaire, le revenu mensuel net de l’élève majeur est pris en compte afin de
 fixer le montant de la subvention du maintien scolaire à accorder.
 Le revenu mensuel net disponible est calculé en additionnant :
-\1. les allocations familiales, à l’exception des allocations familiales versées pour le ou les enfant(s) du demandeur ;
-\2. la pension alimentaire ;
-\3. la rente d’orphelin ;
-\4. le salaire autre qu’un salaire étudiant payé dans le cadre d’un emploi étudiant ;
-\5. la subvention loyer en application de la loi du 9 décembre 2015 portant introduction d’une subvention de loyer et modifiant : a) la loi modifiée du 25 février 1979 concernant l’aide au logement ; b) la loi modifiée du 29 avril 1999 portant
+1\. les allocations familiales, à l’exception des allocations familiales versées pour le ou les enfant(s) du demandeur ;
+2\. la pension alimentaire ;
+3\. la rente d’orphelin ;
+4\. le salaire autre qu’un salaire étudiant payé dans le cadre d’un emploi étudiant ;
+5\. la subvention loyer en application de la loi du 9 décembre 2015 portant introduction d’une subvention de loyer et modifiant : a) la loi modifiée du 25 février 1979 concernant l’aide au logement ; b) la loi modifiée du 29 avril 1999 portant
 création d’un droit à un revenu minimum garanti ; c) la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation
 et modifiant certaines dispositions du Code civil ;
-\6. l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
-\7. tout revenu de remplacement ou indemnité non-occasionnelle « , y compris les bourses d’études »2 ;
-\8. les intérêts et produits en capitaux ;
-\9. l’indemnité d’apprentissage « et l’indemnité versée dans le cadre de l’apprentissage pour adultes »2 ;
-\10. « la prime et »2 l’indemnité à la formation accordée par le Service de la formation professionnelle.
+6\. l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
+7\. tout revenu de remplacement ou indemnité non-occasionnelle « , y compris les bourses d’études »2 ;
+8\. les intérêts et produits en capitaux ;
+9\. l’indemnité d’apprentissage « et l’indemnité versée dans le cadre de l’apprentissage pour adultes »2 ;
+10\. « la prime et »2 l’indemnité à la formation accordée par le Service de la formation professionnelle.
 Le montant attribué est calculé en fonction des frais de vie garantis à chaque élève majeur, des frais de logement et des
 charges locatives privatives et communes et du revenu mensuel net disponible du ménage de l’élève. Il est adapté aux variations de l’indice du coût de la vie.
 Le jeune perçoit un montant de 570 euros par mois pour frais de vie.
@@ -2073,18 +2073,18 @@ modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 IFEN
 Loi du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale et modifiant
-\1) la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de
+1\) la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de
 l’Innovation pédagogiques et technologiques b) la création d’un Centre de Gestion Informatique de l’Éducation c)
 l’institution d’un Conseil scientifique,
-\2) la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques,
-\3) la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental,
-\4) la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental,
-\5) la loi modifiée du 12 mai 2009 portant création d’une École de la 2e Chance,
-\6) la loi du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs
+2\) la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques,
+3\) la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental,
+4\) la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental,
+5\) la loi modifiée du 12 mai 2009 portant création d’une École de la 2e Chance,
+6\) la loi du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins éducatifs
 particuliers,
-\7) la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires
+7\) la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires
 de l’État,
-\8) le Code de la sécurité sociale,
+8\) le Code de la sécurité sociale,
 et abrogeant la loi modifiée du 21 mai 1999 concernant la fonction de candidat dans les carrières enseignantes de
 l’enseignement postprimaire,1
 (Mém A – 166 du 28 août 2015, p. 3910; doc. parl 6773)
@@ -2124,7 +2124,7 @@ directeur de l’Institut: le directeur de l’Institut de formation de l’édu
 
 éducation nationale: les établissements scolaires et les établissements socio-éducatifs dépendant du département ministériel «Éducation nationale» et du département ministériel «Enfance et Jeunesse»;
 
-7.
+7\.
 
 employé: employé de l’éducation nationale « visé aux articles 66 et 67 bénéficiant d’un contrat à durée indéterminée »2;
 
@@ -2138,7 +2138,7 @@ Modifié par la loi du 1er août 2019.
 IFEN
 (Loi du 1er août 2019)
 « 8. enfants : personnes physiques âgées de moins de 12 ans ou n’ayant pas quitté l’enseignement fondamental ; »
-9.
+9\.
 
 enseignant: membre du personnel enseignant des catégories de traitement et d’indemnité énumérées aux articles 5, 6,
 7 et 66;
@@ -2150,20 +2150,20 @@ enseignant: membre du personnel enseignant des catégories de traitement et d’
 « 11. épreuve formative : une production écrite, un bilan des compétences didactiques et pédagogiques, un bilan du portfolio,
 un projet pédagogique de recherche-action, tels que prévus au chapitre 2, sections 13, 14, 15 et 16 et au chapitre 3,
 section 7 »;
-\12. établissement: un établissement scolaire ou établissement socio-éducatif;
-\13. établissement scolaire: une entité administrative et pédagogique identifiable, regroupant en communauté scolaire les
+12\. établissement: un établissement scolaire ou établissement socio-éducatif;
+13\. établissement scolaire: une entité administrative et pédagogique identifiable, regroupant en communauté scolaire les
 apprenants, le personnel enseignant, le personnel éducatif et psycho-social d’un ou de plusieurs bâtiments scolaires;
 sont également compris dans cette catégorie le « Centre psycho-social et d’accompagnement scolaires »1, « les
 Centres de compétences, les établissements de formation d’adultes »2 « et les directions de région de l’enseignement
 fondamental »3;
-\14. établissement socio-éducatif: une entité administrative identifiable de l’éducation nationale s’adressant à des enfants ou
+14\. établissement socio-éducatif: une entité administrative identifiable de l’éducation nationale s’adressant à des enfants ou
 des jeunes, avec son personnel éducatif et psycho-social ainsi que son personnel enseignant;
 (Loi du 8 juillet 2022)
 « 15. formation initiale : conditions d’études requises pour l’admission au service de l’État des carrières visées aux articles 5,
 6, 7, 8, 66 et 67 ; »
-\16. hospitation: visites de classes, d’environnements professionnels ou d’établissements, afin de favoriser l’échange de
+16\. hospitation: visites de classes, d’environnements professionnels ou d’établissements, afin de favoriser l’échange de
 pratiques et d’expériences;
-\17. « directeur de région »4: « le directeur de région » de l’enseignement fondamental;
+17\. « directeur de région »4: « le directeur de région » de l’enseignement fondamental;
 (Loi du 1er août 2019)
 «18. jeunes : les personnes physiques âgées de moins de 30 ans ayant quitté l’enseignement fondamental ; »
 (Loi du 8 juillet 2022)
@@ -2172,13 +2172,13 @@ en vigueur de son contrat à durée indéterminée ;»
 (Loi du 8 juillet 2022)
 «18ter. personnel coordonnant : les présidents des comités d’écoles et les coordinateurs de cycle tels que prévus par la loi
 modifiée du 6 février 2009 portant organisation de l’enseignement fondamental ;»
-\19. personnel dirigeant: (. . .)5 les équipes de direction des établissements scolaires et « socio-éducatif »2;
-\20. personnel éducatif et psycho-social: les fonctionnaires et employés de l’éducation nationale exerçant des activités
+19\. personnel dirigeant: (. . .)5 les équipes de direction des établissements scolaires et « socio-éducatif »2;
+20\. personnel éducatif et psycho-social: les fonctionnaires et employés de l’éducation nationale exerçant des activités
 « éducatives, socio-éducatives et psycho-sociales »2 en contact avec des enfants, jeunes ou adultes;
-\21. personnel de l’éducation nationale: le personnel dirigeant, « le personnel coordonnant, »6 le personnel enseignant ainsi
+21\. personnel de l’éducation nationale: le personnel dirigeant, « le personnel coordonnant, »6 le personnel enseignant ainsi
 que le personnel éducatif et psycho-social œuvrant dans les établissements scolaires et socio-éducatifs pour le compte
 de l’éducation nationale;
-\22. personnel enseignant: les fonctionnaires et employés de l’éducation nationale exerçant des activités d’enseignement en
+22\. personnel enseignant: les fonctionnaires et employés de l’éducation nationale exerçant des activités d’enseignement en
 contact avec des enfants, jeunes ou adultes;
 (Loi du 8 juillet 2022)
 «22bis. responsable de division : la fonction définie dans l’organigramme interne de l’Institut ;»
@@ -2188,20 +2188,20 @@ Remplacé par la loi du 8 juillet 2022.
 Modifié par la loi du 1er août 2019.
 Modifié par la loi du 29 juin 2017:
 Dans l’ensemble du texte de la loi sont apportées les modifications suivantes :
-\1. les termes « inspecteur » et « inspecteurs » sont remplacés par ceux de « directeur de région » et « direc­teurs de région » ;
-\2. le terme « l’inspecteur » est remplacé par celui de « le directeur de région » ;
-\3. le terme « de l’inspecteur » est remplacé par celui de « du directeur de région » ;
-\4. le terme « à l’inspecteur » est remplacé par celui de « au directeur de région » ..
+1\. les termes « inspecteur » et « inspecteurs » sont remplacés par ceux de « directeur de région » et « direc­teurs de région » ;
+2\. le terme « l’inspecteur » est remplacé par celui de « le directeur de région » ;
+3\. le terme « de l’inspecteur » est remplacé par celui de « du directeur de région » ;
+4\. le terme « à l’inspecteur » est remplacé par celui de « au directeur de région » ..
 Supprimé par la loi du 1er août 2019.
 Inséré par la loi du 8 juillet 2022.
 
 \- 43 -
 
 IFEN
-\23. spécialité: discipline, famille de disciplines ou domaine d’enseignement de l’enseignant;
-\24. stage: la formation « générale, la formation spéciale et la formation à la pratique professionnelle »1 (. . .)2 du personnel
+23\. spécialité: discipline, famille de disciplines ou domaine d’enseignement de l’enseignant;
+24\. stage: la formation « générale, la formation spéciale et la formation à la pratique professionnelle »1 (. . .)2 du personnel
 de l’éducation nationale visé aux articles 5, 6, 7 et 8;
-\25. stagiaire: membre du personnel enseignant ou éducatif et psycho-social en période de stage (. . .)2 « visé »3 aux articles
+25\. stagiaire: membre du personnel enseignant ou éducatif et psycho-social en période de stage (. . .)2 « visé »3 aux articles
 5, 6, 7 et 8.
 Il est créé un Institut de formation de l’éducation nationale, désigné ci-après par «l’Institut».
 L’Institut a pour mission de concevoir, « d’organiser, de promouvoir »1 et d’évaluer les dispositifs du stage, « de la période
@@ -2250,7 +2250,7 @@ d) d’accompagner et de soutenir les écoles et le personnel enseignant, éduca
 et par les médias et dans le développement des compétences-clés liées aux technologies de l’information et de la
 communication auprès des enfants et des jeunes ;
 
-7.
+7\.
 
 la « Division du soutien et de l’accompagnement professionnel et psycho-social » qui a pour mission de soutenir et
 d’accompagner le développement personnel professionnel et psycho-social du personnel de l’éducation nationale. »
@@ -2276,12 +2276,12 @@ professionnelle telles que prévues au chapitre 2. »
 Le stage des enseignants fonctionnaires de l’enseignement fondamental, « des Centres de compétences » « « de l’Institut
 étatique d’aide à l’enfance et à la jeunesse » et du Centre socio-éducatif de l’État »3 s’applique aux enseignants fonctionnaires
 « stagiaires »1 des catégories de traitement suivantes:
-1)
+1\)
 
 catégorie de traitement A; groupe de traitement A1:
 – sous-groupe enseignement fondamental: instituteur spécialisé
 
-2)
+2\)
 
 catégorie de traitement A; groupe de traitement A2:
 – sous-groupe enseignement fondamental: instituteur.
@@ -2430,15 +2430,15 @@ organiser le fonctionnement du groupe-classe;
 
 évaluer les apprentissages;
 
-7.
+7\.
 
 maîtriser les savoirs psychopédagogiques et disciplinaires;
 
-8.
+8\.
 
 communiquer avec les élèves et les partenaires internes et externes à l’établissement scolaire;
 
-9.
+9\.
 
 maîtriser les technologies de l’information et de la communication appliquées à l’enseignement (TICE).
 
@@ -2458,15 +2458,15 @@ considérer la pluralité des contextes sociaux et des biographies des enfants e
 
 coopérer en réseau pour aménager les transitions;
 
-7.
+7\.
 
 maîtriser les savoirs psychopédagogiques et disciplinaires;
 
-8.
+8\.
 
 avoir une posture et une pratique réflexives par une réflexion dans et sur l’action;
 
-9.
+9\.
 
 maîtriser les technologies de l’information et de la communication et les intégrer à l’exercice de la pratique professionnelle.
 
@@ -2624,7 +2624,7 @@ organiser des regroupements des conseillers pédagogiques « et des personnes de
 (Loi du 1er août 2019)
 « 7. assurer le lien entre le dispositif de stage, le cycle de formation de début de carrière prévu au chapitre 3, le certificat de
 formation pédagogique prévu au chapitre 3ter et le développement curriculaire de la spécialité ;
-8.
+8\.
 
 participer à l’évaluation certificative du stagiaire visé à l’article 6 conformément aux dispositions de la section 14. »
 
@@ -2886,7 +2886,7 @@ aide à l’enfance et à la famille ;
 
 traitement de données à caractère personnel, droits d’auteur et droit des médias ;
 
-7.
+7\.
 
 organisation du stage.
 
@@ -2914,19 +2914,19 @@ l’établissement et le maintien de relations professionnelles avec les enfants
 
 les manières de coopérer au sein d’équipes pluridisciplinaires et avec d’autres institutions concernées par l’accompagnement individuel des enfants et des jeunes ;
 
-7.
+7\.
 
 la prévention et la médiation dans le cadre de la lutte contre la violence ;
 
-8.
+8\.
 
 la prévention de l’échec et du décrochage scolaires ;
 
-9.
+9\.
 
 l’orientation scolaire et professionnelle ;
 
-\10. les spécificités de la fonction.
+10\. les spécificités de la fonction.
 (3) Au début de chaque année de stage, le stagiaire établit avec son conseiller pédagogique son programme individuel de
 formation en fonction de son projet de développement professionnel. Il choisit parmi un ensemble de modules proposés par
 l’Institut ceux qu’il juge utiles compte tenu de son profil, de sa formation initiale et de son contexte professionnel et dans le
@@ -3456,15 +3456,15 @@ organiser le fonctionnement du groupe-classe;
 
 évaluer les apprentissages;
 
-7.
+7\.
 
 maîtriser les savoirs psychopédagogiques et disciplinaires;
 
-8.
+8\.
 
 communiquer avec les élèves et les partenaires internes et externes à l’établissement scolaire;
 
-9.
+9\.
 
 maîtriser les technologies de l’information et de la communication appliquées à l’enseignement (TICE).
 
@@ -3485,15 +3485,15 @@ considérer la pluralité des contextes sociaux et des biographies des enfants e
 
 coopérer en réseau pour aménager les transitions;
 
-7.
+7\.
 
 maîtriser les savoirs psychopédagogiques et disciplinaires;
 
-8.
+8\.
 
 avoir une posture et une pratique réflexives par une réflexion dans et sur l’action;
 
-9.
+9\.
 
 maîtriser les technologies de l’information et de la communication et les intégrer à l’exercice de la pratique professionnelle.
 
@@ -3562,11 +3562,11 @@ participer à l’évaluation certificative de l’employé conformément aux di
 
 participer à l’évaluation formative de l’employé conformément aux dispositions des chapitres 3 et 3bis ;
 
-7.
+7\.
 
 organiser des regroupements des conseillers pédagogiques et des personnes de référence d’une même spécialité ;
 
-8.
+8\.
 
 assurer le lien entre le dispositif de stage, le cycle de formation de début de carrière prévu au chapitre 3, le certificat de
 formation pédagogique prévu au chapitre 3ter et le développement curriculaire de la spécialité.
@@ -3883,23 +3883,23 @@ aide à l’enfance et à la famille ;
 
 traitement de données à caractère personnel, droits d’auteur et droit des médias ;
 
-7.
+7\.
 
 pédagogie générale et psychologie de l’enfance ;
 
-8.
+8\.
 
 différenciation et gestion de l’hétérogénéité ;
 
-9.
+9\.
 
 développement langagier, langage, alphabétisation, langues luxembourgeoise, allemande et française, éveil et ouverture aux langues ;
 
-\10. raisonnement logique et mathématique ;
-\11. découverte du monde par tous les sens, éveil aux sciences et aux sciences humaines et naturelles ;
-\12. expression corporelle, psychomotricité, sports et santé ;
-\13. expression créatrice, éveil à l’esthétique et à la culture ;
-\14. vie en commun et valeurs. »
+10\. raisonnement logique et mathématique ;
+11\. découverte du monde par tous les sens, éveil aux sciences et aux sciences humaines et naturelles ;
+12\. expression corporelle, psychomotricité, sports et santé ;
+13\. expression créatrice, éveil à l’esthétique et à la culture ;
+14\. vie en commun et valeurs. »
 (Loi du 8 juillet 2022)
 « Art. 76ter.
 (1) Le cycle de formation de début de carrière organisé par l’Institut pour les employés des catégories d’indemnité A, B et C,
@@ -3920,7 +3920,7 @@ la communication avec les parents d’élèves et autres partenaires scolaires ;
 
 le développement scolaire ;
 
-7.
+7\.
 
 le développement professionnel personnel.
 
@@ -4115,20 +4115,20 @@ module 5 : vingt heures sont consacrées à la psychologie du développement de 
 
 module 6 : vingt heures sont consacrées à l’identification et la prise en charge de troubles particuliers du langage ;
 
-7.
+7\.
 
 module 7 : huit heures sont consacrées à la découverte du monde et à l’éveil aux sciences ;
 
-8.
+8\.
 
 huit heures sont consacrées à la psychomotricité, à l’expression corporelle et à la santé ;
 
-9.
+9\.
 
 module 9 : huit heures sont consacrées à l’expression créatrice, à l’éveil à l’esthétique et à la culture dans les domaines
 des arts plastiques et de la musique ;
 
-\10. module 10 : huit heures sont consacrées à la vie en commun et aux valeurs.
+10\. module 10 : huit heures sont consacrées à la vie en commun et aux valeurs.
 (2) Les cours de la formation théorique de l’« option C2-C4 » sont regroupés en huit modules :
 
 module 1 : trente heures sont consacrées au cadre légal et réglementaire relatif à l’organisation de l’État et de l’administration, au statut de l’agent de la Fonction publique, à la législation scolaire, à la protection de l’enfance et de la jeunesse,
@@ -4151,11 +4151,11 @@ module 5 : douze heures sont consacrées à l’éveil aux sciences, aux science
 
 module 6 : douze heures sont consacrées à l’expression corporelle, à la psychomotricité, aux sports et à la santé ;
 
-7.
+7\.
 
 module 7 : douze heures sont consacrées à l’éveil à l’esthétique, à la création et à la culture ;
 
-8.
+8\.
 
 module 8 : douze heures sont consacrées à la vie en commun et aux valeurs enseignées à travers le cours « vie et
 société ».
@@ -4188,11 +4188,11 @@ module 5 : vingt heures sont consacrées à la découverte du monde par tous les
 
 module 6 : vingt heures sont consacrées à la psychomotricité, à l’expression corporelle et à la santé ;
 
-7.
+7\.
 
 module 7 : vingt heures sont consacrées à l’expression créatrice, à l’éveil à l’esthétique et à la culture ;
 
-8.
+8\.
 
 module 8 : seize heures sont consacrées à la vie en commun et aux valeurs.
 
@@ -4211,11 +4211,11 @@ module 5 : quinze heures sont consacrées à l’éveil aux sciences, aux scienc
 
 module 6 : quinze heures sont consacrées à l’expression corporelle, à la psychomotricité, aux sports et à la santé ;
 
-7.
+7\.
 
 module 7 : quinze heures sont consacrées à l’éveil à l’esthétique, à la création et à la culture ;
 
-8.
+8\.
 
 module 8 : seize heures sont consacrées à la vie en commun et aux valeurs enseignées à travers le cours « vie et
 société ».
@@ -4383,22 +4383,22 @@ traitement de données à caractère personnel, droits d’auteur et droit des m
 
 organisation du certificat de formation pédagogique ;
 
-7.
+7\.
 
 la pédagogie et la didactique ; « pour les formateurs d’adultes : l’andragogie et la didactique ; »2
 
-8.
+8\.
 
 la didactique des spécialités ;
 
-9.
+9\.
 
 la différenciation et la gestion de l’hétérogénéité ;
 
-\10. la régulation et l’évaluation du processus d’apprentissage ;
-\11. la communication avec les parents d’élèves et autres partenaires scolaires ; « pour les formateurs d’adultes : la communication avec les apprenants adultes ; »2
-\12. le développement scolaire ;
-\13. le développement professionnel personnel.
+10\. la régulation et l’évaluation du processus d’apprentissage ;
+11\. la communication avec les parents d’élèves et autres partenaires scolaires ; « pour les formateurs d’adultes : la communication avec les apprenants adultes ; »2
+12\. le développement scolaire ;
+13\. le développement professionnel personnel.
 (2) Sur les cent soixante-dix heures que comprend la formation théorique, douze heures sont au choix de l’employé parmi les
 thématiques du paragraphe 1er, points 7 à 13. L’employé, avec sa personne de référence, choisit parmi l’ensemble des modules
 
@@ -4943,7 +4943,7 @@ Art. 98-23.
 à une indemnité forfaitaire fixée à 1,5 euro au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948.
 (2) Les membres du jury du bilan des compétences didactiques et pédagogiques prévu aux articles 98-10 et 98-20, ont droit,
 par bilan évalué, à une indemnité forfaitaire fixée à 25 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier
-1948.
+1948\.
 (3) Les membres du jury de l’épreuve pratique prévue à l’article 98-17, ont droit, par épreuve évaluée, à une indemnité forfaitaire fixée à 25 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948.
 
 Section 6 -Nomination et classement des fonctions.
@@ -5050,8 +5050,8 @@ de tenir le directeur de région concerné au courant sur l’avancement du PDS 
 
 de soutenir les enseignants qui demandent une assistance personnalisée dans leur travail pédagogique. Dans le
 contexte de leur tâche, les I-DS doivent :
-\1. participer pendant au moins 16 heures par année scolaire à des modules de formation en relation avec leur mission ;
-\2. participer aux réunions de mise en réseau des I-DS organisées par l’Institut.
+1\. participer pendant au moins 16 heures par année scolaire à des modules de formation en relation avec leur mission ;
+2\. participer aux réunions de mise en réseau des I-DS organisées par l’Institut.
 
 Les besoins en matière d’accompagnement des écoles, dans le cadre de la mise en œuvre du PDS, sont signalés annuellement au directeur de l’Institut et ceci avant le 15 avril. Le directeur de l’Institut se concerte avec le collège des directeurs de
 l’enseignement fondamental afin de déterminer, le cas échéant, le nombre d’I-DS à recruter.
@@ -5090,22 +5090,22 @@ TIC ;
 
 de coordonner l’implémentation des TIC avec le directeur de région concerné ;
 
-7.
+7\.
 
 de se tenir au courant des évolutions technologiques et pédagogiques dans le domaine des médias et d’aider les écoles
 à adapter continuellement leurs approches méthodologiques et didactiques en fonction de ces évolutions ;
 
-8.
+8\.
 
 de collaborer avec le Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques dans
 les domaines des technologies numériques et des médias ;
 
-9.
+9\.
 
 de collaborer et de s’échanger au moins deux fois par mois avec les autres I-CN dans le cadre du réseau I-CN, organisé
 et coordonné par l’Institut ;
 
-\10. de participer pendant au moins 16 heures par année scolaire à des modules de formation en relation avec leur mission.
+10\. de participer pendant au moins 16 heures par année scolaire à des modules de formation en relation avec leur mission.
 Les besoins en matière d’accompagnement et soutien pédagogique des écoles dans le cadre de l’implémentation et de l’utilisation des TIC sont signalés annuellement au directeur de l’Institut et ceci avant le 15 avril. Le directeur de l’Institut se concerte
 avec le collège des directeurs de l’enseignement fondamental afin de déterminer, le cas échéant, le nombre d’I-CN à recruter.
 Le directeur de l’Institut transmet les demandes de vacance de poste retenues au ministre avant le 1er mai.
@@ -5251,9 +5251,9 @@ de l’inspection sont prises par le ministre.»
 «Après les opérations de réaffectation prévues à l’article 8, le ministre établit une nouvelle liste des postes restés vacants qui ne mentionne pas les postes destinés à être réservés pour les stagiaires instituteurs admis au stage au début
 de l’année scolaire subséquente, conformément à l’article 8.
 Les opérations d’affectation se font dans le respect de l’ordre de priorité suivant:
-\1) par des stagiaires instituteurs ayant réussi à toutes les épreuves du stage et non encore nommés à la fonction d’instituteur;
-\2) par des membres de la réserve de suppléants prévue à l’article 16, points 2 à 8;
-\3) par des remplaçants, conformément à l’article 27.
+1\) par des stagiaires instituteurs ayant réussi à toutes les épreuves du stage et non encore nommés à la fonction d’instituteur;
+2\) par des membres de la réserve de suppléants prévue à l’article 16, points 2 à 8;
+3\) par des remplaçants, conformément à l’article 27.
 L’affectation des remplaçants précités ne peut être prononcée chaque fois que pour une année scolaire au maximum.»
 (6) À l’article 10 de la même loi, les mots «ou bien au bureau régional» sont insérés entre les mots «de l’État» et «du même
 arrondissement» ainsi qu’entre les mots «de l’État» et «d’un arrondissement».
@@ -5280,13 +5280,13 @@ Le ministre établit chaque année la liste des postes d’éducateur gradué et
 fondamental, qui est une liste nationale et qui est publiée au plus tard le 1er juin de chaque année.
 (2) Après les opérations de réaffectation des éducateurs gradués et éducateurs, le ministre établit une nouvelle liste des
 postes restés vacants. Les opérations d’affectation se font dans le respect de l’ordre de priorité suivant:
-\1. par les stagiaires nouvellement admis au stage préparant à la fonction d’éducateur gradué et d’éducateur;
-\2. par les employés de l’État de la carrière de l’éducateur gradué ou de l’éducateur dans l’enseignement fondamental;
+1\. par les stagiaires nouvellement admis au stage préparant à la fonction d’éducateur gradué et d’éducateur;
+2\. par les employés de l’État de la carrière de l’éducateur gradué ou de l’éducateur dans l’enseignement fondamental;
 
 \- 92 -
 
 IFEN
-\3. par des détenteurs d’un diplôme d’éducateur gradué ou d’éducateur, postulant une admission comme employés au
+3\. par des détenteurs d’un diplôme d’éducateur gradué ou d’éducateur, postulant une admission comme employés au
 service de l’État dans la carrière respective.
 Les décisions individuelles d’affectation sont prises par le ministre.
 Le détail des critères de classement ainsi que les modalités de la procédure d’affectation et de réaffectation des éducateurs gradués et des éducateurs sont déterminés par règlement grand-ducal.»
@@ -5378,7 +5378,7 @@ Ne sont pas visés par la présente loi les employés engagés avant le 1er octo
 Art. 115.
 Les dispositions de la loi modifiée du 21 mai 1999 concernant la fonction de candidat dans les carrières enseignantes de
 l’enseignement postprimaire, restent en vigueur « jusqu’au 1er avril 2027 »2 pour les « fonctionnaires stagiaires »1 et les candidats de l’enseignement postprimaire qui ont commencé respectivement réussi leur stage pédagogique avant le 1er octobre
-2015.
+2015\.
 Art. 116.
 Les fonctionnaires et employés de l’État nommés ou détachés auprès de l’Institut de formation continue du personnel enseignant et éducatif des écoles et des lycées du Service de Coordination de la Recherche et de l’Innovation pédagogiques et
 technologiques à l’entrée en vigueur de la présente loi sont repris dans le cadre du personnel de l’Institut avec le même statut
@@ -5406,17 +5406,17 @@ IFEN
 
 Règlement grand-ducal du 25 août 2015 déterminant les tarifs horaires des formateurs et les indemnités des évaluateurs
 intervenant à l’Institut de formation de l’éducation nationale et modifiant
-\1. le règlement grand-ducal du 14 mai 2009 déterminant
-\1. les programmes ainsi que les modalités des épreuves des formations théorique et pratique sanctionnées par le
+1\. le règlement grand-ducal du 14 mai 2009 déterminant
+1\. les programmes ainsi que les modalités des épreuves des formations théorique et pratique sanctionnées par le
 certificat de formation des chargés de cours, membres de la réserve de suppléants pour l’enseignement fondamental;
-\2. les indemnités
+2\. les indemnités
 a. des formateurs intervenant dans le cadre de la formation sanctionnée par le certificat de formation;
 b. des membres du jury d’examen
-\2. le règlement grand-ducal du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées techniques
-\1. l’échelle d’évaluation par le directeur,
-\2. les modalités d’organisation et le programme de la formation en cours d’emploi,
-\3. les modalités d’obtention du certificat de qualification sanctionnant la formation en cours d’emploi
-\3. le règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l’enseignement fondamental d’obtenir l’autorisation d’enseigner en tant qu’instituteur dans les quatre cycles.
+2\. le règlement grand-ducal du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées techniques
+1\. l’échelle d’évaluation par le directeur,
+2\. les modalités d’organisation et le programme de la formation en cours d’emploi,
+3\. les modalités d’obtention du certificat de qualification sanctionnant la formation en cours d’emploi
+3\. le règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l’enseignement fondamental d’obtenir l’autorisation d’enseigner en tant qu’instituteur dans les quatre cycles.
 (Mém A – 166 du 28 août 2015, p. 3937)
 
 Chapitre 1er - Dispositions générales.
@@ -5541,23 +5541,23 @@ création d’un Institut de formation de l’éducation nationale.
 
 IFEN
 Règlement grand-ducal du 22 août 2019
-\1) déterminant les modalités pratiques du stage, du cycle de formation de début de carrière, du certificat de formation
+1\) déterminant les modalités pratiques du stage, du cycle de formation de début de carrière, du certificat de formation
 pédagogique et de la période d’approfondissement ;
-\2) modifiant
-\1. le règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d’admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans
+2\) modifiant
+1\. le règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d’admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans
 l’enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d’orientation scolaires, à l’Action locale pour jeunes, à l’École de la 2e Chance et au Centre national de formation professionnelle continue ; 2.
 les modalités de l’examen de promotion de l’éducateur ;
-\2. le règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l’enseignement fondamental d’obtenir l’autorisation d’enseigner en tant
+2\. le règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l’enseignement fondamental d’obtenir l’autorisation d’enseigner en tant
 qu’instituteur dans les quatre cycles ;
-\3) abrogeant
-\1. le règlement grand-ducal modifié du 11 juin 1985 portant fixation des indemnités dues aux membres des commissions pour les examens de fin de stage des enseignants de l’enseignement secondaire et de l’enseignement
+3\) abrogeant
+1\. le règlement grand-ducal modifié du 11 juin 1985 portant fixation des indemnités dues aux membres des commissions pour les examens de fin de stage des enseignants de l’enseignement secondaire et de l’enseignement
 secondaire technique ;
-\2. le règlement grand-ducal modifié du 3 août 2010 concernant la formation théorique et pratique ainsi que la
+2\. le règlement grand-ducal modifié du 3 août 2010 concernant la formation théorique et pratique ainsi que la
 période probatoire des enseignants de l’enseignement postprimaire ;
-\3. le règlement grand-ducal modifié du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées
+3\. le règlement grand-ducal modifié du 16 mars 2012 déterminant pour les chargés d’éducation des lycées et lycées
 techniques 1. l’échelle d’évaluation par le directeur, 2. les modalités d’organisation et le programme de la formation en cours d’emploi, 3. les modalités d’obtention du certificat de qualification sanctionnant la formation en
 cours d’emploi ;
-\4. le règlement grand-ducal du 23 août 2018 déterminant les modalités des épreuves et des formations théorique et
+4\. le règlement grand-ducal du 23 août 2018 déterminant les modalités des épreuves et des formations théorique et
 pratique prévues à l’article 20bis de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement
 fondamental,
 (Mém. A – 580 du 23 août 2019)
@@ -5888,7 +5888,7 @@ d’emploi, 3. les modalités d’obtention du certificat de qualification sanct
 
 le règlement grand-ducal modifié du 25 août 2015 déterminant 1. le référentiel des compétences professionnelles, 2.
 les décharges accordées aux enseignants stagiaires, aux employés et aux intervenants, 3. la composition et le fonctionnement des jurys et commissions d’évaluation, 4. la composition et le fonctionnement des commissions de validation,
-\5. les indemnités des évaluateurs, des membres de jurys et de la commission du bilan de fin de formation à la pratique
+5\. les indemnités des évaluateurs, des membres de jurys et de la commission du bilan de fin de formation à la pratique
 professionnelle, 6. la composition et le fonctionnement des commissions consultatives du stage des fonctionnaires-stagiaires et de la période de stage des employés de l’Éducation nationale ;
 
 5°
@@ -5924,21 +5924,21 @@ Loi du 22 juin 2017 ayant pour objet l’organisation de la Maison de l’orient
 
 MAISON DE L’ORIENTATION
 Loi du 22 juin 2017 ayant pour objet l’organisation de la Maison de l’orientation et modifiant
-\1) la loi modifiée du 13 juillet 2006 portant réorganisation du Centre de psychologie et d’orientation scolaires,
-\2) la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques,
-\3) la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: De l’enseignement secondaire),
-\4) la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée,
-\5) la loi modifiée du 2 décembre 1987 portant réglementation de la médecine scolaire,
-\6) la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
+1\) la loi modifiée du 13 juillet 2006 portant réorganisation du Centre de psychologie et d’orientation scolaires,
+2\) la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques,
+3\) la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: De l’enseignement secondaire),
+4\) la loi modifiée du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée,
+5\) la loi modifiée du 2 décembre 1987 portant réglementation de la médecine scolaire,
+6\) la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
 professionnelle continue,
-\7) la loi modifiée du 25 juillet 2005 portant création d’un lycée-pilote,
-\8) la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle,
-\9) la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental,
-\10) la loi modifiée du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins
+7\) la loi modifiée du 25 juillet 2005 portant création d’un lycée-pilote,
+8\) la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle,
+9\) la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental,
+10\) la loi modifiée du 15 juillet 2011 visant l’accès aux qualifications scolaires et professionnelles des élèves à besoins
 éducatifs particuliers,
-\11) la loi du 21 juillet 2012 portant création du Sportlycée,
-\12) la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale,
-\13) l’article L.622-18 du Code du travail,
+11\) la loi du 21 juillet 2012 portant création du Sportlycée,
+12\) la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale,
+13\) l’article L.622-18 du Code du travail,
 (Mém. A – 605 du 29 juin 2017; doc. parl. 6787)
 modifiée par
 Loi du 29 août 2017, (Mém. A – 789 du 5 septembre 2017; doc. parl. 7074)
@@ -6002,7 +6002,7 @@ de compléter l’offre existante au niveau de l’orientation scolaire et profe
 de fournir un soutien conceptuel et logistique lors d’activités d’information et de sensibilisation organisées dans le
 domaine de l’orientation scolaire et professionnelle par des tiers ;
 
-7.
+7\.
 
 de soutenir les travaux du Forum orientation créé à l’article 9.
 
@@ -6022,19 +6022,19 @@ professionnelle ;
 
 il assure la communication de la Maison de l’orientation ;
 
-7.
+7\.
 
 il coordonne les travaux de conception, de rédaction et de publication de la Maison de l’orientation ;
 
-8.
+8\.
 
 il coordonne les actions de sensibilisation et d’information de la Maison de l’orientation ;
 
-9.
+9\.
 
 il coordonne le portail internet sur les professions et les formations ;
 
-\10. il coordonne l’élaboration du cadre de référence pour les établissements de l’enseignement secondaire, de l’enseignement secondaire technique et de la formation professionnelle.
+10\. il coordonne l’élaboration du cadre de référence pour les établissements de l’enseignement secondaire, de l’enseignement secondaire technique et de la formation professionnelle.
 Le Service peut être chargé par le ministre d’autres tâches dans le domaine de l’orientation scolaire et professionnelle.
 Le cadre du personnel du Service comprend un directeur et des fonctionnaires des différentes catégories de traitement telles
 que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement
@@ -6069,23 +6069,23 @@ de conseiller le Gouvernement sur les initiatives à prendre pour mettre en œuv
 
 Art. 10.
 Le Forum orientation se compose :
-\1. d’un représentant du ministre ayant l’Education nationale dans ses attributions ;
-\2. d’un représentant du ministre ayant la Formation professionnelle dans ses attributions ;
-\3. d’un représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
-\4. d’un représentant du ministre ayant la Jeunesse dans ses attributions ;
-\5. de deux représentants du ministre ayant l’Emploi dans ses attributions ;
-\6. d’un représentant du ministre ayant l’Economie dans ses attributions ;
-\7. d’un représentant du ministre ayant l’Egalité des chances dans ses attributions ;
-\8. d’un représentant du ministre ayant la Famille dans ses attributions ;
-\9. d’un représentant du Collège des directeurs de l’« enseignement secondaire classique »1 ;
-\10. d’un représentant du Collège des directeurs de l’« enseignement secondaire général »1 ;
-\11. d’un représentant du Collège des inspecteurs de l’enseignement fondamental ;
-\12. d’un représentant de chacune des Chambres professionnelles ;
+1\. d’un représentant du ministre ayant l’Education nationale dans ses attributions ;
+2\. d’un représentant du ministre ayant la Formation professionnelle dans ses attributions ;
+3\. d’un représentant du ministre ayant l’Enseignement supérieur dans ses attributions ;
+4\. d’un représentant du ministre ayant la Jeunesse dans ses attributions ;
+5\. de deux représentants du ministre ayant l’Emploi dans ses attributions ;
+6\. d’un représentant du ministre ayant l’Economie dans ses attributions ;
+7\. d’un représentant du ministre ayant l’Egalité des chances dans ses attributions ;
+8\. d’un représentant du ministre ayant la Famille dans ses attributions ;
+9\. d’un représentant du Collège des directeurs de l’« enseignement secondaire classique »1 ;
+10\. d’un représentant du Collège des directeurs de l’« enseignement secondaire général »1 ;
+11\. d’un représentant du Collège des inspecteurs de l’enseignement fondamental ;
+12\. d’un représentant de chacune des Chambres professionnelles ;
 (Loi du 1er août 2018)
 « 13. d’un représentant désigné par la représentation nationale des parents ; »
-\14. d’un représentant de la Conférence nationale des élèves ;
-\15. d’un représentant de l’association des étudiants la plus représentative sur le plan national ;
-\16. du directeur du Service.
+14\. d’un représentant de la Conférence nationale des élèves ;
+15\. d’un représentant de l’association des étudiants la plus représentative sur le plan national ;
+16\. du directeur du Service.
 Le Forum orientation est présidé par le directeur du Service. Les membres sont nommés, sur proposition des personnes ou
 instances représentées, par le ministre ayant l’Education nationale dans ses attributions pour un mandat renouvelable de trois
 ans. Pour chaque représentant il est désigné un suppléant.
@@ -6113,29 +6113,29 @@ Le Centre psycho-social et d’accompagnement scolaires, désigné ci-après par
 ministre ayant l’Education nationale dans ses attributions, désigné ci-après par « le ministre ».
 Le Centre a pour mission d’être le centre de ressources psycho-sociales pour les lycées, de com­pléter l’offre d’accompagnement psycho-social des lycées et de faire office de médiateur scolaire.
 Dans le cadre de cette mission, le Centre assure les tâches suivantes :
-\1. il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par
+1\. il élabore un cadre de référence pour l’offre d’accompagnement psycho-social des élèves par les lycées à valider par
 le ministre ;
-\2. il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psychosocial des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de
+2\. il organise des réunions de concertation avec les services chargés au sein des lycées de l’accompagnement psychosocial des élèves afin de permettre un échange des bonnes pratiques et rédige un rapport annuel d’évaluation de
 l’offre d’accompagnement psycho-social des élèves par les établissements scolaires ;
-\3. il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et
+3\. il réunit un savoir et savoir-faire dans des matières relevant de la prise en charge des troubles psychologiques et
 d’apprentissage des élèves et développe des stratégies de prévention et de prise en charge de ces troubles en assurant la diffusion de celles-ci à travers des formations, des publications et des conférences ;
-\4. il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation
+4\. il met à disposition des services chargés de l’accompagnement psycho-social des élèves un centre de docu­mentation
 et des outils spécialisés ;
-\5. à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves
+5\. à la demande des services chargés de l’accompagnement psycho-social des élèves, il prend en charge des élèves
 qui nécessitent un accompagnement et un soutien psycho-social spécialisés ;
-\6. il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ;
-\7. il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires
+6\. il contribue à l’offre de formation continue organisée par l’Institut de formation de l’Education nationale ;
+7\. il contribue à l’élaboration de recommandations et à la réalisation des actions d’information et d’orientation scolaires
 et professionnelles ;
-\8. à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives
+8\. à la demande des directeurs des lycées, il les assiste lors du recrutement des personnels des carrières éducatives
 et psycho-sociales ;
-\9. il assure une assistance en cas de crise aiguë à la demande des directeurs ;
-\10. il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ;
-\11. il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas
+9\. il assure une assistance en cas de crise aiguë à la demande des directeurs ;
+10\. il évalue individuellement les demandes de subvention lui adressées en application de l’article 2 de la présente loi ;
+11\. il complète l’offre d’accompagnement psycho-social des élèves ou étudiants pour lesquels un tel service n’est pas
 assuré. Il complète l’offre de conseil aux parents d’élèves au sujet de problèmes psycho-sociaux concernant leurs
 enfants ;
-\12. il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées
+12\. il offre un conseil professionnel et psychologique aux membres du personnel des écoles fonda­mentales et des lycées
 qui en font la demande au directeur du Centre ;
-\13. dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants,
+13\. dans sa fonction de médiateur scolaire il reçoit les réclamations des élèves, des parents d’élèves ou des enseignants,
 formulées à l’occasion d’une affaire qui les concerne. La saisine du Centre doit avoir été précédée de démarches
 auprès de l’inspecteur de l’enseignement fondamental, de la commission scolaire, du régent de classe et du directeur
 du lycée. Lorsque les réclamations lui paraissent fondées, le Centre émet des recommandations aux concernés qui
@@ -6165,14 +6165,14 @@ dans lequel est inscrit l’élève ou à défaut auprès du Centre.
 
 MAISON DE L’ORIENTATION
 (2) Une subvention de maintien scolaire est accordée par le ministre aux élèves ayant atteint la majorité :
-\1. inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou
+1\. inscrits à plein temps ou en formation concomitante dans un établissement de l’enseignement secondaire ou
 secondaire technique public luxembourgeois, ainsi que les établissements d’enseignement privé sous régime
 contractuel suivant les programmes de l’enseignement public luxembourgeois ;
-\2. âgés de moins de 30 ans à la date de la demande ;
-\3. vivant seuls ;
-\4. en situation de détresse psycho-sociale ;
-\5. suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ;
-\6. et ayant un loyer à payer.
+2\. âgés de moins de 30 ans à la date de la demande ;
+3\. vivant seuls ;
+4\. en situation de détresse psycho-sociale ;
+5\. suivis par un service psycho-social et d’accompagnement scolaires ou le Centre ;
+6\. et ayant un loyer à payer.
 La subvention de maintien scolaire a comme objectif de permettre à l’élève de poursuivre la scolarité jusqu’à l’obtention d’un diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de
 technicien, d’un diplôme d’aptitude professionnelle ou d’un certificat de capacité professionnelle.
 La situation de détresse psycho-sociale est constatée par le service psycho-social et d’accompagnement scolaires
@@ -6202,10 +6202,10 @@ L’orientation des élèves
 (1) Les établissements d’enseignement secondaire et secondaire technique, y compris les éta­blissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement public luxembourgeois, désignés
 ci-après par « les lycées », prennent en charge des élèves au niveau de l’orientation scolaire et professionnelle.
 La démarche d’orientation mise en œuvre par les lycées et adaptée aux besoins spécifiques de sa population scolaire vise :
-\1. à informer sur le système scolaire et les voies de formation, y inclues les possibilités d’études supé­rieures tant au
+1\. à informer sur le système scolaire et les voies de formation, y inclues les possibilités d’études supé­rieures tant au
 Luxembourg qu’à l’étranger ;
-\2. à faire connaître le monde socio-économique, en particulier le marché de l’emploi ;
-\3. à développer les compétences permettant de prendre les décisions sur les voies de formation à choisir et d’élaborer un projet d’études personnel.
+2\. à faire connaître le monde socio-économique, en particulier le marché de l’emploi ;
+3\. à développer les compétences permettant de prendre les décisions sur les voies de formation à choisir et d’élaborer un projet d’études personnel.
 Le directeur de lycée met en place, au sein de son lycée, une cellule d’orientation qui est composée d’au moins deux
 membres du personnel enseignant, d’au moins deux membres du personnel éducatif ou psycho-social et d’au moins
 un enseignant du régime préparatoire au cas où celui-ci est offert par le lycée.
@@ -6228,10 +6228,10 @@ convoquée par ce dernier.
 (2) La démarche d’orientation doit être conforme à un cadre de référence fixant des standards minima à respecter par
 les lycées au niveau de la démarche d’orientation scolaire et professionnelle.
 Ce cadre de référence décrit :
-\1. les objectifs à atteindre par l’orientation scolaire et professionnelle ;
-\2. les mesures à prendre pour atteindre ces objectifs ;
-\3. les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ;
-\4. l’implication des membres de la communauté scolaire dans la démarche d’orientation.
+1\. les objectifs à atteindre par l’orientation scolaire et professionnelle ;
+2\. les mesures à prendre pour atteindre ces objectifs ;
+3\. les services spécialisés ou intervenants externes sollicités pour informer sur le monde socio-économique ;
+4\. l’implication des membres de la communauté scolaire dans la démarche d’orientation.
 Le cadre de référence pour l’orientation scolaire et professionnelle est élaboré par le Service de coordination de
 la Maison de l’orientation en collaboration avec les parties prenantes de la Maison de l’orientation et le Service de
 Coordination de la Recherche et de l’Innovation pédagogiques et technologiques et est arrêté par le ministre.
@@ -6251,12 +6251,12 @@ Le cadre de référence, élaboré par le Centre psycho-social et d’accompagne
 décrit les orientations d’action générales et les programmes d’activités des services. La mise en œuvre des programmes
 est évaluée par le Centre psycho-social et d’accompagnement scolaires. »
 
-7.
+7\.
 
 Aux alinéas 3 et 5 de l’article 28, les mots « service de psychologie et d’orientation scolaires » sont remplacés par ceux
 de « service psycho-social et d’accompagnement scolaires »
 
-8.
+8\.
 
 A l’alinéa 4 de l’article 28, le 9e tiret est supprimé.
 
@@ -6646,10 +6646,10 @@ scolarité (tel qu’il a été modifié)  . . . . . . . . . . . . . . . . . . .
 Règlement grand-ducal du 14 mai 2009 déterminant le fonctionnement des classes d’enfants hospitalisés . . . . .
 
 Règlement grand-ducal du 28 mai 2009 ayant pour objet de déterminer
-\1) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire
+1\) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire
 communale;
-\2) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
-\3) l’organisation et le fonctionnement de la commission scolaire communale . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  156
+2\) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
+3\) l’organisation et le fonctionnement de la commission scolaire communale . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  156
 Règlement grand-ducal modifié du 28 mai 2009 concernant les modalités d’élection des membres du personnel
 enseignant à la commission scolaire nationale, le fonctionnement de celle-ci ainsi que les décharges et indemnités
 de ses membres (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  158
@@ -6785,11 +6785,11 @@ le ministre: le ministre ayant l’Éducation nationale dans ses attributions;
 SCRIPT: le Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques;
 
 Les modifications de la loi du 19 décembre 2025 entrent en vigueur selon le calendrier suivant:
-\1. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
-\2. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
-\3. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
-\4. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
-\5. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
+1\. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
+2\. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
+3\. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
+4\. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
+5\. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
 \- 123 -
 
 école: une entité administrative et pédagogique identifiable, regroupant en communauté scolaire les élèves et les
@@ -6802,11 +6802,11 @@ classe: un groupe d’élèves placé sous la responsabilité d’un titulaire d
 instituteur: une personne nommée à une fonction d’instituteur au sens de la législation concernant le personnel de
 l’enseignement fondamental;
 
-7.
+7\.
 
 titulaire de classe: l’instituteur responsable d’une classe;
 
-8.
+8\.
 
 équipe pédagogique: le personnel enseignant et le personnel éducatif en charge des classes d’un même cycle;
 
@@ -6814,16 +6814,16 @@ titulaire de classe: l’instituteur responsable d’une classe;
 «9. équipe de soutien des élèves à besoins éducatifs (. . .)1 ou spécifiques, dénommée ci-après « ESEB » : le personnel
 défini à l’article 69 intervenant au niveau régional dans l’intérêt des élèves à besoins éducatifs (. . .)1 ou spécifiques en
 tant que service (. . .)1, affecté à une région ;»
-\10. équipe médico-socio-scolaire: une équipe agréée par le ministre ayant la Santé dans ses attributions et assurant la médecine scolaire dans les écoles, conformément à la loi du 2 décembre 1987 portant réglementation de la médecine scolaire;
+10\. équipe médico-socio-scolaire: une équipe agréée par le ministre ayant la Santé dans ses attributions et assurant la médecine scolaire dans les écoles, conformément à la loi du 2 décembre 1987 portant réglementation de la médecine scolaire;
 (Loi du 2 août 2017)
 «11. personnel enseignant : les instituteurs et les chargés de cours.»
-\12. personnel éducatif: les éducateurs ainsi que les éducateurs gradués;
-\13. personnel de l’école: le personnel affecté à une école et assurant l’enseignement et l’éducation des élèves, ainsi que
+12\. personnel éducatif: les éducateurs ainsi que les éducateurs gradués;
+13\. personnel de l’école: le personnel affecté à une école et assurant l’enseignement et l’éducation des élèves, ainsi que
 leur prise en charge en cas de difficultés d’apprentissage;
 (Loi du 29 juin 2017)
 «14. personnel intervenant : le personnel de l’école et le personnel de l’équipe de soutien des élèves à besoins éducatifs (. . .)1
 spécifiques ;
-\15. iinstituteur spécialisé en développement scolaire, dénommé ci-après « I-DS » : un enseignant spécialisé affecté « à
+15\. iinstituteur spécialisé en développement scolaire, dénommé ci-après « I-DS » : un enseignant spécialisé affecté « à
 l’IFEN, tel que défini au point 23, »2 auquel le président du comité d’école, en tant que responsable du plan de développement de l’établissement scolaire, fait appel pour toute question relative au plan de développement de l’établissement
 scolaire, ainsi que les enseignants et les équipes pédagogiques pour toute question relative à l’organisation et la gestion
 journalières des apprentissages ;
@@ -6842,8 +6842,8 @@ spécialisé affecté à des écoles ;»
 (Loi du 30 juin 2023)
 «16quater. assistant pour élèves à besoins éducatifs spécifiques, ci-après « A-EBS » : un agent, membre du personnel éducatif
 et psycho-social, affecté à des écoles ;»
-\17. compétence: la capacité de réaliser une tâche à partir d’un ensemble de savoirs, de savoir-faire et d’attitudes acquis;
-\18. socles de compétences: un référentiel présentant les compétences dont la maîtrise est attendue à la fin de chaque
+17\. compétence: la capacité de réaliser une tâche à partir d’un ensemble de savoirs, de savoir-faire et d’attitudes acquis;
+18\. socles de compétences: un référentiel présentant les compétences dont la maîtrise est attendue à la fin de chaque
 cycle;
 (Loi du 29 juin 2017)
 «19. plan de développement de l’établissement scolaire, dénommé ci-après « PDS »: plan qui porte sur le développement de
@@ -6855,14 +6855,14 @@ Remplacé par la loi du 30 juin 2023.
 
 \- 124 -
 
-\20. région : une entité administrative de communes relative à la gestion de l’enseignement fondamental ;
-\21. directeur : une personne nommée à la fonction de directeur d’une région au sens de la loi modifiée du 6 février 2009
+20\. région : une entité administrative de communes relative à la gestion de l’enseignement fondamental ;
+21\. directeur : une personne nommée à la fonction de directeur d’une région au sens de la loi modifiée du 6 février 2009
 concernant le personnel de l’enseignement fondamental ;
-\22. directeur adjoint : une personne nommée à la fonction de directeur adjoint d’une région au sens de la loi modifiée du 6
+22\. directeur adjoint : une personne nommée à la fonction de directeur adjoint d’une région au sens de la loi modifiée du 6
 février 2009 concernant le personnel de l’enseignement fondamental ;
-\23. IFEN : Institut de formation de l’éducation nationale ;
-\24. communauté scolaire : les élèves et le personnel intervenant d’un ou de plusieurs bâtiments scolaires ;
-\25. partenaires scolaires : le personnel intervenant, les responsables du service d’éducation et d’accueil pour enfants, les
+23\. IFEN : Institut de formation de l’éducation nationale ;
+24\. communauté scolaire : les élèves et le personnel intervenant d’un ou de plusieurs bâtiments scolaires ;
+25\. partenaires scolaires : le personnel intervenant, les responsables du service d’éducation et d’accueil pour enfants, les
 représentants des parents d’élèves et les autorités communales concernées.»
 (Loi du 6 août 2021)
 «26. instituteur spécialisé en compétences numériques, dénommé ci-après « I-CN » : un enseignant spécialisé affecté « à
@@ -6965,14 +6965,14 @@ d’engager un dialogue avec les parents dès que des difficultés scolaires app
 
 d’organiser régulièrement des réunions d’information et de concertation avec les parents des élèves;
 
-7.
+7\.
 
 de travailler en étroite collaboration avec les équipes pédagogiques de son école;
 
 (Loi du 29 juin 2017)
 «8. de collaborer avec « l’I-EBS, »3 l’ESEB « les Centres de compétences en psycho-pédagogie spécialisée »3 et l’équipe
 médico-socio-scolaire ;»
-9.
+9\.
 
 d’assurer les travaux administratifs concernant sa classe.
 
@@ -7338,20 +7338,20 @@ apprentissages de leurs enfants ;
 
 le conseil du personnel du service d’éducation et d’accueil pour enfants concerné aux sujets des élèves visés ;
 
-7.
+7\.
 
 le conseil des équipes pédagogiques en matière de prise en charge des élèves visés ;
 
-8.
+8\.
 
 la coordination des mesures de prise en charge des élèves « mentionnés au point 2 »5 au niveau de l’école ;
 
-9.
+9\.
 
 l’élaboration d’une démarche pour l’encadrement des élèves « mentionnés au point 2 »5 dans le contexte de la rédaction
 du PDS en concertation avec le personnel de l’école et le per­sonnel du service d’éducation et d’accueil pour enfants ;
 
-\10. le lien avec la commission d’inclusion, dénommée ci-après « CI ».
+10\. le lien avec la commission d’inclusion, dénommée ci-après « CI ».
 
 Modifié par la loi du 31 juillet 2016.
 Supprimé par la loi du 31 juillet 2016.
@@ -7363,7 +7363,7 @@ Remplacé par la loi du 30 juin 2023.
 
 (Loi du 30 juin 2023)
 «11. la contribution à la scolarisation des élèves à besoins éducatifs spécifiques ;
-\12. la collaboration avec l’ESEB et les Centres de compétences en psycho-pédagogie spécialisée.»
+12\. la collaboration avec l’ESEB et les Centres de compétences en psycho-pédagogie spécialisée.»
 Au cours du premier trimestre de chaque année scolaire, l’I-EBS présente la démarche de son école en matière d’accompagnement des élèves « mentionnés au point 2 »2 à la CI.
 (2) (abrogé par la loi du 30 juin 2023)
 (Loi du 30 juin 2023)
@@ -7583,7 +7583,7 @@ En outre, elle peut comprendre :
 
 le médecin scolaire concerné, un médecin pédiatre ou un médecin spécialiste ;
 
-7.
+7\.
 
 l’assistant social ou l’assistant d’hygiène sociale concerné.
 
@@ -7727,7 +7727,7 @@ déterminer les besoins en formation continue du personnel;
 
 organiser la gestion du matériel didactique et informatique de l’école;
 
-7.
+7\.
 
 approuver l’utilisation du matériel didactique conformément à l’article 11;
 
@@ -7762,21 +7762,21 @@ d’assurer les relations avec l’organisme qui assure l’encadrement socio-é
 
 d’accueillir les remplaçants des enseignants et d’organiser l’insertion des nouveaux élèves;
 
-7.
+7\.
 
 de coordonner les plans horaires des différents enseignants;
 
-8.
+8\.
 
 de rassembler les données concernant les élèves fournies par les titulaires de classe;
 
-9.
+9\.
 
 d’informer « le ministre »1 de toute absence d’élève dont le motif n’est pas reconnu valable;
 
-\10. d’accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée, dans la limite de « l’article
+10\. d’accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée, dans la limite de « l’article
 12 de la loi relative à l’obligation scolaire »1 ;
-\11. de collaborer avec « le SCRIPT »2.
+11\. de collaborer avec « le SCRIPT »2.
 (Loi du 6 août 2021)
 «12. de coordonner les travaux d’élaboration et d’évaluation du PDS.»
 Il peut déléguer les points sous 6, 8 «, 9 et 12»3 de ses attributions à d’autres membres, notamment dans le cas où l’école
@@ -7922,11 +7922,11 @@ d’un directeur de région à élire par et parmi ses pairs ;»
 
 de quatre instituteurs de l’enseignement fondamental à élire par et parmi leurs pairs;
 
-7.
+7\.
 
 d’un représentant des autorités communales à nommer par le ministre sur proposition du Syndicat des Villes et Communes Luxembourgeoises;
 
-8.
+8\.
 
 de deux parents d’élèves nommés par le ministre « sur proposition de la représentation nationale des parents »3.
 
@@ -7998,11 +7998,11 @@ veiller à la réalisation et à l’entretien des bâtiments et équipements sc
 procéder à la répartition, parmi les écoles, des différents membres du personnel affecté à la commune en vertu de
 l’article 38;
 
-7.
+7\.
 
 organiser l’encadrement périscolaire des élèves tel que prévu aux articles 16 et 17 et veiller à son application;
 
-8.
+8\.
 
 veiller à l’exécution des dispositions légales en rapport avec la sécurité dans les écoles.
 
@@ -8045,20 +8045,20 @@ par trimestre ;
 
 il exécute les missions lui confiées dans le cadre de la législation et des directives officielles régissant l’Education nationale ;
 
-7.
+7\.
 
 il assure des missions dans le cadre du stage préparant à la fonction d’instituteur de l’enseignement fondamental ainsi
 que dans le cadre du cycle de formation de début de carrière des employés de l’Etat ;
 
-8.
+8\.
 
 il gère les ressources humaines ;
 
-9.
+9\.
 
 il veille au bon fonctionnement de la structure de la direction dans ses aspects administratifs, techniques et matériels ;
 
-\10. il établit et gère le budget.
+10\. il établit et gère le budget.
 Art. 61.
 Les directeurs adjoints assistent le directeur suivant les attributions leur déléguées par ce dernier dans les domaines de la
 gestion et de la pédagogie.
@@ -8106,11 +8106,11 @@ de début de carrière et des formations continues ;
 
 de faire au ministre des propositions en matière de formation continue des enseignants ;
 
-7.
+7\.
 
 d’organiser la formation offerte aux remplaçants intervenant dans l’enseignement fondamental ;
 
-8.
+8\.
 
 de proposer au ministre des mesures susceptibles de contribuer au développement de la qualité de l’enseignement et
 de l’encadrement des élèves.
@@ -8173,38 +8173,38 @@ des psychologues;
 
 des pédagogues curatifs;
 
-7.
+7\.
 
 des orthophonistes;
 
-8.
+8\.
 
 des rééducateurs en psychomotricité et des psycho-rééducateurs;
 
-9.
+9\.
 
 des ergothérapeutes;
 
-\10. des assistants sociaux;
-\11. des infirmiers;
-\12. des infirmiers en pédiatrie, anciennement puériculteurs;
-\13. des éducateurs gradués;
-\14. des éducateurs;
-\15. des bibliothécaires-documentalistes;
-\16. des membres de la réserve de suppléants;
-\17. des maîtresses de jardin d’enfants;
-\18. des membres de la réserve de suppléants des éducateurs gradués et éducateurs;
+10\. des assistants sociaux;
+11\. des infirmiers;
+12\. des infirmiers en pédiatrie, anciennement puériculteurs;
+13\. des éducateurs gradués;
+14\. des éducateurs;
+15\. des bibliothécaires-documentalistes;
+16\. des membres de la réserve de suppléants;
+17\. des maîtresses de jardin d’enfants;
+18\. des membres de la réserve de suppléants des éducateurs gradués et éducateurs;
 
 Modifié par la loi du 29 juin 2017.
 
 \- 143 -
 
-\19. des enseignants de cours en langue maternelle pour enfants de langue étrangère;
-\20. des médiateurs interculturels;
-\21. des instructeurs de natation;
+19\. des enseignants de cours en langue maternelle pour enfants de langue étrangère;
+20\. des médiateurs interculturels;
+21\. des instructeurs de natation;
 (Loi du 29 juin 2017)
 «22. des membres de la réserve des auxiliaires éducatifs.»
-\23. des remplaçants
+23\. des remplaçants
 (Loi du 29 juin 2017)
 «24. des I-EBS.»
 (Loi du 6 août 2021)
@@ -8226,26 +8226,26 @@ des pédagogues curatifs;
 
 des orthophonistes;
 
-7.
+7\.
 
 des rééducateurs en psychomotricité et des psycho-rééducateurs;
 
-8.
+8\.
 
 des ergothérapeutes;
 
-9.
+9\.
 
 des assistants sociaux;
 
-\10. des infirmiers;
-\11. des infirmiers en pédiatrie, anciennement puériculteurs;
-\12. des éducateurs gradués;
-13.
+10\. des infirmiers;
+11\. des infirmiers en pédiatrie, anciennement puériculteurs;
+12\. des éducateurs gradués;
+13\.
 
 des éducateurs;
 
-\14. des membres de la réserve de suppléants.»
+14\. des membres de la réserve de suppléants.»
 
 Section 2 – La formation continue
 Art. 70. - 74. (supprimés par la loi du 30 juillet 2015)
@@ -8310,7 +8310,7 @@ L’article 12 est modifié comme suit:
 médico-psycho-pédagogique nationale et au ministre en y joignant son avis.
 Les transferts se font par décision du ministre.»
 
-7.
+7\.
 
 Les deuxième et troisième alinéas de l’article 14 sont modifiés comme suit:
 «Les communautés ou associations doivent se conformer aux dispositions de la loi du 13 juin 2003 concernant les
@@ -8508,23 +8508,23 @@ d’élaborer et de mettre en œuvre des situations d’évaluation;
 
 d’évaluer les performances des élèves;
 
-7.
+7\.
 
 d’informer les parents sur l’organisation et l’évaluation des apprentissages;
 
-8.
+8\.
 
 d’élaborer en concertation avec les membres des équipes pédagogiques des cycles d’apprentissage précédent et subséquent concernés des stratégies de prise en charge continue pour les élèves qui présentent une avance ou un retard
 par rapport aux compétences à développer dans le temps imparti;
 
-9.
+9\.
 
 de se concerter avec des représentants de l’équipe multiprofessionnelle, notamment pour organiser l’encadre-ment des
 élèves bénéficiant d’un plan de prise en charge individualisé et pour assurer leur suivi;
 
-\10. de se concerter avec des membres du personnel de la maison relais pour enfants afin d’assurer la cohérence des
+10\. de se concerter avec des membres du personnel de la maison relais pour enfants afin d’assurer la cohérence des
 apprentissages et d’organiser en commun, le cas échéant, l’aide aux devoirs à domicile;
-\11. de déterminer les besoins en formation continue de ses membres.
+11\. de déterminer les besoins en formation continue de ses membres.
 Au cours de l’année scolaire, chaque équipe pédagogique se réunit chaque semaine et chaque fois que le bon fonctionnement de l’organisation des apprentissages l’exige, notamment au début de l’année scolaire. Le membre du personnel enseignant ou du personnel éducatif qui intervient dans plusieurs cycles d’apprentissage participe alternativement aux réunions des
 différentes équipes, notamment si un sujet qui le concerne figure à l’ordre du jour.
 Les quatre équipes pédagogiques d’une école se donnent un même règlement de fonctionnement interne approuvé par le
@@ -8643,37 +8643,37 @@ L’organisation scolaire comprenant toutes les données nominatives et chiffré
 rentrée des classes par le collège des bourgmestre et échevins ou par le bureau des syndicats scolaires intercommunaux. Ces
 données sont transmises à la commission scolaire, aux comités d’école, à l’inspecteur d’arrondissement et au ministre.
 L’organisation scolaire établie par le conseil communal ou le comité du syndicat scolaire intercommunal renseigne obligatoirement sur les points suivants:
-1)
+1\)
 
 les écoles établies sur le territoire de la commune ainsi que les ressorts scolaires y rattachés;
 
-2)
+2\)
 
 les horaires hebdomadaires et journaliers des classes;
 
-3)
+3\)
 
 la répartition des classes « , en tenant compte de l’article 4ter du règlement grand-ducal modifié du 11 août 2011 fixant
 le plan d’études pour les quatre cycles de l’enseignement fondamental »1 et le relevé des élèves;
 
-4)
+4\)
 
 les activités dans le cadre de l’horaire scolaire, y compris le soutien aux élèves en difficulté d’apprentissage, les mesures relatives au plan de réussite scolaire et, le cas échéant, les initiatives de projets scolaires et le détail de leurs
 retombées en matière de leçons d’enseignement;
 
-5)
+5\)
 
 (supprimé par le règl. g.-d. du 2 août 2017);
 
-6)
+6\)
 
 l’organisation des activités scolaires en dehors de l’horaire normal;
 
-7)
+7\)
 
 l’occupation des postes d’instituteurs et les autres membres du personnel des écoles, avec indication de leurs prestations;
 
-8)
+8\)
 
 l’organisation de la surveillance obligatoire des élèves pendant les récréations ainsi que pendant la période de surveillance précédant ou suivant les heures fixées pour le commencement et la fin des classes.
 
@@ -8686,11 +8686,11 @@ qui sera publié au Mémorial.
 
 Les dispositions de l’article 1er, de l’article 2, points 1° et 2° et de l’article 3, points 1° et 3°, du règlement grand-ducal du 22 décembre 2025 entrent
 en vigueur selon le calendrier suivant :
-\1. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
-\2. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
-\3. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
-\4. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
-\5. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
+1\. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
+2\. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
+3\. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
+4\. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
+5\. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
 
 \- 153 -
 
@@ -8750,9 +8750,9 @@ qui sera publié au Mémorial.
 \- 155 -
 
 Règlement grand-ducal du 28 mai 2009 ayant pour objet de déterminer
-\1) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire communale;
-\2) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
-\3) l’organisation et le fonctionnement de la commission scolaire communale.
+1\) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire communale;
+2\) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
+3\) l’organisation et le fonctionnement de la commission scolaire communale.
 (Mém. A – 132 du 12 juin 2009, p. 1876)
 
 Chapitre I. Modalités d’élection des représentants des parents d’élèves à l’école et
@@ -8893,7 +8893,7 @@ Les électeurs peuvent réclamer contre la composition du corps électoral. Ils 
 la publication de la liste, leur réclamation motivée par écrit au ministre qui en décide.
 Sont éligibles les personnes figurant sur la liste électorale mentionnée à l’article 2.
 Pour être recevables, les déclarations de candidature doivent être adressées par lettre recommandée au président du bureau électoral. Elles portent la signature du candidat ou de la candidate et indiquent ses nom et prénoms (Règl. g.-d. du 24 mars
-\2014) «et le lieu de travail».
+2014\) «et le lieu de travail».
 (Règl. g.-d. du 24 mars 2014)
 «Les syndicats des enseignants peuvent présenter une liste de quatre candidats signée du président et des quatre candidats.»
 Aussitôt passé le délai pour la présentation des candidatures, le président du bureau électoral publie la liste des candidats
@@ -9043,12 +9043,12 @@ la composition socio-économique et socio-culturelle de la population scolaire. 
 soit sur la base de données socio-économiques relevant des ménages ayant au moins un enfant scolarisé dans l’école
 publique luxembourgeoise. Dans ce cas la procédure de transmission des fichiers nécessaires à l’établissement des
 indices entre les administrations concernées est la suivante:
-\1. l’inspection générale de la sécurité sociale (IGSS) anonymise sous forme de numéros les matricules des responsables d’éducation et les transmet à l’administration du ministère de l’éducation nationale;
-\2. l’administration du ministère de l’éducation nationale y attache les informations permettant d’attribuer les numéros
+1\. l’inspection générale de la sécurité sociale (IGSS) anonymise sous forme de numéros les matricules des responsables d’éducation et les transmet à l’administration du ministère de l’éducation nationale;
+2\. l’administration du ministère de l’éducation nationale y attache les informations permettant d’attribuer les numéros
 aux communes et les transmet au Centre d’études de Populations, de Pauvreté et de Politiques socio-économiques
 (CEPS);
-\3. l’inspection générale de la sécurité sociale (IGSS) transmet les numéros avec les données socio-économiques nécessaires à l’établissement des indices au Centre d’études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
-\4. le Centre d’études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) recoupe les deux fichiers
+3\. l’inspection générale de la sécurité sociale (IGSS) transmet les numéros avec les données socio-économiques nécessaires à l’établissement des indices au Centre d’études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS);
+4\. le Centre d’études de Populations, de Pauvreté et de Politiques socio-économiques (CEPS) recoupe les deux fichiers
 contenant des données anonymisées.
 
 soit sur la base de données socio-économiques relevant de la population résidante constituée des ménages ayant au
@@ -9090,7 +9090,7 @@ Les données des élèves d’une classe sont accessibles en lecture et écritur
 à tous les intervenants dans cette classe.
 Les présidents des comités d’école, les inspecteurs d’arrondissement ou leurs délégués et les bourgmestres ou leurs délégués ont accès en lecture seule à toutes les données des élèves des classes dont ils sont en charge.
 Les données enregistrées sont:
-1)
+1\)
 
 des informations concernant l’élève:
 – numéro d’identité;
@@ -9108,7 +9108,7 @@ des informations concernant l’élève:
 – progression scolaire;
 – bilans scolaires;
 – avis d’orientation à la fin de l’enseignement fondamental;
-2)
+2\)
 
 des informations concernant sa famille:
 – noms, prénoms, numéro d’identité et adresse des parents;
@@ -9483,9 +9483,9 @@ un dossier qui documente les productions de l’élève et rend compte de son pa
 un journal de bord où l’élève commente son parcours scolaire et son projet personnel de formation. Il sert d’outil d’autoévaluation à l’élève;
 
 le bilan établi, au moins deux fois par an, par l’équipe multiprofessionnelle. Dans celui-ci figurent:
-\1. les performances et les acquis de l’élève relatifs à une période donnée;
-\2. un rapport du progrès d’apprentissage;
-\3. les commentaires sur les travaux réunis dans le dossier;
+1\. les performances et les acquis de l’élève relatifs à une période donnée;
+2\. un rapport du progrès d’apprentissage;
+3\. les commentaires sur les travaux réunis dans le dossier;
 
 d)
 
@@ -9583,23 +9583,23 @@ préparer les assemblées du personnel;
 
 gérer le matériel didactique et informatique de l’Ecole;
 
-7.
+7\.
 
 coordonner les plans horaires;
 
-8.
+8\.
 
 rassembler les données concernant les élèves;
 
-9.
+9\.
 
 assurer le contact avec le Ministère et la commune d’implantation;
 
-\10. préparer un rapport d’activité annuel de l’Ecole;
-\11. convoquer les réunions du conseil d’école;
-\12. informer le ou la ministre de toute absence d’élève dont le motif n’est pas reconnu valable;
-\13. accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée;
-\14. planifier des formations continues.
+10\. préparer un rapport d’activité annuel de l’Ecole;
+11\. convoquer les réunions du conseil d’école;
+12\. informer le ou la ministre de toute absence d’élève dont le motif n’est pas reconnu valable;
+13\. accorder les dispenses de fréquentation scolaire pour une durée dépassant une journée;
+14\. planifier des formations continues.
 Le comité d’école délègue deux membres dans le conseil scientifique prévu à l’article 15 et un membre dans le conseil
 d’école.
 Art. 12.
@@ -9646,23 +9646,23 @@ Les projets et rapports de recherche et de développement de l’Ecole sont soum
 universitaires.
 Art. 16.
 La coopération entre l’Ecole et l’institution universitaire visée à l’article 1er concerne:
-1)
+1\)
 
 le développement de la qualité de l’enseignement;
 
-2)
+2\)
 
 la recherche sur l’Ecole;
 
-3)
+3\)
 
 le développement professionnel continu des membres de l’équipe multiprofessionnelle;
 
-4)
+4\)
 
 la publication et diffusion des résultats de recherche;
 
-5)
+5\)
 
 le développement durable de l’Ecole.
 
@@ -9867,7 +9867,7 @@ des moments de repos pour les enfants;
 
 la restauration des enfants;
 
-7.
+7\.
 
 l’accueil des enfants avant et après les heures de classe.
 
@@ -9912,29 +9912,29 @@ Le PEP tient compte des modalités d’organisation suivantes:
 a.
 
 au niveau de la préparation:
-\1. du constat général des besoins de la population en encadrement périscolaire sur le territoire communal ou intercommunal eu égard à la situation spécifique locale;
-\2. de l’estimation du nombre d’enfants scolarisés susceptibles de bénéficier de l’encadrement périscolaire par âge, y
+1\. du constat général des besoins de la population en encadrement périscolaire sur le territoire communal ou intercommunal eu égard à la situation spécifique locale;
+2\. de l’estimation du nombre d’enfants scolarisés susceptibles de bénéficier de l’encadrement périscolaire par âge, y
 compris du nombre de ceux ayant des besoins spécifiques;
-\3. du relevé des propositions faites par des personnes physiques et/ou morales ayant pour objet des activités en rapport avec l’encadrement périscolaire;
-\4. du relevé des infrastructures pouvant servir à l’encadrement périscolaire.
+3\. du relevé des propositions faites par des personnes physiques et/ou morales ayant pour objet des activités en rapport avec l’encadrement périscolaire;
+4\. du relevé des infrastructures pouvant servir à l’encadrement périscolaire.
 
 b.
 
 au niveau de la planification:
-\1. de l’accueil et de la surveillance des enfants pendant les périodes précédant ou suivant immédiatement les horaires
+1\. de l’accueil et de la surveillance des enfants pendant les périodes précédant ou suivant immédiatement les horaires
 scolaires;
-\2. du nombre et de la nature des activités proposées en fonction des modalités d’accueil, et, lorsqu’il s’agit d’activités
+2\. du nombre et de la nature des activités proposées en fonction des modalités d’accueil, et, lorsqu’il s’agit d’activités
 physiques ou sportives, des conditions dans lesquelles celles-ci sont mises en œuvre;
-\3. de la nature des activités proposées, de la répartition des temps respectifs d’activité et de repos;
-\4. des modalités de fréquentation des enfants;
-\5. en cas de besoin, des mesures individualisées pour les enfants à besoins pédagogiques spécifiques résidant dans
+3\. de la nature des activités proposées, de la répartition des temps respectifs d’activité et de repos;
+4\. des modalités de fréquentation des enfants;
+5\. en cas de besoin, des mesures individualisées pour les enfants à besoins pédagogiques spécifiques résidant dans
 la commune et fréquentant une école publique autre que celle de la commune;
-\6. des horaires des activités proposées;
-\7. de la transition entre les différents sites où ont lieu les activités;
-\8. de la mise à disposition du personnel encadrant;
-\9. des ressources budgétaires disponibles pour sa mise en œuvre;
-\10. des dispositions prévues en matière de restauration scolaire;
-\11. des dispositions prises afin d’assurer la sécurité des enfants.
+6\. des horaires des activités proposées;
+7\. de la transition entre les différents sites où ont lieu les activités;
+8\. de la mise à disposition du personnel encadrant;
+9\. des ressources budgétaires disponibles pour sa mise en œuvre;
+10\. des dispositions prévues en matière de restauration scolaire;
+11\. des dispositions prises afin d’assurer la sécurité des enfants.
 
 Le PEP distingue les offres relevant du champ d’application de l’enseignement fondamental et les offres relevant du champ
 d’application du chèque-service accueil.
@@ -10102,8 +10102,8 @@ Modifié par la loi du 1er août 2019.
 
 Loi du 2 août 2017 portant organisation de la reprise des enseignants de religion et des chargés de cours de religion
 et portant modification de
-\1. la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
-\2. la loi modifiée du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement,
+1\. la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
+2\. la loi modifiée du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement,
 d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire.
 (Mém. A - 696 du 9 août 2017; doc. parl. 7078)
 
@@ -10161,7 +10161,7 @@ condamnation à une peine d’emprisonnement ;
 
 satisfait aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique ;
 
-7.
+7\.
 
 est détenteur soit du certificat de formation prévu à l’article 12, paragraphe 1er, soit d’un certificat de formation reconnu
 équivalent par le ministre, soit a participé à 80 pour cent de la formation théorique prévue à l’article 6 ainsi qu’à l’intégralité de la formation pratique prévue à l’article 8.
@@ -10220,7 +10220,7 @@ durée de douze heures ;
 
 module 6 : la psychomotricité, l’expression corporelle, les sports et la santé d’une durée de six heures ;
 
-7.
+7\.
 
 module 7 : l’expression créatrice, l’éveil à l’esthétique, à la création et à la culture d’une durée de douze heures.
 
@@ -10364,7 +10364,7 @@ condamnation à une peine d’emprisonnement;
 
 satisfait aux conditions d’aptitude physique et psychique requises pour l’exercice de son emploi, à attester par un certificat médical établi par le médecin du travail dans la Fonction publique.
 
-7.
+7\.
 
 est détenteur soit du certificat de formation prévu à l’article 21, soit d’un certificat de formation reconnu équivalent par
 le ministre, soit d’un certificat de formation prévu à l’article 4, paragraphe 1er, point 7.
@@ -10631,7 +10631,7 @@ Loi du 13 mars 2018 portant sur le développement curriculaire de l’Éducation
 1° la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire général ;
 2° la loi modifiée du 7 octobre 1993 ayant pour objet 1. la création d’un Service de Coordination de la Recherche et de
 l’Innovation pédagogiques et technologiques ; 2. la création d’un « Centre de Gestion Informatique de l’Éducation » ;
-\3. l’institution d’un Conseil scientifique ;
+3\. l’institution d’un Conseil scientifique ;
 3° la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental.
 (Mém. A - 184 du 14 mars 2018; doc. parl. 7076; Rectificatif Mém. A - 237 du 5 avril 2018)
 
@@ -10693,7 +10693,7 @@ l’éveil à l’esthétique, à la création et aux cultures, les arts et la m
 
 la vie en commun et ses valeurs ;
 
-7.
+7\.
 
 le cycle 1 : l’éducation précoce et préscolaire.
 
@@ -10723,7 +10723,7 @@ les épreuves communes ;
 
 les évaluations externes ;
 
-7.
+7\.
 
 les besoins en matière de formation continue.
 
@@ -10763,15 +10763,15 @@ les manuels et tout autre matériel didactique ;
 
 les principes et modalités d’évaluation des élèves ;
 
-7.
+7\.
 
 les épreuves communes ;
 
-8.
+8\.
 
 les évaluations externes ;
 
-9.
+9\.
 
 les besoins en matière de formation continue.
 
@@ -10970,12 +10970,12 @@ en conseil.
 Le ministre de l’Éducation Nationale peut faire vérifier par un ou plusieurs délégués commis par lui si les établissements de
 l’espèce se conforment aux dispositions de la présente loi et aux conditions de l’agrément.
 Le ou les délégués du ministre vérifient:
-1)
+1\)
 
 si les annonces, messages et documentations publicitaires relatifs à l’activité de l’organisateur ou aux différents cours
 ne contiennent pas d’indications ou déclarations trompeuses;
 
-2)
+2\)
 
 si la documentation publicitaire fournit tous les renseignements utiles sur les cours spécifiques demandés par l’intéressé, notamment en ce qui concerne
 a) la conformité à l’agrément gouvernemental;
@@ -11058,26 +11058,26 @@ Chapitre 3. – Dispositions pénales
 
 Art. 20.
 Sera puni d’une amende de 250 à 25.000 euros1.
-1)
+1\)
 
 celui qui aura créé, ouvert, fait fonctionner un établissement d’enseignement à distance, fait de la publicité ou recruté
 des élèves pour un pareil établissement sans être muni de l’agrément visé à l’article 2 de la présente loi;
 
-2)
+2\)
 
 celui qui aura procédé à des modifications des données sur la base desquelles l’agrément a été délivré, sans y avoir été
 autorisé;
 
-3)
+3\)
 
 celui qui après le retrait de l’agrément aura continué à faire fonctionner ledit établissement;
 
-4)
+4\)
 
 celui qui aura refusé de se soumettre aux vérifications visées aux articles 6 et 7 de la présente loi ou qui aura sciemment
 fourni des renseignements ou documentations inexacts;
 
-5)
+5\)
 
 celui qui aura contrevenu aux articles 8, 9, alinéa 1er, 11, alinéa 4 et à l’article 12.
 
@@ -11259,7 +11259,7 @@ Annexe 1
 A. BILAN SCOLAIRE ET LANGAGIER
 Date actuelle
 
-\1. Scolarité antérieure (au pays d'origine ou dans un pays autre que le Luxembourg):
+1\. Scolarité antérieure (au pays d'origine ou dans un pays autre que le Luxembourg):
 Pays: ………..………………………
 
 École:……………………… Classe:……………..
@@ -11270,7 +11270,7 @@ Pays:1………..………………………
 École:……………………… Classe:……………..
 (dernière classe fréquentée)
 
-\2. Début de la scolarité au pays d’origine:
+2\. Début de la scolarité au pays d’origine:
 Cycle 1 (préscolaire): année……
 
 mois……
@@ -11279,12 +11279,12 @@ Cycles 2, 3 et 4 (Enseignement primaire): année……
 
 mois……
 
-\3. Progression scolaire:
+3\. Progression scolaire:
 Éducation préscolaire
 
 Enseign. primaire (veuillez inscrire les classes 2)
 
-\4. Langues comprises par les parents, les frères et les soeurs:
+4\. Langues comprises par les parents, les frères et les soeurs:
 (Ces données sont destinées à faciliter la communication avec la famille)
 luxemallemand français anglais
 Autre,
@@ -11302,7 +11302,7 @@ Frères et soeurs
 Autre personne
 de contact
 (spécifier)
-\5. Remarques éventuelles:
+5\. Remarques éventuelles:
 ……………………………………………………………………………………………
 ……………………………………………………………………………………………
 
@@ -11313,7 +11313,7 @@ Exemple: 1 2 3 3 4, si l’élève est resté plus longtemps dans un cycle.
 
 ÉTUDES
 
-\6. Connaissances scolaires au moment de l’inscription en classe: 3
+6\. Connaissances scolaires au moment de l’inscription en classe: 3
 6.1. Connaissance de l’alphabet:
 
 latin
@@ -11379,7 +11379,7 @@ Problèmes
 ……………………………………………………………………………………………………
 ……………………………………………………………………………………………………
 
-\7. Aides pédagogiques spécifiques éventuelles dont l’enfant a bénéficié: (appui, logopédie, etc.)
+7\. Aides pédagogiques spécifiques éventuelles dont l’enfant a bénéficié: (appui, logopédie, etc.)
 ………………………………………………………………………………………………………
 ………………………………………………………………………………………………………
 
@@ -11541,11 +11541,11 @@ après, un niveau de compétence supérieur.
 
 Les dispositions de l’article 1er, de l’article 2, points 1° et 2° et de l’article 3, points 1° et 3°, du règlement grand-ducal du 22 décembre 2025 entrent
 en vigueur selon le calendrier suivant :
-\1. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
-\2. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
-\3. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
-\4. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
-\5. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
+1\. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
+2\. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
+3\. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
+4\. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
+5\. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
 L’article 2, point 3° entre en vigueur le 14 septembre 2028.
 
 \- 208 -
@@ -11766,17 +11766,17 @@ Toutefois, les explications écrites sont données et rédigées en allemand et 
 
 Les dispositions de l’article 1er, de l’article 2, points 1° et 2° et de l’article 3, points 1° et 3°, du règlement grand-ducal du 22 décembre 2025 entrent
 en vigueur selon le calendrier suivant :
-\1. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
-\2. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
-\3. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
-\4. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
-\5. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
+1\. pour les classes du cycle 1.2, à partir du 15 septembre 2026 ;
+2\. pour les classes du cycle 2.1, à partir du 15 septembre 2027 ;
+3\. pour les classes du cycle 2.2, à partir du 15 septembre 2028 ;
+4\. pour les classes du cycle 3.1, à partir du 15 septembre 2029 ;
+5\. pour les classes du cycle 3.2, à partir du 15 septembre 2030.
 
 L’article 3, point 2° entre en vigueur le 14 septembre 2030 et le point 4° entre en vigueur le 2 janvier 2026.
 Les modifications du règlement grand-ducal du 22 décembre 2025 entrent en vigueur selon le calendrier suivant :
-\1. pour les classes des cycles 1.1, 1.2, 2.1 et 2.2, le 15 septembre 2026 ;
+1\. pour les classes des cycles 1.1, 1.2, 2.1 et 2.2, le 15 septembre 2026 ;
 
-\2. pour les classes des cycles 3.1, 3.2, 4.1 et 4.2, le 15 septembre 2027.
+2\. pour les classes des cycles 3.1, 3.2, 4.1 et 4.2, le 15 septembre 2027.
 Supprimé par le règl. g.-d. du 20 mai 2026.
 
 \- 213 -
@@ -12197,10 +12197,10 @@ Remplacements
 Règlement grand-ducal du 28 mai 2009 fixant les conditions et modalités pour l’obtention de l’attestation habilitant
 à faire des remplacements dans l’enseignement fondamental (tel qu’il a été modifié)  . . . . . . . . . . . . . . . . . . . . . . .
 Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation
-\1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements
+1\) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements
 engagés sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel
 de l’enseignement fondamental;
-\2) de l’indemnité due pour leçons supplémentaires assurées par les chargés de cours de la réserve de
+2\) de l’indemnité due pour leçons supplémentaires assurées par les chargés de cours de la réserve de
 suppléants de l’enseignement fondamental respectivement par les détenteurs de l’attestation habilitant à faire
 des remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le
 personnel de l’enseignement fondamental (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . .  281
@@ -12355,15 +12355,15 @@ des membres des jurys des épreuves préliminaires et des épreuves de classemen
 grand-ducal. »
 Peut être «admis au stage préparant à la fonction d’instituteur»11 à condition (. . .)2 et de s’être classé en rang utile à l’issue
 du concours réglant l’accès à la fonction d’instituteur:
-1)
+1\)
 
 le détenteur du bachelor professionnel en sciences de l’éducation délivré par l’Université du Luxembourg,
 
-2)
+2\)
 
 le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles;
 
-3)
+3\)
 
 le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, délivré par une institution située dans un pays qui n’est pas membre de l’Union Européenne et reconnu par le ministre ayant l’enseignement
 supérieur dans ses attributions.
@@ -12584,13 +12584,13 @@ fixées par règlement grand-ducal sous réserve des dispositions suivantes:
 
 \- 227 -
 
-1)
+1\)
 
 Les fonctionnaires de la carrière de l’éducateur gradué doivent être détenteurs soit d’un diplôme luxembourgeois de
 bachelor en sciences sociales et éducatives, soit d’un diplôme d’éducateur gradué luxembourgeois, soit d’un diplôme,
 certificat ou titre étranger reconnu équivalent par le ministre ayant l’enseignement supérieur dans ses attributions;
 
-2)
+2\)
 
 Les fonctionnaires de la carrière de l’éducateur doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou
 d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre.
@@ -12748,12 +12748,12 @@ connaissance de deux des trois langues administratives pourront être accordées
 Art. 18.
 En dehors des conditions fixées à l’article 17, les candidats à un emploi de chargé de cours de la réserve de suppléants
 doivent
-1)
+1\)
 
 être détenteurs d’un diplôme luxembourgeois de fin d’études secondaires ou d’un diplôme luxembourgeois de fin
 d’études secondaires techniques ou d’un diplôme reconnu équivalent par le ministre;
 
-2)
+2\)
 
 être détenteurs d’une attestation habilitant à faire des remplacements dans l’enseignement fondamental, délivrée par le
 ministre.
@@ -12816,11 +12816,11 @@ Art. 24.
 L’État peut engager sous le régime de l’employé de l’État ou du salarié de l’État des ressortissants étrangers pour les charger
 d’activités dans l’intérêt de l’enseignement fondamental. Les personnes à engager doivent:
 
-1)
+1\)
 
 être détentrices de l’un des diplômes ou certificats visés à l’article 6, points 2 et 3;
 
-2)
+2\)
 
 démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies
 par la loi du 24 février 1984 sur le régime des langues et se soumettre à cet effet à une épreuve vérifiant ces connaissances;
@@ -12829,7 +12829,7 @@ Modifié par la loi du 22 juin 2018.
 
 \- 231 -
 
-3)
+3\)
 
 remplir les conditions fixées par l’article 3, alinéa 2, de la loi modifiée du 27 janvier 1972 fixant le régime des employés
 de l’État.
@@ -12840,17 +12840,17 @@ L’État peut engager sous le régime de l’employé de l’État ou du salari
 médiateurs interculturels.
 Ils ont pour mission de favoriser l’insertion scolaire des enfants étrangers et d’assurer les liens entre l’école et les familles de
 ces élèves par le biais d’un travail de traduction, d’information ou de médiation. Les personnes à engager doivent:
-1)
+1\)
 
 être détentrices d’un diplôme de fin d’études secondaires ou secondaires techniques, luxembourgeois ou étranger
 reconnu équivalent suivant la réglementation luxembourgeoise en vigueur;
 
-2)
+2\)
 
 démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies
 par la loi du 24 février 1984 sur le régime des langues et se soumettre à cet effet à une épreuve vérifiant ces connaissances;
 
-3)
+3\)
 
 remplir les conditions fixées par l’article 3, alinéa 2, de la loi modifiée du 27 janvier 1972 fixant le régime des employés
 de l’État.
@@ -12913,7 +12913,7 @@ de la réalisation progressive des missions, ainsi que des dispositions légales
 
 des besoins en personnel à prévoir pour assurer les remplacements;
 
-7.
+7\.
 
 des réformes organiques ou pédagogiques et de toutes autres mesures ou situations susceptibles de modifier les
 besoins en personnel des écoles.
@@ -13829,7 +13829,7 @@ concernant le personnel de l’enseignement fondamental ;
 5°
 
 les candidats ayant débuté le dernier semestre des études menant à l’obtention d’un des diplômes visés aux points 1 à
-\3. »
+3\. »
 
 Chapitre 2 - Les épreuves préliminaires au concours.
 
@@ -14584,7 +14584,7 @@ scolaire au cycle; 2 leçons hebdomadaires à partir de 90 élèves inscrits au 
 cycle au début de l’année scolaire
 «CYCLE»
 (Règl. g. - d. du 5 septembre 2 leçons hebdomadaires à condition que l’équipe soit composée d’au moins COACC »
-2023)
+2023\)
 quatre membres, assurant chacun au moins une demi-tâche dans l’intérêt
 « Coordination de l’équipe de l’intégration et de l’accueil scolaires des élèves nouvellement arrivés
 pédagogique en charge de
@@ -14708,7 +14708,7 @@ la collaboration à un projet européen
 
 (Règl. g. - d.
 du 23 août
-2018)
+2018\)
 « EURO »
 
 le détachement partiel à une administration ou à un service de l’Etat
@@ -15440,15 +15440,15 @@ d’un représentant de l’Inspection générale des finances;
 
 d’un représentant du STATEC;
 
-7.
+7\.
 
 d’un inspecteur de l’enseignement fondamental, membre du collège des inspecteurs;
 
-8.
+8\.
 
 de deux représentants des enseignants de l’enseignement fondamental;
 
-9.
+9\.
 
 de deux représentants du SYVICOL.
 
@@ -15597,9 +15597,9 @@ Notre Ministre de l’Éducation nationale et de la Formation professionnelle es
 qui sera publié au Mémorial.
 
 « Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation
-\1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés
+1\) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés
 sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;
-\2) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des
+2\) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des
 remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de
 l’enseignement fondamental ; »1
 (Mém. A – 240 du 24 décembre 2010, p. 4016)
@@ -15654,11 +15654,11 @@ Le remplaçant qui est en service jusqu’à la fin de l’année scolaire a dro
 à une indemnité fixée, par mois entier, à un dixième de l’indemnité totale touchée pour les mois précédents.
 L’indemnité mensuelle du remplaçant remplissant les conditions prévues à l’article 9 (allocation de famille) de loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État est augmentée de 53,92 euros.
 B) Tâche partielle
-\1. L’indemnité mensuelle due au chargé de cours bénéficiant d’une tâche partielle et travaillant suivant un horaire fixe
+1\. L’indemnité mensuelle due au chargé de cours bénéficiant d’une tâche partielle et travaillant suivant un horaire fixe
 pendant toute l’année scolaire est calculée au prorata des leçons hebdomadaires assurées par rapport à une tâche
 complète.
-\2. La rémunération mensuelle du remplaçant travaillant suivant un horaire fixe pendant toute l’année scolaire est calculée au prorata des leçons hebdomadaires assurées par rapport à une tâche complète.
-\3. Elle est payée douze fois par an.
+2\. La rémunération mensuelle du remplaçant travaillant suivant un horaire fixe pendant toute l’année scolaire est calculée au prorata des leçons hebdomadaires assurées par rapport à une tâche complète.
+3\. Elle est payée douze fois par an.
 Est à considérer comme leçon supplémentaire d’enseignement direct toute leçon assurée (. . .)1 par le remplaçant détenteur de l’attestation habilitant à faire des remplacements engagé sur base de l’article 27 de la loi modifiée du 6 février 2009
 concernant le personnel de l’enseignement fondamental dans sa propre classe ou dans une autre classe et dépassant la tâche
 réglementaire telle qu’elle est fixée (. . .)1 par le contrat d’engagement.
@@ -15701,12 +15701,12 @@ Les indemnités de remplacement et les indemnités pour leçons supplémentaires
 Les indemnités inscrites aux articles 1er à 3 du présent règlement subissent la même adaptation au coût de la vie que les
 traitements des fonctionnaires et employés de l’État.
 Toutes les dispositions contraires au présent règlement sont abrogées, notamment le règlement grand-ducal du 18 décembre 2009 portant fixation
-1)
+1\)
 
 de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés sur
 base des dispositions de l’article 27 de la loi du 6 février 2009 concernant le personnel de l’enseignement fondamental;
 
-2)
+2\)
 
 de l’indemnité due pour leçons supplémentaires assurées par les chargés de cours de la réserve de suppléants de
 l’enseignement fondamental respectivement par les détenteurs de l’attestation habilitant à faire des remplacements
@@ -15772,16 +15772,16 @@ un certificat d’affiliation au Centre Commun de la Sécurité Sociale datant d
 
 une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
 
-7.
+7\.
 
 une copie de la fiche-carrière ainsi que des fiches-salaires depuis le 15 septembre 2009,
 
-8.
+8\.
 
 pour les chargés de cours: une copie du contrat de louage de service prouvant l’engagement à durée indéterminée
 auprès de la commune à l’échéance du 15 septembre 2009,
 
-9.
+9\.
 
 pour les fonctionnaires communaux, les employés communaux et les salariés des communes des carrières énumérées
 à l’article 2 ci-dessus: un certificat de la commune attestant qu’ils étaient en service auprès de la commune à l’échéance
@@ -15930,15 +15930,15 @@ Art. 12.
 L’indemnité forfaitaire prévue à l’article 5, alinéa 3 de la loi du 10 juillet 1998 portant approbation de la Convention du
 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’enseignement religieux dans
 l’enseignement primaire est fixée conformément aux modalités suivantes:
-1)
+1\)
 
 Pour les chargés de cours qui peuvent se prévaloir du niveau de formation générale visé à l’article 3, paragraphe A cidessus, l’indemnité forfaitaire est fixée à 168 francs par leçon.
 
-2)
+2\)
 
 Pour les chargés de cours qui peuvent se prévaloir du niveau de formation générale visé à l’article 3, paragraphe B cidessus, l’indemnité forfaitaire est fixée à 150 francs par leçon.
 
-3)
+3\)
 
 Pour les chargés de cours visés par l’article 8.B. de la Convention du 31 octobre 1997 entre le Gouvernement, d’une
 part, et l’Archevêché, d’autre part, concernant l’enseignement religieux dans l’enseignement primaire, l’indemnité forfaitaire est fixée à 127 francs par leçon.
@@ -16363,20 +16363,20 @@ rééducateur en psychomotricité;
 
 ergothérapeute;
 
-7.
+7\.
 
 assistant social;
 
-8.
+8\.
 
 infirmier en pédiatrie, anciennement puériculteur;
 
-9.
+9\.
 
 éducateur gradué;
 
-\10. éducateur;
-\11. bibliothécaire-documentaliste.
+10\. éducateur;
+11\. bibliothécaire-documentaliste.
 Pour pouvoir exercer une des fonctions sub 3 à 8, les agents doivent pouvoir se prévaloir d’une autorisation d’exercer la
 profession délivrée par le ministre ayant la santé dans ses attributions.
 Art. 2. Modalités et calendrier
@@ -16398,27 +16398,27 @@ un certificat d’inscription sur les listes électorales,
 
 une copie des certificats d’études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
 
-7.
+7\.
 
 un certificat d’affiliation au Centre Commun de la Sécurité Sociale datant de moins de 30 jours,
 
-8.
+8\.
 
 une copie du contrat de travail en vigueur le 15 septembre 2009 mentionnant la fonction et le degré d’occupation, prouvant qu’ils étaient en service auprès des écoles d’une commune ou d’un syndicat de communes au 15 septembre 2009
 soit en qualité d’employé communal, soit en qualité de salarié communal,
 
-9.
+9\.
 
 une copie de la fiche de rémunération du mois de septembre 2009 et une copie de la dernière fiche de rémunération,
 
-\10. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
-\11. une copie de la fiche de retenue d’impôt actuelle,
+10\. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
+11\. une copie de la fiche de retenue d’impôt actuelle,
 
 Modifié par le règl. g. - d. du 24 mars 2014.
 
 \- 295 -
 
-\12. le cas échéant:
+12\. le cas échéant:
 a) une copie de l’autorisation d’exercer la profession délivrée par le ministre ayant la santé dans ses
 b) attributions, pour autant que nécessaire,
 c) une copie des décisions documentant des congés sans traitement, pour travail à mi-temps ou parental,
@@ -16555,22 +16555,22 @@ bibliothécaire-documentaliste,
 
 éducateur gradué,
 
-7.
+7\.
 
 ergothérapeute,
 
-8.
+8\.
 
 orthophoniste,
 
-9.
+9\.
 
 pédagogue curatif,
 
-\10. rééducateur en psychomotricité et psycho-rééducateurs,
-\11. éducateur,
-\12. infirmier,
-\13. infirmier en pédiatrie, anciennement puériculteur.
+10\. rééducateur en psychomotricité et psycho-rééducateurs,
+11\. éducateur,
+12\. infirmier,
+13\. infirmier en pédiatrie, anciennement puériculteur.
 Pour pouvoir exercer une des fonctions sub 4., 7. à 10. et 12. à 13., les agents doivent pouvoir se prévaloir d’une autorisation
 d’exercer la profession de santé délivrée par le ministre ayant la Santé dans ses attributions. Les éducateurs en possession d’un
 diplôme de fin d’études étranger doivent pouvoir se prévaloir d’une reconnaissance de leur qualification professionnelle délivrée
@@ -16593,23 +16593,23 @@ un extrait du bulletin N° 2 du casier judiciaire et un relevé des condamnation
 
 une copie des certificats d’études et des diplômes ou de documents reconnus équivalents par le ministre compétent,
 
-7.
+7\.
 
 un certificat d’affiliation au Centre commun de la Sécurité sociale datant de moins de 30 jours,
 
-8.
+8\.
 
 une copie de la nomination en vigueur le 15 septembre 2009 mentionnant la fonction et le degré d’occupation, prouvant que le candidat était en service auprès des écoles d’une commune ou d’un syndicat de communes en qualité de
 fonctionnaire communal dans l’une des carrières visées à l’article 2, paragraphe 3 de la loi modifiée du 6 février 2009
 concernant le personnel de l’enseignement fondamental,
 
-9.
+9\.
 
 une copie de la fiche de rémunération du mois de septembre 2009 et une copie de la dernière fiche de rémunération,
 
-\10. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
-\11. une copie de la fiche de retenue d’impôt actuelle,
-\12. le cas échéant:
+10\. une copie des certificats de travail du secteur public reprenant les périodes de travail et le degré d’occupation,
+11\. une copie de la fiche de retenue d’impôt actuelle,
+12\. le cas échéant:
 a. une copie de la décision documentant la réussite à l’examen de fin de stage et à un examen de promotion,
 b. une copie de l’autorisation d’exercer la profession de santé délivrée par le ministre ayant la Santé dans ses attributions, pour autant que nécessaire,
 c. une copie de la reconnaissance de la qualification professionnelle de l’éducateur délivrée par le ministre ayant l’Éducation nationale dans ses attributions,
@@ -16773,8 +16773,8 @@ Loi du 12 juillet 2002 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Loi du 16 novembre 1988 portant modification des articles 48 et 49 de la loi du 10 mai 1968 portant réforme de
 l’enseignement, titre VI: de l’enseignement secondaire et des articles 14 et 38 de la loi du 21 mai 1979 portant:
-\1. organisation de la formation professionnelle et de l’enseignement secondaire technique,
-\2. organisation de la formation professionnelle continue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  310
+1\. organisation de la formation professionnelle et de l’enseignement secondaire technique,
+2\. organisation de la formation professionnelle continue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  310
 Loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre
 VI: de l’enseignement secondaire (telle qu’elle a été modifiée) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  310
 Loi du 25 juin 2004 portant organisation des lycées (telle qu’elle a été modifiée) . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -16815,8 +16815,8 @@ au «Deutsch-Luxemburgisches Schengen-Lyzeum Perl»  . . . . . . . . . . . . . .
 Loi du 21 juillet 2012 portant création du Sportlycée (telle qu’elle a été modifiée)  . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Règlement grand-ducal du 11 mai 2013 déterminant:
-\1. les critères sportifs à remplir pour être admissible au Sportlycée et
-\2. les modalités du fonctionnement du comité de coordination (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . .
+1\. les critères sportifs à remplir pour être admissible au Sportlycée et
+2\. les modalités du fonctionnement du comité de coordination (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . .
 
 Loi du 26 février 2016 portant création d’une école internationale publique à Differdange  . . . . . . . . . . . . . . . . . . .
 
@@ -16825,18 +16825,18 @@ qu’elle a été modifiée)  . . . . . . . . . . . . . . . . . . . . . . . . . 
 Règlement grand-ducal du 8 septembre 2016 concernant les lignes directrices du cours commun «vie et
 société» . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  376
 Règlement grand-ducal du 8 septembre 2016 modifiant
-\1. le règlement grand-ducal modifié du 24 juillet 2000 concernant le travail de candidature;
-\2. le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de
+1\. le règlement grand-ducal modifié du 24 juillet 2000 concernant le travail de candidature;
+2\. le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de
 l’enseignement secondaire technique et de l’enseignement secondaire;
-\3. le règlement grand-ducal du 30 juillet 2011 portant institution et organisation des commissions scolaires nationales
+3\. le règlement grand-ducal du 30 juillet 2011 portant institution et organisation des commissions scolaires nationales
 pour les programmes de l’enseignement secondaire, ainsi que du cycle inférieur, du régime préparatoire et du
 régime technique de l’enseignement secondaire technique
 et abrogeant
-\1. le règlement grand-ducal du 27 février 1989 concernant la composition et le fonctionnement du Conseil national
+1\. le règlement grand-ducal du 27 février 1989 concernant la composition et le fonctionnement du Conseil national
 de la formation morale et sociale;
-\2. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
+2\. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
 du cours de formation morale et sociale ainsi que la formation des enseignants chargés de cours;
-\3. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
+3\. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
 du cours d’instruction religieuse et morale ainsi que la formation des enseignants chargés de cours . . . . . . .  377
 Loi du 23 décembre 2016 concernant l’extension de l’offre scolaire du Lycée technique Michel Lucius et modifiant
 sa dénomination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  378
@@ -17021,8 +17021,8 @@ Modifié par la loi du 29 août 2017.
 \- 308 -
 
 Entrée en vigueur de la loi du 12 juillet 2002 portant modification
-\1. de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire;
-\2. de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
+1\. de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire;
+2\. de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
 professionnelle continue.
 (Mém. A – 87, du 12 août 2002, p. 1778)
 
@@ -17041,8 +17041,8 @@ secondaires en 2005.
 Loi du 16 novembre 1988 portant modification des articles 48 et 49 de la loi du 10 mai 1968
 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire et des articles 14 et 38
 de la loi du 21 mai 1979 portant:
-\1. organisation de la formation professionnelle et de l’enseignement secondaire technique,
-\2. organisation de la formation professionnelle continue.
+1\. organisation de la formation professionnelle et de l’enseignement secondaire technique,
+2\. organisation de la formation professionnelle continue.
 (Mém. A – 63 du 10 décembre 1988, p. 1216)
 
 Extrait
@@ -17190,7 +17190,7 @@ que pour l’accès aux différentes fonctions du cadre ouvert prévu à l’art
 harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services
 de l’État. Pour l’accès aux différentes fonctions du cadre fermé, la détermination du collègue de rang égal ou immédiatement inférieur se fera en comparant les dates d’entrée au service de l’État.
 
-7.
+7\.
 
 a) Sont également classés au grade E7, les professeurs de doctrine chrétienne en activité de service qui, à
 l’entrée en vigueur de la présente loi, sont classés au grade E6 et ont accompli dix années de service à partir de leur
@@ -18477,27 +18477,27 @@ Les modalités de fonctionnement du conseil d’éducation sont fixées par règ
 «Art. 36bis. La cellule de développement scolaire
 Il est créé une cellule de développement scolaire dans chaque lycée. Les missions de la cellule de développement scolaire
 sont les suivantes:
-1)
+1\)
 
 analyser et interpréter les données scolaires du lycée;
 
-2)
+2\)
 
 identifier les besoins prioritaires du lycée;
 
-3)
+3\)
 
 définir des stratégies de développement scolaire;
 
-4)
+4\)
 
 élaborer la charte scolaire, le profil et le plan de développement scolaire en concertation avec le conseil d’éducation;
 
-5)
+5\)
 
 assurer la communication interne et externe;
 
-6)
+6\)
 
 élaborer, en concertation avec les délégués à la formation du lycée, un plan trisannuel de la formation continue du personnel du lycée, actualisé chaque année.
 
@@ -18911,7 +18911,7 @@ la « discipline » «science et technique» qui traite plus spécialement de la
 
 la « discipline » «sport et santé» qui comprend l’éducation sportive et inclut des éléments de biologie humaine.
 
-7.
+7\.
 
 (supprimé par la loi du 12 juillet 2019)
 
@@ -19296,39 +19296,39 @@ pour les besoins des entreprises. »
 Art. 15.
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:
 
-1)
+1\)
 
 1 psychologue;
 
-2)
+2\)
 
 1 assistant social ou d’hygiène sociale;
 
-3)
+3\)
 
 14 éducateurs gradués (ou éducateurs)1;
 
-4)
+4\)
 
 1 rédacteur faisant fonction de secrétaire;
 
-5)
+5\)
 
 1 bibliothécaire-documentaliste;
 
-6)
+6\)
 
 2 employés de l’État de la carrière D;
 
-7)
+7\)
 
 3 artisans;
 
-8)
+8\)
 
 1 concierge;
 
-9)
+9\)
 
 1 garçon de salle.
 
@@ -19372,26 +19372,26 @@ par les lois budgétaires concernées, le Gouvernement est autorisé à procéde
 A. au lycée-pilote:
 
 pour les besoins du nouveau cycle de formation:
-1)
+1\)
 
 2 éducateurs gradués
 
-\2) 1 bibliothécaire-documentaliste
-\3) 1 informaticien diplômé
-\4) 3 artisans
-\5) 2 employés D
-\6) 1 employé C
+2\) 1 bibliothécaire-documentaliste
+3\) 1 informaticien diplômé
+4\) 3 artisans
+5\) 2 employés D
+6\) 1 employé C
 
 pour les besoins de l’internat:
-\1) 8 éducateurs gradués
-\2) 1 concierge
-\3) 1 employé D
+1\) 8 éducateurs gradués
+2\) 1 concierge
+3\) 1 employé D
 
 pour les besoins de la restauration scolaire, sous le régime du contrat collectif des ouvriers de l’État:
-\1) 4 cuisiniers avec CATP
-\2) 4 cuisiniers sans CATP
+1\) 4 cuisiniers avec CATP
+2\) 4 cuisiniers sans CATP
 
-\3) 8 aides-ouvriers.
+3\) 8 aides-ouvriers.
 Modifié par la loi du 29 août 2017.
 Supprimé par la loi du 29 août 2017.
 
@@ -19408,15 +19408,15 @@ Texte coordonné au 21 août 2019
 Version applicable à partir du 25 août 2019
 
 Art. 1er. L’organisation de l’enseignement
-\1. Dans toutes les branches l’enseignement est dispensé par unités composées de 2 leçons consécutives.
-\2. Dans les branches «art et société», «science et technique», «éducation aux valeurs», «sport et santé», l’acquisition
+1\. Dans toutes les branches l’enseignement est dispensé par unités composées de 2 leçons consécutives.
+2\. Dans les branches «art et société», «science et technique», «éducation aux valeurs», «sport et santé», l’acquisition
 des compétences se fait dans le cadre de projets à thème. Un thème donné d’ordre général y est traité dans ses dimensions
 artistiques, sociétales, éthiques, scientifiques, techniques ainsi que dans son rapport avec la santé et des activités sportives.
 Chaque projet donne lieu à un travail de recherche individuel et collectif ainsi qu’à une production écrite des élèves.
-\3. Les séquences d’étude sont consacrées à la révision des cours et à l’achèvement des projets. Elles sont organisées et
+3\. Les séquences d’étude sont consacrées à la révision des cours et à l’achèvement des projets. Elles sont organisées et
 supervisées par des éducateurs gradués.
-\4. (abrogé par le règl. g.-d. du 15 août 2019)
-\5. L’encadrement des élèves du lycée-pilote comprend:
+4\. (abrogé par le règl. g.-d. du 15 août 2019)
+5\. L’encadrement des élèves du lycée-pilote comprend:
 
 l’accueil,
 
@@ -19458,7 +19458,7 @@ Modifié par le règl. g.-d. du 15 août 2019.
 \- 343 -
 
 Art. 4. Le volume de la tâche du personnel enseignant
-\1. Le volume de la tâche hebdomadaire réglementaire des professeurs, instituteurs d’enseignement préparatoire, maîtres de
+1\. Le volume de la tâche hebdomadaire réglementaire des professeurs, instituteurs d’enseignement préparatoire, maîtres de
 cours spéciaux et maîtres d’enseignement technique nommés ou affectés au lycée comporte une partie d’enseignement, fixée
 à dix-huit leçons, ainsi qu’une partie d’activités au sein du lycée, fixée à douze heures.
 (Règlement grand-ducal du 24 août 2007)
@@ -19473,13 +19473,13 @@ après cinquante années d’âge: une décharge de deux leçons normales hebdom
 après cinquante-cinq années d’âge: une décharge de quatre leçons normales hebdomadaires1.»
 
 Pour les enseignants bénéficiaires soit d’un congé pour travail à mi-temps, soit d’un service à temps partiel de vingt-cinq, cinquante ou soixante-quinze pour cent d’une tâche complète, les deux parties de la tâche sont réduites dans la même proportion.
-\2. La tâche hebdomadaire réglementaire des candidats dans les carrières enseignantes de l’enseignement post- primaire,
+2\. La tâche hebdomadaire réglementaire des candidats dans les carrières enseignantes de l’enseignement post- primaire,
 affectés au lycée, comporte une partie d’enseignement, fixée à treize leçons, ainsi qu’une partie d’activités au sein du lycée,
 fixée à douze heures.
-\3. Pour les enseignants visés aux paragraphes 1, 2 et 5 les activités au sein du lycée sont organisées par le directeur à raison
+3\. Pour les enseignants visés aux paragraphes 1, 2 et 5 les activités au sein du lycée sont organisées par le directeur à raison
 d’une tâche de douze heures et suivant un horaire individuel pour chaque enseignant.
-\4. La tâche hebdomadaire des enseignants stagiaires affectés au lycée est fixée conformément aux dispositions réglementaires en vigueur.
-\5. La tâche hebdomadaire des chargés d’éducation engagés sous contrat à durée déterminée et à tâche complète comporte
+4\. La tâche hebdomadaire des enseignants stagiaires affectés au lycée est fixée conformément aux dispositions réglementaires en vigueur.
+5\. La tâche hebdomadaire des chargés d’éducation engagés sous contrat à durée déterminée et à tâche complète comporte
 normalement une tâche de dix-huit leçons d’enseignement ainsi qu’un volume hebdomadaire de douze heures d’activités au
 sein du lycée telles que définies au paragraphe 3 du présent article.
 Art. 5. Le volume de la tâche du personnel socio-éducatif
@@ -19585,34 +19585,34 @@ nombre de ces bulletins est mentionné au procès-verbal.
 Art. 15.
 Tous les scrutins sont clos au plus tard le 31 octobre à 6 heures du soir.
 Le bureau électoral procède au dépouillement. Il arrête:
-1)
+1\)
 
 le nombre des votants,
 
-2)
+2\)
 
 le nombre des bulletins remis,
 
-3)
+3\)
 
 le nombre des bulletins valables,
 
-4)
+4\)
 
 le nombre des bulletins nuls,
 
-5)
+5\)
 
 le nombre des suffrages pour chaque candidat.
 
 Il les fait inscrire au procès-verbal.
 Art. 16.
 Est nul:
-1)
+1\)
 
 tout bulletin autre que celui remis à l’électeur par le président du bureau ou son délégué,
 
-2)
+2\)
 
 ce bulletin même:
 a) s’il ne contient l’expression d’aucun suffrage,
@@ -19717,32 +19717,32 @@ Chapitre III. —Attributions du conseil d’éducation
 Art. 12.
 Sans préjudice des attributions des directeurs et directeurs adjoints, de la conférence des professeurs, des conseils de
 classe et des régents, le conseil d’éducation a les attributions suivantes:
-1)
+1\)
 
 il participe à la modification et à l’adaptation du règlement de discipline et d’ordre intérieur fixé par le Ministre de l’Éducation Nationale;
 
-2)
+2\)
 
 il stimule et organise les activités culturelles, sociales et sportives de l’établissement;
 
-3)
+3\)
 
 il soumet au Ministre de l’Éducation Nationale un rapport annuel sur la situation générale de l’établissement;
 
-4)
+4\)
 
 il avise les propositions du budget annuel de l’établissement;
 
-5)
+5\)
 
 il peut donner son avis sur la création ou la suppression de cours à option,de cours facultatifs et de cours de rattrapage
 ainsi que sur l’organisation interne du lycée et toutes autres questions qui lui sont soumises par le directeur de l’établissement ou par le Ministre de l’Éducation Nationale;
 
-6)
+6\)
 
 Il peut formuler des propositions sur toutes les questions intéressant la vie et l’organisation de l’établissement;
 
-7)
+7\)
 
 il élabore le projet d’établissement visé à l’article 41 de la loi du 4 septembre 1990 portant réforme de l’enseignement
 secondaire technique et de la formation professionnelle continue.
@@ -20086,26 +20086,26 @@ Chapitre 1er – Généralités
 
 Les dispositions du plan directeur sectoriel «lycées», partie graphique et partie écrite, sont déclarées obligatoires.
 Au sens du présent règlement, on entend par:
-1)
+1\)
 
 «pôle d’enseignement»: un groupement régional et fonctionnel de lycées situés dans une même aire géographique
 déterminée, englobant les communes qu’ils desservent;
 
-2)
+2\)
 
 «lycée classique»: un lycée offrant un enseignement préparant essentiellement aux études supérieures de niveau universitaire;
 
-3)
+3\)
 
 «lycée technique»: un lycée offrant un enseignement préparant à la vie professionnelle par une formation générale,
 technique, sociale et professionnelle;
 
-4)
+4\)
 
 «vide scolaire»: une zone d’une surface déterminée caractérisée par un déficit ou un manque sensible d’offre scolaire
 par rapport à la demande de la population résidente à scolariser;
 
-5)
+5\)
 
 «zone de proximité»: l’aire de recrutement prioritaire d’un lycée.
 
@@ -20779,44 +20779,44 @@ Chapitre V. Le personnel du Sportlycée
 
 Art. 12.
 Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:
-1)
+1\)
 
 Administration
-\1. 1 rédacteur ou employé de l’État de la carrière D;
-\2. 1 bibliothécaire documentaliste;
-\3. 2 éducateurs gradués;
-\4. 1 éducateur;
-\5. 1 concierge;
-\6. 1 garçon de salle;
-\7. 1 expéditionnaire technique;
-\8. 2 ouvriers artisans;
-\9. 2 aide-ouvriers.
+1\. 1 rédacteur ou employé de l’État de la carrière D;
+2\. 1 bibliothécaire documentaliste;
+3\. 2 éducateurs gradués;
+4\. 1 éducateur;
+5\. 1 concierge;
+6\. 1 garçon de salle;
+7\. 1 expéditionnaire technique;
+8\. 2 ouvriers artisans;
+9\. 2 aide-ouvriers.
 
-2)
+2\)
 
 Internat
-\1. 1 employé de l’État de la carrière D;
-\2. 2 éducateurs gradués;
-\3. 2 éducateurs;
-\4. 1 aide-ouvrier.
+1\. 1 employé de l’État de la carrière D;
+2\. 2 éducateurs gradués;
+3\. 2 éducateurs;
+4\. 1 aide-ouvrier.
 
 Modifié par la loi du 22 juin 2017.
 
 \- 372 -
 
-3)
+3\)
 
 Restaurant
-\1. 2 cuisiniers;
-\2. 2 aide-cuisiniers;
-\3. 4 aide-ouvriers.
+1\. 2 cuisiniers;
+2\. 2 aide-cuisiniers;
+3\. 4 aide-ouvriers.
 
-4)
+4\)
 
 Pour les besoins spécifiques du volet sports
-\1. 1 rédacteur ou employé de l’État de la carrière D;
-\2. 3 employés de l’État de la carrière S;
-\3. 1 psychologue.
+1\. 1 rédacteur ou employé de l’État de la carrière D;
+2\. 3 employés de l’État de la carrière S;
+3\. 1 psychologue.
 
 Les engagements définitifs au service de l’État, résultant des dispositions du présent article, se font par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcement déterminé dans la loi du
 17 décembre 2010 concernant le budget des recettes et des dépenses de l’État pour l’année 2011 et dans les lois budgétaires
@@ -20837,8 +20837,8 @@ Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être
 chose concerne.
 
 Règlement grand-ducal du 11 mai 2013 déterminant:
-\1. les critères sportifs à remplir pour être admissible au Sportlycée et
-\2. les modalités du fonctionnement du comité de coordination,
+1\. les critères sportifs à remplir pour être admissible au Sportlycée et
+2\. les modalités du fonctionnement du comité de coordination,
 (Mém. A – 91 du 3 juin 2013, p. 1072)
 modifié par:
 Règlement grand-ducal du 20 mai 2020 (Mém. A – 424 du 22 mai 2020).
@@ -20917,10 +20917,10 @@ Loi du 26 février 2016 portant création d’une école internationale publique
 
 Loi du 24 août 2016 portant introduction du cours commun «vie et société» dans l’enseignement secondaire (. . .)1 et
 modifiant
-\1) la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: de l’enseignement secondaire),
-\2) la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
+1\) la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: de l’enseignement secondaire),
+2\) la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
 professionnelle continue,
-\3) la loi modifiée du 25 juillet 2005 portant création d’un lycée-pilote,
+3\) la loi modifiée du 25 juillet 2005 portant création d’un lycée-pilote,
 (Mém. A – 187 du 8 septembre 2016, p. 3074; doc. parl. 6967)
 modifiée par:
 Loi du 29 août 2017, (Mém. A – 789 du 5 septembre 2017; doc. parl. 7074)
@@ -21018,17 +21018,17 @@ Supprimé par la loi du 29 août 2017.
 \- 376 -
 
 Règlement grand-ducal du 8 septembre 2016 modifiant
-\1. le règlement grand-ducal modifié du 24 juillet 2000 concernant le travail de candidature;
-\2. le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire;
-\3. le règlement grand-ducal du 30 juillet 2011 portant institution et organisation des commissions scolaires nationales
+1\. le règlement grand-ducal modifié du 24 juillet 2000 concernant le travail de candidature;
+2\. le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire;
+3\. le règlement grand-ducal du 30 juillet 2011 portant institution et organisation des commissions scolaires nationales
 pour les programmes de l’enseignement secondaire, ainsi que du cycle inférieur, du régime préparatoire et du
 régime technique de l’enseignement secondaire technique
 et abrogeant
-\1. le règlement grand-ducal du 27 février 1989 concernant la composition et le fonctionnement du Conseil national de
+1\. le règlement grand-ducal du 27 février 1989 concernant la composition et le fonctionnement du Conseil national de
 la formation morale et sociale;
-\2. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
+2\. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
 du cours de formation morale et sociale ainsi que la formation des enseignants chargés de cours;
-\3. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
+3\. le règlement grand-ducal du 10 août 1991 concernant les lignes directrices du programme, la durée et l’organisation
 du cours d’instruction religieuse et morale ainsi que la formation des enseignants chargés de cours.
 (Mém. A – 196 du 14 septembre 2016, p. 3847)
 
@@ -21109,7 +21109,7 @@ la classe 3e correspondant à la 2e année de préparation à l’examen GCSE;
 
 la classe 2e correspondant à la préparation de l’examen AS-Levels et à la 1re année de préparation à l’examen A-Levels;
 
-7.
+7\.
 
 la classe 1re correspondant à la 2e année de préparation à l’examen A-Levels.
 
@@ -21204,21 +21204,21 @@ Règlement grand-ducal du 27 août 2024, (Mém. A - 385 du 28 août 2024).
 Version consolidée appliicable au 1er janvier 2024
 
 Art. 1er. Généralités
-\1. Pour chacune des branches enseignées à l’enseignement secondaire ainsi qu’au cycle inférieur, au régime préparatoire
+1\. Pour chacune des branches enseignées à l’enseignement secondaire ainsi qu’au cycle inférieur, au régime préparatoire
 et au régime technique de l’enseignement secondaire technique, à l’exception de celles de la formation professionnelle de base
 et de la formation professionnelle initiale, il est institué par ordre d’enseignement une commission nationale des programmes
 désignée par la suite par le terme «commission nationale».
-\2. Le membre du Gouvernement ayant l’Éducation nationale dans ses attributions, désigné par la suite par le terme «ministre», détermine l’ensemble des matières appartenant à une branche. Le terme «branche» désigne la matière ou un ensemble
+2\. Le membre du Gouvernement ayant l’Éducation nationale dans ses attributions, désigné par la suite par le terme «ministre», détermine l’ensemble des matières appartenant à une branche. Le terme «branche» désigne la matière ou un ensemble
 de matières enseignées et évaluées dans l’enseignement luxembourgeois.
-\3. Les commissions nationales de l’enseignement secondaire et de l’enseignement secondaire technique peuvent constituer
+3\. Les commissions nationales de l’enseignement secondaire et de l’enseignement secondaire technique peuvent constituer
 une seule commission nationale par branche.
-\4. Pour certaines formations spécifiques plusieurs branches peuvent être supervisées par une seule commission nationale.
-\5. Des commissions nationales peuvent être instituées pour une section ou division de l’enseignement secondaire ou secondaire technique.
-\6. Le ministre peut instituer un groupe de travail constitué des présidents de plusieurs commissions nationales pour se faire
+4\. Pour certaines formations spécifiques plusieurs branches peuvent être supervisées par une seule commission nationale.
+5\. Des commissions nationales peuvent être instituées pour une section ou division de l’enseignement secondaire ou secondaire technique.
+6\. Le ministre peut instituer un groupe de travail constitué des présidents de plusieurs commissions nationales pour se faire
 conseiller dans le développement de stratégies communes dans le domaine des compétences transversales des branches de
 l’enseignement secondaire et secondaire technique.
 Art. 2. Missions
-\1. Les commissions nationales ont pour mission de conseiller le ministre dans toutes les questions relatives à l’enseignement des branches et concernant les classes qui relèvent, selon la décision du ministre, de leur compétence. Les commissions
+1\. Les commissions nationales ont pour mission de conseiller le ministre dans toutes les questions relatives à l’enseignement des branches et concernant les classes qui relèvent, selon la décision du ministre, de leur compétence. Les commissions
 nationales émettent des avis ou font des propositions, soit de leur propre initiative soit à la demande du ministre. Ces avis et
 propositions concernent notamment:
 a.
@@ -21253,67 +21253,67 @@ h.
 
 les évaluations externes qui assurent le monitoring de qualité de l’enseignement luxembourgeois.
 
-\2. Les commissions nationales sont appelées à se concerter pour ce qui est de l’enseignement d’une branche dans plusieurs
+2\. Les commissions nationales sont appelées à se concerter pour ce qui est de l’enseignement d’une branche dans plusieurs
 ordres d’enseignement ou de plusieurs branches dans la même classe.
-\3. Les propositions et avis des commissions nationales sont soumis au ministre.
+3\. Les propositions et avis des commissions nationales sont soumis au ministre.
 Art. 3. Composition
 (Règl. g. - d. du 31 juillet 2016)
 «1. Chaque commission nationale se compose d’un président qui est l’intermédiaire entre le ministre et les membres de
 la commission nationale, d’un secrétaire, d’un membre délégué et d’un membre délégué suppléant de chaque lycée qui offre
 l’ordre d’enseignement concerné, et d’un inspecteur de l’enseignement fondamental pour les commissions supervisant une
 branche enseignée en première année de l’enseignement secondaire ou secondaire technique.»
-\2. Les lycées privés sous régime contractuel peuvent déléguer pour chaque ordre d’enseignement un représentant à chaque
+2\. Les lycées privés sous régime contractuel peuvent déléguer pour chaque ordre d’enseignement un représentant à chaque
 commission nationale des branches dispensées dans leur établissement, avec voix consultative pour tous les points qui les
 concernent.
 \- 381 -
 
 ÉTUDES ET PÉDAGOGIE - Généralités
-\3. Un délégué représente son lycée pour autant que la branche visée figure au programme des classes organisées dans ce
+3\. Un délégué représente son lycée pour autant que la branche visée figure au programme des classes organisées dans ce
 lycée.
-\4. Chaque commission nationale se compose d’au moins six délégués. (Règl. g. - d. du 31 juillet 2016) «Une dérogation
+4\. Chaque commission nationale se compose d’au moins six délégués. (Règl. g. - d. du 31 juillet 2016) «Une dérogation
 peut être accordée par le ministre si le nombre de lycées publics offrant la branche visée est inférieur à six au niveau national.»
-\5. Si les classes d’un lycée sont réparties sur plus d’un site, chaque site peut élire son délégué qui assure le lien entre le
+5\. Si les classes d’un lycée sont réparties sur plus d’un site, chaque site peut élire son délégué qui assure le lien entre le
 siège du lycée et l’annexe qu’il représente. Il peut assister aux réunions des commissions nationales avec voix consultative.
-\6. Chaque fois que la matière l’exige, le ministre peut déléguer aux réunions des commissions nationales des conseillers qui
+6\. Chaque fois que la matière l’exige, le ministre peut déléguer aux réunions des commissions nationales des conseillers qui
 ont voix consultative.
 Art. 4. Nominations
 (Règl. g. - d. du 31 juillet 2016)
 «1. Le président est nommé par le ministre pour un mandat renouvelable de quatre ans. Les délégués, membres effectifs
 et leurs suppléants, ainsi que les représentants des lycées privés sous régime contractuel et les experts sont nommés par le
 ministre pour un mandat renouvelable d’un an.»
-\2. Le secrétaire est élu par (. . .)1 les membres de la commission nationale ayant voix délibérative.
-\3. Les délégués, membres effectifs et suppléants, qui représentent le lycée au sein de la commission nationale sont nommés
+2\. Le secrétaire est élu par (. . .)1 les membres de la commission nationale ayant voix délibérative.
+3\. Les délégués, membres effectifs et suppléants, qui représentent le lycée au sein de la commission nationale sont nommés
 sur proposition des conférences spéciales des lycées convoquées à cet effet par le directeur. Les conférences spéciales de
 branche des lycées regroupent l’ensemble des enseignants chargés d’enseigner cette branche dans ce lycée.
-\4. Si, au cours de son mandat, un membre de la commission nationale quitte l’établissement dont il est le délégué ou
+4\. Si, au cours de son mandat, un membre de la commission nationale quitte l’établissement dont il est le délégué ou
 démissionne, il est remplacé par un nouveau délégué chargé d’achever le mandat de son prédécesseur. La même procédure
 s’applique en cas de vacance d’un mandat pour une raison quelconque.
 (Règl. g. - d. du 31 juillet 2016)
 «5. Si un membre de la commission nationale est nommé président ou président faisant fonction, il est remplacé comme
 délégué de son établissement par un nouveau délégué chargé d’achever le mandat de son prédécesseur, à moins qu’il ne soit
 le seul enseignant de son établissement enseignant la branche concernée.
-\6. Le secrétaire reste ou devient le membre effectif de son établissement.»
+6\. Le secrétaire reste ou devient le membre effectif de son établissement.»
 Art. 5. Réunions
 (Règl. g. - d. du 31 juillet 2016)
 «1. Les commissions nationales se réunissent sur convocation du président au moins deux fois par année scolaire et chaque
 fois que le ministre ou au moins un tiers des membres effectifs de la commission nationale l’exigent.»
-\2. La convocation, accompagnée de l’ordre du jour, est communiquée par voie électronique au moins dix jours avant la
+2\. La convocation, accompagnée de l’ordre du jour, est communiquée par voie électronique au moins dix jours avant la
 séance aux délégués, membres effectifs et suppléants, des lycées et, le cas échéant, aux experts. Copie en est transmise par
 voie électronique au ministre ou à son délégué et aux directeurs des lycées.
-\3. Tout sujet proposé par voie électronique au plus tard 48 heures avant la séance par le ministre ou son délégué ou par au
+3\. Tout sujet proposé par voie électronique au plus tard 48 heures avant la séance par le ministre ou son délégué ou par au
 moins un tiers des membres effectifs doit être ajouté à l’ordre du jour.
-\4. Le secrétaire rédige pour chaque séance un compte rendu des délibérations en précisant quels avis sont majoritaires et
+4\. Le secrétaire rédige pour chaque séance un compte rendu des délibérations en précisant quels avis sont majoritaires et
 minoritaires. Ce compte rendu est envoyé par voie électronique dans les quinze jours aux délégués, membres effectifs et suppléants. Le rapport comprend le relevé des présences et des absences. Les délégués ayant assisté à la réunion communiquent
 leurs remarques par écrit dans le délai d’une semaine. Ensuite, le compte rendu est envoyé par voie électronique au ministre,
 aux délégués et aux autres personnes présentes à la réunion, ainsi qu’aux directeurs des lycées. Chaque membre de la commission nationale est tenu d’en transmettre une copie à tous les enseignants concernés de l’établissement qu’il représente.
-\5. Les délégués des lycées sont tenus d’assister aux réunions. En cas d’empêchement, le membre effectif se fait remplacer
+5\. Les délégués des lycées sont tenus d’assister aux réunions. En cas d’empêchement, le membre effectif se fait remplacer
 par le membre suppléant. En cas d’empêchement du président, le secrétaire ou, à défaut, le membre le plus ancien en rang,
 préside la séance.
-\6. La commission nationale ne peut délibérer valablement que si la moitié des établissements concernés au moins sont
+6\. La commission nationale ne peut délibérer valablement que si la moitié des établissements concernés au moins sont
 représentés. Si ce quorum n’est pas atteint, la commission se réunit à nouveau, avec le même ordre du jour, dans un délai de
 huit jours et délibère valablement quel que soit le nombre d’établissements représentés.
-\7. Le président veille à l’établissement d’une documentation structurée de l’évolution du processus de travail.
-\8. Pour chaque commission nationale où son établissement est représenté, le directeur du lycée convoque les enseignants
+7\. Le président veille à l’établissement d’une documentation structurée de l’évolution du processus de travail.
+8\. Pour chaque commission nationale où son établissement est représenté, le directeur du lycée convoque les enseignants
 en conférence spéciale, au moins deux fois par année scolaire, dont une fois au premier trimestre. Le délégué du lycée est tenu
 d’y présenter les positions de la commission nationale et de rapporter à celle-ci l’avis de la conférence spéciale.
 
@@ -21323,46 +21323,46 @@ Supprimé par le règl. g. - d. du 31 juillet 2016.
 
 ÉTUDES ET PÉDAGOGIE - Généralités
 Art. 6. Procédure de vote
-\1. Les délégués des lycées publics ont voix délibérative pour toutes les questions qui concernent l’ordre d’enseignement,
+1\. Les délégués des lycées publics ont voix délibérative pour toutes les questions qui concernent l’ordre d’enseignement,
 les classes et les voies de formation autorisées à être organisées par le lycée qu’ils représentent; ils ont voix consultative pour
 toutes les autres questions.
-\2. Chaque lycée ne dispose que d’une seule voix.
-\3. Le président a voix délibérative pour tous les points qui sont à l’ordre du jour.
-\4. Les délégués des lycées privés sous régime contractuel et les experts visés à l’article 3, points 2 et 6 ont voix consultative
+2\. Chaque lycée ne dispose que d’une seule voix.
+3\. Le président a voix délibérative pour tous les points qui sont à l’ordre du jour.
+4\. Les délégués des lycées privés sous régime contractuel et les experts visés à l’article 3, points 2 et 6 ont voix consultative
 pour toutes les questions qui les concernent.
-\5. Les décisions sont prises à la majorité simple des voix des membres présents ayant voix délibérative. En cas de partage
+5\. Les décisions sont prises à la majorité simple des voix des membres présents ayant voix délibérative. En cas de partage
 des voix, celle du président est prépondérante.
 Art. 7. Le bureau de la commission nationale
-\1. Sur proposition de la commission nationale le ministre nomme le bureau de la commission nationale. Le bureau comprend
+1\. Sur proposition de la commission nationale le ministre nomme le bureau de la commission nationale. Le bureau comprend
 le président, le secrétaire et deux autres «membres effectifs»1 de la commission nationale. Si le nombre de groupes de travail le
 justifie et sur proposition du président, le ministre peut nommer un ou deux membres supplémentaires au bureau.
-\2. Le bureau représente la commission nationale vis-à-vis du ministre et en toute occasion utile. Il organise les travaux de
+2\. Le bureau représente la commission nationale vis-à-vis du ministre et en toute occasion utile. Il organise les travaux de
 la commission nationale, en prépare les réunions plénières et garantit le suivi des travaux qui tombent sous l’attribution de la
 commission nationale.
 Art. 8. Groupes de travail
-\1. Sur proposition de la commission nationale, le ministre peut nommer un ou plusieurs groupes de travail de la commission
+1\. Sur proposition de la commission nationale, le ministre peut nommer un ou plusieurs groupes de travail de la commission
 nationale chargés de l’étude de problèmes particuliers, avec un président et un rapporteur.
-\2. Avec l’accord du ministre les groupes de travail peuvent s’adjoindre des experts pour les conseiller et les accompagner.
+2\. Avec l’accord du ministre les groupes de travail peuvent s’adjoindre des experts pour les conseiller et les accompagner.
 (Règl. g. - d. du 31 juillet 2016)
 «2bis. Pour être recevable, la proposition de la commission nationale doit obligatoirement indiquer les finalités du groupe de
 travail, les noms et les lycées d’affectation des membres, la durée du mandat et une estimation des ressources.»
-\3. Les conclusions auxquelles aboutissent les groupes de travail sont soumises à la commission nationale.
+3\. Les conclusions auxquelles aboutissent les groupes de travail sont soumises à la commission nationale.
 (Règl. g. - d. du 31 juillet 2016)
 «Après la délibération à la commission nationale, le compte rendu du groupe de travail est communiqué au ministre ou à
 son délégué.»
 (Règl. g. - d. du 31 juillet 2016)
 «Art. 9.
-\1. Pour chaque réunion de la commission, du bureau ou d’un groupe de travail, le président, le secrétaire, les délégués des
+1\. Pour chaque réunion de la commission, du bureau ou d’un groupe de travail, le président, le secrétaire, les délégués des
 lycées et les représentants des écoles privées sous régime contractuel et les conseillers visés à l’article 3, point 6 touchent
 une indemnité fixée à « 37,87 »2 euros par réunion, pour autant qu’ils ne bénéficient pas d’une décharge ad hoc accordée par
 le ministre.
-\2. Le membre suppléant d’un établissement n’est indemnisé que pour les réunions de la commission nationale auxquelles
+2\. Le membre suppléant d’un établissement n’est indemnisé que pour les réunions de la commission nationale auxquelles
 le membre effectif ne participe pas.
-\3. Les indemnités sont dues, en fonction des présences des membres, pour toute réunion pour laquelle un compte rendu
+3\. Les indemnités sont dues, en fonction des présences des membres, pour toute réunion pour laquelle un compte rendu
 est transmis au ministre.
-\4. Pour chaque réunion de la commission ou du bureau, les membres du bureau, hormis le président, touchent une indemnité supplémentaire, équivalente à l’indemnité précitée, pour autant qu’ils ne bénéficient pas d’une décharge ad hoc accordée
+4\. Pour chaque réunion de la commission ou du bureau, les membres du bureau, hormis le président, touchent une indemnité supplémentaire, équivalente à l’indemnité précitée, pour autant qu’ils ne bénéficient pas d’une décharge ad hoc accordée
 par le ministre.
-\5. Pour chaque réunion d’un groupe de travail, le président et le rapporteur visés à l’article 8, point 1, touchent une indemnité
+5\. Pour chaque réunion d’un groupe de travail, le président et le rapporteur visés à l’article 8, point 1, touchent une indemnité
 supplémentaire, équivalente à l’indemnité précitée.»
 Art. 10. (abrogé par le règl. g. - d. du 31 juillet 2016)
 Art. 11. Entrée en vigueur et disposition transitoire
@@ -21390,12 +21390,12 @@ commissions nationales pour les programmes de l´enseignement secondaire.
 
 Les indemnités prévues à l´article 7 du règlement grand-ducal du 8 août 1985 portant institution et organisation de commissions nationales pour les programmes de l´enseignement secondaire, sont fixées, par réunion en séance plénière ou en groupe
 de travail, aux taux suivants:
-1)
+1\)
 
 pour les membres des commissions nationales, les délégués et représentants visés à l´article 2, alinéa 3 et les experts
 visés à l´article 6, alinéa 4 du règlement grand-ducal précité, à 1.500 francs;
 
-2)
+2\)
 
 pour les présidents et les secrétaires des commissions nationales à 3.000 francs.
 
@@ -21795,10 +21795,10 @@ Pour le calcul des notes annuelles et de la moyenne générale annuelle, les fra
 supérieure.
 
 À l’intitulé et dans l’ensemble du texte
-\1. les mots « enseignement secondaire » sans l’ajout « technique » sont remplacés par les mots « enseignement secondaire classique » ;
-\2. les mots « enseignement secondaire technique » sont remplacés par les mots « enseignement secondaire général » ;
-\3. les mots « branche » ou « branches » sont respectivement remplacés par les mots « discipline » et « disciplines » ;
-\4. les mots « Service de Psychologie et d’Orientation Scolaires » sont remplacés par les mots «Service psycho-social et d’accompagnement scolaires »
+1\. les mots « enseignement secondaire » sans l’ajout « technique » sont remplacés par les mots « enseignement secondaire classique » ;
+2\. les mots « enseignement secondaire technique » sont remplacés par les mots « enseignement secondaire général » ;
+3\. les mots « branche » ou « branches » sont respectivement remplacés par les mots « discipline » et « disciplines » ;
+4\. les mots « Service de Psychologie et d’Orientation Scolaires » sont remplacés par les mots «Service psycho-social et d’accompagnement scolaires »
 
 modifié selon le règl. g.-d. du 21 août 2017..
 Supprimé par le règl. g. - d. du 21 août 2017.
@@ -21850,7 +21850,7 @@ Le directeur peut se faire conseiller par des experts. Il peut annuler un devoir
 Chaque titulaire remet les devoirs en classe de ses élèves au lycée aux fins d’archivage. Ils y sont conservés jusqu’à la
 fin de l’année scolaire suivante.
 
-7.
+7\.
 
 Les épreuves communes sont des épreuves nationales avec des questionnaires communs élaborés sur la demande du
 ministre. Elles sont évaluées par le titulaire en fonction de barèmes et de critères de correction fournis avec le questionnaire. Tous les élèves des classes concernées y participent, sauf en cas d’absence dûment motivée. Les résultats des
@@ -21863,7 +21863,7 @@ a. En classe de 6e générale : en sciences naturelles ;
 b. En classe de 5e générale : en allemand, en français, en mathématiques, en sciences sociales, en anglais pour les
 élèves de la 5e de détermination et pour les élèves de la 5e d’adaptation qui y sont inscrits par leurs parents.
 
-8.
+8\.
 
 Les contrôles sont des interrogations écrites ou orales, des appréciations de la préparation des travaux et devoirs à
 domicile de l’élève, l’appréciation de la participation en classe, la correction du devoir en classe. Une interrogation orale
@@ -22206,7 +22206,7 @@ comportement de l’élève.
 
 Au terme de la classe de 6e d’orientation de l’enseignement secondaire général, le régent invite les parents à un entretien individuel qui porte sur l’avis d’orientation provisoire défini à l’article 6bis, paragraphe 1er. »
 
-7.
+7\.
 
 Au deuxième « trimestre ou semestre »1 ou au début du troisième trimestre de la « classe de 5e ou classe d’initiation
 professionnelle de l’enseignement secondaire général »1 et de la « classe de 4e de l’enseignement secondaire classique »1, le
@@ -22373,15 +22373,15 @@ Les élèves qui ne réussissent pas sans toutefois échouer d’après les disp
 
 (supprimé par le règl. g. - d. du 21 août 2017)
 
-7.
+7\.
 
 (supprimé par le règl. g. - d. du 21 août 2017)
 
-8.
+8\.
 
 Le conseil de classe décide de tout cas de promotion non prévu par le présent règlement.
 
-9.
+9\.
 
 Dans le cadre de projets-pilotes, le ministre peut autoriser des modalités spécifiques au projet pour la promotion des
 élèves.
@@ -22729,18 +22729,18 @@ d’appliquer les dispositions concernant la compensation, l’ajournement ou l�
 une note annuelle de 15 à 19 points au cours avancé est prise en compte pour la décision de promotion au même titre
 qu’une note annuelle insuffisante supérieure à 20 points au cours de base ;
 
-7.
+7\.
 
 une note annuelle inférieure à 15 points au cours avancé est prise en compte pour la décision de promotion au même
 titre qu’une note annuelle insuffisante inférieure à 20 points au cours de base ;
 
-8.
+8\.
 
 qui a obtenu une note annuelle de 26 à 29 points, le conseil de classe peut décider que l’élève peut continuer l’étude de
 la langue concernée en classe de 2e de l’enseignement secondaire général, s’il estime que cette décision correspond
 aux capacités et aux compétences de l’élève ;
 
-9.
+9\.
 
 qui n’est pas autorisé à continuer l’étude de la langue concernée en classe de 2e, il est proposé une épreuve complémentaire en septembre pour devenir admissible au cours de langue visée. Les modalités de l’épreuve en question sont
 décidées par le conseil de classe responsable de la décision de promotion en classe de 3e. Celui-ci décide également
@@ -22961,35 +22961,35 @@ L’élève ayant réussi une classe de 3e de la section sciences naturelles ou 
 l’enseignement secondaire classique est admissible en classe de 2e de la section sciences naturelles de l’enseignement
 secondaire général.
 
-7.
+7\.
 
 L’élève ayant réussi une classe de 3e de la section architecture, design et développement durable ou une classe de 3e
 de la section C ou B de l’enseignement secondaire classique est admissible en classe de 2e de la section architecture,
 design et développement durable de l’enseignement secondaire général.
 
-8.
+8\.
 
 L’élève ayant réussi une classe de 3e de la division technique générale ou une classe de 3e de la section C ou B de
 l’enseignement secondaire classique est admissible en classe de 2e de la section sciences environnementales de
 l’enseignement secondaire général.
 
-9.
+9\.
 
 L’élève ayant réussi une classe de 3e de la division administrative et commerciale ou une classe de 3e de la section D ou
 G de l’enseignement secondaire classique est admissible en classe de 2e de la section gestion et de la section communication et organisation de l’enseignement secondaire général.
 
-\10. L’élève ayant réussi une classe de 3e de l’enseignement secondaire général ou une classe de 3e de l’enseignement
+10\. L’élève ayant réussi une classe de 3e de l’enseignement secondaire général ou une classe de 3e de l’enseignement
 secondaire classique est admissible en classe de 2e de la section gestion de l’hospitalité de l’enseignement secondaire
 général.
-\11. L’élève ayant réussi une classe de 3e de la section professions de santé et professions sociales, de la section sciences
+11\. L’élève ayant réussi une classe de 3e de la section professions de santé et professions sociales, de la section sciences
 naturelles, de la section ingénierie ou une classe de 3e de l’enseignement secondaire classique est admissible en classe
 de 2e de la section sciences de la santé de l’enseignement secondaire général.
-\12. L’élève ayant réussi une classe de 3e de la section professions de santé et professions sociales, de la section sciences
+12\. L’élève ayant réussi une classe de 3e de la section professions de santé et professions sociales, de la section sciences
 naturelles ou une classe de 3e de l’enseignement secondaire classique est admissible en classe de 2e de la section de
 la formation de l’infirmier de l’enseignement secondaire général.
-\13. L’élève ayant réussi une classe de 3e de la section arts et communication visuelle est admissible en classe de 2e de la
+13\. L’élève ayant réussi une classe de 3e de la section arts et communication visuelle est admissible en classe de 2e de la
 section arts et communication visuelle de l’enseignement secondaire général.
-\14. L’élève qui n’est pas admissible à une classe selon les dispositions des points 1. à 13., se soumet dans une ou plusieurs
+14\. L’élève qui n’est pas admissible à une classe selon les dispositions des points 1. à 13., se soumet dans une ou plusieurs
 disciplines à une épreuve d’admission, conformément aux dispositions de l’article 10. »
 Art. 9. – Le redoublement
 
@@ -23715,9 +23715,9 @@ des classes du cycle moyen, régime professionnel, de l’enseignement secondair
 f.
 
 Les articles 11, 12, 13, 14, 15 et 16 du règlement grand-ducal du 18 avril 1988 déterminant:
-\1. les métiers et professions dans lesquels l´apprentissage peut être organisé en vue de l´obtention d´un certificat de
+1\. les métiers et professions dans lesquels l´apprentissage peut être organisé en vue de l´obtention d´un certificat de
 capacité manuelle (CCM) et
-\2. le fonctionnement des classes préparant audit certificat.
+2\. le fonctionnement des classes préparant audit certificat.
 
 Notre Ministre de l’Éducation nationale et de la Formation professionnelle est chargée de l’exécution du présent règlement
 qui sera publié au Mémorial.
@@ -23785,7 +23785,7 @@ La délimitation des notes dans l’échelle des points est fixée comme suit:
 
 Instruction ministérielle du 6 juin 2008 concernant les devoirs des élèves et les notes scolaires.
 
-\1. Les principes de l’évaluation
+1\. Les principes de l’évaluation
 L’évaluation des élèves fait partie intégrante du processus de formation. Elle permet de contrôler et de certifier les acquis et
 les progrès des élèves et de déceler leurs difficultés.
 Elle renseigne l’élève, l’enseignant et les parents ou le représentant légal de l’élève sur les progrès réalisés. Elle sert à
@@ -23827,7 +23827,7 @@ domicile de l’élève ainsi que de la participation en classe.
 
 Les devoirs en classe et les contrôles donnent lieu à des cotations qui déterminent les notes. Toute correction des devoirs en
 classe s’intègre au processus de l’évaluation formative.
-\2. Les devoirs en classe
+2\. Les devoirs en classe
 Les enseignants sont tenus de respecter les programmes publiés dans «Horaires et Programmes», notamment les finalités
 prévues dans les socles de compétences, les critères d’évaluation, les lignes directrices de notation et la fixation des degrés de
 difficultés, le nombre minimal de devoirs en classe par branche et par classe, le type des devoirs en classe.
@@ -23870,7 +23870,7 @@ Sur proposition des commissions nationales pour les programmes, des dispositions
 des devoirs, des réalisations, des travaux en atelier ou en laboratoire, peuvent être arrêtées. Ces dispositions sont publiées
 dans « Horaires et programmes » et portées à la connaissance des élèves par les titulaires des branches concernées au début
 de l’année scolaire.
-\3. La correction du devoir en classe
+3\. La correction du devoir en classe
 Tout devoir écrit doit être corrigé et noté par le titulaire. Il est remis aux élèves dans les plus brefs délais, mais au plus tard
 trois jours avant le devoir en classe suivant et avant la délibération du conseil de classe. Aucune épreuve ne peut être cotée à
 moins de un (01) point. Le crédit négatif n’est admis sous aucune forme. En remettant aux élèves les copies corrigées, l’enseignant précise l’application des critères de correction et informe les élèves sur leurs difficultés et leurs progrès, notamment par
@@ -23892,7 +23892,7 @@ de l’année scolaire suivante.
 \- 413 -
 
 ÉTUDES ET PÉDAGOGIE - Promotion
-\4. Les contrôles
+4\. Les contrôles
 Les interrogations écrites, orales ou pratiques ne peuvent porter que sur la préparation à domicile imposée pour le jour où le
 contrôle a lieu. La matière y relative est communiquée à l’avance aux élèves et inscrite dans le livre de classe. Un tel contrôle
 ne peut excéder une durée d’une demi-heure. Les notes obtenues au cours des différents contrôles sont communiquées aux
@@ -23902,16 +23902,16 @@ Pour les classes du cycle inférieur de l’enseignement secondaire technique et
 Le titulaire peut substituer la note moyenne de plusieurs contrôles à une note de devoir en classe. Cette substitution peut
 s’appliquer à un unique devoir en classe par trimestre ou semestre à condition que le nombre de devoirs en classe soit au moins
 égal à 2 et que le titulaire en ait informé les élèves au début du trimestre ou semestre.
-\5. La note trimestrielle ou semestrielle
+5\. La note trimestrielle ou semestrielle
 Toute note est déterminée sur base d’au moins un devoir en classe et d’au moins un contrôle. Elle est égale à la moyenne,
 arrondie à l’unité supérieure, des notes de tous les devoirs, et ajustée par la note obtenue lors des contrôles. Cet ajustement ne
 peut dépasser la valeur de 4 points, tant en valeur positive qu’en valeur négative.
 Sur proposition des commissions nationales pour les programmes, des dispositions spécifiques concernant la prise en
 compte des travaux pratiques et des épreuves orales peuvent être arrêtées. Ces dispositions sont publiées dans ‘Horaires et
 programmes’ et portées à la connaissance des élèves par les titulaires des branches concernées au début de l’année scolaire.
-\6. L’évaluation des modules
+6\. L’évaluation des modules
 Pour les branches enseignées sous forme modulaire, les devoirs en classe peuvent être remplacés par des tests qui permettent d’évaluer les connaissances acquises dans les différents modules.
-\7. Les devoirs à domicile
+7\. Les devoirs à domicile
 Les élèves doivent réviser chez eux la matière traitée pendant le cours. Afin de les aider à assimiler la matière enseignée en
 classe, le titulaire impose régulièrement des devoirs à domicile et il en contrôle l’exécution. Le volume de ces devoirs à domicile
 doit être adapté à l’âge et aux capacités des élèves, le degré de difficulté doit respecter les dispositions fixées dans « Horaires
@@ -23920,10 +23920,10 @@ avoir recours à une aide externe. Ils sont corrigés en classe. Dans le cycle i
 que les élèves notent ces devoirs à domicile dans leur journal de classe.
 Les devoirs à domicile sont inscrits dans le livre de classe. Chaque titulaire tient compte du volume d’ensemble de tous les
 devoirs à domicile imposés aux élèves. Le régent veille à une répartition appropriée.
-\8. L’information des enseignants et des élèves
+8\. L’information des enseignants et des élèves
 Au début de l’année scolaire la présente instruction de service est portée à la connaissance des enseignants par le directeur,
 à celle des élèves par le régent.
-\9. Mise en vigueur
+9\. Mise en vigueur
 La présente instruction est applicable à partir de l’année scolaire 2008-2009.
 
 \- 414 -
@@ -23994,20 +23994,20 @@ biologie : « 2 leçons ou 1,5 leçons de sciences de la vie et de la terre »1 
 
 physique : 1,5 leçons ;
 
-7.
+7\.
 
 chimie : 1,5 leçons ;
 
-8.
+8\.
 
 histoire : 2 leçons ;
 
-9.
+9\.
 
 éducation physique : 1 leçon ;
 
-\10. éducation artistique : 1 leçon ;
-\11. cours vie et société : 1 leçon.
+10\. éducation artistique : 1 leçon ;
+11\. cours vie et société : 1 leçon.
 (2) Pour chaque section, la grille horaire en classe de 2e comprend les disciplines suivantes avec au moins le nombre indiqué
 de leçons hebdomadaires :
 
@@ -24136,9 +24136,9 @@ baccalauréat international (tel qu’il a été modifié)  . . . . . . . . . . 
 Loi du 21 juillet 2006 autorisant le Gouvernement à organiser des classes internationales préparant au diplôme
 du baccalauréat international (telle qu’elle a été modifiée) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  436
 Règlement grand-ducal du 9 mai 2008
-\1. autorisant le Lycée technique du Centre et l’Athénée de Luxembourg à organiser des classes internationales
+1\. autorisant le Lycée technique du Centre et l’Athénée de Luxembourg à organiser des classes internationales
 préparant au diplôme du baccalauréat international;
-\2. déterminant l’organisation des classes internationales préparant au diplôme du baccalauréat international (tel
+2\. déterminant l’organisation des classes internationales préparant au diplôme du baccalauréat international (tel
 qu’il a été modifié)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  437
 Règlement grand-ducal du 27 octobre 2006 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur
 l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur (tel qu’il
@@ -24180,8 +24180,8 @@ Deux sessions annuelles sont organisées aux dates fixées par le ministre ayant
 appelé par la suite «le ministre». La session d’été a lieu «d’avril à juillet»2, la session d’automne de septembre à novembre.
 L’examen est clos le 30 novembre de l’année en cours.
 Art. 3. Commissions d’examen.
-\1. L’examen a lieu devant des commissions nommées chaque année par le ministre.
-\2. Il est nommé «pour chaque lycée»3, à condition que pendant l’année scolaire le lycée ait organisé en classe de première
+1\. L’examen a lieu devant des commissions nommées chaque année par le ministre.
+2\. Il est nommé «pour chaque lycée»3, à condition que pendant l’année scolaire le lycée ait organisé en classe de première
 l’enseignement de la section concernée:
 a) une commission pour la section latin-langues vivantes (A) et la section langues vivantes (A);
 b) une commission pour la section latin-mathématiques-informatique (B) et la section mathématiques-informatique (B);
@@ -24190,10 +24190,10 @@ d) une commission pour la section latin-sciences économiques-mathématiques (D)
 e) une commission pour la section latin-arts plastiques (E) et la section arts plastiques (E);
 f) une commission pour la section latin-musique (F) et la section musique (F);
 g) une commission pour la section latin-sciences humaines et sociales (G) et la section sciences humaines et sociales (G).
-\3. En cas de besoin, il peut être nommé une ou plusieurs commissions supplémentaires.
+3\. En cas de besoin, il peut être nommé une ou plusieurs commissions supplémentaires.
 (Règl. g. - d. du 28 juillet 2017)
 «3bis.Le directeur du lycée ou son délégué, appelé ci-après « le directeur », propose au ministre les membres des commissions d’examen.»
-\4. Chaque commission est présidée par un commissaire du Gouvernement, désigné ci-après par «le commissaire». Le
+4\. Chaque commission est présidée par un commissaire du Gouvernement, désigné ci-après par «le commissaire». Le
 directeur (. . .)4 (. . .)5 est membre de chaque commission de son établissement. Sont nommés en sus sept à quinze
 membres effectifs et des membres suppléants, tous qualifiés pour enseigner dans un lycée.
 
@@ -24213,7 +24213,7 @@ Modifié par le règlement g. - d. du 28 juillet 2017.
 
 Chaque commission choisit un secrétaire parmi ses membres.
 
-7.
+7\.
 
 Nul ne peut prendre part ni à l’examen concernant l’un de ses parents ou alliés jusque et y compris le quatrième degré,
 ni à l’examen d’un candidat à qui il a donné des leçons particulières au courant de l’année scolaire.
@@ -24680,7 +24680,7 @@ Version applicable à partir du 17 décembre 2010
 Le diplôme du Baccalauréat International est reconnu équivalent au diplôme de fin d’études secondaires luxembourgeois si,
 en sus des critères fixés par l’Office du Baccalauréat International à Genève et publiés à l’annexe du présent règlement qui en
 fait partie intégrante, les conditions suivantes sont remplies:
-1)
+1\)
 
 Les épreuves d’examen du diplôme du Baccalauréat International doivent porter sur:
 
@@ -24703,25 +24703,25 @@ au choix:
 – une deuxième matière choisie dans les Groupes 1 à 5.
 La nomenclature des «Groupes» et des cours est celle utilisée par l’Office du Baccalauréat International de Genève.
 
-2)
+2\)
 
 Parmi les deux langues visées sous 1 a), l’une au moins doit être soit la langue française, soit la langue anglaise, soit la
 langue allemande.
 
-3)
+3\)
 
 Trois matières au moins doivent être étudiées au niveau supérieur (NS), les autres au niveau moyen (NM).
 
-4)
+4\)
 
 Afin de pouvoir obtenir le diplôme du BI, le candidat doit satisfaire à toutes les conditions fixées par le règlement interne
 du Baccalauréat International.
 
-5)
+5\)
 
 La scolarité de l’élève doit s’étendre sur 12 années d’études primaires et secondaires progressives au moins.
 
-6)
+6\)
 
 En sus des deux langues visées sous 1) a), l’élève doit, dans une troisième langue, soit avoir accompli au cours de sa
 scolarité un cycle d’études de quatre années, soit pouvoir se prévaloir de compétences équivalant au niveau A2 déterminé par le Cadre commun de référence pour les langues établi par le Conseil de l’Europe.»
@@ -25314,8 +25314,8 @@ Le Gouvernement est autorisé à conclure avec l’Office du Baccalauréat inter
 
 ÉTUDES ET PÉDAGOGIE - Examens et diplômes
 Règlement grand-ducal du 9 mai 2008
-\1. autorisant le Lycée technique du Centre et l’Athénée de Luxembourg à organiser des classes internationales préparant au diplôme du baccalauréat international;
-\2. déterminant l’organisation des classes internationales préparant au diplôme du baccalauréat international,
+1\. autorisant le Lycée technique du Centre et l’Athénée de Luxembourg à organiser des classes internationales préparant au diplôme du baccalauréat international;
+2\. déterminant l’organisation des classes internationales préparant au diplôme du baccalauréat international,
 (Mém. A – 69 du 23 mai 2008, p. 956)
 modifié par:
 Règlement grand-ducal du 7 décembre 2010, (Mém. A – 219 du 13 décembre 2010, p. 3555)
@@ -25978,11 +25978,11 @@ l’enseignement secondaire et secondaire technique ainsi que sur tout sujet con
 
 elle peut former des commissions spéciales consultatives appelées à délibérer séparément sur des questions qui intéressent plus particulièrement les groupes respectifs d’élèves;
 
-7.
+7\.
 
 elle coordonne les activités des comités d’élèves et veille à leur fonctionnement;
 
-8.
+8\.
 
 elle peut assumer le rôle de médiateur entre les comités d’élèves et les directions des lycées.
 
@@ -26236,7 +26236,7 @@ sciences humaines doivent être détenteurs d’un diplôme luxembourgeois de ma
 avoir obtenu l’inscription de leurs titres et grades étrangers au registre des diplômes prévu par la loi modifiée du 17 juin
 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-7.
+7\.
 
 Dans la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psychosocial, les spécialistes en
 sciences humaines doivent:
@@ -26245,23 +26245,23 @@ b) soit être détenteurs d’un diplôme d’éducateur gradué luxembourgeois;
 c) soit être détenteurs d’un diplôme, certificat ou titre reconnu équivalent et inscrit au registre des diplômes prévu par
 la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur.
 
-8.
+8\.
 
 Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psychosocial les professionnels en
 sciences humaines doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou d’un diplôme, certificat ou titre
 étranger reconnu équivalent par le ministre.
 
-9.
+9\.
 
 Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, voire dans la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif et sous-groupe technique, les rédacteurs, les expéditionnaires et les expéditionnaires techniques appelés à remplir des fonctions de gestion administrative dans un lycée sont
 recrutés parmi les fonctionnaires ou stagiaires des mêmes carrières de l’administration générale et détachés au lycée.
 A chaque lycée, un fonctionnaire ou stagiaire de la carrière du rédacteur peut être autorisé à porter le titre de secrétaire,
 sans que pour autant ni son rang, ni son traitement n’en soient modifiés.
 
-\10. Les fonctionnaires des carrières de l’enseignement appelés à intervenir dans l’enseignement pratique spécifique aux
+10\. Les fonctionnaires des carrières de l’enseignement appelés à intervenir dans l’enseignement pratique spécifique aux
 formations des professions de santé doivent pouvoir se prévaloir d’une autorisation d’exercer délivrée par le ministre
 ayant la Santé dans ses attributions.
-\11. Pour les professions réglementées prévues dans les catégories de traitement A et B, groupe de traitement A1, A2 ou
+11\. Pour les professions réglementées prévues dans les catégories de traitement A et B, groupe de traitement A1, A2 ou
 B1, une autorisation d’exercer délivrée par le membre du Gouvernement compétent est requise.
 Le directeur et le directeur adjoint sont choisis parmi les fonctionnaires appartenant ou ayant appartenu pendant cinq ans
 au moins au personnel de la catégorie de traitement A, sous-groupe enseignement secondaire ou sous-groupe enseignement
@@ -26270,7 +26270,7 @@ que fonctionnaire.»
 Art. 6. – Modifications d’autres lois
 A. La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée et complétée
 comme suit:
-\1. L’article 19, paragraphe 1er, est remplacé comme suit:
+1\. L’article 19, paragraphe 1er, est remplacé comme suit:
 «1. Au terme du stage pédagogique, les stagiaires dans les fonctions énumérées ci-dessous sont nommés aux fonctions de
 candidat pour les mêmes fonctions et leurs carrières sont reconstituées conformément aux dispositions de l’article 7 ci-dessous;
 les réductions prévues ci-dessous sont appliquées sans que leur traitement ne puisse être inférieur au quatrième échelon de
@@ -26323,7 +26323,7 @@ Au terme de la période de candidature, le candidat qui a présenté avec succè
 fonction et au grade pour lesquels il a accompli avec succès le stage pédagogique et la réduction prévue ci-dessus est supprimée.
 Les candidats classés aux grades E5 à E7 ne peuvent pas bénéficier des dispositions prévues à l’article 22, chapitre VII,
 paragraphe a, ci-dessous.»
-\2. L’article 22, paragraphe II, point 4°, deuxième alinéa, est complété comme suit:
+2\. L’article 22, paragraphe II, point 4°, deuxième alinéa, est complété comme suit:
 «Après vingt-quatre années de grade, il avancera au grade 13.»
 B. L’article 3, paragraphe 1er, alinéa deux, de la loi du 21 mai 1999 concernant la fonction de candidat dans les carrières
 enseignantes de l’enseignement postprimaire est remplacé comme suit:
@@ -26340,30 +26340,30 @@ nationale, le chargé de cours du Service de la Formation des adultes, le charg�
 différenciée et le chargé de cours du Centre de logopédie d’autre part, peuvent être renouvelés plus de deux fois, même pour
 une durée totale excédant vingt-quatre mois.»
 Art. 7. – Dispositions transitoires
-\1. Les fonctions de professeur de sciences commerciales, d’instituteur d’enseignement technique, d’institutrice d’enseignement ménager agricole et de secrétaire des établissements scolaires sont maintenues dans le cadre du personnel des lycées
+1\. Les fonctions de professeur de sciences commerciales, d’instituteur d’enseignement technique, d’institutrice d’enseignement ménager agricole et de secrétaire des établissements scolaires sont maintenues dans le cadre du personnel des lycées
 pour les titulaires en service ou en congé sans traitement à l’entrée en vigueur de la présente loi.
-\2. Les postes des chargés de cours sont maintenus dans le cadre du personnel des lycées pour les employés en service ou
+2\. Les postes des chargés de cours sont maintenus dans le cadre du personnel des lycées pour les employés en service ou
 en congé sans traitement à l’entrée en vigueur de la présente loi.
-\3. Les dispositions de l’article 19, paragraphe 1er, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
+3\. Les dispositions de l’article 19, paragraphe 1er, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’Etat sont applicables aux candidats pour les carrières enseignantes de l’enseignement postprimaire admis
 au stage pédagogique à partir du 1er janvier 1999.
-\4. Les fonctionnaires des carrières du psychologue, de l’assistant social et de l’éducateur gradué, nommés auprès du Centre
+4\. Les fonctionnaires des carrières du psychologue, de l’assistant social et de l’éducateur gradué, nommés auprès du Centre
 de psychologie et d’orientation scolaires (CPOS) à l’entrée en vigueur de la présente loi, sont affectés soit au Centre de psychologie et d’orientation scolaires, soit à un lycée ou à un lycée technique par décision du ministre, le directeur du Centre de
 psychologie et d’orientation scolaires entendu en son avis.
-\5. L’infirmière hospitalière graduée nommée par arrêté grand-ducal du 26 mars 1981, détachée à partir de la rentrée scolaire
+5\. L’infirmière hospitalière graduée nommée par arrêté grand-ducal du 26 mars 1981, détachée à partir de la rentrée scolaire
 1995/1996 au Lycée technique pour professions de santé et pouvant se prévaloir d’une activité d’enseignement à tâche complète de plus de cinq ans à l’Ecole de l’Etat pour paramédicaux et au Lycée technique pour professions de santé, peut bénéficier
 des dispositions de l’article 19 de la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère de la Santé.
-\6. L’employée de l’Etat de la carrière de l’infirmière hospitalière graduée, entrée en service le 1er juillet 1972 en qualité
+6\. L’employée de l’Etat de la carrière de l’infirmière hospitalière graduée, entrée en service le 1er juillet 1972 en qualité
 d’employée privée au service de l’Etat et reprise par le Lycée technique pour professions de santé à partir du 1er janvier 1995,
 peut bénéficier des dispositions de l’article 22 de la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques
 et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère
 de la Santé.
-\7. L’employée de l’Etat de la carrière de l’infirmière hospitalière graduée, entrée en service le 1er décembre 1992 en qualité
+7\. L’employée de l’Etat de la carrière de l’infirmière hospitalière graduée, entrée en service le 1er décembre 1992 en qualité
 d’employée privée au service de l’Etat et reprise par le Lycée technique pour professions de santé à partir du 1er janvier 1995,
 peut bénéficier des dispositions de l’article 25 de la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques
 et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère
 de la Santé.
-\8. L’employée de l’Etat, occupée au Lycée technique pour professions de santé à partir du 1er janvier 1997 en qualité de
+8\. L’employée de l’Etat, occupée au Lycée technique pour professions de santé à partir du 1er janvier 1997 en qualité de
 chargée d’éducation à durée déterminée et pouvant se prévaloir d’un engagement en qualité d’infirmière enseignante à l’Ecole
 d’infirmières de la Clinique Ste Thérèse pendant la période du 14 septembre 1979 au 19 décembre 1989, peut être nommée
 aux fonctions d’infirmière graduée avec le droit de porter le titre d’infirmière graduée-enseignante.
@@ -26373,20 +26373,20 @@ aux fonctions d’infirmière graduée avec le droit de porter le titre d’infi
 Au plus tard dans un délai de six mois à partir de cette nomination, elle pourra choisir d’être nommée aux fonctions de professeur d’enseignement technique. Toutefois, cette nomination ne peut être prononcée que si elle subit avec succès, dans les
 trois années qui suivent la mise en vigueur de la présente loi, un examen spécial dont le programme et les modalités sont fixés
 par règlement grand-ducal.
-\9. Les dispositions de l’article 26 de la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées
+9\. Les dispositions de l’article 26 de la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées
 d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère de la Santé
 sont applicables aux agents définis aux paragraphes 5 à 8 ci-dessus.
-\10. L’ouvrier d’ARBED, groupe ARCELOR, détenteur d’un certificat d’aptitude professionnelle pour le métier de menuisierébéniste, mis à la disposition du Lycée Michel-Rodange de Luxembourg depuis le mois de février 1997, est admis au stage pour
+10\. L’ouvrier d’ARBED, groupe ARCELOR, détenteur d’un certificat d’aptitude professionnelle pour le métier de menuisierébéniste, mis à la disposition du Lycée Michel-Rodange de Luxembourg depuis le mois de février 1997, est admis au stage pour
 la fonction d’artisan au même établissement. A cet effet, il est dispensé de l’examen-concours prévu pour l’accès à la carrière
 d’artisan. La période pendant laquelle il a travaillé au Lycée Michel-Rodange lui est bonifiée en sa totalité comme ancienneté de
 service pour temps passé au service de l’Etat. Lors de la reconstitution de la carrière de cet agent, les dispositions de l’article
 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat sont applicables, à l’exception
 du paragraphe 6, alinéas 1er et 2, première phrase.
-\11. L’ouvrier de la carrière E en service au Lycée Technique agricole d’Ettelbrück depuis le 1er septembre 1992 peut être
+11\. L’ouvrier de la carrière E en service au Lycée Technique agricole d’Ettelbrück depuis le 1er septembre 1992 peut être
 engagé en qualité d’employé de l’Etat au même lycée. Par application des dispositions de l’article 23 de la loi modifiée du 22 juin
 1963 fixant le régime des traitements des fonctionnaires de l’Etat, son classement est déterminé par une décision individuelle
 de classement. Il est autorisé à porter le titre de «bibliothécaire du Lycée Technique agricole d’Ettelbrück».
-\12. L’employée de l’Etat engagée le 1er septembre 1984, détentrice du diplôme d’éducateur gradué, affectée à l’entrée en
+12\. L’employée de l’Etat engagée le 1er septembre 1984, détentrice du diplôme d’éducateur gradué, affectée à l’entrée en
 vigueur de la présente loi au Lycée technique d’Ettelbrück, peut être nommée aux fonctions d’éducateur gradué. A cet effet, elle
 est dispensée de l’examen concours, du stage et de l’examen d’admission définitive pour les fonctions de l’éducateur gradué.
 Sa carrière sera reconstituée sur la base d’une nomination fictive se situant deux années après son entrée en service en qualité
@@ -26394,7 +26394,7 @@ d’employée de l’Etat; les restrictions prévues à l’article 7, paragraph
 traitements des fonctionnaires de l’Etat ne seront pas appliquées. En vue de l’application des dispositions des articles 8 et 22
 de la même loi, il lui sera tenu compte, comme temps de grade, des périodes de service accomplies en qualité d’employée de
 l’Etat et dépassant deux années.
-\13. Les engagements au service de l’Etat résultant des dispositions qui précèdent se feront par dépassement de l’effectif
+13\. Les engagements au service de l’Etat résultant des dispositions qui précèdent se feront par dépassement de l’effectif
 total du personnel et en dehors du nombre d’engagements de renforcement déterminés par la loi budgétaire de l’exercice
 concerné.
 (Loi du 29 août 2017)
@@ -26404,16 +26404,16 @@ Art. 8. – Dispositions abrogatoires
 Sont abrogées toutes les dispositions légales contraires à la présente loi, sauf les règlements grand-ducaux pris en exécution de ces dispositions qui restent en vigueur pour autant qu’ils ne sont pas abrogés et tant qu’ils ne sont pas remplacés par
 des règlements grand-ducaux pris sur base de la présente loi.
 Sont notamment abrogés:
-\1. en ce qui concerne la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, Titre VI: de l’enseignement secondaire
+1\. en ce qui concerne la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, Titre VI: de l’enseignement secondaire
 l’article 59
-\2. La loi du 25 août 1971 portant création de la fonction de professeur de sciences économiques et sociales aux établissements d’enseignement secondaire;
-\3. en ce qui concerne la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: de l’enseignement secondaire)
+2\. La loi du 25 août 1971 portant création de la fonction de professeur de sciences économiques et sociales aux établissements d’enseignement secondaire;
+3\. en ce qui concerne la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement (Titre VI: de l’enseignement secondaire)
 l’article 3, paragraphes 1 à 5
 l’article 3, paragraphe 6, alinéas 1, 3 et 5
 l’article 4, paragraphe 1
 l’article 5
 l’article 6
-\4. en ce qui concerne la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la
+4\. en ce qui concerne la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la
 formation professionnelle continue
 l’article 6, paragraphe 3, à l’exception de l’alinéa 3
 l’article 6, paragraphe 4
@@ -26424,7 +26424,7 @@ l’article 52
 l’article 53
 l’article 54
 l’article 55, alinéas 1, 3 et 5
-\5. en ce qui concerne la loi du 25 juin 2004 portant organisation des lycées et lycées techniques
+5\. en ce qui concerne la loi du 25 juin 2004 portant organisation des lycées et lycées techniques
 l’article 26
 l’article 45.
 Art. 9. – Intitulé abrégé
@@ -27330,7 +27330,7 @@ Classes
 
 0,95
 
-\2. Pour les autres cours dans les autres classes:
+2\. Pour les autres cours dans les autres classes:
 Nombre d’élèves
 Classes
 
@@ -27392,11 +27392,11 @@ Chapitre 6 – Dispositions abrogatoires
 
 Art. 19.
 Sont abrogés:
-1)
+1\)
 
 l’article 67 de l’arrêté royal grand-ducal du 7 juin 1861 portant approbation d’un nouveau règlement pour les établissements d’enseignement supérieur et moyen de l’Etat, tel que modifié par la suite;
 
-2)
+2\)
 
 l’article 2 du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail et les indemnités des chargés
 de cours à durée indéterminée de l’Institut d’Etudes éducatives et sociales.
@@ -28539,7 +28539,7 @@ soit dans le cadre de la recherche internationale, en particulier au niveau de l
 des centres de recherche reconnus.»
 \- 477 -
 
-\2. Le travail de candidature tel qu’il est défini à l’article 1er du présent règlement pour les fonctions énumérées à l’article 1er,
+2\. Le travail de candidature tel qu’il est défini à l’article 1er du présent règlement pour les fonctions énumérées à l’article 1er,
 sous 1 et 2, de la loi du 21 mai 1999 concernant la fonction de candidat dans les carrières enseignantes de l’enseignement
 postprimaire, se fait dans le cadre du programme de recherche du Service de Coordination de la Recherche et de l’Innovation
 Pédagogiques et Technologiques ou dans le cadre des projets pédagogiques des établissements d’enseignement secondaire
@@ -28584,8 +28584,8 @@ c.
 
 de mettre en commun les programmes pluriannuels définis par respectivement les conseils d’administration, les organes dirigeants des différentes institutions concernées et le comité de coordination interministériel, tel qu’il est défini à
 l’article 20 de la loi du 9 mars 1987 ayant pour objet:
-\1. l’organisation de la recherche et du développement technologique dans le secteur public;
-\2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public;
+1\. l’organisation de la recherche et du développement technologique dans le secteur public;
+2\. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public;
 
 d.
 
@@ -28707,22 +28707,22 @@ Les commissions chargées de procéder aux examens probatoires sont nommées par
 et se composent chacune d’un Commissaire du Gouvernement comme président, du directeur de l’établissement auquel est
 attaché le chargé de cours ou de son délégué, et de deux autres membres n’appartenant pas au corps enseignant de l’établissement auquel est attaché le chargé de cours.
 Art. 5. Déroulement des épreuves d’examen
-\1. Les examens probatoires ont lieu pendant deux sessions, la première ayant lieu aux mois de mai et de juin et la seconde
+1\. Les examens probatoires ont lieu pendant deux sessions, la première ayant lieu aux mois de mai et de juin et la seconde
 aux mois d’octobre et de novembre 1984. Tous les candidats se présentent obligatoirement à la première session.
-\2. Au cours d’une réunion préliminaire, la commission d’examen constate l’admissibilité des candidats et prend les dispositions propres à assurer le bon fonctionnement de l’examen.
-\3. La commission ne peut délibérer valablement que lorsqu’elle est au complet. Elle constate la réussite ou l’échec du candidat.
-\4. Pour réussir, le candidat doit obtenir la moitié du maximum des points dans chacune des épreuves prévues à l’article 3
+2\. Au cours d’une réunion préliminaire, la commission d’examen constate l’admissibilité des candidats et prend les dispositions propres à assurer le bon fonctionnement de l’examen.
+3\. La commission ne peut délibérer valablement que lorsqu’elle est au complet. Elle constate la réussite ou l’échec du candidat.
+4\. Pour réussir, le candidat doit obtenir la moitié du maximum des points dans chacune des épreuves prévues à l’article 3
 du présent règlement.
-\5. Le candidat, dont une épreuve a été jugée insuffisante lors de la première session, peut se présenter une nouvelle fois à
+5\. Le candidat, dont une épreuve a été jugée insuffisante lors de la première session, peut se présenter une nouvelle fois à
 cette épreuve au cours de la seconde session.
 \- 480 -
 
 Si, lors de la première session, deux ou plusieurs épreuves ont été jugées insuffisantes, le candidat se présente à l’ensemble
 des épreuves au cours de la seconde session.
-\6. Le candidat n’ayant pas réussi à l’issue de la seconde session, n’est plus admis à un nouvel examen selon le régime du
+6\. Le candidat n’ayant pas réussi à l’issue de la seconde session, n’est plus admis à un nouvel examen selon le régime du
 présent règlement.
-\7. Les membres de la commission d’examen sont tenus de garder le secret des délibérations.
-\8. Un certificat de réussite est délivré au candidat qui a subi avec succès l’examen probatoire.
+7\. Les membres de la commission d’examen sont tenus de garder le secret des délibérations.
+8\. Un certificat de réussite est délivré au candidat qui a subi avec succès l’examen probatoire.
 Art 6. Indemnités
 Les indemnités à payer à chaque membre de la commission d’examen sont fixées à mille six cents francs par candidat. Ce
 montant est augmenté de deux cents francs pour chaque épreuve présentée au cours de la deuxième session.
@@ -28830,11 +28830,11 @@ Mémorial.
 \- 482 -
 
 Loi du 29 juin 2010 portant
-\1. fixation des conditions d’engagement et de travail des chargés d’éducation à durée déterminée et à tâche complète ou partielle des établissements d’enseignement secondaire (. . .)1,
-\2. fixation des modalités, du programme et du déroulement de la formation spécifique des chargés d’éducation à
+1\. fixation des conditions d’engagement et de travail des chargés d’éducation à durée déterminée et à tâche complète ou partielle des établissements d’enseignement secondaire (. . .)1,
+2\. fixation des modalités, du programme et du déroulement de la formation spécifique des chargés d’éducation à
 durée indéterminée et à durée déterminée et à tâche complète ou partielle,
-\3. création d’une réserve nationale de chargés d’enseignement pour les établissements d’enseignement secondaire (. . .)1,
-\4. modification de la loi du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire (. . .)1,
+3\. création d’une réserve nationale de chargés d’enseignement pour les établissements d’enseignement secondaire (. . .)1,
+4\. modification de la loi du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire (. . .)1,
 (Mém. A - 103 du 6 juillet 2010, p. 1832; doc. parl. 5787)
 modifié par:
 Loi du 17 décembre 2010, (Mém. A - 249 du 31 décembre 2010, p. 4233; doc. parl. 6200)
@@ -28855,17 +28855,17 @@ Il ne pourra cependant être procédé à un tel engagement que si un minimum de
 dans la ou les spécialité(s) du candidat.
 Peuvent bénéficier d’un engagement en qualité de chargé d’éducation à durée déterminée et à tâche complète ou partielle
 dans un lycée, les candidats qui remplissent les conditions suivantes:
-\1. être ressortissant d’un pays de l’Union Européenne,
-\2. jouir des droits civils et politiques,
-\3. offrir les garanties de moralité requises,
-\4. satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,
-\5. être détenteur
+1\. être ressortissant d’un pays de l’Union Européenne,
+2\. jouir des droits civils et politiques,
+3\. offrir les garanties de moralité requises,
+4\. satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,
+5\. être détenteur
 a) soit d’un diplôme de bachelor délivré par une université ou un institut d’enseignement supérieur reconnu par l’État où
 il a son siège et sanctionnant un cycle d’études à temps complet ou d’un diplôme reconnu équivalent par le membre
 du Gouvernement ayant l’Éducation nationale dans ses attributions, ci-après désigné par le terme de «ministre»,
 b) soit du brevet de maîtrise dans la spécialité enseignée ou d’un diplôme reconnu équivalent par le ministre, complété
 par une expérience professionnelle de trois ans au moins en dehors de l’enseignement,
-\6. (. . .) (supprimé par la loi du 17 décembre 2010)
+6\. (. . .) (supprimé par la loi du 17 décembre 2010)
 Pendant la première année d’engagement, le chargé d’éducation doit se soumettre à une formation en cours d’emploi
 conformément aux articles 6 et 8 et à la supervision par le directeur ou son délégué conformément à l’article 4.
 
@@ -28972,13 +28972,13 @@ Le point a) ancien devient le point b) et est libellé comme suit:
 
 III. Les points b) et c) anciens deviennent les nouveaux points c) et d).
 Art. 16.
-\1. L’artisan principal de la Ville de Wiltz, détenteur d’un certificat d’aptitude professionnelle pour le métier d’électro-installateur, admis au stage dans la carrière de l’artisan le 1er septembre 1996 et mis à la disposition du Lycée du Nord par la Ville de
+1\. L’artisan principal de la Ville de Wiltz, détenteur d’un certificat d’aptitude professionnelle pour le métier d’électro-installateur, admis au stage dans la carrière de l’artisan le 1er septembre 1996 et mis à la disposition du Lycée du Nord par la Ville de
 Wiltz au moment de la mise en vigueur de la présente loi, peut être nommé à la même fonction au Lycée du Nord. Il sera placé
 hors cadre par dépassement des effectifs.
-\2. L’artisan de la Ville de Wiltz, détenteur d’un certificat d’aptitude professionnelle pour le métier d’instructeur de natation,
+2\. L’artisan de la Ville de Wiltz, détenteur d’un certificat d’aptitude professionnelle pour le métier d’instructeur de natation,
 admis au stage dans la carrière de l’artisan le 1er novembre 2003 et mis à la disposition du Lycée du Nord par la Ville de Wiltz
 au moment de la mise en vigueur de la présente loi, peut être nommé à la même fonction au Lycée du Nord.
-\3. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
+3\. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’État ne seront pas applicables aux agents visés aux paragraphes 1 et 2 ci-dessus, et en vue de l’application
 des articles 8 et 22 de la même loi, il leur sera tenu compte, comme années de grade, des années passées auprès de la Ville
 de Wiltz. Ils conserveront le traitement dont ils jouissaient avant le transfert aussi longtemps que le calcul du nouveau traitement
@@ -28995,10 +28995,10 @@ le jour de la publication au Mémorial.
 
 (Loi du 1er août 2019)
 « Loi du 23 juillet 2016 portant
-\1. fixation des conditions d’engagement et de travail des chargés d’éducation à durée déterminée et à tâche complète ou partielle et des chargés d’enseignement à durée indéterminée et à tâche complète ou partielle,
-\2. fixation des modalités et du déroulement du cycle de formation de début de carrière et du certificat de formation
+1\. fixation des conditions d’engagement et de travail des chargés d’éducation à durée déterminée et à tâche complète ou partielle et des chargés d’enseignement à durée indéterminée et à tâche complète ou partielle,
+2\. fixation des modalités et du déroulement du cycle de formation de début de carrière et du certificat de formation
 pédagogique des chargés d’enseignement engagés à durée indéterminée et à tâche complète ou partielle à l’Institut de formation de l’éducation nationale,
-\3. création d’une réserve nationale des employés enseignants des lycées »,
+3\. création d’une réserve nationale des employés enseignants des lycées »,
 (Mém. A - 164 du 11 août 2016, p. 2726; doc. parl. 6923)
 modifiée par:
 Loi du 1er août 2019, (Mém. A - 563 du 20 août 2019; doc. parl. 7440)
@@ -29045,11 +29045,11 @@ lycée : lycée et établissement d’enseignement public luxembourgeois »;
 
 ministère: ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse;
 
-7.
+7\.
 
 ministre: ministre ayant l’Éducation nationale dans ses attributions;
 
-8.
+8\.
 
 réserve: réserve nationale des employés enseignants des catégories d’indemnité énumérées à l’article 1er.
 
@@ -29214,10 +29214,10 @@ l’enseignement secondaire technique.
 (Mém. A – 31 du 21 mai 1992, p. 1009)
 
 Art. 1er. Conditions d’admission au stage
-\1. Avant de pouvoir être admis au stage dans la carrière du bibliothécaire-documentaliste, les candidats doivent passer
+1\. Avant de pouvoir être admis au stage dans la carrière du bibliothécaire-documentaliste, les candidats doivent passer
 avec succès un examen-concours qui se fait par écrit et qui porte sur des questions de culture générale et sur des questions
 d’application pratique.
-\2. En vue de son admission au stage de bibliothécaire-documentaliste, le candidat doit produire les certificats et pièces
+2\. En vue de son admission au stage de bibliothécaire-documentaliste, le candidat doit produire les certificats et pièces
 suivants:
 —
 
@@ -29248,16 +29248,16 @@ un certificat d’inscription aux listes électorales;
 un certificat médical, délivré sur formule prescrite par un médecin désigné par le Gouvernement.
 
 Art. 2. Stage
-\1. Le stage a une durée de deux ans et a lieu à un établissement d’enseignement secondaire ou secondaire technique. Par
+1\. Le stage a une durée de deux ans et a lieu à un établissement d’enseignement secondaire ou secondaire technique. Par
 décision du ministre de l’Éducation Nationale, il peut être fait en partie auprès d’un autre service ou institut luxembourgeois ou
 étranger sans que cette période de stage puisse dépasser douze mois.
-\2. Le stagiaire étudie les matières faisant l’objet de l’examen de fin de stage. Le programme détaillé du stage est fixé par le
+2\. Le stagiaire étudie les matières faisant l’objet de l’examen de fin de stage. Le programme détaillé du stage est fixé par le
 ministre de l’Éducation Nationale.
 Art. 3. Examen de fin de stage
-\1. Nul ne peut obtenir une nomination définitive aux fonctions de bibliothécaire-documentaliste s’il n’a pas passé avec succès
+1\. Nul ne peut obtenir une nomination définitive aux fonctions de bibliothécaire-documentaliste s’il n’a pas passé avec succès
 un examen de fin de stage. Cet examen comprend des épreuves théoriques et des épreuves pratiques. Les épreuves peuvent
 être écrites et orales.
-\2. L’examen comporte notamment:
+2\. L’examen comporte notamment:
 —
 
 un travail bibliographique
@@ -29287,24 +29287,24 @@ du statut général des fonctionnaires de l’État
 Les modalités de l’examen de fin de stage sont fixées par règlement ministériel.
 \- 490 -
 
-\3. Pour être admis à l’examen de fin de stage de bibliothécaire-documentaliste, le candidat doit produire un certificat qu’il a
+3\. Pour être admis à l’examen de fin de stage de bibliothécaire-documentaliste, le candidat doit produire un certificat qu’il a
 fait le stage prescrit. Ce certificat est signé par le directeur de l’établissement auprès duquel le candidat a été affecté pour faire
 son stage.
 Art. 4. Commission d’examen
-\1. Les examens prévus au présent règlement se font conformément aux dispositions du règlement grand-ducal modifié du
+1\. Les examens prévus au présent règlement se font conformément aux dispositions du règlement grand-ducal modifié du
 13 avril 1984 déterminant la procédure des commissions d’examen du concours d’admission au stage, de l’examen de fin de
 stage et de l’examen de promotion dans les administrations et services de l’État. Ils ont lieu devant une commission, composée
 de trois membres au moins, nommés par le ministre de l’Éducation Nationale.
-\2. La commission statue sur l’admissibilité des candidats.
+2\. La commission statue sur l’admissibilité des candidats.
 Art. 5. Décisions des commissions d’examen
-\1. La commission d’examen prononce l’admission, le rejet ou l’ajournement des candidats se présentant aux différents examens prévus par le présent règlement.
-\2. Le candidat qui a obtenu au moins les trois cinquièmes du total des points et au moins la moitié des points dans chaque
+1\. La commission d’examen prononce l’admission, le rejet ou l’ajournement des candidats se présentant aux différents examens prévus par le présent règlement.
+2\. Le candidat qui a obtenu au moins les trois cinquièmes du total des points et au moins la moitié des points dans chaque
 branche a réussi. Le candidat qui n’a pas obtenu au moins les trois cinquièmes du total des points a échoué.
-\3. Le stagiaire qui, à l’examen de fin de stage, a obtenu au moins les trois cinquièmes du total des points, mais qui n’a pas
+3\. Le stagiaire qui, à l’examen de fin de stage, a obtenu au moins les trois cinquièmes du total des points, mais qui n’a pas
 obtenu la moitié des points dans une branche doit se présenter à une épreuve d’ajournement dans cette branche. En cas
 d’insuccès, le candidat peut se présenter une nouvelle fois à l’examen de fin de stage. Un second échec entraîne l’élimination
 définitive du candidat.
-\4. A la suite de l’examen-concours d’admission, la commission procède au classement des candidats et en prononce l’admission ou l’échec. Nul ne peut se présenter plus de trois fois à l’examen-concours d’admission.
+4\. A la suite de l’examen-concours d’admission, la commission procède au classement des candidats et en prononce l’admission ou l’échec. Nul ne peut se présenter plus de trois fois à l’examen-concours d’admission.
 Art. 6. Dispositions transitoires
 Les employés de l’État et fonctionnaires détachés exerçant à la mise en vigueur du présent règlement les fonctions de
 bibliothécaire-documentaliste, sont dispensés de l’examen-concours d’admission prévu à l’article 1er du présent règlement pour
@@ -29323,10 +29323,10 @@ Texte coordonné au 29 novembre 1991
 Version applicable à parir du 3 décembre 1991
 
 I. Conditions d’admission
-\1. Les candidats aux fonctions d’expéditionnaire technique dans les établissements d’enseignement secondaire, d’enseignement secondaire technique et à l’Institut supérieur de technologie doivent satisfaire aux dispositions du règlement grand-ducal
+1\. Les candidats aux fonctions d’expéditionnaire technique dans les établissements d’enseignement secondaire, d’enseignement secondaire technique et à l’Institut supérieur de technologie doivent satisfaire aux dispositions du règlement grand-ducal
 modifié du 13 juin 1983 concernant l’organisation des examens-concours pour l’admission au stage dans la carrière de l’expéditionnaire technique des administrations de l’État et des établissements publics.
-\2. Sont applicables les modifications qui pourront être apportées dans la suite au règlement précité.
-\3. Les emplois qui pourront être occupés par des fonctionnaires de la carrière de l’expéditionnaire technique aux différents
+2\. Sont applicables les modifications qui pourront être apportées dans la suite au règlement précité.
+3\. Les emplois qui pourront être occupés par des fonctionnaires de la carrière de l’expéditionnaire technique aux différents
 établissements d’enseignement sont fixés par le Gouvernement en conseil, sans pouvoir toutefois dépasser le nombre de
 quinze pour-cent de l’effectif de la carrière d’origine de l’artisan.
 
@@ -29358,9 +29358,9 @@ technologie professionnelle
 
 120 points
 
-\2. Le programme détaillé de l’examen d’admission définitive est fixé par règlement ministériel.
+2\. Le programme détaillé de l’examen d’admission définitive est fixé par règlement ministériel.
 III. Promotions
-\1. L’examen de promotion requis pour l’accès aux fonctions supérieures à celles de commis technique adjoint par l’article 17,
+1\. L’examen de promotion requis pour l’accès aux fonctions supérieures à celles de commis technique adjoint par l’article 17,
 section I de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État porte sur les matières
 suivantes:
 
@@ -29382,27 +29382,27 @@ technologie professionnelle approfondie
 
 120 points
 
-\2. Le programme détaillé de l’examen de promotion est fixé par règlement ministériel.
+2\. Le programme détaillé de l’examen de promotion est fixé par règlement ministériel.
 Sans préjudice des dispositions de l’article 7 ci-dessous l’expéditionnaire technique peut être nommé aux fonctions de commis technique adjoint, de commis technique, de commis technique principal et de premier commis technique principal dans les
 conditions de l’article 5 de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement
 dans les différentes carrières des administrations et services de l’État.
 IV. Procédure des examens d’admission définitive et de promotion
-\1. La procédure des examens d’admission définitive et de promotion prévus par le présent règlement est organisée conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours
+1\. La procédure des examens d’admission définitive et de promotion prévus par le présent règlement est organisée conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours
 d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’État.
-\2. A la suite de chaque examen de promotion, la commission d’examen procède, outre le classement normal des candidats,
+2\. A la suite de chaque examen de promotion, la commission d’examen procède, outre le classement normal des candidats,
 à l’établissement du tableau de classement de la carrière en question en groupant les candidats par promotion dans l’ordre
 chronologique et en classant les candidats à l’intérieur de chaque promotion en tenant compte de leur ancienneté, des résultats
 de leur examen d’admission définitive ainsi que des résultats obtenus à l’examen de promotion.
 Le rang utile pour obtenir les promotions qui exigent la réussite à un examen de promotion est déterminé par référence au
 tableau de classement ainsi établi.
-\1. Sont éliminés aux examens susvisés les candidats qui ont obtenu moins des trois cinquièmes du maximum total des
+1\. Sont éliminés aux examens susvisés les candidats qui ont obtenu moins des trois cinquièmes du maximum total des
 points.
-\2. Les candidats qui ont ontenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum
+2\. Les candidats qui ont ontenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum
 des points dans une ou deux branches, subissent un examen supplémentaire dans ces branches, dont le résultat décide de
 leur admission.
-\3. En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année à l’expiration de
+3\. En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année à l’expiration de
 laquelle le candidat doit se présenter une nouvelle fois à l’examen. Un nouvel échec entraîne l’élimination définitive du candidat.
-\4. En cas d’insuccès à l’examen de promotion, le candidat peut se présenter une deuxième fois à cet examen après l’expiration d’un délai d’une année. Un second échec entraîne pour le candidat l’élimination définitive de cet examen.
+4\. En cas d’insuccès à l’examen de promotion, le candidat peut se présenter une deuxième fois à cet examen après l’expiration d’un délai d’une année. Un second échec entraîne pour le candidat l’élimination définitive de cet examen.
 
 \- 492 -
 
@@ -29429,11 +29429,11 @@ technique et de l’Institut supérieur de technologie.
 
 Le rang des fonctionnaires de la carrière de l’expéditionnaire technique des établissements d’enseignement postprimaire au
 tableau de classement de leur carrière est déterminé comme suit, à savoir:
-1)
+1\)
 
 les candidats sont classés chronologiquement par promotion;
 
-2)
+2\)
 
 à l’intérieur de chaque promotion les différents éléments intervenant dans le classement sont mis en compte de la
 manière suivante:
@@ -29489,16 +29489,16 @@ Version applicable à partir du 13 février 2004
 Art. 1er. Champ d’application.
 Sans préjudice de l’application des règles générales relatives au statut général des fonctionnaires de l’État, les conditions
 d’admission, de nomination et de promotion des fonctionnaires de la carrière de l’artisan sont déterminées ci-après.
-\1. Admission au stage
+1\. Admission au stage
 Art. 2. - Art. 6. (abrogés par le règlement g. - d. du 30 janvier 2004)
 II. Nomination définitive
 (Règl. g.-d. du 13 juin 1983)
 «Art. 7. Dispositions additionnelles
-\1. Le résultat de chaque examen-concours ne vaut que pour la session à laquelle il se rapporte.
-\2. Le candidat qui s´est classé en rang utile à l´examen-concours a priorité par rapport à l´agent engagé à titre temporaire
+1\. Le résultat de chaque examen-concours ne vaut que pour la session à laquelle il se rapporte.
+2\. Le candidat qui s´est classé en rang utile à l´examen-concours a priorité par rapport à l´agent engagé à titre temporaire
 pour l´attribution du poste occupé par ce dernier.
-\3. L´organisation pratique de l´examen-concours est fixée par règlement ministériel.
-\4. La répartition des candidats qui se sont classés en rang utile est arrêtée par le Gouvernement en conseil. »
+3\. L´organisation pratique de l´examen-concours est fixée par règlement ministériel.
+4\. La répartition des candidats qui se sont classés en rang utile est arrêtée par le Gouvernement en conseil. »
 Art. 8. Programme de l’examen d’admission définitive.
 L’examen d’admission définitive porte sur les matières suivantes:
 \- langue française: dictée
@@ -29524,24 +29524,24 @@ L’examen d’admission définitive porte sur les matières suivantes:
 120 points
 
 Art. 9. Déroulement des épreuves.
-\1. L’examen d’admission définitive est organisé au sein de l’administration même dans laquelle les candidats ont accompli
+1\. L’examen d’admission définitive est organisé au sein de l’administration même dans laquelle les candidats ont accompli
 leur stage; il a lieu devant la commission d’examen prévue au chapitre IV. du présent règlement. Cette commission statue sur
 l’admissibilité des candidats à cet examen.
-\2. La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à
+2\. La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à
 l’article 8.
-\3. Cet examen est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total des points.
-\4. Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum
+3\. Cet examen est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total des points.
+4\. Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum
 des points dans l’une ou l’autre branche subissent un examen oral ou un examen par écrit supplémentaire dans cette branche.
 Cette épreuve complémentaire aura lieu dans un délai d’un mois; elle décide de leur admission définitive, sans que le classement établi soit pour autant modifié.
-\5. En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année. A l’expiration de
+5\. En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année. A l’expiration de
 ce délai, le candidat devra se présenter une nouvelle fois à cet examen. Un nouvel échec entraînera l’élimination définitive du
 candidat.
 III. Promotion aux fonctions supérieures
 Art. 10. Conditions.
-\1. La nomination à la fonction de premier artisan est déterminée par le classement obtenu à l’examen d’admission définitive.
-\2. La nomination aux fonctions supérieures à celle de premier artisan est subordonnée à la réussite à l’examen de promotion.
+1\. La nomination à la fonction de premier artisan est déterminée par le classement obtenu à l’examen d’admission définitive.
+2\. La nomination aux fonctions supérieures à celle de premier artisan est subordonnée à la réussite à l’examen de promotion.
 Elle est déterminée par le classement au dit examen.
-\3. Toutes les nominations aux fonctions de la carrière de l’artisan sont faites par le ministre du ressort, dans les limites des
+3\. Toutes les nominations aux fonctions de la carrière de l’artisan sont faites par le ministre du ressort, dans les limites des
 emplois vacants.
 Art. 11. Programme de l’examen de promotion.
 L’examen de promotion porte sur les matières suivantes:
@@ -29562,12 +29562,12 @@ L’examen de promotion porte sur les matières suivantes:
 120 points
 
 Art. 12. Déroulement des épreuves.
-\1. L’examen de promotion est organisé au sein de l’administration même dans laquelle les candidats exercent leurs fonctions; il a lieu devant la commission prévue au chapitre IV. du présent règlement. Cette commission statue sur l’admissibilité des
+1\. L’examen de promotion est organisé au sein de l’administration même dans laquelle les candidats exercent leurs fonctions; il a lieu devant la commission prévue au chapitre IV. du présent règlement. Cette commission statue sur l’admissibilité des
 candidats à cet examen.
-\2. La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à
+2\. La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à
 l’article 11 du règlement grand-ducal prévu au paragraphe 3 de l’article 5 de la loi du 16 avril 1979 fixant le statut général des
 fonctionnaires de l’État.
-\3. L’ examen de promotion est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total
+3\. L’ examen de promotion est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total
 des points.
 Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des
 points dans l’une ou l’autre branche subissent un examen oral ou un examen par écrit supplémentaire dans cette branche. Cette
@@ -29576,31 +29576,31 @@ En cas d’insuccès à l’examen de promotion, le candidat pourra se présente
 IV. Composition de la commission de l’examen d’admission définitive et de l’examen de promotion
 et procédure à suivre
 Art. 13. Composition.
-\1. Les épreuves des examens d’admission définitive et de promotion ont lieu devant une commission composée de trois
+1\. Les épreuves des examens d’admission définitive et de promotion ont lieu devant une commission composée de trois
 membres au moins nommés par le ministre compétent.
-\2. L’arrêté de nomination désigne le président et le secrétaire de la commission.
+2\. L’arrêté de nomination désigne le président et le secrétaire de la commission.
 
 \- 495 -
 
-\3. Nul ne peut être membre d’une commission d’examen auquel participe un parent ou allié jusqu’au quatrième degré inclusivement.
+3\. Nul ne peut être membre d’une commission d’examen auquel participe un parent ou allié jusqu’au quatrième degré inclusivement.
 Art. 14. Procédure à suivre.
-\1. Le président réunit la commission au préalable pour régler en détail l’organisation des examens.
-\2. A la suite de cette réunion préliminaire, chaque examinateur présente au choix du président, sous pli fermé et dans un
+1\. Le président réunit la commission au préalable pour régler en détail l’organisation des examens.
+2\. A la suite de cette réunion préliminaire, chaque examinateur présente au choix du président, sous pli fermé et dans un
 délai antérieurement fixé, un sujet ou une série de questions pour l’épreuve qu’il est appelé à apprécier.
-\3. Le secret relatif aux questions ou sujets présentés doit être observé.
-\4. Les sujets ou questions des épreuves sont choisis par le président parmi les sujets ou questions qui lui ont été soumis; ces
+3\. Le secret relatif aux questions ou sujets présentés doit être observé.
+4\. Les sujets ou questions des épreuves sont choisis par le président parmi les sujets ou questions qui lui ont été soumis; ces
 sujets ou questions sont gardés sous pli cacheté, séparément pour chaque épreuve. Les plis ne sont ouverts qu’en présence
 des candidats et au moment même où les sujets ou les questions sont communiqués aux candidats.
-\5. Les réponses des candidats aux épreuves écrites doivent être rédigées sur des feuilles estampillées, paraphées par le
+5\. Les réponses des candidats aux épreuves écrites doivent être rédigées sur des feuilles estampillées, paraphées par le
 président ou un membre de la commission.
-\6. Durant les épreuves les candidats sont constamment surveillés par au moins deux des personnes énumérées à l’article 13.
-\7. Au cours des épreuves, toute communication entre les candidats et avec le dehors, de même que toute utilisation d’ouvrages ou de notes autres que ceux qui ont été autorisés préalablement par le jury sont interdites.
+6\. Durant les épreuves les candidats sont constamment surveillés par au moins deux des personnes énumérées à l’article 13.
+7\. Au cours des épreuves, toute communication entre les candidats et avec le dehors, de même que toute utilisation d’ouvrages ou de notes autres que ceux qui ont été autorisés préalablement par le jury sont interdites.
 Les candidats fautifs sont exclus du concours. Ils ne peuvent se présenter à nouveau que lors d’une session ultérieure.
-\8. Dès l’ouverture de l’examen, les candidats sont prévenus des suites que toute fraude comportera.
-\9. Le président de la commission remet les copies à apprécier aux examinateurs. L’appréciation des copies se traduit par
+8\. Dès l’ouverture de l’examen, les candidats sont prévenus des suites que toute fraude comportera.
+9\. Le président de la commission remet les copies à apprécier aux examinateurs. L’appréciation des copies se traduit par
 la communication au président des notes établies conformément aux échelles fixées respectivement aux articles 8 et 11 du
 présent règlement.
-\10. Le procès-verbal que la commission transmet au ministre compétent renseigne, outre le classement des candidats, les
+10\. Le procès-verbal que la commission transmet au ministre compétent renseigne, outre le classement des candidats, les
 résultats que chacun d’eux a obtenus aux différentes épreuves. Le ministre informe chaque candidat de ses classement et
 résultats obtenus à l’examen, et, lorsqu’il s’agit de l’examen de promotion, de son classement définitif.
 Art. 15. Programmes détaillés des matières.
@@ -29761,19 +29761,19 @@ Le garçon de salle bénéficie d’une nomination à la fonction de garçon de 
 Art. 10.
 L’examen de promotion requis pour le garçon de salle par l’article 22, section II, 1° de la loi modifiée du 22 juin 1963 fixant
 le régime des traitements des fonctionnaires de l’État, porte sur les matières suivantes:
-1)
+1\)
 
 rédaction d’un rapport de service en langue allemande ou française;
 
-2)
+2\)
 
 mesures préventives contre les accidents;
 
-3)
+3\)
 
 notions sur le statut des fonctionnaires de l’État;
 
-4)
+4\)
 
 exécution d’un travail pratique.
 
@@ -29967,7 +29967,7 @@ II accompagne les élèves ou les professeurs réunis en corps chaque fois que l
 
 Il est d’office membre du Comité de sécurité de l’établissement.
 
-7.
+7\.
 
 Il peut porter un uniforme.
 
@@ -30475,9 +30475,9 @@ projets d’établissement, désigné par la suite le Centre, qui a la personnal
 
 (3) Le Centre est géré dans les formes et selon les méthodes à déterminer par règlement grand-ducal.
 (4) Le conseil d’administration du Centre comprend:
-\1. trois représentants du ministre;
-\2. un représentant de chacune des chambres professionnelles concernées;
-\3. quatre représentants des directeurs des lycées (. . .)1.
+1\. trois représentants du ministre;
+2\. un représentant de chacune des chambres professionnelles concernées;
+3\. quatre représentants des directeurs des lycées (. . .)1.
 (5) Les membres du conseil d’administration sont nommés par le Gouvernement pour un terme renouvelable de cinq ans.
 Après consultation du conseil d’administration, le ministre désigne parmi les membres le président, le vice-président, le trésorier
 et le secrétaire qui forment le bureau du conseil d’administration. Les attributions du conseil d’administration et de son bureau
@@ -30552,20 +30552,20 @@ portant réforme de l’enseignement, titreVI: de l’enseignement secondaire:
 Art.60.
 Les modifications suivantes sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires
 de l’Etat:
-1)
+1\)
 
 A l’article 20ter, il est ajouté l’alinéa suivant:
 «La nomination de l’instituteur classé au grade E3 ou E3ter à une fonction classée au grade E4 est à considérer comme
 une promotion.»
 
-2)
+2\)
 
 A l’article 22, section II, paragraphe 17, l’alinéa 3 est modifié comme suit:
 «Le maître de cours pratiques (grade E2) et le maître d’enseignement technique (grade E2) bénéficient d’un avancement en traitement au grade E3bis après douze années de grade.»
 
-3)
+3\)
 
-4)
+4\)
 
 A l’annexe A - Classification des fonctions, la rubrique «IV.— Enseignement» est complétée comme suit:
 
@@ -30585,32 +30585,32 @@ dans la carrière supérieure de l’enseignement,il est ajouté au grade E7 de 
 Chapitre VI. - Les dispositions transitoires et finales
 
 Art. 61.
-1)
+1\)
 
 Les fonctions de professeur avec le diplôme de docteur,de professeur de sciences économiques,d’instituteur d’enseignement technique et d’institutrice d’enseignement ménager agricole sont maintenues dans le cadre du personnel
 des lycées techniques pour les titulaires en service à l’entrée en vigueur ou nommé sur la base des dispositions de la
 présente loi.
 
-2)
+2\)
 
 Les maîtres de cours pratiques en service aux différents lycées techniques à l’entrée en vigueur de la présente loi sont
 nommés maître d’enseignement technique avec conservation des droits acquis.
 
-3)
+3\)
 
 La fonction de secrétaire des établissements scolaires est maintenue dans le cadre du personnel des lycées techniques
 pour les secrétaires en service ou en congé sans traitement à l’entrée envigueur de la présente loi.
 
 \- 515 -
 
-4)
+4\)
 
 Les fonctionnaires et stagiaires des carrières du professeur-ingénieur et du professeur-architecte, en service à l’entrée
 en vigueur de la présente loi, qui remplissent les conditions d’admission ou de nomination aux fonctions de professeur
 de sciences de l’« enseignement secondaire général », peuvent, sur leur demande, être admis au stage ou nommé aux
 fonctions précitées avec conservation des droits acquis.
 
-5)
+5\)
 
 Les fonctionnaires des carrières du concierge et du gar çon de salle,détenteurs d’un certificat d’aptitude technique et
 professionnelle ou d’un diplôme ou certificat reconnu équivalent, en service à un lycée ou à un lycée technique à l’entrée
@@ -30623,30 +30623,30 @@ fonctions d’artisan principal après réussite de cet examen et sous réserve 
 grade à partir de leur première nomination de fonctionnaire. Les promotions ultérieures se font d’après leur classement
 au tableau d’avancement.
 
-6)
+6\)
 
 Le professeur d’enseignement technique nommé au Lycée technique d’Ettelbruck à partir du 1er septembre 1973, détenteur d’un diplôme de doctorat en sciences de l’environnement délivré par la Fondation Universitaire LuxembourgeoiseArlon en date du 23 juin 1988,peut être nommé aux fonctions de professeur avec le diplôme de docteur avec conservation des droits acquis.
 
-7)
+7\)
 
 Le premier artisan principal hors cadre au Lycée technique Michel-Lucius, transféré des cadres de l’Armée, peut être
 nommé aux fonctions d’artisan dirigeant dès qu’il pourra se prévaloir de vingt-huit années de grade à partir de sa nomination aux fonctions d’artisan de l’Armée.
 
-8)
+8\)
 
 Par dérogation aux dispositions de l’article 6bis de la loi modifiée et complétée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, l’ingénieur-agronome de la spécialité «horticulture», en service à l’Administration
 des services techniques de l’Agriculture jusqu’au 31 décembre 1988, admis au stage pour les fonctions de professeuringénieur au Lycée technique agricole à partir du 1er janvier 1989, continuera à jouir de son traitement pendant la durée
 du stage.A partir de sa nomination aux fonctions de professeur-ingénieur, il conservera l’ancien traitement, arrêté au
 jour de la nomination, aussi longtemps qu’il est plus élevé que son nouveau traitement.
 
-9)
+9\)
 
 La carrière de l’artisan dirigeant détenteur du certificat de fin d’études moyennes, section biologique et sociale, engagé
 en date du 1er septembre 1973 au Lycée technique d’Ettelbruck,est reconstituée par la prise en considération de l’indice
 146 comme premier échelon du grade 3.
 
-\10) La carrière de l’artisan, détenteur du certificat d’aide-chimiste, admis au stage en date du 1er mars 1989 au Lycée technique de Bonnevoie, est reconstituée par la prise en considération de l’indice 146 comme premier échelon du grade 3.
-\11) Les trois ouvriers de l’Etat à tâche complète engagés en date des 15 novembre 1972,1er janvier 1973 et 20 septembre
+10\) La carrière de l’artisan, détenteur du certificat d’aide-chimiste, admis au stage en date du 1er mars 1989 au Lycée technique de Bonnevoie, est reconstituée par la prise en considération de l’indice 146 comme premier échelon du grade 3.
+11\) Les trois ouvriers de l’Etat à tâche complète engagés en date des 15 novembre 1972,1er janvier 1973 et 20 septembre
 1973 et occupés respectivement au Lycée technique du Centre, au Lycée technique Mathias-Adam et au Lycée technique d’Esch-sur-Alzette à l’entrée en vigueur de la présente loi peuvent être nommés à la fonction de premier artisan
 principal aux mêmes établissements.
 Ils sont placés hors cadre par dépassement des effectifs légaux. Les intéressés bénéficient d’une reconstitution de
@@ -30654,15 +30654,15 @@ carrière sur la base d’une nomination fictive se situant trois années après
 dispositions de l’article 7,paragraphe 6,de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat ne leur sont pas applicables.Pour l’application des dispositions des articles 8 et 22 de cette même loi,les
 années passées au service de l’Etat en qualité d’ouvrier à tâche complète,déduction faite d’une période de trois années,
 leur sont mises en compte.
-\12) Les deux ouvriers de l’Etat à tâche complète engagés en date des 1er octobre 1963 et 17mars 1979 et occupés respectivement au Lycée technique de Mersch et au Lycée technique hôtelierAlexis Heck à l’entrée en vigueur de la présente
+12\) Les deux ouvriers de l’Etat à tâche complète engagés en date des 1er octobre 1963 et 17mars 1979 et occupés respectivement au Lycée technique de Mersch et au Lycée technique hôtelierAlexis Heck à l’entrée en vigueur de la présente
 loi sont nommés à la fonction d’artisan aux mêmes établissements. Ils sont admissibles sans délai à l’examen de promotion de leur carrière. Les intéressés bénéficient d’une reconstitution de carrière sur la base d’une nomination fictive
 se situant trois années après leur entrée en service de l’Etat.A cet effet, les dispositions de l’article 7, paragraphe 6, de
 la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat ne leur sont pas applicables.
 Pour l’application des dispositions es articles 8 et 22 de cette même loi, les années passées au service de l’Etat en
 qualité d’ouvrier à tâche complète, déduction faite d’une période de trois années, leur sont mises en compte.
-\13) Les deux ouvriers de l’Etat à tâche complète,engagés en date du 1er mars 1987 et du 10 mai 1989 et occupés respectivement au Lycée technique agricole et au Lycée technique d’Ettelbruck à l’entrée en vigueur de la présente loi, sont
+13\) Les deux ouvriers de l’Etat à tâche complète,engagés en date du 1er mars 1987 et du 10 mai 1989 et occupés respectivement au Lycée technique agricole et au Lycée technique d’Ettelbruck à l’entrée en vigueur de la présente loi, sont
 admis au stage pour les fonctions d’artisan aux mêmes établissements.A cet effet, ils sont dispensés de l’examenconcours prévu pour l’accès à la carrière d’artisan.
-\14) Les employés de l’Etat, qui remplissent les conditions d’études et de diplômes requises pour la nomination à la fonction
+14\) Les employés de l’Etat, qui remplissent les conditions d’études et de diplômes requises pour la nomination à la fonction
 d’éducateur prévue à l’article 19, section II, point 12, de la loi modifiée du 14 mars 1973 portant création d’instituts et de
 services d’éducation différenciée, occupés à tâche complète aux internats annexés au Lycée technique de Mersch et
 au Lycée technique du Nord,au moment de l’entrée en vigueur de la présente loi,peuvent être dispensés de l’examenconcours, du stage et de l’examen de fin de stage pour l’accès aux fonctions d’éducateur, s’ils peuvent faire valoir trois
@@ -30752,8 +30752,8 @@ Entrée en vigueur et durée de validité de certaines dispositions
 (1) La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial, (...) (c.-à-d. le
 1er mars 1999)
 Loi du 12 juillet 2002 portant modification
-\1. de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire;
-\2. e la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
+1\. de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire;
+2\. e la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation
 professionnelle continue.
 Le nouvel article 37 entre en vigueur à partir de la rentrée scolaire 2002/2003 pour toutes les classes concernées de l’enseignement secondaire technique.
 
@@ -31474,11 +31474,11 @@ Chapitre 5. – Dispositions abrogatoires
 
 Art. 18.
 Sont abrogées toutes les dispositions légales contraires à la présente loi et notamment:
-1)
+1\)
 
 la loi modifiée du 6 août 1990 portant organisation des études éducatives et sociales;
 
-2)
+2\)
 
 l’article 65bis de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la
 formation professionnelle continue.
@@ -31806,27 +31806,27 @@ fondamental ou sous-groupe administratif. L’expérience professionnelle prise 
 nomination définitive en tant que fonctionnaire.»
 Le directeur peut se faire assister par des attachés à la direction à tâche partielle ou complète.
 Art. 30.
-\1. Le personnel enseignant de l’École peut comprendre des fonctionnaires, des chargés de cours et des chargés d’éducation.
+1\. Le personnel enseignant de l’École peut comprendre des fonctionnaires, des chargés de cours et des chargés d’éducation.
 (Loi du 25 mars 2015)
 «2.Le cadre du personnel comprend un directeur, un directeur adjoint, des formateurs d’adultes en enseignement théorique
 « , des formateurs d’adultes en enseignement pratique »1 et des fonctionnaires des différentes catégories de traitement telles
 que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.»
-\3. Le cadre du personnel de l’École peut comprendre des stagiaires.
-\4. L’École peut avoir recours, suivant les besoins du service et dans la limite des crédits budgétaires, à:
+3\. Le cadre du personnel de l’École peut comprendre des stagiaires.
+4\. L’École peut avoir recours, suivant les besoins du service et dans la limite des crédits budgétaires, à:
 – des chargés d’éducation «, chargés d’enseignement»2 et des chargés de cours engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
 – des employés administratifs ou techniques engagés à tâche complète ou partielle et à durée indéterminée ou déterminée;
 – des ouvriers engagés à tâche complète ou partielle et à durée indéterminée ou déterminée.
-\5. Des agents d’autres administrations et services de l’état peuvent être détachés à l’École.
-\6. L’École peut également avoir recours, dans la limite des crédits budgétaires, à des agents externes dont les modalités
+5\. Des agents d’autres administrations et services de l’état peuvent être détachés à l’École.
+6\. L’École peut également avoir recours, dans la limite des crédits budgétaires, à des agents externes dont les modalités
 d’engagement et d’indemnisation sont fixées par règlement grand-ducal.
-\7. Les dispositions de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l’enseignement postprimaire sont d’application.
+7\. Les dispositions de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l’enseignement postprimaire sont d’application.
 
 Ajouté par la loi du 9 mai 2018.
 Modifié par la loi du 31 juillet 2016.
 
 \- 534 -
 
-\8. Les conditions d’admission au stage et de nomination des membres du personnel enseignant et éducatif de l’École sont
+8\. Les conditions d’admission au stage et de nomination des membres du personnel enseignant et éducatif de l’École sont
 celles fixées pour les fonctions correspondantes par:
 – la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire et
 secondaire technique;
@@ -31892,7 +31892,7 @@ l’effectif total du personnel et en dehors du nombre des engagements de renfor
 2008 concernant le budget des recettes et des dépenses de l’État pour l’année 2009 et dans les lois budgétaires pour les
 exercices futurs.
 Art. 32.
-\1. La tâche des enseignants et des formateurs comporte:
+1\. La tâche des enseignants et des formateurs comporte:
 
 une tâche d’enseignement ou de formation;
 
@@ -31910,7 +31910,7 @@ la participation à l’organisation des cours de formation continue pour les pa
 
 le suivi des stages en milieu professionnel.
 
-\2. La tâche hebdomadaire du personnel éducatif comprend:
+2\. La tâche hebdomadaire du personnel éducatif comprend:
 
 une tâche d’organisation et d’éducation dans le cadre des activités complémentaires;
 
@@ -32028,7 +32028,7 @@ la durée.
 (. . .) (supprimé par le règl. g.-d. du 7 vovembre 2024)
 Le ministre alloue à l’institution socio-éducative, où l’expert professionnel est affecté, une indemnité pour la contribution à
 l’accompagnement des apprenants sur le lieu de travail. Le montant horaire de l’indemnité à attribuer est fixé à 3,11 euros (n. i.
-\100) selon les dispositions prévues à l’article 20 de la loi modifiée du 12 mai 2009 portant création d’une Ecole de la 2e Chance.
+100\) selon les dispositions prévues à l’article 20 de la loi modifiée du 12 mai 2009 portant création d’une Ecole de la 2e Chance.
 Si l’institution socio-éducative conventionnée est un service de l’Etat, l’agent désigné à prendre en charge l’apprenant touche
 l’indemnité susmentionnée.
 Le volume de l’accompagnement par candidat est fixé à 1 heure hebdomadaire dans le cadre de la pratique professionnelle
@@ -32094,7 +32094,7 @@ est communiquée aux apprenants.
 À l’examen final, l’évaluation consiste en :
 a) un examen écrit et un examen oral pour les modules 1 et 3 ; pour le module langues, le candidat choisit la langue
 dans laquelle il entend se soumettre à l’épreuve orale deux mois avant l’épreuve « . »1 (Règl. g. - d. du 7 novembre
-\2024) « L’examen écrit et oral du module 1 est organisé au début du quatrième semestre. En cas d’absence à une
+2024\) « L’examen écrit et oral du module 1 est organisé au début du quatrième semestre. En cas d’absence à une
 journée d’examen pour le module 1, un repêchage est organisé endéans huit jours. »
 La note de l’examen final des modules 1 et 3 est la moyenne arithmétique pondérée de la note de l’épreuve écrite
 affectée du coefficient 2, et de la note de l’épreuve orale affectée du coefficient 1 ;
@@ -32679,8 +32679,8 @@ de l’enseignement secondaire technique.
 (Mém. A – 173 du 11 août 2011, p. 2953)
 
 Art. 1er. Généralités
-\1. Une équipe curriculaire est instituée par métier/profession ou par groupe de métiers/professions.
-\2. Des commissions nationales de formation sont instituées pour les formations suivantes de l’enseignement secondaire
+1\. Une équipe curriculaire est instituée par métier/profession ou par groupe de métiers/professions.
+2\. Des commissions nationales de formation sont instituées pour les formations suivantes de l’enseignement secondaire
 technique:
 
 toute division du régime de la formation de technicien. Si une division comprend plusieurs sections, le membre du
@@ -32690,14 +32690,14 @@ d’instituer une commission nationale de formation par section ou par groupe de
 tout métier/profession ou groupe de métiers/professions se rapportant à la formation professionnelle de base et à la
 formation professionnelle initiale.
 
-\3. Des commissions nationales de l’enseignement général sont instituées pour les modules qui font partie de l’enseignement
+3\. Des commissions nationales de l’enseignement général sont instituées pour les modules qui font partie de l’enseignement
 général.
-\4. Par «commissions» sont désignées dans la suite les commissions nationales de formation et les commissions nationales
+4\. Par «commissions» sont désignées dans la suite les commissions nationales de formation et les commissions nationales
 de l’enseignement général.
-\5. En vue de la préparation des travaux des commissions, des conférences spéciales peuvent être convoquées par les directeurs des lycées ou les chargés de direction du Centre national de formation professionnelle continue. Pour chaque réunion
+5\. En vue de la préparation des travaux des commissions, des conférences spéciales peuvent être convoquées par les directeurs des lycées ou les chargés de direction du Centre national de formation professionnelle continue. Pour chaque réunion
 d’une conférence spéciale, il est désigné un secrétaire-rapporteur parmi les participants.
 Art. 2. Missions
-\1. Les équipes curriculaires ont pour missions:
+1\. Les équipes curriculaires ont pour missions:
 a.
 
 d’élaborer et de réviser les programmes-cadres pour les différents métiers et professions des formations qui relèvent de
@@ -32719,7 +32719,7 @@ d.
 
 d’élaborer et d’évaluer le module du projet intégré.
 
-\2. Les commissions ont pour missions:
+2\. Les commissions ont pour missions:
 a.
 
 d’émettre des avis ou de faire des propositions, soit de leur propre initiative soit à la demande du ministre. Ces avis et
@@ -32730,7 +32730,7 @@ b.
 
 de se prononcer sur la manière de coordonner l’enseignement dans plusieurs branches ou modules.
 
-\3. Les commissions nationales de formation ont en outre pour missions:
+3\. Les commissions nationales de formation ont en outre pour missions:
 a.
 
 d’élaborer et de réviser les programmes d’études des branches ou des modules de l’enseignement professionnel enseignés dans les formations qui relèvent de leur compétence;
@@ -32744,7 +32744,7 @@ c.
 
 d’émettre des avis sur les programmes directeurs et les référentiels d’évaluation qui relèvent de leur compétence.
 
-\4. Les commissions nationales de l’enseignement général ont en outre pour missions:
+4\. Les commissions nationales de l’enseignement général ont en outre pour missions:
 a.
 
 d’élaborer et de réviser le programme directeur de l’enseignement général de la formation professionnelle structuré par
@@ -32760,10 +32760,10 @@ de l’enseignement général, en coopération avec la commission nationale de f
 
 ÉTUDES ET PÉDAGOGIE - Généralités
 Art. 3. Composition
-\1. Les équipes curriculaires se composent de représentants des organismes de formation et d’un nombre égal de représentants du milieu scolaire tels que définis à l’article 31 de la loi modifiée du 19 décembre 2008 portant réforme de la formation
+1\. Les équipes curriculaires se composent de représentants des organismes de formation et d’un nombre égal de représentants du milieu scolaire tels que définis à l’article 31 de la loi modifiée du 19 décembre 2008 portant réforme de la formation
 professionnelle. Ils proposent au ministre un président et un secrétaire qu’ils choisissent en leur sein. Le ministre arrête le
 nombre maximal de représentants par équipe curriculaire.
-\2. Les commissions comprennent chacune un président et un secrétaire.
+2\. Les commissions comprennent chacune un président et un secrétaire.
 a.
 
 La commission nationale de formation comprend en outre pour chaque métier/profession voire groupe de métiers/
@@ -32783,10 +32783,10 @@ b.
 
 La commission nationale de l’enseignement général comprend en outre des membres effectifs et suppléants représentant les enseignants de chaque lycée où les modules sont enseignés.
 
-\3. En cas de besoin, le ministre peut déléguer des membres de ses services et des experts avec voix consultative aux réunions des commissions et des équipes curriculaires.
+3\. En cas de besoin, le ministre peut déléguer des membres de ses services et des experts avec voix consultative aux réunions des commissions et des équipes curriculaires.
 Art. 4. Nominations
-\1. Le responsable de coordination et les enseignants-coordinateurs sont nommés par le ministre.
-\2. Les membres des équipes curriculaires sont nommés par le ministre, selon les modalités suivantes:
+1\. Le responsable de coordination et les enseignants-coordinateurs sont nommés par le ministre.
+2\. Les membres des équipes curriculaires sont nommés par le ministre, selon les modalités suivantes:
 a.
 
 les représentants du milieu scolaire sont nommés sur proposition du directeur à la formation professionnelle, les directeurs des lycées concernés entendus en leur avis;
@@ -32797,7 +32797,7 @@ les représentants des organismes de formation sont nommés sur proposition des 
 organismes de formation concernés par les formations visées.
 
 Le ministre nomme parmi les membres un président et un secrétaire, sur proposition des membres de l’équipe curriculaire.
-\3. Les membres des commissions nationales de formation et les commissions nationales de l’enseignement général et leurs
+3\. Les membres des commissions nationales de formation et les commissions nationales de l’enseignement général et leurs
 suppléants sont nommés par le ministre, selon les modalités suivantes:
 a.
 
@@ -32815,64 +32815,64 @@ les membres représentant le Conseil supérieur de certaines professions de sant
 santé et les institutions éducatives et sociales sont nommés sur proposition de leur organisme d’origine.
 
 Le ministre nomme parmi les membres un président et un secrétaire.
-\4. Tous les mandats ont une durée renouvelable de cinq ans. Si, au cours de son mandat, un membre d’une équipe curriculaire ou d’une commission quitte l’établissement dont il est le délégué ou démissionne avec l’accord du ministre, il est remplacé
+4\. Tous les mandats ont une durée renouvelable de cinq ans. Si, au cours de son mandat, un membre d’une équipe curriculaire ou d’une commission quitte l’établissement dont il est le délégué ou démissionne avec l’accord du ministre, il est remplacé
 par un nouveau délégué chargé d’achever le mandat de son prédécesseur. La même procédure s’applique également en cas
 de vacance d’un mandat pour une raison quelconque.
 Art. 5. Organisation
-\1. Chaque commission et équipe curriculaire établit ses règles de fonctionnement interne.
-\2. Le président veille à l’établissement d’une documentation structurée de l’évolution du processus de travail et des produits
+1\. Chaque commission et équipe curriculaire établit ses règles de fonctionnement interne.
+2\. Le président veille à l’établissement d’une documentation structurée de l’évolution du processus de travail et des produits
 réalisés.
-\3. En ce qui concerne les équipes curriculaires, la coordination et la supervision générale des travaux reviennent à un responsable de coordination. La coordination de l’élaboration ou de la révision des programmes-cadres et des référentiels d’évaluation des différents métiers et professions revient à des enseignants-coordinateurs.
+3\. En ce qui concerne les équipes curriculaires, la coordination et la supervision générale des travaux reviennent à un responsable de coordination. La coordination de l’élaboration ou de la révision des programmes-cadres et des référentiels d’évaluation des différents métiers et professions revient à des enseignants-coordinateurs.
 
 \- 551 -
 
 ÉTUDES ET PÉDAGOGIE - Généralités
 Art. 6. Réunions
-\1. Les commissions se réunissent sur convocation du président et chaque fois que le ministre ou au moins un tiers des
+1\. Les commissions se réunissent sur convocation du président et chaque fois que le ministre ou au moins un tiers des
 membres effectifs de la commission l’exigent. Elles se réunissent au moins deux fois par année scolaire.
-\2. Les délégués sont tenus d’assister aux séances de la commission. En cas d’empêchement, le membre effectif se fait
+2\. Les délégués sont tenus d’assister aux séances de la commission. En cas d’empêchement, le membre effectif se fait
 remplacer par le membre suppléant. En cas d’empêchement du président, le secrétaire préside la séance. Tout membre effectif
 ou son remplaçant a voix délibérative.
-\3. Les équipes curriculaires se réunissent sur convocation de leur président ou du responsable de coordination et chaque
+3\. Les équipes curriculaires se réunissent sur convocation de leur président ou du responsable de coordination et chaque
 fois que le directeur à la formation professionnelle l’exige. En cas d’empêchement du président, le secrétaire préside la séance.
-\4. La convocation, accompagnée de l’ordre du jour, est communiquée par voie électronique au moins dix jours avant la
+4\. La convocation, accompagnée de l’ordre du jour, est communiquée par voie électronique au moins dix jours avant la
 séance à tous les membres des commissions, ainsi qu’aux représentants délégués par le ministre. Copie en est transmise par
 voie électronique au ministre ou à son délégué, aux directeurs des lycées, au directeur à la formation professionnelle et aux
 organismes concernés. Tout sujet proposé par voie électronique au plus tard 48 heures avant la séance par le ministre ou son
 délégué ou par au moins un tiers des membres effectifs doit être ajouté à l’ordre du jour.
-\5. Le secrétaire rédige pour chaque séance un compte rendu des délibérations en précisant quels avis sont majoritaires et
+5\. Le secrétaire rédige pour chaque séance un compte rendu des délibérations en précisant quels avis sont majoritaires et
 minoritaires. Ce rapport est envoyé par voie électronique dans les quinze jours à tous les délégués, membres effectifs et suppléants. Le rapport comprend le relevé des présences et des absences. Les délégués ayant assisté à la réunion communiquent
 leur avis par écrit dans le délai d’une semaine. Ensuite, le compte rendu rectifié le cas échéant est envoyé par voie électronique
 au ministre, aux membres concernés, aux autres personnes présentes à la réunion, aux directeurs des lycées et des chambres
 professionnelles concernés ainsi qu’au directeur à la formation professionnelle.
-\6. La commission ne peut délibérer valablement que si la moitié des établissements concernés au moins sont représentés.
+6\. La commission ne peut délibérer valablement que si la moitié des établissements concernés au moins sont représentés.
 Si ce quorum n’est pas atteint, la commission se réunit à nouveau, avec le même ordre du jour, dans un délai de huit jours et
 délibère valablement quel que soit le nombre d’établissements représentés.
-\7. Pour chaque commission où son établissement est représenté, le directeur du lycée convoque les enseignants en conférence spéciale, deux fois par année scolaire dont une fois au premier trimestre. Le délégué du lycée est tenu d’y présenter les
+7\. Pour chaque commission où son établissement est représenté, le directeur du lycée convoque les enseignants en conférence spéciale, deux fois par année scolaire dont une fois au premier trimestre. Le délégué du lycée est tenu d’y présenter les
 propositions de la commission nationale et de rapporter à celle-ci l’avis de la conférence spéciale.
 Art. 7. Procédure de vote des commissions
-\1. Le président et les délégués ont voix délibérative pour toutes les questions qui concernent les formations autorisées à être
+1\. Le président et les délégués ont voix délibérative pour toutes les questions qui concernent les formations autorisées à être
 organisées par l’établissement scolaire qu’ils représentent; ils ont voix consultative pour toutes les autres questions. Les représentants des chambres et autres institutions n’ont voix délibérative que pour les questions concernant les formations tombant
 sous leur compétence.
-\2. Chaque établissement scolaire et institution représentée ne dispose que d’une seule voix délibérative.
-\3. Les experts n’ont voix consultative que pour les questions qui les concernent.
-\4. Les décisions sont prises à la majorité simple des voix des délégués présents ayant voix délibérative. En cas de partage
+2\. Chaque établissement scolaire et institution représentée ne dispose que d’une seule voix délibérative.
+3\. Les experts n’ont voix consultative que pour les questions qui les concernent.
+4\. Les décisions sont prises à la majorité simple des voix des délégués présents ayant voix délibérative. En cas de partage
 des voix, celle du président est prépondérante.
 Art. 8. Le bureau des commissions
-\1. Une commission peut constituer, avec l’accord du ministre, un bureau qui comprend le président, le secrétaire et plusieurs
+1\. Une commission peut constituer, avec l’accord du ministre, un bureau qui comprend le président, le secrétaire et plusieurs
 autres membres de la commission dont le nombre est fixé par le ministre.
-\2. Le bureau organise les travaux de la commission, prépare les réunions plénières et garantit le suivi des programmes qui
+2\. Le bureau organise les travaux de la commission, prépare les réunions plénières et garantit le suivi des programmes qui
 tombent sous l’attribution de la commission.
 Art. 9. Groupes de travail
-\1. Avec l’accord du ministre, les commissions et les équipes curriculaires peuvent former des groupes de travail, notamment
+1\. Avec l’accord du ministre, les commissions et les équipes curriculaires peuvent former des groupes de travail, notamment
 pour la formation professionnelle de base et pour l’élaboration et la révision du programme directeur ainsi que des modules de
 l’enseignement général de la formation professionnelle.
-\2. Chaque groupe de travail élit parmi ses membres un président et un rapporteur.
-\3. Les conclusions auxquelles aboutissent les groupes de travail sont soumises aux structures dont ils sont issus.
+2\. Chaque groupe de travail élit parmi ses membres un président et un rapporteur.
+3\. Les conclusions auxquelles aboutissent les groupes de travail sont soumises aux structures dont ils sont issus.
 Art. 10. Indemnités
-\1. Par réunion de la commission, du bureau de la commission, d’une équipe curriculaire ou d’un groupe de travail, les
+1\. Par réunion de la commission, du bureau de la commission, d’une équipe curriculaire ou d’un groupe de travail, les
 membres et les experts visés à l’article 3 touchent une indemnité fixée par règlement grand-ducal, pour autant qu’ils ne bénéficient pas d’une décharge accordée par le ministre.
-\2. Les travaux réalisés par les membres des commissions et des experts, dûment autorisés par le ministre, en dehors de la
+2\. Les travaux réalisés par les membres des commissions et des experts, dûment autorisés par le ministre, en dehors de la
 participation aux réunions précitées sont rémunérés aux taux horaires fixés par règlement grand-ducal.
 
 \- 552 -
@@ -32989,12 +32989,12 @@ modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Règlement grand-ducal du 22 juillet 2009 déterminant le contenu de la convention de stage de pratique professionnelle
 des élèves fréquentant une classe de la section de la formation de l’éducateur ainsi que le montant de l’aide particulière à verser aux institutions qui prennent en stage des élèves (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . 563
 Règlement grand-ducal du 3 août 2010
-\1. déterminant les métiers et professions sujets à être organisés par le Ministère de l’Éducation nationale et de la
+1\. déterminant les métiers et professions sujets à être organisés par le Ministère de l’Éducation nationale et de la
 Formation professionnelle;
-\2. fixant les grilles horaires des classes de 10e des métiers et professions pour lesquels les dispositions ayant
+2\. fixant les grilles horaires des classes de 10e des métiers et professions pour lesquels les dispositions ayant
 trait à l’organisation de la formation professionnelle de base et de la formation professionnelle initiale entrent
 en vigueur au début de l’année scolaire 2010/2011;
-\3. déterminant les conditions d’admission des élèves du régime préparatoire aux classes du régime professionnel
+3\. déterminant les conditions d’admission des élèves du régime préparatoire aux classes du régime professionnel
 et du cycle inférieur en modifiant le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et
 la promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire (tel qu’il a été
 modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -33005,10 +33005,10 @@ Règlement grand-ducal du 23 juillet 2016 portant création d’une nouvelle sec
 division technique générale du régime technique de l’enseignement secondaire technique et modifiant le
 règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . .  569
 Règlement grand-ducal du 9 septembre 2019
-\1. déterminant l’organisation des stages de formation en milieu professionnel de la formation professionnelle
+1\. déterminant l’organisation des stages de formation en milieu professionnel de la formation professionnelle
 initiale ;
-\2. fixant la composition et les missions de l’office des stages ;
-\3. abrogeant le règlement grand-ducal du 1er février 2010 portant sur 1. l’organisation des stages de formation en
+2\. fixant la composition et les missions de l’office des stages ;
+3\. abrogeant le règlement grand-ducal du 1er février 2010 portant sur 1. l’organisation des stages de formation en
 milieu professionnel de la formation professionnelle initiale ; 2. la composition et les missions de l’office des
 stages  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  570
 
@@ -33346,11 +33346,11 @@ CONVENTION TYPE DE STAGE DE PRATIQUE PROFESSIONNELLE
 
 Entre
 
-\1) le ministre de l’Éducation nationale et de la Formation professionnelle représenté par le Directeur du Lycée technique
+1\) le ministre de l’Éducation nationale et de la Formation professionnelle représenté par le Directeur du Lycée technique
 pour professions éducatives et sociales
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 et
-\2) l’institution. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2\) l’institution. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 représentée par . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 il a été convenu ce qui suit:
 Art. 1er. Champ d’application de la convention
@@ -33373,7 +33373,7 @@ une qualification professionnelle dans le domaine socio-éducatif.
 Le terme de «tuteur» désigne le professionnel du terrain employé par l’institution qui prend en charge l’élève pour contribuer à son encadrement pendant la formation pratique. Le tuteur possède une expérience professionnelle de deux ans
 à temps plein au moins dans le domaine socio-éducatif. En principe il ne prend en charge qu’un seul élève à la fois.
 
-7.
+7\.
 
 Le terme de «personne de contact» désigne la personne s’occupant au sein de l’institution de l’organisation des stages
 visés par le présent contrat. Elle est la personne de contact pour le lycée. Selon les caractéristiques de l’institution, la
@@ -33468,12 +33468,12 @@ CCPL: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 (indiquer exclusivement des numéros IBAN de CCPL)
 
 Règlement grand-ducal du 3 août 2010
-\1. déterminant les métiers et professions sujets à être organisés par le Ministère de l’Éducation nationale et de la
+1\. déterminant les métiers et professions sujets à être organisés par le Ministère de l’Éducation nationale et de la
 Formation professionnelle;
-\2. fixant les grilles horaires des classes de 10e des métiers et professions pour lesquels les dispositions ayant trait à
+2\. fixant les grilles horaires des classes de 10e des métiers et professions pour lesquels les dispositions ayant trait à
 l’organisation de la formation professionnelle de base et de la formation professionnelle initiale entrent en vigueur
 au début de l’année scolaire 2010/2011;
-\3. déterminant les conditions d’admission des élèves du régime préparatoire aux classes du régime professionnel
+3\. déterminant les conditions d’admission des élèves du régime préparatoire aux classes du régime professionnel
 et du cycle inférieur en modifiant le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la
 promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire.
 (Mém. A – 140 du 16 août 2010, p. 2420; Rectificatif Mém. A - 163 du 7 septembre 2010, p. 2770)
@@ -33517,14 +33517,14 @@ Le règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluati
 secondaire technique et de l’enseignement secondaire est modifié comme suit:
 
 L’article 8, paragraphe 7, est remplacé par le texte suivant:
-\7. L’élève du régime préparatoire qui réussit au moins 42 du total des 45 modules prévus en allemand, en français, en
+7\. L’élève du régime préparatoire qui réussit au moins 42 du total des 45 modules prévus en allemand, en français, en
 mathématiques, en culture générale et en enseignement pratique à l’atelier est orienté en fonction de ses résultats
 par le conseil de classe vers des voies de la formation professionnelle initiale qui aboutissent à une qualification
 professionnelle sanctionnée par le diplôme d’aptitude professionnelle (DAP) ou par le certificat d’aptitude technique
 et professionnelle (CATP).
 
 L’article 8, paragraphe 9, est remplacé par le texte suivant:
-\9. L’élève du régime préparatoire qui réussit 18 au moins du total des 45 modules prévus en allemand, en français, en
+9\. L’élève du régime préparatoire qui réussit 18 au moins du total des 45 modules prévus en allemand, en français, en
 mathématiques, en culture générale et en enseignement pratique à l’atelier est admissible à la formation professionnelle de base qui aboutit à une qualification professionnelle sanctionnée par le certificat de capacité professionnelle
 (CCP) ou par le certificat d’initiation technique et professionnelle (CITP).
 
@@ -33616,16 +33616,16 @@ Il est créé une section «sciences naturelles» à la division technique gén�
 La section comprend les classes de 10e, 11e, 12e et de 13e appelées 10SN, 11SN, 12SN et 13SN.
 La formation est sanctionnée au terme de la classe de 13e par l’examen de fin d’études secondaires techniques.
 L’article 8 du règlement grand-ducal modifié du 14 juillet 2005 déterminant l’évaluation et la promotion des élèves de l’enseignement secondaire technique et de l’enseignement secondaire est modifié comme suit:
-\1. Au point 3, le point c est remplacé par le libellé suivant:
+1\. Au point 3, le point c est remplacé par le libellé suivant:
 «c. Si l’élève a en sus au moins 38 points pour la note annuelle soit en mathématiques soit en sciences naturelles, et au
 moins 30 points dans l’autre de ces deux branches, il est admissible à la section sciences naturelles de la division technique générale du régime technique.»
-\2. Les anciens points c et d deviennent les points d et e.
-\3. Le point 7 est remplacé par la disposition suivante:
+2\. Les anciens points c et d deviennent les points d et e.
+3\. Le point 7 est remplacé par la disposition suivante:
 «7. L’élève du régime préparatoire qui réussit au moins 45 des 54 modules prévus en allemand, en français, en mathématiques, en culture générale, en enseignement pratique à l’atelier et en éducation physique et sportive dont 8 modules en
 mathématiques et 8 modules dans une des deux langues est orienté en fonction de ses résultats par le conseil de classe
 vers des voies de la formation professionnelle initiale qui aboutissent à une qualification professionnelle sanctionnée par
 le diplôme d’aptitude professionnelle (DAP).»
-\4. Le point 9 est remplacé par la disposition suivante:
+4\. Le point 9 est remplacé par la disposition suivante:
 «9. L’élève du régime préparatoire qui réussit au moins 18 des 54 modules prévus en allemand, en français, en mathématiques, en culture générale, en enseignement pratique à l’atelier et en éducation physique et sportive est admissible à la
 formation professionnelle de base qui aboutit à une qualification professionnelle sanctionnée par le certificat de capacité
 professionnelle (CCP).»
@@ -33644,9 +33644,9 @@ sera publié au Mémorial.
 
 ÉTUDES ET PÉDAGOGIE - Promotion
 Règlement grand-ducal du 9 septembre 2019
-\1. déterminant l’organisation des stages de formation en milieu professionnel de la formation professionnelle initiale ;
-\2. fixant la composition et les missions de l’office des stages ;
-\3. abrogeant le règlement grand-ducal du 1er février 2010 portant sur 1. l’organisation des stages de formation en
+1\. déterminant l’organisation des stages de formation en milieu professionnel de la formation professionnelle initiale ;
+2\. fixant la composition et les missions de l’office des stages ;
+3\. abrogeant le règlement grand-ducal du 1er février 2010 portant sur 1. l’organisation des stages de formation en
 milieu professionnel de la formation professionnelle initiale ; 2. la composition et les missions de l’office des stages.
 (Mém. A – 603 du 13 septembre 2019; Rectificatif Mém. A – 59 du 7 février 2020)
 
@@ -33680,19 +33680,19 @@ la détermination du tuteur en milieu scolaire et du tuteur en milieu profession
 l’information et l’explication quant aux objectifs et contenus du ou des modules du stage de formation à l’organisme de
 formation ;
 
-7.
+7\.
 
 la conclusion de la convention de stage ;
 
-8.
+8\.
 
 la préparation des élèves stagiaires au stage ;
 
-9.
+9\.
 
 la préparation du carnet de stage comprenant la grille d’évaluation et le rapport-type de stage ;
 
-\10. la surveillance de l’exécution du stage de formation, en collaboration étroite avec les tuteurs concernés.
+10\. la surveillance de l’exécution du stage de formation, en collaboration étroite avec les tuteurs concernés.
 (1) La mission du tuteur en milieu scolaire consiste à :
 
 préparer le stage de formation avec l’office des stages ;
@@ -33780,18 +33780,18 @@ en ce qui le concerne, de l’exécution du présent règlement qui sera publié
 CONVENTION DE STAGE DE FORMATION
 
 Entre
-\1. L’établissement scolaire :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1\. L’établissement scolaire :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Adresse :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Localité :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 représenté par sa directrice / son directeur :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\2. L’organisme de formation :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2\. L’organisme de formation :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Adresse : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Localité : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Compte bancaire : IBAN :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 No TVA : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 représenté par : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Tuteur en milieu professionnel :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\3. L’élève stagiaire :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3\. L’élève stagiaire :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Formation :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Classe :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Matricule :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -33800,13 +33800,13 @@ Localité : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 représenté par :  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 il a été convenu ce qui suit :
 Le stage de formation en milieu professionnel a pour objectif d’approfondir les compétences suivantes de l’élève stagiaire :
-\1.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\2.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\3.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\4.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\5.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\6.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\7.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7\.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Le stage de formation en milieu professionnel a lieu du  . . . . . . . . . . . . . . . . . . . . . .  au  . . . . . . . . . . . . . . . . . . . . . . . . . . .
 suivant l’horaire fixé de  . . . . . . . . . . . . . . . . heures à  . . . . . . . . . . . .  heures.
 
@@ -33920,7 +33920,7 @@ en vue de l’organisation de l’examen.»3
 
 Chaque commission choisit un secrétaire parmi ses membres.
 
-7.
+7\.
 
 Nul ne peut prendre part ni à l’examen concernant l’un de ses parents ou alliés jusque et y compris le quatrième degré,
 ni à l’examen d’un candidat à qui il a donné des leçons particulières au courant de l’année scolaire.
@@ -34508,11 +34508,11 @@ d’examen.
 
 Le candidat qui n’a pas suivi les cours de l’année scolaire en cours de la classe terminale du lycée, tout en étant admissible à l’examen, doit se présenter à toutes les épreuves d’examen.
 
-7.
+7\.
 
 Pour chaque épreuve la langue véhiculaire est celle prévue par le programme de la formation.
 
-8.
+8\.
 
 Les dates et l’horaire des épreuves sont fixés par le ministre.
 
@@ -34810,7 +34810,7 @@ Loi du 11 août 1996 portant réforme de l’enseignement supérieur.
 Extrait
 
 Art. 31. Dispositions transitoires concernant l’Institut
-\2. Les porteurs d’un diplôme d’ingénieur technicien, délivré sur la base de la législation luxembourgeoise afférente, qui
+2\. Les porteurs d’un diplôme d’ingénieur technicien, délivré sur la base de la législation luxembourgeoise afférente, qui
 peuvent se prévaloir d’une pratique professionnelle significative d’au moins 5 ans après l’obtention du diplôme sont autorisés à
 obtenir à leur demande, pendant une période de 15 ans comptés à partir de la mise en vigueur de la présente loi, l’assimilation
 de leur diplôme d’ingénieur technicien au diplôme d’ingénieur industriel.
@@ -34832,7 +34832,7 @@ en vigueur. Une telle affectation est renouvelable et limitée à la durée des 
 nouvelle affectation ne peut en résulter.
 Le règlement grand-ducal précité fixe les modalités de rémunération des intéressés ainsi que la répartition de la charge
 des rémunérations entre les CRP et l’État.
-\2. Par dérogation aux dispositions de la loi modifiée du 24 mai 1989 sur le contrat de travail, des contrats de travail
+2\. Par dérogation aux dispositions de la loi modifiée du 24 mai 1989 sur le contrat de travail, des contrats de travail
 peuvent être conclus entre les CRP et des chercheurs pour une durée déterminée pouvant excéder 24 mois. Ils peuvent
 être renouvelés sans être à durée indéterminée.»
 
@@ -34936,31 +34936,31 @@ Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non emp
 nombre de ces bulletins est mentionné au procès-verbal.
 Art. 18.
 Après clôture des scrutins, le bureau électoral procède au dépouillement. Il arrête:
-1)
+1\)
 
 le nombre des votants,
 
-2)
+2\)
 
 le nombre des bulletins remis,
 
-3)
+3\)
 
 le nombre des bulletins valables,
 
-4)
+4\)
 
 le nombre des bulletins nuls,
 
-5)
+5\)
 
 le nombre des suffrages pour chaque candidat.
 
 Il les fait inscrire au procès-verbal.
 Art. 19.
 Est nul:
-1)
-2)
+1\)
+2\)
 
 tout bulletin autre que celui remis à l’électeur par le président du bureau ou son délégué,
 ce bulletin même:
@@ -35505,11 +35505,11 @@ l’atteinte aux bonnes mœurs;
 
 la consommation d’alcool dans l’enceinte du lycée;
 
-7.
+7\.
 
 la consommation et le trafic de stupéfiants prohibés;
 
-8.
+8\.
 
 l’incitation à la haine raciale, à la xénophobie et à l’intolérance religieuse.
 
@@ -37731,7 +37731,7 @@ la liberté de la recherche dans les limites des devoirs inhérents aux différe
 l’encouragement de la relève scientifique.
 
 Les principes visés au présent paragraphe sont précisés dans la charte du personnel enseignant-chercheur visée à l’article
-20.
+20\.
 (2) Les modalités d’exécution des activités de recherche de l’Université et les modalités de mise en œuvre des principes
 visés au paragraphe 1er sont précisées par le règlement d’ordre intérieur.
 (3) L’Université se concerte avec les centres de recherche publics institués et organisés par la loi du 3 décembre 2014 ayant
@@ -38542,13 +38542,13 @@ des voies de recours, l’exercice des voies de recours dans les principaux foye
 Art. 27.
 Le contrôle des connaissances du Diplôme d’Études Supérieures Spécialisées (DESS) en Contentieux communautaire
 porte sur les unités d’enseignements suivantes:
-\1. l’introduction au contentieux communautaire;
-\2. l’étude générale des voies de recours;
-\3. l’exercice des voies de recours dans les principaux foyers de contentieux;
-\4. la sanction du droit communautaire devant les juridictions nationales et arbitrales.
+1\. l’introduction au contentieux communautaire;
+2\. l’étude générale des voies de recours;
+3\. l’exercice des voies de recours dans les principaux foyers de contentieux;
+4\. la sanction du droit communautaire devant les juridictions nationales et arbitrales.
 Le contrôle des connaissances comprend en outre
-\5. le rapport de stage;
-\6. la soutenance du mémoire de fin d’études.
+5\. le rapport de stage;
+6\. la soutenance du mémoire de fin d’études.
 La même pondération est accordée à chacun des six éléments.
 
 Chapitre VII: Entrée en vigueur
@@ -38724,7 +38724,7 @@ A la fin de chaque session d’examens d’U.V., le bilan des notes finales obte
 
 INSTITUT SUPÉRIEUR DE TECHNOLOGIE
 Art. 6. - Les unités de valeur
-\1. Par unité de valeur, désignée ci-après par U.V., il faut entendre l’enseignement et le contrôle de connaissances de matières. La matière de chaque U.V. peut être enseignée sous les formes suivantes:
+1\. Par unité de valeur, désignée ci-après par U.V., il faut entendre l’enseignement et le contrôle de connaissances de matières. La matière de chaque U.V. peut être enseignée sous les formes suivantes:
 
 cours théoriques
 
@@ -38757,45 +38757,45 @@ grand-ducal.»
 a. qui est inscrit à toutes les unités de valeur prévues au programme de la deuxième année d’études, et
 b. dont la somme des indices des unités de valeur jugées insuffisantes est inférieure à 20% de la somme arrondie vers
 l’unité supérieure des indices des unités de valeur prévues au programme de la deuxième année d’études.»
-\3. Travail de fin d’études
+3\. Travail de fin d’études
 Le travail de fin d’études constitue une U.V. La durée est fixée à un semestre conformément aux dispositions de l’article 29
 de la loi du 11 août 1996. Les modalités du semestre de travail de fin d’études sont fixées par règlement grand-ducal.
 (Règlement grand-ducal du 7 juillet 2003)
 «Est admis à entamer le semestre de travail de fin d’études l’étudiant qui a accompli avec succès toutes les U.V. prévues au
 programme des 3 premières années d’études.»
-\4. Les conditions d’admissibilité à toutes les U.V. sont fixées par le Conseil d’administration sur proposition du conseil de
+4\. Les conditions d’admissibilité à toutes les U.V. sont fixées par le Conseil d’administration sur proposition du conseil de
 promotion visé à l’article 8 du présent règlement. Les étudiants peuvent choisir parmi les U.V. auxquelles ils sont admissibles;
 ils manifesteront leur choix en s’inscrivant aux U.V. dont s’agit. Toutefois les étudiants rentrant pour la première fois à un des
 départements de l’institut sont obligés de s’inscrire à toutes les U.V. de la première année.
-\5. La durée des études d’ingénieur industriel est de quatre années. Les U.V. à accomplir en vue de l’obtention du diplôme
+5\. La durée des études d’ingénieur industriel est de quatre années. Les U.V. à accomplir en vue de l’obtention du diplôme
 d’ingénieur industriel se répartissent sur les quatre années et la répartition des U.V. est déterminée par la grille des horaires.
 La durée des études à l’institut ne peut dépasser une période consécutive de huit années. A la demande écrite et justifiée de
 l’étudiant et pour des raisons graves, le Conseil d’administration peut - sur avis favorable du conseil de promotion - prolonger la
 période des études. L’étudiant dispose de deux années consécutives pour accomplir avec succès une U.V.
-\6. Les conditions d’admission à l’examen d’U.V. sont arrêtées par le conseil de promotion. Ce dernier définit la nature, le
+6\. Les conditions d’admission à l’examen d’U.V. sont arrêtées par le conseil de promotion. Ce dernier définit la nature, le
 nombre et la prise en compte des travaux imposés. La prise en compte de la note obtenue aux travaux imposés ne peut dépasser les 2/5 dans le calcul de la note finale de l’U.V..
-\7. Lors de l’inscription aux différentes U.V., les conditions d’admission aux examens respectifs sont communiquées par écrit
+7\. Lors de l’inscription aux différentes U.V., les conditions d’admission aux examens respectifs sont communiquées par écrit
 à l’étudiant.
-\8. L’examen de l’U.V. se déroule conformément aux modalités fixées à l’article 7 du présent règlement. La prise en compte
+8\. L’examen de l’U.V. se déroule conformément aux modalités fixées à l’article 7 du présent règlement. La prise en compte
 de la note obtenue à l’examen pour le calcul de la note finale ne peut être inférieure à 3/5.
 Art. 7.- Modalités des épreuves de l’examen final de l’U.V.
 Les différentes U.V. sont sanctionnées chacune par un examen conformément aux modalités suivantes:
-\1. Chaque année sont organisées deux sessions d’examen dont les dates seront fixées au début de chaque année académique par le Conseil d’administration sur proposition des départements.
-\2. Pour chaque département l’examen a lieu devant une commission d’examen, appelée conseil de promotion, dont la composition, les attributions et le fonctionnement sont fixés à l’article 8.1. du présent règlement.
+1\. Chaque année sont organisées deux sessions d’examen dont les dates seront fixées au début de chaque année académique par le Conseil d’administration sur proposition des départements.
+2\. Pour chaque département l’examen a lieu devant une commission d’examen, appelée conseil de promotion, dont la composition, les attributions et le fonctionnement sont fixés à l’article 8.1. du présent règlement.
 
 \- 656 -
 
 INSTITUT SUPÉRIEUR DE TECHNOLOGIE
-\3. Tout étudiant qui remplit les conditions prévues à l’article 5, alinéas 5 et 6, ainsi qu’à l’article 6.4. du présent règlement doit
+3\. Tout étudiant qui remplit les conditions prévues à l’article 5, alinéas 5 et 6, ainsi qu’à l’article 6.4. du présent règlement doit
 se présenter à l’examen en première session. Tout étudiant qui, sans excuse reconnue valable, ne se présente pas à l’examen
 d’U.V. reçoit la note 0 sur 20 pour l’examen d’U.V. en question.
-\4. En cas de force majeure et sur présentation de pièces justificatives, le conseil de promotion peut autoriser l’étudiant à
+4\. En cas de force majeure et sur présentation de pièces justificatives, le conseil de promotion peut autoriser l’étudiant à
 se présenter à la première session extraordinaire à une date fixée par le Conseil d’administration sur proposition des départements. En cas d’ajournement, il pourra se présenter à une seconde session extraordinaire dont la date sera fixée par le conseil
 de promotion.
-\5. Chaque épreuve d’examen, le rapport de pratique professionnelle et le mémoire de travail de fin d’études sont appréciés
+5\. Chaque épreuve d’examen, le rapport de pratique professionnelle et le mémoire de travail de fin d’études sont appréciés
 par deux membres du conseil de promotion.
 Art. 8. - Promotion des étudiants
-\1. Conseil de promotion
+1\. Conseil de promotion
 Il est constitué un conseil de promotion pour chaque département. Chaque conseil se compose d’un commissaire du Gouvernement comme président, du président de l’institut ou de son délégué, de l’administrateur de département et en général des
 titulaires des cours. Le conseil comprend un secrétaire. Chaque conseil de promotion décide de l’admissibilité des étudiants aux
 différentes U.V. et de l’admissibilité des candidats aux différents examens d’U.V.
@@ -38820,7 +38820,7 @@ avant la conférence d’admissibilité du semestre d’été. Pour l’étudian
 note globale de l’examen d’U.V. est la moyenne arithmétique de l’examen partiel et de la partie a) de l’examen final.
 2.3. Pour les candidats ajournés, seule la note de l’épreuve d’ajournement, qui peut s’étendre sur la matière de toute l’année,
 est prise en compte.
-\3. Calcul de la note de l’U.V.
+3\. Calcul de la note de l’U.V.
 3.1. Pour la première session la note est calculée comme suit:
 
 avec examen partiel
@@ -38833,7 +38833,7 @@ Moyenne des travaux imposés (0/5 à 2/5) + Moyenne des examens (0/5 à 3/5)
 3.3. Le calcul de la note finale d’une U.V. composée de plusieurs branches se base sur une pondération des composantes en
 tenant compte du nombre de leçons hebdomadaires par année. La prise en compte des composantes figurera dans le descriptif
 de l’U.V.
-\4. Modalités de promotion
+4\. Modalités de promotion
 4.1. Le candidat qui lors de la première ou de la deuxième session a obtenu une note finale égale ou supérieure à 12 sur
 20 points a accompli l’U.V. avec succès.
 
@@ -38857,7 +38857,7 @@ Si la note pondérée de l’U.V. est inférieure à 12, l’ajournement est pro
 valeur dont la note est inférieure à 12 points. La réussite au terme de l’ajournement est prononcée lorsque la note / les notes
 obtenue(s) est / sont égale(s) ou supérieure(s) à 12 points.»
 4.4. Le conseil de promotion peut accorder une dispense d’une U.V. aux étudiants ayant réussi des études techniques supérieures à d’autres départements de l’institut ou à d’autres établissements d’enseignement supérieur.
-\5. Épreuves d’ajournement
+5\. Épreuves d’ajournement
 Sauf empêchement reconnu valable par le conseil de promotion, tout candidat ajourné doit subir les épreuves d’ajournement
 à la session d’automne de la même année.
 En cas d’empêchement reconnu valable par le conseil de promotion, celui-ci fixe une nouvelle date pour l’examen d’ajournement qui en principe, doit se situer dans la même année de calendrier. (les deux mois suivant le début de l’année académique)
@@ -38868,7 +38868,7 @@ Pour le cas où l’U.V. «pratique professionnelle» n’est pas réussie, l’
 Pour le cas où l’U.V. «travail de fin d’études» n’est pas réussie, l’étudiant est tenu à représenter le mémoire remanié dans
 des conditions à fixer par le Conseil de promotion.
 Dans les deux cas précités la note finale ne sera pas limitée à 12 points.
-\6. L’étudiant dont la somme arrondie vers l’unité supérieure des indices relatifs aux U.V. ayant fait l’objet d’une note insuffisante est supérieure à 30% de la somme des indices des U.V. prévues au programme d’études de la première, deuxième ou
+6\. L’étudiant dont la somme arrondie vers l’unité supérieure des indices relatifs aux U.V. ayant fait l’objet d’une note insuffisante est supérieure à 30% de la somme des indices des U.V. prévues au programme d’études de la première, deuxième ou
 troisième année ne pourra s’inscrire aux U.V. de l’année d’études suivante.
 Les indices de promotion sont fixés au tableau en annexe.
 Art. 9. - Titre d’ingénieur industriel
@@ -39091,21 +39091,21 @@ brefs délais et au plus tard dans les vingt-quatre heures.
 En cas de manquement à ces dispositions, l’établissement peut mettre fin au contrat, après avoir prévenu par écrit le
 tuteur de l’Institut.
 
-7.
+7\.
 
 Dans les quinze jours suivant le terme de la pratique professionnelle faisant l’objet du présent contrat, l’étudiant remet
 un rapport final.
 Le rapport final ne peut être rendu public sans autorisation écrite de la part de l’établissement.
 
-8.
+8\.
 
 L’établissement d’accueil s’engage à participer à l’évaluation de l’étudiant.
 
-9.
+9\.
 
 L’étudiant ne peut prétendre à aucune indemnité ni rémunération de la part de l’établissement. Les frais de déplacement, de séjour et d’hébergement sont à charge de l’étudiant.
 
-\10. Tout matériel, équipement et document, mis à la disposition de l’étudiant reste la propriété exclusive de l’établissement et doit être rendu par l’étudiant à la fin de la pratique professionnelle dans l’état où il lui a été confié tout
+10\. Tout matériel, équipement et document, mis à la disposition de l’étudiant reste la propriété exclusive de l’établissement et doit être rendu par l’étudiant à la fin de la pratique professionnelle dans l’état où il lui a été confié tout
 en tenant compte des dégradations dues à un usage normal.
 
 _ ___________________________________
@@ -39279,27 +39279,27 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 __________________________________________________________________________________________________
 et conformément aux dispositions du règlement grand-ducal ci-avant, il a été convenu ce qui suit:
-\1. Le présent contrat s’applique aux étudiants ingénieurs industriels inscrits au 8e semestre d’études à l’Institut supérieur
+1\. Le présent contrat s’applique aux étudiants ingénieurs industriels inscrits au 8e semestre d’études à l’Institut supérieur
 de technologie.
 
-\2. Le semestre de travail de fin d’études se déroule du________________
+2\. Le semestre de travail de fin d’études se déroule du________________
 _____________semaines.
 
 au ___________________soit une durée de
 
-\3. Pour la durée du présent contrat, l’étudiant est placé sous l’autorité et la surveillance de
+3\. Pour la durée du présent contrat, l’étudiant est placé sous l’autorité et la surveillance de
 M/Mme___________________________
 
 de l’établissement
 
 ________________________________ et est suivi par M/Mme _____________________
 de l’Institut.
-\4. Pendant toute la durée du contrat, l’étudiant continue à bénéficier de la couverture de l’assurance obligatoire contre
+4\. Pendant toute la durée du contrat, l’étudiant continue à bénéficier de la couverture de l’assurance obligatoire contre
 les accidents, telle que définie par la loi du 1er septembre 1988 relative à la responsabilité civile de l’État et des collectivités
 publiques ainsi que par le règlement grand-ducal modifié du 30 mai 1974 portant extension de l’assurance obligatoire contre les
 accidents aux activités scolaires et périscolaires.
 
-\5. Pendant la durée du contrat, l’étudiant est soumis aux règlements de l’établissement qui l’accueille et en particulier:
+5\. Pendant la durée du contrat, l’étudiant est soumis aux règlements de l’établissement qui l’accueille et en particulier:
 
 à la discipline générale de l’établissement, notamment en matière d’horaire de travail
 
@@ -39307,7 +39307,7 @@ aux normes de sécurité en vigueur dans l’établissement
 
 au respect du secret professionnel en usage.
 
-\6. Exceptées les absences pour cause de maladie ou d’accident, l’étudiant ne peut s’absenter que pour des motifs retenus
+6\. Exceptées les absences pour cause de maladie ou d’accident, l’étudiant ne peut s’absenter que pour des motifs retenus
 préalablement comme valables par les deux tuteurs.
 L’étudiant qui s’absente pour cause de maladie ou d’accident, doit en aviser le tuteur de l’établissement dans les plus brefs
 délais et au plus tard dans les vingt-quatre heures.
@@ -39318,15 +39318,15 @@ INSTITUT SUPÉRIEUR DE TECHNOLOGIE
 En cas de manquement à ces dispositions, l’établissement peut mettre fin au contrat, après avoir prévenu par écrit le tuteur
 de l’Institut supérieur de technologie.
 
-\7. Au terme du semestre de travail de fin d’études faisant l’objet du présent contrat, l’étudiant remet un rapport final.
+7\. Au terme du semestre de travail de fin d’études faisant l’objet du présent contrat, l’étudiant remet un rapport final.
 Le rapport final ne peut être public sans l’autorisation écrite de l’établissement.
 
-\8. L’établissement d’accueil s’engage à participer à l’évaluation du travail de fin d’études de l’étudiant.
+8\. L’établissement d’accueil s’engage à participer à l’évaluation du travail de fin d’études de l’étudiant.
 
-\9. L’étudiant ne peut prétendre à aucune indemnité ni rémunération de la part de l’établissement. Les frais de déplacement,
+9\. L’étudiant ne peut prétendre à aucune indemnité ni rémunération de la part de l’établissement. Les frais de déplacement,
 de séjour et d’hébergement sont à charge de l’étudiant.
 
-\10. Tout matériel, équipement et document, mis à la disposition de l’étudiant restent la propriété exclusive de l’établissement
+10\. Tout matériel, équipement et document, mis à la disposition de l’étudiant restent la propriété exclusive de l’établissement
 et doivent être rendus par l’étudiant à la fin de son travail de fin d’études dans l’état où ils lui ont été confiés tout en tenant
 compte des dégradations dues à un usage normal.
 
@@ -39458,13 +39458,13 @@ gradués à l’Institut d’études éducatives et sociales.
 (Mém. A – 92 du 11 décembre 1992, p. 2568)
 
 I. Conditions générales d’admission et de nomination du personnel
-\1. Sans préjudice de l’application des dispositions générales de la loi du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, telle qu’elle a été modifiée, les candidats aux fonctions ci-après doivent remplir les conditions prévues par la
+1\. Sans préjudice de l’application des dispositions générales de la loi du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, telle qu’elle a été modifiée, les candidats aux fonctions ci-après doivent remplir les conditions prévues par la
 loi du 6 août 1990 portant organisation des études éducatives et sociales, texte qui, dans la suite du présent règlement, sera
 désigné par le terme de «loi».
-\2. Nul ne peut être admis au stage s’il est âgé de plus de «quarante»1 ans. Sur proposition du directeur de l’Institut d’études
+2\. Nul ne peut être admis au stage s’il est âgé de plus de «quarante»1 ans. Sur proposition du directeur de l’Institut d’études
 éducatives et sociales et après consultation du Ministre de la Fonction Publique, le Ministre de l’Éducation Nationale peut faire
 une exception à cette disposition.
-\3. Nul ne peut obtenir une nomination définitive à l’Institut d’études éducatives et sociales, dénommé ci-après l’«institut»,
+3\. Nul ne peut obtenir une nomination définitive à l’Institut d’études éducatives et sociales, dénommé ci-après l’«institut»,
 
 s’il n’a pas accompli une période de stage de deux ans,
 
@@ -39478,10 +39478,10 @@ d)
 s’il n’a pas passé avec succès l’examen de fin de stage pour sa fonction.
 
 II. Carrière du psychologue
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées à l’article 25, sub II, 2 de la loi et faire preuve d’une
 connaissance suffisante des trois langues usuelles du pays: le luxembourgeois, le français et l’allemand.
-\2. Durée du stage
+2\. Durée du stage
 Le psychologue est tenu d’accomplir un stage d’une durée de deux ans. Le stage peut être accompli partiellement dans
 un service public à un autre titre que celui de psychologue. Dans ce cas, la durée du stage à accomplir à l’institut ne peut être
 inférieure à trois mois.
@@ -39489,17 +39489,17 @@ Sur proposition du Ministre de l’Éducation Nationale, après avis du Ministre
 être abrégée par décision du Ministre d’État,
 
 jusqu’à la durée d’un an
-\1) pour les candidats qui en plus des conditions prévues à l’article 25, sub II, 2 de la loi ont acquis un certificat,
+1\) pour les candidats qui en plus des conditions prévues à l’article 25, sub II, 2 de la loi ont acquis un certificat,
 diplôme ou titre d’examen final d’enseignement supérieur plus particulièrement en rapport avec un ou plusieurs des
 domaines d’études prévus à l’article 5 de la loi;
-\2) pour les candidats qui ont déjà acquis une formation pratique dans un ou plusieurs des domaines d’études prévus à
+2\) pour les candidats qui ont déjà acquis une formation pratique dans un ou plusieurs des domaines d’études prévus à
 l’article 5 de la loi par une activité professionnelle correspondant à leur formation universitaire, exercée à plein temps
 pendant trois ans;
 
 jusqu’à une durée de trois mois pour les candidats ayant acquis une formation pratique dans un ou plusieurs des domaines d’études prévus à l’article 5 de la loi par une activité professionnelle correspondant à leur formation universitaire,
 exercée à plein temps pendant les dix années précédant leur admission au stage.
 
-\3. Modalités pratiques et contenus du stage
+3\. Modalités pratiques et contenus du stage
 Le stage est supervisé par le directeur de l’institut ou par un patron de stage désigné par le directeur parmi le personnel
 nommé à l’institut en vertu des dispositions de l’article 24 de la loi. Le directeur ou le patron de stage s’assure régulièrement de
 la progression et du bon encadrement du stagiaire et note ses constatations et les directives éventuellement données dans un
@@ -39536,47 +39536,47 @@ de la loi du 27 mars 1986 fixant les conditions et les modalités selon lesquell
 d’administration, continue à accomplir le stage prévu à l’article 1er du présent règlement sans que la durée de son stage à l’institut puisse être inférieure à trois mois. Pour être admis au stage à l’institut, le candidat doit remplir les conditions fixées sub II,
 1 ci-avant. Pendant son stage à l’institut, il peut être dispensé d’une partie des activités d’enseignement prévues sub II, 3, b)
 ci-avant.
-\4. Conditions de nomination
+4\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de psychologue, le candidat doit avoir passé avec succès l’examen de fin de stage
 organisé conformément aux articles 3, 4 et 5 du présent règlement.
 
 III. Carrière du pédagogue
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées à l’article 25, sub II, 2 de la loi et faire preuve d’une
 connaissance suffisante des trois langues usuelles du pays: le luxembourgeois, le français et l’allemand.
-\2. Durée du stage
+2\. Durée du stage
 Le pédagogue est tenu d’accomplir un stage d’une durée de deux ans.Le stage peut être accompli partiellement dans un
 service public à un autre titre que celui de pédagogue. Dans ce cas, la durée du stage à accomplir à l’institut ne peut être inférieure à trois mois. La durée du stage peut être réduite dans les proportions et selon les modalités prévues pour la carrière du
 psychologue.
-\3. Modalités pratiques et contenus du stage
+3\. Modalités pratiques et contenus du stage
 Les modalités pratiques et les contenus du stage tels qu’ils sont définis pour la carrière du psychologue s’appliquent également au stage en vue de l’admission à la fonction de pédagogue.
-\4. Conditions de nomination
+4\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de pédagogue, le candidat doit avoir passé avec succès l’examen de fin de stage
 organisé conformément aux articles 3, 4 et 5 du présent règlement.
 
 IV. Carrière du sociologue
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées à l’article 25, sub II, 2 de la loi et faire preuve d’une
 connaissance suffisante des trois langues usuelles du pays: le luxembourgeois, le français et l’allemand.
-\2. Durée du stage
+2\. Durée du stage
 Le sociologue est tenu d’accomplir un stage d’une durée de deux ans. Le stage peut être accompli partiellement dans un
 service public à un autre titre que celui de sociologue. Dans ce cas, la durée du stage à accomplir à l’institut ne peut être inférieure à trois mois. La durée du stage peut être réduite dans les proportions et selon les modalités prévues pour la carrière du
 psychologue.
-\3. Modalités pratiques et contenus du stage
+3\. Modalités pratiques et contenus du stage
 Les modalités pratiques et les contenus du stage tels qu’ils sont définis pour la carrière du psychologue s’appliquent également au stage en vue de l’admission à la fonction de sociologue.
 
 \- 672 -
 
 INSTITUT D’ÉTUDES ÉDUCATIVES ET SOCIALES
-\4. Conditions de nomination
+4\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de sociologue, le candidat doit avoir passé avec succès l’examen de fin de stage
 organisé conformément aux articles 3, 4 et 5 du présent règlement.
 
 V. Carrière de l’éducateur gradué
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées par la loi, avoir passé avec succès l’examen d’admission au stage prévu sub V, 2 ci-après et faire preuve d’une connaissance suffisante des trois langues usuelles du pays: le
 luxembourgeois, le français et l’allemand.
-\2. Examen d’admission au stage
+2\. Examen d’admission au stage
 
 Un examen d’admission au stage est organisé chaque fois qu’il y a vacance de poste. Au cas où le nombre de candidats
 dépasse le nombre de postes à pourvoir, l’examen d’admission au stage prend la forme d’un examen-concours. Seuls
@@ -39598,12 +39598,12 @@ d)
 
 Les modalités des épreuves de l’examen d’admission au stage sont fixées par règlement ministériel.
 
-\3. Durée du stage
+3\. Durée du stage
 L’éducateur gradué est tenu d’accomplir un stage d’une durée de deux ans. Le candidat qui peut se prévaloir d’une pratique
 professionnelle soit dans le secteur public soit dans le secteur privé pourra obtenir une réduction de stage par le Ministre de
 l’Éducation Nationale sur proposition du directeur de l’institut et sur avis du Ministre de la Fonction Publique sans que toutefois
 la durée du stage puisse être inférieure à un an.
-\4. Modalités pratiques et contenus du stage
+4\. Modalités pratiques et contenus du stage
 Le stage est supervisé par le directeur de l’institut ou par un patron de stage désigné par le directeur parmi le personnel
 nommé à l’institut en vertu des dispositions de l’article 24 de la loi. Le directeur ou le patron de stage s’assure régulièrement
 de la progression et du bon encadrement du stagiaire et note ses constatations et les directives éventuellement données dans
@@ -39636,7 +39636,7 @@ d’enseignement prévues sub V, 4, b) ci-avant.
 \- 673 -
 
 INSTITUT D’ÉTUDES ÉDUCATIVES ET SOCIALES
-\5. Conditions de nomination
+5\. Conditions de nomination
 Pour pouvoir être nommé à la fonction d’éducateur gradué, le candidat doit avoir passé avec succès l’examen organisé
 conformément aux dispositions des articles 3, 4 et 5 du présent règlement.
 Les candidats aux fonctions de psychologue, pédagogue, sociologue et éducateur gradué doivent faire preuve d’une
@@ -39696,17 +39696,17 @@ c) une épreuve écrite portant sur la législation relative à l’action éduc
 ainsi que sur la législation relative au statut général des fonctionnaires de l’État et dont le programme détaillé est
 arrêté par le Ministre de l’Éducation Nationale.
 Les modalités des épreuves de l’examen de fin de stage sont fixées comme suit:
-1)
+1\)
 
 La commission ne peut délibérer valablement que si tous ses membres sont présents.
 
-2)
+2\)
 
 Les épreuves sont cotées chacune sur un maximum de soixante points. Une épreuve est considérée comme réussie si
 le candidat a obtenu la moitié du maximum des points. La commission fixe les notes à attribuer à chaque candidat pour
 les trois épreuves se rapportant à sa fonction prévues à l’article 4 ci-avant.
 
-3)
+3\)
 
 La commission prend à l’égard de chaque candidat une des décisions suivantes: admission, ajournement partiel, ajournement total, élimination.
 Pour être reçu à l’examen de fin de stage, le candidat doit avoir réussi toutes les épreuves se rapportant à sa fonction
@@ -39726,11 +39726,11 @@ les trois épreuves de l’examen de fin de stage en cas d’ajournement total.
 
 Le candidat qui, sauf cas de force majeure, ne respecte pas ce délai ou celui qui ne réussit pas au troisième examen
 toutes les épreuves auxquelles il a dû se présenter est éliminé définitivement du stage.
-4)
+4\)
 
 Les modalités d’exécution du présent article sont fixées par le Ministre de l’Éducation Nationale.
 
-5)
+5\)
 
 Le commissaire du Gouvernement réunit la commission préalablement à l’examen pour régler en détail l’organisation
 des épreuves. La commission désigne parmi ses membres deux correcteurs de l’épreuve écrite prévue à l’article 4 respectivement sub 1, c) et sub 2, c).
@@ -39912,19 +39912,19 @@ INSTITUT D’ÉTUDES ÉDUCATIVES ET SOCIALES
 L’évaluation de la formation pratique
 Art. 23.
 La formation pratique comprend les branches suivantes:
-1)
+1\)
 
 le séminaire d’encadrement et d’animation des stages;
 
-2)
+2\)
 
 la pédagogie spéciale et sociale appliquée et le travail social appliqué (le dossier de stage);
 
-3)
+3\)
 
 la tenue générale des stages;
 
-4)
+4\)
 
 les activités de stage.
 
@@ -39978,7 +39978,7 @@ l’obtention du diplôme d’éducateur gradué
 Art. 31.
 L’examen final pour l’obtention du diplôme d’éducateur gradué prévu à l’article 7 de la loi comprend une partie théorique et
 technique ainsi qu’une partie pratique.
-\1. La partie théorique et technique porte sur l’ensemble des branches théoriques et techniques de la troisième année
+1\. La partie théorique et technique porte sur l’ensemble des branches théoriques et techniques de la troisième année
 d’études (cours théoriques communs et cours de spécialisation) ainsi que sur le mémoire d’intérêt scientifique.
 L’évaluation des cours théoriques communs se fait sous forme d’épreuves finales portant sur les matières enseignées au
 cours de la troisième année d’études. Les épreuves donnent lieu à des notes finales.
@@ -39986,22 +39986,22 @@ Les cours de spécialisation font l’objet d’une évaluation continue qui don
 d’un cours de spécialisation est la moyenne arithmétique des notes semestrielles. Au cas où un cours de spécialisation a lieu
 pendant un seul semestre, la note semestrielle constitue la note finale de la branche en question.
 L’évaluation du mémoire d’intérêt scientifique donne lieu à une note finale.
-\2. La partie pratique porte sur les deux branches pratique professionnelle: épreuve pratique à sujet imposé et pratique
+2\. La partie pratique porte sur les deux branches pratique professionnelle: épreuve pratique à sujet imposé et pratique
 professionnelle: épreuve pratique à improvisation ainsi que sur la branche combinée pratique professionnelle: appréciation du
 stage de spécialisation. Ces branches donnent lieu à trois notes finales conformément aux dispositions de l’article 48 du présent
 règlement.
 Art. 32.
 L’examen final a lieu devant une commission d’examen nommée au début de chaque année académique par le ministre. La
 commission d’examen comprend les trois sections suivantes:
-1)
+1\)
 
 la section pour l’évaluation des cours théoriques communs et des cours de spécialisation,
 
-2)
+2\)
 
 la section pour l’évaluation du mémoire d’intérêt scientifique,
 
-3)
+3\)
 
 la section pour l’évaluation de la partie pratique.
 
@@ -40066,34 +40066,34 @@ Le titulaire de la branche propose au président, sous pli fermé et dans un dé
 l’épreuve en question.
 Le secret relatif aux sujets ou questions proposés doit être rigoureusement observé.
 Art. 42.
-\1. Le président de la commission d’examen choisit les sujets ou questions des épreuves finales. Il lui est loisible d’arrêter des
+1\. Le président de la commission d’examen choisit les sujets ou questions des épreuves finales. Il lui est loisible d’arrêter des
 sujets ou questions en dehors de ceux qui lui ont été présentés.
-\2. Les plis contenant les sujets ou questions sont ouverts en présence des candidats au moment où il est donné lecture des
+2\. Les plis contenant les sujets ou questions sont ouverts en présence des candidats au moment où il est donné lecture des
 sujets ou questions.
-\3. Les épreuves sont écrites; elles doivent être rédigées sur des feuilles à entête paraphées séance tenante par un des
+3\. Les épreuves sont écrites; elles doivent être rédigées sur des feuilles à entête paraphées séance tenante par un des
 membres de la section de la commission d’examen visée à l’article 38 ci-dessus. L’usage de toute autre feuille, même pour la
 préparation, est interdit.
-\4. Au début de chaque épreuve, le texte des sujets ou questions est remis aux candidats. Le questionnaire doit mentionner
+4\. Au début de chaque épreuve, le texte des sujets ou questions est remis aux candidats. Le questionnaire doit mentionner
 le temps dont le candidat dispose pour y répondre et le nombre de points attribués aux différentes questions.
 A la fin de chaque épreuve, le candidat doit remettre toutes les feuilles qui lui ont été distribuées. Le secrétaire de la commission d’examen est responsable de la transmission des copies aux différents correcteurs.
 Art. 43.
-\1. Durant les épreuves finales, les candidats sont constamment surveillés par un membre au moins de la section concernée
+1\. Durant les épreuves finales, les candidats sont constamment surveillés par un membre au moins de la section concernée
 de la commission d’examen.
-\2. Pendant les épreuves, il est défendu aux candidats de communiquer entre eux ou avec l’extérieur, de se servir de cahiers,
+2\. Pendant les épreuves, il est défendu aux candidats de communiquer entre eux ou avec l’extérieur, de se servir de cahiers,
 notes, livres, instruments de travail autres que ceux dont l’utilisation aura été préalablement autorisée par le président de la
 commission d’examen.
-\3. En cas de contravention lors des épreuves de la première session, le candidat est exclu du restant des épreuves. Il est
+3\. En cas de contravention lors des épreuves de la première session, le candidat est exclu du restant des épreuves. Il est
 renvoyé aux épreuves de la deuxième session pour la totalité de l’examen, à l’exception des épreuves où les notes déjà obtenues sont insuffisantes. La note dans la branche dans laquelle la fraude a été commise est fixée à 0 points. Si le résultat des
 épreuves déjà subies entraîne le refus du candidat, cette décision est prise et communiquée au candidat.
-\4. Les dispositions des paragraphes 2 et 3 du présent article seront rappelées aux candidats au début de chaque séance
+4\. Les dispositions des paragraphes 2 et 3 du présent article seront rappelées aux candidats au début de chaque séance
 d’examen.
 
 \- 681 -
 
 INSTITUT D’ÉTUDES ÉDUCATIVES ET SOCIALES
 Art. 44.
-\1. Chaque épreuve finale est corrigée par deux examinateurs.
-\2. Le président de la commission d’examen peut réunir les deux examinateurs, afin de leur permettre de se concerter sur
+1\. Chaque épreuve finale est corrigée par deux examinateurs.
+2\. Le président de la commission d’examen peut réunir les deux examinateurs, afin de leur permettre de se concerter sur
 les critères d’appréciation. Toute autre communication entre les examinateurs d’une même branche, en matière d’appréciation
 des copies, est formellement interdite.
 Art. 45.
@@ -40124,19 +40124,19 @@ La partie pratique comprend l’évaluation des deux branches pratique professio
 professionnelle: épreuve à improvisation ainsi que de la branche combinée pratique professionnelle: appréciation du stage de
 spécialisation.
 La branche combinée pratique professionnelle: appréciation du stage de spécialisation comporte les éléments suivants:
-1)
+1\)
 
 stage de spécialisation: dossier de stage,
 
-2)
+2\)
 
 tenue générale du stage de spécialisation,
 
-3)
+3\)
 
 stage de spécialisation: activités de stage,
 
-4)
+4\)
 
 séminaire d’encadrement et d’animation du stage de spécialisation.
 
@@ -40548,15 +40548,15 @@ l’article 47 du présent règlement.
 Art. 29.
 L’examen final a lieu devant une commission d’examen se composant d’un commissaire du Gouvernement comme président, du directeur de l’institut ou de son délégué, de membres effectifs et de membres suppléants, tous nommés par le
 ministre. La commission d’examen comprend les trois sections suivantes:
-1)
+1\)
 
 une section pour l’évaluation des cours théoriques communs et des cours de spécialisation
 
-2)
+2\)
 
 une section pour l’évaluation du mémoire d’intérêt scientifique
 
-3)
+3\)
 
 une section pour l’évaluation de la partie pratique.
 
@@ -40926,7 +40926,7 @@ Pédagogie sociale
 
 2.2.
 
-8.
+8\.
 
 Elaboration d’activités éducatives et sociales
 
@@ -40986,7 +40986,7 @@ Références légales de l’action éducative et sociale au Luxembourg (cours t
 Droit
 6.1.
 
-7.
+7\.
 
 40 heures
 
@@ -41075,9 +41075,9 @@ Les jeunes devant la drogue: aspects psycho-cliniques et psycho-sociaux
 
 2.2.
 
-7.
+7\.
 
-8.
+8\.
 
 cours théorique
 
@@ -41164,7 +41164,7 @@ Références légales de l’action éducative et sociale au Luxembourg (cours t
 Droit
 8.1.
 
-9.
+9\.
 
 Méthodologie et didactique scolaires
 
@@ -41244,7 +41244,7 @@ Exercices pratiques en sciences sociales (cours et travaux pratiques)
 40 heures
 
 Les étudiants choisissent trois cours de 40 heures parmi les options offertes.
-\10. Pédagogie spéciale et sociale appliquée et travail social appliqué
+10\. Pédagogie spéciale et sociale appliquée et travail social appliqué
 10.1. Séminaire d’encadrement et d’animation des stages
 10.2. Pédagogie spéciale et sociale appliquée et travail social appliqué: dossiers de stage
 10.3. Tenue générale des stages
@@ -41256,106 +41256,106 @@ I)
 II)
 
 Formation commune (Cours théoriques communs)
-\1. La déontologie de l’éducateur gradué
+1\. La déontologie de l’éducateur gradué
 
 20 heures
 
-\2. L’organisation et la gestion d’institutions éducatives et sociales: ressources humaines et administration
+2\. L’organisation et la gestion d’institutions éducatives et sociales: ressources humaines et administration
 
 40 heures
 
-\3. Règles générales de l’élaboration du mémoire d’intérêt scientifique
+3\. Règles générales de l’élaboration du mémoire d’intérêt scientifique
 
 40 heures
 
-\4. Techniques d’évaluation du travail éducatif et social
+4\. Techniques d’évaluation du travail éducatif et social
 
 20 heures
 
 Formation de spécialisation (Cours de spécialisation)
 A) Spécialité: Pédagogie spéciale/Travail avec les personnes handicapées
-\1. Psychopédagogie des apprentissages cognitifs chez l’enfant affecté d’un handicap mental
+1\. Psychopédagogie des apprentissages cognitifs chez l’enfant affecté d’un handicap mental
 
 40 heures
 
-\2. Psychopédagogie des apprentissages cognitifs chez l’enfant affecté d’une infirmité motrice cérébrale
+2\. Psychopédagogie des apprentissages cognitifs chez l’enfant affecté d’une infirmité motrice cérébrale
 
 40 heures
 
-\3. L’éducation précoce: dépistage et formes d’intervention orthopédagogique
+3\. L’éducation précoce: dépistage et formes d’intervention orthopédagogique
 
 20 heures
 
-\4. Intégration scolaire d’enfants affectés d’un handicap
+4\. Intégration scolaire d’enfants affectés d’un handicap
 
 20 heures
 
-\5. Méthodologie et didactique des apprentissages scolaires chez l’enfant et l’adolescent affectés
+5\. Méthodologie et didactique des apprentissages scolaires chez l’enfant et l’adolescent affectés
 d’un handicap mental
 
 40 heures
 
-\6. Plans éducatifs individualisés en éducation spécialisée
+6\. Plans éducatifs individualisés en éducation spécialisée
 
 40 heures
 
-\7. Propédeutique et activités professionnelles des personnes affectées d’un handicap
+7\. Propédeutique et activités professionnelles des personnes affectées d’un handicap
 
 20 heures
 
-\8. Prise en charge psychopédagogique de la personne à handicaps multiples
+8\. Prise en charge psychopédagogique de la personne à handicaps multiples
 
 40 heures
 
-\9. L’atelier occupationnel et créatif dans le travail avec les adolescents et adultes affectés
+9\. L’atelier occupationnel et créatif dans le travail avec les adolescents et adultes affectés
 d’un handicap mental
 
 20 heures
 
-\10. Références légales des mesures en faveur des personnes affectées d’un handicap
+10\. Références légales des mesures en faveur des personnes affectées d’un handicap
 
 20 heures
 
 Les étudiants sont tenus de passer avec succès des cours de spécialisation de ce domaine d’études d’un volume global de
 200 heures de formation.
 B) Spécialité: Éducation en institution
-\1. Approches psychopédagogiques de l’enfance dans les crèches et foyers de jour
+1\. Approches psychopédagogiques de l’enfance dans les crèches et foyers de jour
 
 40 heures
 
-\2. Activités ludiques en foyer de jour
+2\. Activités ludiques en foyer de jour
 
 20 heures
 
-\3. Aspects psychodynamiques du fonctionnement d’un groupe de vie
+3\. Aspects psychodynamiques du fonctionnement d’un groupe de vie
 
 40 heures
 
-\4. Méthodes de la planification éducative
+4\. Méthodes de la planification éducative
 
 20 heures
 
-\5. Eléments psychothérapeutiques dans le travail éducatif et social
+5\. Eléments psychothérapeutiques dans le travail éducatif et social
 
 40 heures
 
-\6. L’entretien non directif dans le travail éducatif et social avec des jeunes
+6\. L’entretien non directif dans le travail éducatif et social avec des jeunes
 
 40 heures
 
-\7. Pédagogie des inadaptations sociales et troubles du comportement chez l’enfant
+7\. Pédagogie des inadaptations sociales et troubles du comportement chez l’enfant
 
 40 heures
 
-\8. Guidance et suivi social d’adolescents et de jeunes adultes
+8\. Guidance et suivi social d’adolescents et de jeunes adultes
 
 20 heures
 
-\9. Travail socio-éducatif avec les familles d’origine: niveaux et formes de collaboration
+9\. Travail socio-éducatif avec les familles d’origine: niveaux et formes de collaboration
 
 20 heures
 
-\10. La responsabilité institutionnelle et professionnelle résultant de la prise en charge d’un mineur
+10\. La responsabilité institutionnelle et professionnelle résultant de la prise en charge d’un mineur
 
 20 heures
 
@@ -41575,7 +41575,7 @@ Le total des indices est la somme des indices affectés aux différentes branche
 
 La moyenne générale pondérée est le quotient du total général pondéré par le total des indices.
 
-7.
+7\.
 
 Pour le calcul de chaque note finale, de chaque moyenne pondérée de groupe ainsi que de la moyenne générale les
 fractions de point sont arrondies à l’unité supérieure.
@@ -41583,7 +41583,7 @@ Critères de promotion
 1er cycle d’études
 
 Pour ses décisions la conférence applique les critères suivants:
-\1. Admission
+1\. Admission
 L’étudiant est admis au deuxième cycle d’études
 
 s’il a obtenu une note finale suffisante dans chaque branche d’enseignement du premier cycle d’études ou
@@ -41593,7 +41593,7 @@ pondérée de groupe supérieure ou égale à douze points dans chaque groupe d�
 finale insuffisante inférieure ou égale à sept points et s’il a obtenu un total des indices insuffisants inférieur ou égal à
 deux.
 
-\2. Refus
+2\. Refus
 L’étudiant est refusé au premier cycle d’études
 
 s’il a obtenu une moyenne générale pondérée insuffisante
@@ -41606,7 +41606,7 @@ s’il a obtenu un total des indices insuffisants supérieur ou égal à cinq.
 \- 701 -
 
 INSTITUT D’ÉTUDES ÉDUCATIVES ET SOCIALES
-\3. Epreuves d’ajournement
+3\. Epreuves d’ajournement
 L’étudiant est ajourné dans la ou les branches d’enseignement où il a obtenu une note finale insuffisante,
 
 s’il a obtenu une moyenne générale pondérée suffisante
@@ -41624,7 +41624,7 @@ d’enseignement sur lesquelles a porté l’ajournement.
 L’étudiant refusé deux fois au premier cycle d’études du régime de formation en cours d’emploi est écarté des études d’éducateur gradué à l’Institut d’études éducatives et sociales.
 2e cycle d’études
 Pour ses décisions la conférence applique les critères suivants:
-\1. Admission
+1\. Admission
 L’étudiant est admis au troisième cycle d’études
 
 s’il a obtenu une note finale suffisante dans chaque branche d’enseignement du deuxième cycle d’études
@@ -41634,7 +41634,7 @@ s’il a obtenu une moyenne générale pondérée supérieure ou égale à quato
 et s’il a obtenu une moyenne pondérée de groupe supérieure ou égale à douze points dans chaque groupe d’études et
 s’il n’a obtenu aucune note finale insuffisante inférieure ou égale à sept points et s’il a obtenu untotal des indices insuffisants inférieur ou égal à trois.
 
-\2. Refus
+2\. Refus
 L’étudiant est refusé au deuxième cycle d’études
 
 s’il a obtenu une moyenne générale pondérée insuffisante
@@ -41645,7 +41645,7 @@ ou
 
 s’il a obtenu un total des indices insuffisants supérieur ou égal à cinq.
 
-\3. Epreuves d’ajournement
+3\. Epreuves d’ajournement
 L’étudiant est ajourné dans la ou les branches d’enseignement où il a obtenu une note finale insuffisante,
 
 s’il a obtenu une moyenne générale pondérée suffisante
@@ -41750,7 +41750,7 @@ Art. 4. Commission consultative.
 
 Il est créé une Commission consultative ayant pour mission de conseiller le ministre de l’Éducation nationale et les établissements organisateurs dans toutes les questions relatives aux formations en question.
 
-\2. La commission consultative a pour mission notamment:
+2\. La commission consultative a pour mission notamment:
 de formuler les principes généraux déterminant l’organisation et le développement des formations sanctionnées par le brevet de technicien supérieur;
 
 d’aviser les programmes d’études;
@@ -42166,10 +42166,10 @@ Nul ne pourra présenter à l’homologation un diplôme final d’enseignement 
 diplôme de fin d’études secondaires, d’un diplôme de fin d’études secondaires techniques, d’un diplôme de technicien approprié conformément aux dispositions de l’article 20 de la loi modifiée du 4 septembre 1990 portant réforme de l’enseignement
 secondaire technique et de la formation professionnelle continue, luxembourgeois ou étranger reconnu équivalent selon la
 réglementation en vigueur.
-\1. La demande en homologation est introduite par requête adressée au ministre ayant l’Enseignement supérieur dans ses
+1\. La demande en homologation est introduite par requête adressée au ministre ayant l’Enseignement supérieur dans ses
 attributions. La demande, rédigée en langue luxembourgeoise, française ou allemande, énoncera les nom et prénom ainsi que
 les qualités du postulant et contiendra élection de domicile au Luxembourg, si le postulant n’y a ni domicile, ni résidence fixe.
-\2. Toute demande en homologation doit être accompagnée des pièces suivantes:
+2\. Toute demande en homologation doit être accompagnée des pièces suivantes:
 
 l’acte de naissance du postulant ou pièce d’identité;
 
@@ -42197,7 +42197,7 @@ g)
 
 un curriculum vitae précis et sincère.
 
-\3. Au cas où les pièces mentionnées ci-dessus sont rédigées dans une autre langue que celles prévues au point 1) du
+3\. Au cas où les pièces mentionnées ci-dessus sont rédigées dans une autre langue que celles prévues au point 1) du
 présent article, le postulant doit présenter une traduction desdites pièces effectuées par un traducteur figurant sur la liste des
 experts assermentés en vertu de la loi du 7 juillet 1971 portant, en matière répressive et administrative, institution d’experts, de
 traducteurs et d’interprètes assermentés.
@@ -42205,7 +42205,7 @@ traducteurs et d’interprètes assermentés.
 \- 715 -
 
 PROTECTION ET HOMOLOGATION DES TITRES
-\4. Les pièces visées sous a) – f) doivent être produites sous forme d’une copie certifiée conforme à l’original. Toutefois, le
+4\. Les pièces visées sous a) – f) doivent être produites sous forme d’une copie certifiée conforme à l’original. Toutefois, le
 ministre ayant l’Enseignement supérieur dans ses attributions ou la commission d’homologation, s’ils le jugent nécessaire,
 pourront exiger la production de l’original.
 Le diplôme final étranger en droit présenté à l’homologation doit, sans dérogation possible, conférer un grade d’enseignement juridique supérieur reconnu par le pays d’origine ou y donner accès à la profession d’avocat ou au stage préparatoire à
@@ -42713,9 +42713,9 @@ novembre 1996, p. 2262)
 
 RECONNAISSANCE DES DIPLÔMES D’ENSEIGNEMENT SUPÉRIEUR DANS L’UNION EUROPÉENNE
 Loi du 28 octobre 2016
-\1. relative à la reconnaissance des qualifications professionnelles;
-\2. portant création d’un registre des titres professionnels et d’un registre des titres de formation;
-\3. modifiant
+1\. relative à la reconnaissance des qualifications professionnelles;
+2\. portant création d’un registre des titres professionnels et d’un registre des titres de formation;
+3\. modifiant
 a) la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de
 médecin-vétérinaire,
 b) la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien,
@@ -45546,7 +45546,7 @@ professions libérales est modifiée comme suit:
 
 L’article 15 est remplacé comme suit:
 «Art. 15. La qualification professionnelle requise pour accéder à la profession d’architecte résulte:
-\1. de la possession d’un grade ou diplôme d’architecte délivré par un établissement d’enseignement supérieur reconnu
+1\. de la possession d’un grade ou diplôme d’architecte délivré par un établissement d’enseignement supérieur reconnu
 au Grand-Duché de Luxembourg et sanctionnant l’accomplissement avec succès d’une formation d’architecte
 a) d’au moins cinq années d’études à temps plein, sanctionnée par la réussite à un examen de niveau universitaire;
 ou
@@ -45555,7 +45555,7 @@ ou
 RECONNAISSANCE DES DIPLÔMES D’ENSEIGNEMENT SUPÉRIEUR DANS L’UNION EUROPÉENNE
 b) d’au moins quatre années d’études à temps plein, sanctionnée par la réussite à un examen de niveau universitaire
 et par un certificat attestant l’accomplissement d’au moins deux années de stage professionnel; ou
-\2. d’un titre de formation d’architecte reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la
+2\. d’un titre de formation d’architecte reconnu conformément aux dispositions de la loi du 28 octobre 2016 relative à la
 reconnaissance des qualifications professionnelles.
 Le stage professionnel visé au point 1, b), se déroule uniquement après l’accomplissement des trois premières années
 d’études. Au moins une année du stage professionnel contribue à développer les connaissances, aptitudes et compétences acquises au cours de l’enseignement. Pour ce faire, le stage professionnel est effectué sous la surveillance d’une
@@ -45625,12 +45625,12 @@ par le ministre, sur avis du conseil, au requérant à condition qu’il:
 \- 767 -
 
 RECONNAISSANCE DES DIPLÔMES D’ENSEIGNEMENT SUPÉRIEUR DANS L’UNION EUROPÉENNE
-\1) soit détenteur d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre,
+1\) soit détenteur d’un master en psychologie clinique ou d’un diplôme en psychologie reconnu équivalent par le ministre,
 sur avis du Conseil scientifique de psychothérapie, inscrit au registre de formation visé à l’article 66 de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles, soit d’un des titres de formation de médecin
 avec formation médicale de base dont question à l’article 1er, paragraphe 1er, point b) de la loi modifiée du 29 avril 1983
 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire; ou d’un autre titre,
 certificat ou diplôme reconnu équivalent par le ministre sur avis du Collège médical;
-\2) puisse soit faire état d’une formation spécifique et continue en psychothérapie d’au moins 450 heures, soit justifier
+2\) puisse soit faire état d’une formation spécifique et continue en psychothérapie d’au moins 450 heures, soit justifier
 d’une pratique de psychothérapie d’au moins cinq années reconnue par le Collège médical.»
 
 Chapitre 2 – Dispositions finales
@@ -45642,11 +45642,11 @@ Sont abrogées les lois suivantes:
 
 la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres de l’enseignement supérieur;
 la loi modifiée du 19 juin 2009
-\1) ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est
+1\) ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est
 a) du régime général de reconnaissance des titres de formation et des qualifications professionnelles
 b) de la prestation temporaire de service
-\2) modifiant la loi du 17 juin 1963 ayant pour objet de protéger les titres de l’enseignement supérieur
-\3) abrogeant la loi du 13 juin 1992 portant
+2\) modifiant la loi du 17 juin 1963 ayant pour objet de protéger les titres de l’enseignement supérieur
+3\) abrogeant la loi du 13 juin 1992 portant
 a) transposition de la directive du Conseil (89/48/CEE) relative à un système général de reconnaissance des diplômes d’enseignement supérieur qui sanctionnent des formations professionnelles d’une durée minimale de trois
 ans
 b) création d’un service de coordination pour la reconnaissance de diplômes à des fins professionnelles;
@@ -46026,16 +46026,16 @@ une aide financière. »
 
 L’article 2 est remplacé par les dispositions suivantes :
 « Art. 2. Le candidat qui se propose de poursuivre une formation de spécialisation en médecine à l’étranger peut bénéficier de l’aide financière de l’État à condition :
-\1) d’être ressortissant luxembourgeois ou membre de famille d’un ressortissant luxembourgeois et être domicilié au
+1\) d’être ressortissant luxembourgeois ou membre de famille d’un ressortissant luxembourgeois et être domicilié au
 Grand-Duché de Luxembourg, ou
-\2) d’être ressortissant d’un autre État membre de l’Union européenne ou d’un des autres États parties à l’Accord sur
+2\) d’être ressortissant d’un autre État membre de l’Union européenne ou d’un des autres États parties à l’Accord sur
 l’espace économique européen et de la Confédération suisse et séjourner, conformément au chapitre 2 de la loi
 modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, au Grand-Duché de Luxembourg en
 qualité de travailleur salarié, de travailleur non salarié, de personne qui garde ce statut ou de membre de famille de
 l’une des catégories de personnes qui précèdent, ou avoir acquis le droit de séjour permanent, ou
-\3) de jouir du statut du réfugié politique au sens de l’article 23 de la convention relative au statut de réfugié politique faite
+3\) de jouir du statut du réfugié politique au sens de l’article 23 de la convention relative au statut de réfugié politique faite
 à Genève le 28 juillet 1951 et être domicilié au Grand-Duché de Luxembourg, ou
-\4) d’être ressortissant d’un État tiers ou être apatride au sens de l’article 23 de la Convention relative au statut des
+4\) d’être ressortissant d’un État tiers ou être apatride au sens de l’article 23 de la Convention relative au statut des
 apatrides faite à New York le 28 septembre 1954, être domicilié au Grand-Duché de Luxembourg et y avoir résidé
 effectivement pendant 5 ans au moins ou avoir obtenu le statut de résident de longue durée avant la présentation de
 la première demande
@@ -46043,7 +46043,7 @@ la première demande
 \- 774 -
 
 RECONNAISSANCE DES DIPLÔMES D’ENSEIGNEMENT SUPÉRIEUR DANS L’UNION EUROPÉENNE
-\5) pour les étudiants non-résidents au Grand-Duché de Luxembourg:
+5\) pour les étudiants non-résidents au Grand-Duché de Luxembourg:
 a) d’être un travailleur ressortissant luxembourgeois ou ressortissant de l’Union européenne ou d’un autre État partie
 à l’Accord sur l’espace économique européen ou de la Confédération suisse employé ou exerçant son activité au
 Grand-Duché de Luxembourg au moment de sa demande pour l’aide financière;
@@ -46266,13 +46266,13 @@ En cas de renouvellement l’intéressé doit fournir également les information
 des services au Luxembourg.
 Art. 12quater. Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie
 par les documents, la déclaration doit être accompagnée des documents suivants:
-\1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 21
+1\. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 21
 de la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien ;
-\2. une attestation certifiant que le détenteur est légalement établi dans cet État pour y exercer les activités de pharmacien et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
-\3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause ;
-\4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la
+2\. une attestation certifiant que le détenteur est légalement établi dans cet État pour y exercer les activités de pharmacien et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
+3\. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause ;
+4\. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la
 profession ;
-\5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+5\. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois
 lors de sa production.
 Art. 12quinquies. Le pharmacien prestataire de services exerce sa prestation avec les mêmes droits et les mêmes obligations que les professionnels établis au Luxembourg.
@@ -46291,15 +46291,15 @@ La copie de cette déclaration transmise par le ministre au Conseil Supérieur d
 La copie de la déclaration est transmise aux organismes de sécurité sociale.
 Art. 12septies. Lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie
 par les documents, la déclaration doit être accompagnée des documents suivants:
-\1. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 9
+1\. une copie d’une pièce d’identité et, le cas échéant, un document attestant le bénéfice des dispositions de l’article 9
 de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ;
-\2. une attestation certifiant que le professionnel de santé est légalement établi dans cet État pour y exercer ses activités
+2\. une attestation certifiant que le professionnel de santé est légalement établi dans cet État pour y exercer ses activités
 professionnelles et qu’il n’encourt, lorsque l’attestation est délivrée, aucune interdiction même temporaire d’exercer ;
-\3. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause reconnu conformément
+3\. une copie du diplôme, certificat ou autre titre requis pour la prestation de services en cause reconnu conformément
 aux dispositions de la loi du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles ;
-\4. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la
+4\. une copie de la couverture d’assurance concernant la responsabilité professionnelle découlant de l’exercice de la
 profession ;
-\5. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
+5\. tous éléments de nature à établir que le demandeur possède les connaissances linguistiques nécessaires à l’exercice de sa profession.
 En cas de renouvellement de la prestation de services et lorsque cette dernière remonte à plus de douze mois, le document visé au point 2. du présent article doit être produit sur demande du ministre et ne peut dater de plus de trois mois
 lors de sa production.
 Art. 12octies. Le professionnel de santé prestataire de services exerce sa prestation avec les mêmes droits et les
@@ -46373,9 +46373,9 @@ Règlement grand-ducal du 27 septembre 2002 fixant les conditions de nomination 
 moyenne du rédacteur et inférieure de l’expéditionnaire administratif ainsi que les modalités d’un examen de
 promotion dans les mêmes carrières des instituts et services de l’éducation différenciée . . . . . . . . . . . . . . . . .  789
 Règlement grand-ducal du 8 février 2017 portant fixation
-\1. des conditions et modalités pour l’obtention de l’attestation habilitant à faire des remplacements dans les
+1\. des conditions et modalités pour l’obtention de l’attestation habilitant à faire des remplacements dans les
 centres, instituts et services de l’Éducation différenciée;
-\2. des modalités de calcul et d’allocation de l’indemnité de remplacement applicables au personnel du Service de
+2\. des modalités de calcul et d’allocation de l’indemnité de remplacement applicables au personnel du Service de
 l’éducation différenciée effectuant des remplacements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  790
 Loi du 20 juillet 2018 en faveur de l’inclusion scolaire (telle qu’elle a été modifiée)  . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46396,10 +46396,10 @@ Règlement grand-ducal du 14 mars 1984, (Mém. A – 30 du 12 avril 1984, p. 389
 
 Texte coordonné
 
-\1. Le Directeur de l’Éducation Différenciée est le chef du personnel et l’administrateur responsable des instituts et services
+1\. Le Directeur de l’Éducation Différenciée est le chef du personnel et l’administrateur responsable des instituts et services
 créés en vertu de la loi portant création d’instituts et de services d’éducation différenciée, texte qui, dans la suite du présent
 règlement, sera désigné par le terme de «loi».
-\2. Le Directeur de l’Éducation Différenciée doit:
+2\. Le Directeur de l’Éducation Différenciée doit:
 
 organiser et diriger les instituts et services prévus à l’article 2 de la loi. Il organisera de même le transport d’élèves prévu
 à l’article 8 de la loi en collaboration avec le Ministre des Transports;
@@ -46428,17 +46428,17 @@ handicapée.
 
 Après la clôture de l’année scolaire, le directeur adresse un rapport sur le fonctionnement des instituts et services au Ministre
 de l’Éducation Nationale qui en donnera communication aux Ministres de la Famille et de la Santé Publique.
-\3. Le Ministre de l’Éducation Nationale peut déléguer en tout ou en partie les attributions du Directeur de l’Éducation Différenciée à des chefs d’institut ou à des chargés de direction.
-\1. L’effectif du personnel s’établit en fonction du nombre des enfants, du degré de difficulté que leur éducation présente, et du
+3\. Le Ministre de l’Éducation Nationale peut déléguer en tout ou en partie les attributions du Directeur de l’Éducation Différenciée à des chefs d’institut ou à des chargés de direction.
+1\. L’effectif du personnel s’établit en fonction du nombre des enfants, du degré de difficulté que leur éducation présente, et du
 caractère spécifique de leur handicap, ainsi que des différenciations que les tâches du personnel peuvent comporter.
-\2. Les attributions des membres du personnel seront déterminées par règlement ministériel.
-\1. Sans préjudice de l’application des dispositions générales de la loi modifiée du 8 mai 1872 sur les droits et devoirs des
+2\. Les attributions des membres du personnel seront déterminées par règlement ministériel.
+1\. Sans préjudice de l’application des dispositions générales de la loi modifiée du 8 mai 1872 sur les droits et devoirs des
 fonctionnaires de l’État, les candidats aux fonctions désignés ci-après doivent remplir les conditions d’études prévues par la loi.
 En outre, ils doivent être âgés de dix-huit ans au moins et de trente ans au plus.
 Sur proposition du Directeur de l’Éducation Différenciée et après consultation du Ministre de la Fonction Publique, le Ministre
 de l’Éducation Nationale pourra faire une exception à cette dernière disposition en cas qu’une fonction spécialisée ne puisse
 être remplie que par un candidat ayant plus de trente ans d’âge.
-\2. Les candidats doivent produire les pièces suivantes:
+2\. Les candidats doivent produire les pièces suivantes:
 
 un extrait de l’acte de naissance,
 
@@ -46454,7 +46454,7 @@ un certificat de moralité établi par le bourgmestre de leur résidence,
 un extrait récent du casier judiciaire.
 
 I. Conditions générales d’admission et de nomination du personnel
-\1. Sauf concordance avec l’exception prévue à l’alinéa 2 de l’article 3 en ce qui concerne la limite d’âge pour l’admission au
+1\. Sauf concordance avec l’exception prévue à l’alinéa 2 de l’article 3 en ce qui concerne la limite d’âge pour l’admission au
 stage, nul ne peut obtenir une nomination définitive
 
 s’il est âgé de plus de trente-cinq ans,
@@ -46467,7 +46467,7 @@ d)
 
 s’il n’a pas passé avec succès l’examen d’admission définitive pour sa fonction.
 
-\2. Ces dispositions sub a), b) et d) ci-dessus ne s’appliquent pas aux fonctions
+2\. Ces dispositions sub a), b) et d) ci-dessus ne s’appliquent pas aux fonctions
 
 de directeur, s’il est professeur de l’enseignement secondaire et supérieur;
 
@@ -46480,7 +46480,7 @@ d’instituteur de l’éducation préscolaire;
 de maîtresse de jardin d’enfants.
 II. Carrière du directeur
 
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Le candidat doit, pour être admis au stage, remplir les conditions fixées à l’article 19 de la loi sub II, 1. Il peut être fait exception à la condition d’âge fixée plus haut.
 Le candidat qui est psychologue diplômé universitaire ou détenteur d’un diplôme universitaire en sciences pédagogiques
 spécialisées dans le domaine de l’enfance handicapée, est tenu d’accomplir un stage dont la durée est de deux ans et qui peut
@@ -46489,20 +46489,20 @@ Sur proposition du Ministre de l’Éducation Nationale, après avis du Ministre
 être abrégée par décision du Ministre d’État,
 
 jusqu’à la durée d’un an
-\1) pour les candidats qui en plus des certificats et diplômes déterminés à l’article 19 de la loi sub II, 1, ont acquis un
+1\) pour les candidats qui en plus des certificats et diplômes déterminés à l’article 19 de la loi sub II, 1, ont acquis un
 diplôme universitaire plus particulièrement en rapport avec les problèmes de l’enfance mentalement, sensoriellement
 ou caractériellement handicapée;
-\2) pour les candidats qui ont déjà acquis une formation pratique dans le domaine de l’enfance handicapée, correspondant à leur formation universitaire, exercée à plein temps pendant trois ans;
+2\) pour les candidats qui ont déjà acquis une formation pratique dans le domaine de l’enfance handicapée, correspondant à leur formation universitaire, exercée à plein temps pendant trois ans;
 
 jusqu’à une durée de trois mois pour les candidats ayant acquis une formation pratique dans le domaine de l’enfance
 handicapée par une activité professionnelle correspondant à leur formation universitaire, exercée à plein temps pendant
 les dix années précédant leur admission au service public.
 
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de directeur de l’éducation différenciée, et sous le bénéfice de l’alinéa 2 de l’article 4
 ci-dessus, le candidat doit passer avec succès l’examen prévu à l’article 5.
 III. Carrière du psychologue
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées à l’article 19 de la loi sub II, 2. Il peut être fait exception
 à la condition d’âge fixée plus haut.
 Les psychologues sont tenus d’accomplir un stage dont la durée est de deux ans et qui peut être accompli partiellement dans
@@ -46511,10 +46511,10 @@ Sur proposition du Ministre de l’Éducation Nationale, après avis du Ministre
 être abrégée par décision du Ministre d’État,
 
 jusqu’à la durée d’un an
-\1) pour les candidats qui en plus des certificats et diplômes déterminés à l’article 19 de la loi sub II, 2, ont acquis un
+1\) pour les candidats qui en plus des certificats et diplômes déterminés à l’article 19 de la loi sub II, 2, ont acquis un
 diplôme universitaire plus particulièrement en rapport avec les problèmes de l’enfance mentalement, sensoriellement
 ou caractériellement handicapées;
-\2) pour les candidats qui ont déjà acquis une formation pratique dans le domaine de l’enfance handicapée, correspondant à leur formation universitaire, exercée à plein temps pendant trois ans;
+2\) pour les candidats qui ont déjà acquis une formation pratique dans le domaine de l’enfance handicapée, correspondant à leur formation universitaire, exercée à plein temps pendant trois ans;
 
 \- 783 -
 
@@ -46524,10 +46524,10 @@ jusqu’à une durée de trois mois pour les candidats ayant acquis une formatio
 handicapée par une activité professionnelle correspondant à leur formation universitaire, exercée à plein temps pendant
 les dix années précédant leur admission au service public.
 
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de psychologue, le candidat doit avoir passé avec succès l’examen prévu à l’article 5.
 IV. Carrière du chef d’institut
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Le candidat doit, pour être admis au stage, remplir les conditions fixées à l’article 19 de la loi sub II, 3. Il peut être fait exception à la condition d’âge fixée plus haut.
 Les chefs d’instituts sont tenus d’accomplir un stage dont la durée est fixée à deux ans et qui peut être accompli partiellement dans un service public à un titre autre que celui de chef d’institut.
 Sur proposition du Ministre de l’Éducation Nationale, après avis du Ministre de la Fonction Publique, la durée du stage
@@ -46535,17 +46535,17 @@ peut être abrégée par décision du Ministre d’État jusqu’à la durée d�
 universitaires remplissant les conditions de l’article 19 de la loi sub II, 2, ou qui sont détenteurs d’un diplôme universitaire en
 sciences pédagogiques spécialisées, remplissant les conditions de l’article 19 de la loi sub II, 1, ou encore qui sont détenteurs
 du certificat d’aptitude aux fonctions d’inspecteur de l’enseignement primaire.
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de chef d’institut, le candidat doit avoir passé avec succès l’examen prévu à l’article 5.
 V. Carrière de l’éducateur gradué
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage d’éducateur, le candidat doit remplir les conditions fixées à l’article 19 de la loi sub II, 6.
 Il doit avoir subi un examen d’admission au stage portant sur des notions élémentaires du droit public, administratif et scolaire ainsi que sur un texte présenté soit en français soit en allemand et ayant trait à l’expérience professionnelle du candidat.
 Il peut être fait exception à la condition d’âge fixée plus haut. La durée du stage est fixée à deux ans. Le candidat qui peut se
 prévaloir d’une pratique professionnelle soit dans le secteur public soit dans le secteur privé, pourra obtenir une réduction de
 stage par le Ministre de l’Éducation Nationale sur proposition du Directeur de l’Éducation Différenciée et sur avis du Ministre de
 la Fonction Publique sans que, toutefois, la durée du stage puisse être inférieure à un an.
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction d’éducateur, le candidat doit avoir passé avec succès l’examen prévu à l’article 5.
 VI. Carrières de l’instituteur d’enseignement spécial, de l’instituteur primaire, de l’instituteur de l’éducation préscolaire
 et de la maîtresse de jardin d’enfants
@@ -46563,7 +46563,7 @@ d’un examen postérieur à cette expérience professionnelle et portant sur le
 – pratique professionnelle.
 VII. Carrière de l’éducateur-instructeur
 
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage d’éducateur-instructeur, le candidat doit remplir les conditions fixées à l’article 20 de la loi sub I, 1
 et II, 1.
 Il doit avoir subi un examen d’admission au stage portant sur des notions élémentaires du droit public, administratif et scolaire ainsi que sur un texte présenté soit en français soit en allemand et ayant trait à l’expérience professionnelle du candidat.
@@ -46575,7 +46575,7 @@ de la Fonction Publique sans que, toutefois, la durée du stage puisse être inf
 \- 784 -
 
 ÉLÈVES À BESOINS ÉDUCATIFS SPÉCIFIQUES
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction d’éducateur-instructeur, le candidat doit avoir passé avec succès l’examen prévu à
 l’article 5.
 (Règlement grand-ducal du 14 mars 1984)
@@ -46602,23 +46602,23 @@ avant l’examen.
 Le Ministre de l’Éducation Nationale peut subordonner l’admission à l’examen de promotion à la fréquentation de cours ou
 de stages pratiques de formation s’étendant sur une année au moins.»
 VIII. Carrière de l’assistant d’hygiène sociale ou de l’assistant social
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage, le candidat doit remplir les conditions fixées à l’article 19 de la loi sub II, 7. Il doit avoir subi un
 examen d’admission au stage portant sur des notions élémentaires du droit public, administratif et scolaire, ainsi que sur la
 législation sociale et sanitaire en vigueur au Grand-Duché de Luxembourg, comme aussi sur un texte présenté soit en français
 soit en allemand ayant trait à l’expérience professionnelle du candidat.
 Il peut être fait exception à la condition d’âge fixée plus haut. La durée du stage est fixée à deux ans.
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction d’assistant d’hygiène sociale ou d’assistant social, le candidat doit avoir passé avec
 succès l’examen prévu à l’article 5.
 IX. Carrière de l’infirmier
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage d’infirmier, le candidat doit remplir les conditions fixées à l’article 19 de la loi sub II, 10.
 Il doit avoir subi un examen d’admission au stage portant sur des notions élémentaires du droit public, administratif et scolaire ainsi que sur un texte présenté soit en français soit en allemand et ayant trait à l’expérience professionnelle du candidat.
 La durée du stage est fixée à deux ans.
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction d’infirmier, le candidat doit avoir passé avec succès l’examen prévu à l’article 5.
-\3. Examen de promotion
+3\. Examen de promotion
 Il est prévu un examen de promotion auquel sont admissibles les candidats ayant trois ans de grade, et qui portera sur les
 matières suivantes:
 
@@ -46632,16 +46632,16 @@ pratique professionnelle
 
 ÉLÈVES À BESOINS ÉDUCATIFS SPÉCIFIQUES
 X. Carrière de l’educateur d’éducation différenciée
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Les candidats doivent remplir les conditions fixées à l’article 19 de la loi sub II, 9.
 La durée du stage est fixée à deux ans.
 (Règlement grand-ducal du 25 octobre 1977)
 «Le candidat qui peut se prévaloir d’une pratique professionnelle soit dans le secteur public soit dans le secteur privé, pourra
 obtenir une réduction de stage par le Ministre de l’Éducation Nationale sur proposition du Directeur de l’Éducation Différenciée
 et sur avis du Ministre de la Fonction Publique sans que, toutefois, la durée du stage puisse être inférieure à un an.»
-\2. Conditions de nomination
+2\. Conditions de nomination
 Pour pouvoir être nommé à la fonction de moniteur d’éducation différenciée le candidat doit avoir passé avec succès l’examen prévu à l’article 5.
-\3. Examen de promotion
+3\. Examen de promotion
 Il est prévu un examen de promotion qui portera sur les matières suivantes:
 
 psychologie de l’enfant mentalement, sensoriellement ou caractériellement handicapé
@@ -46657,7 +46657,7 @@ XI. Carrière du secrétaire
 
 Conditions d’admission et de nomination
 Le secrétaire doit être porteur du certificat de fin d’études secondaires et il doit pouvoir justifier d’un stage pratique professionnel d’au moins trois ans soit dans une entreprise commerciale ou industrielle, soit dans un établissement public.
-\1. Le programme de l’examen d’admission définitive, examen qui a lieu une fois par an en cas qu’un ou plusieurs candidats
+1\. Le programme de l’examen d’admission définitive, examen qui a lieu une fois par an en cas qu’un ou plusieurs candidats
 se présentent, porte, pour tous les candidats, sur les matières suivantes:
 
 notions générales de la législation scolaire et des textes réglementaires qui y sont relatifs,
@@ -46666,20 +46666,20 @@ notions générales sur les droits et devoirs des fonctionnaires de l’État,
 
 techniques professionnelles.
 
-\2. Par ailleurs, chaque candidat est examiné sur un sujet de son choix, qui doit être en rapport étroit avec la fonction qu’il est
+2\. Par ailleurs, chaque candidat est examiné sur un sujet de son choix, qui doit être en rapport étroit avec la fonction qu’il est
 appelé à exercer en cas d’admission, et d’être agréé au préalable par le Ministre de l’Éducation Nationale.
 Toutes les branches des examens prévus aux articles 4 et 5 sont cotées de 0 à 60 points.
-\1. Les examens prévus aux articles 4 et 5 du présent règlement auront lieu devant une commission de cinq membres nommés par le Ministre de l’Éducation Nationale. L’arrêté de nomination désigne le président de la commission.
+1\. Les examens prévus aux articles 4 et 5 du présent règlement auront lieu devant une commission de cinq membres nommés par le Ministre de l’Éducation Nationale. L’arrêté de nomination désigne le président de la commission.
 Pour l’examen prévu à l’article 5, le chef d’institut, le chargé de direction ou tel autre représentant de l’institut ou du centre
 impliqué fera partie de la commission.
 Nul ne peut être membre de la commission pour un examen auquel participe un parent ou allié jusqu’au quatrième degré
 inclusivement.
 La commission statue sur l’admissibilité des candidats.
-\2. Le président réunit la commission au préalable pour régler en détail l’organisation des examens.
+2\. Le président réunit la commission au préalable pour régler en détail l’organisation des examens.
 A la suite de cette réunion préliminaire, chaque examinateur présente au choix du président, sous pli fermé et dans un délai
 antérieurement fixé, un sujet ou une série de questions pour l’épreuve qu’il est appelé à apprécier.
 Le secret relatif aux questions ou sujets présentés doit être observé.
-\3. Les sujets ou questions des épreuves sont choisis par le président parmi les sujets ou questions qui lui ont été soumis; ces
+3\. Les sujets ou questions des épreuves sont choisis par le président parmi les sujets ou questions qui lui ont été soumis; ces
 sujets ou questions sont gardés sous pli cacheté, séparément pour chaque épreuve. Les plis ne sont ouverts qu’en présence
 des candidats et au moment même où les sujets ou questions sont communiqués aux candidats.
 Les réponses des candidats aux épreuves écrites doivent être rédigées sur des feuilles estampillées, paraphées par le président ou un membre de la commission.
@@ -46687,32 +46687,32 @@ Les réponses des candidats aux épreuves écrites doivent être rédigées sur 
 \- 786 -
 
 ÉLÈVES À BESOINS ÉDUCATIFS SPÉCIFIQUES
-\4. Durant les épreuves les candidats sont constamment surveillés.
+4\. Durant les épreuves les candidats sont constamment surveillés.
 Les candidats ne peuvent, sous peine d’exclusion, avoir aucune communication ni entre eux ni avec le dehors. Il leur est
 interdit d’apporter aucun cahier, aucune note, aucun livre autre que ceux dont l’usage a été préalablement autorisé.
 En cas de contravention, le président décide du renvoi du candidat. Dès l’ouverture de l’examen, les candidats sont prévenus
 des suites que toute fraude comportera.
-\5. Le président de la commission remet les copies à apprécier aux examinateurs.
+5\. Le président de la commission remet les copies à apprécier aux examinateurs.
 L’appréciation des copies et des travaux pratiques se traduit par des notes conformément aux échelles fixées par l’article 6
 ci-dessus.
 Les notes sont communiquées au président de la commission. La commission d’examen classe les candidats dans l’ordre de
 leurs résultats aux épreuves. Elle décide de l’ajournement ou de l’élimination des candidats suivant les dispositions de l’article
 8 ci-dessous.
 Les décisions de la commission sont sans recours.
-\6. Le procès-verbal que la commission transmet au ministre renseigne, outre le classement des candidats, les résultats que
+6\. Le procès-verbal que la commission transmet au ministre renseigne, outre le classement des candidats, les résultats que
 chacun d’eux a obtenu aux différentes épreuves. Le ministre informe chaque candidat de ses classement et résultats obtenus
 à l’examen.
-\1. Les examens d’admission au stage auront le caractère d’un examen-concours et la commission d’examen classe les
+1\. Les examens d’admission au stage auront le caractère d’un examen-concours et la commission d’examen classe les
 candidats dans l’ordre de leurs résultats aux épreuves. L’examen-concours est éliminatoire pour les candidats qui, de par leur
 classement, ne rentrent plus dans le contingent fixé au préalable par le Ministre de l’Éducation Nationale. L’examen-concours
 est en outre éliminatoire pour tous les candidats qui n’ont pas obtenu les trois cinquièmes de l’ensemble des points et la moitié
 des points dans chaque branche.
-\2. Les examens d’admission définitive et les examens de promotion sont éliminatoires pour les candidats qui ont obtenu
+2\. Les examens d’admission définitive et les examens de promotion sont éliminatoires pour les candidats qui ont obtenu
 moins des trois cinquièmes du maximum total des points.
 Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des
 points dans l’une ou l’autre branche, subissent un examen oral ou par écrit supplémentaire dans cette branche, lequel décide
 de leur admission, sans que le classement soit modifié.
-\3. a) En cas d’insuccès aux examens d’admission définitive, la durée du stage peut être prolongée d’une année à l’expiration de laquelle le candidat devra se présenter une nouvelle fois à l’examen. Un nouvel échec entraîne l’élimination
+3\. a) En cas d’insuccès aux examens d’admission définitive, la durée du stage peut être prolongée d’une année à l’expiration de laquelle le candidat devra se présenter une nouvelle fois à l’examen. Un nouvel échec entraîne l’élimination
 définitive du candidat.
 b) En cas d’insuccès à l’examen de promotion, le candidat pourra se présenter une deuxième fois à cet examen après
 l’expiration d’un délai d’une année. Un second échec entraînera l’élimination définitive du candidat de cet examen.
@@ -46738,14 +46738,14 @@ soient prises.
 Le ministre peut, à la demande des parents ou de la personne investie de l’autorité parentale et après avoir entendu la commission médico-psycho-pédagogique nationale en son avis, dispenser un enfant, pour des motifs graves, de la fréquentation
 scolaire.»
 La loi modifiée du 14 mars 1973 portantcréation d’instituts et de services d’éducation différenciée est ­modifiée comme suit:
-\1. La première phrase de l’article 1er est modifiée et remplacée par le texte suivant:
+1\. La première phrase de l’article 1er est modifiée et remplacée par le texte suivant:
 «L’État veille à ce que tout enfant qui est soumis à l’obligation scolaire et qui en raison de ses particularités mentales, caractérielles, sensorielles ou motrices ne peut suivre l’instruction ordinaire ou spéciale et qui a des besoins éducatifs spéciaux
 reçcoive, soit l’instruction appropriée dans un centre ou institut de l’éducation différenciée, soit l’aide et l’appui individualisés par
 un service de l’éducation différenciée dans le cadre d’une classe de l’éducation préscolaire ou d’une classe de l’enseignement
 primaire.»
-\2. Il est ajouté àla suite de l’article 1er un nouvel article 1bis ayant la teneur suivante:
+2\. Il est ajouté àla suite de l’article 1er un nouvel article 1bis ayant la teneur suivante:
 «Art. 1bis. Les élèves affectés d’un handicap, qui fréquentent un établissement d’enseignement postprimaire ou postsecondaire, peuvent bénéficier des services d’appui et d’assistance de l’éducation différenciée.»
-\3. Le deuxième alinéa de l’article 3 est remplacé par le textesuivant:
+3\. Le deuxième alinéa de l’article 3 est remplacé par le textesuivant:
 «Ils suffisent à cette obligation en fréquentant:
 
 soit un des centres ou instituts créés en vertu de l’article 2 de la présente loi;
@@ -46757,8 +46757,8 @@ de l’appui et de l’assistance des services de l’éducation différenciée;
 
 soit à titre principal, une institution spécialisée de l’éducation différenciée et complémentairement, pour certaines activités, une classe de l’éducation préscolaire ou de l’enseignement primaire ou postprimaire.»
 
-\4. Le deuxième alinéa de l’article 9 est supprimé.
-\5. L’article 10 est abrogé et remplacé par le texte suivant:
+4\. Le deuxième alinéa de l’article 9 est supprimé.
+5\. L’article 10 est abrogé et remplacé par le texte suivant:
 «Art. 10.
 La commission médico-psycho-pédagogique nationale fait examiner l’enfant par des experts. La commission désigne une
 ou plusieurs personnes qualifiées afin d’entendre les parents ou la personne investie de l’autorité parentale sur la scolarisation
@@ -46863,9 +46863,9 @@ Publique et de la Réforme Administrative sont chargés, chacun en ce qui le con
 sera publié au Mémorial.
 
 Règlement grand-ducal du 8 février 2017 portant fixation
-\1. des conditions et modalités pour l’obtention de l’attestation habilitant à faire des remplacements dans les centres,
+1\. des conditions et modalités pour l’obtention de l’attestation habilitant à faire des remplacements dans les centres,
 instituts et services de l’Éducation différenciée;
-\2. des modalités de calcul et d’allocation de l’indemnité de remplacement applicables au personnel du Service de
+2\. des modalités de calcul et d’allocation de l’indemnité de remplacement applicables au personnel du Service de
 l’éducation différenciée effectuant des remplacements.
 (Mém. A – 220 du 27 février 2017)
 
@@ -48255,7 +48255,7 @@ la loi modifiée du 16 août 1968 portant création d’un centre de logopédie 
 
 la loi modifiée du 10 janvier 1989 portant 1. la reprise des Centres et services d’éducation différenciée de certaines
 communes. 2. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
-\3. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométriques et
+3\. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométriques et
 orthophonique. 4. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État.
 
 Chapitre 11 - Dispositions transitoires « et finales »1
@@ -48293,7 +48293,7 @@ Art. 60.
 Les directeurs et directeurs adjoints, les fonctionnaires nommés à la fonction d’inspecteur de l’enseignement fondamental
 avant l’entrée en vigueur de la loi du 29 juin 2017 portant modification 1. de la loi modifiée du 6 février 2009 portant organisation
 de l’enseignement fondamental, 2. de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental,
-\3. de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution
+3\. de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution
 d’un Conseil scientifique, 4. de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de
 certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État, 5. de la loi modifiée
 du 13 juillet 2006 portant réorganisation du centre de psychologie et d’orientation scolaires (CPOS), 6. de la loi du 6 février
@@ -48304,7 +48304,7 @@ de direction, en fonction avant l’entrée en vigueur de la présente loi conse
 Les directeurs et directeurs adjoints, les fonctionnaires nommés à la fonction d’inspecteur de l’enseignement fondamental
 avant l’entrée en vigueur de la loi du 29 juin 2017 portant modification 1. de la loi modifiée du 6 février 2009 portant organisation
 de l’enseignement fondamental, 2. de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental,
-\3. de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution
+3\. de la loi modifiée du 7 octobre 1993 ayant pour objet a) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques ; b) la création d’un « Centre de Gestion Informatique de l’Éducation » ; c) l’institution
 d’un Conseil scientifique, 4. de la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de
 certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État, 5. de la loi modifiée
 du 13 juillet 2006 portant réorganisation du centre de psychologie et d’orientation scolaires (CPOS), 6. de la loi du 6 février
@@ -48494,7 +48494,7 @@ une éducatrice à formation spéciale ou une personne autrement qualifiée et, 
 
 Art. 21.
 I. - Conditions générales d’admission et de nomination du personnel
-\1. Sans préjudice de l’application des dispositions générales de la loi modifiée du 8 mai 1872 sur les droits et devoirs des
+1\. Sans préjudice de l’application des dispositions générales de la loi modifiée du 8 mai 1872 sur les droits et devoirs des
 fonctionnaires de l’État les candidats aux fonctions désignées ci-après doivent remplir les conditions d’études prévues. En outre
 ils doivent être âgés de dix-huit ans au moins et de trente ans au plus. Ils doivent produire les pièces suivantes:
 
@@ -48508,7 +48508,7 @@ un extrait récent du casier judiciaire,
 
 un certificat médical sur formule spéciale.
 
-\2. Nul ne peut obtenir une nomination définitive
+2\. Nul ne peut obtenir une nomination définitive
 
 s’il est âgé de plus de trente-cinq ans,
 
@@ -48538,12 +48538,12 @@ professionnelle, soit dans le secteur public, soit dans le secteur privé pourra
 l’Éducation Nationale sur proposition du directeur du centre et sur avis du Ministre de la Fontion Publique, à condition que le
 stage s’étende au moins sur une année.
 IV. - Carrière du secrétaire
-\1. Conditions d’admission et de nomination
-\1. Le secrétaire doit être porteur du certificat de fin d’études secondaires et il doit pouvoir justifier d’un stage pratique professionnel d’au moins trois ans soit dans une entreprise commerciale ou industrielle, soit dans un établissement public.
-\2. Par dérogation aux dispositions de la section I ci-dessus le candidat à la fonction de secrétaire pourra obtenir une dispense de l’examen d’admission définitive et une réduction du stage par le Ministre de l’Éducation Nationale, sur proposition du
+1\. Conditions d’admission et de nomination
+1\. Le secrétaire doit être porteur du certificat de fin d’études secondaires et il doit pouvoir justifier d’un stage pratique professionnel d’au moins trois ans soit dans une entreprise commerciale ou industrielle, soit dans un établissement public.
+2\. Par dérogation aux dispositions de la section I ci-dessus le candidat à la fonction de secrétaire pourra obtenir une dispense de l’examen d’admission définitive et une réduction du stage par le Ministre de l’Éducation Nationale, sur proposition du
 directeur du centre et sur avis du Ministre de la Fonction Publique, à condition que le stage s’étende au moins sur une année.
 V. - Carrière de l’assistant d’hygiène sociale
-\1. Conditions d’admission au stage
+1\. Conditions d’admission au stage
 Pour être admis au stage d’assistant d’hygiène sociale, le candidat doit remplir les conditions fixées en vertu des articles 1er
 et 5 de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales.
 Il doit avoir subi un examen d’admission au stage portant sur les matières suivantes:
@@ -48558,7 +48558,7 @@ d)
 
 pratique professionnelle.
 
-\2. Examen d’admission définitive
+2\. Examen d’admission définitive
 Pour être nommé aux fonctions d’assistant d’hygiène sociale au centre, le candidat doit avoir passé avec succès l’examen
 portant sur les matières ci-après:
 
@@ -48585,7 +48585,7 @@ g)
 
 technique et pratique professionnelle.
 
-\3. Par dérogation aux dispositions de la section I et de la section V, paragraphe 1 ci-dessus, le candidat à la fonction d’assistant d’hygiène sociale qui peut se prévaloir d’une pratique professionnelle soit dans le secteur public, soit dans le secteur privé,
+3\. Par dérogation aux dispositions de la section I et de la section V, paragraphe 1 ci-dessus, le candidat à la fonction d’assistant d’hygiène sociale qui peut se prévaloir d’une pratique professionnelle soit dans le secteur public, soit dans le secteur privé,
 après l’obtention du diplôme d’assistant d’hygiène sociale de l’État luxembourgeois, peut être dispensé de l’examen d’admission au stage et partiellement du stage par le Ministre de l’Éducation Nationale sur proposition du directeur du centre et sur avis
 conforme du Ministre de la Fonction publique sans que toutefois la durée du stage puisse être inférieure à une année.
 (Règlement grand-ducal du 2 octobre 1987)
@@ -48616,27 +48616,27 @@ avec des enfants atteints de troubles de la parole et de la communication.»
 «VII. - Carrière du professeur d’enseignement logopédique
 Conditions de nomination
 Nul ne peut être nommé professeur d’enseignement logopédique s’il ne remplit les conditions d’études et de formation prévues ci-dessous, sans préjudice des autres conditions fixées par les lois et règlements sur la matière. Il doit
-1)
+1\)
 
 être détenteur du diplôme luxembourgeois de fin d’études secondaires, ou d’un certificat étranger reconnu équivalent
 par la législation et la réglementation luxembourgeoises;
 
-2)
+2\)
 
 avoir fait au centre de logopédie, avant le commencement des études visées sub 3, un stage d’information d’une durée
 de six semaines;
 
-3)
+3\)
 
 avoir suivi à l’étranger, pendant au moins quatre années, des cours théoriques et pratiques, de caractère universitaire,
 concernant l’éducation des déficients sensoriels ou des troublés de la parole, à autoriser par le ministre de l’Éducation
 nationale;
 
-4)
+4\)
 
 avoir obtenu le diplôme sanctionnant les études visées sub 3;
 
-5)
+5\)
 
 avoir fait, au centre de logopédie ou à l’étranger, un stage pratique d’au moins une année, dans lequel pourront être
 insérés des cours de spécialisation supplémentaires. La période de stage à l’étranger doit être accomplie à un institut
@@ -48646,7 +48646,7 @@ autorités scolaires compétentes. L’admission au stage a lieu par décision d
 besoins du service et, le cas échéant, par voie de concours; le programme et les modalités de ce stage seront arrêtés
 par le ministre de l’Éducation nationale;
 
-6)
+6\)
 
 avoir subi avec succès l’examen de fin de stage conférant le titre de professeur d’enseignement logopédique. Cet examen comprend la présentation et la discussion d’une dissertation dont le sujet, préalablement agréé par le ministre de
 l’Éducation nationale, doit porter sur la logopédie, ou sur les troubles sensoriels, ou sur la pédagogie curative, ou sur
@@ -48654,7 +48654,7 @@ l’audiophonologie, ou sur les infirmités motrices cérébrales ou sur la mét
 ainsi que trois leçons pratiques, suivies d’une discussion, à faire devant des enfants déficients auditifs ou troublés de la
 parole ou atteints d’autres troubles;
 
-7)
+7\)
 
 faire preuve, selon les modalités à fixer par règlement ministériel, d’une connaissance suffisante des trois langues
 usuelles du pays (le français, l’allemand et le luxembourgeois).
@@ -48938,28 +48938,28 @@ C E N T R ES R É G IO N AU X
 SOMMAIRE
 
 Loi du 10 janvier 1989 portant
-\1. la reprise des centres et services d’éducation différenciée de certaines communes.
-\2. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
-\3. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique
+1\. la reprise des centres et services d’éducation différenciée de certaines communes.
+2\. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
+3\. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique
 et orthophonique.
-\4. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État (telle qu’elle
+4\. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État (telle qu’elle
 a été modifiée) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  827
 Loi du 9 juin 1989 portant
-\1. la reprise des centres et services d’éducation différenciée de certaines communes.
-\2. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
-\3. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique
+1\. la reprise des centres et services d’éducation différenciée de certaines communes.
+2\. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
+3\. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique
 et orthophonique.
-\4. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État  . . . . . . . . .  835
+4\. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État  . . . . . . . . .  835
 
 \- 826 -
 
 CENTRE RÉGIONAUX
 Loi du 10 janvier 1989 portant
-\1. la reprise des centres et services d’éducation différenciée de certaines communes.
-\2. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
-\3. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique et
+1\. la reprise des centres et services d’éducation différenciée de certaines communes.
+2\. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
+3\. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique et
 orthophonique.
-\4. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État.
+4\. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État.
 (Mém. A – 4 du 19 janvier 1989, p. 36)
 modifiée par:
 Loi du 9 juin 1989, (Mém. A – 40 du 21 juin 1989, p. 768; doc. parl. 3332)
@@ -48972,7 +48972,7 @@ financiers de cette reprise.
 L’article 18, I-1 de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée est remplacé par
 le texte suivant:
 Le cadre des instituts et services d’éducation différenciée comprend les emplois et fonctions ci-après:
-1)
+1\)
 
 Dans la carrière supérieure de l’enseignement:
 a) grade de computation de la bonification d’ancienneté:
@@ -48984,7 +48984,7 @@ grade E 6
 – des professeurs d’enseignement logopédique;
 – des chefs d’institut;
 
-2)
+2\)
 
 Dans la carrière moyenne de l’enseignement;
 – des instituteurs d’éducation différenciée;
@@ -48993,13 +48993,13 @@ Dans la carrière moyenne de l’enseignement;
 – des instituteurs d’enseignement primaire;
 – des instituteurs d’éducation préscolaire;
 
-3)
+3\)
 
 Dans la carrière inférieure de l’enseignement:
 – des maîtresses de jardin d’enfants;
 – des maîtresses de jardin d’enfants spécialisées;
 
-4)
+4\)
 
 Dans la carrière supérieure de l’administration:
 grade de computation de la bonification d’ancienneté:
@@ -49011,7 +49011,7 @@ grade 12
 \- 827 -
 
 CENTRE RÉGIONAUX
-5)
+5\)
 
 Dans la carrière moyenne de l’administration:
 – des éducateurs;
@@ -49030,7 +49030,7 @@ Dans la carrière moyenne de l’administration:
 de bureau adjoint ou un rédacteur principal;
 – des rédacteurs;
 
-6)
+6\)
 
 Dans la carrière inférieure de l’administration:
 – des éducateurs instructeurs;
@@ -49110,36 +49110,36 @@ L’instituteur d’éducation différenciée doit remplir les conditions d’é
 l’enseignement primaire ou spécial et avoir suivi un perfectionnement en matière de pédagogie spéciale; il doit avoir une
 expérience professionnelle de cinq années au moins dans l’enseignement primaire, spécial ou complémentaire.
 
-7.
+7\.
 
 L’instituteur d’enseignement spécial doit avoir accompli avec succès une formation spécialisée d’une année au moins
 soit à l’étranger, soit à l’Institut pédagogique après l’obtention du brevet d’aptitude pédagogique, ou encore être détenteur du brevet d’enseignement complémentaire ou d’enseignement spécial.
 
-8.
+8\.
 
 L’instituteur d’enseignement primaire doit être détenteur du brevet d’aptitude pédagogique ou du certificat d’études
 pédagogiques.
 
-9.
+9\.
 
 L’instituteur d’éducation préscolaire doit remplir les conditions d’études prévues par la loi du 6 septembre 1983 portant:
 a) réforme de la formation des instituteurs
 b) création d’un Institut supérieur d’études et de recherches pédagogiques
 c) modification de l’organisation de l’éducation préscolaire et de l’enseignement primaire.
 
-\10. La maîtresse de jardin d’enfants doit être détentrice du brevet luxembourgeois de maîtresse de jardin d’enfants.
-\11. La maîtresse de jardin d’enfants spécialisée doit être détentrice du brevet luxembourgeois de maîtresse de jardin
+10\. La maîtresse de jardin d’enfants doit être détentrice du brevet luxembourgeois de maîtresse de jardin d’enfants.
+11\. La maîtresse de jardin d’enfants spécialisée doit être détentrice du brevet luxembourgeois de maîtresse de jardin
 d’enfants et du brevet de spécialisation obtenu selon les dispositions du règlement grand-ducal du 18 octobre 1973
 concernant les attributions, les conditions d’admission au stage et les conditions de nomination du personnel affecté aux
 instituts et services de l’éducation différenciée.
-\12. L’éducateur doit être détenteur du certificat luxembourgeois de fin d’études secondaires ou du diplôme d’ingénieur-technicien luxembourgeois ou d’un certificat reconnu équivalent par la législation et la réglementation luxembourgeoise et
+12\. L’éducateur doit être détenteur du certificat luxembourgeois de fin d’études secondaires ou du diplôme d’ingénieur-technicien luxembourgeois ou d’un certificat reconnu équivalent par la législation et la réglementation luxembourgeoise et
 avoir fait avec succès, soit au Grand-Duché de Luxembourg, soit à l’étranger, deux années d’études spéciales à agréer
 par le ministre.
-\13. L’éducateur instructeur de la carrière moyenne de l’administration doit avoir fait les études et les examens requis pour
+13\. L’éducateur instructeur de la carrière moyenne de l’administration doit avoir fait les études et les examens requis pour
 les fonctions d’ingénieur-technicien ou de technicien diplômé.
-\14. L’éducateur instructeur de la carrière inférieure de l’administration doit avoir fait les études et les examens requis pour
+14\. L’éducateur instructeur de la carrière inférieure de l’administration doit avoir fait les études et les examens requis pour
 les fonctions de technicien ou d’expéditionnaire technique.
-\15. Le moniteur d’éducation différenciée doit être détenteur du diplôme de moniteur d’éducation différenciée conféré après
+15\. Le moniteur d’éducation différenciée doit être détenteur du diplôme de moniteur d’éducation différenciée conféré après
 un stage de formation de deux ans au moins sanctionné par un examen.
 
 \- 829 -
@@ -49156,13 +49156,13 @@ b) les candidats pouvant se prévaloir
 – soit du certificat sanctionnant la réussite de la classe de 11e de la division de la formation préparatoire aux professions paramédicales et sociales de l’enseignement secondaire technique;
 – soit d’autres études ou d’une expérience professionnelle reconnues équivalentes, de cas en cas, pour l’admission
 à ce stage, par le ministre, le ministre de la fonction publique entendu en son avis.
-\16. Le psychorééducateur, l’ergothérapeute et le pédagogue curatif doivent être détenteurs du diplôme luxembourgeois de
+16\. Le psychorééducateur, l’ergothérapeute et le pédagogue curatif doivent être détenteurs du diplôme luxembourgeois de
 fin d’études secondaires ou d’un certificat reconnu équivalent par la législation et la réglementation luxembourgeoises
 et du diplôme de leur spécialité obtenu après un cycle d’études supérieures de trois années au moins.
-\17. L’assistant d’hygiène sociale, l’assistant social, le masseur-kinésithérapeute et l’infirmier hospitalier gradué doivent être
+17\. L’assistant d’hygiène sociale, l’assistant social, le masseur-kinésithérapeute et l’infirmier hospitalier gradué doivent être
 détenteurs du diplôme d’État luxembourgeois de leur spécialité.
-\18. L’infirmier psychiatrique et le puériculteur doivent être détenteurs du diplôme d’État luxembourgeois de leur spécialité.
-\19. L’infirmier doit être détenteur du diplôme d’État luxembourgeois d’infirmier.»
+18\. L’infirmier psychiatrique et le puériculteur doivent être détenteurs du diplôme d’État luxembourgeois de leur spécialité.
+19\. L’infirmier doit être détenteur du diplôme d’État luxembourgeois d’infirmier.»
 Sont nommés par le Grand-Duc, dans la carrière de l’enseignement, les fonctionnaires supérieurs à ceux du grade E4, et,
 dans la carrière administrative, les fonctionnaires supérieurs à ceux du grade 8. Les autres fonctionnaires sont nommés par le
 ministre.
@@ -49434,10 +49434,10 @@ et de services d’éducation différenciée avec dispense de la période de sta
 La carrière de l’intéressé est reconstituée en considérant la date d’entrée en service auprès de la commune comme première nomination dans la carrière.
 Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne lui sont pas applicables.
 Art. 14.
-\1. En cas de nomination le traitement des agents figurant à l’article 12 de la présente loi est fixé sur la base d’une nomination
+1\. En cas de nomination le traitement des agents figurant à l’article 12 de la présente loi est fixé sur la base d’une nomination
 fictive se situant trois années après la date de leur engagement auprès des centres, instituts et services précités.
-\2. Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne leur sont pas applicables.
-\3. Les années passées au service des centres, instituts et services d’éducation différenciée, déduction faite d’une période de
+2\. Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État ne leur sont pas applicables.
+3\. Les années passées au service des centres, instituts et services d’éducation différenciée, déduction faite d’une période de
 trois années, sont mises en compte aux intéressés pour l’application des articles 8 et 22 de la même loi, pour l’application de
 l’article 5 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État et pour l’application des dispositions de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières
 des administrations et services de l’État.
@@ -49445,7 +49445,7 @@ des administrations et services de l’État.
 \- 834 -
 
 CENTRE RÉGIONAUX
-\4. Les agents figurant aux articles 9 à 13 de la présente loi qui obtiennent une nomination de fonctionnaire et qui touchent un
+4\. Les agents figurant aux articles 9 à 13 de la présente loi qui obtiennent une nomination de fonctionnaire et qui touchent un
 traitement inférieur à la rémunération dont ils jouissent au moment de leur nomination, rémunération réduite des charges pour
 pension s’élevant à huit pour cent de la rémunération brute, obtiennent un supplément personnel de traitement tenant compte
 de la différence entre cette rémunération réduite et le traitement.
@@ -49454,11 +49454,11 @@ Le supplément personnel diminue au fur et à mesure que le traitement augmente 
 stage, d’examen et d’années de service.»
 
 Loi du 9 juin 1989 portant
-\1. la reprise des centres et services d’éducation différenciée de certaines communes.
-\2. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
-\3. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique et
+1\. la reprise des centres et services d’éducation différenciée de certaines communes.
+2\. modification de la loi du 14 mars 1973 portant création d’instituts et de services d’éducation différenciée.
+3\. modification de la loi du 16 août 1968 portant création d’un centre de logopédie et de services audiométrique et
 orthophonique.
-\4. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État.
+4\. modification de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État.
 (Mém. A – 40 du 21 juin 1989, p. 768; doc. parl. 3332)
 
 Article unique.
@@ -49481,7 +49481,7 @@ modifiée leur est applicable.
 Le délai de dix années de grade prévu à l’article 20, II de la loi modifiée du 22 juin 1963 fixant le régime des traitements
 des fonctionnaires de l’État prend cours à cette date.
 Pour le paiement des traitements les dispositions ci-dessus sortent leur effet au plus tôt à partir du 1 er novembre
-1986.
+1986\.
 Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’État ne leur sont pas applicables.»
 b) L’article 9, Il est complété comme suit:
@@ -49591,14 +49591,14 @@ m) II est ajouté un article 14 libellé comme suit:
 Art. 14. 1. En cas de nomination le traitement des agents figurant à l’article 12 de la présente loi est fixé sur la base d’une
 nomination fictive se situant trois années après la date de leur engagement auprès des centres, instituts et services
 précités.
-\2. Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
+2\. Les dispositions de l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’État ne leur sont pas applicables.
-\3. Les années passées au service des centres, instituts et services d’éducation différenciée, déduction faite d’une
+3\. Les années passées au service des centres, instituts et services d’éducation différenciée, déduction faite d’une
 période de trois années, sont mises en compte aux intéressés pour l’application des articles 8 et 22 de la même loi, pour
 l’application de l’article 5 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État et pour
 l’application des dispositions de la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement
 dans les différentes carrières des administrations et services de l’État.
-\4. Les agents figurant aux articles 9 à 13 de la présente loi qui obtiennent une nomination de fonctionnaire et qui
+4\. Les agents figurant aux articles 9 à 13 de la présente loi qui obtiennent une nomination de fonctionnaire et qui
 touchent un traitement inférieur à la rémunération dont ils jouissent au moment de leur nomination, rémunération réduite des charges pour pension s’élevant à huit pour cent de la rémunération brute, obtiennent un supplément personnel
 de traitement tenant compte de la différence entre cette rémunération réduite et le traitement.
 Il en est de même des agents qui sont admis au stage de fonctionnaire.
@@ -49622,7 +49622,7 @@ de la prime, soit après dix années de grade, soit dix années après l’obten
 pédagogiques ou d’un brevet équivalent.»
 b) L’article 22 est modifié comme suit:
 «1) A la section VI sous 19° sont ajoutées les mentions «le sociologue»et «le pédagogue».
-\2) A la section VII a)alinéa 9 sont ajoutés les termes «du sociologue»et «du pédagogue».
+2\) A la section VII a)alinéa 9 sont ajoutés les termes «du sociologue»et «du pédagogue».
 
 \- 837 -
 
@@ -50091,10 +50091,10 @@ Règlement grand-ducal du 15 août 2019 portant sur l’évaluation et la promot
 professionnelle et abrogeant le règlement grand-ducal du 31 août 2016 portant sur l’évaluation et la promotion
 des élèves de la formation professionnelle (tel qu’il a été modifié)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  878
 Règlement grand-ducal du 9 septembre 2019
-\1. portant fixation des indemnités dues aux commissaires, aux membres des équipes d’évaluation, aux experts
+1\. portant fixation des indemnités dues aux commissaires, aux membres des équipes d’évaluation, aux experts
 et surveillants des projets intégrés et lors de l’exercice du droit de consultation des documents portant sur les
 épreuves et
-\2. abrogeant le règlement grand-ducal du 26 novembre 2015 fixant les indemnités dues aux commissaires, aux
+2\. abrogeant le règlement grand-ducal du 26 novembre 2015 fixant les indemnités dues aux commissaires, aux
 membres des équipes d’évaluation, aux experts et surveillants des projets intégrés . . . . . . . . . . . . . . . . . . . . .  885
 
 \- 853 -
@@ -50146,8 +50146,8 @@ La formation au sens de la présente loi concerne la formation professionnelle d
 la formation professionnelle continue et la formation de reconversion professionnelle. Elle se caractérise par un apprentissage
 tout au long de la vie et une approche fondée sur l’acquisition de compétences.
 Au sens de la présente loi on entend par:
-\1. formation professionnelle de base: un dispositif ayant pour objet de dispenser une formation professionnelle essentiellement pratique en vue de l’obtention d’une qualification professionnelle sanctionnée par un certificat officiel;
-\2. formation professionnelle initiale: un dispositif ayant pour but de dispenser une formation générale, théorique et pratique,
+1\. formation professionnelle de base: un dispositif ayant pour objet de dispenser une formation professionnelle essentiellement pratique en vue de l’obtention d’une qualification professionnelle sanctionnée par un certificat officiel;
+2\. formation professionnelle initiale: un dispositif ayant pour but de dispenser une formation générale, théorique et pratique,
 en vue de l’obtention d’une qualification professionnelle sanctionnée par un diplôme officiel;
 
 Modifié par la loi du 29 août 2017.
@@ -50155,47 +50155,47 @@ Modifié par la loi du 29 août 2017.
 \- 854 -
 
 ORGANISATION GÉNÉRALE ET STRUCTURES
-\3. formation professionnelle continue: un dispositif qui permet d’acquérir, de maintenir et d’étendre des connaissances et
+3\. formation professionnelle continue: un dispositif qui permet d’acquérir, de maintenir et d’étendre des connaissances et
 aptitudes professionnelles, de les adapter aux exigences sociales et technologiques ou d’obtenir une promotion professionnelle;
-\4. formation de reconversion professionnelle: un dispositif qui a pour objectif de conduire à une autre activité professionnelle, d’offrir des cours de rééducation professionnelle et d’enseignement général à l’intention des demandeurs d’emploi
+4\. formation de reconversion professionnelle: un dispositif qui a pour objectif de conduire à une autre activité professionnelle, d’offrir des cours de rééducation professionnelle et d’enseignement général à l’intention des demandeurs d’emploi
 et des « salariés »1 menacés de perdre leur emploi, ainsi que des cours de réadaptation et de rééducation professionnelle et fonctionnelle;
-\5. compétence: un ensemble organisé de connaissances, d’aptitudes et d’attitudes qu’il faut posséder pour exercer « les
+5\. compétence: un ensemble organisé de connaissances, d’aptitudes et d’attitudes qu’il faut posséder pour exercer « les
 tâches et activités d’ »1 une profession ou un métier;
-\6. unité capitalisable: un ensemble de « modules développant les compétences d’un domaine d’apprentissage spécifique »1;
-\7. module: l’élément de base d’une unité capitalisable préparant à une ou des compétences dans un système modulaire;
-\8. qualification: la certification de l’ensemble des compétences « appartenant au profil de formation d’un métier ou d’une
+6\. unité capitalisable: un ensemble de « modules développant les compétences d’un domaine d’apprentissage spécifique »1;
+7\. module: l’élément de base d’une unité capitalisable préparant à une ou des compétences dans un système modulaire;
+8\. qualification: la certification de l’ensemble des compétences « appartenant au profil de formation d’un métier ou d’une
 profession, qui mène à un diplôme ou un certificat »1;
-\9. formation par alternance: une formation qui se fait alternativement en milieu professionnel et en milieu scolaire;
+9\. formation par alternance: une formation qui se fait alternativement en milieu professionnel et en milieu scolaire;
 «10. organisme de formation : toute personne physique ou morale qui offre un poste d’appren­tissage ou de stage et qui dispose du droit de former selon les dispositions de l’article L. 111-1 du Code du travail ; »
-\11. apprenti: l’apprenant qui fait la formation « en milieu professionnel »1 sous contrat d’apprentissage;
-\12. élève apprenti: l’apprenant qui fait son apprentissage sans contrat d’apprentissage « dans un centre de formation public
+11\. apprenti: l’apprenant qui fait la formation « en milieu professionnel »1 sous contrat d’apprentissage;
+12\. élève apprenti: l’apprenant qui fait son apprentissage sans contrat d’apprentissage « dans un centre de formation public
 sous convention de formation »1;
-\13. élève stagiaire: l’apprenant qui fait la formation « en milieu professionnel »1 sous « convention de stage »2 de formation;
-\14. apprentissage: l’acquisition de nouvelles compétences;
-\15. acquis de l’apprentissage: ce que l’apprenant sait, comprend et est capable de réaliser au terme d’un processus d’apprentissage;
-\16. apprentissage formel: l’apprentissage dispensé dans un contexte organisé et structuré en établissement d’enseignement/de formation ou sur le lieu du travail, et explicitement désigné comme apprentissage en termes d’objectifs, de
+13\. élève stagiaire: l’apprenant qui fait la formation « en milieu professionnel »1 sous « convention de stage »2 de formation;
+14\. apprentissage: l’acquisition de nouvelles compétences;
+15\. acquis de l’apprentissage: ce que l’apprenant sait, comprend et est capable de réaliser au terme d’un processus d’apprentissage;
+16\. apprentissage formel: l’apprentissage dispensé dans un contexte organisé et structuré en établissement d’enseignement/de formation ou sur le lieu du travail, et explicitement désigné comme apprentissage en termes d’objectifs, de
 temps ou de ressources;
-\17. apprentissage non formel: l’apprentissage intégré dans des activités planifiées non explicitement désignées comme
+17\. apprentissage non formel: l’apprentissage intégré dans des activités planifiées non explicitement désignées comme
 activités d’apprentissage en termes d’objectifs, de temps ou de ressources, mais contenant une part importante d’apprentissage;
-\18. apprentissage informel: l’apprentissage découlant des activités de la vie quotidienne liées au travail, à la famille ou aux
+18\. apprentissage informel: l’apprentissage découlant des activités de la vie quotidienne liées au travail, à la famille ou aux
 loisirs. Il n’est ni organisé ni structuré en termes d’objectifs, de temps ou de ressources;
-\19. unité d’apprentissage: un ensemble de connaissances, aptitudes et attitudes qui constitue une partie cohérente d’une
+19\. unité d’apprentissage: un ensemble de connaissances, aptitudes et attitudes qui constitue une partie cohérente d’une
 qualification. Elle peut être évaluée et validée séparément;
 «20. domaine d’apprentissage : un ensemble homogène de compétences professionnelles, sociales et personnelles provenant d’un ou de plusieurs domaines d’activités tels que définis dans le profil professionnel et le profil de formation et
 préparant à l’exécution d’un certain nombre de tâches et d’activités de la profession ou du métier visé ; »1
-\21. apprentissage tout au long de la vie: toute activité d’apprentissage entreprise à tout moment de la vie dans le but d’améliorer les connaissances, les capacités, les compétences ou les qualifications dans une perspective personnelle, sociale
+21\. apprentissage tout au long de la vie: toute activité d’apprentissage entreprise à tout moment de la vie dans le but d’améliorer les connaissances, les capacités, les compétences ou les qualifications dans une perspective personnelle, sociale
 ou professionnelle;
-\22. validation des acquis de l’expérience: un dispositif permettant d’évaluer et de reconnaître une grande diversité de compétences acquises tout au long de la vie dans différents contextes, comme l’éducation, le travail et les loisirs, ceci en
+22\. validation des acquis de l’expérience: un dispositif permettant d’évaluer et de reconnaître une grande diversité de compétences acquises tout au long de la vie dans différents contextes, comme l’éducation, le travail et les loisirs, ceci en
 vue d’obtenir un certificat ou un diplôme;
-\23. tuteur: la personne responsable de la formation pratique et de l’encadrement pédagogique des apprentis au sein de
+23\. tuteur: la personne responsable de la formation pratique et de l’encadrement pédagogique des apprentis au sein de
 l’organisme de formation;
-\24. domaine d’activités: un ensemble « de tâches et d’activités appartenant à »1 un domaine déterminé d’un métier ou d’une
+24\. domaine d’activités: un ensemble « de tâches et d’activités appartenant à »1 un domaine déterminé d’un métier ou d’une
 profession;
-\25. centre de formation: un organisme, agréé par le ministre ayant la Formation professionnelle dans ses attributions, en vue
+25\. centre de formation: un organisme, agréé par le ministre ayant la Formation professionnelle dans ses attributions, en vue
 de dispenser une formation;
-\26. conseiller à l’apprentissage: une personne qui, sous l’autorité du ministre et des chambres professionnelles compétentes, suit de près l’évolution de l’apprenti auprès de son patron formateur et qui sert d’interlocuteur aux deux parties
+26\. conseiller à l’apprentissage: une personne qui, sous l’autorité du ministre et des chambres professionnelles compétentes, suit de près l’évolution de l’apprenti auprès de son patron formateur et qui sert d’interlocuteur aux deux parties
 pour des questions ou des problèmes pouvant se présenter;
-\27. projet intégré: un projet à réaliser par l’apprenant en cours (projet intégré intermédiaire) et en fin de formation (projet
+27\. projet intégré: un projet à réaliser par l’apprenant en cours (projet intégré intermédiaire) et en fin de formation (projet
 intégré final) servant à contrôler les compétences de plusieurs « modules »1;
 
 Modifié par la loi du 12 juillet 2019.
@@ -50209,12 +50209,12 @@ ORGANISATION GÉNÉRALE ET STRUCTURES
 «28. patron formateur :
 a) le patron si l’organisme de formation est une personne physique ;
 b) le représentant légal si l’organisme de formation est une personne morale ;
-\29. enseignement général : l’ensemble qui regroupe l’enseignement des langues, l’éducation à la citoyenneté et l’éducation
+29\. enseignement général : l’ensemble qui regroupe l’enseignement des langues, l’éducation à la citoyenneté et l’éducation
 physique et sportive ;
-\30. Service : le Service de la formation professionnelle prévu à l’article 51 ;
-\31. ministre : le ministre ayant la Formation professionnelle dans ses attributions ;
-\32. profil de formation : l’ensemble des compétences pour chaque domaine d’apprentissage ;
-\33. convention de formation : convention signée entre le Service et l’élève apprenti préparant au centre de formation public
+30\. Service : le Service de la formation professionnelle prévu à l’article 51 ;
+31\. ministre : le ministre ayant la Formation professionnelle dans ses attributions ;
+32\. profil de formation : l’ensemble des compétences pour chaque domaine d’apprentissage ;
+33\. convention de formation : convention signée entre le Service et l’élève apprenti préparant au centre de formation public
 son accès à la formation professionnelle de base en deuxième année dans le secteur privé . »
 (. . .) (supprimé par la loi du 12 juillet 2019)
 Le système de la formation professionnelle repose sur un partenariat entre l’État, les chambres professionnelles patronales
@@ -50234,15 +50234,15 @@ l’organisation de la formation;
 
 l’élaboration des programmes-cadres de formation;
 
-7.
+7\.
 
 l’évaluation des formations et du système de formation;
 
-8.
+8\.
 
 la certification;
 
-9.
+9\.
 
 la validation des acquis de l’expérience.
 
@@ -50257,17 +50257,17 @@ favoriser une meilleure adéquation entre les objectifs de la formation professi
 assurer la coordination des actions des départements ministériels et des chambres professionnelles concernés notamment en ce qui concerne l’anticipation des besoins en formation professionnelle.
 
 «(1)»2 Ce comité comprend:
-\1. les membres du Gouvernement ayant respectivement dans leurs attributions la formation professionnelle, le travail,
+1\. les membres du Gouvernement ayant respectivement dans leurs attributions la formation professionnelle, le travail,
 l’économie, l’éducation nationale et les classes moyennes ou leurs délégués;
-\2. le directeur à la formation professionnelle;
-\3. le directeur du service de la formation des adultes;
+2\. le directeur à la formation professionnelle;
+3\. le directeur du service de la formation des adultes;
 «4. le directeur de la Maison de l’orientation ; »1
-\5. un délégué du service d’orientation professionnelle de «l’Agence pour le développement de l’emploi»3;
-\6. un délégué de chacune des chambres professionnelles;
-\7. un délégué de chacune des fédérations patronales représentant les différents secteurs économiques;
-\8. un délégué de chacune des organisations syndicales les plus représentatives sur le plan national;
-\9. deux délégués du collège des directeurs de « l’enseignement secondaire général »4;
-\10. un représentant des parents d’élèves;
+5\. un délégué du service d’orientation professionnelle de «l’Agence pour le développement de l’emploi»3;
+6\. un délégué de chacune des chambres professionnelles;
+7\. un délégué de chacune des fédérations patronales représentant les différents secteurs économiques;
+8\. un délégué de chacune des organisations syndicales les plus représentatives sur le plan national;
+9\. deux délégués du collège des directeurs de « l’enseignement secondaire général »4;
+10\. un représentant des parents d’élèves;
 
 Modifié par la loi du 12 juillert 2019.
 Renuméroté par la loi du 12 juillet 2019.
@@ -50277,9 +50277,9 @@ Modifié par la loi du 29 août 2017.
 \- 856 -
 
 ORGANISATION GÉNÉRALE ET STRUCTURES
-\11. un représentant de la Conférence nationale des élèves;
-\12. un représentant des employeurs du secteur social;
-\13. un représentant des employeurs du secteur de la santé et des soins;
+11\. un représentant de la Conférence nationale des élèves;
+12\. un représentant des employeurs du secteur social;
+13\. un représentant des employeurs du secteur de la santé et des soins;
 (Loi du 12 juillet 2019)
 «14. le directeur du Service de coordination de la recherche et de l’innovation pédagogiques et technologiques. »
 En dehors des membres prévus aux « points 1 à 4 et 14 »1, les membres du comité sont nommés pour une durée renouvelable de trois ans par le ministre sur proposition de leur organisme d’origine. Il peut y avoir un membre suppléant pour chacun
@@ -50373,7 +50373,7 @@ division de l’apprentissage industriel ;
 
 division de l’apprentissage ménager ;
 
-7.
+7\.
 
 division de l’apprentissage des professions de santé et des professions sociales.
 
@@ -50402,7 +50402,7 @@ les droits et devoirs des parties ;
 
 les dispositions concernant le congé ;
 
-7.
+7\.
 
 l’organisation des cours et des éventuels stages en entreprises.
 
@@ -50697,14 +50697,14 @@ professionnelle décide, sur demande écrite de l’élève, de l’équivalence
 nouveau référentiel d’évaluation, en vue de son intégration à la formation.
 
 Cette modification est applicable à partir de l’année scolaire 2019/2020 :
-\1. pour les élèves admis en classe de 4ème et 2ème préparant au diplôme de technicien ;
-\2. pour les élèves admis en 1ère et 2ème année de formation préparant au diplôme d’aptitude profes­sionnelle ;
-\3. pour les élèves admis en 1ère et 2ème année de formation préparant au certificat de capacité professionnelle;
+1\. pour les élèves admis en classe de 4ème et 2ème préparant au diplôme de technicien ;
+2\. pour les élèves admis en 1ère et 2ème année de formation préparant au diplôme d’aptitude profes­sionnelle ;
+3\. pour les élèves admis en 1ère et 2ème année de formation préparant au certificat de capacité professionnelle;
 et est applicable à partir de l’année scolaire 2020/2021 :
-\1. pour les élèves admis en classe de 3ème et 1ère préparant au diplôme de technicien ;
-\2. pour les élèves admis en 3ème année de formation préparant au diplôme d’aptitude professionnelle ;
+1\. pour les élèves admis en classe de 3ème et 1ère préparant au diplôme de technicien ;
+2\. pour les élèves admis en 3ème année de formation préparant au diplôme d’aptitude professionnelle ;
 
-\3. pour les élèves admis en 3ème année de formation préparant au certificat de capacité professionnelle.
+3\. pour les élèves admis en 3ème année de formation préparant au certificat de capacité professionnelle.
 Modifié par la loi du 14 août 2020.
 Supprimé par la loi du 14 août 2020.
 
@@ -51284,7 +51284,7 @@ le brevet d’études agricoles, tel qu’il a été créé par la loi du 12 nov
 le certificat d’aptitude professionnelle, tel qu’il a été créé respectivement par la loi du 5 janvier 1929 sur l’apprentissage
 et par l’arrêté grand-ducal du 8 octobre 1945 portant révision de la loi du 5 janvier 1929 sur l’apprentissage;
 
-7.
+7\.
 
 le certificat d’aptitude technique et professionnelle, tel qu’il a été créé par la loi modifiée du 4 septembre 1990 portant
 réforme de l’enseignement secondaire technique et de la formation professionnelle continue.
@@ -51627,11 +51627,11 @@ le cas échéant, la décision de promotion ;
 
 le cas échéant, les mesures de remédiation décidées par le conseil de classe ;
 
-7.
+7\.
 
 le cas échéant, la décision du conseil de classe de réorienter l’élève ;
 
-8.
+8\.
 
 le cas échéant, des informations concernant les activités périscolaires auxquelles a participé l’élève.
 
@@ -52049,9 +52049,9 @@ Notre Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse est
 publié au Journal officiel du Grand-Duché de Luxembourg.
 
 Règlement grand-ducal du 9 septembre 2019
-\1. portant fixation des indemnités dues aux commissaires, aux membres des équipes d’évaluation, aux experts et surveillants des projets intégrés et lors de l’exercice du droit de consultation des documents portant sur les épreuves
+1\. portant fixation des indemnités dues aux commissaires, aux membres des équipes d’évaluation, aux experts et surveillants des projets intégrés et lors de l’exercice du droit de consultation des documents portant sur les épreuves
 et
-\2. abrogeant le règlement grand-ducal du 26 novembre 2015 fixant les indemnités dues aux commissaires, aux
+2\. abrogeant le règlement grand-ducal du 26 novembre 2015 fixant les indemnités dues aux commissaires, aux
 membres des équipes d’évaluation, aux experts et surveillants des projets intégrés.
 (Mém. A – 602 du 13 septembre 2019)
 
@@ -52144,9 +52144,9 @@ A PP R E N T IS S AGE
 SOMMAIRE
 
 Règlement grand-ducal du 18 avril 1988 déterminant
-\1. les métiers et professions dans lesquels l’apprentissage peut être organisé en vue de l’obtention d’un certificat
+1\. les métiers et professions dans lesquels l’apprentissage peut être organisé en vue de l’obtention d’un certificat
 de capacité manuelle (CCM) et
-\2. le fonctionnement des classes préparant audit certificat (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . .  888
+2\. le fonctionnement des classes préparant audit certificat (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . .  888
 Règlement grand-ducal du 18 avril 1988 arrêtant la composition et le fonctionnement de la commission spéciale
 chargée de l’orientation des élèves vers un apprentissage en vue de l’obtention d’un certificat de capacité
 manuelle (CCM) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  891
@@ -52160,18 +52160,18 @@ de l’apprentissage  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Règlement grand-ducal du 19 mai 2009 portant fixation des indemnités dues aux membres des commissions
 d’examen, aux experts et surveillants des examens menant au brevet de maîtrise (tel qu’il a été modifié) . . . .  901
 Règlement grand-ducal du 9 juillet 2013
-\1. fixant les métiers et les professions sur lesquels porte la formation professionnelle de base;
-\2. déterminant les critères d’admission et l’organisation de la formation professionnelle de base;
-\3. déterminant la composition et les modalités de fonctionnement de la commission spéciale . . . . . . . . . . . . . . .
+1\. fixant les métiers et les professions sur lesquels porte la formation professionnelle de base;
+2\. déterminant les critères d’admission et l’organisation de la formation professionnelle de base;
+3\. déterminant la composition et les modalités de fonctionnement de la commission spéciale . . . . . . . . . . . . . . .
 
 Règlement grand-ducal du 26 juillet 2010 portant organisation de l’apprentissage transfrontalier . . . . . . . . . . . . .
 
 Règlement grand-ducal du 1er août 2019
-\1. fixant les modalités pour accorder et retirer le droit de former un apprenti et
-\2. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;
-\3. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de
+1\. fixant les modalités pour accorder et retirer le droit de former un apprenti et
+2\. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;
+3\. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de
 former un apprenti ;
-\4. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat
+4\. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat
 d’apprentissage (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  906
 Loi du 15 décembre 2020 portant introduction d’une prime unique pour la promotion de l’apprentissage dans le
 domaine de la formation professionnelle
@@ -52185,9 +52185,9 @@ l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et soci
 
 APPRENTISSAGE
 Règlement grand-ducal du 18 avril 1988 déterminant
-\1. les métiers et professions dans lesquels l’apprentissage peut être organisé en vue de l’obtention d’un certificat de
+1\. les métiers et professions dans lesquels l’apprentissage peut être organisé en vue de l’obtention d’un certificat de
 capacité manuelle (CCM) et
-\2. le fonctionnement des classes préparant audit certificat,
+2\. le fonctionnement des classes préparant audit certificat,
 (Mém. A – 21 du 6 mai 1988, p. 481; Rectificatif Mém. A – 44 du 17 août 1988, p. 870)
 modifié par:
 Règlement grand-ducal du 18 août 1988, (Mém. A – 50 du 16 septembre 1988, p. 967)
@@ -52245,13 +52245,13 @@ organisation de la formation professionnelle continue;
 peut être admis à l’apprentissage en régime professionnel en vue de l’obtention d’un certificat de capacité manuelle (CCM)
 aux conditions suivantes:
 
-\1. Admission en première année de formation essentiellement pratique
+1\. Admission en première année de formation essentiellement pratique
 Pour être admis en première année de formation essentiellement pratique l’élève doit:
 
 avoir suffi à l’obligation scolaire;
 
 présenter à la commission spéciale prévue à l’art. 9 de la loi modifiée du 21 mai 1979 précitée une demande d’admission accompagnée des bulletins obtenus au cours de sa dernière année de scolarisation.
-\2. Admission à la formation en cours d’apprentissage
+2\. Admission à la formation en cours d’apprentissage
 
 Pour être admis à la formation en cours d’apprentissage, l’élève doit:
 
@@ -52775,36 +52775,36 @@ Le remboursement du complément se fait selon les modalités du formulaire de re
 par le service d’Orientation professionnelle de l’Administration de l’Emploi.
 Copie du contrat d’apprentissage est à adresser par la chambre professionnelle patronale au service d’Orientation professionnelle de l’Administration de l’Emploi.
 Il est créé une commission qui se compose comme suit:
-1)
+1\)
 
 d’un représentant du ministre ayant la formation professionnelle dans ses attributions, appelé par la suite le ministre,
 assumant la fonction de président;
 
-2)
+2\)
 
 d’un représentant du Service de la Formation professionnelle;
 
-3)
+3\)
 
 d’un représentant du ministre ayant le travail dans ses attributions;
 
-4)
+4\)
 
 d’un représentant du service d’Orientation professionnelle de l’Administration de l’Emploi;
 
-5)
+5\)
 
 d’un représentant de la Chambre de Commerce;
 
-6)
+6\)
 
 d’un représentant de la Chambre des Métiers;
 
-7)
+7\)
 
 d’un représentant de la Chambre d’Agriculture;
 
-8)
+8\)
 
 d’un représentant de la Chambre des Salariés.
 
@@ -52816,11 +52816,11 @@ conseillers à l’apprentissage et des orienteurs.
 La commission est assistée par un secrétaire administratif à choisir par le président.
 Le fonctionnement de la commission est déterminé par règlement d’ordre intérieur.
 La commission a pour mission:
-1)
+1\)
 
 de décider de l’accès et de l’admission de tous les candidats à l’apprentissage pour adultes;
 
-2)
+2\)
 
 de donner son avis au ministre dans tous les cas prévus par le présent règlement.
 
@@ -53015,9 +53015,9 @@ Notre Ministre de l’Éducation nationale et de la Formation professionnelle et
 chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.
 
 Règlement grand-ducal du 9 juillet 2013
-\1. fixant les métiers et les professions sur lesquels porte la formation professionnelle de base;
-\2. déterminant les critères d’admission et l’organisation de la formation professionnelle de base;
-\3. déterminant la composition et les modalités de fonctionnement de la commission spéciale.
+1\. fixant les métiers et les professions sur lesquels porte la formation professionnelle de base;
+2\. déterminant les critères d’admission et l’organisation de la formation professionnelle de base;
+3\. déterminant la composition et les modalités de fonctionnement de la commission spéciale.
 (Mém. A – 122 du 16 juillet 2013, p. 1960)
 
 Chapitre 1er. Finalités, structures et organisation
@@ -53061,7 +53061,7 @@ conseil de classe en fonction des modules réussis. Dans tous les cas au moins 4
 
 L’élève ayant terminé la classe d’orientation et d’initiation professionnelles est admis en classe de 10e CCP,
 conformément aux dispositions de l’article 6 du règlement grand-ducal du 24 août 2007 portant organisation :
-\1. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue et aux
+1\. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue et aux
 lycées ; 2. des mesures destinées à initier et à accompagner la transition vers la vie active par l’Action locale pour jeunes.
 
 Chapitre 3. Encadrement pédagogique des élèves
@@ -53100,11 +53100,11 @@ d’un représentant du service d’orientation professionnelle de l’Agence po
 
 d’un représentant de chacune des chambres professionnelles concernées par la formation professionnelle de base ;
 
-7.
+7\.
 
 de deux conseillers à l’apprentissage ;
 
-8.
+8\.
 
 d’un représentant du Centre de psychologie et d’orientation scolaires.
 
@@ -53192,11 +53192,11 @@ Notre Ministre de l’Éducation nationale et de la Formation professionnelle et
 chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.
 
 Règlement grand-ducal du 1er août 2019
-\1. fixant les modalités pour accorder et retirer le droit de former un apprenti et
-\2. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;
-\3. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un
+1\. fixant les modalités pour accorder et retirer le droit de former un apprenti et
+2\. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;
+3\. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un
 apprenti ;
-\4. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage,
+4\. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage,
 (Mém. A – 564 du 20 août 2019)
 modifié par:
 Règlement grand-ducal du 28 juin 2023, (Mém. A - 352 du 5 juillet 2023).
@@ -53422,8 +53422,8 @@ VA L I DAT ION D E S AC QU IS
 SOMMAIRE
 
 Loi du 1er décembre 1992 portant
-\1. création d’un établissement public pour le développement de la formation professionnelle continue et
-\2. fixation des cadres du personnel des Centres de formation professionnelle continue (telle qu’elle a été
+1\. création d’un établissement public pour le développement de la formation professionnelle continue et
+2\. fixation des cadres du personnel des Centres de formation professionnelle continue (telle qu’elle a été
 modifiée) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  912
 Règlement grand-ducal du 4 février 1993 fixant les modalités de fonctionnement de l’établissement public pour le
 développement de la formation professionnelle continue (tel qu’il a été modifié)  . . . . . . . . . . . . . . . . . . . . . . . .  920
@@ -53438,17 +53438,17 @@ continue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Règlement grand-ducal du 4 février 2004 fixant le montant du droit d’inscription à payer lors de l’admission à un
 cours de formation professionnelle pour adultes organisé par le Service de la Formation professionnelle . . .  924
 Loi du 16 mars 2007 portant
-\1. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue
-\2. création d’une prime de formation et d’une indemnité de formation (telle qu’elle a été modifiée)  . . . . . . . . . . .  926
+1\. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue
+2\. création d’une prime de formation et d’une indemnité de formation (telle qu’elle a été modifiée)  . . . . . . . . . . .  926
 Règlement grand-ducal du 29 mars 2007 relatif aux conditions d’attribution de l’aide à la formation pour mineurs
 ainsi que de la prime de formation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  929
 Règlement grand-ducal du 24 août 2007 relatif aux modalités d’organisation, de fonctionnement et d’évaluation
 des cours de formation professionnelle continue et de reconversion professionnelle organisés au Centre
 national de formation professionnelle continue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  930
 Règlement grand-ducal du 24 août 2007 portant organisation:
-\1. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue
+1\. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue
 et aux lycées;
-\2. des mesures destinées à initier et à accompagner la transition vers la vie active par l’Action locale pour
+2\. des mesures destinées à initier et à accompagner la transition vers la vie active par l’Action locale pour
 jeunes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  931
 Règlement grand-ducal du 22 juillet 2009 portant sur l’organisation et le fonctionnement du Centre national de la
 formation professionnelle continue et fixant les tâches du personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  934
@@ -53462,8 +53462,8 @@ candidat sollicitant la validation des acquis de l’expérience . . . . . . . .
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
 Loi du 1er décembre 1992 portant
-\1. création d’un établissement public pour le développement de la formation professionnelle continue et
-\2. fixation des cadres du personnel des Centres de formation professionnelle continue.
+1\. création d’un établissement public pour le développement de la formation professionnelle continue et
+2\. fixation des cadres du personnel des Centres de formation professionnelle continue.
 (Mém. A – 101 du 24 décembre 1992, p. 3016)
 modifiée par:
 Loi du 19 décembre 2008, (Mém. A – 220 du 30 décembre 2008, p. 3274; doc. parl. 5622)
@@ -53520,13 +53520,13 @@ FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
 – 2 représentants de la Chambre des Salariés;
 – 1 représentant de la Chambre des Fonctionnaires et Employés publics;
 – 1 représentant de la Chambre d’Agriculture.»
-2)
+2\)
 
 Les modalités de fonctionnement de l’Institut sont fixées par règlement grand-ducal. Le fonctionnement du conseil
 d’administration fait l’objet d’un règlement interne, élaboré par le conseil d’administration et soumis pour approbation au
 ministre de l’Éducation nationale.
 
-3)
+3\)
 
 Les membres du conseil d’administration sont nommés et révoqués par le Gouvernement en conseil sur proposition soit
 des « ministres »1 soit des chambres professionnelles concernés. (Loi du 21 juillet 2012) «Pour chaque membre effectif il
@@ -53539,7 +53539,7 @@ cas d’empêchement du président, le vice-président le remplace dans ses fonc
 
 (Loi du 18 avril 2024)
 « 4) Le montant des jetons de présence, par réunion, du président, du vice-président et des membres du conseil d’administration est fixé par règlement grand-ducal. »
-5)
+5\)
 
 Le ministre de l’Éducation nationale désigne un commissaire du Gouvernement qui assiste avec voix consultative aux
 séances du conseil d’administration. Le commissaire du Gouvernement jouit, par ailleurs, d’un droit d’information et de
@@ -53550,15 +53550,15 @@ Gouvernement.
 
 (Loi du 18 avril 2024)
 « 6) Le conseil d’administration a pour missions :
-\1. de définir la politique générale de l’Institut ;
-\2. d’engager et licencier le directeur ;
-\3. d’engager et licencier le personnel sur proposition du directeur ;
-\4. de définir l’organigramme, la grille des emplois, ainsi que les conditions et modalités de rémunération ;
-\5. de décider sur des actions judiciaires ;
-\6. d’approuver les programmes d’investissement annuels et pluriannuels ;
-\7. d’accepter le règlement interne ;
-\8. d’approuver le rapport d’activité annuel ;
-\9. d’approuver le projet de budget et le projet des comptes annuels ;
+1\. de définir la politique générale de l’Institut ;
+2\. d’engager et licencier le directeur ;
+3\. d’engager et licencier le personnel sur proposition du directeur ;
+4\. de définir l’organigramme, la grille des emplois, ainsi que les conditions et modalités de rémunération ;
+5\. de décider sur des actions judiciaires ;
+6\. d’approuver les programmes d’investissement annuels et pluriannuels ;
+7\. d’accepter le règlement interne ;
+8\. d’approuver le rapport d’activité annuel ;
+9\. d’approuver le projet de budget et le projet des comptes annuels ;
 10.de décider sur l’acceptation ou le refus de dons et de legs ;
 11.de décider sur les acquisitions, aliénations et échanges d’immeubles indispensables à l’accomplissement de sa
 mission et leur affectation, à l’exception de ceux mis à la disposition de l’Institut ;
@@ -53568,7 +53568,7 @@ de l’Institut.
 Les décisions visées aux points 1 et 2, ainsi que le projet de budget annuel visé au point 9 sont soumis à l’approbation du ministre. Les éléments visés au point 4, ainsi que le projet des comptes annuels visé au point 9 sont soumis à
 l’approbation du Gouvernement en conseil. Chaque année, au mois de février, l’Institut soumet au ministre un rapport
 d’activités sur les aspects essentiels du fonctionnement de l’Institut. »
-7)
+7\)
 
 Le président du conseil d’administration représente l’Institut judiciairement et extrajudiciairement.
 
@@ -53578,7 +53578,7 @@ Le président du conseil d’administration représente l’Institut judiciairem
 « 1) Le conseil d’administration est assisté d’un conseil scientifique pour les activités liées à l’Observatoire national de la
 formation, ci-après « Observatoire ».
 Le conseil scientifique comprend sept membres :
-\1. le président du conseil d’administration de l’Institut ;
+1\. le président du conseil d’administration de l’Institut ;
 
 Remplacé par la loi du 18 avril 2024.
 Paragraphe 3 modifié par la loi du 18 avril 2024, modifications pas possible, en voie de rectification.
@@ -53586,12 +53586,12 @@ Paragraphe 3 modifié par la loi du 18 avril 2024, modifications pas possible, e
 \- 913 -
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
-\2. le directeur de l’Institut ;
-\3. le responsable de l’Observatoire ;
-\4. un représentant de l’Université du Luxembourg ;
-\5. un représentant de l’Institut national de la statistique et des études économiques ;
-\6. un représentant du ministre ayant le Travail dans ses attributions ;
-\7. un représentant du Luxembourg Institute of Socio-economic Research.
+2\. le directeur de l’Institut ;
+3\. le responsable de l’Observatoire ;
+4\. un représentant de l’Université du Luxembourg ;
+5\. un représentant de l’Institut national de la statistique et des études économiques ;
+6\. un représentant du ministre ayant le Travail dans ses attributions ;
+7\. un représentant du Luxembourg Institute of Socio-economic Research.
 Le président du conseil d’administration de l’Institut ou, en cas d’empêchement, le directeur de l’Institut préside le
 conseil scientifique.
 Le responsable de l’Observatoire est le secrétaire du conseil scientifique.
@@ -53601,7 +53601,7 @@ Les membres du conseil scientifique sont nommés et révoqués par le Gouverneme
 ministre. Les membres sont nommés pour un mandat renouvelable de cinq ans.
 Le conseil scientifique se dote d’un règlement de fonctionnement interne.
 Le montant des jetons de présence, par réunion, des membres du conseil scientifique et des experts est fixé par règlement grand-ducal. »
-2)
+2\)
 
 Le conseil scientifique a pour mission de:
 a) procéder à une évaluation globale des activités de recherche de l’Observatoire de l’année écoulée et en faire rapport
@@ -53660,19 +53660,19 @@ FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
 
 1 représentant à proposer par la Chambre des métiers ;
 
-7.
+7\.
 
 1 représentant à proposer par la Chambre de commerce ;
 
-8.
+8\.
 
 2 représentants à proposer par la Chambre des salariés ;
 
-9.
+9\.
 
 1 représentant à proposer par la Chambre des fonctionnaires et employés publics ;
 
-\10. 1 représentant à proposer par la Chambre d’agriculture.
+10\. 1 représentant à proposer par la Chambre d’agriculture.
 Il est désigné pour chacun des membres effectifs un membre suppléant. Ils sont nommés par le ministre pour un terme
 renouvelable de cinq ans. Les représentants des ministres sont proposés par les ministres compétents.
 (3) La commission peut s’adjoindre des experts ayant comme spécialité la discipline concernée pourvus uniquement d’une
@@ -53710,15 +53710,15 @@ des revenus provenant de ses activités de formation et de la gestion de son pat
 L’Institut est exempt de tous droits, taxes et impôts quelconques au profit de l’État et des communes, à l’exception de la taxe
 sur la valeur ajoutée et des taxes rémunératoires.
 Art. 10.
-1)
+1\)
 
 L’Institut est placé sous la tutelle du ministre de l’Éducation nationale qui en surveille toutes les activités.
 
-2)
+2\)
 
 Le ministre peut, en tout temps, contrôler ou faire contrôler la gestion de l’Institut.
 
-3)
+3\)
 
 L’Institut est tenu de présenter ses livres, pièces justificatives ainsi que tous les documents relatifs au contenu des livres
 et de faire toutes autres communications que le ministre juge nécessaires à l’exercice de son droit de surveillance.
@@ -53726,7 +53726,7 @@ et de faire toutes autres communications que le ministre juge nécessaires à l�
 \- 915 -
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
-4)
+4\)
 
 Sans préjudice des dispositions qui précèdent, le contrôle de la gestion financière de l’Institut est assuré encore par la
 Chambre des comptes, suivant les modalités à déterminer par règlement grand-ducal.
@@ -53767,19 +53767,19 @@ de trois ans renouvelables. La cellule de développement du Centre est présidé
 de direction du Centre.
 Les missions de la cellule de développement du Centre sont les suivantes:
 1)identifier les besoins prioritaires du Centre;
-2)
+2\)
 
 définir des stratégies de développement scolaire;
 
-3)
+3\)
 
 élaborer le PDC;
 
-4)
+4\)
 
 assurer la communication interne et externe;
 
-5)
+5\)
 
 élaborer un plan trisannuel de la formation continue du personnel du Centre, actualisé chaque année.
 
@@ -53861,24 +53861,24 @@ en sciences humaines doivent être détenteurs soit d’un diplôme luxembourgeo
 éducatives, soit d’un diplôme d’éducateur gradué luxembourgeois, soit d’un diplôme, certificat ou titre étranger reconnu
 équivalent par le membre du Gouvernement ayant l’Enseignement supérieur dans ses attributions.
 
-7.
+7\.
 
 Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psychosocial, les professionnels en
 sciences humaines doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou d’un diplôme, certificat ou titre
 étranger reconnu équivalent par le ministre.
 
-8.
+8\.
 
 Dans la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, voire dans la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif et sous-groupe technique, les rédacteurs et les expéditionnaires appelés à remplir des fonctions de gestion administrative sont recrutés parmi les fonctionnaires ou stagiaires des
 mêmes carrières de l’administration générale et détachés au Centre.
 
-9.
+9\.
 
 Les fonctionnaires des carrières de l’enseignement appelés à intervenir dans l’enseignement pratique spécifique aux
 formations des professions de santé doivent pouvoir se prévaloir d’une autorisation d’exercer délivrée par le ministre
 ayant la Santé dans ses attributions.
 
-\10. Pour les professions réglementées, une autorisation d’exercer délivrée par le membre du Gouvernement compétent est
+10\. Pour les professions réglementées, une autorisation d’exercer délivrée par le membre du Gouvernement compétent est
 requise.»»
 
 Chapitre II. - Conditions d’admission au stage et de nomination
@@ -53962,20 +53962,20 @@ vigueur de la présente loi à l’Institut d’études éducatives et sociales 
 d’éducateur orienteur telle qu’elle est prévue par le règlement grand-ducal modifié du 21 février 1978 portant organisation de cours d’orientation et d’initiation professionnelles, peut être nommé aux fonctions d’éducateur gradué à l’Institut
 d’études éducatives et sociales. Les dispositions de l’article 41, paragraphe 4 de la loi du 6 août 1990 portant organisation des études éducatives et sociales lui sont applicables.
 
-7.
+7\.
 
 Les employés occupés à titre temporaire visés au paragraphe 5 ci-dessus et qui comptent moins de deux ans de service
 à l’entrée en vigueur de la présente loi peuvent être admis au stage aux fonctions respectives avec dispense de l’examen d’admission au stage. La durée du stage pourra être réduite ou supprimée en fonction du temps passé en qualité
 d’employé à titre temporaire et à tâche complète.
 
-8.
+8\.
 
 Pour pouvoir être engagés à durée indéterminée au service de l’État, les employés et ouvriers mis à la disposition des
 cours d’orientation et d’initiation professionnelles par la société ARBED et y occupés en qualité de chargés de cours à
 tâche complète peuvent se présenter à l’examen probatoire prévu par le présent article sub 1, à condition de pouvoir
 faire valoir au moins trois années de service à l’entrée en vigueur de la présente loi.
 
-9.
+9\.
 
 L’employé, détenteur d’un diplôme d’éducateur, actuellement chargé de la direction des cours d’orientation et d’initiation
 professionnelles organisés au Centre d’Esch-sur-Alzette, pourra être nommé à la fonction d’éducateur gradué suivant
@@ -53985,10 +53985,10 @@ les modalités du paragraphe 5 ci-dessus et être désigné chargé de direction
 \- 919 -
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
-\10. L’employé, détenteur d’un diplôme d’éducateur, remplissant actuellement les fonctions de secrétaire des cours d’orientation et d’initiation professionnelles, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du
+10\. L’employé, détenteur d’un diplôme d’éducateur, remplissant actuellement les fonctions de secrétaire des cours d’orientation et d’initiation professionnelles, pourra être nommé à la fonction d’éducateur gradué suivant les modalités du
 paragraphe 5 ci-dessus.
 Il pourra être autorisé à porter le titre de secrétaire du Centre de formation professionnelle continue.
-\11. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
+11\. Les restrictions prévues à l’article 7, paragraphe 6, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’État ne seront pas appliquées aux chargés de cours et aux employés au service de l’État visés par le
 présent article et, en vue de l’application des articles 8 et 22 de la même loi, il leur sera tenu compte, comme années de
 grade, des années passées en qualité de chargé de cours ou d’employé au service de l’État et dépassant deux années.
@@ -54036,35 +54036,35 @@ Remplacé par le règl. g.-d. du 3 décembre 2024.
 \- 920 -
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
-\1. Le conseil se réunit sur convocation du président ou, en cas d’empêchement de celui-ci, « du vice-président »1, aussi souvent que l’intérêt de l’institut le demande et au moins quatre fois par an ou lorsqu’un tiers de ses membres en font la demande
+1\. Le conseil se réunit sur convocation du président ou, en cas d’empêchement de celui-ci, « du vice-président »1, aussi souvent que l’intérêt de l’institut le demande et au moins quatre fois par an ou lorsqu’un tiers de ses membres en font la demande
 écrite. Le délai de convocation est de quinze jours sauf en cas d’urgence à apprécier par le président. La convocation doit
 contenir un ordre du jour précis et détaillé.
-\2. Les membres du conseil peuvent se faire représenter par un autre membre du conseil d’administration muni d’un mandat
+2\. Les membres du conseil peuvent se faire représenter par un autre membre du conseil d’administration muni d’un mandat
 écrit. Aucun mandataire ne peut représenter plus d’un membre du conseil. Aucune procuration ne peut être donnée pour plus
 d’une séance.
-\3. Les séances du conseil sont présidées par le président, ou à son défaut, par « le vice-président »1.
+3\. Les séances du conseil sont présidées par le président, ou à son défaut, par « le vice-président »1.
 (Règl. g.-d. du 3 décembre 2024)
 « 4. Le conseil d’administration peut s’adjoindre un secrétaire administratif choisi, hors de son sein, parmi le personnel de
 l’Institut.
-\5. Pour délibérer valablement, la majorité des membres du conseil d’administration doit être présente ou représentée, conformément au paragraphe 2. Toute décision du conseil d’administration est prise à la majorité simple des membres présents. En
+5\. Pour délibérer valablement, la majorité des membres du conseil d’administration doit être présente ou représentée, conformément au paragraphe 2. Toute décision du conseil d’administration est prise à la majorité simple des membres présents. En
 cas de parité de voix, celle du président du conseil d’administration est prépondérante.
 Les réunions peuvent être valablement tenues par visioconférence sur décision du président.
 Les infrastructures à mettre en œuvre pour la visioconférence doivent satisfaire à la règlementation concernant la protection
 des données à caractère personnel et à des caractéristiques techniques garantissant la participation effective des membres aux
 réunions du conseil, dont les discussions et les votes sont transmis en continu.
 Les membres du conseil qui participent aux réunions par visioconférence sont considérés comme présents.
-\6. Les réunions du conseil d’administration ne sont pas publiques.
-\7. L’Institut est valablement engagé à l’égard des tiers par la signature conjointe du président du conseil d’administration et
+6\. Les réunions du conseil d’administration ne sont pas publiques.
+7\. L’Institut est valablement engagé à l’égard des tiers par la signature conjointe du président du conseil d’administration et
 d’un autre membre du conseil d’administration. »
 (Règl. g.-d. du 3 décembre 2024)
 « Art. 4bis.
 Jetons de présence des personnes visées aux articles 3, 3bis et 3quater de la loi modifiée du 1er décembre 1992 portant 1.
 création d’un établissement public pour le développement de la formation professionnelle continue et 2. fixation des cadres du
 personnel des Centres de formation professionnelle continue
-\1. Le président du conseil d’administration bénéficie d’un jeton de présence d’un montant de 75 euros par réunion. En cas
+1\. Le président du conseil d’administration bénéficie d’un jeton de présence d’un montant de 75 euros par réunion. En cas
 de remplacement du président, le vice-président perçoit le montant du jeton de présence de 75 euros par réunion. Dans le cas
 contraire, il perçoit le montant du jeton de présence tel que prévu au paragraphe 2.
-\2. Les autres membres ou experts visés aux articles 3, 3bis et 3quater de la loi modifiée du 1er décembre 1992 portant 1.
+2\. Les autres membres ou experts visés aux articles 3, 3bis et 3quater de la loi modifiée du 1er décembre 1992 portant 1.
 création d’un établissement pour le développement de la formation professionnelle continue, et 2. fixation des cadres du personnel des Centres de formation professionnelle continue perçoivent un jeton de présence de 50 euros par réunion. »
 Art. 5. - Contrôle
 Le ministre de l’Éducation nationale désigne un commissaire du gouvernement qui assiste avec voix consultative aux
@@ -54074,13 +54074,13 @@ gestion administrative et financière. Il peut suspendre les décisions du conse
 contraires aux lois et aux règlements. Dans ce cas, il appartient au ministre de l’Éducation nationale de décider dans un délai
 d’un mois à partir de la saisine par le commissaire du gouvernement.
 Art. 6. - Comptes annuels et budget
-\1. Les comptes de l’institut sont tenus selon les principes et modalités de la comptabilité commerciale.
-\2. L’exercice comptable coïncide avec l’année civile.
-\3. Pour le 15 mars de chaque année, le conseil élabore le projet de budget de l’exercice suivant, il l’arrête définitivement pour
+1\. Les comptes de l’institut sont tenus selon les principes et modalités de la comptabilité commerciale.
+2\. L’exercice comptable coïncide avec l’année civile.
+3\. Pour le 15 mars de chaque année, le conseil élabore le projet de budget de l’exercice suivant, il l’arrête définitivement pour
 le 1er décembre au plus tard et le soumet pour approbation au ministre de tutelle.
-\4. Pour le 31 mars au plus tard, le conseil soumet les comptes annuels arrêtés le 31 décembre de l’année précédente et
+4\. Pour le 31 mars au plus tard, le conseil soumet les comptes annuels arrêtés le 31 décembre de l’année précédente et
 accompagnés d’un rapport d’activités détaillé à l’approbation du Gouvernement en conseil et à la chambre des Députés.
-\5. La chambre des Comptes exerce un contrôle sur la gestion financière de l’institut en ce qui concerne la régularité matérielle des opérations.
+5\. La chambre des Comptes exerce un contrôle sur la gestion financière de l’institut en ce qui concerne la régularité matérielle des opérations.
 Pour permettre à la chambre des Comptes d’accomplir sa mission de contrôle, l’institut lui remettra à la fin de chaque trimestre un décompte des recettes et des dépenses certifié exact par le président du conseil d’administration.
 
 Remplacé par le règl. g.-d. du 3 décembre 2024.
@@ -54118,7 +54118,7 @@ a) notions générales de la législation scolaire et des textes réglementaires
 b) notions générales sur les droits et devoirs des fonctionnaires de l’État
 c) notions générales de droit du travail.
 
-\2. a) L’élaboration d’un travail pédagogique sous forme de rapport circonstancié sur une expérience socio-pédagogique
+2\. a) L’élaboration d’un travail pédagogique sous forme de rapport circonstancié sur une expérience socio-pédagogique
 faite en cours de stage. Dans la préparation de son rapport, le candidat est tenu de se faire conseiller par un patron
 de stage. Le sujet du travail pédagogique est en relation avec la transition à la vie active ou avec l’encadrement sociopédagogique de demandeurs d’emploi.
 Le rapport est à rédiger soit en langue française, soit en langue allemande, au choix du candidat. Il comporte deux
@@ -54208,7 +54208,7 @@ Art. 5. Modalités des épreuves d’examen
 
 La première session d’examen a lieu au cours du premier semestre de l’année 1999.
 Les autres sessions peuvent avoir lieu au cours du deuxième semestre 1999 et au cours des deux semestres de l’année
-2000.
+2000\.
 
 Au cours d’une réunion préliminaire, la commission d’examen constate l’admissibilité des candidats et prend les dispositions propres à assurer le bon fonctionnement de l’examen.
 
@@ -54227,7 +54227,7 @@ session suivante.
 
 Le candidat qui n’a pas réussi à l’échéance du 31 décembre 2000 n’est plus admis à un nouvel examen.
 
-7.
+7\.
 
 Les membres de la commission d’examen sont tenus de garder le secret des délibérations.
 
@@ -54338,8 +54338,8 @@ chargés, chacun en ce qui le concerne, de l’exécution du présent règlement
 
 FORMATION PROFESSIONNELLE CONTINUE ET VALIDATION DES ACQUIS
 Loi du 16 mars 2007 portant
-\1. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue
-\2. création (. . .)1 d’une prime de formation et d’une indemnité de formation.
+1\. organisation des cours de formation professionnelle au Centre national de formation professionnelle continue
+2\. création (. . .)1 d’une prime de formation et d’une indemnité de formation.
 (Mém. A – 54 du 11 avril 2007, p. 904)
 modifié par:
 Loi du 22 juin 2017, (Mém. A – 602 du 29 juin 2017; doc. par. 7079)
@@ -54622,9 +54622,9 @@ Notre Ministre de l’Éducation nationale et de la Formation professionnelle es
 grand-ducal qui sera publié au Mémorial.
 
 Règlement grand-ducal du 24 août 2007 portant organisation:
-\1. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue et
+1\. de cours d’orientation et d’initiation professionnelles au Centre national de formation professionnelle continue et
 aux lycées;
-\2. des mesures destinées à initier et à accompagner la transition vers la vie active par l’Action locale pour jeunes.
+2\. des mesures destinées à initier et à accompagner la transition vers la vie active par l’Action locale pour jeunes.
 (Mém. A – 167 du 3 septembre 2007, p. 3248)
 
 Chapitre I. - Organisation de cours d’orientation et d’initiation professionnelles
@@ -55126,8 +55126,8 @@ SOMMAIRE
 Code du Travail  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Règlement grand-ducal du 22 janvier 2009 pris en exécution de
-\1. l’article L.542-11, L.542-13 et L.542-16 du Code du Travail
-\2. la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi
+1\. l’article L.542-11, L.542-13 et L.542-16 du Code du Travail
+2\. la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi
 qu’à certaines professions libérales (tel qu’il a été modifié) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  941
 
 \- 940 -
@@ -55144,8 +55144,8 @@ Art. L. 542-7. - Art. L. 542-19.
 Voir: Code du travail
 
 Règlement grand-ducal du 22 janvier 2009 pris en exécution de
-\1. l’article L.542-11, L.542-13 et L.542-16 du Code du travail ;
-\2. la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à
+1\. l’article L.542-11, L.542-13 et L.542-16 du Code du travail ;
+2\. la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à
 certaines professions libérales,1
 (Mém. A – 9 du 29 janvier 2009, p. 100)
 modifié par:
@@ -55380,15 +55380,15 @@ F O R M AT IO N DA N S L E S T E CHNIQUES DE SOUDAGE
 SOMMAIRE
 
 Règlement grand-ducal du 2 août 2002 portant
-\1. organisation de la formation spécialisée dans les techniques de soudage
-\2. composition d’une Commission nationale de soudage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1\. organisation de la formation spécialisée dans les techniques de soudage
+2\. composition d’une Commission nationale de soudage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \- 945 -
 
 FORMATION DANS LES TECHNIQUES DE SOUDAGE
 Règlement grand-ducal du 2 août 2002 portant
-\1. organisation de la formation spécialisée dans les techniques de soudage
-\2. composition d’une Commission nationale de soudage.
+1\. organisation de la formation spécialisée dans les techniques de soudage
+2\. composition d’une Commission nationale de soudage.
 (Mém. A – 92 du 14 août 2002, p. 1872)
 
 La formation spécialisée dans les techniques de soudage, appelée dans la suite «la formation», est organisée par le ministre
@@ -55484,10 +55484,10 @@ er
 
 CONGÉ INDIVIDUEL DE FORMATION
 Loi du 24 octobre 2007 portant création d’un congé individuel de formation et modification
-\1. du Code du travail;
-\2. de la loi modifiée du 4 octobre 1973 concernant l’institution d’un congé-éducation;
-\3. de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat;
-\4. de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
+1\. du Code du travail;
+2\. de la loi modifiée du 4 octobre 1973 concernant l’institution d’un congé-éducation;
+3\. de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat;
+4\. de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
 (Mém. A – 241 du 28 décembre 2007, p. 4404)
 
 Le chapitre IV. – Congés spéciaux du Livre II, Titre III du Code du travail est complété sous l’intitulé «Section 9. – Congéformation» par le dispositif suivant:
@@ -55701,13 +55701,13 @@ Loi du 19 juillet 1991 portant création d’un Service de la formation des adul
 Règlement grand-ducal du 6 avril 1999 fixant l’organisation pédagogique et administrative du Centre de langues
 Luxembourg  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  958
 Règlement grand-ducal du 31 mars 2000 ayant pour objet
-\1) de fixer les modalités des contrats conventionnant des cours pour adultes et les conditions d’obtention d’un
+1\) de fixer les modalités des contrats conventionnant des cours pour adultes et les conditions d’obtention d’un
 label de qualité et d’une subvention
-\2) de créer une Commission Consultative à l’Éducation des Adultes (tel qu’il a été modifié) . . . . . . . . . . . . . . . . .  959
+2\) de créer une Commission Consultative à l’Éducation des Adultes (tel qu’il a été modifié) . . . . . . . . . . . . . . . . .  959
 Règlement grand-ducal du 23 avril 2013 ayant pour objet
-\1. de fixer le montant du droit d’inscription à payer lors de l’admission à un cours d’intérêt général organisé par
+1\. de fixer le montant du droit d’inscription à payer lors de l’admission à un cours d’intérêt général organisé par
 le Service de la formation des adultes et
-\2. de modifier le règlement grand-ducal modifié du 31 mars 2000 ayant pour objet 1) de fixer les modalités des
+2\. de modifier le règlement grand-ducal modifié du 31 mars 2000 ayant pour objet 1) de fixer les modalités des
 contrats conventionnant des cours pour adultes et les conditions d’obtention d’un label de qualité et d’une
 subvention 2) de créer une Commission Consultative à l’Éducation des Adultes (tel qu’il a été modifié) . . . . .  962
 Règlement grand-ducal du 3 août 2010 fixant les montants des droits d’inscription à payer lors de l’admission à
@@ -55733,7 +55733,7 @@ Loi du 31 août 2018, (Mém. A – 823 du 14 septembre 2018; doc. parl. 7293)
 Texte coordonné au 14 septembre 2018
 Version applicable à partir du 18 septembre 2018
 
-\1. FORMATION DES ADULTES
+1\. FORMATION DES ADULTES
 Il est créé un Service de la formation des adultes placé sous l’autorité du ministre de l’Éducation nationale, dénommé ciaprès «le ministre». Ce service a pour mission:
 a. de coordonner la formation offerte aux adultes en cours du soir par l’enseignement secondaire, l’enseignement secondaire technique, l’Institut supérieur de technologie (. . .)1;
 b. d’organiser un régime adultes ouvrant au moyen de cours du soir l’accès aux diplômes et certificats délivrés par l’enseignement du jour;
@@ -55805,10 +55805,10 @@ prévues à l’article 22 de la présente loi.
 Le Service de la formation des adultes peut engager des employés et des ouvriers selon les besoins du service et dans les
 limites des crédits budgétaires.
 
-\2. CENTRE DE LANGUES LUXEMBOURG1
+2\. CENTRE DE LANGUES LUXEMBOURG1
 Art. 10-19. (abrogés par loi du 22 mai 2009)
 
-\3. DISPOSITIONS COMMUNES
+3\. DISPOSITIONS COMMUNES
 Art. 20.
 L’admission à un cours d’intérêt général organisé par la formation des adultes (. . .)1 donne lieu au paiement, à l’Administration de l’Enregistrement, d’un droit d’inscription dont le montant est fixé par règlement ministériel.
 Art. 21.
@@ -55865,7 +55865,7 @@ même manière au moment où leurs collègues de rang égal ou immédiatement in
 Le fonctionnaire détaché dans les conditions ci-dessus, et dont le détachement prend fin, rentre dans le cadre normal soit à
 la première vacance d’un emploi de la fonction qu’il occupe soit au moment d’une promotion.
 
-\4. DISPOSITIONS TRANSITOIRES
+4\. DISPOSITIONS TRANSITOIRES
 Art. 23.
 Par dérogation aux dispositions du troisième alinéa de l’article 18 ci-dessus, l’instituteur d’enseignement complémentaire
 ayant suivi une formation supérieure en didactique des langues et chargé, depuis 1981, de l’organisation de cours intensifs de
@@ -55952,9 +55952,9 @@ Notre ministre de l’Éducation nationale et de la formation professionnelle es
 sera publié au Mémorial.
 
 Règlement grand-ducal du 31 mars 2000 ayant pour objet
-\1) de fixer les modalités des contrats conventionnant des cours pour adultes et les conditions d’obtention d’un label
+1\) de fixer les modalités des contrats conventionnant des cours pour adultes et les conditions d’obtention d’un label
 de qualité et d’une subvention
-\2) de créer une Commission Consultative à l’Éducation des Adultes,
+2\) de créer une Commission Consultative à l’Éducation des Adultes,
 (Mém A – 34 du 4 mai 2000, p. 846)
 modifié par:
 Règlement g. - d. du 2 septembre 2011, (Mém. A – 197 du 20 septembre 2011, p. 3584)
@@ -55969,11 +55969,11 @@ adultes organisés par des administrations communales et des associations sans b
 Le Service de la Formation des Adultes est chargé de l’octroi du label de qualité, tel que défini à l’article 5 et, le cas échéant,
 d’une subvention, telle que définie à l’article 6, à l’institution organisatrice.
 Les cours à conventionner doivent remplir les conditions suivantes:
-1)
+1\)
 
 Les cours doivent être d’un intérêt général dans les domaines dits de formation générale et de promotion sociale.
 
-2)
+2\)
 
 Les cours doivent répondre aux critères de qualité pédagogiques et financiers, notamment par la qualification du personnel enseignant, par les objectifs et contenus, par la méthodologie, par l’orientation et l’accompagnement des apprenants, par les moyens matériels de mise en œuvre, par l’adéquation entre le service offert et le droit d’inscription
 demandé.
@@ -55985,11 +55985,11 @@ Les critères de qualité et les priorités sont définis, par périodes de maxi
 attributions l’éducation des adultes, appelé par la suite le ministre, sur avis de la Commission Consultative à l’Éducation
 des Adultes dont question à l’article 10 du présent règlement. Ils doivent répondre aux principes généraux qui sont
 définis à l’annexe du présent règlement et qui en font partie intégrante.
-3)
+3\)
 
 Les cours doivent être ouverts, aux mêmes conditions, à tous les adultes désireux de les fréquenter.
 
-4)
+4\)
 
 Les cours doivent compter au moins 15 participants réguliers.
 
@@ -56014,7 +56014,7 @@ e)
 les moyens financiers à mettre en œuvre.
 
 Le contrat n’est conclu que si le projet d’organisation de cours pour adultes remplit les conditions dont question à l’article
-\2. Dans ce cas, il sera octroyé un label de qualité à l’institution organisatrice. Ce label se présente sous forme de logo avec la
+2\. Dans ce cas, il sera octroyé un label de qualité à l’institution organisatrice. Ce label se présente sous forme de logo avec la
 mention «Cours agréé par le Ministère de l’Éducation Nationale, de la Formation Professionnelle et des Sports». Il pourra être
 utilisé par l’institution organisatrice notamment à des fins de publicité et de recrutement des apprenants. Il ne pourra en aucun
 cas être utilisé pour d’autres cours organisés par l’institution organisatrice pour lesquels aucune demande n’a été faite ou qui
@@ -56063,7 +56063,7 @@ règlement qui sera publié au Mémorial.
 
 ANNEXE
 Critères de qualité: principes généraux
-\1. Aspects pédagogiques généraux
+1\. Aspects pédagogiques généraux
 L’apprentissage est dérivé d’une multiplicité de sources.
 L’apprentissage engage toute la personnalité de l’apprenant et contribue à son développement personnel.
 L’apprentissage tout au long de la vie et l’auto-formation sont promus.
@@ -56071,7 +56071,7 @@ L’apprentissage est placé dans le contexte socioculturel et économique: il e
 de son impact sur ce contexte.
 La méthodologie de la construction collaborative du savoir par interaction sociale est basée sur la diversité personnelle des
 apprenants tout en contribuant à l’enrichir.
-\2. Programme et méthodologie
+2\. Programme et méthodologie
 Le programme d’enseignement / de formation est organisé de façon claire et précise, correspond aux besoins des apprenants et respecte les différents rôles des apprenants adultes (personnes individuelles, membres d’une communauté, activité
 professionnelle).
 Les activités d’apprentissage sont riches et variées et leur mise en séquence est logique et transparente.
@@ -56081,13 +56081,13 @@ permettant les échanges et la construction collaborative du savoir.
 Le matériel didactique employé est approprié et varié.
 La méthodologie choisie par l’enseignant et son respect des styles d’apprentissage différents des apprenants contribuent à
 un environnement d’apprentissage riche et efficace.
-\3. Orientation et accompagnement
+3\. Orientation et accompagnement
 Avant l’inscription, les apprenants sont conseillés et informés quant aux objectifs et contenus du cours.
 L’attention des apprenants est attirée vers d’autres opportunités d’apprentissage au-delà du cours / de la formation où ils se
 sont inscrits.
 Le programme d’apprentissage contribue au développement personnel de l’apprenant dans une optique d’apprentissage
 tout au long de la vie.
-\4. Evaluation et certification
+4\. Evaluation et certification
 Les apprenants participent activement à l’évaluation des progrès accomplis.
 
 \- 961 -
@@ -56100,7 +56100,7 @@ Sur demande, les apprenants doivent obtenir un bilan descriptif des connaissance
 L’attention des apprenants est attirée vers les possibilités de se faire certifier les connaissances / compétences acquises par
 des diplômes délivrés par le Ministère de l’Éducation Nationale, de la Formation Professionnelle et des Sports ou par d’autres
 institutions, nationales ou internationales, agréées de certification.
-\5. Modalités d’organisation et de financement
+5\. Modalités d’organisation et de financement
 Les chargés de cours sont à indemniser par l’institution organisatrice de façon régulière et équitable. Les taux appliqués
 s’orientent autant que possible aux taux en vigueur pour les cours organisés par le Service de la Formation Professionnelle et
 le Service de la Formation des Adultes.
@@ -56137,9 +56137,9 @@ L’institution organisatrice met à disposition une salle de classe appropriée
 Tout matériel didactique nécessaire au cours, notamment le matériel audiovisuel et informatique, doit être disponible.
 
 Règlement grand-ducal du 23 avril 2013 ayant pour objet
-\1. de fixer le montant du droit d’inscription à payer lors de l’admission à un cours d’intérêt général organisé par le
+1\. de fixer le montant du droit d’inscription à payer lors de l’admission à un cours d’intérêt général organisé par le
 Service de la formation des adultes et
-\2. de modifier le règlement grand-ducal modifié du 31 mars 2000 ayant pour objet 1) de fixer les modalités des contrats
+2\. de modifier le règlement grand-ducal modifié du 31 mars 2000 ayant pour objet 1) de fixer les modalités des contrats
 conventionnant des cours pour adultes et les conditions d’obtention d’un label de qualité et d’une subvention 2) de
 créer une Commission Consultative à l’Éducation des Adultes,
 (Mém A – 84 du 6 mai 2013, p. 986)
@@ -57137,9 +57137,9 @@ X2)
 
 X
 
-1)
+1\)
 
-3)
+3\)
 
 Partie B
 X
@@ -57148,19 +57148,19 @@ X
 
 Coeff. : Coefficient attribué à la discipline
 DF : Discipline fondamentale
-1)
+1\)
 
 1 discipline parmi 3, au choix de l’élève.
 
-2)
+2\)
 
 1 discipline parmi 2, au choix de l’élève.
 
-3)
+3\)
 
 1 langue au choix de l’élève ; seule une langue présentée à l’examen peut faire l’objet d’une épreuve orale.
 
-4)
+4\)
 Pour les disciplines dans lesquelles l’élève présente une épreuve écrite et une épreuve orale, l’épreuve orale compte
 pour 25 % de la note. »
 
@@ -57490,9 +57490,9 @@ Sont admissibles à l’examen final les apprenants pour lesquels le directeur d
 tous les modules qu’ils avaient choisis pour leur formation. »
 
 En classe terminale, le module portant sur le travail personnel encadré est constitué des éléments suivants:
-\1. initiation à la méthodologie du travail scientifique;
-\2. élaboration et finalisation d’un travail écrit;
-\3. préparation et présentation orale.
+1\. initiation à la méthodologie du travail scientifique;
+2\. élaboration et finalisation d’un travail écrit;
+3\. préparation et présentation orale.
 
 \- 984 -
 
@@ -57663,9 +57663,9 @@ d’études secondaires, tel que défini à l’article 7 de la loi modifiée du
 Chance.
 Au diplôme est adjoint un supplément au diplôme.
 Le supplément comprend:
-\1. le certificat de notes qui atteste les notes finales des modules
+1\. le certificat de notes qui atteste les notes finales des modules
 et, le cas échéant,
-\2. les notes semestrielles et annuelles des modules de la classe préparatoire.
+2\. les notes semestrielles et annuelles des modules de la classe préparatoire.
 Le supplément au diplôme peut comprendre des indications sur d’autres branches ou modules que l’apprenant a suivis
 au cours de son parcours scolaire et sur le niveau de l’enseignement de différentes branches ou modules. Sur décision
 du ministre, d’autres certificats peuvent être inscrits au supplément au diplôme.
@@ -58647,11 +58647,11 @@ règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des 
 au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’État. Ils ont lieu
 devant un jury, composé de trois membres au moins, nommés par le ministre.
 Le concours d’admission au stage comporte deux parties dont
-1)
+1\)
 
 la première comprend deux épreuves écrites;
 
-2)
+2\)
 
 la deuxième comprend une épreuve orale ou pratique.
 
@@ -58661,19 +58661,19 @@ Chaque épreuve est évaluée par au moins deux membres du jury.
 
 \- 1003 -
 
-1)
+1\)
 
 À l’issue de la première partie des épreuves de classement, sont exclus du concours les candidats ayant obtenu
 – une moyenne des notes aux deux épreuves inférieure à 10 points;
 – une note inférieure à 7 points dans l’une des épreuves.
 
-2)
+2\)
 
 À l’issue de la deuxième partie des épreuves de classement, sont exclus du concours les candidats ayant obtenu
 – une moyenne pondérée des notes obtenues aux deux parties des épreuves de classement inférieure à 10 points;
 – une note inférieure à 7 points dans l’épreuve orale ou pratique.
 
-3)
+3\)
 
 Le classement final est établi comme suit: les deux épreuves de la première partie des épreuves de classement interviennent pour 25% chacune, l’épreuve de la deuxième partie des épreuves de classement intervient pour 50% dans la
 note globale.
@@ -58773,12 +58773,12 @@ en conseil.
 Le ministre de l’Éducation Nationale peut faire vérifier par un ou plusieurs délégués commis par lui si les établissements de
 l’espèce se conforment aux dispositions de la présente loi et aux conditions de l’agrément.
 Le ou les délégués du ministre vérifient:
-1)
+1\)
 
 si les annonces, messages et documentations publicitaires relatifs à l’activité de l’organisateur ou aux différents cours
 ne contiennent pas d’indications ou déclarations trompeuses;
 
-2)
+2\)
 
 si la documentation publicitaire fournit tous les renseignements utiles sur les cours spécifiques demandés par l’intéressé, notamment en ce qui concerne
 a) la conformité à l’agrément gouvernemental;
@@ -58859,26 +58859,26 @@ contrats au Luxembourg soit par voie de publicité générale, soit par voie de 
 Chapitre 3. – Dispositions pénales
 Art. 20.
 Sera puni d’une amende de 500 à 25.000 euros.
-1)
+1\)
 
 celui qui aura créé, ouvert, fait fonctionner un établissement d’enseignement à distance, fait de la publicité ou recruté
 des élèves pour un pareil établissement sans être muni de l’agrément visé à l’article 2 de la présente loi;
 
-2)
+2\)
 
 celui qui aura procédé à des modifications des données sur la base desquelles l’agrément a été délivré, sans y avoir été
 autorisé;
 
-3)
+3\)
 
 celui qui après le retrait de l’agrément aura continué à faire fonctionner ledit établissement;
 
-4)
+4\)
 
 celui qui aura refusé de se soumettre aux vérifications visées aux articles 6 et 7 de la présente loi ou qui aura sciemment
 fourni des renseignements ou documentations inexactes;
 
-5)
+5\)
 
 celui qui aura contrevenu aux articles 8, 9, alinéa 1er, 11, alinéa 4 et à l’article 12.
 
@@ -59046,7 +59046,7 @@ d’enseignement privés.
 (2) Constitue l’acte de démarchage au sens du présent article, le fait de se rendre, sans y avoir été invité, au domicile des
 particuliers, dans les écoles ou sur les lieux de travail pour provoquer la souscription d’un contrat d’enseignement.
 Art. 15.
-\1) Les infractions aux articles 4(1), 8(2), 9, 10, 13 et 14 de la présente loi sont punies d’une amende de cinq cents à quatre
+1\) Les infractions aux articles 4(1), 8(2), 9, 10, 13 et 14 de la présente loi sont punies d’une amende de cinq cents à quatre
 mille euros.
 (2) En cas de condamnation, le tribunal peut prononcer, pour une durée de cinq ans au plus, l’interdiction de diriger une école
 ou d’y enseigner ainsi que la fermeture de l’établissement, ou une de ces peines seulement.
@@ -59095,7 +59095,7 @@ appliquer les critères d’admission et de promotion en vigueur dans les classe
 public.
 
 Art. 19.
-1)
+1\)
 
 a) Pour les établissements privés d’enseignement préscolaire et primaire appliquant les programmes de l’enseignement
 public luxembourgeois, les enseignants doivent être détenteurs des diplômes requis dans l’enseignement public luxembourgeois.
@@ -59105,7 +59105,7 @@ c) Le ministre peut déroger aux conditions énumérées aux points a) et b) not
 visées sont engagées pour des missions de remplacement, pour donner des cours très spécialisés ou pour enseigner dans une branche dont le nombre de leçons hebdomadaires toutes classes confondues est inférieur à une
 tâche normale.
 
-2)
+2\)
 
 Les résultats scolaires des élèves des établissements privés appliquant les programmes de l’enseignement public
 luxembourgeois sont reconnus par l’enseignement public, et vice versa.
@@ -59507,7 +59507,7 @@ Supprimé par la loi du 20 décembre 2024.
 SÉCURITÉ ET ASSURANCES
 (Loi du 8 juin 1994)
 «Art. 10.
-\1. Chaque responsable est assisté d’un comité local de sécurité chargé de consulter les personnes intéressées et concernées sur toutes les questions touchant à la sécurité et à la santé, de recevoir leurs propositions et d’assurer leur participation
+1\. Chaque responsable est assisté d’un comité local de sécurité chargé de consulter les personnes intéressées et concernées sur toutes les questions touchant à la sécurité et à la santé, de recevoir leurs propositions et d’assurer leur participation
 équilibrée en la matière.
 Le comité local doit comprendre des représentants de tous les groupes participant régulièrement aux activités visées par la
 présente loi. Ils ne doivent subir aucun préjudice en raison de leurs activités respectives au sein de leurs comités. Ils doivent en
@@ -59520,7 +59520,7 @@ Les représentations du personnel prévues au chapitre 11 du statut général de
 peuvent être composés par l’ensemble du personnel.
 Un règlement grand-ducal précisera davantage la composition, la désignation des membres, le fonctionnement ainsi que les
 attributions des comités locaux de sécurité. L’inspecteur général est chargé de trancher les cas de litige.
-\2. Le responsable et le délégué peuvent se faire aider aussi par une équipe locale de sécurité plus spécialement instituée
+2\. Le responsable et le délégué peuvent se faire aider aussi par une équipe locale de sécurité plus spécialement instituée
 et entraînée en vue d’intervenir dans le cadre du fonctionnement normal de l’établissement, en cas de danger et à l’occasion
 de l’évacuation des locaux.
 Les membres des équipes de sécurité sont choisis parmi les participants aux activités concernées. Ils exercent leurs mandats à titre accessoire et leurs prestations effectives peuvent être honorées en fonction de leur envergure, au moyen respectivement d’indemnités ou de décharges de service.
@@ -59671,9 +59671,9 @@ Le règlement grand-ducal du 13 juin 1979 concernant les directives en matière 
 B.
 
 Le règlement grand-ducal du 6 octobre 1995 portant
-\1. adaptation à l’ensemble de la fonction publique de l’État et des communes du règlement grand-ducal du 13 juin 1979
+1\. adaptation à l’ensemble de la fonction publique de l’État et des communes du règlement grand-ducal du 13 juin 1979
 concernant les directives en matière de sécurité dans les écoles;
-\2. continuation de la transposition dans le droit luxembourgeois pour le compte du secteur public des directives communautaires afférentes à la sécurité et à la santé au travail.
+2\. continuation de la transposition dans le droit luxembourgeois pour le compte du secteur public des directives communautaires afférentes à la sécurité et à la santé au travail.
 
 Observation
 Les modifications et ajouts introduits par le règl. g.-d. du 6 octobre 1995 sont reproduits en italiques
@@ -59689,7 +59689,7 @@ TABLE DES MATIERES
 
 Chapitre
 
-\1. - Dispositions générales et organisation locale
+1\. - Dispositions générales et organisation locale
 
 Articles:
 
@@ -59705,7 +59705,7 @@ Rubrique de sécurité des cahiers des charges.
 
 Chapitre
 
-\2. - Hygiène du milieu scolaire
+2\. - Hygiène du milieu scolaire
 
 Articles:
 
@@ -59715,7 +59715,7 @@ solaire - 2.7. Prévention du bruit - 2.8. Éclairage.
 
 Chapitre
 
-\3. - Implantation
+3\. - Implantation
 
 Articles:
 
@@ -59724,7 +59724,7 @@ et évacuation des personnes sur la voie publique - 3.4. Stabilité et solidité
 
 Chapitre
 
-\4. - Aménagements extérieurs
+4\. - Aménagements extérieurs
 
 Articles:
 
@@ -59734,7 +59734,7 @@ Articles:
 
 Chapitre
 
-\5. - Résistance au feu
+5\. - Résistance au feu
 
 Articles:
 
@@ -59743,7 +59743,7 @@ Portes coupe-feu et portes coupe-fumée - 5.5. Résistance au feu des matériaux
 
 Chapitre
 
-\6. - Agencement intérieur et compartimentage
+6\. - Agencement intérieur et compartimentage
 
 Articles:
 
@@ -59754,7 +59754,7 @@ intérieurs.
 
 Chapitre
 
-\7. - Issues et dégagements intérieurs
+7\. - Issues et dégagements intérieurs
 
 Articles:
 
@@ -59765,7 +59765,7 @@ Dispositions supplémentaires relatives aux portes - 7.8. Dispositions suppléme
 
 Chapitre
 
-\8. - Installations techniques, dispositions générales et communes
+8\. - Installations techniques, dispositions générales et communes
 
 Articles:
 
@@ -59777,7 +59777,7 @@ compartiments et locaux techniques.
 
 Chapitre
 
-\9. - Installations techniques, dispositions supplémentaires
+9\. - Installations techniques, dispositions supplémentaires
 
 Articles:
 
@@ -59791,7 +59791,7 @@ SÉCURITÉ ET ASSURANCES
 
 Chapitre
 
-\10. - Prévention des incendies
+10\. - Prévention des incendies
 
 Articles:
 
@@ -59800,7 +59800,7 @@ Matériaux facilement inflammables - 10.6. Substances facilement inflammables ou
 
 Chapitre
 
-\11. - Moyens de luttre contre l’incendie
+11\. - Moyens de luttre contre l’incendie
 
 Articles:
 
@@ -59808,7 +59808,7 @@ Articles:
 
 Chapitre
 
-\12. - Evacuation des bâtiments et prévention des risques de panique
+12\. - Evacuation des bâtiments et prévention des risques de panique
 
 Articles:
 
@@ -59816,7 +59816,7 @@ Articles:
 
 Chapitre
 
-\13. - Aménagements intérieurs et prévention des accidents à l’intérieur des bâtiments
+13\. - Aménagements intérieurs et prévention des accidents à l’intérieur des bâtiments
 
 Articles:
 
@@ -59827,7 +59827,7 @@ chargement - 13.16. Lieux de travail extérieurs, dispositions particulières.
 
 Chapitre
 
-\14. - Sécurité dans les laboratoires et les ateliers, Sécurité du travail
+14\. - Sécurité dans les laboratoires et les ateliers, Sécurité du travail
 
 Articles:
 
@@ -59840,7 +59840,7 @@ Lieux de travail - 14.18 Machines et équipements de travail - 14.19. Manutentio
 
 Chapitre
 
-\15. - Installations spéciales
+15\. - Installations spéciales
 
 Articles:
 
@@ -59850,7 +59850,7 @@ substances dangereuses.
 
 Chapitre
 
-\16. - Sécurité du chemin de l’école
+16\. - Sécurité du chemin de l’école
 
 Articles:
 
@@ -59858,7 +59858,7 @@ Articles:
 
 Chapitre
 
-\17. - Transports scolaires
+17\. - Transports scolaires
 
 Articles:
 
@@ -59868,7 +59868,7 @@ et aménagement des arrêts.
 
 Chapitre
 
-\18. - Accès et circulation des handicapés physiques
+18\. - Accès et circulation des handicapés physiques
 
 Articles:
 
@@ -59876,7 +59876,7 @@ Articles:
 
 Chapitre
 
-\19. - Premiers secours
+19\. - Premiers secours
 
 Articles:
 
@@ -59884,7 +59884,7 @@ Articles:
 
 Chapitre
 
-\20. - Contrôle des accès et prévention des actes de malveillance
+20\. - Contrôle des accès et prévention des actes de malveillance
 
 Articles:
 
@@ -59893,7 +59893,7 @@ Surveillance et détection automatiques.
 
 Chapitre
 
-\21. - Chantiers temporaires ou mobiles
+21\. - Chantiers temporaires ou mobiles
 
 Articles:
 
@@ -63725,11 +63725,11 @@ modifiés, les cultures cellulaires et les endoparasites humains qui sont suscep
 une intoxication.
 (14.22.03) Les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection
 qu’ils présentent:
-1)
+1\)
 
 un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
 
-2)
+2\)
 
 un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les membres
 du personnel, sa propagation dans la collectivité est improbable, il existe généralement une prophylaxie ou un traitement
@@ -63737,13 +63737,13 @@ efficace,
 \- 1082 -
 
 SÉCURITÉ ET ASSURANCES
-3)
+3\)
 
 un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour
 les membres du personnel; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement
 une prophylaxie ou un traitement efficace;
 
-4)
+4\)
 
 un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les
 membres du personnel; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas
@@ -65595,33 +65595,33 @@ b) Toute proposition de modifier le régime statutaire des enseignants requiert 
 Article 4
 
 L’organisation pédagogique des écoles est fondée sur les principes suivants:
-1)
+1\)
 
 les études sont suivies dans les langues telles que spécifiées dans l’annexe II;
 
-2)
+2\)
 
 cette annexe peut être adaptée par le conseil supérieur en fonction des décisions prises en vertu des articles 2 et 32;
 
-3)
+3\)
 
 afin de favoriser l’unité de l’école, le rapprochement et la compréhension mutuelle entre élèves des différentes sections
 linguistiques, certains cours sont donnés en commun à des classes de même niveau. Ces cours pourront être donnés
 dans toute langue communautaire dans la mesure où le conseil supérieur décide que les circonstances le justifient.
 
-4)
+4\)
 
 un effort particulier est fait pour donner aux élèves une connaissance approfondie des langues vivantes;
 
-5)
+5\)
 
 la dimension européenne est mise en valeur dans les programmes d’études;
 
-6)
+6\)
 
 l’éducation et l’enseignement sont donnés dans le respect des consciences et des convictions individuelles;
 
-7)
+7\)
 
 des mesures sont prises pour faciliter l’accueil des enfants ayant des besoins éducatifs spécifiques.
 
@@ -65731,22 +65731,22 @@ Chaque année, le conseil supérieur établit, sur la base du projet préparé p
 Article 11
 En matière pédagogique, le conseil supérieur définit l’orientation des études et arrête leur organisation. En particulier, sur
 avis du conseil d’inspection compétent:
-1)
+1\)
 
 il fixe les programmes d’études et horaires harmonisés de chaque année d’études et de chaque section qu’il a organisée
 et fait des recommandations pour le choix des méthodes;
 
-2)
+2\)
 
 il fait assurer le contrôle de l’enseignement par les conseils d’inspection et fixe les règles de fonctionnement de ceux-ci;
 
-3)
+3\)
 
 il fixe l’âge requis pour entrer dans les différents cycles d’enseignement. Il définit les règles autorisant le passage des
 élèves dans la classe suivante ou dans le cycle secondaire et, afin de leur permettre de réintégrer à tout moment leurs
 écoles nationales, il arrête les conditions dans lesquelles sont validées les années d’études faites à l’école, conformément aux dispositions prévues à l’article 5. Il établit le tableau d’équivalences prévu à l’article 5 paragraphe 1;
 
-4)
+4\)
 
 il institue des examens destinés à sanctionner le travail accompli à l’école; il établit le règlement de ceux-ci, en constitue les jurys, en délivre les diplômes. Il fixe les épreuves de ces examens à un niveau suffisant pour donner effet aux
 dispositions de l’article 5.
@@ -65754,19 +65754,19 @@ dispositions de l’article 5.
 Article 12
 
 En matière administrative, le conseil supérieur:
-1)
+1\)
 
 établit les statuts du secrétaire général, des directeurs, du personnel enseignant et, conformément à l’article 9 paragraphe 1 point a), du personnel administratif et de service;
 
-2)
+2\)
 
 désigne le secrétaire général et le secrétaire général adjoint;
 
-3)
+3\)
 
 nomme le directeur et les adjoints de chaque école;
 
-4)
+4\)
 
 a) détermine, chaque année, sur proposition des conseils d’inspection les besoins en personnel enseignant par création et suppression d’emplois. Il veille à la répartition équitable des emplois entre les États membres. Il règle, avec
 les gouvernements, les questions relatives à l’affectation ou au détachement des professeurs, des instituteurs et des
@@ -65774,7 +65774,7 @@ conseillers de l’éducation de l’école. Ceux-ci conservent les droits à l�
 statut national;
 b) détermine, chaque année, sur proposition du secrétaire général, les besoins en personnel administratif et de service;
 
-5)
+5\)
 
 organise son fonctionnement et élablit son règlement intérieur.
 
@@ -65827,16 +65827,16 @@ des propositions tendant à l’aménagement des programmes d’études et à l�
 
 Article 18
 Les inspecteurs ont pour tâche:
-1)
+1\)
 
 d’assurer, dans les cycles d’enseignement qui les concernent, la tutelle pédagogique des professeurs issus de leur
 administration nationale;
 
-2)
+2\)
 
 de confronter leurs observations quant au niveau atteint par les études et à la qualité des méthodes d’enseignement;
 
-3)
+3\)
 
 d’adresser aux directeurs et au corps enseignant les résultats de leurs inspections.
 
@@ -65846,27 +65846,27 @@ Chapitre 3 - Le conseil d’administration
 
 Article 19
 Le conseil d’administration prévu à l’article 7 comprend 8 membres, sous réserve des articles 28 et 29:
-1)
+1\)
 
 le secrétaire général qui assure la présidence;
 
-2)
+2\)
 
 le directeur de l’école;
 
-3)
+3\)
 
 le représentant de la Commission des Communautés européennes;
 
-4)
+4\)
 
 deux membres du corps enseignant, l’un représentant le corps enseignant du cycle secondaire et l’autre le corps enseignant du cycle primaire et du cycle maternel réunis;
 
-5)
+5\)
 
 deux membres représentant l’association des parents d’élèves, comme prévu à l’article 23;
 
-6)
+6\)
 
 un représentant du personnel administratif et de service.
 
@@ -65877,19 +65877,19 @@ Deux représentants des élèves sont invités à assister comme observateurs au
 
 Article 20
 Le conseil d’administration:
-1)
+1\)
 
 prépare l’état prévisionnel des recettes et des dépenses de l’école, conformément au règlement financier;
 
-2)
+2\)
 
 contrôle l’exécution de la section budgétaire de l’école et établit son compte annuel de gestion;
 
-3)
+3\)
 
 veille au maintien des conditions matérielles favorables et à un climat propice au bon fonctionnement de l’école;
 
-\4) exerce toute autre attribution administrative que lui confie le conseil supérieur.
+4\) exerce toute autre attribution administrative que lui confie le conseil supérieur.
 Les modalités de convocation des réunions et de décision des conseils d’administration sont arrêtées dans le règlement
 général des écoles prévu à l’article 10.
 
@@ -65933,26 +65933,26 @@ L’exercice financier des écoles s’étend sur l’année civile.
 
 Article 25
 Le budget des écoles est alimenté par:
-1)
+1\)
 
 les contributions des États membres à travers le maintien des rémunérations payées aux professeurs détachés ou
 affectés et, le cas échéant, sous forme de contribution financière décidée par le conseil supérieur statuant à l’unanimité;
 
-2)
+2\)
 
 la contribution des Communautés européennes, qui vise à couvrir la différence entre le montant global des dépenses
 des écoles et le total des autres recettes;
 
-3)
+3\)
 
 les contributions des organismes non communautaires avec lesquels le conseil supérieur a conclu un accord;
 
-4)
+4\)
 
 les recettes propres des écoles, et notamment les contributions scolaires mises à la charge des parents d’élèves par le
 conseil supérieur;
 
-\5) les recettes diverses.
+5\) les recettes diverses.
 Les modalités de mise à disposition de la contribution des Communautés européennes font l’objet d’un accord spécial entre
 le conseil supérieur et la Commission.
 
@@ -65994,7 +65994,7 @@ Ce règlement doit être approuvé à l’unanimité par le conseil supérieur.
 Les arrêts de la chambre de recours sont obligatoires pour les parties et, au cas où celles-ci ne les exécuteraient pas,
 rendus exécutoires par les autorités compétentes des États membres en conformité avec leur législation nationale respective.
 
-7.
+7\.
 
 Les autres litiges auxquels les écoles sont parties relèvent de la compétence des juridictions nationales. En particulier,
 leur compétence en matière de responsabilité civile et pénale n’est pas affectée par le présent article.
@@ -66980,13 +66980,13 @@ Pour autant que les sportifs d’élite ne sont pas assurés à un autre titre, 
 du salaire social minimum, les cotisations de sécurité sociale. Pour les sportifs d’élite qui réduisent leur activité professionnelle de façon à ce que leurs revenus tombent en dessous du salaire social minimum, l’Etat rembourse les charges
 sociales calculées d’après leur revenu réel.
 
-7.
+7\.
 
 Le sportif d’élite qui interrompt ou étale ses études pour se consacrer à sa carrière sportive bénéficie des dispositions
 exceptionnelles en matière d’octroi de bourses et de prêts prévues à l’article 5 de la loi du 22 juin 2000 concernant l’aide
 financière de l’Etat pour études supérieures.
 
-8.
+8\.
 
 Une section spéciale à l’Armée accueille en tant que volontaires des sportifs d’élite.
 
@@ -67025,18 +67025,18 @@ les personnes physiques désignées par une fédération sportive agréée, un c
 accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales
 compétentes ou à des stages de préparation ;
 
-7.
+7\.
 
 les personnes physiques bénévoles désignées par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C.
 pour participer à l’organisation de manifestations sportives internationales reconnues par les fédérations sportives internationales ayant lieu au Grand-Duché de Luxembourg ;
 
-8.
+8\.
 
 les cadres techniques désignés par une fédération sportive agréée, un club affilié, le C.O.S.L. ou le L.P.C. pour accompagner les sportifs aux compétitions internationales officielles organisées par les fédérations internationales compétentes,
 à des stages de préparation ou pour participer à des formations organisées au plan international dûment autorisées par
 l’organisme compétent ;
 
-9.
+9\.
 
 les participants qui suivent une formation organisée par l’École nationale d’éducation physique et des sports ou une
 autre formation reconnue par le ministre ayant les Sports dans ses attributions.
@@ -67082,38 +67082,38 @@ trente jours pour les sportifs faisant partie du cadre d’élite du C.O.S.L. ou
 vingt jours pour un cadre technique encadrant le sportif faisant partie du cadre d’élite du C.O.S.L. ou du L.P.C. et n’ayant
 pas de projet spécifique ;
 
-7.
+7\.
 
 vingt jours pour les sportifs faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C. et n’ayant pas de projet spécifique ;
 
-8.
+8\.
 
 douze jours pour un cadre technique encadrant le sportif faisant partie du cadre de promotion du C.O.S.L. ou du L.P.C.
 et n’ayant pas de projet spécifique ;
 
-9.
+9\.
 
 vingt-cinq jours pour les sportifs faisant partie d’une sélection nationale individuelle ou d’équipes senior d’une fédération
 sportive agréée régissant un sport de compétition ;
 \- 1137 -
 
 SPORT À L’ÉCOLE
-\10. douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 2. ;
-\11. six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 3. ;
-\12. vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1er, point 4. ;
-\13. douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles
+10\. douze jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 2. ;
+11\. six jours pour les sportifs tels que définis à l’article 15-1, alinéa 1er, point 3. ;
+12\. vingt-cinq jours pour les juges et arbitres tels que définis à l’article 15-1, alinéa 1er, point 4. ;
+13\. douze jours pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., telles
 que définies à l’article 15-1, alinéa 1er, point 6. ;
-\14. six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies
+14\. six jours pour les personnes physiques désignées par un club affilié à une fédération sportive agréée, telles que définies
 à l’article 15-1, alinéa 1er, point 6. ;
-\15. cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L.
+15\. cinquante jours par organisme pour les personnes physiques désignées par une fédération sportive agréée, le C.O.S.L.
 ou le L.P.C., telles que définies à l’article 15-1, alinéa 1er, point 7. ;
-\16. dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que
+16\. dix jours par club affilié à une fédération sportive agréée pour les personnes physiques désignées par le club, telles que
 définies à l’article 15-1, alinéa 1er, point 7. ;
-\17. vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels
+17\. vingt-cinq jours pour les cadres techniques désignés par une fédération sportive agréée, le C.O.S.L. ou le L.P.C., tels
 que définis à l’article 15-1, alinéa 1er, point 8. ;
-\18. dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à
+18\. dix jours pour les cadres techniques désignés par un club affilié à une fédération sportive agréée, tels que définis à
 l’article 15-1, alinéa 1er, point 8. ;
-\19. cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1er, point 9.
+19\. cinq jours pour les participants à une formation telle que définie à l’article 15-1, alinéa 1er, point 9.
 La durée annuelle du congé sportif est proratisée en fonction du degré d’occupation et de la durée de travail annuelle.
 La durée annuelle du congé sportif est également proratisée avec effet au premier du mois qui suit le début du critère ayant
 ouvert le droit au congé en question.
@@ -67358,14 +67358,14 @@ Le classement du préposé du sport-loisir dépend du degré d’études de ce d
 Les modifications et additions ci-après sont apportées à la loi modifiée du 22 juin 1963 fixant le régime des traitements des
 fonctionnaires de l’État:
 
-\1) l’article 18 est complété par un 3° comme suit:
+1\) l’article 18 est complété par un 3° comme suit:
 Le préposé du sport-loisir est classé par décision du gouvernement en conseil suivant son degré d’études dans la
 carrière correspondant à sa formation.
-\2) à l’article 22, section II, sous 15°, est rayée la mention «commissaire du gouvernement à l’éducation physique et aux
+2\) à l’article 22, section II, sous 15°, est rayée la mention «commissaire du gouvernement à l’éducation physique et aux
 sports».
-\3) à l’article 22, section IV, sous 9°, est ajoutée la mention «commissaire du gouvernement à l’éducation physique et
+3\) à l’article 22, section IV, sous 9°, est ajoutée la mention «commissaire du gouvernement à l’éducation physique et
 aux sports».
-\4) à l’article 22, sections II, sous 16°, IV, sous 9°, et VII, alinéa 11 –, est ajoutée la mention «médecin-chef de division
+4\) à l’article 22, sections II, sous 16°, IV, sous 9°, et VII, alinéa 11 –, est ajoutée la mention «médecin-chef de division
 du contrôle médico-sportif».
 
 Annexe A – Classification des fonctions – Rubrique I «Administration générale»
@@ -67378,7 +67378,7 @@ et aux sports».
 Annexe D – Détermination des fonctions – Rubrique I «Administration générale»
 Dans la carrière supérieure de l’administration, grade 12 de computation de la bonification d’ancienneté, la mention
 «commissaire du gouvernement à l’éducation physique et aux sports» est supprimée au grade 15 et ajoutée au grade
-17.
+17\.
 Dans la carrière supérieure de l’administration, grade 14 de computation de la bonification d’ancienneté, est ajoutée au
 grade 16 la mention «médecin-chef de division du contrôle médico-sportif».
 
@@ -67812,12 +67812,12 @@ pléoptique et au service audiophonologique afin de bénéficier des contrôles 
 
 MÉDECINE SCOLAIRE
 Le bilan de santé comprend:
-1)
+1\)
 
 un entretien individuel, adapté à l’âge et aux besoins de l’élève, destiné à faciliter l’établissement de l’anamnèse et à
 permettre de conseiller efficacement l’élève.
 
-2)
+2\)
 
 des éléments cliniques:
 a) l’anamnèse
@@ -67836,7 +67836,7 @@ b) les tests et mesures de dépistage et de contrôle systématiques tels que d�
 c) l’examen médical est effectué par le médecin de l’équipe médico-socio-scolaire. Il se fait de façon standardisée. Il est
 ciblé sur certains aspects prioritaires suivant l’âge, le développement et les besoins spécifiques de l’élève.
 
-3)
+3\)
 
 des éléments sociaux:
 a) l’établissement par l’assistant(e) d’hygiène sociale ou l’assistant(e) social(e) de l’équipe médico-socio-scolaire du
@@ -67967,8 +67967,8 @@ réglementant la collaboration entre le Ministère de I’Éducation Nationale e
 Règlement grand-ducal du 15 mai 1995 relatif à la commission appelée à donner des avis en matière de
 reconnaissance des diplômes de certaines professions de santé obtenus à l’étranger . . . . . . . . . . . . . . . . . . .  1156
 Règlement grand-ducal du 27 juillet 2003 fixant
-\1. les conditions d’agrément des terrains de stage pour les formations de certaines professions de santé,
-\2. la composition, les modalités d’organisation et de fonctionnement ainsi que l’indemnisation des membres des
+1\. les conditions d’agrément des terrains de stage pour les formations de certaines professions de santé,
+2\. la composition, les modalités d’organisation et de fonctionnement ainsi que l’indemnisation des membres des
 conseils techniques du Lycée Technique pour Professions de Santé  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1157
 
 voir aussi: Code de la Santé - rubrique Professions de santé: - Loi du 11 janvier 1995
@@ -68060,8 +68060,8 @@ qui sera publié au Mémorial.
 
 PROFESSIONS DE SANTÉ
 Règlement grand-ducal du 27 juillet 2003 fixant
-\1. les conditions d’agrément des terrains de stage pour les formations de certaines professions de santé,
-\2. la composition, les modalités d’organisation et de fonctionnement ainsi que l’indemnisation des membres des
+1\. les conditions d’agrément des terrains de stage pour les formations de certaines professions de santé,
+2\. la composition, les modalités d’organisation et de fonctionnement ainsi que l’indemnisation des membres des
 conseils techniques du Lycée Technique pour Professions de Santé.
 (Mém. A 113 du 14 août 2003, p. 2370)
 
@@ -68202,39 +68202,39 @@ Les photographies ne sont conservées que pendant une durée de deux mois après
 à l’inscription, l’admission, la fréquentation, « aux absences et aux dispenses, »1 la répartition dans les classes, dans
 l’intérêt des missions définies à l’article 3 (1) sous les points 1 à 4.
 Il s’agit des informations suivantes:
-\1. établissement d’enseignement et classe d’origine;
-\2. ordre d’enseignement, année d’études ou cycle;
-\3. auditoires, options, modules et cours suivis, activités périscolaires;
-\4. statut d’inscription, date de sortie.
+1\. établissement d’enseignement et classe d’origine;
+2\. ordre d’enseignement, année d’études ou cycle;
+3\. auditoires, options, modules et cours suivis, activités périscolaires;
+4\. statut d’inscription, date de sortie.
 
 à l’évaluation et à la certification des résultats scolaires ainsi qu’à la documentation des décisions pédagogiques et
 administratives à travers les différents ordres d’enseignement, dans l’intérêt des missions définies à l’article 3 (1) sous
 les points 4 et 5.
 Il s’agit des informations suivantes:
-\1. résultats scolaires, notes, bilans de compétences;
-\2. décisions de promotion et avis d’orientation;
-\3. résultats obtenus à des épreuves organisées au niveau national et aux épreuves d’examen;
-\4. mesures de remédiation, aménagements particuliers, régime linguistique spécifique, dispenses et absences;
-\5. certifications et diplômes avec les compléments obtenus à l’école ou reconnus par le ministre;
-\6. contrat d’apprentissage et données relatives à l’organisme de formation;
-\7. équivalence du niveau des études suivies dans une école privée, dans l’École européenne, dans une école transfrontalière ou à l’étranger.
+1\. résultats scolaires, notes, bilans de compétences;
+2\. décisions de promotion et avis d’orientation;
+3\. résultats obtenus à des épreuves organisées au niveau national et aux épreuves d’examen;
+4\. mesures de remédiation, aménagements particuliers, régime linguistique spécifique, dispenses et absences;
+5\. certifications et diplômes avec les compléments obtenus à l’école ou reconnus par le ministre;
+6\. contrat d’apprentissage et données relatives à l’organisme de formation;
+7\. équivalence du niveau des études suivies dans une école privée, dans l’École européenne, dans une école transfrontalière ou à l’étranger.
 
 au milieu culturel, familial et professionnel dans l’intérêt des missions définies à l’article 3 (1) « sous les points 3 et 5 »2.
 Il s’agit des informations suivantes:
-\1. première langue et, le cas échéant, autres langues parlées au domicile;
-\2. rang des frères et sœurs;
-\3. pays d’origine et date d’entrée au pays;
-\4. niveau d’études, catégorie professionnelle et niveau de revenus des représentants légaux de l’élève.
+1\. première langue et, le cas échéant, autres langues parlées au domicile;
+2\. rang des frères et sœurs;
+3\. pays d’origine et date d’entrée au pays;
+4\. niveau d’études, catégorie professionnelle et niveau de revenus des représentants légaux de l’élève.
 
 d)
 
 au passage à la vie active dans l’intérêt de la mission définie à l’article 3 (1) sous le point 5.
 Il s’agit des informations suivantes:
-\1. date d’entrée au lycée;
-\2. relevé des classes fréquentées;
-\3. date de sortie du lycée;
-\4. certifications et diplômes obtenus à tous les niveaux;
-\5. occupation(s) professionnelle(s).
+1\. date d’entrée au lycée;
+2\. relevé des classes fréquentées;
+3\. date de sortie du lycée;
+4\. certifications et diplômes obtenus à tous les niveaux;
+5\. occupation(s) professionnelle(s).
 
 (1) Dans la poursuite des finalités décrites à l’article 3, paragraphe (1), le ministre peut accéder aux traitements de données
 suivants:
@@ -68270,22 +68270,22 @@ les régions limitrophes, aux fins d’avoir des données sur les élèves rési
 « 7. pour les finalités 1 à 3, les fichiers exploités pour le compte des administrations communales aux fins du contrôle du
 respect de l’obligation scolaire, aux fins du contrôle de l’assiduité scolaire et aux fins de la planification de l’organisation
 scolaire ; »
-8.
+8\.
 
 pour les finalités 3 et 4, les fichiers exploités pour le compte du ministre ayant la Famille dans ses attributions, aux fins
 de suivi des élèves fréquentant un centre socio-éducatif de l’État ou pensionnaires d’une maison d’enfants de l’État ou
 d’un internat conventionné, ainsi que des élèves pris en charge par des structures d’accueil;
 
-9.
+9\.
 
 pour la finalité 5, le fichier exploité pour le compte de l’Inspection générale de la sécurité sociale, renseignant exclusivement sur la catégorie professionnelle des représentants légaux de l’élève « et pour la finalité 1, le fichier exploité pour le
 compte de l’Inspection générale de la sécurité sociale, renseignant sur les périodes d’affiliation des mineurs bénéficiant
 d’une dispense de l’obligation scolaire pour la durée de leur contrat de travail »1;
 
-\10. pour la finalité 5, le fichier des bénéficiaires d’allocations familiales exploité pour le compte de la Caisse nationale des
+10\. pour la finalité 5, le fichier des bénéficiaires d’allocations familiales exploité pour le compte de la Caisse nationale des
 Prestations familiales, aux fins d’avoir des informations sur les élèves âgés de plus de 18 ans poursuivant des études
 non universitaires à l’étranger;
-\11. pour les finalités 1 à 3, le fichier des demandeurs de protection internationale exploité pour le compte du Service des
+11\. pour les finalités 1 à 3, le fichier des demandeurs de protection internationale exploité pour le compte du Service des
 Immigrés, aux fins de la scolarisation des élèves dont les représentants légaux ont introduit une demande de protection
 internationale.
 (2) Les données des fichiers accessibles en vertu du paragraphe (1) sont déterminées par règlement grand-ducal.
@@ -68355,37 +68355,37 @@ initiale à la formation continue ou à la vie active;
 
 au ministre ayant les Transports dans ses attributions, aux fins de l’organisation des transports scolaires individualisés;
 
-7.
+7\.
 
 aux administrations communales, aux fins de vérification de l’obligation scolaire;
 
-8.
+8\.
 
 à la Caisse nationale des Prestations familiales, aux fins de permettre à celle-ci de décider de la continuation ou de
 l’interruption du versement d’allocations familiales pour les enfants qui ne sont plus dans l’obligation de fréquenter
 l’école;
 
-9.
+9\.
 
 au Centre commun de la Sécurité sociale, aux fins de permettre la prise en charge des accidents scolaires par l’assurance-accidents;
 
-10.
+10\.
 
 au ministre ayant la Famille dans ses attributions, aux fins de suivi des élèves fréquentant un centre socio-éducatif
 de l’État ou une maison d’enfants de l’État et de la prise en charge socio-éducative des élèves par les structures
 d’accueil et des enfants et jeunes adultes bénéficiant ou étant susceptibles de bénéficier d’une mesure d’aide suivant
 l’article 11 de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille;
 
-11.
+11\.
 
 au ministre ayant la Santé dans ses attributions, aux fins de la mise en œuvre de la médecine scolaire et pour des
 analyses portant sur la santé des élèves;
 
-12.
+12\.
 
 à la Fondation Restena, aux fins de la constitution d’adresses électroniques des élèves;
 
-13.
+13\.
 
 à l’Inspection générale de la sécurité sociale et au CEPS-INSTEAD, aux fins de l’établissement de l’indice socio-économique et socioculturel en vue de l’attribution de contingents de leçons d’enseignement aux communes et syndicats
 intercommunaux pour l’organisation de l’enseignement fondamental.
@@ -68475,19 +68475,19 @@ Sur demande de l’intéressé, l’action du centre peut être continuée au-de
 protection de la jeunesse.
 Par rapport à ses pensionnaires, le centre, dans le respect des dispositions des conventions internationales pertinentes en
 la matière, est chargé des missions suivantes:
-1)
+1\)
 
 une mission d’accueil socio-éducatif;
 
-2)
+2\)
 
 une mission d’assistance thérapeutique;
 
-3)
+3\)
 
 une mission d’enseignement socio-éducatif;
 
-4)
+4\)
 
 une mission de préservation et de garde.
 
@@ -68539,7 +68539,7 @@ centre en vue de sa préparation à la sortie du centre et qui définit les obje
 individualisé tient compte de l’intervention socio-éducative et psychosociale dont le pensionnaire a fait l’objet avant son placement au centre, de la situation familiale du pensionnaire, de sa personnalité et de ses besoins. Le projet individualisé est établi
 dans l’intérêt du pensionnaire et avec l’accord des autorités judi­ciaires. Il mentionne l’unité du centre et l’équipe en charge de
 son encadrement. L’équipe associe le pensionnaire à l’élaboration du projet individualisé. Le projet individualisé est communiqué à ses parents ou à son tuteur.
-\3) Le pensionnaire est tenu de respecter les règles applicables aux unités du centre, d’obéir aux membres du personnel en
+3\) Le pensionnaire est tenu de respecter les règles applicables aux unités du centre, d’obéir aux membres du personnel en
 tout ce qu’ils leurs prescrivent pour l’exécution des règlements et le maintien de l’ordre à l’intérieur du centre et de coopérer
 avec l’équipe en charge de son encadre­ment afin de réaliser le projet individualisé.
 Le libellé actuel de l’article 3 de la même loi devient le nouveau paragraphe 1er de l’article 3 de la même loi. »
@@ -68808,27 +68808,27 @@ la date et l’heure de son admission, du transfert et de la sortie du centre,
 
 toute documentation constatant des blessures visibles et concernant la plainte de mauvais traitements subis antérieurement à son admission au centre,
 
-7.
+7\.
 
 toute information ou rapport concernant son passé et ses besoins en matière d’éducation et d’assistance sociale,
 
-8.
+8\.
 
 toute information sur d’éventuels risques d’automutilation et sur l’état de santé du pension­naire, dont il y a lieu de tenir
 compte pour le bien-être physique et mental du pensionnaire, et celui d’autrui,
 
-9.
+9\.
 
 en cas de la mesure disciplinaire, indication de la date du début et de fin de la mesure, de la date de notification de la
 mesure au pensionnaire et des contrôles effectués dans le cadre de l’exécution de la mesure disciplinaire,
 
-\10. toute information sur la conduite du pensionnaire à l’intérieur du centre, la date et heure de la survenance de l’incident
+10\. toute information sur la conduite du pensionnaire à l’intérieur du centre, la date et heure de la survenance de l’incident
 et les circonstances de l’incident concernant le pensionnaire et les mesures ordonnées par le responsable du centre en
 charge,
-\11. son numéro de compte bancaire,
-\12. les prénom, nom et qualité des visiteurs et la date des visites émanant du permis de visite,
-\13. l’indication des noms et adresse des personnes à prévenir en cas de naissance, de maladie grave ou de décès,
-\14. à titre facultatif pour le pensionnaire, l’indication de sa confession.
+11\. son numéro de compte bancaire,
+12\. les prénom, nom et qualité des visiteurs et la date des visites émanant du permis de visite,
+13\. l’indication des noms et adresse des personnes à prévenir en cas de naissance, de maladie grave ou de décès,
+14\. à titre facultatif pour le pensionnaire, l’indication de sa confession.
 
 \- 1171 -
 
@@ -69473,15 +69473,15 @@ Jour férié légal: le lundi 1er mai 2017.
 
 Jour de congé pour l’Ascension: le jeudi 25 mai 2017.
 
-7.
+7\.
 
 Le congé de la Pentecôte commence le samedi 3 juin 2017 et finit le dimanche 11 juin 2017.
 
-8.
+8\.
 
 Jour de congé pour la célébration publique de l’anniversaire de SAR le Grand-Duc: le vendredi 23 juin 2017.
 
-9.
+9\.
 
 Les vacances d’été commencent le samedi 15 juillet 2017 et finissent le jeudi 14 septembre 2017.
 
@@ -69837,7 +69837,7 @@ Texte coordonné au 16 juin 2021
 Version applicable à partir du 20 juin 2021
 
 L’année scolaire 2020/2021 commence au Grand-Duché de Luxembourg le mardi 15 septembre 2020 et finit le jeudi 15 juillet
-2021.
+2021\.
 Le calendrier des vacances et congés scolaires pour l’année scolaire 2020/2021 est fixé comme suit :
 1°
 

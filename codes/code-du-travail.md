@@ -19,24 +19,37 @@ retrieved: 2026-10-12
 
 Constituent des dispositions d’ordre public applicables à tous les salariés exerçant une activité sur le territoire du Grand-Duché de Luxembourg toutes les dispositions légales, réglementaires, administratives, ainsi que celles résultant de conventions collectives déclarées d’obligation générale ou d’une décision d’arbitrage ayant un champ d’application similaire à celui des conventions collectives d’obligation générale ou d’un accord en matière de dialogue social interprofessionnel déclaré d’obligation générale ayant trait :
 
-1. au contrat de travail écrit ou au document établi en vertu de la
+1° au contrat de travail écrit ou au document établi en vertu de la [directive (UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne ;
 
-   [directive (UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne ;
-2. à la rémunération correspondant aux taux de salaires minima ainsi qu’à tous les éléments constitutifs du salaire fixés par une disposition légale, réglementaire, administrative, ou par une convention collective déclarée d’obligation générale ou par un accord en matière de dialogue social interprofessionnel déclaré d’obligation générale et à l’adaptation automatique du salaire à l’évolution du coût de la vie ;
-3. à la durée du travail, au temps de pause, au repos journalier et au repos hebdomadaire ;
-4. au congé payé ;
-5. aux congés collectifs ;
-6. aux jours fériés légaux ;
-7. à la réglementation du travail intérimaire et du prêt de main-d’œuvre ;
-8. à la réglementation du travail à temps partiel et à durée déterminée ;
-9. aux mesures de protection applicables aux conditions de travail et d’emploi des enfants et des jeunes, des femmes enceintes et des femmes venant d’accoucher ;
-10. à l’égalité de traitement entre les hommes et les femmes et à la non-discrimination ;
-11. aux conventions collectives de travail ;
-12. à l’inactivité obligatoire conformément à la législation sur le chômage intempéries et le chômage technique ;
-13. au travail clandestin ou illégal, y compris les dispositions concernant les autorisations de travail pour salariés non ressortissants d’un État membre de l’Espace économique européen ;
-14. à la sécurité et la santé des salariés sur le lieu de travail en général et plus particulièrement aux prescriptions minimales de sécurité et de santé établies par voie de règlement grand-ducal sur base de l’article L. 314-2 ;
-15. aux conditions d’hébergement du salarié lorsque l’employeur met à disposition un logement au salarié éloigné de son lieu de travail habituel ;
-16. aux allocations ou au remboursement de dépenses en vue de couvrir les dépenses de voyage, de logement ou de nourriture encourues par le salarié éloigné de son domicile pour des raisons professionnelles.
+2° à la rémunération correspondant aux taux de salaires minima ainsi qu’à tous les éléments constitutifs du salaire fixés par une disposition légale, réglementaire, administrative, ou par une convention collective déclarée d’obligation générale ou par un accord en matière de dialogue social interprofessionnel déclaré d’obligation générale et à l’adaptation automatique du salaire à l’évolution du coût de la vie ;
+
+3° à la durée du travail, au temps de pause, au repos journalier et au repos hebdomadaire ;
+
+4° au congé payé ;
+
+5° aux congés collectifs ;
+
+6° aux jours fériés légaux ;
+
+7° à la réglementation du travail intérimaire et du prêt de main-d’œuvre ;
+
+8° à la réglementation du travail à temps partiel et à durée déterminée ;
+
+9° aux mesures de protection applicables aux conditions de travail et d’emploi des enfants et des jeunes, des femmes enceintes et des femmes venant d’accoucher ;
+
+10° à l’égalité de traitement entre les hommes et les femmes et à la non-discrimination ;
+
+11° aux conventions collectives de travail ;
+
+12° à l’inactivité obligatoire conformément à la législation sur le chômage intempéries et le chômage technique ;
+
+13° au travail clandestin ou illégal, y compris les dispositions concernant les autorisations de travail pour salariés non ressortissants d’un État membre de l’Espace économique européen ;
+
+14° à la sécurité et la santé des salariés sur le lieu de travail en général et plus particulièrement aux prescriptions minimales de sécurité et de santé établies par voie de règlement grand-ducal sur base de l’article L. 314-2 ;
+
+15° aux conditions d’hébergement du salarié lorsque l’employeur met à disposition un logement au salarié éloigné de son lieu de travail habituel ;
+
+16° aux allocations ou au remboursement de dépenses en vue de couvrir les dépenses de voyage, de logement ou de nourriture encourues par le salarié éloigné de son domicile pour des raisons professionnelles.
 
 ### Art. L. 010-2 — ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo))
 
@@ -86,20 +99,33 @@ Si l’apprentissage se fait selon le système pluriel de lieux de formation, un
 
 Le contrat d’apprentissage mentionne obligatoirement :
 
-1. les nom, prénoms, profession, numéro d’identification et adresse d’exercice du patron formateur ou, le cas échéant, le domicile du patron formateur ; lorsqu’il s’agit d’une personne morale, la dénomination, le siège social, les nom, prénoms et qualité des personnes qui la représentent au contrat et du patron formateur et le cas échéant le numéro sous lequel elle est inscrite au registre de commerce ;
-2. les nom, prénoms, numéro d’identification, date et lieu de naissance, sexe, nationalité, coordonnées de contact et domicile de l’apprenti, s’il est mineur, les nom, prénoms et domicile de son représentant légal ;
-3. les objectifs et les modalités de formation dans le métier ou la profession concernés ;
-4. la date de la signature, la date du début et la durée du contrat ;
-5. le détail des droits et devoirs des parties contractantes, ainsi que le cas échéant, les conventions collectives régissant les conditions de travail dans le métier ou la profession concernés, ou s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
-6. le montant de l’indemnité de base et le cas échéant, tous les compléments de l’indemnité de base, les accessoires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément, ainsi que la périodicité et les modalités de versement de l’indemnité auquel l’apprenti a droit ;
-7. la période d’essai qui est de trois mois, ainsi que ses conditions d’application ;
-8. la durée du congé payé auquel l’apprenti a droit ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités d’attribution et de détermination de ce congé ;
-9. la durée et l’horaire normal de travail, ainsi que les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération et le cas échéant, toutes les modalités relatives au changement d’équipe ;
-10. le lieu de l’apprentissage : un lieu fixe ou prédominant ou, à défaut, le principe selon lequel l’apprenti sera occupé à des lieux divers se situant au Luxembourg ou à l’étranger ou sera libre de déterminer son lieu de travail ;
-11. en cas de système pluriel de lieux de formation : les enseignes, adresses et personnes de contact des lieux de formation ;
-12. les nom, prénoms et coordonnées de contact du tuteur ;
-13. l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif, ainsi que le cas échéant, l’existence et la nature d’un régime complémentaire de pension, le caractère obligatoire ou facultatif de ce régime, les droits à des prestations y afférentes, ainsi que l’existence éventuelle de cotisations personnelles ;
-14. la procédure à observer par l’apprenti ou l’organisme de formation en cas de résiliation du contrat d’apprentissage, y compris les conditions de forme et les délais de préavis à respecter ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités de détermination de ces délais.
+1° les nom, prénoms, profession, numéro d’identification et adresse d’exercice du patron formateur ou, le cas échéant, le domicile du patron formateur ; lorsqu’il s’agit d’une personne morale, la dénomination, le siège social, les nom, prénoms et qualité des personnes qui la représentent au contrat et du patron formateur et le cas échéant le numéro sous lequel elle est inscrite au registre de commerce ;
+
+2° les nom, prénoms, numéro d’identification, date et lieu de naissance, sexe, nationalité, coordonnées de contact et domicile de l’apprenti, s’il est mineur, les nom, prénoms et domicile de son représentant légal ;
+
+3° les objectifs et les modalités de formation dans le métier ou la profession concernés ;
+
+4° la date de la signature, la date du début et la durée du contrat ;
+
+5° le détail des droits et devoirs des parties contractantes, ainsi que le cas échéant, les conventions collectives régissant les conditions de travail dans le métier ou la profession concernés, ou s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
+
+6° le montant de l’indemnité de base et le cas échéant, tous les compléments de l’indemnité de base, les accessoires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément, ainsi que la périodicité et les modalités de versement de l’indemnité auquel l’apprenti a droit ;
+
+7° la période d’essai qui est de trois mois, ainsi que ses conditions d’application ;
+
+8° la durée du congé payé auquel l’apprenti a droit ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités d’attribution et de détermination de ce congé ;
+
+9° la durée et l’horaire normal de travail, ainsi que les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération et le cas échéant, toutes les modalités relatives au changement d’équipe ;
+
+10° le lieu de l’apprentissage : un lieu fixe ou prédominant ou, à défaut, le principe selon lequel l’apprenti sera occupé à des lieux divers se situant au Luxembourg ou à l’étranger ou sera libre de déterminer son lieu de travail ;
+
+11° en cas de système pluriel de lieux de formation : les enseignes, adresses et personnes de contact des lieux de formation ;
+
+12° les nom, prénoms et coordonnées de contact du tuteur ;
+
+13° l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif, ainsi que le cas échéant, l’existence et la nature d’un régime complémentaire de pension, le caractère obligatoire ou facultatif de ce régime, les droits à des prestations y afférentes, ainsi que l’existence éventuelle de cotisations personnelles ;
+
+14° la procédure à observer par l’apprenti ou l’organisme de formation en cas de résiliation du contrat d’apprentissage, y compris les conditions de forme et les délais de préavis à respecter ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités de détermination de ces délais.
 
 Les données concernant le sexe et la nationalité de l’apprenti sont utilisées à des fins statistiques par les chambres professionnelles patronales.
 
@@ -113,13 +139,15 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 (1 *bis* ) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) Si l’apprenti est amené à exercer son travail pendant plus de quatre semaines consécutives hors du territoire du Grand-Duché de Luxembourg, l’organisme de formation est tenu de lui délivrer, sous réserve du respect des dispositions du paragraphe 1 <sup>er</sup> , avant son départ, un document écrit devant comporter au moins l’information sur les éléments suivants :
 
-1. le ou les pays dans lequel la prestation de travail doit être effectuée et la durée de travail exercé à l’étranger ;
-2. la devise servant au paiement de l’indemnité de base, ainsi que la rémunération à laquelle il a droit en vertu des dispositions de l’État membre d’accueil ;
-3. le cas échéant, les avantages en espèces et en nature liés au déplacement temporaire de l’apprenti, ainsi que les allocations propres au détachement et les modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
-4. le cas échéant, les conditions de rapatriement de l’apprenti ;
-5. le lien vers le site internet national officiel mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la
+1° le ou les pays dans lequel la prestation de travail doit être effectuée et la durée de travail exercé à l’étranger ;
 
-   [directive 2014/67/UE](https://legilux.public.lu/eli/dir_ue/2014/67/jo) du Parlement européen et du Conseil du 15 mai 2014 relative à l’exécution de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services et modifiant le [règlement (UE) n°1024/2012](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur (« [règlement IMI](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) »).
+2° la devise servant au paiement de l’indemnité de base, ainsi que la rémunération à laquelle il a droit en vertu des dispositions de l’État membre d’accueil ;
+
+3° le cas échéant, les avantages en espèces et en nature liés au déplacement temporaire de l’apprenti, ainsi que les allocations propres au détachement et les modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
+
+4° le cas échéant, les conditions de rapatriement de l’apprenti ;
+
+5° le lien vers le site internet national officiel mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la [directive 2014/67/UE](https://legilux.public.lu/eli/dir_ue/2014/67/jo) du Parlement européen et du Conseil du 15 mai 2014 relative à l’exécution de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services et modifiant le [règlement (UE) n°1024/2012](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur (« [règlement IMI](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) »).
 
 L’information sur les éléments visés à l’alinéa 1 <sup>er</sup> , point 2°, peut, le cas échéant, résulter d’une référence aux dispositions légales, réglementaires, statutaires, administratives, ou aux conventions collectives régissant la matière visée.
 
@@ -179,10 +207,13 @@ Si ces conditions ne sont plus remplies, les autorités qui ont accordé le droi
 
 (2) Sont incapables de former un apprenti :
 
-1. ceux qui ont subi une condamnation pour crime ;
-2. ceux qui sont en état de faillite ou qui ont été condamnés pour banqueroute frauduleuse ;
-3. ceux qui ont été condamnés pour attentat aux moeurs ;
-4. ceux qui ont été condamnés à plus de trois mois d’emprisonnement.
+1\. ceux qui ont subi une condamnation pour crime ;
+
+2\. ceux qui sont en état de faillite ou qui ont été condamnés pour banqueroute frauduleuse ;
+
+3\. ceux qui ont été condamnés pour attentat aux moeurs ;
+
+4\. ceux qui ont été condamnés à plus de trois mois d’emprisonnement.
 
 (3) ([L. 4 juin 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/06/04/a476/jo)) Les conditions de qualification professionnelle requises pour former un apprenti sont définies pour les différents secteurs par la chambre patronale compétente en accord avec la chambre salariale compétente, respectivement par le ministre ayant la Formation professionnelle dans ses attributions pour les organismes de formation ne relevant pas d’une chambre patronale, en accord avec la chambre salariale compétente.
 
@@ -204,17 +235,23 @@ La personne qui bénéficie d’un poste d’apprentissage obtenu de sa propre i
 
 (1) Le contrat d’apprentissage prend fin :
 
-1. par la réussite à la formation en question ;
-2. par la cessation des activités du patron formateur ou en cas de retrait du droit de former ;
-3. en cas de résiliation conformément à l’article L. 111-8 ;
-4. en cas de force majeure ;
-5. d’un commun accord entre parties ;
-6. en cas de réorientation obligatoire de l’apprenti ;
-7. si l’apprenti est écarté de la formation ;
-8. en cas d’absence sans motif valable de l’apprenti pendant vingt jours ouvrables en continu dans l’organisme de formation ;
-9. en cas d’épuisement des droits à l’indemnité pécuniaire de maladie accordée à l’apprenti conformément à l’article 9, alinéa 1
+1\. par la réussite à la formation en question ;
 
-   <sup>er</sup> du [Code la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale).
+2\. par la cessation des activités du patron formateur ou en cas de retrait du droit de former ;
+
+3\. en cas de résiliation conformément à l’article L. 111-8 ;
+
+4\. en cas de force majeure ;
+
+5\. d’un commun accord entre parties ;
+
+6\. en cas de réorientation obligatoire de l’apprenti ;
+
+7\. si l’apprenti est écarté de la formation ;
+
+8\. en cas d’absence sans motif valable de l’apprenti pendant vingt jours ouvrables en continu dans l’organisme de formation ;
+
+9\. en cas d’épuisement des droits à l’indemnité pécuniaire de maladie accordée à l’apprenti conformément à l’article 9, alinéa 1 <sup>er</sup> du [Code la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale).
 
 En cas de réussite, de réorientation ou si l’apprenti est écarté de la formation, sur décision du conseil de classe, le contrat prend fin le dernier jour du mois de la notification du résultat ou de la décision aux deux parties au contrat. Les notifications de la réussite et les décisions des conseils de classe sont communiquées par le Service de la formation professionnelle aux chambres professionnelles.
 
@@ -230,12 +267,17 @@ En cas de réussite, de réorientation ou si l’apprenti est écarté de la for
 
 Le contrat d’apprentissage peut être résilié par l’organisme de formation ou par l’apprenti, respectivement son représentant légal, ou par les chambres professionnelles :
 
-1. pour cause d’infraction grave ou répétée aux conditions du contrat ;
-2. si l’une des parties encourt une condamnation à une peine criminelle ;
-3. après la période d’essai, s’il est constaté que l’apprenti est incapable d’apprendre la profession ;
-4. si, pour des raisons de santé constatées par un médecin, l’apprenti n’est plus en mesure d’exercer le métier ou la profession en question ;
-5. pour cause de rupture irrémédiable de la confiance d’une partie envers l’autre ;
-6. en cas de danger pour l’intégrité physique ou morale pour l’une des parties au contrat.
+1\. pour cause d’infraction grave ou répétée aux conditions du contrat ;
+
+2\. si l’une des parties encourt une condamnation à une peine criminelle ;
+
+3\. après la période d’essai, s’il est constaté que l’apprenti est incapable d’apprendre la profession ;
+
+4\. si, pour des raisons de santé constatées par un médecin, l’apprenti n’est plus en mesure d’exercer le métier ou la profession en question ;
+
+5\. pour cause de rupture irrémédiable de la confiance d’une partie envers l’autre ;
+
+6\. en cas de danger pour l’intégrité physique ou morale pour l’une des parties au contrat.
 
 (2) Les chambres professionnelles indiquent, après acceptation de la demande de résiliation, la date de la fin du contrat.
 
@@ -271,16 +313,17 @@ La convention de stage de formation doit être constatée par écrit au plus tar
 
 La convention de stage de formation mentionne obligatoirement :
 
-1. la dénomination et l’adresse de l’établissement scolaire représenté par son directeur ;
-2. les nom, prénoms, numéro d’identification et domicile de l’élève stagiaire ; s’il est mineur les nom, prénoms et domicile de son représentant légal ;
-3. (
+1\. la dénomination et l’adresse de l’établissement scolaire représenté par son directeur ;
 
-   [L. 14 août 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/08/14/a707/jo)) les nom, prénoms, profession, numéro d’identification et domicile du patron ; lorsqu’il s’agit d’une personne morale, la dénomination, le siège ainsi que les noms, prénoms et qualités des personnes qui la représentent à la convention ;
-4. les objectifs et les modalités de formation du stage ;
-5. (
+2\. les nom, prénoms, numéro d’identification et domicile de l’élève stagiaire ; s’il est mineur les nom, prénoms et domicile de son représentant légal ;
 
-   [L. 14 août 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/08/14/a707/jo)) la date et la durée de la convention ;
-6. les droits et devoirs des parties contractantes.
+3\. ([L. 14 août 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/08/14/a707/jo)) les nom, prénoms, profession, numéro d’identification et domicile du patron ; lorsqu’il s’agit d’une personne morale, la dénomination, le siège ainsi que les noms, prénoms et qualités des personnes qui la représentent à la convention ;
+
+4\. les objectifs et les modalités de formation du stage ;
+
+5\. ([L. 14 août 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/08/14/a707/jo)) la date et la durée de la convention ;
+
+6\. les droits et devoirs des parties contractantes.
 
 ([L. 14 août 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/08/14/a707/jo)) Le modèle de la convention est fixé par le ministre ayant la Formation professionnelle dans ses attributions.
 
@@ -308,9 +351,11 @@ Le conseiller à l’apprentissage assure sa mission en tant que représentant d
 
 Dans l’organisme de formation, le conseiller à l’apprentissage intervient :
 
-1. en tant que conseiller sur propre initiative ;
-2. en tant que médiateur, sur requête d’une des parties au contrat ;
-3. en tant que médiateur, suite à une demande de résiliation selon les dispositions de l’article L. 111-9.
+1\. en tant que conseiller sur propre initiative ;
+
+2\. en tant que médiateur, sur requête d’une des parties au contrat ;
+
+3\. en tant que médiateur, suite à une demande de résiliation selon les dispositions de l’article L. 111-9.
 
 ##### Art. L. 111-13 — ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo))
 
@@ -334,8 +379,9 @@ Sans préjudice des dispositions légales existantes, le contrat de louage de se
 
 Par dérogation à l’alinéa qui précède, ne sont pas à considérer comme salariés ceux qui exercent une activité d’entraîneur ou de sportif en exécution d’un contrat qu’ils concluent avec une fédération agréée ou un club affilié, lorsque cette activité se déroule dans les deux circonstances cumulatives suivantes:
 
-- l’activité en question n’est pas exercée à titre principal et régulier, et
-- l’indemnité versée en exécution du contrat ne dépasse pas par an le montant correspondant à douze fois le salaire social minimum mensuel.
+aash l’activité en question n’est pas exercée à titre principal et régulier, et
+
+bash l’indemnité versée en exécution du contrat ne dépasse pas par an le montant correspondant à douze fois le salaire social minimum mensuel.
 
 ###### Art. L. 121-2.
 
@@ -359,20 +405,33 @@ Le contrat doit être passé en double exemplaire, le premier étant remis à l�
 
 (2) Sans préjudice des dispositions de l’article L. 122-2, le contrat de travail doit comporter les mentions ci-après :
 
-1. l’identité des parties à la relation de travail ;
-2. la date du début de l’exécution du contrat de travail ;
-3. le lieu de travail et à défaut de lieu de travail fixe ou prédominant, le principe selon lequel le salarié sera occupé à divers endroits et plus particulièrement à l’étranger ou sera libre de déterminer son lieu de travail, ainsi que le siège ou, le cas échéant, le domicile de l’employeur ;
-4. la nature de l’emploi occupé et, le cas échéant, la description des fonctions ou tâches assignées au salarié au moment de l’engagement et sans préjudice d’une nouvelle affectation ultérieure sous réserve du respect des dispositions de l’article L. 121-7 ;
-5. la durée de travail journalière ou hebdomadaire normale du salarié et les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération ainsi que, le cas échéant, toutes les modalités relatives au changement d’équipe ;
-6. l’horaire normal du travail ;
-7. la rémunération, y compris le salaire de base et, le cas échéant, tous les compléments de salaire, les accessoires de salaires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément, ainsi que la périodicité et les modalités de versement du salaire auquel le salarié a droit ;
-8. la durée du congé payé auquel le salarié a droit ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités d’attribution et de détermination de ce congé ;
-9. la procédure à observer par l’employeur et le salarié en cas de résiliation du contrat de travail, y compris les conditions de forme et les délais de préavis à respecter ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités de détermination de ces délais de préavis ;
-10. la durée et les conditions d’application de la période d’essai éventuellement prévue ;
-11. les clauses dérogatoires ou complémentaires dont les parties ont convenu ;
-12. le cas échéant, la mention des conventions collectives régissant les conditions de travail du salarié ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
-13. l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif, ainsi que le cas échéant, l’existence et la nature d’un régime complémentaire de pension, le caractère obligatoire ou facultatif de ce régime, les droits à des prestations y afférentes ainsi que l’existence éventuelle de cotisations personnelles ;
-14. le cas échéant, le droit à la formation octroyé par l’employeur.
+1° l’identité des parties à la relation de travail ;
+
+2° la date du début de l’exécution du contrat de travail ;
+
+3° le lieu de travail et à défaut de lieu de travail fixe ou prédominant, le principe selon lequel le salarié sera occupé à divers endroits et plus particulièrement à l’étranger ou sera libre de déterminer son lieu de travail, ainsi que le siège ou, le cas échéant, le domicile de l’employeur ;
+
+4° la nature de l’emploi occupé et, le cas échéant, la description des fonctions ou tâches assignées au salarié au moment de l’engagement et sans préjudice d’une nouvelle affectation ultérieure sous réserve du respect des dispositions de l’article L. 121-7 ;
+
+5° la durée de travail journalière ou hebdomadaire normale du salarié et les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération ainsi que, le cas échéant, toutes les modalités relatives au changement d’équipe ;
+
+6° l’horaire normal du travail ;
+
+7° la rémunération, y compris le salaire de base et, le cas échéant, tous les compléments de salaire, les accessoires de salaires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément, ainsi que la périodicité et les modalités de versement du salaire auquel le salarié a droit ;
+
+8° la durée du congé payé auquel le salarié a droit ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités d’attribution et de détermination de ce congé ;
+
+9° la procédure à observer par l’employeur et le salarié en cas de résiliation du contrat de travail, y compris les conditions de forme et les délais de préavis à respecter ou, si cette indication est impossible au moment de la conclusion du contrat, les modalités de détermination de ces délais de préavis ;
+
+10° la durée et les conditions d’application de la période d’essai éventuellement prévue ;
+
+11° les clauses dérogatoires ou complémentaires dont les parties ont convenu ;
+
+12° le cas échéant, la mention des conventions collectives régissant les conditions de travail du salarié ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
+
+13° l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif, ainsi que le cas échéant, l’existence et la nature d’un régime complémentaire de pension, le caractère obligatoire ou facultatif de ce régime, les droits à des prestations y afférentes ainsi que l’existence éventuelle de cotisations personnelles ;
+
+14° le cas échéant, le droit à la formation octroyé par l’employeur.
 
 Les informations sur les éléments visés à l’alinéa 1 <sup>er</sup> , points 5°, 7° à 10°, 13° et 14°, peuvent résulter d’une référence aux dispositions légales, réglementaires, administratives ou statutaires ou aux conventions collectives régissant les matières y visées.
 
@@ -384,13 +443,15 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 (3) Si le salarié est amené à exercer son travail pendant plus de quatre semaines consécutives hors du territoire du Grand-Duché de Luxembourg, l’employeur est tenu de délivrer au salarié, sous réserve du respect des dispositions du paragraphe 2, avant son départ, un document écrit devant comporter au moins les informations suivantes :
 
-1. le ou les pays dans lequel la prestation de travail doit être effectuée et la durée de travail exercé à l’étranger ;
-2. la devise servant au paiement du salaire, ainsi que la rémunération à laquelle il a droit en vertu des dispositions de l’État membre d’accueil ;
-3. le cas échéant, les avantages en espèces et en nature liés au déplacement temporaire du salarié, ainsi que les allocations propres au détachement et les modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
-4. le cas échéant, les conditions de rapatriement du salarié ;
-5. le lien vers le site internet national officiel mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la
+1° le ou les pays dans lequel la prestation de travail doit être effectuée et la durée de travail exercé à l’étranger ;
 
-   [directive 2014/67/UE](https://legilux.public.lu/eli/dir_ue/2014/67/jo) du Parlement européen et du Conseil du 15 mai 2014 relative à l’exécution de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services et modifiant le [règlement (UE) n°1024/2012](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur (« [règlement IMI](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) »).
+2° la devise servant au paiement du salaire, ainsi que la rémunération à laquelle il a droit en vertu des dispositions de l’État membre d’accueil ;
+
+3° le cas échéant, les avantages en espèces et en nature liés au déplacement temporaire du salarié, ainsi que les allocations propres au détachement et les modalités de remboursement des dépenses de voyage, de logement et de nourriture ;
+
+4° le cas échéant, les conditions de rapatriement du salarié ;
+
+5° le lien vers le site internet national officiel mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la [directive 2014/67/UE](https://legilux.public.lu/eli/dir_ue/2014/67/jo) du Parlement européen et du Conseil du 15 mai 2014 relative à l’exécution de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services et modifiant le [règlement (UE) n°1024/2012](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur (« [règlement IMI](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) »).
 
 L’information sur les éléments visés à l’alinéa 1 <sup>er</sup> , point 2°, peut, le cas échéant, résulter d’une référence aux dispositions légales, réglementaires, statutaires, administratives, ou aux conventions collectives régissant les matières visées.
 
@@ -554,17 +615,23 @@ En cas de récidive dans le délai de deux ans, ces peines peuvent être portée
 
 (2) Sont notamment considérés comme tâche précise et non durable au sens des dispositions du paragraphe (1):
 
-1. le remplacement d’un salarié temporairement absent ou dont le contrat de travail est suspendu pour des motifs autres qu’un conflit collectif de travail ou le manque de travail résultant de causes économiques ou d’intempéries, ainsi que le remplacement d’un salarié sous contrat à durée indéterminée dont le poste est devenu vacant, dans l’attente de l’entrée en service effective du salarié appelé à remplacer celui dont le contrat a pris fin;
-2. l’emploi à caractère saisonnier défini par règlement grand-ducal;
-3. les emplois pour lesquels dans certains secteurs d’activité il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de ces emplois, la liste de ces secteurs et emplois étant établie par règlement grand-ducal;
-4. l’exécution d’une tâche occasionnelle et ponctuelle définie et ne rentrant pas dans le cadre de l’activité courante de l’entreprise;
-5. l’exécution d’une tâche précise et non durable en cas de survenance d’un accroissement temporaire et exceptionnel de l’activité de l’entreprise ou en cas de démarrage ou d’extension de l’entreprise;
-6. l’exécution de travaux urgents rendue nécessaire pour prévenir des accidents, pour réparer des insuffisances de matériel, pour organiser des mesures de sauvetage des installations ou des bâtiments de l’entreprise de manière à éviter tout préjudice à l’entreprise et à son personnel;
-7. (
+1\. le remplacement d’un salarié temporairement absent ou dont le contrat de travail est suspendu pour des motifs autres qu’un conflit collectif de travail ou le manque de travail résultant de causes économiques ou d’intempéries, ainsi que le remplacement d’un salarié sous contrat à durée indéterminée dont le poste est devenu vacant, dans l’attente de l’entrée en service effective du salarié appelé à remplacer celui dont le contrat a pris fin;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) l’emploi d’un chômeur inscrit à l’Agence pour le développement de l’emploi, soit dans le cadre d’une mesure d’insertion ou de réinsertion dans la vie active, soit appartenant à une catégorie de chômeurs déclarés éligibles pour l’embauche moyennant contrat à durée déterminée, définie par un règlement grand-ducal à prendre sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés. Les critères déterminant les catégories de chômeurs éligibles tiennent notamment compte de l’âge, de la formation et de la durée d’inscription du chômeur ainsi que du contexte social dans lequel il évolue;
-8. l’emploi destiné à favoriser l’embauche de certaines catégories de demandeurs d’emploi;
-9. l’emploi pour lequel l’employeur s’engage à assurer un complément de formation professionnelle au salarié.
+2\. l’emploi à caractère saisonnier défini par règlement grand-ducal;
+
+3\. les emplois pour lesquels dans certains secteurs d’activité il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de ces emplois, la liste de ces secteurs et emplois étant établie par règlement grand-ducal;
+
+4\. l’exécution d’une tâche occasionnelle et ponctuelle définie et ne rentrant pas dans le cadre de l’activité courante de l’entreprise;
+
+5\. l’exécution d’une tâche précise et non durable en cas de survenance d’un accroissement temporaire et exceptionnel de l’activité de l’entreprise ou en cas de démarrage ou d’extension de l’entreprise;
+
+6\. l’exécution de travaux urgents rendue nécessaire pour prévenir des accidents, pour réparer des insuffisances de matériel, pour organiser des mesures de sauvetage des installations ou des bâtiments de l’entreprise de manière à éviter tout préjudice à l’entreprise et à son personnel;
+
+7\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) l’emploi d’un chômeur inscrit à l’Agence pour le développement de l’emploi, soit dans le cadre d’une mesure d’insertion ou de réinsertion dans la vie active, soit appartenant à une catégorie de chômeurs déclarés éligibles pour l’embauche moyennant contrat à durée déterminée, définie par un règlement grand-ducal à prendre sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés. Les critères déterminant les catégories de chômeurs éligibles tiennent notamment compte de l’âge, de la formation et de la durée d’inscription du chômeur ainsi que du contexte social dans lequel il évolue;
+
+8\. l’emploi destiné à favoriser l’embauche de certaines catégories de demandeurs d’emploi;
+
+9\. l’emploi pour lequel l’employeur s’engage à assurer un complément de formation professionnelle au salarié.
 
 Les emplois visés sous 8 et 9 doivent faire l’objet d’un agrément préalable par le ministre ayant le Travail dans ses attributions.
 
@@ -574,38 +641,33 @@ Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentimen
 
 (3) Par dérogation aux paragraphes (1) et (2) qui précèdent, peuvent être des contrats de travail à durée déterminée:
 
-1. les contrats de travail conclus avec le personnel enseignant-chercheur de l’Université du Luxembourg;
-2. (...)
+1\. les contrats de travail conclus avec le personnel enseignant-chercheur de l’Université du Luxembourg;
 
-   \*(abrogé par la [loi du 7 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/07/n2/jo))*
-3. (
+2\. (...) *(abrogé par la [loi du 7 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/07/n2/jo))*
 
-   [L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) les contrats de travail conclus entre l’Université du Luxembourg, les centres de recherche publics créés sur base de la [loi modifiée du 9 mars 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/03/09/n1/jo) ayant pour objet:
+3\. ([L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) les contrats de travail conclus entre l’Université du Luxembourg, les centres de recherche publics créés sur base de la [loi modifiée du 9 mars 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/03/09/n1/jo) ayant pour objet:
 
-   1. l’organisation de la recherche et du développement technologique dans le secteur public;
-   2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public, respectivement le Centre d’Etudes de Populations, de Pauvreté et de Politiques Socio-Economiques, d’une part, et des chercheurs, d’autre part;
+1\) l’organisation de la recherche et du développement technologique dans le secteur public;
 
-   Aux fins du présent chapitre on entend par chercheur un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
-4. les contrats de formation-recherche conclus par un chercheur en formation et un établissement d’accueil tels que définis à l’article 3 de la
+2\) le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public, respectivement le Centre d’Etudes de Populations, de Pauvreté et de Politiques Socio-Economiques, d’une part, et des chercheurs, d’autre part;
 
-   [loi modifiée du 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n8/jo) portant création d’un fonds national de la recherche dans le secteur public;
-5. les contrats de travail conclus entre un employeur et un étudiant inscrit:
+Aux fins du présent chapitre on entend par chercheur un spécialiste travaillant à la conception ou à la création de connaissances, de produits, de procédés, de méthodes et de systèmes nouveaux et à la gestion des projets concernés;
 
-   1. soit dans une formation au brevet de technicien supérieur dispensée dans le cadre de la
+4\. les contrats de formation-recherche conclus par un chercheur en formation et un établissement d’accueil tels que définis à l’article 3 de la [loi modifiée du 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n8/jo) portant création d’un fonds national de la recherche dans le secteur public;
 
-      [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue;
-   2. soit dans une des formations visées à l’article 6, points (2), (3) et (6) de la
+5\. les contrats de travail conclus entre un employeur et un étudiant inscrit:
 
-      [loi du 12 août 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n17/jo) portant création de l’Université du Luxembourg;
-   3. soit dans une formation menant au grade de bachelor ou de master dispensée par un établissement d’enseignement supérieur autorisé en vertu de la
+a) soit dans une formation au brevet de technicien supérieur dispensée dans le cadre de la [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue;
 
-      [loi du 14 août 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/08/14/n5/jo) déterminant les conditions de création d’établissements privés d’enseignement supérieur;
+b) soit dans une des formations visées à l’article 6, points (2), (3) et (6) de la [loi du 12 août 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n17/jo) portant création de l’Université du Luxembourg;
 
-   ainsi que les contrats conclus entre un employeur et un élève de l’enseignement secondaire et secondaire technique d’un établissement scolaire luxembourgeois sans préjudice de l’article L. 342-1.
+c) soit dans une formation menant au grade de bachelor ou de master dispensée par un établissement d’enseignement supérieur autorisé en vertu de la [loi du 14 août 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/08/14/n5/jo) déterminant les conditions de création d’établissements privés d’enseignement supérieur;
 
-   Pour les contrats visés ci-dessus, la durée hebdomadaire ne peut pas dépasser quinze heures en moyenne, sur une période d’un mois ou de quatre semaines.
+ainsi que les contrats conclus entre un employeur et un élève de l’enseignement secondaire et secondaire technique d’un établissement scolaire luxembourgeois sans préjudice de l’article L. 342-1.
 
-   La limitation de la durée maximale de quinze heures par semaine prévue à l’alinéa qui précède ne s’applique pas aux activités salariées exercées durant les vacances scolaires.
+Pour les contrats visés ci-dessus, la durée hebdomadaire ne peut pas dépasser quinze heures en moyenne, sur une période d’un mois ou de quatre semaines.
+
+La limitation de la durée maximale de quinze heures par semaine prévue à l’alinéa qui précède ne s’applique pas aux activités salariées exercées durant les vacances scolaires.
 
 ##### *Section 2.* — *Forme du contrat à durée déterminée*
 
@@ -613,13 +675,15 @@ Un règlement grand-ducal pris sur avis du Conseil d’Etat et de l’assentimen
 
 (1) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) Sans préjudice des dispositions de l’article L. 121-4, le contrat de travail conclu pour une durée déterminée doit comporter, outre la définition de son objet, les indications ci-après :
 
-1. lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ;
-2. lorsqu’il ne comporte pas de date d’échéance du terme, la durée minimale pour laquelle il est conclu ;
-3. lorsqu’il est conclu pour le remplacement d’un salarié absent, le nom du salarié absent au cas où il s’agit d’un remplacement indirect d’un salarié absent pour cause de congé parental, le contrat indiquera le nom de ce salarié, même si le remplacement s’effectue sur un autre poste ;
-4. la durée et les conditions d’application de la période d’essai éventuellement prévue ;
-5. le cas échéant, la clause de renouvellement visée à l’article L. 122-5, paragraphe 1
+1° lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ;
 
-   <sup>er</sup> .
+2° lorsqu’il ne comporte pas de date d’échéance du terme, la durée minimale pour laquelle il est conclu ;
+
+3° lorsqu’il est conclu pour le remplacement d’un salarié absent, le nom du salarié absent au cas où il s’agit d’un remplacement indirect d’un salarié absent pour cause de congé parental, le contrat indiquera le nom de ce salarié, même si le remplacement s’effectue sur un autre poste ;
+
+4° la durée et les conditions d’application de la période d’essai éventuellement prévue ;
+
+5° le cas échéant, la clause de renouvellement visée à l’article L. 122-5, paragraphe 1 <sup>er</sup> .
 
 Lorsqu’elles n’ont pas été communiquées préalablement, les informations visées à l’alinéa 1 <sup>er</sup> , points 1°, 2° et 4°, sont fournies individuellement au salarié sous la forme d’un ou de plusieurs documents au cours d’une période débutant le premier jour de travail et se terminant le septième jour calendaire au plus tard.
 
@@ -637,9 +701,11 @@ L’ordonnance du président de la juridiction du travail est exécutoire par pr
 
 Il peut toutefois ne pas comporter un terme fixé avec précision, lorsqu’il est conclu dans les cas suivants:
 
-1. pour remplacer un salarié absent ou dont le contrat de travail est suspendu, pour un motif autre qu’un conflit collectif de travail, ou pour remplacer un salarié dont le poste est devenu vacant avant l’entrée en service de son successeur;
-2. pour des emplois à caractère saisonnier;
-3. pour les emplois pour lesquels il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de cet emploi.
+1\. pour remplacer un salarié absent ou dont le contrat de travail est suspendu, pour un motif autre qu’un conflit collectif de travail, ou pour remplacer un salarié dont le poste est devenu vacant avant l’entrée en service de son successeur;
+
+2\. pour des emplois à caractère saisonnier;
+
+3\. pour les emplois pour lesquels il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de cet emploi.
 
 Lorsque dans ces cas le contrat ne comporte pas de terme précis, il doit être conclu pour une durée minimale et il a pour terme la fin de l’empêchement du salarié absent ou la réalisation de l’objet pour lequel il est conclu.
 
@@ -675,23 +741,19 @@ Le contrat conclu pour la durée déterminée d’une saison constitue un contra
 
 (3) Par dérogation aux dispositions du présent article, peuvent être renouvelés plus de deux fois, même pour une durée totale dépassant vingt-quatre mois, sans être considérés comme contrats de travail à durée indéterminée, les contrats de travail à durée déterminée conclus:
 
-1. avec le personnel enseignant-chercheur de l’Université du Luxembourg;
-2. (...)
+1\. avec le personnel enseignant-chercheur de l’Université du Luxembourg;
 
-   \*(abrogé par la [loi du 7 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/07/n2/jo))*
-3. (
+2\. (...) *(abrogé par la [loi du 7 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/07/n2/jo))*
 
-   [L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) sur base du point 5. du paragraphe (3) de l’article L. 122-1 sans pouvoir dépasser cinq ans;
-4. (
+3\. ([L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) sur base du point 5. du paragraphe (3) de l’article L. 122-1 sans pouvoir dépasser cinq ans;
 
-   [L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n12/jo)) entre l’Etat ou la commune, d’une part, et le chargé de direction d’une classe de l’éducation préscolaire ou de l’enseignement primaire, le chargé d’éducation des lycées, l’agent socio-éducatif d’une administration ou service dépendant du département de l’éducation nationale, le chargé de cours du Service de la Formation des adultes, le chargé de cours du Service de la formation professionnelle et le chargé de cours du Centre de Langues Luxembourg, le chargé de cours des instituts et services de l’Education différenciée et le chargé de cours du Centre de logopédie d’autre part, peuvent être renouvelés plus de deux fois, même pour une durée totale excédant vingt-quatre mois;
-5. entre les communes, les syndicats de communes ou les organismes privés, mentionnés à l’article 5 de la
+4\. ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n12/jo)) entre l’Etat ou la commune, d’une part, et le chargé de direction d’une classe de l’éducation préscolaire ou de l’enseignement primaire, le chargé d’éducation des lycées, l’agent socio-éducatif d’une administration ou service dépendant du département de l’éducation nationale, le chargé de cours du Service de la Formation des adultes, le chargé de cours du Service de la formation professionnelle et le chargé de cours du Centre de Langues Luxembourg, le chargé de cours des instituts et services de l’Education différenciée et le chargé de cours du Centre de logopédie d’autre part, peuvent être renouvelés plus de deux fois, même pour une durée totale excédant vingt-quatre mois;
 
-   [loi du 28 avril 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/04/28/n2/jo) portant a) harmonisation de l’enseignement musical dans le secteur communal; b) modification de l’article 5 de la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail; c) modification de la [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat, d’une part, et un chargé de cours de l’enseignement musical, d’autre part;
-6. entre l’Archevêché, d’une part, et un chargé de cours de religion, d’autre part, en vue d’assurer les remplacements temporaires prévus aux articles 7 et 8.B de la Convention approuvée à l’article 1
+5\. entre les communes, les syndicats de communes ou les organismes privés, mentionnés à l’article 5 de la [loi du 28 avril 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/04/28/n2/jo) portant a) harmonisation de l’enseignement musical dans le secteur communal; b) modification de l’article 5 de la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail; c) modification de la [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat, d’une part, et un chargé de cours de l’enseignement musical, d’autre part;
 
-   <sup>er</sup> de la [loi du 10 juillet 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/jo) portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
-7. entre une fédération ou un club sportif, d’une part, et un entraîneur ou un sportif, d’autre part.
+6\. entre l’Archevêché, d’une part, et un chargé de cours de religion, d’autre part, en vue d’assurer les remplacements temporaires prévus aux articles 7 et 8.B de la Convention approuvée à l’article 1 <sup>er</sup> de la [loi du 10 juillet 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/jo) portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
+
+7\. entre une fédération ou un club sportif, d’une part, et un entraîneur ou un sportif, d’autre part.
 
 (4) ([L. 7 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/07/n2/jo)) Par dérogation aux dispositions du présent article, peuvent être renouvelés plus de deux fois, les contrats de travail à durée déterminée conclus par les intermittents du spectacle, tels que définis à l’article 3 de la [loi du 19 décembre 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/jo) relative 1. aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2. à la promotion de la création artistique.
 
@@ -707,13 +769,19 @@ A l’expiration du contrat conclu pour une durée déterminée, il ne peut êtr
 
 Les dispositions du présent article ne sont pas applicables:
 
-1. en cas de nouvelle absence du salarié remplacé;
-2. en cas d’exécution de travaux urgents;
-3. en cas de contrat saisonnier;
-4. en cas de contrat destiné à pourvoir un emploi pour lequel il est d’usage constant de ne pas recourir au contrat à durée indéterminée;
-5. en cas de rupture anticipée du fait du salarié sous contrat à durée déterminée;
-6. en cas de refus par le salarié de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir;
-7. en cas de contrat conclu sur la base des numéros 7, 8 et 9 de l’article L. 122-1, paragraphe (2).
+1\. en cas de nouvelle absence du salarié remplacé;
+
+2\. en cas d’exécution de travaux urgents;
+
+3\. en cas de contrat saisonnier;
+
+4\. en cas de contrat destiné à pourvoir un emploi pour lequel il est d’usage constant de ne pas recourir au contrat à durée indéterminée;
+
+5\. en cas de rupture anticipée du fait du salarié sous contrat à durée déterminée;
+
+6\. en cas de refus par le salarié de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir;
+
+7\. en cas de contrat conclu sur la base des numéros 7, 8 et 9 de l’article L. 122-1, paragraphe (2).
 
 ###### Art. L. 122-8.
 
@@ -821,10 +889,13 @@ Dans un délai d’un mois à compter de la demande du salarié visée à l’al
 
 (1) Sans préjudice des dispositions de l’article L. 121-4, le contrat de travail du salarié à temps partiel doit mentionner:
 
-1. la durée hebdomadaire du travail convenue entre parties;
-2. les modalités de la répartition de la durée de travail entre les jours de la semaine; une modification éventuelle de cette répartition ne peut avoir lieu que d’un commun accord des parties du contrat;
-3. le cas échéant les limites, conditions et modalités dans lesquelles peuvent être effectuées par le salarié à temps partiel des heures supplémentaires conformément aux articles L. 211-19 à L. 211-24; une modification de ces limites, conditions et modalités ne peut avoir lieu que d’un commun accord des parties au contrat;
-4. les limites et les modalités s’appliquant à la mise en oeuvre des dispositions du paragraphe (2) de l’article L. 123-1.
+1° la durée hebdomadaire du travail convenue entre parties;
+
+2° les modalités de la répartition de la durée de travail entre les jours de la semaine; une modification éventuelle de cette répartition ne peut avoir lieu que d’un commun accord des parties du contrat;
+
+3° le cas échéant les limites, conditions et modalités dans lesquelles peuvent être effectuées par le salarié à temps partiel des heures supplémentaires conformément aux articles L. 211-19 à L. 211-24; une modification de ces limites, conditions et modalités ne peut avoir lieu que d’un commun accord des parties au contrat;
+
+4° les limites et les modalités s’appliquant à la mise en oeuvre des dispositions du paragraphe (2) de l’article L. 123-1.
 
 (2) À défaut d’écrit mentionnant la durée du travail du salarié à temps partiel, ainsi que sa répartition, le salarié est présumé être engagé à temps plein.
 
@@ -902,9 +973,11 @@ Si le salarié dûment convoqué ne se présente pas, le licenciement peut être
 
 (2) En cas de licenciement d’un salarié à l’initiative de l’employeur, le contrat de travail prend fin:
 
-- à l’expiration d’un délai de préavis de deux mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus inférieure à cinq ans;
-- à l’expiration d’un délai de préavis de quatre mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus comprise entre cinq ans et moins de dix ans;
-- à l’expiration d’un délai de préavis de six mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus de dix ans au moins.
+aone à l’expiration d’un délai de préavis de deux mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus inférieure à cinq ans;
+
+bone à l’expiration d’un délai de préavis de quatre mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus comprise entre cinq ans et moins de dix ans;
+
+cone à l’expiration d’un délai de préavis de six mois pour le salarié qui justifie auprès du même employeur d’une ancienneté de services continus de dix ans au moins.
 
 (3) Les délais de préavis visés au paragraphe (2) prennent cours à l’égard du salarié: le quinzième jour du mois de calendrier au cours duquel la résiliation a été notifiée, lorsque la notification est antérieure à ce jour; le premier jour du mois de calendrier qui suit celui au cours duquel la résiliation a été notifiée, lorsque la notification est postérieure au quatorzième jour du mois.
 
@@ -944,23 +1017,33 @@ L’ancienneté de service est appréciée à la date d’expiration du délai d
 
 L’indemnité de départ visée à l’alinéa 1 ne peut être inférieure à:
 
-- un mois de salaire après une ancienneté de service continus de cinq années au moins;
-- deux mois de salaire après une ancienneté de service continus de dix années au moins;
-- trois mois de salaire après une ancienneté de service continus de quinze années au moins;
-- six mois de salaire après une ancienneté de service continus de vingt années au moins;
-- neuf mois de salaire après une ancienneté de service continus de vingt-cinq années au moins;
-- douze mois de salaire après une ancienneté de service continus de trente années au moins.
+aash un mois de salaire après une ancienneté de service continus de cinq années au moins;
+
+bash deux mois de salaire après une ancienneté de service continus de dix années au moins;
+
+cash trois mois de salaire après une ancienneté de service continus de quinze années au moins;
+
+dash six mois de salaire après une ancienneté de service continus de vingt années au moins;
+
+eash neuf mois de salaire après une ancienneté de service continus de vingt-cinq années au moins;
+
+fash douze mois de salaire après une ancienneté de service continus de trente années au moins.
 
 L’indemnité de départ ne se confond pas avec la réparation visée à l’article L. 124-12.
 
 (2) L’employeur occupant moins de vingt salariés peut opter dans la lettre de licenciement soit pour le versement des indemnités visées au paragraphe (1) qui précède, soit pour la prolongation des délais de préavis visés à l’article L. 124-3 qui, dans ce cas, sont portés:
 
-- à cinq mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de cinq années au moins;
-- à huit mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de dix années au moins;
-- à neuf mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de quinze années au moins;
-- à douze mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de vingt années au moins;
-- à quinze mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de vingt-cinq années au moins;
-- à dix-huit mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de trente années au moins.
+aash à cinq mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de cinq années au moins;
+
+bash à huit mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de dix années au moins;
+
+cash à neuf mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de quinze années au moins;
+
+dash à douze mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de vingt années au moins;
+
+eash à quinze mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de vingt-cinq années au moins;
+
+fash à dix-huit mois pour le salarié justifiant auprès du même employeur d’une ancienneté de service continus de trente années au moins.
 
 (3) L’indemnité est calculée sur la base des salaires bruts effectivement versés au salarié pour les douze derniers mois qui précèdent immédiatement celui de la notification de la résiliation.
 
@@ -1080,10 +1163,9 @@ Sous peine de nullité, le commun accord doit être constaté par écrit en doub
 
 Sauf continuation des affaires par le curateur ou le successeur de l’employeur, le salarié a droit:
 
-1. au maintien des salaires se rapportant au mois de la survenance de l’événement et au mois subséquent, et
-2. (
+1\. au maintien des salaires se rapportant au mois de la survenance de l’événement et au mois subséquent, et
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) à l’attribution d’une indemnité égale à cinquante pour cent des mensualités se rapportant au délai de préavis auquel le salarié aurait pu prétendre conformément aux dispositions de l’article L. 124-3. L’indemnité de préavis est calculée conformément au paragraphe 3 de l’article L.124-3.
+2\. ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) à l’attribution d’une indemnité égale à cinquante pour cent des mensualités se rapportant au délai de préavis auquel le salarié aurait pu prétendre conformément aux dispositions de l’article L. 124-3. L’indemnité de préavis est calculée conformément au paragraphe 3 de l’article L.124-3.
 
 Les salaires et indemnités allouées au salarié conformément à l’alinéa qui précède ne peuvent toutefois excéder le montant des salaires et indemnités auxquelles il aurait pu prétendre en cas de licenciement avec préavis.
 
@@ -1091,11 +1173,11 @@ Les salaires et indemnités allouées au salarié conformément à l’alinéa q
 
 Peuvent toutefois prétendre au maintien du salaire se rapportant à la fin du mois de la survenance de décès du salarié et à l’attribution d’une indemnité égale à trois mensualités de salaire:
 
-1. Le conjoint survivant contre lequel il n’existe pas de jugement de divorce ou de séparation de corps passé en force de chose jugée ou la personne survivante ayant vécu au moment du décès avec l’assuré en partenariat déclaré dans le respect des conditions prévues par la
+1\. Le conjoint survivant contre lequel il n’existe pas de jugement de divorce ou de séparation de corps passé en force de chose jugée ou la personne survivante ayant vécu au moment du décès avec l’assuré en partenariat déclaré dans le respect des conditions prévues par la [loi du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets de certains partenariats,
 
-   [loi du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets de certains partenariats,
-2. les enfants mineurs du salarié décédé et les enfants majeurs dont il a assumé au moment de son décès l’entretien et l’éducation, sinon
-3. les ascendants ayant vécu en communauté domestique avec le salarié à condition que leur entretien fût à sa charge.
+2\. les enfants mineurs du salarié décédé et les enfants majeurs dont il a assumé au moment de son décès l’entretien et l’éducation, sinon
+
+3\. les ascendants ayant vécu en communauté domestique avec le salarié à condition que leur entretien fût à sa charge.
 
 Si le salarié décédé a eu la jouissance d’un logement gratuit, l’employeur doit laisser ce logement gratuitement à la disposition des personnes visées à l’alinéa qui précède jusqu’à l’expiration des trois mois qui suivent celui de la survenance du décès.
 
@@ -1113,15 +1195,15 @@ Le contrat de travail cesse de plein droit le jour de l’attribution au salari�
 
 Le contrat de travail cesse de plein droit:
 
-1. le jour de la décision portant attribution au salarié d’une pension d’invalidité; au cas où le salarié continue à exercer ou reprend une activité professionnelle en conformité avec les dispositions légales régissant la pension d’invalidité, un nouveau contrat de travail peut être conclu;
-2. le jour de l’épuisement des droits du salarié à l’indemnité pécuniaire de maladie lui accordée conformément à l’article 9, alinéa 1 du
+1\. le jour de la décision portant attribution au salarié d’une pension d’invalidité; au cas où le salarié continue à exercer ou reprend une activité professionnelle en conformité avec les dispositions légales régissant la pension d’invalidité, un nouveau contrat de travail peut être conclu;
 
-   [Code des assurances sociales](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) ;
-3. (
+2\. le jour de l’épuisement des droits du salarié à l’indemnité pécuniaire de maladie lui accordée conformément à l’article 9, alinéa 1 du [Code des assurances sociales](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) ;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) pour le salarié qui présente une incapacité d’exercer son dernier poste de travail, le jour de la notification de la décision de la commission mixte retenant un reclassement professionnel externe;
-4. le jour du retrait de la reconnaissance de la qualité de salarié handicapé à la personne handicapée;
-5. le jour où la confirmation de la décision de réorientation vers le marché du travail ordinaire est notifiée au salarié handicapé par la Commission d’orientation ou par les juridictions compétentes.
+3\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) pour le salarié qui présente une incapacité d’exercer son dernier poste de travail, le jour de la notification de la décision de la commission mixte retenant un reclassement professionnel externe;
+
+4\. le jour du retrait de la reconnaissance de la qualité de salarié handicapé à la personne handicapée;
+
+5\. le jour où la confirmation de la décision de réorientation vers le marché du travail ordinaire est notifiée au salarié handicapé par la Commission d’orientation ou par les juridictions compétentes.
 
 ##### *Section 3.* — *Effets de la cessation du contrat*
 
@@ -1165,9 +1247,11 @@ Dans le cas d’un contrat conclu pour une durée déterminée, le certificat de
 
 Lorsque le salaire annuel excède le niveau déterminé par règlement grand-ducal, la clause de non-concurrence ne produit d’effets qu’aux conditions ci-après:
 
-1. elle doit se rapporter à un secteur professionnel déterminé et à des activités similaires à celles exercées par l’employeur;
-2. elle ne peut prévoir une période supérieure à 12 mois prenant cours le jour où le contrat de travail a pris fin;
-3. elle doit être limitée géographiquement aux localités où le salarié peut faire une concurrence réelle à l’employeur en considérant la nature de l’entreprise et son rayon d’action; en aucun cas elle ne peut s’étendre au-delà du territoire national.
+1\. elle doit se rapporter à un secteur professionnel déterminé et à des activités similaires à celles exercées par l’employeur;
+
+2\. elle ne peut prévoir une période supérieure à 12 mois prenant cours le jour où le contrat de travail a pris fin;
+
+3\. elle doit être limitée géographiquement aux localités où le salarié peut faire une concurrence réelle à l’employeur en considérant la nature de l’entreprise et son rayon d’action; en aucun cas elle ne peut s’étendre au-delà du territoire national.
 
 La clause de non-concurrence est inapplicable lorsque l’employeur a résilié le contrat sans y être autorisé par l’article L. 124-10 ou sans avoir respecté le délai de préavis visé à l’article L. 124-3.
 
@@ -1337,10 +1421,9 @@ Pour l’application des dispositions du présent titre et de ses mesures d’ap
 
 L’autorisation du ministre ayant le Travail dans ses attributions est en outre subordonnée:
 
-1. (...)
+1\. (...) *(abrogé par la [loi du 31 juillet 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/07/31/n1/jo))*
 
-   \*(abrogé par la [loi du 31 juillet 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/07/31/n1/jo))*
-2. à la justification par l’entrepreneur de travail intérimaire d’une garantie financière assurant, à tout moment, en cas de défaillance de sa part, le paiement des salaires et de leurs accessoires, des indemnités ainsi que des charges sociales et fiscales.
+2\. à la justification par l’entrepreneur de travail intérimaire d’une garantie financière assurant, à tout moment, en cas de défaillance de sa part, le paiement des salaires et de leurs accessoires, des indemnités ainsi que des charges sociales et fiscales.
 
 La garantie exigée par l’alinéa qui précède doit résulter d’un engagement de caution pris par une banque, un établissement financier ou une compagnie d’assurances.
 
@@ -1386,12 +1469,17 @@ Le contrat de mission est réputé contrat de travail; nulle preuve n’est admi
 
 ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) Sans préjudice des dispositions de l’article L. 121-4, le contrat de mission doit comporter :
 
-1. l’identité de l’utilisateur ;
-2. la reproduction des clauses et mentions énumérées à l’article L. 131-4, paragraphe 2 ;
-3. lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ; lorsqu’il ne comporte pas de date d’échéance du terme, la durée minimale pour laquelle il est conclu ;
-4. lorsqu’il est conclu pour le remplacement d’un salarié absent, le nom du salarié absent ;
-5. la durée et les conditions d’application de la période d’essai éventuellement prévue ;
-6. le cas échéant, la clause de renouvellement visée à l’article L. 131-9, alinéa 2.
+1° l’identité de l’utilisateur ;
+
+2° la reproduction des clauses et mentions énumérées à l’article L. 131-4, paragraphe 2 ;
+
+3° lorsqu’il est conclu pour une durée précise, la date d’échéance du terme ; lorsqu’il ne comporte pas de date d’échéance du terme, la durée minimale pour laquelle il est conclu ;
+
+4° lorsqu’il est conclu pour le remplacement d’un salarié absent, le nom du salarié absent ;
+
+5° la durée et les conditions d’application de la période d’essai éventuellement prévue ;
+
+6° le cas échéant, la clause de renouvellement visée à l’article L. 131-9, alinéa 2.
 
 Le contrat de mission doit mentionner que l’embauche du salarié par l’utilisateur à l’issue de la mission n’est pas interdite. Est nulle et ne produit pas d’effets, la clause du contrat de mission interdisant au salarié intérimaire de s’engager dans les liens d’un contrat de travail avec l’utilisateur après cessation du contrat de mission.
 
@@ -1421,9 +1509,11 @@ Toutefois, la signature apposée par le salarié sur le double de la lettre vaut
 
 Il peut toutefois ne pas comporter un terme fixé avec précision, lorsqu’il est conclu dans les cas suivants:
 
-1. pour remplacer un salarié absent ou dont le contrat de travail est suspendu pour un motif autre qu’un conflit collectif de travail ou pour remplacer un salarié dont le poste est devenu vacant avant l’entrée en service de son successeur;
-2. pour les emplois à caractère saisonnier;
-3. pour les emplois pour lesquels dans certains secteurs d’activité, il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de cet emploi; la liste de ces secteurs et emplois est établie par le règlement grand-ducal portant application des dispositions des articles L. 122-1, L. 122-4, L. 122-11 et L. 125-8.
+1\. pour remplacer un salarié absent ou dont le contrat de travail est suspendu pour un motif autre qu’un conflit collectif de travail ou pour remplacer un salarié dont le poste est devenu vacant avant l’entrée en service de son successeur;
+
+2\. pour les emplois à caractère saisonnier;
+
+3\. pour les emplois pour lesquels dans certains secteurs d’activité, il est d’usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l’activité exercée ou du caractère par nature temporaire de cet emploi; la liste de ces secteurs et emplois est établie par le règlement grand-ducal portant application des dispositions des articles L. 122-1, L. 122-4, L. 122-11 et L. 125-8.
 
 Lorsque dans ces cas le contrat de mission ne comporte pas de terme précis, il doit être conclu pour une durée minimale et il a pour terme la fin de l’empêchement du salarié absent ou la réalisation de l’objet pour lequel il est conclu.
 
@@ -1453,12 +1543,17 @@ A l’expiration du contrat de mission, il ne peut être recouru, pour pourvoir 
 
 Les dispositions du présent article ne sont pas applicables:
 
-1. en cas de nouvelle absence du salarié remplacé;
-2. en cas d’exécution de travaux urgents;
-3. en cas de contrat saisonnier;
-4. en cas de contrat destiné à pourvoir à un emploi pour lequel il est d’usage constant de ne pas recourir au contrat à durée indéterminée;
-5. en cas de rupture anticipée du fait du salarié sous contrat de mission;
-6. en cas de refus du salarié de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir.
+1\. en cas de nouvelle absence du salarié remplacé;
+
+2\. en cas d’exécution de travaux urgents;
+
+3\. en cas de contrat saisonnier;
+
+4\. en cas de contrat destiné à pourvoir à un emploi pour lequel il est d’usage constant de ne pas recourir au contrat à durée indéterminée;
+
+5\. en cas de rupture anticipée du fait du salarié sous contrat de mission;
+
+6\. en cas de refus du salarié de renouveler son contrat, lorsque ce dernier comporte une clause de renouvellement, pour la durée du contrat non renouvelé restant à courir.
 
 ###### Art. L. 131-12.
 
@@ -1536,14 +1631,13 @@ L’Inspection du travail et des mines publie sur son site internet national off
 
 (1) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Les employeurs autres que les entrepreneurs de travail intérimaire visés à l’article L. 131-1 peuvent être autorisés par le ministre ayant le Travail dans ses attributions, après avis de l’Agence pour le développement de l’emploi, pour une durée qu’il détermine, à mettre leurs salariés à la disposition provisoire d’autres employeurs, en cas:
 
-- de menace de licenciement ou de sous-emploi;
-- (
+aash de menace de licenciement ou de sous-emploi;
 
-  [L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo)) d’exécution d’un travail occasionnel dans la mesure où l’entreprise utilisatrice n’est pas à même d’y répondre par l’embauche de personnel permanent, à condition que cette mise à disposition concerne des entreprises d’un même secteur d’activités;
-- de restructuration au sein d’un groupe d’entreprises;
-- (
+bash ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo)) d’exécution d’un travail occasionnel dans la mesure où l’entreprise utilisatrice n’est pas à même d’y répondre par l’embauche de personnel permanent, à condition que cette mise à disposition concerne des entreprises d’un même secteur d’activités;
 
-  [L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo)) dans le cadre d’un plan de maintien dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans ses attributions.
+cash de restructuration au sein d’un groupe d’entreprises;
+
+dash ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo)) dans le cadre d’un plan de maintien dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans ses attributions.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) En dehors des cas faisant l’objet du paragraphe (1) qui précède, le ministre ayant le Travail dans ses attributions peut exceptionnellement, après avis de l’Agence pour le développement de l’emploi, autoriser des employeurs, pour une durée qu’il détermine, à mettre leurs salariés à la disposition d’autres employeurs à condition et aussi longtemps que cette mise à disposition, sans préjudice de l’application des dispositions du paragraphe (3), est couverte par une convention entre partenaires sociaux ayant qualité de conclure une convention collective conformément aux dispositions du titre VI, chapitre I <sup>er</sup> du présent livre.
 
@@ -1583,12 +1677,11 @@ Les dispositions de la législation du travail luxembourgeoise et les dispositio
 
 (2) Ne sont pas à considérer comme interdits au sens du paragraphe (1) qui précède:
 
-1. ([L. 31 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/31/a823/jo)) l’activité d’établissements, d’associations, d’institutions ayant une personnalité juridique et remplissant des missions à caractère social ainsi que de sociétés d’impact sociétal régies par la [loi modifiée du 12 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/12/n1/jo) portant création des sociétés d’impact sociétal et dont le capital social est constitué à 100 pour cent de parts d’impact, à condition d’avoir été agréés par le ministre ayant le Travail dans ses attributions.
+1\. ([L. 31 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/31/a823/jo)) l’activité d’établissements, d’associations, d’institutions ayant une personnalité juridique et remplissant des missions à caractère social ainsi que de sociétés d’impact sociétal régies par la [loi modifiée du 12 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/12/n1/jo) portant création des sociétés d’impact sociétal et dont le capital social est constitué à 100 pour cent de parts d’impact, à condition d’avoir été agréés par le ministre ayant le Travail dans ses attributions.
 
-   Toutefois, si les services chargés du contrôle de l’application du présent titre constatent que les mises au travail ou les mises à disposition effectuées par ces services, établissements ou institutions visés sont effectuées à des conditions financières excédant le cadre des modalités fixées par voie de règlement grand-ducal, l’agrément ministériel peut être retiré et l’activité en question est à considérer comme illégale au sens du paragraphe (1) du présent article;
-2. le détachement de main-d’oeuvre prévu par les dispositions de l’article L. 631-2, sous 4, ainsi que l’affectation de salariés à des travaux extraordinaires d’intérêt général conformément au livre V, titre I
+Toutefois, si les services chargés du contrôle de l’application du présent titre constatent que les mises au travail ou les mises à disposition effectuées par ces services, établissements ou institutions visés sont effectuées à des conditions financières excédant le cadre des modalités fixées par voie de règlement grand-ducal, l’agrément ministériel peut être retiré et l’activité en question est à considérer comme illégale au sens du paragraphe (1) du présent article;
 
-   <sup>er</sup> , chapitre I <sup>er</sup> , section 3 relative aux travaux extraordinaires d’intérêt général.
+2\. le détachement de main-d’oeuvre prévu par les dispositions de l’article L. 631-2, sous 4, ainsi que l’affectation de salariés à des travaux extraordinaires d’intérêt général conformément au livre V, titre I <sup>er</sup> , chapitre I <sup>er</sup> , section 3 relative aux travaux extraordinaires d’intérêt général.
 
 ##### Art. L. 133-2.
 
@@ -1622,19 +1715,21 @@ Il en est de même du chef d’entreprise qui envisage de mettre à la dispositi
 
 (1) Est passible d’une amende de 500 à 10.000 euros, et, en cas de récidive, d’un emprisonnement de deux à six mois et d’une amende de 1.250 à 12.500 euros, ou d’une de ces peines seulement:
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) toute personne qui met des salariés à la disposition d’utilisateurs en violation des dispositions de l’article L. 133-1;
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) toute personne qui met des salariés à la disposition d’utilisateurs en violation des dispositions de l’article L. 133-1;
-2. tout entrepreneur de travail intérimaire qui:
+2° tout entrepreneur de travail intérimaire qui:
 
-   1. exerce directement ou par personne interposée l’activité d’entrepreneur de travail intérimaire sans être titulaire de l’autorisation du ministre ayant le Travail dans ses attributions visée à l’article L. 131-2;
-   2. met un salarié intérimaire à la disposition d’un utilisateur sans y être autorisé par l’article L. 131-3 ou sans avoir conclu avec celui-ci dans le délai visé à l’article L. 131-4 un contrat écrit de mise à disposition;
-   3. embauche un salarié intérimaire sans avoir conclu avec celui-ci dans le délai visé à l’article L. 131-6 un contrat écrit de mission;
-   4. (
+a) exerce directement ou par personne interposée l’activité d’entrepreneur de travail intérimaire sans être titulaire de l’autorisation du ministre ayant le Travail dans ses attributions visée à l’article L. 131-2;
 
-      [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) son activité sans avoir observé les conditions et obligations lui imposées en application de l’article L. 131-3, paragraphe 1 <sup>er</sup> ;
-   5. commet une infraction aux articles L. 133-1 et L. 133-2;
-3. tout utilisateur qui a recouru à un salarié intérimaire sans y être autorisé par l’article L. 131-3 ou sans avoir conclu avec un entrepreneur de travail intérimaire dans le délai prévu à l’article L. 131-4 un contrat écrit de mise à disposition conforme aux dispositions de cet article.
+b) met un salarié intérimaire à la disposition d’un utilisateur sans y être autorisé par l’article L. 131-3 ou sans avoir conclu avec celui-ci dans le délai visé à l’article L. 131-4 un contrat écrit de mise à disposition;
+
+c) embauche un salarié intérimaire sans avoir conclu avec celui-ci dans le délai visé à l’article L. 131-6 un contrat écrit de mission;
+
+d) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) son activité sans avoir observé les conditions et obligations lui imposées en application de l’article L. 131-3, paragraphe 1 <sup>er</sup> ;
+
+e) commet une infraction aux articles L. 133-1 et L. 133-2;
+
+3° tout utilisateur qui a recouru à un salarié intérimaire sans y être autorisé par l’article L. 131-3 ou sans avoir conclu avec un entrepreneur de travail intérimaire dans le délai prévu à l’article L. 131-4 un contrat écrit de mise à disposition conforme aux dispositions de cet article.
 
 L’amende prévue au présent paragraphe est appliquée autant de fois qu’il y a de salariés à l’égard desquels les dispositions visées ont été violées.
 
@@ -1668,11 +1763,11 @@ L’adaptation automatique des salaires à l’évolution du coût de la vie pr�
 
 ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) Le détachement est réalisé :
 
-1. soit pour le compte et sous la direction de l’entreprise visée au paragraphe 1
+1\. soit pour le compte et sous la direction de l’entreprise visée au paragraphe 1 <sup>er</sup> dans le cadre d’un contrat conclu entre l’entreprise d’envoi et le destinataire de la prestation de services établi ou exerçant son activité sur le territoire du Grand-Duché de Luxembourg ;
 
-   <sup>er</sup> dans le cadre d’un contrat conclu entre l’entreprise d’envoi et le destinataire de la prestation de services établi ou exerçant son activité sur le territoire du Grand-Duché de Luxembourg ;
-2. soit dans un établissement appartenant à l’entreprise d’envoi ou dans une entreprise appartenant au groupe dont fait partie l’entreprise d’envoi ;
-3. soit, sans préjudice de l’application du titre III du livre premier, par une entreprise de travail intérimaire ou par une entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition d’une entreprise utilisatrice établie ou exerçant son activité sur le territoire du Grand-Duché de Luxembourg.
+2\. soit dans un établissement appartenant à l’entreprise d’envoi ou dans une entreprise appartenant au groupe dont fait partie l’entreprise d’envoi ;
+
+3\. soit, sans préjudice de l’application du titre III du livre premier, par une entreprise de travail intérimaire ou par une entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition d’une entreprise utilisatrice établie ou exerçant son activité sur le territoire du Grand-Duché de Luxembourg.
 
 (2 *bis* ) ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) L’entreprise de travail intérimaire ou l’entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition, établie hors du territoire du Grand-Duché de Luxembourg, peut détacher un salarié auprès d’une entreprise utilisatrice établie hors du territoire du Grand-Duché de Luxembourg et exercer temporairement une activité sur le territoire national, à condition qu’il existe une relation de travail entre l’entreprise de travail intérimaire ou l’entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition et le salarié détaché pendant la période de détachement.
 
@@ -1696,8 +1791,9 @@ Le non-respect d’un ou de plusieurs de ces éléments factuels n’entraîne p
 
 (1) ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) L’entreprise qui, au sens de l’article L. 141-1, détache pendant une durée supérieure à douze mois un salarié sur le territoire du Grand-Duché de Luxembourg, est soumise à compter du treizième mois, à toutes les dispositions législatives, réglementaires ou administratives ainsi qu’à celles résultant de conventions collectives déclarées d’obligation générale ou d’un accord en matière de dialogue social interprofessionnel déclaré d’obligation générale, en matière de travail et d’emploi, à l’exception des matières suivantes :
 
-1. les procédures, formalités et conditions régissant la conclusion et la fin du contrat de travail, y compris les clauses de non-concurrence ;
-2. les régimes complémentaires de pension.
+1\. les procédures, formalités et conditions régissant la conclusion et la fin du contrat de travail, y compris les clauses de non-concurrence ;
+
+2\. les régimes complémentaires de pension.
 
 En cas de remplacement d’un salarié détaché par un autre salarié détaché effectuant la même tâche au même endroit, la durée du détachement de douze mois visée à l’alinéa 1 <sup>er</sup> correspond à la durée cumulée des périodes de détachement de chacun des salariés détachés concernés.
 
@@ -1711,19 +1807,31 @@ La durée précitée du détachement est calculée sur une période de référen
 
 (3) ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) Toutefois, la dérogation fixée au paragraphe (2) ne s’applique pas aux activités dans le domaine de la construction qui visent la réalisation, la remise en état, l’entretien, la modification ou l’élimination de constructions, et notamment les travaux suivants:
 
-1. excavation;
-2. terrassement;
-3. construction;
-4. montage et démontage d’éléments préfabriqués, dont les installations sanitaires et de chauffage, l’installation de systèmes d’alarme et d’enseignes lumineuses;
-5. aménagement ou équipement;
-6. transformation;
-7. rénovation;
-8. réparation;
-9. démantèlement;
-10. démolition;
-11. maintenance;
-12. entretien - travaux de peinture et de nettoyage;
-13. assainissement.
+1\. excavation;
+
+2\. terrassement;
+
+3\. construction;
+
+4\. montage et démontage d’éléments préfabriqués, dont les installations sanitaires et de chauffage, l’installation de systèmes d’alarme et d’enseignes lumineuses;
+
+5\. aménagement ou équipement;
+
+6\. transformation;
+
+7\. rénovation;
+
+8\. réparation;
+
+9\. démantèlement;
+
+10\. démolition;
+
+11\. maintenance;
+
+12\. entretien - travaux de peinture et de nettoyage;
+
+13\. assainissement.
 
 ##### Art. L. 141-3.
 
@@ -1763,36 +1871,25 @@ L’assistance administrative est exercée de façon réciproque et à titre gra
 
 (1) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) Aux fins de l’application du présent titre, l’entreprise visée à l’article L. 141-1, paragraphe 1 <sup>er</sup> doit, au plus tard dès le commencement des travaux sur le territoire luxembourgeois, sans préjudice de la possibilité d’une déclaration antérieure décidée par l’entreprise détachante, en informer l’Inspection du travail et des mines, en lui communiquant, sur la plateforme électronique destinée à cet effet, les éléments indispensables à l’obtention du badge social ainsi qu’au contrôle légal à effectuer par l’Inspection du travail et des mines:
 
-1. (
+1° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de l’employeur détachant ;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de l’employeur détachant ;
-2. (
+2° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de la personne morale ou physique déterminée librement et clairement par l’entreprise détachante, présente sur le territoire luxembourgeois pendant la durée de la prestation, qui sera la personne de référence pour communiquer avec l’Inspection du travail et des mines et les autres autorités compétentes énumérées à l’article L. 142-4 en matière de respect des conditions liées au détachement ;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de la personne morale ou physique déterminée librement et clairement par l’entreprise détachante, présente sur le territoire luxembourgeois pendant la durée de la prestation, qui sera la personne de référence pour communiquer avec l’Inspection du travail et des mines et les autres autorités compétentes énumérées à l’article L. 142-4 en matière de respect des conditions liées au détachement ;
-3. (
+2bis° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’adresse sur le territoire luxembourgeois du lieu de conservation des documents visés à l’article L. 142-3 ;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’adresse sur le territoire luxembourgeois du lieu de conservation des documents visés à l’article L. 142-3 ;
-4. (
+3° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la durée prévue du détachement, ainsi que les dates prévues pour le début et la fin du détachement, conformément au contrat de prestation de services;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la durée prévue du détachement, ainsi que les dates prévues pour le début et la fin du détachement, conformément au contrat de prestation de services;
-5. (
+4° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’adresse ou les adresses des lieux de travail au Grand-Duché de Luxembourg;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’adresse ou les adresses des lieux de travail au Grand-Duché de Luxembourg;
-6. (
+4bis° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la nature de l’activité exercée sur le territoire national;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la nature de l’activité exercée sur le territoire national;
-7. (
+5° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) le nom, prénom, lieu de résidence habituelle, date de naissance et nationalité du salarié détaché ;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) le nom, prénom, lieu de résidence habituelle, date de naissance et nationalité du salarié détaché ;
-8. (...) (
+6° (...) ( *supprimé par la [loi du 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)* )
 
-   \*supprimé par la [loi du 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)* )
-9. (
+7° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de l’entreprise sous-traitante directe ;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’identité, l’adresse, ainsi que les coordonnées électroniques et téléphoniques de l’entreprise sous-traitante directe ;
-10. (
-
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) le lieu d’hébergement du salarié détaché visé à l’article L. 010-1, point 15, si celui-ci diffère du lieu de résidence habituelle du salarié.
+8° ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) le lieu d’hébergement du salarié détaché visé à l’article L. 010-1, point 15, si celui-ci diffère du lieu de résidence habituelle du salarié.
 
 ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) Tout changement ultérieur, notamment de la personne de référence visée à l’alinéa 1 <sup>er</sup> , point 2°, du lieu de conservation visé à l’alinéa 1 <sup>er</sup> , point 2bis°, ou du lieu d’hébergement visé au point 8° du même alinéa, devra être signalé par le même biais à l’Inspection du travail et des mines, sans préjudice de la nécessité d’un nouveau contrat de prestation de services ayant un objet différent;
 
@@ -1806,8 +1903,9 @@ L’assistance administrative est exercée de façon réciproque et à titre gra
 
 (3) L’entreprise utilisatrice établie hors du territoire du Grand-Duché de Luxembourg visée à l’article L. 141-1, paragraphe 2 *bis* , et exerçant temporairement son activité sur le territoire national, qui a recours à un salarié détaché par une entreprise de travail intérimaire ou une entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition, établie hors du territoire national, informe préalablement au détachement l’employeur de ce salarié :
 
-1. du détachement de ce salarié ;
-2. des conditions applicables en matière de travail et d’emploi, notamment en matière de rémunération.
+1\. du détachement de ce salarié ;
+
+2\. des conditions applicables en matière de travail et d’emploi, notamment en matière de rémunération.
 
 (4) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) L’entreprise utilisatrice établie ou exerçant son activité sur le territoire du Grand-Duché de Luxembourg visée à l’article L. 141-1, paragraphe 2, point 3°, qui a recours à un salarié détaché par une entreprise de travail intérimaire ou une entreprise qui, dans le cadre d’un prêt temporaire de main-d’œuvre, met un salarié à disposition, informe l’employeur de ce salarié des conditions applicab l es en matière de travail et d’emploi, notamment en matière de rémunération.
 
@@ -1817,27 +1915,31 @@ L’assistance administrative est exercée de façon réciproque et à titre gra
 
 ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) Toute entreprise visée à l’article L. 141-1, paragraphe 1 <sup>er</sup> , conserve pendant la durée du détachement sur le lieu de travail du salarié détaché sur le territoire luxembourgeois ou dans tout lieu accessible à la personne de référence visée à l’article L. 142-2, paragraphe 1 <sup>er</sup> , point 2°, et présente endéans le délai imparti, à la demande de l’Inspection du travail et des mines ou des autres autorités compétentes énumérées à l’article L. 142-4, les documents suivants sur support papier ou en format électronique :
 
-1. (
+1° ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) une copie du contrat de prestation de services conclu avec le maître d’ouvrage, le donneur d’ordre, l’entreprise sous-traitante, leurs cocontractants respectifs ainsi que, le cas échéant, une copie du contrat de mise à disposition ;
 
-   [L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) une copie du contrat de prestation de services conclu avec le maître d’ouvrage, le donneur d’ordre, l’entreprise sous-traitante, leurs cocontractants respectifs ainsi que, le cas échéant, une copie du contrat de mise à disposition ;
-2. (…)
-3. l’original ou la copie du formulaire A1 ou, à défaut, la preuve d’une affiliation du salarié auprès des organismes de sécurité sociale, qui couvre toute la durée du détachement sur le territoire luxembourgeois ;
-4. (…)
-5. (
+2° (…)
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) la copie du contrat de travail au sens de la [directive «(UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne, telle que transposée par la législation de l’État compétent, délivrée par l’autorité de contrôle compétente du pays dans lequel l’entreprise détachante a son siège ou effectue habituellement ses prestations ;
-6. (…)
-7. (…)
-8. les fiches de salaires ainsi que les preuves de paiement pour toute la durée du détachement ;
-9. les pointages indiquant le début, la fin et la durée du travail journalier pour toute la durée du détachement sur le territoire luxembourgeois ;
-10. une copie de l’autorisation de séjour ou d’un titre de séjour pour tout ressortissant de pays tiers détaché sur le territoire luxembourgeois ;
-11. (…)
-12. (
+3° l’original ou la copie du formulaire A1 ou, à défaut, la preuve d’une affiliation du salarié auprès des organismes de sécurité sociale, qui couvre toute la durée du détachement sur le territoire luxembourgeois ;
 
-   [L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) (…)
-13. (
+4° (…)
 
-   [L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) (…).
+5° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) la copie du contrat de travail au sens de la [directive «(UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne, telle que transposée par la législation de l’État compétent, délivrée par l’autorité de contrôle compétente du pays dans lequel l’entreprise détachante a son siège ou effectue habituellement ses prestations ;
+
+6° (…)
+
+7° (…)
+
+8° les fiches de salaires ainsi que les preuves de paiement pour toute la durée du détachement ;
+
+9° les pointages indiquant le début, la fin et la durée du travail journalier pour toute la durée du détachement sur le territoire luxembourgeois ;
+
+10° une copie de l’autorisation de séjour ou d’un titre de séjour pour tout ressortissant de pays tiers détaché sur le territoire luxembourgeois ;
+
+11° (…)
+
+12° ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) (…)
+
+13° ([L. 15 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a1024/jo)) (…).
 
 Les documents doivent être traduits en langue française ou allemande.
 
@@ -1871,9 +1973,11 @@ Les données à caractère personnel ainsi recueillies sont conservées auprès 
 
 Le salarié est ainsi informé de l’action en justice envisagée par l’organisation syndicale par lettre recommandée ou par tout autre moyen permettant de conférer date certaine. Cette lettre précise la nature et l’objet de l’action envisagée par l’organisation syndicale et indique que:
 
-- le salarié peut faire connaître à l’organisation syndicale son opposition à l’action envisagée dans un délai de quinze jours à compter de la réception de la lettre;
-- l’organisation syndicale peut exercer elle-même les voies de recours;
-- le salarié peut, à tout moment, intervenir dans l’instance engagée par l’organisation syndicale.
+aash le salarié peut faire connaître à l’organisation syndicale son opposition à l’action envisagée dans un délai de quinze jours à compter de la réception de la lettre;
+
+bash l’organisation syndicale peut exercer elle-même les voies de recours;
+
+cash le salarié peut, à tout moment, intervenir dans l’instance engagée par l’organisation syndicale.
 
 (4) Lorsqu’une action en justice, relevant du champ d’application du présent Titre, est intentée par un salarié détaché, les organisations syndicales visées peuvent toujours intervenir dans l’instance engagée si la solution du litige peut présenter un intérêt collectif pour ses membres, sauf désaccord dûment écrit de la part de la personne ayant intenté l’action.
 
@@ -1909,8 +2013,9 @@ La notification de l’amende à l’employeur ou à son délégué s’effectue
 
 Le salarié concerné par une cessation des travaux prononcée en application du paragraphe 5 est informé par les agents visés à l’article L. 142-1 :
 
-1. des conditions applicables en matière de rémunération ;
-2. de la possibilité d’introduire une action en justice conformément à l’article L. 143-1.
+1\. des conditions applicables en matière de rémunération ;
+
+2\. de la possibilité d’introduire une action en justice conformément à l’article L. 143-1.
 
 ##### Art. L. 143-3 — ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo))
 
@@ -1924,15 +2029,11 @@ Toutes les décisions administratives prises sur base des dispositions du prése
 
 Le présent chapitre régit:
 
-- (
+aash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’exécution d’une demande adressée par un autre Etat membre au Grand-Duché de Luxembourg concernant une sanction ou une amende administrative pécuniaire infligée à titre définitif dans un autre Etat membre de l’Union européenne à un prestataire de services établi au Grand-Duché de Luxembourg en cas de non-respect des dispositions applicables en matière de détachement de salariés; et
 
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) l’exécution d’une demande adressée par un autre Etat membre au Grand-Duché de Luxembourg concernant une sanction ou une amende administrative pécuniaire infligée à titre définitif dans un autre Etat membre de l’Union européenne à un prestataire de services établi au Grand-Duché de Luxembourg en cas de non-respect des dispositions applicables en matière de détachement de salariés; et
-- (
+bash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la notification à un prestataire de services établi au Grand-Duché de Luxembourg d’une décision, au sens de l’article L. 144-2, rendue dans un autre Etat membre de l’Union européenne; et
 
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la notification à un prestataire de services établi au Grand-Duché de Luxembourg d’une décision, au sens de l’article L. 144-2, rendue dans un autre Etat membre de l’Union européenne; et
-- (
-
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la demande d’exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l’Union européenne concernant une sanction ou une amende administrative pécuniaire infligée à titre définitif au Grand-Duché de Luxembourg à un prestataire de services établi dans un autre Etat membre de l’Union européenne en cas de non-respect des dispositions applicables en matière de détachement de salariés.
+cash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) la demande d’exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l’Union européenne concernant une sanction ou une amende administrative pécuniaire infligée à titre définitif au Grand-Duché de Luxembourg à un prestataire de services établi dans un autre Etat membre de l’Union européenne en cas de non-respect des dispositions applicables en matière de détachement de salariés.
 
 ###### Art. L. 144-2 — ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo))
 
@@ -1946,15 +2047,11 @@ Par sanction ou amende administrative pécuniaire au sens du présent chapitre, 
 
 L’Inspection du travail et des mines est désignée comme autorité compétente:
 
-- (
+aash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour l’émission de demandes d’exécution de décisions, au sens de l’article L. 144-2, vers un autre Etat membre de l’Union européenne;
 
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour l’émission de demandes d’exécution de décisions, au sens de l’article L. 144-2, vers un autre Etat membre de l’Union européenne;
-- (
+bash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour l’exécution sur le territoire national de décisions prononcées dans un autre Etat membre à l’égard d’une personne physique ou morale qui a sa résidence habituelle ou son siège statutaire au Grand-Duché de Luxembourg;
 
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour l’exécution sur le territoire national de décisions prononcées dans un autre Etat membre à l’égard d’une personne physique ou morale qui a sa résidence habituelle ou son siège statutaire au Grand-Duché de Luxembourg;
-- (
-
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour la notification à une personne physique ou morale établie au Grand-Duché de Luxembourg de décisions, au sens de l’article L. 144-2, rendues dans un autre Etat membre.
+cash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) pour la notification à une personne physique ou morale établie au Grand-Duché de Luxembourg de décisions, au sens de l’article L. 144-2, rendues dans un autre Etat membre.
 
 ##### *Section II.* — *([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) Demande d’exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l’Union européenne*
 
@@ -1962,10 +2059,13 @@ L’Inspection du travail et des mines est désignée comme autorité compétent
 
 (1) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) La demande de notification et d’exécution adressée par l’autorité requérante d’un autre Etat membre de l’Union européenne à l’Inspection du travail et des mines indique au moins:
 
-1. le nom et l’adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l’identification de celui-ci;
-2. une synthèse des faits et circonstances de l’infraction, la nature de celle-ci et les règles applicables concernées;
-3. l’instrument permettant l’exécution au Grand-Duché de Luxembourg et tout autre renseignement ou document pertinent, notamment de nature juridique, concernant la plainte correspondante, la sanction ou l’amende administrative pécuniaire; et
-4. le nom, l’adresse et les coordonnées de l’autorité compétente chargée de l’évaluation de la sanction ou de l’amende administrative pécuniaire et, s’il est différent, de l’organisme compétent auprès duquel des informations complémentaires peuvent être obtenues concernant la sanction ou l’amende administrative pécuniaire et les possibilités de contestation de l’obligation de paiement ou de la décision qui inflige celle-ci.
+a) le nom et l’adresse du destinataire, et toute autre donnée ou information pertinente aux fins de l’identification de celui-ci;
+
+b) une synthèse des faits et circonstances de l’infraction, la nature de celle-ci et les règles applicables concernées;
+
+c) l’instrument permettant l’exécution au Grand-Duché de Luxembourg et tout autre renseignement ou document pertinent, notamment de nature juridique, concernant la plainte correspondante, la sanction ou l’amende administrative pécuniaire; et
+
+d) le nom, l’adresse et les coordonnées de l’autorité compétente chargée de l’évaluation de la sanction ou de l’amende administrative pécuniaire et, s’il est différent, de l’organisme compétent auprès duquel des informations complémentaires peuvent être obtenues concernant la sanction ou l’amende administrative pécuniaire et les possibilités de contestation de l’obligation de paiement ou de la décision qui inflige celle-ci.
 
 (2) Outre ce qui a été prévu au paragraphe 1 <sup>er</sup> du présent article, la demande indique la date à laquelle l’arrêt ou la décision est devenu exécutoire ou définitif, une description de la nature et du montant de la sanction ou de l’amende administrative pécuniaire, toute date pertinente dans le cadre du processus d’exécution, y compris si et, dans l’affirmative, comment l’arrêt ou la décision a été signifié ou notifié au défendeur ou a été rendu par défaut, et la confirmation, par l’autorité requérante, que la sanction ou l’amende administrative pécuniaire n’est plus susceptible d’appel, ainsi que la plainte correspondante et les éléments qui la composent.
 
@@ -1975,14 +2075,13 @@ L’Inspection du travail et des mines est désignée comme autorité compétent
 
 ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) La notification d’une décision ou l’exécution d’une sanction ou d’une amende administrative pécuniaire peuvent être refusées dans les cas suivants:
 
-1. (
+a) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) lorsque la demande d’exécution ou de notification ne contient pas les informations visées aux paragraphes 1 <sup>er</sup> et 2 de l’article L.144-5, si elle est incomplète ou si elle ne correspond pas à la décision qui la motive;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) lorsque la demande d’exécution ou de notification ne contient pas les informations visées aux paragraphes 1 <sup>er</sup> et 2 de l’article L.144-5, si elle est incomplète ou si elle ne correspond pas à la décision qui la motive;
-2. (
+b) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) si à la suite d’une vérification par l’Inspection du travail et des mines, il est établi que les sommes à débourser ou les ressources à mobiliser en vue d’exécuter la sanction ou l’amende administrative sont disproportionnées par rapport au montant à recouvrer ou s’il est établi que l’exécution d’une telle sanction se heurte à des difficultés considérables;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) si à la suite d’une vérification par l’Inspection du travail et des mines, il est établi que les sommes à débourser ou les ressources à mobiliser en vue d’exécuter la sanction ou l’amende administrative sont disproportionnées par rapport au montant à recouvrer ou s’il est établi que l’exécution d’une telle sanction se heurte à des difficultés considérables;
-3. lorsque la sanction ou l’amende administrative pécuniaire globale est inférieure à 350 euros ou à l’équivalent de ce montant;
-4. lorsque les droits fondamentaux de la défense et les principes juridiques inscrits dans la Constitution de l’Etat membre requis ne sont pas respectés.
+c) lorsque la sanction ou l’amende administrative pécuniaire globale est inférieure à 350 euros ou à l’équivalent de ce montant;
+
+d) lorsque les droits fondamentaux de la défense et les principes juridiques inscrits dans la Constitution de l’Etat membre requis ne sont pas respectés.
 
 ###### Art. L. 144-7 — ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo))
 
@@ -1996,10 +2095,9 @@ Si, au cours de la procédure d’exécution ou de notification, la sanction ou 
 
 (3) L’Inspection du travail et des mines informe, le plus rapidement possible, l’autorité requérante:
 
-1. de la suite donnée à sa demande de notification et d’exécution et, plus particulièrement, de la date de la notification au destinataire;
-2. (
+a) de la suite donnée à sa demande de notification et d’exécution et, plus particulièrement, de la date de la notification au destinataire;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) des motifs de refus visés à l’article L. 144-6 au cas où elle refuserait de donner suite à une demande de notifier une décision infligeant une sanction ou d’exécution d’une sanction.
+b) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) des motifs de refus visés à l’article L. 144-6 au cas où elle refuserait de donner suite à une demande de notifier une décision infligeant une sanction ou d’exécution d’une sanction.
 
 ###### Art. L. 144-9 — ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo))
 
@@ -2031,28 +2129,31 @@ Elles sont notamment applicables lorsque le salarié mobile effectue un transpor
 
 (1) Ne constituent pas une situation de détachement les situations suivantes :
 
-1. Lorsque le salarié mobile transite sur le territoire d’un État membre sans effectuer de chargement ou de déchargement de marchandises, et sans prendre ni déposer de voyageurs ;
-2. Lorsque le salarié mobile effectue une opération de transport bilatérale de marchandises ;
+1° Lorsque le salarié mobile transite sur le territoire d’un État membre sans effectuer de chargement ou de déchargement de marchandises, et sans prendre ni déposer de voyageurs ;
 
-   Une opération de transport bilatérale de marchandises consiste à faire circuler des marchandises, sur la base d’un contrat de transport, depuis l’État membre d’établissement, au sens de l’article 2, paragraphe 8, du [règlement (CE) n° 1071/2009](https://legilux.public.lu/eli/reg_ue/2009/1071/jo) du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la [directive 96/26/CE](https://legilux.public.lu/eli/dir_ue/1996/26/jo) du Conseil, vers un autre État membre ou vers un pays tiers, ou depuis un autre État membre ou un pays tiers vers l’État membre d’établissement.
-3. Lorsque le salarié mobile effectue une opération de transport bilatérale de voyageurs ;
+2° Lorsque le salarié mobile effectue une opération de transport bilatérale de marchandises ;
 
-   Une opération de transport bilatérale de voyageurs effectuée dans le cadre d’un service occasionnel ou régulier de transport international de voyageurs, au sens du [règlement (CE) n° 1073/2009](https://legilux.public.lu/eli/reg_ue/2009/1073/jo), suppose qu’un salarié mobile réalise l’une des activités suivantes :
+Une opération de transport bilatérale de marchandises consiste à faire circuler des marchandises, sur la base d’un contrat de transport, depuis l’État membre d’établissement, au sens de l’article 2, paragraphe 8, du [règlement (CE) n° 1071/2009](https://legilux.public.lu/eli/reg_ue/2009/1071/jo) du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la [directive 96/26/CE](https://legilux.public.lu/eli/dir_ue/1996/26/jo) du Conseil, vers un autre État membre ou vers un pays tiers, ou depuis un autre État membre ou un pays tiers vers l’État membre d’établissement.
 
-   1. prendre en charge des voyageurs dans l’État membre d’établissement et les déposer dans un autre État membre ou dans un pays tiers ;
-   2. prendre en charge des voyageurs dans un État membre ou dans un pays tiers et les déposer dans l’État membre d’établissement ;
-   3. prendre en charge et déposer des voyageurs dans l’État membre d’établissement afin d’effectuer des excursions locales dans un autre État membre ou dans un pays tiers, conformément au
+3° Lorsque le salarié mobile effectue une opération de transport bilatérale de voyageurs ;
 
-      [règlement (CE) n° 1073/2009](https://legilux.public.lu/eli/reg_ue/2009/1073/jo).
-4. Les activités supplémentaires d’une opération de transport bilatérale s’effectuant dans les conditions suivantes :
+Une opération de transport bilatérale de voyageurs effectuée dans le cadre d’un service occasionnel ou régulier de transport international de voyageurs, au sens du [règlement (CE) n° 1073/2009](https://legilux.public.lu/eli/reg_ue/2009/1073/jo), suppose qu’un salarié mobile réalise l’une des activités suivantes :
 
-   1. Lorsque le salarié mobile effectuant une opération de transport bilatérale de marchandises procède en outre à une activité de chargement ou de déchargement dans les États membres ou pays tiers qu’il traverse, à condition de ne pas charger et décharger les marchandises dans le même État membre.
+a) prendre en charge des voyageurs dans l’État membre d’établissement et les déposer dans un autre État membre ou dans un pays tiers ;
 
-      Toutefois, si une opération de transport bilatérale démarrant dans l’État membre d’établissement, durant laquelle aucune activité supplémentaire n’est effectuée, est suivie d’une opération de transport bilatérale vers l’État membre d’établissement, l’exemption visée à l’alinéa 1 <sup>er</sup> s’applique au maximum à deux activités supplémentaires de chargement ou de déchargement, dans les conditions visées à l’alinéa 1 <sup>er</sup> .
-   2. Lorsqu’un salarié mobile effectuant une opération de transport bilatérale de voyageurs prend en charge des voyageurs à une seule occasion ou dépose des voyageurs à une seule occasion dans les États membres ou les pays tiers qu’il traverse, à condition qu’il ne propose pas de services de transport de voyageurs entre deux endroits dans l’État membre traversé. Cela s’applique également au voyage de retour.
-5. Lorsque le salarié mobile effectue le trajet routier initial ou final d’une opération de transport combiné au sens de la
+b) prendre en charge des voyageurs dans un État membre ou dans un pays tiers et les déposer dans l’État membre d’établissement ;
 
-   [directive 92/106/CEE](https://legilux.public.lu/eli/dir_ue/1992/106/jo) du Conseil du 7 décembre 1992 relative à l’établissement de règles communes pour certains transports combinés de marchandises entre États membres, si le trajet routier, pris isolément, se compose d’opérations de transport bilatérales, dans les limites définies aux points 2° et 4°, lettre a).
+c) prendre en charge et déposer des voyageurs dans l’État membre d’établissement afin d’effectuer des excursions locales dans un autre État membre ou dans un pays tiers, conformément au [règlement (CE) n° 1073/2009](https://legilux.public.lu/eli/reg_ue/2009/1073/jo).
+
+4° Les activités supplémentaires d’une opération de transport bilatérale s’effectuant dans les conditions suivantes :
+
+a) Lorsque le salarié mobile effectuant une opération de transport bilatérale de marchandises procède en outre à une activité de chargement ou de déchargement dans les États membres ou pays tiers qu’il traverse, à condition de ne pas charger et décharger les marchandises dans le même État membre.
+
+Toutefois, si une opération de transport bilatérale démarrant dans l’État membre d’établissement, durant laquelle aucune activité supplémentaire n’est effectuée, est suivie d’une opération de transport bilatérale vers l’État membre d’établissement, l’exemption visée à l’alinéa 1 <sup>er</sup> s’applique au maximum à deux activités supplémentaires de chargement ou de déchargement, dans les conditions visées à l’alinéa 1 <sup>er</sup> .
+
+b) Lorsqu’un salarié mobile effectuant une opération de transport bilatérale de voyageurs prend en charge des voyageurs à une seule occasion ou dépose des voyageurs à une seule occasion dans les États membres ou les pays tiers qu’il traverse, à condition qu’il ne propose pas de services de transport de voyageurs entre deux endroits dans l’État membre traversé. Cela s’applique également au voyage de retour.
+
+5° Lorsque le salarié mobile effectue le trajet routier initial ou final d’une opération de transport combiné au sens de la [directive 92/106/CEE](https://legilux.public.lu/eli/dir_ue/1992/106/jo) du Conseil du 7 décembre 1992 relative à l’établissement de règles communes pour certains transports combinés de marchandises entre États membres, si le trajet routier, pris isolément, se compose d’opérations de transport bilatérales, dans les limites définies aux points 2° et 4°, lettre a).
 
 (2) L’exemption pour les activités supplémentaires visées au paragraphe 1 <sup>er</sup> , point 4°, n’est applicable que jusqu’à la date à partir de laquelle les tachygraphes intelligents respectant l’obligation d’enregistrement des activités de franchissement des frontières et des activités supplémentaires visées à l’article 8, paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> , du [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo) du Parlement européen et du Conseil du 4 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le [règlement (CEE) n° 3821/85](https://legilux.public.lu/eli/reg_ue/1985/13821/jo) du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) du Parlement européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, désigné ci-après « [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo) », doivent être installés dans les véhicules immatriculés dans un État membre pour la première fois, tel qu’il est précisé à l’article 8, paragraphe 1 <sup>er</sup> , alinéa 4, [dudit règlement](https://legilux.public.lu/eli/reg_ue/2014/165/jo), à savoir le 21 août 2023.
 
@@ -2068,15 +2169,19 @@ Cette période de détachement n’est pas cumulable avec les périodes de déta
 
 (1) Aux fins de l’application du présent chapitre, l’entreprise visée à l’article L. 145-1, paragraphe 1 <sup>er</sup> doit, au plus tard dès le commencement du détachement sur le territoire luxembourgeois, soumettre une déclaration de détachement via un formulaire standard multilingue de l’interface publique connectée au système d’information du marché intérieur, désigné ci-après « IMI », institué par le [règlement (UE) n° 1024/2012](https://legilux.public.lu/eli/reg_ue/2012/1024/jo) du Parlement européen et du Conseil du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la [décision 2008/49/CE](http://data.europa.eu/eli/dec/2008/49(1)/oj) de la Commission (« règlement IMI » ) comportant les informations suivantes :
 
-1. l’identité de l’entreprise visée à l’article L. 145-1, paragraphe 1
+1° l’identité de l’entreprise visée à l’article L. 145-1, paragraphe 1 <sup>er</sup> , au moins sous la forme du numéro de licence communautaire s’il est disponible ;
 
-   <sup>er</sup> , au moins sous la forme du numéro de licence communautaire s’il est disponible ;
-2. les coordonnées d’un gestionnaire de transport ou d’une autre personne de contact dans l’État membre d’établissement chargée d’assurer la liaison avec les autorités compétentes du territoire national, et de transmettre et de recevoir des documents ou avis ;
-3. l’identité, l’adresse du lieu de résidence et le numéro du permis de conduire du salarié mobile ;
-4. la date de début du contrat de travail du salarié mobile et le droit applicable à ce contrat ;
-5. les dates prévues pour le début et la fin du détachement ;
-6. la plaque d’immatriculation des véhicules à moteur ;
-7. s’il s’agit d’un transport de marchandises, d’un transport de personnes, d’un transport international ou d’un transport de cabotage.
+2° les coordonnées d’un gestionnaire de transport ou d’une autre personne de contact dans l’État membre d’établissement chargée d’assurer la liaison avec les autorités compétentes du territoire national, et de transmettre et de recevoir des documents ou avis ;
+
+3° l’identité, l’adresse du lieu de résidence et le numéro du permis de conduire du salarié mobile ;
+
+4° la date de début du contrat de travail du salarié mobile et le droit applicable à ce contrat ;
+
+5° les dates prévues pour le début et la fin du détachement ;
+
+6° la plaque d’immatriculation des véhicules à moteur ;
+
+7° s’il s’agit d’un transport de marchandises, d’un transport de personnes, d’un transport international ou d’un transport de cabotage.
 
 (2) Aux fins du contrôle, l’entreprise visée à l’article L. 145-1 tient à jour les déclarations de détachement dans l’interface publique connectée à l’IMI.
 
@@ -2084,13 +2189,11 @@ Cette période de détachement n’est pas cumulable avec les périodes de déta
 
 (1) L’entreprise visée à l’article L. 145-1 est tenue de veiller à ce que le salarié mobile ait à sa disposition, sur support papier ou en format électronique, les documents suivants :
 
-1. une copie de la déclaration de détachement soumise via l’IMI ;
-2. la preuve des opérations de transport ayant lieu sur le territoire national, telle qu’une lettre de voiture électronique (e-CMR) ou les preuves visées à l’article 8, paragraphe 3, du
+1° une copie de la déclaration de détachement soumise via l’IMI ;
 
-   [règlement (CE) n° 1072/2009](https://legilux.public.lu/eli/reg_ue/2009/1072/jo) ;
-3. les enregistrements du tachygraphe, et en particulier les symboles pays des États membres où le salarié mobile a été présent lorsqu’il a procédé aux opérations de transport routier international ou aux transports de cabotage, conformément aux exigences en matière d’enregistrement et de conservation des relevés au titre du
+2° la preuve des opérations de transport ayant lieu sur le territoire national, telle qu’une lettre de voiture électronique (e-CMR) ou les preuves visées à l’article 8, paragraphe 3, du [règlement (CE) n° 1072/2009](https://legilux.public.lu/eli/reg_ue/2009/1072/jo) ;
 
-   [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les [règlements (CEE) n° 3821/85](https://legilux.public.lu/eli/reg_ue/1985/3821/jo) et [(CE) n° 2135/98](https://legilux.public.lu/eli/reg_ue/1998/2135/jo) du Conseil et abrogeant le [règlement (CEE) n° 3820/85](https://legilux.public.lu/eli/reg_ue/1985/3820/jo) du Conseil, ci-après « [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) » et du [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo).
+3° les enregistrements du tachygraphe, et en particulier les symboles pays des États membres où le salarié mobile a été présent lorsqu’il a procédé aux opérations de transport routier international ou aux transports de cabotage, conformément aux exigences en matière d’enregistrement et de conservation des relevés au titre du [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) du Parlement européen et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les [règlements (CEE) n° 3821/85](https://legilux.public.lu/eli/reg_ue/1985/3821/jo) et [(CE) n° 2135/98](https://legilux.public.lu/eli/reg_ue/1998/2135/jo) du Conseil et abrogeant le [règlement (CEE) n° 3820/85](https://legilux.public.lu/eli/reg_ue/1985/3820/jo) du Conseil, ci-après « [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) » et du [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo).
 
 (2) Le salarié mobile est tenu de conserver les documents visés au paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> , points 1° à 3° et de les transmettre sur demande lors d’un contrôle sur route.
 
@@ -2100,18 +2203,17 @@ Cette période de détachement n’est pas cumulable avec les périodes de déta
 
 En cas de demande expresse de l’Inspection du travail et des mines, l’entreprise visée à l’article L. 145-1 est tenue de transmettre après la période de détachement et au plus tard huit semaines après la demande, via l’interface publique connectée IMI, la copie des documents suivants :
 
-1. la preuve des opérations de transport ayant lieu sur le territoire national, telle qu’une lettre de voiture électronique (e-CMR) ou les preuves visées à l’article 8, paragraphe 3, du
+1° la preuve des opérations de transport ayant lieu sur le territoire national, telle qu’une lettre de voiture électronique (e-CMR) ou les preuves visées à l’article 8, paragraphe 3, du [règlement (CE) n° 1072/2009](https://legilux.public.lu/eli/reg_ue/2009/1072/jo) ;
 
-   [règlement (CE) n° 1072/2009](https://legilux.public.lu/eli/reg_ue/2009/1072/jo) ;
-2. les enregistrements du tachygraphe, et en particulier les symboles pays des États membres où le salarié mobile a été présent lorsqu’il a procédé aux opérations de transport routier international ou aux transports de cabotage, conformément aux exigences en matière d’enregistrement et de conservation des relevés au titre du
+2° les enregistrements du tachygraphe, et en particulier les symboles pays des États membres où le salarié mobile a été présent lorsqu’il a procédé aux opérations de transport routier international ou aux transports de cabotage, conformément aux exigences en matière d’enregistrement et de conservation des relevés au titre du [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) et du [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo) ;
 
-   [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo) et du [règlement (UE) n° 165/2014](https://legilux.public.lu/eli/reg_ue/2014/165/jo) ;
-3. des documents ayant trait à la rémunération du salarié mobile pour la période de détachement ;
-4. (
+3° des documents ayant trait à la rémunération du salarié mobile pour la période de détachement ;
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) le contrat de travail au sens de la [directive «(UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne ;
-5. les relevés d’heures relatifs au travail du salarié mobile ;
-6. la preuve de paiement des heures visées au point 5°.
+4° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) le contrat de travail au sens de la [directive «(UE) 2019/1152](https://legilux.public.lu/eli/dir_ue/2019/1152/jo) du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l’Union européenne ;
+
+5° les relevés d’heures relatifs au travail du salarié mobile ;
+
+6° la preuve de paiement des heures visées au point 5°.
 
 Si l’entreprise ne soumet pas les documents demandés dans le délai prévu à l’alinéa 1 <sup>er</sup> , l’Inspection du travail et des mines peut demander, via l’IMI, l’assistance des autorités compétentes de l’État membre d’établissement. Une fois que cette demande a été présentée, les autorités compétentes de l’État membre d’établissement ont accès à la déclaration de détachement et à d’autres informations pertinentes soumises par l’entreprise visée à l’article L. 145-1 via l’interface publique connectée à l’IMI.
 
@@ -2139,18 +2241,29 @@ En cas de détachement dans un autre État membre, l’Inspection du travail et 
 
 Ce contrat doit mentionner :
 
-1. le nom, le prénom, la date de naissance et le domicile de l’élève ou de l’étudiant ;
-2. le nom, prénom et l’adresse de l’employeur ou si l’employeur est une personne morale, la raison sociale et le siège social ;
-3. la date de début et la date de fin du contrat ;
-4. la nature de l’emploi occupé et, le cas échéant, la description des fonctions ou tâches assignées à l’élève ou étudiant au moment de l’engagement, ainsi que le lieu du travail à exécuter ou, à défaut de lieu de travail fixe ou prédominant, le principe selon lequel l’élève ou l’étudiant sera occupé à divers endroits et plus particulièrement à l’étranger ou sera libre de déterminer son lieu de travail, ainsi que le siège ou, le cas échéant, le domicile de l’employeur ;
-5. la durée journalière et hebdomadaire du travail et les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération ainsi que, le cas échéant, toutes les modalités relatives au changement d’équipe ;
-6. le salaire convenu, compte tenu des dispositions de l’article L. 151-5 et, le cas échéant, tous les compléments de salaire, les accessoires de salaires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément ;
-7. l’époque et les modalités de versement du paiement du salaire ;
-8. le lieu où est logé l’élève ou l’étudiant, lorsque l’employeur s’est engagé à le loger ;
-9. la procédure à observer par l’employeur et l’élève ou l’étudiant en cas de résiliation du contrat d’embauche, y compris les conditions de forme à respecter ;
-10. l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif ;
-11. le cas échéant, la mention des conventions collectives régissant les conditions de travail applicables à l’élève ou l’étudiant, ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
-12. le cas échéant, le droit à la formation octroyé par l’employeur.
+1° le nom, le prénom, la date de naissance et le domicile de l’élève ou de l’étudiant ;
+
+2° le nom, prénom et l’adresse de l’employeur ou si l’employeur est une personne morale, la raison sociale et le siège social ;
+
+3° la date de début et la date de fin du contrat ;
+
+4° la nature de l’emploi occupé et, le cas échéant, la description des fonctions ou tâches assignées à l’élève ou étudiant au moment de l’engagement, ainsi que le lieu du travail à exécuter ou, à défaut de lieu de travail fixe ou prédominant, le principe selon lequel l’élève ou l’étudiant sera occupé à divers endroits et plus particulièrement à l’étranger ou sera libre de déterminer son lieu de travail, ainsi que le siège ou, le cas échéant, le domicile de l’employeur ;
+
+5° la durée journalière et hebdomadaire du travail et les modalités relatives à la prestation d’heures supplémentaires et à leur rémunération ainsi que, le cas échéant, toutes les modalités relatives au changement d’équipe ;
+
+6° le salaire convenu, compte tenu des dispositions de l’article L. 151-5 et, le cas échéant, tous les compléments de salaire, les accessoires de salaires, les gratifications ou participations éventuellement convenues qui devront être indiqués séparément ;
+
+7° l’époque et les modalités de versement du paiement du salaire ;
+
+8° le lieu où est logé l’élève ou l’étudiant, lorsque l’employeur s’est engagé à le loger ;
+
+9° la procédure à observer par l’employeur et l’élève ou l’étudiant en cas de résiliation du contrat d’embauche, y compris les conditions de forme à respecter ;
+
+10° l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales et le régime de protection sociale y relatif ;
+
+11° le cas échéant, la mention des conventions collectives régissant les conditions de travail applicables à l’élève ou l’étudiant, ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues ;
+
+12° le cas échéant, le droit à la formation octroyé par l’employeur.
 
 Les informations sur les éléments visés à l’alinéa 2, points 5° à 7°, 9°, 10° et 12°, peuvent résulter d’une référence aux dispositions légales, réglementaires, administratives ou statutaires ou aux conventions collectives régissant les matières y visées.
 
@@ -2200,14 +2313,13 @@ Sont applicables à l’occupation d’élèves ou d’étudiants les dispositio
 
 Toutefois, ne sont pas applicables:
 
-1. les dispositions du livre II, titre III, chapitre III relatif au congé annuel payé des salariés et de ses règlements d’exécution, à l’exception de celles de l’article L. 233-16. Toutefois, les absences prévues à cet article n’ouvrent pas droit au maintien de l’indemnité;
-2. (
+1\. les dispositions du livre II, titre III, chapitre III relatif au congé annuel payé des salariés et de ses règlements d’exécution, à l’exception de celles de l’article L. 233-16. Toutefois, les absences prévues à cet article n’ouvrent pas droit au maintien de l’indemnité;
 
-   [L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) les dispositions du paragraphe (1) de l’article L. 344-13;
-3. les dispositions de l’article 16, paragraphes 2 et 3 de la
+2\. ([L. 19 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/19/n1/jo)) les dispositions du paragraphe (1) de l’article L. 344-13;
 
-   [loi du 8 avril 1982](https://legilux.public.lu/eli/etat/leg/loi/1982/04/08/n1/jo) fixant des mesures spéciales en vue d’assurer le maintien de l’emploi et la compétitivité générale de l’économie;
-4. les dispositions de l’article L. 122-4.
+3\. les dispositions de l’article 16, paragraphes 2 et 3 de la [loi du 8 avril 1982](https://legilux.public.lu/eli/etat/leg/loi/1982/04/08/n1/jo) fixant des mesures spéciales en vue d’assurer le maintien de l’emploi et la compétitivité générale de l’économie;
+
+4\. les dispositions de l’article L. 122-4.
 
 ##### Art. L. 151-8.
 
@@ -2267,14 +2379,21 @@ Tout stage pratique doit faire l’objet d’une convention de stage signée ent
 
 La convention de stage doit obligatoirement mentionner :
 
-1. les activités confiées au stagiaire ;
-2. les dates de début et de fin du stage et la durée hebdomadaire maximale de présence du stagiaire ;
-3. les modalités d’autorisation d’absence, notamment pour se présenter auprès d’un employeur potentiel ;
-4. le cas échéant l’indemnisation du stagiaire ;
-5. la désignation d’un tuteur ;
-6. les avantages éventuels dont le stagiaire peut bénéficier ;
-7. le régime de protection sociale dont bénéficie le stagiaire, notamment en matière d’assurance-accident ;
-8. les modalités de résiliation unilatérale ou d’un commun accord de la convention de stage avant la fin du stage.
+a) les activités confiées au stagiaire ;
+
+b) les dates de début et de fin du stage et la durée hebdomadaire maximale de présence du stagiaire ;
+
+c) les modalités d’autorisation d’absence, notamment pour se présenter auprès d’un employeur potentiel ;
+
+d) le cas échéant l’indemnisation du stagiaire ;
+
+e) la désignation d’un tuteur ;
+
+f) les avantages éventuels dont le stagiaire peut bénéficier ;
+
+g) le régime de protection sociale dont bénéficie le stagiaire, notamment en matière d’assurance-accident ;
+
+h) les modalités de résiliation unilatérale ou d’un commun accord de la convention de stage avant la fin du stage.
 
 ###### Art. L. 152-8.
 
@@ -2382,11 +2501,13 @@ Le secteur considéré doit cependant comprendre plus d’une entreprise. Lorsqu
 
 Pour pouvoir prétendre à l’octroi de la reconnaissance d’une représentativité au sens de l’article L. 161-6, le syndicat doit:
 
-1. avoir présenté des listes et compté des élus lors des dernières élections à la Chambre des salariés;
-2. avoir obtenu
+1\. avoir présenté des listes et compté des élus lors des dernières élections à la Chambre des salariés;
 
-   - soit cinquante pour cent des voix pour le groupe de la Chambre des salariés au cas où le groupe coïncide entièrement avec le champ d’application de la convention collective concernée,
-   - soit, au cas où le groupe de la Chambre des salariés ne coïncide pas entièrement avec le champ d’application de la convention collective concernée, ou si le groupe est composé totalement ou partiellement de salariés non couverts par le champ d’application du présent titre, cinquante pour cent des voix lors des dernières élections aux délégations du personnel du secteur tel que défini conformément à l’article L. 161-6, paragraphe (2). Ne sont prises en considération, dans ce cas, que les voix recueillies par les candidats qui se sont présentés sous le sigle du syndicat demandeur, à l’exclusion des candidats dits neutres.
+2\. avoir obtenu
+
+aash soit cinquante pour cent des voix pour le groupe de la Chambre des salariés au cas où le groupe coïncide entièrement avec le champ d’application de la convention collective concernée,
+
+bash soit, au cas où le groupe de la Chambre des salariés ne coïncide pas entièrement avec le champ d’application de la convention collective concernée, ou si le groupe est composé totalement ou partiellement de salariés non couverts par le champ d’application du présent titre, cinquante pour cent des voix lors des dernières élections aux délégations du personnel du secteur tel que défini conformément à l’article L. 161-6, paragraphe (2). Ne sont prises en considération, dans ce cas, que les voix recueillies par les candidats qui se sont présentés sous le sigle du syndicat demandeur, à l’exclusion des candidats dits neutres.
 
 ###### Art. L. 161-8.
 
@@ -2476,8 +2597,9 @@ Par ailleurs, sur simple demande du salarié, le texte de la convention collecti
 
 (1) Les parties prévues aux articles L. 161-1 et L. 162-2 peuvent décider:
 
-- soit d’exclure les fonctions d’encadrement et de support non directement liées à l’exécution de l’activité principale de l’entreprise ou du secteur des dispositions contenues dans la convention collective en vertu du paragraphe (2) et des points 1. et 2. du paragraphe (3) de l’article L. 162-12;
-- soit de prévoir des conditions divergentes pour les fonctions d’encadrement et de support non directement liées à l’exécution de l’activité principale de l’entreprise ou du secteur concernant les dispositions contenues dans la convention collective en vertu du paragraphe (2) et des points 1. et 2. du paragraphe (3) de l’article L. 162-12.
+aash soit d’exclure les fonctions d’encadrement et de support non directement liées à l’exécution de l’activité principale de l’entreprise ou du secteur des dispositions contenues dans la convention collective en vertu du paragraphe (2) et des points 1. et 2. du paragraphe (3) de l’article L. 162-12;
+
+bash soit de prévoir des conditions divergentes pour les fonctions d’encadrement et de support non directement liées à l’exécution de l’activité principale de l’entreprise ou du secteur concernant les dispositions contenues dans la convention collective en vertu du paragraphe (2) et des points 1. et 2. du paragraphe (3) de l’article L. 162-12.
 
 (2) Pour pouvoir entrer en vigueur, et sous peine du refus du dépôt conformément à l’article L. 162-5, tout amendement ou avenant à une convention collective, respectivement tout autre texte, quelle que soit sa dénomination, modifiant la convention en cours de validité de celle-ci, doit être signé par l’ensemble des signataires originaires.
 
@@ -2487,10 +2609,13 @@ Par ailleurs, sur simple demande du salarié, le texte de la convention collecti
 
 Dans ce cas, la convention collective doit expressément:
 
-1. énoncer qu’il s’agit d’une convention-cadre;
-2. énumérer avec précision les domaines ou matières qui sont à régler aux niveaux de négociation inférieurs;
-3. fixer les niveaux auxquels cette négociation doit se faire, étant entendu que le niveau de négociation ne peut être inférieur à celui de l’entreprise;
-4. fixer les grands principes régissant les matières dont le détail peut être déterminé par des accords aux niveaux inférieurs.
+1\. énoncer qu’il s’agit d’une convention-cadre;
+
+2\. énumérer avec précision les domaines ou matières qui sont à régler aux niveaux de négociation inférieurs;
+
+3\. fixer les niveaux auxquels cette négociation doit se faire, étant entendu que le niveau de négociation ne peut être inférieur à celui de l’entreprise;
+
+4\. fixer les grands principes régissant les matières dont le détail peut être déterminé par des accords aux niveaux inférieurs.
 
 (2) Les accords visés ci-dessus doivent, sous peine de nullité, être signés par les représentants des parties contractantes. Ils n’entrent en vigueur qu’après avoir fait l’objet d’une décision d’acceptation dans les conditions de l’article L. 162-5.
 
@@ -2548,38 +2673,49 @@ Pendant la durée de validité de la convention collective de travail ou de l’
 
 (1) La convention collective de travail et les accords subordonnés fixent, sous peine de nullité:
 
-1. les qualités des parties;
-2. leur champ d’application professionnel et territorial;
-3. leurs date d’entrée en vigueur, durée et délai de dénonciation.
+1\. les qualités des parties;
+
+2\. leur champ d’application professionnel et territorial;
+
+3\. leurs date d’entrée en vigueur, durée et délai de dénonciation.
 
 (2) La convention collective de travail et les accords visés à l’article L. 162-7 déterminent notamment les conditions de travail dont les parties conviennent.
 
 Les conditions de travail à déterminer par les parties comprennent au moins:
 
-1. les conditions d’embauchage et de congédiement des salariés, y compris des mesures appropriées d’accueil et de préparation aux tâches à exécuter;
-2. la durée de travail et son aménagement, le travail supplémentaire et les repos journalier et hebdomadaire;
-3. les jours fériés;
-4. le régime des congés applicable, dont, entre autres, le congé annuel;
-5. le système des salaires ainsi que les éléments de salaire par catégories professionnelles.
+1\. les conditions d’embauchage et de congédiement des salariés, y compris des mesures appropriées d’accueil et de préparation aux tâches à exécuter;
+
+2\. la durée de travail et son aménagement, le travail supplémentaire et les repos journalier et hebdomadaire;
+
+3\. les jours fériés;
+
+4\. le régime des congés applicable, dont, entre autres, le congé annuel;
+
+5\. le système des salaires ainsi que les éléments de salaire par catégories professionnelles.
 
 (3) Toute convention collective de travail doit obligatoirement prévoir:
 
-1. des majorations pour travail de nuit qui ne peuvent être inférieures à quinze pour cent du salaire; dans les entreprises à travail continu, le travail de nuit correspond à celui effectué par les relèves de nuit;
-2. des majorations de salaire pour travaux pénibles, dangereux et insalubres;
-3. les modalités d’application du principe de l’égalité de salaire entre hommes et femmes;
-4. l’inscription des modalités concernant la lutte contre le harcèlement sexuel et moral, dont le mobbing, dans le champ d’application de la convention collective et des sanctions notamment disciplinaires qui peuvent être prises dans ce cadre.
+1\. des majorations pour travail de nuit qui ne peuvent être inférieures à quinze pour cent du salaire; dans les entreprises à travail continu, le travail de nuit correspond à celui effectué par les relèves de nuit;
+
+2\. des majorations de salaire pour travaux pénibles, dangereux et insalubres;
+
+3\. les modalités d’application du principe de l’égalité de salaire entre hommes et femmes;
+
+4\. l’inscription des modalités concernant la lutte contre le harcèlement sexuel et moral, dont le mobbing, dans le champ d’application de la convention collective et des sanctions notamment disciplinaires qui peuvent être prises dans ce cadre.
 
 Lorsqu’il s’agit d’une convention collective couvrant un secteur, une branche ou plusieurs entreprises, celle-ci peut prévoir les conditions auxquelles les modalités d’application concrètes, au niveau de l’entreprise, des cinq domaines énumérés au paragraphe (2), peuvent être fixées par un accord entre partenaires sociaux au niveau approprié.
 
 (4) La convention collective ou les accords subordonnés contiennent obligatoirement des dispositions consignant le résultat des négociations collectives, qui doivent obligatoirement porter sur les sujets suivants:
 
-1. l’organisation du temps de travail, y compris des formules souples de travail, afin de rendre les entreprises productives et compétitives et d’atteindre l’équilibre nécessaire entre souplesse et sécurité; les négociations collectives sur l’organisation du temps de travail portent notamment sur des périodes de référence pour le calcul de la durée de travail, sur la réduction du temps de travail, sur la réduction des heures supplémentaires, sur le développement du travail à temps partiel et sur les interruptions de carrière;
-2. la politique de formation de l’entreprise, du secteur ou de la branche auxquels la convention collective est applicable, et notamment l’accroissement des possibilités de formation, d’expérience professionnelle, de stages, d’apprentissage ou d’autres mesures propres à faciliter la capacité d’insertion professionnelle, notamment en faveur des chômeurs, ainsi que le développement des possibilités de formation tout au long de la vie; le nombre des possibilités supplémentaires ainsi créées est consigné dans la convention collective;
-3. d’une manière générale, les efforts faits par les parties à la convention collective en vue du maintien ou de l’accroissement de l’emploi et de la lutte contre le chômage, notamment en faveur des salariés âgés de plus de quarante-cinq ans; les lignes directrices pour les politiques de l’emploi adoptées annuellement par le Conseil européen et faisant l’objet des plans d’action nationaux en faveur de l’emploi servent de lignes de conduite au cours de ces négociations;
-4. la mise en oeuvre du principe de l’égalité de salaire entre hommes et femmes dans les établissements ou entreprises auxquels la convention collective est applicable; dans ce contexte, les négociations portent notamment sur l’établissement d’un plan d’égalité en matière d’emploi et de salaires et sur les moyens de rendre l’entreprise et la formation continue y offerte accessibles aux personnes désirant réintégrer le marché de l’emploi après une interruption de carrière;
-5. (
+1\. l’organisation du temps de travail, y compris des formules souples de travail, afin de rendre les entreprises productives et compétitives et d’atteindre l’équilibre nécessaire entre souplesse et sécurité; les négociations collectives sur l’organisation du temps de travail portent notamment sur des périodes de référence pour le calcul de la durée de travail, sur la réduction du temps de travail, sur la réduction des heures supplémentaires, sur le développement du travail à temps partiel et sur les interruptions de carrière;
 
-   [L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a344/jo)) les modalités du régime assurant le respect du droit à la déconnexion en dehors du temps de travail.
+2\. la politique de formation de l’entreprise, du secteur ou de la branche auxquels la convention collective est applicable, et notamment l’accroissement des possibilités de formation, d’expérience professionnelle, de stages, d’apprentissage ou d’autres mesures propres à faciliter la capacité d’insertion professionnelle, notamment en faveur des chômeurs, ainsi que le développement des possibilités de formation tout au long de la vie; le nombre des possibilités supplémentaires ainsi créées est consigné dans la convention collective;
+
+3\. d’une manière générale, les efforts faits par les parties à la convention collective en vue du maintien ou de l’accroissement de l’emploi et de la lutte contre le chômage, notamment en faveur des salariés âgés de plus de quarante-cinq ans; les lignes directrices pour les politiques de l’emploi adoptées annuellement par le Conseil européen et faisant l’objet des plans d’action nationaux en faveur de l’emploi servent de lignes de conduite au cours de ces négociations;
+
+4\. la mise en oeuvre du principe de l’égalité de salaire entre hommes et femmes dans les établissements ou entreprises auxquels la convention collective est applicable; dans ce contexte, les négociations portent notamment sur l’établissement d’un plan d’égalité en matière d’emploi et de salaires et sur les moyens de rendre l’entreprise et la formation continue y offerte accessibles aux personnes désirant réintégrer le marché de l’emploi après une interruption de carrière;
+
+5\. ([L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a344/jo)) les modalités du régime assurant le respect du droit à la déconnexion en dehors du temps de travail.
 
 Lorsqu’il s’agit d’une convention collective couvrant un secteur, une branche ou plusieurs entreprises, celle-ci peut prévoir les conditions auxquelles les modalités d’application concrètes, au niveau de l’entreprise, des quatre domaines énumérés à l’alinéa qui précède, peuvent être fixées par un accord entre partenaires sociaux au niveau approprié.
 
@@ -2629,9 +2765,11 @@ Les décisions visées à l’article L. 162-14 sont susceptibles d’un recours
 
 (2) L’Office national de conciliation a pour mission:
 
-1. de résoudre les litiges collectifs en matière de conditions de travail;
-2. de régler les litiges collectifs du travail qui n’ont pas abouti à une convention collective ou à un accord collectif;
-3. d’aviser les demandes en déclaration d’obligation générale des conventions collectives de travail et des accords en matière de dialogue social national ou interprofessionnel conclus conformément au chapitre V du présent titre.
+1\. de résoudre les litiges collectifs en matière de conditions de travail;
+
+2\. de régler les litiges collectifs du travail qui n’ont pas abouti à une convention collective ou à un accord collectif;
+
+3\. d’aviser les demandes en déclaration d’obligation générale des conventions collectives de travail et des accords en matière de dialogue social national ou interprofessionnel conclus conformément au chapitre V du présent titre.
 
 ###### Art. L. 163-2.
 
@@ -2641,8 +2779,9 @@ Les décisions visées à l’article L. 162-14 sont susceptibles d’un recours
 
 (3) On entend par litiges collectifs en matière de conventions collectives relevant de la compétence de l’Office national de conciliation:
 
-- le refus de l’employeur d’entamer des négociations collectives conformément à l’article L. 162-2, paragraphe (4);
-- le désaccord sur une ou plusieurs stipulations de la convention collective définie à l’article L. 161-2.
+aash le refus de l’employeur d’entamer des négociations collectives conformément à l’article L. 162-2, paragraphe (4);
+
+bash le désaccord sur une ou plusieurs stipulations de la convention collective définie à l’article L. 161-2.
 
 (4) Au cas où la direction centrale de l’entreprise chargée d’appliquer le présent titre aux salariés travaillant pour l’entreprise au Luxembourg n’est pas située au Grand-Duché, les litiges collectifs au sens du présent titre concernent, du côté de l’employeur, l’organe ou la personne assumant la direction journalière au Luxembourg.
 
@@ -2666,8 +2805,9 @@ La fonction de conciliateur est dévolue au président conjointement avec les as
 
 (3) Aux fins de l’application de la procédure de vote, la commission paritaire est répartie en deux groupes, à savoir respectivement:
 
-1. le groupe des assesseurs employeurs;
-2. le groupe des assesseurs salariés.
+1\. le groupe des assesseurs employeurs;
+
+2\. le groupe des assesseurs salariés.
 
 (4) La commission paritaire peut s’adjoindre avec voix consultative des représentants des organisations syndicales non représentatives sur le plan national ainsi que des représentants des organisations professionnelles d’employeurs dont cependant aucun ne doit figurer parmi les assesseurs ou représentants des parties au litige.
 
@@ -2821,9 +2961,11 @@ Il en est de même des salariés en cas de mise en interdit injustifiée des mem
 
 (1) Les organisations syndicales bénéficiant de la reconnaissance de la représentativité nationale générale et les organisations d’employeurs respectivement nationales, sectorielles, ou représentant une ou plusieurs branches, professions, types d’activités ou déclarant s’associer aux fins du présent article, peuvent conclure des accords nationaux ou interprofessionnels portant sur les sujets suivants:
 
-- transposition des conventions collectives adoptées par les partenaires sociaux au niveau européen conformément aux dispositions du Traité sur l’Union européenne;
-- transposition des directives européennes prévoyant la possibilité d’une transposition au niveau national moyennant accord entre partenaires sociaux nationaux, et notamment les directives basant sur l’accord des partenaires sociaux au niveau européen;
-- accords nationaux ou interprofessionnels portant sur des sujets sur lesquels lesdits partenaires se sont mis d’accord, et qui peuvent être, notamment, l’organisation et la réduction du temps de travail, la formation professionnelle continue y compris les questions de l’accès et du congé individuel de formation, les formes dites atypiques de travail, les mesures de mise en oeuvre du principe de non-discrimination, les mesures à prendre contre le harcèlement moral et sexuel au travail, le traitement du stress au travail.
+aash transposition des conventions collectives adoptées par les partenaires sociaux au niveau européen conformément aux dispositions du Traité sur l’Union européenne;
+
+bash transposition des directives européennes prévoyant la possibilité d’une transposition au niveau national moyennant accord entre partenaires sociaux nationaux, et notamment les directives basant sur l’accord des partenaires sociaux au niveau européen;
+
+cash accords nationaux ou interprofessionnels portant sur des sujets sur lesquels lesdits partenaires se sont mis d’accord, et qui peuvent être, notamment, l’organisation et la réduction du temps de travail, la formation professionnelle continue y compris les questions de l’accès et du congé individuel de formation, les formes dites atypiques de travail, les mesures de mise en oeuvre du principe de non-discrimination, les mesures à prendre contre le harcèlement moral et sexuel au travail, le traitement du stress au travail.
 
 (2) Les accords visés au paragraphe (1) peuvent être déclarés d’obligation générale pour l’ensemble des entreprises légalement établies sur le territoire national et les salariés y employés.
 
@@ -2843,8 +2985,9 @@ La proposition visée à l’alinéa qui précède peut être émise après cons
 
 (1) Aux fins de l’application du présent chapitre, on entend par licenciements collectifs les licenciements effectués par un employeur pour un ou plusieurs motifs non inhérents à la personne des salariés, lorsque le nombre de licenciements envisagés est:
 
-1. pour une même période de trente jours, au moins égal à sept salariés;
-2. pour une même période de quatre-vingt-dix jours, au moins égal à quinze salariés.
+1\. pour une même période de trente jours, au moins égal à sept salariés;
+
+2\. pour une même période de quatre-vingt-dix jours, au moins égal à quinze salariés.
 
 (2) Pour le calcul du nombre de licenciements prévus au paragraphe (1), sont assimilés aux licenciements les cessations du contrat de travail intervenues à l’initiative de l’employeur pour un ou plusieurs motifs non inhérents à la personne des salariés, à condition que les licenciements proprement dits au sens du paragraphe (1) soient au moins au nombre de quatre.
 
@@ -2858,15 +3001,23 @@ La proposition visée à l’alinéa qui précède peut être émise après cons
 
 Seront à aborder notamment les sujets suivants:
 
-- application de la législation sur le chômage partiel;
-- aménagements possibles de la durée de travail dont application d’une période de référence plus longue;
-- réductions temporaires de la durée du travail ne tombant pas sous le champ d’application de la législation sur le chômage partiel, prévoyant le cas échéant la participation à des formations continues et/ou des reconversions pendant les heures de travail libérées;
-- possibilités de formation voire de reconversion permettant une réaffectation de salariés à l’intérieur de l’entreprise;
-- possibilités de formation, de formation continue, de reconversion permettant la réaffectation de salariés dans une autre entreprise, appartenant le cas échéant au même secteur d’activités;
-- application de la législation sur le prêt temporaire de main-d’oeuvre;
-- accompagnement personnel des transitions de carrière, le cas échéant en prenant recours sur des experts externes;
-- application de la législation sur la préretraite-ajustement;
-- principes et procédures régissant la mise en oeuvre et le suivi des mesures retenues.
+aash application de la législation sur le chômage partiel;
+
+bash aménagements possibles de la durée de travail dont application d’une période de référence plus longue;
+
+cash réductions temporaires de la durée du travail ne tombant pas sous le champ d’application de la législation sur le chômage partiel, prévoyant le cas échéant la participation à des formations continues et/ou des reconversions pendant les heures de travail libérées;
+
+dash possibilités de formation voire de reconversion permettant une réaffectation de salariés à l’intérieur de l’entreprise;
+
+eash possibilités de formation, de formation continue, de reconversion permettant la réaffectation de salariés dans une autre entreprise, appartenant le cas échéant au même secteur d’activités;
+
+fash application de la législation sur le prêt temporaire de main-d’oeuvre;
+
+gash accompagnement personnel des transitions de carrière, le cas échéant en prenant recours sur des experts externes;
+
+hash application de la législation sur la préretraite-ajustement;
+
+iash principes et procédures régissant la mise en oeuvre et le suivi des mesures retenues.
 
 Les entreprises disposant d’un plan de maintien dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans ses attributions au cours des six mois précédant le début des négociations sont dispensées de l’obligation prévue à l’alinéa premier.
 
@@ -2884,8 +3035,9 @@ Au cas où une entreprise n’a pas fait procéder à l’élection d’une dél
 
 La convention documente:
 
-1. ou bien l’accord des parties sur tout ou partie des éléments du plan social, en mentionnant expressément au moins les matières énumérées au paragraphe (2) qui précède et l’attitude des parties y relative,
-2. ou bien l’accord des parties sur l’impossibilité d’établir un plan social et les justifications de cette impossibilité.
+1\. ou bien l’accord des parties sur tout ou partie des éléments du plan social, en mentionnant expressément au moins les matières énumérées au paragraphe (2) qui précède et l’attitude des parties y relative,
+
+2\. ou bien l’accord des parties sur l’impossibilité d’établir un plan social et les justifications de cette impossibilité.
 
 (6) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Au cas où les parties n’ont pas abouti endéans les quinze jours à un accord conformément au paragraphe (5), un procès-verbal des négociations renseignant l’attitude dûment motivée des parties quant aux éléments ayant fait l’objet des négociations et au moins ceux énumérés au paragraphe (2), dûment signé par les parties, est transmis sans délai à l’Agence pour le développement de l’emploi qui en transmet une copie à l’Inspection du travail et des mines.
 
@@ -2909,14 +3061,17 @@ Si le salarié n’a pas invoqué la nullité de son licenciement et n’a pas d
 
 (1) Afin de permettre aux représentants des salariés au sens du paragraphe (3) de l’article qui précède de formuler des propositions constructives en vue de la conclusion d’un plan social, l’employeur est tenu, de préférence avant le début des négociations, sinon au plus tard au début des négociations, de leur fournir tous les renseignements utiles comprenant au moins une communication écrite sur:
 
-1. les motifs du projet de licenciements collectifs;
-2. le nombre et les catégories des salariés affectés par les licenciements;
-3. le nombre et les catégories des salariés habituellement employés;
-4. la période sur laquelle il est envisagé de procéder aux licenciements;
-5. (
+1\. les motifs du projet de licenciements collectifs;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) les critères envisagés pour le choix des salariés à licencier, sans préjudice de la compétence des délégations du personnel en la matière;
-6. le cas échéant, la méthode de calcul envisagée pour toute indemnité éventuelle de licenciement excédant celle prévue par la loi ou la convention collective, ou, à défaut, les raisons justifiant le refus d’une telle indemnité par l’employeur.
+2\. le nombre et les catégories des salariés affectés par les licenciements;
+
+3\. le nombre et les catégories des salariés habituellement employés;
+
+4\. la période sur laquelle il est envisagé de procéder aux licenciements;
+
+5\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) les critères envisagés pour le choix des salariés à licencier, sans préjudice de la compétence des délégations du personnel en la matière;
+
+6\. le cas échéant, la méthode de calcul envisagée pour toute indemnité éventuelle de licenciement excédant celle prévue par la loi ou la convention collective, ou, à défaut, les raisons justifiant le refus d’une telle indemnité par l’employeur.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) L’employeur est tenu de transmettre copie de la communication écrite prévue au paragraphe (1) à l’Agence pour le développement de l’emploi qui la transmet à l’Inspection du travail et des mines.
 
@@ -2994,12 +3149,13 @@ Le présent titre s’applique à tous les salariés occupés dans les secteurs 
 
 Des lois spéciales, des conventions collectives de travail et, à défaut, des règlements d’administration publique régleront le régime de la durée du travail:
 
-1. du personnel des services domestiques;
-2. du personnel occupé dans les entreprises de type familial de l’agriculture, de la viticulture et de l’horticulture;
-3. du personnel occupé dans les établissements ayant pour objet le traitement ou l’hospitalisation des malades, des infirmes, des indigents et des aliénés, dans les dispensaires, les maisons pour enfants, les sanatoriums, les maisons de repos, les maisons de retraite, les colonies de vacances, les orphelinats et les internats;
-4. des salariés mobiles employés par une entreprise de transport professionnel de voyageurs ou de marchandises par route et participant à des activités de transport routier couvertes par la réglementation communautaire relative aux temps de conduite et repos ou à défaut, par la
+1\. du personnel des services domestiques;
 
-   [loi du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n5/jo) portant approbation de l’accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route (AETR), telle qu’elle a été amendée par la suite.
+2\. du personnel occupé dans les entreprises de type familial de l’agriculture, de la viticulture et de l’horticulture;
+
+3\. du personnel occupé dans les établissements ayant pour objet le traitement ou l’hospitalisation des malades, des infirmes, des indigents et des aliénés, dans les dispensaires, les maisons pour enfants, les sanatoriums, les maisons de repos, les maisons de retraite, les colonies de vacances, les orphelinats et les internats;
+
+4\. des salariés mobiles employés par une entreprise de transport professionnel de voyageurs ou de marchandises par route et participant à des activités de transport routier couvertes par la réglementation communautaire relative aux temps de conduite et repos ou à défaut, par la [loi du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n5/jo) portant approbation de l’accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route (AETR), telle qu’elle a été amendée par la suite.
 
 Par services domestiques sont visés les seuls travaux de ménage chez des particuliers, à l’exclusion de tous autres travaux de même nature exécutés notamment dans les hôtels, restaurants, débits de boissons, hôpitaux et maisons d’enfants.
 
@@ -3007,12 +3163,17 @@ Par services domestiques sont visés les seuls travaux de ménage chez des parti
 
 Les dispositions du présent titre ne sont pas applicables:
 
-1. aux entreprises familiales dans lesquelles sont seuls occupés les ascendants, les descendants, frères et sœurs ou alliés au même degré de l’employeur;
-2. aux entreprises de transport fluvial;
-3. aux entreprises foraines;
-4. aux salariés à domicile;
-5. aux voyageurs et représentants de commerce, dans la mesure où ils exercent leur travail en dehors de l’établissement;
-6. aux personnes occupant un poste de direction effective ainsi qu’aux cadres supérieurs dont la présence à l’entreprise est indispensable pour en assurer le fonctionnement et la surveillance.
+1\. aux entreprises familiales dans lesquelles sont seuls occupés les ascendants, les descendants, frères et sœurs ou alliés au même degré de l’employeur;
+
+2\. aux entreprises de transport fluvial;
+
+3\. aux entreprises foraines;
+
+4\. aux salariés à domicile;
+
+5\. aux voyageurs et représentants de commerce, dans la mesure où ils exercent leur travail en dehors de l’établissement;
+
+6\. aux personnes occupant un poste de direction effective ainsi qu’aux cadres supérieurs dont la présence à l’entreprise est indispensable pour en assurer le fonctionnement et la surveillance.
 
 ##### *Section 2.* — *Définition de la durée de travail*
 
@@ -3070,10 +3231,13 @@ Le plan d’organisation du travail règle l’organisation du travail des salar
 
 Tout plan d’organisation du travail à établir sur base de l’alinéa 1 du présent paragraphe contient, sous peine de nullité, les mentions suivantes:
 
-1. le début et la fin de la période de référence et du plan d’organisation du travail ;
-2. l’horaire de travail normal permettant à tout salarié de connaître son organisation du travail, c’est-à-dire les heures de travail par jour et par semaine ainsi que le début et la fin du travail journalier ;
-3. les jours de fermeture de l’entreprise, les jours fériés légaux et usuels ainsi que les congés individuels ou collectifs ;
-4. le repos hebdomadaire de quarante-quatre heures consécutives et, le cas échéant, le congé compensatoire dû si ce repos n’est pas respecté.
+1\. le début et la fin de la période de référence et du plan d’organisation du travail ;
+
+2\. l’horaire de travail normal permettant à tout salarié de connaître son organisation du travail, c’est-à-dire les heures de travail par jour et par semaine ainsi que le début et la fin du travail journalier ;
+
+3\. les jours de fermeture de l’entreprise, les jours fériés légaux et usuels ainsi que les congés individuels ou collectifs ;
+
+4\. le repos hebdomadaire de quarante-quatre heures consécutives et, le cas échéant, le congé compensatoire dû si ce repos n’est pas respecté.
 
 Des modalités supplémentaires peuvent être ajoutées au plan d’organisation du travail et sa durée peut être modifiée le tout d’un commun accord entre l’entreprise et la délégation du personnel.
 
@@ -3105,8 +3269,9 @@ L’Inspection du travail et des mines rendra son avis dans les deux semaines à
 
 (4) Dans le cadre de chaque plan d’organisation du travail et dans le respect du paragraphe 1 <sup>er</sup> de l’article L. 211-12 sont à considérer comme heures supplémentaires au sens des articles L. 211-22 et suivants les heures de travail dépassant par mois :
 
-- 12,5% de la durée de travail mensuelle normale légale ou prévue par convention collective de travail en cas d’application d’une période de référence ayant une durée entre plus d’un mois et trois mois au maximum,
-- 10% de la durée de travail mensuelle normale légale ou prévue par convention collective de travail en cas d’application d’une période de référence ayant une durée entre plus de trois mois et quatre mois au maximum.
+aash 12,5% de la durée de travail mensuelle normale légale ou prévue par convention collective de travail en cas d’application d’une période de référence ayant une durée entre plus d’un mois et trois mois au maximum,
+
+bash 10% de la durée de travail mensuelle normale légale ou prévue par convention collective de travail en cas d’application d’une période de référence ayant une durée entre plus de trois mois et quatre mois au maximum.
 
 ###### Art. L. 211-8.
 
@@ -3156,13 +3321,15 @@ Le règlement grand-ducal détermine les conditions et modalités auxquelles la 
 
 Dans des secteurs strictement délimités caractérisés par des pointes extraordinaires saisonnières concentrées sur une seule partie de l’année dont la durée ne peut excéder six semaines, une convention collective de travail ou un accord subordonné conformes au livre I <sup>er</sup> , titre VI relatif aux rapports collectifs du travail peuvent autoriser, dans les conditions et selon les modalités qu’ils déterminent, une durée de travail journalière maximale supérieure à huit heures mais n’excédant pas douze heures et une durée de travail hebdomadaire maximale supérieure à quarante heures mais n’excédant pas soixante heures, à condition de respecter les règles suivantes:
 
-1. les dérogations doivent faire l’objet d’une convention collective ou d’un accord subordonné conformes à la législation dont le dépôt a été accepté par le directeur de l’Inspection du travail et des mines ou d’un accord trouvé devant l’Office national de conciliation et valant convention collective;
-2. la convention ou l’accord précités prévoient avec précision les limites supérieures à la durée de travail journalière et hebdomadaire;
-3. la convention ou l’accord précités fixent les modalités d’application des dérogations visées au présent article en assurant un régime de travail préservant la santé et la sécurité des salariés, et notamment des périodes de repos compensatoire suffisantes;
-4. toute heure travaillée dans le régime dérogatoire conventionnel prévu par le présent article au-delà de huit heures par jour et quarante heures par semaine au cas où il n’y a pas de système de compensation, et au-delà de dix heures par jour et quarante-huit heures par semaine au cas où un système compensatoire est appliqué dans l’entreprise, sont à considérer et à rémunérer comme heures supplémentaires;
-5. (
+1\. les dérogations doivent faire l’objet d’une convention collective ou d’un accord subordonné conformes à la législation dont le dépôt a été accepté par le directeur de l’Inspection du travail et des mines ou d’un accord trouvé devant l’Office national de conciliation et valant convention collective;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les clauses y relatives dans la convention collective ou l’accord subordonné doivent être dûment autorisées, au préalable, par le ministre ayant le Travail dans ses attributions. A cette fin, les partenaires sociaux concernés adressent une demande écrite dûment motivée au ministre. Une autorisation ministérielle n’est possible que pour les entreprises travaillant dans un secteur où les fortes variations saisonnières reposent sur des phénomènes naturels et ne peuvent être tempérés par des mesures techniques, et à condition que le surcroît de travail saisonnier ne puisse pas être rencontré par d’autres mesures, par l’embauche de personnel ou d’autres formes d’organisation du travail. Le ministre demande l’avis préalable de l’Inspection du travail et des mines et de l’Agence pour le développement de l’emploi.
+2\. la convention ou l’accord précités prévoient avec précision les limites supérieures à la durée de travail journalière et hebdomadaire;
+
+3\. la convention ou l’accord précités fixent les modalités d’application des dérogations visées au présent article en assurant un régime de travail préservant la santé et la sécurité des salariés, et notamment des périodes de repos compensatoire suffisantes;
+
+4\. toute heure travaillée dans le régime dérogatoire conventionnel prévu par le présent article au-delà de huit heures par jour et quarante heures par semaine au cas où il n’y a pas de système de compensation, et au-delà de dix heures par jour et quarante-huit heures par semaine au cas où un système compensatoire est appliqué dans l’entreprise, sont à considérer et à rémunérer comme heures supplémentaires;
+
+5\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les clauses y relatives dans la convention collective ou l’accord subordonné doivent être dûment autorisées, au préalable, par le ministre ayant le Travail dans ses attributions. A cette fin, les partenaires sociaux concernés adressent une demande écrite dûment motivée au ministre. Une autorisation ministérielle n’est possible que pour les entreprises travaillant dans un secteur où les fortes variations saisonnières reposent sur des phénomènes naturels et ne peuvent être tempérés par des mesures techniques, et à condition que le surcroît de travail saisonnier ne puisse pas être rencontré par d’autres mesures, par l’embauche de personnel ou d’autres formes d’organisation du travail. Le ministre demande l’avis préalable de l’Inspection du travail et des mines et de l’Agence pour le développement de l’emploi.
 
 ##### *Section 6.* — *Travail de nuit* ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
@@ -3172,8 +3339,9 @@ Dans des secteurs strictement délimités caractérisés par des pointes extraor
 
 (2) Est considéré comme salarié de nuit:
 
-- d’une part, tout salarié qui accomplit durant la période nocturne au moins trois heures de son temps de travail journalier accomplies normalement;
-- d’autre part, tout salarié qui est susceptible d’accomplir, durant la période nocturne, une certaine partie de son temps de travail annuel définie par convention collective ou par accord conclu entre partenaires sociaux au niveau national ou sectoriel, pour autant que cette partie soit supérieure à un quart de ses heures de travail annuelles prestées.
+aash d’une part, tout salarié qui accomplit durant la période nocturne au moins trois heures de son temps de travail journalier accomplies normalement;
+
+bash d’autre part, tout salarié qui est susceptible d’accomplir, durant la période nocturne, une certaine partie de son temps de travail annuel définie par convention collective ou par accord conclu entre partenaires sociaux au niveau national ou sectoriel, pour autant que cette partie soit supérieure à un quart de ses heures de travail annuelles prestées.
 
 ###### Art. L. 211-15.
 
@@ -3197,7 +3365,7 @@ L’horaire de travail journalier ne peut être entrecoupé que d’une seule p�
 
 ###### Art. L. 211-17 — ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
-La convention collective de travail et la décision ministérielle visées aux articles L. 211-8 à L. 211-10 ne peuvent pas empêcher la possibilité d’augmenter la durée journalière de travail des salariés dans les cas et selon les modalités fixés aux articles «L. 211-16 à L. 211-19» [^note_1_1_1] .
+La convention collective de travail et la décision ministérielle visées aux articles L. 211-8 à L. 211-10 ne peuvent pas empêcher la possibilité d’augmenter la durée journalière de travail des salariés dans les cas et selon les modalités fixés aux articles «L. 211-16 à L. 211-19»[^note_1_1_1] .
 
 ###### Art. L. 211-18 — ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
@@ -3233,7 +3401,7 @@ La délégation du personnel et la direction de l’Inspection du travail et des
 
 Sans préjudice des dispositions des articles L. 123-4, sous 3, et L. 123-5, est à considérer comme travail supplémentaire tout travail effectué au-delà des limites journalières et hebdomadaires de la durée normale de travail déterminée par la loi ou les parties.
 
-Toutefois, dans les cas prévus aux articles L. 211-8 à L. 211-10 et «L. 211-15 à L. 211-19» [^note_1_1_2] , seul le travail effectué en dehors des conditions et au-delà des limites fixées par ces articles doit être considéré comme travail supplémentaire.
+Toutefois, dans les cas prévus aux articles L. 211-8 à L. 211-10 et «L. 211-15 à L. 211-19»[^note_1_1_2] , seul le travail effectué en dehors des conditions et au-delà des limites fixées par ces articles doit être considéré comme travail supplémentaire.
 
 ###### Art. L. 211-23 — ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo))
 
@@ -3241,9 +3409,11 @@ Toute prestation d’heures supplémentaires est subordonnée à une procédure 
 
 Le recours à des heures supplémentaires est limité aux cas exceptionnels suivants:
 
-1. pour prévenir la perte de matières périssables ou éviter de compromettre le résultat technique du travail;
-2. pour permettre des travaux spéciaux tels que l’établissement d’inventaires ou de bilans, les échéances, les liquidations et les arrêtés de compte;
-3. dans des cas exceptionnels qui s’imposeraient dans l’intérêt public et en cas d’événements présentant un danger national.
+1\. pour prévenir la perte de matières périssables ou éviter de compromettre le résultat technique du travail;
+
+2\. pour permettre des travaux spéciaux tels que l’établissement d’inventaires ou de bilans, les échéances, les liquidations et les arrêtés de compte;
+
+3\. dans des cas exceptionnels qui s’imposeraient dans l’intérêt public et en cas d’événements présentant un danger national.
 
 Dans des cas dûment justifiés et sans incidence directe sur le marché du travail, des heures supplémentaires peuvent être prestées à condition pour l’employeur de respecter la procédure préalable de notification, ou le cas échéant d’autorisation, décrite ci-après.
 
@@ -3257,10 +3427,11 @@ En cas d’avis favorable de la délégation s’il en existe ou, à défaut, de
 
 Aucune notification ou autorisation pour heures supplémentaires n’est cependant requise pour:
 
-1. des travaux entrepris en vue de faire face à un accident survenu ou imminent;
-2. des travaux d’urgence à effectuer aux machines et à l’outillage ou des travaux commandés par un cas de force majeure mais uniquement dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l’établissement.
+1\. des travaux entrepris en vue de faire face à un accident survenu ou imminent;
 
-Dans ce cas le chef d’entreprise doit informer l’Inspection du travail et des mines avec indication des motifs ayant entraîné la prestation d’heures supplémentaires. Si les heures supplémentaires consacrées à l’accomplissement des travaux visés sub 1. et 2. de l’alinéa qui précède se répartissent sur plus de trois jours par mois, la procédure préalable de notification ou d’autorisation prévue à l’article «L. 211-21» [^note_1_2_2] est applicable.
+2\. des travaux d’urgence à effectuer aux machines et à l’outillage ou des travaux commandés par un cas de force majeure mais uniquement dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l’établissement.
+
+Dans ce cas le chef d’entreprise doit informer l’Inspection du travail et des mines avec indication des motifs ayant entraîné la prestation d’heures supplémentaires. Si les heures supplémentaires consacrées à l’accomplissement des travaux visés sub 1. et 2. de l’alinéa qui précède se répartissent sur plus de trois jours par mois, la procédure préalable de notification ou d’autorisation prévue à l’article «L. 211-21»[^note_1_2_2] est applicable.
 
 ###### Art. L. 211-25 — ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
@@ -3270,9 +3441,9 @@ Pour sortir leurs effets au regard de la présente disposition de telles convent
 
 ###### Art. L. 211-26 — ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
-Sans préjudice des heures supplémentaires prestées au titre de l’article «L. 211-22» [^note_1_2_3] , il ne peut être effectué en aucun cas plus de deux heures supplémentaires par jour; la durée journalière totale du travail ne peut excéder dix heures.
+Sans préjudice des heures supplémentaires prestées au titre de l’article «L. 211-22»[^note_1_2_3] , il ne peut être effectué en aucun cas plus de deux heures supplémentaires par jour; la durée journalière totale du travail ne peut excéder dix heures.
 
-Toutefois, les limitations prévues à l’alinéa qui précède ne sont pas applicables aux travaux visés à l’article «L. 211-23» [^note_1_2_4] .
+Toutefois, les limitations prévues à l’alinéa qui précède ne sont pas applicables aux travaux visés à l’article «L. 211-23»[^note_1_2_4] .
 
 ##### *Section 10.* — *Majorations de salaire* ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo))
 
@@ -3324,30 +3495,47 @@ Toute stipulation d’une convention contraire aux dispositions de l’alinéa q
 
 ([L. 23 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n7/jo)) Il peut être dérogé aux articles L. 211-15, L. 211-16 paragraphes 1 <sup>er</sup> et 3, L. 231-11 alinéa 1 <sup>er</sup> , et au principe de la période de référence légale prévu à l’article L. 211-6 par convention collective, par accord en matière de dialogue social interprofessionnel ou par accord d’entreprise conclu dans le contexte d’une convention-cadre tels que définis au Livre I, Titre VI du présent Code, relatif aux rapports collectifs de travail ou par accord d’entreprise conclu suivant les modalités prévues à l’article L. 231-6 paragraphe 2:
 
-1. pour les activités caractérisées par un éloignement entre le lieu de travail et le lieu de résidence du salarié ou par un éloignement entre différents lieux de travail du salarié;
-2. pour les activités de garde, de surveillance et de permanence caractérisées par la nécessité d’assurer la protection des biens et des personnes, notamment lorsqu’il s’agit de gardiens ou de concierges ou d’entreprises de gardiennage;
-3. pour les activités caractérisées par la nécessité d’assurer la continuité du service ou de la production, notamment lorsqu’il s’agit:
+a) pour les activités caractérisées par un éloignement entre le lieu de travail et le lieu de résidence du salarié ou par un éloignement entre différents lieux de travail du salarié;
 
-   1. des services relatifs à la réception, au traitement et/ou aux soins donnés par des hôpitaux ou des établissements similaires, y compris les activités des médecins en formation, par des institutions résidentielles et par des prisons;
-   2. des personnels travaillant dans les ports ou dans les aéroports;
-   3. des services de presse, de radio, de télévision, de productions cinématographiques, des postes ou télécommunications, des services d’ambulance, de sapeurs-pompiers ou de protection civile;
-   4. des services de production, de transmission et de distribution de gaz, d’eau ou d’électricité, des services de collecte des ordures ménagères ou des installations d’incinération;
-   5. des industries dans lesquelles le processus de travail ne peut être interrompu pour des raisons techniques;
-   6. des activités de recherche et de développement;
-   7. de l’agriculture;
-   8. des salariés concernés par le transport de voyageurs sur des services de transport urbain régulier;
-4. en cas de surcroît prévisible d’activité, notamment:
+b) pour les activités de garde, de surveillance et de permanence caractérisées par la nécessité d’assurer la protection des biens et des personnes, notamment lorsqu’il s’agit de gardiens ou de concierges ou d’entreprises de gardiennage;
 
-   1. dans l’agriculture;
-   2. dans le tourisme;
-   3. dans les services postaux;
-5. pour les personnes travaillant dans le secteur du transport ferroviaire:
+c) pour les activités caractérisées par la nécessité d’assurer la continuité du service ou de la production, notamment lorsqu’il s’agit:
 
-   1. dont les activités sont intermittentes;
-   2. qui accomplissent leur temps de travail à bord des trains, ou
-   3. dont les activités sont liées aux horaires de transport et à l’assurance de la continuité et de la régularité du trafic;
-6. dans les circonstances étrangères à l’employeur, anormales et imprévisibles, ou en cas d’événements exceptionnels, dont les conséquences n’auraient pu être évitées malgré toute la diligence déployée;
-7. en cas d’accident ou de risque d’accident imminent.
+i) des services relatifs à la réception, au traitement et/ou aux soins donnés par des hôpitaux ou des établissements similaires, y compris les activités des médecins en formation, par des institutions résidentielles et par des prisons;
+
+ii) des personnels travaillant dans les ports ou dans les aéroports;
+
+iii) des services de presse, de radio, de télévision, de productions cinématographiques, des postes ou télécommunications, des services d’ambulance, de sapeurs-pompiers ou de protection civile;
+
+iv) des services de production, de transmission et de distribution de gaz, d’eau ou d’électricité, des services de collecte des ordures ménagères ou des installations d’incinération;
+
+v) des industries dans lesquelles le processus de travail ne peut être interrompu pour des raisons techniques;
+
+vi) des activités de recherche et de développement;
+
+vii) de l’agriculture;
+
+viii) des salariés concernés par le transport de voyageurs sur des services de transport urbain régulier;
+
+d) en cas de surcroît prévisible d’activité, notamment:
+
+i) dans l’agriculture;
+
+ii) dans le tourisme;
+
+iii) dans les services postaux;
+
+e) pour les personnes travaillant dans le secteur du transport ferroviaire:
+
+i) dont les activités sont intermittentes;
+
+ii) qui accomplissent leur temps de travail à bord des trains, ou
+
+iii) dont les activités sont liées aux horaires de transport et à l’assurance de la continuité et de la régularité du trafic;
+
+f) dans les circonstances étrangères à l’employeur, anormales et imprévisibles, ou en cas d’événements exceptionnels, dont les conséquences n’auraient pu être évitées malgré toute la diligence déployée;
+
+g) en cas d’accident ou de risque d’accident imminent.
 
 Ces dérogations ne sont possibles qu’à condition que les conventions collectives, les accords en matière de dialogue social interprofessionnel ou les accords d’entreprise visés ci-dessus contiennent des dispositions garantissant que des périodes équivalentes de repos compensatoire soient accordées aux salariés concernés.
 
@@ -3373,19 +3561,19 @@ Les modalités d’application du temps de repos suffisant peuvent être précis
 
 Pour les médecins en formation tels que définis à l’article 2 de la [loi modifiée du 29 avril 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/jo) concernant l’exercice des professions de médecin, médecin-dentiste et de médecin-vétérinaire, il peut être dérogé aux articles L. 211-7 et L. 231-11 alinéa 1 <sup>er</sup> en portant le nombre d’heures de travail hebdomadaire maximal à quarante-huit (48) heures en moyenne et en étendant la période de référence à un maximum de six (6) mois.
 
-##### *Section 13* . [^note_1_4_0] — *Dispositions finales*
+##### *Section 13* .[^note_1_4_0] — *Dispositions finales*
 
-###### Art. L. 211-34. [^note_1_4_1]
+###### Art. L. 211-34.[^note_1_4_1]
 
 Au cas où la réduction de la durée de travail est réalisée par l’octroi de journées de repos compensatoires en vertu d’une convention collective de travail, les jours fériés légaux peuvent être mis en compte pour le calcul de la durée de travail. Si un jour de repos compensatoire tombe dans une semaine comportant un jour férié légal, ce jour de repos compensatoire peut être reporté d’un commun accord des parties en cause à une autre période de l’année. Il peut être également ajouté à la durée du congé payé.
 
-###### Art. L. 211-35. [^note_1_4_1]
+###### Art. L. 211-35.[^note_1_4_1]
 
 Un règlement grand-ducal édicte les mesures nécessaires pour l’exécution du présent chapitre.
 
 Il détermine également les entreprises qui, en raison des exigences particulières du service, sont à dispenser provisoirement, en tout ou en partie, de l’observation de l’une ou de l’autre des prescriptions du présent chapitre.
 
-###### Art. L. 211-36. [^note_1_4_1]
+###### Art. L. 211-36.[^note_1_4_1]
 
 Les infractions et les tentatives d’infraction aux dispositions du présent chapitre ainsi qu’à ses règlements d’exécution sont punies d’une amende de 251 à 15.000 euros.
 
@@ -3435,12 +3623,15 @@ Au cas où les entreprises visées au présent paragraphe assurent elles-mêmes 
 
 (1) Sous condition que la durée de travail hebdomadaire moyenne, calculée sur une période de référence conformément aux dispositions de l’article L. 212-3, ne dépasse pas soit quarante heures, soit la durée de travail hebdomadaire normale maximale fixée par voie conventionnelle, les dérogations suivantes sont possibles:
 
-1. dans les entreprises qui occupent régulièrement moins de quinze salariés, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante et une heures durant les mois de juin et septembre, et à respectivement douze heures et cinquante-quatre heures durant les mois de juillet et août et pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
-2. dans les entreprises qui occupent régulièrement entre quinze et quarante-neuf salariés, la durée de travail maximale journalière et hebdomadaire est portée à douze heures et cinquante et une heures durant les mois de juin à septembre inclusivement, pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
-3. dans les entreprises à caractère saisonnier, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante-quatre heures durant les mois de juin et septembre, et à respectivement douze heures et soixante heures durant les mois de juillet et août et pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
-4. dans les entreprises qui s’occupent de la restauration sur les bateaux de tourisme dans le cadre de la navigation fluviale sans assurer elles-mêmes la production des repas, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante-quatre heures durant les mois de mai, juin, septembre et octobre, et à respectivement douze heures et soixante heures durant les mois de juillet et août.
+1\. dans les entreprises qui occupent régulièrement moins de quinze salariés, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante et une heures durant les mois de juin et septembre, et à respectivement douze heures et cinquante-quatre heures durant les mois de juillet et août et pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
 
-   Au cas où les entreprises visées à l’alinéa qui précède assurent elles-mêmes la production des repas, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et soixante heures. Les moyennes fixées au présent paragraphe peuvent être dépassées, à condition que l’entreprise garantisse à ses salariés, apprentis et stagiaires une pause rémunérée de deux heures par jour au moins, en plus du repos journalier minimal ininterrompu de onze heures fixé à l’article «L. 211-14» [^note_1_5_0] .
+2\. dans les entreprises qui occupent régulièrement entre quinze et quarante-neuf salariés, la durée de travail maximale journalière et hebdomadaire est portée à douze heures et cinquante et une heures durant les mois de juin à septembre inclusivement, pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
+
+3\. dans les entreprises à caractère saisonnier, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante-quatre heures durant les mois de juin et septembre, et à respectivement douze heures et soixante heures durant les mois de juillet et août et pendant les périodes du 23 décembre au 2 janvier inclusivement, de la semaine avant et celle après Pâques, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième, ainsi que de la semaine avant et celle après la Pentecôte, y compris le samedi précédant la première semaine et le dimanche suivant la deuxième;
+
+4\. dans les entreprises qui s’occupent de la restauration sur les bateaux de tourisme dans le cadre de la navigation fluviale sans assurer elles-mêmes la production des repas, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et cinquante-quatre heures durant les mois de mai, juin, septembre et octobre, et à respectivement douze heures et soixante heures durant les mois de juillet et août.
+
+Au cas où les entreprises visées à l’alinéa qui précède assurent elles-mêmes la production des repas, la durée de travail maximale journalière et hebdomadaire est portée à respectivement douze heures et soixante heures. Les moyennes fixées au présent paragraphe peuvent être dépassées, à condition que l’entreprise garantisse à ses salariés, apprentis et stagiaires une pause rémunérée de deux heures par jour au moins, en plus du repos journalier minimal ininterrompu de onze heures fixé à l’article «L. 211-14»[^note_1_5_0] .
 
 (2) Sans préjudice des dispositions des points 1 à 4 du paragraphe (1), la durée de travail journalière maximale dans les entreprises relevant du champ d’application du présent chapitre est fixée à douze heures durant les fêtes et foires locales.
 
@@ -3474,11 +3665,15 @@ On entend par entreprise constituant une entité économique et sociale un ensem
 
 Sont pris en compte pour l’appréciation de l’existence d’une entité économique et sociale tous les éléments disponibles tels que notamment le fait:
 
-1. de disposer de structures ou d’infrastructures communes ou complémentaires;
-2. de relever d’une stratégie commune et/ou complémentaire et/ou coordonnée;
-3. de relever d’un ou de plusieurs bénéficiaires économiques totalement ou partiellement identiques, complémentaires ou liés entre eux;
-4. de relever d’une direction ou d’un actionnariat communs ou complémentaires ou liés entre eux, ou d’organes de gestion, de direction ou de contrôle composés en tout ou en partie des mêmes personnes ou de personnes représentant les mêmes organisations;
-5. de disposer d’une communauté de salariés liés par des intérêts communs ou complémentaires ou présentant un statut social semblable ou apparenté.
+1\. de disposer de structures ou d’infrastructures communes ou complémentaires;
+
+2\. de relever d’une stratégie commune et/ou complémentaire et/ou coordonnée;
+
+3\. de relever d’un ou de plusieurs bénéficiaires économiques totalement ou partiellement identiques, complémentaires ou liés entre eux;
+
+4\. de relever d’une direction ou d’un actionnariat communs ou complémentaires ou liés entre eux, ou d’organes de gestion, de direction ou de contrôle composés en tout ou en partie des mêmes personnes ou de personnes représentant les mêmes organisations;
+
+5\. de disposer d’une communauté de salariés liés par des intérêts communs ou complémentaires ou présentant un statut social semblable ou apparenté.
 
 Il y a présomption d’entité économique et sociale au sens du présent paragraphe lorsque plusieurs établissements fonctionnent sous une enseigne identique ou largement semblable, y compris dans un régime de franchise.
 
@@ -3526,8 +3721,9 @@ Durant les périodes d’inactivité ou d’activité réduite, les salariés ne
 
 En cas d’application d’une période de référence, l’employeur verse chaque mois aux salariés concernés un salaire minimal correspondant au moins
 
-- soit au montant mensuel conventionnel,
-- soit au montant correspondant au salaire conventionnel horaire multiplié par le nombre d’heures maximales conventionnelles ou, à défaut, par le nombre d’heures légales normales.
+aash soit au montant mensuel conventionnel,
+
+bash soit au montant correspondant au salaire conventionnel horaire multiplié par le nombre d’heures maximales conventionnelles ou, à défaut, par le nombre d’heures légales normales.
 
 L’employeur reste soumis à l’obligation contenue dans l’alinéa qui précède nonobstant toute période d’inactivité ou d’activité réduite pendant la période de référence en question.
 
@@ -3545,9 +3741,11 @@ Cette obligation de remboursement se limite au nombre d’heures qui se situent 
 
 Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251 à 20.000 euros ou d’une de ces peines seulement, celui qui:
 
-1. a occupé les salariés tombant sous le champ d’application du présent chapitre au-delà des limites maxima de durée de travail fixées par les articles L. 212-2 à L. 212-4;
-2. n’a pas respecté les coupures de service conformément à l’article L. 212-7;
-3. n’a pas respecté les dispositions relatives au travail de nuit conformément à l’article L. 212-8.
+1\. a occupé les salariés tombant sous le champ d’application du présent chapitre au-delà des limites maxima de durée de travail fixées par les articles L. 212-2 à L. 212-4;
+
+2\. n’a pas respecté les coupures de service conformément à l’article L. 212-7;
+
+3\. n’a pas respecté les dispositions relatives au travail de nuit conformément à l’article L. 212-8.
 
 Ces peines peuvent être portées au double du maximum en cas de récidive dans un délai de deux ans.
 
@@ -3575,39 +3773,55 @@ Le présent chapitre s’applique aux salariés mobiles employés par une entrep
 
 Au sens du présent chapitre on entend par
 
-1. Salarié mobile: tout salarié faisant partie du personnel qui se déplace, y compris les stagiaires et les apprentis, et qui est au service d’une entreprise qui effectue pour le compte d’autrui une activité de transport de voyageurs ou de marchandises par route.
-2. Temps de travail: toute période comprise entre le début et la fin du travail, durant laquelle le salarié mobile est à son poste de travail, à la disposition de l’employeur et dans l’exercice de ses fonctions ou de ses activités.
+(1) Salarié mobile: tout salarié faisant partie du personnel qui se déplace, y compris les stagiaires et les apprentis, et qui est au service d’une entreprise qui effectue pour le compte d’autrui une activité de transport de voyageurs ou de marchandises par route.
 
-   Font partie du temps de travail:
+(2) Temps de travail: toute période comprise entre le début et la fin du travail, durant laquelle le salarié mobile est à son poste de travail, à la disposition de l’employeur et dans l’exercice de ses fonctions ou de ses activités.
 
-   - le temps consacré à toutes les activités de transport routier. Ces activités sont notamment les suivantes:
+Font partie du temps de travail:
 
-     1. la conduite,
-     2. le chargement et le déchargement,
-     3. l’assistance aux passagers à la montée et à la descente du véhicule,
-     4. le nettoyage et l’entretien technique,
-     5. tous les autres travaux visant à assurer la sécurité du véhicule, du chargement des passagers ou à remplir les obligations légales ou réglementaires directement liées au transport spécifique en cours, y compris le contrôle des opérations de chargement et déchargement et les formalités administratives avec les autorités policières, douanières, les services de l’immigration, le temps consacré à la préparation et à la consigne du véhicule ainsi que celui consacré aux travaux administratifs tels que par exemple les travaux de comptabilité et de décompte, la remise des recettes, les signatures des registres du véhicule et la remise des documents de service;
-   - les périodes durant lesquelles le salarié mobile ne peut disposer librement de son temps et est tenu de se trouver à son poste de travail, prêt à entreprendre son travail normal, assurant certaines tâches associées au service, notamment les périodes d’attente de chargement ou de déchargement, lorsque leur durée prévisible n’est pas connue à l’avance, c’est-à-dire soit avant le départ ou juste avant le début effectif de la période considérée, soit selon les conditions générales négociées entre les partenaires sociaux.
-3. Temps de disponibilité:
+aash le temps consacré à toutes les activités de transport routier. Ces activités sont notamment les suivantes:
 
-   - les périodes autres que celles relatives aux temps de pause et aux temps de repos durant lesquelles le salarié mobile n’est pas tenu de rester à son poste de travail, mais doit être disponible pour répondre à des appels éventuels lui demandant d’entreprendre ou de reprendre la conduite ou de faire d’autres travaux.
+i) la conduite,
 
-     Sont notamment considérés comme temps de disponibilité, les périodes pendant lesquelles le salarié mobile accompagne un véhicule transporté par ferry-boat ou par train, ainsi que les périodes d’attente aux frontières et celles dues à des interdictions de circulation.
+ii) le chargement et le déchargement,
 
-     Ces périodes et leur durée prévisible doivent être connues à l’avance par le salarié mobile, c’est-à-dire soit avant le départ ou juste avant le début effectif de la période considérée, soit selon les conditions générales négociées entre les partenaires sociaux.
+iii) l’assistance aux passagers à la montée et à la descente du véhicule,
 
-     Toutefois, les partenaires sociaux peuvent par convention collective ou accord interprofessionnel, négocier des forfaits de répartition des temps d’inactivité entre temps de travail et temps de disponibilité sans que le temps de travail et le temps de disponibilité ne puissent dépasser seize heures tel que prévu au [règlement CE 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo).
-   - pour les salariés mobiles conduisant en équipe, le temps passé pendant la marche du véhicule à côté du conducteur ou sur une couchette.
-4. Poste de travail:
+iv) le nettoyage et l’entretien technique,
 
-   - le lieu où se situe l’établissement principal de l’entreprise pour laquelle la personne exécutant des activités mobiles de transport routier effectue des tâches ainsi que ses divers établissements secondaires, qu’ils coïncident ou non avec le siège social ou l’établissement principal,
-   - le véhicule que la personne exécutant des activités mobiles de transport routier utilise lorsqu’elle effectue des tâches, et
-   - tout autre endroit où sont effectuées les activités liées à l’exécution du transport.
-5. Personne exécutant des activités mobiles de transport routier: tout salarié mobile qui exécute de telles activités.
-6. Semaine: la période qui commence à zéro heure le lundi et prend fin à vingt-quatre heures le dimanche.
-7. Période de vingt-quatre heures: tout intervalle de cette durée qui débute avec la reprise du travail après une période de repos hebdomadaire ou journalier.
-8. Période nocturne: la période comprise entre zéro heure et cinq heures
-9. Travail de nuit: Tout travail accompli durant la période nocturne.
+v) tous les autres travaux visant à assurer la sécurité du véhicule, du chargement des passagers ou à remplir les obligations légales ou réglementaires directement liées au transport spécifique en cours, y compris le contrôle des opérations de chargement et déchargement et les formalités administratives avec les autorités policières, douanières, les services de l’immigration, le temps consacré à la préparation et à la consigne du véhicule ainsi que celui consacré aux travaux administratifs tels que par exemple les travaux de comptabilité et de décompte, la remise des recettes, les signatures des registres du véhicule et la remise des documents de service;
+
+bash les périodes durant lesquelles le salarié mobile ne peut disposer librement de son temps et est tenu de se trouver à son poste de travail, prêt à entreprendre son travail normal, assurant certaines tâches associées au service, notamment les périodes d’attente de chargement ou de déchargement, lorsque leur durée prévisible n’est pas connue à l’avance, c’est-à-dire soit avant le départ ou juste avant le début effectif de la période considérée, soit selon les conditions générales négociées entre les partenaires sociaux.
+
+(3) Temps de disponibilité:
+
+aash les périodes autres que celles relatives aux temps de pause et aux temps de repos durant lesquelles le salarié mobile n’est pas tenu de rester à son poste de travail, mais doit être disponible pour répondre à des appels éventuels lui demandant d’entreprendre ou de reprendre la conduite ou de faire d’autres travaux.
+
+Sont notamment considérés comme temps de disponibilité, les périodes pendant lesquelles le salarié mobile accompagne un véhicule transporté par ferry-boat ou par train, ainsi que les périodes d’attente aux frontières et celles dues à des interdictions de circulation.
+
+Ces périodes et leur durée prévisible doivent être connues à l’avance par le salarié mobile, c’est-à-dire soit avant le départ ou juste avant le début effectif de la période considérée, soit selon les conditions générales négociées entre les partenaires sociaux.
+
+Toutefois, les partenaires sociaux peuvent par convention collective ou accord interprofessionnel, négocier des forfaits de répartition des temps d’inactivité entre temps de travail et temps de disponibilité sans que le temps de travail et le temps de disponibilité ne puissent dépasser seize heures tel que prévu au [règlement CE 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo).
+
+bash pour les salariés mobiles conduisant en équipe, le temps passé pendant la marche du véhicule à côté du conducteur ou sur une couchette.
+
+(4) Poste de travail:
+
+aash le lieu où se situe l’établissement principal de l’entreprise pour laquelle la personne exécutant des activités mobiles de transport routier effectue des tâches ainsi que ses divers établissements secondaires, qu’ils coïncident ou non avec le siège social ou l’établissement principal,
+
+bash le véhicule que la personne exécutant des activités mobiles de transport routier utilise lorsqu’elle effectue des tâches, et
+
+cash tout autre endroit où sont effectuées les activités liées à l’exécution du transport.
+
+(5) Personne exécutant des activités mobiles de transport routier: tout salarié mobile qui exécute de telles activités.
+
+(6) Semaine: la période qui commence à zéro heure le lundi et prend fin à vingt-quatre heures le dimanche.
+
+(7) Période de vingt-quatre heures: tout intervalle de cette durée qui débute avec la reprise du travail après une période de repos hebdomadaire ou journalier.
+
+(8) Période nocturne: la période comprise entre zéro heure et cinq heures
+
+(9) Travail de nuit: Tout travail accompli durant la période nocturne.
 
 ##### *Section 2.* — *Durée du travail*
 
@@ -3667,14 +3881,19 @@ L’Inspection du Travail et des Mines, l’Administration des Douanes et Accise
 
 Est puni d’une peine d’emprisonnement de huit jours à six mois et d’une amende de 251.- à 20.000.- euros ou d’une de ces peines seulement,
 
-1. le fait de tout employeur:
+(1) le fait de tout employeur:
 
-   1. d’avoir occupé les salariés tombant sous le champ d’application de la présente loi au-delà des limites maxima de durée de travail et sans respecter les dispositions relatives à la computation de la durée de travail fixées à l’article L. 214-3;
-   2. de s’être rendu coupable du non-respect des dispositions relatives aux limites maxima de durée de travail et à la computation de la durée de travail fixées à l’article L. 214-3;
-   3. de s’être rendu coupable de la violation des dispositions relatives au temps de pause de l’article L. 214-4, au repos de l’article L. 214-5 et au travail de nuit à l’article L. 214-6;
-   4. de n’avoir pas respecté les dispositions relatives au temps de pause de l’article L. 214-4, au repos de l’article L. 214-5 et au travail de nuit à l’article L. 214-6;
-   5. de n’avoir pas observé les dispositions sur la tenue des registres et informations tel que prévu à l’article L. 214-7;
-2. le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d’ordres de donner, en connaissance de cause, à tout transporteur routier de voyageurs ou de marchandises, ou à tout préposé de celui-ci, des instructions qui auront provoqué aux infractions visées au paragraphe (1) ci-dessus.
+1\. d’avoir occupé les salariés tombant sous le champ d’application de la présente loi au-delà des limites maxima de durée de travail et sans respecter les dispositions relatives à la computation de la durée de travail fixées à l’article L. 214-3;
+
+2\. de s’être rendu coupable du non-respect des dispositions relatives aux limites maxima de durée de travail et à la computation de la durée de travail fixées à l’article L. 214-3;
+
+3\. de s’être rendu coupable de la violation des dispositions relatives au temps de pause de l’article L. 214-4, au repos de l’article L. 214-5 et au travail de nuit à l’article L. 214-6;
+
+4\. de n’avoir pas respecté les dispositions relatives au temps de pause de l’article L. 214-4, au repos de l’article L. 214-5 et au travail de nuit à l’article L. 214-6;
+
+5\. de n’avoir pas observé les dispositions sur la tenue des registres et informations tel que prévu à l’article L. 214-7;
+
+(2) le fait, pour tout expéditeur, commissionnaire, affréteur, mandataire, destinataire ou tout autre donneur d’ordres de donner, en connaissance de cause, à tout transporteur routier de voyageurs ou de marchandises, ou à tout préposé de celui-ci, des instructions qui auront provoqué aux infractions visées au paragraphe (1) ci-dessus.
 
 Ces peines peuvent être portées au double du maximum en cas de récidive dans un délai de deux ans.
 
@@ -3690,20 +3909,33 @@ Il fixe, en particulier, les conditions de travail des salariés mobiles des che
 
 Au sens du présent chapitre on entend par:
 
-1. jour: la journée de calendrier comptée de zéro à vingt-quatre heures;
-2. jour de travail: l’amplitude et le repos journalier adjacent;
-3. amplitude ou tour de service: le temps compris entre le début et la fin du travail journalier, elle comprend les heures de travail, les périodes de réserve à disposition et les coupures;
-4. grande distance: tout trafic transfrontalier nécessitant, sans préjudice du paragraphe (2) de l’article L. 215-3, un repos journalier hors résidence;
-5. services d’interopérabilité transfrontalière: tout trafic, à l’exception du trafic de passagers transfrontalier local et régional, dépassant d’au moins quinze kilomètres la frontière luxembourgeoise et pour lequel au moins deux certificats de sécurité sont requis de l’entreprise ferroviaire;
-6. repos journalier: le temps compris entre deux amplitudes consécutives, abstraction faite, le cas échéant, des périodes de repos hebdomadaire ou de compensation intercalées entre lesdites amplitudes;
-7. durée de travail: le temps pendant lequel le salarié est à la disposition de l’employeur;
-8. temps de conduite sur rail: la durée d’une activité programmée durant laquelle le conducteur est responsable de la conduite d’un engin de traction, à l’exclusion du temps prévu pour la mise en service et pour la mise hors service de l’engin, il inclut les interruptions programmées quand le conducteur reste responsable de la conduite de l’engin de traction;
-9. réserve à disposition: une période de simple présence pendant laquelle le salarié est obligé d’être présent à son poste et de se tenir prêt à respectivement exécuter ou à reprendre à tout moment ses obligations de service;
-10. coupures: des interruptions de service pendant lesquelles le salarié peut disposer librement de son temps;
-11. période de travail: les tours de service assurés entre deux repos hebdomadaires;
-12. repos hebdomadaire: un repos accordé consécutivement à une période de travail en vertu de la semaine de travail de quarante heures réparties sur cinq jours;
-13. tour de nuit: un tour de service tombant dans une période déterminée de la nuit;
-14. cycle d’alternance ou roulement: la période pendant laquelle tous les salariés occupés à un même roulement passent alternativement par les tours de service prévus à ce roulement.
+(1) jour: la journée de calendrier comptée de zéro à vingt-quatre heures;
+
+(2) jour de travail: l’amplitude et le repos journalier adjacent;
+
+(3) amplitude ou tour de service: le temps compris entre le début et la fin du travail journalier, elle comprend les heures de travail, les périodes de réserve à disposition et les coupures;
+
+(4) grande distance: tout trafic transfrontalier nécessitant, sans préjudice du paragraphe (2) de l’article L. 215-3, un repos journalier hors résidence;
+
+(5) services d’interopérabilité transfrontalière: tout trafic, à l’exception du trafic de passagers transfrontalier local et régional, dépassant d’au moins quinze kilomètres la frontière luxembourgeoise et pour lequel au moins deux certificats de sécurité sont requis de l’entreprise ferroviaire;
+
+(6) repos journalier: le temps compris entre deux amplitudes consécutives, abstraction faite, le cas échéant, des périodes de repos hebdomadaire ou de compensation intercalées entre lesdites amplitudes;
+
+(7) durée de travail: le temps pendant lequel le salarié est à la disposition de l’employeur;
+
+(8) temps de conduite sur rail: la durée d’une activité programmée durant laquelle le conducteur est responsable de la conduite d’un engin de traction, à l’exclusion du temps prévu pour la mise en service et pour la mise hors service de l’engin, il inclut les interruptions programmées quand le conducteur reste responsable de la conduite de l’engin de traction;
+
+(9) réserve à disposition: une période de simple présence pendant laquelle le salarié est obligé d’être présent à son poste et de se tenir prêt à respectivement exécuter ou à reprendre à tout moment ses obligations de service;
+
+(10) coupures: des interruptions de service pendant lesquelles le salarié peut disposer librement de son temps;
+
+(11) période de travail: les tours de service assurés entre deux repos hebdomadaires;
+
+(12) repos hebdomadaire: un repos accordé consécutivement à une période de travail en vertu de la semaine de travail de quarante heures réparties sur cinq jours;
+
+(13) tour de nuit: un tour de service tombant dans une période déterminée de la nuit;
+
+(14) cycle d’alternance ou roulement: la période pendant laquelle tous les salariés occupés à un même roulement passent alternativement par les tours de service prévus à ce roulement.
 
 ##### Art. L. 215-3.
 
@@ -3725,14 +3957,17 @@ Dans deux périodes consécutives, situées chacune entre deux repos hebdomadair
 
 (2) Par dérogation aux paragraphes (1) et (3), la durée du repos journalier peut être réduite à un minimum
 
-1. de neuf heures consécutives pour les tours de service grande-distance prévoyant que le repos journalier est pris hors résidence,
-2. de treize heures consécutives, une fois entre deux repos hebdomadaires et trois fois au plus au cours respectivement d’un mois ou de la période de référence de quatre semaines prévue au paragraphe (3) de l’article L. 215-5.
+a) de neuf heures consécutives pour les tours de service grande-distance prévoyant que le repos journalier est pris hors résidence,
+
+b) de treize heures consécutives, une fois entre deux repos hebdomadaires et trois fois au plus au cours respectivement d’un mois ou de la période de référence de quatre semaines prévue au paragraphe (3) de l’article L. 215-5.
 
 (3) La durée planifiée entière du repos journalier hors résidence et des tours de service adjacents ne doit pas dépasser
 
-- vingt-huit heures si le repos a une durée de neuf heures,
-- vingt-neuf heures si le repos a une durée de dix heures,
-- trente heures si le repos a une durée égale ou supérieure à onze heures.
+aash vingt-huit heures si le repos a une durée de neuf heures,
+
+bash vingt-neuf heures si le repos a une durée de dix heures,
+
+cash trente heures si le repos a une durée égale ou supérieure à onze heures.
 
 Si pour des raisons de service, les limites de respectivement vingt-huit, vingt-neuf ou trente heures ne peuvent être respectées, le salarié bénéficiera d’une compensation en nature égale au temps de dépassement.
 
@@ -3742,14 +3977,17 @@ Si pour des raisons de service, les limites de respectivement vingt-huit, vingt-
 
 (1) En dehors des prestations effectives de service, comptent comme travail
 
-- la réserve à disposition;
-- les temps nécessaires alloués pour les différentes prestations à la prise et à la fin du service.
+aash la réserve à disposition;
+
+bash les temps nécessaires alloués pour les différentes prestations à la prise et à la fin du service.
 
 (2) Ne sont pas considérés comme service et partant ne comptent pas comme travail
 
-- sans préjudice des dispositions du paragraphe (4) de l’article L. 215-7, la durée des coupures;
-- le temps consacré au déshabillage, lavage et rhabillage;
-- la durée des trajets effectués entre le domicile et le lieu de la prise de service, service d’attache ou lieu de rassemblement, et vice-versa.
+aash sans préjudice des dispositions du paragraphe (4) de l’article L. 215-7, la durée des coupures;
+
+bash le temps consacré au déshabillage, lavage et rhabillage;
+
+cash la durée des trajets effectués entre le domicile et le lieu de la prise de service, service d’attache ou lieu de rassemblement, et vice-versa.
 
 (3) Sans préjudice des dispositions des paragraphes (4) et (5) suivants, la durée de travail normale est de huit heures par jour et ne peut excéder une moyenne de quarante heures par semaine calculée sur une période de référence de quatre semaines consécutives.
 
@@ -3821,9 +4059,11 @@ La compensation visée ci-dessus n’est pas à considérer comme service ouvran
 
 (11) Sans préjudice des dispositions du paragraphe (10), les repos hebdomadaires accordés aux salariés effectuant des parcours à grande distance sont liquidés de façon à ce qu’ils bénéficient
 
-- par période de sept jours, d’au moins un repos isolé: dans les roulements des salariés visés par le présent paragraphe, le nombre des tours de service entre deux repos hebdomadaires de toute période comprenant effectivement une prestation grande-distance telle que définie à l’article L. 215-2 ne doit pas excéder six;
-- annuellement, de douze repos doubles comprenant le samedi et le dimanche;
-- annuellement, de douze repos doubles sans garantie qu’un samedi ou un dimanche y soit inclus.
+aash par période de sept jours, d’au moins un repos isolé: dans les roulements des salariés visés par le présent paragraphe, le nombre des tours de service entre deux repos hebdomadaires de toute période comprenant effectivement une prestation grande-distance telle que définie à l’article L. 215-2 ne doit pas excéder six;
+
+bash annuellement, de douze repos doubles comprenant le samedi et le dimanche;
+
+cash annuellement, de douze repos doubles sans garantie qu’un samedi ou un dimanche y soit inclus.
 
 (12) Les repos hebdomadaires et/ou les repos de compensation peuvent être combinés jusqu’à concurrence de trois au maximum, avec une durée normale de quatre-vingt-six heures et une durée minimale de quatre-vingt-quatre heures. Il ne peut être dérogé à la présente disposition que sur demande expresse du salarié concerné.
 
@@ -3843,8 +4083,9 @@ La compensation visée ci-dessus n’est pas à considérer comme service ouvran
 
 (1) Est considéré comme tour de nuit:
 
-1. pour les conducteurs, tout tour qui empiète sur la période comprise entre une et quatre heures, sous réserve que le tour de service qui commence entre trois et quatre heures comporte des prestations effectives de conduite ou de manoeuvres prévues selon les documents horaires endéans cette période,
-2. pour le personnel d’accompagnement, tout tour qui empiète sur la période de une à trois heures.
+a) pour les conducteurs, tout tour qui empiète sur la période comprise entre une et quatre heures, sous réserve que le tour de service qui commence entre trois et quatre heures comporte des prestations effectives de conduite ou de manoeuvres prévues selon les documents horaires endéans cette période,
+
+b) pour le personnel d’accompagnement, tout tour qui empiète sur la période de une à trois heures.
 
 (2) En principe, les roulements ne peuvent comprendre pour un même salarié plus de quatre tours de nuit consécutifs. Toutefois, pour des raisons d’organisation rationnelle du service, cette limite peut être relevée à cinq.
 
@@ -3862,17 +4103,27 @@ La compensation visée ci-dessus n’est pas à considérer comme service ouvran
 
 (2) Les roulements sont établis en conformité avec les dispositions du présent chapitre et mentionnent:
 
-- soit le numéro du train ou la nature du service;
-- la catégorie de salariés;
-- la durée du service par jour et par roulement avec indication de l’heure de la prise et de la fin de service;
-- la durée de l’amplitude;
-- la durée du travail;
-- la durée des repos;
-- la durée des coupures;
-- la durée de la réserve à disposition;
-- le distributeur de service;
-- le cycle d’alternance;
-- la date de mise en vigueur.
+aash soit le numéro du train ou la nature du service;
+
+bash la catégorie de salariés;
+
+cash la durée du service par jour et par roulement avec indication de l’heure de la prise et de la fin de service;
+
+dash la durée de l’amplitude;
+
+eash la durée du travail;
+
+fash la durée des repos;
+
+gash la durée des coupures;
+
+hash la durée de la réserve à disposition;
+
+iash le distributeur de service;
+
+jash le cycle d’alternance;
+
+kash la date de mise en vigueur.
 
 (3) Les roulements et tous documents relatifs au service des salariés sont à tenir à la disposition du ministre ayant le travail dans ses attributions.
 
@@ -3968,8 +4219,9 @@ Le détenteur du certificat d’initiation technique et professionnelle (CITP) d
 
 Le niveau du salaire social minimum des salariés adolescents âgés de moins de dix-huit ans accomplis est fixé comme suit en pourcentage du salaire social minimum des salariés adultes:
 
-1. pour les adolescents âgés de 17 à 18 ans: 80 pour cent;
-2. pour les adolescents âgés de 15 à 17 ans: 75 pour cent.
+1\. pour les adolescents âgés de 17 à 18 ans: 80 pour cent;
+
+2\. pour les adolescents âgés de 15 à 17 ans: 75 pour cent.
 
 ##### Art. L. 222-6.
 
@@ -4029,9 +4281,11 @@ Lorsque plusieurs saisies-arrêts ont été pratiquées contre le même débiteu
 
 Par dérogation aux dispositions qui précèdent, les salaires, pensions et rentes peuvent être cédés comme suit, lorsque la cession est consentie à l’occasion d’un contrat d’épargne ou de prêt destiné à l’acquisition, la construction ou la transformation d’un immeuble ou d’une part immobilière:
 
-1. dans la deuxième tranche, jusqu’à concurrence de 15 pour cent;
-2. dans la troisième tranche, jusqu’à concurrence de 30 pour cent;
-3. dans la quatrième tranche, jusqu’à concurrence de 40 pour cent.
+1\. dans la deuxième tranche, jusqu’à concurrence de 15 pour cent;
+
+2\. dans la troisième tranche, jusqu’à concurrence de 30 pour cent;
+
+3\. dans la quatrième tranche, jusqu’à concurrence de 40 pour cent.
 
 Lorsque plusieurs saisies-arrêts ont été pratiquées contre le même débiteur et entre les mains de différents tiers saisis, la répartition en tranches prévue ci-dessus est établie sur le total des revenus saisis. Dans cette hypothèse, le juge de paix détermine les retenues à effectuer par les différents tiers saisis.
 
@@ -4043,13 +4297,17 @@ Pour la détermination de la quotité saisissable et cessible, les retenues effe
 
 Il ne peut être fait de retenue par l’employeur sur les salaires tels qu’ils sont déterminés au dernier alinéa de l’article précédent que:
 
-1. du chef d’amendes encourues par le salarié en vertu de ce code, en vertu de la loi, en vertu de son statut ou en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;
-2. du chef de réparation du dommage causé par la faute du salarié;
-3. du chef de fournitures au salarié:
+1\. du chef d’amendes encourues par le salarié en vertu de ce code, en vertu de la loi, en vertu de son statut ou en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;
 
-   1. d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;
-   2. de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge selon l’usage admis ou aux termes de leur engagement;
-4. du chef d’avances faites en argent.
+2\. du chef de réparation du dommage causé par la faute du salarié;
+
+3\. du chef de fournitures au salarié:
+
+a) d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;
+
+b) de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge selon l’usage admis ou aux termes de leur engagement;
+
+4\. du chef d’avances faites en argent.
 
 Les retenues mentionnées ci-dessus ne se confondent ni avec la partie saisissable, ni avec la partie cessible. Celles énumérées sous 1, 2 et 4 ne peuvent dépasser le dixième du salaire.
 
@@ -4059,10 +4317,13 @@ Les acomptes versés pour une période de travail révolue ou en cours, pour laq
 
 Le salarié ne peut être obligé par contrat ou ordre de service à participer aux frais d’institutions ayant pour but l’amélioration du sort des salariés et de leurs familles qu’à la condition:
 
-1. que le patron ne touche aucun profit commercial de l’institution;
-2. qu’il contribue d’une façon sensible aux frais de l’institution;
-3. que le capital de l’institution, en ce qui concerne les cotisations des salariés, soit garanti et réservé à ceux-ci, même en cas de faillite du patron;
-4. que la délégation de salariés, ou toute autre représentation de ceux-ci librement choisie, prenne avec le patron une part égale à l’administration de l’institution.
+1\. que le patron ne touche aucun profit commercial de l’institution;
+
+2\. qu’il contribue d’une façon sensible aux frais de l’institution;
+
+3\. que le capital de l’institution, en ce qui concerne les cotisations des salariés, soit garanti et réservé à ceux-ci, même en cas de faillite du patron;
+
+4\. que la délégation de salariés, ou toute autre représentation de ceux-ci librement choisie, prenne avec le patron une part égale à l’administration de l’institution.
 
 ##### Art. L. 224-5.
 
@@ -4116,9 +4377,11 @@ Les dispositions du présent chapitre ne sont pas applicables aux voyageurs et r
 
 L’interdiction visée à l’article L. 231-1 ne s’applique pas:
 
-1. à la surveillance des locaux affectés à l’entreprise;
-2. aux travaux de nettoyage, de réparation et de conservation nécessaires à la continuation régulière de l’exploitation de l’entreprise, ni aux travaux autres que ceux de la production, dont dépend la reprise régulière de l’exploitation le jour suivant;
-3. aux travaux nécessaires pour empêcher la détérioration des matières premières ou des produits.
+1\. à la surveillance des locaux affectés à l’entreprise;
+
+2\. aux travaux de nettoyage, de réparation et de conservation nécessaires à la continuation régulière de l’exploitation de l’entreprise, ni aux travaux autres que ceux de la production, dont dépend la reprise régulière de l’exploitation le jour suivant;
+
+3\. aux travaux nécessaires pour empêcher la détérioration des matières premières ou des produits.
 
 Ces travaux ne sont autorisés que pour autant que l’exploitation normale de l’entreprise ne permet pas de les exécuter un autre jour de la semaine.
 
@@ -4154,28 +4417,39 @@ Pour l’application du présent article, on entend par « entreprise » : l’e
 
 Un règlement grand-ducal à prendre sur avis du Conseil d’Etat peut prévoir, sous les conditions et selon les modalités qu’il détermine, des dérogations à l’interdiction visée à l’article L. 231-1:
 
-1. pour les entreprises où il est fait usage de l’eau, comme moteur exclusif ou principal;
-2. pour l’exercice d’activités réclamées le dimanche pour la satisfaction des besoins du public qui se manifestent soit journellement, soit principalement le dimanche;
-3. pour des activités qui s’exercent seulement une partie de l’année ou qui sont exploitées d’une manière plus intense en certaines saisons;
-4. pour des activités exercées pour des motifs d’utilité publique.
+1\. pour les entreprises où il est fait usage de l’eau, comme moteur exclusif ou principal;
+
+2\. pour l’exercice d’activités réclamées le dimanche pour la satisfaction des besoins du public qui se manifestent soit journellement, soit principalement le dimanche;
+
+3\. pour des activités qui s’exercent seulement une partie de l’année ou qui sont exploitées d’une manière plus intense en certaines saisons;
+
+4\. pour des activités exercées pour des motifs d’utilité publique.
 
 ##### Art. L. 231-6.
 
 (1) L’interdiction visée à l’article L. 231-1 ne s’applique pas:
 
-1. aux hôtels, restaurants, cantines, débits de boissons et autres établissements où sont servies des consommations;
-2. aux pharmacies, drogueries et magasins d’appareils médicaux et chirurgicaux;
-3. aux entreprises foraines;
-4. aux entreprises de l’agriculture et de la viticulture;
-5. aux entreprises de spectacles publics;
-6. aux entreprises d’éclairage et de distribution d’eau et de force motrice;
-7. aux entreprises de transport;
-8. aux établissements ayant pour objet le traitement ou l’hospitalisation des malades, des infirmes, des indigents et des aliénés, aux dispensaires, maisons pour enfants, sanatoriums, maisons de repos, maisons de retraite, colonies de vacances, orphelinats et internats;
-9. aux entreprises dans lesquelles le travail en raison de sa nature ne souffre ni interruption, ni retard;
-10. au personnel des services domestiques.
-11. (
+1\. aux hôtels, restaurants, cantines, débits de boissons et autres établissements où sont servies des consommations;
 
-   [L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a343/jo)) aux musées.
+2\. aux pharmacies, drogueries et magasins d’appareils médicaux et chirurgicaux;
+
+3\. aux entreprises foraines;
+
+4\. aux entreprises de l’agriculture et de la viticulture;
+
+5\. aux entreprises de spectacles publics;
+
+6\. aux entreprises d’éclairage et de distribution d’eau et de force motrice;
+
+7\. aux entreprises de transport;
+
+8\. aux établissements ayant pour objet le traitement ou l’hospitalisation des malades, des infirmes, des indigents et des aliénés, aux dispensaires, maisons pour enfants, sanatoriums, maisons de repos, maisons de retraite, colonies de vacances, orphelinats et internats;
+
+9\. aux entreprises dans lesquelles le travail en raison de sa nature ne souffre ni interruption, ni retard;
+
+10\. au personnel des services domestiques.
+
+11\. ([L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a343/jo)) aux musées.
 
 Un règlement grand-ducal à prendre sur avis du Conseil d’Etat détermine les entreprises visées au point 9 et spécifie la nature des travaux dont l’exécution est autorisée le dimanche.
 
@@ -4217,7 +4491,7 @@ Les exceptions et les dérogations prévues aux articles qui précèdent ne pré
 
 ##### Art. L. 231-10.
 
-L’employeur est tenu d’inscrire les heures de travail prestées le dimanche sur le registre spécial ou fichier visé à l’article «L. 211-27» [^note_1_7_0] .
+L’employeur est tenu d’inscrire les heures de travail prestées le dimanche sur le registre spécial ou fichier visé à l’article «L. 211-27»[^note_1_7_0] .
 
 ##### Art. L. 231-11 — ([L. 23 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n7/jo))
 
@@ -4253,18 +4527,25 @@ Les infractions aux articles L. 231-1 à L. 231-10 et à leurs mesures d’exéc
 
 Sont jours fériés légaux :
 
-1. le Nouvel An ;
-2. le lundi de Pâques ;
-3. le 1
+1° le Nouvel An ;
 
-   <sup>er</sup> mai ;
-4. la Journée de l’Europe ;
-5. l’Ascension ;
-6. le lundi de Pentecôte ;
-7. le jour de la célébration publique de l’anniversaire du Grand-Duc qui est fixé au 23 juin ;
-8. l’Assomption ;
-9. la Toussaint ;
-10. le premier et le deuxième jour de Noël.
+2° le lundi de Pâques ;
+
+3° le 1 <sup>er</sup> mai ;
+
+4° la Journée de l’Europe ;
+
+5° l’Ascension ;
+
+6° le lundi de Pentecôte ;
+
+7° le jour de la célébration publique de l’anniversaire du Grand-Duc qui est fixé au 23 juin ;
+
+8° l’Assomption ;
+
+9° la Toussaint ;
+
+10° le premier et le deuxième jour de Noël.
 
 ###### Art. L. 232-3.
 
@@ -4320,12 +4601,9 @@ Le salaire horaire moyen est obtenu en divisant les appointements mensuels par l
 
 Ne peut prétendre au bénéfice du salaire afférent à un jour férié:
 
-1. (
+1\. ([L. 8 février 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/02/08/a66/jo)) le salarié ou l’apprenti qui, par sa faute, n’a pas travaillé la veille ou le lendemain de ce jour férié;
 
-   [L. 8 février 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/02/08/a66/jo)) le salarié ou l’apprenti qui, par sa faute, n’a pas travaillé la veille ou le lendemain de ce jour férié;
-2. (
-
-   [L. 8 février 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/02/08/a66/jo)) le salarié ou l’apprenti qui, même pour des motifs d’absence valables, s’est absenté sans justification pendant plus de trois jours pendant la période de vingt-cinq jours ouvrables précédant ce jour férié.
+2\. ([L. 8 février 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/02/08/a66/jo)) le salarié ou l’apprenti qui, même pour des motifs d’absence valables, s’est absenté sans justification pendant plus de trois jours pendant la période de vingt-cinq jours ouvrables précédant ce jour férié.
 
 ##### *Section 4.* — *Autorisation ministérielle*
 
@@ -4391,11 +4669,15 @@ Le congé peut être refusé au salarié aussi longtemps que ses absences injust
 
 Ne constituent cependant pas des absences injustifiées au sens de l’alinéa précédent et sont assimilées à des journées de travail effectif:
 
-1. les absences pour cause de maladie ou d’accident;
-2. les absences en vertu d’une autorisation régulière préalable de l’employeur;
-3. les absences motivées par des cas de force majeure ou par des causes indépendantes de la volonté du salarié, et qui ont mis ce dernier dans l’impossibilité de solliciter une autorisation préalable, à l’exception des absences résultant d’une peine d’emprisonnement;
-4. les jours fériés légaux et les jours de fête payés en vertu d’un contrat individuel ou de conventions collectives du travail;
-5. les jours de grève légale.
+1\. les absences pour cause de maladie ou d’accident;
+
+2\. les absences en vertu d’une autorisation régulière préalable de l’employeur;
+
+3\. les absences motivées par des cas de force majeure ou par des causes indépendantes de la volonté du salarié, et qui ont mis ce dernier dans l’impossibilité de solliciter une autorisation préalable, à l’exception des absences résultant d’une peine d’emprisonnement;
+
+4\. les jours fériés légaux et les jours de fête payés en vertu d’un contrat individuel ou de conventions collectives du travail;
+
+5\. les jours de grève légale.
 
 ##### Art. L. 233-7.
 
@@ -4469,32 +4751,25 @@ Pendant la durée du congé, le salarié ne peut exécuter aucun travail rémun�
 
 (1) Le salarié obligé de s’absenter de son travail pour des raisons d’ordre personnel a droit à un congé extraordinaire dans les cas suivants, fixé à:
 
-1. (
+1\. ([L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) un jour pour le décès d’un parent au deuxième degré du salarié ou de son conjoint ou partenaire ;
 
-   [L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) un jour pour le décès d’un parent au deuxième degré du salarié ou de son conjoint ou partenaire ;
-2. (
+2\. ([L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a524/jo)) dix jours pour le père ou, le cas échéant, pour la personne reconnue comme second parent équivalent par la législation nationale applicable en vertu du lieu de résidence ou de la nationalité de l’enfant ou du parent concerné et qui l’autorise à établir la filiation à l’égard de l’enfant sans devoir recourir à la procédure d’adoption, en cas de naissance d’un enfant ;
 
-   [L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a524/jo)) dix jours pour le père ou, le cas échéant, pour la personne reconnue comme second parent équivalent par la législation nationale applicable en vertu du lieu de résidence ou de la nationalité de l’enfant ou du parent concerné et qui l’autorise à établir la filiation à l’égard de l’enfant sans devoir recourir à la procédure d’adoption, en cas de naissance d’un enfant ;
-3. un jour pour chaque parent en cas de mariage d’un enfant ;
-4. deux jours en cas de déménagement sur une période de trois ans d’occupation auprès du même employeur, sauf si le salarié doit déménager pour des raisons professionnelles ;
-5. (
+3\. un jour pour chaque parent en cas de mariage d’un enfant ;
 
-   [L. 3 août 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n3/jo)) trois jours pour le décès du conjoint ou du partenaire ou d’un parent au premier degré du salarié ou de son conjoint ou partenaire;
-6. (
+4\. deux jours en cas de déménagement sur une période de trois ans d’occupation auprès du même employeur, sauf si le salarié doit déménager pour des raisons professionnelles ;
 
-   [L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) trois jours pour le mariage et un jour pour la déclaration de partenariat du salarié ;
-7. (
+5\. ([L. 3 août 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n3/jo)) trois jours pour le décès du conjoint ou du partenaire ou d’un parent au premier degré du salarié ou de son conjoint ou partenaire;
 
-   [L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a524/jo)) dix jours en cas d’accueil d’un enfant de moins de seize ans en vue de son adoption, sauf en cas de bénéfice du congé d’accueil prévu au chapitre IV, section 8, du présent titre, pouvant être pris à partir du jour où l’enfant habite effectivement dans le même ménage que celui du salarié ou à partir de la date de la prise d’effet de l’adoption ;
-8. (
+6\. ([L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) trois jours pour le mariage et un jour pour la déclaration de partenariat du salarié ;
 
-   [L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) cinq jours en cas de décès d’un enfant mineur ;
-9. (
+7\. ([L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a524/jo)) dix jours en cas d’accueil d’un enfant de moins de seize ans en vue de son adoption, sauf en cas de bénéfice du congé d’accueil prévu au chapitre IV, section 8, du présent titre, pouvant être pris à partir du jour où l’enfant habite effectivement dans le même ménage que celui du salarié ou à partir de la date de la prise d’effet de l’adoption ;
 
-   [L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) un jour sur une période d’occupation de douze mois pour raisons de force majeure liée à des raisons familiales urgentes en cas de maladie ou d’accident rendant indispensable la présence immédiate du salarié ;
-10. (
+8\. ([L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) cinq jours en cas de décès d’un enfant mineur ;
 
-   [L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) cinq jours sur une période d’occupation de douze mois pour apporter des soins personnels ou une aide personnelle à un membre de famille tel que défini ci-dessous ou à une personne qui vit dans le même ménage que le salarié et qui nécessite des soins ou une aide considérables pour raison médicale grave qui réduit sa capacité et son autonomie rendant le membre de famille ou la personne précitée incapable de compenser ou de faire face de manière autonome à des déficiences physiques, cognitives ou psychologiques ou à des contraintes ou exigences liées à la santé et qui est attestée par un médecin.
+9\. ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) un jour sur une période d’occupation de douze mois pour raisons de force majeure liée à des raisons familiales urgentes en cas de maladie ou d’accident rendant indispensable la présence immédiate du salarié ;
+
+10\. ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) cinq jours sur une période d’occupation de douze mois pour apporter des soins personnels ou une aide personnelle à un membre de famille tel que défini ci-dessous ou à une personne qui vit dans le même ménage que le salarié et qui nécessite des soins ou une aide considérables pour raison médicale grave qui réduit sa capacité et son autonomie rendant le membre de famille ou la personne précitée incapable de compenser ou de faire face de manière autonome à des déficiences physiques, cognitives ou psychologiques ou à des contraintes ou exigences liées à la santé et qui est attestée par un médecin.
 
 le tout avec pleine conservation de son salaire.
 
@@ -4608,9 +4883,11 @@ L’octroi du congé-jeunesse doit permettre la participation des jeunes à des 
 
 Sont éligibles pour l’obtention du congé-jeunesse, les activités suivantes:
 
-1. la formation et le perfectionnement d’animateurs de jeunesse;
-2. la formation et le perfectionnement de cadres de mouvements de jeunesse ou d’associations culturelles et sportives pour autant que les activités de formation et de perfectionnement visent essentiellement les jeunes;
-3. l’organisation et l’encadrement de stages de formation ou d’activités éducatives pour les jeunes.
+a) la formation et le perfectionnement d’animateurs de jeunesse;
+
+b) la formation et le perfectionnement de cadres de mouvements de jeunesse ou d’associations culturelles et sportives pour autant que les activités de formation et de perfectionnement visent essentiellement les jeunes;
+
+c) l’organisation et l’encadrement de stages de formation ou d’activités éducatives pour les jeunes.
 
 L’approbation de ce programme ainsi que l’octroi du congé-jeunesse se font dans la mesure des crédits inscrits à cet effet au budget annuel de l’Etat.
 
@@ -4624,9 +4901,11 @@ La durée du congé-jeunesse ne peut être imputée sur le congé normal tel qu�
 
 Le congé-jeunesse est accordé aux conditions suivantes:
 
-1. l’intéressé doit être normalement occupé sur un lieu de travail situé sur le territoire luxembourgeois, lié par un contrat de travail à une entreprise ou association légalement établie et active au Grand-Duché de Luxembourg;
-2. le congé ne peut être rattaché au congé annuel légal ou à une période de maladie pour le cas où ce cumul causerait une absence continue de plus de trois semaines;
-3. le congé peut être différé si l’absence sollicitée risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise ou au déroulement harmonieux du congé annuel payé du personnel.
+a) l’intéressé doit être normalement occupé sur un lieu de travail situé sur le territoire luxembourgeois, lié par un contrat de travail à une entreprise ou association légalement établie et active au Grand-Duché de Luxembourg;
+
+b) le congé ne peut être rattaché au congé annuel légal ou à une période de maladie pour le cas où ce cumul causerait une absence continue de plus de trois semaines;
+
+c) le congé peut être différé si l’absence sollicitée risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise ou au déroulement harmonieux du congé annuel payé du personnel.
 
 Pour les personnes travaillant à temps partiel, les jours de congé-jeunesse sont calculés proportionnellement.
 
@@ -4672,30 +4951,35 @@ Les infractions aux dispositions des articles L. 234-1 à L. 234-4 ainsi qu’au
 
 (1) Les acteurs culturels suivants peuvent bénéficier d’un congé culturel :
 
-1. des artistes créateurs et exécutants au sens de l’article 1
+1\. des artistes créateurs et exécutants au sens de l’article 1 <sup>er</sup> , paragraphe 1-0, points 3 et 4, de la [loi modifiée du 19 décembre 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/jo) relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique dans les domaines des arts visuels et audiovisuels, des arts multimédia et des arts numériques, des arts du spectacle vivant, de la littérature et de l’édition, de la musique et de l’architecture ;
 
-   <sup>er</sup> , paragraphe 1-0, points 3 et 4, de la [loi modifiée du 19 décembre 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/jo) relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique dans les domaines des arts visuels et audiovisuels, des arts multimédia et des arts numériques, des arts du spectacle vivant, de la littérature et de l’édition, de la musique et de l’architecture ;
-2. toute autre personne intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion.
+2\. toute autre personne intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion.
 
 (2) Les dispositions de la présente section s’appliquent aux acteurs culturels qui :
 
-1. sont affiliés de manière continue au Grand-Duché de Luxembourg en vertu de l’article 1
+1\. sont affiliés de manière continue au Grand-Duché de Luxembourg en vertu de l’article 1 <sup>er</sup> du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) depuis au moins six mois précédant la date de la demande d’admission au bénéfice du congé culturel ;
 
-   <sup>er</sup> du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) depuis au moins six mois précédant la date de la demande d’admission au bénéfice du congé culturel ;
-2. font preuve d’un engagement notoire dans la scène culturelle et artistique luxembourgeoise en raison de la diffusion publique de leurs œuvres, des retombées de leur activité et en raison de la reconnaissance par leurs pairs ;
-3. exercent leur activité culturelle accessoirement à une autre activité professionnelle salariée.
+2\. font preuve d’un engagement notoire dans la scène culturelle et artistique luxembourgeoise en raison de la diffusion publique de leurs œuvres, des retombées de leur activité et en raison de la reconnaissance par leurs pairs ;
+
+3\. exercent leur activité culturelle accessoirement à une autre activité professionnelle salariée.
 
 (3) Le congé culturel a pour but de permettre aux acteurs culturels visés aux paragraphes 1 <sup>er</sup> et 2 de participer à des manifestations culturelles de haut niveau ou de participer à une formation spécialisée relevant du secteur culturel organisée par un organisme agréé comme organisme de formation professionnelle continue.
 
 Sont éligibles pour l’octroi d’un congé culturel, et cela tant pour la phase de préparation que pour la phase d’exécution de la manifestation, les manifestations culturelles de haut niveau suivantes :
 
-1. les productions théâtrales, musicales, de danse ou pluridisciplinaires des festivals reconnus, des institutions culturelles publiques et des théâtres ou ensembles privés ;
-2. les productions cinématographiques soutenues par le Fonds national de soutien à la production audiovisuelle ;
-3. les expositions d’art visuel dans un musée, une galerie d’art, un centre d’art ou lors d’une biennale d’art contemporain ;
-4. les festivals, foires, salons littéraires et tournées de lecture ;
-5. les échanges culturels et artistiques organisés dans le cadre des accords culturels ;
-6. les congrès et colloques internationaux portant sur des thèmes de la culture et des arts ;
-7. les remises de prix et de distinctions.
+1\. les productions théâtrales, musicales, de danse ou pluridisciplinaires des festivals reconnus, des institutions culturelles publiques et des théâtres ou ensembles privés ;
+
+2\. les productions cinématographiques soutenues par le Fonds national de soutien à la production audiovisuelle ;
+
+3\. les expositions d’art visuel dans un musée, une galerie d’art, un centre d’art ou lors d’une biennale d’art contemporain ;
+
+4\. les festivals, foires, salons littéraires et tournées de lecture ;
+
+5\. les échanges culturels et artistiques organisés dans le cadre des accords culturels ;
+
+6\. les congrès et colloques internationaux portant sur des thèmes de la culture et des arts ;
+
+7\. les remises de prix et de distinctions.
 
 Sont prises en compte les manifestations culturelles visées à l’alinéa 2 qui se déroulent au Grand-Duché de Luxembourg ou à l’étranger, reconnues dans les domaines artistiques ou culturels concernés et qui bénéficient d’une notoriété internationale.
 
@@ -4711,8 +4995,9 @@ Par cadres administratifs il y a lieu d’entendre les personnes physiques charg
 
 Pour les cadres administratifs d’une fédération ou d’un réseau national du secteur culturel jouant un rôle porteur dans le domaine culturel et bénéficiant à ce titre d’un soutien financier annuel de la part de l’État, la durée annuelle du congé culturel par organisme est limitée à :
 
-1. cinq jours pour les fédérations et réseaux nationaux du secteur culturel dont les associations ou membres institutionnels affiliés comptent ensemble moins de mille membres actifs ;
-2. dix jours pour les fédérations et réseaux nationaux du secteur culturel dont les associations ou membres institutionnels affiliés comptent ensemble au moins mille membres actifs.
+1\. cinq jours pour les fédérations et réseaux nationaux du secteur culturel dont les associations ou membres institutionnels affiliés comptent ensemble moins de mille membres actifs ;
+
+2\. dix jours pour les fédérations et réseaux nationaux du secteur culturel dont les associations ou membres institutionnels affiliés comptent ensemble au moins mille membres actifs.
 
 Par membres actifs il y a lieu d’entendre les membres régulièrement affiliés qui se sont acquittés du paiement de leur cotisation.
 
@@ -4720,9 +5005,11 @@ Par membres actifs il y a lieu d’entendre les membres régulièrement affilié
 
 Pour les cadres administratifs d’une association du secteur culturel, la durée annuelle du congé culturel par organisme est limitée à :
 
-1. deux jours pour les associations du secteur culturel comptant moins de cinquante membres actifs affiliés ;
-2. trois jours pour les associations du secteur culturel comptant entre cinquante et deux cents membres actifs affiliés ;
-3. quatre jours pour les associations du secteur culturel comptant plus de deux cents.
+1\. deux jours pour les associations du secteur culturel comptant moins de cinquante membres actifs affiliés ;
+
+2\. trois jours pour les associations du secteur culturel comptant entre cinquante et deux cents membres actifs affiliés ;
+
+3\. quatre jours pour les associations du secteur culturel comptant plus de deux cents.
 
 (3) Pour le congé culturel prévu aux paragraphes 1 <sup>er</sup> et 2, sont éligibles les salariés normalement occupés sur un lieu de travail situé sur le territoire luxembourgeois et liés par un contrat de travail à un employeur légalement établi et actif au Grand-Duché de Luxembourg
 
@@ -4734,13 +5021,19 @@ Les associations du secteur culturel bénéficient chacune d’un contingent de 
 
 (2) Sont éligibles pour l’octroi d’un congé culturel, et cela tant pour la phase de préparation que pour la phase d’exécution de la manifestation, les manifestations culturelles de haut niveau suivantes :
 
-1. les productions théâtrales, musicales, de danse ou pluridisciplinaires des festivals reconnus, des institutions culturelles publiques et des théâtres ou ensembles privés ;
-2. les productions cinématographiques soutenues par le Fonds national de soutien à la production audiovisuelle ;
-3. les expositions d’art visuel dans un musée, une galerie d’art, un centre d’art ou lors d’une biennale d’art contemporain ;
-4. les festivals, foires, salons littéraires et tournées de lecture ;
-5. les échanges culturels et artistiques organisés dans le cadre des accords culturels ;
-6. les congrès et colloques internationaux portant sur des thèmes de la culture et des arts ;
-7. les remises de prix et de distinctions.
+1\. les productions théâtrales, musicales, de danse ou pluridisciplinaires des festivals reconnus, des institutions culturelles publiques et des théâtres ou ensembles privés ;
+
+2\. les productions cinématographiques soutenues par le Fonds national de soutien à la production audiovisuelle ;
+
+3\. les expositions d’art visuel dans un musée, une galerie d’art, un centre d’art ou lors d’une biennale d’art contemporain ;
+
+4\. les festivals, foires, salons littéraires et tournées de lecture ;
+
+5\. les échanges culturels et artistiques organisés dans le cadre des accords culturels ;
+
+6\. les congrès et colloques internationaux portant sur des thèmes de la culture et des arts ;
+
+7\. les remises de prix et de distinctions.
 
 Sont prises en compte les manifestations culturelles visées à l’alinéa 1 <sup>er</sup> reconnues dans les domaines artistiques ou culturels concernés et qui bénéficient d’une notoriété internationale.
 
@@ -4806,10 +5099,13 @@ Peuvent bénéficier du congé spécial défini à l’article L-234-22 les pers
 
 Peuvent également bénéficier du congé spécial:
 
-- les chefs de centre et chefs de centre adjoints, les chefs de groupe et chefs de groupe adjoints, les chefs de corps et chefs de corps adjoints, l’inspecteur général, les inspecteurs régionaux et les inspecteurs régionaux adjoints de la division d’incendie et de sauvetage dans le cadre de l’exercice de leurs attributions et pour autant qu’ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
-- les membres du comité exécutif et les membres du bureau de la commission des jeunes sapeurs-pompiers de la Fédération Nationale des Corps de sapeurs-pompiers dans le cadre de l’exercice de leurs attributions et pour autant qu’ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
-- les volontaires du groupe d’intervention chargé de missions humanitaires en dehors du territoire du Grand-Duché de Luxembourg en cas d’événements calamiteux très graves sur ordre du Gouvernement, soit sur demande du ou des pays concernés, soit dans le cadre d’une assistance internationale.
-- les personnes qui assument les devoirs de représentation à préciser par règlement grand-ducal. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
+aash les chefs de centre et chefs de centre adjoints, les chefs de groupe et chefs de groupe adjoints, les chefs de corps et chefs de corps adjoints, l’inspecteur général, les inspecteurs régionaux et les inspecteurs régionaux adjoints de la division d’incendie et de sauvetage dans le cadre de l’exercice de leurs attributions et pour autant qu’ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
+
+bash les membres du comité exécutif et les membres du bureau de la commission des jeunes sapeurs-pompiers de la Fédération Nationale des Corps de sapeurs-pompiers dans le cadre de l’exercice de leurs attributions et pour autant qu’ils exercent cette fonction à titre volontaire. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
+
+cash les volontaires du groupe d’intervention chargé de missions humanitaires en dehors du territoire du Grand-Duché de Luxembourg en cas d’événements calamiteux très graves sur ordre du Gouvernement, soit sur demande du ou des pays concernés, soit dans le cadre d’une assistance internationale.
+
+dash les personnes qui assument les devoirs de représentation à préciser par règlement grand-ducal. La durée du congé spécial pris à cet effet ne peut pas dépasser un maximum de sept jours ouvrables par an.
 
 ###### Art. L. 234-24.
 
@@ -4873,9 +5169,11 @@ La durée du congé de la coopération au développement ne peut être imputée 
 
 L’octroi du congé de la coopération au développement aux experts et aux représentants des organisations non gouvernementales exerçant une activité professionnelle salariée est subordonnée aux conditions suivantes:
 
-1. l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
-2. sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul entraînerait une absence continue dépassant la durée totale du congé annuel dû;
-3. l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel payé des autres membres du personnel.
+1\. l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
+
+2\. sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul entraînerait une absence continue dépassant la durée totale du congé annuel dû;
+
+3\. l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel payé des autres membres du personnel.
 
 ###### Art. L. 234-37.
 
@@ -4909,16 +5207,17 @@ Les infractions aux dispositions des articles L. 234-32 à L. 234-40 et au règl
 
 Peut prétendre au congé parental tout parent, pour autant qu’il
 
-- (
+aash ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a668/jo)) exerce une activité professionnelle moyennant un ou plusieurs contrats de travail totalisant au moins dix heures de travail par semaine et est affilié à ce titre obligatoirement à la sécurité sociale luxembourgeoise sans interruption pendant au moins douze mois continus précédant immédiatement le début du congé parental ;
 
-  [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a668/jo)) exerce une activité professionnelle moyennant un ou plusieurs contrats de travail totalisant au moins dix heures de travail par semaine et est affilié à ce titre obligatoirement à la sécurité sociale luxembourgeoise sans interruption pendant au moins douze mois continus précédant immédiatement le début du congé parental ;
-- est occupé, en cas d’activité salariale, du chef d’un ou de plusieurs contrats de travail ou d’un contrat d’apprentissage pendant toute la durée du congé parental;
-- n’exerce aucune activité professionnelle pendant la durée du congé parental à plein temps ou exerce pendant la durée du congé parental à temps partiel une activité professionnelle à temps partiel auprès du même employeur sans que la durée mensuelle totale de travail effectivement presté ne dépasse la moitié de la durée de travail presté avant le congé parental ou réduit sa durée de travail soit à raison de vingt pourcent par semaine, soit sur quatre périodes d’un mois pendant une période maximale de vingt mois;
-- élève dans son foyer le ou les enfants visés et s’adonne principalement à leur éducation pendant la durée du congé parental.
+bash est occupé, en cas d’activité salariale, du chef d’un ou de plusieurs contrats de travail ou d’un contrat d’apprentissage pendant toute la durée du congé parental;
+
+cash n’exerce aucune activité professionnelle pendant la durée du congé parental à plein temps ou exerce pendant la durée du congé parental à temps partiel une activité professionnelle à temps partiel auprès du même employeur sans que la durée mensuelle totale de travail effectivement presté ne dépasse la moitié de la durée de travail presté avant le congé parental ou réduit sa durée de travail soit à raison de vingt pourcent par semaine, soit sur quatre périodes d’un mois pendant une période maximale de vingt mois;
+
+dash élève dans son foyer le ou les enfants visés et s’adonne principalement à leur éducation pendant la durée du congé parental.
 
 (2) La condition d’affiliation continue pendant les douze mois précédant immédiatement le début du congé parental ne vient pas à défaillir par une ou plusieurs interruptions ne dépassant pas sept jours au total.
 
-La période d’affiliation au titre d’une mesure en faveur de l’emploi organisée par l’Agence pour le développement de l’emploi conformément aux articles L. 523-1 (2), L. 524-1, L. 524-2 à L. 524-7, L. 543-1 à L. 543-13, L. 543-14 à L. 543-28, L. 551-11 du Code du travail et d’une activité d’insertion professionnelle organisée par l’Office national d’inclusion sociale [^note_1_10_0] conformément à l’article 10 de la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti précédant immédiatement une période couverte par un contrat de travail conclu avec le même employeur ou, le cas échéant, avec le promoteur de la mesure ou l’organisme d’affectation est prise en considération au titre de durée d’affiliation requise par le paragraphe 1 <sup>er</sup> ci-avant.
+La période d’affiliation au titre d’une mesure en faveur de l’emploi organisée par l’Agence pour le développement de l’emploi conformément aux articles L. 523-1 (2), L. 524-1, L. 524-2 à L. 524-7, L. 543-1 à L. 543-13, L. 543-14 à L. 543-28, L. 551-11 du Code du travail et d’une activité d’insertion professionnelle organisée par l’Office national d’inclusion sociale[^note_1_10_0] conformément à l’article 10 de la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti précédant immédiatement une période couverte par un contrat de travail conclu avec le même employeur ou, le cas échéant, avec le promoteur de la mesure ou l’organisme d’affectation est prise en considération au titre de durée d’affiliation requise par le paragraphe 1 <sup>er</sup> ci-avant.
 
 La condition d’affiliation auprès d’un même employeur est présumée remplie si par suite de cession, fusion ou de transfert d’entreprise, le parent salarié est transféré sans interruption à un autre poste de travail.
 
@@ -4930,8 +5229,9 @@ Si le parent change d’employeur au cours de la période de douze mois précéd
 
 (2) Chaque parent bénéficiaire détenteur d’un contrat de travail, dont la durée de travail est égale à la durée normale de travail applicable dans l’établissement / l’entreprise en vertu de la loi ou de la convention collective, peut prendre, en accord avec l’employeur, un congé parental sous les formes suivantes:
 
-1. un congé parental fractionné avec réduction de la durée de travail à raison de vingt pourcent par semaine pendant une période de vingt mois;
-2. un congé parental fractionné sur quatre périodes d’un mois pendant une période maximale de vingt mois.
+1\. un congé parental fractionné avec réduction de la durée de travail à raison de vingt pourcent par semaine pendant une période de vingt mois;
+
+2\. un congé parental fractionné sur quatre périodes d’un mois pendant une période maximale de vingt mois.
 
 (3) Chaque parent bénéficiaire détenteur d’un contrat de travail, dont la durée de travail est égale ou supérieure à la moitié de la durée normale de travail applicable dans l’établissement / l’entreprise en vertu de la loi ou de la convention collective, peut prendre, en accord avec l’employeur, un congé parental à temps partiel de huit ou de douze mois. Dans ce cas, l’activité professionnelle doit être réduite de la moitié de la durée de travail presté avant le congé parental déterminée suivant le premier alinéa du paragraphe 5 ci-dessous.
 
@@ -4985,16 +5285,21 @@ Le début de ce congé parental, appelé «deuxième congé parental» doit se s
 
 Le report du congé sollicité ne peut avoir lieu que pour les raisons et dans les conditions suivantes:
 
-- lorsqu’une proportion significative d’une entreprise ou d’un département d’entreprise demande le congé parental simultanément et que de ce fait l’organisation du travail serait gravement perturbée;
-- lorsque le remplacement de la personne en congé ne peut être organisé pendant la période de notification en raison de la spécificité du travail effectué par le demandeur ou d’une pénurie de main-d’oeuvre dans la branche visée;
-- lorsque le travail est de nature saisonnière et que la demande porte sur une période se situant dans une période de nature saisonnière;
-- lorsque le salarié est un cadre supérieur qui participe à la direction effective de l’entreprise;
-- lorsque l’entreprise occupe régulièrement moins de quinze salariés liés par un contrat de travail.
+aash lorsqu’une proportion significative d’une entreprise ou d’un département d’entreprise demande le congé parental simultanément et que de ce fait l’organisation du travail serait gravement perturbée;
+
+bash lorsque le remplacement de la personne en congé ne peut être organisé pendant la période de notification en raison de la spécificité du travail effectué par le demandeur ou d’une pénurie de main-d’oeuvre dans la branche visée;
+
+cash lorsque le travail est de nature saisonnière et que la demande porte sur une période se situant dans une période de nature saisonnière;
+
+dash lorsque le salarié est un cadre supérieur qui participe à la direction effective de l’entreprise;
+
+eash lorsque l’entreprise occupe régulièrement moins de quinze salariés liés par un contrat de travail.
 
 (4) Aucun report n’est justifié en cas de survenance d’un événement grave, dont les conséquences sont en relation avec l’enfant et pour lequel l’assistance et l’intervention ponctuelles extraordinaires de la part du salarié s’avèrent indispensables, notamment:
 
-- en cas de soins ou d’assistance lors d’une maladie ou d’un accident graves de l’enfant nécessitant la présence permanente d’un parent, justifiée par certificat médical;
-- en raison de problèmes scolaires ou de troubles de comportement d’un enfant justifiés par un certificat délivré par l’autorité scolaire compétente.
+aash en cas de soins ou d’assistance lors d’une maladie ou d’un accident graves de l’enfant nécessitant la présence permanente d’un parent, justifiée par certificat médical;
+
+bash en raison de problèmes scolaires ou de troubles de comportement d’un enfant justifiés par un certificat délivré par l’autorité scolaire compétente.
 
 Le report n’est plus possible après que l’employeur a donné son accord ou en cas d’absence de réponse dans les quatre semaines.
 
@@ -5082,7 +5387,7 @@ Sans préjudice de dispositions plus favorables prévues dans les conventions co
 
 ###### Art. L.234-51.
 
-Peut prétendre au congé pour raisons familiales, le salarié ayant à charge un enfant, âgé de moins de 18 ans, nécessitant en cas de maladie grave, d’accident ou d’autre raison impérieuse de santé la présence de l’un de ses parents. [^note_1_11_1]
+Peut prétendre au congé pour raisons familiales, le salarié ayant à charge un enfant, âgé de moins de 18 ans, nécessitant en cas de maladie grave, d’accident ou d’autre raison impérieuse de santé la présence de l’un de ses parents.[^note_1_11_1]
 
 ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) II en est de même en cas de mise en quarantaine de l’enfant de moins de treize ans accomplis et de mesure d’isolement, d’éviction, d’éloignement, de mise à l’écart ou de maintien à domicile de l’enfant de moins de treize ans accomplis, pour des raisons impérieuses de santé publique, décidées ou recommandées par l’autorité nationale ou étrangère compétente, en vue de limiter la propagation d’une épidémie.
 
@@ -5094,9 +5399,11 @@ La limite d’âge de dix-huit ans ne s’applique pas aux enfants qui bénéfic
 
 La durée du congé pour raisons familiales dépend de l’âge de l’enfant et s’établit comme suit :
 
-- douze jours par enfant si l’enfant est âgé de zéro à moins de quatre ans accomplis ;
-- dix-huit jours par enfant si l’enfant est âgé de quatre ans accomplis à moins de treize ans accomplis ;
-- cinq jours par enfant si l’enfant est âgé de treize ans accomplis jusqu’à l’âge de dix-huit ans accomplis et hospitalisé.
+aash douze jours par enfant si l’enfant est âgé de zéro à moins de quatre ans accomplis ;
+
+bash dix-huit jours par enfant si l’enfant est âgé de quatre ans accomplis à moins de treize ans accomplis ;
+
+cash cinq jours par enfant si l’enfant est âgé de treize ans accomplis jusqu’à l’âge de dix-huit ans accomplis et hospitalisé.
 
 ([RGD 25 mars 2020](https://legilux.public.lu/eli/etat/leg/rgd/2020/03/25/a191/jo)) Pour les enfants visés au troisième alinéa de l’article L.234-51 la durée du congé pour raisons familiales est portée au double par tranche d’âge et la condition d’hospitalisation ne s’applique pas.
 
@@ -5104,9 +5411,9 @@ Le congé pour raisons familiales peut être fractionné.
 
 Les deux parents ne peuvent prendre le congé pour raisons familiales en même temps.
 
-([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) La durée du congé pour raisons familiales peut être prorogée pour tous les cas visés à l’article L. 234-51, alinéa 2, ainsi que pour tous les cas visés à l’article L. 234-51, alinéa 2, ainsi que pour les enfants atteints d’une maladie ou d’une déficience d’une gravité exceptionnelle, à définir par règlement grand-ducal. La durée maximale de la prorogation est limitée à un total de cinquante-deux semaines pour une période de référence de cent quatre semaines qui prend fin la veille du premier jour couvert par le certificat médical visé à l’article L.234-53. [^note_1_11_2]
+([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) La durée du congé pour raisons familiales peut être prorogée pour tous les cas visés à l’article L. 234-51, alinéa 2, ainsi que pour tous les cas visés à l’article L. 234-51, alinéa 2, ainsi que pour les enfants atteints d’une maladie ou d’une déficience d’une gravité exceptionnelle, à définir par règlement grand-ducal. La durée maximale de la prorogation est limitée à un total de cinquante-deux semaines pour une période de référence de cent quatre semaines qui prend fin la veille du premier jour couvert par le certificat médical visé à l’article L.234-53.[^note_1_11_2]
 
-###### Art. L.234-53. [^note_1_11_3]
+###### Art. L.234-53.[^note_1_11_3]
 
 ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) Pour les cas visés à l’article L. 234-51, alinéa 1 <sup>er</sup> , l’absence du bénéficiaire lors d’un congé pour raisons familiales est justifiée moyennant un certificat médical attestant la maladie, l’accident ou d’autres raisons impérieuses de santé de l’enfant, la nécessité de la présence du bénéficiaire et la durée de celle-ci. Pour les cas visés à l’article L. 234-51, alinéa 2, l’absence du bénéficiaire est justifiée par un certificat de l’autorité nationale ou étrangère compétente attestant la décision ou la recommandation.
 
@@ -5176,11 +5483,15 @@ En cas d’avis négatif de l’employeur, le congé peut être différé si l�
 
 Sont éligibles pour l’obtention du congé-formation, les formations dispensées soit au Grand-Duché de Luxembourg, soit à l’étranger par:
 
-1. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
-2. les chambres professionnelles;
-3. les communes;
-4. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre;
-5. les ministères, administrations et établissements publics.
+1\. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
+
+2\. les chambres professionnelles;
+
+3\. les communes;
+
+4\. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre;
+
+5\. les ministères, administrations et établissements publics.
 
 Toute autre institution ou personne désirant obtenir l’autorisation pour organiser des formations dans le cadre du présent article doit se conformer à l’article L. 542-8 du Code du Travail.
 
@@ -5300,11 +5611,15 @@ En cas d’avis négatif de l’employeur, le congé peut être différé si l�
 
 Sont éligibles pour l’obtention du congé linguistique, les formations en langue luxembourgeoise dispensées soit au Grand-Duché de Luxembourg, soit à l’étranger par:
 
-1. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
-2. les chambres professionnelles;
-3. les communes;
-4. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre ayant la formation professionnelle dans ses attributions;
-5. les ministères, administrations et établissements publics.
+1\. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
+
+2\. les chambres professionnelles;
+
+3\. les communes;
+
+4\. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre ayant la formation professionnelle dans ses attributions;
+
+5\. les ministères, administrations et établissements publics.
 
 Toute autre institution ou personne désirant obtenir l’autorisation pour organiser des formations dans le cadre du présent article doit se conformer à l’article L. 542-8 du Code du Travail.
 
@@ -5384,15 +5699,19 @@ Le compte épargne-temps individuel est tenu en heures.
 
 Sur demande écrite du salarié peuvent être mis sur le compte épargne-temps :
 
-1. les jours de congé supplémentaires accordés sur base de l’article L.211-6, paragraphe 2, alinéas 8 à 10 ;
-2. les soldes excédentaires de la période de référence ou de l’horaire mobile définis comme tels conformément à l’article L.211-8 ;
-3. les heures supplémentaires définies comme telles conformément à l’article L.211-22 ;
-4. le repos compensatoire prévu à l’article L.231-7 ;
-5. le repos compensatoire prévu à l’article L.232-3 ;
-6. les jours de congé supplémentaires au-delà du minimum légal prévu à l’article L.233-4 dans la mesure où les jours de congé correspondants n’ont pas encore été pris dans l’année en cours et ont été accordés conformément à un contrat de travail ou une convention collective ;
-7. un maximum de cinq jours de congé payé de récréation n’ayant pu être pris au cours de l’année de calendrier pour des raisons de maladie du salarié, pour des raisons de congé de maternité ou de congé parental en vue de pouvoir en profiter au-delà du 31 mars de l’année qui suit et qui est tombé en désuétude conformément à l’alinéa 1
+1° les jours de congé supplémentaires accordés sur base de l’article L.211-6, paragraphe 2, alinéas 8 à 10 ;
 
-   <sup>er</sup> de l’article L.233-10.
+2° les soldes excédentaires de la période de référence ou de l’horaire mobile définis comme tels conformément à l’article L.211-8 ;
+
+3° les heures supplémentaires définies comme telles conformément à l’article L.211-22 ;
+
+4° le repos compensatoire prévu à l’article L.231-7 ;
+
+5° le repos compensatoire prévu à l’article L.232-3 ;
+
+6° les jours de congé supplémentaires au-delà du minimum légal prévu à l’article L.233-4 dans la mesure où les jours de congé correspondants n’ont pas encore été pris dans l’année en cours et ont été accordés conformément à un contrat de travail ou une convention collective ;
+
+7° un maximum de cinq jours de congé payé de récréation n’ayant pu être pris au cours de l’année de calendrier pour des raisons de maladie du salarié, pour des raisons de congé de maternité ou de congé parental en vue de pouvoir en profiter au-delà du 31 mars de l’année qui suit et qui est tombé en désuétude conformément à l’alinéa 1 <sup>er</sup> de l’article L.233-10.
 
 ###### Art. L.235-5.
 
@@ -5428,11 +5747,11 @@ Pendant la période d’utilisation de ses droits acquis sur le compte épargne-
 
 Dans les cas suivants la liquidation du solde des jours de congé figurant sur le compte épargne-temps du salarié se fait par le paiement de la part de l’employeur d’une indemnité compensatoire correspondant à la conversion monétaire de l’ensemble des droits que le salarié a acquis en les multipliant par le taux horaire en vigueur au moment du paiement :
 
-1. en cas de résiliation avec effet immédiat du contrat de travail conformément aux articles L.125-1 paragraphe 1
+a) en cas de résiliation avec effet immédiat du contrat de travail conformément aux articles L.125-1 paragraphe 1 <sup>er</sup> , L.125-3 et L.125-4 ;
 
-   <sup>er</sup> , L.125-3 et L.125-4 ;
-2. en cas de cessation du contrat de travail à l’initiative de l’une des parties ou d’un commun accord ;
-3. en cas de décès du salarié où l’indemnité compensatoire est versée aux ayants droit.
+b) en cas de cessation du contrat de travail à l’initiative de l’une des parties ou d’un commun accord ;
+
+c) en cas de décès du salarié où l’indemnité compensatoire est versée aux ayants droit.
 
 ##### *Section 6.* — *Obligations de l’employeur*
 
@@ -5490,9 +5809,11 @@ En cas de récidive dans un délai de deux ans, ces peines peuvent être portée
 
 (2) Aux fins du paragraphe premier, on entend par:
 
-- «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable,
-- «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d’un sexe par rapport à des personnes de l’autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but soient appropriés et nécessaires,
-- «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d’une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
+aash «discrimination directe»: la situation dans laquelle une personne est traitée de manière moins favorable en raison de son sexe qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable,
+
+bash «discrimination indirecte»: la situation dans laquelle une disposition, un critère ou une pratique apparemment neutre désavantagerait particulièrement des personnes d’un sexe par rapport à des personnes de l’autre sexe, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un but légitime et que les moyens pour parvenir à ce but soient appropriés et nécessaires,
+
+cash «harcèlement»: la situation dans laquelle un comportement non désiré lié au sexe d’une personne survient avec pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
 
 (3) Le harcèlement au sens du présent chapitre et le harcèlement sexuel tel que défini à l’article L. 245-2 sont considérés comme une discrimination fondée sur le sexe et sont dès lors interdits.
 
@@ -5504,10 +5825,13 @@ Le rejet de tels comportements par la personne concernée ou sa soumission à ce
 
 Le présent titre s’applique à tous les salariés dont les relations de travail sont régies par le Livre premier du Code du travail en ce qui concerne:
 
-1. les conditions d’accès à l’emploi, aux activités non salariées ou au travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d’activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;
-2. l’accès à tous les types et à tous les niveaux d’orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l’acquisition d’une expérience pratique du travail;
-3. les conditions d’emploi et de travail, y compris les conditions de licenciement ainsi que le salaire;
-4. l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisation.
+1\) les conditions d’accès à l’emploi, aux activités non salariées ou au travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d’activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;
+
+2\) l’accès à tous les types et à tous les niveaux d’orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l’acquisition d’une expérience pratique du travail;
+
+3\) les conditions d’emploi et de travail, y compris les conditions de licenciement ainsi que le salaire;
+
+4\) l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisation.
 
 ##### *Section 2.* — *Dispositions particulières*
 
@@ -5585,9 +5909,11 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 (3) La demande doit contenir:
 
-1. le descriptif de l’effectif du personnel arrêté au dernier jour du mois précédant l’introduction de la demande du personnel de l’entreprise avec spécification du sexe, de la profession, du métier, du degré de hiérarchie, des fonctions de l’ensemble des salarié-e-s;
-2. le descriptif du poste vacant, notamment des points de vue hiérarchie, fonction et profil requis;
-3. l’avis du/de la délégué-e à l’égalité.
+1\. le descriptif de l’effectif du personnel arrêté au dernier jour du mois précédant l’introduction de la demande du personnel de l’entreprise avec spécification du sexe, de la profession, du métier, du degré de hiérarchie, des fonctions de l’ensemble des salarié-e-s;
+
+2\. le descriptif du poste vacant, notamment des points de vue hiérarchie, fonction et profil requis;
+
+3\. l’avis du/de la délégué-e à l’égalité.
 
 (4) ([L. 15 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/15/n2/jo))En cas de sous-représentation justifiée, le ministre ayant l’emploi dans ses attributions procède à la prise en charge de la quote-part à charge du Fonds pour l’emploi.
 
@@ -5611,13 +5937,19 @@ Pour l’application des dispositions des articles L. 543-5, paragraphe (2) et L
 
 Les mesures visées au sens du présent chapitre sont:
 
-1. la mise en œuvre d’une nouvelle organisation du travail;
-2. les mesures concrètes en matière de recrutement se situant avant ou/et après l’embauche;
-3. les actions de formation spéciales;
-4. les mesures relatives à des changements de métier;
-5. les actions de promotion;
-6. les actions favorisant l’accès du sexe sous-représenté aux postes de responsabilité et de décision;
-7. les mesures tendant à une meilleure conciliation de la vie familiale et professionnelle.
+1\. la mise en œuvre d’une nouvelle organisation du travail;
+
+2\. les mesures concrètes en matière de recrutement se situant avant ou/et après l’embauche;
+
+3\. les actions de formation spéciales;
+
+4\. les mesures relatives à des changements de métier;
+
+5\. les actions de promotion;
+
+6\. les actions favorisant l’accès du sexe sous-représenté aux postes de responsabilité et de décision;
+
+7\. les mesures tendant à une meilleure conciliation de la vie familiale et professionnelle.
 
 (2) Les actions positives doivent s’inscrire dans le cadre d’un projet d’entreprise tel que prévu à la section 2 ci-après.
 
@@ -5645,19 +5977,23 @@ A défaut de délégation du personnel, les projets d’actions sont soumis à l
 
 (2) En vue de l’obtention de l’agrément ministériel, les critères et les données suivants sont à remplir, respectivement à fournir au ministre:
 
-1. la preuve du caractère innovateur des mesures et actions proposées;
-2. (
+1\. la preuve du caractère innovateur des mesures et actions proposées;
 
-   [L. 15 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/15/n2/jo)) l’analyse succincte de la situation actuelle du sexe sous-représenté dans l’entreprise et la preuve d’avoir procédé à un contrôle de l’égalité des salaires entre hommes et femmes dans l’entreprise;
-3. (
+2\. ([L. 15 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/15/n2/jo)) l’analyse succincte de la situation actuelle du sexe sous-représenté dans l’entreprise et la preuve d’avoir procédé à un contrôle de l’égalité des salaires entre hommes et femmes dans l’entreprise;
 
-   [L. 15 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/15/n2/jo)) la description des objectifs tous mesurables et réalisables, visés par le projet notamment des objectifs chiffrés concrets en matière d’égalité entre hommes et femmes dans la prise de décision;
-4. la durée du projet;
-5. la portée du projet;
-6. l’effet multiplicateur du projet;
-7. l’originalité du projet;
-8. les conditions de financement du projet;
-9. les modalités de règlement de conflits éventuels.
+3\. ([L. 15 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/15/n2/jo)) la description des objectifs tous mesurables et réalisables, visés par le projet notamment des objectifs chiffrés concrets en matière d’égalité entre hommes et femmes dans la prise de décision;
+
+4\. la durée du projet;
+
+5\. la portée du projet;
+
+6\. l’effet multiplicateur du projet;
+
+7\. l’originalité du projet;
+
+8\. les conditions de financement du projet;
+
+9\. les modalités de règlement de conflits éventuels.
 
 Les modalités de la mise en œuvre de ces critères font l’objet d’un règlement grand-ducal.
 
@@ -5701,9 +6037,11 @@ Aux fins du présent chapitre, on entend par salariés tous les salariés tels q
 
 Constitue un harcèlement sexuel à l’occasion des relations de travail au sens du présent chapitre tout comportement à connotation sexuelle ou tout autre comportement fondé sur le sexe dont celui qui s’en rend coupable sait ou devrait savoir qu’il affecte la dignité d’une personne, lorsqu’une des conditions suivantes est remplie:
 
-1. le comportement est non désiré, intempestif, abusif et blessant pour la personne qui en fait l’objet;
-2. le fait qu’une personne refuse ou accepte un tel comportement de la part de l’employeur, d’un salarié, d’un client ou d’un fournisseur est utilisé explicitement ou implicitement comme base d’une décision affectant les droits de cette personne en matière de formation professionnelle, d’emploi, de maintien de l’emploi, de promotion, de salaire ou de toute autre décision relative à l’emploi;
-3. un tel comportement crée un environnement intimidant, hostile, dégradant, humiliant ou offensant à l’égard de la personne qui en fait l’objet.
+1\. le comportement est non désiré, intempestif, abusif et blessant pour la personne qui en fait l’objet;
+
+2\. le fait qu’une personne refuse ou accepte un tel comportement de la part de l’employeur, d’un salarié, d’un client ou d’un fournisseur est utilisé explicitement ou implicitement comme base d’une décision affectant les droits de cette personne en matière de formation professionnelle, d’emploi, de maintien de l’emploi, de promotion, de salaire ou de toute autre décision relative à l’emploi;
+
+3\. un tel comportement crée un environnement intimidant, hostile, dégradant, humiliant ou offensant à l’égard de la personne qui en fait l’objet.
 
 Le comportement visé peut être physique, verbal ou non verbal.
 
@@ -5773,11 +6111,15 @@ En aucun cas, les mesures destinées à mettre fin au harcèlement moral ne peuv
 
 Ces mesures, qui doivent être adaptées à la nature des activités et à la taille de l’entreprise, portent au minimum sur :
 
-1. la définition des moyens mis à la disposition des victimes d’un harcèlement moral, notamment l’accueil, l’aide et l’appui requis aux victimes, les mesures de leur prise en charge et de leur remise au travail ainsi que la manière de s’adresser à la délégation du personnel ;
-2. l’investigation rapide et en toute impartialité sur les faits de harcèlement moral à l’occasion des relations de travail ;
-3. la sensibilisation des salariés et des dirigeants sur la définition du harcèlement moral, ses modes de gestion au sein de l’entreprise et les sanctions contre les auteurs des actes de harcèlement moral ;
-4. l’information de la délégation du personnel ou, à défaut, de l’ensemble du personnel, des obligations incombant à l’employeur dans la prévention des faits de harcèlement moral à l’occasion des relations de travail ;
-5. l’information et la formation des salariés.
+1° la définition des moyens mis à la disposition des victimes d’un harcèlement moral, notamment l’accueil, l’aide et l’appui requis aux victimes, les mesures de leur prise en charge et de leur remise au travail ainsi que la manière de s’adresser à la délégation du personnel ;
+
+2° l’investigation rapide et en toute impartialité sur les faits de harcèlement moral à l’occasion des relations de travail ;
+
+3° la sensibilisation des salariés et des dirigeants sur la définition du harcèlement moral, ses modes de gestion au sein de l’entreprise et les sanctions contre les auteurs des actes de harcèlement moral ;
+
+4° l’information de la délégation du personnel ou, à défaut, de l’ensemble du personnel, des obligations incombant à l’employeur dans la prévention des faits de harcèlement moral à l’occasion des relations de travail ;
+
+5° l’information et la formation des salariés.
 
 (4) Lorsqu’un comportement de harcèlement moral à l’occasion des relations de travail est porté à la connaissance de l’employeur, il prend les mesures pour faire cesser immédiatement les actes de harcèlement moral conformément aux dispositions du présent article et procède à une évaluation interne qui porte sur l’efficacité des mesures de prévention ainsi que sur la mise en œuvre éventuelle de nouvelles mesures de prévention à prendre notamment par rapport à l’organisation de l’entreprise, à la révision des procédures appliquées en cas de harcèlement moral ainsi qu’à l’information des salariés. Cette évaluation ainsi que les réévaluations ultérieures se font après consultation de la délégation du personnel ou, à défaut, de l’ensemble du personnel.
 
@@ -5827,15 +6169,15 @@ Le salarié victime de harcèlement moral peut refuser de poursuivre l’exécut
 
 Est puni d’une amende de 251 à 2.500 euros :
 
-1. l’employeur, le salarié, le client ou le fournisseur de l’entreprise qui commet des actes de harcèlement moral en violation de l’interdiction visée à l’article L. 246-3, paragraphe 1
+1° l’employeur, le salarié, le client ou le fournisseur de l’entreprise qui commet des actes de harcèlement moral en violation de l’interdiction visée à l’article L. 246-3, paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> ;
-2. l’employeur qui omet de prendre les mesures pour faire cesser immédiatement les actes de harcèlement moral en violation de l’article L. 246-3, paragraphe 2 ;
-3. l’employeur qui omet de déterminer les mesures à prendre pour protéger les salariés contre le harcèlement moral au travail en violation de l’article L. 246-3, paragraphe 3 ;
-4. l’employeur qui omet de procéder à une évaluation interne en violation de l’article L. 246-3, paragraphe 4 ;
-5. l’employeur, le supérieur hiérarchique, le collègue de travail ou toute personne extérieure en relation avec l’employeur, notamment le client et le fournisseur de l’entreprise, qui ne respecte pas les interdictions visées à l’article L. 246-4, paragraphes 1
+2° l’employeur qui omet de prendre les mesures pour faire cesser immédiatement les actes de harcèlement moral en violation de l’article L. 246-3, paragraphe 2 ;
 
-   <sup>er</sup> et 2.
+3° l’employeur qui omet de déterminer les mesures à prendre pour protéger les salariés contre le harcèlement moral au travail en violation de l’article L. 246-3, paragraphe 3 ;
+
+4° l’employeur qui omet de procéder à une évaluation interne en violation de l’article L. 246-3, paragraphe 4 ;
+
+5° l’employeur, le supérieur hiérarchique, le collègue de travail ou toute personne extérieure en relation avec l’employeur, notamment le client et le fournisseur de l’entreprise, qui ne respecte pas les interdictions visées à l’article L. 246-4, paragraphes 1 <sup>er</sup> et 2.
 
 En cas de récidive dans un délai de deux ans, ces peines peuvent être portées au double du maximum.
 
@@ -5849,10 +6191,9 @@ En cas de récidive dans un délai de deux ans, ces peines peuvent être portée
 
 (2) Aux fins du paragraphe (1):
 
-1. une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés au paragraphe (1);
-2. (
+a) une discrimination directe se produit lorsqu’une personne est traitée de manière moins favorable qu’une autre ne l’est, ne l’a été ou ne le serait dans une situation comparable, sur la base de l’un des motifs visés au paragraphe (1);
 
-   [L. 7 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/07/a964/jo)) une discrimination indirecte se produit lorsqu’une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes d’une religion ou de convictions, d’un handicap, d’un âge ou d’une orientation sexuelle, de l’appartenance ou la non appartenance, vraie ou supposée, à une nationalité, une race ou ethnie donnés, par rapport à d’autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires.
+b) ([L. 7 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/07/a964/jo)) une discrimination indirecte se produit lorsqu’une disposition, un critère ou une pratique apparemment neutre est susceptible d’entraîner un désavantage particulier pour des personnes d’une religion ou de convictions, d’un handicap, d’un âge ou d’une orientation sexuelle, de l’appartenance ou la non appartenance, vraie ou supposée, à une nationalité, une race ou ethnie donnés, par rapport à d’autres personnes, à moins que cette disposition, ce critère ou cette pratique ne soit objectivement justifié par un objectif légitime et que les moyens de réaliser cet objectif soient appropriés et nécessaires.
 
 (3) Sans préjudice des dispositions spécifiques relatives au harcèlement sexuel et au harcèlement moral sur les lieux de travail, le harcèlement est considéré comme une forme de discrimination au sens du paragraphe (1) lorsqu’un comportement indésirable lié à l’un des motifs y visés se manifeste, qui a pour objet ou pour effet de porter atteinte à la dignité d’une personne et de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.
 
@@ -5862,10 +6203,13 @@ En cas de récidive dans un délai de deux ans, ces peines peuvent être portée
 
 Le présent titre s’applique à tous les salariés dont les relations de travail sont régies par le statut de salarié tel qu’il résulte notamment du Titre II du Livre Premier du Code du travail, en qui concerne:
 
-1. les conditions d’accès à l’emploi, les activités non salariées ou le travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d’activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;
-2. l’accès à tous les types et à tous les niveaux d’orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l’acquisition d’une expérience pratique;
-3. les conditions d’emploi et de travail, y compris les conditions de licenciement et de salaire;
-4. l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisations.
+a) les conditions d’accès à l’emploi, les activités non salariées ou le travail, y compris les critères de sélection et les conditions de recrutement, quelle que soit la branche d’activité et à tous les niveaux de la hiérarchie professionnelle, y compris en matière de promotion;
+
+b) l’accès à tous les types et à tous les niveaux d’orientation professionnelle, de formation professionnelle, de perfectionnement et de formation de reconversion, y compris l’acquisition d’une expérience pratique;
+
+c) les conditions d’emploi et de travail, y compris les conditions de licenciement et de salaire;
+
+d) l’affiliation à, et l’engagement dans, une organisation de salariés ou d’employeurs, ou toute organisation dont les membres exercent une profession donnée, y compris les avantages procurés par ce type d’organisations.
 
 #### Chapitre II — Exceptions au principe de non-discrimination
 
@@ -5917,8 +6261,9 @@ Est à considérer comme nulle et non avenue toute disposition figurant notammen
 
 En ce qui concerne les points a), b), c) et d) de l’article L. 251-2, les voies de recours suivantes s’ajoutent à celle prévue à l’article précédent:
 
-1. Lorsqu’une action née de la convention collective de travail ou de l’accord conclu en application de l’article L. 165-1 du Code du travail et relevant du champ d’application de la présente loi, est intentée par une personne liée par un de ces contrats collectifs, toute organisation syndicale partie à cette convention ou à cet accord peut toujours intervenir dans l’instance engagée si la solution du litige peut présenter un intérêt collectif pour ses membres, sauf désaccord dûment écrit de la part de la personne ayant intenté l’action.
-2. Les organisations syndicales justifiant de la représentativité nationale générale ou d’une représentativité dans un secteur particulièrement important de l’économie en vertu des articles L. 161-4 et L. 161-6 du Code du travail peuvent exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 251-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elles ont pour objet de défendre en vertu de leur objet, même si elles ne justifient pas d’un intérêt matériel ou moral.
+1\. Lorsqu’une action née de la convention collective de travail ou de l’accord conclu en application de l’article L. 165-1 du Code du travail et relevant du champ d’application de la présente loi, est intentée par une personne liée par un de ces contrats collectifs, toute organisation syndicale partie à cette convention ou à cet accord peut toujours intervenir dans l’instance engagée si la solution du litige peut présenter un intérêt collectif pour ses membres, sauf désaccord dûment écrit de la part de la personne ayant intenté l’action.
+
+2\. Les organisations syndicales justifiant de la représentativité nationale générale ou d’une représentativité dans un secteur particulièrement important de l’économie en vertu des articles L. 161-4 et L. 161-6 du Code du travail peuvent exercer devant les juridictions civiles ou administratives, les droits reconnus à la victime d’une discrimination en ce qui concerne des faits constituant une violation de l’article L. 251-1 et portant un préjudice direct ou indirect aux intérêts collectifs qu’elles ont pour objet de défendre en vertu de leur objet, même si elles ne justifient pas d’un intérêt matériel ou moral.
 
 Toutefois quand les faits auront été commis envers des personnes considérées individuellement, l’organisation syndicale ne pourra exercer par voie principale les droits reconnus à la victime d’une discrimination qu’à la condition que ces personnes déclarent expressément et par écrit ne pas s’y opposer.
 
@@ -5940,9 +6285,11 @@ Cette information préalable contient une description détaillée de la finalit�
 
 (3) Lorsque le traitement des données à caractère personnel prévu au paragraphe 1 <sup>er</sup> est mis en œuvre :
 
-1. pour les besoins de sécurité et de santé des salariés,
-2. pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, ou
-3. dans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code,
+1\. pour les besoins de sécurité et de santé des salariés,
+
+2\. pour le contrôle de production ou des prestations du salarié, lorsqu’une telle mesure est le seul moyen pour déterminer le salaire exact, ou
+
+3\. dans le cadre d’une organisation de travail selon l’horaire mobile conformément aux dispositions du présent code,
 
 les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquent, sauf lorsque le traitement répond à une obligation légale ou réglementaire.
 
@@ -5952,9 +6299,9 @@ les dispositions prévues aux articles L.211-8, L.414-9 et L.423-1 s’appliquen
 
 #### Art. L. 261-2.
 
-Quiconque effectue un traitement en violation de l’article «L. 251-1» [^note_1_16_1] est puni d’une peine d’emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
+Quiconque effectue un traitement en violation de l’article «L. 251-1»[^note_1_16_1] est puni d’une peine d’emprisonnement de huit jours à un an et d’une amende de 251 à 125.000 euros ou d’une de ces peines seulement.
 
-La juridiction saisie peut prononcer la cessation du traitement contraire à l’article «L. 251-1» [^note_1_16_1] sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
+La juridiction saisie peut prononcer la cessation du traitement contraire à l’article «L. 251-1»[^note_1_16_1] sous peine d’astreinte dont le maximum est fixé par ladite juridiction.
 
 ### Titre VII — Protection des salariés en matière de lutte contre la corruption, le trafic d’influence et la prise illégale d’intérêts ([L. 13 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/13/n2/jo))
 
@@ -6004,13 +6351,19 @@ L’amende administrative est prononcée par le directeur de l’Inspection du t
 
 Aux fins du présent titre, on entend par :
 
-1. « salarié » : tout salarié tel que défini à l’article L. 121-1, ainsi que le stagiaire, l’apprenti et l’élève et l’étudiant occupé pendant les vacances scolaires ;
-2. « employeur » : toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise ;
-3. « logement » : un immeuble ou une partie d’un immeuble destiné à l’habitation, comprenant au moins une pièce de séjour, une niche de cuisine et une salle de bain avec toilettes ;
-4. « chambre » : une chambre meublée ou non-meublée servant à des fins d’habitation dans un immeuble dont la cuisine, la pièce de séjour ou la salle de bain sont situées à l’extérieur de la chambre et destinées à un usage collectif seulement ;
-5. « occupant » : le salarié résidant dans un logement ou dans une chambre ;
-6. « exploitant » : la personne physique ou morale qui est gérante du logement ou de la chambre donnés en location ou mis à disposition à des fins d’habitation ;
-7. « propriétaire » : la personne physique ou morale qui a la pleine propriété du logement ou de la chambre donnés en location ou mis à disposition à des fins d’habitation.
+1° « salarié » : tout salarié tel que défini à l’article L. 121-1, ainsi que le stagiaire, l’apprenti et l’élève et l’étudiant occupé pendant les vacances scolaires ;
+
+2° « employeur » : toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise ;
+
+3° « logement » : un immeuble ou une partie d’un immeuble destiné à l’habitation, comprenant au moins une pièce de séjour, une niche de cuisine et une salle de bain avec toilettes ;
+
+4° « chambre » : une chambre meublée ou non-meublée servant à des fins d’habitation dans un immeuble dont la cuisine, la pièce de séjour ou la salle de bain sont situées à l’extérieur de la chambre et destinées à un usage collectif seulement ;
+
+5° « occupant » : le salarié résidant dans un logement ou dans une chambre ;
+
+6° « exploitant » : la personne physique ou morale qui est gérante du logement ou de la chambre donnés en location ou mis à disposition à des fins d’habitation ;
+
+7° « propriétaire » : la personne physique ou morale qui a la pleine propriété du logement ou de la chambre donnés en location ou mis à disposition à des fins d’habitation.
 
 #### Art. L. 291-2.
 
@@ -6032,10 +6385,13 @@ En cas de manquement à ses obligations d’injonction et d’information visée
 
 (1) L’employeur doit établir et tenir à jour un registre reprenant les mentions suivantes pour chaque occupant :
 
-1. le nom, prénom, lieu de résidence habituelle, date de naissance, nationalité et numéro de la pièce d’identité du salarié éloigné de son lieu de travail habituel ;
-2. le lieu d’hébergement et, le cas échéant, le numéro de la chambre de ce salarié pendant toute la durée de l’éloignement ;
-3. le montant des dépenses relatives à l’hébergement ;
-4. le début et la fin d’occupation du logement.
+1° le nom, prénom, lieu de résidence habituelle, date de naissance, nationalité et numéro de la pièce d’identité du salarié éloigné de son lieu de travail habituel ;
+
+2° le lieu d’hébergement et, le cas échéant, le numéro de la chambre de ce salarié pendant toute la durée de l’éloignement ;
+
+3° le montant des dépenses relatives à l’hébergement ;
+
+4° le début et la fin d’occupation du logement.
 
 (2) Le registre visé au paragraphe 1 <sup>er</sup> est contresigné par le salarié concerné.
 
@@ -6085,16 +6441,21 @@ Le présent titre ne porte pas atteinte aux dispositions légales existantes ou 
 
 Aux fins du présent titre, on entend par:
 
-1. «salariés», tous les salariés tels que définis à l’article L. 121-1, ainsi que les stagiaires, les apprentis et les élèves et étudiants occupés pendant les vacances scolaires;
-2. «employeur», toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise et/ou de l’établissement;
-3. «prévention», l’ensemble des dispositions ou des mesures prises ou prévues à tous les stades de l’activité dans l’entreprise en vue d’éviter ou de diminuer les risques professionnels;
-4. «salarié désigné», tout salarié désigné par l’employeur pour s’occuper des activités de protection et des activités de prévention des risques professionnels de l’entreprise et/ou de l’établissement;
-5. (
+1\. «salariés», tous les salariés tels que définis à l’article L. 121-1, ainsi que les stagiaires, les apprentis et les élèves et étudiants occupés pendant les vacances scolaires;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) «délégué à la sécurité et à la santé», le délégué du personnel assumant cette fonction spécifique conformément au livre IV, titre I <sup>er</sup> relatif aux délégations;
-6. «poste à risques», poste remplissant les conditions de l’article L. 326-4, paragraphe (1);
-7. «coordinateur en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage», toute personne physique chargée par le maître d’ouvrage d’exécuter, pendant l’élaboration du projet de l’ouvrage, les tâches à préciser par un règlement grand-ducal concernant les prescriptions minimales de sécurité et de santé à mettre en oeuvre sur les chantiers temporaires ou mobiles;
-8. «coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage», toute personne physique chargée par le maître d’ouvrage d’exécuter, pendant la réalisation de l’ouvrage, les tâches à préciser par un règlement grand-ducal concernant les prescriptions minimales de sécurité et de santé à mettre en oeuvre sur les chantiers temporaires ou mobiles.
+2\. «employeur», toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise et/ou de l’établissement;
+
+3\. «prévention», l’ensemble des dispositions ou des mesures prises ou prévues à tous les stades de l’activité dans l’entreprise en vue d’éviter ou de diminuer les risques professionnels;
+
+4\. «salarié désigné», tout salarié désigné par l’employeur pour s’occuper des activités de protection et des activités de prévention des risques professionnels de l’entreprise et/ou de l’établissement;
+
+5\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) «délégué à la sécurité et à la santé», le délégué du personnel assumant cette fonction spécifique conformément au livre IV, titre I <sup>er</sup> relatif aux délégations;
+
+6\. «poste à risques», poste remplissant les conditions de l’article L. 326-4, paragraphe (1);
+
+7\. «coordinateur en matière de sécurité et de santé pendant l’élaboration du projet de l’ouvrage», toute personne physique chargée par le maître d’ouvrage d’exécuter, pendant l’élaboration du projet de l’ouvrage, les tâches à préciser par un règlement grand-ducal concernant les prescriptions minimales de sécurité et de santé à mettre en oeuvre sur les chantiers temporaires ou mobiles;
+
+8\. «coordinateur en matière de sécurité et de santé pendant la réalisation de l’ouvrage», toute personne physique chargée par le maître d’ouvrage d’exécuter, pendant la réalisation de l’ouvrage, les tâches à préciser par un règlement grand-ducal concernant les prescriptions minimales de sécurité et de santé à mettre en oeuvre sur les chantiers temporaires ou mobiles.
 
 #### Chapitre II — Obligations des employeurs
 
@@ -6118,15 +6479,23 @@ L’employeur doit veiller à l’adaptation de ces mesures pour tenir compte du
 
 (2) L’employeur met en oeuvre les mesures prévues au paragraphe (1), premier alinéa, sur la base des principes généraux de prévention suivants:
 
-1. éviter les risques;
-2. évaluer les risques qui ne peuvent pas être évités;
-3. combattre les risques à la source;
-4. adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé;
-5. tenir compte de l’état d’évolution de la technique;
-6. remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux;
-7. planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail;
-8. prendre des mesures de protection collective par priorité à des mesures de protection individuelle;
-9. donner les instructions appropriées aux salariés.
+1\. éviter les risques;
+
+2\. évaluer les risques qui ne peuvent pas être évités;
+
+3\. combattre les risques à la source;
+
+4\. adapter le travail à l’homme, en particulier en ce qui concerne la conception des postes de travail ainsi que le choix des équipements de travail et des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et de réduire les effets de ceux-ci sur la santé;
+
+5\. tenir compte de l’état d’évolution de la technique;
+
+6\. remplacer ce qui est dangereux par ce qui n’est pas dangereux ou par ce qui est moins dangereux;
+
+7\. planifier la prévention en visant un ensemble cohérent qui intègre dans la prévention la technique, l’organisation du travail, les conditions de travail, les relations sociales et l’influence des facteurs ambiants au travail;
+
+8\. prendre des mesures de protection collective par priorité à des mesures de protection individuelle;
+
+9\. donner les instructions appropriées aux salariés.
 
 (3) ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) L’employeur doit prendre toutes les mesures pour assurer et améliorer la protection de la santé physique et psychique des salariés, notamment en assurant des conditions de travail ergonomiques suffisantes, en évitant dans la mesure du possible le travail répétitif, en organisant le travail de manière appropriée et en prenant les mesures nécessaires afin que les salariés soient protégés de manière efficace contre les émanations résultant de la consommation de tabac d’autrui.
 
@@ -6134,16 +6503,21 @@ Un règlement grand-ducal, pris sur avis du Conseil d’Etat et de l’assentime
 
 (4) ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) Sans préjudice des autres dispositions du présent titre, l’employeur doit, compte tenu de la nature des activités de l’entreprise et/ou de l’établissement:
 
-1. évaluer les risques pour la sécurité et la santé des salariés, y compris dans le choix des équipements de travail, des substances ou préparations chimiques, et dans l’aménagement des lieux de travail. A la suite de cette évaluation, et en tant que de besoin, les activités de prévention ainsi que les méthodes de travail et de production mises en oeuvre par l’employeur doivent:
+1\. évaluer les risques pour la sécurité et la santé des salariés, y compris dans le choix des équipements de travail, des substances ou préparations chimiques, et dans l’aménagement des lieux de travail. A la suite de cette évaluation, et en tant que de besoin, les activités de prévention ainsi que les méthodes de travail et de production mises en oeuvre par l’employeur doivent:
 
-   garantir un meilleur niveau de protection de la sécurité et de la santé des salariés,
+garantir un meilleur niveau de protection de la sécurité et de la santé des salariés,
 
-   être intégrées dans l’ensemble des activités de l’entreprise et/ou de l’établissement et à tous les niveaux de l’encadrement;
-2. lorsqu’il confie des tâches à un autre salarié, prendre en considération les capacités de ce salarié en matière de sécurité et de santé;
-3. lorsqu’il confie des tâches à un salarié engagé moyennant un contrat à durée déterminée ou mis à sa disposition moyennant un contrat de prêt de main-d’oeuvre, assurer à ce salarié une formation suffisante et adéquate aux caractéristiques propres du poste de travail compte tenu de sa qualification et de son expérience;
-4. faire en sorte que la planification et l’introduction de nouvelles technologies fassent l’objet de consultations avec les salariés et/ou leurs représentants en ce qui concerne les conséquences sur la sécurité et la santé des salariés, liées au choix des équipements, à l’aménagement des conditions de travail et à l’impact des facteurs ambiants au travail;
-5. prendre les mesures appropriées pour que seuls les salariés qui ont reçu des instructions adéquates puissent accéder aux zones de risque grave et spécifique;
-6. informer le salarié engagé moyennant un contrat à durée déterminée ou mis à sa disposition moyennant un contrat de prêt de main-d’oeuvre des risques qu’il encourt. Cette information doit notamment renseigner sur la nécessité de qualification ou des aptitudes professionnelles particulières, sur la surveillance médicale telle que prévue au titre II du présent livre et préciser les risques majorés spécifiques éventuels.
+être intégrées dans l’ensemble des activités de l’entreprise et/ou de l’établissement et à tous les niveaux de l’encadrement;
+
+2\. lorsqu’il confie des tâches à un autre salarié, prendre en considération les capacités de ce salarié en matière de sécurité et de santé;
+
+3\. lorsqu’il confie des tâches à un salarié engagé moyennant un contrat à durée déterminée ou mis à sa disposition moyennant un contrat de prêt de main-d’oeuvre, assurer à ce salarié une formation suffisante et adéquate aux caractéristiques propres du poste de travail compte tenu de sa qualification et de son expérience;
+
+4\. faire en sorte que la planification et l’introduction de nouvelles technologies fassent l’objet de consultations avec les salariés et/ou leurs représentants en ce qui concerne les conséquences sur la sécurité et la santé des salariés, liées au choix des équipements, à l’aménagement des conditions de travail et à l’impact des facteurs ambiants au travail;
+
+5\. prendre les mesures appropriées pour que seuls les salariés qui ont reçu des instructions adéquates puissent accéder aux zones de risque grave et spécifique;
+
+6\. informer le salarié engagé moyennant un contrat à durée déterminée ou mis à sa disposition moyennant un contrat de prêt de main-d’oeuvre des risques qu’il encourt. Cette information doit notamment renseigner sur la nécessité de qualification ou des aptitudes professionnelles particulières, sur la surveillance médicale telle que prévue au titre II du présent livre et préciser les risques majorés spécifiques éventuels.
 
 (5) ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) Sans préjudice des autres dispositions du présent titre, lorsque, dans un même lieu de travail, les salariés de plusieurs entreprises sont présents, les employeurs doivent coopérer à la mise en oeuvre des dispositions relatives à la sécurité, à l’hygiène et à la santé et, compte tenu de la nature des activités, coordonner leurs activités en vue de la protection et de la prévention des risques professionnels, s’informer mutuellement de ces risques et en informer leurs salariés respectifs et/ou leurs représentants.
 
@@ -6165,9 +6539,11 @@ Afin de pouvoir s’acquitter des obligations résultant du présent titre, les 
 
 (5) Dans tous les cas:
 
-1. les salariés désignés doivent avoir les capacités nécessaires et disposer des moyens requis;
-2. les personnes ou services extérieurs consultés doivent avoir les aptitudes nécessaires et disposer des moyens personnels et professionnels requis; et
-3. les salariés désignés et les personnes ou services extérieurs consultés doivent être en nombre suffisant, pour prendre en charge les activités de protection et de prévention, en tenant compte de la taille de l’entreprise ou de l’établissement, ou des risques auxquels les salariés sont exposés ainsi que de leur répartition dans l’ensemble de l’entreprise ou de l’établissement.
+1\. les salariés désignés doivent avoir les capacités nécessaires et disposer des moyens requis;
+
+2\. les personnes ou services extérieurs consultés doivent avoir les aptitudes nécessaires et disposer des moyens personnels et professionnels requis; et
+
+3\. les salariés désignés et les personnes ou services extérieurs consultés doivent être en nombre suffisant, pour prendre en charge les activités de protection et de prévention, en tenant compte de la taille de l’entreprise ou de l’établissement, ou des risques auxquels les salariés sont exposés ainsi que de leur répartition dans l’ensemble de l’entreprise ou de l’établissement.
 
 Un règlement grand-ducal, à prendre sur avis du Conseil d’Etat et avec l’assentiment de la Conférence des Présidents de la Chambre des députés, définit les capacités et aptitudes nécessaires et le nombre suffisant visés à l’alinéa précédent.
 
@@ -6189,10 +6565,9 @@ L’entreprise de travail intérimaire doit porter l’ensemble de ces élément
 
 (1) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) L’employeur doit:
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) prendre en matière de premiers secours, de lutte contre l’incendie et d’évacuation des salariés, les mesures nécessaires, adaptées à la nature des activités et à la taille de l’entreprise ou de l’établissement, et compte tenu d’autres personnes présentes, et
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) prendre en matière de premiers secours, de lutte contre l’incendie et d’évacuation des salariés, les mesures nécessaires, adaptées à la nature des activités et à la taille de l’entreprise ou de l’établissement, et compte tenu d’autres personnes présentes, et
-2. organiser des relations nécessaires avec des services extérieurs, notamment en matière de premiers secours, d’assistance médicale d’urgence, de sauvetage et de lutte contre l’incendie.
+2° organiser des relations nécessaires avec des services extérieurs, notamment en matière de premiers secours, d’assistance médicale d’urgence, de sauvetage et de lutte contre l’incendie.
 
 (2) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) En application du paragraphe 1 <sup>er</sup> , l’employeur doit notamment désigner, pour les premiers secours, pour la lutte contre l’incendie et pour l’évacuation des salariés, les salariés chargés de mettre en pratique ces mesures.
 
@@ -6202,11 +6577,11 @@ Les salariés doivent être formés, être en nombre suffisant et disposer de ma
 
 (3) L’employeur doit:
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) informer le plus tôt possible tous les salariés qui sont ou qui peuvent être exposés à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) informer le plus tôt possible tous les salariés qui sont ou qui peuvent être exposés à un risque de danger grave et immédiat sur ce risque et sur les dispositions prises ou à prendre en matière de protection;
-2. prendre des mesures et donner des instructions pour permettre aux salariés, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité ou de se mettre en sécurité en quittant immédiatement le lieu de travail;
-3. sauf exception dûment motivée, s’abstenir de demander aux salariés de reprendre leur activité dans une situation de travail où persiste un danger grave et immédiat.
+2° prendre des mesures et donner des instructions pour permettre aux salariés, en cas de danger grave, immédiat et qui ne peut être évité, d’arrêter leur activité ou de se mettre en sécurité en quittant immédiatement le lieu de travail;
+
+3° sauf exception dûment motivée, s’abstenir de demander aux salariés de reprendre leur activité dans une situation de travail où persiste un danger grave et immédiat.
 
 (4) Un salarié qui, en cas de danger grave, immédiat et qui ne peut être évité, s’éloigne de son poste de travail ou d’une zone dangereuse, ne peut en subir aucun préjudice. La résiliation d’un contrat de travail effectué par un employeur en violation des dispositions du présent paragraphe est abusive.
 
@@ -6220,10 +6595,13 @@ Son action n’entraîne pour lui aucun préjudice, à moins qu’il n’ait agi
 
 (1) L’employeur doit:
 
-1. disposer d’une évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes des salariés à risques particuliers;
-2. déterminer les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
-3. tenir une liste des accidents de travail ayant entraîné pour le salarié une incapacité de travail supérieure à trois jours de travail;
-4. établir, et communiquer dans les meilleurs délais à l’Inspection du travail et des mines, des rapports concernant les accidents de travail dont ont été victimes ses salariés.
+1\. disposer d’une évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes des salariés à risques particuliers;
+
+2\. déterminer les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
+
+3\. tenir une liste des accidents de travail ayant entraîné pour le salarié une incapacité de travail supérieure à trois jours de travail;
+
+4\. établir, et communiquer dans les meilleurs délais à l’Inspection du travail et des mines, des rapports concernant les accidents de travail dont ont été victimes ses salariés.
 
 (2) Un règlement grand-ducal à prendre sur avis du Conseil d’Etat et avec l’assentiment de la Conférence des Présidents de la Chambre des députés définit, compte tenu de la nature des activités et de la taille des entreprises, les obligations auxquelles doivent satisfaire les différentes catégories d’entreprises, concernant l’établissement des documents prévus au paragraphe (1) sous les points 1 et 2.
 
@@ -6233,16 +6611,19 @@ Son action n’entraîne pour lui aucun préjudice, à moins qu’il n’ait agi
 
 (1) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) L’employeur prend les mesures appropriées pour que les salariés ou leurs représentants dans l’entreprise, sans préjudice du livre IV, titre I <sup>er</sup> , relatif aux délégations du personnel et titre II relatif à la représentation des salariés dans les sociétés anonymes, reçoivent toutes les informations nécessaires concernant:
 
-1. les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’entreprise ou l’établissement en général que chaque type de poste de travail ou de fonction;
-2. les mesures prises conformément à l’article L. 312-4, paragraphe (2).
+1\. les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’entreprise ou l’établissement en général que chaque type de poste de travail ou de fonction;
+
+2\. les mesures prises conformément à l’article L. 312-4, paragraphe (2).
 
 (2) L’employeur prend les mesures appropriées pour que les employeurs des salariés des entreprises ou établissements extérieurs intervenant dans son entreprise ou son établissement reçoivent des informations adéquates concernant les points visés au paragraphe (1), destinées aux salariés en question.
 
 (3) L’employeur prend les mesures appropriées pour que les salariés ayant une fonction spécifique en matière de protection de la sécurité et de la santé des salariés, ou les délégués à la sécurité, aient accès, pour l’accomplissement de leur fonction:
 
-1. à l’évaluation des risques et aux mesures de protection prévues à l’article L. 312-5, paragraphe (1), points 1 et 2;
-2. à la liste et aux rapports, prévus à l’article L. 312-5, paragraphe (1), points 3 et 4;
-3. à l’information provenant tant des activités de protection et de prévention que des services d’inspection et organismes compétents pour la sécurité et la santé.
+1\. à l’évaluation des risques et aux mesures de protection prévues à l’article L. 312-5, paragraphe (1), points 1 et 2;
+
+2\. à la liste et aux rapports, prévus à l’article L. 312-5, paragraphe (1), points 3 et 4;
+
+3\. à l’information provenant tant des activités de protection et de prévention que des services d’inspection et organismes compétents pour la sécurité et la santé.
 
 ##### *Section 6.* — *Consultation et participation des salariés*
 
@@ -6252,23 +6633,23 @@ Son action n’entraîne pour lui aucun préjudice, à moins qu’il n’ait agi
 
 Cela implique:
 
-1. la consultation des salariés;
-2. le droit des salariés ou de leurs représentants de faire des propositions;
-3. la participation équilibrée, compte tenu du livre IV, titre I
+1\. la consultation des salariés;
 
-   <sup>er</sup> , relatif aux délégations du personnel et titre II relatif à la représentation des salariés dans les sociétés anonymes.
+2\. le droit des salariés ou de leurs représentants de faire des propositions;
+
+3\. la participation équilibrée, compte tenu du livre IV, titre I <sup>er</sup> , relatif aux délégations du personnel et titre II relatif à la représentation des salariés dans les sociétés anonymes.
 
 (2) Les salariés ou les délégués à la sécurité et à la santé participent de façon équilibrée ou sont consultés au préalable et en temps utile par l’employeur sur:
 
-1. toute action qui peut avoir des effets substantiels sur la sécurité et la santé;
-2. la désignation des salariés prévue à l’article L. 312-3, paragraphe 1
+1\. toute action qui peut avoir des effets substantiels sur la sécurité et la santé;
 
-   <sup>er</sup> et à l’article L. 312-4, paragraphe 2 ainsi que sur les activités prévues à l’article L. 312-3, paragraphe 1 <sup>er</sup> ;
-3. les informations prévues à l’article L. 312-5, paragraphe 1
+2\. la désignation des salariés prévue à l’article L. 312-3, paragraphe 1 <sup>er</sup> et à l’article L. 312-4, paragraphe 2 ainsi que sur les activités prévues à l’article L. 312-3, paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> et à l’article L. 312-6;
-4. l’appel, prévu à l’article L. 312-3, paragraphe 3, le cas échéant, à des compétences (personnes ou services) extérieures à l’entreprise;
-5. la conception et l’organisation de la formation prévue à l’article L. 312-8.
+3\. les informations prévues à l’article L. 312-5, paragraphe 1 <sup>er</sup> et à l’article L. 312-6;
+
+4\. l’appel, prévu à l’article L. 312-3, paragraphe 3, le cas échéant, à des compétences (personnes ou services) extérieures à l’entreprise;
+
+5\. la conception et l’organisation de la formation prévue à l’article L. 312-8.
 
 (3) Les délégués à la sécurité et à la santé ont le droit de demander à l’employeur qu’il prenne des mesures appropriées et de lui soumettre des propositions en ce sens, de façon à pallier tout risque pour les salariés ou à éliminer les sources de danger.
 
@@ -6284,19 +6665,19 @@ Les représentants des salariés doivent pouvoir présenter leurs observations l
 
 (1) L’employeur doit s’assurer que chaque salarié reçoive une formation à la fois suffisante et adéquate à la sécurité et à la santé, spécifiquement axée sur son poste de travail ou sa fonction, notamment sous forme d’informations et d’instructions, à l’occasion:
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) de son engagement;
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) de son engagement;
-2. d’une mutation ou d’un changement de fonction;
-3. de l’introduction ou d’un changement d’un équipement de travail;
-4. de l’introduction d’une nouvelle technologie.
+2° d’une mutation ou d’un changement de fonction;
+
+3° de l’introduction ou d’un changement d’un équipement de travail;
+
+4° de l’introduction d’une nouvelle technologie.
 
 Cette formation doit:
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) être adaptée à l’évolution des risques et à l’apparition de risques nouveaux, et
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) être adaptée à l’évolution des risques et à l’apparition de risques nouveaux, et
-2. être répétée périodiquement si nécessaire.
+2° être répétée périodiquement si nécessaire.
 
 (2) L’employeur doit s’assurer que les salariés des entreprises ou établissements extérieurs intervenant dans son entreprise ou son établissement aient bien reçu des instructions appropriées en ce qui concerne les risques pour la sécurité et la santé pendant leur activité dans son entreprise ou son établissement.
 
@@ -6310,19 +6691,19 @@ Cette formation doit:
 
 L’agrément est délivré aux postulants
 
-1. (
+1° ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) porteurs d’un des diplômes suivants:
 
-   [L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) porteurs d’un des diplômes suivants:
+diplôme d’architecte ou d’ingénieur en génie civil,
 
-   diplôme d’architecte ou d’ingénieur en génie civil,
+diplôme d’ingénieur industriel en génie civil ou d’ingénieur technicien en génie civil,
 
-   diplôme d’ingénieur industriel en génie civil ou d’ingénieur technicien en génie civil,
+brevet de maîtrise dans un des métiers de la construction,
 
-   brevet de maîtrise dans un des métiers de la construction,
+ou encore ayant accompli une formation équivalente;
 
-   ou encore ayant accompli une formation équivalente;
-2. justifiant qu’ils ont une expérience professionnelle dans le domaine de la construction d’une durée minimale de cinq, respectivement de trois ans, suivant l’activité de coordination que les candidats entendent exercer; et
-3. ayant suivi une formation appropriée par rapport aux activités de coordination qu’ils entendent exercer, formation à définir par règlement grand-ducal.
+2° justifiant qu’ils ont une expérience professionnelle dans le domaine de la construction d’une durée minimale de cinq, respectivement de trois ans, suivant l’activité de coordination que les candidats entendent exercer; et
+
+3° ayant suivi une formation appropriée par rapport aux activités de coordination qu’ils entendent exercer, formation à définir par règlement grand-ducal.
 
 (7) ([L. 24 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/24/a324/jo)) Les formations prévues aux paragraphes 1 <sup>er</sup> , 3, 4 et 5 ne peuvent être mises à la charge des salariés ou de leurs représentants respectifs. Elles doivent se dérouler durant le temps de travail des salariés, les heures consacrées à la formation devant être considérées comme du temps de travail effectif.
 
@@ -6344,7 +6725,7 @@ Dans ce cas, l’introduction et la modification du régime spécifique se font 
 
 Dans tous les cas ce régime doit assurer le respect des dispositions légales ou conventionnelles applicables en matière de temps de travail.
 
-###### Art. L. 312-10. [^note_7_0_0]
+###### Art. L. 312-10.[^note_7_0_0]
 
 Si l’employeur, dont les salariés utilisent des outils numériques à des fins professionnelles, ne met pas en place le régime visé à l’article L. 312-9, il est passible d’une amende administrative de 251 à 25.000 euros prononcée par le directeur de l’Inspection du travail et des mines qui en fixe le montant en prenant en compte les circonstances et la gravité du manquement, ainsi que le comportement de son auteur après constatation de l’infraction par un membre de l’inspectorat du travail visé à l’article L. 613-4 et selon la procédure d’injonction prévue à l’article L. 614-13.
 
@@ -6356,12 +6737,13 @@ Si l’employeur, dont les salariés utilisent des outils numériques à des fin
 
 (2) Afin de réaliser ces objectifs, les salariés doivent en particulier, conformément à leur formation et aux instructions de leur employeur:
 
-1. utiliser correctement les machines, appareils, outils, substances dangereuses, équipements de transport et autres moyens;
-2. utiliser correctement l’équipement de protection individuelle mis à leur disposition et, après utilisation, le ranger à sa place;
-3. ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, outils, installations et bâtiments, et utiliser de tels dispositifs de sécurité correctement;
-4. (
+1\. utiliser correctement les machines, appareils, outils, substances dangereuses, équipements de transport et autres moyens;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) signaler immédiatement, à l’employeur et/ou aux salariés désignés et aux délégués à la sécurité et à la santé, toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé ainsi que toute défectuosité constatée dans les systèmes de protection.
+2\. utiliser correctement l’équipement de protection individuelle mis à leur disposition et, après utilisation, le ranger à sa place;
+
+3\. ne pas mettre hors service, changer ou déplacer arbitrairement les dispositifs de sécurité propres notamment aux machines, appareils, outils, installations et bâtiments, et utiliser de tels dispositifs de sécurité correctement;
+
+4\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) signaler immédiatement, à l’employeur et/ou aux salariés désignés et aux délégués à la sécurité et à la santé, toute situation de travail dont ils ont un motif raisonnable de penser qu’elle présente un danger grave et immédiat pour la sécurité et la santé ainsi que toute défectuosité constatée dans les systèmes de protection.
 
 #### Chapitre IV — Dispositions diverses
 
@@ -6395,37 +6777,43 @@ Toute infraction aux dispositions de l’article L. 313-1, des règlements et de
 
 (2) La réalisation de cet objectif incombe:
 
-1. aux services de santé au travail d’entreprise;
-2. aux services de santé au travail interentreprises;
-3. au service de santé au travail multisectoriel.
+1\. aux services de santé au travail d’entreprise;
+
+2\. aux services de santé au travail interentreprises;
+
+3\. au service de santé au travail multisectoriel.
 
 (3) Le présent titre n’est pas applicable:
 
-1. aux salariés qui bénéficient de la protection visée à l’article 32, paragraphe (2) de la
+1\. aux salariés qui bénéficient de la protection visée à l’article 32, paragraphe (2) de la [loi modifiée du 16 avril 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/jo) fixant le statut général des fonctionnaires de l’Etat;
 
-   [loi modifiée du 16 avril 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/jo) fixant le statut général des fonctionnaires de l’Etat;
-2. aux salariés bénéficiant de la protection visée à l’article 36, paragraphe (2) de la
+2\. aux salariés bénéficiant de la protection visée à l’article 36, paragraphe (2) de la [loi modifiée du 24 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/jo) fixant le statut général des fonctionnaires communaux;
 
-   [loi modifiée du 24 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/jo) fixant le statut général des fonctionnaires communaux;
-3. aux salariés des institutions européennes établies à Luxembourg bénéficiant de la protection garantie par leur statut;
-4. aux salariés bénéficiant de la protection visée à l’article 76 de la
+3\. aux salariés des institutions européennes établies à Luxembourg bénéficiant de la protection garantie par leur statut;
 
-   [loi du 9 novembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/jo) ayant pour objet la création d’un registre public maritime luxembourgeois;
-5. aux pilotes de ligne.
+4\. aux salariés bénéficiant de la protection visée à l’article 76 de la [loi du 9 novembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/jo) ayant pour objet la création d’un registre public maritime luxembourgeois;
+
+5\. aux pilotes de ligne.
 
 (4) Sont considérés comme salariés au sens du présent titre, outre les salariés tels que définis aux articles L. 121-1 et L. 131-1:
 
-1. les stagiaires;
-2. les apprentis;
-3. les chômeurs indemnisés bénéficiant d’une mise au travail;
-4. les demandeurs d’emploi bénéficiant d’une formation-placement;
-5. les jeunes demandeurs d’emploi sous contrat d’auxiliaire temporaire auprès de l’Etat, des communes, des syndicats de communes, des établissements publics, des établissements d’utilité publique ou de tout autre organisme, institution, association ou groupement de personnes poursuivant un but lucratif;
-6. les jeunes demandeurs d’emploi sous contrat d’auxiliaire temporaire auprès des employeurs du secteur privé;
-7. les jeunes demandeurs d’emploi bénéficiant d’un stage d’insertion;
-8. les demandeurs d’emploi bénéficiant d’un stage de réinsertion professionnelle;
-9. les bénéficiaires de l’indemnité d’insertion soumis aux activités d’insertion professionnelle prévues à l’article 10 de la
+1\. les stagiaires;
 
-   [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti.
+2\. les apprentis;
+
+3\. les chômeurs indemnisés bénéficiant d’une mise au travail;
+
+4\. les demandeurs d’emploi bénéficiant d’une formation-placement;
+
+5\. les jeunes demandeurs d’emploi sous contrat d’auxiliaire temporaire auprès de l’Etat, des communes, des syndicats de communes, des établissements publics, des établissements d’utilité publique ou de tout autre organisme, institution, association ou groupement de personnes poursuivant un but lucratif;
+
+6\. les jeunes demandeurs d’emploi sous contrat d’auxiliaire temporaire auprès des employeurs du secteur privé;
+
+7\. les jeunes demandeurs d’emploi bénéficiant d’un stage d’insertion;
+
+8\. les demandeurs d’emploi bénéficiant d’un stage de réinsertion professionnelle;
+
+9\. les bénéficiaires de l’indemnité d’insertion soumis aux activités d’insertion professionnelle prévues à l’article 10 de la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti.
 
 (5) Dans la suite, les termes «les services» désignent les services de santé au travail visés au paragraphe (2).
 
@@ -6439,27 +6827,35 @@ Tout poste de travail occupé par un salarié visé à l’article L. 321-1 est 
 
 La santé au travail, la prévention des maladies professionnelles ainsi que la protection sanitaire sont organisées selon les modalités suivantes:
 
-1. Tout employeur occupant régulièrement plus de 5.000 salariés est tenu d’organiser à l’intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 salariés dont au moins 100 salariés occupés à un poste à risques visé à l’article L. 326-4.
-2. Tout employeur, non visé au point 1 qui précède, dispose des trois options suivantes, parmi lesquelles il doit choisir:
+1\. Tout employeur occupant régulièrement plus de 5.000 salariés est tenu d’organiser à l’intérieur de son entreprise un service de santé au travail. Cette exigence est étendue à tout employeur occupant régulièrement plus de 3.000 salariés dont au moins 100 salariés occupés à un poste à risques visé à l’article L. 326-4.
 
-   1. soit d’organiser à l’intérieur de son entreprise un service de santé au travail,
-   2. soit de se réunir avec d’autres employeurs en une association d’entreprises organisant un service interentreprises de santé au travail pour l’ensemble des membres de l’association,
-   3. soit de recourir au service national de santé au travail.
+2\. Tout employeur, non visé au point 1 qui précède, dispose des trois options suivantes, parmi lesquelles il doit choisir:
+
+a) soit d’organiser à l’intérieur de son entreprise un service de santé au travail,
+
+b) soit de se réunir avec d’autres employeurs en une association d’entreprises organisant un service interentreprises de santé au travail pour l’ensemble des membres de l’association,
+
+c) soit de recourir au service national de santé au travail.
 
 ##### Art. L. 322-2.
 
 Les services sont chargés, chacun auprès de l’employeur pour lequel il a compétence:
 
-1. d’identifier les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et notamment à les combattre à la source, d’évaluer les risques qui ne peuvent pas être évités;
-2. de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé du salarié;
-3. de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou préparations chimiques pouvant constituer un risque pour la santé des salariés;
-4. de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail et le choix des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et d’en réduire les effets sur la santé;
-5. de surveiller la santé des salariés en relation avec le travail et d’effectuer, à cet effet, les examens médicaux prévus par le présent titre;
-6. de donner à l’employeur et au salarié des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;
-7. (
+1\. d’identifier les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et notamment à les combattre à la source, d’évaluer les risques qui ne peuvent pas être évités;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) de coopérer avec la délégation du personnel;
-8. d’organiser les premiers secours.
+2\. de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé du salarié;
+
+3\. de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou préparations chimiques pouvant constituer un risque pour la santé des salariés;
+
+4\. de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail et le choix des méthodes de travail et de production, en vue notamment d’atténuer le travail monotone et le travail cadencé et d’en réduire les effets sur la santé;
+
+5\. de surveiller la santé des salariés en relation avec le travail et d’effectuer, à cet effet, les examens médicaux prévus par le présent titre;
+
+6\. de donner à l’employeur et au salarié des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;
+
+7\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) de coopérer avec la délégation du personnel;
+
+8\. d’organiser les premiers secours.
 
 La mission des services est essentiellement de nature préventive.
 
@@ -6493,9 +6889,11 @@ Le siège de l’établissement est fixé à Luxembourg.
 
 (2) ([L. 9 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a678/jo)) Le service multisectoriel est placé sous l’autorité d’un conseil d’administration comprenant:
 
-- un président désigné par le Gouvernement en conseil;
-- trois délégués des syndicats des salariés les plus représentatifs sur le plan national;
-- trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
+aone un président désigné par le Gouvernement en conseil;
+
+bone trois délégués des syndicats des salariés les plus représentatifs sur le plan national;
+
+cone trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
 
 Les délégués visés à l’alinéa qui précède sont désignés par le ministre ayant la Santé dans ses attributions pour une période de cinq ans parmi les candidats à proposer en nombre double par les syndicats et les organisations professionnelles concernés. Les listes des candidats doivent parvenir au ministre ayant la Santé dans ses attributions au moins trois mois avant l’expiration des mandats. Le mandat du délégué en fonction est renouvelable. Il y a autant de membres suppléants que de membres effectifs. Ils sont désignés suivant la même procédure.
 
@@ -6545,10 +6943,13 @@ Toutes les autres missions dont question à l’article L. 322-2 sont assumées 
 
 Le Conseil supérieur de la santé et de la sécurité au travail exerce les fonctions consultatives auprès des ministres ayant la Santé, le Travail et la Sécurité sociale dans leurs attributions. Ce conseil se compose:
 
-- du directeur de la santé et du médecin-chef de division compétent;
-- du directeur de l’Inspection du travail et des mines et du directeur du Contrôle médical de la sécurité sociale ou de leurs délégués;
-- de trois médecins du travail avec une formation telle que prévue à l’article L. 325-1, nommés par le ministre ayant la Santé dans ses attributions pour une durée de cinq ans;
-- de trois délégués des syndicats des salariés les plus représentatifs sur le plan national et de trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
+aash du directeur de la santé et du médecin-chef de division compétent;
+
+bash du directeur de l’Inspection du travail et des mines et du directeur du Contrôle médical de la sécurité sociale ou de leurs délégués;
+
+cash de trois médecins du travail avec une formation telle que prévue à l’article L. 325-1, nommés par le ministre ayant la Santé dans ses attributions pour une durée de cinq ans;
+
+dash de trois délégués des syndicats des salariés les plus représentatifs sur le plan national et de trois délégués des organisations professionnelles des employeurs les plus représentatives sur le plan national.
 
 La présidence est assurée par le directeur de la santé ou, en son absence, par le médecin-chef de division compétent. Le conseil établit un règlement d’ordre intérieur à approuver par le ministre ayant la Santé dans ses attributions.
 
@@ -6558,10 +6959,13 @@ Le conseil supérieur est appelé à donner, soit d’office, soit à la demande
 
 Ces avis portent notamment sur:
 
-1. les priorités d’intervention en matière de santé des salariés suivant les besoins spécifiques de différentes branches de l’économie et des particularités des postes de travail. Dans ce cadre, il propose des règles de périodicité selon lesquelles les examens médicaux des salariés sont effectués;
-2. l’efficacité des interventions dans le domaine de la santé au travail;
-3. les programmes d’information et, le cas échéant, de formation dans le domaine de la santé et de l’hygiène au travail ainsi que de l’ergonomie propres aux différentes branches de l’économie, à l’intention des employeurs et des salariés;
-4. la liste des normes d’exposition aux nuisances.
+1\. les priorités d’intervention en matière de santé des salariés suivant les besoins spécifiques de différentes branches de l’économie et des particularités des postes de travail. Dans ce cadre, il propose des règles de périodicité selon lesquelles les examens médicaux des salariés sont effectués;
+
+2\. l’efficacité des interventions dans le domaine de la santé au travail;
+
+3\. les programmes d’information et, le cas échéant, de formation dans le domaine de la santé et de l’hygiène au travail ainsi que de l’ergonomie propres aux différentes branches de l’économie, à l’intention des employeurs et des salariés;
+
+4\. la liste des normes d’exposition aux nuisances.
 
 Le conseil supérieur coopère avec tout organisme poursuivant des objectifs de sécurité, de santé et d’hygiène au travail.
 
@@ -6585,9 +6989,11 @@ La fonction de médecin du travail est incompatible avec l’exercice libéral d
 
 Le médecin du travail, pendant tout le temps qu’une activité professionnelle s’y exerce:
 
-1. a libre accès à tous les lieux de travail et aux installations fournies par l’entreprise aux salariés;
-2. a accès aux informations ayant trait aux procédés, normes de travail, produits, matières et substances qui sont utilisés ou que l’on envisage d’utiliser, sous réserve que soit préservé le secret de toute information confidentielle qu’il pourrait recueillir;
-3. peut prélever, aux fins d’analyse, des échantillons de produits, de matières ou de substances qui sont utilisés.
+1\. a libre accès à tous les lieux de travail et aux installations fournies par l’entreprise aux salariés;
+
+2\. a accès aux informations ayant trait aux procédés, normes de travail, produits, matières et substances qui sont utilisés ou que l’on envisage d’utiliser, sous réserve que soit préservé le secret de toute information confidentielle qu’il pourrait recueillir;
+
+3\. peut prélever, aux fins d’analyse, des échantillons de produits, de matières ou de substances qui sont utilisés.
 
 Le médecin du travail est consulté au sujet de tout changement envisagé concernant les procédés ou les conditions de travail susceptibles d’avoir des répercussions sur la santé ou la sécurité des salariés.
 
@@ -6627,12 +7033,13 @@ Si un salarié change d’employeur, le médecin du travail compétent en vertu 
 
 Sont soumis obligatoirement à des examens médicaux périodiques les salariés:
 
-1. âgés de moins de vingt et un ans;
-2. occupant un poste à risques visé à l’article L. 326-4;
-3. pour lesquels, lors de l’examen d’embauchage, le médecin du travail a jugé utile de procéder régulièrement à un examen médical;
-4. (
+1\. âgés de moins de vingt et un ans;
 
-   [RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) les salariés de nuit tels que définis à l’article L. 211-14.
+2\. occupant un poste à risques visé à l’article L. 326-4;
+
+3\. pour lesquels, lors de l’examen d’embauchage, le médecin du travail a jugé utile de procéder régulièrement à un examen médical;
+
+4\. ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) les salariés de nuit tels que définis à l’article L. 211-14.
 
 En cas de besoin, cette liste peut être complétée par règlement grand-ducal à prendre sur avis du Conseil d’Etat et après consultation de la Conférence des Présidents de la Chambre des députés.
 
@@ -6644,13 +7051,15 @@ Ni les examens médicaux auxquels il est procédé en vertu du présent titre, n
 
 (1) Est considéré comme poste à risques:
 
-1. tout poste exposant le salarié qui l’occupe à un risque de maladie professionnelle, à un risque spécifique d’accident professionnel sur le lieu de travail lui-même, à des agents physiques ou biologiques susceptibles de nuire à sa santé, ou à des agents cancérigènes;
-2. tout poste de travail comportant une activité susceptible de mettre gravement en danger la sécurité et la santé d’autres salariés ou de tiers ainsi que tout poste de travail comportant le contrôle d’une installation dont la défaillance peut mettre gravement en danger la sécurité et la santé de salariés ou de tiers.
+1\. tout poste exposant le salarié qui l’occupe à un risque de maladie professionnelle, à un risque spécifique d’accident professionnel sur le lieu de travail lui-même, à des agents physiques ou biologiques susceptibles de nuire à sa santé, ou à des agents cancérigènes;
+
+2\. tout poste de travail comportant une activité susceptible de mettre gravement en danger la sécurité et la santé d’autres salariés ou de tiers ainsi que tout poste de travail comportant le contrôle d’une installation dont la défaillance peut mettre gravement en danger la sécurité et la santé de salariés ou de tiers.
 
 (2) ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) Sont considérés comme postes dont le travail comporte des risques particuliers ou des tensions physiques ou mentales importantes:
 
-1. les activités qui aggravent la diminution de vigilance du salarié de nuit tels que les travaux qui impliquent la mise en oeuvre de substances neurotoxiques, dans l’utilisation de substances organiques volatiles et des produits qui en contiennent, les tâches accomplies dans des conditions qui accroissent la monotonie et qui conduisent à l’hypovigilance, dans des tâches qui sollicitent une attention soutenue, ou qui sont répétitives ou peu variées;
-2. les activités qui exigent une augmentation de l’activation biologique du salarié de nuit tels que les travaux exigeant des efforts importants et provoquant une charge de travail importante et les travaux exécutés dans une ambiance de chaud ou froid excessif.
+1\. les activités qui aggravent la diminution de vigilance du salarié de nuit tels que les travaux qui impliquent la mise en oeuvre de substances neurotoxiques, dans l’utilisation de substances organiques volatiles et des produits qui en contiennent, les tâches accomplies dans des conditions qui accroissent la monotonie et qui conduisent à l’hypovigilance, dans des tâches qui sollicitent une attention soutenue, ou qui sont répétitives ou peu variées;
+
+2\. les activités qui exigent une augmentation de l’activation biologique du salarié de nuit tels que les travaux exigeant des efforts importants et provoquant une charge de travail importante et les travaux exécutés dans une ambiance de chaud ou froid excessif.
 
 (3) Chaque employeur, en collaboration avec le médecin du travail, fait l’inventaire des postes à risque prévus au paragraphe (1) ci-dessus et des postes dont le travail comporte des risques particuliers ou des tensions physiques ou mentales importantes prévus au paragraphe (2) ci-dessus dans son entreprise et le met à jour au moins tous les trois ans. L’inventaire et les mises à jour sont communiquées au médecin chef de la division de la santé au travail auprès de la direction de la santé, qui arrête pour chaque employeur la liste des postes à risques. A défaut de communication par l’employeur, le médecin-chef de division précité arrête cette liste d’office, après avoir pris l’avis de l’Inspection du travail et des Mines et du comité mixte d’entreprise s’il en existe.
 
@@ -6706,10 +7115,13 @@ Le médecin du travail compétent en informe l’employeur et le salarié concer
 
 En cas de reclassement professionnel externe l’employeur est tenu de payer à son salarié, une indemnité forfaitaire qui varie en fonction de l’ancienneté de service du salarié comme suit :
 
-1. un mois de salaire après une ancienneté de service continus de cinq ans au moins ;
-2. deux mois de salaire après une ancienneté de service continus de dix ans au moins ;
-3. trois mois de salaire après une ancienneté de service continus de quinze ans au moins ;
-4. quatre mois de salaire après une ancienneté de service continus de vingt ans et plus.
+1° un mois de salaire après une ancienneté de service continus de cinq ans au moins ;
+
+2° deux mois de salaire après une ancienneté de service continus de dix ans au moins ;
+
+3° trois mois de salaire après une ancienneté de service continus de quinze ans au moins ;
+
+4° quatre mois de salaire après une ancienneté de service continus de vingt ans et plus.
 
 L’ancienneté de service est appréciée à la date de la notification de la décision de reclassement professionnel externe.
 
@@ -6759,12 +7171,17 @@ Un règlement grand-ducal peut adapter la procédure aux particularités de la m
 
 Sont punis d’un emprisonnement de huit jours à six mois et d’une amende de 251 à 25.000 euros ou d’une de ces peines seulement:
 
-1. tout employeur qui occupe un salarié qui ne s’est pas soumis à un des examens médicaux prévus aux articles L. 326-1 à L. 326-9 ou aux règlements grand-ducaux pris en leur exécution;
-2. tout employeur qui occupe un salarié visé sous l’article L. 326-9 malgré l’interdiction qui lui en est faite en vertu de cet article;
-3. tout employeur dont le service n’est pas conforme aux exigences prévues à l’article L. 322-1, et notamment tout employeur qui, bien qu’étant dans les conditions prévues au dit article, n’organise pas un service;
-4. tout employeur, membre d’une association d’entreprises, dont le service n’est pas conforme aux exigences prévues à l’article L. 322-1;
-5. tout employeur qui refuse ou fait refuser au médecin du travail l’exécution des mesures inscrites à l’article L. 325-3;
-6. tout employeur ou tout médecin du travail qui contrevient à l’article L. 326-3, dernier alinéa.
+1\. tout employeur qui occupe un salarié qui ne s’est pas soumis à un des examens médicaux prévus aux articles L. 326-1 à L. 326-9 ou aux règlements grand-ducaux pris en leur exécution;
+
+2\. tout employeur qui occupe un salarié visé sous l’article L. 326-9 malgré l’interdiction qui lui en est faite en vertu de cet article;
+
+3\. tout employeur dont le service n’est pas conforme aux exigences prévues à l’article L. 322-1, et notamment tout employeur qui, bien qu’étant dans les conditions prévues au dit article, n’organise pas un service;
+
+4\. tout employeur, membre d’une association d’entreprises, dont le service n’est pas conforme aux exigences prévues à l’article L. 322-1;
+
+5\. tout employeur qui refuse ou fait refuser au médecin du travail l’exécution des mesures inscrites à l’article L. 325-3;
+
+6\. tout employeur ou tout médecin du travail qui contrevient à l’article L. 326-3, dernier alinéa.
 
 En cas de récidive dans les deux ans, ces peines peuvent être portées au double du maximum.
 
@@ -6780,12 +7197,13 @@ Le présent titre s’applique à toutes les femmes, sans distinction d’âge o
 
 Aux fins du présent titre, le terme
 
-1. «femme salariée» désigne toute femme tombant sous le champ d’application du présent titre;
-2. «femme enceinte» désigne toute femme salariée en état de grossesse, qui a informé l’employeur de son état par certificat médical envoyé par lettre recommandée à la poste;
-3. (
+1\. «femme salariée» désigne toute femme tombant sous le champ d’application du présent titre;
 
-   [L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) « femme allaitante » désigne toute femme salariée allaitant son enfant au-delà de la période de douze semaines suivant l’accouchement et qui en informe son employeur par certificat médical envoyé par lettre recommandée à la poste. Ce certificat médical doit être reproduit à la demande de l’employeur en vue de la continuation de l’application des dispositions des chapitres III, IV, V et VI du présent titre ainsi que des articles L.336-2 et L.336-3, sans que des demandes successives à cet effet ne puissent être faites à intervalles trop rapprochés.
-4. «accouchement prématuré» désigne l’accouchement avant l’achèvement de la trente-septième semaine de grossesse.
+2\. «femme enceinte» désigne toute femme salariée en état de grossesse, qui a informé l’employeur de son état par certificat médical envoyé par lettre recommandée à la poste;
+
+3\. ([L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo)) « femme allaitante » désigne toute femme salariée allaitant son enfant au-delà de la période de douze semaines suivant l’accouchement et qui en informe son employeur par certificat médical envoyé par lettre recommandée à la poste. Ce certificat médical doit être reproduit à la demande de l’employeur en vue de la continuation de l’application des dispositions des chapitres III, IV, V et VI du présent titre ainsi que des articles L.336-2 et L.336-3, sans que des demandes successives à cet effet ne puissent être faites à intervalles trop rapprochés.
+
+4\. «accouchement prématuré» désigne l’accouchement avant l’achèvement de la trente-septième semaine de grossesse.
 
 (...) *(abrogé par la [loi du 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo))*
 
@@ -6855,8 +7273,9 @@ L’employeur a l’obligation de communiquer à toute femme occupée dans son e
 
 Pour toute activité susceptible de présenter un risque spécifique d’exposition des femmes enceintes ou allaitantes aux agents, procédés ou conditions de travail dont une liste figure à l’annexe 1 du présent code, l’employeur est tenu d’évaluer la nature, le degré et la durée d’exposition afin de pouvoir:
 
-- apprécier tout risque pour la sécurité ou la santé des femmes enceintes ou allaitantes ainsi que toute répercussion sur la grossesse ou l’allaitement;
-- déterminer les mesures à prendre.
+aone apprécier tout risque pour la sécurité ou la santé des femmes enceintes ou allaitantes ainsi que toute répercussion sur la grossesse ou l’allaitement;
+
+bone déterminer les mesures à prendre.
 
 Pour effectuer l’évaluation susvisée, l’employeur s’assure la collaboration du médecin du travail compétent.
 
@@ -6986,9 +7405,11 @@ Les infractions aux dispositions des chapitres II, III, VI et de l’article L. 
 
 (1) Sans préjudice des dispositions des titres premier et II du présent livre, les dispositions du présent titre sont applicables aux:
 
-1. «jeunes»: toutes personnes âgées de moins de dix-huit ans accomplis ayant un contrat de travail conformément à l’article L. 121-4 et exerçant une occupation salariée sur le territoire du Grand-Duché de Luxembourg, les personnes âgées de moins de dix-huit ans accomplis ayant un contrat ou une relation de travail régis par une législation autre que la législation luxembourgeoise et travaillant sur le territoire luxembourgeois, ainsi que les stagiaires, les personnes exerçant une occupation professionnelle du fait de leur formation ou d’une mesure de formation continue, les apprentis, les jeunes chômeurs bénéficiant d’une mise au travail, les jeunes chômeurs bénéficiant d’un contrat d’auxiliaire temporaire ou d’un stage d’insertion et les élèves et étudiants occupés pendant les vacances scolaires conformément à la législation afférente, et qui ne jouissent pas de conditions de travail plus favorables en vertu de lois spéciales, de leur contrat ou de conventions collectives;
-2. «enfants»: tous jeunes qui n’ont pas atteint l’âge de quinze ans ou qui sont encore soumis à l’obligation scolaire imposée par la législation applicable;
-3. «adolescents»: tous jeunes âgés d’au moins quinze ans et de moins de dix-huit ans et qui ne sont plus soumis à l’obligation scolaire imposée par la législation applicable.
+1\. «jeunes»: toutes personnes âgées de moins de dix-huit ans accomplis ayant un contrat de travail conformément à l’article L. 121-4 et exerçant une occupation salariée sur le territoire du Grand-Duché de Luxembourg, les personnes âgées de moins de dix-huit ans accomplis ayant un contrat ou une relation de travail régis par une législation autre que la législation luxembourgeoise et travaillant sur le territoire luxembourgeois, ainsi que les stagiaires, les personnes exerçant une occupation professionnelle du fait de leur formation ou d’une mesure de formation continue, les apprentis, les jeunes chômeurs bénéficiant d’une mise au travail, les jeunes chômeurs bénéficiant d’un contrat d’auxiliaire temporaire ou d’un stage d’insertion et les élèves et étudiants occupés pendant les vacances scolaires conformément à la législation afférente, et qui ne jouissent pas de conditions de travail plus favorables en vertu de lois spéciales, de leur contrat ou de conventions collectives;
+
+2\. «enfants»: tous jeunes qui n’ont pas atteint l’âge de quinze ans ou qui sont encore soumis à l’obligation scolaire imposée par la législation applicable;
+
+3\. «adolescents»: tous jeunes âgés d’au moins quinze ans et de moins de dix-huit ans et qui ne sont plus soumis à l’obligation scolaire imposée par la législation applicable.
 
 (2) ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n12/jo)) Sont toutefois applicables aux jeunes jusqu’à l’âge de vingt et un ans accomplis les dispositions des articles L. 344-2, L. 344-3 point 8. et L. 344-4.
 
@@ -7022,8 +7443,9 @@ Est considéré comme travail des enfants au sens du présent chapitre, tout tra
 
 N’est pas considéré comme travail des enfants, à la condition qu’il ne comporte pas des dangers ou des risques pour les enfants, qu’il ne compromette pas leur éducation ou leur formation, et ne soit pas nuisible ou préjudiciable pour leur santé ou leur développement physique, psychique, mental, spirituel, moral ou social et n’entraîne pas l’exploitation économique des enfants:
 
-1. le travail dans les écoles techniques ou professionnelles, à la condition qu’il présente un caractère essentiellement éducatif, qu’il n’ait pas pour objet un gain commercial et qu’il soit approuvé et contrôlé par les pouvoirs publics compétents;
-2. le service domestique occasionnel et de courte durée exercé dans le cadre du ménage privé par les enfants dont la famille, au service de laquelle sont effectués les travaux, assume la charge d’une façon durable.
+1\. le travail dans les écoles techniques ou professionnelles, à la condition qu’il présente un caractère essentiellement éducatif, qu’il n’ait pas pour objet un gain commercial et qu’il soit approuvé et contrôlé par les pouvoirs publics compétents;
+
+2\. le service domestique occasionnel et de courte durée exercé dans le cadre du ménage privé par les enfants dont la famille, au service de laquelle sont effectués les travaux, assume la charge d’une façon durable.
 
 ##### Art. L. 342-4.
 
@@ -7041,10 +7463,13 @@ En vue de l’application du présent article, on entend aussi par «organisateu
 
 (4) Les enfants ne sont autorisés à participer aux activités visées par le présent article que sous les conditions suivantes:
 
-1. ils doivent être âgés d’au moins six ans, sans préjudice du paragraphe (3);
-2. ils ne peuvent pas participer aux activités après vingt-trois heures;
-3. ils doivent jouir d’un repos ininterrompu d’au moins quatorze heures entre deux participations à une des activités visées par le présent article;
-4. les indemnités auxquelles l’enfant a droit doivent être versées sur un compte d’épargne bloqué au nom de l’enfant.
+1\. ils doivent être âgés d’au moins six ans, sans préjudice du paragraphe (3);
+
+2\. ils ne peuvent pas participer aux activités après vingt-trois heures;
+
+3\. ils doivent jouir d’un repos ininterrompu d’au moins quatorze heures entre deux participations à une des activités visées par le présent article;
+
+4\. les indemnités auxquelles l’enfant a droit doivent être versées sur un compte d’épargne bloqué au nom de l’enfant.
 
 (5) Sans préjudice des dispositions qui précèdent, le ministre ayant le Travail dans ses attributions peut accorder des dérogations à la condition d’âge fixée au paragraphe (4) du présent article. Il prend préalablement l’avis du ministre ayant la Famille dans ses attributions, de l’Inspection du travail et des mines, du médecin traitant, et, le cas échéant, d’un autre médecin commis à cette fin.
 
@@ -7066,11 +7491,15 @@ Sans préjudice des articles L. 341-1 à L. 342-4, l’employeur prend les mesur
 
 (2) L’évaluation doit être effectuée avant que les jeunes ne commencent leur travail ainsi que lors de toute modification importante des conditions de travail et doit porter notamment sur les points suivants:
 
-1. l’équipement et l’aménagement du lieu de travail et du poste de travail;
-2. la nature, le degré et la durée de l’exposition aux agents physiques, biologiques et chimiques;
-3. l’aménagement, le choix et l’utilisation d’équipements de travail, notamment d’agents, de machines, d’appareils et d’engins, ainsi que leur manipulation;
-4. l’aménagement des procédés de travail et du déroulement du travail et leur interaction (organisation du travail);
-5. l’état de la formation et de l’information des jeunes.
+1\. l’équipement et l’aménagement du lieu de travail et du poste de travail;
+
+2\. la nature, le degré et la durée de l’exposition aux agents physiques, biologiques et chimiques;
+
+3\. l’aménagement, le choix et l’utilisation d’équipements de travail, notamment d’agents, de machines, d’appareils et d’engins, ainsi que leur manipulation;
+
+4\. l’aménagement des procédés de travail et du déroulement du travail et leur interaction (organisation du travail);
+
+5\. l’état de la formation et de l’information des jeunes.
 
 (3) Lorsque cette évaluation a révélé l’existence d’un risque pour la sécurité, la santé ou le développement physique, psychique, mental, moral ou social des jeunes, une évaluation et une surveillance de la santé des jeunes, gratuites et adéquates, à des intervalles réguliers, sont à assurer, sans préjudice des dispositions du titre I <sup>er</sup> du présent livre et de l’article L. 326-3.
 
@@ -7088,13 +7517,19 @@ Au même moment, il informe par écrit les représentants légaux des jeunes des
 
 (2) Sont notamment interdits conformément au paragraphe (1), les travaux des jeunes qui:
 
-1. vont objectivement au-delà de leurs capacités physiques ou psychologiques;
-2. impliquent une exposition nocive à des agents toxiques, cancérigènes, causant des altérations génétiques héréditaires, ayant des effets néfastes pour le foetus pendant la grossesse ou ayant tout autre effet néfaste chronique sur l’être humain;
-3. impliquent une exposition nocive à des radiations;
-4. présentent des risques d’accidents dont on peut supposer que des jeunes, du fait de leur manque de sens de la sécurité ou de leur manque d’expérience ou de formation, ne peuvent les identifier ou les prévenir;
-5. mettent en péril la santé en raison de températures extrêmement basses ou élevées ou en raison de bruit ou de vibrations;
-6. comprennent des procédés et travaux qui impliquent une exposition nocive aux agents physiques, biologiques et chimiques visés à l’annexe 3 du présent code; et/ou
-7. sont visés à l’annexe 4 du présent code.
+1\. vont objectivement au-delà de leurs capacités physiques ou psychologiques;
+
+2\. impliquent une exposition nocive à des agents toxiques, cancérigènes, causant des altérations génétiques héréditaires, ayant des effets néfastes pour le foetus pendant la grossesse ou ayant tout autre effet néfaste chronique sur l’être humain;
+
+3\. impliquent une exposition nocive à des radiations;
+
+4\. présentent des risques d’accidents dont on peut supposer que des jeunes, du fait de leur manque de sens de la sécurité ou de leur manque d’expérience ou de formation, ne peuvent les identifier ou les prévenir;
+
+5\. mettent en péril la santé en raison de températures extrêmement basses ou élevées ou en raison de bruit ou de vibrations;
+
+6\. comprennent des procédés et travaux qui impliquent une exposition nocive aux agents physiques, biologiques et chimiques visés à l’annexe 3 du présent code; et/ou
+
+7\. sont visés à l’annexe 4 du présent code.
 
 (3) Est interdit pour les adolescents le travail à la tâche, le travail à la chaîne à effectuer à un rythme prescrit ou selon tout autre système permettant d’obtenir un salaire plus élevé moyennant l’accélération du rythme.
 
@@ -7116,10 +7551,13 @@ Le travail des adolescents n’est autorisé qu’à condition qu’il ne compor
 
 Dès l’entrée en service des adolescents, et sans préjudice des articles L. 343-1 à L. 343-3, l’employeur ou son représentant est tenu de leur donner des instructions appropriées sur:
 
-1. leurs travaux à exécuter;
-2. le règlement de travail;
-3. les mesures et dispositifs de sécurité et d’équipement de protection destinés à garantir leur sécurité et leur santé;
-4. l’observation des mesures d’hygiène et de sécurité et les dispositions susceptibles de prévenir les maladies professionnelles et autres affections en rapport avec le travail.
+1\. leurs travaux à exécuter;
+
+2\. le règlement de travail;
+
+3\. les mesures et dispositifs de sécurité et d’équipement de protection destinés à garantir leur sécurité et leur santé;
+
+4\. l’observation des mesures d’hygiène et de sécurité et les dispositions susceptibles de prévenir les maladies professionnelles et autres affections en rapport avec le travail.
 
 Des instructions spéciales doivent être données aux adolescents si lors de leur formation professionnelle ils doivent être initiés à des travaux dangereux.
 
@@ -7129,14 +7567,21 @@ Des instructions spéciales doivent être données aux adolescents si lors de le
 
 Tout employeur occupant un ou plusieurs adolescents doit tenir un registre ou fichier où sont inscrits:
 
-1. les nom, prénoms et domicile de l’adolescent;
-2. les nom et domicile du représentant légal;
-3. la date de naissance de l’adolescent;
-4. la date de son entrée en service;
-5. la nature de l’occupation;
-6. les jours de congé accordés à l’adolescent;
-7. les heures de travail et les heures supplémentaires prestées par l’adolescent, les dimanches et jours fériés légaux passés au service de l’employeur, ainsi que les travaux prestés en dérogation à l’interdiction du travail de nuit ou aux dispositions régissant les périodes de repos et les temps de pause;
-8. les dates des examens médicaux prévus aux articles L. 343-2 et L. 343-3 et en application du titre II du présent livre, ainsi que copie du dernier certificat médical établi par le service de santé au travail compétent.
+1\. les nom, prénoms et domicile de l’adolescent;
+
+2\. les nom et domicile du représentant légal;
+
+3\. la date de naissance de l’adolescent;
+
+4\. la date de son entrée en service;
+
+5\. la nature de l’occupation;
+
+6\. les jours de congé accordés à l’adolescent;
+
+7\. les heures de travail et les heures supplémentaires prestées par l’adolescent, les dimanches et jours fériés légaux passés au service de l’employeur, ainsi que les travaux prestés en dérogation à l’interdiction du travail de nuit ou aux dispositions régissant les périodes de repos et les temps de pause;
+
+8\. les dates des examens médicaux prévus aux articles L. 343-2 et L. 343-3 et en application du titre II du présent livre, ainsi que copie du dernier certificat médical établi par le service de santé au travail compétent.
 
 ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) Le registre ou fichier prévu à l’alinéa qui précède doit être tenu à jour et mis à la disposition de l’Inspection du travail et des mines, des délégations du personnel, des délégués à la sécurité, des conseillers d’apprentissage et des salariés désignés en application du titre I <sup>er</sup> du présent livre.
 
@@ -7222,10 +7667,13 @@ Lorsque des raisons techniques ou d’organisation objectives le justifient, cet
 
 (3) Le ministre ayant le Travail dans ses attributions ou son délégué, sous réserve du respect des conditions fixées à l’article L. 344-1 et sur avis des ministres ayant l’Education nationale, la Formation professionnelle et la Famille dans leurs attributions, de l’Inspection du travail et des mines et du service compétent de médecine du travail, peut accorder des dérogations écrites aux règles fixées aux paragraphes (1) et (2) pour les travaux effectués dans le cadre d’une formation professionnelle officielle organisée et surveillée par les autorités publiques compétentes:
 
-1. dans les hôpitaux, cliniques, institutions de soins et de garde de personnes âgées ou dépendantes, les maisons d’enfants et des établissements actifs dans le domaine de la garde ou de l’éducation des enfants et des établissements analogues;
-2. dans le domaine socio-éducatif;
-3. dans le secteur de l’hôtellerie et de la restauration;
-4. dans le cadre des forces armées.
+1\. dans les hôpitaux, cliniques, institutions de soins et de garde de personnes âgées ou dépendantes, les maisons d’enfants et des établissements actifs dans le domaine de la garde ou de l’éducation des enfants et des établissements analogues;
+
+2\. dans le domaine socio-éducatif;
+
+3\. dans le secteur de l’hôtellerie et de la restauration;
+
+4\. dans le cadre des forces armées.
 
 Toutefois, de telles dérogations ne peuvent être accordées que si des raisons objectives le justifient et qu’à condition qu’un repos compensateur approprié soit accordé aux adolescents dans un délai rapproché. Ce délai ne peut excéder douze jours. L’autorisation ministérielle visée à l’alinéa qui précède fixe la durée du repos compensateur et du délai dans lequel ce repos est à prendre.
 
@@ -7267,15 +7715,15 @@ Pour les entreprises et services à marche continue, le travail est autorisé ju
 
 (2) Le ministre ayant le Travail dans ses attributions ou son délégué, sous réserve du respect des conditions fixées par l’article L. 344-1 et sur avis des ministres ayant l’Education nationale, la Formation professionnelle et la Famille dans leurs attributions, de l’Inspection du travail et des mines et du service compétent de médecine du travail, peut accorder des dérogations écrites aux règles fixées au paragraphe (1) pour les travaux effectués dans le cadre d’une formation professionnelle officielle organisée et surveillée par les autorités publiques compétentes:
 
-1. dans les hôpitaux, cliniques, institutions de soins et de garde de personnes âgées ou dépendantes, les maisons d’enfants et des établissements actifs dans le domaine de la garde ou de l’éducation des enfants et des établissements analogues (adolescents couverts par la
+1\. dans les hôpitaux, cliniques, institutions de soins et de garde de personnes âgées ou dépendantes, les maisons d’enfants et des établissements actifs dans le domaine de la garde ou de l’éducation des enfants et des établissements analogues (adolescents couverts par la [loi du 26 mars 1992](https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/jo) sur l’exercice et la revalorisation de certaines professions de santé);
 
-   [loi du 26 mars 1992](https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/jo) sur l’exercice et la revalorisation de certaines professions de santé);
-2. dans le domaine socio-éducatif;
-3. dans le secteur de l’hôtellerie et de la restauration (adolescents couverts par les dispositions du titre I
+2\. dans le domaine socio-éducatif;
 
-   <sup>er</sup> du livre I <sup>er</sup> relatif au contrat d’apprentissage);
-4. dans le cadre des forces armées;
-5. dans le secteur de la boulangerie-pâtisserie.
+3\. dans le secteur de l’hôtellerie et de la restauration (adolescents couverts par les dispositions du titre I <sup>er</sup> du livre I <sup>er</sup> relatif au contrat d’apprentissage);
+
+4\. dans le cadre des forces armées;
+
+5\. dans le secteur de la boulangerie-pâtisserie.
 
 Dans le secteur de l’hôtellerie et de la restauration, l’autorisation visée à l’alinéa qui précède est limitée à dix heures du soir.
 
@@ -7333,17 +7781,21 @@ Le présent titre a pour objet la protection des salariés contre les risques po
 
 Le présent titre ne s’applique pas:
 
-1. aux salariés exposés aux rayonnements relevant du Traité instituant la Communauté européenne de l’énergie atomique;
-2. à la navigation maritime;
-3. à la navigation aérienne.
+1\. aux salariés exposés aux rayonnements relevant du Traité instituant la Communauté européenne de l’énergie atomique;
+
+2\. à la navigation maritime;
+
+3\. à la navigation aérienne.
 
 #### Art. L. 351-2.
 
 Au sens du présent titre, on entend par:
 
-1. «agent», l’agent chimique, physique ou biologique présent pendant le travail et susceptible de présenter un risque pour la santé;
-2. «salarié», toute personne salariée exposée ou susceptible d’être exposée à un agent pendant son travail;
-3. «valeur limite», la limite d’exposition ou la valeur limite d’un indicateur biologique dans le milieu approprié, selon l’agent.
+1\. «agent», l’agent chimique, physique ou biologique présent pendant le travail et susceptible de présenter un risque pour la santé;
+
+2\. «salarié», toute personne salariée exposée ou susceptible d’être exposée à un agent pendant son travail;
+
+3\. «valeur limite», la limite d’exposition ou la valeur limite d’un indicateur biologique dans le milieu approprié, selon l’agent.
 
 #### Art. L. 351-3.
 
@@ -7351,28 +7803,45 @@ Au sens du présent titre, on entend par:
 
 Ces mesures concernent:
 
-1. la limitation de l’usage de l’agent sur le lieu de travail;
-2. la limitation du nombre de salariés exposés ou susceptibles de l’être;
-3. des mesures techniques préventives;
-4. l’établissement de valeurs limites ainsi que de modalités d’échantillonnage, de mesure et d’évaluation des résultats;
-5. des mesures de protection comportant l’application de procédés et de méthodes de travail appropriés;
-6. des mesures de protection collectives;
-7. des mesures de protection individuelles, lorsque l’exposition ne peut être raisonnablement évitée par d’autres moyens;
-8. des mesures d’hygiène;
-9. une information des salariés sur les risques potentiels liés à leur exposition, sur les mesures techniques de prévention à respecter par les salariés et sur les précautions prises par l’employeur et à prendre par les salariés;
-10. une signalisation d’avertissement et de sécurité;
-11. une surveillance de la santé des salariés;
-12. la tenue et la mise à jour de registres indiquant les niveaux d’exposition, de listes des salariés exposés et de dossiers médicaux;
-13. des mesures d’urgence à appliquer en cas d’exposition anormale;
-14. si nécessaire, l’interdiction limitée ou générale de l’agent dans les cas où l’utilisation des autres moyens disponibles ne permet pas d’assurer une protection suffisante.
+1\. la limitation de l’usage de l’agent sur le lieu de travail;
+
+2\. la limitation du nombre de salariés exposés ou susceptibles de l’être;
+
+3\. des mesures techniques préventives;
+
+4\. l’établissement de valeurs limites ainsi que de modalités d’échantillonnage, de mesure et d’évaluation des résultats;
+
+5\. des mesures de protection comportant l’application de procédés et de méthodes de travail appropriés;
+
+6\. des mesures de protection collectives;
+
+7\. des mesures de protection individuelles, lorsque l’exposition ne peut être raisonnablement évitée par d’autres moyens;
+
+8\. des mesures d’hygiène;
+
+9\. une information des salariés sur les risques potentiels liés à leur exposition, sur les mesures techniques de prévention à respecter par les salariés et sur les précautions prises par l’employeur et à prendre par les salariés;
+
+10\. une signalisation d’avertissement et de sécurité;
+
+11\. une surveillance de la santé des salariés;
+
+12\. la tenue et la mise à jour de registres indiquant les niveaux d’exposition, de listes des salariés exposés et de dossiers médicaux;
+
+13\. des mesures d’urgence à appliquer en cas d’exposition anormale;
+
+14\. si nécessaire, l’interdiction limitée ou générale de l’agent dans les cas où l’utilisation des autres moyens disponibles ne permet pas d’assurer une protection suffisante.
 
 Lorsqu’il s’agit de l’un des agents figurant à l’annexe 5 du présent code, ces mesures visent:
 
-1. la mise en oeuvre d’une surveillance médicale des salariés préalablement à leur exposition et, par la suite, à intervalles réguliers. Dans des cas particuliers, les salariés qui ont été exposés à l’agent doivent pouvoir bénéficier, sous une forme appropriée, d’une surveillance de leur état de santé après la cessation de l’exposition;
-2. l’accès des salariés et des délégués du personnel sur le lieu de travail aux résultats des mesures d’exposition et aux résultats collectifs anonymes des examens biologiques indicatifs de l’exposition, lorsque de tels examens sont prévus;
-3. l’accès de chaque salarié concerné aux résultats de ses propres examens biologiques indicatifs de l’exposition;
-4. l’information des salariés et des délégués du personnel sur le lieu de travail, en cas de dépassement des valeurs limites visées à l’alinéa 2, point 4, sur les causes du dépassement et sur les mesures prises ou à prendre pour y remédier;
-5. l’accès des salariés et des délégués du personnel sur le lieu de travail à une information appropriée susceptible d’améliorer leur connaissance des dangers auxquels ils sont exposés.
+1\. la mise en oeuvre d’une surveillance médicale des salariés préalablement à leur exposition et, par la suite, à intervalles réguliers. Dans des cas particuliers, les salariés qui ont été exposés à l’agent doivent pouvoir bénéficier, sous une forme appropriée, d’une surveillance de leur état de santé après la cessation de l’exposition;
+
+2\. l’accès des salariés et des délégués du personnel sur le lieu de travail aux résultats des mesures d’exposition et aux résultats collectifs anonymes des examens biologiques indicatifs de l’exposition, lorsque de tels examens sont prévus;
+
+3\. l’accès de chaque salarié concerné aux résultats de ses propres examens biologiques indicatifs de l’exposition;
+
+4\. l’information des salariés et des délégués du personnel sur le lieu de travail, en cas de dépassement des valeurs limites visées à l’alinéa 2, point 4, sur les causes du dépassement et sur les mesures prises ou à prendre pour y remédier;
+
+5\. l’accès des salariés et des délégués du personnel sur le lieu de travail à une information appropriée susceptible d’améliorer leur connaissance des dangers auxquels ils sont exposés.
 
 (2) Pour l’application du paragraphe (1), les règlements déterminent la mesure dans laquelle, s’il y a lieu, chacune des dispositions visées aux alinéas qui précèdent s’appliquent compte tenu de la nature de l’agent, de l’importance et de la durée de l’exposition, de la gravité du risque et des connaissances disponibles le concernant, ainsi que du degré d’urgence des mesures à prendre.
 
@@ -7446,9 +7915,11 @@ Elle se compose de délégués effectifs et de délégués suppléants de chacun
 
 Le nombre de délégués par entreprise est fonction de l’effectif des salariés de celle-ci
 
-- pour les entreprises occupant entre 15 et 100 salariés: un délégué effectif et un délégué suppléant;
-- pour les entreprises occupant entre 101 et 500 salariés: deux délégués effectifs et deux délégués suppléants;
-- pour les entreprises occupant plus de 500 salariés: trois délégués effectifs et trois délégués suppléants.
+aash pour les entreprises occupant entre 15 et 100 salariés: un délégué effectif et un délégué suppléant;
+
+bash pour les entreprises occupant entre 101 et 500 salariés: deux délégués effectifs et deux délégués suppléants;
+
+cash pour les entreprises occupant plus de 500 salariés: trois délégués effectifs et trois délégués suppléants.
 
 Les membres de la délégation au niveau de l’entité économique et sociale sont élus par les délégations du personnel selon le système de la majorité relative au scrutin secret de liste, parmi les membres qui les composent.
 
@@ -7478,32 +7949,57 @@ La délégation ainsi élue est soumise aux mêmes dispositions légales que la 
 
 (1) Sans préjudice des dispositions de l’article L. 411-1, la composition numérique des délégations du personnel est fonction de l’effectif des salariés qu’elles représentent:
 
-- 1 membre titulaire, lorsque l’effectif des salariés est compris entre 15 et 25;
-- 2 membres titulaires, lorsque l’effectif des salariés est compris entre 26 et 50;
-- 3 membres titulaires, lorsque l’effectif des salariés est compris entre 51 et 75;
-- 4 membres titulaires, lorsque l’effectif des salariés est compris entre 76 et 100;
-- 5 membres titulaires, lorsque l’effectif des salariés est compris entre 101 et 200;
-- 6 membres titulaires, lorsque l’effectif des salariés est compris entre 201 et 300;
-- 7 membres titulaires, lorsque l’effectif des salariés est compris entre 301 et 400;
-- 8 membres titulaires, lorsque l’effectif des salariés est compris entre 401 et 500;
-- 9 membres titulaires, lorsque l’effectif des salariés est compris entre 501 et 600;
-- 10 membres titulaires, lorsque l’effectif des salariés est compris entre 601 et 700;
-- 11 membres titulaires, lorsque l’effectif des salariés est compris entre 701 et 800;
-- 12 membres titulaires, lorsque l’effectif des salariés est compris entre 801 et 900;
-- 13 membres titulaires, lorsque l’effectif des salariés est compris entre 901 et 1.000;
-- 14 membres titulaires, lorsque l’effectif des salariés est compris entre 1.001 et 1.100;
-- 15 membres titulaires, lorsque l’effectif des salariés est compris entre 1.101 et 1.500;
-- 16 membres titulaires, lorsque l’effectif des salariés est compris entre 1.501 et 1.900;
-- 17 membres titulaires, lorsque l’effectif des salariés est compris entre 1.901 et 2.300;
-- 18 membres titulaires, lorsque l’effectif des salariés est compris entre 2.301 et 2.700;
-- 19 membres titulaires, lorsque l’effectif des salariés est compris entre 2.701 et 3.100;
-- 20 membres titulaires, lorsque l’effectif des salariés est compris entre 3.101 et 3.500;
-- 21 membres titulaires, lorsque l’effectif des salariés est compris entre 3.501 et 3.900;
-- 22 membres titulaires, lorsque l’effectif des salariés est compris entre 3.901 et 4.300;
-- 23 membres titulaires, lorsque l’effectif des salariés est compris entre 4.301 et 4.700;
-- 24 membres titulaires, lorsque l’effectif des salariés est compris entre 4.701 et 5.100;
-- 25 membres titulaires, lorsque l’effectif des salariés est compris entre 5.101 et 5.500;
-- 1 membre titulaire supplémentaire par tranche entière de 500 salariés, lorsque l’effectif des salariés excède 5.500.
+aash 1 membre titulaire, lorsque l’effectif des salariés est compris entre 15 et 25;
+
+bash 2 membres titulaires, lorsque l’effectif des salariés est compris entre 26 et 50;
+
+cash 3 membres titulaires, lorsque l’effectif des salariés est compris entre 51 et 75;
+
+dash 4 membres titulaires, lorsque l’effectif des salariés est compris entre 76 et 100;
+
+eash 5 membres titulaires, lorsque l’effectif des salariés est compris entre 101 et 200;
+
+fash 6 membres titulaires, lorsque l’effectif des salariés est compris entre 201 et 300;
+
+gash 7 membres titulaires, lorsque l’effectif des salariés est compris entre 301 et 400;
+
+hash 8 membres titulaires, lorsque l’effectif des salariés est compris entre 401 et 500;
+
+iash 9 membres titulaires, lorsque l’effectif des salariés est compris entre 501 et 600;
+
+jash 10 membres titulaires, lorsque l’effectif des salariés est compris entre 601 et 700;
+
+kash 11 membres titulaires, lorsque l’effectif des salariés est compris entre 701 et 800;
+
+lash 12 membres titulaires, lorsque l’effectif des salariés est compris entre 801 et 900;
+
+mash 13 membres titulaires, lorsque l’effectif des salariés est compris entre 901 et 1.000;
+
+nash 14 membres titulaires, lorsque l’effectif des salariés est compris entre 1.001 et 1.100;
+
+oash 15 membres titulaires, lorsque l’effectif des salariés est compris entre 1.101 et 1.500;
+
+pash 16 membres titulaires, lorsque l’effectif des salariés est compris entre 1.501 et 1.900;
+
+qash 17 membres titulaires, lorsque l’effectif des salariés est compris entre 1.901 et 2.300;
+
+rash 18 membres titulaires, lorsque l’effectif des salariés est compris entre 2.301 et 2.700;
+
+sash 19 membres titulaires, lorsque l’effectif des salariés est compris entre 2.701 et 3.100;
+
+tash 20 membres titulaires, lorsque l’effectif des salariés est compris entre 3.101 et 3.500;
+
+uash 21 membres titulaires, lorsque l’effectif des salariés est compris entre 3.501 et 3.900;
+
+vash 22 membres titulaires, lorsque l’effectif des salariés est compris entre 3.901 et 4.300;
+
+wash 23 membres titulaires, lorsque l’effectif des salariés est compris entre 4.301 et 4.700;
+
+xash 24 membres titulaires, lorsque l’effectif des salariés est compris entre 4.701 et 5.100;
+
+yash 25 membres titulaires, lorsque l’effectif des salariés est compris entre 5.101 et 5.500;
+
+zash 1 membre titulaire supplémentaire par tranche entière de 500 salariés, lorsque l’effectif des salariés excède 5.500.
 
 (2) Les délégations du personnel comportent en outre des membres suppléants en nombre égal à celui des membres titulaires.
 
@@ -7591,11 +8087,11 @@ Participent à l’élection des délégués du personnel, les salariés sans di
 
 (1) Pour être éligibles, les salariés doivent remplir les conditions suivantes:
 
-1. être âgés de dix-huit ans au moins, au jour de l’élection;
-2. (
+1\. être âgés de dix-huit ans au moins, au jour de l’élection;
 
-   [L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a507/jo)) avoir une ancienneté dans l’entreprise d’au moins douze mois précédant le premier jour du mois de l’affichage annonçant les élections;
-3. être soit Luxembourgeois, soit être autorisé à travailler sur le territoire.
+2\. ([L. 29 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/29/a507/jo)) avoir une ancienneté dans l’entreprise d’au moins douze mois précédant le premier jour du mois de l’affichage annonçant les élections;
+
+3\. être soit Luxembourgeois, soit être autorisé à travailler sur le territoire.
 
 (2) Les parents et alliés jusqu’au quatrième degré du chef d’entreprise, les gérants, les directeurs et le responsable du service du personnel de l’entreprise ne peuvent être élus membres titulaires ou suppléants d’une délégation du personnel.
 
@@ -7617,8 +8113,9 @@ Toutefois, le salarié intérimaire et le salarié mis à disposition peuvent ex
 
 (1) Sans préjudice de dispositions plus précises ou contraignantes prévues aux articles L. 414-2, L. 414-3 et L. 414-5 à L. 414-7 on entend par
 
-- information, la transmission par l’employeur de données à la délégation du personnel afin de leur permettre de prendre connaissance du sujet traité et de l’examiner, et ce à un moment, d’une façon et avec un contenu appropriés, susceptibles notamment de permettre à la délégation de procéder à un examen adéquat et de préparer, le cas échéant, la consultation;
-- consultation, l’échange de vues et l’établissement d’un dialogue entre les délégués du personnel et l’employeur, s’effectuant à un moment, par des moyens et avec un contenu appropriés, sur la base des informations fournies par l’employeur conformément aux dispositions du tiret qui précède, et de l’avis que la délégation du personnel est en droit de formuler, de façon à permettre à la délégation du personnel de se réunir avec l’employeur et d’obtenir une réponse motivée à tout avis qu’elle pourrait émettre, et notamment en vue de parvenir le cas échéant à un accord sur les décisions relevant des pouvoirs de l’employeur.
+aash information, la transmission par l’employeur de données à la délégation du personnel afin de leur permettre de prendre connaissance du sujet traité et de l’examiner, et ce à un moment, d’une façon et avec un contenu appropriés, susceptibles notamment de permettre à la délégation de procéder à un examen adéquat et de préparer, le cas échéant, la consultation;
+
+bash consultation, l’échange de vues et l’établissement d’un dialogue entre les délégués du personnel et l’employeur, s’effectuant à un moment, par des moyens et avec un contenu appropriés, sur la base des informations fournies par l’employeur conformément aux dispositions du tiret qui précède, et de l’avis que la délégation du personnel est en droit de formuler, de façon à permettre à la délégation du personnel de se réunir avec l’employeur et d’obtenir une réponse motivée à tout avis qu’elle pourrait émettre, et notamment en vue de parvenir le cas échéant à un accord sur les décisions relevant des pouvoirs de l’employeur.
 
 (2) Les partenaires sociaux peuvent, à tout moment et au niveau approprié y compris au niveau de l’entreprise, librement définir par voie d’accord négocié les modalités d’information et de consultation des salariés. Ces accords peuvent prévoir des dispositions d’application différentes de celles des articles L. 414-3 et L. 414-5 à L. 414-7, à condition de respecter les principes fixés au paragraphe 3 du présent article.
 
@@ -7634,9 +8131,11 @@ Toutefois, le salarié intérimaire et le salarié mis à disposition peuvent ex
 
 (2) Dans ce contexte, et sous réserve d’autres attributions qui lui sont réservées par d’autres dispositions légales, la délégation du personnel est appelée notamment:
 
-1. à prévenir et à régler, dans un esprit de coopération, les différends, individuels ou collectifs pouvant surgir entre l’employeur et le personnel salarié;
-2. à présenter à l’employeur toute réclamation, individuelle ou collective;
-3. à saisir, à défaut d’un règlement des différends susmentionnés, l’Inspection du travail et des mines de toute plainte ou observation relative à l’application des dispositions légales, réglementaires, administratives et conventionnelles relatives aux conditions de travail, aux droits et à la protection des salariés dans l’exercice de leur profession.
+1\. à prévenir et à régler, dans un esprit de coopération, les différends, individuels ou collectifs pouvant surgir entre l’employeur et le personnel salarié;
+
+2\. à présenter à l’employeur toute réclamation, individuelle ou collective;
+
+3\. à saisir, à défaut d’un règlement des différends susmentionnés, l’Inspection du travail et des mines de toute plainte ou observation relative à l’application des dispositions légales, réglementaires, administratives et conventionnelles relatives aux conditions de travail, aux droits et à la protection des salariés dans l’exercice de leur profession.
 
 (3) Dans l’exercice de ses attributions, la délégation du personnel veille au respect rigoureux de l’égalité de traitement au sens du Titre V du Livre II en ce qui concerne l’accès à l’emploi, à la formation et à la promotion professionnelles ainsi que la rémunération et les conditions de travail.
 
@@ -7648,9 +8147,11 @@ Dans les autres entreprises, elle se fait à l’occasion des réunions avec la 
 
 (5) Le chef d’entreprise est tenu de communiquer à la délégation du personnel et au délégué à la sécurité et à la santé toutes les informations nécessaires pour informer les membres qui la composent concernant:
 
-1. les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’entreprise en général que chaque type de poste de travail ou de fonction;
-2. les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
-3. l’évolution du taux d’absence.
+1\. les risques pour la sécurité et la santé ainsi que les mesures et activités de protection et de prévention concernant tant l’entreprise en général que chaque type de poste de travail ou de fonction;
+
+2\. les mesures de protection à prendre et, si nécessaire, le matériel de protection à utiliser;
+
+3\. l’évolution du taux d’absence.
 
 Les informations sous 1. et 2. doivent également être communiquées à tout employeur de salariés des entreprises extérieures intervenant dans l’entreprise, qui doit les transmettre à sa délégation du personnel.
 
@@ -7666,23 +8167,35 @@ A cet effet, elle présente à la délégation du personnel, un rapport d’ense
 
 (1) En matière d’information et de consultation la délégation du personnel a pour mission:
 
-1. de rendre son avis et de formuler des propositions sur toute question ayant trait à l’amélioration des conditions de travail et d’emploi et de la situation sociale du personnel salarié de l’entreprise;
-2. de rendre son avis sur l’élaboration ou la modification du règlement intérieur de l’entreprise et de surveiller strictement l’exécution de ce règlement;
-3. de proposer des modifications au règlement intérieur, modifications sur lesquelles la direction ou, le cas échéant, les participants de la réunion prévue à l’article L. 414-10 doivent prendre une décision, avant l’expiration d’un délai de deux mois, laquelle doit être communiquée immédiatement à la délégation;
-4. dans les entreprises dont le personnel salarié excède 100 salariés, de participer à la formation des apprentis dans l’entreprise et à la gestion des centres d’apprentissage, s’il en existe;
-5. de collaborer à l’établissement et à l’exécution de tout régime de formation professionnelle initiale et notamment de l’apprentissage;
-6. de promouvoir l’intégration des invalides accidentés et handicapés et à s’employer pour créer des emplois appropriés à leur capacité physique et intellectuelle;
-7. de participer à la protection du travail et de son environnement ainsi qu’à la prévention des accidents du travail et des maladies professionnelles;
-8. de participer à la mise en œuvre de la politique de prévention du harcèlement et de la violence au travail;
-9. de rendre son avis préalablement à l’instauration, à la modification et à l’abrogation d’un régime complémentaire de pension;
-10. de rendre son avis sur les questions relatives au temps de travail;
-11. de rendre son avis sur les plans de formation professionnelle continue;
-12. de participer dans la gestion des mesures en faveur des jeunes et de conseiller l’employeur sur toutes les questions relatives aux conditions de travail et à la protection des jeunes salariés;
-13. de collaborer dans la mise en œuvre des reclassements internes;
-14. de promouvoir la conciliation de la vie familiale et de la vie professionnelle.
-15. (
+1\. de rendre son avis et de formuler des propositions sur toute question ayant trait à l’amélioration des conditions de travail et d’emploi et de la situation sociale du personnel salarié de l’entreprise;
 
-   [L. 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) de surveiller la mise en place et l’exécution correcte du compte épargne-temps.
+2\. de rendre son avis sur l’élaboration ou la modification du règlement intérieur de l’entreprise et de surveiller strictement l’exécution de ce règlement;
+
+3\. de proposer des modifications au règlement intérieur, modifications sur lesquelles la direction ou, le cas échéant, les participants de la réunion prévue à l’article L. 414-10 doivent prendre une décision, avant l’expiration d’un délai de deux mois, laquelle doit être communiquée immédiatement à la délégation;
+
+4\. dans les entreprises dont le personnel salarié excède 100 salariés, de participer à la formation des apprentis dans l’entreprise et à la gestion des centres d’apprentissage, s’il en existe;
+
+5\. de collaborer à l’établissement et à l’exécution de tout régime de formation professionnelle initiale et notamment de l’apprentissage;
+
+6\. de promouvoir l’intégration des invalides accidentés et handicapés et à s’employer pour créer des emplois appropriés à leur capacité physique et intellectuelle;
+
+7\. de participer à la protection du travail et de son environnement ainsi qu’à la prévention des accidents du travail et des maladies professionnelles;
+
+8\. de participer à la mise en œuvre de la politique de prévention du harcèlement et de la violence au travail;
+
+9\. de rendre son avis préalablement à l’instauration, à la modification et à l’abrogation d’un régime complémentaire de pension;
+
+10\. de rendre son avis sur les questions relatives au temps de travail;
+
+11\. de rendre son avis sur les plans de formation professionnelle continue;
+
+12\. de participer dans la gestion des mesures en faveur des jeunes et de conseiller l’employeur sur toutes les questions relatives aux conditions de travail et à la protection des jeunes salariés;
+
+13\. de collaborer dans la mise en œuvre des reclassements internes;
+
+14\. de promouvoir la conciliation de la vie familiale et de la vie professionnelle.
+
+15\. ([L. 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) de surveiller la mise en place et l’exécution correcte du compte épargne-temps.
 
 (2) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) Le chef d’entreprise est obligé d’informer et de consulter la délégation du personnel et le délégué à l’égalité sur la situation, la structure et l’évolution probable de l’emploi au sein de l’entreprise ainsi que sur les éventuelles mesures d’anticipation envisagées, notamment en cas de menace sur l’emploi; il doit notamment fournir à cette fin semestriellement à la délégation du personnel et au délégué à l’égalité des statistiques ventilées par sexe sur les recrutements, les promotions, les mutations, les licenciements, les rémunérations et les formations des salariés de l’entreprise.
 
@@ -7710,9 +8223,11 @@ Les dispositions de la présente section s’appliquent aux entreprises occupant
 
 (1) Le chef d’entreprise doit informer et consulter la délégation du personnel préalablement à toute décision importante ayant trait à:
 
-1. la construction, la transformation ou l’extension des installations de production ou d’administration;
-2. l’introduction, l’amélioration, le renouvellement ou la transformation de l’équipement;
-3. l’introduction, l’amélioration, le renouvellement ou la transformation des méthodes de travail et des procédés de production à l’exception des secrets de fabrication.
+1\. la construction, la transformation ou l’extension des installations de production ou d’administration;
+
+2\. l’introduction, l’amélioration, le renouvellement ou la transformation de l’équipement;
+
+3\. l’introduction, l’amélioration, le renouvellement ou la transformation des méthodes de travail et des procédés de production à l’exception des secrets de fabrication.
 
 (2) Le chef d’entreprise est tenu d’informer la délégation du personnel sur les incidences des mesures énumérées au paragraphe 1 <sup>er</sup> sur les conditions et l’environnement du travail.
 
@@ -7754,19 +8269,23 @@ Dans tous les cas, le chef d’entreprise, le conseil d’administration, l’or
 
 Dans les entreprises occupant pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections au moins 150 salariés et sans préjudice de l’application d’autres dispositions légales ou conventionnelles, doivent être prises d’un commun accord entre l’employeur et la délégation du personnel les décisions portant sur:
 
-1. l’introduction ou l’application d’installations techniques ayant pour objet de contrôler le comportement et les performances du salarié à son poste de travail;
-2. l’introduction ou la modification de mesures concernant la santé et la sécurité des salariés ainsi que la prévention des maladies professionnelles;
-3. l’établissement ou la modification des critères généraux concernant la sélection personnelle en cas d’embauchage, de promotion, de mutation, de licenciement et, le cas échéant, les critères de priorité pour l’admission à la préretraite des salariés;
-4. l’établissement et la mise en œuvre de tout programme ou action collective de formation professionnelle continue;
-5. l’établissement ou la modification de critères généraux d’appréciation des salariés;
-6. l’établissement ou la modification du règlement intérieur compte tenu, le cas échéant, des conventions collectives en vigueur;
-7. l’octroi de récompenses aux salariés qui, par leurs initiatives ou propositions d’amélioration technique ont apporté à l’entreprise une collaboration particulièrement utile, sans préjudice des lois et règlements régissant les brevets et inventions.
-8. (
+1\. l’introduction ou l’application d’installations techniques ayant pour objet de contrôler le comportement et les performances du salarié à son poste de travail;
 
-   [L. 1er avril 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/04/01/a172/jo)) l’introduction ou la modification d’un régime spécifique de télétravail au niveau de l’entreprise.
-9. (
+2\. l’introduction ou la modification de mesures concernant la santé et la sécurité des salariés ainsi que la prévention des maladies professionnelles;
 
-   [L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a344/jo)) l’introduction ou la modification d’un régime assurant le respect du droit à la déconnexion en dehors du temps de travail.
+3\. l’établissement ou la modification des critères généraux concernant la sélection personnelle en cas d’embauchage, de promotion, de mutation, de licenciement et, le cas échéant, les critères de priorité pour l’admission à la préretraite des salariés;
+
+4\. l’établissement et la mise en œuvre de tout programme ou action collective de formation professionnelle continue;
+
+5\. l’établissement ou la modification de critères généraux d’appréciation des salariés;
+
+6\. l’établissement ou la modification du règlement intérieur compte tenu, le cas échéant, des conventions collectives en vigueur;
+
+7\. l’octroi de récompenses aux salariés qui, par leurs initiatives ou propositions d’amélioration technique ont apporté à l’entreprise une collaboration particulièrement utile, sans préjudice des lois et règlements régissant les brevets et inventions.
+
+8\. ([L. 1er avril 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/04/01/a172/jo)) l’introduction ou la modification d’un régime spécifique de télétravail au niveau de l’entreprise.
+
+9\. ([L. du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a344/jo)) l’introduction ou la modification d’un régime assurant le respect du droit à la déconnexion en dehors du temps de travail.
 
 ###### Art. L. 414-10 — ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo))
 
@@ -7834,17 +8353,27 @@ Le responsable de l’entreprise qui fait l’objet de la tournée de contrôle 
 
 (7) Le chef d’entreprise est tenu de consulter et de renseigner le délégué à la sécurité et à la santé au sujet:
 
-1. de l’évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes de salariés à risques particuliers;
-2. des mesures de protection à prendre et, si nécessaire, du matériel de protection à utiliser;
-3. des déclarations à introduire auprès de l’Inspection du travail et des mines en vertu de l’article L. 614-11;
-4. de toute action qui peut avoir des effets substantiels sur la sécurité et la santé;
-5. de la nomination des salariés désignés pour s’occuper des activités de protection et des activités de prévention des risques professionnels de l’entreprise;
-6. des mesures prises en matière de premiers secours, de lutte contre l’incendie et d’évacuation des salariés, des mesures nécessaires, adaptées à la nature des activités et à la taille de l’entreprise, et compte tenu d’autres personnes présentes;
-7. des mesures destinées à organiser les relations nécessaires avec les services extérieurs, notamment en matière de premiers secours, d’assistance médicale d’urgence, de sauvetage et de lutte contre l’incendie;
-8. du recours dans l’entreprise, à des compétences extérieures à l’entreprise pour organiser des activités de protection et de prévention;
-9. de la formation adéquate assurée à chaque salarié dans l’intérêt de sa santé et sa sécurité;
-10. de l’évaluation des risques que les activités de l’entreprise peuvent avoir pour l’environnement pour autant que la santé ou les conditions de travail sont concernées;
-11. des mesures prises en faveur de la protection de l’environnement, pour autant que la santé ou les conditions de travail des salariés sont concernées.
+1\. de l’évaluation des risques pour la sécurité et la santé au travail, y compris ceux concernant les groupes de salariés à risques particuliers;
+
+2\. des mesures de protection à prendre et, si nécessaire, du matériel de protection à utiliser;
+
+3\. des déclarations à introduire auprès de l’Inspection du travail et des mines en vertu de l’article L. 614-11;
+
+4\. de toute action qui peut avoir des effets substantiels sur la sécurité et la santé;
+
+5\. de la nomination des salariés désignés pour s’occuper des activités de protection et des activités de prévention des risques professionnels de l’entreprise;
+
+6\. des mesures prises en matière de premiers secours, de lutte contre l’incendie et d’évacuation des salariés, des mesures nécessaires, adaptées à la nature des activités et à la taille de l’entreprise, et compte tenu d’autres personnes présentes;
+
+7\. des mesures destinées à organiser les relations nécessaires avec les services extérieurs, notamment en matière de premiers secours, d’assistance médicale d’urgence, de sauvetage et de lutte contre l’incendie;
+
+8\. du recours dans l’entreprise, à des compétences extérieures à l’entreprise pour organiser des activités de protection et de prévention;
+
+9\. de la formation adéquate assurée à chaque salarié dans l’intérêt de sa santé et sa sécurité;
+
+10\. de l’évaluation des risques que les activités de l’entreprise peuvent avoir pour l’environnement pour autant que la santé ou les conditions de travail sont concernées;
+
+11\. des mesures prises en faveur de la protection de l’environnement, pour autant que la santé ou les conditions de travail des salariés sont concernées.
 
 Les délégués à la sécurité et à la santé ont le droit de demander à l’employeur qu’il prenne des mesures appropriées et de lui soumettre des propositions en ce sens, de façon à pallier tout risque pour les salariés ou à éliminer les sources de danger.
 
@@ -7870,27 +8399,41 @@ Un règlement grand-ducal pourra préciser les modalités de ce congé-formation
 
 A cet effet, sans préjudice des attributions que peuvent lui conférer d’autres dispositions légales, le délégué à l’égalité, agissant seul ou de concert avec la délégation du personnel, dans les domaines de sa mission, est notamment habilité:
 
-1. à émettre son avis et à formuler des propositions sur toute question ayant trait, directement ou indirectement, à l’un des domaines susvisés;
-2. à proposer à l’employeur des actions de sensibilisation du personnel salarié de l’entreprise;
-3. à préparer et à présenter à l’employeur un plan de mesures visant à promouvoir l’égalité des chances entre les hommes et les femmes telles que couvertes par l’article L. 241-4, paragraphe 2 in fine;
-4. à présenter à l’employeur toute réclamation individuelle ou collective en matière d’égalité de traitement entre hommes et femmes;
-5. à prévenir et à aplanir les différends individuels ou collectifs pouvant surgir entre l’employeur et le personnel salarié en matière d’égalité de traitement entre hommes et femmes;
-6. à saisir, à défaut d’un règlement des différends susmentionnés, l’Inspection du travail et des mines de toute plainte ou observation;
-7. à convoquer une fois par an, séparément, le personnel salarié de l’un et de l’autre sexe;
-8. à veiller à la formation à l’égalité des apprentis dans l’entreprise;
-9. à collaborer à l’établissement et à l’exécution de tout régime de formation professionnelle initiale et notamment de l’apprentissage;
-10. à donner des consultations dans un local approprié à l’intention du personnel salarié de l’entreprise soit en dehors des heures de travail soit pendant les heures de travail. Dans ce dernier cas, le délégué à l’égalité doit se mettre d’accord avec le chef d’entreprise sur l’heure et les modalités d’organisation de ces consultations, dont la durée est imputée sur le crédit d’heures visé au paragraphe 4 ci-après;
-11. à émettre son avis préalablement à toute création de poste à temps partiel dans l’entreprise.
+1\. à émettre son avis et à formuler des propositions sur toute question ayant trait, directement ou indirectement, à l’un des domaines susvisés;
+
+2\. à proposer à l’employeur des actions de sensibilisation du personnel salarié de l’entreprise;
+
+3\. à préparer et à présenter à l’employeur un plan de mesures visant à promouvoir l’égalité des chances entre les hommes et les femmes telles que couvertes par l’article L. 241-4, paragraphe 2 in fine;
+
+4\. à présenter à l’employeur toute réclamation individuelle ou collective en matière d’égalité de traitement entre hommes et femmes;
+
+5\. à prévenir et à aplanir les différends individuels ou collectifs pouvant surgir entre l’employeur et le personnel salarié en matière d’égalité de traitement entre hommes et femmes;
+
+6\. à saisir, à défaut d’un règlement des différends susmentionnés, l’Inspection du travail et des mines de toute plainte ou observation;
+
+7\. à convoquer une fois par an, séparément, le personnel salarié de l’un et de l’autre sexe;
+
+8\. à veiller à la formation à l’égalité des apprentis dans l’entreprise;
+
+9\. à collaborer à l’établissement et à l’exécution de tout régime de formation professionnelle initiale et notamment de l’apprentissage;
+
+10\. à donner des consultations dans un local approprié à l’intention du personnel salarié de l’entreprise soit en dehors des heures de travail soit pendant les heures de travail. Dans ce dernier cas, le délégué à l’égalité doit se mettre d’accord avec le chef d’entreprise sur l’heure et les modalités d’organisation de ces consultations, dont la durée est imputée sur le crédit d’heures visé au paragraphe 4 ci-après;
+
+11\. à émettre son avis préalablement à toute création de poste à temps partiel dans l’entreprise.
 
 (3) Sont applicables au délégué à l’égalité les articles L. 415-1, L. 415-2, L. 415-5 et L. 415-6, paragraphe 1 <sup>er</sup> .
 
 (4) En vue de la réalisation des missions définies par le présent article, le crédit d’heures prévu à l’article L. 415-5, paragraphe 2, est majoré à raison:
 
-- de quatre heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 15 et 25 salariés;
-- de six heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 26 et 50 salariés;
-- de huit heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 51 et 75 salariés;
-- de dix heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 76 et 150 salariés;
-- de quatre heures par semaine, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections plus de 150 salariés.
+aone de quatre heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 15 et 25 salariés;
+
+bone de six heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 26 et 50 salariés;
+
+cone de huit heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 51 et 75 salariés;
+
+done de dix heures rémunérées par mois, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections entre 76 et 150 salariés;
+
+eone de quatre heures par semaine, si l’entreprise occupe pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections plus de 150 salariés.
 
 Ce crédit d’heures supplémentaires est réservé à l’usage exclusif du délégué à l’égalité.
 
@@ -7908,10 +8451,9 @@ Ce crédit d’heures supplémentaires est réservé à l’usage exclusif du d�
 
 (2) Les délégués élus sur une liste présentée par un syndicat qui jouit de la représentativité nationale générale ou sectorielle en vertu des dispositions des articles L. 161-4 et L. 161-7 peuvent en outre:
 
-1. afficher librement des communications syndicales sur des supports divers réservés à cet usage et distincts de ceux visés au paragraphe 1
+1\. afficher librement des communications syndicales sur des supports divers réservés à cet usage et distincts de ceux visés au paragraphe 1 <sup>er</sup> ; un exemplaire de ces communications syndicales est transmis au chef d’entreprise simultanément à l’affichage;
 
-   <sup>er</sup> ; un exemplaire de ces communications syndicales est transmis au chef d’entreprise simultanément à l’affichage;
-2. diffuser librement des publications et tracts de nature syndicale aux salariés de l’entreprise dans l’enceinte de celui-ci et à des endroits à fixer d’un commun accord avec le chef d’entreprise.
+2\. diffuser librement des publications et tracts de nature syndicale aux salariés de l’entreprise dans l’enceinte de celui-ci et à des endroits à fixer d’un commun accord avec le chef d’entreprise.
 
 Il en est ainsi également pour les délégués élus sur une liste présentée par une organisation syndicale répondant à la défi nition de l’article L. 161-3, dans la mesure où ils représentent la majorité absolue des membres qui composent la délégation.
 
@@ -7953,19 +8495,25 @@ Dans les quinze jours de sa notification, la décision du Directeur de l’Inspe
 
 Le mandat de délégué prend fin:
 
-1. en cas de non-réélection comme membre titulaire ou suppléant, dès que l’installation de la délégation nouvellement élue a eu lieu;
-2. lorsque l’intéressé cesse de faire partie du personnel;
-3. en cas de démission;
-4. lorsque l’organisation syndicale qui a présenté sa candidature a informé le chef d’entreprise et la délégation que l’intéressé a cessé de lui appartenir;
-5. en cas de décès;
-6. en cas de refus, non-prolongation ou retrait de l’autorisation conférant le droit au travail.
+1\. en cas de non-réélection comme membre titulaire ou suppléant, dès que l’installation de la délégation nouvellement élue a eu lieu;
+
+2\. lorsque l’intéressé cesse de faire partie du personnel;
+
+3\. en cas de démission;
+
+4\. lorsque l’organisation syndicale qui a présenté sa candidature a informé le chef d’entreprise et la délégation que l’intéressé a cessé de lui appartenir;
+
+5\. en cas de décès;
+
+6\. en cas de refus, non-prolongation ou retrait de l’autorisation conférant le droit au travail.
 
 ###### Art. L. 415-4.
 
 Le membre suppléant est appelé à siéger en remplacement du membre effectif:
 
-1. en cas d’empêchement de celui-ci;
-2. lorsque le mandat du membre effectif a pris fin pour une des raisons énumérées à l’article L.415-3 sous les points 2 à 6; dans ce cas, le membre suppléant achève le mandat du membre titulaire.
+1\. en cas d’empêchement de celui-ci;
+
+2\. lorsque le mandat du membre effectif a pris fin pour une des raisons énumérées à l’article L.415-3 sous les points 2 à 6; dans ce cas, le membre suppléant achève le mandat du membre titulaire.
 
 ##### *Section 3.* — *Exercice du mandat*
 
@@ -7983,11 +8531,15 @@ Les crédits d’heures visés ci-dessus sont répartis, proportionnellement aux
 
 (3) Le chef d’entreprise est tenu de libérer de tout travail généralement quelconque et d’accorder une dispense permanente de service avec maintien du salaire ainsi que, le cas échéant, du droit à la promotion et à l’avancement à:
 
-- un délégué lorsque l’effectif des salariés est compris entre 250 et 500;
-- deux délégués, lorsque l’effectif des salariés est compris entre 501 et 1.000;
-- trois délégués, lorsque l’effectif des salariés est compris entre 1.001 et 2.000;
-- quatre délégués, lorsque l’effectif des salariés est compris entre 2.001 et 3.500;
-- un délégué supplémentaire par tranche de 1.500 salariés, lorsque l’effectif des salariés excède 3.500.
+aash un délégué lorsque l’effectif des salariés est compris entre 250 et 500;
+
+bash deux délégués, lorsque l’effectif des salariés est compris entre 501 et 1.000;
+
+cash trois délégués, lorsque l’effectif des salariés est compris entre 1.001 et 2.000;
+
+dash quatre délégués, lorsque l’effectif des salariés est compris entre 2.001 et 3.500;
+
+eash un délégué supplémentaire par tranche de 1.500 salariés, lorsque l’effectif des salariés excède 3.500.
 
 La désignation des délégués libérés est effectuée au scrutin secret de liste par les membres de la délégation selon les règles de la représentation proportionnelle.
 
@@ -8119,10 +8671,13 @@ Un règlement grand-ducal détermine dans l’ordre les points obligatoires à l
 
 (2) Pour l’expédition des affaires courantes et la préparation de ses réunions, la délégation du personnel désigne parmi ses membres effectifs au scrutin secret de liste selon les règles de la représentation proportionnelle un bureau qui se compose en plus du président, du vice-président et du secrétaire de:
 
-1. 1 membre, lorsque la délégation se compose d’au moins 8 membres;
-2. 2 membres, lorsque la délégation se compose d’au moins 10 membres;
-3. 3 membres, lorsque la délégation se compose d’au moins 12 membres;
-4. 4 membres, lorsque la délégation se compose d’au moins 14 membres.
+aone 1 membre, lorsque la délégation se compose d’au moins 8 membres;
+
+bone 2 membres, lorsque la délégation se compose d’au moins 10 membres;
+
+cone 3 membres, lorsque la délégation se compose d’au moins 12 membres;
+
+done 4 membres, lorsque la délégation se compose d’au moins 14 membres.
 
 Pour ses missions exécutées dans le cadre des articles L. 414-9 à L. 414-13, le bureau est élargi d’au moins un délégué du personnel, de façon proportionnelle aux votes obtenus, de chaque liste représentée dans la délégation du personnel mais qui n’est pas représentée dans le bureau en application du paragraphe 2.
 
@@ -8130,20 +8685,23 @@ Pour ses missions exécutées dans le cadre des articles L. 414-9 à L. 414-13, 
 
 Dans les cinq jours qui suivent la communication visée à l’alinéa 1 <sup>er</sup> , le chef d’entreprise est tenu :
 
-1. d’enregistrer sur la plateforme électronique destinée à cet effet en remplissant le formulaire pré-rédigé mis à disposition par l’Inspection du travail et des mines sur ladite plateforme les noms, les prénoms ainsi que les matricules nationaux :
+1\. d’enregistrer sur la plateforme électronique destinée à cet effet en remplissant le formulaire pré-rédigé mis à disposition par l’Inspection du travail et des mines sur ladite plateforme les noms, les prénoms ainsi que les matricules nationaux :
 
-   1. du président ;
-   2. du vice-président ;
-   3. du secrétaire ;
-   4. des membres du bureau ;
-   5. du délégué à la sécurité et à la santé visé à l’article L. 414-14, paragraphe 1
+a) du président ;
 
-      <sup>er</sup> ;
-   6. du délégué à l’égalité visé à l’article L. 414-15, paragraphe 1
+b) du vice-président ;
 
-      <sup>er</sup> .
-2. de signer le formulaire imprimé et de le faire signer par le président de la délégation ;
-3. de communiquer le formulaire dûment rempli et signé à l’Inspection du travail et des mines sur la plateforme électronique destinée à cet effet.
+c) du secrétaire ;
+
+d) des membres du bureau ;
+
+e) du délégué à la sécurité et à la santé visé à l’article L. 414-14, paragraphe 1 <sup>er</sup> ;
+
+f) du délégué à l’égalité visé à l’article L. 414-15, paragraphe 1 <sup>er</sup> .
+
+2\. de signer le formulaire imprimé et de le faire signer par le président de la délégation ;
+
+3\. de communiquer le formulaire dûment rempli et signé à l’Inspection du travail et des mines sur la plateforme électronique destinée à cet effet.
 
 (4) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) Lors de la première réunion après la réunion constituante de la délégation du personnel les membres élus sont informés par le chef d’entreprise sur la structure de l’entreprise, ses liens éventuels avec d’autres entreprises, l’évolution économique prévisible, la structure de l’emploi, les politiques de formation professionnelle continue, de sécurité et santé au travail ainsi qu’en matière d’égalité de traitement.
 
@@ -8277,7 +8835,7 @@ Par dérogation aux dispositions des articles 51, alinéa 1 <sup>er</sup> et 60 
 
 (...) *(abrogé par la [loi du 13 mai 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n1/jo))*
 
-(2) [^3] Les règles du scrutin et le contentieux électoral font l’objet d’un règlement grand-ducal.
+(2)[^3] Les règles du scrutin et le contentieux électoral font l’objet d’un règlement grand-ducal.
 
 ###### Art. L. 426-5.
 
@@ -8483,9 +9041,11 @@ Aux seules fins de l’application et de l’interprétation du présent titre, 
 
 Aux seules fins de l’application et de l’interprétation du présent titre, et sans préjudice d’éventuelles dispositions différentes, existantes ou à venir, notamment en matière de droit des sociétés, on entend par «groupe d’entreprises de dimension communautaire», un groupe comprenant une entreprise qui exerce le contrôle et des entreprises contrôlées telles que définies aux articles L. 431-4, à condition que:
 
-1. ledit groupe emploie au moins mille travailleurs dans les Etats définis à l’article L. 431-2;
-2. ledit groupe comporte au moins deux entreprises membres du groupe dans deux des Etats en question et
-3. chacune d’au moins deux entreprises membres du groupe emploie au moins cent cinquante travailleurs dans chacun de deux Etats différents parmi les Etats en question.
+1\. ledit groupe emploie au moins mille travailleurs dans les Etats définis à l’article L. 431-2;
+
+2\. ledit groupe comporte au moins deux entreprises membres du groupe dans deux des Etats en question et
+
+3\. chacune d’au moins deux entreprises membres du groupe emploie au moins cent cinquante travailleurs dans chacun de deux Etats différents parmi les Etats en question.
 
 ###### Art. L. 431-4.
 
@@ -8493,9 +9053,11 @@ Aux seules fins de l’application et de l’interprétation du présent titre, 
 
 (2) Le fait d’exercer une influence dominante est présumé établi, sans préjudice de la preuve du contraire, lorsqu’une entreprise établie au Luxembourg, directement ou indirectement à l’égard d’une autre entreprise:
 
-1. détient la majorité du capital souscrit de l’entreprise, ou
-2. dispose de la majorité des voix attachées aux parts émises par l’entreprise, ou
-3. peut nommer plus de la moitié des membres du conseil d’administration, de direction ou de surveillance de l’entreprise.
+1\. détient la majorité du capital souscrit de l’entreprise, ou
+
+2\. dispose de la majorité des voix attachées aux parts émises par l’entreprise, ou
+
+3\. peut nommer plus de la moitié des membres du conseil d’administration, de direction ou de surveillance de l’entreprise.
 
 Si plusieurs entreprises remplissent les critères précités, l’entreprise remplissant la condition sous 3. du premier alinéa qui précède est présumée l’entreprise qui exerce le contrôle, sans préjudice de la preuve qu’une autre entreprise exerce une influence dominante.
 
@@ -8561,10 +9123,13 @@ La responsabilité de la mise en place d’un comité d’entreprise européen o
 
 (1) ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) La direction centrale au sens de l’article L. 431-6 entame la négociation pour l’institution d’un comité d’entreprise européen ou d’une procédure d’information et de consultation:
 
-- soit de sa propre initiative;
-- soit à la demande écrite d’au moins cent travailleurs ou de leurs représentants, relevant d’au moins deux entreprises ou établissements situés dans au moins deux des Etats visés à l’article L. 431-2;
-- soit à la demande écrite des syndicats signataires de la convention collective le cas échéant applicable, dont au moins une organisation syndicale la plus représentative sur le plan national;
-- soit à la demande écrite d’une organisation syndicale la plus représentative sur le plan national, représentée dans au moins une des délégations du personnel des entreprises ou établissements concernés.
+aone soit de sa propre initiative;
+
+bone soit à la demande écrite d’au moins cent travailleurs ou de leurs représentants, relevant d’au moins deux entreprises ou établissements situés dans au moins deux des Etats visés à l’article L. 431-2;
+
+cone soit à la demande écrite des syndicats signataires de la convention collective le cas échéant applicable, dont au moins une organisation syndicale la plus représentative sur le plan national;
+
+done soit à la demande écrite d’une organisation syndicale la plus représentative sur le plan national, représentée dans au moins une des délégations du personnel des entreprises ou établissements concernés.
 
 La demande écrite visée à l’alinéa qui précède est adressée à la direction centrale. La direction centrale ou le représentant désigné au sens de l’article L. 431-6 doit indiquer aux travailleurs et à leurs représentants l’identité et le lieu d’établissement de la direction centrale ou du représentant désigné.
 
@@ -8708,17 +9273,19 @@ Les membres du groupe spécial de négociation représentant les travailleurs oc
 
 L’accord entre le groupe spécial de négociation et la direction centrale peut instituer un comité d’entreprise européen. L’accord fixe les modalités de mise en œuvre et de fonctionnement du comité d’entreprise européen, et porte notamment au moins sur les points suivants:
 
-1. l’énumération précise des entreprises du groupe d’entreprises de dimension communautaire et des établissements de l’entreprise de dimension communautaire, y compris, le cas échéant, les entreprises et établissements situés hors du territoire des Etats visés à l’article L. 431-2, concernés par l’accord;
-2. (
+1\. l’énumération précise des entreprises du groupe d’entreprises de dimension communautaire et des établissements de l’entreprise de dimension communautaire, y compris, le cas échéant, les entreprises et établissements situés hors du territoire des Etats visés à l’article L. 431-2, concernés par l’accord;
 
-   [L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) la composition du comité d’entreprise européen, le nombre de ses membres titulaires et suppléants, à élire ou à désigner parmi les travailleurs de l’entreprise de dimension européenne ou du groupe d’entreprises de dimension européenne, conformément aux législations ou pratiques nationales, la répartition des sièges, permettant de prendre en compte dans la mesure du possible le besoin de représentation équilibrée des travailleurs selon les activités, les catégories de travailleurs et le sexe, et la durée du mandat.
-3. les attributions et la procédure d’information et de consultation du comité d’entreprise européen ainsi que les modalités d’articulation entre l’information et la consultation du comité d’entreprise européen et la délégation du personnel.
-4. le lieu, la fréquence et la durée des réunions du comité d’entreprise européen;
-5. les ressources financières, matérielles et infrastructurelles à allouer au comité d’entreprise européen pour assurer son fonctionnement;
-6. (
+2\. ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) la composition du comité d’entreprise européen, le nombre de ses membres titulaires et suppléants, à élire ou à désigner parmi les travailleurs de l’entreprise de dimension européenne ou du groupe d’entreprises de dimension européenne, conformément aux législations ou pratiques nationales, la répartition des sièges, permettant de prendre en compte dans la mesure du possible le besoin de représentation équilibrée des travailleurs selon les activités, les catégories de travailleurs et le sexe, et la durée du mandat.
 
-   [L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) la date d’entrée en vigueur de l’accord et sa durée, les modalités selon lesquelles l’accord peut être amendé ou dénoncé ainsi que les cas dans lesquels l’accord doit être renégocié et la procédure pour sa renégociation, y compris, le cas échéant, lorsque des modifications interviennent dans la structure de l’entreprise de dimension européenne ou du groupe d’entreprises de dimension européenne.
-7. le cas échéant, la composition, les modalités de désignation, les attributions et les modalités de réunion du comité restreint constitué au sein du comité d’entreprise européen.
+3\. les attributions et la procédure d’information et de consultation du comité d’entreprise européen ainsi que les modalités d’articulation entre l’information et la consultation du comité d’entreprise européen et la délégation du personnel.
+
+4\. le lieu, la fréquence et la durée des réunions du comité d’entreprise européen;
+
+5\. les ressources financières, matérielles et infrastructurelles à allouer au comité d’entreprise européen pour assurer son fonctionnement;
+
+6\. ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) la date d’entrée en vigueur de l’accord et sa durée, les modalités selon lesquelles l’accord peut être amendé ou dénoncé ainsi que les cas dans lesquels l’accord doit être renégocié et la procédure pour sa renégociation, y compris, le cas échéant, lorsque des modifications interviennent dans la structure de l’entreprise de dimension européenne ou du groupe d’entreprises de dimension européenne.
+
+7\. le cas échéant, la composition, les modalités de désignation, les attributions et les modalités de réunion du comité restreint constitué au sein du comité d’entreprise européen.
 
 ###### Art. L. 432-21.
 
@@ -8760,9 +9327,11 @@ Les accords visés aux articles L. 432-20 et L. 432-22 ne sont pas soumis, sauf 
 
 Afin d’assurer la réalisation de l’objectif inscrit au paragraphe (2) de l’article L. 431-1, un comité d’entreprise européen, dont la composition, la compétence et le fonctionnement doivent être conformes aux prescriptions minimales à l’article L. 432-20, est obligatoirement institué dans les cas suivants:
 
-1. la direction centrale et le groupe spécial de négociation en conviennent;
-2. la direction centrale refuse l’ouverture de négociations dans un délai de six mois à compter de la demande visée à l’article L. 432-2;
-3. la direction centrale et le groupe spécial de négociation n’arrivent pas à conclure un des accords prévus à la section 3 dans les trois ans à compter de la demande visée à l’article L. 432-2, sans que le groupe spécial n’ait pris la décision visée à l’article L. 432-17.
+1\. la direction centrale et le groupe spécial de négociation en conviennent;
+
+2\. la direction centrale refuse l’ouverture de négociations dans un délai de six mois à compter de la demande visée à l’article L. 432-2;
+
+3\. la direction centrale et le groupe spécial de négociation n’arrivent pas à conclure un des accords prévus à la section 3 dans les trois ans à compter de la demande visée à l’article L. 432-2, sans que le groupe spécial n’ait pris la décision visée à l’article L. 432-17.
 
 ###### Art. L. 432-28.
 
@@ -8776,19 +9345,31 @@ Afin d’assurer la réalisation de l’objectif inscrit au paragraphe (2) de l�
 
 (2) Dans le cadre de compétence du comité d’entreprise européen établi conformément aux articles L. 432-27 et L. 432-28, et conformément au principe général fixé au paragraphe (1), l’information et la consultation transfrontalières portent notamment sur les questions suivantes:
 
-- structure de l’entreprise ou du groupe d’entreprises;
-- changements substantiels dans l’actionnariat de l’entreprise ou du groupe d’entreprises;
-- situation économique, financière et sociale;
-- évolution probable des activités, de la production et des ventes;
-- situation et évolution probable de l’emploi;
-- investissements;
-- changements substantiels dans l’organisation;
-- introduction de nouvelles méthodes de travail ou de nouveaux procédés de production;
-- transferts de production et délocalisation;
-- fusions;
-- réduction de la taille ou fermeture des entreprises, d’établissements ou de parties importantes de ceux-ci;
-- licenciements collectifs;
-- politique de formation professionnelle continue au niveau transfrontalier.
+aone structure de l’entreprise ou du groupe d’entreprises;
+
+bone changements substantiels dans l’actionnariat de l’entreprise ou du groupe d’entreprises;
+
+cone situation économique, financière et sociale;
+
+done évolution probable des activités, de la production et des ventes;
+
+eone situation et évolution probable de l’emploi;
+
+fone investissements;
+
+gone changements substantiels dans l’organisation;
+
+hone introduction de nouvelles méthodes de travail ou de nouveaux procédés de production;
+
+ione transferts de production et délocalisation;
+
+jone fusions;
+
+kone réduction de la taille ou fermeture des entreprises, d’établissements ou de parties importantes de ceux-ci;
+
+lone licenciements collectifs;
+
+mone politique de formation professionnelle continue au niveau transfrontalier.
 
 (3) ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n14/jo)) La consultation s’effectue de façon à permettre aux représentants des travailleurs de se réunir avec la direction centrale et d’obtenir une réponse motivée à tout avis qu’ils pourraient émettre.
 
@@ -8796,11 +9377,15 @@ Afin d’assurer la réalisation de l’objectif inscrit au paragraphe (2) de l�
 
 Le comité d’entreprise européen n’a pas compétence pour les matières suivantes:
 
-- sujets strictement locaux et nationaux;
-- droits des syndicats; droits des travailleurs en matière d’information, de consultation, de co-détermination et de participation aux niveaux nationaux et, le cas échéant, au niveau communautaire; rémunérations, salaires, avantages sociaux;
-- négociations collectives ou négociations entre la direction et les instances représentatives des travailleurs, dont les délégations du personnel et les comités mixtes d’entreprise; dossiers purement personnels; questions politiques;
-- politique de formation professionnelle continue dans les entreprises ou établissements dans les divers pays;
-- prérogatives de l’actionnariat conformément au droit des sociétés.
+aone sujets strictement locaux et nationaux;
+
+bone droits des syndicats; droits des travailleurs en matière d’information, de consultation, de co-détermination et de participation aux niveaux nationaux et, le cas échéant, au niveau communautaire; rémunérations, salaires, avantages sociaux;
+
+cone négociations collectives ou négociations entre la direction et les instances représentatives des travailleurs, dont les délégations du personnel et les comités mixtes d’entreprise; dossiers purement personnels; questions politiques;
+
+done politique de formation professionnelle continue dans les entreprises ou établissements dans les divers pays;
+
+eone prérogatives de l’actionnariat conformément au droit des sociétés.
 
 ###### Art. L. 432-31.
 
@@ -8968,11 +9553,11 @@ Le(s) représentant(s) des salariés occupés au Luxembourg ne peuvent percevoir
 
 (4) A défaut, et au cas où le représentant des salariés occupés au Luxembourg a un contrat de travail avec un des établissements ou une des entreprises concernés, le crédit d’heures fixé par le paragraphe (2) de l’article L. 415-5 est majoré de la manière suivante:
 
-1. (
+1\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) au cas où les entreprises dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent régulièrement 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) au cas où les entreprises dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent régulièrement 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
-2. cette majoration est de trois heures rémunérées par mois, si le nombre de salariés définis au point 1 est de 501 au moins, et
-3. de quatre heures rémunérées par mois, si ce nombre est de 1.501 au moins.
+2\. cette majoration est de trois heures rémunérées par mois, si le nombre de salariés définis au point 1 est de 501 au moins, et
+
+3\. de quatre heures rémunérées par mois, si ce nombre est de 1.501 au moins.
 
 Ce crédit d’heures supplémentaires est réservé à l’usage exclusif du ou des représentants des salariés occupés au Luxembourg dans le comité d’entreprise européen ou dans la procédure d’information et de consultation dans les entreprises ou groupes d’entreprises de dimension communautaire, conformément aux dispositions du présent titre et doit servir à la seule exécution de la mission incombant auxdits représentants dans le cadre de ce titre.
 
@@ -9016,11 +9601,11 @@ Ne sont toutefois pas à considérer comme tiers au sens du présent paragraphe 
 
 Sont notamment visées par l’alinéa qui précède les dispositions relatives:
 
-1. (
+1\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) aux délégations du personnel ainsi qu’à la représentation des salariés dans les sociétés anonymes;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) aux délégations du personnel ainsi qu’à la représentation des salariés dans les sociétés anonymes;
-2. aux licenciements collectifs;
-3. au maintien des droits des travailleurs en cas de transfert d’entreprise.
+2\. aux licenciements collectifs;
+
+3\. au maintien des droits des travailleurs en cas de transfert d’entreprise.
 
 (2) Le présent titre ne peut pas porter préjudice à l’application des chapitres I <sup>er</sup> à IV, du livre I <sup>er</sup> , titre VI, relatifs aux rapports collectifs de travail.
 
@@ -9074,44 +9659,55 @@ Le présent Titre transpose la [directive 2001/86/CE](https://legilux.public.lu/
 
 Aux fins du présent Titre, on entend par :
 
-1. la «Société européenne»: une société constituée conformément au
+1\. la «Société européenne»: une société constituée conformément au [règlement (CE) n° 2157/2001](https://legilux.public.lu/eli/reg_ue/2001/2157/jo) du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE);
 
-   [règlement (CE) n° 2157/2001](https://legilux.public.lu/eli/reg_ue/2001/2157/jo) du Conseil du 8 octobre 2001 relatif au statut de la société européenne (SE);
-2. les «sociétés participantes»: les sociétés et les entités de droit public ou privé participant directement à la constitution d’une SE;
-3. la «filiale d’une société»: une entreprise sur laquelle ladite société exerce une influence dominante.
+2\. les «sociétés participantes»: les sociétés et les entités de droit public ou privé participant directement à la constitution d’une SE;
 
-   Le fait d’exercer une influence dominante est présumé établi, sans préjudice de la preuve du contraire, lorsqu’une entreprise établie au Luxembourg, directement ou indirectement à l’égard d’une autre entreprise:
+3\. la «filiale d’une société»: une entreprise sur laquelle ladite société exerce une influence dominante.
 
-   1. détient la majorité du capital souscrit de l’entreprise, ou
-   2. dispose de la majorité des voix attachées aux parts émises par l’entreprise, ou
-   3. peut nommer plus de la moitié des membres du conseil d’administration, de direction ou de surveillance de l’entreprise.
+Le fait d’exercer une influence dominante est présumé établi, sans préjudice de la preuve du contraire, lorsqu’une entreprise établie au Luxembourg, directement ou indirectement à l’égard d’une autre entreprise:
 
-   Si plusieurs entreprises remplissent les critères précités, l’entreprise remplissant la condition sous c) de l’alinéa qui précède est présumée être l’entreprise qui exerce le contrôle, sans préjudice de la preuve qu’une autre entreprise exerce une influence dominante.
+a) détient la majorité du capital souscrit de l’entreprise, ou
 
-   Aux fins de l’application des deux alinéas qui précèdent, les droits de vote et de nomination que détient l’entreprise qui exerce le contrôle comprennent ceux de toute autre entreprise contrôlée ainsi que ceux de toute personne ou tout organisme agissant en son propre nom, mais pour le compte de l’entreprise qui exerce le contrôle ou de toute autre entreprise contrôlée.
+b) dispose de la majorité des voix attachées aux parts émises par l’entreprise, ou
 
-   Une entreprise n’est pas une entreprise qui exerce le contrôle d’une autre entreprise dont elle détient des participations, lorsqu’il s’agit d’une société visée à l’article 3, paragraphe 5, points a) ou c) du [règlement (CEE) N° 139/2004](https://legilux.public.lu/eli/reg_ue/2004/139/jo) du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises.
+c) peut nommer plus de la moitié des membres du conseil d’administration, de direction ou de surveillance de l’entreprise.
 
-   Une influence dominante au sens des dispositions qui précèdent n’est pas présumée en raison du seul fait qu’une personne dispose d’un mandat en exécution de la législation relative à l’insolvabilité, à la cessation des paiements ou à la faillite.
+Si plusieurs entreprises remplissent les critères précités, l’entreprise remplissant la condition sous c) de l’alinéa qui précède est présumée être l’entreprise qui exerce le contrôle, sans préjudice de la preuve qu’une autre entreprise exerce une influence dominante.
 
-   La législation applicable pour déterminer si une entreprise est une entreprise qui exerce le contrôle au sens des dispositions qui précèdent est celle de l’Etat membre dont relève l’entreprise en question.
+Aux fins de l’application des deux alinéas qui précèdent, les droits de vote et de nomination que détient l’entreprise qui exerce le contrôle comprennent ceux de toute autre entreprise contrôlée ainsi que ceux de toute personne ou tout organisme agissant en son propre nom, mais pour le compte de l’entreprise qui exerce le contrôle ou de toute autre entreprise contrôlée.
 
-   Au cas où la législation régissant l’entreprise concernée conformément à l’alinéa qui précède n’est pas celle d’un des Etats membres, la législation luxembourgeoise est applicable pour déterminer si l’entreprise est une entreprise qui exerce le contrôle au cas où le représentant de l’entreprise est établi sur le territoire du Grand-Duché de Luxembourg, ou, à défaut d’un tel représentant, la direction centrale de l’établissement ou de l’entreprise du groupe employant le plus grand nombre de travailleurs est établie sur le territoire du Grand-Duché de Luxembourg;
-4. la «filiale ou établissement concerné»: une filiale ou un établissement d’une société participante, qui deviendrait filiale ou établissement de la SE lors de la constitution de celle-ci;
-5. les «représentants des travailleurs»: les représentants des travailleurs prévus par la législation et/ou la pratique nationales;
-6. l’«organe de représentation»: l’organe représentant les travailleurs, institué par les accords conclus avec le groupe spécial de négociation ou conformément aux dispositions de référence afin de mettre en œuvre l’information et la consultation des travailleurs d’une SE et de ses filiales et établissements situés dans un Etat membre et, le cas échéant, d’exercer les droits de participation liés à la SE;
-7. le «groupe spécial de négociation»: le groupe constitué afin de négocier avec l’organe compétent des sociétés participantes ou de la SE, la fixation de modalités relatives à l’implication des travailleurs au sein de la SE;
-8. l’«implication des travailleurs»: l’information, la consultation, la participation et tout autre mécanisme par lequel les représentants des travailleurs peuvent exercer une influence sur les décisions à prendre au sein de l’entreprise;
-9. l’«information»: le fait que l’organe représentant les travailleurs et/ou les représentants des travailleurs sont informés, par l’organe compétent de la SE, sur les questions qui concernent la SE elle-même et toute filiale ou tout établissement situé dans un autre Etat membre ou sur les questions qui excèdent les pouvoirs des instances de décision d’un Etat membre, cette information se faisant à un moment, d’une façon et avec un contenu qui permettent aux représentants des travailleurs d’évaluer en profondeur l’incidence éventuelle et, le cas échéant, de préparer des consultations avec l’organe compétent de la SE;
-10. la «consultation»: l’instauration d’un dialogue et l’échange de vues entre l’organe représentant les travailleurs et/ou les représentants des travailleurs et l’organe compétent de la SE, à un moment, d’une façon et avec un contenu qui permettent aux représentants des travailleurs, sur la base des informations fournies, d’exprimer un avis sur les mesures envisagées par l’organe compétent, qui pourra être pris en considération dans le cadre du processus décisionnel au sein de la SE;
-11. la «participation»: l’influence qu’a l’organe représentant les travailleurs et/ou les représentants des travailleurs sur les affaires d’une société:
+Une entreprise n’est pas une entreprise qui exerce le contrôle d’une autre entreprise dont elle détient des participations, lorsqu’il s’agit d’une société visée à l’article 3, paragraphe 5, points a) ou c) du [règlement (CEE) N° 139/2004](https://legilux.public.lu/eli/reg_ue/2004/139/jo) du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises.
 
-   - en exerçant leur droit d’élire ou de désigner certains membres de l’organe de surveillance ou d’administration de la société; ou
-   - en exerçant leur droit de recommander la désignation d’une partie ou de l’ensemble des membres de l’organe de surveillance ou d’administration de la société et/ou de s’y opposer;
-12. l’«Etat membre»: un Etat membre de l’Union européenne et les autres pays membres de l’Espace économique européen visés par la
+Une influence dominante au sens des dispositions qui précèdent n’est pas présumée en raison du seul fait qu’une personne dispose d’un mandat en exécution de la législation relative à l’insolvabilité, à la cessation des paiements ou à la faillite.
 
-   [directive 2001/86/CE](https://legilux.public.lu/eli/dir_ue/2001/86/jo) du Conseil du 8 octobre 2001 complétant le statut de la société européenne pour ce qui concerne l’implication des travailleurs;
-13. les «dispositions de référence»: les dispositions des articles L. 443-1 à L. 443-6.
+La législation applicable pour déterminer si une entreprise est une entreprise qui exerce le contrôle au sens des dispositions qui précèdent est celle de l’Etat membre dont relève l’entreprise en question.
+
+Au cas où la législation régissant l’entreprise concernée conformément à l’alinéa qui précède n’est pas celle d’un des Etats membres, la législation luxembourgeoise est applicable pour déterminer si l’entreprise est une entreprise qui exerce le contrôle au cas où le représentant de l’entreprise est établi sur le territoire du Grand-Duché de Luxembourg, ou, à défaut d’un tel représentant, la direction centrale de l’établissement ou de l’entreprise du groupe employant le plus grand nombre de travailleurs est établie sur le territoire du Grand-Duché de Luxembourg;
+
+4\. la «filiale ou établissement concerné»: une filiale ou un établissement d’une société participante, qui deviendrait filiale ou établissement de la SE lors de la constitution de celle-ci;
+
+5\. les «représentants des travailleurs»: les représentants des travailleurs prévus par la législation et/ou la pratique nationales;
+
+6\. l’«organe de représentation»: l’organe représentant les travailleurs, institué par les accords conclus avec le groupe spécial de négociation ou conformément aux dispositions de référence afin de mettre en œuvre l’information et la consultation des travailleurs d’une SE et de ses filiales et établissements situés dans un Etat membre et, le cas échéant, d’exercer les droits de participation liés à la SE;
+
+7\. le «groupe spécial de négociation»: le groupe constitué afin de négocier avec l’organe compétent des sociétés participantes ou de la SE, la fixation de modalités relatives à l’implication des travailleurs au sein de la SE;
+
+8\. l’«implication des travailleurs»: l’information, la consultation, la participation et tout autre mécanisme par lequel les représentants des travailleurs peuvent exercer une influence sur les décisions à prendre au sein de l’entreprise;
+
+9\. l’«information»: le fait que l’organe représentant les travailleurs et/ou les représentants des travailleurs sont informés, par l’organe compétent de la SE, sur les questions qui concernent la SE elle-même et toute filiale ou tout établissement situé dans un autre Etat membre ou sur les questions qui excèdent les pouvoirs des instances de décision d’un Etat membre, cette information se faisant à un moment, d’une façon et avec un contenu qui permettent aux représentants des travailleurs d’évaluer en profondeur l’incidence éventuelle et, le cas échéant, de préparer des consultations avec l’organe compétent de la SE;
+
+10\. la «consultation»: l’instauration d’un dialogue et l’échange de vues entre l’organe représentant les travailleurs et/ou les représentants des travailleurs et l’organe compétent de la SE, à un moment, d’une façon et avec un contenu qui permettent aux représentants des travailleurs, sur la base des informations fournies, d’exprimer un avis sur les mesures envisagées par l’organe compétent, qui pourra être pris en considération dans le cadre du processus décisionnel au sein de la SE;
+
+11\. la «participation»: l’influence qu’a l’organe représentant les travailleurs et/ou les représentants des travailleurs sur les affaires d’une société:
+
+aash en exerçant leur droit d’élire ou de désigner certains membres de l’organe de surveillance ou d’administration de la société; ou
+
+bash en exerçant leur droit de recommander la désignation d’une partie ou de l’ensemble des membres de l’organe de surveillance ou d’administration de la société et/ou de s’y opposer;
+
+12\. l’«Etat membre»: un Etat membre de l’Union européenne et les autres pays membres de l’Espace économique européen visés par la [directive 2001/86/CE](https://legilux.public.lu/eli/dir_ue/2001/86/jo) du Conseil du 8 octobre 2001 complétant le statut de la société européenne pour ce qui concerne l’implication des travailleurs;
+
+13\. les «dispositions de référence»: les dispositions des articles L. 443-1 à L. 443-6.
 
 #### Chapitre 2 — Négociation d’un accord
 
@@ -9125,8 +9721,9 @@ Ils communiquent aux représentants des travailleurs des sociétés participante
 
 (2) A cet effet, un groupe spécial de négociation représentant les travailleurs des sociétés participantes ou des filiales ou établissements concernés est créé conformément aux dispositions ci-après:
 
-1. Les membres du groupe spécial de négociation sont élus ou désignés dans chaque Etat membre selon les modes prévus dans les dispositions nationales pertinentes. Les sièges sont répartis en proportion du nombre de travailleurs employés dans chaque Etat membre au moment de la création du groupe spécial de négociation par les sociétés participantes et les filiales ou établissements concernés, en allouant pour chaque Etat membre un siège par tranche de travailleurs employés dans cet Etat membre qui représente 10% du nombre de travailleurs employés par les sociétés participantes et les filiales ou établissements concernés dans l’ensemble des Etats membres, ou une fraction de ladite tranche.
-2. Dans le cas d’une SE constituée par voie de fusion, il y aura lieu d’élire ou de désigner des membres supplémentaires du groupe spécial de négociation si, conformément aux règles régissant dans chaque Etat membre l’élection ou la désignation des membres du groupe spécial de négociation, les travailleurs d’une ou de plusieurs sociétés participantes qui, selon le projet, cesseront d’avoir une existence juridique propre après l’immatriculation de la SE ne sont pas spécifiquement représentés par des membres du groupe spécial de négociation employés par la ou les sociétés en question ou désignés à titre exclusif par les travailleurs desdites sociétés.
+1\) Les membres du groupe spécial de négociation sont élus ou désignés dans chaque Etat membre selon les modes prévus dans les dispositions nationales pertinentes. Les sièges sont répartis en proportion du nombre de travailleurs employés dans chaque Etat membre au moment de la création du groupe spécial de négociation par les sociétés participantes et les filiales ou établissements concernés, en allouant pour chaque Etat membre un siège par tranche de travailleurs employés dans cet Etat membre qui représente 10% du nombre de travailleurs employés par les sociétés participantes et les filiales ou établissements concernés dans l’ensemble des Etats membres, ou une fraction de ladite tranche.
+
+2\) Dans le cas d’une SE constituée par voie de fusion, il y aura lieu d’élire ou de désigner des membres supplémentaires du groupe spécial de négociation si, conformément aux règles régissant dans chaque Etat membre l’élection ou la désignation des membres du groupe spécial de négociation, les travailleurs d’une ou de plusieurs sociétés participantes qui, selon le projet, cesseront d’avoir une existence juridique propre après l’immatriculation de la SE ne sont pas spécifiquement représentés par des membres du groupe spécial de négociation employés par la ou les sociétés en question ou désignés à titre exclusif par les travailleurs desdites sociétés.
 
 Ces sièges supplémentaires sont attribués à des sociétés d’Etats membres différents visées à l’alinéa précédent selon l’ordre décroissant du nombre de travailleurs qu’elles emploient, leur nombre ne pouvant pas dépasser 20% du nombre de membres élus ou désignés conformément au point 1).
 
@@ -9150,8 +9747,9 @@ Chaque poste doit être pourvu d’un membre effectif et d’un membre suppléan
 
 Les fonctions de membre effectif ou suppléant du groupe spécial de négociation prennent fin:
 
-- lorsqu’ils ont été élus ou désignés parmi les salariés, quand la relation de travail cesse;
-- lorsqu’ils ont été élus ou désignés parmi les représentants d’une organisation syndicale, quand ils cessent de faire partie de celle-ci.
+aash lorsqu’ils ont été élus ou désignés parmi les salariés, quand la relation de travail cesse;
+
+bash lorsqu’ils ont été élus ou désignés parmi les représentants d’une organisation syndicale, quand ils cessent de faire partie de celle-ci.
 
 Sauf décision contraire du groupe spécial de négociation, un nouveau suppléant sera élu ou désigné de la même manière que le suppléant initial en cas de remplacement définitif d’un membre effectif ou lorsque les fonctions du suppléant ont pris fin.
 
@@ -9195,8 +9793,9 @@ A cet effet, les organes compétents des sociétés participantes informent le g
 
 Toutefois, si le résultat des négociations devait entraîner une réduction des droits de participation, la majorité requise pour pouvoir décider d’adopter un tel accord est constituée par les voix des deux tiers des membres du groupe spécial de négociation représentant au moins les deux tiers des travailleurs, ce chiffre incluant les voix de membres représentant des travailleurs employés dans au moins deux Etats membres,
 
-- dans le cas d’une SE constituée par voie de fusion, si la participation concerne au moins 25% du nombre total de travailleurs employés par les sociétés participantes, ou
-- dans le cas d’une SE constituée par création d’une société holding ou par constitution d’une filiale, si la participation concerne au moins 50% du nombre total des travailleurs des sociétés participantes.
+aash dans le cas d’une SE constituée par voie de fusion, si la participation concerne au moins 25% du nombre total de travailleurs employés par les sociétés participantes, ou
+
+bash dans le cas d’une SE constituée par création d’une société holding ou par constitution d’une filiale, si la participation concerne au moins 50% du nombre total des travailleurs des sociétés participantes.
 
 On entend par réduction des droits de participation une proportion de membres des organes de la SE au sens de l’article L. 441-2, point 11), qualitativement inférieure à la proportion la plus haute existant au sein des sociétés participantes. Une telle réduction suppose que le nouveau mode de participation aboutisse à une réelle diminution d’influence des travailleurs. L’appréciation tiendra compte notamment de la nature de l’organe dans lequel s’exerceront les droits de participation et de la portée concrète de ces droits.
 
@@ -9220,14 +9819,21 @@ Dans le cas d’une SE constituée par transformation, le présent paragraphe ne
 
 (1) Sans préjudice de l’autonomie des parties, et sous réserve du paragraphe 3, l’accord visé au paragraphe 1 <sup>er</sup> de l’article L. 442-3 conclu entre les organes compétents des sociétés participantes et le groupe spécial de négociation fixe:
 
-1. le champ d’action de l’accord;
-2. la composition, le nombre de membres et la répartition des sièges de l’organe de représentation qui sera l’interlocuteur de l’organe compétent de la SE dans le cadre des modalités relatives à l’information et à la consultation des travailleurs de la SE et de ses filiales ou établissements;
-3. les attributions et la procédure prévue pour l’information et la consultation de l’organe de représentation;
-4. la fréquence des réunions de l’organe de représentation;
-5. les ressources financières et matérielles à allouer à l’organe de représentation;
-6. si, au cours des négociations, les parties décident d’instituer une ou plusieurs procédures d’information et de consultation au lieu d’instituer un organe de représentation, les modalités de mise en œuvre de ces procédures;
-7. si, au cours des négociations, les parties décident d’arrêter des modalités de participation, la teneur de ces dispositions, y compris (le cas échéant) le nombre de membres de l’organe d’administration ou de surveillance de la SE que les travailleurs auront le droit d’élire, de désigner, de recommander ou à la désignation desquels ils pourront s’opposer, les procédures à suivre pour que les travailleurs puissent élire, désigner ou recommander ces membres ou s’opposer à leur désignation, ainsi que leurs droits;
-8. la date d’entrée en vigueur de l’accord et sa durée, les cas dans lesquels l’accord devrait être renégocié et la procédure pour sa renégociation.
+1\. le champ d’action de l’accord;
+
+2\. la composition, le nombre de membres et la répartition des sièges de l’organe de représentation qui sera l’interlocuteur de l’organe compétent de la SE dans le cadre des modalités relatives à l’information et à la consultation des travailleurs de la SE et de ses filiales ou établissements;
+
+3\. les attributions et la procédure prévue pour l’information et la consultation de l’organe de représentation;
+
+4\. la fréquence des réunions de l’organe de représentation;
+
+5\. les ressources financières et matérielles à allouer à l’organe de représentation;
+
+6\. si, au cours des négociations, les parties décident d’instituer une ou plusieurs procédures d’information et de consultation au lieu d’instituer un organe de représentation, les modalités de mise en œuvre de ces procédures;
+
+7\. si, au cours des négociations, les parties décident d’arrêter des modalités de participation, la teneur de ces dispositions, y compris (le cas échéant) le nombre de membres de l’organe d’administration ou de surveillance de la SE que les travailleurs auront le droit d’élire, de désigner, de recommander ou à la désignation desquels ils pourront s’opposer, les procédures à suivre pour que les travailleurs puissent élire, désigner ou recommander ces membres ou s’opposer à leur désignation, ainsi que leurs droits;
+
+8\. la date d’entrée en vigueur de l’accord et sa durée, les cas dans lesquels l’accord devrait être renégocié et la procédure pour sa renégociation.
 
 (2) L’accord n’est pas soumis, sauf dispositions contraires de cet accord, aux dispositions de référence visées ci-après.
 
@@ -9247,26 +9853,33 @@ L’accord négocié doit revêtir une forme écrite. Il oblige la SE de même q
 
 (1) Les dispositions de référence sont applicables aux SE fixant leur siège au Grand-Duché de Luxembourg dès leur immatriculation:
 
-1. lorsque les parties en conviennent ainsi,
-2. lorsque, dans le délai visé à l’article L. 442-3, paragraphe 2, aucun accord n’a été conclu et
+1\. lorsque les parties en conviennent ainsi,
 
-   - que l’organe compétent de chacune des sociétés participantes décide néanmoins de poursuivre l’immatriculation de la SE, et
-   - que le groupe spécial de négociation n’a pas pris la décision prévue à l’article L. 442-3, paragraphe 5,
+2\. lorsque, dans le délai visé à l’article L. 442-3, paragraphe 2, aucun accord n’a été conclu et
 
-   ou
-3. lorsque l’accord visé à l’article L. 442-5 est frappé de nullité.
+aash que l’organe compétent de chacune des sociétés participantes décide néanmoins de poursuivre l’immatriculation de la SE, et
+
+bash que le groupe spécial de négociation n’a pas pris la décision prévue à l’article L. 442-3, paragraphe 5,
+
+ou
+
+3\. lorsque l’accord visé à l’article L. 442-5 est frappé de nullité.
 
 (2) Toutefois, les dispositions de référence prévues aux articles L. 443-5 et L. 443-6 ne s’appliquent que:
 
-1. dans le cas d’une SE constituée par transformation, si les règles d’un Etat membre imposant la participation des travailleurs dans l’organe d’administration ou de surveillance s’appliquaient à une société transformée en SE;
-2. dans le cas d’une SE constituée par fusion:
+1\. dans le cas d’une SE constituée par transformation, si les règles d’un Etat membre imposant la participation des travailleurs dans l’organe d’administration ou de surveillance s’appliquaient à une société transformée en SE;
 
-   - si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant au moins 25% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes; ou
-   - si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant moins de 25% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes et si le groupe spécial de négociation en décide ainsi;
-3. dans le cas d’une SE constituée par la création d’une société holding ou la constitution d’une filiale:
+2\. dans le cas d’une SE constituée par fusion:
 
-   - si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant au moins 50% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes; ou
-   - si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant moins de 50% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes et si le groupe spécial de négociation en décide ainsi.
+aash si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant au moins 25% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes; ou
+
+bash si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant moins de 25% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes et si le groupe spécial de négociation en décide ainsi;
+
+3\. dans le cas d’une SE constituée par la création d’une société holding ou la constitution d’une filiale:
+
+aash si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant au moins 50% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes; ou
+
+bash si, avant l’immatriculation de la SE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés participantes en couvrant moins de 50% du nombre total des travailleurs employés dans l’ensemble des sociétés participantes et si le groupe spécial de négociation en décide ainsi.
 
 S’il y avait plus d’une forme de participation au sein des différentes sociétés participantes, le groupe spécial de négociation décide laquelle de ces formes doit être instaurée dans la SE. Le groupe spécial de négociation informe les organes compétents des sociétés participantes de sa décision. Celle-ci doit être prise dans un délai de deux mois à compter du moment où les organes compétents des sociétés participantes ont invité le groupe spécial de négociation à se prononcer. En l’absence de décision du groupe spécial de négociation, il appartient aux organes compétents des sociétés participantes de choisir la forme de participation. Ils en informent le groupe spécial de négociation.
 
@@ -9328,28 +9941,35 @@ Les élections auront lieu sous le contrôle de l’Inspection du travail et des
 
 La compétence et les pouvoirs de l’organe de représentation institué dans une SE ayant son siège statutaire au Grand-Duché de Luxembourg sont régis par les règles ci-après:
 
-1. La compétence de l’organe de représentation est limitée aux questions qui concernent la SE elle-même ou toute filiale ou tout établissement situés dans un autre Etat membre, ou qui excèdent les pouvoirs des instances de décision dans un seul Etat membre.
-2. Sans préjudice des réunions tenues conformément au point 3), l’organe de représentation a le droit d’être informé et consulté et, à cette fin, de rencontrer l’organe d’administration ou de direction de la SE au moins une fois par an, sur la base de rapports réguliers établis par l’organe d’administration ou de direction, au sujet de l’évolution des activités de la SE et de ses perspectives. Les directions locales en sont informées.
+1\) La compétence de l’organe de représentation est limitée aux questions qui concernent la SE elle-même ou toute filiale ou tout établissement situés dans un autre Etat membre, ou qui excèdent les pouvoirs des instances de décision dans un seul Etat membre.
 
-   L’organe d’administration ou de direction de la SE fournit à l’organe de représentation l’ordre du jour de l’organe d’administration ou, le cas échéant, de l’organe de direction et de surveillance, ainsi que des copies de tous les documents soumis à l’assemblée générale de ses actionnaires. La réunion porte notamment sur la structure, la situation économique et financière, l’évolution probable des activités, de la production et des ventes, la situation et l’évolution probable de l’emploi, les investissements, les changements substantiels concernant l’organisation, l’introduction de nouvelles méthodes de travail ou de nouveaux procédés de production, les transferts de production, les fusions, les réductions de capacité ou les fermetures d’entreprises, d’établissements ou de parties importantes de ceux-ci et les licenciements collectifs.
-3. Lorsque des circonstances exceptionnelles interviennent qui affectent considérablement les intérêts des travailleurs, notamment en cas de délocalisation, de transferts, de fermeture d’entreprises ou d’établissements ou de licenciements collectifs, l’organe de représentation a le droit d’en être informé. L’organe de représentation ou, s’il en décide ainsi, notamment pour des raisons d’urgence, le comité restreint, a le droit de rencontrer, à sa demande, l’organe d’administration ou de direction de la SE ou tout autre niveau de direction plus approprié au sein de la SE ayant la compétence de prendre des décisions propres, afin d’être informé et consulté sur les mesures affectant considérablement les intérêts des travailleurs.
+2\) Sans préjudice des réunions tenues conformément au point 3), l’organe de représentation a le droit d’être informé et consulté et, à cette fin, de rencontrer l’organe d’administration ou de direction de la SE au moins une fois par an, sur la base de rapports réguliers établis par l’organe d’administration ou de direction, au sujet de l’évolution des activités de la SE et de ses perspectives. Les directions locales en sont informées.
 
-   Lorsque l’organe d’administration ou de direction décide de ne pas suivre l’avis exprimé par l’organe de représentation, ce dernier a le droit de rencontrer à nouveau l’organe d’administration ou de direction de la SE pour tenter de parvenir à un accord ou de concilier leurs points de vues.
+L’organe d’administration ou de direction de la SE fournit à l’organe de représentation l’ordre du jour de l’organe d’administration ou, le cas échéant, de l’organe de direction et de surveillance, ainsi que des copies de tous les documents soumis à l’assemblée générale de ses actionnaires. La réunion porte notamment sur la structure, la situation économique et financière, l’évolution probable des activités, de la production et des ventes, la situation et l’évolution probable de l’emploi, les investissements, les changements substantiels concernant l’organisation, l’introduction de nouvelles méthodes de travail ou de nouveaux procédés de production, les transferts de production, les fusions, les réductions de capacité ou les fermetures d’entreprises, d’établissements ou de parties importantes de ceux-ci et les licenciements collectifs.
 
-   Dans le cas d’une réunion organisée avec le comité restreint, les membres de l’organe de représentation qui représentent des travailleurs directement concernés par les mesures en question ont aussi le droit de participer.
+3\) Lorsque des circonstances exceptionnelles interviennent qui affectent considérablement les intérêts des travailleurs, notamment en cas de délocalisation, de transferts, de fermeture d’entreprises ou d’établissements ou de licenciements collectifs, l’organe de représentation a le droit d’en être informé. L’organe de représentation ou, s’il en décide ainsi, notamment pour des raisons d’urgence, le comité restreint, a le droit de rencontrer, à sa demande, l’organe d’administration ou de direction de la SE ou tout autre niveau de direction plus approprié au sein de la SE ayant la compétence de prendre des décisions propres, afin d’être informé et consulté sur les mesures affectant considérablement les intérêts des travailleurs.
 
-   Les réunions visées ci-dessus ne portent pas atteinte aux prérogatives de l’organe d’administration ou de direction et notamment ne l’empêchent pas de prendre toute décision avant la réunion avec l’organe de représentation.
-4. Les réunions d’information et de consultation sont présidées par le président de l’organe d’administration ou de direction de la SE.
+Lorsque l’organe d’administration ou de direction décide de ne pas suivre l’avis exprimé par l’organe de représentation, ce dernier a le droit de rencontrer à nouveau l’organe d’administration ou de direction de la SE pour tenter de parvenir à un accord ou de concilier leurs points de vues.
 
-   Avant toute réunion avec l’organe d’administration ou de direction de la SE, l’organe de représentation ou le comité restreint, le cas échéant élargi conformément au point 3), troisième alinéa, est habilité à se réunir sans que les repréentants de l’organe d’administration ou de direction soient présents.
-5. Sans préjudice de l’article L. 444-2, les membres de l’organe de représentation informent les représentants des travailleurs de la SE et de ses filiales et établissements de la teneur et des résultats des procédures d’information et de consultation.
-6. L’organe de représentation ou le comité restreint peuvent être assistés par des experts de leur choix pour autant que ce soit nécessaire pour l’accomplissement de leur tâche.
-7. Dans la mesure où cela est nécessaire pour l’accomplissement de leurs tâches, les membres de l’organe de représentation ont droit à un congé de formation sans perte de salaire.
-8. Les dépenses de l’organe de représentation sont supportées par la SE. Sauf accord contraire celle-ci met à disposition dans la mesure nécessaire pour permettre à l’organe de représentation, et, le cas échéant, au comité restreint, de fonctionner de manière appropriée, les locaux et les moyens matériels nécessaires. La SE prend en charge, dans la mesure du nécessaire pour permettre à l’organe de représentation et au comité restreint de fonctionner de manière appropriée, les frais de déplacement et de séjour de ses membres. En cas de besoin, et dans la mesure du nécessaire pour permettre à l’organe de représentation et/ou au comité restreint de fonctionner de manière appropriée, la SE met à leur disposition les interprètes et le personnel administratif.
+Dans le cas d’une réunion organisée avec le comité restreint, les membres de l’organe de représentation qui représentent des travailleurs directement concernés par les mesures en question ont aussi le droit de participer.
 
-   En ce qui concerne toutefois les experts, désignés par l’organe de représentation, et, le cas échéant, par le comité restreint, la prise en charge financière par la SE est limitée à un expert par tranche de 9 membres de l’organe de représentation, sauf accord contraire préalable. La prise en charge précitée se limite aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
+Les réunions visées ci-dessus ne portent pas atteinte aux prérogatives de l’organe d’administration ou de direction et notamment ne l’empêchent pas de prendre toute décision avant la réunion avec l’organe de représentation.
 
-   De même la prise en charge financière par la SE des réunions de l’organe de représentation ou du comité restreint en dehors de la présence de l’organe d’administration ou de direction de la SE est limitée à une réunion par an, à laquelle s’ajoute une réunion en dehors de la présence de ses organes en cas de réunion d’information et de consultation en cas de circonstances exceptionnelles.
+4\) Les réunions d’information et de consultation sont présidées par le président de l’organe d’administration ou de direction de la SE.
+
+Avant toute réunion avec l’organe d’administration ou de direction de la SE, l’organe de représentation ou le comité restreint, le cas échéant élargi conformément au point 3), troisième alinéa, est habilité à se réunir sans que les repréentants de l’organe d’administration ou de direction soient présents.
+
+5\) Sans préjudice de l’article L. 444-2, les membres de l’organe de représentation informent les représentants des travailleurs de la SE et de ses filiales et établissements de la teneur et des résultats des procédures d’information et de consultation.
+
+6\) L’organe de représentation ou le comité restreint peuvent être assistés par des experts de leur choix pour autant que ce soit nécessaire pour l’accomplissement de leur tâche.
+
+7\) Dans la mesure où cela est nécessaire pour l’accomplissement de leurs tâches, les membres de l’organe de représentation ont droit à un congé de formation sans perte de salaire.
+
+8\) Les dépenses de l’organe de représentation sont supportées par la SE. Sauf accord contraire celle-ci met à disposition dans la mesure nécessaire pour permettre à l’organe de représentation, et, le cas échéant, au comité restreint, de fonctionner de manière appropriée, les locaux et les moyens matériels nécessaires. La SE prend en charge, dans la mesure du nécessaire pour permettre à l’organe de représentation et au comité restreint de fonctionner de manière appropriée, les frais de déplacement et de séjour de ses membres. En cas de besoin, et dans la mesure du nécessaire pour permettre à l’organe de représentation et/ou au comité restreint de fonctionner de manière appropriée, la SE met à leur disposition les interprètes et le personnel administratif.
+
+En ce qui concerne toutefois les experts, désignés par l’organe de représentation, et, le cas échéant, par le comité restreint, la prise en charge financière par la SE est limitée à un expert par tranche de 9 membres de l’organe de représentation, sauf accord contraire préalable. La prise en charge précitée se limite aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
+
+De même la prise en charge financière par la SE des réunions de l’organe de représentation ou du comité restreint en dehors de la présence de l’organe d’administration ou de direction de la SE est limitée à une réunion par an, à laquelle s’ajoute une réunion en dehors de la présence de ses organes en cas de réunion d’information et de consultation en cas de circonstances exceptionnelles.
 
 ##### *Section 5.* — *Dispositions de référence pour la participation*
 
@@ -9357,8 +9977,9 @@ La compétence et les pouvoirs de l’organe de représentation institué dans u
 
 (1) La participation des travailleurs dans la SE est régie par les dispositions suivantes:
 
-1. Dans le cas d’une SE constituée par transformation, si les règles d’un Etat membre relatives à la participation des travailleurs dans l’organe d’administration ou de surveillance s’appliquaient avant l’immatriculation, tous les éléments de la participation des travailleurs continuent de s’appliquer à la SE.
-2. Dans les autres cas de constitution d’une SE, les travailleurs de la SE, de ses filiales et établissements et/ou leur organe de représentation ont le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation d’un nombre de membres de l’organe d’administration ou de surveillance de la SE qualitativement égal à la plus élevée des proportions en vigueur dans les sociétés participantes concernées avant l’immatriculation de la SE. L’équivalence exigée reposera sur une comparaison concrète entre la portée que revêtait le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation de membres de l’organe d’administration ou de surveillance dans la société participante concernée et celle qu’il reçoit dans la SE, qui tient compte de la nature des organes vis-à-vis desquels s’exerce le droit de participation. Le maintien du niveau de participation devra, par ailleurs, s’apprécier de manière globale en tenant compte du nombre de travailleurs représentés avant la constitution de la SE et le nombre de travailleurs représentés à la suite de la constitution de la SE.
+1\) Dans le cas d’une SE constituée par transformation, si les règles d’un Etat membre relatives à la participation des travailleurs dans l’organe d’administration ou de surveillance s’appliquaient avant l’immatriculation, tous les éléments de la participation des travailleurs continuent de s’appliquer à la SE.
+
+2\) Dans les autres cas de constitution d’une SE, les travailleurs de la SE, de ses filiales et établissements et/ou leur organe de représentation ont le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation d’un nombre de membres de l’organe d’administration ou de surveillance de la SE qualitativement égal à la plus élevée des proportions en vigueur dans les sociétés participantes concernées avant l’immatriculation de la SE. L’équivalence exigée reposera sur une comparaison concrète entre la portée que revêtait le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation de membres de l’organe d’administration ou de surveillance dans la société participante concernée et celle qu’il reçoit dans la SE, qui tient compte de la nature des organes vis-à-vis desquels s’exerce le droit de participation. Le maintien du niveau de participation devra, par ailleurs, s’apprécier de manière globale en tenant compte du nombre de travailleurs représentés avant la constitution de la SE et le nombre de travailleurs représentés à la suite de la constitution de la SE.
 
 (2) Sans préjudice des dispositions posées par l’article L. 443-1, paragraphe (2), si aucune des sociétés participantes n’était régie par des règles de participation avant l’immatriculation de la SE, elle n’est pas tenue d’instaurer des dispositions en matière de participation des travailleurs.
 
@@ -9426,8 +10047,9 @@ Ils ne peuvent percevoir une rémunération inférieure à celle qu’ils auraie
 
 (5) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) A défaut, et au cas où le représentant des salariés occupés au Luxembourg a un contrat de travail avec une des entreprises concernées, le crédit d’heures fixé par le paragraphe 2 de l’article L. 415-5 est majoré de la manière suivante:
 
-- au cas où les entreprises et établissements dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent régulièrement 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
-- cette majoration est de trois heures rémunérées par mois si le nombre de salariés définis à l’alinéa qui précède est de 501 au moins, et de quatre heures rémunérées par mois si ce nombre est de 1501 au moins.
+aash au cas où les entreprises et établissements dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent régulièrement 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
+
+bash cette majoration est de trois heures rémunérées par mois si le nombre de salariés définis à l’alinéa qui précède est de 501 au moins, et de quatre heures rémunérées par mois si ce nombre est de 1501 au moins.
 
 Ce crédit d’heures supplémentaires est réservé à l’usage exclusif du ou des représentants des salariés occupés au Luxembourg dans le groupe spécial de négociation et l’organe de représentation ou dans la procédure d’information et de consultation.
 
@@ -9471,8 +10093,9 @@ Le nouveau titulaire achèvera le mandat de celui qu’il remplace.
 
 Si, dans l’année suivant l’immatriculation de la SE, l’organe de représentation de la SE démontre que celle-ci a été constituée abusivement aux fins de priver les travailleurs de leurs droits d’implication, une nouvelle négociation aura lieu. Cette négociation sera régie par les règles suivantes:
 
-1. Elle aura lieu à la demande de l’organe de représentation ou des représentants des travailleurs de nouvelles filiales ou établissements de la SE.
-2. Les articles L. 442-1 à L. 443-1 s’appliquent mutatis mutandis, les références aux sociétés participantes étant remplacées par des références à la SE et ses filiales et établissements, les références au moment avant l’immatriculation de la SE étant remplacées par des références au moment où les négociations échouent et le terme «groupe spécial de négociation» étant remplacé par «l’organe de représentation».
+1\) Elle aura lieu à la demande de l’organe de représentation ou des représentants des travailleurs de nouvelles filiales ou établissements de la SE.
+
+2\) Les articles L. 442-1 à L. 443-1 s’appliquent mutatis mutandis, les références aux sociétés participantes étant remplacées par des références à la SE et ses filiales et établissements, les références au moment avant l’immatriculation de la SE étant remplacées par des références au moment où les négociations échouent et le terme «groupe spécial de négociation» étant remplacé par «l’organe de représentation».
 
 ##### *Section 6.* — *Mesures destinées à assurer le respect du présent Titre*
 
@@ -9510,13 +10133,19 @@ Une SE peut valablement être constituée et immatriculée au Luxembourg sans qu
 
 Sans préjudice des articles L. 444-2 et L. 444-6, les contestations à naître du présent Titre sont de la compétence des juridictions de travail qui connaîtront des litiges relatifs à:
 
-- la désignation ou l’élection des représentants des travailleurs occupés au Luxembourg;
-- la procédure et la conduite des négociations;
-- les accords sur l’implication des travailleurs;
-- les conditions d’application et le contenu des dispositions de référence;
-- le fonctionnement des organes de représentation et les procédures d’information et de consultation des travailleurs;
-- le statut et la protection des représentants des travailleurs;
-- la relation entre le présent Titre et d’autres dispositions visées à l’article L. 444-7.
+aash la désignation ou l’élection des représentants des travailleurs occupés au Luxembourg;
+
+bash la procédure et la conduite des négociations;
+
+cash les accords sur l’implication des travailleurs;
+
+dash les conditions d’application et le contenu des dispositions de référence;
+
+eash le fonctionnement des organes de représentation et les procédures d’information et de consultation des travailleurs;
+
+fash le statut et la protection des représentants des travailleurs;
+
+gash la relation entre le présent Titre et d’autres dispositions visées à l’article L. 444-7.
 
 ### Titre V — Implication des salariés dans la société coopérative européenne ([L. 18 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/18/n1/jo))
 
@@ -9534,44 +10163,55 @@ Le présent Titre transpose la [directive 2003/72/CE](https://legilux.public.lu/
 
 Aux fins du présent Titre, on entend par:
 
-1. la «Société coopérative européenne»: une société coopérative constituée conformément au
+1\. la «Société coopérative européenne»: une société coopérative constituée conformément au [règlement (CE) N° 1435/2003](https://legilux.public.lu/eli/reg_ue/2003/1435/jo) du Conseil du 22 juillet 2003 relatif au statut de la société coopérative européenne (SCE);
 
-   [règlement (CE) N° 1435/2003](https://legilux.public.lu/eli/reg_ue/2003/1435/jo) du Conseil du 22 juillet 2003 relatif au statut de la société coopérative européenne (SCE);
-2. les «entités juridiques participantes»: les sociétés et les entités de droit public ou privé participant directement à la constitution d’une SCE;
-3. la «filiale d’une entité juridique ou d’une société coopérative participante»: une entreprise sur laquelle ladite entité juridique ou société coopérative exerce une influence dominante.
+2\. les «entités juridiques participantes»: les sociétés et les entités de droit public ou privé participant directement à la constitution d’une SCE;
 
-   Le fait d’exercer une influence dominante est présumé établi, sans préjudice de la preuve du contraire, lorsqu’une entité juridique ou une société coopérative établie au Luxembourg, directement ou indirectement à l’égard d’une autre entité juridique ou d’une société coopérative:
+3\. la «filiale d’une entité juridique ou d’une société coopérative participante»: une entreprise sur laquelle ladite entité juridique ou société coopérative exerce une influence dominante.
 
-   1. détient la majorité du capital souscrit de l’entité juridique ou de la société coopérative, ou
-   2. dispose de la majorité des voix attachées aux parts émises par l’entité juridique ou la société coopérative, ou
-   3. peut nommer plus de la moitié des membres de l’organe d’administration, de direction ou de surveillance de l’entité juridique ou de la société coopérative.
+Le fait d’exercer une influence dominante est présumé établi, sans préjudice de la preuve du contraire, lorsqu’une entité juridique ou une société coopérative établie au Luxembourg, directement ou indirectement à l’égard d’une autre entité juridique ou d’une société coopérative:
 
-   Si plusieurs entités juridiques ou sociétés coopératives remplissent les critères précités, l’entité juridique ou la société coopérative remplissant la condition sous c) de l’alinéa qui précède est présumée être l’entité juridique ou la société coopérative qui exerce le contrôle, sans préjudice de la preuve qu’une autre entreprise exerce une influence dominante.
+a) détient la majorité du capital souscrit de l’entité juridique ou de la société coopérative, ou
 
-   Aux fins de l’application des deux alinéas qui précèdent, les droits de vote et de nomination que détient l’entité juridique ou la société coopérative qui exerce le contrôle comprennent ceux de toute autre entité juridique ou société coopérative contrôlée ainsi que ceux de toute personne ou tout organisme agissant en son propre nom, mais pour le compte de l’entité juridique ou de la société coopérative qui exerce le contrôle ou de toute autre entité juridique ou société coopérative contrôlée.
+b) dispose de la majorité des voix attachées aux parts émises par l’entité juridique ou la société coopérative, ou
 
-   Une entité juridique ou une société coopérative n’est pas une entité juridique ou une société coopérative qui exerce le contrôle d’une autre entité juridique ou une société coopérative dont elle détient des participations, lorsqu’il s’agit d’une société visée à l’article 3, paragraphe 5, points a) ou c) du [règlement (CEE) N° 139/2004](https://legilux.public.lu/eli/reg_ue/2004/139/jo) du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises.
+c) peut nommer plus de la moitié des membres de l’organe d’administration, de direction ou de surveillance de l’entité juridique ou de la société coopérative.
 
-   Une influence dominante au sens des dispositions qui précèdent n’est pas présumée en raison du seul fait qu’une personne dispose d’un mandat en exécution de la législation relative à l’insolvabilité, à la cessation des paiements ou à la faillite.
+Si plusieurs entités juridiques ou sociétés coopératives remplissent les critères précités, l’entité juridique ou la société coopérative remplissant la condition sous c) de l’alinéa qui précède est présumée être l’entité juridique ou la société coopérative qui exerce le contrôle, sans préjudice de la preuve qu’une autre entreprise exerce une influence dominante.
 
-   La législation applicable pour déterminer si une entité juridique ou une société coopérative est une entité juridique ou une société coopérative qui exerce le contrôle au sens des dispositions qui précèdent est celle de l’Etat membre dont relève l’entité juridique ou la société coopérative en question.
+Aux fins de l’application des deux alinéas qui précèdent, les droits de vote et de nomination que détient l’entité juridique ou la société coopérative qui exerce le contrôle comprennent ceux de toute autre entité juridique ou société coopérative contrôlée ainsi que ceux de toute personne ou tout organisme agissant en son propre nom, mais pour le compte de l’entité juridique ou de la société coopérative qui exerce le contrôle ou de toute autre entité juridique ou société coopérative contrôlée.
 
-   Au cas où la législation régissant l’entité juridique ou la société coopérative concernée conformément à l’alinéa qui précède n’est pas celle d’un des Etats membres, la législation luxembourgeoise est applicable pour déterminer si l’entité juridique ou la société coopérative est une entité juridique ou une société coopérative qui exerce le contrôle au cas où le représentant de l’entité juridique ou de la société coopérative est établi sur le territoire du Grand-Duché de Luxembourg, ou, à défaut d’un tel représentant, la direction centrale de l’entité juridique ou de la société coopérative employant le plus grand nombre de salariés est établie sur le territoire du Grand-Duché de Luxembourg;
-4. la «filiale ou établissement concerné»: une filiale ou un établissement d’une entité juridique participante, qui deviendrait filiale ou établissement de la SCE lors de la constitution de celle-ci;
-5. les «représentants des salariés»: les représentants des salariés prévus par la législation ou la pratique nationales;
-6. l’«organe de représentation»: l’organe représentant les salariés, institué par les accords conclus avec le groupe spécial de négociation ou conformément aux dispositions de référence afin de mettre en œuvre l’information et la consultation des salariés d’une SCE et de ses filiales et établissements situés dans un Etat membre et, le cas échéant, d’exercer les droits de participation liés à la SCE;
-7. le «groupe spécial de négociation»: le groupe constitué afin de négocier avec l’organe compétent des entités juridiques participantes la fixation de modalités relatives à l’implication des salariés au sein de la SCE;
-8. l’«implication des salariés»: l’information, la consultation, la participation et tout autre mécanisme par lequel les représentants des salariés peuvent exercer une influence sur les décisions à prendre au sein de l’entreprise;
-9. l’«information»: le fait que l’organe représentant les salariés ou les représentants des salariés sont informés, par l’organe compétent de la SCE, sur les questions qui concernent la SCE elle-même et toute filiale ou tout établissement situé dans un autre Etat membre ou sur les questions qui excèdent les pouvoirs des instances de décision d’un Etat membre, cette information se faisant à un moment, d’une façon et avec un contenu qui permettent aux représentants des salariés d’évaluer en profondeur l’incidence éventuelle et, le cas échéant, de préparer des consultations avec l’organe compétent de la SCE;
-10. la «consultation»: l’instauration d’un dialogue et l’échange de vues entre l’organe représentant les salariés ou les représentants des salariés et l’organe compétent de la SCE, à un moment, d’une façon et avec un contenu qui permettent aux représentants des salariés, sur la base des informations fournies, d’exprimer un avis sur les mesures envisagées par l’organe compétent, qui pourra être pris en considération dans le cadre du processus décisionnel au sein de la SCE;
-11. la «participation»: l’influence qu’a l’organe représentant les salariés ou les représentants des salariés sur les affaires d’une entité juridique:
+Une entité juridique ou une société coopérative n’est pas une entité juridique ou une société coopérative qui exerce le contrôle d’une autre entité juridique ou une société coopérative dont elle détient des participations, lorsqu’il s’agit d’une société visée à l’article 3, paragraphe 5, points a) ou c) du [règlement (CEE) N° 139/2004](https://legilux.public.lu/eli/reg_ue/2004/139/jo) du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises.
 
-   - en exerçant leur droit d’élire ou de désigner certains membres de l’organe de surveillance ou d’administration de l’entité juridique; ou
-   - en exerçant leur droit de recommander la désignation d’une partie ou de l’ensemble des membres de l’organe de surveillance ou d’administration de la société ou de s’y opposer;
-12. l’«Etat membre»: un Etat membre de l’Union européenne et les autres pays membres de l’Espace économique européen visés par la
+Une influence dominante au sens des dispositions qui précèdent n’est pas présumée en raison du seul fait qu’une personne dispose d’un mandat en exécution de la législation relative à l’insolvabilité, à la cessation des paiements ou à la faillite.
 
-   [directive 2003/72/CE](https://legilux.public.lu/eli/dir_ue/2003/72/jo) du Conseil du 22 juillet 2003 complétant le statut de la société coopérative européenne pour ce qui concerne l’implication des salariés;
-13. les «dispositions de référence»: les dispositions des articles L. 453-1 à L. 453-6.
+La législation applicable pour déterminer si une entité juridique ou une société coopérative est une entité juridique ou une société coopérative qui exerce le contrôle au sens des dispositions qui précèdent est celle de l’Etat membre dont relève l’entité juridique ou la société coopérative en question.
+
+Au cas où la législation régissant l’entité juridique ou la société coopérative concernée conformément à l’alinéa qui précède n’est pas celle d’un des Etats membres, la législation luxembourgeoise est applicable pour déterminer si l’entité juridique ou la société coopérative est une entité juridique ou une société coopérative qui exerce le contrôle au cas où le représentant de l’entité juridique ou de la société coopérative est établi sur le territoire du Grand-Duché de Luxembourg, ou, à défaut d’un tel représentant, la direction centrale de l’entité juridique ou de la société coopérative employant le plus grand nombre de salariés est établie sur le territoire du Grand-Duché de Luxembourg;
+
+4\. la «filiale ou établissement concerné»: une filiale ou un établissement d’une entité juridique participante, qui deviendrait filiale ou établissement de la SCE lors de la constitution de celle-ci;
+
+5\. les «représentants des salariés»: les représentants des salariés prévus par la législation ou la pratique nationales;
+
+6\. l’«organe de représentation»: l’organe représentant les salariés, institué par les accords conclus avec le groupe spécial de négociation ou conformément aux dispositions de référence afin de mettre en œuvre l’information et la consultation des salariés d’une SCE et de ses filiales et établissements situés dans un Etat membre et, le cas échéant, d’exercer les droits de participation liés à la SCE;
+
+7\. le «groupe spécial de négociation»: le groupe constitué afin de négocier avec l’organe compétent des entités juridiques participantes la fixation de modalités relatives à l’implication des salariés au sein de la SCE;
+
+8\. l’«implication des salariés»: l’information, la consultation, la participation et tout autre mécanisme par lequel les représentants des salariés peuvent exercer une influence sur les décisions à prendre au sein de l’entreprise;
+
+9\. l’«information»: le fait que l’organe représentant les salariés ou les représentants des salariés sont informés, par l’organe compétent de la SCE, sur les questions qui concernent la SCE elle-même et toute filiale ou tout établissement situé dans un autre Etat membre ou sur les questions qui excèdent les pouvoirs des instances de décision d’un Etat membre, cette information se faisant à un moment, d’une façon et avec un contenu qui permettent aux représentants des salariés d’évaluer en profondeur l’incidence éventuelle et, le cas échéant, de préparer des consultations avec l’organe compétent de la SCE;
+
+10\. la «consultation»: l’instauration d’un dialogue et l’échange de vues entre l’organe représentant les salariés ou les représentants des salariés et l’organe compétent de la SCE, à un moment, d’une façon et avec un contenu qui permettent aux représentants des salariés, sur la base des informations fournies, d’exprimer un avis sur les mesures envisagées par l’organe compétent, qui pourra être pris en considération dans le cadre du processus décisionnel au sein de la SCE;
+
+11\. la «participation»: l’influence qu’a l’organe représentant les salariés ou les représentants des salariés sur les affaires d’une entité juridique:
+
+aash en exerçant leur droit d’élire ou de désigner certains membres de l’organe de surveillance ou d’administration de l’entité juridique; ou
+
+bash en exerçant leur droit de recommander la désignation d’une partie ou de l’ensemble des membres de l’organe de surveillance ou d’administration de la société ou de s’y opposer;
+
+12\. l’«Etat membre»: un Etat membre de l’Union européenne et les autres pays membres de l’Espace économique européen visés par la [directive 2003/72/CE](https://legilux.public.lu/eli/dir_ue/2003/72/jo) du Conseil du 22 juillet 2003 complétant le statut de la société coopérative européenne pour ce qui concerne l’implication des salariés;
+
+13\. les «dispositions de référence»: les dispositions des articles L. 453-1 à L. 453-6.
 
 #### Chapitre 2 — Négociation d’un accord
 
@@ -9583,12 +10223,13 @@ Aux fins du présent Titre, on entend par:
 
 (2) A cet effet, un groupe spécial de négociation représentant les salariés des entités juridiques participantes ou des filiales ou établissements concernés est créé conformément aux dispositions ci-après:
 
-1. Les membres du groupe spécial de négociation sont élus ou désignés dans chaque Etat membre selon les modes prévus dans les dispositions nationales. Les sièges sont répartis en proportion du nombre de salariés employés dans chaque Etat membre au moment de la création du groupe spécial de négociation par les entités juridiques participantes et les filiales ou établissements concernés, en allouant pour chaque Etat membre un siège par tranche de salariés employés dans cet Etat membre qui représente 10% du nombre de salariés employés par les entités juridiques participantes et les filiales ou établissements concernés dans l’ensemble des Etats membres, ou une fraction de ladite tranche.
-2. Dans le cas d’une SCE constituée par voie de fusion, il y aura lieu d’élire ou de désigner des membres supplémentaires du groupe spécial de négociation si, conformément aux règles régissant dans chaque Etat membre l’élection ou la désignation des membres du groupe spécial de négociation, les salariés d’une ou de plusieurs coopératives participantes qui, selon le projet, cesseront d’avoir une existence juridique propre après l’immatriculation de la SCE ne sont pas spécifiquement représentés par des membres du groupe spécial de négociation employés par la ou les sociétés coopératives en question ou désignés à titre exclusif par les salariés desdites sociétés coopératives.
+1\) Les membres du groupe spécial de négociation sont élus ou désignés dans chaque Etat membre selon les modes prévus dans les dispositions nationales. Les sièges sont répartis en proportion du nombre de salariés employés dans chaque Etat membre au moment de la création du groupe spécial de négociation par les entités juridiques participantes et les filiales ou établissements concernés, en allouant pour chaque Etat membre un siège par tranche de salariés employés dans cet Etat membre qui représente 10% du nombre de salariés employés par les entités juridiques participantes et les filiales ou établissements concernés dans l’ensemble des Etats membres, ou une fraction de ladite tranche.
 
-   Ces sièges supplémentaires sont attribués à des sociétés coopératives d’Etats membres différents visées à l’alinéa qui précède selon l’ordre décroissant du nombre de salariés qu’elles emploient, leur nombre ne pouvant pas dépasser 20% du nombre de membres élus ou désignés conformément au point 1).
+2\) Dans le cas d’une SCE constituée par voie de fusion, il y aura lieu d’élire ou de désigner des membres supplémentaires du groupe spécial de négociation si, conformément aux règles régissant dans chaque Etat membre l’élection ou la désignation des membres du groupe spécial de négociation, les salariés d’une ou de plusieurs coopératives participantes qui, selon le projet, cesseront d’avoir une existence juridique propre après l’immatriculation de la SCE ne sont pas spécifiquement représentés par des membres du groupe spécial de négociation employés par la ou les sociétés coopératives en question ou désignés à titre exclusif par les salariés desdites sociétés coopératives.
 
-   Le droit d’élire ou de désigner un membre supplémentaire cesse d’exister s’il s’avère que, conformément aux règles qui dans chaque pays régissent l’élection ou la désignation des membres du groupe spécial de négociation, cela entraînerait une double représentation des salariés des sociétés coopératives en question. Dans ce cas, le siège supplémentaire en question est, le cas échéant, attribué à la société coopérative participante suivante en termes de nombre de salariés.
+Ces sièges supplémentaires sont attribués à des sociétés coopératives d’Etats membres différents visées à l’alinéa qui précède selon l’ordre décroissant du nombre de salariés qu’elles emploient, leur nombre ne pouvant pas dépasser 20% du nombre de membres élus ou désignés conformément au point 1).
+
+Le droit d’élire ou de désigner un membre supplémentaire cesse d’exister s’il s’avère que, conformément aux règles qui dans chaque pays régissent l’élection ou la désignation des membres du groupe spécial de négociation, cela entraînerait une double représentation des salariés des sociétés coopératives en question. Dans ce cas, le siège supplémentaire en question est, le cas échéant, attribué à la société coopérative participante suivante en termes de nombre de salariés.
 
 (3) Lorsque, à la suite d’une modification du projet de constitution d’une SCE, un membre du groupe spécial de négociation ne représente plus de salariés concernés par le projet, ses fonctions prennent fin.
 
@@ -9608,8 +10249,9 @@ Chaque poste doit être pourvu d’un membre effectif et d’un membre suppléan
 
 Les fonctions de membre effectif ou suppléant du groupe spécial de négociation prennent fin:
 
-- lorsqu’ils ont été élus ou désignés parmi les salariés, quand la relation de travail cesse;
-- lorsqu’ils ont été élus ou désignés parmi les représentants d’une organisation syndicale, quand ils cessent de faire partie de celle-ci.
+aash lorsqu’ils ont été élus ou désignés parmi les salariés, quand la relation de travail cesse;
+
+bash lorsqu’ils ont été élus ou désignés parmi les représentants d’une organisation syndicale, quand ils cessent de faire partie de celle-ci.
 
 Sauf décision contraire du groupe spécial de négociation, un nouveau suppléant sera élu ou désigné de la même manière que le suppléant initial en cas de remplacement définitif d’un membre effectif ou lorsque les fonctions du suppléant ont pris fin.
 
@@ -9661,8 +10303,9 @@ Les parties peuvent décider, d’un commun accord, de prolonger les négociatio
 
 Toutefois, si le résultat des négociations devait entraîner une réduction des droits de participation, la majorité requise pour pouvoir décider d’adopter un tel accord est constituée par les voix des deux tiers des membres du groupe spécial de négociation représentant au moins les deux tiers des salariés, ce chiffre incluant les voix de membres représentant des salariés employés dans au moins deux Etats membres,
 
-- dans le cas d’une SCE constituée par voie de fusion, si la participation concerne au moins 25% du nombre total de salariés employés par les sociétés coopératives participantes, ou
-- dans le cas d’une SCE constituée par tout autre moyen, si la participation concerne au moins 50% du nombre total des salariés des entités juridiques participantes.
+aash dans le cas d’une SCE constituée par voie de fusion, si la participation concerne au moins 25% du nombre total de salariés employés par les sociétés coopératives participantes, ou
+
+bash dans le cas d’une SCE constituée par tout autre moyen, si la participation concerne au moins 50% du nombre total des salariés des entités juridiques participantes.
 
 On entend par réduction des droits de participation une proportion de membres des organes de la SCE au sens de l’article L. 451-2, point 11), qualitativement inférieure à la proportion la plus haute existant au sein des entités juridiques participantes.
 
@@ -9696,14 +10339,21 @@ A moins que l’accord visé au paragraphe 4 ci-dessus ne le stipule autrement, 
 
 (1) Sans préjudice de l’autonomie des parties, et sous réserve du paragraphe 3 ci-dessous, l’accord visé au paragraphe 1 <sup>er</sup> de l’article L. 452-3 conclu entre les organes compétents des entités juridiques participantes et le groupe spécial de négociation fixe:
 
-1. le champ d’action de l’accord;
-2. la composition, le nombre de membres et la répartition des sièges de l’organe de représentation qui sera l’interlocuteur de l’organe compétent de la SCE dans le cadre des modalités relatives à l’information et à la consultation des salariés de la SCE et de ses filiales ou établissements;
-3. les attributions et la procédure prévue pour l’information et la consultation de l’organe de représentation;
-4. la fréquence des réunions de l’organe de représentation;
-5. les ressources financières et matérielles à allouer à l’organe de représentation;
-6. si, au cours des négociations, les parties décident d’instituer une ou plusieurs procédures d’information et de consultation au lieu d’instituer un organe de représentation, les modalités de mise en œuvre de ces procédures;
-7. si, au cours des négociations, les parties décident d’arrêter des modalités de participation, la teneur de ces dispositions, y compris, le cas échéant, le nombre de membres de l’organe d’administration ou de surveillance de la SCE que les salariés auront le droit d’élire, de désigner, de recommander ou à la désignation desquels ils pourront s’opposer, les procédures à suivre pour que les salariés puissent élire, désigner ou recommander ces membres ou s’opposer à leur désignation, ainsi que leurs droits;
-8. la date d’entrée en vigueur de l’accord et sa durée, les cas dans lesquels l’accord devrait être renégocié et la procédure pour sa renégociation y compris, si cela est nécessaire, lorsqu’après la création de la SCE des modifications interviennent dans la structure de la SCE, de ses filiales et de ses établissements.
+1\. le champ d’action de l’accord;
+
+2\. la composition, le nombre de membres et la répartition des sièges de l’organe de représentation qui sera l’interlocuteur de l’organe compétent de la SCE dans le cadre des modalités relatives à l’information et à la consultation des salariés de la SCE et de ses filiales ou établissements;
+
+3\. les attributions et la procédure prévue pour l’information et la consultation de l’organe de représentation;
+
+4\. la fréquence des réunions de l’organe de représentation;
+
+5\. les ressources financières et matérielles à allouer à l’organe de représentation;
+
+6\. si, au cours des négociations, les parties décident d’instituer une ou plusieurs procédures d’information et de consultation au lieu d’instituer un organe de représentation, les modalités de mise en œuvre de ces procédures;
+
+7\. si, au cours des négociations, les parties décident d’arrêter des modalités de participation, la teneur de ces dispositions, y compris, le cas échéant, le nombre de membres de l’organe d’administration ou de surveillance de la SCE que les salariés auront le droit d’élire, de désigner, de recommander ou à la désignation desquels ils pourront s’opposer, les procédures à suivre pour que les salariés puissent élire, désigner ou recommander ces membres ou s’opposer à leur désignation, ainsi que leurs droits;
+
+8\. la date d’entrée en vigueur de l’accord et sa durée, les cas dans lesquels l’accord devrait être renégocié et la procédure pour sa renégociation y compris, si cela est nécessaire, lorsqu’après la création de la SCE des modifications interviennent dans la structure de la SCE, de ses filiales et de ses établissements.
 
 (2) L’accord n’est pas soumis, sauf dispositions contraires de cet accord, aux dispositions de référence visées ci-après.
 
@@ -9725,28 +10375,35 @@ L’accord négocié doit revêtir une forme écrite. Il oblige la SCE de même 
 
 (1) Les dispositions de référence sont applicables aux SCE fixant leur siège au Grand-Duché de Luxembourg dès leur immatriculation:
 
-1. lorsque les parties en conviennent ainsi,
-2. lorsque, dans le délai visé à l’article L. 452-3, paragraphe 2, aucun accord n’a été conclu et
+1\. lorsque les parties en conviennent ainsi,
 
-   - que l’organe compétent de chacune des entités juridiques participantes décide néanmoins de poursuivre l’immatriculation de la SCE, et
-   - que le groupe spécial de négociation n’a pas pris la décision prévue à l’article L. 452-3, paragraphe 5, ou
-3. lorsque l’accord visé à l’article L. 452-5 est frappé de nullité.
+2\. lorsque, dans le délai visé à l’article L. 452-3, paragraphe 2, aucun accord n’a été conclu et
+
+aash que l’organe compétent de chacune des entités juridiques participantes décide néanmoins de poursuivre l’immatriculation de la SCE, et
+
+bash que le groupe spécial de négociation n’a pas pris la décision prévue à l’article L. 452-3, paragraphe 5, ou
+
+3\. lorsque l’accord visé à l’article L. 452-5 est frappé de nullité.
 
 (2) Toutefois, les dispositions de référence prévues aux articles L. 453-5 et L. 453-6 ne s’appliquent que:
 
-1. dans le cas d’une SCE constituée par transformation, si les règles d’un Etat membre imposant la participation des salariés dans l’organe d’administration ou de surveillance s’appliquaient à une société coopérative transformée en SCE;
-2. dans le cas d’une SCE constituée par fusion:
+1\. dans le cas d’une SCE constituée par transformation, si les règles d’un Etat membre imposant la participation des salariés dans l’organe d’administration ou de surveillance s’appliquaient à une société coopérative transformée en SCE;
 
-   - si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés coopératives participantes en couvrant au moins 25% du nombre total des salariés employés dans l’ensemble des sociétés coopératives participantes; ou
-   - si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés coopératives participantes en couvrant moins de 25% du nombre total des salariés employés dans l’ensemble des sociétés coopératives participantes et si le groupe spécial de négociation en décide ainsi;
-3. dans le cas d’une SCE constituée par tout autre moyen:
+2\. dans le cas d’une SCE constituée par fusion:
 
-   - si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des entités juridiques participantes en couvrant au moins 50% du nombre total des salariés employés dans l’ensemble des entités juridiques participantes; ou
-   - si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des entités juridiques participantes en couvrant moins de 50% du nombre total des salariés employés dans l’ensemble des entités juridiques participantes et si le groupe spécial de négociation en décide ainsi.
+aash si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés coopératives participantes en couvrant au moins 25% du nombre total des salariés employés dans l’ensemble des sociétés coopératives participantes; ou
 
-   S’il y avait plus d’une forme de participation au sein des différentes entités juridiques participantes, le groupe spécial de négociation décide laquelle de ces formes doit être instaurée dans la SCE. Le groupe spécial de négociation informe les organes compétents des entités juridiques participantes de sa décision. Celle-ci doit être prise dans un délai de deux mois à compter du moment où les organes compétents des entités juridiques participantes ont invité le groupe spécial de négociation à se prononcer.
+bash si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des sociétés coopératives participantes en couvrant moins de 25% du nombre total des salariés employés dans l’ensemble des sociétés coopératives participantes et si le groupe spécial de négociation en décide ainsi;
 
-   En l’absence de décision du groupe spécial de négociation, il appartient aux organes compétents des entités juridiques participantes de choisir la forme de participation. Ils en informent le groupe spécial de négociation.
+3\. dans le cas d’une SCE constituée par tout autre moyen:
+
+aash si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des entités juridiques participantes en couvrant au moins 50% du nombre total des salariés employés dans l’ensemble des entités juridiques participantes; ou
+
+bash si, avant l’immatriculation de la SCE, une ou plusieurs formes de participation s’appliquaient dans une ou plusieurs des entités juridiques participantes en couvrant moins de 50% du nombre total des salariés employés dans l’ensemble des entités juridiques participantes et si le groupe spécial de négociation en décide ainsi.
+
+S’il y avait plus d’une forme de participation au sein des différentes entités juridiques participantes, le groupe spécial de négociation décide laquelle de ces formes doit être instaurée dans la SCE. Le groupe spécial de négociation informe les organes compétents des entités juridiques participantes de sa décision. Celle-ci doit être prise dans un délai de deux mois à compter du moment où les organes compétents des entités juridiques participantes ont invité le groupe spécial de négociation à se prononcer.
+
+En l’absence de décision du groupe spécial de négociation, il appartient aux organes compétents des entités juridiques participantes de choisir la forme de participation. Ils en informent le groupe spécial de négociation.
 
 (3) Les pourcentages visés aux paragraphes ci-dessus qui font référence au nombre de salariés employés sont calculés en prenant en considération le nombre de salariés présents au moment où les dispositions de référence s’appliquent conformément au paragraphe 1 <sup>er</sup> .
 
@@ -9814,28 +10471,35 @@ Les élections auront lieu sous le contrôle de l’Inspection du travail et des
 
 La compétence et les pouvoirs de l’organe de représentation institué dans une SCE ayant son siège statutaire au Grand-Duché de Luxembourg sont régis par les règles ci-après:
 
-1. La compétence de l’organe de représentation est limitée aux questions qui concernent la SCE elle-même ou toute filiale ou tout établissement situés dans un autre Etat membre, ou qui excèdent les pouvoirs des instances de décision dans un seul Etat membre.
-2. Sans préjudice des réunions tenues conformément au point 3), l’organe de représentation a le droit d’être informé et consulté et, à cette fin, de rencontrer l’organe compétent de la SCE au moins une fois par an, sur la base de rapports réguliers établis par l’organe compétent, au sujet de l’évolution des activités de la SCE et de ses perspectives. Les directions locales en sont informées.
+1\) La compétence de l’organe de représentation est limitée aux questions qui concernent la SCE elle-même ou toute filiale ou tout établissement situés dans un autre Etat membre, ou qui excèdent les pouvoirs des instances de décision dans un seul Etat membre.
 
-   L’organe compétent de la SCE fournit à l’organe de représentation l’ordre du jour de l’organe d’administration ou, le cas échéant, de l’organe de direction et de surveillance, ainsi que des copies de tous les documents soumis à l’assemblée générale de ses membres. La réunion porte notamment sur la structure, la situation économique et financière, l’évolution probable des activités, de la production et des ventes, les actions touchant à la responsabilité sociale des entreprises, la situation et l’évolution probable de l’emploi, les investissements, les changements substantiels concernant l’organisation, l’introduction de nouvelles méthodes de travail ou de nouveaux procédés de production, les transferts de production, les fusions, les réductions de capacité ou les fermetures d’entreprises, d’établissements ou de parties importantes de ceux-ci et les licenciements collectifs.
-3. Lorsque des circonstances exceptionnelles interviennent qui affectent considérablement les intérêts des salariés, notamment en cas de délocalisation, de transferts, de fermeture d’entreprises ou d’établissements ou de licenciements collectifs, l’organe de représentation a le droit d’en être informé. L’organe de représentation ou, s’il en décide ainsi, notamment pour des raisons d’urgence, le comité restreint, a le droit de rencontrer, à sa demande, l’organe compétent de la SCE ou tout autre niveau de direction plus approprié au sein de la SCE ayant la compétence de prendre des décisions propres, afin d’être informé et consulté sur les mesures affectant considérablement les intérêts des salariés.
+2\) Sans préjudice des réunions tenues conformément au point 3), l’organe de représentation a le droit d’être informé et consulté et, à cette fin, de rencontrer l’organe compétent de la SCE au moins une fois par an, sur la base de rapports réguliers établis par l’organe compétent, au sujet de l’évolution des activités de la SCE et de ses perspectives. Les directions locales en sont informées.
 
-   Lorsque l’organe compétent décide de ne pas suivre l’avis exprimé par l’organe de représentation, ce dernier a le droit de rencontrer à nouveau l’organe compétent de la SCE pour tenter de parvenir à un accord ou de concilier leurs points de vues.
+L’organe compétent de la SCE fournit à l’organe de représentation l’ordre du jour de l’organe d’administration ou, le cas échéant, de l’organe de direction et de surveillance, ainsi que des copies de tous les documents soumis à l’assemblée générale de ses membres. La réunion porte notamment sur la structure, la situation économique et financière, l’évolution probable des activités, de la production et des ventes, les actions touchant à la responsabilité sociale des entreprises, la situation et l’évolution probable de l’emploi, les investissements, les changements substantiels concernant l’organisation, l’introduction de nouvelles méthodes de travail ou de nouveaux procédés de production, les transferts de production, les fusions, les réductions de capacité ou les fermetures d’entreprises, d’établissements ou de parties importantes de ceux-ci et les licenciements collectifs.
 
-   Dans le cas d’une réunion organisée avec le comité restreint, les membres de l’organe de représentation qui représentent des salariés directement concernés par les mesures en question ont aussi le droit de participer.
+3\) Lorsque des circonstances exceptionnelles interviennent qui affectent considérablement les intérêts des salariés, notamment en cas de délocalisation, de transferts, de fermeture d’entreprises ou d’établissements ou de licenciements collectifs, l’organe de représentation a le droit d’en être informé. L’organe de représentation ou, s’il en décide ainsi, notamment pour des raisons d’urgence, le comité restreint, a le droit de rencontrer, à sa demande, l’organe compétent de la SCE ou tout autre niveau de direction plus approprié au sein de la SCE ayant la compétence de prendre des décisions propres, afin d’être informé et consulté sur les mesures affectant considérablement les intérêts des salariés.
 
-   Les réunions visées ci-dessus ne portent pas atteinte aux prérogatives de l’organe compétent et notamment ne l’empêchent pas de prendre toute décision avant la réunion avec l’organe de représentation.
-4. Les réunions d’information et de consultation sont présidées par le président de l’organe compétent de la SCE.
+Lorsque l’organe compétent décide de ne pas suivre l’avis exprimé par l’organe de représentation, ce dernier a le droit de rencontrer à nouveau l’organe compétent de la SCE pour tenter de parvenir à un accord ou de concilier leurs points de vues.
 
-   Avant toute réunion avec l’organe compétent de la SCE, l’organe de représentation ou le comité restreint, le cas échéant élargi conformément au point 3), troisième alinéa, est habilité à se réunir sans que les représentants de l’organe compétent soient présents.
-5. Sans préjudice de l’article L. 454-4, les membres de l’organe de représentation informent les représentants des salariés de la SCE et de ses filiales et établissements de la teneur et des résultats des procédures d’information et de consultation.
-6. L’organe de représentation ou le comité restreint peuvent être assistés par des experts de leur choix.
-7. Dans la mesure où cela est nécessaire pour l’accomplissement de leurs tâches, les membres de l’organe de représentation ont droit à un congé de formation sans perte de salaire.
-8. Les dépenses de l’organe de représentation sont supportées par la SCE. Sauf accord contraire celle-ci met à disposition dans la mesure nécessaire pour permettre à l’organe de représentation, et, le cas échéant, au comité restreint, de fonctionner de manière appropriée, les locaux et les moyens matériels nécessaires. La SCE prend en charge, dans la mesure du nécessaire pour permettre à l’organe de représentation et au comité restreint de fonctionner de manière appropriée, les frais de déplacement et de séjour de ses membres. En cas de besoin, et dans la mesure du nécessaire pour permettre à l’organe de représentation ou au comité restreint de fonctionner de manière appropriée, la SCE met à leur disposition les interprètes et le personnel administratif.
+Dans le cas d’une réunion organisée avec le comité restreint, les membres de l’organe de représentation qui représentent des salariés directement concernés par les mesures en question ont aussi le droit de participer.
 
-   En ce qui concerne toutefois les experts, désignés par l’organe de représentation, et, le cas échéant, par le comité restreint, la prise en charge financière par la SCE est limitée à un expert par tranche de neuf membres de l’organe de représentation, sauf accord contraire préalable. La prise en charge précitée se limite aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
+Les réunions visées ci-dessus ne portent pas atteinte aux prérogatives de l’organe compétent et notamment ne l’empêchent pas de prendre toute décision avant la réunion avec l’organe de représentation.
 
-   De même la prise en charge financière par la SCE des réunions de l’organe de représentation ou du comité restreint en dehors de la présence de l’organe compétent de la SCE est limitée à une réunion par an, à laquelle s’ajoute une réunion en dehors de la présence de ses organes en cas de réunion d’information et de consultation en cas de circonstances exceptionnelles.
+4\) Les réunions d’information et de consultation sont présidées par le président de l’organe compétent de la SCE.
+
+Avant toute réunion avec l’organe compétent de la SCE, l’organe de représentation ou le comité restreint, le cas échéant élargi conformément au point 3), troisième alinéa, est habilité à se réunir sans que les représentants de l’organe compétent soient présents.
+
+5\) Sans préjudice de l’article L. 454-4, les membres de l’organe de représentation informent les représentants des salariés de la SCE et de ses filiales et établissements de la teneur et des résultats des procédures d’information et de consultation.
+
+6\) L’organe de représentation ou le comité restreint peuvent être assistés par des experts de leur choix.
+
+7\) Dans la mesure où cela est nécessaire pour l’accomplissement de leurs tâches, les membres de l’organe de représentation ont droit à un congé de formation sans perte de salaire.
+
+8\) Les dépenses de l’organe de représentation sont supportées par la SCE. Sauf accord contraire celle-ci met à disposition dans la mesure nécessaire pour permettre à l’organe de représentation, et, le cas échéant, au comité restreint, de fonctionner de manière appropriée, les locaux et les moyens matériels nécessaires. La SCE prend en charge, dans la mesure du nécessaire pour permettre à l’organe de représentation et au comité restreint de fonctionner de manière appropriée, les frais de déplacement et de séjour de ses membres. En cas de besoin, et dans la mesure du nécessaire pour permettre à l’organe de représentation ou au comité restreint de fonctionner de manière appropriée, la SCE met à leur disposition les interprètes et le personnel administratif.
+
+En ce qui concerne toutefois les experts, désignés par l’organe de représentation, et, le cas échéant, par le comité restreint, la prise en charge financière par la SCE est limitée à un expert par tranche de neuf membres de l’organe de représentation, sauf accord contraire préalable. La prise en charge précitée se limite aux frais qui sont directement en relation avec la participation de l’expert à une réunion.
+
+De même la prise en charge financière par la SCE des réunions de l’organe de représentation ou du comité restreint en dehors de la présence de l’organe compétent de la SCE est limitée à une réunion par an, à laquelle s’ajoute une réunion en dehors de la présence de ses organes en cas de réunion d’information et de consultation en cas de circonstances exceptionnelles.
 
 ##### *Section 5.* — *Dispositions de référence pour la participation*
 
@@ -9843,8 +10507,9 @@ La compétence et les pouvoirs de l’organe de représentation institué dans u
 
 (1) La participation des salariés dans la SCE est régie par les dispositions suivantes:
 
-1. Dans le cas d’une SCE constituée par transformation, si les règles d’un Etat membre relatives à la participation des salariés dans l’organe d’administration ou de surveillance s’appliquaient avant l’immatriculation, tous les éléments de la participation des salariés continuent de s’appliquer à la SCE.
-2. Dans les autres cas de constitution d’une SCE, les salariés de la SCE, de ses filiales et établissements ou leur organe de représentation ont le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation d’un nombre de membres de l’organe d’administration ou de surveillance de la SCE qualitativement égal à la plus élevée des proportions en vigueur dans les sociétés participantes concernées avant l’immatriculation de la SCE.
+1\) Dans le cas d’une SCE constituée par transformation, si les règles d’un Etat membre relatives à la participation des salariés dans l’organe d’administration ou de surveillance s’appliquaient avant l’immatriculation, tous les éléments de la participation des salariés continuent de s’appliquer à la SCE.
+
+2\) Dans les autres cas de constitution d’une SCE, les salariés de la SCE, de ses filiales et établissements ou leur organe de représentation ont le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation d’un nombre de membres de l’organe d’administration ou de surveillance de la SCE qualitativement égal à la plus élevée des proportions en vigueur dans les sociétés participantes concernées avant l’immatriculation de la SCE.
 
 L’équivalence exigée reposera sur une comparaison concrète entre la portée que revêtait le droit d’élire, de désigner, de recommander ou de s’opposer à la désignation de membres de l’organe d’administration ou de surveillance dans l’entité juridique participante concernée et celle qu’il reçoit dans la SCE, qui tient compte de la nature des organes vis-à-vis desquels s’exerce le droit de participation.
 
@@ -9878,8 +10543,9 @@ Le maintien du niveau de participation devra, par ailleurs, s’apprécier de ma
 
 (2) Dans le cas d’une SCE constituée exclusivement par des personnes physiques ou par une seule entité juridique et des personnes physiques, employant ensemble moins de 50 salariés ou 50 salariés ou plus dans un même Etat membre, l’implication des salariés est régie par les dispositions suivantes:
 
-- au sein de la SCE proprement dite, les dispositions de l’Etat membre dans lequel le siège statutaire de la SCE est situé et qui sont applicables aux entités du même type sont d’application,
-- au sein de ses filiales et établissements, les dispositions de l’Etat membre dans lequel les filiales et établissements sont situés et qui sont applicables aux entités du même type sont d’application. Dans le cas du transfert d’un Etat membre à un autre du siège d’une SCE régie par les règles de participation, des droits de participation des salariés d’un niveau au moins équivalent continuent d’être applicables.
+aash au sein de la SCE proprement dite, les dispositions de l’Etat membre dans lequel le siège statutaire de la SCE est situé et qui sont applicables aux entités du même type sont d’application,
+
+bash au sein de ses filiales et établissements, les dispositions de l’Etat membre dans lequel les filiales et établissements sont situés et qui sont applicables aux entités du même type sont d’application. Dans le cas du transfert d’un Etat membre à un autre du siège d’une SCE régie par les règles de participation, des droits de participation des salariés d’un niveau au moins équivalent continuent d’être applicables.
 
 (3) Si, après l’immatriculation d’une SCE visée au paragraphe 2, au moins un tiers des salariés de la SCE et de ses filiales et établissements dans deux Etats membres différents le demandent, ou si le seuil de salariés atteint ou dépasse le seuil de 50 dans au moins deux Etats membres, les dispositions des articles L. 452-1 à L. 453-6 s’appliquent.
 
@@ -9891,13 +10557,17 @@ Dans ce cas, les termes «entités juridiques participantes» et «filiales et �
 
 Dans les limites fixées à l’article 59, paragraphe 4, du [règlement (CE) No 1435/2003](https://legilux.public.lu/eli/reg_ue/2003/1435/jo), les salariés de la SCE ou leurs représentants seront habilités à participer à l’assemblée générale ou, le cas échéant, à l’assemblée de section ou de branche, et y auront le droit de vote, dans les circonstances suivantes:
 
-1. lorsque les parties le décident dans l’accord visé à l’article L. 452-4, ou
-2. lorsqu’une société coopérative régie par un système de ce type se transforme en SCE, ou
-3. lorsque, dans le cas d’une SCE constituée par d’autres moyens que la transformation, une société coopérative participante était régie par un système de ce type et
+1\) lorsque les parties le décident dans l’accord visé à l’article L. 452-4, ou
 
-   1. que les parties ne parviennent pas à un accord tel que visé à l’article L. 452-4 au cours de la période fixée à l’article L. 452-3, et
-   2. que l’article L. 453-5 est applicable, et
-   3. que la société coopérative participante régie par un système de ce type, en vigueur dans les sociétés coopératives participantes concernées avant l’immatriculation de la SCE, a la proportion la plus élevée en matière de participation, au sens de l’article L. 452-1, point 11.
+2\) lorsqu’une société coopérative régie par un système de ce type se transforme en SCE, ou
+
+3\) lorsque, dans le cas d’une SCE constituée par d’autres moyens que la transformation, une société coopérative participante était régie par un système de ce type et
+
+i) que les parties ne parviennent pas à un accord tel que visé à l’article L. 452-4 au cours de la période fixée à l’article L. 452-3, et
+
+ii) que l’article L. 453-5 est applicable, et
+
+iii) que la société coopérative participante régie par un système de ce type, en vigueur dans les sociétés coopératives participantes concernées avant l’immatriculation de la SCE, a la proportion la plus élevée en matière de participation, au sens de l’article L. 452-1, point 11.
 
 ##### *Section 3.* — *Fonctionnement de l’organe de représentation et de la procédure d’information et de consultation des salariés*
 
@@ -9945,8 +10615,9 @@ Ils ne peuvent percevoir un salaire inférieur à celui qu’ils auraient perçu
 
 (5) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) A défaut, et au cas où le représentant des salariés occupés au Luxembourg a un contrat de travail avec une des entreprises concernées, le crédit d’heures fixé par le paragraphe (2) de l’article L. 415-5 est majoré de la manière suivante:
 
-- au cas où les entreprises dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
-- cette majoration est de trois heures rémunérées par mois si le nombre de salariés définis à l’alinéa qui précède est de 501 au moins, et de quatre heures rémunérées par mois si ce nombre est de 1.501 au moins.
+aash au cas où les entreprises dont les salariés sont représentés par les représentants élus ou désignés au Luxembourg occupent pendant les douze mois précédant le premier jour du mois de l’affichage annonçant les élections 500 salariés au plus, le crédit d’heures précité est majoré de deux heures rémunérées par mois;
+
+bash cette majoration est de trois heures rémunérées par mois si le nombre de salariés définis à l’alinéa qui précède est de 501 au moins, et de quatre heures rémunérées par mois si ce nombre est de 1.501 au moins.
 
 Ce crédit d’heures supplémentaires est réservé à l’usage exclusif du ou des représentants des salariés occupés au Luxembourg dans le groupe spécial de négociation et l’organe de représentation ou dans la procédure d’information et de consultation.
 
@@ -9988,8 +10659,9 @@ Si, dans l’année suivant l’immatriculation de la SCE, l’organe de représ
 
 Cette négociation sera régie par les règles suivantes:
 
-1. Elle aura lieu à la demande de l’organe de représentation ou des représentants des salariés de nouvelles filiales ou établissements de la SCE.
-2. Les articles L. 452-1 à L. 453-1 sont applicables et les références aux entités juridiques participantes sont remplacées par des références à la SCE et ses filiales et établissements, les références au moment avant l’immatriculation de la SCE étant remplacées par des références au moment où les négociations échouent et le terme «groupe spécial de négociation» étant remplacé par «l’organe de représentation».
+1\) Elle aura lieu à la demande de l’organe de représentation ou des représentants des salariés de nouvelles filiales ou établissements de la SCE.
+
+2\) Les articles L. 452-1 à L. 453-1 sont applicables et les références aux entités juridiques participantes sont remplacées par des références à la SCE et ses filiales et établissements, les références au moment avant l’immatriculation de la SCE étant remplacées par des références au moment où les négociations échouent et le terme «groupe spécial de négociation» étant remplacé par «l’organe de représentation».
 
 ##### *Section 8.* — *Mesures destinées à assurer le respect du présent Titre*
 
@@ -10029,14 +10701,21 @@ Une SCE peut valablement être constituée et immatriculée au Luxembourg sans q
 
 Sans préjudice des articles L. 454-4 et L. 454-8, les contestations à naître du présent Titre sont de la compétence des juridictions de travail qui connaîtront des litiges relatifs à:
 
-- la désignation ou l’élection des représentants des salariés occupés au Luxembourg;
-- la procédure et la conduite des négociations;
-- les accords sur l’implication des salariés;
-- les conditions d’application et le contenu des dispositions de référence;
-- le fonctionnement des organes de représentation et les procédures d’information et de consultation des salariés;
-- le statut et la protection des représentants des salariés;
-- la relation entre le présent Titre et d’autres dispositions visées à l’article L. 454-9;
-- les abus allégués dans les conditions de l’article L. 454-7.
+aash la désignation ou l’élection des représentants des salariés occupés au Luxembourg;
+
+bash la procédure et la conduite des négociations;
+
+cash les accords sur l’implication des salariés;
+
+dash les conditions d’application et le contenu des dispositions de référence;
+
+eash le fonctionnement des organes de représentation et les procédures d’information et de consultation des salariés;
+
+fash le statut et la protection des représentants des salariés;
+
+gash la relation entre le présent Titre et d’autres dispositions visées à l’article L. 454-9;
+
+hash les abus allégués dans les conditions de l’article L. 454-7.
 
 ## LIVRE V — EMPLOI ET CHOMAGE
 
@@ -10052,9 +10731,11 @@ Le présent chapitre a pour objet de prévenir des licenciements pour des causes
 
 L’application des mesures préventives et correctives à mettre en œuvre à cet effet est sujette aux conditions suivantes:
 
-1. il doit être établi que, par suite d’un recul considérable du carnet des commandes, le taux d’activité d’une ou de plusieurs branches économiques accuse une baisse prononcée par rapport à la moyenne des trois dernières années et qu’il y a lieu de s’attendre à une diminution importante des besoins en main-d’œuvre;
-2. il faut que les difficultés mentionnées ci-dessus aient une origine essentiellement conjoncturelle et un caractère temporaire;
-3. il faut que l’évolution prévisible permette d’escompter une reprise normale des affaires assurant le rétablissement du plein emploi dans un délai raisonnable.
+1\. il doit être établi que, par suite d’un recul considérable du carnet des commandes, le taux d’activité d’une ou de plusieurs branches économiques accuse une baisse prononcée par rapport à la moyenne des trois dernières années et qu’il y a lieu de s’attendre à une diminution importante des besoins en main-d’œuvre;
+
+2\. il faut que les difficultés mentionnées ci-dessus aient une origine essentiellement conjoncturelle et un caractère temporaire;
+
+3\. il faut que l’évolution prévisible permette d’escompter une reprise normale des affaires assurant le rétablissement du plein emploi dans un délai raisonnable.
 
 ###### Art. L. 511-2.
 
@@ -10082,7 +10763,7 @@ Dans les conditions énoncées aux articles L. 511-1 et L. 511-2, des subvention
 
 La réduction de la durée de travail ne peut pas excéder 1.022 heures par année de calendrier et par salarié travaillant à temps plein.
 
-Pour les salariés travaillant à temps partiel les 1.022 heures sont proratisées. [^note_6_6_1]
+Pour les salariés travaillant à temps partiel les 1.022 heures sont proratisées.[^note_6_6_1]
 
 ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) La réduction de la durée de travail ne peut pas excéder 1.714 heures par année de calendrier et par salarié travaillant à temps plein pour les entreprises admises au régime de chômage partiel de source structurelle conformément aux articles L. 512-7 et suivants, pour autant qu’elles soient couvertes par un plan de maintien dans l’emploi accompagnant une restructuration fondamentale, résultant d’un accord entre partenaires sociaux entériné dans le cadre d’une réunion sectorielle à caractère tripartite entre ces partenaires et le Gouvernement et homologué conformément à l’article L. 513-3.
 
@@ -10126,9 +10807,11 @@ Les salariés frontaliers sont assimilés aux salariés résidant régulièremen
 
 Sont à considérer comme salariés régulièrement occupés par l’entreprise, tels que visés à l’article L. 511-9, les salariés qui:
 
-1. ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) sont légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché de Luxembourg et ne se trouvent pas en situation de préavis sur base de l’article L. 124-3;
-2. sont normalement occupés sur un lieu de travail situé sur le territoire du Grand-Duché de Luxembourg;
-3. sont assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois.
+1\. ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) sont légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché de Luxembourg et ne se trouvent pas en situation de préavis sur base de l’article L. 124-3;
+
+2\. sont normalement occupés sur un lieu de travail situé sur le territoire du Grand-Duché de Luxembourg;
+
+3\. sont assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois.
 
 ###### Art. L. 511-11.
 
@@ -10244,10 +10927,9 @@ Le titre III du présent livre, relatif à l’octroi d’une indemnité compens
 
 Est interdit tout travail salarié, lorsque celui qui s’y livre:
 
-- sait que l’employeur ne possède pas l’agrément prévu par la
+aash sait que l’employeur ne possède pas l’agrément prévu par la [loi modifiée du 28 décembre 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/12/28/n2/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, ou
 
-  [loi modifiée du 28 décembre 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/12/28/n2/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, ou
-- sait que sa situation en qualité de salarié n’est pas régulière au regard de la législation concernant les retenues sur salaires ou de la législation relative à la sécurité sociale.
+bash sait que sa situation en qualité de salarié n’est pas régulière au regard de la législation concernant les retenues sur salaires ou de la législation relative à la sécurité sociale.
 
 Le Gouvernement est habilité à préciser les situations définies ci-dessus par des règlements grand-ducaux, sur avis du Conseil d’Etat, après avoir demandé l’avis des chambres professionnelles intéressées et obtenu l’assentiment de la Conférence des présidents de la Chambre des députés.
 
@@ -10295,50 +10977,51 @@ Le troisième seuil est atteint lorsque, après l’échéance du deuxième seui
 
 \*(Section 3. – Comité permanent de l’emploi abrogée par la [loi du 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n15/jo))*
 
-##### *Section 3. [^note_4_4_0]* — *Mesures d’intervention sur le marché de l’emploi*
+##### *Section 3.[^note_4_4_0]* — *Mesures d’intervention sur le marché de l’emploi*
 
-###### Art. L. 512-4. [^note_4_4_0]
+###### Art. L. 512-4.[^note_4_4_0]
 
 ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) Lorsque le seuil 1 est atteint, aucune autorisation d’établissement au sens de la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales ne peut plus être délivrée:
 
-1. aux titulaires d’une telle autorisation, qui bénéficient de ce chef d’une pension de retraite et dont les ressources globales dépassent le niveau du salaire social minimum;
-2. (
+1\. aux titulaires d’une telle autorisation, qui bénéficient de ce chef d’une pension de retraite et dont les ressources globales dépassent le niveau du salaire social minimum;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) aux salariés en activité, aux retraités et aux bénéficiaires d’une indemnité d’attente, d’une indemnité professionnelle d’attente ou d’une indemnité de préretraite dont respectivement le salaire, la pension, l’indemnité d’attente, l’indemnité professionnelle d’attente ou l’indemnité de préretraite dépassent le salaire social minimum.
+2\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) aux salariés en activité, aux retraités et aux bénéficiaires d’une indemnité d’attente, d’une indemnité professionnelle d’attente ou d’une indemnité de préretraite dont respectivement le salaire, la pension, l’indemnité d’attente, l’indemnité professionnelle d’attente ou l’indemnité de préretraite dépassent le salaire social minimum.
 
 Les dispositions du premier alinéa ne sont pas applicables lorsque l’octroi de l’autorisation est susceptible de créer de nouveaux emplois ou d’éviter la suppression d’emplois existants.
 
 Un règlement grand-ducal précise la date d’entrée en vigueur des dispositions du premier alinéa.
 
-###### Art. L. 512-5. [^note_4_4_0]
+###### Art. L. 512-5.[^note_4_4_0]
 
 Dans l’intérêt de la rééducation professionnelle et du recyclage des salariés menacés de perdre leur emploi, le Gouvernement en conseil peut charger le ministre ayant la Formation professionnelle dans ses attributions d’organiser des cours de rééducation professionnelle ou de formation professionnelle complémentaire, dont les modalités d’organisation sont déterminées par règlement grand-ducal.
 
-###### Art. L. 512-6. [^note_4_4_0]
+###### Art. L. 512-6.[^note_4_4_0]
 
 ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) L’employeur qui occupe du personnel cumulant le salaire, en espèces ou en nature, lui versé avec une pension de vieillesse, dont le niveau dépasse celui du salaire social minimum, luxembourgeoise ou non, est tenu de déclarer ce personnel à l’Agence pour le développement de l’emploi avant l’expiration du mois qui suit sa mise au travail.
 
 L’employeur indique la nature exacte de l’emploi occupé, l’aptitude professionnelle et la qualification du salarié.
 
-###### Art. L. 512-7. [^note_4_4_0]
+###### Art. L. 512-7.[^note_4_4_0]
 
 [^note_4_4_1] (1) L’octroi des subventions destinées à l’indemnisation des chômeurs partiels, tel que prévu au chapitre Ier du présent titre et à ses règlements d’exécution, peut être étendu aux entreprises ou à l’un ou plusieurs de leurs établissements confrontés à des difficultés structurelles, pour leur faciliter leur adaptation et leur permettre de maintenir un niveau satisfaisant de l’emploi.
 
 (2) L’application de mesures préventives de licenciements et de mesures correctives et d’accompagnement dans des entreprises ou dans un ou plusieurs de leurs établissements confrontés à des difficultés structurelles est sujette aux conditions suivantes:
 
-1. il doit être établi que, pour chaque entreprise ou établissement concernés, le constat d’une baisse prononcée de son taux d’activité porte sur une période d’au moins six mois;
-2. il faut que les difficultés mentionnées ci-dessus n’aient pas pour seule origine une récession économique généralisée;
-3. il faut qu’une reprise normale des affaires assurant le maintien de l’emploi dans un délai raisonnable soit incertaine.
+1\. il doit être établi que, pour chaque entreprise ou établissement concernés, le constat d’une baisse prononcée de son taux d’activité porte sur une période d’au moins six mois;
 
-###### Art. L. 512-8. [^note_4_5_0]
+2\. il faut que les difficultés mentionnées ci-dessus n’aient pas pour seule origine une récession économique généralisée;
+
+3\. il faut qu’une reprise normale des affaires assurant le maintien de l’emploi dans un délai raisonnable soit incertaine.
+
+###### Art. L. 512-8.[^note_4_5_0]
 
 Dans les conditions énoncées à l’article L. 512-8, paragraphe (2) et à l’article L. 511-2, des subventions peuvent être allouées aux employeurs qui, plutôt que de procéder à des licenciements, s’engagent à maintenir le contrat de travail de leur personnel et à lui verser une indemnité de compensation pour les pertes de salaire subies du fait que la durée normale de travail, légale ou conventionnelle, est réduite dans des entreprises ou dans un ou plusieurs de leurs établissements.
 
-###### Art. L. 512-9. [^note_4_5_0]
+###### Art. L. 512-9.[^note_4_5_0]
 
 Les entreprises ou établissements auxquels s’appliquent les contraintes de l’article L. 512-8 peuvent également demander le bénéfice des subventions visées à l’article L. 512-9.
 
-###### Art. L. 512-10. [^note_4_5_0]
+###### Art. L. 512-10.[^note_4_5_0]
 
 (1) Les ministres ayant respectivement l’Emploi et l’Economie dans leurs attributions, sur avis du Comité de conjoncture et procédant par décision commune, désignent en dernière instance les entreprises à admettre et déterminent la durée maximale de leur admission au bénéfice des subventions visées à l’article L. 512-9, sur base d’un plan de redressement à présenter préalablement par la direction de l’entreprise. Le plan de redressement, dont la structure peut être précisée par règlement grand-ducal, doit contenir l’engagement de la direction de l’entreprise de réaliser des objectifs quantifiables suivant un échéancier à convenir.
 
@@ -10350,9 +11033,9 @@ Au cas où les résiliations précitées de contrats de travail sont constitutiv
 
 (4) Le ministre ayant l’Economie dans ses attributions peut charger le secrétariat du Comité de conjoncture du suivi de l’exécution du plan de redressement. En fonction des objectifs du plan de redressement et sur requête, le secrétariat du Comité de conjoncture informe la direction de l’entreprise sur les mesures accompagnatrices qui existent en matière de formation des salariés restants, de réinsertion des salariés qui sont licenciés suivant le plan social convenu, d’investissement matériel et immatériel et de promotion commerciale et l’assiste dans l’élaboration du dossier et dans les démarches administratives à entreprendre auprès des autorités compétentes pour pouvoir en bénéficier.
 
-##### *Section 4.* [^note_4_5_0] — *Mesures contractuelles de réduction des coûts de production dans l’intérêt de la sauvegarde de l’emploi*
+##### *Section 4.*[^note_4_5_0] — *Mesures contractuelles de réduction des coûts de production dans l’intérêt de la sauvegarde de l’emploi*
 
-###### Art. L. 512-11. [^note_4_5_0]
+###### Art. L. 512-11.[^note_4_5_0]
 
 (1) Les entreprises touchées par des difficultés structurelles ou conjoncturelles particulièrement graves équivalant à un cas de force majeure sur le plan économique peuvent conclure avec les organisations syndicales les plus représentatives sur le plan national des accords collectifs portant réduction des coûts de production dans l’intérêt de la sauvegarde de l’emploi.
 
@@ -10368,17 +11051,19 @@ Le Comité de coordination tripartite émet un avis quant au bien-fondé d’une
 
 Ces accords peuvent être déclarés d’obligation générale pour l’ensemble des employeurs et du personnel de la profession pour laquelle ils ont été conclus. La déclaration d’obligation générale se fait dans les formes et suivant la procédure inscrites à l’article L. 164-8.
 
-##### *Section 5.* [^note_4_6_0] — *Mesures d’application générale et de solidarité nationale en cas d’aggravation de la situation économique et sociale*
+##### *Section 5.*[^note_4_6_0] — *Mesures d’application générale et de solidarité nationale en cas d’aggravation de la situation économique et sociale*
 
-###### Art. L. 512-12. [^note_4_6_0]
+###### Art. L. 512-12.[^note_4_6_0]
 
 (1) En cas d’aggravation de la situation économique et sociale se traduisant notamment par une divergence sensible du taux d’inflation intérieur par rapport à la moyenne des principaux partenaires commerciaux ou une détérioration de la compétitivité des entreprises luxembourgeoises sur les marchés internationaux, le Gouvernement convoque incessamment le Comité de coordination tripartite.
 
 Le Gouvernement lui soumet les mesures législatives et réglementaires qu’il juge nécessaires aux fins de redresser la situation économique et sociale et qui peuvent porter, suivant les besoins, notamment sur:
 
-1. les modalités d’application de l’échelle mobile – y compris la limitation temporaire du nombre et des effets des tranches indiciaires et du plafonnement de celles-ci à partir d’un certain seuil de revenu qui peuvent être adaptées temporairement aussi bien pour les salaires que pour toutes les autres catégories de revenus;
-2. le blocage temporaire des marges et des prix des produits et des services, y compris les loyers, dans la mesure où les facteurs de hausse ne résultent pas soit d’un acte des autorités publiques, soit d’une initiative de fournisseurs étrangers;
-3. l’allongement des délais de préavis de licenciement.
+1\. les modalités d’application de l’échelle mobile – y compris la limitation temporaire du nombre et des effets des tranches indiciaires et du plafonnement de celles-ci à partir d’un certain seuil de revenu qui peuvent être adaptées temporairement aussi bien pour les salaires que pour toutes les autres catégories de revenus;
+
+2\. le blocage temporaire des marges et des prix des produits et des services, y compris les loyers, dans la mesure où les facteurs de hausse ne résultent pas soit d’un acte des autorités publiques, soit d’une initiative de fournisseurs étrangers;
+
+3\. l’allongement des délais de préavis de licenciement.
 
 (2) L’avis du Comité de coordination tripartite porte tant sur l’appréciation de la situation économique et sociale ayant motivé sa saisine par le Gouvernement que sur les propositions de ce dernier en vue de redresser la situation. Le Comité de coordination tripartite se prononce à la majorité des membres de chacun des groupes représentant les employeurs et les syndicats les plus représentatifs sur le plan national, la délégation gouvernementale exprimant son attitude conformément à la position arrêtée au sein du Gouvernement.
 
@@ -10390,9 +11075,9 @@ Le Gouvernement lui soumet les mesures législatives et réglementaires qu’il 
 
 (6) Les conditions et modalités de nomination du médiateur et ses attributions ainsi que les indicateurs économiques servant à l’appréciation du seuil critique d’aggravation de la situation économique et sociale au sens du paragraphe (1) requis pour la saisine du Comité de coordination tripartite par le Gouvernement sont déterminés par règlement grand-ducal à prendre sur avis du Conseil d’Etat et de l’assentiment de la Conférence des Présidents de la Chambre des députés.
 
-##### *Section 6.* [^note_4_6_0] — *Sanctions pénales*
+##### *Section 6.*[^note_4_6_0] — *Sanctions pénales*
 
-###### Art. L. 512-13. [^note_4_6_0]
+###### Art. L. 512-13.[^note_4_6_0]
 
 Est puni d’une amende de 251 à 5.000 euros l’employeur qui ne se conforme pas à l’obligation de déclaration visée à l’article L. 512-7.
 
@@ -10418,21 +11103,31 @@ Est puni d’une amende de 251 à 5.000 euros l’employeur qui ne se conforme p
 
 (1) Tout plan de maintien dans l’emploi contiendra obligatoirement des dispositions consignant le résultat des discussions entre les partenaires sociaux, qui devront notamment porter sur les sujets suivants:
 
-- application de la législation sur le chômage partiel;
-- aménagements possibles de la durée de travail dont application d’une période de référence plus longue ou plus courte;
-- travail volontaire à temps partiel;
-- recours à des comptes épargne-temps;
-- réductions de la durée du travail ne tombant pas sous le champ d’application de la législation sur le chômage partiel, prévoyant le cas échéant la participation à des formations continues et/ou des reconversions pendant les heures de travail libérées;
-- possibilités de formation voire de reconversion permettant une réaffectation de salariés à l’intérieur de l’entreprise;
-- possibilités de formation, de formation continue, de reconversion permettant la réaffectation de salariés dans une autre entreprise, appartenant le cas échéant au même secteur d’activités;
-- application de la législation sur le prêt temporaire de main-d’œuvre;
-- ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) accompagnement personnel des transitions de carrière, le cas échéant en prenant recours sur des experts externes, y inclus la participation à des mesures de l’Agence pour le développement de l’emploi visant la gestion prévisionnelle de la main d’œuvre et des compétences;
-- application de la législation sur la préretraite-ajustement;
-- période d’application du plan de maintien dans l’emploi;
-- principes et procédures régissant la mise en œuvre et le suivi du plan de maintien dans l’emploi;
-- (
+aash application de la législation sur le chômage partiel;
 
-  [L. 3 août 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n6/jo)) mesures spéciales pour salariés âgés.
+bash aménagements possibles de la durée de travail dont application d’une période de référence plus longue ou plus courte;
+
+cash travail volontaire à temps partiel;
+
+dash recours à des comptes épargne-temps;
+
+eash réductions de la durée du travail ne tombant pas sous le champ d’application de la législation sur le chômage partiel, prévoyant le cas échéant la participation à des formations continues et/ou des reconversions pendant les heures de travail libérées;
+
+fash possibilités de formation voire de reconversion permettant une réaffectation de salariés à l’intérieur de l’entreprise;
+
+gash possibilités de formation, de formation continue, de reconversion permettant la réaffectation de salariés dans une autre entreprise, appartenant le cas échéant au même secteur d’activités;
+
+hash application de la législation sur le prêt temporaire de main-d’œuvre;
+
+iash ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) accompagnement personnel des transitions de carrière, le cas échéant en prenant recours sur des experts externes, y inclus la participation à des mesures de l’Agence pour le développement de l’emploi visant la gestion prévisionnelle de la main d’œuvre et des compétences;
+
+jash application de la législation sur la préretraite-ajustement;
+
+kash période d’application du plan de maintien dans l’emploi;
+
+lash principes et procédures régissant la mise en œuvre et le suivi du plan de maintien dans l’emploi;
+
+mash ([L. 3 août 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n6/jo)) mesures spéciales pour salariés âgés.
 
 ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a823/jo)) Tout plan de maintien dans l’emploi comprend obligatoirement une section destinée à donner une vue exacte de l’évolution future de l’entreprise concernée en vue de garantir sa pérennité à court, moyen et long terme, en relation avec des investissements à réaliser en vue du futur développement de l’entreprise.
 
@@ -10450,10 +11145,13 @@ Si le plan de maintien dans l’emploi prévoit des départs volontaires ou des 
 
 (5*bis*) ([L. 3 mars 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/03/03/a109/jo)) Sur demande écrite du Comité de conjoncture, les partenaires sociaux, aux niveaux appropriés, ayant signé un plan de maintien dans l’emploi, sont tenus de lui faire parvenir toutes les informations demandées relatives :
 
-1. aux mesures fixées dans le plan de maintien dans l’emploi effectivement mises en place ;
-2. au nombre des personnes touchées par chacune de ces mesures ;
-3. aux moyens propres investis dans le cadre de la mise en œuvre de ces mesures ;
-4. à l’utilisation des aides financières ou subventions touchées dans le cadre de ces mesures.
+1° aux mesures fixées dans le plan de maintien dans l’emploi effectivement mises en place ;
+
+2° au nombre des personnes touchées par chacune de ces mesures ;
+
+3° aux moyens propres investis dans le cadre de la mise en œuvre de ces mesures ;
+
+4° à l’utilisation des aides financières ou subventions touchées dans le cadre de ces mesures.
 
 Les informations sont à transmettre au secrétariat du Comité de conjoncture endéans un délai d’un mois à partir de la réception de la demande.
 
@@ -10471,32 +11169,45 @@ Si les partenaires sociaux, aux niveaux appropriés, ayant signé un plan de mai
 
 (1) Conformément à l’article L. 631-2, paragraphe 1<sup>er</sup>, point 42, sont cofinancés par le Fonds pour l’emploi les frais réels des formations assurées en vertu de l’article L. 513-3 :
 
-1. à concurrence de 50 pour cent si les formations visent un nouveau poste interne auprès du même employeur
-2. à concurrence de 100 pour cent si les formations visent un nouveau poste externe auprès d’un autre employeur.
+1° à concurrence de 50 pour cent si les formations visent un nouveau poste interne auprès du même employeur
+
+2° à concurrence de 100 pour cent si les formations visent un nouveau poste externe auprès d’un autre employeur.
 
 (2) Les frais éligibles dans le cadre du paragraphe 1<sup>er</sup> sont :
 
-1. les droits d’inscription des participants ;
-2. le coût salarial des formateurs internes ;
-3. le coût du matériel pédagogique utilisé par le salarié ;
-4. le coût de location des locaux loués pour les formations internes.
+1° les droits d’inscription des participants ;
+
+2° le coût salarial des formateurs internes ;
+
+3° le coût du matériel pédagogique utilisé par le salarié ;
+
+4° le coût de location des locaux loués pour les formations internes.
 
 (3) Sont entièrement exclues de l’application du présent article :
 
-1. les formations dont le nombre d’heures de formation est supérieur à 480 heures ;
-2. les formations prises en charge ou cofinancées dans le cadre d’un plan de formation tel que défini à l’article L. 542-9 ;
-3. les formations prévues à l’article L. 234-72 ;
-4. les formations prises en charge ou cofinancées par le ministre ayant la Formation professionnelle dans ses attributions dans le cadre de la formation professionnelle continue ;
-5. les formations dont le coût est supérieur à 20.000 euros.
+1° les formations dont le nombre d’heures de formation est supérieur à 480 heures ;
+
+2° les formations prises en charge ou cofinancées dans le cadre d’un plan de formation tel que défini à l’article L. 542-9 ;
+
+3° les formations prévues à l’article L. 234-72 ;
+
+4° les formations prises en charge ou cofinancées par le ministre ayant la Formation professionnelle dans ses attributions dans le cadre de la formation professionnelle continue ;
+
+5° les formations dont le coût est supérieur à 20.000 euros.
 
 (4) Sont éligibles pour le cofinancement par le Fonds pour l’emploi prévu à l’article L. 513-5, les formations dispensées soit au Grand-Duché de Luxembourg, soit à l’étranger par :
 
-1. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités ;
-2. les chambres professionnelles ;
-3. les communes ;
-4. les fondations et associations privées agréées individuellement à cet effet par le ministre ayant la Formation professionnelle dans ses attributions ;
-5. les ministères, administrations et établissements publics ;
-6. les institutions ou personnes qui se sont conformées aux dispositions de l’article L. 542-8.
+1° les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités ;
+
+2° les chambres professionnelles ;
+
+3° les communes ;
+
+4° les fondations et associations privées agréées individuellement à cet effet par le ministre ayant la Formation professionnelle dans ses attributions ;
+
+5° les ministères, administrations et établissements publics ;
+
+6° les institutions ou personnes qui se sont conformées aux dispositions de l’article L. 542-8.
 
 ##### Art. L. 513-6 — ([L. 3 mars 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/03/03/a109/jo))
 
@@ -10508,29 +11219,45 @@ Si les partenaires sociaux, aux niveaux appropriés, ayant signé un plan de mai
 
 (1) Le cofinancement est demandé par l’employeur auprès du ministre ayant l’Emploi dans ses attributions, sous peine de forclusion, avant le début effectif de la formation. Il joint à sa demande des documents renseignant sur :
 
-1. le programme de formation ;
-2. l’identification des formateurs et organismes de formation interne ou des organismes de formation externe ou des fournisseurs-formateurs ;
-3. la durée de la formation ;
-4. le lieu du déroulement de la formation ;
-5. le nombre et la qualification professionnelle des salariés concernés ;
-6. le descriptif de l’ancien poste de travail ;
-7. le descriptif du nouveau poste de travail envisagé ;
-8. un document indiquant les formations sans lesquelles le changement effectif du poste de travail ne peut avoir lieu ;
-9. la promesse d’embauche du nouvel employeur conditionnée par la réussite de la formation pour laquelle le cofinancement est demandé en ce qui concerne les formations visant un nouveau poste externe ;
-10. l’estimation des coûts liés à la formation.
+1° le programme de formation ;
+
+2° l’identification des formateurs et organismes de formation interne ou des organismes de formation externe ou des fournisseurs-formateurs ;
+
+3° la durée de la formation ;
+
+4° le lieu du déroulement de la formation ;
+
+5° le nombre et la qualification professionnelle des salariés concernés ;
+
+6° le descriptif de l’ancien poste de travail ;
+
+7° le descriptif du nouveau poste de travail envisagé ;
+
+8° un document indiquant les formations sans lesquelles le changement effectif du poste de travail ne peut avoir lieu ;
+
+9° la promesse d’embauche du nouvel employeur conditionnée par la réussite de la formation pour laquelle le cofinancement est demandé en ce qui concerne les formations visant un nouveau poste externe ;
+
+10° l’estimation des coûts liés à la formation.
 
 (2) Afin de pouvoir bénéficier du cofinancement par le Fonds pour l’emploi prévu à l’article L. 513-5, l’employeur est tenu d’adresser une demande de remboursement par lettre recommandée au ministre ayant l’Emploi dans ses attributions, sous peine de forclusion, dans un délai de quarante jours à compter du dernier jour de la formation pour laquelle le cofinancement a été sollicité, à défaut les frais réels de la formation sont à charge de l’employeur.
 
 La demande doit contenir par salarié concerné :
 
-1. l’accord de cofinancement du ministre ayant l’Emploi dans ses attributions ;
-2. le relevé des salariés concernés ;
-3. les factures ;
-4. les preuves de paiement ;
-5. le relevé d’identité bancaire ;
-6. le certificat de participation attestant un taux de présence d’au moins 80 pour cent pour les formations externes ;
-7. le certificat de participation attestant un taux de présence d’au moins 80 pour cent signé par le salarié et contresigné par le chef d’entreprise ou le responsable de formation pour les formations internes ;
-8. le certificat de réussite pour les formations sanctionnées par un examen, un test ou un mémoire.
+1° l’accord de cofinancement du ministre ayant l’Emploi dans ses attributions ;
+
+2° le relevé des salariés concernés ;
+
+3° les factures ;
+
+4° les preuves de paiement ;
+
+5° le relevé d’identité bancaire ;
+
+6° le certificat de participation attestant un taux de présence d’au moins 80 pour cent pour les formations externes ;
+
+7° le certificat de participation attestant un taux de présence d’au moins 80 pour cent signé par le salarié et contresigné par le chef d’entreprise ou le responsable de formation pour les formations internes ;
+
+8° le certificat de réussite pour les formations sanctionnées par un examen, un test ou un mémoire.
 
 #### Chapitre IV — Programme de gestion prévisionnelle de l’emploi et des compétences ([L. 19 juin 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/06/19/a265/jo))
 
@@ -10540,15 +11267,19 @@ La demande doit contenir par salarié concerné :
 
 Au sens du présent chapitre on entend par :
 
-1. « programme de gestion prévisionnelle de l’emploi et des compétences » : un programme à destination des entreprises luxembourgeoises et de leurs salariés impactés pour répondre aux nouvelles exigences et évolutions du marché du travail qui sont dues à des tendances technologiques, environnementales, réglementaires ou sociétales ;
-2. « salarié impacté » : un salarié ayant une ancienneté d’au moins douze mois, dont le poste est impacté par des tendances structurelles du marché économique, et qui est, par conséquent, en besoin d’une requalification ou d’une montée en compétences d’au moins cent-vingt heures de formation, afin de sécuriser son employabilité au sein de l’entreprise et au-delà ;
-3. « tendances structurelles du marché économique » : les tendances technologiques, environnementales, réglementaires ou sociétales auxquelles la définition de la notion de « programme de gestion prévisionnelle de l’emploi et des compétences » visée au point 1° fait référence ;
-4. « montée en compétences » : l’acquisition de nouvelles aptitudes professionnelles permettant au salarié impacté de gérer ses futures missions dans son métier ou dans son domaine d’activité actuel ;
-5. « requalification » : la reconversion professionnelle en vue de l’acquisition de nouvelles connaissances permettant au salarié impacté d’occuper un autre poste dans l’entreprise participante ou dans une autre entreprise ;
-6. « frais directs de formation » : les frais à payer à l’organisme de formation pour inscrire un salarié impacté à une formation et, le cas échéant, à l’examen correspondant, à l’exclusion des frais de déplacement, de restauration et d’hébergement ;
-7. « micro, petites, moyennes et grandes entreprises » : entreprises telles que définies par l’article 2, points 12°, 17°, 18° et 19° de la
+1° « programme de gestion prévisionnelle de l’emploi et des compétences » : un programme à destination des entreprises luxembourgeoises et de leurs salariés impactés pour répondre aux nouvelles exigences et évolutions du marché du travail qui sont dues à des tendances technologiques, environnementales, réglementaires ou sociétales ;
 
-   [loi modifiée du 9 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a882/jo) relative à un régime d’aides en faveur des petites et moyennes entreprises.
+2° « salarié impacté » : un salarié ayant une ancienneté d’au moins douze mois, dont le poste est impacté par des tendances structurelles du marché économique, et qui est, par conséquent, en besoin d’une requalification ou d’une montée en compétences d’au moins cent-vingt heures de formation, afin de sécuriser son employabilité au sein de l’entreprise et au-delà ;
+
+3° « tendances structurelles du marché économique » : les tendances technologiques, environnementales, réglementaires ou sociétales auxquelles la définition de la notion de « programme de gestion prévisionnelle de l’emploi et des compétences » visée au point 1° fait référence ;
+
+4° « montée en compétences » : l’acquisition de nouvelles aptitudes professionnelles permettant au salarié impacté de gérer ses futures missions dans son métier ou dans son domaine d’activité actuel ;
+
+5° « requalification » : la reconversion professionnelle en vue de l’acquisition de nouvelles connaissances permettant au salarié impacté d’occuper un autre poste dans l’entreprise participante ou dans une autre entreprise ;
+
+6° « frais directs de formation » : les frais à payer à l’organisme de formation pour inscrire un salarié impacté à une formation et, le cas échéant, à l’examen correspondant, à l’exclusion des frais de déplacement, de restauration et d’hébergement ;
+
+7° « micro, petites, moyennes et grandes entreprises » : entreprises telles que définies par l’article 2, points 12°, 17°, 18° et 19° de la [loi modifiée du 9 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a882/jo) relative à un régime d’aides en faveur des petites et moyennes entreprises.
 
 ###### Art. L. 514-2.
 
@@ -10556,16 +11287,17 @@ Au sens du présent chapitre on entend par :
 
 Pour être éligible l’entreprise doit remplir les conditions suivantes :
 
-1. avoir son siège social au Grand-Duché de Luxembourg ;
-2. avoir une activité réelle au Grand-Duché de Luxembourg depuis au moins trois ans ;
-3. ne pas être en difficulté économique,au sens de l’article 2, point 18 du
+1° avoir son siège social au Grand-Duché de Luxembourg ;
 
-   [règlement n° 651/2014](https://legilux.public.lu/eli/reg_ue/2014/651/jo) de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
+2° avoir une activité réelle au Grand-Duché de Luxembourg depuis au moins trois ans ;
+
+3° ne pas être en difficulté économique,au sens de l’article 2, point 18 du [règlement n° 651/2014](https://legilux.public.lu/eli/reg_ue/2014/651/jo) de la Commission du 17 juin 2014 déclarant certaines catégories d’aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 (2) Afin de justifier que les conditions prévues au paragraphe premier, alinéa premier, sont remplies, la demande doit contenir des documents par lesquels l’entreprise :
 
-1. expose une vue claire sur les tendances structurelles du marché économique qui vont impacter l’entreprise dans les années à venir et sur sa direction stratégique ;
-2. démontre des besoins importants en termes de montée en compétences ou de requalification du personnel.
+1° expose une vue claire sur les tendances structurelles du marché économique qui vont impacter l’entreprise dans les années à venir et sur sa direction stratégique ;
+
+2° démontre des besoins importants en termes de montée en compétences ou de requalification du personnel.
 
 (3) L’entreprise dont l’éligibilité a été établie sur base des critères visés ci-dessus, est invitée à choisir un consultant agréé ou une entreprise de conseil agréée au sens de l’article L. 514-3 auquel, ou à laquelle, elle demande un devis qui contient obligatoirement une description des services proposés, l’estimation de charge de travail en jours-homme, le taux journalier applicable par jour-homme, le cas échéant, une précision des logiciels utilisés et des frais applicables, ainsi que les coordonnées des personnes impliquées pour réaliser l’analyse prévisionnelle et la préparation du plan de formation au sens de l’article L. 514-4.
 
@@ -10587,10 +11319,13 @@ Les personnes morales agréées se voient conférer le titre d’« entreprise d
 
 (3) L’agrément est délivré pour l’exercice de l’activité de consultance aux personnes physiques qui remplissent les conditions suivantes :
 
-1. attester d’une expérience professionnelle en matière de stratégie des ressources humaines d’au moins deux ans ;
-2. démontrer des connaissances confirmées des tendances structurelles du marché économique ayant un impact sur les besoins en main-d’œuvre et en compétences des entreprises ;
-3. démontrer une connaissance du marché économique et de l’offre de la formation et de la législation applicables en matière de travail et de formation ;
-4. comprendre et s’exprimer dans au moins deux des quatre langues suivantes : français, luxembourgeois, anglais et allemand.
+1° attester d’une expérience professionnelle en matière de stratégie des ressources humaines d’au moins deux ans ;
+
+2° démontrer des connaissances confirmées des tendances structurelles du marché économique ayant un impact sur les besoins en main-d’œuvre et en compétences des entreprises ;
+
+3° démontrer une connaissance du marché économique et de l’offre de la formation et de la législation applicables en matière de travail et de formation ;
+
+4° comprendre et s’exprimer dans au moins deux des quatre langues suivantes : français, luxembourgeois, anglais et allemand.
 
 (4) L’agrément est délivré aux personnes morales si les personnes physiques qui exercent, en tant que salariés de l’entreprise de conseil, les activités visées aux articles L. 514-2, paragraphe 3, et L. 514-4 à L. 514-6, sont des consultants agréés conformément aux dispositions prévues au paragraphe 3.
 
@@ -10612,11 +11347,15 @@ L’entreprise qui a préalablement choisi un consultant agréé ou une entrepri
 
 Dans la phase d’analyse prévisionnelle et de préparation du plan de formation, le consultant agréé ou l’entreprise de conseil agréée réalise les tâches suivantes pour l’entreprise dont le dossier a été préalablement approuvé :
 
-1. analyse rapide de la situation actuelle de l’entreprise en matière de ressources humaines et de formation et recensement des tendances stratégiques qui impactent les besoins de personnel et de compétences de l’entreprise ;
-2. identification des départements et postes en transformation profonde ;
-3. identification des salariés impactés ;
-4. réalisation des bilans de compétences, identification des parcours de requalification ou de montée en compétences ainsi qu’élaboration des plans individuels de développement des compétences pour les salariés impactés identifiés ;
-5. élaboration d’un plan de formation au niveau de l’entreprise et le calcul du budget estimatif pour réaliser ce plan de formation.
+1° analyse rapide de la situation actuelle de l’entreprise en matière de ressources humaines et de formation et recensement des tendances stratégiques qui impactent les besoins de personnel et de compétences de l’entreprise ;
+
+2° identification des départements et postes en transformation profonde ;
+
+3° identification des salariés impactés ;
+
+4° réalisation des bilans de compétences, identification des parcours de requalification ou de montée en compétences ainsi qu’élaboration des plans individuels de développement des compétences pour les salariés impactés identifiés ;
+
+5° élaboration d’un plan de formation au niveau de l’entreprise et le calcul du budget estimatif pour réaliser ce plan de formation.
 
 Pour réaliser ces travaux, le consultant agréé ou l’entreprise de conseil agréée peut proposer d’avoir recours à des logiciels de support.
 
@@ -10638,13 +11377,19 @@ L’Agence pour le développement de l’emploi informe l’entreprise de la par
 
 (2) L’entreprise choisit les formations définitives auxquelles elle souhaite inscrire les salariés impactés et qui doivent respecter les critères suivants :
 
-1. être dispensées par un organisme de formation agréé au Grand-Duché de Luxembourg ou, si aucun de ces organismes n’offre les formations en question, par un organisme de formation étranger accepté par l’Agence pour le développement de l’emploi ;
-2. augmenter l’employabilité générale du salarié impacté ;
-3. correspondre au contenu défini dans le rapport final validé ;
-4. le coût définitif de la formation doit correspondre au budget indiqué dans le rapport final validé, à défaut un dépassement de 20 pour cent au maximum est accepté par l’Agence pour le développement de l’emploi ;
-5. être sanctionnées par un certificat de participation attestant un taux de présence d’au moins 80 pour cent ou par un certificat de réussite délivré sur base d’un examen ;
-6. les détails sur les heures de formation et les connaissances acquises doivent être fournis ;
-7. une facture doit être présentée.
+1° être dispensées par un organisme de formation agréé au Grand-Duché de Luxembourg ou, si aucun de ces organismes n’offre les formations en question, par un organisme de formation étranger accepté par l’Agence pour le développement de l’emploi ;
+
+2° augmenter l’employabilité générale du salarié impacté ;
+
+3° correspondre au contenu défini dans le rapport final validé ;
+
+4° le coût définitif de la formation doit correspondre au budget indiqué dans le rapport final validé, à défaut un dépassement de 20 pour cent au maximum est accepté par l’Agence pour le développement de l’emploi ;
+
+5° être sanctionnées par un certificat de participation attestant un taux de présence d’au moins 80 pour cent ou par un certificat de réussite délivré sur base d’un examen ;
+
+6° les détails sur les heures de formation et les connaissances acquises doivent être fournis ;
+
+7° une facture doit être présentée.
 
 (3) L’entreprise peut se faire assister par son consultant agréé ou son entreprise de conseil agréée dans l’accompagnement individuel des salariés impactés pour faciliter leur transition en parallèle de ou après la formation.
 
@@ -10658,32 +11403,37 @@ L’Agence pour le développement de l’emploi informe l’entreprise de la par
 
 Sont éligibles pour le remboursement des frais de l’analyse prévisionnelle et de la préparation du plan de formation dans les limites fixées ci-dessus :
 
-1. deux à douze jours-homme ;
-2. au maximum un jour-homme supplémentaire par salarié impacté.
+1° deux à douze jours-homme ;
+
+2° au maximum un jour-homme supplémentaire par salarié impacté.
 
 Sur demande motivée dans le rapport final, s’y ajoutent :
 
-1. au maximum un jour-homme par salarié impacté pour son accompagnement individuel pendant la transition ;
-2. au maximum dix jours-homme pour l’assistance de l’entreprise dans la sélection des formations et de l’organisation des agendas du personnel autour des formations.
+1° au maximum un jour-homme par salarié impacté pour son accompagnement individuel pendant la transition ;
+
+2° au maximum dix jours-homme pour l’assistance de l’entreprise dans la sélection des formations et de l’organisation des agendas du personnel autour des formations.
 
 (2) Dans le cadre de l’analyse prévisionnelle et de la préparation du plan de formation, le Fonds pour l’emploi rembourse aux moyennes entreprises 50 pour cent des coûts facturés par le consultant agréé ou par l’entreprise de conseil agréée sans que le remboursement pour un jour-homme puisse dépasser 600 euros.
 
 Sont éligibles pour le remboursement des frais de l’analyse prévisionnelle et de la préparation du plan de formation dans les limites fixées ci-dessus :
 
-1. neuf à vingt jours-homme ;
-2. au maximum un jour-homme supplémentaire par salarié impacté.
+1° neuf à vingt jours-homme ;
+
+2° au maximum un jour-homme supplémentaire par salarié impacté.
 
 Sur demande motivée dans le rapport final, s’y ajoutent :
 
-1. au maximum un jour-homme par salarié impacté pour son accompagnement individuel pendant la transition ;
-2. au maximum dix jours-homme pour l’assistance de l’entreprise dans la sélection des formations et de l’organisation des agendas du personnel autour des formations.
+1° au maximum un jour-homme par salarié impacté pour son accompagnement individuel pendant la transition ;
+
+2° au maximum dix jours-homme pour l’assistance de l’entreprise dans la sélection des formations et de l’organisation des agendas du personnel autour des formations.
 
 (3) Dans le cadre de l’analyse prévisionnelle et de la préparation du plan de formation, le Fonds pour l’emploi rembourse aux grandes entreprises 15 pour cent des coûts facturés par le consultant agréé ou par l’entreprise de conseil agréée sans que le remboursement pour un jour-homme puisse dépasser 180 euros.
 
 Sont éligibles pour le remboursement des frais de l’analyse prévisionnelle et de la préparation du plan de formation dans les limites fixées ci-dessus :
 
-1. douze à vingt-cinq jours-homme ;
-2. au maximum un jour-homme supplémentaire par salarié impacté.
+1° douze à vingt-cinq jours-homme ;
+
+2° au maximum un jour-homme supplémentaire par salarié impacté.
 
 Sur demande motivée dans le rapport final, s’y ajoutent au maximum un jour-homme par salarié impacté pour son accompagnement individuel pendant la transition.
 
@@ -10697,18 +11447,23 @@ Dans tous les cas, le remboursement des coûts facturés par le consultant agré
 
 Dans le cadre de la mise en œuvre du plan de formation, le Fonds pour l’emploi rembourse :
 
-1. aux micro et petites entreprises :
+1° aux micro et petites entreprises :
 
-   1. 50 pour cent des frais directs de formation avec un maximum de 250 euros par salarié impacté par jour de formation sans que le remboursement puisse dépasser 7.500 euros par salarié impacté ;
-   2. 50 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
-2. aux moyennes entreprises :
+a) 50 pour cent des frais directs de formation avec un maximum de 250 euros par salarié impacté par jour de formation sans que le remboursement puisse dépasser 7.500 euros par salarié impacté ;
 
-   1. 50 pour cent des frais directs de formation avec un maximum de 250 euros par salarié impacté et par jour de formation sans que le remboursement puisse dépasser 7.500 euros par salarié impacté ;
-   2. 25 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
-3. aux grandes entreprises :
+b) 50 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
 
-   1. 40 pour cent des frais directs de formation avec un maximum de 200 euros par salarié impacté et par jour de formation sans que le remboursement puisse dépasser 6.000 euros par salarié impacté ;
-   2. 15 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
+2° aux moyennes entreprises :
+
+a) 50 pour cent des frais directs de formation avec un maximum de 250 euros par salarié impacté et par jour de formation sans que le remboursement puisse dépasser 7.500 euros par salarié impacté ;
+
+b) 25 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
+
+3° aux grandes entreprises :
+
+a) 40 pour cent des frais directs de formation avec un maximum de 200 euros par salarié impacté et par jour de formation sans que le remboursement puisse dépasser 6.000 euros par salarié impacté ;
+
+b) 15 pour cent du salaire du salarié impacté pendant ses heures de formation plafonné à 250 pour cent du salaire social minimum pour salariés non qualifiés.
 
 ###### Art. L. 514-9.
 
@@ -10740,11 +11495,15 @@ Lorsque pour des causes de force majeure le plan de formation n’a pas pu être
 
 (2) Le Comité se compose de la manière suivante :
 
-1. deux délégués nommés par le ministre ;
-2. deux délégués nommés sur proposition du ministre ayant la Formation professionnelle dans ses attributions ;
-3. deux délégués nommés sur proposition du directeur de l’Agence pour le développement de l’emploi ;
-4. deux délégués nommés sur proposition des organisations syndicales les plus représentatives sur le plan national dans le secteur privé ;
-5. deux délégués nommés sur proposition des organisations professionnelles des employeurs.
+1° deux délégués nommés par le ministre ;
+
+2° deux délégués nommés sur proposition du ministre ayant la Formation professionnelle dans ses attributions ;
+
+3° deux délégués nommés sur proposition du directeur de l’Agence pour le développement de l’emploi ;
+
+4° deux délégués nommés sur proposition des organisations syndicales les plus représentatives sur le plan national dans le secteur privé ;
+
+5° deux délégués nommés sur proposition des organisations professionnelles des employeurs.
 
 La présidence du Comité est assurée par un des délégués visés à l’alinéa 1 <sup>er</sup> , points 1° et 3°.
 
@@ -10766,11 +11525,11 @@ Les membres du Comité et le président sont nommés par le ministre pour une du
 
 (2) II en est de même du salarié
 
-1. occupé à temps partiel au sens de l’article L. 123-1 concernant le travail volontaire à temps partiel, à condition qu’il ait effectué régulièrement seize heures de travail au moins par semaine auprès du même employeur;
-2. au service de plusieurs employeurs, à condition qu’il ait perdu un ou plusieurs emplois d’un total de seize heures au moins par semaine dans un délai d’un mois et que le revenu de travail mensuel qui lui reste soit inférieur à cent cinquante pour cent du salaire social minimum pour salariés non qualifiés âgés de plus de dix-huit ans occupés à plein temps;
-3. (
+1\. occupé à temps partiel au sens de l’article L. 123-1 concernant le travail volontaire à temps partiel, à condition qu’il ait effectué régulièrement seize heures de travail au moins par semaine auprès du même employeur;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) tombant dans le champ d’application de l’article L. 551-6, paragraphe (2), à condition que la première décision de reclassement professionnel se rapporte à un ou plusieurs emplois d’un total de seize heures au moins par semaine et que le revenu de travail mensuel restant soit inférieur à cent cinquante pour cent du salaire social minimum pour salariés non qualifiés âgés de plus de dix-huit ans occupés à plein temps.
+2\. au service de plusieurs employeurs, à condition qu’il ait perdu un ou plusieurs emplois d’un total de seize heures au moins par semaine dans un délai d’un mois et que le revenu de travail mensuel qui lui reste soit inférieur à cent cinquante pour cent du salaire social minimum pour salariés non qualifiés âgés de plus de dix-huit ans occupés à plein temps;
+
+3\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) tombant dans le champ d’application de l’article L. 551-6, paragraphe (2), à condition que la première décision de reclassement professionnel se rapporte à un ou plusieurs emplois d’un total de seize heures au moins par semaine et que le revenu de travail mensuel restant soit inférieur à cent cinquante pour cent du salaire social minimum pour salariés non qualifiés âgés de plus de dix-huit ans occupés à plein temps.
 
 Pour le salarié à temps partiel embauché sur un poste de travail libéré partiellement par un salarié admis à la préretraite progressive, les conditions d’obtention de l’indemnité de chômage prévues à l’alinéa qui précède ne sont pas applicables.
 
@@ -10788,23 +11547,23 @@ Les dispositions de l’article L. 521-1 sont applicables sans distinction de se
 
 Pour être admis au bénéfice de l’indemnité de chômage complet, le salarié doit répondre aux conditions d’admission suivantes:
 
-1. être chômeur involontaire;
-2. être domicilié sur le territoire luxembourgeois au moment de la notification du licenciement dans le cadre d’une relation de travail à durée indéterminée et au plus tard six mois avant le terme du contrat dans le cadre d’une relation de travail à durée déterminée et y avoir perdu son dernier emploi, sans préjudice des règles applicables en vertu de la réglementation communautaire ou de conventions bilatérales ou multilatérales en vigueur;
-3. être âgé de seize ans au moins et de soixante-quatre ans au plus;
-4. (
+1\. être chômeur involontaire;
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) être apte au travail, disponible pour le marché du travail et prêt à accepter tout emploi approprié dont les critères relatifs au niveau de rémunération augmenté, le cas échéant de l’aide temporaire au réemploi, à l’aptitude professionnelle, à l’aptitude physique et psychique, au trajet journalier et à la situation familiale, au régime de travail, à la promesse d’embauche et aux conditions de travail sont fixés par règlement grand-ducal, et ceci sans préjudice de l’application des dispositions des articles L.551-1 à L.552-4.
-5. (...)
+2\. être domicilié sur le territoire luxembourgeois au moment de la notification du licenciement dans le cadre d’une relation de travail à durée indéterminée et au plus tard six mois avant le terme du contrat dans le cadre d’une relation de travail à durée déterminée et y avoir perdu son dernier emploi, sans préjudice des règles applicables en vertu de la réglementation communautaire ou de conventions bilatérales ou multilatérales en vigueur;
 
-   \*(abrogé par la [loi du 31 octobre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/10/31/n1/jo))* ;
-6. (
+3\. être âgé de seize ans au moins et de soixante-quatre ans au plus;
 
-   [L. 19 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a604/jo)) être inscrit comme demandeur d’emploi auprès des bureaux de placement publics et avoir introduit, électroniquement via une plateforme gouvernementale sécurisée, une demande d’octroi d’indemnité de chômage complet;
-7. remplir la condition de stage définie à l’article L. 521-6.
-8. (
+4\. ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) être apte au travail, disponible pour le marché du travail et prêt à accepter tout emploi approprié dont les critères relatifs au niveau de rémunération augmenté, le cas échéant de l’aide temporaire au réemploi, à l’aptitude professionnelle, à l’aptitude physique et psychique, au trajet journalier et à la situation familiale, au régime de travail, à la promesse d’embauche et aux conditions de travail sont fixés par règlement grand-ducal, et ceci sans préjudice de l’application des dispositions des articles L.551-1 à L.552-4.
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de responsable à la gestion journalière dans une société ;
-9. n’est pas titulaire d’une autorisation d’établissement.
+5\. (...) *(abrogé par la [loi du 31 octobre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/10/31/n1/jo))* ;
+
+6\. ([L. 19 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a604/jo)) être inscrit comme demandeur d’emploi auprès des bureaux de placement publics et avoir introduit, électroniquement via une plateforme gouvernementale sécurisée, une demande d’octroi d’indemnité de chômage complet;
+
+7\. remplir la condition de stage définie à l’article L. 521-6.
+
+8\. ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de responsable à la gestion journalière dans une société ;
+
+9\. n’est pas titulaire d’une autorisation d’établissement.
 
 ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) Les salariés qui ne remplissent pas une des conditions posées sous les points 8 et 9 ci-avant peuvent néanmoins être admis au bénéfice de l’indemnité de chômage complet en précisant dans leur demande d’admission qu’ils y ont droit après application de l’article L.521-18.
 
@@ -10818,8 +11577,9 @@ En cas de fausse déclaration et sans préjudice des peines pénales prévues au
 
 (1) Aucune indemnité de chômage n’est due:
 
-1. en cas d’abandon non justifié du dernier poste de travail, sauf si l’abandon est dû à des motifs exceptionnels, valables et convaincants;
-2. en cas de licenciement pour motif grave.
+1\. en cas d’abandon non justifié du dernier poste de travail, sauf si l’abandon est dû à des motifs exceptionnels, valables et convaincants;
+
+2\. en cas de licenciement pour motif grave.
 
 (2) ([L. 29 mars 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/03/29/a187/jo)) Dans les cas d’un licenciement pour motif grave, d’une démission motivée par un acte de harcèlement sexuel ou moral ou par des motifs graves procédant du fait ou de la faute de l’employeur, le demandeur d’emploi peut, par voie de simple requête, demander au président de la juridiction du travail compétente d’autoriser l’attribution par provision de l’indemnité de chômage complet en attendant la décision judiciaire définitive du litige concernant la régularité ou le bien-fondé de son licenciement ou de sa démission.
 
@@ -10953,9 +11713,11 @@ Pour le calcul de la durée d’indemnisation, le total des journées travaillé
 
 (3) Sans préjudice des autres conditions d’admission visées aux articles L. 521-3 à L. 521-5, le droit à l’indemnité de chômage du chômeur indemnisé âgé de cinquante ans accomplis et dont les droits à l’indemnisation sont épuisés conformément aux dispositions du paragraphe (2) qui précède est maintenu, à sa demande, pour une période de:
 
-- douze mois au plus, lorsque le chômeur indemnisé justifie de trente années au moins d’assurance obligatoire à l’assurance pension;
-- neuf mois au plus, lorsque le chômeur indemnisé justifie de vingt-cinq années au moins d’assurance obligatoire à l’assurance pension;
-- six mois au plus, lorsque le chômeur indemnisé justifie de vingt années au moins d’assurance obligatoire de l’assurance pension.
+aash douze mois au plus, lorsque le chômeur indemnisé justifie de trente années au moins d’assurance obligatoire à l’assurance pension;
+
+bash neuf mois au plus, lorsque le chômeur indemnisé justifie de vingt-cinq années au moins d’assurance obligatoire à l’assurance pension;
+
+cash six mois au plus, lorsque le chômeur indemnisé justifie de vingt années au moins d’assurance obligatoire de l’assurance pension.
 
 ([L. 19 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a604/jo)) La demande de maintien, visée à l’alinéa 1<sup>er</sup>, est introduite électroniquement via une plateforme gouvernementale sécurisée.
 
@@ -10981,13 +11743,15 @@ Pour l’application des dispositions de l’alinéa qui précède un règlement
 
 (1) Le droit à l’indemnité de chômage complet cesse:
 
-1. lorsque les limites prévues à l’article L. 521-11 sont atteintes, ou
-2. lorsqu’une ou plusieurs conditions d’octroi ne sont plus remplies, ou
-3. lorsque la limite d’âge de 65 ans accomplis est dépassée, ou
-4. en cas de refus non justifié d’un poste de travail approprié, ou
-5. (
+1\. lorsque les limites prévues à l’article L. 521-11 sont atteintes, ou
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) en cas de refus non justifié du chômeur de participer à des stages, cours ou travaux d’utilité publique lui assignés par l’Agence pour le développement de l’emploi conformément au paragraphe (3) de l’article L. 523-1.
+2\. lorsqu’une ou plusieurs conditions d’octroi ne sont plus remplies, ou
+
+3\. lorsque la limite d’âge de 65 ans accomplis est dépassée, ou
+
+4\. en cas de refus non justifié d’un poste de travail approprié, ou
+
+5\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) en cas de refus non justifié du chômeur de participer à des stages, cours ou travaux d’utilité publique lui assignés par l’Agence pour le développement de l’emploi conformément au paragraphe (3) de l’article L. 523-1.
 
 ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Lorsque le chômeur ne respecte pas ses obligations fixées par la convention de collaboration individualisée, notamment en matière d’efforts propres à déployer dans le cadre de la recherche active d’un emploi approprié, le directeur de l’Agence pour le développement de l’emploi peut décider soit le retrait de l’indemnité de chômage complet pendant une période allant de cinq jours à trois mois soit le retrait définitif du droit à l’indemnité.
 
@@ -11115,7 +11879,7 @@ Il en est de même des périodes couvertes par contrat d’apprentissage, des p�
 
 (1) ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) Le concours de la section spéciale du Fonds pour l’emploi au sens de l’article L.631-2, paragraphe (2) du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) est également attribué aux institutions publiques et privées qui organisent des cours de préformation, d’initiation, de formation professionnelle complémentaires, à l’intention de demandeurs d’emploi indemnisés ou non indemnisés, inscrits à l’Agence pour le développement de l’emploi, dans les limites et sous les conditions prévues dans une convention conclue entre l’institution formatrice et le Ministre ayant dans ses attributions l’emploi.
 
-Une indemnité de formation de quarante-et-un euros et soixante-sept cents [^note_4_14_0] par mois à l’indice 100 du coût de la vie est attribuée aux demandeurs d’emploi non-indemnisés inscrits à l’Agence pour le développement de l’emploi participant régulièrement et sur injonction de l’Agence pour le développement de l’emploi, à une mesure de formation visée par l’alinéa qui précède. Au cas où la mesure de formation n’est pas à temps complet, l’indemnité de formation est proratisée.
+Une indemnité de formation de quarante-et-un euros et soixante-sept cents[^note_4_14_0] par mois à l’indice 100 du coût de la vie est attribuée aux demandeurs d’emploi non-indemnisés inscrits à l’Agence pour le développement de l’emploi participant régulièrement et sur injonction de l’Agence pour le développement de l’emploi, à une mesure de formation visée par l’alinéa qui précède. Au cas où la mesure de formation n’est pas à temps complet, l’indemnité de formation est proratisée.
 
 Est considéré comme participant régulièrement à une mesure de formation, le demandeur d’emploi présentant un taux de fréquentation d’au moins quatre-vingts pour cent de la durée totale des cours.
 
@@ -11193,7 +11957,7 @@ Un tuteur est désigné par le promoteur pour assister et encadrer le demandeur 
 
 (1) ([L. 3 mars 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/03/03/a106/jo)) En cas de placement en contrat de réinsertion-emploi le chômeur indemnisé garde le bénéfice de son indemnité de chômage complet augmentée d’une indemnité complémentaire fixée à 323 euros à l’indice 775,17.
 
-([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) ([L. 3 mars 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/03/03/a106/jo)) De même, le demandeur d’emploi bénéficiant d’une indemnité d’attente, d’une indemnité professionnelle d’attente, d’une rente professionnelle d’attente, ou du revenu pour personnes gravement handicapées en garde le bénéfice augmenté d’une indemnité complémentaire fixée à quarante-et-un euros et soixante-sept cents [^note_4_16_0] à l’indice 100.
+([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) ([L. 3 mars 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/03/03/a106/jo)) De même, le demandeur d’emploi bénéficiant d’une indemnité d’attente, d’une indemnité professionnelle d’attente, d’une rente professionnelle d’attente, ou du revenu pour personnes gravement handicapées en garde le bénéfice augmenté d’une indemnité complémentaire fixée à quarante-et-un euros et soixante-sept cents[^note_4_16_0] à l’indice 100.
 
 Au cas où son indemnité de chômage, son indemnité d’attente, son indemnité professionnelle d’attente ou son revenu pour personnes gravement handicapées est inférieure au niveau du salaire social minimum pour salariés non qualifiés, le demandeur d’emploi touche une indemnité versée par l’Agence pour le développement de l’emploi à charge du Fonds pour l’emploi et égale au salaire social minimum pour salariés non qualifiés augmentée d’une indemnité complémentaire fixée à 323 euros à l’indice 775,17.
 
@@ -11303,7 +12067,7 @@ Au cas où le demandeur d’emploi embauché est du sexe sous-représenté et au
 
 ##### Art. L. 526-3.
 
-([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Le Fonds pour l’emploi prend en charge les frais de déplacement et les frais de garde d’enfants encourus par les parents en situation monoparentale disposant d’un revenu de ménage égal ou inférieur à une fois et demie le salaire social minimum pour salariés non qualifiés du fait de leur participation à une mesure de formation leur assignée par l’Agence pour le développement de l’emploi ou «l’Office national d’inclusion sociale» [^note_4_35_1] ou dans un Centre de formation professionnelle continue.
+([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Le Fonds pour l’emploi prend en charge les frais de déplacement et les frais de garde d’enfants encourus par les parents en situation monoparentale disposant d’un revenu de ménage égal ou inférieur à une fois et demie le salaire social minimum pour salariés non qualifiés du fait de leur participation à une mesure de formation leur assignée par l’Agence pour le développement de l’emploi ou «l’Office national d’inclusion sociale»[^note_4_35_1] ou dans un Centre de formation professionnelle continue.
 
 #### Chapitre VII — Dispositions administratives
 
@@ -11423,17 +12187,23 @@ Les montants alloués à l’employeur en vertu d’un contrat d’assurance con
 
 (1) Sont admis au bénéfice des dispositions du chapitre I <sup>er</sup> et du chapitre II du présent titre les salariés qui, involontairement et en dehors de tous motifs d’ordre personnel, ne peuvent plus travailler régulièrement par suite de l’effet immédiat des intempéries, à condition:
 
-1. d’être légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché;
-2. d’être occupés sur un lieu de travail situé sur le territoire du Grand-Duché au moment de la survenance du chômage;
-3. d’être assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois;
-4. d’être aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir d’une pension de vieillesse, d’une pension de vieillesse anticipée ou d’une pension d’invalidité.
+1\. d’être légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché;
+
+2\. d’être occupés sur un lieu de travail situé sur le territoire du Grand-Duché au moment de la survenance du chômage;
+
+3\. d’être assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois;
+
+4\. d’être aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir d’une pension de vieillesse, d’une pension de vieillesse anticipée ou d’une pension d’invalidité.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Toutefois, le ministre ayant l’Emploi dans ses attributions peut, sur avis de l’Agence pour le développement de l’emploi, admettre au bénéfice des dispositions du chapitre I <sup>er</sup> et du chapitre II du présent titre les salariés occupés, lors de la survenance du chômage, sur un lieu de travail situé dans les régions limitrophes du Grand-Duché, à condition:
 
-1. qu’ils soient légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché et dont l’activité normale se déroule sur le territoire luxembourgeois;
-2. que le lieu de travail concerné se situe à cinquante kilomètres au plus du point de frontière le plus proche;
-3. qu’ils soient assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois;
-4. qu’ils soient aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir d’une pension de vieillesse, d’une pension de vieillesse anticipée ou d’une pension d’invalidité.
+1\. qu’ils soient légalement occupés auprès d’une entreprise légalement établie sur le territoire du Grand-Duché et dont l’activité normale se déroule sur le territoire luxembourgeois;
+
+2\. que le lieu de travail concerné se situe à cinquante kilomètres au plus du point de frontière le plus proche;
+
+3\. qu’ils soient assurés en qualité de salariés auprès des organismes de sécurité sociale luxembourgeois;
+
+4\. qu’ils soient aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir d’une pension de vieillesse, d’une pension de vieillesse anticipée ou d’une pension d’invalidité.
 
 (3) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Le ministre ayant l’Emploi dans ses attributions, sur avis de l’Agence pour le développement de l’emploi, peut accorder des dérogations au point 2 du paragraphe (2), sur demande de l’employeur, dans des cas exceptionnels dûment justifiés.
 
@@ -11483,9 +12253,11 @@ L’indemnité compensatoire de salaire est due pour chaque heure de travail per
 
 Sont à déduire du nombre des heures perdues:
 
-1. les heures de travail perdues qui ont été récupérées à l’entreprise au cours du mois considéré,
-2. les heures de travail effectuées au cours du mois pour le compte d’autres employeurs; le salarié est tenu de signaler à son employeur normal les heures de travail accessoires ainsi effectuées,
-3. les heures de travail supplémentaires dépassant la durée de travail hebdomadaire normale du salarié.
+1\. les heures de travail perdues qui ont été récupérées à l’entreprise au cours du mois considéré,
+
+2\. les heures de travail effectuées au cours du mois pour le compte d’autres employeurs; le salarié est tenu de signaler à son employeur normal les heures de travail accessoires ainsi effectuées,
+
+3\. les heures de travail supplémentaires dépassant la durée de travail hebdomadaire normale du salarié.
 
 Les sanctions prévues à l’article L. 533-5 sont applicables aux salariés qui omettent de faire des déclarations ou qui font des déclarations inexactes au sujet des heures de travail accessoires effectuées ou qui, sans motifs valables, refusent de récupérer des heures de travail perdues.
 
@@ -11515,18 +12287,21 @@ Les heures de travail perdues indemnisées en vertu du présent titre sont assim
 
 ([L. 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/22/n16/jo)) L’indemnité compensatoire de salaire avancée par l’employeur concerné en vertu des dispositions du présent titre est prise en charge par l’employeur et par le fonds pour l’emploi selon les modalités suivantes:
 
-1. l’indemnité compensatoire de salaire correspondant à la première tranche de seize heures perdues au maximum par mois de calendrier est prise en charge par l’employeur;
-2. le montant du remboursement à verser par le Fonds pour l’emploi à l’employeur concerné correspond au montant global de l’indemnité compensatoire de salaire avancée par l’employeur pour les heures de travail perdues au-delà de la tranche telle que définie au point 1 ci-dessus;
-3. (
+1\. l’indemnité compensatoire de salaire correspondant à la première tranche de seize heures perdues au maximum par mois de calendrier est prise en charge par l’employeur;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) le versement de l’indemnité compensatoire de salaire et le remboursement par le Fonds pour l’emploi selon les modalités fixées au présent article sont limités à un maximum de trois cent cinquante heures de travail par salarié et par année de calendrier. En cas d’intempéries rigoureuses ou de sinistre grave d’une durée exceptionnelle, ce nombre-limite peut être majoré, par décision du Gouvernement en conseil sur avis de l’Agence pour le développement de l’emploi, jusqu’à cinq cents heures;
-4. les salaires dus pour les jours de congé payé et pour les jours fériés légaux ou d’usage ainsi que d’autres prestations extra-légales restent à charge de l’employeur;
-5. les cotisations patronales de sécurité sociale, à l’exception toutefois des cotisations d’assurance contre les accidents et des cotisations dues en matière de prestations familiales, restent à charge de l’employeur;
-6. le remboursement est refusé pour des heures ou journées de chômage reconnues comme non justifiées;
-7. (
+2\. le montant du remboursement à verser par le Fonds pour l’emploi à l’employeur concerné correspond au montant global de l’indemnité compensatoire de salaire avancée par l’employeur pour les heures de travail perdues au-delà de la tranche telle que définie au point 1 ci-dessus;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) le remboursement est refusé pour les heures ou journées de chômage non déclarées en temps utile à l’Agence pour le développement de l’emploi conformément aux articles L. 531-4 et L. 532-3, dans la mesure où ce retard avait provoqué des dépenses qui auraient pu être évitées;
-8. le refus de remboursement prononcé en vertu des points 6 et 7 ne peut préjudicier le droit du salarié de toucher l’indemnité compensatoire de salaire conformément aux articles L. 533-8 et L. 533-9.
+3\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) le versement de l’indemnité compensatoire de salaire et le remboursement par le Fonds pour l’emploi selon les modalités fixées au présent article sont limités à un maximum de trois cent cinquante heures de travail par salarié et par année de calendrier. En cas d’intempéries rigoureuses ou de sinistre grave d’une durée exceptionnelle, ce nombre-limite peut être majoré, par décision du Gouvernement en conseil sur avis de l’Agence pour le développement de l’emploi, jusqu’à cinq cents heures;
+
+4\. les salaires dus pour les jours de congé payé et pour les jours fériés légaux ou d’usage ainsi que d’autres prestations extra-légales restent à charge de l’employeur;
+
+5\. les cotisations patronales de sécurité sociale, à l’exception toutefois des cotisations d’assurance contre les accidents et des cotisations dues en matière de prestations familiales, restent à charge de l’employeur;
+
+6\. le remboursement est refusé pour des heures ou journées de chômage reconnues comme non justifiées;
+
+7\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) le remboursement est refusé pour les heures ou journées de chômage non déclarées en temps utile à l’Agence pour le développement de l’emploi conformément aux articles L. 531-4 et L. 532-3, dans la mesure où ce retard avait provoqué des dépenses qui auraient pu être évitées;
+
+8\. le refus de remboursement prononcé en vertu des points 6 et 7 ne peut préjudicier le droit du salarié de toucher l’indemnité compensatoire de salaire conformément aux articles L. 533-8 et L. 533-9.
 
 ##### Art. L. 533-14.
 
@@ -11572,21 +12347,27 @@ La condition d’inscription auprès d’un des bureaux de placement de l’Agen
 
 (2) Le remboursement de la part patronale des cotisations de sécurité sociale est dû si le bénéficiaire:
 
-1. est légalement occupé auprès d’une entreprise qui dispose d’un établissement stable au sens de la
+1° est légalement occupé auprès d’une entreprise qui dispose d’un établissement stable au sens de la [loi modifiée du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales;
 
-   [loi modifiée du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales;
-2. est assuré en qualité de salarié auprès des organismes de sécurité sociale luxembourgeois;
-3. est apte au travail;
-4. ne jouit ni d’une pension de vieillesse anticipée, ni d’une pension de vieillesse, ni d’une indemnité d’attente, ni d’une indemnité professionnelle d’attente, ni d’une rente complète;
-5. n’est pas le titulaire de l’autorisation d’établissement de l’entreprise auprès de laquelle il est employé;
-6. n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué à la gestion journalière de la société ou de l’association sans but lucratif auprès de laquelle il est employé;
-7. ne détient pas de participation dans la société, non cotée en bourse, auprès de laquelle il est employé;
-8. n’a pas travaillé pour l’entreprise ou l’entité économique et sociale au sens de l’article L.161-2, alinéa 2 au courant des cinq dernières années précédant la relation de travail pour laquelle le remboursement de la part patronale des cotisations de sécurité sociale est sollicité.
+2° est assuré en qualité de salarié auprès des organismes de sécurité sociale luxembourgeois;
+
+3° est apte au travail;
+
+4° ne jouit ni d’une pension de vieillesse anticipée, ni d’une pension de vieillesse, ni d’une indemnité d’attente, ni d’une indemnité professionnelle d’attente, ni d’une rente complète;
+
+5° n’est pas le titulaire de l’autorisation d’établissement de l’entreprise auprès de laquelle il est employé;
+
+6° n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué à la gestion journalière de la société ou de l’association sans but lucratif auprès de laquelle il est employé;
+
+7° ne détient pas de participation dans la société, non cotée en bourse, auprès de laquelle il est employé;
+
+8° n’a pas travaillé pour l’entreprise ou l’entité économique et sociale au sens de l’article L.161-2, alinéa 2 au courant des cinq dernières années précédant la relation de travail pour laquelle le remboursement de la part patronale des cotisations de sécurité sociale est sollicité.
 
 (3) Aucun remboursement de la part patronale des cotisations de sécurité sociale n’est dû si le conjoint, le partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou un ou plusieurs parents ou alliés jusqu’au second degré inclus:
 
-1. détiennent la majorité du capital de la société auprès de laquelle le bénéficiaire est employé;
-2. ont détenu à un moment au courant des deux années précédant la conclusion du contrat de travail la majorité des parts ou actions du capital de la société auprès de laquelle le bénéficiaire est employé.
+1° détiennent la majorité du capital de la société auprès de laquelle le bénéficiaire est employé;
+
+2° ont détenu à un moment au courant des deux années précédant la conclusion du contrat de travail la majorité des parts ou actions du capital de la société auprès de laquelle le bénéficiaire est employé.
 
 ###### Art. L. 541-2 — ([L. 20 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a684/jo))
 
@@ -11652,12 +12433,17 @@ Pour déterminer le montant du remboursement les frais salariaux exposés pris e
 
 (1) Une aide temporaire au réemploi peut être accordée :
 
-- au salarié quittant volontairement l’entreprise confrontée à des difficultés économiques d’ordre structurel ou conjoncturel ;
-- au salarié faisant l’objet d’un licenciement pour motif économique ;
-- au salarié menacé de façon immédiate de faire l’objet d’un licenciement pour motif économique ;
-- au salarié licencié dans le cadre de mesures de redressement, de réorganisation ou de restructuration comportant suppression d’emplois ;
-- au salarié perdant son emploi en raison de la déclaration en état de faillite, du jugement ordonnant la liquidation judiciaire, de l’incapacité physique, du décès de l’employeur ;
-- au salarié en prêt temporaire de main d’œuvre dans une autre entreprise ne faisant pas partie du même groupe dans le cadre d’un plan de maintien dans l’emploi homologué par le Ministre ayant l’emploi dans ses attributions conformément aux dispositions de l’article L.513-3.
+aot au salarié quittant volontairement l’entreprise confrontée à des difficultés économiques d’ordre structurel ou conjoncturel ;
+
+bot au salarié faisant l’objet d’un licenciement pour motif économique ;
+
+cot au salarié menacé de façon immédiate de faire l’objet d’un licenciement pour motif économique ;
+
+dot au salarié licencié dans le cadre de mesures de redressement, de réorganisation ou de restructuration comportant suppression d’emplois ;
+
+eot au salarié perdant son emploi en raison de la déclaration en état de faillite, du jugement ordonnant la liquidation judiciaire, de l’incapacité physique, du décès de l’employeur ;
+
+fot au salarié en prêt temporaire de main d’œuvre dans une autre entreprise ne faisant pas partie du même groupe dans le cadre d’un plan de maintien dans l’emploi homologué par le Ministre ayant l’emploi dans ses attributions conformément aux dispositions de l’article L.513-3.
 
 Dans tous les cas le personnel de l’entreprise d’origine doit avoir été déclaré éligible par le Ministre ayant l’emploi dans ses attributions qui statue sur requête de toute partie intéressée.
 
@@ -11665,13 +12451,19 @@ Pour pouvoir bénéficier de l’aide, le salarié doit avoir travaillé légale
 
 (2) Pour que le Ministre ayant l’emploi dans ses attributions puisse déclarer éligible une entreprise à l’aide temporaire au réemploi, il faut que :
 
-- soit le chef d’entreprise ait engagé les procédures de notification et de consultation prévues aux articles L.166-2 et suivants, concernant les licenciements collectifs ;
-- soit l’entreprise ait sollicité et obtenu l’application du régime d’indemnisation des chômeurs partiels conformément aux articles L.511-3. et suivants ;
-- soit l’entreprise ait sollicité et obtenu l’application du régime d’indemnisation des chômeurs partiels sur la base des dispositions de l’article L.512-7 ;
-- soit l’entreprise se trouve placée sous le régime de la gestion contrôlée ou des autres mesures préventives de la faillite ;
-- soit l’entreprise se trouve en voie de liquidation ;
-- soit l’entreprise ait conclu un plan de maintien dans l’emploi conformément à l’article L.513-3 homologué par le Ministre ayant l’emploi dans ses attributions ;
-- soit l’entreprise ait été déclarée en état de faillite ou en liquidation judiciaire.
+aash soit le chef d’entreprise ait engagé les procédures de notification et de consultation prévues aux articles L.166-2 et suivants, concernant les licenciements collectifs ;
+
+bash soit l’entreprise ait sollicité et obtenu l’application du régime d’indemnisation des chômeurs partiels conformément aux articles L.511-3. et suivants ;
+
+cash soit l’entreprise ait sollicité et obtenu l’application du régime d’indemnisation des chômeurs partiels sur la base des dispositions de l’article L.512-7 ;
+
+dash soit l’entreprise se trouve placée sous le régime de la gestion contrôlée ou des autres mesures préventives de la faillite ;
+
+eash soit l’entreprise se trouve en voie de liquidation ;
+
+fash soit l’entreprise ait conclu un plan de maintien dans l’emploi conformément à l’article L.513-3 homologué par le Ministre ayant l’emploi dans ses attributions ;
+
+gash soit l’entreprise ait été déclarée en état de faillite ou en liquidation judiciaire.
 
 ###### Art. L. 541-8.
 
@@ -11683,27 +12475,31 @@ Le poste vacant doit avoir été déclaré préalablement à l’Agence pour le 
 
 (1) L’aide temporaire au réemploi est due si le bénéficiaire :
 
-1. est occupé moyennant contrat de travail à durée indéterminée ou contrat de travail à durée déterminée dont la durée initiale est de dix-huit mois auprès d’une entreprise qui dispose d’un établissement fixe au sens de la
+a) est occupé moyennant contrat de travail à durée indéterminée ou contrat de travail à durée déterminée dont la durée initiale est de dix-huit mois auprès d’une entreprise qui dispose d’un établissement fixe au sens de la [loi modifiée du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales sur le territoire du Grand-Duché ;
 
-   [loi modifiée du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales sur le territoire du Grand-Duché ;
+Ce contrat de travail peut être conclu pour une période inférieure à dix-huit mois en cas de remplacement d’un salarié temporairement absent en raison de l’exercice de son droit au congé parental, consécutif ou non à un congé de maternité ou un congé d’accueil.
 
-   Ce contrat de travail peut être conclu pour une période inférieure à dix-huit mois en cas de remplacement d’un salarié temporairement absent en raison de l’exercice de son droit au congé parental, consécutif ou non à un congé de maternité ou un congé d’accueil.
-2. est assuré en qualité de salarié auprès des organismes de sécurité sociale luxembourgeois ;
-3. est en possession d’un certificat d’aptitude au poste de travail, établi par le médecin du travail compétent lors de l’embauche au nouveau poste de travail ;
-4. ne jouit ni d’une pension de vieillesse anticipée, ni d’une pension de vieillesse, ni d’une indemnité d’attente, ni d’une indemnité professionnelle d’attente, ni d’une rente complète ;
-5. n’est pas le titulaire de l’autorisation d’établissement de l’entreprise auprès de laquelle il est employé ;
-6. n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de responsable à la gestion journalière de la société ou de l’association sans but lucratif auprès de laquelle il est employé ;
-7. ne détient pas de participation dans la société, non cotée en bourse, auprès de laquelle il est employé.
+b) est assuré en qualité de salarié auprès des organismes de sécurité sociale luxembourgeois ;
+
+c) est en possession d’un certificat d’aptitude au poste de travail, établi par le médecin du travail compétent lors de l’embauche au nouveau poste de travail ;
+
+d) ne jouit ni d’une pension de vieillesse anticipée, ni d’une pension de vieillesse, ni d’une indemnité d’attente, ni d’une indemnité professionnelle d’attente, ni d’une rente complète ;
+
+e) n’est pas le titulaire de l’autorisation d’établissement de l’entreprise auprès de laquelle il est employé ;
+
+f) n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de responsable à la gestion journalière de la société ou de l’association sans but lucratif auprès de laquelle il est employé ;
+
+g) ne détient pas de participation dans la société, non cotée en bourse, auprès de laquelle il est employé.
 
 (2) Aucune aide temporaire au réemploi n’est due si :
 
-1. le conjoint, le partenaire au sens de la
+a) le conjoint, le partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou un ou plusieurs parents ou alliés jusqu’au second degré inclus :
 
-   [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou un ou plusieurs parents ou alliés jusqu’au second degré inclus :
+aash détiennent la majorité du capital de la société auprès de laquelle le bénéficiaire est employé ;
 
-   - détiennent la majorité du capital de la société auprès de laquelle le bénéficiaire est employé ;
-   - ont détenu à un moment au courant des deux années précédant la conclusion du contrat de travail la majorité des parts ou actions du capital de la société auprès de laquelle le bénéficiaire est employé ;
-2. le bénéficiaire a déjà travaillé pour l’entreprise ou l’entité économique et sociale au sens de l’article L.161-2 alinéa 2 au courant des cinq dernières années précédant la relation de travail pour laquelle l’aide temporaire au réemploi est sollicitée.
+bash ont détenu à un moment au courant des deux années précédant la conclusion du contrat de travail la majorité des parts ou actions du capital de la société auprès de laquelle le bénéficiaire est employé ;
+
+b) le bénéficiaire a déjà travaillé pour l’entreprise ou l’entité économique et sociale au sens de l’article L.161-2 alinéa 2 au courant des cinq dernières années précédant la relation de travail pour laquelle l’aide temporaire au réemploi est sollicitée.
 
 ###### Art. L. 541-10.
 
@@ -11757,21 +12553,27 @@ La formation professionnelle continue et la formation de reconversion profession
 
 Elles s’adressent aux personnes qui:
 
-1. souhaitent acquérir une qualification;
-2. souhaitent maintenir ou étendre une qualification;
-3. risquent de perdre leur emploi, sont en situation de chômage ou ne peuvent plus exercer leur profession.
+1\. souhaitent acquérir une qualification;
+
+2\. souhaitent maintenir ou étendre une qualification;
+
+3\. risquent de perdre leur emploi, sont en situation de chômage ou ne peuvent plus exercer leur profession.
 
 ###### Art. L. 542-2 — ([L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo))
 
-(1) ([L. 28 mars 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/03/28/n1/jo)) La formation professionnelle continue et la formation de reconversion professionnelle au sens de l’article 42 [^note_4_26_1] peuvent être organisées par:
+(1) ([L. 28 mars 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/03/28/n1/jo)) La formation professionnelle continue et la formation de reconversion professionnelle au sens de l’article 42[^note_4_26_1] peuvent être organisées par:
 
-1. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
-2. les chambres professionnelles;
-3. les communes;
-4. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre ayant la formation professionnelle dans ses attributions;
-5. les ministères, administrations et établissements publics.
+1\. les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;
 
-(2) Toute autre institution ou personne désirant obtenir l’autorisation pour organiser des formations dans le cadre de l’article 42 [^note_4_26_1] doit se conformer à l’article L. 542-8 du [Code du Travail](https://legilux.public.lu/eli/etat/leg/code/travail).
+2\. les chambres professionnelles;
+
+3\. les communes;
+
+4\. les fondations, les personnes physiques et associations privées agréées individuellement à cet effet par le ministre ayant la formation professionnelle dans ses attributions;
+
+5\. les ministères, administrations et établissements publics.
+
+(2) Toute autre institution ou personne désirant obtenir l’autorisation pour organiser des formations dans le cadre de l’article 42[^note_4_26_1] doit se conformer à l’article L. 542-8 du [Code du Travail](https://legilux.public.lu/eli/etat/leg/code/travail).
 
 ###### Art. L. 542-3 — ([L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo))
 
@@ -11779,12 +12581,17 @@ Il est créé un label de qualité pour les institutions et personnes visées à
 
 Suite à une demande écrite qui précise:
 
-1. les finalités et objectifs des formations proposées;
-2. les programmes et méthodes;
-3. les mesures d’orientation et d’accompagnement des apprenants;
-4. les critères et méthodes d’évaluation;
-5. les qualifications professionnelles des formateurs;
-6. l’organisation pratique des formations.
+1\. les finalités et objectifs des formations proposées;
+
+2\. les programmes et méthodes;
+
+3\. les mesures d’orientation et d’accompagnement des apprenants;
+
+4\. les critères et méthodes d’évaluation;
+
+5\. les qualifications professionnelles des formateurs;
+
+6\. l’organisation pratique des formations.
 
 Le ministre décerne le label de qualité pour une durée de trois ans. Il peut être renouvelé. Il peut être retiré au cas où les conditions d’obtention ne sont plus remplies.
 
@@ -11798,9 +12605,11 @@ Le ministre décerne le label de qualité pour une durée de trois ans. Il peut 
 
 (1) La formation professionnelle continue, au sens du présent chapitre, désignée par la suite par le terme «la formation», comprend toutes les activités de formation ou d’enseignement qui s’adressent aux bénéficiaires définis au paragraphe (3) ci-dessous et ayant pour objet:
 
-1. l’adaptation de la qualification du salarié et du chef d’entreprise par la mise à niveau de leurs compétences aux techniques et technologies d’organisation, de production ou de commercialisation;
-2. le recyclage du salarié et du chef d’entreprise en vue d’accéder à une autre activité professionnelle;
-3. la promotion du salarié par le biais de sa préparation à des tâches ou des postes plus exigeants ou à plus grande responsabilité et la mise en valeur de compétences et de potentiels non ou incomplètement utilisés.
+1\. l’adaptation de la qualification du salarié et du chef d’entreprise par la mise à niveau de leurs compétences aux techniques et technologies d’organisation, de production ou de commercialisation;
+
+2\. le recyclage du salarié et du chef d’entreprise en vue d’accéder à une autre activité professionnelle;
+
+3\. la promotion du salarié par le biais de sa préparation à des tâches ou des postes plus exigeants ou à plus grande responsabilité et la mise en valeur de compétences et de potentiels non ou incomplètement utilisés.
 
 ([L. 29 août 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/08/29/a798/jo)) La formation prévue par le présent chapitre ne concerne que le secteur privé sans distinction de l’activité professionnelle.Elle ne comprend pas les formations continues à caractère obligatoire prévues par le législateur pour l’exercice des professions réglementées.
 
@@ -11816,9 +12625,11 @@ Le ministre décerne le label de qualité pour une durée de trois ans. Il peut 
 
 (2) Ne sont pas soumis aux obligations d’autorisation définies au paragraphe (1):
 
-1. les organismes de formation professionnelle continue légalement établis dans un pays membre de l’Union européenne ou dans un pays ayant ratifié un traité bilatéral avec le Grand-Duché de Luxembourg sur cette matière et disposant d’une autorisation dans le pays d’origine;
-2. les entreprises, fournisseurs de matériel et de services favorisant le progrès technologique et dispensant une formation en relation avec ce matériel;
-3. les prestataires bénéficiant d’un agrément de la part du Ministère de la Santé.
+1\. les organismes de formation professionnelle continue légalement établis dans un pays membre de l’Union européenne ou dans un pays ayant ratifié un traité bilatéral avec le Grand-Duché de Luxembourg sur cette matière et disposant d’une autorisation dans le pays d’origine;
+
+2\. les entreprises, fournisseurs de matériel et de services favorisant le progrès technologique et dispensant une formation en relation avec ce matériel;
+
+3\. les prestataires bénéficiant d’un agrément de la part du Ministère de la Santé.
 
 ###### Art. L. 542-9.
 
@@ -11852,19 +12663,25 @@ Le ministre décerne le label de qualité pour une durée de trois ans. Il peut 
 
 (2) Pour être éligible au titre des articles L. 542-12 et L. 542-13, la demande de cofinancement doit comprendre les données suivantes:
 
-1. les intitulés des formations réalisées;
-2. les dates, les durées et les lieux des formations, ainsi que les nombres respectifs de personnes formées, leur sexe et leur qualification;
-3. l’identification des formateurs internes et des organismes de formation externes ou fournisseurs-formateurs;
-4. (
+1\. les intitulés des formations réalisées;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) l’avis de la délégation du personnel ou la décision prise sur base de l’article L. 414-9;
-5. le mode d’organisation de la formation;
+2\. les dates, les durées et les lieux des formations, ainsi que les nombres respectifs de personnes formées, leur sexe et leur qualification;
 
-   1. une formation externe est assurée par un organisme de formation ou un formateur externe à l’entreprise;
-   2. une formation interne est une formation structurée dispensée par un salarié de l’entreprise à au moins deux salariés de l’entreprise ou une formation d’adaptation au poste de travail dispensée par un salarié de l’entreprise à un seul salarié de l’entreprise;
-   3. une formation de type «e-learning» est une formation qui utilise des technologies de l’information et de la communication;
-6. le décompte financier, pièces justificatives à l’appui, ou certifié exact par un réviseur d’entreprises;
-7. la note d’évaluation de la délégation du personnel ou du comité mixte de l’entreprise de plus de 15 salariés.
+3\. l’identification des formateurs internes et des organismes de formation externes ou fournisseurs-formateurs;
+
+4\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) l’avis de la délégation du personnel ou la décision prise sur base de l’article L. 414-9;
+
+5\. le mode d’organisation de la formation;
+
+a. une formation externe est assurée par un organisme de formation ou un formateur externe à l’entreprise;
+
+b. une formation interne est une formation structurée dispensée par un salarié de l’entreprise à au moins deux salariés de l’entreprise ou une formation d’adaptation au poste de travail dispensée par un salarié de l’entreprise à un seul salarié de l’entreprise;
+
+c. une formation de type «e-learning» est une formation qui utilise des technologies de l’information et de la communication;
+
+6\. le décompte financier, pièces justificatives à l’appui, ou certifié exact par un réviseur d’entreprises;
+
+7\. la note d’évaluation de la délégation du personnel ou du comité mixte de l’entreprise de plus de 15 salariés.
 
 La demande de cofinancement doit parvenir au ministre ayant la Formation professionnelle continue dans ses attributions dans un délai de 5 mois après la clôture de l’exercice d’exploitation.
 
@@ -11872,9 +12689,11 @@ Il définit un formulaire type pour la demande de cofinancement.
 
 (3) Il est créé une commission consultative qui a pour mission:
 
-1. de conseiller le ministre dans le domaine du soutien et du développement de la formation professionnelle continue au sens du présent chapitre;
-2. de donner son avis dans tous les cas prévus par le présent chapitre et les règlements y afférents;
-3. de statuer sur l’éligibilité des demandes de cofinancement telles que définies aux articles L. 542-9 à L. 542-11, à des fins d’accord ou de refus de l’aide financière publique.
+1\. de conseiller le ministre dans le domaine du soutien et du développement de la formation professionnelle continue au sens du présent chapitre;
+
+2\. de donner son avis dans tous les cas prévus par le présent chapitre et les règlements y afférents;
+
+3\. de statuer sur l’éligibilité des demandes de cofinancement telles que définies aux articles L. 542-9 à L. 542-11, à des fins d’accord ou de refus de l’aide financière publique.
 
 Un règlement grand-ducal détermine la composition et le fonctionnement de cette commission consultative.
 
@@ -11888,21 +12707,31 @@ L’État contribue au coût de l’investissement en formation sous forme d’u
 
 Selon le nombre de salariés occupés au sein d’une entreprise, l’investissement en formation est plafonné aux taux suivants:
 
-- vingt pour cent de la masse salariale pour les entreprises occupant 1 à 9 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé;
-- trois pour cent de la masse salariale pour les entreprises occupant de 10 à 249 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé;
-- deux pour cent de la masse salariale pour les entreprises occupant plus de 249 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé.
+aash vingt pour cent de la masse salariale pour les entreprises occupant 1 à 9 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé;
+
+bash trois pour cent de la masse salariale pour les entreprises occupant de 10 à 249 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé;
+
+cash deux pour cent de la masse salariale pour les entreprises occupant plus de 249 salariés au 31 décembre de l’année précédant l’exercice pour lequel un cofinancement est demandé.
 
 (2) Les frais éligibles au cofinancement par l’État sont les suivants:
 
-1. les droits d’inscription des participants à la formation;
-2. les frais de restauration et d’hébergement;
-3. les frais de déplacement des participants et des formateurs internes;
-4. le coût salarial des formateurs internes;
-5. le coût des fournisseurs-formateurs et des organismes de formation externes;
-6. le coût salarial des participants calculé sur la base d’un salaire horaire moyen résultant du montant inscrit sur le certificat renseignant sur la masse salariale émis par le Centre commun de la sécurité sociale;
-7. le coût du réviseur d’entreprise relatif à l’examen du décompte financier;
-8. les frais de logiciel de gestion de la formation;
-9. les frais de cotisation, basés sur une convention collective ou un accord interprofessionnel, pour les organismes de formation.
+1\. les droits d’inscription des participants à la formation;
+
+2\. les frais de restauration et d’hébergement;
+
+3\. les frais de déplacement des participants et des formateurs internes;
+
+4\. le coût salarial des formateurs internes;
+
+5\. le coût des fournisseurs-formateurs et des organismes de formation externes;
+
+6\. le coût salarial des participants calculé sur la base d’un salaire horaire moyen résultant du montant inscrit sur le certificat renseignant sur la masse salariale émis par le Centre commun de la sécurité sociale;
+
+7\. le coût du réviseur d’entreprise relatif à l’examen du décompte financier;
+
+8\. les frais de logiciel de gestion de la formation;
+
+9\. les frais de cotisation, basés sur une convention collective ou un accord interprofessionnel, pour les organismes de formation.
 
 Les modalités d’application relatives au paragraphe 2 du présent article sont précisées par règlement grand-ducal.
 
@@ -11916,8 +12745,9 @@ Le cofinancement de la formation d’adaptation au poste de travail est exclusiv
 
 Est à considérer comme salarié bénéficiant d’un cofinancement particulier:
 
-1. la personne qui n’est pas en possession d’un diplôme reconnu par les autorités publiques et qui a une ancienneté de service inférieure à dix ans à la date de début de mise en œuvre du plan de formation de l’entreprise;
-2. la personne qui a dépassé l’âge de 45 ans à la date de début de mise en œuvre du plan de formation de l’entreprise.
+1\. la personne qui n’est pas en possession d’un diplôme reconnu par les autorités publiques et qui a une ancienneté de service inférieure à dix ans à la date de début de mise en œuvre du plan de formation de l’entreprise;
+
+2\. la personne qui a dépassé l’âge de 45 ans à la date de début de mise en œuvre du plan de formation de l’entreprise.
 
 ###### Art. L. 542-14.
 
@@ -11943,8 +12773,9 @@ Le remboursement est fixé à cent pour cent pour l’exercice en cours et pour 
 
 ([L. 29 août 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/08/29/a798/jo)) Dans le cadre de la formation au sens du présent chapitre le «prestataire de formation» délivre deux types de certificat:
 
-1. le certificat délivré à la suite d’une épreuve d’examen ou d’un test de connaissance indique le programme suivi ainsi que le résultat obtenu par le candidat;
-2. le certificat de fréquentation.
+1\. le certificat délivré à la suite d’une épreuve d’examen ou d’un test de connaissance indique le programme suivi ainsi que le résultat obtenu par le candidat;
+
+2\. le certificat de fréquentation.
 
 ###### Art. L. 542-18.
 
@@ -11964,7 +12795,7 @@ Un recours en réformation est ouvert devant le tribunal administratif contre la
 
 Il doit être introduit dans un délai de trois mois à compter de la notification de la décision à l’entreprise.
 
-#### Chapitre III — Insertion des jeunes demandeurs d’emploi dans la vie active [^note_4_28_0] ([L. 29 mars 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n1/jo))
+#### Chapitre III — Insertion des jeunes demandeurs d’emploi dans la vie active[^note_4_28_0] ([L. 29 mars 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n1/jo))
 
 ##### *Section 1.* — *Le contrat d’appui-emploi*
 
@@ -12262,15 +13093,11 @@ Les salariés qui occupent leur dernier poste de travail depuis moins de trois a
 
 (2) ([L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) Toutefois, les conditions d’ancienneté et d’exigence du certificat d’aptitude prévues au paragraphe 1 <sup>er</sup> ne sont pas exigées pour :
 
-1. (
+1\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo))Le bénéficiaire d’une pension d’invalidité auquel cette dernière a été accordée immédiatement à la suite de l’exercice d’une activité salariée auquel celle-ci a été retirée en vertu de l’article 193 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) au motif qu’il ne remplit plus les conditions prévues à l’article 187 du [même Code](https://legilux.public.lu/eli/etat/leg/code/securite_sociale), mais qui présente une incapacité pour exécuter les tâches correspondant à son dernier poste de travail;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo))Le bénéficiaire d’une pension d’invalidité auquel cette dernière a été accordée immédiatement à la suite de l’exercice d’une activité salariée auquel celle-ci a été retirée en vertu de l’article 193 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) au motif qu’il ne remplit plus les conditions prévues à l’article 187 du [même Code](https://legilux.public.lu/eli/etat/leg/code/securite_sociale), mais qui présente une incapacité pour exécuter les tâches correspondant à son dernier poste de travail;
-2. (
+2\. ([L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) le salarié qui présente une incapacité pour exécuter les tâches correspondant au dernier poste de travail imputable principalement aux séquelles d’un accident du travail ou d’une maladie professionnelle reconnus en vertu des dispositions du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale), survenus pendant l’affiliation, ouvrant droit à une rente partielle ou une rente professionnelle d’attente.
 
-   [L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) le salarié qui présente une incapacité pour exécuter les tâches correspondant au dernier poste de travail imputable principalement aux séquelles d’un accident du travail ou d’une maladie professionnelle reconnus en vertu des dispositions du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale), survenus pendant l’affiliation, ouvrant droit à une rente partielle ou une rente professionnelle d’attente.
-3. (
-
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) le bénéficiaire d’une rente complète résultant d’une activité salariée allouée en vertu de l’article 102 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) auquel celle-ci est retirée en application de l’article 123, alinéa 5 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) au motif qu’il n’est plus frappé d’une incapacité de travail totale, mais qui présente une incapacité pour exécuter les tâches correspondant à son dernier poste de travail.
+3\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) le bénéficiaire d’une rente complète résultant d’une activité salariée allouée en vertu de l’article 102 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) auquel celle-ci est retirée en application de l’article 123, alinéa 5 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale) au motif qu’il n’est plus frappé d’une incapacité de travail totale, mais qui présente une incapacité pour exécuter les tâches correspondant à son dernier poste de travail.
 
 (3) Le reclassement professionnel interne consiste, en ce qui concerne le secteur privé, dans un reclassement professionnel au sein de l’entreprise et, en ce qui concerne le secteur public, dans un reclassement professionnel au sein de l’administration ou du service public d’origine de l’agent, éventuellement à un autre poste ou sous un autre régime de travail adaptés à ses capacités résiduelles. L’aptitude à ce nouveau poste doit être constatée par le médecin du travail compétent. Ce constat d’aptitude au nouveau poste de travail par le médecin du travail compétent est à considérer comme preuve que l’employeur a satisfait à son obligation de reclassement au sens de l’article L. 551-3, paragraphe 2.
 
@@ -12306,9 +13133,9 @@ En cas de retrait d’une pension d’invalidité, respectivement d’une rente 
 
 Le revenu mensuel cotisable au titre de l’assurance pension réalisé au cours des douze mois de calendrier précédant la décision de reclassement professionnel ou, le cas échéant, précédant la mise en invalidité, respectivement l’attribution d’une rente complète, est adapté aux variations du coût de la vie conformément à l’article 11, paragraphe 1 <sup>er</sup> , de la [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat.
 
-Le revenu mensuel moyen cotisable au titre de l’assurance pension réalisé au cours des douze mois de calendrier précédant la décision de reclassement professionnel ou, le cas échéant, précédant la mise en invalidité, respectivement l’attribution d’une rente complète est adapté en cas de changement ultérieur rétroactif des salaires et rémunérations déclarés auprès du Centre commun de la sécurité sociale. [^note_4_38_0]
+Le revenu mensuel moyen cotisable au titre de l’assurance pension réalisé au cours des douze mois de calendrier précédant la décision de reclassement professionnel ou, le cas échéant, précédant la mise en invalidité, respectivement l’attribution d’une rente complète est adapté en cas de changement ultérieur rétroactif des salaires et rémunérations déclarés auprès du Centre commun de la sécurité sociale.[^note_4_38_0]
 
-([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) (...) [^note_4_38_1]
+([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) (...)[^note_4_38_1]
 
 L’indemnité compensatoire est payée par l’Agence pour le développement de l’emploi à charge du Fonds pour l’emploi.
 
@@ -12356,10 +13183,13 @@ L’indemnité compensatoire est adaptée aux variations du coût de la vie conf
 
 ([L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) En cas de dispense accordée par la Commission mixte, celle-ci décide un reclassement professionnel externe. Dans ce cas, dès la notification de la décision de reclassement professionnel externe, l’employeur est tenu de payer à son salarié, une indemnité forfaitaire qui varie en fonction de l’ancienneté de service du salarié comme suit :
 
-1. un mois de salaire après une ancienneté de service continus de cinq ans au moins ;
-2. deux mois de salaire après une ancienneté de service continus de dix ans au moins ;
-3. trois mois de salaire après une ancienneté de service continus de quinze ans au moins ;
-4. quatre mois de salaire après une ancienneté de service continus de vingt ans et plus.
+1° un mois de salaire après une ancienneté de service continus de cinq ans au moins ;
+
+2° deux mois de salaire après une ancienneté de service continus de dix ans au moins ;
+
+3° trois mois de salaire après une ancienneté de service continus de quinze ans au moins ;
+
+4° quatre mois de salaire après une ancienneté de service continus de vingt ans et plus.
 
 L’ancienneté de service est appréciée à la date de la notification de la décision de reclassement professionnel externe.
 
@@ -12531,16 +13361,17 @@ La tentative de ce délit est punie d’un emprisonnement de huit jours à trois
 
 (2) La commission mixte se compose:
 
-1. de deux délégués représentant les assurés;
-2. de deux délégués des employeurs;
-3. d’un délégué du Contrôle médical de la sécurité sociale;
-4. (
+1\. de deux délégués représentant les assurés;
 
-   [L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) d’un délégué du ministre ayant la Direction de la santé dans ses attributions.
-5. d’un délégué du ministre ayant dans ses attributions le Travail et l’Emploi;
-6. (
+2\. de deux délégués des employeurs;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) d’un délégué de l’Agence pour le développement de l’emploi.
+3\. d’un délégué du Contrôle médical de la sécurité sociale;
+
+4\. ([L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) d’un délégué du ministre ayant la Direction de la santé dans ses attributions.
+
+5\. d’un délégué du ministre ayant dans ses attributions le Travail et l’Emploi;
+
+6\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) d’un délégué de l’Agence pour le développement de l’emploi.
 
 Pour chaque membre effectif, il y a un membre suppléant.
 
@@ -12586,12 +13417,17 @@ L’Agence pour le développement de l’emploi peut faire bénéficier le deman
 
 Cette demande doit être accompagnée des pièces suivantes :
 
-1. une requête motivée contenant la présentation du projet professionnel ;
-2. l’identité de l’institut de formation, accompagnée du justificatif du choix de cet institut et d’une copie de l’agrément du ministre ayant la Formation professionnelle continue dans ses attributions s’il s’agit d’un institut luxembourgeois ;
-3. s’il s’agit d’un institut étranger, l’avis du ministre ayant la Formation professionnelle continue dans ses attributions est à joindre ;
-4. le programme détaillé de la formation professionnelle continue ;le coût de la formation professionnelle continue, toutes taxes comprises ;
-5. la durée de la formation professionnelle continue ainsi que son début et sa fin ;
-6. le cas échéant, une information sur le diplôme respectivement le certificat sanctionnant la formation professionnelle continue.
+1\. une requête motivée contenant la présentation du projet professionnel ;
+
+2\. l’identité de l’institut de formation, accompagnée du justificatif du choix de cet institut et d’une copie de l’agrément du ministre ayant la Formation professionnelle continue dans ses attributions s’il s’agit d’un institut luxembourgeois ;
+
+3\. s’il s’agit d’un institut étranger, l’avis du ministre ayant la Formation professionnelle continue dans ses attributions est à joindre ;
+
+4\. le programme détaillé de la formation professionnelle continue ;le coût de la formation professionnelle continue, toutes taxes comprises ;
+
+5\. la durée de la formation professionnelle continue ainsi que son début et sa fin ;
+
+6\. le cas échéant, une information sur le diplôme respectivement le certificat sanctionnant la formation professionnelle continue.
 
 L’Agence pour le développement de l’emploi peut exiger du demandeur d’emploi qui bénéficie du reclassement professionnel externe de suivre une formation professionnelle continue déterminée en tenant compte de son projet professionnel, du/des poste(s) similaire(s) qu’il peut occuper ainsi que de ses capacités de travail résiduelles.
 
@@ -12631,11 +13467,15 @@ Le chapitre s’applique à tous les salariés handicapés ou en reclassement ex
 
 (1) L’activité d’assistance est exercée par l’assistant à l’inclusion dans l’emploi (ci-après « l’assistant ») à titre d’indépendant ou de salarié. L’activité d’assistance comporte :
 
-1. l’évaluation de la situation de travail et la description des problèmes et des besoins spécifiques du salarié handicapé ou du salarié en reclassement externe sur son lieu de travail ;
-2. l’identification des besoins de l’employeur et du personnel de l’entreprise notamment en ce qui concerne la préparation, l’information et la sensibilisation relatives à la situation de handicap ou de l’état de santé et, le cas échéant, des besoins particuliers du salarié handicapé ou en reclassement externe en vue d’une inclusion durable ;
-3. l’établissement d’un projet individualisé d’inclusion contenant un programme de travail détaillé avec un échéancier des actions à réaliser précisant le nombre d’heures, la durée et la périodicité de l’assistance ;
-4. la rédaction de déclarations trimestrielles et de rapports annuels détaillant l’évolution de la situation du salarié handicapé ou en reclassement externe sur son lieu de travail et reprenant les actions réalisées selon l’échéancier prévu au point 3 ;
-5. la rédaction d’un rapport final contenant les conclusions de l’assistant ou du service d’assistance ainsi que les actions recommandées après la fin de l’assistance, à remettre par l’assistant ou le service d’assistance à l’inclusion dans l’emploi, dénommé ci-après « service d’assistance », au directeur de l’ADEM endéans un délai de deux mois après la fin de l’assistance.
+1° l’évaluation de la situation de travail et la description des problèmes et des besoins spécifiques du salarié handicapé ou du salarié en reclassement externe sur son lieu de travail ;
+
+2° l’identification des besoins de l’employeur et du personnel de l’entreprise notamment en ce qui concerne la préparation, l’information et la sensibilisation relatives à la situation de handicap ou de l’état de santé et, le cas échéant, des besoins particuliers du salarié handicapé ou en reclassement externe en vue d’une inclusion durable ;
+
+3° l’établissement d’un projet individualisé d’inclusion contenant un programme de travail détaillé avec un échéancier des actions à réaliser précisant le nombre d’heures, la durée et la périodicité de l’assistance ;
+
+4° la rédaction de déclarations trimestrielles et de rapports annuels détaillant l’évolution de la situation du salarié handicapé ou en reclassement externe sur son lieu de travail et reprenant les actions réalisées selon l’échéancier prévu au point 3 ;
+
+5° la rédaction d’un rapport final contenant les conclusions de l’assistant ou du service d’assistance ainsi que les actions recommandées après la fin de l’assistance, à remettre par l’assistant ou le service d’assistance à l’inclusion dans l’emploi, dénommé ci-après « service d’assistance », au directeur de l’ADEM endéans un délai de deux mois après la fin de l’assistance.
 
 (2) Pour pouvoir exercer, l’assistant et, le cas échéant, le service d’assistance doivent disposer d’un agrément conformément aux dispositions prévues à l’article L. 553-3.
 
@@ -12647,32 +13487,35 @@ Les personnes morales agréées se voient conférer le titre de « service d’a
 
 (1) Le ministre ayant la Politique pour personnes handicapées dans ses attributions, ci-après « le ministre », délivre l’agrément pour l’exercice de l’activité d’assistance aux personnes physiques qui remplissent les conditions cumulatives suivantes :
 
-1. justifier des expériences et formations suivantes :
+1° justifier des expériences et formations suivantes :
 
-   1. soit justifier d’une formation professionnelle dans les domaines psychosocial, pédagogique, socio-éducatif, médico-social et socio-familial sanctionnée par au moins un diplôme de fin d’études secondaires luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions ou par le ministre ayant l’Enseignement supérieur dans ses attributions, sous condition de disposer d’une expérience professionnelle d’au moins trois ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique ;
-   2. soit justifier d’une formation professionnelle dans un autre domaine que ceux visés au point 1°, lettre a), sanctionnée par au moins un diplôme de fin d’études secondaires luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions ou par le ministre ayant l’Enseignement supérieur dans ses attributions, sous condition de remplir l’un des critères suivants :
+a) soit justifier d’une formation professionnelle dans les domaines psychosocial, pédagogique, socio-éducatif, médico-social et socio-familial sanctionnée par au moins un diplôme de fin d’études secondaires luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions ou par le ministre ayant l’Enseignement supérieur dans ses attributions, sous condition de disposer d’une expérience professionnelle d’au moins trois ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique ;
 
-      1. (
+b) soit justifier d’une formation professionnelle dans un autre domaine que ceux visés au point 1°, lettre a), sanctionnée par au moins un diplôme de fin d’études secondaires luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions ou par le ministre ayant l’Enseignement supérieur dans ses attributions, sous condition de remplir l’un des critères suivants :
 
-         [L. 3 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/03/a118/jo)) attester d’une expérience professionnelle d’au moins trois ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique et justifier de la participation à au moins vingt heures de formations continues dans les matières visées à l’unité 1 de l’annexe 7, point A, et vingt heures au moins dans les matières visées à l’unité 2 de l’annexe 7, point A ;
-      2. attester d’une expérience professionnelle d’au moins cinq ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique ;
-   3. soit justifier d’une formation professionnelle sanctionnée par, au moins, un diplôme d’aptitude professionnelle luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions, sous condition de remplir les critères suivants :
+i. ([L. 3 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/03/a118/jo)) attester d’une expérience professionnelle d’au moins trois ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique et justifier de la participation à au moins vingt heures de formations continues dans les matières visées à l’unité 1 de l’annexe 7, point A, et vingt heures au moins dans les matières visées à l’unité 2 de l’annexe 7, point A ;
 
-      1. justifier de la participation à au moins cent heures de formation continue dans les domaines psychosocial, pédagogique, socio-éducatif, médico-social et socio-familial dont vingt heures au moins dans les matières visées à l’unité 1 de l’annexe 7, point A, et vingt heures au moins dans les matières visées à l’unité 2 de l’annexe 7, point A ;
-      2. attester d’une expérience professionnelle d’au moins cinq ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique.
-2. suivre régulièrement et pendant au moins vingt heures par an des formations continues, tenues par un établissement de formation autorisé à dispenser des formations au Luxembourg ou par un établissement de formation reconnu comme tel dans un autre État membre de l’Union européenne, de l’Espace économique européen ou de la Confédération suisse. Le contenu de la formation continue est fixé à l’annexe 7, point B ;
-3. comprendre et s’exprimer dans au moins une des trois langues prévues par la
+ii. attester d’une expérience professionnelle d’au moins cinq ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique ;
 
-   [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo) sur le régime des langues ;
-4. remplir les conditions d’honorabilité qui s’apprécient sur présentation du bulletin n° 3 du casier judiciaire datant de moins de trois mois à partir de son établissement ;
-5. attester de son affiliation à la sécurité sociale.
+c) soit justifier d’une formation professionnelle sanctionnée par, au moins, un diplôme d’aptitude professionnelle luxembourgeois ou étranger reconnu équivalent par le ministre ayant l’Éducation nationale dans ses attributions, sous condition de remplir les critères suivants :
+
+i. justifier de la participation à au moins cent heures de formation continue dans les domaines psychosocial, pédagogique, socio-éducatif, médico-social et socio-familial dont vingt heures au moins dans les matières visées à l’unité 1 de l’annexe 7, point A, et vingt heures au moins dans les matières visées à l’unité 2 de l’annexe 7, point A ;
+
+ii. attester d’une expérience professionnelle d’au moins cinq ans dans les domaines du handicap physique, psychique, intellectuel, sensoriel ou dans le domaine des troubles du spectre autistique.
+
+2° suivre régulièrement et pendant au moins vingt heures par an des formations continues, tenues par un établissement de formation autorisé à dispenser des formations au Luxembourg ou par un établissement de formation reconnu comme tel dans un autre État membre de l’Union européenne, de l’Espace économique européen ou de la Confédération suisse. Le contenu de la formation continue est fixé à l’annexe 7, point B ;
+
+3° comprendre et s’exprimer dans au moins une des trois langues prévues par la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo) sur le régime des langues ;
+
+4° remplir les conditions d’honorabilité qui s’apprécient sur présentation du bulletin n° 3 du casier judiciaire datant de moins de trois mois à partir de son établissement ;
+
+5° attester de son affiliation à la sécurité sociale.
 
 (2) Le ministre délivre l’agrément pour l’exercice de l’activité de service d’assistance aux personnes morales qui remplissent les conditions suivantes :
 
-1. les personnes physiques qui exercent, en tant que salariés du service d’assistance, l’activité visée à l’article L. 553-2 au nom de la personne morale, doivent être des assistants agréés conformément aux dispositions prévues au paragraphe 1
+1° les personnes physiques qui exercent, en tant que salariés du service d’assistance, l’activité visée à l’article L. 553-2 au nom de la personne morale, doivent être des assistants agréés conformément aux dispositions prévues au paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> ;
-2. les conditions d’honorabilité doivent être remplies par chacun des membres de l’organe d’administration ou de direction de l’entité demandant l’agrément. Ceux-ci produisent à cet effet chacun un bulletin n° 3 du casier judiciaire datant de moins de trois mois à partir de son établissement.
+2° les conditions d’honorabilité doivent être remplies par chacun des membres de l’organe d’administration ou de direction de l’entité demandant l’agrément. Ceux-ci produisent à cet effet chacun un bulletin n° 3 du casier judiciaire datant de moins de trois mois à partir de son établissement.
 
 (3) Tout assistant ou service d’assistance qui obtient ou reçoit communication de données personnelles est tenu au secret professionnel aux conditions et sous les peines visées à l’article 458 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
 
@@ -12688,32 +13531,39 @@ Le retrait de l’agrément peut être effectué sans mise en demeure et avec ef
 
 (1) Pour pouvoir bénéficier de l’assistance, le salarié handicapé ou le salarié en reclassement externe doit remplir une des conditions suivantes :
 
-1. être engagé par un employeur du secteur privé dans le cadre d’une mesure en faveur de l’emploi ;
-2. être engagé sous contrat de travail par un employeur.
+1° être engagé par un employeur du secteur privé dans le cadre d’une mesure en faveur de l’emploi ;
+
+2° être engagé sous contrat de travail par un employeur.
 
 (2) La demande d’assistance est adressée au directeur de l’ADEM. Elle est introduite conjointement par le salarié handicapé ou le salarié en reclassement externe, son employeur et l’assistant ou le service d’assistance sur un formulaire établi par l’ADEM. Elle renseigne sur les données ci-après :
 
-1. nom, forme, siège, secteur d’activité et effectif du personnel de l’entreprise ;
-2. nom, prénom, âge, domicile, missions et type de handicap du salarié handicapé, respectivement incapacités du salarié en reclassement externe ;
-3. identification et description des problèmes qui se posent dans la relation de travail ;
-4. identification de l’assistant agréé ou du service d’assistance agréé choisi conjointement par le salarié handicapé ou le salarié en reclassement externe et son employeur sur une liste publiée au Journal officiel du Grand-Duché de Luxembourg sur laquelle les assistants agréés et les services d’assistance agréés sont répertoriés suivant leur domaine d’expertise.
+1° nom, forme, siège, secteur d’activité et effectif du personnel de l’entreprise ;
+
+2° nom, prénom, âge, domicile, missions et type de handicap du salarié handicapé, respectivement incapacités du salarié en reclassement externe ;
+
+3° identification et description des problèmes qui se posent dans la relation de travail ;
+
+4° identification de l’assistant agréé ou du service d’assistance agréé choisi conjointement par le salarié handicapé ou le salarié en reclassement externe et son employeur sur une liste publiée au Journal officiel du Grand-Duché de Luxembourg sur laquelle les assistants agréés et les services d’assistance agréés sont répertoriés suivant leur domaine d’expertise.
 
 (3) La demande est accompagnée des pièces justificatives suivantes :
 
-1. une description de poste avec le taux d’occupation ;
-2. une copie de la mesure en faveur de l’emploi ou du contrat de travail.
+1° une description de poste avec le taux d’occupation ;
+
+2° une copie de la mesure en faveur de l’emploi ou du contrat de travail.
 
 (4) Le directeur de l’ADEM évalue le caractère complet de la demande ainsi que l’adéquation entre la description des problèmes à résoudre et le champ de compétence de l’assistant et notifie son accord ou son refus, dans le délai d’un mois à compter de la réception de la demande, par écrit au salarié handicapé ou au salarié en reclassement externe, à son employeur et à l’assistant ou au service d’assistance.
 
 En cas d’accord, l’assistant ou le service d’assistance peut procéder à :
 
-1. l’évaluation de la situation de travail ;
-2. la description des problèmes et des besoins spécifiques du salarié concerné sur son lieu de travail ;
-3. l’identification des besoins de l’employeur et du personnel de l’entreprise ;
-4. la fixation de la durée et la périodicité de l’assistance ;
-5. l’établissement du projet individualisé d’inclusion conformément aux dispositions de l’article L. 553-2, paragraphe 1
+1° l’évaluation de la situation de travail ;
 
-   <sup>er</sup> , point 3, et comportant les éléments prévus aux points 1 à 4.
+2° la description des problèmes et des besoins spécifiques du salarié concerné sur son lieu de travail ;
+
+3° l’identification des besoins de l’employeur et du personnel de l’entreprise ;
+
+4° la fixation de la durée et la périodicité de l’assistance ;
+
+5° l’établissement du projet individualisé d’inclusion conformément aux dispositions de l’article L. 553-2, paragraphe 1 <sup>er</sup> , point 3, et comportant les éléments prévus aux points 1 à 4.
 
 Le projet individualisé d’inclusion est à remettre par l’assistant ou le service d’assistance au directeur de l’ADEM, au salarié handicapé ou au salarié en reclassement externe et à son employeur dans le mois suivant réception de la notification de l’accord par le directeur de l’ADEM.
 
@@ -12725,8 +13575,9 @@ Les frais de l’assistant ou du service d’assistance relatifs à l’établis
 
 Le directeur de l’ADEM procède à l’évaluation de la demande sur base des critères suivants :
 
-1. adéquation entre les actions prévues et les problèmes à résoudre ;
-2. caractère réaliste des heures prévues, de la durée et de la périodicité.
+1° adéquation entre les actions prévues et les problèmes à résoudre ;
+
+2° caractère réaliste des heures prévues, de la durée et de la périodicité.
 
 Le directeur de l’ADEM dispose d’un délai d’un mois, à compter de la réception de la demande, pour notifier son accord ou son refus au salarié concerné, à son employeur et à l’assistant ou au service d’assistance. En cas de refus, les trois parties peuvent soumettre un projet individualisé d’inclusion révisé et signé par les trois parties endéans un délai d’un mois à partir de la notification du refus, sinon la décision de refus devient définitive. Le directeur de l’ADEM dispose d’un délai d’un mois, à compter de la réception du projet individualisé d’inclusion révisé, pour notifier son accord ou son refus au salarié concerné, à son employeur et à l’assistant ou au service d’assistance. En cas d’accord, l’assistant ou le service d’assistance, le salarié concerné et son employeur concluent un accord de collaboration conformément aux dispositions de l’article L. 553-5.
 
@@ -12744,9 +13595,11 @@ Le directeur de l’ADEM dispose d’un délai d’un mois, à compter de la ré
 
 (1) L’accord du directeur de l’ADEM visé à l’article L. 553-4, paragraphe 5, donne droit à la prise en charge par le Fonds pour l’emploi de la prestation de l’assistant ou du service d’assistance pour le nombre d’heures et la durée prévues dans le projet individualisé d’inclusion. Le nombre d’heures d’assistance accordé est fixé comme suit :
 
-1. au maximum cent cinquante heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins douze mois, mais inférieur à dix-huit mois ;
-2. au maximum deux cent vingt-cinq heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins dix-huit mois, mais inférieur à vingt-quatre mois ;
-3. au maximum trois cents heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins vingt-quatre mois.
+1° au maximum cent cinquante heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins douze mois, mais inférieur à dix-huit mois ;
+
+2° au maximum deux cent vingt-cinq heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins dix-huit mois, mais inférieur à vingt-quatre mois ;
+
+3° au maximum trois cents heures pour un contrat de travail ou une mesure de l’ADEM en faveur de l’emploi d’au moins vingt-quatre mois.
 
 Sous réserve de respecter les limites fixées à l’alinéa 2, la durée et la périodicité de l’assistance prévue dans le projet individualisé d’inclusion peuvent être adaptées, sur demande conjointe motivée du salarié concerné, de son employeur et de l’assistant, par le directeur de l’ADEM, compte tenu de l’évolution du handicap du salarié handicapé ou de l’état de santé du salarié en reclassement externe ou de l’adaptation du salarié concerné au milieu du travail.
 
@@ -12766,9 +13619,11 @@ En cas de changement de poste de travail, dans le cadre d’un contrat de travai
 
 A la qualité de salarié handicapé au sens du présent titre, toute personne qui présente une diminution de sa capacité de travail de trente pour cent au moins, survenue par suite:
 
-- d’un accident de travail auprès d’une entreprise légalement établie sur le territoire luxembourgeois, ou
-- d’événements de guerre ou de mesures de l’occupant, ou
-- d’une déficience physique, mentale, sensorielle ou psychique ou en raison de difficultés psychosociales aggravant la déficience,
+aash d’un accident de travail auprès d’une entreprise légalement établie sur le territoire luxembourgeois, ou
+
+bash d’événements de guerre ou de mesures de l’occupant, ou
+
+cash d’une déficience physique, mentale, sensorielle ou psychique ou en raison de difficultés psychosociales aggravant la déficience,
 
 et qui est reconnue apte à exercer un emploi salarié sur le marché du travail ordinaire ou dans un atelier protégé.
 
@@ -12944,18 +13799,19 @@ Est guidé vers les ateliers protégés, tout salarié handicapé qui, en raison
 
 Pour le salarié handicapé guidé vers les ateliers protégés, les responsables de l’atelier protégé définissent les mesures permettant l’emploi du salarié handicapé dans des conditions adaptées à ses besoins et les mesures d’insertion professionnelle, d’accompagnement et de suivi du salarié handicapé sur le marché du travail ordinaire.
 
-##### Art. L. 563-3. [^note_5_0_0]
+##### Art. L. 563-3.[^note_5_0_0]
 
 (1) Le titre II du livre I <sup>er</sup> relatif au contrat de travail est applicable à l’engagement du salarié handicapé dans un atelier protégé, sous réserve des dérogations fixées par le présent chapitre pour tenir compte des besoins spécifiques de la personne handicapée.
 
 (2) Le contrat de travail doit comporter les mentions suivantes:
 
-1. l’engagement de l’atelier protégé à assurer au salarié handicapé une mise au travail dans des conditions d’emploi adaptées à ses besoins et possibilités;
-2. l’engagement de l’atelier protégé à promouvoir l’accession du salarié handicapé à des emplois sur le marché du travail ordinaire et à assurer, le cas échéant, son suivi en milieu ordinaire;
-3. l’engagement de l’atelier protégé à réemployer le salarié handicapé qui a été placé par ses soins sur le marché du travail ordinaire et pour qui l’insertion en milieu ordinaire s’avère être insatisfaisante;
-4. (
+1\. l’engagement de l’atelier protégé à assurer au salarié handicapé une mise au travail dans des conditions d’emploi adaptées à ses besoins et possibilités;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) l’engagement du salarié handicapé ou de son représentant légal à rester disponible pour le marché du travail ordinaire et à participer aux mesures d’insertion proposées par l’atelier protégé ou par l’Agence pour le développement de l’emploi.
+2\. l’engagement de l’atelier protégé à promouvoir l’accession du salarié handicapé à des emplois sur le marché du travail ordinaire et à assurer, le cas échéant, son suivi en milieu ordinaire;
+
+3\. l’engagement de l’atelier protégé à réemployer le salarié handicapé qui a été placé par ses soins sur le marché du travail ordinaire et pour qui l’insertion en milieu ordinaire s’avère être insatisfaisante;
+
+4\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) l’engagement du salarié handicapé ou de son représentant légal à rester disponible pour le marché du travail ordinaire et à participer aux mesures d’insertion proposées par l’atelier protégé ou par l’Agence pour le développement de l’emploi.
 
 (3) Si le salarié handicapé se trouve en régime de tutelle, conformément aux dispositions prévues par le [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil), à son titre XI qui traite de la majorité et des majeurs qui sont protégés par la loi, le tuteur de la personne majeure protégée par la loi signe le contrat de travail.
 
@@ -12985,9 +13841,11 @@ En cas de cessation des relations d’emploi avec l’atelier protégé, le sala
 
 (1) Est reconnu comme «atelier protégé» au sens du présent chapitre, tout établissement, créé et géré par tout organisme à vocation sociale et économique, qui remplit les conditions suivantes:
 
-1. permettre aux personnes qui se sont vu reconnaître la qualité de salarié handicapé d’exercer au sein d’une unité économique de production une activité professionnelle salariée dans des conditions adaptées à leurs possibilités;
-2. promouvoir l’accès des salariés handicapés à des emplois sur le marché du travail ordinaire et organiser à cette fin des mesures d’insertion professionnelle, d’accompagnement et de suivi sur le marché du travail ordinaire;
-3. disposer de l’agrément du ministre ayant la Famille dans ses attributions.
+1\. permettre aux personnes qui se sont vu reconnaître la qualité de salarié handicapé d’exercer au sein d’une unité économique de production une activité professionnelle salariée dans des conditions adaptées à leurs possibilités;
+
+2\. promouvoir l’accès des salariés handicapés à des emplois sur le marché du travail ordinaire et organiser à cette fin des mesures d’insertion professionnelle, d’accompagnement et de suivi sur le marché du travail ordinaire;
+
+3\. disposer de l’agrément du ministre ayant la Famille dans ses attributions.
 
 L’agrément est accordé conformément aux dispositions de la [loi modifiée du 8 septembre 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/jo) réglant les relations entre l’Etat et les organismes œuvrant dans les domaines social, familial et thérapeutique.
 
@@ -13009,9 +13867,11 @@ L’agrément est accordé conformément aux dispositions de la [loi modifiée d
 
 (1) II est créé une Commission médicale qui se compose de:
 
-1. trois médecins ayant une spécialisation dans les domaines de la rééducation et réadaptation fonctionnelles ou de la psychiatrie;
-2. un médecin représentant le Contrôle médical de la sécurité sociale;
-3. un médecin représentant le ministre ayant la Santé dans ses attributions.
+1\. trois médecins ayant une spécialisation dans les domaines de la rééducation et réadaptation fonctionnelles ou de la psychiatrie;
+
+2\. un médecin représentant le Contrôle médical de la sécurité sociale;
+
+3\. un médecin représentant le ministre ayant la Santé dans ses attributions.
 
 Il est nommé un membre suppléant pour chacun des membres titulaires susvisés.
 
@@ -13031,15 +13891,19 @@ En cas de besoin, la Commission médicale peut s’adjoindre des personnes dont 
 
 (1) II est créé une Commission d’orientation et de reclassement professionnel, qui est composée de:
 
-1. deux représentants du ministre ayant dans ses attributions le Travail;
-2. (
+1\. deux représentants du ministre ayant dans ses attributions le Travail;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) un représentant de l’Agence pour le développement de l’emploi;
-3. un médecin du travail;
-4. un psychologue spécialisé dans le domaine du handicap;
-5. un ergothérapeute spécialisé dans le domaine des aides techniques;
-6. un éducateur gradué;
-7. un assistant social.
+2\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) un représentant de l’Agence pour le développement de l’emploi;
+
+3\. un médecin du travail;
+
+4\. un psychologue spécialisé dans le domaine du handicap;
+
+5\. un ergothérapeute spécialisé dans le domaine des aides techniques;
+
+6\. un éducateur gradué;
+
+7\. un assistant social.
 
 Il est nommé un membre suppléant pour chaque membre titulaire.
 
@@ -13065,15 +13929,13 @@ En cas de besoin, la Commission d’orientation peut s’adjoindre des personnes
 
 (2) Est considéré comme travail clandestin:
 
-1. l’exercice à titre indépendant de l’une des activités professionnelles énumérées à l’article 1
+1\. l’exercice à titre indépendant de l’une des activités professionnelles énumérées à l’article 1 <sup>er</sup> de la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, sans être en possession de l’autorisation y prévue;
 
-   <sup>er</sup> de la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, sans être en possession de l’autorisation y prévue;
-2. la prestation d’un travail salarié, lorsque celui qui s’y livre:
+2\. la prestation d’un travail salarié, lorsque celui qui s’y livre:
 
-   1. sait que l’employeur ne possède pas l’autorisation prévue par la
+a) sait que l’employeur ne possède pas l’autorisation prévue par la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) précitée, ou
 
-      [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) précitée, ou
-   2. sait que sa situation en qualité de salarié n’est pas régulière au regard de la législation concernant les retenues sur salaires ou de la législation relative à la sécurité sociale.
+b) sait que sa situation en qualité de salarié n’est pas régulière au regard de la législation concernant les retenues sur salaires ou de la législation relative à la sécurité sociale.
 
 Le Gouvernement est habilité à préciser les situations définies sous le point 2 du paragraphe (2) par des règlements grand-ducaux, à prendre sur avis du Conseil d’Etat, après avoir demandé l’avis des chambres professionnelles intéressées et obtenu l’assentiment de la Conférence des Présidents de la Chambre des Députés.
 
@@ -13081,18 +13943,19 @@ Le Gouvernement est habilité à préciser les situations définies sous le poin
 
 Il est également défendu:
 
-1. d’avoir recours aux services d’une personne ou d’un groupe de personnes pour l’exécution d’un travail clandestin au sens de l’article L. 571-1, paragraphe (2), point 1, compte tenu des exceptions formulées à l’article L. 571-3;
-2. d’engager du personnel salarié pour l’exécution d’un travail étranger au ménage ou à l’objet de l’entreprise de l’employeur, lorsque ledit travail ressortit à l’une des professions énumérées à l’article 1
+1\. d’avoir recours aux services d’une personne ou d’un groupe de personnes pour l’exécution d’un travail clandestin au sens de l’article L. 571-1, paragraphe (2), point 1, compte tenu des exceptions formulées à l’article L. 571-3;
 
-   <sup>er</sup> de la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.
+2\. d’engager du personnel salarié pour l’exécution d’un travail étranger au ménage ou à l’objet de l’entreprise de l’employeur, lorsque ledit travail ressortit à l’une des professions énumérées à l’article 1 <sup>er</sup> de la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.
 
 ##### Art. L. 571-3.
 
 Ne constitue pas un travail clandestin au sens du présent titre:
 
-1. une activité exercée personnellement pour son propre compte et sans l’aide d’autrui;
-2. une activité occasionnelle et de moindre importance exercée pour compte d’autrui;
-3. une activité isolée exercée pour compte d’autrui n’excédant pas le cadre de l’entraide usuelle entre proches parents, amis ou voisins.
+1\. une activité exercée personnellement pour son propre compte et sans l’aide d’autrui;
+
+2\. une activité occasionnelle et de moindre importance exercée pour compte d’autrui;
+
+3\. une activité isolée exercée pour compte d’autrui n’excédant pas le cadre de l’entraide usuelle entre proches parents, amis ou voisins.
 
 ##### Art. L. 571-4.
 
@@ -13126,29 +13989,33 @@ L’emploi de ressortissants de pays tiers en séjour irrégulier est interdit.
 
 Aux fins du présent chapitre on entend par:
 
-1. «ressortissant de pays tiers», toute personne telle que définie à l’article 3, point c) de la
+1\. «ressortissant de pays tiers», toute personne telle que définie à l’article 3, point c) de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration;
 
-   [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration;
-2. «ressortissant de pays tiers en séjour irrégulier», un ressortissant de pays tiers présent sur le territoire du Grand-Duché de Luxembourg qui ne remplit pas ou qui ne remplit plus les conditions de séjour prévues par le Chapitre 3 de la
+2\. «ressortissant de pays tiers en séjour irrégulier», un ressortissant de pays tiers présent sur le territoire du Grand-Duché de Luxembourg qui ne remplit pas ou qui ne remplit plus les conditions de séjour prévues par le Chapitre 3 de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration;
 
-   [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration;
-3. «emploi», l’exercice d’activités comprenant toute forme de travail ou d’occupation réglementée par le présent Code;
-4. «emploi illégal», l’emploi d’un ressortissant de pays tiers en séjour irrégulier;
-5. «employeur», toute personne physique ou morale, telle que définie par l’article L. 611-2, point 2, y compris les entreprises de travail intérimaire;
-6. «sous-traitant», une personne physique ou morale à laquelle est confiée l’exécution d’une partie ou de l’ensemble des obligations d’un contrat préalable;
-7. «entreprise de travail intérimaire», toute personne physique ou morale telle que définie par les articles L. 131-1 et suivants;
-8. «conditions de travail particulièrement abusives», des conditions de travail, y compris celles résultant de discriminations fondées sur le genre ou sur d’autres facteurs, dans lesquelles il existe une disproportion frappante par rapport aux conditions de travail des salariés légalement employés, ayant notamment une incidence sur la santé et la sécurité des personnes, et qui porte atteinte à la dignité humaine;
-9. «rémunération de ressortissant de pays tiers en séjour irrégulier», le salaire et tout autre émolument, tel que défini à l’article L. 221-1 dont auraient bénéficié des salariés comparables dans le cadre d’une relation de travail régie conformément aux dispositions du présent Code.
+3\. «emploi», l’exercice d’activités comprenant toute forme de travail ou d’occupation réglementée par le présent Code;
+
+4\. «emploi illégal», l’emploi d’un ressortissant de pays tiers en séjour irrégulier;
+
+5\. «employeur», toute personne physique ou morale, telle que définie par l’article L. 611-2, point 2, y compris les entreprises de travail intérimaire;
+
+6\. «sous-traitant», une personne physique ou morale à laquelle est confiée l’exécution d’une partie ou de l’ensemble des obligations d’un contrat préalable;
+
+7\. «entreprise de travail intérimaire», toute personne physique ou morale telle que définie par les articles L. 131-1 et suivants;
+
+8\. «conditions de travail particulièrement abusives», des conditions de travail, y compris celles résultant de discriminations fondées sur le genre ou sur d’autres facteurs, dans lesquelles il existe une disproportion frappante par rapport aux conditions de travail des salariés légalement employés, ayant notamment une incidence sur la santé et la sécurité des personnes, et qui porte atteinte à la dignité humaine;
+
+9\. «rémunération de ressortissant de pays tiers en séjour irrégulier», le salaire et tout autre émolument, tel que défini à l’article L. 221-1 dont auraient bénéficié des salariés comparables dans le cadre d’une relation de travail régie conformément aux dispositions du présent Code.
 
 ##### Art. L. 572-3.
 
 (1) L’employeur d’un ressortissant de pays tiers est obligé:
 
-1. d’exiger que les ressortissants de pays tiers, avant d’occuper l’emploi, disposent d’une autorisation de séjour ou d’un titre de séjour et les présentent à l’employeur;
-2. (
+1\. d’exiger que les ressortissants de pays tiers, avant d’occuper l’emploi, disposent d’une autorisation de séjour ou d’un titre de séjour et les présentent à l’employeur;
 
-   [L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) de détenir, pendant la durée de la période d’emploi, une copie de l’autorisation de séjour ou du titre de séjour, en vue d’une éventuelle inspection;
-3. de notifier au ministre ayant l’immigration dans ses attributions le début de la période d’emploi d’un ressortissant de pays tiers dans un délai de trois jours ouvrables à compter du premier jour de travail du ressortissant d’un pays tiers.
+2\. ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) de détenir, pendant la durée de la période d’emploi, une copie de l’autorisation de séjour ou du titre de séjour, en vue d’une éventuelle inspection;
+
+3\. de notifier au ministre ayant l’immigration dans ses attributions le début de la période d’emploi d’un ressortissant de pays tiers dans un délai de trois jours ouvrables à compter du premier jour de travail du ressortissant d’un pays tiers.
 
 (2) Le délai prévu au paragraphe (1) point 3 est de sept jours ouvrables à compter du premier jour de travail si l’employeur est une personne physique et qu’il s’agit d’un emploi à ses fins privées.
 
@@ -13170,13 +14037,15 @@ Aux fins du présent chapitre on entend par:
 
 (1) ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Est puni d’un emprisonnement de huit jours à un an et d’une amende de 2.501 à 125.000 euros par ressortissant de pays tiers en séjour irrégulier ou d’une de ces peines seulement, l’employeur qui a occupé un ressortissant de pays tiers en séjour irrégulier, dans une des circonstances suivantes:
 
-1. l’infraction est répétée de manière persistante;
-2. (
+1\. l’infraction est répétée de manière persistante;
 
-   [L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) l’infraction a trait à l’emploi simultané d’au moins deux ressortissants de pays tiers en séjour irrégulier;
-3. l’infraction s’accompagne de conditions de travail particulièrement abusives;
-4. l’infraction est commise par un employeur qui utilise le travail ou les services d’un ressortissant de pays tiers en séjour irrégulier en sachant que cette personne est victime de la traite des êtres humains;
-5. l’infraction a trait à l’emploi illégal d’un mineur ressortissant de pays tiers en séjour irrégulier.
+2\. ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) l’infraction a trait à l’emploi simultané d’au moins deux ressortissants de pays tiers en séjour irrégulier;
+
+3\. l’infraction s’accompagne de conditions de travail particulièrement abusives;
+
+4\. l’infraction est commise par un employeur qui utilise le travail ou les services d’un ressortissant de pays tiers en séjour irrégulier en sachant que cette personne est victime de la traite des êtres humains;
+
+5\. l’infraction a trait à l’emploi illégal d’un mineur ressortissant de pays tiers en séjour irrégulier.
 
 (2) ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Le Procureur général d’Etat informe les ministres ayant respectivement le Travail, l’Economie, les Classes moyennes, la Recherche et les Finances dans leurs attributions des condamnations prononcées contre les employeurs pour infraction aux dispositions interdisant le travail clandestin et l’emploi de ressortissants de pays tiers en séjour irrégulier.
 
@@ -13184,19 +14053,21 @@ Aux fins du présent chapitre on entend par:
 
 L’employeur qui a employé un ressortissant de pays tiers en séjour irrégulier peut en outre encourir les peines pénales accessoires suivantes:
 
-1. l’interdiction d’une durée maximale de trois ans d’exercer l’activité professionnelle ou sociale qui a servi directement ou indirectement à commettre l’infraction;
-2. la fermeture temporaire pour une durée maximale de cinq ans ou définitive de l’entreprise ou de l’établissement ayant servi à commettre l’infraction.
+1\. l’interdiction d’une durée maximale de trois ans d’exercer l’activité professionnelle ou sociale qui a servi directement ou indirectement à commettre l’infraction;
+
+2\. la fermeture temporaire pour une durée maximale de cinq ans ou définitive de l’entreprise ou de l’établissement ayant servi à commettre l’infraction.
 
 ##### Art. L. 572-7.
 
 L’employeur qui a employé un ressortissant de pays tiers en séjour irrégulier doit verser:
 
-1. à ce ressortissant la rémunération telle que définie à l’article L. 572-2, point 9.
+1\. à ce ressortissant la rémunération telle que définie à l’article L. 572-2, point 9.
 
-   ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Le ressortissant de pays tiers en séjour irrégulier employé illégalement est, avant l’exécution de toute décision de retour, systématiquement et objectivement informé par les agents de contrôle visés à l’article L. 573-1, alinéa 1 <sup>er</sup> , des droits qui lui sont conférés par la disposition qui précède, y compris de la possibilité de recours à l’assistance judiciaire gratuite.
+([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Le ressortissant de pays tiers en séjour irrégulier employé illégalement est, avant l’exécution de toute décision de retour, systématiquement et objectivement informé par les agents de contrôle visés à l’article L. 573-1, alinéa 1 <sup>er</sup> , des droits qui lui sont conférés par la disposition qui précède, y compris de la possibilité de recours à l’assistance judiciaire gratuite.
 
-   L’employeur qui a employé un ressortissant de pays tiers en séjour irrégulier est tenu de prendre en charge tous frais résultant, le cas échéant, de l’envoi des rémunérations impayées dans le pays dans lequel est retourné le ressortissant de pays tiers en séjour irrégulier.
-2. l’ensemble des cotisations sociales et impôts impayés, y compris, le cas échéant, les amendes administratives, ainsi que les frais de justice et les honoraires d’avocats.
+L’employeur qui a employé un ressortissant de pays tiers en séjour irrégulier est tenu de prendre en charge tous frais résultant, le cas échéant, de l’envoi des rémunérations impayées dans le pays dans lequel est retourné le ressortissant de pays tiers en séjour irrégulier.
+
+2\. l’ensemble des cotisations sociales et impôts impayés, y compris, le cas échéant, les amendes administratives, ainsi que les frais de justice et les honoraires d’avocats.
 
 ##### Art. L. 572-8.
 
@@ -13274,12 +14145,9 @@ L’emploi de ressortissants de pays tiers en situation irrégulière est interd
 
 Aux fins du présent chapitre on entend par :
 
-1. « ressortissant de pays tiers », toute personne telle que définie à l’article 3, lettre c), de la
+1° « ressortissant de pays tiers », toute personne telle que définie à l’article 3, lettre c), de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration ;
 
-   [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration ;
-2. « ressortissant de pays tiers en situation irrégulière », un ressortissant de pays tiers présent sur le territoire du Grand-Duché de Luxembourg qui ne remplit pas ou qui ne remplit plus les conditions relatives à l’autorisation de travail prévues par les dispositions du chapitre 3 de la
-
-   [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration.
+2° « ressortissant de pays tiers en situation irrégulière », un ressortissant de pays tiers présent sur le territoire du Grand-Duché de Luxembourg qui ne remplit pas ou qui ne remplit plus les conditions relatives à l’autorisation de travail prévues par les dispositions du chapitre 3 de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration.
 
 ##### Art. L. 574-3.
 
@@ -13299,11 +14167,15 @@ L’Administration de l’enregistrement, des domaines et de la TVA est chargée
 
 (1) Est puni d’un emprisonnement de huit jours à un an et d’une amende de 2.501 à 125.000 euros par ressortissant de pays tiers en situation irrégulière ou d’une de ces peines seulement, l’employeur qui a occupé un ressortissant de pays tiers en situation irrégulière, dans une ou plusieurs des circonstances suivantes :
 
-1. l’infraction est répétée de manière persistante ;
-2. l’infraction a trait à l’emploi simultané d’au moins deux ressortissants de pays tiers en situation irrégulière ;
-3. l’infraction s’accompagne de conditions de travail particulièrement abusives telles que définies à l’article L. 572-2, point 8 ;
-4. l’infraction est commise par un employeur qui utilise le travail ou les services d’un ressortissant de pays tiers en situation irrégulière en sachant que cette personne est victime de la traite des êtres humains ;
-5. l’infraction a trait à l’emploi illégal d’un mineur ressortissant de pays tiers en situation irrégulière.
+1° l’infraction est répétée de manière persistante ;
+
+2° l’infraction a trait à l’emploi simultané d’au moins deux ressortissants de pays tiers en situation irrégulière ;
+
+3° l’infraction s’accompagne de conditions de travail particulièrement abusives telles que définies à l’article L. 572-2, point 8 ;
+
+4° l’infraction est commise par un employeur qui utilise le travail ou les services d’un ressortissant de pays tiers en situation irrégulière en sachant que cette personne est victime de la traite des êtres humains ;
+
+5° l’infraction a trait à l’emploi illégal d’un mineur ressortissant de pays tiers en situation irrégulière.
 
 (2) Le Procureur général d’État informe les ministres ayant respectivement le Travail, l’Économie, les Classes moyennes, la Recherche et les Finances dans leurs attributions des condamnations prononcées contre les employeurs pour infraction aux dispositions interdisant l’emploi de ressortissants de pays tiers en situation irrégulière.
 
@@ -13311,8 +14183,9 @@ L’Administration de l’enregistrement, des domaines et de la TVA est chargée
 
 L’employeur qui a employé un ressortissant de pays tiers en situation irrégulière doit verser :
 
-1. à ce ressortissant la rémunération telle que définie à l’article L. 572-2, point 9 ;
-2. l’ensemble des cotisations sociales et impôts impayés, y compris, le cas échéant, les amendes administratives, ainsi que les frais de justice et les honoraires d’avocats.
+1° à ce ressortissant la rémunération telle que définie à l’article L. 572-2, point 9 ;
+
+2° l’ensemble des cotisations sociales et impôts impayés, y compris, le cas échéant, les amendes administratives, ainsi que les frais de justice et les honoraires d’avocats.
 
 ##### Art. L. 574-7.
 
@@ -13320,7 +14193,7 @@ Aux fins de l’application de l’article L. 574-6, la relation d’emploi est 
 
 ### Titre VIII — Préretraite
 
-#### Chapitre Premier — (...) *(abrogé par la [loi du 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo)) [^note_5_3_0]*
+#### Chapitre Premier — (...) *(abrogé par la [loi du 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo))[^note_5_3_0]*
 
 #### Chapitre II — Préretraite-ajustement
 
@@ -13448,12 +14321,17 @@ La condition d’âge prévue au paragraphe 1 <sup>er</sup> ne s’applique pas 
 
 (1) Le Fonds pour l’emploi rembourse à l’employeur l’intégralité des charges résultant pour lui du versement de l’indemnité de préretraite calculée conformément aux dispositions de l’article L. 585-1 y compris la part patronale des charges sociales afférentes à cette indemnité, à condition que l’employeur justifie l’embauche effective, sous le couvert d’un contrat de travail à temps plein ou d’un contrat de travail à temps partiel conclu à durée indéterminée, ou d’un contrat d’apprentissage :
 
-1. d’un ou de plusieurs chômeurs indemnisés ou de demandeurs d’emploi sans emploi inscrits depuis trois mois au moins et lui proposés par l’Agence pour le développement de l’emploi, afin de pourvoir, pour le moins, à la fraction du poste libérée par suite de la réduction de la durée de travail du salarié bénéficiant de la préretraite progressive. Sur avis de l’Agence pour le développement de l’emploi la durée d’inscription minimale peut être réduite à un mois ;
-2. d’un ou de plusieurs salariés dont le contrat de travail à durée déterminée a été transformé en contrat à durée indéterminée dans les délais visés aux paragraphes 2 et 3 à condition que le contrat à durée déterminée ait été précédé d’une période d’indemnisation conformément aux dispositions du Livre V, Titre II ou d’une période d’inscription comme demandeur d’emploi sans emploi proposé à l’employeur conformément aux articles L. 622-1 et suivants ;
-3. d’un ou de plusieurs demandeurs d’emploi sans emploi bénéficiant d’une mesure en faveur de l’emploi prévue aux Chapitres III et IV du Titre II du Livre V et au Chapitre III du Titre IV du Livre V ;
-4. d’un ou de plusieurs salariés ou d’apprentis provenant d’une entreprise confrontée à des difficultés conjoncturelles ou structurelles et exposés à un risque imminent de licenciement ;
-5. d’un ou de plusieurs salariés provenant d’une entreprise ayant conclu un plan de maintien dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans ses attributions ;
-6. d’un ou de plusieurs salariés provenant d’une entreprise en faillite ou en liquidation judiciaire.
+1\. d’un ou de plusieurs chômeurs indemnisés ou de demandeurs d’emploi sans emploi inscrits depuis trois mois au moins et lui proposés par l’Agence pour le développement de l’emploi, afin de pourvoir, pour le moins, à la fraction du poste libérée par suite de la réduction de la durée de travail du salarié bénéficiant de la préretraite progressive. Sur avis de l’Agence pour le développement de l’emploi la durée d’inscription minimale peut être réduite à un mois ;
+
+2\. d’un ou de plusieurs salariés dont le contrat de travail à durée déterminée a été transformé en contrat à durée indéterminée dans les délais visés aux paragraphes 2 et 3 à condition que le contrat à durée déterminée ait été précédé d’une période d’indemnisation conformément aux dispositions du Livre V, Titre II ou d’une période d’inscription comme demandeur d’emploi sans emploi proposé à l’employeur conformément aux articles L. 622-1 et suivants ;
+
+3\. d’un ou de plusieurs demandeurs d’emploi sans emploi bénéficiant d’une mesure en faveur de l’emploi prévue aux Chapitres III et IV du Titre II du Livre V et au Chapitre III du Titre IV du Livre V ;
+
+4\. d’un ou de plusieurs salariés ou d’apprentis provenant d’une entreprise confrontée à des difficultés conjoncturelles ou structurelles et exposés à un risque imminent de licenciement ;
+
+5\. d’un ou de plusieurs salariés provenant d’une entreprise ayant conclu un plan de maintien dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans ses attributions ;
+
+6\. d’un ou de plusieurs salariés provenant d’une entreprise en faillite ou en liquidation judiciaire.
 
 (2) Pour les besoins de l’application des dispositions du présent article, peuvent être prises en considération les embauches effectuées dans les six mois qui précèdent l’admission à la préretraite respectivement dans les six mois qui suivent l’admission à la préretraite.
 
@@ -13479,11 +14357,11 @@ L’article L. 121-7 est inapplicable à la conclusion de l’avenant précité,
 
 (2) L’embauche compensatrice prévue à l’article L. 584-2 peut se faire moyennant:
 
-1. contrat de travail à temps plein;
-2. contrat de travail à temps partiel conformément aux dispositions du livre I
+1\. contrat de travail à temps plein;
 
-   <sup>er</sup> , titre II, chapitre III relatif à l’emploi des salariés à temps partiel;
-3. contrat d’apprentissage.
+2\. contrat de travail à temps partiel conformément aux dispositions du livre I <sup>er</sup> , titre II, chapitre III relatif à l’emploi des salariés à temps partiel;
+
+3\. contrat d’apprentissage.
 
 ##### Art. L. 584-5.
 
@@ -13563,11 +14441,15 @@ L’employeur doit informer le salarié du consentement de la Caisse nationale d
 
 Les droits à l’indemnité de pension progressive cessent de plein droit :
 
-1. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse à partir de l’âge de soixante-cinq ans sont remplies ;
-2. à partir du jour où le salarié a droit, sur sa demande, à une pension de vieillesse anticipée ou à une pension d’invalidité ;
-3. à partir du jour du décès du salarié ;
-4. à partir du jour où le salarié exerce ou reprend une activité dépassant le temps de travail fixé par le dernier avenant au contrat de travail conformément à l’article L. 584-8, paragraphe 3 ;
-5. à partir du jour où le salarié exerce ou reprend une autre activité lui rapportant un revenu qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable au salarié concerné.
+1\. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse à partir de l’âge de soixante-cinq ans sont remplies ;
+
+2\. à partir du jour où le salarié a droit, sur sa demande, à une pension de vieillesse anticipée ou à une pension d’invalidité ;
+
+3\. à partir du jour du décès du salarié ;
+
+4\. à partir du jour où le salarié exerce ou reprend une activité dépassant le temps de travail fixé par le dernier avenant au contrat de travail conformément à l’article L. 584-8, paragraphe 3 ;
+
+5\. à partir du jour où le salarié exerce ou reprend une autre activité lui rapportant un revenu qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable au salarié concerné.
 
 #### Chapitre V — Indemnité de préretraite
 
@@ -13587,15 +14469,19 @@ Il en est de même au cas où le salarié a droit à une augmentation salariale 
 
 (5) Doivent être compris dans le salaire de référence servant au calcul de l’indemnité mensuelle de préretraite :
 
-1. les indemnités pécuniaires de maladie ;
-2. les primes et suppléments courants ;
-3. le treizième mois à raison d’un douzième par mois ;
-4. la moyenne de la gratification des trois dernières années à raison d’un douzième par mois ;
-5. l’indemnité compensatoire visée à l’article L. 551-2 (3) ;
-6. l’aide temporaire au réemploi visée au point 9 du paragraphe 1
+1\. les indemnités pécuniaires de maladie ;
 
-   <sup>er</sup> de l’article L. 631-2 ;
-7. les pertes de salaire subies par le salarié au cours de la période de référence au titre de chômage partiel ou de chômage dû aux intempéries ou en cas de chômage accidentel ou technique.
+2\. les primes et suppléments courants ;
+
+3\. le treizième mois à raison d’un douzième par mois ;
+
+4\. la moyenne de la gratification des trois dernières années à raison d’un douzième par mois ;
+
+5\. l’indemnité compensatoire visée à l’article L. 551-2 (3) ;
+
+6\. l’aide temporaire au réemploi visée au point 9 du paragraphe 1 <sup>er</sup> de l’article L. 631-2 ;
+
+7\. les pertes de salaire subies par le salarié au cours de la période de référence au titre de chômage partiel ou de chômage dû aux intempéries ou en cas de chômage accidentel ou technique.
 
 Sont exclus les salaires pour heures supplémentaires et toutes indemnités pour frais accessoires exposés.
 
@@ -13619,11 +14505,11 @@ Sont à considérer comme augmentations du salaire au sens du deuxième alinéa 
 
 (1) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) L’employeur est obligé d’informer immédiatement l’Agence pour le développement de l’emploi:
 
-1. en cas d’arrêt du versement de l’indemnité de préretraite;
-2. (
+1\. en cas d’arrêt du versement de l’indemnité de préretraite;
 
-   [L. 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo)) en cas de cessation de l’emploi du salarié embauché en remplacement du salarié admis à la préretraite conformément aux dispositions de l’article L. 584-3 ;
-3. en cas de réembauchage d’un salarié conformément aux dispositions du deuxième alinéa de l’article L. 584-7.
+2\. ([L. 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo)) en cas de cessation de l’emploi du salarié embauché en remplacement du salarié admis à la préretraite conformément aux dispositions de l’article L. 584-3 ;
+
+3\. en cas de réembauchage d’un salarié conformément aux dispositions du deuxième alinéa de l’article L. 584-7.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Le salarié admis à la préretraite est obligé d’informer immédiatement l’employeur et l’Agence pour le développement de l’emploi de toute modification de sa situation personnelle susceptible d’influer sur ses droits à indemnisation et, le cas échéant, sur le droit de l’employeur au concours du Fonds.
 
@@ -13645,13 +14531,15 @@ S’il survient une modification dans la situation de l’employeur, notamment p
 
 Les droits à l’indemnité de préretraite cessent de plein droit:
 
-1. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse sont remplies;
-2. (
+1\. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse sont remplies;
 
-   [L. 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo)) à partir du jour où le préretraité remplit les conditions de stage pour avoir droit à la pension de vieillesse anticipée à partir de l’âge de soixante-trois ans, sauf en cas d’application du quatrième alinéa du paragraphe 7 de l’article L. 582-2 ;
-3. dans tous les cas, à partir du jour où le préretraité a droit, sur sa demande, à une pension de vieillesse anticipée ou à une pension d’invalidité;
-4. à partir du jour du décès du préretraité;
-5. à partir du jour où le bénéficiaire exerce ou reprend une activité lui rapportant un revenu qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable au salarié concerné.
+2\. ([L. 30 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/30/a1032/jo)) à partir du jour où le préretraité remplit les conditions de stage pour avoir droit à la pension de vieillesse anticipée à partir de l’âge de soixante-trois ans, sauf en cas d’application du quatrième alinéa du paragraphe 7 de l’article L. 582-2 ;
+
+3\. dans tous les cas, à partir du jour où le préretraité a droit, sur sa demande, à une pension de vieillesse anticipée ou à une pension d’invalidité;
+
+4\. à partir du jour du décès du préretraité;
+
+5\. à partir du jour où le bénéficiaire exerce ou reprend une activité lui rapportant un revenu qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable au salarié concerné.
 
 ##### Art. L. 585-7.
 
@@ -13727,44 +14615,55 @@ Le présent titre réglemente l’intervention de l’Etat dans l’organisation
 
 Aux fins du présent titre, on entend par
 
-1. «activités d’insertion ou de réinsertion professionnelle»: activités d’un employeur ayant comme finalité de préparer l’intégration ou la réintégration sur le marché du travail de personnes éprouvant des difficultés particulières pour trouver un emploi indépendamment de l’évolution conjoncturelle;
-2. «activités socio-économiques»: activités d’un employeur ayant comme finalité d’offrir au bénéficiaire, dans le cadre d’un contrat de travail, un emploi et un encadrement de nature socio-économique tenant compte des difficultés éprouvées par le bénéficiaire pour trouver un emploi sur le marché du travail;
-3. «agrément»: autorisation du ministre ayant l’emploi dans ses attributions d’exercer une activité d’insertion ou de réinsertion professionnelle ou une activité socio-économique;
-4. «bénéficiaire»: le demandeur d’emploi, sans emploi, sans distinction d’âge, qui remplit les conditions prévues par l’article L. 591-3, paragraphe (1) et qui participe soit à une activité d’insertion ou de réinsertion professionnelle soit à une activité socio-économique;
-5. «bilan de compétence»: le bilan de compétence permet d’analyser les compétences professionnelles et personnelles, les aptitudes et les motivations du demandeur d’emploi et de définir un projet professionnel et le cas échéant un projet de formation;
-6. «bilan d’insertion professionnelle (BIP)»: le BIP est un outil de travail en groupe qui agit sur le processus d’insertion professionnelle du demandeur d’emploi par une triple action:
+(a) «activités d’insertion ou de réinsertion professionnelle»: activités d’un employeur ayant comme finalité de préparer l’intégration ou la réintégration sur le marché du travail de personnes éprouvant des difficultés particulières pour trouver un emploi indépendamment de l’évolution conjoncturelle;
 
-   - acquisition d’une meilleure connaissance du fonctionnement du marché de l’emploi et de la vie en entreprise;
-   - prise en compte de son positionnement personnel et professionnel par rapport aux exigences du marché du travail;
-   - élaboration d’un projet professionnel réaliste et d’action, adapté aux conditions du marché du travail;
-7. «diagnostic évolutif de l’insertion professionnelle (DEIP)»: le DEIP est un protocole scientifique qui a pour but l’évaluation objective de l’employabilité du demandeur d’emploi afin de déterminer son aptitude à suivre un programme d’intégration dans un environnement professionnel donné;
-8. «convention de coopération»: convention conclue entre le ministre ayant l’emploi dans ses attributions et l’employeur relative aux conditions et modalités du soutien financier par l’Etat d’initiatives prises pour le rétablissement du plein emploi en application du présent titre;
-9. (
+(b) «activités socio-économiques»: activités d’un employeur ayant comme finalité d’offrir au bénéficiaire, dans le cadre d’un contrat de travail, un emploi et un encadrement de nature socio-économique tenant compte des difficultés éprouvées par le bénéficiaire pour trouver un emploi sur le marché du travail;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) «demandeur d’emploi»: personne sans emploi, disponible pour le marché du travail, à la recherche d’un emploi approprié, non affectée à une mesure active pour remploi, indemnisée ou non indemnisée et ayant respecté les obligations de suivi de l’Agence pour le développement de l’emploi;
-10. initiative prise en matière de lutte pour l’intégration des demandeurs d’emploi difficiles à insérer ou réinsérer sur le marché du travail»: terme général reprenant à la fois les activités d’insertion ou de réinsertion professionnelles et les activités socio-économiques;
-11. «mesure active en faveur de l’emploi»:
+(c) «agrément»: autorisation du ministre ayant l’emploi dans ses attributions d’exercer une activité d’insertion ou de réinsertion professionnelle ou une activité socio-économique;
 
-   - le contrat d’appui emploi au sens des articles L. 543-1 à L. 543-14;
-   - le contrat d’initiation à l’emploi au sens des articles L. 543-15 à L. 543-29;
-   - le stage de réinsertion au sens des articles L. 524-1 à L. 524-7;
-   - le pool des assistants, conformément à l’article VII, paragraphe (1) de la
+(d) «bénéficiaire»: le demandeur d’emploi, sans emploi, sans distinction d’âge, qui remplit les conditions prévues par l’article L. 591-3, paragraphe (1) et qui participe soit à une activité d’insertion ou de réinsertion professionnelle soit à une activité socio-économique;
 
-     [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle, telle que modifiée;
-   - les mises au travail de chômeurs indemnisés au sens de l’article L. 523-1 paragraphes (2) et (3);
-   - (
+(e) «bilan de compétence»: le bilan de compétence permet d’analyser les compétences professionnelles et personnelles, les aptitudes et les motivations du demandeur d’emploi et de définir un projet professionnel et le cas échéant un projet de formation;
 
-     [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les formations, séminaires ou toute autre mesure assignée par les services compétents de l’Agence pour le développement de l’emploi;
-12. «parcours d’insertion individuel»: le parcours d’insertion individuel précise pour chaque demandeur d’emploi, où la situation l’exige, les actions à déployer et qui sont destinées à soutenir, lancer ou relancer le processus d’insertion professionnelle du demandeur d’emploi.
+(f) «bilan d’insertion professionnelle (BIP)»: le BIP est un outil de travail en groupe qui agit sur le processus d’insertion professionnelle du demandeur d’emploi par une triple action:
+
+aash acquisition d’une meilleure connaissance du fonctionnement du marché de l’emploi et de la vie en entreprise;
+
+bash prise en compte de son positionnement personnel et professionnel par rapport aux exigences du marché du travail;
+
+cash élaboration d’un projet professionnel réaliste et d’action, adapté aux conditions du marché du travail;
+
+(g) «diagnostic évolutif de l’insertion professionnelle (DEIP)»: le DEIP est un protocole scientifique qui a pour but l’évaluation objective de l’employabilité du demandeur d’emploi afin de déterminer son aptitude à suivre un programme d’intégration dans un environnement professionnel donné;
+
+(h) «convention de coopération»: convention conclue entre le ministre ayant l’emploi dans ses attributions et l’employeur relative aux conditions et modalités du soutien financier par l’Etat d’initiatives prises pour le rétablissement du plein emploi en application du présent titre;
+
+(i) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) «demandeur d’emploi»: personne sans emploi, disponible pour le marché du travail, à la recherche d’un emploi approprié, non affectée à une mesure active pour remploi, indemnisée ou non indemnisée et ayant respecté les obligations de suivi de l’Agence pour le développement de l’emploi;
+
+(j) initiative prise en matière de lutte pour l’intégration des demandeurs d’emploi difficiles à insérer ou réinsérer sur le marché du travail»: terme général reprenant à la fois les activités d’insertion ou de réinsertion professionnelles et les activités socio-économiques;
+
+(k) «mesure active en faveur de l’emploi»:
+
+aash le contrat d’appui emploi au sens des articles L. 543-1 à L. 543-14;
+
+bash le contrat d’initiation à l’emploi au sens des articles L. 543-15 à L. 543-29;
+
+cash le stage de réinsertion au sens des articles L. 524-1 à L. 524-7;
+
+dash le pool des assistants, conformément à l’article VII, paragraphe (1) de la [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle, telle que modifiée;
+
+eash les mises au travail de chômeurs indemnisés au sens de l’article L. 523-1 paragraphes (2) et (3);
+
+fash ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les formations, séminaires ou toute autre mesure assignée par les services compétents de l’Agence pour le développement de l’emploi;
+
+(l) «parcours d’insertion individuel»: le parcours d’insertion individuel précise pour chaque demandeur d’emploi, où la situation l’exige, les actions à déployer et qui sont destinées à soutenir, lancer ou relancer le processus d’insertion professionnelle du demandeur d’emploi.
 
 ##### Art. L. 591-3 — – Champ d’application
 
 (1) Les activités d’insertion ou de réinsertion professionnelles et les activités socio-économiques doivent exclusivement concerner des bénéficiaires, qui, au moment où lesdites activités leur sont proposées
 
-1. (
+1\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) soit ne sont pas engagés dans les liens d’un contrat de travail ou d’apprentissage, respectivement ne suivent pas de mesure active en faveur de l’emploi au plus tard après six mois d’inscription à l’Agence pour le développement de l’emploi;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) soit ne sont pas engagés dans les liens d’un contrat de travail ou d’apprentissage, respectivement ne suivent pas de mesure active en faveur de l’emploi au plus tard après six mois d’inscription à l’Agence pour le développement de l’emploi;
-2. soit ne sont pas engagés dans les liens d’un contrat de travail ou d’apprentissage le premier jour ouvrable suivant la fin d’une mesure active en faveur de l’emploi.
+2\. soit ne sont pas engagés dans les liens d’un contrat de travail ou d’apprentissage le premier jour ouvrable suivant la fin d’une mesure active en faveur de l’emploi.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) A titre exceptionnel, les activités d’insertion ou de réinsertion professionnelles et les activités socio-économiques peuvent concerner des bénéficiaires non visés par le paragraphe (1) qui précède, sur base d’une décision motivée du directeur de l’Agence pour le développement de l’emploi.
 
@@ -13828,14 +14727,17 @@ Les avantages financiers accordés en application du chapitre III du présent ti
 
 Pour obtenir l’agrément, l’employeur doit:
 
-1. documenter les prestations à fournir à l’égard des bénéficiaires et plus particulièrement les mesures d’encadrement prévues;
-2. remplir les conditions d’honorabilité dans le chef des membres des organes dirigeants de la personne morale responsables de la gestion des activités d’insertion ou de réinsertion professionnelles et des activités socio-économiques dans le chef du personnel dirigeant;
-3. ne pas avoir été mis en état de faillite, de concordat préventif de faillite ou de déconfiture;
-4. avoir répondu à l’ensemble des exigences légales en matière de législation sur les sociétés et associations;
-5. suffire, s’il y a lieu, aux obligations de la
+a) documenter les prestations à fournir à l’égard des bénéficiaires et plus particulièrement les mesures d’encadrement prévues;
 
-   [loi modifiée du 10 juin 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/jo) relative aux établissements classés;
-6. garantir que les activités agréées soient accessibles aux bénéficiaires indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux et que le bénéficiaire ait droit à la protection de sa vie privée et au respect de ses convictions idéologiques, philosophiques et religieuses.
+b) remplir les conditions d’honorabilité dans le chef des membres des organes dirigeants de la personne morale responsables de la gestion des activités d’insertion ou de réinsertion professionnelles et des activités socio-économiques dans le chef du personnel dirigeant;
+
+c) ne pas avoir été mis en état de faillite, de concordat préventif de faillite ou de déconfiture;
+
+d) avoir répondu à l’ensemble des exigences légales en matière de législation sur les sociétés et associations;
+
+e) suffire, s’il y a lieu, aux obligations de la [loi modifiée du 10 juin 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/jo) relative aux établissements classés;
+
+f) garantir que les activités agréées soient accessibles aux bénéficiaires indépendamment de toutes considérations d’ordre idéologique, philosophique ou religieux et que le bénéficiaire ait droit à la protection de sa vie privée et au respect de ses convictions idéologiques, philosophiques et religieuses.
 
 ###### Art. L. 593-4 — – Demande en obtention de l’agrément
 
@@ -13883,17 +14785,23 @@ Pour obtenir l’agrément, l’employeur doit:
 
 (2) La convention mentionne:
 
-1. les prestations à fournir par l’employeur à regard des bénéficiaires et plus particulièrement les mesures d’encadrement prévues;
-2. la participation financière maximale du fonds pour l’emploi;
-3. les modalités de gestion des dossiers, afin de permettre un suivi et une évaluation socioprofessionnels qualitatifs des bénéficiaires;
-4. les modalités de gestion financière à observer par l’employeur et notamment la forme et le contenu des décomptes à présenter;
-5. les modalités de prise en charge et d’éligibilité des frais par le fonds pour l’emploi;
-6. les moyens d’information, de contrôle et de sanction que possède l’Etat en relation avec les obligations du bénéficiaire;
-7. (
+1\. les prestations à fournir par l’employeur à regard des bénéficiaires et plus particulièrement les mesures d’encadrement prévues;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les modalités de coopération entre les parties contractantes et le directeur de l’Agence pour le développement de l’emploi;
-8. les informations relatives à sa durée;
-9. les formes et délais relatifs à sa résiliation.
+2\. la participation financière maximale du fonds pour l’emploi;
+
+3\. les modalités de gestion des dossiers, afin de permettre un suivi et une évaluation socioprofessionnels qualitatifs des bénéficiaires;
+
+4\. les modalités de gestion financière à observer par l’employeur et notamment la forme et le contenu des décomptes à présenter;
+
+5\. les modalités de prise en charge et d’éligibilité des frais par le fonds pour l’emploi;
+
+6\. les moyens d’information, de contrôle et de sanction que possède l’Etat en relation avec les obligations du bénéficiaire;
+
+7\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) les modalités de coopération entre les parties contractantes et le directeur de l’Agence pour le développement de l’emploi;
+
+8\. les informations relatives à sa durée;
+
+9\. les formes et délais relatifs à sa résiliation.
 
 (3) Les responsabilités en matière de gestion des activités d’insertion ou de réinsertion professionnelles et des activités socio-économiques incombent exclusivement à l’employeur.
 
@@ -13937,11 +14845,11 @@ L’inspection du travail et des mines a comme mission de contribuer au dévelop
 
 Pour l’exécution et l’application de la présente loi et de ses mesures d’exécution, on entend par:
 
-1. «salarié»: toute personne physique, y compris les stagiaires, les apprentis et les élèves occupés pendant les vacances scolaires, dans les limites des textes applicables, qui est occupée par un employeur en vue d’effectuer des prestations rémunérées accomplies sous un lien de subordination, à l’exception de celle qui est occupée dans les institutions visées à l’article 2, alinéa 1 de la
+1\. «salarié»: toute personne physique, y compris les stagiaires, les apprentis et les élèves occupés pendant les vacances scolaires, dans les limites des textes applicables, qui est occupée par un employeur en vue d’effectuer des prestations rémunérées accomplies sous un lien de subordination, à l’exception de celle qui est occupée dans les institutions visées à l’article 2, alinéa 1 de la [loi modifiée du 19 mars 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/jo) concernant la sécurité dans les administrations et les services de l’Etat, dans les établissements publics et dans les écoles;
 
-   [loi modifiée du 19 mars 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/jo) concernant la sécurité dans les administrations et les services de l’Etat, dans les établissements publics et dans les écoles;
-2. «employeur»: toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise ou de l’établissement;
-3. le «ministre»: le membre du Gouvernement ayant dans ses attributions le travail.
+2\. «employeur»: toute personne physique ou morale qui est titulaire de la relation de travail avec le salarié et qui a la responsabilité de l’entreprise ou de l’établissement;
+
+3\. le «ministre»: le membre du Gouvernement ayant dans ses attributions le travail.
 
 #### Chapitre II — Champ d’application et attributions
 
@@ -13949,16 +14857,19 @@ Pour l’exécution et l’application de la présente loi et de ses mesures d�
 
 (1) L’Inspection du travail et des mines est chargée notamment:
 
-1. de veiller et de faire veiller à l’application de la législation dont notamment les conditions de travail et la protection des salariés;
-2. de conseiller et d’assister les employeurs et les salariés et de fournir des informations juridiques et techniques pratiques dans la mise en oeuvre des dispositions légales, réglementaires, administratives et conventionnelles en matière de travail et de sécurité et santé au travail ainsi que d’assumer une fonction d’interlocuteur commun en vue de prévenir et d’aplanir des conflits sociaux individuels;
-3. de mettre fin aux situations en contradiction avec les dispositions légales, réglementaires, administratives et conventionnelles en matière de travail et de sécurité et santé au travail;
-4. de constater les infractions dans les domaines relevant de sa compétence et d’en aviser le procureur d’Etat;
-5. de porter à l’attention du ministre les déficiences ou les abus de droit constatés en pratique, ainsi que les questions de fait qui ne sont pas spécifiquement couvertes par lesdites dispositions existantes et de lui proposer les moyens d’y remédier moyennant avis circonstancié.
-6. (
+a) de veiller et de faire veiller à l’application de la législation dont notamment les conditions de travail et la protection des salariés;
 
-   [L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) de constater les infractions relatives à l’emploi de ressortissants de pays tiers en séjour irrégulier interdit par l’article L. 572-1 ou en situation irrégulière interdit par l’article L. 574-1.
+b) de conseiller et d’assister les employeurs et les salariés et de fournir des informations juridiques et techniques pratiques dans la mise en oeuvre des dispositions légales, réglementaires, administratives et conventionnelles en matière de travail et de sécurité et santé au travail ainsi que d’assumer une fonction d’interlocuteur commun en vue de prévenir et d’aplanir des conflits sociaux individuels;
 
-   A cette fin, l’Inspection du travail et des mines procède à une analyse des risques permettant d’identifier régulièrement les secteurs d’activité dans lesquels se concentre l’emploi de ressortissants de pays tiers en séjour irrégulier ou en situation irrégulière sur le territoire.
+c) de mettre fin aux situations en contradiction avec les dispositions légales, réglementaires, administratives et conventionnelles en matière de travail et de sécurité et santé au travail;
+
+d) de constater les infractions dans les domaines relevant de sa compétence et d’en aviser le procureur d’Etat;
+
+e) de porter à l’attention du ministre les déficiences ou les abus de droit constatés en pratique, ainsi que les questions de fait qui ne sont pas spécifiquement couvertes par lesdites dispositions existantes et de lui proposer les moyens d’y remédier moyennant avis circonstancié.
+
+f) ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) de constater les infractions relatives à l’emploi de ressortissants de pays tiers en séjour irrégulier interdit par l’article L. 572-1 ou en situation irrégulière interdit par l’article L. 574-1.
+
+A cette fin, l’Inspection du travail et des mines procède à une analyse des risques permettant d’identifier régulièrement les secteurs d’activité dans lesquels se concentre l’emploi de ressortissants de pays tiers en séjour irrégulier ou en situation irrégulière sur le territoire.
 
 (2) Le ministre pourra charger l’Inspection du travail et des mines de toutes questions ou enquêtes d’ordre juridique ou technique afférentes aux conditions de travail et au bien-être des salariés.
 
@@ -13984,9 +14895,11 @@ Le rapport annuel est rendu accessible au public par les moyens les plus appropr
 
 (1) L’Inspection du travail et des mines comprend:
 
-- la direction;
-- l’inspectorat du travail;
-- le service administratif.
+aash la direction;
+
+bash l’inspectorat du travail;
+
+cash le service administratif.
 
 (2) La direction comprend le directeur et les directeurs adjoints.
 
@@ -14032,8 +14945,9 @@ S’il existe des indices suffisants ou des motifs légitimes de considérer qu�
 
 (2) ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n3/jo)) Dès le commencement de l’exercice des prérogatives visées au paragraphe (1) qui précède, les membres de l’inspectorat du travail sont tenus d’informer, dans la mesure du possible, de leur présence:
 
-- l’employeur ou son représentant et, le cas échéant;
-- le/les président(s) ou son/ses représentant(s) de la/des délégation(s) concernée(s).
+aash l’employeur ou son représentant et, le cas échéant;
+
+bash le/les président(s) ou son/ses représentant(s) de la/des délégation(s) concernée(s).
 
 Le président informe, le cas échéant, le délégué à la sécurité et à la santé ou le délégué à l’égalité compétents pour le lieu de travail en cause.
 
@@ -14043,10 +14957,9 @@ L’inspecteur du travail est tenu de dresser un rapport relatif aux vérificati
 
 (3) Les membres de l’inspectorat du travail, sont autorisés en outre:
 
-1. à prendre l’identité et à fixer par l’image des personnes qui se trouvent sur les lieux de travail ou les autres lieux qui sont soumis à leur contrôle et dont ils peuvent raisonnablement présumer qu’elles sont des employeurs ou maîtres d’ouvrage, préposés ou mandataires de ceux-ci, salariés ou assurés sociaux, ainsi que tout autre acteur du monde du travail, dont ils estiment l’audition nécessaire pour l’exercice du contrôle;
-2. (
+a) à prendre l’identité et à fixer par l’image des personnes qui se trouvent sur les lieux de travail ou les autres lieux qui sont soumis à leur contrôle et dont ils peuvent raisonnablement présumer qu’elles sont des employeurs ou maîtres d’ouvrage, préposés ou mandataires de ceux-ci, salariés ou assurés sociaux, ainsi que tout autre acteur du monde du travail, dont ils estiment l’audition nécessaire pour l’exercice du contrôle;
 
-   [L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) à cet effet, à exiger le cas échéant des personnes précitées la présentation de l’autorisation de travail, respectivement de l’autorisation de séjour ou du titre de séjour.
+b) ([L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) à cet effet, à exiger le cas échéant des personnes précitées la présentation de l’autorisation de travail, respectivement de l’autorisation de séjour ou du titre de séjour.
 
 Si l’employeur contrôlé ne fait l’objet d’aucune enquête judiciaire ou sanction administrative, le rapport relatif au contrôle visé ci-dessus ainsi que toutes les pièces s’y rapportant seront détruits dans les deux ans sous le contrôle du directeur de l’Inspection du travail et des mines.
 
@@ -14056,22 +14969,29 @@ Si l’employeur contrôlé ne fait l’objet d’aucune enquête judiciaire ou 
 
 (1) Les membres de l’inspectorat du travail, sont autorisés en outre:
 
-1. à procéder à tous les examens, contrôles ou enquêtes jugés nécessaires pour s’assurer que les dispositions légales, réglementaires, administratives et conventionnelles sont effectivement observées et notamment:
+a) à procéder à tous les examens, contrôles ou enquêtes jugés nécessaires pour s’assurer que les dispositions légales, réglementaires, administratives et conventionnelles sont effectivement observées et notamment:
 
-   - à s’informer, soit seuls, soit sur demande d’une des parties en présence de témoins, auprès de l’employeur ou de son représentant et du personnel de l’entreprise ou de ses représentants sur toutes les matières relatives à l’application desdites dispositions légales, réglementaires, administratives et conventionnelles;
-   - à demander communication dans les meilleurs délais de tous livres, registres, fichiers, documents et informations relatifs aux conditions de travail, en vue d’en vérifier la conformité avec les dispositions légales, réglementaires, administratives et conventionnelles, de les reproduire ou d’en établir des extraits;
-   - à documenter par l’image la ou les non-conformités des installations aux dispositions légales, réglementaires, administratives ou conventionnelles.
-2. à obliger l’employeur d’informer d’une manière adéquate tous les salariés par l’affichage ou par tout autre moyen de communication approprié, quant aux:
+aash à s’informer, soit seuls, soit sur demande d’une des parties en présence de témoins, auprès de l’employeur ou de son représentant et du personnel de l’entreprise ou de ses représentants sur toutes les matières relatives à l’application desdites dispositions légales, réglementaires, administratives et conventionnelles;
 
-   - avis dont l’apposition ou la notification est prévue par les dispositions légales, réglementaires, administratives et conventionnelles;
-   - décisions prises par l’Inspection du travail et des mines, relativement à l’entreprise ou à l’établissement concerné;
-   - circulaires relatives au droit du travail ou à la sécurité et la santé des salariés;
-   - consignes de sécurité, rédigées ou graphiquement reproduites.
+bash à demander communication dans les meilleurs délais de tous livres, registres, fichiers, documents et informations relatifs aux conditions de travail, en vue d’en vérifier la conformité avec les dispositions légales, réglementaires, administratives et conventionnelles, de les reproduire ou d’en établir des extraits;
+
+cash à documenter par l’image la ou les non-conformités des installations aux dispositions légales, réglementaires, administratives ou conventionnelles.
+
+b) à obliger l’employeur d’informer d’une manière adéquate tous les salariés par l’affichage ou par tout autre moyen de communication approprié, quant aux:
+
+aash avis dont l’apposition ou la notification est prévue par les dispositions légales, réglementaires, administratives et conventionnelles;
+
+bash décisions prises par l’Inspection du travail et des mines, relativement à l’entreprise ou à l’établissement concerné;
+
+cash circulaires relatives au droit du travail ou à la sécurité et la santé des salariés;
+
+dash consignes de sécurité, rédigées ou graphiquement reproduites.
 
 (2) Les membres de l’inspectorat du travail sont autorisés:
 
-- à effectuer ou à faire effectuer des mesurages de nature technique et scientifique afin de vérifier la conformité des installations aux dispositions légales, réglementaires, administratives et conventionnelles;
-- à cette fin, à prélever, à faire prélever, à emporter et à faire emporter aux fins d’analyses des échantillons des matières et substances utilisées ou manipulées, pourvu que l’employeur ou son représentant soit averti que des matières, substances ou pièces ont été prélevées ou emportées à cette fin; les frais de ces analyses incombent à l’employeur, au cas où une faute serait établie à sa charge.
+aash à effectuer ou à faire effectuer des mesurages de nature technique et scientifique afin de vérifier la conformité des installations aux dispositions légales, réglementaires, administratives et conventionnelles;
+
+bash à cette fin, à prélever, à faire prélever, à emporter et à faire emporter aux fins d’analyses des échantillons des matières et substances utilisées ou manipulées, pourvu que l’employeur ou son représentant soit averti que des matières, substances ou pièces ont été prélevées ou emportées à cette fin; les frais de ces analyses incombent à l’employeur, au cas où une faute serait établie à sa charge.
 
 (3) Lorsque les membres de l’inspectorat du travail rencontrent des difficultés dans l’exercice de leurs pouvoirs de contrôle spécifiques, ils peuvent requérir le concours de la Police grand-ducale, qui leur prêtera main-forte ou assistance technique.
 
@@ -14081,14 +15001,17 @@ Après avoir informé un membre de la direction ou un inspecteur en chef du trav
 
 Ils peuvent ordonner, même sans en référer à leur hiérarchie, la cessation immédiate du travail du salarié concerné lorsqu’ils constatent une inobservation flagrante des dispositions légales, réglementaires ou des conventions collectives relatives
 
-- à l’âge minimum requis pour le travail;
-- à la durée du travail et au travail de nuit;
-- au respect du repos hebdomadaire;
-- aux jours fériés légaux;
-- aux règles protectrices concernant les conditions de travail des femmes enceintes, allaitantes et des jeunes au travail;
-- (
+aash à l’âge minimum requis pour le travail;
 
-  [L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) aux dispositions des chapitres II et IV du titre VII du livre V.
+bash à la durée du travail et au travail de nuit;
+
+cash au respect du repos hebdomadaire;
+
+dash aux jours fériés légaux;
+
+eash aux règles protectrices concernant les conditions de travail des femmes enceintes, allaitantes et des jeunes au travail;
+
+fash ([L. du 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) aux dispositions des chapitres II et IV du titre VII du livre V.
 
 Les salariés ne pourront subir aucun préjudice, sauf en cas de faute grave de leur part, d’un arrêt du travail consécutif à une mesure prise conformément aux dispositions du présent article.
 
@@ -14098,9 +15021,11 @@ Les salariés ne pourront subir aucun préjudice, sauf en cas de faute grave de 
 
 Quant aux mesures d’urgence destinées à éliminer les défectuosités présumées ou constatées dans une installation, un aménagement ou des méthodes de travail qu’ils peuvent avoir un motif raisonnable de considérer comme une menace à la sécurité ou à la santé des salariés ou si les dispositions légales en matière de droit du travail n’ont pas été respectées, ils ont le droit:
 
-- d’instituer ou de faire instituer tout contrôle technique d’une installation, d’un appareillage ou d’une machine et, en général, toute inspection, vérification ou examen d’un aménagement, des méthodes ou procédés de travail, afin de s’assurer que les dispositions légales et réglementaires concernant la sécurité et la santé des salariés soient assurées;
-- d’ordonner que soient apportées, dans un délai approprié fixé par eux, les modifications nécessaires pour assurer l’application des dispositions légales, réglementaires, administratives et conventionnelles concernant la sécurité et la santé des salariés ainsi que de rapporter toute pièce prouvant qu’il a été remédié aux infractions en matière de droit du travail;
-- d’ordonner que des mesures immédiatement exécutoires, telles que l’arrêt de travail des personnes menacées et l’évacuation des lieux, soient prises dans les cas de danger imminent et grave pour la sécurité et la santé des salariés.
+aash d’instituer ou de faire instituer tout contrôle technique d’une installation, d’un appareillage ou d’une machine et, en général, toute inspection, vérification ou examen d’un aménagement, des méthodes ou procédés de travail, afin de s’assurer que les dispositions légales et réglementaires concernant la sécurité et la santé des salariés soient assurées;
+
+bash d’ordonner que soient apportées, dans un délai approprié fixé par eux, les modifications nécessaires pour assurer l’application des dispositions légales, réglementaires, administratives et conventionnelles concernant la sécurité et la santé des salariés ainsi que de rapporter toute pièce prouvant qu’il a été remédié aux infractions en matière de droit du travail;
+
+cash d’ordonner que des mesures immédiatement exécutoires, telles que l’arrêt de travail des personnes menacées et l’évacuation des lieux, soient prises dans les cas de danger imminent et grave pour la sécurité et la santé des salariés.
 
 Les mesures d’urgence, exécutoires par provision, stipulées au présent paragraphe, troisième tiret, ont une durée de validité limitée à 48 heures.
 
@@ -14112,55 +15037,67 @@ Les membres de l’inspectorat du travail sont autorisés à emporter toute piè
 
 (2) Les membres de l’inspectorat du travail ont la faculté:
 
-- d’ordonner que des contrôles, vérifications ou examens soient effectués par un ou plusieurs organismes spécialement agréés par le ministre.
+aash d’ordonner que des contrôles, vérifications ou examens soient effectués par un ou plusieurs organismes spécialement agréés par le ministre.
 
-  Ils préciseront à cet effet par notification écrite les délais endéans lesquels:
+Ils préciseront à cet effet par notification écrite les délais endéans lesquels:
 
-  - lesdites mesures d’instruction complémentaires doivent être effectuées;
-  - le rapport des résultats desdites mesures doit être remis à l’Inspection du travail et des mines.
-- d’ordonner que soient apportées, dans un délai par eux fixé, les modifications nécessaires pour assurer l’application des dispositions légales, réglementaires, administratives, conventionnelles concernant la sécurité et la santé des salariés.
+aot lesdites mesures d’instruction complémentaires doivent être effectuées;
+
+bot le rapport des résultats desdites mesures doit être remis à l’Inspection du travail et des mines.
+
+bash d’ordonner que soient apportées, dans un délai par eux fixé, les modifications nécessaires pour assurer l’application des dispositions légales, réglementaires, administratives, conventionnelles concernant la sécurité et la santé des salariés.
 
 ##### Art. L. 614-7.
 
 (1) L’Inspection du travail et des mines peut se faire assister par des personnes physiques ou morales de droit privé ou public, agréées par le ministre, personnes qui sont appelées, notamment dans le cadre des missions définies par la présente loi, à accomplir diverses tâches techniques, d’études et de vérifications et tout particulièrement à:
 
-1. réaliser des évaluations d’incidences sur la sécurité et la santé des salariés au travail, ainsi que des études des risques dans le cadre des législations spécifiques dont l’Inspection du travail et des mines est chargée de l’exécution, dénommées ci-après «experts agréés»;
-2. réaliser des réceptions et contrôles de travaux et d’installations, des expertises techniques, des mesurages et des analyses, dans le cadre de la sécurité et de la santé au travail ainsi que de la sécurité du voisinage et du public dans le cadre des législations spécifiques dont l’Inspection du travail et des mines est chargée de l’exécution, dénommées ci-après «organismes de contrôles».
+1\. réaliser des évaluations d’incidences sur la sécurité et la santé des salariés au travail, ainsi que des études des risques dans le cadre des législations spécifiques dont l’Inspection du travail et des mines est chargée de l’exécution, dénommées ci-après «experts agréés»;
+
+2\. réaliser des réceptions et contrôles de travaux et d’installations, des expertises techniques, des mesurages et des analyses, dans le cadre de la sécurité et de la santé au travail ainsi que de la sécurité du voisinage et du public dans le cadre des législations spécifiques dont l’Inspection du travail et des mines est chargée de l’exécution, dénommées ci-après «organismes de contrôles».
 
 (2) L’agrément des organismes de contrôle et des experts agréés est accordé, suspendu ou retiré par le ministre sur avis obligatoire de la Commission consultative prévue au point 8 ci-après.
 
 (3) Les conditions d’agrément sont:
 
-1. Les organismes de contrôle doivent être créés en vertu de la
+1\. Les organismes de contrôle doivent être créés en vertu de la [loi modifiée du 21 avril 1928](https://legilux.public.lu/eli/etat/leg/loi/1928/04/21/n2/jo) sur les associations et fondations sans but lucratif, sous la forme d’une association sans but lucratif.
 
-   [loi modifiée du 21 avril 1928](https://legilux.public.lu/eli/etat/leg/loi/1928/04/21/n2/jo) sur les associations et fondations sans but lucratif, sous la forme d’une association sans but lucratif.
+L’objet social de la personne morale doit porter sur:
 
-   L’objet social de la personne morale doit porter sur:
+a) la gestion de l’organisme de contrôle;
 
-   1. la gestion de l’organisme de contrôle;
-   2. l’exécution des missions d’un organisme de contrôle, telles qu’elles sont déterminées par le présent article et ses règlements d’exécution.
-2. L’organisme de contrôle, son directeur et son personnel technique ne peuvent être, ni le concepteur, ni le fabricant, ni le fournisseur, ni l’installateur, ni l’utilisateur des machines, des installations, des équipements de travail et des moyens de protection qu’ils contrôlent, ni le mandataire de l’une de ces personnes. Ils ne peuvent intervenir, ni directement, ni comme mandataire, dans la conception, la construction, la commercialisation ou l’entretien de ces objets.
+b) l’exécution des missions d’un organisme de contrôle, telles qu’elles sont déterminées par le présent article et ses règlements d’exécution.
 
-   L’expert agréé, et le cas échéant son directeur et son personnel technique, ne peut intervenir, ni directement, ni comme mandataire dans la conception de détail, la construction, la commercialisation ou l’entretien de ces objets.
+2\. L’organisme de contrôle, son directeur et son personnel technique ne peuvent être, ni le concepteur, ni le fabricant, ni le fournisseur, ni l’installateur, ni l’utilisateur des machines, des installations, des équipements de travail et des moyens de protection qu’ils contrôlent, ni le mandataire de l’une de ces personnes. Ils ne peuvent intervenir, ni directement, ni comme mandataire, dans la conception, la construction, la commercialisation ou l’entretien de ces objets.
 
-   Les dispositions du présent paragraphe n’excluent pas la possibilité d’un échange d’informations techniques entre le fabricant et l’organisme de contrôle, respectivement l’expert agréé.
-3. Pour obtenir un agrément dans un domaine d’activités pour pouvoir effectuer les missions visées au paragraphe (1) sous 1, l’expert doit faire preuve de sa compétence et de son expérience.
+L’expert agréé, et le cas échéant son directeur et son personnel technique, ne peut intervenir, ni directement, ni comme mandataire dans la conception de détail, la construction, la commercialisation ou l’entretien de ces objets.
 
-   Afin d’obtenir un agrément dans un domaine d’activités pour pouvoir effectuer les contrôles visés au paragraphe (1) sous 2, l’organisme de contrôle doit fournir une accréditation reconnue par l’Office luxembourgeois d’accréditation et de surveillance, dénommé ci après «OLAS» qui certifie qu’il répond aux exigences des normes applicables des séries ISO 17000 respectivement EN 45000.
+Les dispositions du présent paragraphe n’excluent pas la possibilité d’un échange d’informations techniques entre le fabricant et l’organisme de contrôle, respectivement l’expert agréé.
 
-   Les organismes de contrôle qui demandent un agrément pour la première fois ou les organismes qui demandent un agrément ponctuel pour une mission précise, respectivement les organismes de contrôle déjà agréés en application du présent article qui demandent une extension du champ d’application de leur agrément, peuvent obtenir un agrément provisoire sans devoir remplir toutes les conditions reprises ci-dessus. Cet agrément provisoire a une validité d’une année et peut être prolongé d’une durée maximale supplémentaire d’une année sur avis obligatoire et préalable de la Commission consultative, telle que définie au point 8 ci-dessous.
-4. L’organisme de contrôle et les experts agréés doivent disposer du personnel compétent et des moyens nécessaires pour accomplir de façon adéquate les tâches techniques et administratives liées à l’exécution de leurs tâches; ils doivent également avoir accès au matériel nécessaire pour pouvoir effectuer, le cas échéant, des contrôles et mesurages particuliers. Les organismes de contrôle, les experts agréés ainsi que leur personnel sont tenus de respecter le secret professionnel.
-5. L’indépendance du personnel d’un organisme de contrôle et de l’expert agréé doit être garantie. Le salaire du personnel d’un organisme de contrôle ne doit être fonction, ni du nombre de contrôles respectivement des expertises qu’il effectue, ni des résultats de ces contrôles ou expertises.
-6. L’agrément est renouvelable au plus tard tous les cinq ans et sa validité est limitée pour les domaines d’intervention figurant sur l’arrêté ministériel d’agrément.
-7. Le nombre d’organismes de contrôle agréés respectivement d’experts agréés peut être limité, compte tenu de la nécessité de disposer d’organismes de contrôle dont le volume d’activités est suffisant pour permettre un développement optimal de l’expérience acquise et de l’équipement.
-8. Il est institué une Commission consultative chargée d’assister le ministre en matière des dispositions figurant au point 7 ci-avant et d’aviser les demandes d’agréments et les demandes de prolongation d’agréments, de vérifier l’accréditation reconnue par l’OLAS, et de donner, le cas échéant, son avis sur l’expérience professionnel de l’expert demandeur d’agréation. Ladite Commission consultative, présidée par un représentant de l’Inspection du travail et des mines, fonctionne selon son propre règlement d’ordre interne et se compose de:
+3\. Pour obtenir un agrément dans un domaine d’activités pour pouvoir effectuer les missions visées au paragraphe (1) sous 1, l’expert doit faire preuve de sa compétence et de son expérience.
 
-   - deux représentants de l’Inspection du travail et des mines;
-   - un représentant désigné par la Chambre de Commerce et la Chambre des Métiers;
-   - un représentant désigné par la Chambre des salariés et la Chambre de travail. Le secrétariat de la Commission consultative est assuré par l’Inspection du travail et des mines.
-9. Les procédures d’agréments, de suspension et de retrait d’agrément ainsi que l’organisation opérationnelle des organismes de contrôle respectivement des experts peuvent être définies par règlement grand-ducal.
+Afin d’obtenir un agrément dans un domaine d’activités pour pouvoir effectuer les contrôles visés au paragraphe (1) sous 2, l’organisme de contrôle doit fournir une accréditation reconnue par l’Office luxembourgeois d’accréditation et de surveillance, dénommé ci après «OLAS» qui certifie qu’il répond aux exigences des normes applicables des séries ISO 17000 respectivement EN 45000.
 
-   Les arrêtés d’agréments du ministre pris en exécution du présent article fixent les relations avec l’Inspection du travail et des mines ainsi que les modalités opérationnelles pour chaque domaine d’intervention.
+Les organismes de contrôle qui demandent un agrément pour la première fois ou les organismes qui demandent un agrément ponctuel pour une mission précise, respectivement les organismes de contrôle déjà agréés en application du présent article qui demandent une extension du champ d’application de leur agrément, peuvent obtenir un agrément provisoire sans devoir remplir toutes les conditions reprises ci-dessus. Cet agrément provisoire a une validité d’une année et peut être prolongé d’une durée maximale supplémentaire d’une année sur avis obligatoire et préalable de la Commission consultative, telle que définie au point 8 ci-dessous.
+
+4\. L’organisme de contrôle et les experts agréés doivent disposer du personnel compétent et des moyens nécessaires pour accomplir de façon adéquate les tâches techniques et administratives liées à l’exécution de leurs tâches; ils doivent également avoir accès au matériel nécessaire pour pouvoir effectuer, le cas échéant, des contrôles et mesurages particuliers. Les organismes de contrôle, les experts agréés ainsi que leur personnel sont tenus de respecter le secret professionnel.
+
+5\. L’indépendance du personnel d’un organisme de contrôle et de l’expert agréé doit être garantie. Le salaire du personnel d’un organisme de contrôle ne doit être fonction, ni du nombre de contrôles respectivement des expertises qu’il effectue, ni des résultats de ces contrôles ou expertises.
+
+6\. L’agrément est renouvelable au plus tard tous les cinq ans et sa validité est limitée pour les domaines d’intervention figurant sur l’arrêté ministériel d’agrément.
+
+7\. Le nombre d’organismes de contrôle agréés respectivement d’experts agréés peut être limité, compte tenu de la nécessité de disposer d’organismes de contrôle dont le volume d’activités est suffisant pour permettre un développement optimal de l’expérience acquise et de l’équipement.
+
+8\. Il est institué une Commission consultative chargée d’assister le ministre en matière des dispositions figurant au point 7 ci-avant et d’aviser les demandes d’agréments et les demandes de prolongation d’agréments, de vérifier l’accréditation reconnue par l’OLAS, et de donner, le cas échéant, son avis sur l’expérience professionnel de l’expert demandeur d’agréation. Ladite Commission consultative, présidée par un représentant de l’Inspection du travail et des mines, fonctionne selon son propre règlement d’ordre interne et se compose de:
+
+aash deux représentants de l’Inspection du travail et des mines;
+
+bash un représentant désigné par la Chambre de Commerce et la Chambre des Métiers;
+
+cash un représentant désigné par la Chambre des salariés et la Chambre de travail. Le secrétariat de la Commission consultative est assuré par l’Inspection du travail et des mines.
+
+9\. Les procédures d’agréments, de suspension et de retrait d’agrément ainsi que l’organisation opérationnelle des organismes de contrôle respectivement des experts peuvent être définies par règlement grand-ducal.
+
+Les arrêtés d’agréments du ministre pris en exécution du présent article fixent les relations avec l’Inspection du travail et des mines ainsi que les modalités opérationnelles pour chaque domaine d’intervention.
 
 ##### Art. L. 614-8 — ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo))
 
@@ -14194,10 +15131,13 @@ Les chefs d’entreprises en seront informés.
 
 (1) La déclaration des accidents graves ayant occasionné, soit la mort, soit une lésion permanente, soit au moins une des lésions temporaires suivantes:
 
-- des fractures;
-- des brûlures externes au troisième degré et sur plus de neuf pour cent de la superficie du corps ou internes;
-- des plaies avec perte de substance;
-- des traumatismes qui, en l’absence de traitement, peuvent mettre la survie en péril,
+aash des fractures;
+
+bash des brûlures externes au troisième degré et sur plus de neuf pour cent de la superficie du corps ou internes;
+
+cash des plaies avec perte de substance;
+
+dash des traumatismes qui, en l’absence de traitement, peuvent mettre la survie en péril,
 
 doit s’effectuer sans délai par l’employeur ou son délégué auprès de l’Inspection du travail et des mines, par voie écrite ou par tout moyen de télécommunication approprié.
 
@@ -14231,18 +15171,13 @@ A défaut d’opposition régulièrement notifiée, l’amende administrative de
 
 (5) ([L. 14 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/14/a300/jo)) Le montant de l’amende administrative est fixé selon le degré de gravité de l’infraction par le directeur de l’Inspection du travail et des mines à:
 
-1. (
+a) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application de l’article L. 614-4;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application de l’article L. 614-4;
-2. (
+b) ([L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) entre 1.000 euros et 25.000 euros pour les infractions qui ont été notifiées en application de l’article L. 614-5;
 
-   [L. 23 décembre 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a693/jo)) entre 1.000 euros et 25.000 euros pour les infractions qui ont été notifiées en application de l’article L. 614-5;
-3. (
+c) ([L. 29 mars 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/03/29/a187/jo)) entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application des articles L. 614-6 et L. 614-8 à L. 614-11;
 
-   [L. 29 mars 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/03/29/a187/jo)) entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application des articles L. 614-6 et L. 614-8 à L. 614-11;
-4. (
-
-   [L. 29 mars 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/03/29/a187/jo))entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application de l’article L. 246-3, paragraphe 5.
+d) ([L. 29 mars 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/03/29/a187/jo))entre 25 euros et 25.000 euros pour les injonctions qui ont été notifiées en application de l’article L. 246-3, paragraphe 5.
 
 Pour fixer le montant de l’amende, le directeur de l’Inspection du travail et des mines prend en compte les circonstances et la gravité du manquement ainsi que le comportement de son auteur.
 
@@ -14262,12 +15197,17 @@ Toutes les décisions administratives prises sur base des dispositions de la pr�
 
 (2) Aucun membre du personnel de l’Inspection du travail et des mines ne peut, ni en nom personnel, ni par le biais de tout autre prête-nom:
 
-- avoir un intérêt direct ou indirect, dans les entreprises ou établissements placés sous le contrôle de l’Inspection du travail et des mines, voire exercer des missions d’inspection ou de contrôle dans les entreprises ou établissements dans lesquels eux-mêmes ou leurs parents ou alliés en ligne directe détiennent des parts majoritaires, voire une minorité de blocage, à tous les degrés ou en ligne collatérale jusqu’au quatrième degré inclusivement;
-- poser des actes de commerce;
-- exploiter une industrie;
-- exercer une profession à titre parallèle, sans préjudice des dérogations admises par le statut général des fonctionnaires de l’Etat;
-- être agent d’affaires;
-- tenir cabaret ou débit de boissons.
+aash avoir un intérêt direct ou indirect, dans les entreprises ou établissements placés sous le contrôle de l’Inspection du travail et des mines, voire exercer des missions d’inspection ou de contrôle dans les entreprises ou établissements dans lesquels eux-mêmes ou leurs parents ou alliés en ligne directe détiennent des parts majoritaires, voire une minorité de blocage, à tous les degrés ou en ligne collatérale jusqu’au quatrième degré inclusivement;
+
+bash poser des actes de commerce;
+
+cash exploiter une industrie;
+
+dash exercer une profession à titre parallèle, sans préjudice des dérogations admises par le statut général des fonctionnaires de l’Etat;
+
+eash être agent d’affaires;
+
+fash tenir cabaret ou débit de boissons.
 
 ##### Art. L. 615-2.
 
@@ -14283,27 +15223,39 @@ Il est créé une Agence pour le développement de l’emploi, placée sous l’
 
 Pour l’accomplissement de cette mission, l’Agence a pour attributions:
 
-1. d’accompagner, de conseiller, d’orienter et d’aider les personnes à la recherche d’un emploi;
-2. de contribuer à la sécurisation des parcours professionnels des salariés;
-3. de coordonner et d’organiser la formation des demandeurs d’emploi en vue d’augmenter leurs compétences professionnelles en collaboration avec les instances qui ont la formation professionnelle dans leurs attributions;
-4. de prospecter le marché de l’emploi, de collecter les offres d’emploi, d’aider et de conseiller les employeurs dans leur recrutement;
-5. d’assurer la mise en relation des offres et des demandes d’emploi;
-6. d’assurer l’application de la législation concernant la prévention du chômage, la résorption du chômage, l’octroi des prestations de chômage et les aides en faveur de l’emploi;
-7. d’intervenir en matière de reconversion et de réemploi de la main-d’oeuvre;
-8. de contribuer à la mise en oeuvre de la législation sur le rétablissement du plein emploi;
-9. d’organiser le placement en apprentissage des jeunes et des adultes;
-10. d’assurer l’orientation professionnelle en vue de l’intégration ou de la réintégration des jeunes et des adultes dans la vie professionnelle;
-11. de contribuer au développement et à la gestion des mesures en faveur de l’emploi des jeunes;
-12. de promouvoir l’emploi féminin, notamment en ce qui concerne l’accès à l’emploi;
-13. d’assurer l’orientation, la formation, la rééducation, l’intégration et la réintégration professionnelles ainsi que le suivi des salariés handicapés et des salariés à capacité de travail réduite;
-14. de surveiller et d’analyser la situation et l’évolution du marché de l’emploi;
-15. d’assurer les relations techniques avec les services similaires étrangers et internationaux;
-16. (
+1\) d’accompagner, de conseiller, d’orienter et d’aider les personnes à la recherche d’un emploi;
 
-   [L. 28 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/jo)) dans le cadre d’une demande du revenu d’inclusion sociale prévue par la [loi du 28 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/jo), donner des avis motivés prévus par le paragraphe 5 de l’article 2 et par le paragraphe 1 <sup>er</sup> de l’article 13 de cette même loi.
-17. (
+2\) de contribuer à la sécurisation des parcours professionnels des salariés;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de réaliser toute autre mission dont elle pourra être chargée par le ministre ayant l’Emploi dans ses attributions.
+3\) de coordonner et d’organiser la formation des demandeurs d’emploi en vue d’augmenter leurs compétences professionnelles en collaboration avec les instances qui ont la formation professionnelle dans leurs attributions;
+
+4\) de prospecter le marché de l’emploi, de collecter les offres d’emploi, d’aider et de conseiller les employeurs dans leur recrutement;
+
+5\) d’assurer la mise en relation des offres et des demandes d’emploi;
+
+6\) d’assurer l’application de la législation concernant la prévention du chômage, la résorption du chômage, l’octroi des prestations de chômage et les aides en faveur de l’emploi;
+
+7\) d’intervenir en matière de reconversion et de réemploi de la main-d’oeuvre;
+
+8\) de contribuer à la mise en oeuvre de la législation sur le rétablissement du plein emploi;
+
+9\) d’organiser le placement en apprentissage des jeunes et des adultes;
+
+10\) d’assurer l’orientation professionnelle en vue de l’intégration ou de la réintégration des jeunes et des adultes dans la vie professionnelle;
+
+11\) de contribuer au développement et à la gestion des mesures en faveur de l’emploi des jeunes;
+
+12\) de promouvoir l’emploi féminin, notamment en ce qui concerne l’accès à l’emploi;
+
+13\) d’assurer l’orientation, la formation, la rééducation, l’intégration et la réintégration professionnelles ainsi que le suivi des salariés handicapés et des salariés à capacité de travail réduite;
+
+14\) de surveiller et d’analyser la situation et l’évolution du marché de l’emploi;
+
+15\) d’assurer les relations techniques avec les services similaires étrangers et internationaux;
+
+15bis) ([L. 28 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/jo)) dans le cadre d’une demande du revenu d’inclusion sociale prévue par la [loi du 28 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/jo), donner des avis motivés prévus par le paragraphe 5 de l’article 2 et par le paragraphe 1 <sup>er</sup> de l’article 13 de cette même loi.
+
+16\) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de réaliser toute autre mission dont elle pourra être chargée par le ministre ayant l’Emploi dans ses attributions.
 
 ##### Art. L. 621-2.
 
@@ -14313,17 +15265,27 @@ Si le directeur est empêché d’exercer ses fonctions, l’un des directeurs a
 
 (2) L’Agence pour le développement de l’emploi est organisée en services couvrant, notamment, les domaines suivants:
 
-1. l’accompagnement, le conseil et l’orientation des personnes à la recherche d’un emploi et leur formation;
-2. les relations avec les employeurs et la prospection d’emplois;
-3. le chômage;
-4. l’orientation professionnelle;
-5. les salariés handicapés;
-6. les salariés à capacité de travail réduite;
-7. le maintien dans l’emploi;
-8. les études et recherches;
-9. les questions juridiques et le contentieux;
-10. l’organisation administrative, budgétaire et informatique;
-11. la gestion des ressources humaines.
+1\. l’accompagnement, le conseil et l’orientation des personnes à la recherche d’un emploi et leur formation;
+
+2\. les relations avec les employeurs et la prospection d’emplois;
+
+3\. le chômage;
+
+4\. l’orientation professionnelle;
+
+5\. les salariés handicapés;
+
+6\. les salariés à capacité de travail réduite;
+
+7\. le maintien dans l’emploi;
+
+8\. les études et recherches;
+
+9\. les questions juridiques et le contentieux;
+
+10\. l’organisation administrative, budgétaire et informatique;
+
+11\. la gestion des ressources humaines.
 
 Les services travaillent ensemble pour contribuer à la mise en oeuvre des missions et attributions de l’Agence pour le développement de l’emploi.
 
@@ -14337,36 +15299,41 @@ Chacune des agences régionales est dirigée par un chef d’agence nommé par l
 
 (1) ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) Le Ministre ayant l’emploi ou le travail dans ses attributions et l’Agence pour le développement de l’emploi peuvent, dans le cadre de leurs missions définies respectivement aux articles L. 233-16, L.621-1 et L.631-2 du Code du travail, bénéficier d’un accès direct, par un système informatique, aux données à caractère personnel suivantes et échanger ces données selon les modalités de la [loi modifiée du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel :
 
-1. (
+a) ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) ([L. 19 juin 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/06/19/a265/jo)) au fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’inscription et du suivi des demandeurs d’emploi, des indemnités de chômage complet, des indemnités de préretraite, de la garantie de créance en cas de faillite de l’employeur, des primes et aides à l’apprentissage, des congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10, du chômage partiel, ainsi que de la préparation et de la mise en œuvre du programme de gestion prévisionnelle de l’emploi et des compétences ;
 
-   [L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) ([L. 19 juin 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/06/19/a265/jo)) au fichier relatif aux affiliations des salariés et indépendants et aux salaires et rémunérations géré par le Centre commun de la sécurité sociale afin de vérifier l’existence des affiliations et des salaires déclarés dans le cadre de l’inscription et du suivi des demandeurs d’emploi, des indemnités de chômage complet, des indemnités de préretraite, de la garantie de créance en cas de faillite de l’employeur, des primes et aides à l’apprentissage, des congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10, du chômage partiel, ainsi que de la préparation et de la mise en œuvre du programme de gestion prévisionnelle de l’emploi et des compétences ;
-2. (
+b) ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) au fichier des étrangers et des demandeurs et bénéficiaires du statut de protection internationale exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions afin de vérifier l’éligibilité à l’inscription en tant que demandeur d’emploi, l’éligibilité aux diverses mesures proposées par l’Agence pour le développement de l’emploi, la disponibilité pour le marché du travail et d’éviter un double financement non dû ;
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) au fichier des étrangers et des demandeurs et bénéficiaires du statut de protection internationale exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions afin de vérifier l’éligibilité à l’inscription en tant que demandeur d’emploi, l’éligibilité aux diverses mesures proposées par l’Agence pour le développement de l’emploi, la disponibilité pour le marché du travail et d’éviter un double financement non dû ;
-3. au fichier des bénéficiaires du revenu minimum garanti, du revenu pour personnes gravement handicapées, d’une activité d’insertion professionnelle exploité par le Fonds national de solidarité et «l’Office national d’inclusion sociale»
+c) au fichier des bénéficiaires du revenu minimum garanti, du revenu pour personnes gravement handicapées, d’une activité d’insertion professionnelle exploité par le Fonds national de solidarité et «l’Office national d’inclusion sociale»[^note_6_0_1] afin de vérifier l’éligibilité aux diverses mesures proposées par l’Agence pour le développement de l’emploi, échanger sur le statut de salarié handicapé et sur les sanctions prononcées à l’égard des demandeurs d’emploi et éviter un double financement non dû ;
 
-   [^note_6_0_1] afin de vérifier l’éligibilité aux diverses mesures proposées par l’Agence pour le développement de l’emploi, échanger sur le statut de salarié handicapé et sur les sanctions prononcées à l’égard des demandeurs d’emploi et éviter un double financement non dû ;
-4. au fichier des élèves et des personnes inscrites dans un établissement scolaire ou de formation professionnelle continue exploité par le Ministre ayant l’Éducation dans ses attributions afin de connaître le niveau de formations accomplies au Luxembourg des demandeurs d’emploi les données sur leur parcours scolaire, sur les connaissances linguistiques aux fins d’une inscription correcte à l’Agence pour le développement de l’emploi, de vérifier leur éligibilité à l’apprentissage et à diverses formations et garantir un accompagnement individuel dans le cadre du programme «garantie pour la jeunesse» ;
-5. au fichier des étudiants ayant accompli des formations supérieures, des homologations, reconnaissances et équivalences des diplômes, des bourses d’études exploité par le Ministère de l’Enseignement supérieur afin de permettre une inscription correcte des demandeurs d’emploi, de vérifier leur disponibilité pour le marché de l’emploi et d’éviter un double financement non dû ;
-6. aux fichiers des apprentis et des entreprises autorisées à former des apprentis exploités par les chambres professionnelles afin de pouvoir organiser le placement en apprentissage des jeunes et des adultes et de pouvoir organiser la formation des demandeurs d’emploi en vue d’augmenter leurs compétences professionnelles ;
-7. au fichier des titulaires d’une autorisation d’établissement exploité par le Ministre ayant les autorisations d’établissement dans ses attributions afin de permettre l’instruction des demandes en obtention des indemnités de chômage et autres aides financières à charge du Fonds pour l’emploi ;
-8. au fichier des déclarations sur la taxe sur la valeur ajoutée déposées par les assujettis et exploité par l’Administration de l’enregistrement et des domaines afin de vérifier le chiffre d’affaire déclaré pour vérifier la disponibilité des demandeurs d’emploi pour le marché de l’emploi et l’importance de l’activité des demandeurs d’emploi qui sont titulaires d’une autorisation d’établissement ;
-9. (
+d) au fichier des élèves et des personnes inscrites dans un établissement scolaire ou de formation professionnelle continue exploité par le Ministre ayant l’Éducation dans ses attributions afin de connaître le niveau de formations accomplies au Luxembourg des demandeurs d’emploi les données sur leur parcours scolaire, sur les connaissances linguistiques aux fins d’une inscription correcte à l’Agence pour le développement de l’emploi, de vérifier leur éligibilité à l’apprentissage et à diverses formations et garantir un accompagnement individuel dans le cadre du programme «garantie pour la jeunesse» ;
 
-   [L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) au fichier des bénéficiaires de prestations en espèces de la part de la Caisse nationale de santé et des périodes de maladie déclarées et acceptées par la Caisse nationale de santé afin de permettre l’application de la législation sur le reclassement, de la législation sur l’octroi des indemnités de chômage complet, de la législation sur le chômage partiel ainsi que de celle sur les congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10 ;
-10. (
+e) au fichier des étudiants ayant accompli des formations supérieures, des homologations, reconnaissances et équivalences des diplômes, des bourses d’études exploité par le Ministère de l’Enseignement supérieur afin de permettre une inscription correcte des demandeurs d’emploi, de vérifier leur disponibilité pour le marché de l’emploi et d’éviter un double financement non dû ;
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) au fichier des bénéficiaires d’une pension d’invalidité, d’une pension de vieillesse et d’une indemnité d’attente exploité par le Caisse nationale de pension dans le but d’échanger les conclusions sur les réévaluations réalisées dans le cadre de la législation sur le dispositif du reclassement interne et externe, des informations sur les sanctions prises afin de permettre l’instruction des demandes en obtention des indemnités de chômage et d’indemnités liées à des mesures en faveur de l’emploi pour les salariés à capacité de travail réduite, le paiement de l’indemnité d’attente du demandeur d’emploi en reclassement externe ;
-11. au fichier des bénéficiaires d’une rente d’attente de la part de l’Association d’assurance contre les accidents afin de permettre l’instruction des demandes en obtention des indemnités de chômage ;
-12. aux fichiers des services de santé au travail concernant des salariés disposant d’une aptitude ou d’une inaptitude au poste afin de déterminer si un demandeur d’emploi peut bénéficier d’une mesure en faveur de l’emploi ;
-13. au fichier des conclusions sur le taux d’incapacité partielle temporaire tenu par l’Administration du contrôle médical afin de permettre l’instruction des demandes en obtention de la prolongation des indemnités de chômage ;
-14. au fichier des bénéficiaires d’un congé parental exploité par la Caisse pour l’avenir des enfants se trouvant en reclassement interne afin de permettre le calcul de l’indemnité compensatoire versée par l’Agence pour le développement de l’emploi ;
-15. au fichier des affiliations des demandeurs d’emploi ayant trouvé un emploi, tenu par l’Inspection générale de la sécurité sociale, afin de permettre le pilotage de la politique de l’emploi en coordination avec la politique économique et sociale ;
-16. au fichier des bénéficiaires encadrés par une structure conventionnée avec le Ministre ayant l’Emploi dans ses attributions en vue d’accompagner, de conseiller, d’orienter et d’aider les demandeurs d’emploi ;
-17. au fichier des bénéficiaires encadrés par une structure dont l’objectif est la formation financée par le Fonds pour l’emploi ou le Fonds social européen, les informations sur l’évaluation, l’orientation ainsi que l’insertion ou la réinsertion des demandeurs d’emploi.
-18. (
+f) aux fichiers des apprentis et des entreprises autorisées à former des apprentis exploités par les chambres professionnelles afin de pouvoir organiser le placement en apprentissage des jeunes et des adultes et de pouvoir organiser la formation des demandeurs d’emploi en vue d’augmenter leurs compétences professionnelles ;
 
-   [L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) au fichier exploité par le Centre commun de la sécurité sociale indiquant le taux à payer par l’employeur se rapportant à l’Association d’assurance accident, à la Caisse nationale de la santé, à la Caisse nationale d’assurance pension et au Service de santé au travail respectif pour les périodes de congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10.
+g) au fichier des titulaires d’une autorisation d’établissement exploité par le Ministre ayant les autorisations d’établissement dans ses attributions afin de permettre l’instruction des demandes en obtention des indemnités de chômage et autres aides financières à charge du Fonds pour l’emploi ;
+
+h) au fichier des déclarations sur la taxe sur la valeur ajoutée déposées par les assujettis et exploité par l’Administration de l’enregistrement et des domaines afin de vérifier le chiffre d’affaire déclaré pour vérifier la disponibilité des demandeurs d’emploi pour le marché de l’emploi et l’importance de l’activité des demandeurs d’emploi qui sont titulaires d’une autorisation d’établissement ;
+
+i) ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) au fichier des bénéficiaires de prestations en espèces de la part de la Caisse nationale de santé et des périodes de maladie déclarées et acceptées par la Caisse nationale de santé afin de permettre l’application de la législation sur le reclassement, de la législation sur l’octroi des indemnités de chômage complet, de la législation sur le chômage partiel ainsi que de celle sur les congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10 ;
+
+j) ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) au fichier des bénéficiaires d’une pension d’invalidité, d’une pension de vieillesse et d’une indemnité d’attente exploité par le Caisse nationale de pension dans le but d’échanger les conclusions sur les réévaluations réalisées dans le cadre de la législation sur le dispositif du reclassement interne et externe, des informations sur les sanctions prises afin de permettre l’instruction des demandes en obtention des indemnités de chômage et d’indemnités liées à des mesures en faveur de l’emploi pour les salariés à capacité de travail réduite, le paiement de l’indemnité d’attente du demandeur d’emploi en reclassement externe ;
+
+k) au fichier des bénéficiaires d’une rente d’attente de la part de l’Association d’assurance contre les accidents afin de permettre l’instruction des demandes en obtention des indemnités de chômage ;
+
+l) aux fichiers des services de santé au travail concernant des salariés disposant d’une aptitude ou d’une inaptitude au poste afin de déterminer si un demandeur d’emploi peut bénéficier d’une mesure en faveur de l’emploi ;
+
+m) au fichier des conclusions sur le taux d’incapacité partielle temporaire tenu par l’Administration du contrôle médical afin de permettre l’instruction des demandes en obtention de la prolongation des indemnités de chômage ;
+
+n) au fichier des bénéficiaires d’un congé parental exploité par la Caisse pour l’avenir des enfants se trouvant en reclassement interne afin de permettre le calcul de l’indemnité compensatoire versée par l’Agence pour le développement de l’emploi ;
+
+o) au fichier des affiliations des demandeurs d’emploi ayant trouvé un emploi, tenu par l’Inspection générale de la sécurité sociale, afin de permettre le pilotage de la politique de l’emploi en coordination avec la politique économique et sociale ;
+
+p) au fichier des bénéficiaires encadrés par une structure conventionnée avec le Ministre ayant l’Emploi dans ses attributions en vue d’accompagner, de conseiller, d’orienter et d’aider les demandeurs d’emploi ;
+
+q) au fichier des bénéficiaires encadrés par une structure dont l’objectif est la formation financée par le Fonds pour l’emploi ou le Fonds social européen, les informations sur l’évaluation, l’orientation ainsi que l’insertion ou la réinsertion des demandeurs d’emploi.
+
+r) ([L. 15 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/15/a512/jo)) au fichier exploité par le Centre commun de la sécurité sociale indiquant le taux à payer par l’employeur se rapportant à l’Association d’assurance accident, à la Caisse nationale de la santé, à la Caisse nationale d’assurance pension et au Service de santé au travail respectif pour les périodes de congés extraordinaires visés à l’article L. 233-16, alinéa 1 <sup>er</sup> , points 2, 7, 9 et 10.
 
 Le système informatique par lequel un accès direct est accordé doit être aménagé de sorte que l’accès est sécurisé moyennant une authentification forte.
 
@@ -14374,7 +15341,7 @@ La communication des données peut aussi se faire par voie électronique.
 
 Les conditions et modalités des traitements de données peuvent être précisées par règlement grand-ducal.
 
-(2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) L’Agence pour le développement de l’emploi, l’Inspection générale de la sécurité sociale, le Service central de la statistique et des études économiques, «l’Office national d’inclusion sociale» [^note_6_1_0] , le Service de la formation professionnelle et le Fonds national de solidarité échangent, en vue de développer les connaissances sur le marché de l’emploi et de promouvoir l’insertion professionnelle, à l’aide de procédés automatisés des informations rendues anonymes à des fins statistiques. Les procédés automatisés se font moyennant interconnexion de données et sous garantie d’un accès sécurisé, limité et contrôlé.
+(2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) L’Agence pour le développement de l’emploi, l’Inspection générale de la sécurité sociale, le Service central de la statistique et des études économiques, «l’Office national d’inclusion sociale»[^note_6_1_0] , le Service de la formation professionnelle et le Fonds national de solidarité échangent, en vue de développer les connaissances sur le marché de l’emploi et de promouvoir l’insertion professionnelle, à l’aide de procédés automatisés des informations rendues anonymes à des fins statistiques. Les procédés automatisés se font moyennant interconnexion de données et sous garantie d’un accès sécurisé, limité et contrôlé.
 
 (3) L’Agence pour le développement de l’emploi peut faire appel pour la réalisation de la politique de l’emploi à toutes les administrations publiques et aux communes, pour autant que la matière les concerne, et elle peut développer des coopérations en matière de réinsertion et de formation avec des associations ou des entités de droit privé.
 
@@ -14404,14 +15371,21 @@ Elle peut formuler des propositions et des recommandations sur les actions néce
 
 (2) La commission de suivi se compose comme suit:
 
-1. un président;
-2. un représentant du ministre ayant l’Emploi dans ses attributions;
-3. un représentant du ministre ayant l’Economie dans ses attributions;
-4. un représentant du ministre ayant la Formation professionnelle dans ses attributions;
-5. un représentant du ministre ayant la Lutte contre la pauvreté dans ses attributions;
-6. un représentant du ministre ayant l’Economie solidaire dans ses attributions;
-7. trois représentants des organisations professionnelles des employeurs;
-8. trois représentants des organisations syndicales.
+a) un président;
+
+b) un représentant du ministre ayant l’Emploi dans ses attributions;
+
+c) un représentant du ministre ayant l’Economie dans ses attributions;
+
+d) un représentant du ministre ayant la Formation professionnelle dans ses attributions;
+
+e) un représentant du ministre ayant la Lutte contre la pauvreté dans ses attributions;
+
+f) un représentant du ministre ayant l’Economie solidaire dans ses attributions;
+
+g) trois représentants des organisations professionnelles des employeurs;
+
+h) trois représentants des organisations syndicales.
 
 La commission de suivi est nommée pour cinq ans.
 
@@ -14449,12 +15423,17 @@ Pour renforcer son action dans ce domaine, l’Agence pour le développement de 
 
 En vue de faciliter l’accès ou le retour à l’emploi et de satisfaire aux besoins des employeurs en matière de recrutement, les conseillers professionnels sont notamment chargés:
 
-1. de recevoir et d’inscrire les demandeurs d’emploi et de recueillir, à l’aide d’interviews, toutes les informations utiles sur leur formation et sur leurs aptitudes, qualifications et expériences professionnelles; de prendre connaissance des projets professionnels et des intérêts des demandeurs d’emploi, ainsi que de toutes autres indications utiles afin de définir ensemble un emploi approprié; de les renseigner sur les possibilités d’emploi; d’assurer un suivi et un accompagnement personnalisé des demandeurs d’emploi, notamment dans le cadre de la convention de collaboration visée à l’article L. 521-9 du Code du travail; de contribuer à l’établissement de bilans de compétence ou de tout autre outil de profilage;
-2. de proposer les emplois vacants aux demandeurs d’emploi qui possèdent les aptitudes et les qualifications requises;
-3. d’assurer la compensation des offres et des demandes d’emploi entre les bureaux de placement;
-4. d’enregistrer les offres d’emploi, notamment dans le contexte d’actions de prospection, et de renseigner les employeurs sur la main-d’oeuvre disponible sur le marché de l’emploi;
-5. de développer et de maintenir des contacts permanents avec les entreprises en les conseillant au besoin dans leur politique de recrutement;
-6. d’informer les demandeurs d’emploi et les employeurs sur les mesures en faveur de l’emploi et sur les mesures de formation destinées à faciliter l’intégration et la réintégration des demandeurs d’emploi dans le marché de l’emploi.
+1\. de recevoir et d’inscrire les demandeurs d’emploi et de recueillir, à l’aide d’interviews, toutes les informations utiles sur leur formation et sur leurs aptitudes, qualifications et expériences professionnelles; de prendre connaissance des projets professionnels et des intérêts des demandeurs d’emploi, ainsi que de toutes autres indications utiles afin de définir ensemble un emploi approprié; de les renseigner sur les possibilités d’emploi; d’assurer un suivi et un accompagnement personnalisé des demandeurs d’emploi, notamment dans le cadre de la convention de collaboration visée à l’article L. 521-9 du Code du travail; de contribuer à l’établissement de bilans de compétence ou de tout autre outil de profilage;
+
+2\. de proposer les emplois vacants aux demandeurs d’emploi qui possèdent les aptitudes et les qualifications requises;
+
+3\. d’assurer la compensation des offres et des demandes d’emploi entre les bureaux de placement;
+
+4\. d’enregistrer les offres d’emploi, notamment dans le contexte d’actions de prospection, et de renseigner les employeurs sur la main-d’oeuvre disponible sur le marché de l’emploi;
+
+5\. de développer et de maintenir des contacts permanents avec les entreprises en les conseillant au besoin dans leur politique de recrutement;
+
+6\. d’informer les demandeurs d’emploi et les employeurs sur les mesures en faveur de l’emploi et sur les mesures de formation destinées à faciliter l’intégration et la réintégration des demandeurs d’emploi dans le marché de l’emploi.
 
 ###### Art. L. 622-4.
 
@@ -14464,16 +15443,13 @@ Cette disposition ne s’applique pas aux emplois du secteur public soumis à de
 
 (2) ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Les déclarations de postes vacants doivent contenir les données suivantes:
 
-1. l’indication exacte de l’identité de l’employeur;
-2. (
+1\. l’indication exacte de l’identité de l’employeur;
 
-   [L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) la description du poste vacant;
-3. (
+2\. ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) la description du poste vacant;
 
-   [L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) le profil requis pour chaque poste déclaré, précisant au moins le niveau de formation, les qualifications, les connaissances linguistiques et l’expérience professionnelle requis;
-4. (
+3\. ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) le profil requis pour chaque poste déclaré, précisant au moins le niveau de formation, les qualifications, les connaissances linguistiques et l’expérience professionnelle requis;
 
-   [L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) les conditions de travail offertes.
+4\. ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) les conditions de travail offertes.
 
 (3) ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a556/jo)) Les déclarations de postes vacants sont considérées comme des offres d’emploi.
 
@@ -14485,9 +15461,11 @@ Dès réception de la demande de certificat, l’Agence pour le développement d
 
 Cette liste est établie sur base des critères suivants :
 
-1. le nombre des postes déclarés auprès de l’Agence pour le développement de l’emploi sur une année de calendrier pour le même métier ;
-2. le nombre des demandeurs d’emplois inscrits à l’Agence pour le développement de l’emploi ayant fait une demande d’emploi pour le même métier ;
-3. le nombre des postes déclarés pour le même métier auprès de l’Agence pour le développement de l’emploi pour lesquels aucune mise en relation d’un candidat correspondant au profil du poste vacant n’a pu être effectuée par les services de l’Agence pour le développement de l’emploi.
+1° le nombre des postes déclarés auprès de l’Agence pour le développement de l’emploi sur une année de calendrier pour le même métier ;
+
+2° le nombre des demandeurs d’emplois inscrits à l’Agence pour le développement de l’emploi ayant fait une demande d’emploi pour le même métier ;
+
+3° le nombre des postes déclarés pour le même métier auprès de l’Agence pour le développement de l’emploi pour lesquels aucune mise en relation d’un candidat correspondant au profil du poste vacant n’a pu être effectuée par les services de l’Agence pour le développement de l’emploi.
 
 Elle est dressée annuellement, au courant du premier trimestre de l’année suivant l’année de calendrier sur laquelle elle se réfère, par l’Agence pour le développement de l’emploi et publiée au Journal officiel du Grand-Duché de Luxembourg.
 
@@ -14511,11 +15489,11 @@ Si l’Agence pour le développement de l’emploi considère, après examen de 
 
 (1) Toute personne à la recherche d’un emploi peut s’inscrire comme demandeur d’emploi à l’Agence pour le développement de l’emploi, à condition d’être:
 
-- Luxembourgeois, citoyen de l’Union européenne ou ressortissant d’un autre Etat partie à l’Accord sur l’Espace économique européen ou de la Confédération suisse, ou
-- membre de famille tel que défini à l’article 12 de la
+aash Luxembourgeois, citoyen de l’Union européenne ou ressortissant d’un autre Etat partie à l’Accord sur l’Espace économique européen ou de la Confédération suisse, ou
 
-  [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration, ou
-- ressortissant d’un pays tiers titulaire du statut de résident de longue durée, ou ressortissant d’un pays tiers disposant d’un titre de séjour en cours de validité.
+bash membre de famille tel que défini à l’article 12 de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration, ou
+
+cash ressortissant d’un pays tiers titulaire du statut de résident de longue durée, ou ressortissant d’un pays tiers disposant d’un titre de séjour en cours de validité.
 
 (2) Par dérogation au paragraphe (1), ne peuvent pas s’inscrire les personnes visées à l’article 80, paragraphe (2) de la [loi modifiée du 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo) sur la libre circulation des personnes et l’immigration, à l’exception des bénéficiaires d’une protection internationale.
 
@@ -14563,14 +15541,21 @@ Un délégué à la formation, désigné par le Gouvernement en Conseil, assure,
 
 La commission se compose des membres suivants:
 
-1. un représentant du ministre ayant la Formation professionnelle dans ses attributions, qui assure la présidence;
-2. un représentant du ministre ayant l’Emploi dans ses attributions;
-3. un représentant du service en charge du développement de l’emploi et de la formation;
-4. un représentant du service en charge de l’orientation professionnelle;
-5. le délégué à la formation;
-6. le délégué à l’emploi des jeunes;
-7. le délégué à l’emploi féminin;
-8. deux représentants du Centre national de formation professionnelle continue.
+1\. un représentant du ministre ayant la Formation professionnelle dans ses attributions, qui assure la présidence;
+
+2\. un représentant du ministre ayant l’Emploi dans ses attributions;
+
+3\. un représentant du service en charge du développement de l’emploi et de la formation;
+
+4\. un représentant du service en charge de l’orientation professionnelle;
+
+5\. le délégué à la formation;
+
+6\. le délégué à l’emploi des jeunes;
+
+7\. le délégué à l’emploi féminin;
+
+8\. deux représentants du Centre national de formation professionnelle continue.
 
 Les membres de la commission sont nommés pour une durée de cinq ans par le ministre ayant la Formation professionnelle dans ses attributions. Leur mandat est renouvelable.
 
@@ -14580,8 +15565,9 @@ Le secrétariat de la commission est assuré par un agent désigné par le prés
 
 (2) Les formations visées au présent article comprennent:
 
-- des cours de qualification et d’insertion professionnelles à l’attention des jeunes sans emploi;
-- des cours de formation professionnelle, de rééducation professionnelle et d’enseignement général à l’attention des demandeurs d’emploi indemnisés ou non.
+aash des cours de qualification et d’insertion professionnelles à l’attention des jeunes sans emploi;
+
+bash des cours de formation professionnelle, de rééducation professionnelle et d’enseignement général à l’attention des demandeurs d’emploi indemnisés ou non.
 
 ##### *Section 2.* — *Populations à besoins spécifiques*
 
@@ -14619,10 +15605,13 @@ Afin de mettre en oeuvre ces mesures, les services en charge de populations à b
 
 (1) Le service en charge de l’orientation professionnelle fonctionne d’après les principes suivants:
 
-1. dans le processus d’orientation, le conseiller en orientation utilise les moyens appropriés pour permettre à l’individu, à tout âge et à tout moment de sa vie, de déterminer ses capacités, ses compétences et ses intérêts, de prendre des décisions en matière d’éducation, de formation et d’emploi et de gérer son parcours;
-2. la situation de l’emploi, son évolution et les changements dans les professions et métiers sont pris en considération;
-3. les suites à donner par l’individu, en ce qui concerne la recommandation d’orientation et le poste d’apprentissage proposé, sont facultatives;
-4. l’entretien, l’intervention d’orientation et la documentation délivrée sont gratuits.
+1\. dans le processus d’orientation, le conseiller en orientation utilise les moyens appropriés pour permettre à l’individu, à tout âge et à tout moment de sa vie, de déterminer ses capacités, ses compétences et ses intérêts, de prendre des décisions en matière d’éducation, de formation et d’emploi et de gérer son parcours;
+
+2\. la situation de l’emploi, son évolution et les changements dans les professions et métiers sont pris en considération;
+
+3\. les suites à donner par l’individu, en ce qui concerne la recommandation d’orientation et le poste d’apprentissage proposé, sont facultatives;
+
+4\. l’entretien, l’intervention d’orientation et la documentation délivrée sont gratuits.
 
 (2) L’orientation professionnelle est assurée au niveau des agences régionales de l’Agence pour le développement de l’emploi.
 
@@ -14646,8 +15635,9 @@ Afin de mettre en oeuvre ces mesures, les services en charge de populations à b
 
 Le service en charge de l’orientation professionnelle:
 
-1. établit et tient à jour une documentation sur les professions et métiers, l’enseignement et la formation professionnelle;
-2. procède à une large diffusion d’informations sur les professions et métiers ainsi que les carrières, sous forme collective, par des conférences publiques, et sous forme individuelle, par des entretiens d’orientation.
+1\. établit et tient à jour une documentation sur les professions et métiers, l’enseignement et la formation professionnelle;
+
+2\. procède à une large diffusion d’informations sur les professions et métiers ainsi que les carrières, sous forme collective, par des conférences publiques, et sous forme individuelle, par des entretiens d’orientation.
 
 ###### Art. L. 622-20.
 
@@ -14669,11 +15659,15 @@ Le service en charge de l’orientation professionnelle:
 
 (2) Dans le cadre de ces attributions, il appartient à l’administration:
 
-1. de verser des indemnités aux chômeurs complets;
-2. d’intervenir administrativement et financièrement en cas de chômage partiel, de chômage accidentel ou technique et de chômage dû aux intempéries;
-3. de participer à la mise en oeuvre et au financement de mesures d’occupation pour chômeurs indemnisés ainsi que des mesures d’intégration et de réintégration dans la vie active des demandeurs d’emploi;
-4. de prendre des initiatives dans l’intérêt de la prévention et de la résorption du chômage;
-5. d’assurer les relations administratives avec les services compétents de l’étranger.
+1\. de verser des indemnités aux chômeurs complets;
+
+2\. d’intervenir administrativement et financièrement en cas de chômage partiel, de chômage accidentel ou technique et de chômage dû aux intempéries;
+
+3\. de participer à la mise en oeuvre et au financement de mesures d’occupation pour chômeurs indemnisés ainsi que des mesures d’intégration et de réintégration dans la vie active des demandeurs d’emploi;
+
+4\. de prendre des initiatives dans l’intérêt de la prévention et de la résorption du chômage;
+
+5\. d’assurer les relations administratives avec les services compétents de l’étranger.
 
 ###### Art. L. 622-23.
 
@@ -14687,16 +15681,25 @@ Le service en charge de l’orientation professionnelle:
 
 En vue de connaître la situation du marché de l’emploi et son évolution, nécessaires à une gestion plus efficace et plus prospective de celui-ci, l’Agence pour le développement de l’emploi procède, en collaboration avec le Service central de la statistique et d’études économiques ou avec d’autres organismes compétents, aux études et analyses ci-après:
 
-1. étude des structures de l’emploi et du chômage;
-2. établissement de comptes et bilans d’emplois, globaux ou sectoriels;
-3. analyse des professions et des métiers ainsi que de leur évolution;
-4. analyse systématique des emplois disponibles;
-5. établissement de perspectives sur l’évolution de l’emploi;
-6. recherche de ressources de main-d’oeuvre;
-7. élaboration de statistiques sur les fluctuations du marché du travail et collecte d’informations relatives à la libre circulation des travailleurs et à l’immigration de travail;
-8. contribution à la définition d’indicateurs de performances permettant l’évaluation de la mise en oeuvre du présent titre;
-9. étude des problèmes de l’emploi et du chômage, en rapport avec l’évolution de la situation économique;
-10. gestion des demandes d’informations et de données émanant d’institutions nationales et internationales.
+1\. étude des structures de l’emploi et du chômage;
+
+2\. établissement de comptes et bilans d’emplois, globaux ou sectoriels;
+
+3\. analyse des professions et des métiers ainsi que de leur évolution;
+
+4\. analyse systématique des emplois disponibles;
+
+5\. établissement de perspectives sur l’évolution de l’emploi;
+
+6\. recherche de ressources de main-d’oeuvre;
+
+7\. élaboration de statistiques sur les fluctuations du marché du travail et collecte d’informations relatives à la libre circulation des travailleurs et à l’immigration de travail;
+
+8\. contribution à la définition d’indicateurs de performances permettant l’évaluation de la mise en oeuvre du présent titre;
+
+9\. étude des problèmes de l’emploi et du chômage, en rapport avec l’évolution de la situation économique;
+
+10\. gestion des demandes d’informations et de données émanant d’institutions nationales et internationales.
 
 Dans l’intérêt d’une transparence scientifique, le service assurant ces missions est en charge de la collaboration avec des institutions nationales et internationales.
 
@@ -14720,8 +15723,9 @@ Les dispositions du présent paragraphe ne sont pas applicables aux locaux qui s
 
 Est puni d’une amende de 251 à 6.250 euros:
 
-1. l’employeur qui, après avoir fait l’objet d’une amende d’ordre, continue de s’abstenir de la déclaration obligatoire des places vacantes prévue à l’article L. 622-4;
-2. toute personne qui empêche ou entrave les mesures de contrôle pour l’application du présent titre.
+1\. l’employeur qui, après avoir fait l’objet d’une amende d’ordre, continue de s’abstenir de la déclaration obligatoire des places vacantes prévue à l’article L. 622-4;
+
+2\. toute personne qui empêche ou entrave les mesures de contrôle pour l’application du présent titre.
 
 En outre, le tribunal peut exclure l’employeur de la participation aux marchés publics passés par l’Etat, les communes, les syndicats de communes et les établissements publics pour une durée de trois mois à trois ans.
 
@@ -14735,139 +15739,127 @@ Il est institué un Fonds pour l’emploi, géré suivant les règles fixées à
 
 (1) Le Fonds pour l’emploi est destiné à couvrir les dépenses résultant:
 
-1. de l’octroi des indemnités de chômage complet, conformément au livre V, titre II;
-2. de l’allocation de subventions aux entreprises pour l’indemnisation des chômeurs partiels en cas de chômage dû aux intempéries et en cas de chômage accidentel ou technologique, conformément au livre V, titre III;
-3. de la mise en œuvre de travaux extraordinaires d’intérêt général, autorisés conformément au livre V, titre I
+1\. de l’octroi des indemnités de chômage complet, conformément au livre V, titre II;
 
-   <sup>er</sup> , chapitre I <sup>er</sup> , section 3;
-4. (
+2\. de l’allocation de subventions aux entreprises pour l’indemnisation des chômeurs partiels en cas de chômage dû aux intempéries et en cas de chômage accidentel ou technologique, conformément au livre V, titre III;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) des frais résultant du détachement de main-d’œuvre par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs de l’Agence pour le développement de l’emploi, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises respectivement des organisations patronales mettant à la disposition temporaire de l’Agence pour le développement de l’emploi des spécialistes en matière de recrutement en vue d’assurer la prospection des offres d’emploi et la sélection des demandeurs d’emploi en vue du renforcement temporaire des actions des services de l’Agence pour le développement de l’emploi;
-5. (
+3\. de la mise en œuvre de travaux extraordinaires d’intérêt général, autorisés conformément au livre V, titre I <sup>er</sup> , chapitre I <sup>er</sup> , section 3;
 
-   [L. 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) de la garantie des créances visées au paragraphe 2 de l’article L.126-1. Les remboursements au Fonds pour l’emploi des avances par lui consenties sont portés directement en recette au Fonds pour l’emploi;
-6. du remboursement à l’employeur de la quote-part du Fonds pour l’emploi dans l’indemnité visée à l’article L. 543-14 et de la prise en charge de la part patronale des charges sociales afférentes à cette indemnité;
-7. de la prise en charge des frais relatifs aux cours de formation visés à l’article L. 543-3;
-8. (
+4\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) des frais résultant du détachement de main-d’œuvre par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs de l’Agence pour le développement de l’emploi, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises respectivement des organisations patronales mettant à la disposition temporaire de l’Agence pour le développement de l’emploi des spécialistes en matière de recrutement en vue d’assurer la prospection des offres d’emploi et la sélection des demandeurs d’emploi en vue du renforcement temporaire des actions des services de l’Agence pour le développement de l’emploi;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais relatifs à l’établissement, par des organismes tiers, sur demande de l’Agence pour le développement de l’emploi, de bilans d’insertion professionnelle et de bilans de compétences pour chômeurs, indemnisés ou non indemnisés, inscrits à l’Agence pour le développement de l’emploi;
-9. (
+5\. ([L. 12 avril 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/04/12/a262/jo)) de la garantie des créances visées au paragraphe 2 de l’article L.126-1. Les remboursements au Fonds pour l’emploi des avances par lui consenties sont portés directement en recette au Fonds pour l’emploi;
 
-   [L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) de l’octroi d’une aide temporaire au réemploi conformément aux articles L.541-5 et suivants ;
-10. des frais informatiques résultant de l’application des lois et règlements ayant pour objet la lutte contre le chômage et le sous-emploi et la protection sociale des personnes sans emploi;
-11. (
+6\. du remboursement à l’employeur de la quote-part du Fonds pour l’emploi dans l’indemnité visée à l’article L. 543-14 et de la prise en charge de la part patronale des charges sociales afférentes à cette indemnité;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’octroi d’une aide forfaitaire à la mobilité géographique des demandeurs d’emploi, sans emploi, inscrits à l’Agence pour le développement de l’emploi dans les conditions et d’après les modalités d’attribution déterminées par règlement grand-ducal;
-12. (
+7\. de la prise en charge des frais relatifs aux cours de formation visés à l’article L. 543-3;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’octroi aux employeurs d’une aide à l’embauche de chômeurs indemnisés de longue durée ainsi que de demandeurs d’emploi inscrits à l’Agence pour le développement de l’emploi et particulièrement difficiles à placer. Un règlement grand-ducal détermine les catégories de personnes auxquelles s’applique la présente disposition, ainsi que les conditions et modalités d’attribution de l’aide;
-13. (...)
+8\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais relatifs à l’établissement, par des organismes tiers, sur demande de l’Agence pour le développement de l’emploi, de bilans d’insertion professionnelle et de bilans de compétences pour chômeurs, indemnisés ou non indemnisés, inscrits à l’Agence pour le développement de l’emploi;
 
-   \*(supprimé par la [loi du 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo))*
-14. de l’octroi de l’aide à la création d’entreprises par les chômeurs indemnisés visée à l’article 37 de la
+9\. ([L. 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo)) de l’octroi d’une aide temporaire au réemploi conformément aux articles L.541-5 et suivants ;
 
-   [loi du 19 décembre 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/12/19/n1/jo) concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984;
-15. du concours du Fonds pour l’emploi à la préretraite conformément au livre V, titre VIII;
-16. (
+10\. des frais informatiques résultant de l’application des lois et règlements ayant pour objet la lutte contre le chômage et le sous-emploi et la protection sociale des personnes sans emploi;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’affectation de demandeurs d’emploi sans emploi inscrits à l’Agence pour le développement de l’emploi à des tâches déclarées d’utilité publique ou à des expériences de travail conformément aux dispositions des paragraphes (2) et (3) de l’article L. 523-1, y compris notamment les indemnités complémentaires, les dépenses d’assurance, de sécurité sociale, de transport, de matériel, d’outillage, de moyens de sécurité et de protection et de tous autres frais connexes. Il en est de même des dépenses d’assurance, de transport, de matériel, d’outillage, de moyens de sécurité et de protection résultant des activités d’insertion professionnelle prévues à l’article 10 de la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti;
-17. de l’octroi des aides à l’embauche de chômeurs âgés et de chômeurs de longue durée;
-18. (
+11\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’octroi d’une aide forfaitaire à la mobilité géographique des demandeurs d’emploi, sans emploi, inscrits à l’Agence pour le développement de l’emploi dans les conditions et d’après les modalités d’attribution déterminées par règlement grand-ducal;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la préparation et du fonctionnement des actions de prospection, de gestion des offres et demandes d’emploi, de conseil et de placement organisées par l’Agence pour le développement de l’emploi dans le cadre des missions lui dévolues sur le plan national et international. Les aides accordées éventuellement par les instruments financiers des Communautés européennes aux actions financières sur la base des dispositions du présent point sont portées directement en recette au Fonds pour l’emploi;
-19. du remboursement aux employeurs de la quote-part du Fonds pour l’emploi dans l’indemnité compensatoire de salaire due aux salariés en cas de chômage involontaire pour intempéries ou en cas de chômage accidentel ou technique involontaire et des cotisations, le cas échéant, dues à l’Association d’assurance contre les accidents pour les salariés concernés;
-20. du paiement des salaires dus au personnel d’encadrement psycho-socio-pédagogique des demandeurs d’emploi, conformément à l’article VI de la
+12\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’octroi aux employeurs d’une aide à l’embauche de chômeurs indemnisés de longue durée ainsi que de demandeurs d’emploi inscrits à l’Agence pour le développement de l’emploi et particulièrement difficiles à placer. Un règlement grand-ducal détermine les catégories de personnes auxquelles s’applique la présente disposition, ainsi que les conditions et modalités d’attribution de l’aide;
 
-   [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle;
-21. de l’octroi des indemnités dues aux demandeurs d’emploi affectés au pool d’assistants aux directeurs des établissements d’enseignement postprimaire conformément à l’article VII de la
+13\. (...) *(supprimé par la [loi du 8 avril 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a242/jo))*
 
-   [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle;
-22. de l’octroi des indemnités dues aux préretraités affectés à l’encadrement des demandeurs d’emploi placés dans une mesure de mise au travail ou de formation professionnelle conformément à l’article L. 587-1;
-23. de la prise en charge de la quote-part de l’indemnité de base versée au jeune dans le cadre du stage d’insertion conformément à l’article L. 543-14;
-24. (
+14\. de l’octroi de l’aide à la création d’entreprises par les chômeurs indemnisés visée à l’article 37 de la [loi du 19 décembre 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/12/19/n1/jo) concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1984;
 
-   [L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n14/jo)) de la prise en charge de la quote-part revenant au demandeur d’emploi indemnisé ou non, ainsi que la prise en charge des cotisations en matière de sécurité sociale et d’assurance accident au cours des stages de professionnalisation et des contrats de réinsertion-emploi prévus aux articles L.524-1 et L.524-4.
-25. de la prise en charge de la prime versée à l’employeur en cas de passage d’un salarié d’un travail à temps plein vers un travail à temps partiel conformément à l’article L. 526-2;
-26. (
+15\. du concours du Fonds pour l’emploi à la préretraite conformément au livre V, titre VIII;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge de la prime versée à l’employeur en cas d’embauche de chômeurs inscrits à l’Agence pour le développement de l’emploi par suite d’une réduction du temps de travail prévue par la convention collective, conformément à l’article L. 526-1;
-27. (
+16\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de l’affectation de demandeurs d’emploi sans emploi inscrits à l’Agence pour le développement de l’emploi à des tâches déclarées d’utilité publique ou à des expériences de travail conformément aux dispositions des paragraphes (2) et (3) de l’article L. 523-1, y compris notamment les indemnités complémentaires, les dépenses d’assurance, de sécurité sociale, de transport, de matériel, d’outillage, de moyens de sécurité et de protection et de tous autres frais connexes. Il en est de même des dépenses d’assurance, de transport, de matériel, d’outillage, de moyens de sécurité et de protection résultant des activités d’insertion professionnelle prévues à l’article 10 de la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d’un droit à un revenu minimum garanti;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais occasionnés par les examens médicaux ou psychologiques des demandeurs d’emploi décidés en application de l’article L. 622-9;
-28. de la prise en charge des frais de voyage et des frais de garde d’enfants encourus par les personnes visées au paragraphe (1) de l’article L. 526-3;
-29. de la prise en charge de la différence entre l’indemnité de chômage et l’indemnité de stage conformément à l’article L. 543-20;
-30. de la prise en charge du complément d’indemnité versé aux personnes adultes qui suivent un apprentissage conformément à l’article 26 de la
+17\. de l’octroi des aides à l’embauche de chômeurs âgés et de chômeurs de longue durée;
 
-   [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue;
-31. de la prise en charge des dépenses liées à l’exploitation des possibilités offertes par la création d’emplois à l’échelon local, dans l’économie sociale et dans les nouvelles activités liées aux besoins non encore satisfaits par le marché notamment dans les domaines de la rénovation urbaine, de l’environnement, de l’exploitation touristique, de l’encadrement des jeunes et de l’aide familiale de proximité;
-32. de l’octroi d’une indemnité compensatoire visée à l’article L. 551-2;
-33. de l’octroi aux employeurs des aides prévues à l’article L. 551-7, paragraphes (2) et (3);
-34. (
+18\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la préparation et du fonctionnement des actions de prospection, de gestion des offres et demandes d’emploi, de conseil et de placement organisées par l’Agence pour le développement de l’emploi dans le cadre des missions lui dévolues sur le plan national et international. Les aides accordées éventuellement par les instruments financiers des Communautés européennes aux actions financières sur la base des dispositions du présent point sont portées directement en recette au Fonds pour l’emploi;
 
-   [L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) de la prise en charge des frais résultant de l’application des mesures de réhabilitation, de reconversion et de formation professionnelle continue prévues à l’article L.552-2 ;
-35. de la prise en charge de l’indemnité compensatoire versée aux salariés handicapés en vertu de l’article 45, paragraphe (1), deuxième alinéa de la
+19\. du remboursement aux employeurs de la quote-part du Fonds pour l’emploi dans l’indemnité compensatoire de salaire due aux salariés en cas de chômage involontaire pour intempéries ou en cas de chômage accidentel ou technique involontaire et des cotisations, le cas échéant, dues à l’Association d’assurance contre les accidents pour les salariés concernés;
 
-   [loi du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées;
-36. (
+20\. du paiement des salaires dus au personnel d’encadrement psycho-socio-pédagogique des demandeurs d’emploi, conformément à l’article VI de la [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge, totale ou partielle, des dépenses des mesures d’insertion ou de réinsertion organisées à l’intention des chômeurs, indemnisés ou non, inscrits à l’Agence pour le développement de l’emploi et assignées par le service du placement de l’Agence pour le développement de l’emploi. Les conditions et modalités d’attribution de l’aide sont régies par une convention à conclure avec le ministre ayant l’Emploi dans ses attributions;
-37. (
+21\. de l’octroi des indemnités dues aux demandeurs d’emploi affectés au pool d’assistants aux directeurs des établissements d’enseignement postprimaire conformément à l’article VII de la [loi du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge, totale ou partielle, des dépenses de mesures de qualification individuelles, à l’intérieur du pays ou à l’étranger, pour chômeurs, indemnisés ou non, inscrits à l’Agence pour le développement de l’emploi, en vue d’augmenter leur employabilité, mesures assignées par le service du placement de l’Agence pour le développement de l’emploi. Un règlement grand-ducal détermine les conditions et modalités de l’attribution de l’aide.
-38. (
+22\. de l’octroi des indemnités dues aux préretraités affectés à l’encadrement des demandeurs d’emploi placés dans une mesure de mise au travail ou de formation professionnelle conformément à l’article L. 587-1;
 
-   [L. 3 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/03/n1/jo)) assurer la mise en œuvre et le suivi des mesures visées au titre IX du livre V.
-39. (
+23\. de la prise en charge de la quote-part de l’indemnité de base versée au jeune dans le cadre du stage d’insertion conformément à l’article L. 543-14;
 
-   [L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) de la prise en charge des frais d’évaluation qualitative et quantitative permanente, par des experts externes, de la mise en oeuvre des nouvelles dispositions relatives à la [loi du 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo) portant création de l’Agence pour le développement de l’emploi, ainsi que des mesures actives en faveur de l’emploi telles que décrites par le livre V du Code du travail.
-40. (
+24\. ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n14/jo)) de la prise en charge de la quote-part revenant au demandeur d’emploi indemnisé ou non, ainsi que la prise en charge des cotisations en matière de sécurité sociale et d’assurance accident au cours des stages de professionnalisation et des contrats de réinsertion-emploi prévus aux articles L.524-1 et L.524-4.
 
-   [L. 11 novembre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/11/11/n1/jo)) de la prise en charge des frais résultant de l’application, de la promotion et du suivi de la [loi du 11 novembre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/11/11/n1/jo).
+25\. de la prise en charge de la prime versée à l’employeur en cas de passage d’un salarié d’un travail à temps plein vers un travail à temps partiel conformément à l’article L. 526-2;
 
-   1. concernant certaines mesures temporaires visant à atténuer les effets de la crise économique sur l’emploi des jeunes;
-   2. modifiant certaines dispositions du Code du travail.
-41. (
+26\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge de la prime versée à l’employeur en cas d’embauche de chômeurs inscrits à l’Agence pour le développement de l’emploi par suite d’une réduction du temps de travail prévue par la convention collective, conformément à l’article L. 526-1;
 
-   [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais engendrés par la collaboration entre les services de l’Agence pour le développement de l’emploi et les entreprises du secteur du travail intérimaire respectivement du secteur du recrutement.
-42. de la prise en charge des frais d’expertise par des experts externes visés à l’article L. 513-1(3) et des frais engendrés par des mesures de maintien dans l’emploi prévues dans un plan de maintien dans l’emploi au sens de l’article L. 513-3 homologué par le ministre ayant l’Emploi dans ses attributions.
-43. (
+27\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais occasionnés par les examens médicaux ou psychologiques des demandeurs d’emploi décidés en application de l’article L. 622-9;
 
-   [L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo)) (...) *(supprimé par la [loi du 12 juillet 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/07/12/a497/jo))*
-44. (...)
+28\. de la prise en charge des frais de voyage et des frais de garde d’enfants encourus par les personnes visées au paragraphe (1) de l’article L. 526-3;
 
-   [^note_6_7_0]
-45. (
+29\. de la prise en charge de la différence entre l’indemnité de chômage et l’indemnité de stage conformément à l’article L. 543-20;
 
-   [L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) de la moitié de l’octroi d’une indemnité professionnelle d’attente visée à l’article L. 551-5, paragraphe 2 et de la prise en charge de la moitié de la part patronale des charges sociales afférentes à cette indemnité.
-46. (
+30\. de la prise en charge du complément d’indemnité versé aux personnes adultes qui suivent un apprentissage conformément à l’article 26 de la [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue;
 
-   [L. 23 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n8/jo)) Des frais résultant du détachement de main-d’œuvre, autorisé par le ministre ayant l’Emploi dans ses attributions, par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs du Service de la formation professionnelle, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises mettant à la disposition temporaire du Service de la formation professionnelle des spécialistes en matière de formation.
-47. Des frais résultant du détachement de main-d’œuvre, autorisé par le Gouvernement en conseil, par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs auprès d’administrations publiques autres que celles visées par les points 4 et 46 qui précèdent, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises mettant à la disposition temporaire de ces administrations des spécialistes dans leurs domaines respectifs.
-48. (
+31\. de la prise en charge des dépenses liées à l’exploitation des possibilités offertes par la création d’emplois à l’échelon local, dans l’économie sociale et dans les nouvelles activités liées aux besoins non encore satisfaits par le marché notamment dans les domaines de la rénovation urbaine, de l’environnement, de l’exploitation touristique, de l’encadrement des jeunes et de l’aide familiale de proximité;
 
-   [L. 20 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a684/jo)) de la prise en charge des aides à l’embauche de chômeurs de longue durée prévues aux articles L.541-5 et L.541-6.
-49. (
+32\. de l’octroi d’une indemnité compensatoire visée à l’article L. 551-2;
 
-   [L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1097/jo)) de la mise en place et de la mise en œuvre de tout programme visant à développer les compétences des salariés d’entreprises connaissant des transformations techniques majeures ou des changements importants de leur environnement concurrentiel
-50. (
+33\. de l’octroi aux employeurs des aides prévues à l’article L. 551-7, paragraphes (2) et (3);
 
-   [L. 1 <sup>er</sup> août 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a545/jo)) de la prise en charge des dépenses en relation avec l’assistance à l’inclusion dans l’emploi en vertu des articles L. 553-4 et L. 553-6
-51. (
+34\. ([L. 24 juillet 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a663/jo)) de la prise en charge des frais résultant de l’application des mesures de réhabilitation, de reconversion et de formation professionnelle continue prévues à l’article L.552-2 ;
 
-   [L. 16 avril 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/04/16/a307/jo)) de la mise en œuvre de tout programme visant à développer les compétences des salariés occupés dans une entreprise qui s’est vue accorder le bénéfice du chômage partiel.
-52. (
+35\. de la prise en charge de l’indemnité compensatoire versée aux salariés handicapés en vertu de l’article 45, paragraphe (1), deuxième alinéa de la [loi du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées;
 
-   [L. 19 juin 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/06/19/a265/jo)) de la participation aux frais de conseil, aux frais directs de formation et aux salaires dans le cadre de la préparation et de la mise en œuvre du programme de gestion prévisionnelle de l’emploi et des compétences conformément au livre V, titre premier, chapitre IV.
+36\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge, totale ou partielle, des dépenses des mesures d’insertion ou de réinsertion organisées à l’intention des chômeurs, indemnisés ou non, inscrits à l’Agence pour le développement de l’emploi et assignées par le service du placement de l’Agence pour le développement de l’emploi. Les conditions et modalités d’attribution de l’aide sont régies par une convention à conclure avec le ministre ayant l’Emploi dans ses attributions;
+
+37\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge, totale ou partielle, des dépenses de mesures de qualification individuelles, à l’intérieur du pays ou à l’étranger, pour chômeurs, indemnisés ou non, inscrits à l’Agence pour le développement de l’emploi, en vue d’augmenter leur employabilité, mesures assignées par le service du placement de l’Agence pour le développement de l’emploi. Un règlement grand-ducal détermine les conditions et modalités de l’attribution de l’aide.
+
+38\. ([L. 3 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/03/n1/jo)) assurer la mise en œuvre et le suivi des mesures visées au titre IX du livre V.
+
+39\. ([L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) de la prise en charge des frais d’évaluation qualitative et quantitative permanente, par des experts externes, de la mise en oeuvre des nouvelles dispositions relatives à la [loi du 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo) portant création de l’Agence pour le développement de l’emploi, ainsi que des mesures actives en faveur de l’emploi telles que décrites par le livre V du Code du travail.
+
+40\. ([L. 11 novembre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/11/11/n1/jo)) de la prise en charge des frais résultant de l’application, de la promotion et du suivi de la [loi du 11 novembre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/11/11/n1/jo).
+
+1\. concernant certaines mesures temporaires visant à atténuer les effets de la crise économique sur l’emploi des jeunes;
+
+2\. modifiant certaines dispositions du Code du travail.
+
+41\. ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) de la prise en charge des frais engendrés par la collaboration entre les services de l’Agence pour le développement de l’emploi et les entreprises du secteur du travail intérimaire respectivement du secteur du recrutement.
+
+42\. de la prise en charge des frais d’expertise par des experts externes visés à l’article L. 513-1(3) et des frais engendrés par des mesures de maintien dans l’emploi prévues dans un plan de maintien dans l’emploi au sens de l’article L. 513-3 homologué par le ministre ayant l’Emploi dans ses attributions.
+
+43\. ([L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo)) (...) *(supprimé par la [loi du 12 juillet 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/07/12/a497/jo))*
+
+44\. (...)[^note_6_7_0]
+
+45\. ([L. 23 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/23/n2/jo)) de la moitié de l’octroi d’une indemnité professionnelle d’attente visée à l’article L. 551-5, paragraphe 2 et de la prise en charge de la moitié de la part patronale des charges sociales afférentes à cette indemnité.
+
+46\. ([L. 23 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n8/jo)) Des frais résultant du détachement de main-d’œuvre, autorisé par le ministre ayant l’Emploi dans ses attributions, par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs du Service de la formation professionnelle, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises mettant à la disposition temporaire du Service de la formation professionnelle des spécialistes en matière de formation.
+
+47\. Des frais résultant du détachement de main-d’œuvre, autorisé par le Gouvernement en conseil, par des entreprises disposant d’unités en surnombre, en vue du renforcement temporaire des effectifs auprès d’administrations publiques autres que celles visées par les points 4 et 46 qui précèdent, et des frais résultant du prêt temporaire de main-d’œuvre par des entreprises mettant à la disposition temporaire de ces administrations des spécialistes dans leurs domaines respectifs.
+
+48\. ([L. 20 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a684/jo)) de la prise en charge des aides à l’embauche de chômeurs de longue durée prévues aux articles L.541-5 et L.541-6.
+
+49\. ([L. 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1097/jo)) de la mise en place et de la mise en œuvre de tout programme visant à développer les compétences des salariés d’entreprises connaissant des transformations techniques majeures ou des changements importants de leur environnement concurrentiel
+
+50\. ([L. 1 <sup>er</sup> août 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a545/jo)) de la prise en charge des dépenses en relation avec l’assistance à l’inclusion dans l’emploi en vertu des articles L. 553-4 et L. 553-6
+
+51\. ([L. 16 avril 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/04/16/a307/jo)) de la mise en œuvre de tout programme visant à développer les compétences des salariés occupés dans une entreprise qui s’est vue accorder le bénéfice du chômage partiel.
+
+52\. ([L. 19 juin 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/06/19/a265/jo)) de la participation aux frais de conseil, aux frais directs de formation et aux salaires dans le cadre de la préparation et de la mise en œuvre du programme de gestion prévisionnelle de l’emploi et des compétences conformément au livre V, titre premier, chapitre IV.
 
 (2) Le Fonds pour l’emploi comprend une section spéciale destinée à promouvoir la formation pratique en entreprise ainsi que l’insertion et la réinsertion professionnelles des demandeurs d’emploi.
 
 Le concours financier de la section spéciale comporte:
 
-1. l’attribution de primes d’orientation conformément aux dispositions de l’article L. 543-21;
-2. l’attribution d’aides de promotion de l’apprentissage conformément aux dispositions de l’article L. 543-22;
-3. la participation aux dépenses de préparation, de fonctionnement et de gestion de centres de formation d’apprentis créés, financés et gérés par des entreprises, par des institutions spécialisées ainsi que par des organisations professionnelles ou par des chambres professionnelles. Le concours du Fonds est attribué dans les limites et sous les conditions prévues dans une convention conclue entre le centre formateur, d’une part, les ministres ayant dans leurs attributions l’Emploi et la Formation professionnelle, d’autre part;
-4. la prise en charge, totale ou partielle, des dépenses de préparation, de fonctionnement et de gestion des actions de formation organisées sur la base des dispositions de l’article L. 523-1;
-5. la prise en charge, totale ou partielle, des dépenses de préparation, de fonctionnement et de gestion des cours organisés, après avis du ministre ayant dans ses attributions la Formation professionnelle, sur la base de l’article L. 512-6. Le concours du Fonds pour l’emploi peut couvrir tout ou partie des pertes de salaire subies par les salariés du fait de leur participation à ces cours.
+1\. l’attribution de primes d’orientation conformément aux dispositions de l’article L. 543-21;
+
+2\. l’attribution d’aides de promotion de l’apprentissage conformément aux dispositions de l’article L. 543-22;
+
+3\. la participation aux dépenses de préparation, de fonctionnement et de gestion de centres de formation d’apprentis créés, financés et gérés par des entreprises, par des institutions spécialisées ainsi que par des organisations professionnelles ou par des chambres professionnelles. Le concours du Fonds est attribué dans les limites et sous les conditions prévues dans une convention conclue entre le centre formateur, d’une part, les ministres ayant dans leurs attributions l’Emploi et la Formation professionnelle, d’autre part;
+
+4\. la prise en charge, totale ou partielle, des dépenses de préparation, de fonctionnement et de gestion des actions de formation organisées sur la base des dispositions de l’article L. 523-1;
+
+5\. la prise en charge, totale ou partielle, des dépenses de préparation, de fonctionnement et de gestion des cours organisés, après avis du ministre ayant dans ses attributions la Formation professionnelle, sur la base de l’article L. 512-6. Le concours du Fonds pour l’emploi peut couvrir tout ou partie des pertes de salaire subies par les salariés du fait de leur participation à ces cours.
 
 ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Après avoir consulté le Comité permanent du Travail et de l’Emploi en vue de l’établissement des orientations prioritaires de gestion des avoirs du Fonds pour l’emploi, les ministres ayant dans leurs attributions l’Emploi et la Formation professionnelle soumettent à la décision du Conseil du Gouvernement des propositions conjointes pour la détermination de ces avoirs affectés à la section spéciale.
 
@@ -14889,13 +15881,19 @@ Les aides pouvant être sollicitées par l’employeur pour favoriser l’insert
 
 (2) Le RETEL a pour missions :
 
-1. l’organisation d’un travail en réseau des producteurs, analystes et utilisateurs d’études et de données sur le marché du travail et de l’emploi au Grand-Duché ;
-2. la création, centralisation et gestion de bases de données et d’études garantissant une meilleure connaissance et compréhension de la situation et des évolutions du marché du travail et de l’emploi ;
-3. la réalisation d’évaluations des politiques en faveur de l’emploi ;
-4. la réalisation d’études statistiques ponctuelles sur l’emploi pour répondre aux demandes du Ministre ayant le travail et/ou l’emploi dans ses attributions ou aux demandes d’un autre membre du gouvernement ;
-5. la conceptualisation et réalisation d’indicateurs statistiques sur l’emploi ;
-6. l’élaboration de prévisions et d’évolutions futures du marché du travail ;
-7. la collaboration avec les organismes européens et internationaux œuvrant dans le même domaine.
+1\. l’organisation d’un travail en réseau des producteurs, analystes et utilisateurs d’études et de données sur le marché du travail et de l’emploi au Grand-Duché ;
+
+2\. la création, centralisation et gestion de bases de données et d’études garantissant une meilleure connaissance et compréhension de la situation et des évolutions du marché du travail et de l’emploi ;
+
+3\. la réalisation d’évaluations des politiques en faveur de l’emploi ;
+
+4\. la réalisation d’études statistiques ponctuelles sur l’emploi pour répondre aux demandes du Ministre ayant le travail et/ou l’emploi dans ses attributions ou aux demandes d’un autre membre du gouvernement ;
+
+5\. la conceptualisation et réalisation d’indicateurs statistiques sur l’emploi ;
+
+6\. l’élaboration de prévisions et d’évolutions futures du marché du travail ;
+
+7\. la collaboration avec les organismes européens et internationaux œuvrant dans le même domaine.
 
 (3) Le RETEL remplit ses missions en étroite collaboration et en concertation avec le Comité des statistiques publiques et le Comité permanent du travail et de l’emploi, qui peut lui donner des missions ponctuelles à réaliser.
 
@@ -14927,45 +15925,61 @@ Le RETEL peut accorder, à des fins d’analyses statistiques ou scientifiques d
 
 (1) Le Comité permanent du travail et de l’emploi institué auprès du ministre ayant le Travail dans ses attributions, ci-après «le Comité», est chargé d’examiner régulièrement la situation en matière
 
-1. d’emploi et de chômage,
-2. de conditions de travail, de sécurité et de santé des salariés.
+a) d’emploi et de chômage,
+
+b) de conditions de travail, de sécurité et de santé des salariés.
 
 (2) ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Dans le cadre de la mission ci-avant sub (1) a), le comité surveille la situation, l’évolution et le fonctionnement du marché de l’emploi luxembourgeois au regard notamment de l’utilisation optimale des forces de travail en coordination avec la politique économique et sociale, de la composition des offres et demandes d’emploi, du recrutement de salariés non ressortissants d’Etats membres de l’Espace économique européen et de la Confédération helvétique, de l’application de la législation concernant la prévention et la lutte contre le chômage et de la législation concernant les relations entre l’Agence pour le développement de l’emploi et les employeurs.
 
 A cette fin le comité peut notamment faire établir et examiner:
 
-- des études sur la structure de la main-d’œuvre;
-- des bilans globaux et sectoriels de main-d’œuvre;
-- des analyses des professions et de leur évolution technique;
-- des études sur les profils des offres et demandes d’emploi;
-- des études sur l’évolution de l’emploi;
-- des statistiques sur les fluctuations du marché du travail;
-- des études sur des problèmes en relation avec l’emploi et le chômage et la formation professionnelle;
-- des comptes-rendus sur les résultats obtenus par les services de placement;
-- des études sur les infractions à la législation sociale luxembourgeoise.
+aash des études sur la structure de la main-d’œuvre;
+
+bash des bilans globaux et sectoriels de main-d’œuvre;
+
+cash des analyses des professions et de leur évolution technique;
+
+dash des études sur les profils des offres et demandes d’emploi;
+
+eash des études sur l’évolution de l’emploi;
+
+fash des statistiques sur les fluctuations du marché du travail;
+
+gash des études sur des problèmes en relation avec l’emploi et le chômage et la formation professionnelle;
+
+hash des comptes-rendus sur les résultats obtenus par les services de placement;
+
+iash des études sur les infractions à la législation sociale luxembourgeoise.
 
 Sur la base de l’examen des données précitées, le comité pourra notamment émettre des propositions sur les actions à entreprendre:
 
-- en vue de rapprocher les offres et les demandes d’emploi;
-- en vue de réduire les inadéquations constatées sur le marché du travail;
-- (
+aash en vue de rapprocher les offres et les demandes d’emploi;
 
-  [L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) sur base de l’examen des problèmes rencontrés par les services de placement et les services de la formation professionnelle dans l’exécution de leurs missions, en vue d’améliorer l’efficience des prestations offertes par ces services aux entreprises et aux demandeurs d’emploi et d’accroître le taux de pénétration de l’Agence pour le développement de l’emploi sur le marché du travail;
-- en vue d’améliorer les mécanismes de contrôle de l’application de la législation sociale luxembourgeoise.
+bash en vue de réduire les inadéquations constatées sur le marché du travail;
+
+cash ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) sur base de l’examen des problèmes rencontrés par les services de placement et les services de la formation professionnelle dans l’exécution de leurs missions, en vue d’améliorer l’efficience des prestations offertes par ces services aux entreprises et aux demandeurs d’emploi et d’accroître le taux de pénétration de l’Agence pour le développement de l’emploi sur le marché du travail;
+
+dash en vue d’améliorer les mécanismes de contrôle de l’application de la législation sociale luxembourgeoise.
 
 ([L. 18 janvier 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/01/18/n1/jo)) Le comité pourra recommander aux ministres concernés de prendre les décisions nécessaires pour ajuster l’action et le fonctionnement des administrations relevant de leurs compétences respectives, et notamment de l’Agence pour le développement de l’emploi, conformément aux propositions du présent paragraphe (2).
 
 (3) Dans le cadre de la mission, ci-avant sub (1) b), d’examiner l’évolution des conditions de travail et de la sécurité et de la santé des salariés, le comité surveille la situation et l’évolution, notamment:
 
-- de l’application de la législation concernant:
+aash de l’application de la législation concernant:
 
-  - la protection de la sécurité et de la santé des salariés,
-  - le droit du travail, et
-  - les relations entre l’Inspection du travail et des mines et les employeurs et salariés;
-- du développement des dispositions de protection de la santé tant physique que psychique des salariés;
-- du développement d’un réseau d’information et de compétences destiné aux employeurs et aux salariés;
-- de la collaboration avec les partenaires extérieurs à l’Inspection du travail et des mines;
-- de la stimulation du dialogue social entre l’employeur et les représentants des salariés au sein des entreprises.
+aot la protection de la sécurité et de la santé des salariés,
+
+bot le droit du travail, et
+
+cot les relations entre l’Inspection du travail et des mines et les employeurs et salariés;
+
+bash du développement des dispositions de protection de la santé tant physique que psychique des salariés;
+
+cash du développement d’un réseau d’information et de compétences destiné aux employeurs et aux salariés;
+
+dash de la collaboration avec les partenaires extérieurs à l’Inspection du travail et des mines;
+
+eash de la stimulation du dialogue social entre l’employeur et les représentants des salariés au sein des entreprises.
 
 Le comité pourra recommander aux ministres concernés de prendre les décisions nécessaires pour ajuster l’action et le fonctionnement des administrations relevant de leurs compétences respectives, et notamment de l’Inspection du travail et des mines, conformément aux propositions du présent paragraphe (3).
 
@@ -14973,14 +15987,15 @@ Le comité pourra recommander aux ministres concernés de prendre les décisions
 
 (1) ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a822/jo)) Le comité se compose de la manière suivante :
 
-1. (
+1\. ([L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a822/jo)) Une délégation représentant le Gouvernement qui est composée :
 
-   [L. 24 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/24/a822/jo)) Une délégation représentant le Gouvernement qui est composée :
+aash du ministre ayant le Travail et l’Emploi dans ses attributions ;
 
-   - du ministre ayant le Travail et l’Emploi dans ses attributions ;
-   - le cas échéant, d’un ou de plusieurs ministres désignés en fonction des sujets figurant à l’ordre du jour de la réunion en question ; ».
-2. Quatre représentants des salariés des organisations syndicales représentatives sur le plan national dans les secteurs privé et public ou leurs suppléants;
-3. Quatre représentants des employeurs à désigner par la ou les organisation(s) représentative(s) des entreprises luxembourgeoises et représentant l’industrie, l’artisanat, le commerce, l’hôtellerie-restauration, les banques et les assurances ou leurs suppléants.
+bash le cas échéant, d’un ou de plusieurs ministres désignés en fonction des sujets figurant à l’ordre du jour de la réunion en question ; ».
+
+2\. Quatre représentants des salariés des organisations syndicales représentatives sur le plan national dans les secteurs privé et public ou leurs suppléants;
+
+3\. Quatre représentants des employeurs à désigner par la ou les organisation(s) représentative(s) des entreprises luxembourgeoises et représentant l’industrie, l’artisanat, le commerce, l’hôtellerie-restauration, les banques et les assurances ou leurs suppléants.
 
 (2) Les ministres ainsi que les membres des organisations des employeurs respectivement des salariés ou leurs suppléants n’ayant pas été désignés comme membres du comité, pourront assister en qualité d’experts et avec voix consultative aux réunions. Le nombre de ces experts désignés par les organisations des employeurs sont au même nombre que ceux désignés par les organisations des salariés.
 
@@ -15028,174 +16043,253 @@ Les conciliateurs peuvent également constater l’échec de la conciliation. Ce
 
 \*A. Agents*
 
-1. **Agents physiques** , lorsque ceux-ci sont considérés comme des agents entraînant des lésions fœtales ou risquent de provoquer un détachement du placenta, notamment:
+1\. **Agents physiques** , lorsque ceux-ci sont considérés comme des agents entraînant des lésions fœtales ou risquent de provoquer un détachement du placenta, notamment:
 
-   1. le soulèvement ou le transport, comportant des risques notamment dorsolombaires qui ne peuvent être évités ou réduits en application de la réglementation concernant les prescriptions minimales de sécurité et de santé relatives à la manutention de charges comportant des risques, notamment dorsolombaires, pour les salariés, de charges dont le poids dépasse cinq kilos;
-   2. à partir du cinquième mois de la grossesse, les travaux nécessitant la station debout, sauf s’il est permis d’utiliser un siège pour de brèves périodes de repos;
-   3. les travaux dont l’exécution exige des mouvements fréquents de flexion ou une position accroupie ou penchée constante;
-   4. le maniement d’outils ou le service de machines exigeant dans une large mesure l’usage des pieds;
-   5. la conduite de moyens de locomotion et le maniement d’outils qui peuvent engendrer des chocs ou vibrations;
-   6. toutes les activités liées au travail, qui les exposent à des risques accrus d’accident, notamment aux risques de chuter ou de glisser;
-   7. le travail à la tâche ou selon tout autre système permettant d’obtenir un salaire plus élevé moyennant l’accélération du rythme ainsi que les travaux à la chaîne à effectuer à un rythme prescrit;
-   8. fatigue mentale et physique et autres charges physiques liées à l’activité de la femme salariée;
-   9. bruit;
-   10. radiations ionisantes ou non ionisantes;
-   11. températures extrêmement basses ou élevées;
-   12. poussières incommodantes.
-2. **Agents biologiques:**
+a) le soulèvement ou le transport, comportant des risques notamment dorsolombaires qui ne peuvent être évités ou réduits en application de la réglementation concernant les prescriptions minimales de sécurité et de santé relatives à la manutention de charges comportant des risques, notamment dorsolombaires, pour les salariés, de charges dont le poids dépasse cinq kilos;
 
-   ([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection qu’ils présentent:
+b) à partir du cinquième mois de la grossesse, les travaux nécessitant la station debout, sauf s’il est permis d’utiliser un siège pour de brèves périodes de repos;
 
-   1. un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
-   2. un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les salariés; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
-   3. un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les salariés; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
-   4. un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les salariés; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
+c) les travaux dont l’exécution exige des mouvements fréquents de flexion ou une position accroupie ou penchée constante;
 
-   Les agents biologiques des groupes de risque 2, 3 et 4 présentent un risque spécifique d’exposition pour les femmes enceintes ou allaitantes, dans la mesure où il est connu que ces agents ou les mesures thérapeutiques rendues nécessaires par ceux-ci mettent en péril la santé de la femme enceinte et de l’enfant à naître et pour autant qu’ils ne figurent pas encore à l’annexe 2.
-3. **Agents chimiques:**
+d) le maniement d’outils ou le service de machines exigeant dans une large mesure l’usage des pieds;
 
-   Les agents chimiques suivants, dans la mesure où ils sont considérés comme des agents mettant en péril la santé des femmes enceintes et de l’enfant à naître et pour autant qu’ils ne figurent pas à l’annexe 2:
+e) la conduite de moyens de locomotion et le maniement d’outils qui peuvent engendrer des chocs ou vibrations;
 
-   \*([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
+f) toutes les activités liées au travail, qui les exposent à des risques accrus d’accident, notamment aux risques de chuter ou de glisser;
 
-   1. substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes ou catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP (
+g) le travail à la tâche ou selon tout autre système permettant d’obtenir un salaire plus élevé moyennant l’accélération du rythme ainsi que les travaux à la chaîne à effectuer à un rythme prescrit;
 
-      ) pour autant qu’ils ne figurent pas encore à l’annexe 2:
+h) fatigue mentale et physique et autres charges physiques liées à l’activité de la femme salariée;
 
-      - mutagénicité sur les cellules germinales, catégorie 1A, 1B ou 2 (H340, H341);
-      - cancérogénicité catégorie 1A, 1B ou 2 (H350, H350i, H351);
-      - toxicité pour la reproduction, catégorie 1A, 1B ou 2, ou catégorie supplémentaire des effets sur ou via l’allaitement (H360, H360D, H360FD, H360Fd, H360Df, H361, H361a, H361fd, H362);
-      - toxicité spécifique pour certains organes cibles à la suite d’une exposition unique, catégorie 1 ou 2 (H370, H371);
-   2. agents chimiques suivants:
+i) bruit;
 
-      - auramine;
-      - hydrocarbures polycycliques aromatiques présents dans la suie de houille, le goudron de houille ou la poix de houille;
-      - poussières, fumées ou brouillards produits lors du grillage et de l’électro-raffinage des mattes de nickel;
-      - l’acide fort dans la fabrication d’alcool isopropylique;
-      - poussières de bois durs. (
+j) radiations ionisantes ou non ionisantes;
 
-        )
-   3. mercure et ses dérivés;
-   4. médicaments antimitotiques;
-   5. monoxyde de carbone;
-   6. agents chimiques dangereux à pénétration cutanée formelle.
+k) températures extrêmement basses ou élevées;
+
+l) poussières incommodantes.
+
+2\. **Agents biologiques:**
+
+([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les agents biologiques sont classés en quatre groupes de risque en fonction de l’importance du risque d’infection qu’ils présentent:
+
+a) un agent biologique du groupe 1 n’est pas susceptible de provoquer une maladie chez l’homme;
+
+b) un agent biologique du groupe 2 peut provoquer une maladie chez l’homme et constituer un danger pour les salariés; sa propagation dans la collectivité est improbable; il existe généralement une prophylaxie ou un traitement efficace;
+
+c) un agent biologique du groupe 3 peut provoquer une maladie grave chez l’homme et constituer un danger sérieux pour les salariés; il peut présenter un risque de propagation dans la collectivité, mais il existe généralement une prophylaxie ou un traitement efficace;
+
+d) un agent biologique du groupe 4 provoque des maladies graves chez l’homme et constitue un danger sérieux pour les salariés; il peut présenter un risque élevé de propagation dans la collectivité; il n’existe généralement pas de prophylaxie ni de traitement efficace.
+
+Les agents biologiques des groupes de risque 2, 3 et 4 présentent un risque spécifique d’exposition pour les femmes enceintes ou allaitantes, dans la mesure où il est connu que ces agents ou les mesures thérapeutiques rendues nécessaires par ceux-ci mettent en péril la santé de la femme enceinte et de l’enfant à naître et pour autant qu’ils ne figurent pas encore à l’annexe 2.
+
+3\. **Agents chimiques:**
+
+Les agents chimiques suivants, dans la mesure où ils sont considérés comme des agents mettant en péril la santé des femmes enceintes et de l’enfant à naître et pour autant qu’ils ne figurent pas à l’annexe 2:
+
+\*([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
+
+a) substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes ou catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP ( ) pour autant qu’ils ne figurent pas encore à l’annexe 2:
+
+aash mutagénicité sur les cellules germinales, catégorie 1A, 1B ou 2 (H340, H341);
+
+bash cancérogénicité catégorie 1A, 1B ou 2 (H350, H350i, H351);
+
+cash toxicité pour la reproduction, catégorie 1A, 1B ou 2, ou catégorie supplémentaire des effets sur ou via l’allaitement (H360, H360D, H360FD, H360Fd, H360Df, H361, H361a, H361fd, H362);
+
+dash toxicité spécifique pour certains organes cibles à la suite d’une exposition unique, catégorie 1 ou 2 (H370, H371);
+
+b) agents chimiques suivants:
+
+aash auramine;
+
+bash hydrocarbures polycycliques aromatiques présents dans la suie de houille, le goudron de houille ou la poix de houille;
+
+cash poussières, fumées ou brouillards produits lors du grillage et de l’électro-raffinage des mattes de nickel;
+
+dash l’acide fort dans la fabrication d’alcool isopropylique;
+
+eash poussières de bois durs. ( )
+
+c) mercure et ses dérivés;
+
+d) médicaments antimitotiques;
+
+e) monoxyde de carbone;
+
+f) agents chimiques dangereux à pénétration cutanée formelle.
 
 \*B. Procédés*
 
 ([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les travaux mettant les femmes enceintes ou allaitantes en contact avec les procédés industriels suivants:
 
-1. fabrication d’auramine;
-2. travaux exposant aux hydrocarbures polycycliques aromatiques présents dans la suie de houille, le goudron de houille ou la poix de houille;
-3. travaux exposant aux poussières, fumées ou brouillards produits lors du grillage et de l’électro-raffinage des mattes de nickel;
-4. procédé à l’acide fort dans la fabrication d’alcool isopropylique;
-5. travaux exposant aux poussières de bois durs. (
+a) fabrication d’auramine;
 
-   )
+b) travaux exposant aux hydrocarbures polycycliques aromatiques présents dans la suie de houille, le goudron de houille ou la poix de houille;
+
+c) travaux exposant aux poussières, fumées ou brouillards produits lors du grillage et de l’électro-raffinage des mattes de nickel;
+
+d) procédé à l’acide fort dans la fabrication d’alcool isopropylique;
+
+e) travaux exposant aux poussières de bois durs. ( )
 
 \**Annexe 2 – Activités comportant un risque d’exposition aux agents ou conditions de travail pour les femmes enceintes ou allaitantes (article L. 334-4)**
 
 \*A. Femmes enceintes*
 
-1. **Agents physiques:**
+1\. **Agents physiques:**
 
-   - travail dans une atmosphère de surpression élevée, p. ex. dans les enceintes sous pression, plongée sous-marine.
-2. **Agents biologiques:**
+aone travail dans une atmosphère de surpression élevée, p. ex. dans les enceintes sous pression, plongée sous-marine.
 
-   - toxoplasme;
-   - virus de la rubéole; sauf si la preuve existe que la femme enceinte est suffisamment protégée contre ces agents par son état d’immunité.
-3. **Agents chimiques:**
+2\. **Agents biologiques:**
 
-   - plomb et ses dérivés, dans la mesure où ces agents sont susceptibles d’être absorbés par l’organisme humain.
-4. **Conditions de travail:**
+aone toxoplasme;
 
-   - travaux souterrains miniers.
+bone virus de la rubéole; sauf si la preuve existe que la femme enceinte est suffisamment protégée contre ces agents par son état d’immunité.
+
+3\. **Agents chimiques:**
+
+aone plomb et ses dérivés, dans la mesure où ces agents sont susceptibles d’être absorbés par l’organisme humain.
+
+4\. **Conditions de travail:**
+
+aone travaux souterrains miniers.
 
 \*B. Femmes allaitantes*
 
-1. **Agents chimiques:**
+1\. **Agents chimiques:**
 
-   - plomb et ses dérivés, dans la mesure où ces agents sont susceptibles d’être absorbés par l’organisme humain.
-2. **Conditions de travail:**
+aone plomb et ses dérivés, dans la mesure où ces agents sont susceptibles d’être absorbés par l’organisme humain.
 
-   - travaux souterrains miniers.
+2\. **Conditions de travail:**
+
+aone travaux souterrains miniers.
 
 \**Annexe 3 – Travaux interdits aux jeunes en raison des dangers inhérents pour leur santé (article L. 343-3)**
 
-1. Les travaux exposant aux radiations ionisantes ou mettant en contact avec des substances radioactives lorsque ces travaux sont susceptibles d’exposer l’organisme à des doses de ces radiations ou de contamination par des quantités de ces substances considérées comme dangereuses dans l’état actuel des connaissances;
-2. Les travaux exécutés dans une atmosphère de surpression élevée, par exemple dans les enceintes sous pression, plongée sous-marine;
-3. (
+1\. Les travaux exposant aux radiations ionisantes ou mettant en contact avec des substances radioactives lorsque ces travaux sont susceptibles d’exposer l’organisme à des doses de ces radiations ou de contamination par des quantités de ces substances considérées comme dangereuses dans l’état actuel des connaissances;
 
-   [L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les travaux exposant à des agents biologiques des groupes de risque 3 et 4 au sens de l’annexe 1, point 2. du Code du travail;
-4. Les travaux exposant à des substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes et catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP (
+2\. Les travaux exécutés dans une atmosphère de surpression élevée, par exemple dans les enceintes sous pression, plongée sous-marine;
 
-   ):
+3\. ([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les travaux exposant à des agents biologiques des groupes de risque 3 et 4 au sens de l’annexe 1, point 2. du Code du travail;
 
-   1. toxicité aiguë, catégorie 1, 2 ou 3 (H300, H310, H330, H301, H311, H331);
-   2. corrosion cutanée, catégorie 1A, 1B ou 1C (H314);
-   3. gaz inflammable, catégorie 1 ou 2 (H220, H221);
-   4. aérosols inflammables, catégorie 1 (H222);
-   5. liquide inflammable, catégorie 1 ou 2 (H224, H225);
-   6. explosifs, catégories «explosif instable», ou explosifs des divisions 1.1, 1.2, 1.3, 1.4, 1.5 (H200, H201, H202, H203, H204, H205);
-   7. substances et mélanges autoréactifs, type A, B, C ou D (H240, H241, H242);
-   8. peroxydes organiques, types A ou B (H240, H241);
-   9. toxicité spécifique pour certains organes cibles à la suite d’une exposition unique, catégorie 1 ou 2 (H370, H371);
-   10. toxicité spécifique pour certains organes cibles à la suite d’une exposition répétée, catégorie 1 ou 2 (H372, H373);
-   11. sensibilisation respiratoire, catégorie 1, sous-catégorie 1A ou 1B (H334);
-   12. sensibilisation cutanée, catégorie 1, sous-catégorie 1A ou 1B (H317);
-   13. cancérogénicité, catégorie 1A, 1B ou 2 (H350, H350i, H351);
-   14. mutagénicité sur les cellules germinales, catégorie 1A, 1B ou 2 (H340, H341);
-   15. toxicité pour la reproduction, catégorie 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).
-5. *(supprimé par la [loi du 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
-6. *(supprimé par la [loi du 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
-7. (
+4\. Les travaux exposant à des substances et mélanges qui répondent aux critères de classification dans une ou plusieurs des classes et catégories de danger suivantes et correspondent à une ou plusieurs des mentions de danger suivantes, conformément au règlement CLP ( ):
 
-   [L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les travaux exposant à une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes tels que fixés à l’annexe I du règlement CLP ( ).
-8. Les travaux exposant aux agents chimiques, physiques et biologiques visés à l’annexe 5;
-9. (
+a) toxicité aiguë, catégorie 1, 2 ou 3 (H300, H310, H330, H301, H311, H331);
 
-   [L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les procédés et travaux visés à la partie B. de l’annexe 1 du Code du travail.
-10. Les travaux de fabrication et de manipulation des engins, artifices ou objets divers contenant des explosifs;
-11. Les travaux dans les ménageries d’animaux féroces ou venimeux;
-12. Les travaux d’abattage industriel des animaux, si ce n’est pour des raisons de formation professionnelle;
-13. Les travaux impliquant la manipulation d’appareils de production d’emmagasinage ou de mise en œuvre de gaz comprimés, liquéfiés ou dissous;
-14. Les travaux préposant aux cuves, bassins, réservoirs, touries ou bonbonnes contenant des agents chimiques visés aux points 4 à 9 ci-dessus;
-15. Les travaux de terrassement, d’étaiement en fouilles profondes et les travaux comportant un risque d’effondrement;
-16. Les travaux qui, dans la production, la transformation et la distribution d’électricité, présentent un risque d’électrocution et tous autres travaux où peuvent exister des risques particuliers de même nature;
-17. Les travaux dont la cadence est conditionnée par des machines et qui sont rémunérés au résultat;
-18. Le traitement à chaud des minerais et des métaux et de leurs composés ou alliages lorsque ce travail comporte le risque d’inhaler ou d’absorber des quantités de produits toxiques (tels que le plomb et l’arsenic) considérés comme dangereux dans l’état actuel des connaissances;
-19. Les travaux de fonderie, la transformation, la finition, le découpage, l’ébarbage, etc. de métaux et de leurs alliages lorsque ces opérations comportent le danger d’inhaler ou d’absorber des quantités de substances considérées comme dangereuses dans l’état actuel des connaissances;
-20. Les travaux effectués dans des conditions de chaleur ou de froid considérées comme dangereuses pour la santé;
-21. Les travaux entraînant un effort physique dépassant les forces du salarié;
-22. Le soudage ou découpage des métaux à l’arc électrique ou au chalumeau oxhydrique ou oxyacétylénique lorsque ce travail s’effectue dans des conditions qui accentuent les risques inhérents;
-23. Les travaux avec des matières et dans des conditions telles que les dégagements de poussière sont susceptibles de provoquer la silicose, l’asbestose ou toute autre maladie pulmonaire grave;
-24. Le travail à des machines ou à des installations, dangereuses par leurs organes en mouvement ou leur nature, à moins qu’il n’existe un dispositif de protection efficace qui ne dépende en rien de l’opérateur;
-25. Les travaux dans les distilleries de goudron;
-26. La fabrication, l’utilisation, la manipulation ou le transport des produits chimiquement instables qui, sans être des explosifs, sont susceptibles d’exploser dans les conditions où ils sont employés;
-27. La fabrication, l’utilisation, la manipulation ou le transport, au moyen de récipients ou non, de substances inflammables, facilement et très facilement inflammables, dans des conditions qui accentuent les risques inhérents;
-28. Les travaux souterrains dans les mines, minières et les carrières, ainsi que tous travaux souterrains de creusement ou de construction de tunnels, galeries, etc. ainsi que ceux visés par la réglementation des prescriptions minimales visant à améliorer la protection en matière de sécurité et de santé des salariés des industries extractives à ciel ouvert ou souterraines;
-29. Les travaux aux rochers, la perforation et le minage, l’abattage, le cassage et la manutention des blocs, ainsi que les opérations entraînant au cours de ces travaux des risques d’éboulement, notamment dans les carrières, mines et minières à ciel ouvert;
-30. Le montage, le démontage et la conduite des grues à tour et à flèche; le montage, le démontage et la conduite des autres appareils de levage, sauf s’ils ne présentent pas un risque particulier;
-31. La conduite des véhicules de terrassement;
-32. La conduite des véhicules de transport et de manutention à propulsion mécanique, sauf si les dimensions, la construction, la vitesse maximum et les conditions d’emploi offrent une sécurité suffisante;
-33. Les travaux d’aiguillage, d’attelage et de décrochage des véhicules roulant sur rails, ou les travaux d’attelage et de décrochage des véhicules routiers quand ils présentent un danger;
-34. Les travaux dans les égouts, les stations d’épuration et les installations de compostage;
-35. Les travaux comportant des soins aux malades, aux animaux malades ou des contacts avec ceux-ci, leurs cadavres, leurs déchets ou avec toute autre matière infectée ou contaminée, lorsque ces travaux sont susceptibles d’exposer à des risques d’infection ou de contamination graves;
-36. Le chargement, le déchargement de navires et les travaux sur les navires;
-37. Tout travail effectué dans des conditions telles qu’il comporte un risque de chute dangereuse pour le salarié ainsi que tout travail de démolition où le salarié est exposé à la chute de matériaux;
-38. L’emploi d’outils à l’air comprimé dont le fonctionnement donne naissance à des vibrations dangereuses pour l’opérateur;
-39. L’emploi de pistolets de scellement;
-40. Les travaux d’abattage des arbres et de manutention des troncs d’arbres lorsqu’ils présentent un caractère dangereux;
-41. Tout travail à la tâche ou à la chaîne, dans la mesure où le rythme du travail met en danger la santé ou le développement physique du salarié;
-42. L’emploi dans le commerce ambulant sur la voie publique ou dans les établissements et lieux publics; l’emploi permanent à des étalages extérieurs; l’emploi dans les professions ambulantes.
+b) corrosion cutanée, catégorie 1A, 1B ou 1C (H314);
+
+c) gaz inflammable, catégorie 1 ou 2 (H220, H221);
+
+d) aérosols inflammables, catégorie 1 (H222);
+
+e) liquide inflammable, catégorie 1 ou 2 (H224, H225);
+
+f) explosifs, catégories «explosif instable», ou explosifs des divisions 1.1, 1.2, 1.3, 1.4, 1.5 (H200, H201, H202, H203, H204, H205);
+
+g) substances et mélanges autoréactifs, type A, B, C ou D (H240, H241, H242);
+
+h) peroxydes organiques, types A ou B (H240, H241);
+
+i) toxicité spécifique pour certains organes cibles à la suite d’une exposition unique, catégorie 1 ou 2 (H370, H371);
+
+j) toxicité spécifique pour certains organes cibles à la suite d’une exposition répétée, catégorie 1 ou 2 (H372, H373);
+
+k) sensibilisation respiratoire, catégorie 1, sous-catégorie 1A ou 1B (H334);
+
+l) sensibilisation cutanée, catégorie 1, sous-catégorie 1A ou 1B (H317);
+
+m) cancérogénicité, catégorie 1A, 1B ou 2 (H350, H350i, H351);
+
+n) mutagénicité sur les cellules germinales, catégorie 1A, 1B ou 2 (H340, H341);
+
+o) toxicité pour la reproduction, catégorie 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).
+
+5\. *(supprimé par la [loi du 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
+
+6\. *(supprimé par la [loi du 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo))*
+
+7\. ([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les travaux exposant à une substance ou un mélange qui répond aux critères de classification dans la catégorie 1A ou 1B des cancérigènes tels que fixés à l’annexe I du règlement CLP ( ).
+
+8\. Les travaux exposant aux agents chimiques, physiques et biologiques visés à l’annexe 5;
+
+9\. ([L. 5 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/05/n3/jo)) Les procédés et travaux visés à la partie B. de l’annexe 1 du Code du travail.
+
+10\. Les travaux de fabrication et de manipulation des engins, artifices ou objets divers contenant des explosifs;
+
+11\. Les travaux dans les ménageries d’animaux féroces ou venimeux;
+
+12\. Les travaux d’abattage industriel des animaux, si ce n’est pour des raisons de formation professionnelle;
+
+13\. Les travaux impliquant la manipulation d’appareils de production d’emmagasinage ou de mise en œuvre de gaz comprimés, liquéfiés ou dissous;
+
+14\. Les travaux préposant aux cuves, bassins, réservoirs, touries ou bonbonnes contenant des agents chimiques visés aux points 4 à 9 ci-dessus;
+
+15\. Les travaux de terrassement, d’étaiement en fouilles profondes et les travaux comportant un risque d’effondrement;
+
+16\. Les travaux qui, dans la production, la transformation et la distribution d’électricité, présentent un risque d’électrocution et tous autres travaux où peuvent exister des risques particuliers de même nature;
+
+17\. Les travaux dont la cadence est conditionnée par des machines et qui sont rémunérés au résultat;
+
+18\. Le traitement à chaud des minerais et des métaux et de leurs composés ou alliages lorsque ce travail comporte le risque d’inhaler ou d’absorber des quantités de produits toxiques (tels que le plomb et l’arsenic) considérés comme dangereux dans l’état actuel des connaissances;
+
+19\. Les travaux de fonderie, la transformation, la finition, le découpage, l’ébarbage, etc. de métaux et de leurs alliages lorsque ces opérations comportent le danger d’inhaler ou d’absorber des quantités de substances considérées comme dangereuses dans l’état actuel des connaissances;
+
+20\. Les travaux effectués dans des conditions de chaleur ou de froid considérées comme dangereuses pour la santé;
+
+21\. Les travaux entraînant un effort physique dépassant les forces du salarié;
+
+22\. Le soudage ou découpage des métaux à l’arc électrique ou au chalumeau oxhydrique ou oxyacétylénique lorsque ce travail s’effectue dans des conditions qui accentuent les risques inhérents;
+
+23\. Les travaux avec des matières et dans des conditions telles que les dégagements de poussière sont susceptibles de provoquer la silicose, l’asbestose ou toute autre maladie pulmonaire grave;
+
+24\. Le travail à des machines ou à des installations, dangereuses par leurs organes en mouvement ou leur nature, à moins qu’il n’existe un dispositif de protection efficace qui ne dépende en rien de l’opérateur;
+
+25\. Les travaux dans les distilleries de goudron;
+
+26\. La fabrication, l’utilisation, la manipulation ou le transport des produits chimiquement instables qui, sans être des explosifs, sont susceptibles d’exploser dans les conditions où ils sont employés;
+
+27\. La fabrication, l’utilisation, la manipulation ou le transport, au moyen de récipients ou non, de substances inflammables, facilement et très facilement inflammables, dans des conditions qui accentuent les risques inhérents;
+
+28\. Les travaux souterrains dans les mines, minières et les carrières, ainsi que tous travaux souterrains de creusement ou de construction de tunnels, galeries, etc. ainsi que ceux visés par la réglementation des prescriptions minimales visant à améliorer la protection en matière de sécurité et de santé des salariés des industries extractives à ciel ouvert ou souterraines;
+
+29\. Les travaux aux rochers, la perforation et le minage, l’abattage, le cassage et la manutention des blocs, ainsi que les opérations entraînant au cours de ces travaux des risques d’éboulement, notamment dans les carrières, mines et minières à ciel ouvert;
+
+30\. Le montage, le démontage et la conduite des grues à tour et à flèche; le montage, le démontage et la conduite des autres appareils de levage, sauf s’ils ne présentent pas un risque particulier;
+
+31\. La conduite des véhicules de terrassement;
+
+32\. La conduite des véhicules de transport et de manutention à propulsion mécanique, sauf si les dimensions, la construction, la vitesse maximum et les conditions d’emploi offrent une sécurité suffisante;
+
+33\. Les travaux d’aiguillage, d’attelage et de décrochage des véhicules roulant sur rails, ou les travaux d’attelage et de décrochage des véhicules routiers quand ils présentent un danger;
+
+34\. Les travaux dans les égouts, les stations d’épuration et les installations de compostage;
+
+35\. Les travaux comportant des soins aux malades, aux animaux malades ou des contacts avec ceux-ci, leurs cadavres, leurs déchets ou avec toute autre matière infectée ou contaminée, lorsque ces travaux sont susceptibles d’exposer à des risques d’infection ou de contamination graves;
+
+36\. Le chargement, le déchargement de navires et les travaux sur les navires;
+
+37\. Tout travail effectué dans des conditions telles qu’il comporte un risque de chute dangereuse pour le salarié ainsi que tout travail de démolition où le salarié est exposé à la chute de matériaux;
+
+38\. L’emploi d’outils à l’air comprimé dont le fonctionnement donne naissance à des vibrations dangereuses pour l’opérateur;
+
+39\. L’emploi de pistolets de scellement;
+
+40\. Les travaux d’abattage des arbres et de manutention des troncs d’arbres lorsqu’ils présentent un caractère dangereux;
+
+41\. Tout travail à la tâche ou à la chaîne, dans la mesure où le rythme du travail met en danger la santé ou le développement physique du salarié;
+
+42\. L’emploi dans le commerce ambulant sur la voie publique ou dans les établissements et lieux publics; l’emploi permanent à des étalages extérieurs; l’emploi dans les professions ambulantes.
 
 \**Annexe 4 – Occupations interdites aux jeunes en raison des dangers pour leur moralité (article L 343-3)**
 
-1. Emploi dans les bars et cabarets;
-2. Colportage dans le sens de la
+1\. Emploi dans les bars et cabarets;
 
-   [loi du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes;
-3. Emploi dans les établissements dont l’activité consiste à fabriquer, imprimer, exposer ou vendre des écrits, images ou autres objets de nature à blesser la moralité des jeunes;
-4. Emploi dans les salles de jeu, à l’exception des salles de jeux «vidéo» s’adressant en priorité à des jeunes.
+2\. Colportage dans le sens de la [loi du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes;
+
+3\. Emploi dans les établissements dont l’activité consiste à fabriquer, imprimer, exposer ou vendre des écrits, images ou autres objets de nature à blesser la moralité des jeunes;
+
+4\. Emploi dans les salles de jeu, à l’exception des salles de jeux «vidéo» s’adressant en priorité à des jeunes.
 
 \**Annexe 5 – Agents susceptibles de présenter un danger pour la santé des salariés (article L. 351-4)**
 
@@ -15245,289 +16339,211 @@ Les dispositions annexées à la présente loi constituent le Code du travail.
 
 Sont abrogés:
 
-1. la
+1\. la [loi du 12 juillet 1895](https://legilux.public.lu/eli/etat/leg/loi/1895/07/12/n1/jo) concernant le paiement des salaires des ouvriers, telle qu’elle a été modifiée par la suite;
 
-   [loi du 12 juillet 1895](https://legilux.public.lu/eli/etat/leg/loi/1895/07/12/n1/jo) concernant le paiement des salaires des ouvriers, telle qu’elle a été modifiée par la suite;
-2. la
+2\. la [loi du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo), portant règlement légal du louage de service des employés privés, telle qu’elle a été modifiée par la suite;
 
-   [loi du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo), portant règlement légal du louage de service des employés privés, telle qu’elle a été modifiée par la suite;
-3. l’
+3\. l’ [arrêté grand-ducal du 8 octobre 1945](https://legilux.public.lu/eli/etat/leg/agd/1945/10/08/n5/jo) portant révision de la [loi du 5 janvier 1929](https://legilux.public.lu/eli/etat/leg/loi/1929/01/05/n2/jo) sur l’apprentissage, tel qu’il a été modifié par la suite, à l’exception de son article 26, alinéa 2;
 
-   [arrêté grand-ducal du 8 octobre 1945](https://legilux.public.lu/eli/etat/leg/agd/1945/10/08/n5/jo) portant révision de la [loi du 5 janvier 1929](https://legilux.public.lu/eli/etat/leg/loi/1929/01/05/n2/jo) sur l’apprentissage, tel qu’il a été modifié par la suite, à l’exception de son article 26, alinéa 2;
-4. la
+4\. la [loi du 22 avril 1966](https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/jo) portant réglementation du congé annuel payé des salariés, telle qu’elle a été modifiée par la suite;
 
-   [loi du 22 avril 1966](https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/jo) portant réglementation du congé annuel payé des salariés, telle qu’elle a été modifiée par la suite;
-5. la
+5\. la [loi du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie, telle qu’elle a été modifiée par la suite;
 
-   [loi du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie, telle qu’elle a été modifiée par la suite;
-6. les articles 24 à 30, ainsi que les articles 34 et 34-1 de la
+6\. les articles 24 à 30, ainsi que les articles 34 et 34-1 de la [loi modifiée du 28 mars 1972](https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/jo) concernant:
 
-   [loi modifiée du 28 mars 1972](https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/jo) concernant:
+1\. l’entrée et le séjour des étrangers;
 
-   1. l’entrée et le séjour des étrangers;
-   2. le contrôle médical des étrangers;
-   3. l’emploi de la main-d’œuvre étrangère, tels qu’ils ont été modifiés par la suite;
-7. la
+2\. le contrôle médical des étrangers;
 
-   [loi du 12 mars 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/03/12/n1/jo) portant réforme du salaire social minimum, telle qu’elle a été modifiée par la suite;
-8. les articles 1
+3\. l’emploi de la main-d’œuvre étrangère, tels qu’ils ont été modifiés par la suite;
 
-   <sup>er</sup> à 3, ainsi que les articles 13 à 31 de la [loi du 4 avril 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/04/04/n2/jo) portant réorganisation de l’Inspection du travail et des mines, tels qu’ils ont été modifiés par la suite;
-9. la
+7\. la [loi du 12 mars 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/03/12/n1/jo) portant réforme du salaire social minimum, telle qu’elle a été modifiée par la suite;
 
-   [loi du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n1/jo) instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes, telle qu’elle a été modifiée par la suite;
-10. la
+8\. les articles 1 <sup>er</sup> à 3, ainsi que les articles 13 à 31 de la [loi du 4 avril 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/04/04/n2/jo) portant réorganisation de l’Inspection du travail et des mines, tels qu’ils ont été modifiés par la suite;
 
-   [loi du 27 mai 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/05/27/n3/jo) portant généralisation de l’échelle mobile des salaires et traitements, telle qu’elle a été modifiée par la suite;
-11. la
+9\. la [loi du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n1/jo) instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes, telle qu’elle a été modifiée par la suite;
 
-   [loi du 26 juillet 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n3/jo) autorisant le Gouvernement à prendre des mesures destinées à prévenir des licenciements pour des causes conjoncturelles et à assurer le maintien de l’emploi, telle qu’elle a été modifiée par la suite;
-12. les articles 1
+10\. la [loi du 27 mai 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/05/27/n3/jo) portant généralisation de l’échelle mobile des salaires et traitements, telle qu’elle a été modifiée par la suite;
 
-   <sup>er</sup> à 10, 12 à 32 et 41 de la [loi modifiée du 21 février 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/02/21/n1/jo) concernant l’organisation et le fonctionnement de «l’Agence pour le développement de l’emploi» et portant création d’un «Comité permanent du Travail et de l’Emploi» , tels qu’ils ont été modifiés par la suite;
-13. la
+11\. la [loi du 26 juillet 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n3/jo) autorisant le Gouvernement à prendre des mesures destinées à prévenir des licenciements pour des causes conjoncturelles et à assurer le maintien de l’emploi, telle qu’elle a été modifiée par la suite;
 
-   [loi du 10 avril 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/04/10/n1/jo) portant réforme de la réglementation des jours fériés légaux, telle qu’elle a été modifiée par la suite;
-14. les articles 1
+12\. les articles 1 <sup>er</sup> à 10, 12 à 32 et 41 de la [loi modifiée du 21 février 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/02/21/n1/jo) concernant l’organisation et le fonctionnement de «l’Agence pour le développement de l’emploi» et portant création d’un «Comité permanent du Travail et de l’Emploi» , tels qu’ils ont été modifiés par la suite;
 
-   <sup>er</sup> et 2, paragraphes (1) et (2), alinéas 1 à 5, les articles 11 à 16, 18 à 28 et 30 à 48 de la [loi modifiée du 30 juin 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/jo) portant:
+13\. la [loi du 10 avril 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/04/10/n1/jo) portant réforme de la réglementation des jours fériés légaux, telle qu’elle a été modifiée par la suite;
 
-   1. création d’un fonds de chômage;
-   2. réglementation de l’octroi des indemnités de chômage complet, tels qu’ils ont été modifiés par la suite;
-15. la
+14\. les articles 1 <sup>er</sup> et 2, paragraphes (1) et (2), alinéas 1 à 5, les articles 11 à 16, 18 à 28 et 30 à 48 de la [loi modifiée du 30 juin 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/jo) portant:
 
-   [loi du 3 août 1977](https://legilux.public.lu/eli/etat/leg/loi/1977/08/03/n1/jo) ayant pour objet:
+1\. création d’un fonds de chômage;
 
-   1. d’interdire le travail clandestin;
-   2. de modifier l’article 26 de la
+2\. réglementation de l’octroi des indemnités de chômage complet, tels qu’ils ont été modifiés par la suite;
 
-      [loi du 2 juin 1962](https://legilux.public.lu/eli/etat/leg/loi/1962/06/02/n1/jo) déterminant les conditions d’accès et d’exercice de certaines professions ainsi que celles de la constitution et de la gestion d’entreprises, modifiée et complétée par la [loi du 26 août 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/08/26/n1/jo), telle qu’elle a été modifiée par la suite;
-16. les articles 1
+15\. la [loi du 3 août 1977](https://legilux.public.lu/eli/etat/leg/loi/1977/08/03/n1/jo) ayant pour objet:
 
-   <sup>er</sup> à 3, 6, 8, paragraphes (2) à 10, 15 à 21, 23, ainsi que l’article 24, paragraphes (1) à 3) de la [loi modifiée du 24 décembre 1977](https://legilux.public.lu/eli/etat/leg/loi/1977/12/24/n1/jo) autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi, tels qu’ils ont été modifiés par la suite;
-17. la
+I. d’interdire le travail clandestin;
 
-   [loi du 18 mai 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/05/18/n1/jo) portant réforme des délégations du personnel, telle qu’elle a été modifiée par la suite;
-18. la
+II. de modifier l’article 26 de la [loi du 2 juin 1962](https://legilux.public.lu/eli/etat/leg/loi/1962/06/02/n1/jo) déterminant les conditions d’accès et d’exercice de certaines professions ainsi que celles de la constitution et de la gestion d’entreprises, modifiée et complétée par la [loi du 26 août 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/08/26/n1/jo), telle qu’elle a été modifiée par la suite;
 
-   [loi du 8 décembre 1981](https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n1/jo) relative à l’égalité de traitement entre hommes et femmes en ce qui concerne l’accès à l’emploi, à la formation et à la promotion professionnelle et les conditions de travail, telle qu’elle a été modifiée par la suite;
-19. la
+16\. les articles 1 <sup>er</sup> à 3, 6, 8, paragraphes (2) à 10, 15 à 21, 23, ainsi que l’article 24, paragraphes (1) à 3) de la [loi modifiée du 24 décembre 1977](https://legilux.public.lu/eli/etat/leg/loi/1977/12/24/n1/jo) autorisant le gouvernement à prendre les mesures destinées à stimuler la croissance économique et à maintenir le plein emploi, tels qu’ils ont été modifiés par la suite;
 
-   [loi du 22 juillet 1982](https://legilux.public.lu/eli/etat/leg/loi/1982/07/22/n1/jo) concernant l’occupation d’élèves et d’étudiants pendant les vacances scolaires;
-20. l’article 13 paragraphe (2) de la
+17\. la [loi du 18 mai 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/05/18/n1/jo) portant réforme des délégations du personnel, telle qu’elle a été modifiée par la suite;
 
-   [loi modifiée du 9 mars 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/03/09/n1/jo) ayant pour objet:
+18\. la [loi du 8 décembre 1981](https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n1/jo) relative à l’égalité de traitement entre hommes et femmes en ce qui concerne l’accès à l’emploi, à la formation et à la promotion professionnelle et les conditions de travail, telle qu’elle a été modifiée par la suite;
 
-   1. l’organisation de la recherche et du développement technologique dans le secteur public;
-   2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public, tel qu’il a été modifié par la suite;
-21. la
+19\. la [loi du 22 juillet 1982](https://legilux.public.lu/eli/etat/leg/loi/1982/07/22/n1/jo) concernant l’occupation d’élèves et d’étudiants pendant les vacances scolaires;
 
-   [loi du 20 mai 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/05/20/n1/jo) concernant la protection des travailleurs contre les risques liés à une exposition à des agents chimiques, physiques et biologiques pendant le travail;
-22. la
+20\. l’article 13 paragraphe (2) de la [loi modifiée du 9 mars 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/03/09/n1/jo) ayant pour objet:
 
-   [loi du 1 <sup>er</sup> août 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/08/01/n2/jo) concernant le repos hebdomadaire des employés et ouvriers, telle qu’elle a été modifiée par la suite;
-23. la
+1\. l’organisation de la recherche et du développement technologique dans le secteur public;
 
-   [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail, telle qu’elle a été modifiée par la suite;
-24. les articles 46 à 51 de la
+2\. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public, tel qu’il a été modifié par la suite;
 
-   [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue, tels qu’ils ont été modifiés par la suite;
-25. la
+21\. la [loi du 20 mai 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/05/20/n1/jo) concernant la protection des travailleurs contre les risques liés à une exposition à des agents chimiques, physiques et biologiques pendant le travail;
 
-   [loi du 24 décembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/12/24/n1/jo) sur la préretraite, telle qu’elle a été modifiée par la suite;
-26. l’article 17 de la
+22\. la [loi du 1 <sup>er</sup> août 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/08/01/n2/jo) concernant le repos hebdomadaire des employés et ouvriers, telle qu’elle a été modifiée par la suite;
 
-   [loi modifiée du 5 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/05/n1/jo) portant:
+23\. la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail, telle qu’elle a été modifiée par la suite;
 
-   1. fixation des modalités d’une formation préparant transitoirement à la fonction d’instituteur;
-   2. fixation des modalités d’une formation préparant transitoirement au certificat de qualification de chargé de direction;
-   3. création d’un pool de remplaçants pour l’éducation préscolaire et l’enseignement primaire;
-   4. dérogation à la
+24\. les articles 46 à 51 de la [loi modifiée du 4 septembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/jo) portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue, tels qu’ils ont été modifiés par la suite;
 
-      [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
-27. la
+25\. la [loi du 24 décembre 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/12/24/n1/jo) sur la préretraite, telle qu’elle a été modifiée par la suite;
 
-   [loi du 26 février 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/02/26/n4/jo) concernant le travail volontaire à temps partiel, telle qu’elle a été modifiée par la suite;
-28. les articles 1
+26\. l’article 17 de la [loi modifiée du 5 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/05/n1/jo) portant:
 
-   <sup>er</sup> à 4 et 6 à 10, ainsi que les articles 12 et 13 de la [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi, tels qu’ils ont été modifiés par la suite;
-29. l’article 16, paragraphe (3) de la
+a) fixation des modalités d’une formation préparant transitoirement à la fonction d’instituteur;
 
-   [loi modifiée du 27 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/jo) ayant pour objet:
+b) fixation des modalités d’une formation préparant transitoirement au certificat de qualification de chargé de direction;
 
-   1. le développement et la diversification économiques;
-   2. l’amélioration de la structure générale et de l’équilibre régional de l’économie, tel qu’il a été modifié par la suite;
-30. la
+c) création d’un pool de remplaçants pour l’éducation préscolaire et l’enseignement primaire;
 
-   [loi du 19 mai 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/05/19/n1/jo) portant réglementation du travail intérimaire et du prêt temporaire de main-d’œuvre, telle qu’elle a été modifiée par la suite;
-31. les articles 1
+d) dérogation à la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
 
-   <sup>er</sup> à 6 et 9 à 25 de la [loi modifiée du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/jo) concernant les services de santé au travail, tels qu’ils ont été modifiés par la suite;
-32. la
+27\. la [loi du 26 février 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/02/26/n4/jo) concernant le travail volontaire à temps partiel, telle qu’elle a été modifiée par la suite;
 
-   [loi du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n3/jo) concernant la sécurité et la santé des travailleurs, telle qu’elle a été modifiée par la suite;
-33. la
+28\. les articles 1 <sup>er</sup> à 4 et 6 à 10, ainsi que les articles 12 et 13 de la [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi, tels qu’ils ont été modifiés par la suite;
 
-   [loi modifiée du 25 avril 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/04/25/n1/jo) ayant trait à l’octroi d’une indemnité compensatoire de salaire en cas de chômage involontaire dû aux intempéries et en cas de chômage accidentel ou technique involontaire, telle qu’elle a été modifiée par la suite;
-34. la
+29\. l’article 16, paragraphe (3) de la [loi modifiée du 27 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/jo) ayant pour objet:
 
-   [loi modifiée du 15 mai 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/05/15/n1/jo) portant:
+1\. le développement et la diversification économiques;
 
-   1. modification de la
+2\. l’amélioration de la structure générale et de l’équilibre régional de l’économie, tel qu’il a été modifié par la suite;
 
-      [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
-   2. modification de la
+30\. la [loi du 19 mai 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/05/19/n1/jo) portant réglementation du travail intérimaire et du prêt temporaire de main-d’œuvre, telle qu’elle a été modifiée par la suite;
 
-      [loi du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
-35. les articles III et VIII de la
+31\. les articles 1 <sup>er</sup> à 6 et 9 à 25 de la [loi modifiée du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/jo) concernant les services de santé au travail, tels qu’ils ont été modifiés par la suite;
 
-   [loi modifiée du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle, tels qu’ils ont été modifiés par la suite;
-36. l’article 14 de la
+32\. la [loi du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n3/jo) concernant la sécurité et la santé des travailleurs, telle qu’elle a été modifiée par la suite;
 
-   [loi modifiée du 28 avril 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/04/28/n2/jo) portant:
+33\. la [loi modifiée du 25 avril 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/04/25/n1/jo) ayant trait à l’octroi d’une indemnité compensatoire de salaire en cas de chômage involontaire dû aux intempéries et en cas de chômage accidentel ou technique involontaire, telle qu’elle a été modifiée par la suite;
 
-   1. harmonisation de l’enseignement musical dans le secteur communal;
-   2. modification de l’article 5 de la
+34\. la [loi modifiée du 15 mai 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/05/15/n1/jo) portant:
 
-      [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
-   3. modification de la
+1\) modification de la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
 
-      [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat;
-37. l’article 7 de la
+2\) modification de la [loi du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
 
-   [loi modifiée du 10 juillet 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/jo) portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
-38. les articles I, IIbis, XXIV et XXVII de la
+35\. les articles III et VIII de la [loi modifiée du 31 juillet 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/07/31/n1/jo) relative à l’emploi et à la formation professionnelle, tels qu’ils ont été modifiés par la suite;
 
-   [loi modifiée du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n1/jo) concernant la mise en œuvre du plan d’action national en faveur de l’emploi 1998, tels qu’ils ont été modifiés par la suite;
-39. la
+36\. l’article 14 de la [loi modifiée du 28 avril 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/04/28/n2/jo) portant:
 
-   [loi du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n2/jo) portant diverses mesures en faveur de l’emploi des jeunes, telle qu’elle a été modifiée par la suite;
-40. les articles 1
+a) harmonisation de l’enseignement musical dans le secteur communal;
 
-   <sup>er</sup> et 2, paragraphes (1) et (3), ainsi que les articles 3 à 13 de la [loi modifiée du 22 juin 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/jo) ayant pour objet:
+b) modification de l’article 5 de la [loi du 24 mai 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo) sur le contrat de travail;
 
-   1. le soutien et le développement de la formation professionnelle continue;
-   2. la modification de la
+c) modification de la [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat;
 
-      [loi modifiée du 28 décembre 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/12/28/n2/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, tels qu’ils ont été modifiés par la suite;
-41. la
+37\. l’article 7 de la [loi modifiée du 10 juillet 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/jo) portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d’une part, et l’Archevêché, d’autre part, concernant l’organisation de l’enseignement religieux dans l’enseignement primaire;
 
-   [loi du 26 mai 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/05/26/n1/jo) concernant la protection contre le harcèlement sexuel à l’occasion des relations de travail et portant modification de différentes autres lois;
-42. la
+38\. les articles I, IIbis, XXIV et XXVII de la [loi modifiée du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n1/jo) concernant la mise en œuvre du plan d’action national en faveur de l’emploi 1998, tels qu’ils ont été modifiés par la suite;
 
-   [loi du 28 juillet 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n8/jo) concernant l’institution d’un comité d’entreprise européen ou d’une procédure dans les entreprises de dimension communautaire et les groupes d’entreprises de dimension communautaire en vue d’informer et de consulter les travailleurs;
-43. la
+39\. la [loi du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n2/jo) portant diverses mesures en faveur de l’emploi des jeunes, telle qu’elle a été modifiée par la suite;
 
-   [loi du 23 mars 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/03/23/n2/jo) concernant la protection des jeunes travailleurs;
-44. la
+40\. les articles 1 <sup>er</sup> et 2, paragraphes (1) et (3), ainsi que les articles 3 à 13 de la [loi modifiée du 22 juin 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/jo) ayant pour objet:
 
-   [loi du 28 juin 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/06/28/n1/jo) relative à la charge de la preuve dans les cas de discrimination fondée sur le sexe;
-45. la
+1\. le soutien et le développement de la formation professionnelle continue;
 
-   [loi du 1 <sup>er</sup> août 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n6/jo) concernant la protection des travailleuses enceintes, accouchées et allaitantes;
-46. la
+2\. la modification de la [loi modifiée du 28 décembre 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/12/28/n2/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, tels qu’ils ont été modifiés par la suite;
 
-   [loi du 25 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/25/n1/jo) concernant l’incapacité de travail et la réinsertion professionnelle telle qu’elle a été modifiée par la suite;
-47. l’article 11 de la
+41\. la [loi du 26 mai 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/05/26/n1/jo) concernant la protection contre le harcèlement sexuel à l’occasion des relations de travail et portant modification de différentes autres lois;
 
-   [loi du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel;
-48. la
+42\. la [loi du 28 juillet 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n8/jo) concernant l’institution d’un comité d’entreprise européen ou d’une procédure dans les entreprises de dimension communautaire et les groupes d’entreprises de dimension communautaire en vue d’informer et de consulter les travailleurs;
 
-   [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n11/jo) portant:
+43\. la [loi du 23 mars 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/03/23/n2/jo) concernant la protection des jeunes travailleurs;
 
-   1. réglementation de la durée de travail des ouvriers, apprentis et stagiaires occupés dans l’hôtellerie et la restauration;
-   2. modification:
+44\. la [loi du 28 juin 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/06/28/n1/jo) relative à la charge de la preuve dans les cas de discrimination fondée sur le sexe;
 
-      1. de l’article 6 de la
+45\. la [loi du 1 <sup>er</sup> août 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n6/jo) concernant la protection des travailleuses enceintes, accouchées et allaitantes;
 
-         [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant réglementation du louage de service des employés privés,
-      2. de l’article 5bis de la
+46\. la [loi du 25 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/25/n1/jo) concernant l’incapacité de travail et la réinsertion professionnelle telle qu’elle a été modifiée par la suite;
 
-         [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie et
-      3. de l’article 1
+47\. l’article 11 de la [loi du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel;
 
-         <sup>er</sup> de la [loi modifiée du 26 février 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/02/26/n4/jo) concernant le travail volontaire à temps partiel;
-49. la
+48\. la [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n11/jo) portant:
 
-   [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n9/jo) portant:
+1\. réglementation de la durée de travail des ouvriers, apprentis et stagiaires occupés dans l’hôtellerie et la restauration;
 
-   1. transposition de la
+2\. modification:
 
-      [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement des travailleurs effectué dans le cadre d’une prestation de services;
-   2. réglementation du contrôle de l’application du droit du travail;
-50. la
+a) de l’article 6 de la [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant réglementation du louage de service des employés privés,
 
-   [loi du 19 décembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n1/jo) portant réglementation du maintien des droits des travailleurs en cas de transfert d’entreprise, d’établissement et de partie d’entreprise ou d’établissement;
-51. la
+b) de l’article 5bis de la [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie et
 
-   [loi du 30 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/30/n1/jo) concernant les relations collectives de travail, le règlement des conflits collectifs de travail ainsi que l’Office national de conciliation et modifiant:
+c) de l’article 1 <sup>er</sup> de la [loi modifiée du 26 février 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/02/26/n4/jo) concernant le travail volontaire à temps partiel;
 
-   1. la
+49\. la [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n9/jo) portant:
 
-      [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant réglementation du louage de service des employés privés;
-   2. la
+1\. transposition de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement des travailleurs effectué dans le cadre d’une prestation de services;
 
-      [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie;
-   3. la
+2\. réglementation du contrôle de l’application du droit du travail;
 
-      [loi modifiée du 16 avril 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/jo) fixant le statut général des fonctionnaires de l’Etat;
-   4. la
+50\. la [loi du 19 décembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n1/jo) portant réglementation du maintien des droits des travailleurs en cas de transfert d’entreprise, d’établissement et de partie d’entreprise ou d’établissement;
 
-      [loi modifiée du 24 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/jo) fixant le statut général des fonctionnaires communaux;
-   5. la
+51\. la [loi du 30 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/30/n1/jo) concernant les relations collectives de travail, le règlement des conflits collectifs de travail ainsi que l’Office national de conciliation et modifiant:
 
-      [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
-52. (
+1\. la [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant réglementation du louage de service des employés privés;
 
-   [RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) la [loi du 19 mai 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n2/jo) :
+2\. la [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie;
 
-   1. transposant la
+3\. la [loi modifiée du 16 avril 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/jo) fixant le statut général des fonctionnaires de l’Etat;
 
-      [directive 2003/88/CE](https://legilux.public.lu/eli/dir_ue/2003/88/jo) du Parlement européen et du Conseil du 4 novembre 2003 concernant certains aspects de l’aménagement du temps de travail;
-   2. modifiant la
+4\. la [loi modifiée du 24 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/jo) fixant le statut général des fonctionnaires communaux;
 
-      [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant règlement légal du louage de services des employés privés;
-   3. modifiant la
+5\. la [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
 
-      [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie;
-   4. modifiant la
+52\. ([RGD 22 décembre 2006](https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n1/jo)) la [loi du 19 mai 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n2/jo) :
 
-      [loi modifiée du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/jo) concernant les services de santé au travail;
-   5. modifiant la
+1\. transposant la [directive 2003/88/CE](https://legilux.public.lu/eli/dir_ue/2003/88/jo) du Parlement européen et du Conseil du 4 novembre 2003 concernant certains aspects de l’aménagement du temps de travail;
 
-      [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n9/jo) portant:
+2\. modifiant la [loi modifiée du 7 juin 1937](https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/jo) ayant pour objet la réforme de la [loi du 31 octobre 1919](https://legilux.public.lu/eli/etat/leg/loi/1919/10/31/n2/jo) portant règlement légal du louage de services des employés privés;
 
-      1. transposition de la
+3\. modifiant la [loi modifiée du 9 décembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/12/09/n1/jo) portant réduction et réglementation de la durée de travail des ouvriers occupés dans les secteurs public et privé de l’économie;
 
-         [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services;
-      2. réglementation du contrôle de l’application du droit du travail, à l’exception du point 7° de l’article 3;
-53. les articles 1 et 3 de la
+4\. modifiant la [loi modifiée du 17 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/jo) concernant les services de santé au travail;
 
-   [loi du 31 juillet 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/07/31/n1/jo) modifiant:
+5\. modifiant la [loi du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n9/jo) portant:
 
-   1. la
+1\. transposition de la [directive 96/71/CE](https://legilux.public.lu/eli/dir_ue/1996/71/jo) du Parlement européen et du Conseil du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d’une prestation de services;
 
-      [loi modifiée du 30 juin 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/jo) portant:
+2\. réglementation du contrôle de l’application du droit du travail, à l’exception du point 7° de l’article 3;
 
-      1. création d’un fonds pour l’emploi;
-      2. réglementation de l’octroi des indemnités de chômage complet;
-   2. la
+53\. les articles 1 et 3 de la [loi du 31 juillet 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/07/31/n1/jo) modifiant:
 
-      [loi modifiée du 24 décembre 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/12/24/n1/jo) portant introduction d’une bonification d’impôt sur le revenu en cas d’embauchage de chômeurs;
-   3. la
+1\. la [loi modifiée du 30 juin 1976](https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/jo) portant:
 
-      [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
-54. l’article 16 de la
+1\. création d’un fonds pour l’emploi;
 
-   [loi du 11 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/jo) relative à la lutte antitabac;
-55. la
+2\. réglementation de l’octroi des indemnités de chômage complet;
 
-   [loi du 25 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/25/n3/jo) :
+2\. la [loi modifiée du 24 décembre 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/12/24/n1/jo) portant introduction d’une bonification d’impôt sur le revenu en cas d’embauchage de chômeurs;
 
-   1. complétant le statut de la société européenne (SE) pour ce qui concerne l’implication des travailleurs et
-   2. modifiant la
+3\. la [loi modifiée du 23 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/23/n1/jo) portant diverses mesures en faveur de l’emploi;
 
-      [loi modifiée du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n1/jo) instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes.
+54\. l’article 16 de la [loi du 11 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/jo) relative à la lutte antitabac;
+
+55\. la [loi du 25 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/25/n3/jo) :
+
+1\. complétant le statut de la société européenne (SE) pour ce qui concerne l’implication des travailleurs et
+
+2\. modifiant la [loi modifiée du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n1/jo) instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes.
 
 ## Art. 3.
 
@@ -15537,45 +16553,31 @@ Les références à des dispositions abrogées par la présente loi sont remplac
 
 Sont modifiées de plein droit par l’effet de leur modification subséquente, les dispositions du présent Code qui citent en les reproduisant des articles ou parties d’articles des lois suivantes:
 
-1. la
+a) la [loi modifiée du 11 novembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/jo) sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes;
 
-   [loi modifiée du 11 novembre 1970](https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/jo) sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes;
-2. la
+b) la [loi modifiée du 4 octobre 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/jo) concernant l’institution d’un congé-éducation;
 
-   [loi modifiée du 4 octobre 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/jo) concernant l’institution d’un congé-éducation;
-3. (
+c) ([L. 21 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/21/a467/jo)) la [loi modifiée du 3 août 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/jo) concernant le sport ;
 
-   [L. 21 juillet 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/07/21/a467/jo)) la [loi modifiée du 3 août 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/jo) concernant le sport ;
-4. la
+d) la [loi modifiée du 14 mars 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/03/14/n1/jo) portant création d’un congé d’accueil pour les salariés du secteur privé;
 
-   [loi modifiée du 14 mars 1988](https://legilux.public.lu/eli/etat/leg/loi/1988/03/14/n1/jo) portant création d’un congé d’accueil pour les salariés du secteur privé;
-5. la
+e) la [loi du 27 mars 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo) portant organisation de la sécurité civile
 
-   [loi du 27 mars 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/jo) portant organisation de la sécurité civile
-6. (...)
+f) (...) *(abrogé par la [loi du 19 décembre 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n13/jo))*
 
-   \*(abrogé par la [loi du 19 décembre 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n13/jo))*
-7. la
+g) la [loi modifiée du 6 janvier 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/jo) sur la coopération au développement;
 
-   [loi modifiée du 6 janvier 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/jo) sur la coopération au développement;
-8. (...)
+h) (...) *(abrogé par la [loi du 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo))*
 
-   \*(abrogé par la [loi du 15 décembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1082/jo))*
-9. la
+i) la [loi modifiée du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n3/jo) portant création d’un congé parental et d’un congé pour raisons familiales
 
-   [loi modifiée du 12 février 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/02/12/n3/jo) portant création d’un congé parental et d’un congé pour raisons familiales
-10. (
+j) ([L. 16 décembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n11/jo)) la [loi modifiée du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées
 
-   [L. 16 décembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n11/jo)) la [loi modifiée du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées
-11. (
+k) ([L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo)) (...) *(supprimé par la [loi du 12 juillet 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/07/12/a497/jo))* .
 
-   [L. 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n19/jo)) (...) *(supprimé par la [loi du 12 juillet 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/07/12/a497/jo))* .
-12. (
+l) ([L. 1 <sup>er</sup> août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/jo)) la [loi modifiée du 6 février 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/jo) portant organisation de l’enseignement fondamental ;
 
-   [L. 1 <sup>er</sup> août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/jo)) la [loi modifiée du 6 février 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/jo) portant organisation de l’enseignement fondamental ;
-13. la
-
-   [loi du 1 <sup>er</sup> août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/jo) portant création d’une représentation nationale des parents.
+m) la [loi du 1 <sup>er</sup> août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/jo) portant création d’une représentation nationale des parents.
 
 ## Art. 5.
 
@@ -15597,24 +16599,33 @@ La formation comprend les deux unités suivantes :
 
 \*Unité 1 : Législations nationale et internationale*
 
-1. Introduction au droit du travail
-2. Introduction à la législation sur l’assurance dépendance
-3. Législations luxembourgeoises sur les droits des personnes handicapées
-4. Convention de l’ONU relative aux droits des personnes handicapées
-5. Législation sur l’emploi de salariés incapables d’exercer leur dernier poste de travail
+1\. Introduction au droit du travail
+
+2\. Introduction à la législation sur l’assurance dépendance
+
+3\. Législations luxembourgeoises sur les droits des personnes handicapées
+
+4\. Convention de l’ONU relative aux droits des personnes handicapées
+
+5\. Législation sur l’emploi de salariés incapables d’exercer leur dernier poste de travail
 
 \*Unité 2 : Connaissances générales sur le handicap*
 
-1. Les différents types de handicap selon la classification internationale du fonctionnement, du handicap et de la santé de l’OMS
-2. Les différents services et organismes oeuvrant dans le domaine du handicap
-3. Les principes de la bientraitance des personnes handicapées
+1\. Les différents types de handicap selon la classification internationale du fonctionnement, du handicap et de la santé de l’OMS
+
+2\. Les différents services et organismes oeuvrant dans le domaine du handicap
+
+3\. Les principes de la bientraitance des personnes handicapées
 
 \**B. *Contenu de la formation continue requise au sens de l’article L. 553-3, paragraphe 1 <sup>er</sup> , point 3 :***
 
-1. Actualités nationales et internationales en matière de droit du travail
-2. Modalités pratiques d’application des textes
-3. Principes de bientraitance
-4. Échanges de bonnes pratiques
+1\. Actualités nationales et internationales en matière de droit du travail
+
+2\. Modalités pratiques d’application des textes
+
+3\. Principes de bientraitance
+
+4\. Échanges de bonnes pratiques
 
 ---
 
@@ -15628,9 +16639,9 @@ La formation comprend les deux unités suivantes :
 [^note_1_5_0]: Il faut lire article L. 211-16.
 [^note_1_7_0]: Il faut lire L. 211-29.
 [^note_1_10_0]: L’article 50 de la loi du 28 juillet 2018 dispose que «Toute référence au «Service national d’action sociale» s’entend comme référence à l’«Office national d’inclusion sociale».».
-[^note_1_11_1]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) peut également prétendre au congé pour raisons familiales le salarié ou le travailleur indépendant ayant à charge : 1. un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ; 2. un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3. un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 4. un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. En cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire. La limite d’âge de moins de treize ans accomplis ne s’applique pas aux enfants qui bénéficient de l’allocation spéciale supplémentaire au sens de l’article 274 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale). Les salariés en situation effective de chômage partiel prévu aux articles L. 511-1 à L. 511-15 et L. 512-7 à L. 512-10 ne sont pas éligibles à cette dérogation. Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
-[^note_1_11_2]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) la durée du congé pour raisons familiales peut également être prorogée pour le salarié ou le travailleur indépendant ayant à charge : 1. un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ; 2. un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3. un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 4. un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. En cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire. La limite d’âge de moins de treize ans accomplis ne s’applique pas aux enfants qui bénéficient de l’allocation spéciale supplémentaire au sens de l’article 274 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale). Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
-[^note_1_11_3]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) L’absence du salarié bénéficiaire d’un congé pour raisons familiales pris par dérogation à l’article L. 234-51, alinéa 1 <sup>er</sup> , est justifiée par un certificat médical pour le salarié ou le travailleur indépendant ayant à charge un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental, et par un certificat émanant du Ministère de l’éducation nationale, de l’enfance et de la jeunesse ou de l’autorité publique compétente, ou bien par un document officiel émanant de l’autorité compétente du pays concerné pour le salarié ou le travailleur indépendant ayant à charge : 1. un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 2. un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3. un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. Dans tous ces cas le bénéficiaire du congé pour raisons familiales est considéré comme couvert par un certificat médical tel que prévu à l’article L. 121-6, paragraphe 2, du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) à l’égard de l’employeur et de la Caisse nationale de santé. Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
+[^note_1_11_1]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) peut également prétendre au congé pour raisons familiales le salarié ou le travailleur indépendant ayant à charge : 1° un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ; 2° un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3° un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 4° un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. En cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire. La limite d’âge de moins de treize ans accomplis ne s’applique pas aux enfants qui bénéficient de l’allocation spéciale supplémentaire au sens de l’article 274 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale). Les salariés en situation effective de chômage partiel prévu aux articles L. 511-1 à L. 511-15 et L. 512-7 à L. 512-10 ne sont pas éligibles à cette dérogation. Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
+[^note_1_11_2]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) la durée du congé pour raisons familiales peut également être prorogée pour le salarié ou le travailleur indépendant ayant à charge : 1° un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ; 2° un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3° un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 4° un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. En cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire. La limite d’âge de moins de treize ans accomplis ne s’applique pas aux enfants qui bénéficient de l’allocation spéciale supplémentaire au sens de l’article 274 du [Code de la sécurité sociale](https://legilux.public.lu/eli/etat/leg/code/securite_sociale). Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
+[^note_1_11_3]: ([L. 22 janvier 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/jo)) L’absence du salarié bénéficiaire d’un congé pour raisons familiales pris par dérogation à l’article L. 234-51, alinéa 1 <sup>er</sup> , est justifiée par un certificat médical pour le salarié ou le travailleur indépendant ayant à charge un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental, et par un certificat émanant du Ministère de l’éducation nationale, de l’enfance et de la jeunesse ou de l’autorité publique compétente, ou bien par un document officiel émanant de l’autorité compétente du pays concerné pour le salarié ou le travailleur indépendant ayant à charge : 1° un enfant né avant le 1 <sup>er</sup> septembre 2017 et âgé de moins de treize ans accomplis ou n’ayant pas quitté l’enseignement fondamental, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des écoles, avec ou sans enseignement à distance, ou des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des enfants scolarisés, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 2° un enfant né à partir du 1 <sup>er</sup> septembre 2016, pendant la période pour laquelle, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, le ministre ayant l’Éducation nationale, l’Enfance et la Jeunesse dans ses attributions a décidé une fermeture partielle ou totale des structures d’accueil pour enfants définies au point 1°, sous réserve qu’elles accueillent des jeunes enfants, et à condition de produire un certificat attestant la situation donnée émis par le Ministère de l’éducation nationale, de l’enfance et de la jeunesse ; 3° un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente. Dans tous ces cas le bénéficiaire du congé pour raisons familiales est considéré comme couvert par un certificat médical tel que prévu à l’article L. 121-6, paragraphe 2, du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) à l’égard de l’employeur et de la Caisse nationale de santé. Dérogation temporaire du 21 janvier 2021 jusqu’au 2 avril 2021 inclus.
 [^note_1_16_1]: Il faut lire L. 261-1.
 [^note_7_0_0]: Entrée en vigueur le 04/07/2026 conformément à l' [article 5 de la loi du 28 juin 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a344/art_5).
 [^3]: Nouvelle numérotation introduite suite à l’abrogation de l’ancien paragraphe (2).

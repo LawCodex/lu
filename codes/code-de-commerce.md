@@ -81,13 +81,11 @@ Abrogé ([L. 21 février 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/0
 
 Pour l'application du présent titre, il faut entendre par «entreprises»
 
-1. les commerçants personnes physiques;
-2. (
+1° les commerçants personnes physiques;
 
-   [L. 30 juillet 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/07/30/n6/jo)) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
-3. (
+2° ([L. 30 juillet 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/07/30/n6/jo)) les sociétés commerciales dotées de la personnalité juridique, les groupements européens d’intérêt économique et les groupements d’intérêt économique ;
 
-   [L. 12 juillet 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/jo)) les sociétés en commandite spéciale.
+3° ([L. 12 juillet 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/jo)) les sociétés en commandite spéciale.
 
 Les personnes physiques qui n'ont pas leur domicile au Luxembourg, les entreprises de droit étranger visées au point 2° de l’alinéa 1er ainsi que les groupements européens d'intérêt économique ayant leur siège à l'étranger, ne sont soumis aux dispositions du présent chapitre qu'en ce qui concerne les succursales et sièges d'opérations qu'ils ont établis au Luxembourg. L'ensemble de leurs succursales et sièges d'opérations dans le pays est considéré comme une entreprise. Les livres, comptes et pièces justificatives relatifs à ces sièges et succursales sont conservés au Luxembourg.
 
@@ -261,19 +259,23 @@ La lettre de voiture doit être datée.
 
 Elle doit exprimer:
 
-- la nature et le poids ou la contenance des objets à transporter;
-- le délai dans lequel le transport doit être effectué.
+aash la nature et le poids ou la contenance des objets à transporter;
+
+bash le délai dans lequel le transport doit être effectué.
 
 Elle indique:
 
-- le nom et le domicile du commissionnaire par l'entremise duquel le transport s'opère, s'il y en a un;
-- le nom de celui à qui la marchandise est adressée;
-- le nom et le domicile du voiturier.
+aash le nom et le domicile du commissionnaire par l'entremise duquel le transport s'opère, s'il y en a un;
+
+bash le nom de celui à qui la marchandise est adressée;
+
+cash le nom et le domicile du voiturier.
 
 Elle énonce:
 
-- le prix de la voiture
-- l'indemnité due pour cause de retard.
+aash le prix de la voiture
+
+bash l'indemnité due pour cause de retard.
 
 Elle est signée par l'expéditeur ou le commissionnaire.
 
@@ -325,13 +327,19 @@ Le délai pour intenter chaque action récursoire est d'un mois du jour de l'exe
 
 Les achats et ventes se constatent
 
-- par actes publics,
-- par actes sous signature privée,
-- par le bordereau ou arrêté d'un agent de change ou courtier, dûment signé par les parties,
-- par une facture acceptée,
-- par la correspondance,
-- par les livres des parties,
-- par la preuve testimoniale, dans le cas où le tribunal croira devoir l'admettre.
+aash par actes publics,
+
+bash par actes sous signature privée,
+
+cash par le bordereau ou arrêté d'un agent de change ou courtier, dûment signé par les parties,
+
+dash par une facture acceptée,
+
+eash par la correspondance,
+
+fash par les livres des parties,
+
+gash par la preuve testimoniale, dans le cas où le tribunal croira devoir l'admettre.
 
 ### TITRE VIII — Du gage commercial (L. 21 décembre 1994)
 
@@ -439,7 +447,7 @@ La faillite est qualifiée banqueroute simple ou de banqueroute frauduleuse puni
 
 Abrogé ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/jo))
 
-#### Art. 439-1. [^note_0_0_0] — ([L. 17 juillet 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/07/17/a386/jo))
+#### Art. 439-1.[^note_0_0_0] — ([L. 17 juillet 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/07/17/a386/jo))
 
 L’enrôlement des assignations et actes d’appel, ainsi que le dépôt des requêtes, tels que visés au présent livre, peuvent se faire par courrier électronique.
 
@@ -467,10 +475,9 @@ Pour toutes sociétés, la déclaration doit indiquer les noms des administrateu
 
 Le failli joindra à son aveu:
 
-1. le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
-2. (
+1° le bilan de ses affaires ou une note indiquant les motifs qui l'empêcheraient de le déposer;
 
-   [L. 19 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/19/n1/jo)) les livres prescrits par les [articles 9 à 11 du Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce/art_9_10_11) ; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
+2° ([L. 19 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/19/n1/jo)) les livres prescrits par les [articles 9 à 11 du Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce/art_9_10_11) ; ces registres seront arrêtés par le greffier, qui constatera l'état où ils se trouvent.
 
 Le bilan contiendra l'énumération et l'évaluation de tous les biens mobiliers et immobiliers du débiteur, l'état des dettes actives et passives, le tableau des profits et des pertes, le tableau des dépenses; il devra être certifié véritable, daté et signé par le débiteur.
 
@@ -516,9 +523,11 @@ Tous paiements, opérations et actes faits par le failli, et tous paiements fait
 
 (5) L'interdiction cesse dans tous les cas si:
 
-- le jugement déclaratif de faillite est rapporté,
-- le failli obtient l'homologation du concordat,
-- le failli obtient sa réhabilitation.
+aash le jugement déclaratif de faillite est rapporté,
+
+bash le failli obtient l'homologation du concordat,
+
+cash le failli obtient sa réhabilitation.
 
 (6) L'interdiction prononcée par le tribunal est mentionnée au registre de commerce et des sociétés. Cette inscription est radiée lorsque l'interdiction a cessé ses effets.
 
@@ -526,9 +535,11 @@ Tous paiements, opérations et actes faits par le failli, et tous paiements fait
 
 Sont nuls et sans effet, relativement à la masse, lorsqu’ils auront été faits par le débiteur depuis l’époque déterminée par le tribunal comme étant celle de la cessation de ses paiements ou dans les dix jours qui auront précédé cette époque :
 
-1. Tous actes translatifs de propriété mobilière ou immobilière à titre gratuit, ainsi que les actes, opérations ou contrats commutatifs ou à titre onéreux, si la valeur de ce qui a été donné par le failli dépasse notablement celle de ce qu’il a reçu en retour ;
-2. Tous paiements, soit en espèces, soit par transport, vente, compensation ou autrement pour dettes non échues et pour dettes échues, tous paiements faits autrement qu’en espèces ou effets de commerce ;
-3. Toute hypothèque conventionnelle ou judiciaire et tous droits d’antichrèse ou de gage constitués sur les biens du débiteur pour dettes antérieurement contractées.
+1° Tous actes translatifs de propriété mobilière ou immobilière à titre gratuit, ainsi que les actes, opérations ou contrats commutatifs ou à titre onéreux, si la valeur de ce qui a été donné par le failli dépasse notablement celle de ce qu’il a reçu en retour ;
+
+2° Tous paiements, soit en espèces, soit par transport, vente, compensation ou autrement pour dettes non échues et pour dettes échues, tous paiements faits autrement qu’en espèces ou effets de commerce ;
+
+3° Toute hypothèque conventionnelle ou judiciaire et tous droits d’antichrèse ou de gage constitués sur les biens du débiteur pour dettes antérieurement contractées.
 
 ##### Art. 446.
 
@@ -644,10 +655,13 @@ Tout jugement rendu en matière de faillite est exécutoire par provision; le d�
 
 Ne seront susceptibles d’opposition, ni d’appel, ni de requête civile :
 
-1. les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs ;
-2. les jugements qui statuent sur les demandes de secours pour le failli et sa famille ;
-3. les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l’article 453, paragraphe 3, la remise de la vente d’objets saisis ;
-4. les jugements statuant sur les recours formés contre les ordonnances du juge-commissaire rendues dans les limites de ses attributions.
+1° les jugements relatifs à la nomination ou au remplacement du juge-commissaire, à la nomination ou à la révocation des curateurs ;
+
+2° les jugements qui statuent sur les demandes de secours pour le failli et sa famille ;
+
+3° les jugements qui autorisent à vendre les effets ou marchandises appartenant à la faillite, ou, conformément à l’article 453, paragraphe 3, la remise de la vente d’objets saisis ;
+
+4° les jugements statuant sur les recours formés contre les ordonnances du juge-commissaire rendues dans les limites de ses attributions.
 
 ##### Section II — Des formalités relatives à la déclaration de faillite et des premières dispositions à l'égard de la personne et des biens du failli
 
@@ -685,13 +699,15 @@ Les curateurs nommés entreront en fonctions immédiatement après le jugement d
 
 Ne seront point placés sous les scelles, ou en seront extraits et remis aux curateurs:
 
-1. (
+1° ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
 
-   [L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) les livres du failli, après avoir été arrêtés par le greffier délégué, qui constatera par son procès-verbal l'état dans lequel ils se trouvent;
-2. les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
-3. les objets sujets à dépérissement prochain ou à dépréciation imminente;
-4. les objets servant à l'exploitation du fonds de commerce dans le cas prévu par l'article 475;
-5. les objets compris dans l'état mentionné à l'article 476.
+2° les effets de portefeuille à courte échéance ou susceptibles d'acceptation, ou pour lesquels il faudra faire des actes conservatoires: le bordereau en sera remis au juge-commissaire;
+
+3° les objets sujets à dépérissement prochain ou à dépréciation imminente;
+
+4° les objets servant à l'exploitation du fonds de commerce dans le cas prévu par l'article 475;
+
+5° les objets compris dans l'état mentionné à l'article 476.
 
 ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) Les objets mentionnés au présent article seront de suite inventoriés par les curateurs en présence du greffier délégué par le juge-commissaire qui signera le procès-verbal.
 
@@ -825,9 +841,11 @@ En toute faillite, les curateurs, dans les six semaines de leur entrée en fonct
 
 ([L. 21 juillet 1992](https://legilux.public.lu/eli/etat/leg/loi/1992/07/21/n1/jo)) En cas de faillite d'une société, peut être déclaré personnellement en faillite tout dirigeant de droit ou de fait, apparent ou occulte, rémunéré ou non, qu'il s'agisse d'une personne physique ou d'une personne morale, qui a:
 
-- sous le couvert de la société masquant ses agissements, fait des actes de commerce dans un intérêt personnel ou
-- disposé des biens sociaux comme des siens propres ou
-- poursuivi abusivement, dans son intérêt personnel, une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements de la personne morale.
+aash sous le couvert de la société masquant ses agissements, fait des actes de commerce dans un intérêt personnel ou
+
+bash disposé des biens sociaux comme des siens propres ou
+
+cash poursuivi abusivement, dans son intérêt personnel, une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements de la personne morale.
 
 Le passif de la faillite du dirigeant comprend, outre le passif personnel, celui de la société.
 
@@ -911,21 +929,35 @@ Jusqu'au jugement à intervenir sur les contestations, toutes les déclarations 
 
 Il sera tenu au greffe, pour chaque faillite, un tableau divisé en colonnes et contenant, pour chaque créance déclarée, les énonciations suivantes:
 
-1. le numéro d'ordre;
-2. les nom, prénoms, profession et résidence du créancier qui aura déposé sa déclaration et ses titres;
-3. la date de ce dépôt;
-4. le montant de la créance déclarée;
-5. la désignation sommaire des biens ou objets sur lesquels on prétend qu'elle serait hypothéquée ou privilégiée;
-6. son admission au passif ou son rejet par les curateurs;
-7. la date de cette admission ou de ce rejet;
-8. les contredits;
-9. les noms des opposants;
-10. les dates des contredits;
-11. le jour auquel le procès-verbal de vérification sera clos;
-12. le jour ou s'ouvriront les débats sur les contestations;
-13. le sommaire de la décision définitive;
-14. la date de cette décision; et
-15. les autres renseignements qu'il pourra être utile de porter à la connaissance des intéressés.
+1° le numéro d'ordre;
+
+2° les nom, prénoms, profession et résidence du créancier qui aura déposé sa déclaration et ses titres;
+
+3° la date de ce dépôt;
+
+4° le montant de la créance déclarée;
+
+5° la désignation sommaire des biens ou objets sur lesquels on prétend qu'elle serait hypothéquée ou privilégiée;
+
+6° son admission au passif ou son rejet par les curateurs;
+
+7° la date de cette admission ou de ce rejet;
+
+8° les contredits;
+
+9° les noms des opposants;
+
+10° les dates des contredits;
+
+11° le jour auquel le procès-verbal de vérification sera clos;
+
+12° le jour ou s'ouvriront les débats sur les contestations;
+
+13° le sommaire de la décision définitive;
+
+14° la date de cette décision; et
+
+15° les autres renseignements qu'il pourra être utile de porter à la connaissance des intéressés.
 
 Ce tableau sera dressé par le greffier; les énonciations exigées y seront faites successivement jour par jour, et au fur et à mesure que les faits et circonstances auxquels elles se rattachent se reproduiront. Il sera, à toute réquisition, communiqué aux intéressés.
 
@@ -999,12 +1031,17 @@ L’effacement ne peut profiter au partenaire dont la déclaration de partenaria
 
 À cette fin, le demandeur mentionne dans sa requête :
 
-- son identité, sa profession et son domicile ;
-- l’identité et le domicile du titulaire de la créance dont le paiement est garanti par la sûreté ;
-- la déclaration selon laquelle, à l’ouverture de la procédure, son obligation est disproportionnée à ses revenus et à son patrimoine ;
-- le relevé de l’ensemble des éléments actifs et passifs qui composent son patrimoine ;
-- les pièces qui étayent l’engagement portant la sûreté et son importance ;
-- toute autre pièce de nature à établir avec précision l’état de ses ressources et les charges qui sont siennes.
+aash son identité, sa profession et son domicile ;
+
+bash l’identité et le domicile du titulaire de la créance dont le paiement est garanti par la sûreté ;
+
+cash la déclaration selon laquelle, à l’ouverture de la procédure, son obligation est disproportionnée à ses revenus et à son patrimoine ;
+
+dash le relevé de l’ensemble des éléments actifs et passifs qui composent son patrimoine ;
+
+eash les pièces qui étayent l’engagement portant la sûreté et son importance ;
+
+fash toute autre pièce de nature à établir avec précision l’état de ses ressources et les charges qui sont siennes.
 
 Les parties sont convoquées à bref délai par voie de greffe à comparaître à l’audience fixée par le juge. La convocation mentionne que la requête et les pièces versées peuvent être consultés au greffe. Le dépôt de la requête suspend les voies d’exécution.
 
@@ -1314,9 +1351,11 @@ Le débiteur s'adressera, par requête, simultanément au tribunal d’arrondiss
 
 Il joindra à sa requête:
 
-1. l'exposé des événements sur lesquels il fonde sa demande;
-2. l'état détaillé et estimatif de son actif et de son passif;
-3. la liste nominative de ses créanciers, avec l'indication de leur domicile et du montant de leurs créances.
+1° l'exposé des événements sur lesquels il fonde sa demande;
+
+2° l'état détaillé et estimatif de son actif et de son passif;
+
+3° la liste nominative de ses créanciers, avec l'indication de leur domicile et du montant de leurs créances.
 
 La requête adressée à la Cour supérieure de justice sera communiquée par le président au procureur général; elle devra être signée par un avoué près de cette Cour.
 
@@ -1412,10 +1451,13 @@ Toutefois, il ne pourra être pris, pendant la durée du sursis provisoire et d�
 
 Le sursis ne s'applique qu'aux engagements contractés antérieurement à son obtention. Il ne profite point aux co-débiteurs, ni aux cautions qui ont renoncé au bénéfice de discussion. Il est sans effet relativement:
 
-1. aux impôts et autres charges publiques;
-2. aux créances garanties par des privilèges, hypothèques ou nantissements;
-3. aux créances dues à titre d'aliments;
-4. aux fournitures de subsistances faites au débiteur et à sa famille, pendant les six mois qui ont précédé le sursis.
+1° aux impôts et autres charges publiques;
+
+2° aux créances garanties par des privilèges, hypothèques ou nantissements;
+
+3° aux créances dues à titre d'aliments;
+
+4° aux fournitures de subsistances faites au débiteur et à sa famille, pendant les six mois qui ont précédé le sursis.
 
 #### Art. 606.
 
@@ -1453,8 +1495,9 @@ Seront enregistrés au droit fixe de 0,07 euros les jugements portant concession
 
 Le débiteur sera puni de la même peine que le banqueroutier simple:
 
-1. si, pour déterminer ou faciliter la délivrance du sursis, il a, de quelque manière que ce soit, volontairement dissimulé une partie de son passif ou exagéré son actif;
-2. s'il a fait ou laissé intervenir aux délibérations relatives à la demande de sursis un ou plusieurs créanciers supposés, ou dont les créances à raison desquelles ils ont pris part aux délibérations, ont été exagérées.
+1° si, pour déterminer ou faciliter la délivrance du sursis, il a, de quelque manière que ce soit, volontairement dissimulé une partie de son passif ou exagéré son actif;
+
+2° s'il a fait ou laissé intervenir aux délibérations relatives à la demande de sursis un ou plusieurs créanciers supposés, ou dont les créances à raison desquelles ils ont pris part aux délibérations, ont été exagérées.
 
 #### Art. 612.
 
@@ -1488,12 +1531,13 @@ Abrogés implicitement ([L. 18 février 1885](https://legilux.public.lu/eli/etat
 
 ([L. 16 avril 1879](https://legilux.public.lu/eli/etat/leg/loi/1879/04/16/n2/jo)) Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront:
 
-1. des contestations relatives aux engagements et transactions entre négociants, marchands et banquiers;
-2. des contestations entre associés ou entre administrateurs et associés pour raison d'une société de commerce;
-3. de celles relatives aux actes de commerce entre toutes personnes;
-4. (
+1° des contestations relatives aux engagements et transactions entre négociants, marchands et banquiers;
 
-   [L. 25 mars 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/jo)) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
+2° des contestations entre associés ou entre administrateurs et associés pour raison d'une société de commerce;
+
+3° de celles relatives aux actes de commerce entre toutes personnes;
+
+4° ([L. 25 mars 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/jo)) des contestations pour raison d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique entre membres, entre gérants, entre gérants et membres, entre liquidateurs, entre liquidateurs et membres ou entre membres, gérants et liquidateurs ainsi que de toute demande en dissolution d'un groupement.
 
 #### Art. 632 et 633.
 
@@ -1503,8 +1547,9 @@ Abrogés ([L. 21 juillet 1992](https://legilux.public.lu/eli/etat/leg/loi/1992/0
 
 Les tribunaux d’arrondissement siégeant en matière commerciale connaîtront également:
 
-1. des actions contre les facteurs, commis des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés;
-2. des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics.
+1° des actions contre les facteurs, commis des marchands ou leurs serviteurs, pour le fait seulement du trafic du marchand auquel ils sont attachés;
+
+2° des billets faits par les receveurs, payeurs, percepteurs ou autres comptables des deniers publics.
 
 #### Art. 635.
 

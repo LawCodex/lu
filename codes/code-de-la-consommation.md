@@ -29,45 +29,31 @@ Les dispositions annexées à la présente loi constituent le Code de la consomm
 
 Sont abrogées:
 
-- la
+aash la [loi modifiée du 25 août 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/08/25/n2/jo) relative à la protection juridique du consommateur;
 
-  [loi modifiée du 25 août 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/08/25/n2/jo) relative à la protection juridique du consommateur;
-- la
+bash la [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes;
 
-  [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes;
-- la
+cash la [loi modifiée du 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n2/jo) réglementant le crédit à la consommation;
 
-  [loi modifiée du 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n2/jo) réglementant le crédit à la consommation;
-- la
+dash la [loi modifiée du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la [directive du 13 juin 1990](https://legilux.public.lu/eli/dir_ue/1990/314/jo) concernant les voyages, vacances et circuits à forfait;
 
-  [loi modifiée du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la [directive du 13 juin 1990](https://legilux.public.lu/eli/dir_ue/1990/314/jo) concernant les voyages, vacances et circuits à forfait;
-- la
+eash la [loi modifiée du 18 décembre 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/12/18/n2/jo) relative aux contrats portant sur l’acquisition d’un droit d’utilisation à temps partiel de biens immobiliers;
 
-  [loi modifiée du 18 décembre 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/12/18/n2/jo) relative aux contrats portant sur l’acquisition d’un droit d’utilisation à temps partiel de biens immobiliers;
-- les articles 52bis à 59 de la
+fash les articles 52bis à 59 de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique;
 
-  [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique;
-- la
+gash la [loi modifiée du 16 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n1/jo) concernant la protection des consommateurs en matière de contrats à distance;
 
-  [loi modifiée du 16 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n1/jo) concernant la protection des consommateurs en matière de contrats à distance;
-- la
+hash la [loi modifiée du 19 décembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n11/jo) fixant les conditions d’agrément des organisations habilitées à intenter des actions en cessation;
 
-  [loi modifiée du 19 décembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n11/jo) fixant les conditions d’agrément des organisations habilitées à intenter des actions en cessation;
-- la
+iash la [loi modifiée du 21 avril 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/04/21/n1/jo) relative à la garantie de conformité;
 
-  [loi modifiée du 21 avril 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/04/21/n1/jo) relative à la garantie de conformité;
-- les alinéas 6 à 10 de l’article 2 de la
+jash les alinéas 6 à 10 de l’article 2 de la [loi modifiée du 17 mai 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/05/17/n1/jo) relative à la concurrence;
 
-  [loi modifiée du 17 mai 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/05/17/n1/jo) relative à la concurrence;
-- la
+kash la [loi modifiée du 18 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/18/n2/jo) sur les services financiers à distance;
 
-  [loi modifiée du 18 décembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/12/18/n2/jo) sur les services financiers à distance;
-- la
+lash la [loi du 23 avril 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/04/23/n1/jo) relative à la recherche et à la sanction des violations des droits des consommateurs;
 
-  [loi du 23 avril 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/04/23/n1/jo) relative à la recherche et à la sanction des violations des droits des consommateurs;
-- la
-
-  [loi du 29 avril 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/04/29/n1/jo) relative aux pratiques commerciales déloyales.
+mash la [loi du 29 avril 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/04/29/n1/jo) relative aux pratiques commerciales déloyales.
 
 ##### Art. 3.
 
@@ -77,36 +63,71 @@ Les références à des dispositions abrogées par la présente loi sont remplac
 
 ##### Art. 4.
 
-(1) Les alinéas 1 à 3 de l’article 19-1 de la [loi modifiée du 11 avril 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/jo) portant réglementation de la mise sur le marché et de la publicité des médicaments sont remplacés par les alinéas suivants: Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical, du conseil d’administration de l’Union des caisses de maladie, des organisations visées par l’article L. 313-1 et suivant du Code de la consommation ou du Ministre ayant la santé dans ses attributions, peut ordonner la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée. L’action est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+(1) Les alinéas 1 à 3 de l’article 19-1 de la [loi modifiée du 11 avril 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/jo) portant réglementation de la mise sur le marché et de la publicité des médicaments sont remplacés par les alinéas suivants:
 
-(2) Les alinéas 1 à 3 de l’article 10-1 de la [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commande sont remplacés par les alinéas suivants: Le magistrat présidant la Chambre du tribunal d’arrondissement, siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire à l’article 10 de la présente loi. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement, siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée. L’action est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+> Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical, du conseil d’administration de l’Union des caisses de maladie, des organisations visées par l’article L. 313-1 et suivant du Code de la consommation ou du Ministre ayant la santé dans ses attributions, peut ordonner la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution.
+>
+> L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+>
+> L’action est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
 
-(3) Les alinéas 1 et 2 du paragraphe (5) de l’article 28 de la [loi modifiée du 27 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/jo) sur les médias électroniques sont remplacés par les alinéas suivants: Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire au présent article ou au règlement grand-ducal visé au paragraphe (4) ci-dessus. L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+(2) Les alinéas 1 à 3 de l’article 10-1 de la [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commande sont remplacés par les alinéas suivants:
 
-(4) Les alinéas 1 à 3 de l’article 71-1 de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique sont remplacés par les alinéas suivants: Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire aux articles 1 à 5, 19 à 21, 46 à 52 de la présente loi. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée. L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+> Le magistrat présidant la Chambre du tribunal d’arrondissement, siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire à l’article 10 de la présente loi.
+>
+> L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement, siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+>
+> L’action est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
 
-(5) Les alinéas 1 à 3 de l’article 23 de la [loi modifiée du 30 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n3/jo) réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la [directive 97/55/CE](https://legilux.public.lu/eli/dir_ue/1997/55/jo) du Parlement européen et du Conseil modifiant la [directive 84/450/CEE](https://legilux.public.lu/eli/dir_ue/1984/450/jo) sur la publicité trompeuse afin d’y inclure la publicité comparative sont remplacés par les alinéas suivants: Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, d’un groupement professionnel, des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner la cessation des actes contraires aux dispositions des articles 1 à 22 de la présente loi, même en l’absence de preuve d’une perte ou d’un préjudice réel ou d’une intention ou d’une négligence de la part de l’annonceur. L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée. L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+(3) Les alinéas 1 et 2 du paragraphe (5) de l’article 28 de la [loi modifiée du 27 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/jo) sur les médias électroniques sont remplacés par les alinéas suivants:
 
-(6) Les paragraphes (1) à (3) de l’article 62-11 de la [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance sont remplacés par les paragraphes suivants: (1) Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire à la présente loi. (2) L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée. (3) L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+> Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire au présent article ou au règlement grand-ducal visé au paragraphe (4) ci-dessus.
+>
+> L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+
+(4) Les alinéas 1 à 3 de l’article 71-1 de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique sont remplacés par les alinéas suivants:
+
+> Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire aux articles 1 à 5, 19 à 21, 46 à 52 de la présente loi.
+>
+> L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+>
+> L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+
+(5) Les alinéas 1 à 3 de l’article 23 de la [loi modifiée du 30 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n3/jo) réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la [directive 97/55/CE](https://legilux.public.lu/eli/dir_ue/1997/55/jo) du Parlement européen et du Conseil modifiant la [directive 84/450/CEE](https://legilux.public.lu/eli/dir_ue/1984/450/jo) sur la publicité trompeuse afin d’y inclure la publicité comparative sont remplacés par les alinéas suivants:
+
+> Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, d’un groupement professionnel, des organisations visées par l’article L. 313-1 et suivant du Code de la consommation, du Ministre ayant la protection des consommateurs dans ses attributions, de la Commission de surveillance du secteur financier ou du Commissariat aux Assurances, peut ordonner la cessation des actes contraires aux dispositions des articles 1 à 22 de la présente loi, même en l’absence de preuve d’une perte ou d’un préjudice réel ou d’une intention ou d’une négligence de la part de l’annonceur.
+>
+> L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+>
+> L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
+
+(6) Les paragraphes (1) à (3) de l’article 62-11 de la [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance sont remplacés par les paragraphes suivants:
+
+> (1) Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale, à la requête des organisations visées par l’article L. 313-1 et suivant du Code de la consommation ou du Commissariat aux Assurances, peut ordonner toute mesure destinée à faire cesser tout acte contraire à la présente loi.
+>
+> (2) L’ordonnance peut intervenir indépendamment de l’action publique. La mesure ordonnée par le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale prend toutefois fin en cas de décision d’acquittement prononcée par le juge pénal et coulée en force de chose jugée.
+>
+> (3) L’action en cessation est introduite selon la procédure applicable devant le tribunal des référés. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale statue comme juge du fond. Le délai d’appel est de quinze jours.
 
 (7) La [loi modifiée du 10 août 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/jo) sur la profession d’avocat est modifiée comme suit:
 
-1. Le 5
+1\. Le 5 <sup>ème</sup> tiret de l’article 2 (1) 2 <sup>ème</sup> alinéa est libellé comme suit:
 
-   <sup>ème</sup> tiret de l’article 2 (1) 2 <sup>ème</sup> alinéa est libellé comme suit:
+> aash du Ministre ayant la protection des consommateurs dans ses attributions, du Ministre ayant la santé dans ses attributions, de la Commission de surveillance du secteur financier et du Commissariat aux assurances de se faire représenter par un fonctionnaire ou un agent de leurs administrations, dûment mandaté, devant les juridictions statuant sur base d’une action en cessation prévue par l’article L. 313-1 et suivant du Code de la consommation.
 
-   > - du Ministre ayant la protection des consommateurs dans ses attributions, du Ministre ayant la santé dans ses attributions, de la Commission de surveillance du secteur financier et du Commissariat aux assurances de se faire représenter par un fonctionnaire ou un agent de leurs administrations, dûment mandaté, devant les juridictions statuant sur base d’une action en cessation prévue par l’article L. 313-1 et suivant du Code de la consommation.
-2. L’alinéa 1
+2\. L’alinéa 1 <sup>er</sup> de l’article 35, paragraphe (3) est libellé comme suit:
 
-   <sup>er</sup> de l’article 35, paragraphe (3) est libellé comme suit:
+> Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
 
-   > Le lieu de travail de l’avocat et le secret des communications, par quelque moyen que ce soit, entre l’avocat et son client, sont inviolables. Lorsqu’une mesure de procédure civile ou d’instruction criminelle ou d’inspection prévue par l’article L. 311-8 du Code de la consommation est effectuée auprès ou à l’égard d’un avocat dans les cas prévus par la loi, il ne peut y être procédé qu’en présence du Bâtonnier ou de son représentant, ou ceux-ci dûment appelés.
+(8) L’alinéa 1 <sup>er</sup> de l’article 10 de la [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes se lit comme suit:
 
-(8) L’alinéa 1 <sup>er</sup> de l’article 10 de la [loi modifiée du 16 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/16/n1/jo) concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes se lit comme suit: Dans les contrats conclus par démarchage à domicile, au lieu de travail ou pendant une excursion organisée par ou pour le fournisseur professionnel en dehors de ses établissements commerciaux, entre un fournisseur professionnel et un consommateur final privé, celui-ci a la faculté pendant quatorze jours calendrier de la commande ou de l’engagement, s’agissant de la fourniture de biens ou de services, et encore dans les quinze jours de la réception, s’agissant de la fourniture de biens, d’y renoncer par lettre recommandée avec accusé de réception.
+> Dans les contrats conclus par démarchage à domicile, au lieu de travail ou pendant une excursion organisée par ou pour le fournisseur professionnel en dehors de ses établissements commerciaux, entre un fournisseur professionnel et un consommateur final privé, celui-ci a la faculté pendant quatorze jours calendrier de la commande ou de l’engagement, s’agissant de la fourniture de biens ou de services, et encore dans les quinze jours de la réception, s’agissant de la fourniture de biens, d’y renoncer par lettre recommandée avec accusé de réception.
 
-(9) Le dernier alinéa de l’article 2 de la [loi modifiée du 17 mai 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/05/17/n1/jo) relative à la concurrence se lit comme suit: Les infractions aux règlements pris en application du présent article sont punies d’une amende de 251 à 50.000 euros.
+(9) Le dernier alinéa de l’article 2 de la [loi modifiée du 17 mai 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/05/17/n1/jo) relative à la concurrence se lit comme suit:
 
-(…) [^note_0_0_0]
+> Les infractions aux règlements pris en application du présent article sont punies d’une amende de 251 à 50.000 euros.
+
+(…)[^note_0_0_0]
 
 ### DISPOSITIONS PRÉLIMINAIRES - DÉFINITIONS DE PORTÉE GÉNÉRALE
 
@@ -114,38 +135,49 @@ Les références à des dispositions abrogées par la présente loi sont remplac
 
 Pour l’application du présent Code, il faut entendre par:
 
-1. «Consommateur»: toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
-2. *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Professionnel»: toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
-3. *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Support durable»: tout instrument qui permet au consommateur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées;
-4. *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))* «Enchère publique»: une méthode de vente selon laquelle le professionnel propose aux consommateurs des biens ou services au moyen d’une procédure de mise en concurrence transparente dirigée par un notaire ou un huissier de justice, à laquelle les consommateurs assistent ou peuvent assister en personne, et au terme de laquelle l’adjudicataire est tenu d’acquérir ledit bien ou service;
-5. *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Contenu numérique»: des données produites et fournies sous forme numérique;
-6. *( Loi du 8 décembre 2021 )* « producteur » : le fabricant d’un bien, l’importateur d’un bien dans l’Union européenne ou toute personne qui se présente comme producteur en apposant sur le bien son nom, sa marque ou un autre signe distinctif ;
-7. « bien comportant des éléments numériques » : tout objet mobilier corporel qui intègre un contenu numérique ou un service numérique ou est interconnecté avec un tel contenu ou un tel service d’une manière telle que l’absence de ce contenu numérique ou de ce service numérique empêcherait ce bien de remplir ses fonctions ;
-8. « service numérique » :
+1\) «Consommateur»: toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
 
-   1. un service permettant au consommateur de créer, de traiter ou de stocker des données sous forme numérique, ou d’y accéder ; ou
-   2. un service permettant le partage de données sous forme numérique qui sont téléversées ou créées par le consommateur ou d’autres utilisateurs de ce service, ou permettant toute autre interaction avec ces données ;
-9. « environnement numérique » : tout matériel informatique, logiciel et connexion réseau utilisés par le consommateur pour accéder à un contenu numérique ou à un service numérique ou en faire usage ;
-10. « compatibilité » : la capacité d’un bien, contenu numérique ou service numérique à fonctionner avec du matériel informatique ou des logiciels avec lesquels des biens, contenus numériques ou services numériques de même type sont normalement utilisés, sans qu’il soit nécessaire de convertir le cas échéant, le bien, le matériel ou les logiciels, ou le contenu numérique ou le service numérique ;
-11. « fonctionnalité » : la capacité d’un bien, contenu numérique ou service numérique à remplir leurs fonctions eu égard à leur finalité ;
-12. « interopérabilité » : la capacité d’un bien, contenu numérique ou service numérique à fonctionner avec le cas échéant du matériel informatique ou des logiciels différents de ceux avec lesquels des biens, contenu ou service numérique de même type sont normalement utilisés ;
-13. « durabilité » : la capacité des biens à maintenir les fonctions et performances requises dans le cadre d’un usage normal ;
-14. « données à caractère personnel » : les données à caractère personnel au sens de l’article 4, point 1), du
+2\) *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Professionnel»: toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;
 
-   [règlement (UE) 2016/679](https://legilux.public.lu/eli/reg_ue/2016/679/jo) du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la [directive 95/46/CE](https://legilux.public.lu/eli/dir_ue/1995/46/jo) (règlement général sur la protection des données).
-15. [^note_9_1_0] « Place de marché en ligne » : un service utilisant un logiciel, y compris un site internet, une partie de site internet ou une application, exploité par le professionnel ou pour son compte qui permet aux consommateurs de conclure des contrats à distance avec d’autres professionnels ou consommateurs ;
-16. « Fournisseur de place de marché en ligne » : tout professionnel qui fournit une place de marché en ligne aux consommateurs. ».
+3\) *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Support durable»: tout instrument qui permet au consommateur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées;
+
+4\) *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))* «Enchère publique»: une méthode de vente selon laquelle le professionnel propose aux consommateurs des biens ou services au moyen d’une procédure de mise en concurrence transparente dirigée par un notaire ou un huissier de justice, à laquelle les consommateurs assistent ou peuvent assister en personne, et au terme de laquelle l’adjudicataire est tenu d’acquérir ledit bien ou service;
+
+5\) *([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo)) ( Loi du 8 décembre 2021 )* «Contenu numérique»: des données produites et fournies sous forme numérique;
+
+6\) *( Loi du 8 décembre 2021 )* « producteur » : le fabricant d’un bien, l’importateur d’un bien dans l’Union européenne ou toute personne qui se présente comme producteur en apposant sur le bien son nom, sa marque ou un autre signe distinctif ;
+
+7\) « bien comportant des éléments numériques » : tout objet mobilier corporel qui intègre un contenu numérique ou un service numérique ou est interconnecté avec un tel contenu ou un tel service d’une manière telle que l’absence de ce contenu numérique ou de ce service numérique empêcherait ce bien de remplir ses fonctions ;
+
+8\) « service numérique » :
+
+a) un service permettant au consommateur de créer, de traiter ou de stocker des données sous forme numérique, ou d’y accéder ; ou
+
+b) un service permettant le partage de données sous forme numérique qui sont téléversées ou créées par le consommateur ou d’autres utilisateurs de ce service, ou permettant toute autre interaction avec ces données ;
+
+9\) « environnement numérique » : tout matériel informatique, logiciel et connexion réseau utilisés par le consommateur pour accéder à un contenu numérique ou à un service numérique ou en faire usage ;
+
+10\) « compatibilité » : la capacité d’un bien, contenu numérique ou service numérique à fonctionner avec du matériel informatique ou des logiciels avec lesquels des biens, contenus numériques ou services numériques de même type sont normalement utilisés, sans qu’il soit nécessaire de convertir le cas échéant, le bien, le matériel ou les logiciels, ou le contenu numérique ou le service numérique ;
+
+11\) « fonctionnalité » : la capacité d’un bien, contenu numérique ou service numérique à remplir leurs fonctions eu égard à leur finalité ;
+
+12\) « interopérabilité » : la capacité d’un bien, contenu numérique ou service numérique à fonctionner avec le cas échéant du matériel informatique ou des logiciels différents de ceux avec lesquels des biens, contenu ou service numérique de même type sont normalement utilisés ;
+
+13\) « durabilité » : la capacité des biens à maintenir les fonctions et performances requises dans le cadre d’un usage normal ;
+
+14\) « données à caractère personnel » : les données à caractère personnel au sens de l’article 4, point 1), du [règlement (UE) 2016/679](https://legilux.public.lu/eli/reg_ue/2016/679/jo) du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la [directive 95/46/CE](https://legilux.public.lu/eli/dir_ue/1995/46/jo) (règlement général sur la protection des données).
+
+15\)[^note_9_1_0] « Place de marché en ligne » : un service utilisant un logiciel, y compris un site internet, une partie de site internet ou une application, exploité par le professionnel ou pour son compte qui permet aux consommateurs de conclure des contrats à distance avec d’autres professionnels ou consommateurs ;
+
+16\) « Fournisseur de place de marché en ligne » : tout professionnel qui fournit une place de marché en ligne aux consommateurs. ».
 
 #### Art. L. 010-2.
 
 Le présent Code existe sans préjudice
 
-1. de la
+1\) de la [loi modifiée du 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo)[^note_1_0_0] portant 1. transposition de la [directive 2000/43/CE](https://legilux.public.lu/eli/dir_ue/2000/43/jo) du Conseil du 29 juin 2000 relative à la mise en œuvre du principe de l’égalité de traitement entre les personnes sans distinction de race ou d’origine ethnique; 2. transposition de la [directive 2000/78/CE](https://legilux.public.lu/eli/dir_ue/2000/78/jo) du Conseil du 27 novembre 2000 portant création d’un cadre général en faveur de l’égalité de traitement en matière d’emploi et de travail; 3. modification du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) et portant introduction dans le Livre II d’un nouveau titre V relatif à l’égalité de traitement en matière d’emploi et de travail; 4. modification des articles 454 et 455 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ; 5. modification de la [loi du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées,
 
-   [loi modifiée du 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo) [^note_1_0_0] portant 1. transposition de la [directive 2000/43/CE](https://legilux.public.lu/eli/dir_ue/2000/43/jo) du Conseil du 29 juin 2000 relative à la mise en œuvre du principe de l’égalité de traitement entre les personnes sans distinction de race ou d’origine ethnique; 2. transposition de la [directive 2000/78/CE](https://legilux.public.lu/eli/dir_ue/2000/78/jo) du Conseil du 27 novembre 2000 portant création d’un cadre général en faveur de l’égalité de traitement en matière d’emploi et de travail; 3. modification du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) et portant introduction dans le Livre II d’un nouveau titre V relatif à l’égalité de traitement en matière d’emploi et de travail; 4. modification des articles 454 et 455 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ; 5. modification de la [loi du 12 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/jo) relative aux personnes handicapées,
-2. de la
-
-   [loi du 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo) portant 1. transposition de la [directive 2004/113/CE](https://legilux.public.lu/eli/dir_ue/2004/113/jo) du Conseil du 13 décembre 2004 mettant en œuvre le principe de l’égalité de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de biens et services; 2. modification du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ; 3. modification de la [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance.
+2\) de la [loi du 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo) portant 1. transposition de la [directive 2004/113/CE](https://legilux.public.lu/eli/dir_ue/2004/113/jo) du Conseil du 13 décembre 2004 mettant en œuvre le principe de l’égalité de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de biens et services; 2. modification du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ; 3. modification de la [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance.
 
 ### LIVRE 1 — Information des consommateurs et pratiques commerciales déloyales
 
@@ -157,7 +189,7 @@ Le présent Code existe sans préjudice
 
 ###### Art. L. 111-1.
 
-(1) Avant la conclusion de tout contrat, le professionnel doit mettre, de façon claire et compréhensible, le consommateur en mesure de connaître les caractéristiques essentielles des biens ou services, y compris des contenus numériques et des services numériques [^note_9_2_0] , qu’il propose.
+(1) Avant la conclusion de tout contrat, le professionnel doit mettre, de façon claire et compréhensible, le consommateur en mesure de connaître les caractéristiques essentielles des biens ou services, y compris des contenus numériques et des services numériques[^note_9_2_0] , qu’il propose.
 
 (2) Toute description des caractéristiques et qualités d’un bien ou service faite dans des documents et moyens de publicité, de même que toute déclaration de garantie commerciale y relative effectuée au moment de la publicité ou communiquée au consommateur, sont réputées faire partie intégrante du contrat relatif à ce bien ou à ce service, même si la publicité est le fait du fabricant, du détenteur ou de l’exploitant de la marque ou de tout autre professionnel situé en amont du professionnel en cause.
 
@@ -169,23 +201,23 @@ Lorsque le bien ou le service n’est pas conforme à cette description ou à ce
 
 **Art. L. 112-1.**
 
-Tout professionnel doit, par voie de marquage, étiquetage, affichage ou par tout autre procédé approprié, informer le consommateur du prix des produits et des services, y compris des contenus numériques et des services numériques [^note_9_3_0] , qu’il offre.
+Tout professionnel doit, par voie de marquage, étiquetage, affichage ou par tout autre procédé approprié, informer le consommateur du prix des produits et des services, y compris des contenus numériques et des services numériques[^note_9_3_0] , qu’il offre.
 
 **Art. L. 112-2.**
 
-(1) Le prix des produits et le tarif [^note_9_5_0] des services doivent être portés [^note_9_6_0] à la connaissance des consommateurs de manière non équivoque, facilement identifiable et aisément lisible.
+(1) Le prix des produits et le tarif[^note_9_5_0] des services doivent être portés[^note_9_6_0] à la connaissance des consommateurs de manière non équivoque, facilement identifiable et aisément lisible.
 
-Les prix et les tarifs [^note_9_7_0] sont obligatoirement indiqués en euro.
+Les prix et les tarifs[^note_9_7_0] sont obligatoirement indiqués en euro.
 
-(2) Sauf disposition législative ou réglementaire contraire, il ne peut être exigé de prix ou de tarifs [^note_9_8_0] supérieurs à ceux qui sont indiqués.
+(2) Sauf disposition législative ou réglementaire contraire, il ne peut être exigé de prix ou de tarifs[^note_9_8_0] supérieurs à ceux qui sont indiqués.
 
 (3) Les exploitants de débits de boissons alcooliques et non alcooliques, d’établissements d’hébergement, d’établissements de restauration et de salons de consommation doivent indiquer des prix service compris.
 
 \*([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))*
 
-(4) Lorsque, dans une communication commerciale telle que définie à l’article L. 222-12, il est fait référence au prix de vente d’un produit ou au tarif [^note_9_9_0] d’un service, ce dernier doit être indiqué en conformité avec le présent chapitre. Lorsqu’un prix ou un tarif exact ne peut être déterminé, le professionnel doit indiquer la méthode de détermination du prix ou du tarif, permettant au consommateur de vérifier celui-ci. [^note_9_10_0]
+(4) Lorsque, dans une communication commerciale telle que définie à l’article L. 222-12, il est fait référence au prix de vente d’un produit ou au tarif[^note_9_9_0] d’un service, ce dernier doit être indiqué en conformité avec le présent chapitre. Lorsqu’un prix ou un tarif exact ne peut être déterminé, le professionnel doit indiquer la méthode de détermination du prix ou du tarif, permettant au consommateur de vérifier celui-ci.[^note_9_10_0]
 
-**Art. L. 112-2-1. [^note_9_11_0]**
+**Art. L. 112-2-1.[^note_9_11_0]**
 
 (1) Toute annonce d’une réduction du prix d’un bien indique le prix antérieur appliqué par le professionnel pendant une durée déterminée avant l’application de la réduction de prix.
 
@@ -213,59 +245,79 @@ Par dérogation à l’alinéa 3 du présent paragraphe, une unité de lavage po
 
 (3) Par dérogation au premier paragraphe, l’indication du prix à l’unité de mesure n’est pas obligatoire:
 
-1. pour les produits alimentaires suivants pour lesquels seule l’indication du prix de vente est exigée
+1\) pour les produits alimentaires suivants pour lesquels seule l’indication du prix de vente est exigée
 
-   1. produits alimentaires dont la quantité n’excède pas 100 g/ml;
-   2. pâtisseries et produits de boulangerie autres que le pain, dont le prix est fixé à la pièce;
-   3. fruits, légumes, épices et autres produits habituellement vendus à la pièce ou à l’unité
-2. pour les produits non alimentaires, à l’exception de ceux repris ci-après:
+a. produits alimentaires dont la quantité n’excède pas 100 g/ml;
 
-   1. Produits d’hygiène et de beauté:
+b. pâtisseries et produits de boulangerie autres que le pain, dont le prix est fixé à la pièce;
 
-      - savons de toilette
-      - dentifrices et lotions dentaires
-      - produits de bain et de douche
-      - soins de la chevelure
-      - produits de rasage
-      - abrogé par (
+c. fruits, légumes, épices et autres produits habituellement vendus à la pièce ou à l’unité
 
-        [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo))
-      - (
+2\) pour les produits non alimentaires, à l’exception de ceux repris ci-après:
 
-        [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) eaux de toilette et eaux de Cologne à l’exception des extraits de parfum
-      - (
+I - Produits d’hygiène et de beauté:
 
-        [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) lotions d’hygiène corporelle
-      - (
+aot savons de toilette
 
-        [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) émulsions, crèmes de soin
-      - (
+bot dentifrices et lotions dentaires
 
-        [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) crèmes solaires
-   2. Produits d’entretien ménager:
+cot produits de bain et de douche
 
-      - produits à récurer, détartrer, déboucher, décaper, détacher
-      - produits d’entretien des sols, tapis, vinyles, vitres
-      - produits lessiviels (tels les produits à laver et les assouplissants)
-   3. Produits de construction, de bricolage et de jardinage:
+dot soins de la chevelure
 
-      - ciments, chaux, plâtres et sables
-      - tissus et panneaux d’isolation
-      - produits chimiques de base comme les colorants, les solvants et les acides
-      - les peintures, les vernis et les diluants
-      - les colles
-      - les produits d’entretien et d’amendement des sols
-      - les tourbes, terreaux, composts et autres produits phytosanitaires
-      - les semences
-      - les câbles
-      - les verres plats et produits assimilés
-      - produits d’entretien des matériaux.
-   4. Autres produits:
+eot produits de rasage
 
-      - les lubrifiants et les antigels
-      - les films alimentaires en aluminium, en plastique ou en papier
-      - produits d’entretien courant pour l’automobile.
-3. pour les produits vendus à l’occasion d’une prestation de service
+fot abrogé par ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo))
+
+got ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) eaux de toilette et eaux de Cologne à l’exception des extraits de parfum
+
+hot ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) lotions d’hygiène corporelle
+
+iot ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) émulsions, crèmes de soin
+
+jot ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) crèmes solaires
+
+II - Produits d’entretien ménager:
+
+aot produits à récurer, détartrer, déboucher, décaper, détacher
+
+bot produits d’entretien des sols, tapis, vinyles, vitres
+
+cot produits lessiviels (tels les produits à laver et les assouplissants)
+
+III - Produits de construction, de bricolage et de jardinage:
+
+aot ciments, chaux, plâtres et sables
+
+bot tissus et panneaux d’isolation
+
+cot produits chimiques de base comme les colorants, les solvants et les acides
+
+dot les peintures, les vernis et les diluants
+
+eot les colles
+
+fot les produits d’entretien et d’amendement des sols
+
+got les tourbes, terreaux, composts et autres produits phytosanitaires
+
+hot les semences
+
+iot les câbles
+
+jot les verres plats et produits assimilés
+
+kot produits d’entretien des matériaux.
+
+IV - Autres produits:
+
+aot les lubrifiants et les antigels
+
+bot les films alimentaires en aluminium, en plastique ou en papier
+
+cot produits d’entretien courant pour l’automobile.
+
+3\) pour les produits vendus à l’occasion d’une prestation de service
 
 **Art. L. 112-4.**
 
@@ -325,18 +377,19 @@ Lorsque l’importance du nombre des prestations de services proposées et la di
 
 L’imposition de la sanction prévue à l’alinéa 1 <sup>er</sup> prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2004/2006/jo) ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
 
-   [^note_9_12_0]
+c) les éventuelles infractions antérieures commises par le professionnel ;
 
-(2) Des avertissements taxés peuvent être [^note_9_13_0] décernés par les fonctionnaires de la Police grand-ducale habilités à cet effet par le directeur général de la Police grand-ducale.
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2004/2006/jo) ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.[^note_9_12_0]
+
+(2) Des avertissements taxés peuvent être[^note_9_13_0] décernés par les fonctionnaires de la Police grand-ducale habilités à cet effet par le directeur général de la Police grand-ducale.
 
 (3) L’avertissement taxé est subordonné à la condition, soit que le contrevenant consent à verser immédiatement entre les mains des fonctionnaires préqualifiés la taxe due, soit, lorsque la taxe ne peut pas être perçue sur le lieu même de l’infraction, qu’il s’en acquitte dans le délai lui imparti par sommation.
 
@@ -344,9 +397,11 @@ Dans cette deuxième hypothèse le paiement peut notamment se faire dans le bure
 
 (4) L’avertissement taxé est remplacé par un procès-verbal ordinaire:
 
-1. si le contrevenant n’a pas payé dans le délai imparti;
-2. si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes;
-3. si le contrevenant était mineur au moment des faits.
+1° si le contrevenant n’a pas payé dans le délai imparti;
+
+2° si le contrevenant déclare ne pas vouloir ou ne pas pouvoir payer la ou les taxes;
+
+3° si le contrevenant était mineur au moment des faits.
 
 (5) Le montant de la taxe ainsi que les modes du paiement sont fixés par règlement grand-ducal qui détermine aussi les modalités d’application du présent article et qui établira un catalogue groupant les contraventions suivant le montant des taxes à percevoir.
 
@@ -372,45 +427,61 @@ Lorsque la taxe a été réglée après ce délai, elle est remboursée en cas d
 
 (1) Avant que le consommateur ne soit lié par un contrat autre qu’un contrat à distance ou hors établissement, ou par une offre du même type, le professionnel, qu’il soit public ou privé, doit fournir, de façon claire et compréhensible, au consommateur les informations suivantes, pour autant qu’elles ne ressortent pas du contexte:
 
-1. les caractéristiques essentielles des biens ou services qu’il propose, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
-2. l’identité du professionnel, par exemple sa raison sociale, l’adresse géographique de son établissement et son numéro de téléphone;
-3. le prix total du bien ou du service toutes taxes comprises ou, lorsque le prix ne peut raisonnablement être calculé à l’avance du fait de la nature du bien ou du service, le mode de calcul du prix et, s’il y a lieu; tous les frais supplémentaires de transport, de livraison ou d’affranchissement ou, lorsque ces frais ne peuvent être raisonnablement être calculés à l’avance, la mention que ces frais peuvent être exigibles;
-4. le cas échéant, les modalités de paiement, de livraison et d’exécution, la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter le service et les modalités prévues par le professionnel pour le traitement des réclamations;
-5. *( Loi du 8 décembre 2021 )* outre le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques [^note_9_14_0] , l’existence d’un service après-vente et de garanties commerciales telles que définies à l’article L. 212-30 du présent Code, le cas échéant, ainsi que les conditions y afférentes;
-6. la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
-7. s’il y a lieu, la fonctionnalité des biens comportant des éléments numériques, des contenus numériques et des services numériques
+a) les caractéristiques essentielles des biens ou services qu’il propose, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
 
-   [^note_9_15_0] , y compris les mesures de protection technique applicables;
-8. s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques
+b) l’identité du professionnel, par exemple sa raison sociale, l’adresse géographique de son établissement et son numéro de téléphone;
 
-   [^note_9_16_0] dont le professionnel a ou devrait raisonnablement avoir connaissance.
+c) le prix total du bien ou du service toutes taxes comprises ou, lorsque le prix ne peut raisonnablement être calculé à l’avance du fait de la nature du bien ou du service, le mode de calcul du prix et, s’il y a lieu; tous les frais supplémentaires de transport, de livraison ou d’affranchissement ou, lorsque ces frais ne peuvent être raisonnablement être calculés à l’avance, la mention que ces frais peuvent être exigibles;
 
-(2) Le paragraphe (1) s’applique également aux contrats portant sur la fourniture d’eau, de gaz, d’électricité ou [^note_9_17_0] de chauffage urbain, y compris par des fournisseurs publics, dans la mesure où ces biens sont fournis sur une base contractuelle. [^note_9_18_0]
+d) le cas échéant, les modalités de paiement, de livraison et d’exécution, la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter le service et les modalités prévues par le professionnel pour le traitement des réclamations;
 
-Le paragraphe (1) s’applique également lorsque le professionnel fournit ou s’engage à fournir au consommateur un contenu numérique non fourni sur un support matériel ou un service numérique et que le consommateur fournit ou s’engage à fournir des données à caractère personnel au professionnel, sauf lorsque les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour fournir le contenu numérique non fourni sur un support matériel ou le service numérique, ou de lui permettre de remplir les obligations légales qui lui incombent, pour autant qu’il ne traite pas ces données à une autre fin. [^note_9_19_0]
+e) *( Loi du 8 décembre 2021 )* outre le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques[^note_9_14_0] , l’existence d’un service après-vente et de garanties commerciales telles que définies à l’article L. 212-30 du présent Code, le cas échéant, ainsi que les conditions y afférentes;
+
+f) la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
+
+g) s’il y a lieu, la fonctionnalité des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_15_0] , y compris les mesures de protection technique applicables;
+
+h) s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_16_0] dont le professionnel a ou devrait raisonnablement avoir connaissance.
+
+(2) Le paragraphe (1) s’applique également aux contrats portant sur la fourniture d’eau, de gaz, d’électricité ou[^note_9_17_0] de chauffage urbain, y compris par des fournisseurs publics, dans la mesure où ces biens sont fournis sur une base contractuelle.[^note_9_18_0]
+
+Le paragraphe (1) s’applique également lorsque le professionnel fournit ou s’engage à fournir au consommateur un contenu numérique non fourni sur un support matériel ou un service numérique et que le consommateur fournit ou s’engage à fournir des données à caractère personnel au professionnel, sauf lorsque les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour fournir le contenu numérique non fourni sur un support matériel ou le service numérique, ou de lui permettre de remplir les obligations légales qui lui incombent, pour autant qu’il ne traite pas ces données à une autre fin.[^note_9_19_0]
 
 (3) Le paragraphe (1) ne s’applique pas aux contrats:
 
-1. portant sur les services sociaux, y compris le logement social, l’aide à l’enfance et l’aide aux familles et aux personnes se trouvant de manière permanente ou temporaire dans une situation de besoin, y compris les soins de longue durée;
-2. portant sur des services de santé fournis par des professionnels de la santé aux patients pour évaluer, maintenir ou rétablir leur état de santé, y compris la prescription, la délivrance et la fourniture de médicaments et de dispositifs médicaux, que ces services soient ou non assurés dans le cadre d’établissements de soins;
-3. portant sur les jeux d’argent, qui impliquent des mises ayant une valeur monétaire dans les jeux de hasard, y compris les loteries, les jeux de casino et les transactions portant sur des paris;
-4. portant sur les services financiers tels que définis à l’article 222-1;
-5. portant sur la création, l’acquisition ou le transfert de biens immobiliers ou de droits sur des biens immobiliers;
-6. portant sur la construction d’immeubles neufs, la transformation importante d’immeubles existants ou la location d’un logement à des fins résidentielles;
-7. qui relèvent du champ d’application du titre 2, livre 2, chapitre 5 concernant les voyages à forfait;
-8. qui relèvent du champ d’application du titre 2, livre 2, chapitre 3 concernant les contrats d’utilisation de biens à temps partagé, contrats de produits de vacances à long terme et contrats de revente et d’échange;
-9. dont la loi exige qu’ils soient conclus par acte authentique devant un notaire, sans préjudice d’obligations d’information auxquelles sont soumis les notaires en conformité avec les règles spécifiques les régissant;
-10. portant sur la fourniture de denrées alimentaires, de boissons ou d’autres biens ménagers de consommation courante, qui sont livrés physiquement par un professionnel lors de tournées fréquentes et régulières au domicile, au lieu de résidence ou de travail du consommateur;
-11. portant sur les services de transport de passagers;
-12. conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés;
-13. conclus avec des opérateurs de télécommunications au moyen de téléphones publics payants aux fins de l’utilisation de ces derniers ou conclus aux fins de l’utilisation d’une connexion unique par téléphone, par internet ou par télécopie établie par le consommateur;
-14. portant sur des transactions intéressant la vie quotidienne et qui sont exécutés dès leur conclusion.
-15. portant sur des biens vendus sur saisie ou de quelque autre manière par autorité de justice.
+a) portant sur les services sociaux, y compris le logement social, l’aide à l’enfance et l’aide aux familles et aux personnes se trouvant de manière permanente ou temporaire dans une situation de besoin, y compris les soins de longue durée;
 
-   [^note_9_20_0]
+b) portant sur des services de santé fournis par des professionnels de la santé aux patients pour évaluer, maintenir ou rétablir leur état de santé, y compris la prescription, la délivrance et la fourniture de médicaments et de dispositifs médicaux, que ces services soient ou non assurés dans le cadre d’établissements de soins;
 
-(4) 1. Si le droit applicable au contrat est le droit d’un Etat membre, le consommateur ne peut renoncer aux droits qui lui sont conférés par le présent article.
-2. Toute clause contraire au paragraphe qui précède est réputée nulle et non écrite.
+c) portant sur les jeux d’argent, qui impliquent des mises ayant une valeur monétaire dans les jeux de hasard, y compris les loteries, les jeux de casino et les transactions portant sur des paris;
+
+d) portant sur les services financiers tels que définis à l’article 222-1;
+
+e) portant sur la création, l’acquisition ou le transfert de biens immobiliers ou de droits sur des biens immobiliers;
+
+f) portant sur la construction d’immeubles neufs, la transformation importante d’immeubles existants ou la location d’un logement à des fins résidentielles;
+
+g) qui relèvent du champ d’application du titre 2, livre 2, chapitre 5 concernant les voyages à forfait;
+
+h) qui relèvent du champ d’application du titre 2, livre 2, chapitre 3 concernant les contrats d’utilisation de biens à temps partagé, contrats de produits de vacances à long terme et contrats de revente et d’échange;
+
+i) dont la loi exige qu’ils soient conclus par acte authentique devant un notaire, sans préjudice d’obligations d’information auxquelles sont soumis les notaires en conformité avec les règles spécifiques les régissant;
+
+j) portant sur la fourniture de denrées alimentaires, de boissons ou d’autres biens ménagers de consommation courante, qui sont livrés physiquement par un professionnel lors de tournées fréquentes et régulières au domicile, au lieu de résidence ou de travail du consommateur;
+
+k) portant sur les services de transport de passagers;
+
+l) conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés;
+
+m) conclus avec des opérateurs de télécommunications au moyen de téléphones publics payants aux fins de l’utilisation de ces derniers ou conclus aux fins de l’utilisation d’une connexion unique par téléphone, par internet ou par télécopie établie par le consommateur;
+
+n) portant sur des transactions intéressant la vie quotidienne et qui sont exécutés dès leur conclusion.
+
+o) portant sur des biens vendus sur saisie ou de quelque autre manière par autorité de justice.[^note_9_20_0]
+
+(4) a) Si le droit applicable au contrat est le droit d’un Etat membre, le consommateur ne peut renoncer aux droits qui lui sont conférés par le présent article.
+
+b) Toute clause contraire au paragraphe qui précède est réputée nulle et non écrite.
 
 (5) Le présent article s’applique sans préjudice d’exigences en matière d’information prévues par d’autres dispositions légales pouvant exister dans des secteurs spécifiques.
 
@@ -418,22 +489,25 @@ Le paragraphe (1) s’applique également lorsque le professionnel fournit ou s�
 
 \*([Loi du 6 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/06/a968/jo))*
 
-(7) Les infractions au paragraphe (1) [^note_9_21_0] sont punies d’une amende de 251 à 15.000 euros.
+(7) Les infractions au paragraphe (1)[^note_9_21_0] sont punies d’une amende de 251 à 15.000 euros.
 
 [^note_9_22_0] L’imposition de la sanction prévue à l’alinéa 1 <sup>er</sup> prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
+
+c) les éventuelles infractions antérieures commises par le professionnel ;
+
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) L’amende prévue au présent paragraphe est de nature correctionnelle.
 
-(8) [^note_9_23_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions du paragraphe (1), il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
+(8)[^note_9_23_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions du paragraphe (1), il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
 
 Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si, à la suite des explications fournies, le ministre ayant la Protection des consommateurs dans ses attributions conclut que le professionnel enfreint les dispositions du présent chapitre, il peut notifier par lettre recommandée au professionnel le constat de cette violation et exiger la mise en conformité dans un délai raisonnable avec les dispositions applicables.
 
@@ -441,7 +515,7 @@ Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si
 
 ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo))Les alinéas 1<sup>er</sup> à 3 sont sans préjudice de l’action en cessation ou en interdiction des articles L. 322-1 et suivants.
 
-(9) [^note_9_24_0] Par dérogation au paragraphe (7), alinéa 1 <sup>er</sup> , lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
+(9)[^note_9_24_0] Par dérogation au paragraphe (7), alinéa 1 <sup>er</sup> , lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
 
 Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <sup>er</sup> , mais où les informations relatives au chiffre d’affaires annuel du professionnel ne sont pas disponibles, le montant maximal de l’amende est de 2.000.000 euros.
 
@@ -455,34 +529,43 @@ Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <
 
 (2) Le présent titre s’applique sans préjudice:
 
-1. du droit des contrats, en particulier des règles relatives à la validité, à la formation ou aux effets des contrats;
-2. des dispositions communautaires ou nationales relatives à la santé et à la sécurité des produits;
-3. des dispositions législatives, réglementaires et administratives en matière de certification et d’indication du titre des ouvrages en métal précieux;
-4. des conditions d’établissement ou des régimes d’autorisation ou des codes de déontologie ou de toute autre disposition spécifique régissant les professions réglementées;
+1\) du droit des contrats, en particulier des règles relatives à la validité, à la formation ou aux effets des contrats;
+
+2\) des dispositions communautaires ou nationales relatives à la santé et à la sécurité des produits;
+
+3\) des dispositions législatives, réglementaires et administratives en matière de certification et d’indication du titre des ouvrages en métal précieux;
+
+4\) des conditions d’établissement ou des régimes d’autorisation ou des codes de déontologie ou de toute autre disposition spécifique régissant les professions réglementées;
 
 (. . .) *(abrogé par la [loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))*
 
-1. [^note_2_0_0] de la [loi modifiée du 30 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n3/jo) réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la [directive 1997/55/CE](https://legilux.public.lu/eli/dir_ue/1997/55/jo) du Parlement européen et du Conseil modifiant la [directive 1984/450/CEE](https://legilux.public.lu/eli/dir_ue/1984/450/jo) sur la publicité trompeuse afin d’y inclure la publicité comparative.
+5\)[^note_2_0_0] de la [loi modifiée du 30 juillet 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n3/jo) réglementant certaines pratiques commerciales, sanctionnant la concurrence déloyale et transposant la [directive 1997/55/CE](https://legilux.public.lu/eli/dir_ue/1997/55/jo) du Parlement européen et du Conseil modifiant la [directive 1984/450/CEE](https://legilux.public.lu/eli/dir_ue/1984/450/jo) sur la publicité trompeuse afin d’y inclure la publicité comparative.
 
 ###### Art. L. 121-2.
 
 Pour l’application du présent titre, il faut entendre par:
 
-1. «produit»: tout bien ou tout service, y compris les biens immeubles, les services numériques et les contenus numériques, ainsi que
+1\) «produit»: tout bien ou tout service, y compris les biens immeubles, les services numériques et les contenus numériques, ainsi que[^note_9_25_0] les droits et les obligations;
 
-   [^note_9_25_0] les droits et les obligations;
-2. «pratiques commerciales des entreprises vis-à-vis des consommateurs» (ci-après également dénommées «pratiques commerciales»): toute action, omission, conduite, démarche ou communication commerciale, y compris la publicité et le marketing, de la part d’un professionnel, en relation directe avec la promotion, la vente ou la fourniture d’un produit aux consommateurs;
-3. «altération substantielle du comportement économique des consommateurs»: l’utilisation d’une pratique commerciale compromettant sensiblement l’aptitude du consommateur à prendre une décision en connaissance de cause et l’amenant par conséquent à prendre une décision commerciale qu’il n’aurait pas prise autrement;
-4. «code de conduite»: un accord ou un ensemble de règles qui ne sont pas imposées par les dispositions législatives, réglementaires ou administratives et qui définissent le comportement des professionnels qui s’engagent à être liés par lui en ce qui concerne une ou plusieurs pratiques commerciales ou un ou plusieurs secteurs d’activité;
-5. «responsable de code»: toute entité, y compris un professionnel ou groupe de professionnels, responsable de l’élaboration et de la révision d’un code de conduite et/ou de la surveillance du respect de ce code par ceux qui se sont engagés à être liés par lui;
-6. «diligence professionnelle»: le niveau de compétence spécialisée et de soins dont le professionnel est raisonnablement censé faire preuve vis-à-vis du consommateur, conformément aux usages honnêtes en matière commerciale, industrielle, artisanale ou libérale dans son domaine d’activité;
-7. «invitation à l’achat»: une communication commerciale indiquant les caractéristiques du produit et son prix de façon appropriée en fonction des moyens utilisés pour cette communication commerciale et permettant ainsi au consommateur de faire un achat;
-8. «influence injustifiée»: l’utilisation d’une position de force vis-à-vis du consommateur de manière à faire pression sur celui-ci, même sans avoir recours à la force physique ou menacer de le faire, de telle manière que son aptitude à prendre une décision en connaissance de cause soit limitée de manière significative;
-9. «décision commerciale»: toute décision prise par un consommateur concernant l’opportunité, les modalités et les conditions relatives au fait d’acheter, de faire un paiement intégral ou partiel pour un produit, de conserver ou de se défaire d’un produit ou d’exercer un droit contractuel en rapport avec le produit; une telle décision peut amener le consommateur, soit à agir, soit à s’abstenir d’agir;
-10. «profession réglementée»: une activité ou un ensemble d’activités professionnelles dont l’accès, l’exercice ou une des modalités d’exercice est subordonné directement ou indirectement à des dispositions législatives, réglementaires ou administratives relatives à la possession de qualifications professionnelles déterminées.
-11. « classement » : la priorité relative accordée aux produits, tels qu’ils sont présentés, organisés ou communiqués par le professionnel, quelle que soit la technologie utilisée pour une telle présentation, organisation ou communication.
+2\) «pratiques commerciales des entreprises vis-à-vis des consommateurs» (ci-après également dénommées «pratiques commerciales»): toute action, omission, conduite, démarche ou communication commerciale, y compris la publicité et le marketing, de la part d’un professionnel, en relation directe avec la promotion, la vente ou la fourniture d’un produit aux consommateurs;
 
-   [^note_9_26_0]
+3\) «altération substantielle du comportement économique des consommateurs»: l’utilisation d’une pratique commerciale compromettant sensiblement l’aptitude du consommateur à prendre une décision en connaissance de cause et l’amenant par conséquent à prendre une décision commerciale qu’il n’aurait pas prise autrement;
+
+4\) «code de conduite»: un accord ou un ensemble de règles qui ne sont pas imposées par les dispositions législatives, réglementaires ou administratives et qui définissent le comportement des professionnels qui s’engagent à être liés par lui en ce qui concerne une ou plusieurs pratiques commerciales ou un ou plusieurs secteurs d’activité;
+
+5\) «responsable de code»: toute entité, y compris un professionnel ou groupe de professionnels, responsable de l’élaboration et de la révision d’un code de conduite et/ou de la surveillance du respect de ce code par ceux qui se sont engagés à être liés par lui;
+
+6\) «diligence professionnelle»: le niveau de compétence spécialisée et de soins dont le professionnel est raisonnablement censé faire preuve vis-à-vis du consommateur, conformément aux usages honnêtes en matière commerciale, industrielle, artisanale ou libérale dans son domaine d’activité;
+
+7\) «invitation à l’achat»: une communication commerciale indiquant les caractéristiques du produit et son prix de façon appropriée en fonction des moyens utilisés pour cette communication commerciale et permettant ainsi au consommateur de faire un achat;
+
+8\) «influence injustifiée»: l’utilisation d’une position de force vis-à-vis du consommateur de manière à faire pression sur celui-ci, même sans avoir recours à la force physique ou menacer de le faire, de telle manière que son aptitude à prendre une décision en connaissance de cause soit limitée de manière significative;
+
+9\) «décision commerciale»: toute décision prise par un consommateur concernant l’opportunité, les modalités et les conditions relatives au fait d’acheter, de faire un paiement intégral ou partiel pour un produit, de conserver ou de se défaire d’un produit ou d’exercer un droit contractuel en rapport avec le produit; une telle décision peut amener le consommateur, soit à agir, soit à s’abstenir d’agir;
+
+10\) «profession réglementée»: une activité ou un ensemble d’activités professionnelles dont l’accès, l’exercice ou une des modalités d’exercice est subordonné directement ou indirectement à des dispositions législatives, réglementaires ou administratives relatives à la possession de qualifications professionnelles déterminées.
+
+11\) « classement » : la priorité relative accordée aux produits, tels qu’ils sont présentés, organisés ou communiqués par le professionnel, quelle que soit la technologie utilisée pour une telle présentation, organisation ou communication.[^note_9_26_0]
 
 ##### Chapitre 2 — Pratiques commerciales déloyales
 
@@ -492,10 +575,11 @@ Pour l’application du présent titre, il faut entendre par:
 
 (2) Une pratique commerciale est déloyale si:
 
-1. elle est contraire aux exigences de la diligence professionnelle
+a) elle est contraire aux exigences de la diligence professionnelle
 
-   et
-2. elle altère ou est susceptible d’altérer de manière substantielle le comportement économique, par rapport au produit, du consommateur moyen qu’elle touche ou auquel elle s’adresse, ou du membre moyen du groupe lorsqu’une pratique commerciale est ciblée vers un groupe particulier de consommateurs.
+et
+
+b) elle altère ou est susceptible d’altérer de manière substantielle le comportement économique, par rapport au produit, du consommateur moyen qu’elle touche ou auquel elle s’adresse, ou du membre moyen du groupe lorsqu’une pratique commerciale est ciblée vers un groupe particulier de consommateurs.
 
 (3) Les pratiques commerciales qui sont susceptibles d’altérer de manière substantielle le comportement économique d’un groupe clairement identifiable de consommateurs parce que ceux-ci sont particulièrement vulnérables à la pratique utilisée ou au produit qu’elle concerne en raison d’une infirmité mentale ou physique, de leur âge ou de leur crédulité, alors que l’on pourrait raisonnablement attendre du professionnel qu’il prévoie cette conséquence, sont évaluées du point de vue du membre moyen de ce groupe. Cette disposition est sans préjudice de la pratique publicitaire courante et légitime consistant à formuler des déclarations exagérées ou des déclarations qui ne sont pas destinées à être comprises au sens littéral.
 
@@ -509,26 +593,33 @@ Pour l’application du présent titre, il faut entendre par:
 
 (1) Une pratique commerciale est réputée trompeuse:
 
-1. si elle contient des informations fausses;
+1\) si elle contient des informations fausses;
 
-   ou
-2. si, d’une manière quelconque, y compris par sa présentation générale, elle induit ou est susceptible d’induire en erreur le consommateur moyen, même si les informations présentées sont factuellement correctes, en ce qui concerne un ou plusieurs des éléments ci-après et que, dans un cas comme dans l’autre, elle l’amène ou est susceptible de l’amener à prendre une décision commerciale qu’il n’aurait pas prise autrement. Ces éléments concernent:
+ou
 
-   1. l’existence ou la nature du produit;
-   2. les caractéristiques principales du produit, telles que sa disponibilité, ses avantages, les risques qu’il présente, son exécution, sa composition, ses accessoires, le service après-vente et le traitement des réclamations, le mode et la date de fabrication ou de prestation, sa livraison, son aptitude à l’usage, son utilisation, sa quantité, ses spécifications, son origine géographique ou commerciale ou les résultats qui peuvent être attendus de son utilisation ou les résultats et les caractéristiques essentielles des tests ou contrôles effectués sur le produit;
-   3. l’étendue des engagements du professionnel, la motivation de la pratique commerciale et la nature du processus de vente, ainsi que toute affirmation ou tout symbole faisant croire que le professionnel ou le produit bénéficie d’un parrainage ou d’un appui direct ou indirect;
-   4. le prix ou le mode de calcul du prix, ou l’existence d’un avantage spécifique quant au prix;
-   5. la nécessité d’un service, d’une pièce détachée, d’un remplacement ou d’une réparation;
-   6. la nature, les qualités et les droits du professionnel ou de son représentant, tels que son identité et son patrimoine, ses qualifications, son statut, son agrément, son affiliation ou ses liens ou ses droits de propriété industrielle, commerciale ou intellectuelle ou les récompenses et distinctions qu’il a reçues;
-   7. les droits du consommateur, en particulier le droit de remplacement ou de remboursement selon l’article L. 212-5 du Code de la consommation en matière de garantie légale, ou les risques qu’il peut encourir.
+2\) si, d’une manière quelconque, y compris par sa présentation générale, elle induit ou est susceptible d’induire en erreur le consommateur moyen, même si les informations présentées sont factuellement correctes, en ce qui concerne un ou plusieurs des éléments ci-après et que, dans un cas comme dans l’autre, elle l’amène ou est susceptible de l’amener à prendre une décision commerciale qu’il n’aurait pas prise autrement. Ces éléments concernent:
+
+a) l’existence ou la nature du produit;
+
+b) les caractéristiques principales du produit, telles que sa disponibilité, ses avantages, les risques qu’il présente, son exécution, sa composition, ses accessoires, le service après-vente et le traitement des réclamations, le mode et la date de fabrication ou de prestation, sa livraison, son aptitude à l’usage, son utilisation, sa quantité, ses spécifications, son origine géographique ou commerciale ou les résultats qui peuvent être attendus de son utilisation ou les résultats et les caractéristiques essentielles des tests ou contrôles effectués sur le produit;
+
+c) l’étendue des engagements du professionnel, la motivation de la pratique commerciale et la nature du processus de vente, ainsi que toute affirmation ou tout symbole faisant croire que le professionnel ou le produit bénéficie d’un parrainage ou d’un appui direct ou indirect;
+
+d) le prix ou le mode de calcul du prix, ou l’existence d’un avantage spécifique quant au prix;
+
+e) la nécessité d’un service, d’une pièce détachée, d’un remplacement ou d’une réparation;
+
+f) la nature, les qualités et les droits du professionnel ou de son représentant, tels que son identité et son patrimoine, ses qualifications, son statut, son agrément, son affiliation ou ses liens ou ses droits de propriété industrielle, commerciale ou intellectuelle ou les récompenses et distinctions qu’il a reçues;
+
+g) les droits du consommateur, en particulier le droit de remplacement ou de remboursement selon l’article L. 212-5 du Code de la consommation en matière de garantie légale, ou les risques qu’il peut encourir.
 
 (2) Est également réputée trompeuse une pratique commerciale si, dans son contexte factuel, compte tenu de toutes ses caractéristiques et des circonstances, elle amène ou est susceptible d’amener le consommateur moyen à prendre une décision commerciale qu’il n’aurait pas prise autrement, et qu’elle implique:
 
-1. toute activité de marketing concernant un produit, y compris la publicité comparative, créant une confusion avec un autre produit, marque, nom commercial ou autre signe distinctif d’un concurrent;
-2. le non-respect par le professionnel d’engagements contenus dans un code de conduite par lequel il s’est engagé à être lié, dès lors que ces engagements sont fermes et vérifiables, et qu’il indique qu’il est lié par le code.
-3. toute activité de commercialisation présentant un bien, dans un État membre, comme identique à un bien commercialisé dans d’autres États membres, alors que ce bien a une composition ou des caractéristiques sensiblement différentes, à moins que cela ne soit justifié par des facteurs légitimes et objectifs.
+a) toute activité de marketing concernant un produit, y compris la publicité comparative, créant une confusion avec un autre produit, marque, nom commercial ou autre signe distinctif d’un concurrent;
 
-   [^note_9_27_0]
+b) le non-respect par le professionnel d’engagements contenus dans un code de conduite par lequel il s’est engagé à être lié, dès lors que ces engagements sont fermes et vérifiables, et qu’il indique qu’il est lié par le code.
+
+c) toute activité de commercialisation présentant un bien, dans un État membre, comme identique à un bien commercialisé dans d’autres États membres, alors que ce bien a une composition ou des caractéristiques sensiblement différentes, à moins que cela ne soit justifié par des facteurs légitimes et objectifs.[^note_9_27_0]
 
 **Sous-section 2 — Omissions trompeuses**
 
@@ -542,24 +633,25 @@ Pour l’application du présent titre, il faut entendre par:
 
 (4) Lors d’une invitation à l’achat, sont considérées comme substantielles, dès lors qu’elles ne ressortent pas déjà du contexte, les informations suivantes:
 
-1. les caractéristiques principales du produit, dans la mesure appropriée eu égard au moyen de communication utilisé et au produit concerné;
-2. l’adresse géographique et l’identité du professionnel, par exemple sa raison sociale et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;
-3. le prix toutes taxes comprises, ou, lorsque la nature du produit signifie que le prix ne peut raisonnablement être calculé à l’avance, la manière dont le prix est calculé, ainsi que, le cas échéant, tous les coûts supplémentaires de transport, de livraison et postaux, ou, lorsque ces coûts ne peuvent raisonnablement être calculés à l’avance, la mention que ces coûts peuvent être à la charge du consommateur;
-4. les modalités de paiement, de livraison et d’exécution si elles diffèrent des conditions de la diligence professionnelle;
+a) les caractéristiques principales du produit, dans la mesure appropriée eu égard au moyen de communication utilisé et au produit concerné;
 
-   [^note_9_28_0]
-5. le cas échéant, l’existence d’un droit de rétractation.
-6. pour les produits offerts sur les places de marché en ligne, si le tiers proposant les produits est un professionnel ou non, sur la base de la déclaration de ce tiers au fournisseur de la place de marché en ligne.
+b) l’adresse géographique et l’identité du professionnel, par exemple sa raison sociale et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;
 
-   [^note_9_29_0]
+c) le prix toutes taxes comprises, ou, lorsque la nature du produit signifie que le prix ne peut raisonnablement être calculé à l’avance, la manière dont le prix est calculé, ainsi que, le cas échéant, tous les coûts supplémentaires de transport, de livraison et postaux, ou, lorsque ces coûts ne peuvent raisonnablement être calculés à l’avance, la mention que ces coûts peuvent être à la charge du consommateur;
+
+d) les modalités de paiement, de livraison et d’exécution si elles diffèrent des conditions de la diligence professionnelle;[^note_9_28_0]
+
+e) le cas échéant, l’existence d’un droit de rétractation.
+
+f) pour les produits offerts sur les places de marché en ligne, si le tiers proposant les produits est un professionnel ou non, sur la base de la déclaration de ce tiers au fournisseur de la place de marché en ligne.[^note_9_29_0]
 
 (5) Sont également réputées substantielles les informations à arrêter par règlement grand-ducal qui sont relatives aux communications commerciales, y compris la publicité ou le marketing.
 
-(6) [^note_9_30_0] Lorsque la possibilité est donnée aux consommateurs de rechercher des produits offerts par différents professionnels ou par des consommateurs à partir d’une requête consistant en un mot clé, une phrase ou la saisie d’autres données, indépendamment de l’endroit où ces transactions sont finalement conclues, les informations générales mises à disposition dans une section spécifique de l’interface en ligne, qui est directement et aisément accessible à partir de la page sur laquelle les résultats de la requête sont présentés, concernant les principaux paramètres qui déterminent le classement des produits présentés au consommateur en réponse à sa requête de recherche, et l’ordre d’importance de ces paramètres, par opposition à d’autres paramètres, sont réputées substantielles.
+(6)[^note_9_30_0] Lorsque la possibilité est donnée aux consommateurs de rechercher des produits offerts par différents professionnels ou par des consommateurs à partir d’une requête consistant en un mot clé, une phrase ou la saisie d’autres données, indépendamment de l’endroit où ces transactions sont finalement conclues, les informations générales mises à disposition dans une section spécifique de l’interface en ligne, qui est directement et aisément accessible à partir de la page sur laquelle les résultats de la requête sont présentés, concernant les principaux paramètres qui déterminent le classement des produits présentés au consommateur en réponse à sa requête de recherche, et l’ordre d’importance de ces paramètres, par opposition à d’autres paramètres, sont réputées substantielles.
 
 L’alinéa 1 <sup>er</sup> ne s’applique pas aux fournisseurs de moteurs de recherche en ligne tels que définis à l’article 2, point 6), du [règlement (UE) 2019/1150](https://legilux.public.lu/eli/reg_ue/2019/1150/jo) du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne.
 
-(7) [^note_9_31_0] Lorsqu’un professionnel donne accès à des avis de consommateurs sur les produits, les informations permettant d’établir si et comment le professionnel garantit que les avis publiés émanent de consommateurs ayant effectivement utilisé ou acheté le produit sont réputées substantielles.
+(7)[^note_9_31_0] Lorsqu’un professionnel donne accès à des avis de consommateurs sur les produits, les informations permettant d’établir si et comment le professionnel garantit que les avis publiés émanent de consommateurs ayant effectivement utilisé ou acheté le produit sont réputées substantielles.
 
 **Sous-section 3 — Pratiques commerciales trompeuses en toutes circonstances**
 
@@ -567,49 +659,65 @@ L’alinéa 1 <sup>er</sup> ne s’applique pas aux fournisseurs de moteurs de r
 
 Les pratiques commerciales trompeuses ci-après sont réputées déloyales en toutes circonstances:
 
-1. Pour un professionnel, se prétendre signataire d’un code de conduite alors qu’il ne l’est pas.
-2. Afficher un certificat, un label de qualité, ou un équivalent sans avoir obtenu l’autorisation nécessaire.
-3. Affirmer qu’un code de conduite a reçu l’approbation d’un organisme public ou autre alors que ce n’est pas le cas.
-4. Affirmer qu’un professionnel (y compris ses pratiques commerciales) ou qu’un produit a été agréé, approuvé ou autorisé par un organisme public ou privé alors que ce n’est pas le cas ou sans respecter les conditions de l’agrément, de l’approbation ou de l’autorisation reçue.
-5. Proposer l’achat de produits à un prix indiqué sans révéler les raisons plausibles que pourrait avoir le professionnel de penser qu’il ne pourra pas le faire lui-même, ou faire fournir par un autre professionnel, les produits en question ou des produits équivalents au prix indiqué, pendant une période et dans des quantités qui soient raisonnables compte tenu du produit, de l’ampleur de la publicité faite pour le produit et du prix proposé (publicité appât).
-6. Proposer l’achat de produits à un prix indiqué et ensuite, dans le but de faire la promotion d’un produit différent:
+1\) Pour un professionnel, se prétendre signataire d’un code de conduite alors qu’il ne l’est pas.
 
-   1. soit refuser de présenter aux consommateurs l’article ayant fait l’objet de la publicité,
-   2. soit refuser de prendre des commandes concernant cet article ou de le livrer dans un délai raisonnable,
-   3. soit en présenter un échantillon défectueux.
-7. Déclarer faussement qu’un produit ne sera disponible que pendant une période très limitée ou qu’il ne sera disponible que sous des conditions particulières pendant une période très limitée afin d’obtenir une décision immédiate et priver les consommateurs d’une possibilité ou d’un délai suffisant pour opérer un choix en connaissance de cause.
-8. S’engager à fournir un service après-vente aux consommateurs avec lesquels le professionnel a communiqué avant la transaction dans une langue qui n’est pas une langue officielle de l’Etat membre dans lequel il est établi et, ensuite, assurer ce service uniquement dans une autre langue sans clairement en informer le consommateur avant que celui-ci ne s’engage dans la transaction.
-9. Déclarer ou donner l’impression que la vente d’un produit est licite alors qu’elle ne l’est pas.
-10. Présenter les droits conférés au consommateur par les dispositions légales ou réglementaires comme constituant une caractéristique propre à la proposition faite par le professionnel.
-11. Utiliser un contenu rédactionnel dans les médias pour faire la promotion d’un produit, alors que le professionnel a financé celle-ci lui-même, sans l’indiquer clairement dans le contenu ou à l’aide d’images ou de sons clairement identifiables par le consommateur (publireportage).
-12. Formuler des affirmations factuellement inexactes en ce qui concerne la nature et l’ampleur des risques auxquels s’expose le consommateur sur le plan de sa sécurité personnelle ou de celle de sa famille s’il n’achète pas le produit.
-13. Promouvoir un produit similaire à celui d’un fabricant particulier de manière à inciter délibérément le consommateur à penser que le produit provient de ce même fabricant alors que tel n’est pas le cas.
-14. Créer, exploiter ou promouvoir un système de promotion pyramidale dans lequel un consommateur verse une participation en échange de la possibilité de percevoir une contrepartie provenant essentiellement de l’entrée d’autres consommateurs dans le système plutôt que de la vente ou de la consommation de produits.
-15. (. . .)
+2\) Afficher un certificat, un label de qualité, ou un équivalent sans avoir obtenu l’autorisation nécessaire.
 
-   [^note_2_0_1] Déclarer que le professionnel est sur le point de cesser ses activités ou de les établir ailleurs alors que tel n’est pas le cas.
-16. Affirmer d’un produit qu’il augmente les chances de gagner aux jeux de hasard.
-17. Affirmer faussement qu’un produit est de nature à guérir des maladies, des dysfonctionnements ou des malformations.
-18. Communiquer des informations factuellement inexactes sur les conditions de marché ou sur les possibilités de trouver le produit, dans le but d’inciter le consommateur à acquérir celui-ci à des conditions moins favorables que les conditions normales de marché.
-19. Affirmer, dans le cadre d’une pratique commerciale
+3\) Affirmer qu’un code de conduite a reçu l’approbation d’un organisme public ou autre alors que ce n’est pas le cas.
 
-   [^note_2_0_2] , qu’un concours est organisé ou qu’un prix peut être gagné sans attribuer les prix décrits ou un équivalent raisonnable.
-20. Décrire un produit comme étant «gratuit», «à titre gracieux», «sans frais» ou autres termes similaires si le consommateur doit payer quoi que ce soit d’autre que les coûts inévitables liés à la réponse à la pratique commerciale et au fait de prendre possession ou livraison de l’article.
-21. Inclure dans le matériel promotionnel une facture ou un document similaire demandant paiement qui donne au consommateur l’impression qu’il a déjà commandé le produit commercialisé alors que ce n’est pas le cas.
-22. Affirmer faussement ou donner l’impression que le professionnel agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale, ou se présenter faussement comme un consommateur.
-23. Créer faussement l’impression que le service après-vente en rapport avec un produit est disponible dans un Etat membre autre que celui dans lequel le produit est vendu.
-24. Revendre des billets pour des manifestations à des consommateurs si le professionnel les a acquis en utilisant un moyen automatisé de contourner toute limite imposée au nombre de billets qu’une personne peut acheter ou toute autre règle applicable à l’achat de billets.
+4\) Affirmer qu’un professionnel (y compris ses pratiques commerciales) ou qu’un produit a été agréé, approuvé ou autorisé par un organisme public ou privé alors que ce n’est pas le cas ou sans respecter les conditions de l’agrément, de l’approbation ou de l’autorisation reçue.
 
-   [^note_9_32_0]
-25. Affirmer que des avis sur un produit sont envoyés par des consommateurs qui ont effectivement utilisé ou acheté le produit, sans prendre de mesures raisonnables et proportionnées pour vérifier qu’ils émanent de tels consommateurs.
+5\) Proposer l’achat de produits à un prix indiqué sans révéler les raisons plausibles que pourrait avoir le professionnel de penser qu’il ne pourra pas le faire lui-même, ou faire fournir par un autre professionnel, les produits en question ou des produits équivalents au prix indiqué, pendant une période et dans des quantités qui soient raisonnables compte tenu du produit, de l’ampleur de la publicité faite pour le produit et du prix proposé (publicité appât).
 
-   [^note_9_33_0]
-26. Envoyer ou charger une autre personne morale ou physique d’envoyer de faux avis ou de fausses recommandations de consommateurs, ou déformer des avis de consommateurs ou des recommandations sociales afin de promouvoir des produits.
+6\) Proposer l’achat de produits à un prix indiqué et ensuite, dans le but de faire la promotion d’un produit différent:
 
-   [^note_9_34_0]
-27. Fournir des résultats de recherche en réponse à une requête de recherche en ligne d’un consommateur sans l’informer clairement de toute publicité payante ou tout paiement effectué spécifiquement pour obtenir un meilleur classement des produits dans les résultats de recherche.
+a) soit refuser de présenter aux consommateurs l’article ayant fait l’objet de la publicité,
 
-   [^note_9_35_0]
+b) soit refuser de prendre des commandes concernant cet article ou de le livrer dans un délai raisonnable,
+
+c) soit en présenter un échantillon défectueux.
+
+7\) Déclarer faussement qu’un produit ne sera disponible que pendant une période très limitée ou qu’il ne sera disponible que sous des conditions particulières pendant une période très limitée afin d’obtenir une décision immédiate et priver les consommateurs d’une possibilité ou d’un délai suffisant pour opérer un choix en connaissance de cause.
+
+8\) S’engager à fournir un service après-vente aux consommateurs avec lesquels le professionnel a communiqué avant la transaction dans une langue qui n’est pas une langue officielle de l’Etat membre dans lequel il est établi et, ensuite, assurer ce service uniquement dans une autre langue sans clairement en informer le consommateur avant que celui-ci ne s’engage dans la transaction.
+
+9\) Déclarer ou donner l’impression que la vente d’un produit est licite alors qu’elle ne l’est pas.
+
+10\) Présenter les droits conférés au consommateur par les dispositions légales ou réglementaires comme constituant une caractéristique propre à la proposition faite par le professionnel.
+
+11\) Utiliser un contenu rédactionnel dans les médias pour faire la promotion d’un produit, alors que le professionnel a financé celle-ci lui-même, sans l’indiquer clairement dans le contenu ou à l’aide d’images ou de sons clairement identifiables par le consommateur (publireportage).
+
+12\) Formuler des affirmations factuellement inexactes en ce qui concerne la nature et l’ampleur des risques auxquels s’expose le consommateur sur le plan de sa sécurité personnelle ou de celle de sa famille s’il n’achète pas le produit.
+
+13\) Promouvoir un produit similaire à celui d’un fabricant particulier de manière à inciter délibérément le consommateur à penser que le produit provient de ce même fabricant alors que tel n’est pas le cas.
+
+14\) Créer, exploiter ou promouvoir un système de promotion pyramidale dans lequel un consommateur verse une participation en échange de la possibilité de percevoir une contrepartie provenant essentiellement de l’entrée d’autres consommateurs dans le système plutôt que de la vente ou de la consommation de produits.
+
+15\) (. . .)[^note_2_0_1] Déclarer que le professionnel est sur le point de cesser ses activités ou de les établir ailleurs alors que tel n’est pas le cas.
+
+16\) Affirmer d’un produit qu’il augmente les chances de gagner aux jeux de hasard.
+
+17\) Affirmer faussement qu’un produit est de nature à guérir des maladies, des dysfonctionnements ou des malformations.
+
+18\) Communiquer des informations factuellement inexactes sur les conditions de marché ou sur les possibilités de trouver le produit, dans le but d’inciter le consommateur à acquérir celui-ci à des conditions moins favorables que les conditions normales de marché.
+
+19\) Affirmer, dans le cadre d’une pratique commerciale[^note_2_0_2] , qu’un concours est organisé ou qu’un prix peut être gagné sans attribuer les prix décrits ou un équivalent raisonnable.
+
+20\) Décrire un produit comme étant «gratuit», «à titre gracieux», «sans frais» ou autres termes similaires si le consommateur doit payer quoi que ce soit d’autre que les coûts inévitables liés à la réponse à la pratique commerciale et au fait de prendre possession ou livraison de l’article.
+
+21\) Inclure dans le matériel promotionnel une facture ou un document similaire demandant paiement qui donne au consommateur l’impression qu’il a déjà commandé le produit commercialisé alors que ce n’est pas le cas.
+
+22\) Affirmer faussement ou donner l’impression que le professionnel agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale, ou se présenter faussement comme un consommateur.
+
+23\) Créer faussement l’impression que le service après-vente en rapport avec un produit est disponible dans un Etat membre autre que celui dans lequel le produit est vendu.
+
+24\) Revendre des billets pour des manifestations à des consommateurs si le professionnel les a acquis en utilisant un moyen automatisé de contourner toute limite imposée au nombre de billets qu’une personne peut acheter ou toute autre règle applicable à l’achat de billets.[^note_9_32_0]
+
+25\) Affirmer que des avis sur un produit sont envoyés par des consommateurs qui ont effectivement utilisé ou acheté le produit, sans prendre de mesures raisonnables et proportionnées pour vérifier qu’ils émanent de tels consommateurs.[^note_9_33_0]
+
+26\) Envoyer ou charger une autre personne morale ou physique d’envoyer de faux avis ou de fausses recommandations de consommateurs, ou déformer des avis de consommateurs ou des recommandations sociales afin de promouvoir des produits.[^note_9_34_0]
+
+27\) Fournir des résultats de recherche en réponse à une requête de recherche en ligne d’un consommateur sans l’informer clairement de toute publicité payante ou tout paiement effectué spécifiquement pour obtenir un meilleur classement des produits dans les résultats de recherche.[^note_9_35_0]
 
 ###### *Section 2* — *Pratiques commerciales agressives*
 
@@ -621,34 +729,41 @@ Une pratique commerciale est réputée agressive si, dans son contexte factuel, 
 
 Afin de déterminer si une pratique commerciale recourt au harcèlement, à la contrainte, y compris la force physique, ou à une influence injustifiée, les éléments suivants sont pris en considération:
 
-1. le moment et l’endroit où la pratique est mise en œuvre, sa nature et sa persistance;
-2. le recours à la menace physique ou verbale;
-3. l’exploitation en connaissance de cause par le professionnel de tout malheur ou circonstance particulière d’une gravité propre à altérer le jugement du consommateur, dans le but d’influencer la décision du consommateur à l’égard du produit;
-4. tout obstacle non contractuel important ou disproportionné imposé par le professionnel lorsque le consommateur souhaite faire valoir ses droits contractuels, et notamment celui de mettre fin au contrat ou de changer de produit ou de fournisseur;
-5. toute menace d’action alors que cette action n’est pas légalement possible.
+a) le moment et l’endroit où la pratique est mise en œuvre, sa nature et sa persistance;
+
+b) le recours à la menace physique ou verbale;
+
+c) l’exploitation en connaissance de cause par le professionnel de tout malheur ou circonstance particulière d’une gravité propre à altérer le jugement du consommateur, dans le but d’influencer la décision du consommateur à l’égard du produit;
+
+d) tout obstacle non contractuel important ou disproportionné imposé par le professionnel lorsque le consommateur souhaite faire valoir ses droits contractuels, et notamment celui de mettre fin au contrat ou de changer de produit ou de fournisseur;
+
+e) toute menace d’action alors que cette action n’est pas légalement possible.
 
 **Art. L. 122-7.**
 
 Les pratiques commerciales agressives ci-après sont réputées déloyales en toutes circonstances:
 
-1. Donner au consommateur l’impression qu’il ne pourra quitter les lieux avant qu’un contrat n’ait été conclu.
+1\) Donner au consommateur l’impression qu’il ne pourra quitter les lieux avant qu’un contrat n’ait été conclu.
 
 \*([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))*
 
-1. Effectuer des visites personnelles au domicile du consommateur, sans tenir compte du refus du consommateur d’être démarché ou sollicité ou en ignorant sa demande de voir le professionnel quitter les lieux ou de ne pas y revenir, sans préjudice de dispositions légales ou réglementaires en vue d’assurer l’exécution d’une obligation contractuelle.
-2. Se livrer à des sollicitations non souhaitées par téléphone, télécopieur, courrier électronique ou tout autre outil de communication à distance, sans préjudice de dispositions légales ou réglementaires l’autorisant en vue d’assurer l’exécution d’une obligation contractuelle. Cette disposition s’entend sans préjudice de la
+2\) Effectuer des visites personnelles au domicile du consommateur, sans tenir compte du refus du consommateur d’être démarché ou sollicité ou en ignorant sa demande de voir le professionnel quitter les lieux ou de ne pas y revenir, sans préjudice de dispositions légales ou réglementaires en vue d’assurer l’exécution d’une obligation contractuelle.
 
-   [loi modifiée du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel et de l’article 11 de la [loi «modifiée» [^note_2_0_3] du 30 mai 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/jo) concernant la protection de la vie privée dans le secteur des communications électroniques.
-3. Obliger un consommateur qui souhaite demander une indemnité au titre d’une police d’assurance à produire des documents qui ne peuvent raisonnablement être considérés comme pertinents pour établir la validité de la demande ou s’abstenir systématiquement de répondre à des correspondances pertinentes, dans le but de dissuader ce consommateur d’exercer ses droits contractuels.
-4. Inciter dans une publicité directement les enfants à acheter ou à persuader leurs parents ou d’autres adultes de leur acheter le produit faisant l’objet de la publicité. Cette disposition ne porte pas atteinte à la
+3\) Se livrer à des sollicitations non souhaitées par téléphone, télécopieur, courrier électronique ou tout autre outil de communication à distance, sans préjudice de dispositions légales ou réglementaires l’autorisant en vue d’assurer l’exécution d’une obligation contractuelle. Cette disposition s’entend sans préjudice de la [loi modifiée du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel et de l’article 11 de la [loi «modifiée»[^note_2_0_3] du 30 mai 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/jo) concernant la protection de la vie privée dans le secteur des communications électroniques.
 
-   [loi modifiée du 27 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/jo) sur les médias électroniques.
-5. Exiger le paiement immédiat ou différé de produits fournis par le professionnel sans que le consommateur les ait demandés, ou exiger leur renvoi ou leur conservation.
-6. Informer explicitement le consommateur que s’il n’achète pas le produit ou le service, l’emploi ou les moyens d’existence du professionnel seront menacés.
-7. Donner la fausse impression que le consommateur a déjà gagné ou gagnera, moyennant ou non l’accomplissement d’une ou plusieurs formalités, un prix ou un autre avantage équivalent, alors que, en fait,
+4\) Obliger un consommateur qui souhaite demander une indemnité au titre d’une police d’assurance à produire des documents qui ne peuvent raisonnablement être considérés comme pertinents pour établir la validité de la demande ou s’abstenir systématiquement de répondre à des correspondances pertinentes, dans le but de dissuader ce consommateur d’exercer ses droits contractuels.
 
-   1. soit il n’existe pas de prix ou autre avantage équivalent,
-   2. soit l’accomplissement d’une ou de plusieurs formalités en rapport avec la demande du prix ou d’un autre avantage équivalent est subordonné à l’obligation pour le consommateur de verser de l’argent ou de supporter un coût.
+5\) Inciter dans une publicité directement les enfants à acheter ou à persuader leurs parents ou d’autres adultes de leur acheter le produit faisant l’objet de la publicité. Cette disposition ne porte pas atteinte à la [loi modifiée du 27 juillet 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/jo) sur les médias électroniques.
+
+6\) Exiger le paiement immédiat ou différé de produits fournis par le professionnel sans que le consommateur les ait demandés, ou exiger leur renvoi ou leur conservation.
+
+7\) Informer explicitement le consommateur que s’il n’achète pas le produit ou le service, l’emploi ou les moyens d’existence du professionnel seront menacés.
+
+8\) Donner la fausse impression que le consommateur a déjà gagné ou gagnera, moyennant ou non l’accomplissement d’une ou plusieurs formalités, un prix ou un autre avantage équivalent, alors que, en fait,
+
+i. soit il n’existe pas de prix ou autre avantage équivalent,
+
+ii. soit l’accomplissement d’une ou de plusieurs formalités en rapport avec la demande du prix ou d’un autre avantage équivalent est subordonné à l’obligation pour le consommateur de verser de l’argent ou de supporter un coût.
 
 ###### *Section 3* — *Des sanctions*
 
@@ -656,19 +771,23 @@ Les pratiques commerciales agressives ci-après sont réputées déloyales en to
 
 (1) Sont punis d’une amende de 251 à 120.000 euros ceux qui contreviennent aux dispositions
 
-- des articles L. 122-1 à L. 122-5;
-- de l’article L. 122-7.
+aash des articles L. 122-1 à L. 122-5;
+
+bash de l’article L. 122-7.
 
 [^note_9_36_0] L’imposition de la sanction prévue à l’alinéa 1 <sup>er</sup> prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
+
+c) les éventuelles infractions antérieures commises par le professionnel ;
+
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) L’amende prévue au présent paragraphe est de nature correctionnelle.
 
@@ -678,9 +797,9 @@ Les pratiques commerciales agressives ci-après sont réputées déloyales en to
 
 (3) Le professionnel qui fait naître par la conception ou la présentation de la communication, l’impression que le consommateur a gagné un lot, doit fournir ce lot au consommateur.
 
-(4) [^note_9_37_0] Sans préjudice des sanctions prévues par le présent article et de toute autre mesure de réparation qui lui est reconnue par la loi, le consommateur victime d’une pratique commerciale déloyale visée au chapitre 2 du présent titre peut exercer tout recours visant à l’obtention de la réparation des dommages subis et à une réduction du prix ou la fin du contrat dans les conditions prévues par la loi.
+(4)[^note_9_37_0] Sans préjudice des sanctions prévues par le présent article et de toute autre mesure de réparation qui lui est reconnue par la loi, le consommateur victime d’une pratique commerciale déloyale visée au chapitre 2 du présent titre peut exercer tout recours visant à l’obtention de la réparation des dommages subis et à une réduction du prix ou la fin du contrat dans les conditions prévues par la loi.
 
-**Art. L. 122-9. [^note_9_38_0]**
+**Art. L. 122-9.[^note_9_38_0]**
 
 (1) Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions des articles L. 122-1 à L. 122-5 ou de l’article L. 122-7, il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
 
@@ -690,7 +809,7 @@ Les pratiques commerciales agressives ci-après sont réputées déloyales en to
 
 (4) ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) Les paragraphes (1) à (3) sont sans préjudice de l’action en cessation ou en interdiction des articles L. 322-1 et suivants.
 
-**Art. L. 122-10. [^note_9_39_0]**
+**Art. L. 122-10.[^note_9_39_0]**
 
 Par dérogation à l’article L. 122-8, paragraphe (1), alinéa 1 <sup>er</sup> , lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
 
@@ -724,55 +843,79 @@ Le caractère abusif d’une clause peut s’apprécier également au regard de 
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Sont présumées abusives de manière irréfragable :
 
-1. Les clauses excluant ou limitant la garantie légale en cas de vice caché ou de défaut de conformité.
-2. Toute clause portant augmentation de la créance en raison de sa réclamation en justice.
-3. Les clauses interdisant au consommateur de suspendre en tout ou en partie le versement des sommes dues si le professionnel ne remplit pas ses obligations.
-4. Les clauses, selon lesquelles le professionnel se réserve le droit de modifier ou de rompre unilatéralement le contrat sans motif spécifique et valable stipulé dans le contrat.
-5. Les clauses excluant le droit pour le consommateur de demander la résiliation du contrat, lorsque la fourniture ou la prestation n’est pas effectuée dans le délai promis ou, à défaut d’indication de délai, dans un délai raisonnable ou d’usage.
-6. Les clauses, par lesquelles le professionnel se réserve, sans motif valable et spécifié dans le contrat, le droit de fixer unilatéralement la date d’exécution de son obligation.
-7. Les clauses prévoyant que les biens ne doivent pas correspondre à leurs éléments descriptifs essentiels pour le consommateur ou à l’échantillon ou à l’usage spécifié par le consommateur et accepté par le professionnel ou, à défaut de cette spécification, à leur usage normal.
-8. Les clauses réservant au professionnel le droit de déterminer unilatéralement si le bien ou la prestation est conforme ou non au contrat.
-9. Les clauses, selon lesquelles le contrat est prorogé pour une durée supérieure à un an si le consommateur ne le dénonce pas à une date déterminée.
-10. Les clauses prévoyant la détermination du prix au moment de la fourniture ou des fournitures successives ou permettant au stipulant de l’augmenter, même en considération de critères objectifs, si le consommateur n’a pas corrélativement le droit de résilier le contrat lorsque le prix définitif devient excessif pour le consommateur par rapport à celui auquel il pouvait s’attendre lors de la conclusion du contrat.
-11. Les clauses imposant au consommateur un délai anormalement court pour faire des réclamations au professionnel.
-12. Les clauses excluant le droit pour le consommateur de résilier le contrat lorsque le professionnel a l’obligation de réparer le bien et n’a pas satisfait à cette obligation dans un délai raisonnable.
-13. Les clauses excluant pour le consommateur le droit de recourir aux tribunaux de droit commun.
-14. Les clauses permettant au professionnel de substituer à la fourniture ou à la prestation promise une fourniture ou une prestation différente, à moins que celle-ci n’ait été spécifiée au contrat et expressément acceptée par le consommateur.
-15. Les clauses imposant au consommateur la charge de la preuve incombant normalement au professionnel.
-16. Les clauses interdisant au consommateur d’invoquer la compensation à l’égard du professionnel.
-17. Les clauses contenues dans des contrats portant sur la fourniture de gaz, d’électricité ou de combustibles et obligeant à un minimum de consommation.
-18. Les clauses, par lesquelles celui qui s’engage à effectuer un travail déterminé sur une chose qui lui est remise à cette fin, exclut ou limite son obligation de veiller à la conservation de cette chose et de la restituer après le travail effectué.
-19. Les clauses, par lesquelles le consommateur renonce à l’égard du réparateur d’une chose ou à l’égard de celui qui effectue sur elle des travaux, d’invoquer la garantie incombant à un vendeur professionnel en raison des travaux et pièces neuves fournis par celui-ci.
-20. Les clauses, par lesquelles un consommateur consent à une cession de créance au profit d’un tiers en renonçant à faire valoir contre celui-ci les droits et exceptions qu’il pouvait faire valoir contre son cocontractant.
-21. Les clauses excluant ou limitant la responsabilité légale du professionnel en cas de mort d’un consommateur ou de dommages corporels causés à celui-ci, résultant d’un acte ou d’une omission de ce professionnel.
-22. Les clauses qui permettent au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d’un montant équivalent de la part du professionnel lorsque c’est celui-ci qui renonce.
-23. Les clauses qui constatent de manière irréfragable l’adhésion du consommateur à des clauses dont il n’a pas eu, effectivement, l’occasion de prendre connaissance avant la conclusion du contrat.
-24. Les clauses qui ont pour objet de restreindre l’obligation du professionnel de respecter les engagements pris par ses mandataires ou de souscrire ces engagements au respect d’une formalité particulière.
-25. (
+1\) Les clauses excluant ou limitant la garantie légale en cas de vice caché ou de défaut de conformité.
 
-   [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Les clauses imposant au consommateur qui n’exécute pas ses obligations une indemnité d’un montant disproportionnellement élevé.
-26. (
+2\) Toute clause portant augmentation de la créance en raison de sa réclamation en justice.
 
-   [L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Les clauses autorisant le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de motif grave.
+3\) Les clauses interdisant au consommateur de suspendre en tout ou en partie le versement des sommes dues si le professionnel ne remplit pas ses obligations.
+
+4\) Les clauses, selon lesquelles le professionnel se réserve le droit de modifier ou de rompre unilatéralement le contrat sans motif spécifique et valable stipulé dans le contrat.
+
+5\) Les clauses excluant le droit pour le consommateur de demander la résiliation du contrat, lorsque la fourniture ou la prestation n’est pas effectuée dans le délai promis ou, à défaut d’indication de délai, dans un délai raisonnable ou d’usage.
+
+6\) Les clauses, par lesquelles le professionnel se réserve, sans motif valable et spécifié dans le contrat, le droit de fixer unilatéralement la date d’exécution de son obligation.
+
+7\) Les clauses prévoyant que les biens ne doivent pas correspondre à leurs éléments descriptifs essentiels pour le consommateur ou à l’échantillon ou à l’usage spécifié par le consommateur et accepté par le professionnel ou, à défaut de cette spécification, à leur usage normal.
+
+8\) Les clauses réservant au professionnel le droit de déterminer unilatéralement si le bien ou la prestation est conforme ou non au contrat.
+
+9\) Les clauses, selon lesquelles le contrat est prorogé pour une durée supérieure à un an si le consommateur ne le dénonce pas à une date déterminée.
+
+10\) Les clauses prévoyant la détermination du prix au moment de la fourniture ou des fournitures successives ou permettant au stipulant de l’augmenter, même en considération de critères objectifs, si le consommateur n’a pas corrélativement le droit de résilier le contrat lorsque le prix définitif devient excessif pour le consommateur par rapport à celui auquel il pouvait s’attendre lors de la conclusion du contrat.
+
+11\) Les clauses imposant au consommateur un délai anormalement court pour faire des réclamations au professionnel.
+
+12\) Les clauses excluant le droit pour le consommateur de résilier le contrat lorsque le professionnel a l’obligation de réparer le bien et n’a pas satisfait à cette obligation dans un délai raisonnable.
+
+13\) Les clauses excluant pour le consommateur le droit de recourir aux tribunaux de droit commun.
+
+14\) Les clauses permettant au professionnel de substituer à la fourniture ou à la prestation promise une fourniture ou une prestation différente, à moins que celle-ci n’ait été spécifiée au contrat et expressément acceptée par le consommateur.
+
+15\) Les clauses imposant au consommateur la charge de la preuve incombant normalement au professionnel.
+
+16\) Les clauses interdisant au consommateur d’invoquer la compensation à l’égard du professionnel.
+
+17\) Les clauses contenues dans des contrats portant sur la fourniture de gaz, d’électricité ou de combustibles et obligeant à un minimum de consommation.
+
+18\) Les clauses, par lesquelles celui qui s’engage à effectuer un travail déterminé sur une chose qui lui est remise à cette fin, exclut ou limite son obligation de veiller à la conservation de cette chose et de la restituer après le travail effectué.
+
+19\) Les clauses, par lesquelles le consommateur renonce à l’égard du réparateur d’une chose ou à l’égard de celui qui effectue sur elle des travaux, d’invoquer la garantie incombant à un vendeur professionnel en raison des travaux et pièces neuves fournis par celui-ci.
+
+20\) Les clauses, par lesquelles un consommateur consent à une cession de créance au profit d’un tiers en renonçant à faire valoir contre celui-ci les droits et exceptions qu’il pouvait faire valoir contre son cocontractant.
+
+21\) Les clauses excluant ou limitant la responsabilité légale du professionnel en cas de mort d’un consommateur ou de dommages corporels causés à celui-ci, résultant d’un acte ou d’une omission de ce professionnel.
+
+22\) Les clauses qui permettent au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d’un montant équivalent de la part du professionnel lorsque c’est celui-ci qui renonce.
+
+23\) Les clauses qui constatent de manière irréfragable l’adhésion du consommateur à des clauses dont il n’a pas eu, effectivement, l’occasion de prendre connaissance avant la conclusion du contrat.
+
+24\) Les clauses qui ont pour objet de restreindre l’obligation du professionnel de respecter les engagements pris par ses mandataires ou de souscrire ces engagements au respect d’une formalité particulière.
+
+25\) ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Les clauses imposant au consommateur qui n’exécute pas ses obligations une indemnité d’un montant disproportionnellement élevé.
+
+26\) ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Les clauses autorisant le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de motif grave.
 
 **Art. L. 211-4.**
 
-(1) [^note_9_40_0] Le professionnel qui invoque à l’encontre d’un consommateur une clause ou une combinaison de clauses, déclarée abusive et comme telle nulle et non écrite, par une décision judiciaire ayant autorité de la chose jugée intervenue à son égard, est puni d’une amende de 300 à 10.000 euros.
+(1)[^note_9_40_0] Le professionnel qui invoque à l’encontre d’un consommateur une clause ou une combinaison de clauses, déclarée abusive et comme telle nulle et non écrite, par une décision judiciaire ayant autorité de la chose jugée intervenue à son égard, est puni d’une amende de 300 à 10.000 euros.
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) L’amende prévue au présent paragraphe est de nature correctionnelle.
 
-(2) [^note_9_41_0] L’imposition de la sanction prévue au paragraphe (1) prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
+(2)[^note_9_41_0] L’imposition de la sanction prévue au paragraphe (1) prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
 
-(3) [^note_9_42_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance que le professionnel invoque à l’encontre d’un consommateur une clause ou une combinaison de clauses abusive au sens de l’article L. 211-3, il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
+c) les éventuelles infractions antérieures commises par le professionnel ;
+
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+
+(3)[^note_9_42_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance que le professionnel invoque à l’encontre d’un consommateur une clause ou une combinaison de clauses abusive au sens de l’article L. 211-3, il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
 
 Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si, à la suite des explications fournies, le ministre ayant la Protection des consommateurs dans ses attributions conclut que le professionnel enfreint les dispositions de la présente section, il peut notifier par lettre recommandée au professionnel le constat de cette violation et exiger la mise en conformité dans un délai raisonnable avec les dispositions applicables.
 
@@ -780,7 +923,7 @@ Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si
 
 ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) Les alinéas 1<sup>er</sup> à 3 sont sans préjudice de l’action en cessation ou en interdiction des articles L. 322-1 et suivants.
 
-(4) [^note_9_43_0] Par dérogation au paragraphe (1), lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
+(4)[^note_9_43_0] Par dérogation au paragraphe (1), lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
 
 Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <sup>er</sup> , mais où les informations relatives au chiffre d’affaires annuel du professionnel ne sont pas disponibles, le montant maximal de l’amende est de 2.000.000 euros.
 
@@ -802,23 +945,19 @@ La présente section ne s’applique pas aux clauses contractuelles qui sont fix
 
 (1) Lorsque du fait du choix des parties le droit d’un pays tiers est applicable au contrat, le consommateur ne peut être privé de la protection accordée par la législation nationale d’un des Etats membres, avec le territoire duquel le contrat présente un lien étroit, qui transpose les directives de l’Union européenne suivantes:
 
-- Supprimé par la (
+aash Supprimé par la ( loi du 8 décembre 2021 )
 
-  loi du 8 décembre 2021 )
-- la
+bash la [directive 1993/13/CE](https://legilux.public.lu/eli/dir_ue/1993/13/jo) du 5 avril 1993 concernant les clauses abusives dans les contrats conclus avec les consommateurs;
 
-  [directive 1993/13/CE](https://legilux.public.lu/eli/dir_ue/1993/13/jo) du 5 avril 1993 concernant les clauses abusives dans les contrats conclus avec les consommateurs;
-- la
+cash la [directive 2008/48/CE](https://legilux.public.lu/eli/dir_ue/2008/48/jo) du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la [directive 87/102/CEE](http://legilux.lu/eli/dir_ue/1987/102/jo) du Conseil;
 
-  [directive 2008/48/CE](https://legilux.public.lu/eli/dir_ue/2008/48/jo) du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la [directive 87/102/CEE](http://legilux.lu/eli/dir_ue/1987/102/jo) du Conseil;
-- la
-
-  [directive 2002/65/CE](https://legilux.public.lu/eli/dir_ue/2002/65/jo) du Parlement européen et du Conseil concernant la commercialisation à distance de services financiers auprès des consommateurs.
+dash la [directive 2002/65/CE](https://legilux.public.lu/eli/dir_ue/2002/65/jo) du Parlement européen et du Conseil concernant la commercialisation à distance de services financiers auprès des consommateurs.
 
 (2) Le paragraphe précédent ne s’applique pas aux clauses abusives figurant dans:
 
-1. un contrat de transport,
-2. un contrat de fourniture lorsque les services dus au consommateur doivent être fournis exclusivement dans un pays autre que celui dans lequel il a sa résidence habituelle.
+a) un contrat de transport,
+
+b) un contrat de fourniture lorsque les services dus au consommateur doivent être fournis exclusivement dans un pays autre que celui dans lequel il a sa résidence habituelle.
 
 Il s’applique néanmoins au contrat offrant pour un prix global des prestations combinées de transport et de logement.
 
@@ -842,16 +981,19 @@ Aux fins de la présente sous-section, les contrats ayant à la fois pour objet 
 
 (2) Les dispositions de la présente sous-section ne s’appliquent pas :
 
-1. aux biens vendus sur saisie ou de quelque autre manière par autorité de justice ;
-2. à l’électricité, à l’eau et au gaz lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée ;
-3. à un support matériel servant exclusivement à transporter du contenu numérique.
+a) aux biens vendus sur saisie ou de quelque autre manière par autorité de justice ;
+
+b) à l’électricité, à l’eau et au gaz lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée ;
+
+c) à un support matériel servant exclusivement à transporter du contenu numérique.
 
 (3) Les dispositions de la présente sous-section ne s’appliquent pas aux contrats pour la fourniture de contenus numériques ou de services numériques.
 
 Elles s’appliquent cependant aux contenus numériques ou aux services numériques dès lors qu’ils sont :
 
-1. intégrés ou interconnectés avec des biens au sens de l’article L. 010-1, point 7) ; et
-2. fournis avec ces biens dans le cadre du contrat de vente, que ces contenus numériques ou services numériques soient fournis par le vendeur ou par un tiers.
+a) intégrés ou interconnectés avec des biens au sens de l’article L. 010-1, point 7) ; et
+
+b) fournis avec ces biens dans le cadre du contrat de vente, que ces contenus numériques ou services numériques soient fournis par le vendeur ou par un tiers.
 
 En cas de doute sur la question de savoir si la fourniture d’un contenu numérique ou d’un service numérique intégré ou interconnecté fait partie du contrat de vente, ce contenu ou ce service numérique est présumé relever du contrat de vente.
 
@@ -863,42 +1005,53 @@ En cas de doute sur la question de savoir si la fourniture d’un contenu numér
 
 (2) Tout défaut de conformité qui résulte de l’installation incorrecte des biens est réputé être un défaut de conformité des biens si :
 
-1. l’installation fait partie du contrat de vente et a été effectuée par le vendeur ou sous sa responsabilité ; ou
-2. l’installation, qui devait être effectuée par le consommateur, a été effectuée par celui-ci et l’installation incorrecte est due à des lacunes dans les instructions d’installation fournies par le vendeur ou, dans le cas de biens comportant des éléments numériques, fournies par le vendeur ou le fournisseur du contenu numérique ou du service numérique.
+a) l’installation fait partie du contrat de vente et a été effectuée par le vendeur ou sous sa responsabilité ; ou
+
+b) l’installation, qui devait être effectuée par le consommateur, a été effectuée par celui-ci et l’installation incorrecte est due à des lacunes dans les instructions d’installation fournies par le vendeur ou, dans le cas de biens comportant des éléments numériques, fournies par le vendeur ou le fournisseur du contenu numérique ou du service numérique.
 
 **Art. L. 212-3 — *( Loi du 8 décembre 2021 )***
 
 Afin d’être conforme au contrat de vente, les biens doivent notamment, le cas échéant :
 
-1. correspondre à la description, au type, à la quantité et à la qualité et présenter la fonctionnalité, la compatibilité, l’interopérabilité et toutes autres caractéristiques comme prévu dans le contrat de vente ;
-2. être adaptés à la finalité spécifique recherchée par le consommateur, que celui-ci a portée à la connaissance du vendeur au plus tard au moment de la conclusion du contrat de vente et que le vendeur a acceptée ;
-3. être livrés avec tous les accessoires et toutes les instructions, notamment d’installation, comme prévu dans le contrat de vente ; et
-4. être fourni avec des mises à jour comme prévu dans le contrat de vente.
+a) correspondre à la description, au type, à la quantité et à la qualité et présenter la fonctionnalité, la compatibilité, l’interopérabilité et toutes autres caractéristiques comme prévu dans le contrat de vente ;
+
+b) être adaptés à la finalité spécifique recherchée par le consommateur, que celui-ci a portée à la connaissance du vendeur au plus tard au moment de la conclusion du contrat de vente et que le vendeur a acceptée ;
+
+c) être livrés avec tous les accessoires et toutes les instructions, notamment d’installation, comme prévu dans le contrat de vente ; et
+
+d) être fourni avec des mises à jour comme prévu dans le contrat de vente.
 
 **Art. L. 212-4 — *( Loi du 8 décembre 2021 )***
 
 (1) En plus de satisfaire à toutes les exigences de conformité prévues dans le contrat, les biens doivent :
 
-1. être adaptés aux finalités auxquelles serviraient normalement des biens de même type, compte tenu, s’il y a lieu, de toute disposition du droit de l’Union européenne et du droit luxembourgeois en vigueur ainsi que de toutes les normes techniques existantes ou, en l’absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;
-2. le cas échéant, présenter la qualité d’un échantillon ou d’un modèle que le vendeur a mis à la disposition du consommateur avant la conclusion du contrat, et correspondre à la description de cet échantillon ou modèle ;
-3. le cas échéant, être livrés avec les accessoires, y compris l’emballage et les instructions d’installation ou autres instructions, que le consommateur peut raisonnablement s’attendre à recevoir ; et
-4. être en quantité et présenter les qualités et toutes autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, normales pour un bien de même type et auxquelles le consommateur peut raisonnablement s’attendre, eu égard à la nature des biens et compte tenu de toute déclaration publique faite par le vendeur ou d’autres personnes situées en amont dans la chaîne de transactions ou pour le compte du vendeur ou de telles personnes, y compris le producteur, en particulier dans les publicités ou sur l’étiquette.
+a) être adaptés aux finalités auxquelles serviraient normalement des biens de même type, compte tenu, s’il y a lieu, de toute disposition du droit de l’Union européenne et du droit luxembourgeois en vigueur ainsi que de toutes les normes techniques existantes ou, en l’absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;
+
+b) le cas échéant, présenter la qualité d’un échantillon ou d’un modèle que le vendeur a mis à la disposition du consommateur avant la conclusion du contrat, et correspondre à la description de cet échantillon ou modèle ;
+
+c) le cas échéant, être livrés avec les accessoires, y compris l’emballage et les instructions d’installation ou autres instructions, que le consommateur peut raisonnablement s’attendre à recevoir ; et
+
+d) être en quantité et présenter les qualités et toutes autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, normales pour un bien de même type et auxquelles le consommateur peut raisonnablement s’attendre, eu égard à la nature des biens et compte tenu de toute déclaration publique faite par le vendeur ou d’autres personnes situées en amont dans la chaîne de transactions ou pour le compte du vendeur ou de telles personnes, y compris le producteur, en particulier dans les publicités ou sur l’étiquette.
 
 (2) Le vendeur n’est pas tenu par les déclarations publiques visées au paragraphe (1), lettre d), s’il démontre :
 
-1. qu’il n’avait pas, et ne pouvait raisonnablement pas, avoir connaissance de la déclaration publique concernée ;
-2. que, au moment de la conclusion du contrat, la déclaration publique avait été rectifiée de la même façon que celle selon laquelle ladite déclaration avait été faite ou d’une façon comparable ; ou
-3. que la décision d’acheter les biens ne pouvait pas avoir été influencée par la déclaration publique.
+a) qu’il n’avait pas, et ne pouvait raisonnablement pas, avoir connaissance de la déclaration publique concernée ;
+
+b) que, au moment de la conclusion du contrat, la déclaration publique avait été rectifiée de la même façon que celle selon laquelle ladite déclaration avait été faite ou d’une façon comparable ; ou
+
+c) que la décision d’acheter les biens ne pouvait pas avoir été influencée par la déclaration publique.
 
 (3) Dans le cas de biens comportant des éléments numériques, le vendeur veille à ce que le consommateur soit informé des mises à jour, y compris des mises à jour de sécurité, qui sont nécessaires au maintien de la conformité de ces biens, et les reçoive au cours de la période :
 
-1. à laquelle le consommateur peut raisonnablement s’attendre, eu égard au type et à la finalité des biens et des éléments numériques et compte tenu des circonstances et de la nature du contrat, lorsque le contrat de vente prévoit une opération de fourniture unique du contenu numérique ou du service numérique ; ou
-2. indiquée à l’article L. 212-5, lorsque le contrat de vente prévoit la fourniture continue du contenu numérique ou du service numérique pendant une certaine période.
+a) à laquelle le consommateur peut raisonnablement s’attendre, eu égard au type et à la finalité des biens et des éléments numériques et compte tenu des circonstances et de la nature du contrat, lorsque le contrat de vente prévoit une opération de fourniture unique du contenu numérique ou du service numérique ; ou
+
+b) indiquée à l’article L. 212-5, lorsque le contrat de vente prévoit la fourniture continue du contenu numérique ou du service numérique pendant une certaine période.
 
 (4) Lorsque le consommateur n’installe pas, dans un délai raisonnable, les mises à jour fournies conformément au paragraphe (3), le vendeur n’est pas responsable d’un éventuel défaut de conformité résultant uniquement de la non-installation de la mise à jour concernée, à condition que :
 
-1. le vendeur ait informé le consommateur de la disponibilité de la mise à jour et des conséquences de sa non-installation par le consommateur ; et
-2. la non-installation ou l’installation incorrecte par le consommateur de la mise à jour ne soit pas due à des lacunes dans les instructions d’installation fournies au consommateur.
+a) le vendeur ait informé le consommateur de la disponibilité de la mise à jour et des conséquences de sa non-installation par le consommateur ; et
+
+b) la non-installation ou l’installation incorrecte par le consommateur de la mise à jour ne soit pas due à des lacunes dans les instructions d’installation fournies au consommateur.
 
 (5) Il n’y a pas de défaut de conformité au sens du paragraphe (1) ou (3) si, au moment de la conclusion du contrat de vente, le consommateur a été spécifiquement informé qu’une caractéristique particulière des biens s’écartait des critères objectifs de conformité prévus au paragraphe (1) ou (3) et que le consommateur a expressément et séparément accepté cet écart lorsqu’il a conclu le contrat de vente.
 
@@ -924,18 +1077,23 @@ Dans le cas de biens comportant des éléments numériques, lorsque le contrat d
 
 Cette option ne lui est néanmoins pas ouverte si le recours choisi est impossible ou si, par rapport à l’autre recours, il n’impose au vendeur des coûts qui seraient disproportionnés, compte tenu de l’ensemble des circonstances, notamment de :
 
-1. la valeur qu’auraient les biens en l’absence de défaut de conformité ;
-2. l’importance du défaut de conformité ; et
-3. la possibilité éventuelle d’opter pour l’autre recours sans inconvénient majeur pour le consommateur.
+a) la valeur qu’auraient les biens en l’absence de défaut de conformité ;
+
+b) l’importance du défaut de conformité ; et
+
+c) la possibilité éventuelle d’opter pour l’autre recours sans inconvénient majeur pour le consommateur.
 
 (3) Le vendeur peut refuser de mettre les biens en conformité si la réparation et le remplacement s’avèrent impossibles ou lorsque cela lui imposerait des coûts qui seraient disproportionnés, compte tenu de l’ensemble des circonstances, notamment celles qui sont mentionnées au paragraphe (2) lettres a) et b).
 
 (4) Le consommateur a droit, conformément à l’article L. 212-8, soit à une réduction proportionnelle du prix, soit à la résolution du contrat de vente, dans chacun des cas suivants :
 
-1. le vendeur n’a pas effectué la réparation ou le remplacement ou, le cas échéant, n’a pas effectué la réparation ou le remplacement conformément à l’article L. 212-7 paragraphes (2) et (3), ou le vendeur a refusé de mettre les biens en conformité conformément au paragraphe (3) ;
-2. un défaut de conformité apparaît malgré la tentative du vendeur de mettre les biens en conformité ;
-3. le défaut de conformité est si grave qu’il justifie une réduction immédiate du prix ou la résolution immédiate du contrat de vente ; ou
-4. le vendeur a déclaré, ou il résulte clairement des circonstances, que ce dernier ne procédera pas à la mise en conformité des biens dans un délai raisonnable ou sans inconvénient majeur pour le consommateur.
+a) le vendeur n’a pas effectué la réparation ou le remplacement ou, le cas échéant, n’a pas effectué la réparation ou le remplacement conformément à l’article L. 212-7 paragraphes (2) et (3), ou le vendeur a refusé de mettre les biens en conformité conformément au paragraphe (3) ;
+
+b) un défaut de conformité apparaît malgré la tentative du vendeur de mettre les biens en conformité ;
+
+c) le défaut de conformité est si grave qu’il justifie une réduction immédiate du prix ou la résolution immédiate du contrat de vente ; ou
+
+d) le vendeur a déclaré, ou il résulte clairement des circonstances, que ce dernier ne procédera pas à la mise en conformité des biens dans un délai raisonnable ou sans inconvénient majeur pour le consommateur.
 
 (5) Le consommateur n’a pas droit à la résolution du contrat si le défaut de conformité n’est que mineur. La charge de la preuve quant au caractère mineur ou non du défaut de conformité incombe au vendeur.
 
@@ -945,9 +1103,11 @@ Cette option ne lui est néanmoins pas ouverte si le recours choisi est impossib
 
 (1) Une réparation ou un remplacement est effectué(e) :
 
-1. sans frais, c’est-à-dire sans les frais nécessaires exposés pour la mise en conformité des biens, notamment les frais d’envoi, de transport, de main-d’œuvre ou de matériel ;
-2. dans un délai raisonnable à compter du moment où le vendeur a été informé par le consommateur du défaut de conformité ; et
-3. sans inconvénient majeur pour le consommateur, compte tenu de la nature des biens et de l’usage recherché par le consommateur.
+a) sans frais, c’est-à-dire sans les frais nécessaires exposés pour la mise en conformité des biens, notamment les frais d’envoi, de transport, de main-d’œuvre ou de matériel ;
+
+b) dans un délai raisonnable à compter du moment où le vendeur a été informé par le consommateur du défaut de conformité ; et
+
+c) sans inconvénient majeur pour le consommateur, compte tenu de la nature des biens et de l’usage recherché par le consommateur.
 
 (2) Lorsqu’il faut remédier au défaut de conformité par une réparation ou un remplacement des biens, le consommateur met les biens à la disposition du vendeur. Le vendeur reprend les biens remplacés à ses frais.
 
@@ -965,8 +1125,9 @@ Lorsque le défaut de conformité ne porte que sur certains des biens livrés en
 
 (3) Lorsque le consommateur exerce son droit à la résolution du contrat de vente dans son intégralité ou, conformément au paragraphe (2), à l’égard de certains des biens livrés en vertu du contrat de vente :
 
-1. le consommateur restitue les biens au vendeur aux frais de ce dernier ; et
-2. au choix exprès des parties, le vendeur rembourse au consommateur le prix payé pour les biens dès leur réception par le vendeur ou dès la fourniture par le consommateur de la preuve de leur renvoi.
+a) le consommateur restitue les biens au vendeur aux frais de ce dernier ; et
+
+b) au choix exprès des parties, le vendeur rembourse au consommateur le prix payé pour les biens dès leur réception par le vendeur ou dès la fourniture par le consommateur de la preuve de leur renvoi.
 
 **Art. L. 212-9 — *( Loi du 8 décembre 2021 )***
 
@@ -1016,22 +1177,21 @@ En cas de doute sur la question de savoir si la fourniture d’un contenu numér
 
 (5) Sont exclus du champ d’application de la présente sous-section les contrats portant sur :
 
-1. la fourniture de services autres que les services numériques, que le professionnel utilise ou non des formats ou des moyens numériques pour créer le produit du service ou pour le fournir ou le transmettre au consommateur ;
-2. les services de communications électroniques au sens de l’article 2, point 4), de la
+a) la fourniture de services autres que les services numériques, que le professionnel utilise ou non des formats ou des moyens numériques pour créer le produit du service ou pour le fournir ou le transmettre au consommateur ;
 
-   [directive (UE) 2018/1972](https://legilux.public.lu/eli/dir_ue/2018/1972/jo) du Parlement européen et du Conseil du 11 décembre 2018 établissant le code des communications électroniques européen, à l’exception des services de communications interpersonnelles non fondés sur la numérotation au sens de l’article 2, point 7), de ladite directive ;
-3. les soins de santé au sens de l’article 3, lettre a), de la
+b) les services de communications électroniques au sens de l’article 2, point 4), de la [directive (UE) 2018/1972](https://legilux.public.lu/eli/dir_ue/2018/1972/jo) du Parlement européen et du Conseil du 11 décembre 2018 établissant le code des communications électroniques européen, à l’exception des services de communications interpersonnelles non fondés sur la numérotation au sens de l’article 2, point 7), de ladite directive ;
 
-   [directive 2011/24/UE](https://legilux.public.lu/eli/dir_ue/2011/24/jo) du Parlement européen et du Conseil du 9 mars 2011 relative à l’application des droits des patients en matière de soins de santé transfrontaliers ;
-4. les services de jeux d’argent et de hasard, à savoir les services impliquant une mise ayant une valeur pécuniaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis par voie électronique ou par toute autre technologie permettant de faciliter la communication et à la demande individuelle d’un destinataire de tels services ;
-5. les services financiers au sens de l’article 2, lettre b), de la
+c) les soins de santé au sens de l’article 3, lettre a), de la [directive 2011/24/UE](https://legilux.public.lu/eli/dir_ue/2011/24/jo) du Parlement européen et du Conseil du 9 mars 2011 relative à l’application des droits des patients en matière de soins de santé transfrontaliers ;
 
-   [directive 2002/65/CE](https://legilux.public.lu/eli/dir_ue/2002/65/jo) du Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers auprès des consommateurs, et modifiant les [directives 90/619/CEE](https://legilux.public.lu/eli/dir_ue/1990/619/jo) du Conseil, [97/7/CE](https://legilux.public.lu/eli/dir_ue/1997/7/jo) et [98/27/CE](https://legilux.public.lu/eli/dir_ue/1998/27/jo) ;
-6. les logiciels proposés par le professionnel sous licence libre et ouverte, lorsque le consommateur ne s’acquitte pas d’un prix et que les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour améliorer la sécurité, la compatibilité ou l’interopérabilité de ces logiciels spécifiques ;
-7. la fourniture de contenu numérique lorsque le contenu numérique est mis à la disposition du grand public autrement que par la transmission de signaux, dans le cadre de spectacles ou d’évènements, tels que des projections cinématographiques numériques ;
-8. le contenu numérique fourni conformément à la
+d) les services de jeux d’argent et de hasard, à savoir les services impliquant une mise ayant une valeur pécuniaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis par voie électronique ou par toute autre technologie permettant de faciliter la communication et à la demande individuelle d’un destinataire de tels services ;
 
-   [directive 2003/98/CE](https://legilux.public.lu/eli/dir_ue/2003/98/jo) du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public.
+e) les services financiers au sens de l’article 2, lettre b), de la [directive 2002/65/CE](https://legilux.public.lu/eli/dir_ue/2002/65/jo) du Parlement européen et du Conseil du 23 septembre 2002 concernant la commercialisation à distance de services financiers auprès des consommateurs, et modifiant les [directives 90/619/CEE](https://legilux.public.lu/eli/dir_ue/1990/619/jo) du Conseil, [97/7/CE](https://legilux.public.lu/eli/dir_ue/1997/7/jo) et [98/27/CE](https://legilux.public.lu/eli/dir_ue/1998/27/jo) ;
+
+f) les logiciels proposés par le professionnel sous licence libre et ouverte, lorsque le consommateur ne s’acquitte pas d’un prix et que les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour améliorer la sécurité, la compatibilité ou l’interopérabilité de ces logiciels spécifiques ;
+
+g) la fourniture de contenu numérique lorsque le contenu numérique est mis à la disposition du grand public autrement que par la transmission de signaux, dans le cadre de spectacles ou d’évènements, tels que des projections cinématographiques numériques ;
+
+h) le contenu numérique fourni conformément à la [directive 2003/98/CE](https://legilux.public.lu/eli/dir_ue/2003/98/jo) du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public.
 
 (6) Sans préjudice du paragraphe (4), lorsqu’un contrat unique entre le même professionnel et le même consommateur rassemble dans une offre groupée des éléments constituant la fourniture d’un contenu numérique ou d’un service numérique et des éléments constituant la fourniture d’autres biens ou services, la présente sous-section ne s’applique qu’aux éléments du contrat concernant le contenu numérique ou le service numérique.
 
@@ -1051,8 +1211,9 @@ En particulier, la présente sous-section est sans préjudice du [règlement (UE
 
 (2) Le professionnel s’est acquitté de l’obligation de fourniture lorsque :
 
-1. le contenu numérique, ou tout moyen approprié pour accéder au contenu numérique ou le télécharger, est rendu disponible ou accessible pour le consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet ;
-2. le service numérique est rendu accessible au consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet.
+a) le contenu numérique, ou tout moyen approprié pour accéder au contenu numérique ou le télécharger, est rendu disponible ou accessible pour le consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet ;
+
+b) le service numérique est rendu accessible au consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet.
 
 **Art. L. 212-14.**
 
@@ -1062,33 +1223,43 @@ Le professionnel fournit au consommateur un contenu numérique ou un service num
 
 Afin d’être conforme au contrat, le contenu numérique ou le service numérique doit notamment, le cas échéant :
 
-1. correspondre à la description, la quantité et la qualité et présenter la fonctionnalité, la compatibilité, l’interopérabilité et toutes autres caractéristiques, comme prévu dans le contrat ;
-2. être adapté à la finalité spécifique recherchée par le consommateur, que celui-ci a portée à la connaissance du professionnel au plus tard au moment de la conclusion du contrat et que le professionnel a acceptée ;
-3. être fourni avec tous les accessoires, toutes les instructions, notamment d’installation, et l’assistance à la clientèle, comme prévu dans le contrat ; et
-4. être mis à jour comme prévu dans le contrat.
+a) correspondre à la description, la quantité et la qualité et présenter la fonctionnalité, la compatibilité, l’interopérabilité et toutes autres caractéristiques, comme prévu dans le contrat ;
+
+b) être adapté à la finalité spécifique recherchée par le consommateur, que celui-ci a portée à la connaissance du professionnel au plus tard au moment de la conclusion du contrat et que le professionnel a acceptée ;
+
+c) être fourni avec tous les accessoires, toutes les instructions, notamment d’installation, et l’assistance à la clientèle, comme prévu dans le contrat ; et
+
+d) être mis à jour comme prévu dans le contrat.
 
 **Art. L. 212-16.**
 
 (1) En plus de remplir tout critère subjectif de conformité, le contenu numérique ou le service numérique doit :
 
-1. être adapté aux finalités auxquelles serviraient normalement des contenus numériques ou des services numériques de même type, compte tenu, s’il y a lieu, de toute disposition du droit de l’Union européenne et du droit luxembourgeois en vigueur ainsi que de toutes les normes techniques existantes ou, en l’absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;
-2. être en quantité et présenter les qualités et les caractéristiques de performance, notamment en ce qui concerne la fonctionnalité, la compatibilité, l’accessibilité, la continuité et la sécurité, normales pour des contenus numériques ou des services numériques de même type et auxquelles le consommateur peut raisonnablement s’attendre, eu égard à la nature du contenu numérique ou du service numérique et compte tenu de toute déclaration publique faite par le professionnel ou d’autres personnes situées en amont dans la chaîne de transactions ou pour le compte du professionnel ou de telles personnes, en particulier dans les publicités ou sur l’étiquette, sauf si le professionnel démontre :
+a) être adapté aux finalités auxquelles serviraient normalement des contenus numériques ou des services numériques de même type, compte tenu, s’il y a lieu, de toute disposition du droit de l’Union européenne et du droit luxembourgeois en vigueur ainsi que de toutes les normes techniques existantes ou, en l’absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;
 
-   1. que le professionnel n’avait pas, et ne pouvait raisonnablement pas avoir, connaissance de la déclaration publique concernée ;
-   2. que, au moment de la conclusion du contrat, la déclaration publique avait été rectifiée de la même façon que celle selon laquelle ladite déclaration avait été faite ou d’une façon comparable ; ou
-   3. que la décision d’acquérir le contenu numérique ou le service numérique ne pouvait pas avoir été influencée par la déclaration publique ;
-3. le cas échéant, être fourni avec tous les accessoires et toutes les instructions que le consommateur peut raisonnablement s’attendre à recevoir ; et
-4. être conforme à la version d’essai ou à l’aperçu du contenu numérique ou du service numérique éventuellement mis à disposition par le professionnel avant la conclusion du contrat.
+b) être en quantité et présenter les qualités et les caractéristiques de performance, notamment en ce qui concerne la fonctionnalité, la compatibilité, l’accessibilité, la continuité et la sécurité, normales pour des contenus numériques ou des services numériques de même type et auxquelles le consommateur peut raisonnablement s’attendre, eu égard à la nature du contenu numérique ou du service numérique et compte tenu de toute déclaration publique faite par le professionnel ou d’autres personnes situées en amont dans la chaîne de transactions ou pour le compte du professionnel ou de telles personnes, en particulier dans les publicités ou sur l’étiquette, sauf si le professionnel démontre :
+
+i. que le professionnel n’avait pas, et ne pouvait raisonnablement pas avoir, connaissance de la déclaration publique concernée ;
+
+ii. que, au moment de la conclusion du contrat, la déclaration publique avait été rectifiée de la même façon que celle selon laquelle ladite déclaration avait été faite ou d’une façon comparable ; ou
+
+iii. que la décision d’acquérir le contenu numérique ou le service numérique ne pouvait pas avoir été influencée par la déclaration publique ;
+
+c) le cas échéant, être fourni avec tous les accessoires et toutes les instructions que le consommateur peut raisonnablement s’attendre à recevoir ; et
+
+d) être conforme à la version d’essai ou à l’aperçu du contenu numérique ou du service numérique éventuellement mis à disposition par le professionnel avant la conclusion du contrat.
 
 (2) Le professionnel veille à ce que le consommateur soit informé des mises à jour, y compris des mises à jour de sécurité, qui sont nécessaires au maintien de la conformité du contenu numérique ou du service numérique, et les reçoive au cours de la période :
 
-1. durant laquelle le contenu numérique ou le service numérique doit être fourni au titre du contrat, lorsque le contrat prévoit la fourniture continue pendant une certaine période ; ou
-2. à laquelle le consommateur peut raisonnablement s’attendre, eu égard au type et à la finalité du contenu numérique ou du service numérique et compte tenu des circonstances et de la nature du contrat, lorsque le contrat prévoit une opération de fourniture unique ou une série d’opérations de fourniture distinctes.
+a) durant laquelle le contenu numérique ou le service numérique doit être fourni au titre du contrat, lorsque le contrat prévoit la fourniture continue pendant une certaine période ; ou
+
+b) à laquelle le consommateur peut raisonnablement s’attendre, eu égard au type et à la finalité du contenu numérique ou du service numérique et compte tenu des circonstances et de la nature du contrat, lorsque le contrat prévoit une opération de fourniture unique ou une série d’opérations de fourniture distinctes.
 
 (3) Lorsque le consommateur n’installe pas, dans un délai raisonnable, les mises à jour fournies par le professionnel conformément au paragraphe (2), le professionnel n’est pas responsable d’un éventuel défaut de conformité résultant uniquement de la non-installation de la mise à jour concernée, à condition que :
 
-1. le professionnel ait informé le consommateur de la disponibilité de la mise à jour et des conséquences de sa non-installation par le consommateur ; et
-2. la non-installation ou l’installation incorrecte par le consommateur de la mise à jour ne soit pas due à des lacunes dans les instructions d’installation fournies par le professionnel.
+a) le professionnel ait informé le consommateur de la disponibilité de la mise à jour et des conséquences de sa non-installation par le consommateur ; et
+
+b) la non-installation ou l’installation incorrecte par le consommateur de la mise à jour ne soit pas due à des lacunes dans les instructions d’installation fournies par le professionnel.
 
 (4) Lorsque le contrat prévoit une fourniture continue du contenu numérique ou du service numérique pendant une certaine période, le contenu numérique ou le service numérique est conforme tout au long de cette période.
 
@@ -1102,8 +1273,9 @@ Afin d’être conforme au contrat, le contenu numérique ou le service numériq
 
 (2) Tout défaut de conformité résultant de l’intégration incorrecte du contenu numérique ou du service numérique dans l’environnement numérique du consommateur est réputé être un défaut de conformité du contenu numérique ou du service numérique si :
 
-1. le contenu numérique ou le service numérique a été intégré par le professionnel ou sous la responsabilité du professionnel ; ou
-2. le contenu numérique ou le service numérique était destiné à être intégré par le consommateur et que l’intégration incorrecte est due à des lacunes dans les instructions d’intégration fournies par le professionnel.
+a) le contenu numérique ou le service numérique a été intégré par le professionnel ou sous la responsabilité du professionnel ; ou
+
+b) le contenu numérique ou le service numérique était destiné à être intégré par le consommateur et que l’intégration incorrecte est due à des lacunes dans les instructions d’intégration fournies par le professionnel.
 
 **Art. L. 212-18.**
 
@@ -1131,8 +1303,9 @@ Afin d’être conforme au contrat, le contenu numérique ou le service numériq
 
 (2) Le paragraphe (1) ne s’applique pas, et le consommateur a droit à la résolution immédiate du contrat, lorsque :
 
-1. le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne fournira pas le contenu numérique ou le service numérique ;
-2. le consommateur et le professionnel sont convenus, ou il résulte clairement des circonstances entourant la conclusion du contrat, qu’il est indispensable pour le consommateur que le contenu numérique ou le service numérique soit fourni à un moment spécifique et que le professionnel n’a pas fourni ce contenu numérique ou ce service numérique avant ou à ce moment.
+a) le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne fournira pas le contenu numérique ou le service numérique ;
+
+b) le consommateur et le professionnel sont convenus, ou il résulte clairement des circonstances entourant la conclusion du contrat, qu’il est indispensable pour le consommateur que le contenu numérique ou le service numérique soit fourni à un moment spécifique et que le professionnel n’a pas fourni ce contenu numérique ou ce service numérique avant ou à ce moment.
 
 (3) Lorsque le consommateur exerce son droit à la résolution du contrat au titre du paragraphe (1) ou (2), les articles L. 212-22 à L. 212-25 s’appliquent en conséquence.
 
@@ -1142,18 +1315,23 @@ Afin d’être conforme au contrat, le contenu numérique ou le service numériq
 
 (2) Le consommateur est en droit d’obtenir la mise en conformité du contenu numérique ou du service numérique, sauf si cela s’avère impossible ou si cela risque d’imposer au professionnel des frais disproportionnés, compte tenu de toutes les circonstances de l’espèce, y compris :
 
-1. la valeur qu’aurait le contenu numérique ou le service numérique s’il n’existait pas de défaut de conformité ; et
-2. l’importance du défaut de conformité.
+a) la valeur qu’aurait le contenu numérique ou le service numérique s’il n’existait pas de défaut de conformité ; et
+
+b) l’importance du défaut de conformité.
 
 (3) Le professionnel procède à la mise en conformité du contenu numérique ou du service numérique, conformément au paragraphe (2), dans un délai raisonnable à compter du moment où il a été informé par le consommateur du défaut de conformité, sans frais et sans inconvénient majeur pour le consommateur, compte tenu de la nature du contenu numérique ou du service numérique et de la finalité recherchée par le consommateur.
 
 (4) Le consommateur a droit soit à une réduction proportionnelle du prix conformément au paragraphe (5) si le contenu numérique ou le service numérique est fourni en échange du paiement d’un prix, soit à la résolution du contrat conformément au paragraphe (6), dans chacun des cas suivants :
 
-1. le recours consistant dans la mise en conformité du contenu numérique ou du service numérique s’avère impossible ou disproportionné conformément au paragraphe (2) ;
-2. le professionnel n’a pas mis en conformité le contenu numérique ou le service numérique conformément au paragraphe (3) ;
-3. un défaut de conformité apparaît malgré la tentative du professionnel de mettre le contenu numérique ou le service numérique en conformité ;
-4. le défaut de conformité est si grave qu’il justifie une réduction immédiate du prix ou la résolution immédiate du contrat ; ou
-5. le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne procédera pas à la mise en conformité du contenu numérique ou du service numérique dans un délai raisonnable ou sans inconvénient majeur pour le consommateur.
+a) le recours consistant dans la mise en conformité du contenu numérique ou du service numérique s’avère impossible ou disproportionné conformément au paragraphe (2) ;
+
+b) le professionnel n’a pas mis en conformité le contenu numérique ou le service numérique conformément au paragraphe (3) ;
+
+c) un défaut de conformité apparaît malgré la tentative du professionnel de mettre le contenu numérique ou le service numérique en conformité ;
+
+d) le défaut de conformité est si grave qu’il justifie une réduction immédiate du prix ou la résolution immédiate du contrat ; ou
+
+e) le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne procédera pas à la mise en conformité du contenu numérique ou du service numérique dans un délai raisonnable ou sans inconvénient majeur pour le consommateur.
 
 (5) La réduction du prix est proportionnelle à la différence entre la valeur du contenu numérique ou du service numérique fourni au consommateur et la valeur qu’aurait le contenu numérique ou le service numérique s’il était conforme.
 
@@ -1177,10 +1355,13 @@ Toutefois, lorsque le contrat prévoit la fourniture du contenu numérique ou du
 
 (3) Le professionnel s’abstient d’utiliser tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel, sauf lorsque ce contenu :
 
-1. n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel ;
-2. n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel ;
-3. a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés ; ou
-4. a été généré conjointement par le consommateur et d’autres personnes et d’autres consommateurs peuvent continuer à en faire usage.
+a) n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel ;
+
+b) n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel ;
+
+c) a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés ; ou
+
+d) a été généré conjointement par le consommateur et d’autres personnes et d’autres consommateurs peuvent continuer à en faire usage.
 
 (4) Sauf dans les situations visées au paragraphe (3), lettre a), b) ou c), le professionnel met à la disposition du consommateur, à la demande de ce dernier, tout contenu autre que des données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel.
 
@@ -1208,10 +1389,13 @@ Le consommateur a le droit de récupérer ce contenu numérique sans frais, sans
 
 (1) Lorsque le contrat prévoit que le contenu numérique ou le service numérique est fourni ou est rendu accessible au consommateur pendant une certaine période, le professionnel ne peut modifier le contenu numérique ou le service numérique au-delà de ce qui est nécessaire pour maintenir la conformité du contenu numérique ou du service numérique conformément aux articles L. 212-15 et L. 212-16 que si les conditions suivantes sont remplies :
 
-1. le contrat autorise une telle modification et en fournit une raison valable ;
-2. une telle modification est effectuée sans coût supplémentaire pour le consommateur ;
-3. le consommateur est informé de la modification de façon claire et compréhensible ; et
-4. dans les cas visés au paragraphe (2), le consommateur est informé, raisonnablement à l’avance et sur un support durable, des caractéristiques et du calendrier de la modification ainsi que de son droit à la résolution du contrat conformément au paragraphe (2), ou de la possibilité dont il dispose de conserver le contenu numérique ou le service numérique sans cette modification, conformément au paragraphe (4).
+a) le contrat autorise une telle modification et en fournit une raison valable ;
+
+b) une telle modification est effectuée sans coût supplémentaire pour le consommateur ;
+
+c) le consommateur est informé de la modification de façon claire et compréhensible ; et
+
+d) dans les cas visés au paragraphe (2), le consommateur est informé, raisonnablement à l’avance et sur un support durable, des caractéristiques et du calendrier de la modification ainsi que de son droit à la résolution du contrat conformément au paragraphe (2), ou de la possibilité dont il dispose de conserver le contenu numérique ou le service numérique sans cette modification, conformément au paragraphe (4).
 
 (2) Le consommateur a droit à la résolution du contrat si la modification a une incidence négative sur son accès au contenu numérique ou au service numérique ou sur son utilisation du contenu numérique ou du service numérique, sauf si cette incidence négative n’a qu’un caractère mineur. Dans ce cas, le consommateur a droit à la résolution du contrat sans frais dans un délai de trente jours à compter de la date de réception de l’information ou à compter du moment où le contenu numérique ou le service numérique a été modifié par le professionnel, la date la plus éloignée étant retenue.
 
@@ -1255,9 +1439,11 @@ Section insérée par la ( loi du 8 décembre 2021 ).
 
 Constitue une garantie commerciale, tout engagement du vendeur ou du producteur (le garant) à l’égard du consommateur, en plus des obligations légales du vendeur tenant à la garantie de conformité des biens meubles corporels des articles L. 212-1 à L. 212-11, en vue :
 
-1. du remboursement du prix d’achat ;
-2. du remplacement ou de la réparation du bien ; ou
-3. de la prestation de tout autre service en relation avec le bien si ce dernier ne répond pas aux spécifications ou à d’autres exigences éventuelles non liées à la conformité énoncées dans la déclaration de garantie ou dans la publicité correspondante faite au moment de la conclusion du contrat ou avant celle-ci.
+a) du remboursement du prix d’achat ;
+
+b) du remplacement ou de la réparation du bien ; ou
+
+c) de la prestation de tout autre service en relation avec le bien si ce dernier ne répond pas aux spécifications ou à d’autres exigences éventuelles non liées à la conformité énoncées dans la déclaration de garantie ou dans la publicité correspondante faite au moment de la conclusion du contrat ou avant celle-ci.
 
 **Art. L. 212-31.**
 
@@ -1267,11 +1453,15 @@ Si les conditions prévues dans la déclaration de garantie commerciale sont moi
 
 (2) La déclaration de garantie commerciale est fournie au consommateur sur un support durable au plus tard au moment de la livraison des biens. Elle est rédigée en termes simples et intelligibles, en français ou en allemand, selon le choix du consommateur. Elle comprend les éléments suivants :
 
-1. une déclaration claire indiquant que le consommateur a légalement droit à des recours contre le vendeur, sans frais, en cas de défaut de conformité des biens, et que la garantie commerciale est sans effet sur ces recours ;
-2. le nom et l’adresse du garant ;
-3. la procédure à suivre par le consommateur pour obtenir la mise en œuvre de la garantie commerciale ;
-4. la désignation des biens auxquels s’applique la garantie commerciale ; et
-5. les conditions de la garantie commerciale.
+a) une déclaration claire indiquant que le consommateur a légalement droit à des recours contre le vendeur, sans frais, en cas de défaut de conformité des biens, et que la garantie commerciale est sans effet sur ces recours ;
+
+b) le nom et l’adresse du garant ;
+
+c) la procédure à suivre par le consommateur pour obtenir la mise en œuvre de la garantie commerciale ;
+
+d) la désignation des biens auxquels s’applique la garantie commerciale ; et
+
+e) les conditions de la garantie commerciale.
 
 (3) Le non-respect du paragraphe (2) est sans effet sur le caractère contraignant de la garantie commerciale pour le garant.
 
@@ -1297,16 +1487,15 @@ Celui qui répare une chose qui lui a été confiée à cette fin ou qui y appor
 
 (1) Au sens du présent chapitre, on entend par:
 
-1. «bien»:
+1\) «bien»:
 
-   1. [^note_9_44_0] tout objet mobilier corporel, sauf les objets vendus sur saisie ou de quelque autre manière par autorité de justice; l’eau, le gaz et l’électricité sont considérés comme des «biens» lorsqu’ils sont conditionnés dans un volume délimité ou en quantité déterminée;
-   2. [^note_9_45_0] tout objet mobilier corporel qui intègre un contenu numérique ou un service numérique ou est interconnecté avec un tel contenu ou un tel service d’une manière telle que l’absence de ce contenu numérique ou de ce service numérique empêcherait ce bien de remplir ses fonctions (« bien comportant des éléments numériques ») ;
-2. «contrat de vente»: tout contrat en vertu duquel le professionnel transfère ou s’engage à transférer la propriété des biens au consommateur
+a)[^note_9_44_0] tout objet mobilier corporel, sauf les objets vendus sur saisie ou de quelque autre manière par autorité de justice; l’eau, le gaz et l’électricité sont considérés comme des «biens» lorsqu’ils sont conditionnés dans un volume délimité ou en quantité déterminée;
 
-   [^note_9_46_0] , y compris les contrats ayant à la fois pour objet des biens et des services;
-3. «contrat de service»: tout contrat autre qu’un contrat de vente en vertu duquel le professionnel fournit ou s’engage à fournir un service au consommateur, y compris un service numérique
+b)[^note_9_45_0] tout objet mobilier corporel qui intègre un contenu numérique ou un service numérique ou est interconnecté avec un tel contenu ou un tel service d’une manière telle que l’absence de ce contenu numérique ou de ce service numérique empêcherait ce bien de remplir ses fonctions (« bien comportant des éléments numériques ») ;
 
-   [^note_9_47_0] .
+2\) «contrat de vente»: tout contrat en vertu duquel le professionnel transfère ou s’engage à transférer la propriété des biens au consommateur[^note_9_46_0] , y compris les contrats ayant à la fois pour objet des biens et des services;
+
+3\) «contrat de service»: tout contrat autre qu’un contrat de vente en vertu duquel le professionnel fournit ou s’engage à fournir un service au consommateur, y compris un service numérique[^note_9_47_0] .
 
 (2) Les articles L. 213-2 et L. 213-4 s’appliquent aux contrats de vente. Ils ne s’appliquent pas aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou de contenu numérique non fourni sur un support matériel.
 
@@ -1322,7 +1511,7 @@ Par dérogation à l’alinéa 1 <sup>er</sup> , le présent chapitre s’appliq
 
 (1) Sauf convention contraire, le professionnel doit livrer le bien en en transférant la possession physique ou le contrôle au consommateur sans retard injustifié, mais au plus tard dans un délai de trente jours après la conclusion du contrat.
 
-(2) En cas de défaut de livraison du bien par le professionnel au moment convenu avec le consommateur ou dans le délai prévu au paragraphe (1), le consommateur enjoint au professionnel, [^note_3_1_0] d’effectuer la livraison dans un délai supplémentaire adapté aux circonstances.
+(2) En cas de défaut de livraison du bien par le professionnel au moment convenu avec le consommateur ou dans le délai prévu au paragraphe (1), le consommateur enjoint au professionnel,[^note_3_1_0] d’effectuer la livraison dans un délai supplémentaire adapté aux circonstances.
 
 Si le professionnel n’effectue pas la livraison dans ledit délai supplémentaire, le consommateur a le droit de mettre fin au contrat.
 
@@ -1330,13 +1519,15 @@ La preuve relative aux deux alinéas précédents incombe au consommateur.
 
 Le premier alinéa ne n’applique pas:
 
-1. lorsque le professionnel a refusé de livrer le bien, ou
-2. lorsque la livraison dans le délai de livraison est essentielle, compte tenu de toutes les circonstances qui entourent la conclusion du contrat, ou
-3. lorsque le consommateur a informé le professionnel, avant la conclusion du contrat, que la livraison à une date précise ou au plus tard à une date déterminée est essentielle.
+a) lorsque le professionnel a refusé de livrer le bien, ou
+
+b) lorsque la livraison dans le délai de livraison est essentielle, compte tenu de toutes les circonstances qui entourent la conclusion du contrat, ou
+
+c) lorsque le consommateur a informé le professionnel, avant la conclusion du contrat, que la livraison à une date précise ou au plus tard à une date déterminée est essentielle.
 
 Dans les cas a) à c), si le professionnel n’effectue pas la livraison du bien au moment convenu avec le consommateur ou dans le délai prévu au paragraphe (1), le consommateur a le droit de mettre fin au contrat immédiatement sans qu’il ait besoin d’enjoindre au professionnel d’effectuer la livraison dans un délai supplémentaire.
 
-Le consommateur doit être remboursé sans retard excessif des sommes qu’il a, le cas échéant, versées en paiement. Si le remboursement ne s’opère pas endéans ce délai [^note_3_2_0] , la somme due est de plein droit majorée au taux de l’intérêt légal en vigueur à compter du premier jour suivant l’expiration de ce délai.
+Le consommateur doit être remboursé sans retard excessif des sommes qu’il a, le cas échéant, versées en paiement. Si le remboursement ne s’opère pas endéans ce délai[^note_3_2_0] , la somme due est de plein droit majorée au taux de l’intérêt légal en vigueur à compter du premier jour suivant l’expiration de ce délai.
 
 Le présent article ne prive pas le consommateur du droit d’exercer toute action contractuelle ou extra-contractuelle qui lui est reconnue par la loi.
 
@@ -1376,26 +1567,29 @@ Par dérogation à l’article L. 213-1, paragraphe (4), le présent article s�
 
 **Art. L. 213-7.**
 
-(1) [^note_9_49_0] En cas de fourniture non demandée, le consommateur est dispensé de toute contre-prestation, l’absence de réponse ne valant pas consentement.
+(1)[^note_9_49_0] En cas de fourniture non demandée, le consommateur est dispensé de toute contre-prestation, l’absence de réponse ne valant pas consentement.
 
 La charge de la preuve concernant la demande d’une fourniture incombe au professionnel.
 
-(2) [^note_9_50_0] *([Loi du 6 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/06/a968/jo))* Le fait d’exiger une contre-prestation, le renvoi ou la conservation en cas de fourniture non demandée est puni d’une amende de 251 à 120.000 euros.
+(2)[^note_9_50_0] *([Loi du 6 novembre 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/11/06/a968/jo))* Le fait d’exiger une contre-prestation, le renvoi ou la conservation en cas de fourniture non demandée est puni d’une amende de 251 à 120.000 euros.
 
 [^note_9_51_0] L’imposition de la sanction prévue à l’alinéa 1 <sup>er</sup> prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
+
+c) les éventuelles infractions antérieures commises par le professionnel ;
+
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) L’amende prévue au présent paragraphe est de nature correctionnelle.
 
-(3) [^note_9_52_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions de la présente section, il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
+(3)[^note_9_52_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions de la présente section, il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
 
 Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si, à la suite des explications fournies, le ministre ayant la Protection des consommateurs dans ses attributions conclut que le professionnel enfreint les dispositions de la présente section, il peut notifier par lettre recommandée au professionnel le constat de cette violation et exiger la mise en conformité dans un délai raisonnable avec les dispositions applicables.
 
@@ -1403,7 +1597,7 @@ Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si
 
 ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) Les alinéas 1<sup>er</sup> à 3 sont sans préjudice de l’action en cessation ou en interdiction des articles L. 322-1 et suivants.
 
-(4) [^note_9_53_0] Par dérogation au paragraphe (2), alinéa 1 <sup>er</sup> , lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
+(4)[^note_9_53_0] Par dérogation au paragraphe (2), alinéa 1 <sup>er</sup> , lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
 
 Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <sup>er</sup> , mais où les informations relatives au chiffre d’affaires annuel du professionnel ne sont pas disponibles, le montant maximal de l’amende est de 2.000.000 euros.
 
@@ -1413,19 +1607,23 @@ Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <
 
 ###### Art. L. 221-1.
 
-Sans préjudice de dispositions spécifiques des chapitres 2 à 4, le présent chapitre s’applique aux contrats à distance et hors établissement [^note_3_3_0] , aux contrats d’utilisation de biens à temps partagé, aux contrats de produits de vacances à long terme, aux contrats de revente et d’échange et aux contrats de crédit à la consommation.
+Sans préjudice de dispositions spécifiques des chapitres 2 à 4, le présent chapitre s’applique aux contrats à distance et hors établissement[^note_3_3_0] , aux contrats d’utilisation de biens à temps partagé, aux contrats de produits de vacances à long terme, aux contrats de revente et d’échange et aux contrats de crédit à la consommation.
 
-###### *Section 1* — *Informations précontractuelles [^note_3_3_1]*
+###### *Section 1* — *Informations précontractuelles[^note_3_3_1]*
 
 **Art. L. 221-2.**
 
 (1) En temps utile avant la conclusion d’un contrat visé par les chapitres 2 à 4, le consommateur doit recevoir les informations suivantes:
 
-1. l’identité du professionnel, l’adresse géographique à laquelle le professionnel est établi;
-2. les caractéristiques essentielles du bien ou service;
-3. le prix du bien ou du service, toutes taxes comprises ou, lorsqu’un prix exact ne peut être déterminé, la méthode de détermination du prix, permettant au consommateur de vérifier ce dernier;
-4. les modalités de paiement, de livraison ou d’exécution;
-5. l’existence ou l’absence d’un droit de rétractation.
+a) l’identité du professionnel, l’adresse géographique à laquelle le professionnel est établi;
+
+b) les caractéristiques essentielles du bien ou service;
+
+c) le prix du bien ou du service, toutes taxes comprises ou, lorsqu’un prix exact ne peut être déterminé, la méthode de détermination du prix, permettant au consommateur de vérifier ce dernier;
+
+d) les modalités de paiement, de livraison ou d’exécution;
+
+e) l’existence ou l’absence d’un droit de rétractation.
 
 (2) Les informations visées au paragraphe (1) doivent être fournies de manière claire et compréhensible.
 
@@ -1443,14 +1641,15 @@ Par dérogation à l’alinéa premier, pour les contrats visés à la première
 
 (. . .) *(abrogé par la [loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))*
 
-(2) [^note_3_3_2] Ces délais prennent cours:
+(2)[^note_3_3_2] Ces délais prennent cours:
 
-- pour la livraison de biens, le jour de la réception;
-- pour les prestations de services, le jour de la conclusion du contrat.
+aash pour la livraison de biens, le jour de la réception;
 
-(3) [^note_3_3_2] Les délais de rétractation sont censés être respectés dès lors que le consommateur a adressé [^note_3_3_3] sa rétractation auprès du professionnel avant l’expiration de celui-ci.
+bash pour les prestations de services, le jour de la conclusion du contrat.
 
-##### Chapitre 2 — **Contrats à distance et hors établissement** [^note_3_3_4]
+(3)[^note_3_3_2] Les délais de rétractation sont censés être respectés dès lors que le consommateur a adressé[^note_3_3_3] sa rétractation auprès du professionnel avant l’expiration de celui-ci.
+
+##### Chapitre 2 — **Contrats à distance et hors établissement**[^note_3_3_4]
 
 \*([Loi du 2 avril 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/04/02/n3/jo))*
 
@@ -1458,24 +1657,37 @@ Par dérogation à l’alinéa premier, pour les contrats visés à la première
 
 Au sens du présent chapitre, on entend par:
 
-1. «contrat à distance»: tout contrat conclu entre un professionnel et un consommateur dans le cadre d’un système organisé de vente ou de prestation de service à distance, sans la présence physique simultanée du professionnel et du consommateur, par le recours exclusif à une ou plusieurs techniques de communication à distance, jusqu’au moment, et y compris, au moment où le contrat est conclu;
-2. «contrat hors établissement»: tout contrat conclu entre un professionnel et un consommateur:
+1\) «contrat à distance»: tout contrat conclu entre un professionnel et un consommateur dans le cadre d’un système organisé de vente ou de prestation de service à distance, sans la présence physique simultanée du professionnel et du consommateur, par le recours exclusif à une ou plusieurs techniques de communication à distance, jusqu’au moment, et y compris, au moment où le contrat est conclu;
 
-   - conclu en la présence physique simultanée du professionnel et du consommateur, dans un lieu qui n’est pas l’établissement commercial du professionnel; ou
-   - ayant fait l’objet d’une offre du consommateur dans les mêmes circonstances, comme indiqué au premier tiret; ou
-   - conclu dans l’établissement commercial du professionnel ou au moyen d’une technique de communication à distance immédiatement après que le consommateur a été sollicité personnellement et individuellement dans un lieu qui n’est pas l’établissement commercial du professionnel, en la présence physique simultanée du professionnel et du consommateur; ou
-   - conclu pendant une excursion organisée par le professionnel ayant pour but ou pour effet de promouvoir et de vendre des biens ou des services au consommateur;
-3. «établissement commercial»:
+2\) «contrat hors établissement»: tout contrat conclu entre un professionnel et un consommateur:
 
-   1. tout site commercial immeuble où le professionnel exerce son activité en permanence; ou
-   2. tout site commercial meuble où le professionnel exerce son activité de manière habituelle;
-4. «bien»: tout objet mobilier corporel, sauf les objets vendus sur saisie ou de quelque autre manière par autorité de justice; l’eau, le gaz et l’électricité sont considérés comme des «biens» au sens du présent chapitre lorsqu’ils sont conditionnés dans un volume délimité ou en quantité déterminée;
-5. «bien fabriqué d’après les spécifications du consommateur»: bien non préfabriqué réalisé sur la base d’un choix individuel ou d’une décision du consommateur;
-6. «technique de communication à distance»: tout moyen qui, sans présence physique et simultanée du professionnel et du consommateur, peut être utilisé pour la conclusion du contrat entre ces parties;
-7. «opérateur de technique de communication»: toute personne physique ou morale, publique ou privée, dont l’activité professionnelle consiste à mettre à la disposition des professionnels une ou plusieurs techniques de communication à distance;
-8. «service financier»: tout service ayant trait à la banque, au crédit, à l’assurance, aux retraites individuelles, aux investissements et aux paiements;
-9. «services de la société de l’information»: tout service presté, normalement contre rémunération, à distance par voie électronique et à la demande individuelle d’un destinataire de services;
-10. «contrat accessoire»: un contrat en vertu duquel le consommateur acquiert des biens ou services afférents à un contrat à distance ou à un contrat hors établissement, ces biens ou services étant fournis par le professionnel ou un tiers sur la base d’un accord conclu entre ce dernier et le professionnel.
+aash conclu en la présence physique simultanée du professionnel et du consommateur, dans un lieu qui n’est pas l’établissement commercial du professionnel; ou
+
+bash ayant fait l’objet d’une offre du consommateur dans les mêmes circonstances, comme indiqué au premier tiret; ou
+
+cash conclu dans l’établissement commercial du professionnel ou au moyen d’une technique de communication à distance immédiatement après que le consommateur a été sollicité personnellement et individuellement dans un lieu qui n’est pas l’établissement commercial du professionnel, en la présence physique simultanée du professionnel et du consommateur; ou
+
+dash conclu pendant une excursion organisée par le professionnel ayant pour but ou pour effet de promouvoir et de vendre des biens ou des services au consommateur;
+
+3\) «établissement commercial»:
+
+a) tout site commercial immeuble où le professionnel exerce son activité en permanence; ou
+
+b) tout site commercial meuble où le professionnel exerce son activité de manière habituelle;
+
+4\) «bien»: tout objet mobilier corporel, sauf les objets vendus sur saisie ou de quelque autre manière par autorité de justice; l’eau, le gaz et l’électricité sont considérés comme des «biens» au sens du présent chapitre lorsqu’ils sont conditionnés dans un volume délimité ou en quantité déterminée;
+
+5\) «bien fabriqué d’après les spécifications du consommateur»: bien non préfabriqué réalisé sur la base d’un choix individuel ou d’une décision du consommateur;
+
+6\) «technique de communication à distance»: tout moyen qui, sans présence physique et simultanée du professionnel et du consommateur, peut être utilisé pour la conclusion du contrat entre ces parties;
+
+7\) «opérateur de technique de communication»: toute personne physique ou morale, publique ou privée, dont l’activité professionnelle consiste à mettre à la disposition des professionnels une ou plusieurs techniques de communication à distance;
+
+8\) «service financier»: tout service ayant trait à la banque, au crédit, à l’assurance, aux retraites individuelles, aux investissements et aux paiements;
+
+9\) «services de la société de l’information»: tout service presté, normalement contre rémunération, à distance par voie électronique et à la demande individuelle d’un destinataire de services;
+
+10\) «contrat accessoire»: un contrat en vertu duquel le consommateur acquiert des biens ou services afférents à un contrat à distance ou à un contrat hors établissement, ces biens ou services étant fournis par le professionnel ou un tiers sur la base d’un accord conclu entre ce dernier et le professionnel.
 
 ###### *Section 1* — *Contrats à distance et hors établissement hors services financiers*
 
@@ -1495,36 +1707,45 @@ La présente section ne s’applique pas aux contrats conclus hors établissemen
 
 (1) En plus des informations mentionnées à l’article L. 221-2, le professionnel doit fournir au consommateur, avant que ce dernier ne soit lié par le contrat ou par une offre du même type, sous une forme claire et compréhensible, les informations suivantes qui engagent contractuellement le professionnel:
 
-1. les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
-2. l’adresse géographique de l’établissement du professionnel ainsi que son numéro de téléphone et son adresse électronique, en outre, lorsque le professionnel fournit d’autres moyens de communication en ligne qui garantissent au consommateur d’être en mesure de conserver tous les échanges écrits avec le professionnel sur un support durable, y compris la date et l’heure desdits échanges, les informations contiennent également des indications détaillées concernant ces autres moyens ; tous ces moyens de communication fournis par le professionnel permettent au consommateur de le contacter rapidement et de communiquer avec lui efficacement et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;
+a) les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
 
-   [^note_9_54_0]
-3. si elle diffère de l’adresse fournie conformément au point b), l’adresse géographique du siège commercial du professionnel et, s’il y a lieu, celle du professionnel pour le compte duquel il agit, à laquelle le consommateur peut adresser une éventuelle réclamation;
-4. s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement qui s’additionnent au prix, et tous les autres frais éventuels ou, lorsque de tels frais supplémentaires ne peuvent raisonnablement être calculés à l’avance, la mention qu’ils peuvent être exigibles. Dans le cas d’un contrat à durée indéterminée ou d’un contrat assorti d’un abonnement, le prix total inclut le total des frais par période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l’avance, le mode de calcul du prix est communiqué;
-5. le coût de l’utilisation de la technique de communication à distance pour la conclusion du contrat, lorsqu’il est calculé sur une base autre que le tarif de base;
-6. la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter les services et, le cas échéant, les modalités prévues par le professionnel pour le traitement des réclamations;
-7. lorsque le droit de rétractation existe, les conditions, le délai et les modalités d’exercice de ce droit conformément à l’article 222-9, paragraphe (5), ainsi que le modèle de formulaire de rétractation repris dans un règlement grand-ducal;
-8. le cas échéant, le fait que le consommateur devra supporter les frais de renvoi en cas d’exercice du droit de rétractation et si le bien, en raison de sa nature, ne peut normalement pas être renvoyé par la poste, le coût de renvoi du bien;
-9. au cas où le consommateur exercerait le droit de rétractation après avoir présenté une demande conformément à l’article L. 222-4, paragraphe (7), l’information selon laquelle le consommateur est tenu de payer des frais raisonnables au professionnel conformément à l’article L. 222-10, paragraphe (6);
-10. lorsque le droit de rétractation n’est pas prévu conformément à l’article L. 222-9, paragraphe (7), l’information selon laquelle le consommateur ne bénéficiera pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son droit de rétractation;
-11. le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques
+b) l’adresse géographique de l’établissement du professionnel ainsi que son numéro de téléphone et son adresse électronique, en outre, lorsque le professionnel fournit d’autres moyens de communication en ligne qui garantissent au consommateur d’être en mesure de conserver tous les échanges écrits avec le professionnel sur un support durable, y compris la date et l’heure desdits échanges, les informations contiennent également des indications détaillées concernant ces autres moyens ; tous ces moyens de communication fournis par le professionnel permettent au consommateur de le contacter rapidement et de communiquer avec lui efficacement et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;[^note_9_54_0]
 
-   [^note_9_55_0] ;
-12. le cas échéant, l’existence d’une assistance après-vente, d’un service après-vente et de garanties commerciales, ainsi que les conditions y afférentes;
-13. l’existence de codes de conduite applicables, tels que définis à l’article 121-2, point 4 et comment en obtenir une copie, le cas échéant;
-14. la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
-15. s’il a lieu, la durée minimale des obligations du consommateur au titre du contrat;
-16. le cas échéant, l’existence d’une caution ou d’autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel, ainsi que les conditions y afférentes;
-17. s’il y a lieu, la fonctionnalité des biens comportant des éléments numériques, des contenus numériques et des services numériques
+c) si elle diffère de l’adresse fournie conformément au point b), l’adresse géographique du siège commercial du professionnel et, s’il y a lieu, celle du professionnel pour le compte duquel il agit, à laquelle le consommateur peut adresser une éventuelle réclamation;
 
-   [^note_9_56_0] , y compris les mesures de protection technique applicables;
-18. s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques
+d) s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement qui s’additionnent au prix, et tous les autres frais éventuels ou, lorsque de tels frais supplémentaires ne peuvent raisonnablement être calculés à l’avance, la mention qu’ils peuvent être exigibles. Dans le cas d’un contrat à durée indéterminée ou d’un contrat assorti d’un abonnement, le prix total inclut le total des frais par période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l’avance, le mode de calcul du prix est communiqué;
 
-   [^note_9_57_0] dont le professionnel a ou devrait raisonnablement avoir connaissance;
-19. le cas échéant, la possibilité de recourir à une procédure extrajudiciaire de réclamation et de réparation à laquelle le professionnel est soumis et les modalités d’accès à celle-ci.
-20. s’il y a lieu, l’application d’un prix personnalisé sur la base d’une prise de décision automatisée.
+e) le coût de l’utilisation de la technique de communication à distance pour la conclusion du contrat, lorsqu’il est calculé sur une base autre que le tarif de base;
 
-   [^note_9_58_0]
+f) la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter les services et, le cas échéant, les modalités prévues par le professionnel pour le traitement des réclamations;
+
+g) lorsque le droit de rétractation existe, les conditions, le délai et les modalités d’exercice de ce droit conformément à l’article 222-9, paragraphe (5), ainsi que le modèle de formulaire de rétractation repris dans un règlement grand-ducal;
+
+h) le cas échéant, le fait que le consommateur devra supporter les frais de renvoi en cas d’exercice du droit de rétractation et si le bien, en raison de sa nature, ne peut normalement pas être renvoyé par la poste, le coût de renvoi du bien;
+
+i) au cas où le consommateur exercerait le droit de rétractation après avoir présenté une demande conformément à l’article L. 222-4, paragraphe (7), l’information selon laquelle le consommateur est tenu de payer des frais raisonnables au professionnel conformément à l’article L. 222-10, paragraphe (6);
+
+j) lorsque le droit de rétractation n’est pas prévu conformément à l’article L. 222-9, paragraphe (7), l’information selon laquelle le consommateur ne bénéficiera pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son droit de rétractation;
+
+k) le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques[^note_9_55_0] ;
+
+l) le cas échéant, l’existence d’une assistance après-vente, d’un service après-vente et de garanties commerciales, ainsi que les conditions y afférentes;
+
+m) l’existence de codes de conduite applicables, tels que définis à l’article 121-2, point 4 et comment en obtenir une copie, le cas échéant;
+
+n) la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
+
+o) s’il a lieu, la durée minimale des obligations du consommateur au titre du contrat;
+
+p) le cas échéant, l’existence d’une caution ou d’autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel, ainsi que les conditions y afférentes;
+
+q) s’il y a lieu, la fonctionnalité des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_56_0] , y compris les mesures de protection technique applicables;
+
+r) s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_57_0] dont le professionnel a ou devrait raisonnablement avoir connaissance;
+
+s) le cas échéant, la possibilité de recourir à une procédure extrajudiciaire de réclamation et de réparation à laquelle le professionnel est soumis et les modalités d’accès à celle-ci.
+
+t) s’il y a lieu, l’application d’un prix personnalisé sur la base d’une prise de décision automatisée.[^note_9_58_0]
 
 (2) Le paragraphe (1) s’applique également aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel.
 
@@ -1540,12 +1761,15 @@ La présente section ne s’applique pas aux contrats conclus hors établissemen
 
 (8) Si une disposition de la loi de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) sur le commerce électronique ou de la [loi modifiée du 24 mai 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/jo) relative aux services dans le marché intérieur concernant le contenu de l’information ou ses modalités de fourniture est contraire à une disposition de la présente sous-section et de la sous-section 3, la disposition de ces sous-sections prime.
 
-(9) [^note_9_59_0] Avant que le consommateur ne soit lié par un contrat à distance, ou par une offre du même type, sur une place de marché en ligne, le fournisseur de cette dernière fournit au consommateur, sans préjudice des articles L. 122-1 à L. 122-7, les informations suivantes de manière claire et compréhensible et sous une forme adaptée à la technique de communication à distance :
+(9)[^note_9_59_0] Avant que le consommateur ne soit lié par un contrat à distance, ou par une offre du même type, sur une place de marché en ligne, le fournisseur de cette dernière fournit au consommateur, sans préjudice des articles L. 122-1 à L. 122-7, les informations suivantes de manière claire et compréhensible et sous une forme adaptée à la technique de communication à distance :
 
-1. les informations générales, mises à disposition dans une section spécifique de l’interface en ligne qui est directement et aisément accessible à partir de la page sur laquelle les offres sont présentées, concernant les principaux paramètres de classement, au sens des articles L. 121-2, point 11), et L. 122-3, paragraphe (6), des offres présentées au consommateur en réponse à la requête de recherche ainsi que l’ordre d’importance de ces paramètres, par opposition à d’autres paramètres ;
-2. si le tiers proposant les biens, les services ou les contenus numériques est un professionnel ou non, sur la base de la déclaration de ce tiers au fournisseur de place de marché en ligne ;
-3. lorsque le tiers proposant les biens, les services ou les contenus numériques n’est pas un professionnel, le fait que les droits des consommateurs provenant du droit de l’Union européenne en matière de protection des consommateurs ne s’appliquent pas au contrat ;
-4. s’il y a lieu, le mode de répartition des obligations liées au contrat entre le tiers proposant les biens, les services ou les contenus numériques et le fournisseur de place de marché en ligne, cette information étant sans préjudice de la responsabilité que le fournisseur de place de marché en ligne ou le professionnel tiers peut avoir en lien avec le contrat en vertu du droit de l’Union européenne ou du droit national.
+a) les informations générales, mises à disposition dans une section spécifique de l’interface en ligne qui est directement et aisément accessible à partir de la page sur laquelle les offres sont présentées, concernant les principaux paramètres de classement, au sens des articles L. 121-2, point 11), et L. 122-3, paragraphe (6), des offres présentées au consommateur en réponse à la requête de recherche ainsi que l’ordre d’importance de ces paramètres, par opposition à d’autres paramètres ;
+
+b) si le tiers proposant les biens, les services ou les contenus numériques est un professionnel ou non, sur la base de la déclaration de ce tiers au fournisseur de place de marché en ligne ;
+
+c) lorsque le tiers proposant les biens, les services ou les contenus numériques n’est pas un professionnel, le fait que les droits des consommateurs provenant du droit de l’Union européenne en matière de protection des consommateurs ne s’appliquent pas au contrat ;
+
+d) s’il y a lieu, le mode de répartition des obligations liées au contrat entre le tiers proposant les biens, les services ou les contenus numériques et le fournisseur de place de marché en ligne, cette information étant sans préjudice de la responsabilité que le fournisseur de place de marché en ligne ou le professionnel tiers peut avoir en lien avec le contrat en vertu du droit de l’Union européenne ou du droit national.
 
 **Sous-section 3 — Obligations formelles concernant les contrats à distance**
 
@@ -1561,13 +1785,13 @@ Par dérogation à l’article L. 222-2, paragraphe (1), le présent paragraphe 
 
 (3) Les sites de commerce en ligne indiquent clairement et lisiblement, au plus tard lors du début du processus de commande, si des restrictions de livraison s’appliquent et quels moyens de paiement sont acceptés.
 
-(4) Si le contrat est conclu selon une technique de communication à distance qui impose des contraintes d’espace ou de temps pour la présentation des informations, le professionnel fournit, sur la technique en question et avant la conclusion du contrat, au minimum les informations précontractuelles concernant les principales caractéristiques des biens ou des services, l’identité du professionnel, le prix total, le droit de rétractation, la durée du contrat et, dans le cas des contrats à durée indéterminée, les modalités pour mettre fin au contrat, telles qu’énoncées à l’article L. 221-2, paragraphe (1), points a), b), c) et e) et à l’article L. 222-3, paragraphe (1), points a), d), g) et n) à l’exception du modèle de formulaire de rétractation visé à l’article L. 222-9, paragraphe (5), lettre a) [^note_9_60_0] . Le professionnel fournit au consommateur les autres informations visées à l’article L. 221-2, paragraphe (1) et à l’article L. 222-3, paragraphe (1), sous une forme adaptée conformément au paragraphe (1).
+(4) Si le contrat est conclu selon une technique de communication à distance qui impose des contraintes d’espace ou de temps pour la présentation des informations, le professionnel fournit, sur la technique en question et avant la conclusion du contrat, au minimum les informations précontractuelles concernant les principales caractéristiques des biens ou des services, l’identité du professionnel, le prix total, le droit de rétractation, la durée du contrat et, dans le cas des contrats à durée indéterminée, les modalités pour mettre fin au contrat, telles qu’énoncées à l’article L. 221-2, paragraphe (1), points a), b), c) et e) et à l’article L. 222-3, paragraphe (1), points a), d), g) et n) à l’exception du modèle de formulaire de rétractation visé à l’article L. 222-9, paragraphe (5), lettre a)[^note_9_60_0] . Le professionnel fournit au consommateur les autres informations visées à l’article L. 221-2, paragraphe (1) et à l’article L. 222-3, paragraphe (1), sous une forme adaptée conformément au paragraphe (1).
 
 (5) Sans préjudice du paragraphe (4) et de l’article L. 222-11, paragraphe (1), dans le cas où le professionnel contacte le consommateur par téléphone en vue de conclure un contrat à distance, le professionnel indique explicitement au début de toute conversation avec le consommateur son identité et, le cas échéant, l’identité de la personne au nom de laquelle il effectue cet appel téléphonique, et précise la nature commerciale de l’appel.
 
 (6) Lorsqu’un contrat à distance est conclu par téléphone, le professionnel doit confirmer l’offre auprès du consommateur sur un support durable. Le consommateur n’est lié par l’offre qu’après l’avoir signée ou l’avoir acceptée par écrit.
 
-(7) Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article L. 222-9, paragraphe (2), et que le contrat soumet le consommateur à une obligation de payer [^note_9_61_0] , le professionnel exige du consommateur qu’il en fasse la demande expresse et il demande au consommateur de reconnaître qu’après que le contrat aura été entièrement exécuté par le professionnel, le consommateur ne disposera plus du droit de rétractation [^note_9_62_0] .
+(7) Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article L. 222-9, paragraphe (2), et que le contrat soumet le consommateur à une obligation de payer[^note_9_61_0] , le professionnel exige du consommateur qu’il en fasse la demande expresse et il demande au consommateur de reconnaître qu’après que le contrat aura été entièrement exécuté par le professionnel, le consommateur ne disposera plus du droit de rétractation[^note_9_62_0] .
 
 (8) Le présent article s’applique sans préjudice des dispositions relatives à la conclusion de contrats et à la passation de commandes par voie électronique telles qu’elles figurent aux articles 50 et 52 de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) sur le commerce électronique.
 
@@ -1575,7 +1799,7 @@ Par dérogation à l’article L. 222-2, paragraphe (1), le présent paragraphe 
 
 **Art. L. 222-5.**
 
-(1) Le professionnel doit fournir au consommateur, sur un support durable [^note_3_4_0] , confirmation du contrat conclu, comprenant toutes les informations mentionnées à l’article L. 221-2, paragraphe (1) et à l’article L. 222-3 paragraphe (1), dans un délai raisonnable après la conclusion du contrat à distance et au plus tard lors de la livraison du bien ou avant le début de l’exécution de la prestation de service à moins que ces informations ne lui aient déjà été fournies préalablement à la conclusion du contrat à distance sur un support durable.
+(1) Le professionnel doit fournir au consommateur, sur un support durable[^note_3_4_0] , confirmation du contrat conclu, comprenant toutes les informations mentionnées à l’article L. 221-2, paragraphe (1) et à l’article L. 222-3 paragraphe (1), dans un délai raisonnable après la conclusion du contrat à distance et au plus tard lors de la livraison du bien ou avant le début de l’exécution de la prestation de service à moins que ces informations ne lui aient déjà été fournies préalablement à la conclusion du contrat à distance sur un support durable.
 
 (2) Le cas échéant, le consommateur doit recevoir également, dans les conditions du paragraphe (1), la confirmation de l’accord préalable exprès et la reconnaissance par le consommateur conformément à l’article L. 222-9, paragraphe (7), point m.
 
@@ -1585,37 +1809,47 @@ Par dérogation à l’article L. 222-2, paragraphe (1), le présent paragraphe 
 
 (1) En plus des informations mentionnées à l’article L. 221-2, le professionnel doit fournir au consommateur, avant que ce dernier ne soit lié par le contrat ou par une offre du même type, sous une forme claire et compréhensible, les informations suivantes qui engagent contractuellement le professionnel:
 
-1. les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
-2. [^note_9_63_0]
-3. l’adresse géographique du professionnel, son numéro de téléphone
+a) les principales caractéristiques du bien ou du service, dans la mesure appropriée au support de communication utilisé et au bien ou service concerné;
 
-   [^note_9_64_0] et son adresse électronique, en outre, lorsque le professionnel fournit d’autres moyens de communication en ligne qui garantissent au consommateur d’être en mesure de conserver tous les échanges écrits avec le professionnel sur un support durable, y compris la date et l’heure desdits échanges, les informations contiennent également des indications détaillées concernant ces autres moyens ; tous ces moyens de communication fournis par le professionnel permettent [^note_9_65_0] au consommateur de le contacter rapidement et efficacement et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;
-4. si elle diffère de l’adresse fournie conformément au point c), l’adresse géographique du siège commercial et le cas échéant du siège social de l’entreprise et, s’il y a lieu, celle(s) du professionnel pour le compte duquel il agit, à laquelle le consommateur peut adresser une éventuelle réclamation;
-5. s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement qui s’additionnent au prix et tous les autres frais éventuels ou, lorsque de tels frais supplémentaires ne peuvent raisonnablement être calculés à l’avance, la mention qu’ils peuvent être exigibles. Dans le cas d’un contrat à durée indéterminée ou d’un contrat assorti d’un abonnement, le prix total inclut le total des frais par période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l’avance, le mode de calcul du prix doit être communiqué;
-6. le coût de l’utilisation de la technique de communication à distance pour la conclusion du contrat, lorsque ce coût est calculé sur une base autre que le tarif de base;
-7. la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter les services et, le cas échéant, les modalités prévues par le professionnel pour le traitement des réclamations;
-8. lorsque le droit de rétractation existe, les conditions, le délai et les modalités d’exercice de ce droit conformément à l’article L. 222-9, paragraphe (5), ainsi que le modèle de formulaire de rétractation repris dans un règlement grand-ducal;
-9. le cas échéant, le fait que le consommateur devra supporter les frais de renvoi du bien en cas de rétractation;
-10. au cas où le consommateur exercerait le droit de rétractation après avoir présenté une demande conformément à l’article L. 222-7, paragraphe (3), l’information selon laquelle le consommateur est tenu de payer des frais raisonnables au professionnel conformément à l’article L. 222-10, paragraphe (6);
-11. lorsque le droit de rétractation n’est pas prévu conformément à l’article L. 222-9, paragraphe (7), l’information selon laquelle le consommateur ne bénéficiera pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son droit de rétractation;
-12. le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques
+b)[^note_9_63_0]
 
-   [^note_9_66_0] ;
-13. le cas échéant, l’existence d’une assistance après-vente au consommateur, d’un service après-vente et de garanties commerciales, ainsi que les conditions y afférentes;
-14. l’existence de codes de conduite applicables, tels que définis à l’article 121-2, point 4 et comment en obtenir une copie, le cas échéant;
-15. la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
-16. s’il y a lieu, la durée minimale des obligations du consommateur au titre du contrat;
-17. le cas échéant, l’existence d’une caution ou d’autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel, ainsi que les conditions y afférentes;
-18. s’il y a lieu, les fonctionnalités des biens comportant des éléments numériques, des contenus numériques et des services numériques
+c) l’adresse géographique du professionnel, son numéro de téléphone[^note_9_64_0] et son adresse électronique, en outre, lorsque le professionnel fournit d’autres moyens de communication en ligne qui garantissent au consommateur d’être en mesure de conserver tous les échanges écrits avec le professionnel sur un support durable, y compris la date et l’heure desdits échanges, les informations contiennent également des indications détaillées concernant ces autres moyens ; tous ces moyens de communication fournis par le professionnel permettent[^note_9_65_0] au consommateur de le contacter rapidement et efficacement et, le cas échéant, l’adresse géographique et l’identité du professionnel pour le compte duquel il agit;
 
-   [^note_9_67_0] , y compris les mesures de protection technique applicables;
-19. s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques
+d) si elle diffère de l’adresse fournie conformément au point c), l’adresse géographique du siège commercial et le cas échéant du siège social de l’entreprise et, s’il y a lieu, celle(s) du professionnel pour le compte duquel il agit, à laquelle le consommateur peut adresser une éventuelle réclamation;
 
-   [^note_9_68_0] dont le professionnel a ou devrait raisonnablement avoir connaissance;
-20. le cas échéant, la possibilité de recourir à une procédure extrajudiciaire de réclamation et de réparation à laquelle le professionnel est soumis et les modalités d’accès à celle-ci.
-21. s’il y a lieu, l’application d’un prix personnalisé sur la base d’une prise de décision automatisée.
+e) s’il y a lieu, tous les frais supplémentaires de transport, de livraison ou d’affranchissement qui s’additionnent au prix et tous les autres frais éventuels ou, lorsque de tels frais supplémentaires ne peuvent raisonnablement être calculés à l’avance, la mention qu’ils peuvent être exigibles. Dans le cas d’un contrat à durée indéterminée ou d’un contrat assorti d’un abonnement, le prix total inclut le total des frais par période de facturation. Lorsque de tels contrats sont facturés à un tarif fixe, le prix total inclut également le total des coûts mensuels. Lorsque le coût total ne peut être raisonnablement calculé à l’avance, le mode de calcul du prix doit être communiqué;
 
-   [^note_9_69_0]
+f) le coût de l’utilisation de la technique de communication à distance pour la conclusion du contrat, lorsque ce coût est calculé sur une base autre que le tarif de base;
+
+g) la date à laquelle le professionnel s’engage à livrer les biens ou à exécuter les services et, le cas échéant, les modalités prévues par le professionnel pour le traitement des réclamations;
+
+h) lorsque le droit de rétractation existe, les conditions, le délai et les modalités d’exercice de ce droit conformément à l’article L. 222-9, paragraphe (5), ainsi que le modèle de formulaire de rétractation repris dans un règlement grand-ducal;
+
+i) le cas échéant, le fait que le consommateur devra supporter les frais de renvoi du bien en cas de rétractation;
+
+j) au cas où le consommateur exercerait le droit de rétractation après avoir présenté une demande conformément à l’article L. 222-7, paragraphe (3), l’information selon laquelle le consommateur est tenu de payer des frais raisonnables au professionnel conformément à l’article L. 222-10, paragraphe (6);
+
+k) lorsque le droit de rétractation n’est pas prévu conformément à l’article L. 222-9, paragraphe (7), l’information selon laquelle le consommateur ne bénéficiera pas de ce droit ou, le cas échéant, les circonstances dans lesquelles le consommateur perd son droit de rétractation;
+
+l) le rappel de l’existence d’une garantie légale de conformité pour les biens, les contenus numériques et les services numériques[^note_9_66_0] ;
+
+m) le cas échéant, l’existence d’une assistance après-vente au consommateur, d’un service après-vente et de garanties commerciales, ainsi que les conditions y afférentes;
+
+n) l’existence de codes de conduite applicables, tels que définis à l’article 121-2, point 4 et comment en obtenir une copie, le cas échéant;
+
+o) la durée du contrat, s’il y a lieu, ou, s’il s’agit d’un contrat à durée indéterminée ou à reconduction automatique, les conditions de résiliation du contrat;
+
+p) s’il y a lieu, la durée minimale des obligations du consommateur au titre du contrat;
+
+q) le cas échéant, l’existence d’une caution ou d’autres garanties financières à payer ou à fournir par le consommateur à la demande du professionnel, ainsi que les conditions y afférentes;
+
+r) s’il y a lieu, les fonctionnalités des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_67_0] , y compris les mesures de protection technique applicables;
+
+s) s’il y a lieu, toute compatibilité et interopérabilité pertinentes des biens comportant des éléments numériques, des contenus numériques et des services numériques[^note_9_68_0] dont le professionnel a ou devrait raisonnablement avoir connaissance;
+
+t) le cas échéant, la possibilité de recourir à une procédure extrajudiciaire de réclamation et de réparation à laquelle le professionnel est soumis et les modalités d’accès à celle-ci.
+
+u) s’il y a lieu, l’application d’un prix personnalisé sur la base d’une prise de décision automatisée.[^note_9_69_0]
 
 (2) Le paragraphe (1) s’applique également aux contrats portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel.
 
@@ -1639,12 +1873,13 @@ Par dérogation à l’article L. 222-2, paragraphe (1), le présent paragraphe 
 
 (2) Le professionnel fournit au consommateur une copie du contrat signé ou la confirmation du contrat sur papier ou, moyennant accord du consommateur, sur un autre support durable, y compris, le cas échéant, la confirmation de l’accord exprès préalable et de la reconnaissance par le consommateur conformément à l’article L. 222-9, paragraphe (7), point m, dans un délai raisonnable après la conclusion du contrat hors établissement et au plus tard lors de la livraison du bien ou avant le début de l’exécution de la prestation de service.
 
-(3) Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article L. 222-9, paragraphe (2), et que le contrat soumet le consommateur à une obligation de payer [^note_9_70_0] , le professionnel est tenu d’exiger du consommateur qu’il en fasse la demande expresse sur un support durable et il demande au consommateur de reconnaître qu’après que le contrat aura été entièrement exécuté par le professionnel, le consommateur ne disposera plus du droit de rétractation [^note_9_71_0] .
+(3) Lorsqu’un consommateur veut que la prestation d’un service ou la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain commence pendant le délai de rétractation prévu à l’article L. 222-9, paragraphe (2), et que le contrat soumet le consommateur à une obligation de payer[^note_9_70_0] , le professionnel est tenu d’exiger du consommateur qu’il en fasse la demande expresse sur un support durable et il demande au consommateur de reconnaître qu’après que le contrat aura été entièrement exécuté par le professionnel, le consommateur ne disposera plus du droit de rétractation[^note_9_71_0] .
 
 (4) En ce qui concerne les contrats hors établissement par lesquels le consommateur a explicitement fait appel aux services du professionnel pour effectuer des travaux de réparation ou de maintenance et en vertu desquels le professionnel et le consommateur exécutent immédiatement leurs obligations contractuelles et le paiement à effectuer par le consommateur ne dépasse pas 200,- EUR:
 
-1. le professionnel fournit au consommateur les informations visées à l’article L. 221-2, paragraphe (1), point a) et à l’article L. 222-6, paragraphe (1), points b) et c), et les informations sur le prix ou le mode de calcul du prix ainsi qu’une estimation du prix total, sur papier ou, moyennant accord du consommateur, sur un autre support durable; le professionnel fournit les informations visées à l’article L. 222-6, paragraphe (1), points a), h) et k), mais il peut choisir de ne pas les fournir sur papier ou sur un autre support durable, moyennant accord exprès du consommateur;
-2. la confirmation du contrat fournie conformément au paragraphe (2) du présent article contient les informations prévues à l’article L. 221-2, paragraphe (1) et à l’article L. 222-6, paragraphe (1).
+a) le professionnel fournit au consommateur les informations visées à l’article L. 221-2, paragraphe (1), point a) et à l’article L. 222-6, paragraphe (1), points b) et c), et les informations sur le prix ou le mode de calcul du prix ainsi qu’une estimation du prix total, sur papier ou, moyennant accord du consommateur, sur un autre support durable; le professionnel fournit les informations visées à l’article L. 222-6, paragraphe (1), points a), h) et k), mais il peut choisir de ne pas les fournir sur papier ou sur un autre support durable, moyennant accord exprès du consommateur;
+
+b) la confirmation du contrat fournie conformément au paragraphe (2) du présent article contient les informations prévues à l’article L. 221-2, paragraphe (1) et à l’article L. 222-6, paragraphe (1).
 
 (5) La charge de la preuve concernant le respect des exigences conformément au présent article incombe au professionnel.
 
@@ -1670,22 +1905,27 @@ En cas de récidive dans l’année, la confiscation ou la condamnation à la va
 
 (2) Sans préjudice du paragraphe (3) du présent article, le délai de rétractation visé au paragraphe (1) expire après une période de quatorze jours à compter:
 
-1. en ce qui concerne les contrats de service, du jour de la conclusion du contrat;
-2. en ce qui concerne les contrats de vente, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du bien ou:
+a) en ce qui concerne les contrats de service, du jour de la conclusion du contrat;
 
-   1. dans le cas de biens multiples commandés par le consommateur dans une seule commande et livrés séparément, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier bien;
-   2. dans le cas de la livraison d’un bien composé de lots ou de pièces multiples, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier lot ou de la dernière pièce;
-   3. dans le cas des contrats portant sur la livraison régulière de biens pendant une période de temps définie, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du premier bien;
-3. en ce qui concerne les contrats portant sur la fourniture d’eau, de gaz et d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel, du jour de la conclusion du contrat.
+b) en ce qui concerne les contrats de vente, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du bien ou:
 
-(3) Si le professionnel omet d’informer le consommateur de son droit de rétractation comme l’exige (. . .) [^note_3_5_0] l’article L. 222-3 paragraphe (1) point g) et l’article L. 222-6, paragraphe (1), point h, le délai de rétractation expire au terme d’une période de douze mois et prend cours à la fin du délai de rétractation initial, déterminé conformément au paragraphe (2) du présent article.
+i. dans le cas de biens multiples commandés par le consommateur dans une seule commande et livrés séparément, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier bien;
+
+ii. dans le cas de la livraison d’un bien composé de lots ou de pièces multiples, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du dernier lot ou de la dernière pièce;
+
+iii. dans le cas des contrats portant sur la livraison régulière de biens pendant une période de temps définie, du jour où le consommateur ou un tiers autre que le transporteur et désigné par le consommateur prend physiquement possession du premier bien;
+
+c) en ce qui concerne les contrats portant sur la fourniture d’eau, de gaz et d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ainsi que de chauffage urbain et de contenu numérique non fourni sur un support matériel, du jour de la conclusion du contrat.
+
+(3) Si le professionnel omet d’informer le consommateur de son droit de rétractation comme l’exige (. . .)[^note_3_5_0] l’article L. 222-3 paragraphe (1) point g) et l’article L. 222-6, paragraphe (1), point h, le délai de rétractation expire au terme d’une période de douze mois et prend cours à la fin du délai de rétractation initial, déterminé conformément au paragraphe (2) du présent article.
 
 (4) Si le professionnel a communiqué au consommateur les informations visées au paragraphe (3) du présent article dans un délai de douze mois à compter du jour visé au paragraphe (2) du présent article, le délai de rétractation expire au terme d’une période de quatorze jours à compter du jour de la réception de ces informations par le consommateur.
 
 (5) Le consommateur informe le professionnel, avant l’expiration du délai de rétractation, de sa décision de se rétracter du contrat. Pour ce faire, le consommateur peut soit:
 
-1. utiliser le modèle de formulaire de rétractation repris dans un règlement grand-ducal; ou
-2. faire une autre déclaration dénuée d’ambiguïté exposant sa décision de se rétracter du contrat.
+a) utiliser le modèle de formulaire de rétractation repris dans un règlement grand-ducal; ou
+
+b) faire une autre déclaration dénuée d’ambiguïté exposant sa décision de se rétracter du contrat.
 
 Le professionnel peut donner au consommateur, en plus des possibilités visées au premier alinéa du présent paragraphe, la faculté de remplir et de transmettre en ligne, sur le site internet du professionnel, soit le modèle de formulaire de rétractation visé audit alinéa et repris dans un règlement grand-ducal, soit une autre déclaration dénuée d’ambiguïté. Dans ces cas, le professionnel est tenu de communiquer sans délai au consommateur un accusé de réception de la rétractation sur un support durable.
 
@@ -1693,8 +1933,9 @@ La charge de la preuve concernant l’exercice du droit de rétractation conform
 
 (6) L’exercice du droit de rétractation a pour effet d’éteindre l’obligation des parties:
 
-1. d’exécuter le contrat à distance ou le contrat hors établissement; ou
-2. de conclure le contrat à distance ou hors établissement, dans les cas où le consommateur a fait une offre.
+a) d’exécuter le contrat à distance ou le contrat hors établissement; ou
+
+b) de conclure le contrat à distance ou hors établissement, dans les cas où le consommateur a fait une offre.
 
 Lorsque le prix d’un bien ou d’un service est entièrement ou partiellement couvert par un crédit accordé au consommateur par le professionnel ou par un tiers, sur la base d’un accord conclu entre ce dernier et le professionnel, l’exercice par le consommateur de son droit de rétractation entraîne la résiliation, sans pénalité, du contrat de crédit.
 
@@ -1702,25 +1943,37 @@ Sans préjudice du paragraphe précédent et de l’article L. 224-16 du présen
 
 (7) Sauf convention contraire, le consommateur ne peut exercer le droit de rétractation pour les contrats:
 
-1. de fourniture de services après que le service a été pleinement exécuté mais, si le contrat soumet le consommateur à une obligation de payer, seulement
+a) de fourniture de services après que le service a été pleinement exécuté mais, si le contrat soumet le consommateur à une obligation de payer, seulement[^note_9_72_0] si l’exécution a commencé avec l’accord préalable exprès du consommateur, et à condition qu’il ait également reconnu qu’il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par le professionnel;
 
-   [^note_9_72_0] si l’exécution a commencé avec l’accord préalable exprès du consommateur, et à condition qu’il ait également reconnu qu’il perdra son droit de rétractation une fois que le contrat aura été pleinement exécuté par le professionnel;
-2. de fourniture de biens ou de services dont le prix est fonction des fluctuations sur le marché financier, échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation;
-3. de fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés;
-4. de fourniture de biens qui sont susceptibles de se détériorer ou de se périmer rapidement;
-5. de fourniture de biens scellés ne pouvant être renvoyés pour des raisons de protection de la santé ou d’hygiène et qui ont été descellés par le consommateur après la livraison;
-6. de fourniture de biens qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres articles;
-7. de fourniture de boissons alcoolisées dont le prix a été convenu au moment de la conclusion du contrat de vente, dont la livraison ne peut être effectuée qu’après trente jours et dont la valeur réelle dépend de fluctuations sur le marché échappant au contrôle du professionnel;
-8. dans lesquels le consommateur a expressément demandé au professionnel de lui rendre visite afin d’effectuer des travaux urgents d’entretien ou de réparation. Si, toutefois, à l’occasion de cette visite, le professionnel fournit des services venant s’ajouter à ceux spécifiquement requis par le consommateur ou des biens autres que les pièces de rechange indispensables aux travaux d’entretien ou de réparation, le droit de rétractation s’applique à ces services ou biens supplémentaires;
-9. de fourniture d’enregistrements audio ou vidéo scellés ou de logiciels informatiques scellés et qui ont été descellés par le consommateur après la livraison;
-10. de fourniture de journaux, de périodiques et de magazines sauf pour les contrats d’abonnement à ces publications;
-11. de ventes conclus lors d’enchères publiques;
-12. de fourniture de services d’hébergement (autres qu’à des fins résidentielles), de transport de biens, de location de voitures, de restauration, ou liés à des activités de loisirs, si le contrat prévoit une date ou une période d’exécution spécifique;
-13. de fourniture d’un contenu numérique non fourni sur un support matériel si l’exécution a commencé avec l’accord préalable exprès du consommateur, et à condition [^note_9_73_0] que le contrat soumet le consommateur à une obligation de payer, si :
+b) de fourniture de biens ou de services dont le prix est fonction des fluctuations sur le marché financier, échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation;
 
-   1. le consommateur a donné son consentement préalable exprès pour que l’exécution commence pendant le délai de rétractation ;
-   2. le consommateur a reconnu qu’il perdra ainsi son droit de rétractation ; et
-   3. le professionnel a fourni une confirmation conformément à l’article L. 222-7, paragraphe (2), ou à l’article L. 222-5. ».
+c) de fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés;
+
+d) de fourniture de biens qui sont susceptibles de se détériorer ou de se périmer rapidement;
+
+e) de fourniture de biens scellés ne pouvant être renvoyés pour des raisons de protection de la santé ou d’hygiène et qui ont été descellés par le consommateur après la livraison;
+
+f) de fourniture de biens qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres articles;
+
+g) de fourniture de boissons alcoolisées dont le prix a été convenu au moment de la conclusion du contrat de vente, dont la livraison ne peut être effectuée qu’après trente jours et dont la valeur réelle dépend de fluctuations sur le marché échappant au contrôle du professionnel;
+
+h) dans lesquels le consommateur a expressément demandé au professionnel de lui rendre visite afin d’effectuer des travaux urgents d’entretien ou de réparation. Si, toutefois, à l’occasion de cette visite, le professionnel fournit des services venant s’ajouter à ceux spécifiquement requis par le consommateur ou des biens autres que les pièces de rechange indispensables aux travaux d’entretien ou de réparation, le droit de rétractation s’applique à ces services ou biens supplémentaires;
+
+i) de fourniture d’enregistrements audio ou vidéo scellés ou de logiciels informatiques scellés et qui ont été descellés par le consommateur après la livraison;
+
+j) de fourniture de journaux, de périodiques et de magazines sauf pour les contrats d’abonnement à ces publications;
+
+k) de ventes conclus lors d’enchères publiques;
+
+l) de fourniture de services d’hébergement (autres qu’à des fins résidentielles), de transport de biens, de location de voitures, de restauration, ou liés à des activités de loisirs, si le contrat prévoit une date ou une période d’exécution spécifique;
+
+m) de fourniture d’un contenu numérique non fourni sur un support matériel si l’exécution a commencé avec l’accord préalable exprès du consommateur, et à condition[^note_9_73_0] que le contrat soumet le consommateur à une obligation de payer, si :
+
+(i) le consommateur a donné son consentement préalable exprès pour que l’exécution commence pendant le délai de rétractation ;
+
+(ii) le consommateur a reconnu qu’il perdra ainsi son droit de rétractation ; et
+
+(iii) le professionnel a fourni une confirmation conformément à l’article L. 222-7, paragraphe (2), ou à l’article L. 222-5. ».
 
 **Art. L. 222-10.**
 
@@ -1748,30 +2001,37 @@ En ce qui concerne les contrats hors établissement, lorsque les biens ont été
 
 (7) Le consommateur n’est redevable d’aucun coût:
 
-1. pour la prestation de services ou pour la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, en tout ou partie, pendant le délai de rétractation, lorsque:
+a) pour la prestation de services ou pour la fourniture d’eau, de gaz ou d’électricité, lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, en tout ou partie, pendant le délai de rétractation, lorsque:
 
-   1. le professionnel a omis de fournir les informations visées à l’article L. 222-3, paragraphe (1), points g) ou i) ou à l’article L. 222-6, paragraphe (1), points h) ou j); ou
-   2. lorsque le consommateur n’a pas expressément demandé que l’exécution commence pendant le délai de rétractation en application de l’article L. 222-4, paragraphe (7) ou de l’article L. 222-7, paragraphe (3); ou
-2. pour la fourniture, en tout ou partie, d’un contenu numérique qui n’est pas fourni sur un support matériel, lorsque:
+i. le professionnel a omis de fournir les informations visées à l’article L. 222-3, paragraphe (1), points g) ou i) ou à l’article L. 222-6, paragraphe (1), points h) ou j); ou
 
-   1. le consommateur n’a pas donné son accord préalable exprès pour que l’exécution commence avant la fin du délai de quatorze jours visé à l’article L. 222-9; ou
-   2. le consommateur n’a pas reconnu perdre son droit de rétractation en donnant son accord; ou
-   3. le professionnel a omis de fournir une confirmation conformément à l’article L. 222-5, paragraphes 1 et 2 ou à l’article L. 222-7, paragraphe (2).
+ii. lorsque le consommateur n’a pas expressément demandé que l’exécution commence pendant le délai de rétractation en application de l’article L. 222-4, paragraphe (7) ou de l’article L. 222-7, paragraphe (3); ou
+
+b) pour la fourniture, en tout ou partie, d’un contenu numérique qui n’est pas fourni sur un support matériel, lorsque:
+
+i. le consommateur n’a pas donné son accord préalable exprès pour que l’exécution commence avant la fin du délai de quatorze jours visé à l’article L. 222-9; ou
+
+ii. le consommateur n’a pas reconnu perdre son droit de rétractation en donnant son accord; ou
+
+iii. le professionnel a omis de fournir une confirmation conformément à l’article L. 222-5, paragraphes 1 et 2 ou à l’article L. 222-7, paragraphe (2).
 
 (8) Sauf disposition contraire du présent article, le consommateur n’encourt aucune responsabilité du fait de l’exercice du droit de rétractation.
 
-(9) [^note_9_74_0] En cas de rétractation du contrat, le consommateur s’abstient d’utiliser le contenu numérique ou le service numérique et de le rendre accessible à des tiers.
+(9)[^note_9_74_0] En cas de rétractation du contrat, le consommateur s’abstient d’utiliser le contenu numérique ou le service numérique et de le rendre accessible à des tiers.
 
-**Art. L. 222-10-1. [^note_9_75_0]**
+**Art. L. 222-10-1.[^note_9_75_0]**
 
 (1) En ce qui concerne les données à caractère personnel du consommateur, le professionnel respecte les obligations applicables en vertu du [règlement (UE) 2016/679](https://legilux.public.lu/eli/reg_ue/2016/679/jo) du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la [directive 95/46/CE](https://legilux.public.lu/eli/dir_ue/1995/46/jo) (règlement général sur la protection des données).
 
 (2) Le professionnel s’abstient d’utiliser tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel, sauf lorsque ce contenu :
 
-1. n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel ;
-2. n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel ;
-3. a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés ; ou
-4. a été généré conjointement par le consommateur et d’autres personnes, et d’autres consommateurs peuvent continuer à en faire usage.
+a) n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel ;
+
+b) n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel ;
+
+c) a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés ; ou
+
+d) a été généré conjointement par le consommateur et d’autres personnes, et d’autres consommateurs peuvent continuer à en faire usage.
 
 (3) Sauf dans les situations visées au paragraphe (2), lettres a), b) ou c), le professionnel met à la disposition du consommateur, à la demande de ce dernier, tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel.
 
@@ -1785,10 +2045,13 @@ En ce qui concerne les contrats hors établissement, lorsque les biens ont été
 
 (1) L’utilisation par un professionnel des techniques de communication à distance suivantes nécessite le consentement préalable du consommateur:
 
-1. système automatisé d’appel sans intervention humaine (automate d’appel);
-2. télécopie;
-3. téléphone;
-4. courrier électronique.
+a) système automatisé d’appel sans intervention humaine (automate d’appel);
+
+b) télécopie;
+
+c) téléphone;
+
+d) courrier électronique.
 
 \*([Loi du 17 février 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/02/17/n1/jo))*
 
@@ -1798,11 +2061,13 @@ Les techniques de communication à distance autres que celles visées à l’ali
 
 (2) La preuve
 
-- de l’existence et du contenu d’une information précontractuelle,
-- d’une confirmation du contrat,
-- du respect des délais et du consentement du consommateur,
+aash de l’existence et du contenu d’une information précontractuelle,
 
-  incombe au professionnel. Toute clause contraire est considérée comme abusive au sens de l’article L. 211-2.
+bash d’une confirmation du contrat,
+
+cash du respect des délais et du consentement du consommateur,
+
+incombe au professionnel. Toute clause contraire est considérée comme abusive au sens de l’article L. 211-2.
 
 (3) Le non-respect d’une ou plusieurs obligations d’information essentielles dans les contrats conclus à distance ou hors établissement peut entraîner la nullité du contrat. Cette nullité ne peut toutefois être invoquée que par le consommateur.
 
@@ -1820,20 +2085,23 @@ Les techniques de communication à distance autres que celles visées à l’ali
 
 (9) Tout manquement aux dispositions des articles L. 221-3, L. 222-9 et L. 222-10 encadrant les conditions d’exercice du droit de rétractation reconnu au consommateur, ainsi que ses effets, sera puni d’une amende de 500 à 50.000 euros.
 
-(10) [^note_9_76_0] L’imposition d’une sanction prévue aux paragraphes (4) à (9) prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
+(10)[^note_9_76_0] L’imposition d’une sanction prévue aux paragraphes (4) à (9) prend en considération les critères non exhaustifs et indicatifs suivants, le cas échéant :
 
-1. la nature, la gravité, l’ampleur et la durée de l’infraction ;
-2. toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
-3. les éventuelles infractions antérieures commises par le professionnel ;
-4. les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
-5. les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le
+a) la nature, la gravité, l’ampleur et la durée de l’infraction ;
 
-   [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
-6. toute autre circonstance aggravante ou atténuante applicable au cas concerné.
+b) toute mesure prise par le professionnel pour atténuer ou réparer les dommages subis par les consommateurs ;
+
+c) les éventuelles infractions antérieures commises par le professionnel ;
+
+d) les avantages financiers obtenus ou les pertes évitées par le professionnel du fait de l’infraction, si les données concernées sont disponibles ;
+
+e) les sanctions infligées au professionnel pour la même infraction dans d’autres États membres dans les affaires transfrontalières pour lesquelles les informations relatives à ces sanctions sont disponibles grâce au mécanisme établi par le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité ;
+
+f) toute autre circonstance aggravante ou atténuante applicable au cas concerné.
 
 ([L. 27 août 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/08/27/a393/jo)) Les amendes prévues aux paragraphes (4) à (9) sont de nature correctionnelle.
 
-(11) [^note_9_77_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions des paragraphes (4) à (9), il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
+(11)[^note_9_77_0] Si le ministre ayant la Protection des consommateurs dans ses attributions prend connaissance du non-respect par un professionnel des dispositions des paragraphes (4) à (9), il peut inviter le professionnel à fournir des explications endéans un délai qui ne saurait être inférieur à quinze jours calendriers.
 
 Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si, à la suite des explications fournies, le ministre ayant la Protection des consommateurs dans ses attributions conclut que le professionnel enfreint les dispositions visées par les paragraphes (4) à (9), il peut notifier par lettre recommandée au professionnel le constat de cette violation et exiger la mise en conformité dans un délai raisonnable avec les dispositions applicables.
 
@@ -1841,7 +2109,7 @@ Au terme de ce délai, si le professionnel n’a fourni aucune explication ou si
 
 ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) Les alinéas 1<sup>er</sup> à 3 sont sans préjudice de l’action en cessation ou en interdiction des articles L. 322-1 et suivants.
 
-(12) [^note_9_78_0] Par dérogation aux paragraphes (4) à (9), lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
+(12)[^note_9_78_0] Par dérogation aux paragraphes (4) à (9), lorsque des sanctions doivent être imposées conformément à l’article 21 du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) précité, le montant maximal de l’amende encourue par le professionnel correspond à 4 pour cent du chiffre d’affaires annuel du professionnel dans l’État membre ou les États membres concernés.
 
 Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <sup>er</sup> , mais où les informations relatives au chiffre d’affaires annuel du professionnel ne sont pas disponibles, le montant maximal de l’amende est de 2.000.000 euros.
 
@@ -1855,8 +2123,9 @@ Dans les cas où une amende doit être imposée conformément à l’alinéa 1 <
 
 (2) Ne constituent pas en tant que telles des communications commerciales:
 
-- les coordonnées permettant l’accès direct à ce professionnel, notamment un nom de domaine ou une adresse de courrier électronique;
-- les communications relatives aux biens, aux services ou à l’image de ce professionnel élaborées d’une manière indépendante de ce dernier, en particulier lorsqu’elles sont fournies sans contrepartie financière.
+aash les coordonnées permettant l’accès direct à ce professionnel, notamment un nom de domaine ou une adresse de courrier électronique;
+
+bash les communications relatives aux biens, aux services ou à l’image de ce professionnel élaborées d’une manière indépendante de ce dernier, en particulier lorsqu’elles sont fournies sans contrepartie financière.
 
 **Art. L. 222-13.**
 
@@ -1874,39 +2143,55 @@ Les règles relatives à la commercialisation à distance des contrats d’assur
 
 (1) En plus des informations mentionnées à l’article L. 221-2 du présent Code, le consommateur reçoit, en temps utile avant qu’il ne soit lié par un contrat à distance ou par une offre, les informations suivantes sur:
 
-1. le professionnel:
+1\) le professionnel:
 
-   1. l’activité principale du professionnel et toute autre adresse géographique à prendre en compte pour les relations entre le consommateur et le professionnel;
-   2. l’identité du représentant du professionnel établi dans l’Etat membre de résidence du consommateur et l’adresse géographique à prendre en compte pour les relations entre le consommateur et le représentant, lorsqu’un tel représentant existe;
-   3. si le consommateur a des relations commerciales avec un tiers autre que le professionnel, l’identité de ce tiers, le titre auquel il agit à l’égard du consommateur et l’adresse géographique à prendre en compte dans les relations entre le consommateur et le tiers;
-   4. lorsque le professionnel est inscrit sur un registre commercial ou sur un registre public similaire, le registre du commerce sur lequel le professionnel est inscrit et son numéro d’enregistrement ou un moyen équivalent d’identification dans ce registre;
-   5. dans le cas où l’activité est soumise à un régime d’autorisation, les coordonnées de l’autorité de surveillance compétente;
-2. le service financier:
+a) l’activité principale du professionnel et toute autre adresse géographique à prendre en compte pour les relations entre le consommateur et le professionnel;
 
-   1. Pour l’application du présent chapitre, l’information sur le prix au sens de l’article L. 221-2, paragraphe (1) point c) du présent Code doit également comprendre:
+b) l’identité du représentant du professionnel établi dans l’Etat membre de résidence du consommateur et l’adresse géographique à prendre en compte pour les relations entre le consommateur et le représentant, lorsqu’un tel représentant existe;
 
-      - le prix total dû par le consommateur au professionnel pour le service financier, y compris l’ensemble des commissions, charges et dépenses y afférentes et toutes les taxes acquittées par l’intermédiaire du professionnel ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au consommateur de vérifier ce dernier;
-      - l’indication de l’existence éventuelle d’autres taxes et/ou frais qui ne sont pas acquittés par l’intermédiaire du professionnel ou facturés par lui;
-      - tout coût supplémentaire spécifique pour le consommateur afférent à l’utilisation de la technique de communication à distance, lorsque ce coût supplémentaire est facturé;
-   2. le cas échéant une notification indiquant que le service financier est lié à des instruments qui impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de fluctuations des marchés financiers sur lesquelles le professionnel n’a aucune influence et que les performances passées ne laissent pas présager les performances futures;
-   3. toute limitation de la durée pendant laquelle les informations fournies sont valables;
-3. le contrat à distance:
+c) si le consommateur a des relations commerciales avec un tiers autre que le professionnel, l’identité de ce tiers, le titre auquel il agit à l’égard du consommateur et l’adresse géographique à prendre en compte dans les relations entre le consommateur et le tiers;
 
-   1. s’il existe un droit de rétractation tel que prévu aux articles L. 221-3 et L. 222-18 du présent Code, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer sur la base de l’article L. 222-19, ainsi que sur les conséquences découlant de l’absence d’exercice de ce droit;
-   2. pour l’application du présent chapitre, l’information sur les modalités de paiement, de livraison ou d’exécution au sens de l’article L. 221-2, paragraphe (1) point d) du présent Code doit également comprendre:
+d) lorsque le professionnel est inscrit sur un registre commercial ou sur un registre public similaire, le registre du commerce sur lequel le professionnel est inscrit et son numéro d’enregistrement ou un moyen équivalent d’identification dans ce registre;
 
-      - la durée minimale du contrat à distance, en cas de contrat de prestation de services financiers permanente ou périodique;
-      - les informations relatives aux droits que peuvent avoir les parties de résilier le contrat à distance par anticipation ou unilatéralement en vertu des termes du contrat à distance, y compris les éventuelles pénalités imposées par le contrat dans ce cas;
-      - des instructions pratiques pour l’exercice du droit de rétractation indiquant, entre autres, l’adresse à laquelle la notification doit être envoyée;
-   3. le ou les Etats sur la législation duquel/desquels le professionnel se fonde pour établir les relations avec le consommateur avant la conclusion du contrat à distance;
-   4. toute clause contractuelle concernant la législation applicable au contrat à distance ou concernant la juridiction compétente;
-   5. la langue ou les langues dans laquelle/lesquelles sont communiquées les conditions contractuelles ainsi que les informations précontractuelles visées dans le présent article et, en outre, la langue ou les langues dans laquelle/lesquelles le professionnel s’engage, en accord avec le consommateur, à communiquer pendant la durée du contrat;
-4. d’autres informations:
+e) dans le cas où l’activité est soumise à un régime d’autorisation, les coordonnées de l’autorité de surveillance compétente;
 
-   1. l’existence ou l’absence de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur qui est partie au contrat à distance et, si de telles procédures existent, les modalités d’accès à ces dernières;
-   2. l’existence de fonds de garantie ou de mécanismes d’indemnisation similaires, autres que les systèmes de garantie de dépôts et les systèmes d’indemnisation des investisseurs régis par la
+2\) le service financier:
 
-      [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier.
+a) Pour l’application du présent chapitre, l’information sur le prix au sens de l’article L. 221-2, paragraphe (1) point c) du présent Code doit également comprendre:
+
+aot le prix total dû par le consommateur au professionnel pour le service financier, y compris l’ensemble des commissions, charges et dépenses y afférentes et toutes les taxes acquittées par l’intermédiaire du professionnel ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au consommateur de vérifier ce dernier;
+
+bot l’indication de l’existence éventuelle d’autres taxes et/ou frais qui ne sont pas acquittés par l’intermédiaire du professionnel ou facturés par lui;
+
+cot tout coût supplémentaire spécifique pour le consommateur afférent à l’utilisation de la technique de communication à distance, lorsque ce coût supplémentaire est facturé;
+
+b) le cas échéant une notification indiquant que le service financier est lié à des instruments qui impliquent des risques particuliers du fait de leurs spécificités ou des opérations à exécuter ou dont le prix dépend de fluctuations des marchés financiers sur lesquelles le professionnel n’a aucune influence et que les performances passées ne laissent pas présager les performances futures;
+
+c) toute limitation de la durée pendant laquelle les informations fournies sont valables;
+
+3\) le contrat à distance:
+
+a) s’il existe un droit de rétractation tel que prévu aux articles L. 221-3 et L. 222-18 du présent Code, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer sur la base de l’article L. 222-19, ainsi que sur les conséquences découlant de l’absence d’exercice de ce droit;
+
+b) pour l’application du présent chapitre, l’information sur les modalités de paiement, de livraison ou d’exécution au sens de l’article L. 221-2, paragraphe (1) point d) du présent Code doit également comprendre:
+
+aot la durée minimale du contrat à distance, en cas de contrat de prestation de services financiers permanente ou périodique;
+
+bot les informations relatives aux droits que peuvent avoir les parties de résilier le contrat à distance par anticipation ou unilatéralement en vertu des termes du contrat à distance, y compris les éventuelles pénalités imposées par le contrat dans ce cas;
+
+cot des instructions pratiques pour l’exercice du droit de rétractation indiquant, entre autres, l’adresse à laquelle la notification doit être envoyée;
+
+c) le ou les Etats sur la législation duquel/desquels le professionnel se fonde pour établir les relations avec le consommateur avant la conclusion du contrat à distance;
+
+d) toute clause contractuelle concernant la législation applicable au contrat à distance ou concernant la juridiction compétente;
+
+e) la langue ou les langues dans laquelle/lesquelles sont communiquées les conditions contractuelles ainsi que les informations précontractuelles visées dans le présent article et, en outre, la langue ou les langues dans laquelle/lesquelles le professionnel s’engage, en accord avec le consommateur, à communiquer pendant la durée du contrat;
+
+4\) d’autres informations:
+
+a) l’existence ou l’absence de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur qui est partie au contrat à distance et, si de telles procédures existent, les modalités d’accès à ces dernières;
+
+b) l’existence de fonds de garantie ou de mécanismes d’indemnisation similaires, autres que les systèmes de garantie de dépôts et les systèmes d’indemnisation des investisseurs régis par la [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier.
 
 (2) Les informations visées au paragraphe (1), dont le but commercial doit apparaître sans équivoque, doivent être délivrées conformément à l’article L. 221-2, paragraphe (2), par tout moyen adapté à la technique de communication à distance utilisée, en tenant dûment compte, notamment, du principe de bonne foi dans les transactions commerciales et des principes qui régissent la protection des incapables.
 
@@ -1918,11 +2203,15 @@ Les règles relatives à la commercialisation à distance des contrats d’assur
 
 (2) A condition d’avoir obtenu l’accord explicite du consommateur, le professionnel n’est tenu de fournir que les informations suivantes:
 
-1. l’identité de la personne en contact avec le consommateur et le lien de cette personne avec le professionnel;
-2. une description des principales caractéristiques du service financier;
-3. le prix total dû par le consommateur au professionnel pour le service financier, qui comprend toutes les taxes acquittées par l’intermédiaire du professionnel ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au consommateur de vérifier ce dernier;
-4. l’indication de l’existence éventuelle d’autres taxes ou frais qui ne sont pas acquittés ou mis en compte par l’intermédiaire du professionnel;
-5. l’existence ou l’absence du droit de rétractation prévu aux articles L. 221-3 et L. 222-18 du présent Code et, si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer sur la base de l’article L. 222-19.
+a) l’identité de la personne en contact avec le consommateur et le lien de cette personne avec le professionnel;
+
+b) une description des principales caractéristiques du service financier;
+
+c) le prix total dû par le consommateur au professionnel pour le service financier, qui comprend toutes les taxes acquittées par l’intermédiaire du professionnel ou, lorsqu’un prix exact ne peut être indiqué, la base de calcul du prix, permettant au consommateur de vérifier ce dernier;
+
+d) l’indication de l’existence éventuelle d’autres taxes ou frais qui ne sont pas acquittés ou mis en compte par l’intermédiaire du professionnel;
+
+e) l’existence ou l’absence du droit de rétractation prévu aux articles L. 221-3 et L. 222-18 du présent Code et, si ce droit existe, sa durée et les modalités de son exercice, y compris des informations sur le montant que le consommateur peut être tenu de payer sur la base de l’article L. 222-19.
 
 (3) Le professionnel informe le consommateur sur, d’une part, le fait que d’autres informations peuvent être fournies sur demande et, d’autre part, la nature de ces informations. En tout état de cause, le professionnel fournit des informations complètes lorsqu’il remplit ses obligations en vertu de l’article L. 222-17.
 
@@ -1950,24 +2239,35 @@ Toutefois, ce délai est porté à trente jours calendrier pour les opérations 
 
 (2) Le droit de rétractation prévu aux articles L. 221-3 et L. 222-18, paragraphe (1) ne s’applique pas:
 
-1. aux services financiers dont le prix dépend de fluctuations du marché financier sur lesquelles le professionnel n’a aucune influence, qui sont susceptibles de se produire pendant le délai de rétractation, par exemple les services liés aux:
+a) aux services financiers dont le prix dépend de fluctuations du marché financier sur lesquelles le professionnel n’a aucune influence, qui sont susceptibles de se produire pendant le délai de rétractation, par exemple les services liés aux:
 
-   - opérations de change,
-   - instruments du marché monétaire,
-   - titres négociables,
-   - parts dans les organismes de placement collectif,
-   - contrats financiers à terme (futures) y compris les instruments équivalents donnant lieu à un règlement en espèces,
-   - contrats à terme sur taux d’intérêt (FRA),
-   - contrats d’échange (swaps) sur taux d’intérêt ou sur devises ou contrats d’échange sur des flux liés à des actions ou à des indices d’actions (equity swaps),
-   - options visant à acheter ou à vendre tout instrument visé par le présent point, y compris les instruments équivalents donnant lieu à un règlement en espèces. Sont comprises en particulier dans cette catégorie les options sur devises et sur taux d’intérêt;
-2. aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier n’exerce son droit de rétractation;
-3. à tout crédit destiné principalement à permettre l’acquisition ou le maintien de droits de propriété d’un terrain ou d’un immeuble existant ou à construire;
-4. à tout crédit garanti par une hypothèque sur un bien immobilier ou par un droit lié à un bien immobilier;
-5. aux déclarations de consommateurs faites en utilisant les services d’un officier public, à condition que l’officier public atteste que les droits du consommateur prévus à l’article L. 222-17, paragraphe (1), ont été respectés.
+aash opérations de change,
+
+bash instruments du marché monétaire,
+
+cash titres négociables,
+
+dash parts dans les organismes de placement collectif,
+
+eash contrats financiers à terme (futures) y compris les instruments équivalents donnant lieu à un règlement en espèces,
+
+fash contrats à terme sur taux d’intérêt (FRA),
+
+gash contrats d’échange (swaps) sur taux d’intérêt ou sur devises ou contrats d’échange sur des flux liés à des actions ou à des indices d’actions (equity swaps),
+
+hash options visant à acheter ou à vendre tout instrument visé par le présent point, y compris les instruments équivalents donnant lieu à un règlement en espèces. Sont comprises en particulier dans cette catégorie les options sur devises et sur taux d’intérêt;
+
+b) aux contrats exécutés intégralement par les deux parties à la demande expresse du consommateur avant que ce dernier n’exerce son droit de rétractation;
+
+c) à tout crédit destiné principalement à permettre l’acquisition ou le maintien de droits de propriété d’un terrain ou d’un immeuble existant ou à construire;
+
+d) à tout crédit garanti par une hypothèque sur un bien immobilier ou par un droit lié à un bien immobilier;
+
+e) aux déclarations de consommateurs faites en utilisant les services d’un officier public, à condition que l’officier public atteste que les droits du consommateur prévus à l’article L. 222-17, paragraphe (1), ont été respectés.
 
 (3) Si le consommateur exerce son droit de rétractation, il le notifie avant l’expiration du délai en suivant les instructions pratiques qui lui ont été données conformément à l’article L. 222-14, paragraphe (1), point 3 b), 3 <sup>ème</sup> point. Le délai est réputé respecté si la notification, à condition d’avoir été faite sur un support papier ou sur un autre support durable qui est à la disposition du destinataire et auquel il a accès, a été envoyée avant l’expiration du délai.
 
-(4) Le présent article n’est pas applicable aux contrats de crédit résiliés en vertu de l’article L. 222-9, paragraphe (6), alinéa 2 [^note_3_6_0] ou de l’article L. 223-11.
+(4) Le présent article n’est pas applicable aux contrats de crédit résiliés en vertu de l’article L. 222-9, paragraphe (6), alinéa 2[^note_3_6_0] ou de l’article L. 223-11.
 
 (5) Si un autre contrat à distance relatif à des services financiers prestés par un professionnel ou un tiers sur la base d’un accord entre le tiers et le professionnel a été adjoint à un contrat à distance portant sur un service financier donné, ce contrat additionnel est résilié, sans pénalité, si le consommateur exerce son droit de rétractation selon les modalités fixées aux articles L. 221-3, paragraphe (1) et L. 222-18, paragraphe (1).
 
@@ -2017,22 +2317,31 @@ Les dispositions de la présente section sont sanctionnées conformément à l�
 
 (2) Le présent chapitre s’applique sans préjudice de la législation:
 
-1. prévoyant des recours selon le droit commun des contrats;
-2. concernant l’enregistrement de biens mobiliers ou immobiliers et le transfert de biens immobiliers;
-3. concernant les conditions d’établissement, les régimes d’autorisation ou les conditions d’octroi des licences; et
-4. concernant la détermination de la nature juridique des droits qui font l’objet des contrats couverts par le présent chapitre.
+a) prévoyant des recours selon le droit commun des contrats;
+
+b) concernant l’enregistrement de biens mobiliers ou immobiliers et le transfert de biens immobiliers;
+
+c) concernant les conditions d’établissement, les régimes d’autorisation ou les conditions d’octroi des licences; et
+
+d) concernant la détermination de la nature juridique des droits qui font l’objet des contrats couverts par le présent chapitre.
 
 **Art. L. 223-2.**
 
 (1) Pour l’application du présent chapitre, on entend par:
 
-1. «contrat d’utilisation de biens à temps partagé»: un contrat d’une durée de plus d’un an par lequel un consommateur acquiert, à titre onéreux, le droit d’utiliser un ou plusieurs hébergements pour la nuit pour plus d’un séjour;
-2. «contrat de produits de vacances à long terme»: un contrat d’une durée de plus d’un an par lequel un consommateur acquiert essentiellement, à titre onéreux, le droit de bénéficier de réductions ou d’autres avantages relatifs à son hébergement, à l’exclusion ou non du transport ou d’autres services;
-3. «contrat de revente»: un contrat par lequel un professionnel, à titre onéreux, aide un consommateur à vendre ou à acheter un droit d’utilisation de biens à temps partagé ou un produit de vacances à long terme;
-4. «contrat d’échange»: un contrat par lequel un consommateur, à titre onéreux, participe à un système d’échange qui lui permet d’accéder à un hébergement pour la nuit ou à d’autres services et, en échange, de permettre à d’autres personnes de bénéficier temporairement des droits découlant de son contrat d’utilisation de biens à temps partagé;
-5. «contrat accessoire»: un contrat par lequel le consommateur acquiert des services liés à un contrat d’utilisation de biens à temps partagé ou à un contrat de produits de vacances à long terme, ces services étant fournis par le professionnel ou un tiers sur la base d’un accord entre ce tiers et le professionnel;
-6. «code de conduite»: un accord ou un ensemble de règles qui ne sont pas imposés par les dispositions législatives, réglementaires ou administratives et qui définissent le comportement des professionnels qui s’engagent à être liés par lui en ce qui concerne une ou plusieurs pratiques commerciales ou un ou plusieurs secteurs d’activité;
-7. «responsable de code»: toute entité, y compris un professionnel ou groupe de professionnels, responsable de l’élaboration et de la révision d’un code de conduite et/ou de la surveillance du respect de ce code par ceux qui se sont engagés à être liés par celui-ci.
+1\) «contrat d’utilisation de biens à temps partagé»: un contrat d’une durée de plus d’un an par lequel un consommateur acquiert, à titre onéreux, le droit d’utiliser un ou plusieurs hébergements pour la nuit pour plus d’un séjour;
+
+2\) «contrat de produits de vacances à long terme»: un contrat d’une durée de plus d’un an par lequel un consommateur acquiert essentiellement, à titre onéreux, le droit de bénéficier de réductions ou d’autres avantages relatifs à son hébergement, à l’exclusion ou non du transport ou d’autres services;
+
+3\) «contrat de revente»: un contrat par lequel un professionnel, à titre onéreux, aide un consommateur à vendre ou à acheter un droit d’utilisation de biens à temps partagé ou un produit de vacances à long terme;
+
+4\) «contrat d’échange»: un contrat par lequel un consommateur, à titre onéreux, participe à un système d’échange qui lui permet d’accéder à un hébergement pour la nuit ou à d’autres services et, en échange, de permettre à d’autres personnes de bénéficier temporairement des droits découlant de son contrat d’utilisation de biens à temps partagé;
+
+5\) «contrat accessoire»: un contrat par lequel le consommateur acquiert des services liés à un contrat d’utilisation de biens à temps partagé ou à un contrat de produits de vacances à long terme, ces services étant fournis par le professionnel ou un tiers sur la base d’un accord entre ce tiers et le professionnel;
+
+6\) «code de conduite»: un accord ou un ensemble de règles qui ne sont pas imposés par les dispositions législatives, réglementaires ou administratives et qui définissent le comportement des professionnels qui s’engagent à être liés par lui en ce qui concerne une ou plusieurs pratiques commerciales ou un ou plusieurs secteurs d’activité;
+
+7\) «responsable de code»: toute entité, y compris un professionnel ou groupe de professionnels, responsable de l’élaboration et de la révision d’un code de conduite et/ou de la surveillance du respect de ce code par ceux qui se sont engagés à être liés par celui-ci.
 
 (2) Toute disposition du contrat permettant sa reconduction ou prorogation tacite est prise en considération pour calculer la durée du contrat d’utilisation de biens à temps partagé, ou du contrat de produits de vacances à long terme, respectivement définis au paragraphe (1), points 3) et 4).
 
@@ -2052,10 +2361,13 @@ Les dispositions de la présente section sont sanctionnées conformément à l�
 
 (1) Pour l’application du présent chapitre il faut entendre par informations précontractuelles au sens de l’article L. 221-2 les informations précises qui suivent:
 
-1. dans le cas d’un contrat d’utilisation de biens à temps partagé: au moyen du formulaire standard d’informations prévu dans un règlement grand-ducal ainsi que les informations visées à la partie 3 dudit formulaire;
-2. dans le cas d’un contrat de produits de vacances à long terme: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal ainsi que les informations visées à la partie 3 dudit formulaire;
-3. dans le cas d’un contrat de revente: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal, ainsi que les informations visées à la partie 3 dudit formulaire;
-4. dans le cas d’un contrat d’échange: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal, ainsi que les informations visées à la partie 3 dudit formulaire.
+a) dans le cas d’un contrat d’utilisation de biens à temps partagé: au moyen du formulaire standard d’informations prévu dans un règlement grand-ducal ainsi que les informations visées à la partie 3 dudit formulaire;
+
+b) dans le cas d’un contrat de produits de vacances à long terme: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal ainsi que les informations visées à la partie 3 dudit formulaire;
+
+c) dans le cas d’un contrat de revente: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal, ainsi que les informations visées à la partie 3 dudit formulaire;
+
+d) dans le cas d’un contrat d’échange: au moyen du formulaire standard d’informations repris dans un règlement grand-ducal, ainsi que les informations visées à la partie 3 dudit formulaire.
 
 (2) Les informations visées au paragraphe (1) sont fournies gratuitement conformément à l’article L. 221-2, paragraphe (2), par le professionnel sur support papier ou sur un autre support durable aisément accessible pour le consommateur.
 
@@ -2077,8 +2389,9 @@ Le contrat fait expressément état de ces modifications.
 
 (3) Outre les informations visées à l’article L. 223-4, paragraphe (1), le contrat comprend:
 
-1. l’identité, le lieu de résidence et la signature de chacune des parties; et
-2. la date et le lieu de la conclusion du contrat.
+a) l’identité, le lieu de résidence et la signature de chacune des parties; et
+
+b) la date et le lieu de la conclusion du contrat.
 
 (4) Avant la conclusion du contrat, le professionnel attire expressément l’attention du consommateur sur l’existence d’un droit de rétractation et sur la durée du délai de rétractation, visée à l’article L. 223-6, ainsi que sur l’interdiction visée à l’article L. 223-9 du paiement d’avances pendant le délai de rétractation
 
@@ -2096,8 +2409,9 @@ Le contrat comprend en outre un formulaire standard de rétractation distinct, q
 
 (2) Pour le présent chapitre, le délai de rétractation prévu à l’article L. 221-3, paragraphe (1), est calculé:
 
-1. à partir du jour de la conclusion du contrat ou de tout contrat préliminaire contraignant; ou
-2. à partir du jour où le consommateur reçoit le contrat ou tout contrat préliminaire contraignant, si ce jour est ultérieur à la date mentionnée au point a).
+a) à partir du jour de la conclusion du contrat ou de tout contrat préliminaire contraignant; ou
+
+b) à partir du jour où le consommateur reçoit le contrat ou tout contrat préliminaire contraignant, si ce jour est ultérieur à la date mentionnée au point a).
 
 (3) Si un formulaire standard de rétractation comme prévu par l’article L. 223-5, paragraphe (4), a été rempli par le professionnel et fourni au consommateur par écrit, sur un support papier ou sur un autre support durable dans un délai d’un an à compter du jour visé au paragraphe (2) du présent article, le délai de rétractation commence à courir le jour où le consommateur reçoit ce formulaire. De même, si les informations visées à l’article L. 223-4, paragraphe (1), en ce compris le formulaire standard d’information applicable prévu dans un règlement grand-ducal, ont été fournies au consommateur par écrit, sur un support papier ou sur un autre support durable, dans un délai de trois mois à compter du jour visé au paragraphe (2) du présent article, le délai de rétractation commence à courir le jour où le consommateur reçoit ces informations.
 
@@ -2105,8 +2419,9 @@ Le contrat comprend en outre un formulaire standard de rétractation distinct, q
 
 (5) Le délai de rétractation expire:
 
-1. à l’issue d’une période d’un an et quatorze jours calendrier à compter du jour visé au paragraphe (2) du présent article, lorsque le formulaire standard de rétractation distinct, comme prévu par l’article L. 223-5, paragraphe (4), n’a pas été rempli par le professionnel et fourni au consommateur, sur un support papier ou sur un autre support durable;
-2. à l’issue d’une période de trois mois et quatorze jours calendrier à compter du jour visé au paragraphe (2) du présent article, lorsque les informations visées à l’article L. 223-4, paragraphe (1), y compris le formulaire standard d’information applicable prévu dans un règlement-grand-ducal, ne sont pas fournies au consommateur par écrit, sur un support papier ou sur un autre support durable.
+a) à l’issue d’une période d’un an et quatorze jours calendrier à compter du jour visé au paragraphe (2) du présent article, lorsque le formulaire standard de rétractation distinct, comme prévu par l’article L. 223-5, paragraphe (4), n’a pas été rempli par le professionnel et fourni au consommateur, sur un support papier ou sur un autre support durable;
+
+b) à l’issue d’une période de trois mois et quatorze jours calendrier à compter du jour visé au paragraphe (2) du présent article, lorsque les informations visées à l’article L. 223-4, paragraphe (1), y compris le formulaire standard d’information applicable prévu dans un règlement-grand-ducal, ne sont pas fournies au consommateur par écrit, sur un support papier ou sur un autre support durable.
 
 En cas de non fourniture par le professionnel des informations visées à l’article L. 223-4, paragraphe (1) ou du formulaire standard de rétractation, visé à l’article L. 223-5, paragraphe (4) endéans les délais prévus aux points a) et b) du présent paragraphe le consommateur peut invoquer la nullité du contrat.
 
@@ -2146,8 +2461,9 @@ Le contrat de crédit mentionné à l’alinéa précédent est résilié de ple
 
 Lorsque la loi applicable est celle d’un pays tiers, le consommateur ne peut être privé de la protection accordée par la [directive 2008/122/CE](https://legilux.public.lu/eli/dir_ue/2008/122/jo) du Parlement et du Conseil du 14 janvier 2009 relative à la protection des consommateurs en ce qui concerne certains aspects des contrats d’utilisation de biens à temps partagé, des contrats de produits de vacances à long terme et des contrats de revente et d’échange, telle qu’appliquée dans l’État membre du for si:
 
-- l’un des biens immobiliers concernés est situé sur le territoire d’un État membre, ou
-- dans le cas d’un contrat qui n’est pas directement lié à un bien immobilier, le professionnel exerce une activité commerciale ou professionnelle dans un État membre ou, de quelque manière que ce soit, dirige cette activité vers un État membre et que le contrat rentre dans le cadre de cette activité.
+aash l’un des biens immobiliers concernés est situé sur le territoire d’un État membre, ou
+
+bash dans le cas d’un contrat qui n’est pas directement lié à un bien immobilier, le professionnel exerce une activité commerciale ou professionnelle dans un État membre ou, de quelque manière que ce soit, dirige cette activité vers un État membre et que le contrat rentre dans le cadre de cette activité.
 
 ###### *Section 5* — *Sanctions*
 
@@ -2169,55 +2485,79 @@ Le présent chapitre s’applique aux contrats de crédit aux consommateurs.
 
 Pour l’application du présent chapitre, on entend par:
 
-1. «prêteur»: toute personne physique ou morale qui consent ou s’engage à consentir un crédit dans le cadre de l’exercice de son activité commerciale, industrielle, artisanale ou libérale;
-2. «contrat de crédit»: un contrat en vertu duquel un prêteur consent ou s’engage à consentir à un consommateur un crédit sous la forme d’un délai de paiement, d’un prêt ou de toute autre facilité de paiement similaire, à l’exception des contrats conclus en vue de la prestation continue de services ou de la livraison de biens de même nature, aux termes desquels le consommateur règle le coût desdits services ou biens, aussi longtemps qu’ils sont fournis, par des paiements échelonnés;
-3. «facilité de découvert»: un contrat de crédit explicite en vertu duquel un prêteur permet au consommateur de disposer de fonds qui dépassent le solde du compte courant du consommateur;
-4. «dépassement»: un découvert tacitement accepté en vertu duquel un prêteur autorise le consommateur à disposer de fonds qui dépassent le solde du compte courant du consommateur ou la facilité de découvert convenue;
-5. «intermédiaire de crédit»: une personne physique ou morale qui n’agit pas en qualité de prêteur et qui, dans le cadre de l’exercice de son activité commerciale, industrielle, artisanale ou libérale, contre une rémunération qui peut être pécuniaire ou revêtir toute autre forme d’avantage économique ayant fait l’objet d’un accord:
+a) «prêteur»: toute personne physique ou morale qui consent ou s’engage à consentir un crédit dans le cadre de l’exercice de son activité commerciale, industrielle, artisanale ou libérale;
 
-   - présente ou propose des contrats de crédit aux consommateurs,
-   - assiste les consommateurs en réalisant des travaux préparatoires pour des contrats de crédit autres que ceux visés au tiret précédent, ou
-   - conclut des contrats de crédit avec des consommateurs pour le compte du prêteur;
-6. «coût total du crédit pour le consommateur»: tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit et qui sont connus par le prêteur, à l’exception des frais de notaire; ces coûts comprennent également les coûts relatifs aux services accessoires liés au contrat de crédit, notamment les primes d’assurance, si, en outre, la conclusion du contrat de service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales;
-7. «montant total dû par le consommateur»: la somme du montant total du crédit et du coût total du crédit pour le consommateur;
-8. «taux annuel effectif global»: le coût total du crédit pour le consommateur, exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article L. 224-20, paragraphe (2);
-9. «taux débiteur»: le taux d’intérêt exprimé en pourcentage fixe ou variable, appliqué sur une base annuelle au montant de crédit prélevé (drawn down);
-10. «taux débiteur fixe»: taux débiteur prévu par une disposition du contrat de crédit en vertu de laquelle le prêteur et le consommateur conviennent d’un taux débiteur unique pour la totalité de la durée du contrat de crédit, ou de plusieurs taux débiteurs pour des périodes partielles en appliquant exclusivement un pourcentage fixe donné. Si tous les taux débiteurs ne sont pas définis dans le contrat, on considère que le taux est fixe uniquement pour les périodes partielles pour lesquelles les taux débiteurs ont été déterminés exclusivement à l’aide d’un pourcentage fixe donné, convenu lors de la conclusion du contrat de crédit;
-11. «montant total du crédit»: le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit;
-12. «contrat de crédit lié»: un contrat de crédit en vertu duquel:
+b) «contrat de crédit»: un contrat en vertu duquel un prêteur consent ou s’engage à consentir à un consommateur un crédit sous la forme d’un délai de paiement, d’un prêt ou de toute autre facilité de paiement similaire, à l’exception des contrats conclus en vue de la prestation continue de services ou de la livraison de biens de même nature, aux termes desquels le consommateur règle le coût desdits services ou biens, aussi longtemps qu’ils sont fournis, par des paiements échelonnés;
 
-   - le crédit en question sert exclusivement à financer un contrat relatif à la fourniture de biens particuliers ou la prestation de services particuliers; et
-   - ces deux contrats constituent, d’un point de vue objectif, une unité commerciale; une unité commerciale est réputée exister lorsque le fournisseur ou le prestataire de services finance lui-même le crédit au consommateur ou, en cas de financement par un tiers, lorsque le prêteur recourt aux services du fournisseur ou du prestataire pour la conclusion ou la préparation du contrat de crédit ou lorsque des biens particuliers ou la fourniture d’un service particulier sont mentionnés spécifiquement dans le contrat de crédit.
+c) «facilité de découvert»: un contrat de crédit explicite en vertu duquel un prêteur permet au consommateur de disposer de fonds qui dépassent le solde du compte courant du consommateur;
+
+d) «dépassement»: un découvert tacitement accepté en vertu duquel un prêteur autorise le consommateur à disposer de fonds qui dépassent le solde du compte courant du consommateur ou la facilité de découvert convenue;
+
+e) «intermédiaire de crédit»: une personne physique ou morale qui n’agit pas en qualité de prêteur et qui, dans le cadre de l’exercice de son activité commerciale, industrielle, artisanale ou libérale, contre une rémunération qui peut être pécuniaire ou revêtir toute autre forme d’avantage économique ayant fait l’objet d’un accord:
+
+aash présente ou propose des contrats de crédit aux consommateurs,
+
+bash assiste les consommateurs en réalisant des travaux préparatoires pour des contrats de crédit autres que ceux visés au tiret précédent, ou
+
+cash conclut des contrats de crédit avec des consommateurs pour le compte du prêteur;
+
+f) «coût total du crédit pour le consommateur»: tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit et qui sont connus par le prêteur, à l’exception des frais de notaire; ces coûts comprennent également les coûts relatifs aux services accessoires liés au contrat de crédit, notamment les primes d’assurance, si, en outre, la conclusion du contrat de service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales;
+
+g) «montant total dû par le consommateur»: la somme du montant total du crédit et du coût total du crédit pour le consommateur;
+
+h) «taux annuel effectif global»: le coût total du crédit pour le consommateur, exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article L. 224-20, paragraphe (2);
+
+i) «taux débiteur»: le taux d’intérêt exprimé en pourcentage fixe ou variable, appliqué sur une base annuelle au montant de crédit prélevé (drawn down);
+
+j) «taux débiteur fixe»: taux débiteur prévu par une disposition du contrat de crédit en vertu de laquelle le prêteur et le consommateur conviennent d’un taux débiteur unique pour la totalité de la durée du contrat de crédit, ou de plusieurs taux débiteurs pour des périodes partielles en appliquant exclusivement un pourcentage fixe donné. Si tous les taux débiteurs ne sont pas définis dans le contrat, on considère que le taux est fixe uniquement pour les périodes partielles pour lesquelles les taux débiteurs ont été déterminés exclusivement à l’aide d’un pourcentage fixe donné, convenu lors de la conclusion du contrat de crédit;
+
+k) «montant total du crédit»: le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit;
+
+l) «contrat de crédit lié»: un contrat de crédit en vertu duquel:
+
+aash le crédit en question sert exclusivement à financer un contrat relatif à la fourniture de biens particuliers ou la prestation de services particuliers; et
+
+bash ces deux contrats constituent, d’un point de vue objectif, une unité commerciale; une unité commerciale est réputée exister lorsque le fournisseur ou le prestataire de services finance lui-même le crédit au consommateur ou, en cas de financement par un tiers, lorsque le prêteur recourt aux services du fournisseur ou du prestataire pour la conclusion ou la préparation du contrat de crédit ou lorsque des biens particuliers ou la fourniture d’un service particulier sont mentionnés spécifiquement dans le contrat de crédit.
 
 **Art. L. 224-3.**
 
 (1) Le présent chapitre ne s’applique pas:
 
-1. aux contrats de crédit garantis par une hypothèque ou par une autre sûreté comparable sur un immeuble, ou par un droit lié à un bien immobilier;
-2. aux contrats de crédit destinés à permettre l’acquisition ou le maintien de droits de propriété d’un terrain ou d’un immeuble existant ou à construire;
-3. aux contrats de crédit dont le montant total du crédit est inférieur à 200 euros ou supérieur à 75.000 euros;
-4. aux contrats de location ou de crédit-bail dans le cadre desquels l’obligation d’acheter l’objet du contrat n’est prévue ni par le contrat lui-même ni par un contrat séparé; une telle obligation est réputée exister si le prêteur en décide ainsi unilatéralement;
-5. aux contrats de crédit accordés sous la forme d’une facilité de découvert, remboursable dans un délai d’un mois;
-6. aux contrats de crédit sans intérêts et sans autres frais et aux contrats de crédit en vertu desquels le crédit doit être remboursé dans un délai ne dépassant pas trois mois, et pour lesquels ne sont requis que des frais négligeables;
-7. aux contrats de crédit qui sont accordés par un employeur à ses salariés à titre accessoire, sans intérêts, à des taux annuels effectifs globaux inférieurs à ceux pratiqués sur le marché et qui ne sont pas proposés au public en général;
-8. aux contrats de crédit conclus avec une entreprise d’investissement, telle que définie à l’article 4, paragraphe (1), de la
+a) aux contrats de crédit garantis par une hypothèque ou par une autre sûreté comparable sur un immeuble, ou par un droit lié à un bien immobilier;
 
-   [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo) du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d’instruments financiers, ou avec un établissement de crédit, tel que défini à l’article 4 de la [directive 2006/48/CE](https://legilux.public.lu/eli/dir_ue/2006/48/jo), aux fins de permettre à un investisseur d’effectuer une transaction liée à au moins un des instruments dont la liste figure dans la section C de l’annexe I de la [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo), lorsque l’entreprise d’investissement ou l’établissement de crédit accordant le crédit est associé à cette transaction;
-9. aux contrats de crédit qui sont le fruit d’un accord intervenu devant une juridiction ou toute autre autorité instituée par la loi;
-10. aux contrats de crédit liés au délai de paiement consenti, sans frais, pour le règlement d’une dette existante;
-11. aux contrats de crédit pour la conclusion desquels il est demandé au consommateur de remettre un bien en la possession du prêteur pour sûreté de sa dette, la responsabilité du consommateur étant strictement limitée à ce bien donné en gage;
-12. aux contrats de crédit liés aux prêts qui sont accordés à un public restreint en vertu d’une disposition légale d’intérêt général et à un taux d’intérêt inférieur à celui pratiqué sur le marché, ou sans intérêts, ou à d’autres conditions qui sont plus favorables au consommateur que celles en vigueur sur le marché et à des taux d’intérêt qui ne sont pas supérieurs à ceux pratiqués sur le marché.
+b) aux contrats de crédit destinés à permettre l’acquisition ou le maintien de droits de propriété d’un terrain ou d’un immeuble existant ou à construire;
 
-(2) Les contrats de crédit prévoyant l’octroi de crédit sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois sont soumis uniquement aux dispositions des articles L. 224-1 à L. 224-3, de l’article L. 224-4, paragraphe (1), des articles L. 224-8 à L. 224-10, de l’article L. 224-11, paragraphes (1), (4) et (5), de l’article L. 224-13, de l’article L. 224-16, de l’article L. 224-18 et des articles L. 224-20 à L. 224-27 [^note_3_7_0] .
+c) aux contrats de crédit dont le montant total du crédit est inférieur à 200 euros ou supérieur à 75.000 euros;
 
-(3) Les contrats de crédit sous forme de dépassement sont uniquement soumis aux dispositions des articles L. 224-1 à L. 224-3, de l’article L. 224-19, de l’article L. 224-21 et des articles L. 224-23 à L. 224-27 [^note_3_7_0] .
+d) aux contrats de location ou de crédit-bail dans le cadre desquels l’obligation d’acheter l’objet du contrat n’est prévue ni par le contrat lui-même ni par un contrat séparé; une telle obligation est réputée exister si le prêteur en décide ainsi unilatéralement;
+
+e) aux contrats de crédit accordés sous la forme d’une facilité de découvert, remboursable dans un délai d’un mois;
+
+f) aux contrats de crédit sans intérêts et sans autres frais et aux contrats de crédit en vertu desquels le crédit doit être remboursé dans un délai ne dépassant pas trois mois, et pour lesquels ne sont requis que des frais négligeables;
+
+g) aux contrats de crédit qui sont accordés par un employeur à ses salariés à titre accessoire, sans intérêts, à des taux annuels effectifs globaux inférieurs à ceux pratiqués sur le marché et qui ne sont pas proposés au public en général;
+
+h) aux contrats de crédit conclus avec une entreprise d’investissement, telle que définie à l’article 4, paragraphe (1), de la [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo) du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d’instruments financiers, ou avec un établissement de crédit, tel que défini à l’article 4 de la [directive 2006/48/CE](https://legilux.public.lu/eli/dir_ue/2006/48/jo), aux fins de permettre à un investisseur d’effectuer une transaction liée à au moins un des instruments dont la liste figure dans la section C de l’annexe I de la [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo), lorsque l’entreprise d’investissement ou l’établissement de crédit accordant le crédit est associé à cette transaction;
+
+i) aux contrats de crédit qui sont le fruit d’un accord intervenu devant une juridiction ou toute autre autorité instituée par la loi;
+
+j) aux contrats de crédit liés au délai de paiement consenti, sans frais, pour le règlement d’une dette existante;
+
+k) aux contrats de crédit pour la conclusion desquels il est demandé au consommateur de remettre un bien en la possession du prêteur pour sûreté de sa dette, la responsabilité du consommateur étant strictement limitée à ce bien donné en gage;
+
+l) aux contrats de crédit liés aux prêts qui sont accordés à un public restreint en vertu d’une disposition légale d’intérêt général et à un taux d’intérêt inférieur à celui pratiqué sur le marché, ou sans intérêts, ou à d’autres conditions qui sont plus favorables au consommateur que celles en vigueur sur le marché et à des taux d’intérêt qui ne sont pas supérieurs à ceux pratiqués sur le marché.
+
+(2) Les contrats de crédit prévoyant l’octroi de crédit sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois sont soumis uniquement aux dispositions des articles L. 224-1 à L. 224-3, de l’article L. 224-4, paragraphe (1), des articles L. 224-8 à L. 224-10, de l’article L. 224-11, paragraphes (1), (4) et (5), de l’article L. 224-13, de l’article L. 224-16, de l’article L. 224-18 et des articles L. 224-20 à L. 224-27[^note_3_7_0] .
+
+(3) Les contrats de crédit sous forme de dépassement sont uniquement soumis aux dispositions des articles L. 224-1 à L. 224-3, de l’article L. 224-19, de l’article L. 224-21 et des articles L. 224-23 à L. 224-27[^note_3_7_0] .
 
 (4) Les contrats de crédit prévoyant que les délais de paiement ou les modes de remboursement font l’objet d’un accord entre le prêteur et le consommateur lorsque le consommateur est déjà en situation de défaut de paiement pour le contrat de crédit initial, dans les cas où:
 
-1. un tel accord serait susceptible d’écarter l’éventualité d’une procédure judiciaire pour ledit défaut de paiement; et
-2. le consommateur ne serait ainsi pas soumis à des dispositions moins favorables que celles du contrat de crédit initial,
+a) un tel accord serait susceptible d’écarter l’éventualité d’une procédure judiciaire pour ledit défaut de paiement; et
 
-sont uniquement soumis aux dispositions des articles L. 224-1 à L. 224-5, des articles L. 224-8 à L. 224-9, de l’article L. 224-11, paragraphe (1) et paragraphe (2), points a) à i), points l) et r), de l’article L. 224-11, paragraphe (4), de l’article L. 224-12, de l’article L. 224-14, de l’article L. 224-17 et des articles L. 224-19 à L. 224-27 [^note_3_7_0] à moins que le contrat de crédit ne tombe sous le champ d’application du paragraphe (2) du présent article auquel cas seules les dispositions dudit paragraphe s’appliquent.
+b) le consommateur ne serait ainsi pas soumis à des dispositions moins favorables que celles du contrat de crédit initial,
+
+sont uniquement soumis aux dispositions des articles L. 224-1 à L. 224-5, des articles L. 224-8 à L. 224-9, de l’article L. 224-11, paragraphe (1) et paragraphe (2), points a) à i), points l) et r), de l’article L. 224-11, paragraphe (4), de l’article L. 224-12, de l’article L. 224-14, de l’article L. 224-17 et des articles L. 224-19 à L. 224-27[^note_3_7_0] à moins que le contrat de crédit ne tombe sous le champ d’application du paragraphe (2) du présent article auquel cas seules les dispositions dudit paragraphe s’appliquent.
 
 \*([Loi du 23 décembre 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n24/jo))*
 
@@ -2231,12 +2571,17 @@ sont uniquement soumis aux dispositions des articles L. 224-1 à L. 224-5, des a
 
 (1) Toute publicité concernant un contrat de crédit, quel qu’en soit le support, qui indique un taux d’intérêt ou des chiffres liés au coût du crédit pour le consommateur doit mentionner de façon claire, concise et visible à l’aide d’un exemple représentatif les informations de base suivantes:
 
-1. le taux débiteur et la nature fixe et/ou variable du taux, accompagné d’informations relatives à tous les frais compris dans le coût total du crédit pour le consommateur;
-2. le montant total du crédit;
-3. le taux annuel effectif global; pour les contrats de crédit prévoyant l’octroi de crédit sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois, l’indication du taux annuel effectif global n’est pas obligatoire;
-4. le cas échéant, la durée du contrat de crédit;
-5. s’il s’agit d’un crédit accordé sous la forme d’un délai de paiement pour un bien ou un service donné, le prix au comptant et le montant de tout acompte, et
-6. le cas échéant, le montant total dû par le consommateur et le montant des versements échelonnés.
+a) le taux débiteur et la nature fixe et/ou variable du taux, accompagné d’informations relatives à tous les frais compris dans le coût total du crédit pour le consommateur;
+
+b) le montant total du crédit;
+
+c) le taux annuel effectif global; pour les contrats de crédit prévoyant l’octroi de crédit sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois, l’indication du taux annuel effectif global n’est pas obligatoire;
+
+d) le cas échéant, la durée du contrat de crédit;
+
+e) s’il s’agit d’un crédit accordé sous la forme d’un délai de paiement pour un bien ou un service donné, le prix au comptant et le montant de tout acompte, et
+
+f) le cas échéant, le montant total dû par le consommateur et le montant des versements échelonnés.
 
 Un règlement grand-ducal peut déterminer ce qu’il faut entendre par exemple représentatif.
 
@@ -2252,41 +2597,65 @@ Si plusieurs types de contrats de crédit sont offerts simultanément, un exempl
 
 Est interdite toute publicité:
 
-1. axée spécifiquement sur l’incitation du consommateur, dans l’impossibilité de faire face à ses dettes, à recourir au crédit; ou
-2. axée spécifiquement sur la mise en valeur de la facilité ou de la rapidité avec lesquelles le crédit peut être obtenu; ou
-3. indiquant avec des mots, signes et/ou symboles que le montant du crédit est mis à la disposition du consommateur en argent comptant; ou
-4. laissant entendre que le prêt améliore la situation financière ou le budget du consommateur, entraîne une augmentation de ressources ou constitue un substitut d’épargne; ou
-5. indiquant qu’un crédit ou une opération de crédit consistant à regrouper des crédits antérieurs peut être consenti sans élément d’information permettant d’apprécier la situation financière de l’emprunteur; ou
-6. mentionnant des taux avantageux sans indiquer les conditions particulières ou restrictives auxquelles l’avantage de ces taux est soumis; ou
-7. indiquant qu’un contrat de crédit peut être conclu sans élément d’information permettant d’apprécier la situation financière du consommateur.
+a) axée spécifiquement sur l’incitation du consommateur, dans l’impossibilité de faire face à ses dettes, à recourir au crédit; ou
+
+b) axée spécifiquement sur la mise en valeur de la facilité ou de la rapidité avec lesquelles le crédit peut être obtenu; ou
+
+c) indiquant avec des mots, signes et/ou symboles que le montant du crédit est mis à la disposition du consommateur en argent comptant; ou
+
+d) laissant entendre que le prêt améliore la situation financière ou le budget du consommateur, entraîne une augmentation de ressources ou constitue un substitut d’épargne; ou
+
+e) indiquant qu’un crédit ou une opération de crédit consistant à regrouper des crédits antérieurs peut être consenti sans élément d’information permettant d’apprécier la situation financière de l’emprunteur; ou
+
+f) mentionnant des taux avantageux sans indiquer les conditions particulières ou restrictives auxquelles l’avantage de ces taux est soumis; ou
+
+g) indiquant qu’un contrat de crédit peut être conclu sans élément d’information permettant d’apprécier la situation financière du consommateur.
 
 **Sous-section 2 — Informations précontractuelles**
 
 **Art. L. 224-6.**
 
-(1) En temps utile avant que le consommateur ne soit lié par un contrat ou une offre de crédit, le prêteur et, le cas échéant, l’intermédiaire de crédit, lui donnent, sur la base des clauses et conditions du crédit proposé par le prêteur et, le cas échéant, des préférences exprimées par le consommateur et des informations fournies par ce dernier, les informations nécessaires à la comparaison des différentes offres pour prendre une décision en connaissance de cause sur la conclusion d’un contrat de crédit. *([Loi du 17 février 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/02/17/n1/jo))* Lorsque le crédit est proposé sur un lieu de vente, le prêteur veille à ce que le consommateur reçoive ces informations de manière complète et appropriée sur le lieu même de la vente, dans des conditions garantissant la confidentialité des échanges. Ces informations sont fournies, sur un support papier ou sur un autre support durable, à l’aide du formulaire «informations européennes normalisées en matière de crédit aux consommateurs» repris dans un règlement grand-ducal. Le prêteur est réputé avoir respecté les exigences en matière d’information prévues par le présent paragraphe et à l’article L. 222-14 [^note_3_8_0] , paragraphes (1) et (2) du présent Code s’il a fourni au consommateur le formulaire «informations européennes normalisées en matière de crédit aux consommateurs» précité.
+(1) En temps utile avant que le consommateur ne soit lié par un contrat ou une offre de crédit, le prêteur et, le cas échéant, l’intermédiaire de crédit, lui donnent, sur la base des clauses et conditions du crédit proposé par le prêteur et, le cas échéant, des préférences exprimées par le consommateur et des informations fournies par ce dernier, les informations nécessaires à la comparaison des différentes offres pour prendre une décision en connaissance de cause sur la conclusion d’un contrat de crédit. *([Loi du 17 février 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/02/17/n1/jo))* Lorsque le crédit est proposé sur un lieu de vente, le prêteur veille à ce que le consommateur reçoive ces informations de manière complète et appropriée sur le lieu même de la vente, dans des conditions garantissant la confidentialité des échanges. Ces informations sont fournies, sur un support papier ou sur un autre support durable, à l’aide du formulaire «informations européennes normalisées en matière de crédit aux consommateurs» repris dans un règlement grand-ducal. Le prêteur est réputé avoir respecté les exigences en matière d’information prévues par le présent paragraphe et à l’article L. 222-14[^note_3_8_0] , paragraphes (1) et (2) du présent Code s’il a fourni au consommateur le formulaire «informations européennes normalisées en matière de crédit aux consommateurs» précité.
 
 Ces informations portent sur:
 
-1. le type de crédit;
-2. l’identité et l’adresse géographique du prêteur ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
-3. le montant total du crédit et les conditions de prélèvement;
-4. la durée du contrat de crédit;
-5. en cas de crédit accordé sous forme d’un délai de paiement pour un bien ou un service donné et de contrats de crédit liés, ce bien ou service et son prix au comptant;
-6. le taux débiteur, les conditions applicables à ce taux et, si disponible, tout indice ou taux de référence qui se rapporte au taux initial débiteur, ainsi que les périodes, conditions et procédures d’adaptation du taux. Si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
-7. le taux annuel effectif global et le montant total dû par le consommateur, à l’aide d’un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer ce taux; si le consommateur a indiqué au prêteur un ou plusieurs éléments du crédit qu’il privilégie, tels la durée du contrat de crédit ou le montant total du crédit, le prêteur doit tenir compte de ces éléments; si un contrat de crédit offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, et que le prêteur applique l’hypothèse que le crédit est prélevé suivant la méthode de prélèvement la plus fréquemment utilisée pour ce type de contrat de crédit, le prêteur doit indiquer que l’utilisation d’une autre méthode de prélèvement pour ce type de crédit peut avoir pour conséquence l’application de taux annuels effectifs globaux plus élevés;
-8. le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement;
-9. le cas échéant, les frais de tenue d’un ou de plusieurs comptes destinés à enregistrer tant les opérations de paiement que les prélèvements, à moins que l’ouverture du compte ne soit facultative, les frais d’utilisation d’un moyen de paiement permettant à la fois des opérations de paiement et des prélèvements, ainsi que tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés;
-10. le cas échéant, l’existence de frais de notaire dus par le consommateur à la conclusion du contrat de crédit;
-11. l’obligation de contracter un service accessoire lié au contrat de crédit, notamment une assurance, lorsque la conclusion d’un contrat concernant ce service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales;
-12. le taux d’intérêt applicable en cas de retard de paiement, ainsi que les modalités d’adaptation de celui-ci et, le cas échéant, les frais d’inexécution;
-13. un avertissement concernant les conséquences des impayés;
-14. le cas échéant, les sûretés exigées;
-15. l’existence ou l’absence d’un droit de rétractation;
-16. le droit de procéder à un remboursement anticipé et, le cas échéant, le droit du prêteur à une indemnité ainsi que le mode de calcul de cette indemnité conformément à l’article L. 224-17;
-17. le droit du consommateur d’être informé immédiatement et sans frais du résultat de la consultation d’une base de données aux fins de l’évaluation de la solvabilité, conformément à l’article L. 224-10, paragraphe (2);
-18. le droit du consommateur de se voir remettre, sur demande et sans frais, un exemplaire du projet de contrat de crédit. Cette disposition ne s’applique pas si, au moment de la demande, le prêteur n’est pas disposé à conclure le contrat de crédit avec le consommateur, et
-19. le cas échéant, le délai pendant lequel le prêteur est lié par les informations précontractuelles.
+a) le type de crédit;
+
+b) l’identité et l’adresse géographique du prêteur ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
+
+c) le montant total du crédit et les conditions de prélèvement;
+
+d) la durée du contrat de crédit;
+
+e) en cas de crédit accordé sous forme d’un délai de paiement pour un bien ou un service donné et de contrats de crédit liés, ce bien ou service et son prix au comptant;
+
+f) le taux débiteur, les conditions applicables à ce taux et, si disponible, tout indice ou taux de référence qui se rapporte au taux initial débiteur, ainsi que les périodes, conditions et procédures d’adaptation du taux. Si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
+
+g) le taux annuel effectif global et le montant total dû par le consommateur, à l’aide d’un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer ce taux; si le consommateur a indiqué au prêteur un ou plusieurs éléments du crédit qu’il privilégie, tels la durée du contrat de crédit ou le montant total du crédit, le prêteur doit tenir compte de ces éléments; si un contrat de crédit offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, et que le prêteur applique l’hypothèse que le crédit est prélevé suivant la méthode de prélèvement la plus fréquemment utilisée pour ce type de contrat de crédit, le prêteur doit indiquer que l’utilisation d’une autre méthode de prélèvement pour ce type de crédit peut avoir pour conséquence l’application de taux annuels effectifs globaux plus élevés;
+
+h) le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement;
+
+i) le cas échéant, les frais de tenue d’un ou de plusieurs comptes destinés à enregistrer tant les opérations de paiement que les prélèvements, à moins que l’ouverture du compte ne soit facultative, les frais d’utilisation d’un moyen de paiement permettant à la fois des opérations de paiement et des prélèvements, ainsi que tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés;
+
+j) le cas échéant, l’existence de frais de notaire dus par le consommateur à la conclusion du contrat de crédit;
+
+k) l’obligation de contracter un service accessoire lié au contrat de crédit, notamment une assurance, lorsque la conclusion d’un contrat concernant ce service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales;
+
+l) le taux d’intérêt applicable en cas de retard de paiement, ainsi que les modalités d’adaptation de celui-ci et, le cas échéant, les frais d’inexécution;
+
+m) un avertissement concernant les conséquences des impayés;
+
+n) le cas échéant, les sûretés exigées;
+
+o) l’existence ou l’absence d’un droit de rétractation;
+
+p) le droit de procéder à un remboursement anticipé et, le cas échéant, le droit du prêteur à une indemnité ainsi que le mode de calcul de cette indemnité conformément à l’article L. 224-17;
+
+q) le droit du consommateur d’être informé immédiatement et sans frais du résultat de la consultation d’une base de données aux fins de l’évaluation de la solvabilité, conformément à l’article L. 224-10, paragraphe (2);
+
+r) le droit du consommateur de se voir remettre, sur demande et sans frais, un exemplaire du projet de contrat de crédit. Cette disposition ne s’applique pas si, au moment de la demande, le prêteur n’est pas disposé à conclure le contrat de crédit avec le consommateur, et
+
+s) le cas échéant, le délai pendant lequel le prêteur est lié par les informations précontractuelles.
 
 Toutes les informations complémentaires que le prêteur souhaite donner au consommateur sont fournies dans un document distinct qui peut être annexé au formulaire «informations européennes normalisées en matière de crédit aux consommateurs» visé au premier alinéa.
 
@@ -2316,25 +2685,37 @@ Ces informations sont fournies sur un support papier ou sur un autre support dur
 
 Les informations portent sur:
 
-1. le type de crédit;
-2. l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
-3. le montant total du crédit;
-4. la durée du contrat de crédit;
-5. le taux débiteur, les conditions applicables à ce taux, tout indice ou taux de référence qui se rapporte au taux débiteur initial, les frais applicables dès la conclusion du contrat de crédit et, le cas échéant, les conditions dans lesquelles ces frais pourront être modifiés;
-6. le taux annuel effectif global à l’aide d’exemples représentatifs mentionnant toutes les hypothèses utilisées pour calculer ce taux;
-7. les conditions et les modalités selon lesquelles le contrat de crédit peut être résilié;
-8. pour les contrats de crédit visés à l’article L. 224-3, paragraphe (2), le cas échéant, une indication selon laquelle il peut être demandé à tout moment au consommateur de rembourser le montant total du crédit;
-9. le taux d’intérêt applicable en cas de retard de paiement, ainsi que les modalités d’adaptation de celui-ci et, le cas échéant, les frais d’inexécution;
-10. le droit du consommateur d’être informé immédiatement et sans frais du résultat de la consultation d’une base de données aux fins de l’évaluation de la solvabilité, conformément à l’article L. 224-10, paragraphe (2);
-11. pour les contrats de crédit conclus conformément à l’article L. 224-3, paragraphe (2), les frais applicables dès la conclusion du contrat et le cas échéant, les conditions dans lesquelles ces frais peuvent être modifiés;
-12. le cas échéant, le délai pendant lequel le prêteur est lié par les informations précontractuelles.
+a) le type de crédit;
+
+b) l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
+
+c) le montant total du crédit;
+
+d) la durée du contrat de crédit;
+
+e) le taux débiteur, les conditions applicables à ce taux, tout indice ou taux de référence qui se rapporte au taux débiteur initial, les frais applicables dès la conclusion du contrat de crédit et, le cas échéant, les conditions dans lesquelles ces frais pourront être modifiés;
+
+f) le taux annuel effectif global à l’aide d’exemples représentatifs mentionnant toutes les hypothèses utilisées pour calculer ce taux;
+
+g) les conditions et les modalités selon lesquelles le contrat de crédit peut être résilié;
+
+h) pour les contrats de crédit visés à l’article L. 224-3, paragraphe (2), le cas échéant, une indication selon laquelle il peut être demandé à tout moment au consommateur de rembourser le montant total du crédit;
+
+i) le taux d’intérêt applicable en cas de retard de paiement, ainsi que les modalités d’adaptation de celui-ci et, le cas échéant, les frais d’inexécution;
+
+j) le droit du consommateur d’être informé immédiatement et sans frais du résultat de la consultation d’une base de données aux fins de l’évaluation de la solvabilité, conformément à l’article L. 224-10, paragraphe (2);
+
+k) pour les contrats de crédit conclus conformément à l’article L. 224-3, paragraphe (2), les frais applicables dès la conclusion du contrat et le cas échéant, les conditions dans lesquelles ces frais peuvent être modifiés;
+
+l) le cas échéant, le délai pendant lequel le prêteur est lié par les informations précontractuelles.
 
 (2) Pour les contrats de crédit visés à l’article L. 224-3, paragraphe (2), il n’est pas nécessaire d’indiquer le taux annuel effectif global.
 
 (3) Pour les contrats de crédit visés à l’article L. 224-3, paragraphe (4), les informations fournies au consommateur conformément au paragraphe (1) du présent article incluent également:
 
-1. le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement; et
-2. le droit de procéder à un remboursement anticipé et, le cas échéant, le droit du prêteur à une indemnité ainsi que le mode de calcul de cette indemnité.
+a) le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement; et
+
+b) le droit de procéder à un remboursement anticipé et, le cas échéant, le droit du prêteur à une indemnité ainsi que le mode de calcul de cette indemnité.
 
 Toutefois, si le contrat de crédit relève du champ d’application de l’article L. 224-3, paragraphe (2), seules les dispositions prévues au paragraphe (1) du présent article s’appliquent.
 
@@ -2378,50 +2759,81 @@ Toutes les parties contractantes reçoivent un exemplaire du contrat de crédit.
 
 (2) Le contrat de crédit mentionne, de façon claire et concise:
 
-1. le type de crédit;
-2. l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
-3. la durée du contrat de crédit;
-4. le montant total du crédit et les conditions de prélèvement;
-5. si le crédit est accordé sous la forme d’un délai de paiement pour un bien ou un service donné, ou dans le cas des contrats de crédit lié, ce produit ou service et son prix au comptant;
-6. le taux débiteur, les conditions applicables à ce taux et, le cas échéant, tout indice ou taux de référence qui se rapporte au taux débiteur initial, ainsi que les périodes, conditions et procédures d’adaptation du taux, et si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
-7. le taux annuel effectif global et le montant total dû par le consommateur, calculés au moment de la conclusion du contrat de crédit; toutes les hypothèses utilisées pour calculer ce taux sont mentionnées;
-8. le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement;
-9. en cas d’amortissement du capital d’un contrat de crédit à durée fixe, le droit du consommateur de recevoir, à sa demande et sans frais, à tout moment durant toute la durée du contrat, un relevé, sous la forme d’un tableau d’amortissement.
+a) le type de crédit;
 
-   Ce tableau d’amortissement indique:
+b) l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
 
-   - les paiements dus ainsi que les périodes et conditions de paiement de ces montants;
-   - la ventilation de chaque remboursement entre l’amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le cas échéant, les coûts additionnels.
-   - Si le taux d’intérêt n’est pas fixe ou si les coûts additionnels peuvent être modifiés en vertu du contrat de crédit, le tableau d’amortissement indique, de manière claire et concise, que les données mentionnées dans le tableau ne seront valables que jusqu’à la modification suivante du taux débiteur ou des coûts additionnels conformément au contrat de crédit;
-10. s’il y a paiement de frais et intérêts sans amortissement du capital, un relevé des périodes et des conditions de paiement des intérêts débiteurs et des frais récurrents et non récurrents annexes;
-11. le cas échéant, les frais de tenue d’un ou de plusieurs comptes destinés à enregistrer tant les opérations de paiement que les prélèvements, à moins que l’ouverture d’un compte ne soit facultative, les frais d’utilisation d’un moyen de paiement permettant à la fois des opérations de paiement et des prélèvements, ainsi que tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés;
-12. le taux d’intérêt applicable en cas de retard de paiement applicable au moment de la conclusion du contrat de crédit et les modalités d’adaptation de ce taux, ainsi que, le cas échéant, les frais d’inexécution;
-13. un avertissement relatif aux conséquences des paiements manquants;
-14. le cas échéant, l’existence de frais notariaux;
-15. les sûretés et assurances exigées, le cas échéant;
-16. l’existence ou l’absence d’un droit de rétractation, la période durant laquelle ce droit peut être exercé et les autres conditions pour l’exercer, y compris des informations sur l’obligation incombant au consommateur de payer le capital prélevé (draw down) et les intérêts conformément à l’article L. 224-15, paragraphe (2), point b), et le montant de l’intérêt journalier;
-17. des informations concernant les droits résultant de l’article L. 224-16 ainsi que leurs conditions d’exercice;
-18. le droit au remboursement anticipé, la procédure à suivre en cas de remboursement anticipé ainsi que, le cas échéant, des informations sur le droit du prêteur à une indemnité et le mode de calcul de cette indemnité;
-19. la procédure à suivre pour exercer le droit de résiliation du contrat de crédit;
-20. l’existence ou non de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur et, si de telles procédures existent, les modalités d’accès à ces dernières;
-21. le cas échéant, les autres clauses et conditions contractuelles;
-22. le cas échéant, le nom et l’adresse de l’autorité de surveillance compétente.
+c) la durée du contrat de crédit;
+
+d) le montant total du crédit et les conditions de prélèvement;
+
+e) si le crédit est accordé sous la forme d’un délai de paiement pour un bien ou un service donné, ou dans le cas des contrats de crédit lié, ce produit ou service et son prix au comptant;
+
+f) le taux débiteur, les conditions applicables à ce taux et, le cas échéant, tout indice ou taux de référence qui se rapporte au taux débiteur initial, ainsi que les périodes, conditions et procédures d’adaptation du taux, et si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
+
+g) le taux annuel effectif global et le montant total dû par le consommateur, calculés au moment de la conclusion du contrat de crédit; toutes les hypothèses utilisées pour calculer ce taux sont mentionnées;
+
+h) le montant, le nombre et la périodicité des paiements à effectuer par le consommateur et, le cas échéant, l’ordre dans lequel les paiements seront affectés aux différents soldes dus fixés à des taux débiteurs différents aux fins du remboursement;
+
+i) en cas d’amortissement du capital d’un contrat de crédit à durée fixe, le droit du consommateur de recevoir, à sa demande et sans frais, à tout moment durant toute la durée du contrat, un relevé, sous la forme d’un tableau d’amortissement.
+
+Ce tableau d’amortissement indique:
+
+aash les paiements dus ainsi que les périodes et conditions de paiement de ces montants;
+
+bash la ventilation de chaque remboursement entre l’amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le cas échéant, les coûts additionnels.
+
+cash Si le taux d’intérêt n’est pas fixe ou si les coûts additionnels peuvent être modifiés en vertu du contrat de crédit, le tableau d’amortissement indique, de manière claire et concise, que les données mentionnées dans le tableau ne seront valables que jusqu’à la modification suivante du taux débiteur ou des coûts additionnels conformément au contrat de crédit;
+
+j) s’il y a paiement de frais et intérêts sans amortissement du capital, un relevé des périodes et des conditions de paiement des intérêts débiteurs et des frais récurrents et non récurrents annexes;
+
+k) le cas échéant, les frais de tenue d’un ou de plusieurs comptes destinés à enregistrer tant les opérations de paiement que les prélèvements, à moins que l’ouverture d’un compte ne soit facultative, les frais d’utilisation d’un moyen de paiement permettant à la fois des opérations de paiement et des prélèvements, ainsi que tous autres frais découlant du contrat de crédit et les conditions dans lesquelles ces frais peuvent être modifiés;
+
+l) le taux d’intérêt applicable en cas de retard de paiement applicable au moment de la conclusion du contrat de crédit et les modalités d’adaptation de ce taux, ainsi que, le cas échéant, les frais d’inexécution;
+
+m) un avertissement relatif aux conséquences des paiements manquants;
+
+n) le cas échéant, l’existence de frais notariaux;
+
+o) les sûretés et assurances exigées, le cas échéant;
+
+p) l’existence ou l’absence d’un droit de rétractation, la période durant laquelle ce droit peut être exercé et les autres conditions pour l’exercer, y compris des informations sur l’obligation incombant au consommateur de payer le capital prélevé (draw down) et les intérêts conformément à l’article L. 224-15, paragraphe (2), point b), et le montant de l’intérêt journalier;
+
+q) des informations concernant les droits résultant de l’article L. 224-16 ainsi que leurs conditions d’exercice;
+
+r) le droit au remboursement anticipé, la procédure à suivre en cas de remboursement anticipé ainsi que, le cas échéant, des informations sur le droit du prêteur à une indemnité et le mode de calcul de cette indemnité;
+
+s) la procédure à suivre pour exercer le droit de résiliation du contrat de crédit;
+
+t) l’existence ou non de procédures extrajudiciaires de réclamation et de recours accessibles au consommateur et, si de telles procédures existent, les modalités d’accès à ces dernières;
+
+u) le cas échéant, les autres clauses et conditions contractuelles;
+
+v) le cas échéant, le nom et l’adresse de l’autorité de surveillance compétente.
 
 (3) En cas d’application du paragraphe (2), point i), le prêteur met à disposition du consommateur, sans frais et à tout moment durant toute la durée du contrat de crédit, un relevé de compte sous la forme d’un tableau d’amortissement.
 
 (4) Dans le cas d’un contrat de crédit en vertu duquel les paiements effectués par le consommateur n’entraînent pas immédiatement un amortissement correspondant du montant total du crédit, mais servent à reconstituer le capital aux périodes et dans les conditions prévues par le contrat de crédit ou par un contrat accessoire, l’information requise en vertu du paragraphe (2) comporte une déclaration claire et concise selon laquelle les contrats de crédit de ce type ne comportent pas de garantie de remboursement du montant total du crédit prélevé au titre de contrat de crédit, sauf si une telle garantie est donnée.
 
-(5) Par dérogation aux paragraphes (2) à (4) [^note_3_9_0] du présent article, pour les contrats de crédit accordés sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois, les informations suivantes sont fournies, de façon claire et concise:
+(5) Par dérogation aux paragraphes (2) à (4)[^note_3_9_0] du présent article, pour les contrats de crédit accordés sous la forme d’une facilité de découvert remboursable à la demande ou dans un délai maximal de trois mois, les informations suivantes sont fournies, de façon claire et concise:
 
-1. le type de crédit;
-2. l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
-3. la durée du contrat de crédit;
-4. le montant total du crédit et les conditions de prélèvement;
-5. le taux débiteur, les conditions applicables à ce taux et, si disponible, tout indice ou taux de référence qui se rapporte au taux initial débiteur, ainsi que les périodes, conditions et procédures d’adaptation du taux et, si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
-6. le coût total pour le consommateur, calculé au moment de la conclusion du contrat de crédit;
-7. une indication selon laquelle il peut être demandé à tout moment au consommateur de rembourser le montant total du crédit;
-8. la procédure à suivre pour exercer le droit de rétractation du contrat de crédit;
-9. les informations portant sur les frais applicables dès la conclusion du contrat et, le cas échéant, sur les conditions dans lesquelles ces frais peuvent être modifiées.
+a) le type de crédit;
+
+b) l’identité et l’adresse géographique des parties contractantes ainsi que, le cas échéant, l’identité et l’adresse géographique de l’intermédiaire de crédit concerné;
+
+c) la durée du contrat de crédit;
+
+d) le montant total du crédit et les conditions de prélèvement;
+
+e) le taux débiteur, les conditions applicables à ce taux et, si disponible, tout indice ou taux de référence qui se rapporte au taux initial débiteur, ainsi que les périodes, conditions et procédures d’adaptation du taux et, si différents taux débiteurs s’appliquent en fonction des circonstances, les informations susmentionnées portent sur tous les taux applicables;
+
+f) le coût total pour le consommateur, calculé au moment de la conclusion du contrat de crédit;
+
+g) une indication selon laquelle il peut être demandé à tout moment au consommateur de rembourser le montant total du crédit;
+
+h) la procédure à suivre pour exercer le droit de rétractation du contrat de crédit;
+
+i) les informations portant sur les frais applicables dès la conclusion du contrat et, le cas échéant, sur les conditions dans lesquelles ces frais peuvent être modifiées.
 
 **Sous-section 2 — Information sur le taux débiteur**
 
@@ -2437,11 +2849,15 @@ Toutes les parties contractantes reçoivent un exemplaire du contrat de crédit.
 
 Sans préjudice des autres obligations prévues au présent chapitre, le prêteur communique, avant la modification des clauses et conditions du contrat de crédit, les informations suivantes au consommateur :
 
-1. une description claire des modifications proposées et, le cas échéant, de la nécessité d’obtenir le consentement du consommateur ou des modifications introduites par effet de la loi ;
-2. le calendrier de mise en œuvre des modifications visées au point a) ;
-3. les moyens dont dispose le consommateur pour déposer une réclamation en ce qui concerne les modifications visées au point a) ;
-4. le délai fixé pour le dépôt d’une telle réclamation ;
-5. le nom et l’adresse de l’autorité compétente auprès de laquelle le consommateur peut déposer cette réclamation.
+a) une description claire des modifications proposées et, le cas échéant, de la nécessité d’obtenir le consentement du consommateur ou des modifications introduites par effet de la loi ;
+
+b) le calendrier de mise en œuvre des modifications visées au point a) ;
+
+c) les moyens dont dispose le consommateur pour déposer une réclamation en ce qui concerne les modifications visées au point a) ;
+
+d) le délai fixé pour le dépôt d’une telle réclamation ;
+
+e) le nom et l’adresse de l’autorité compétente auprès de laquelle le consommateur peut déposer cette réclamation.
 
 **Sous-section 3 — Obligations relatives au contrat de crédit prenant la forme d’une facilité de découvert**
 
@@ -2449,14 +2865,21 @@ Sans préjudice des autres obligations prévues au présent chapitre, le prêteu
 
 (1) Lorsqu’un contrat de crédit est consenti sous la forme d’une facilité de découvert, le consommateur est régulièrement informé, sur un support papier ou sur un autre support durable, à l’aide d’un relevé de compte comportant les informations suivantes:
 
-1. la période précise sur laquelle porte le relevé de compte;
-2. les montants prélevés et la date des prélèvements;
-3. le solde du relevé précédent et la date de celui-ci;
-4. le nouveau solde;
-5. la date et le montant des paiements effectués par le consommateur;
-6. le taux débiteur appliqué;
-7. tous les frais ayant été appliqués;
-8. le cas échéant, le montant minimal à payer.
+a) la période précise sur laquelle porte le relevé de compte;
+
+b) les montants prélevés et la date des prélèvements;
+
+c) le solde du relevé précédent et la date de celui-ci;
+
+d) le nouveau solde;
+
+e) la date et le montant des paiements effectués par le consommateur;
+
+f) le taux débiteur appliqué;
+
+g) tous les frais ayant été appliqués;
+
+h) le cas échéant, le montant minimal à payer.
 
 (2) En outre, le consommateur est informé sur un support papier ou sur un autre support durable, des augmentations du taux débiteur ou des frais dont il est redevable avant que ces modifications n’entrent en vigueur.
 
@@ -2480,13 +2903,15 @@ Si le contrat de crédit le prévoit, le prêteur peut procéder à la résiliat
 
 Ce délai de rétractation commence à courir:
 
-1. le jour de la conclusion du contrat de crédit, ou
-2. le jour où le consommateur reçoit les clauses et conditions contractuelles ainsi que les informations prévues à l’article L. 224-11, si cette date est postérieure à celle visée au point a) du présent alinéa.
+a) le jour de la conclusion du contrat de crédit, ou
+
+b) le jour où le consommateur reçoit les clauses et conditions contractuelles ainsi que les informations prévues à l’article L. 224-11, si cette date est postérieure à celle visée au point a) du présent alinéa.
 
 (2) Si le consommateur exerce son droit de rétractation:
 
-1. pour que sa rétractation soit effective avant l’expiration du délai visé au paragraphe (1), il la notifie au prêteur, en suivant les instructions pratiques fournies par ce dernier conformément à l’article L. 224-11, paragraphe (2), point p) et de manière à ce que la preuve de cette notification puisse être administrée conformément au droit luxembourgeois. Le délai est réputé respecté si la notification, à condition d’avoir été faite sur un support papier ou sur un autre support durable à la disposition du prêteur et auquel il a accès, a été envoyée avant l’expiration du délai; et
-2. il paie au prêteur le capital et les intérêts cumulés sur ce capital depuis la date à laquelle le crédit a été prélevé jusqu’à la date à laquelle le capital est payé, sans retard indu et au plus tard trente jours calendrier après avoir envoyé la notification de la rétractation au prêteur. Les intérêts sont calculés sur la base du taux débiteur convenu. Le prêteur n’a droit à aucune autre indemnité versée par le consommateur en cas de rétractation, excepté une indemnité pour les frais non récupérables que le prêteur aurait payés à une administration publique. Toutefois, si le remboursement ne s’opère pas dans le délai de trente jours calendrier, la somme due est majorée de plein droit au taux de l’intérêt légal en vigueur à compter du premier jour après l’expiration du délai.
+a) pour que sa rétractation soit effective avant l’expiration du délai visé au paragraphe (1), il la notifie au prêteur, en suivant les instructions pratiques fournies par ce dernier conformément à l’article L. 224-11, paragraphe (2), point p) et de manière à ce que la preuve de cette notification puisse être administrée conformément au droit luxembourgeois. Le délai est réputé respecté si la notification, à condition d’avoir été faite sur un support papier ou sur un autre support durable à la disposition du prêteur et auquel il a accès, a été envoyée avant l’expiration du délai; et
+
+b) il paie au prêteur le capital et les intérêts cumulés sur ce capital depuis la date à laquelle le crédit a été prélevé jusqu’à la date à laquelle le capital est payé, sans retard indu et au plus tard trente jours calendrier après avoir envoyé la notification de la rétractation au prêteur. Les intérêts sont calculés sur la base du taux débiteur convenu. Le prêteur n’a droit à aucune autre indemnité versée par le consommateur en cas de rétractation, excepté une indemnité pour les frais non récupérables que le prêteur aurait payés à une administration publique. Toutefois, si le remboursement ne s’opère pas dans le délai de trente jours calendrier, la somme due est majorée de plein droit au taux de l’intérêt légal en vigueur à compter du premier jour après l’expiration du délai.
 
 (3) L’exercice du droit de rétractation par le consommateur dans le cadre de son contrat de crédit entraîne la résolution de plein droit et sans pénalité des contrats accessoires.
 
@@ -2504,9 +2929,11 @@ Ce délai de rétractation commence à courir:
 
 (2) Le consommateur a le droit d’exercer un recours à l’encontre du prêteur s’il a exercé un recours contre le fournisseur sans obtenir gain de cause comme il pouvait y prétendre conformément à la loi ou au contrat de fourniture de biens ou de prestation de services lorsque les biens ou les services faisant l’objet d’un contrat de crédit lié:
 
-1. ne sont pas fournis, ou
-2. ne le sont qu’en partie, ou
-3. ne sont pas conformes au contrat de fourniture de biens ou de prestation de services.
+a) ne sont pas fournis, ou
+
+b) ne le sont qu’en partie, ou
+
+c) ne sont pas conformes au contrat de fourniture de biens ou de prestation de services.
 
 **Sous-section 7 — Remboursement anticipé**
 
@@ -2532,9 +2959,11 @@ Dans ce cas, le préjudice consiste dans la différence entre le taux d’intér
 
 (5) Aucune indemnité n’est réclamée au consommateur:
 
-1. si le remboursement anticipé a été effectué en exécution d’un contrat d’assurance destiné à garantir le remboursement du crédit;
-2. en cas de facilité de découvert; ou
-3. si le remboursement anticipé intervient dans une période pour laquelle le taux débiteur n’est pas fixe.
+a) si le remboursement anticipé a été effectué en exécution d’un contrat d’assurance destiné à garantir le remboursement du crédit;
+
+b) en cas de facilité de découvert; ou
+
+c) si le remboursement anticipé intervient dans une période pour laquelle le taux débiteur n’est pas fixe.
 
 **Sous-section 7 *bis* — Retards de paiement et exécution ([L. du 15 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/15/a292/jo))**
 
@@ -2542,17 +2971,25 @@ Dans ce cas, le préjudice consiste dans la différence entre le taux d’intér
 
 (1) Les prêteurs disposent de politiques et de procédures adéquates les incitant, s’il y a lieu, à faire preuve d’une tolérance raisonnable avant d’engager une procédure d’exécution. Ces mesures de renégociation tiennent compte, entre autres éléments, des circonstances propres au consommateur et peuvent notamment prévoir :
 
-1. le refinancement total ou partiel du contrat de crédit ;
-2. la modification des clauses et conditions existantes d’un contrat de crédit, qui peut comprendre entre autres :
+a) le refinancement total ou partiel du contrat de crédit ;
 
-   1. la prolongation de la durée du contrat de crédit ;
-   2. la modification du type de contrat de crédit ;
-   3. le report du paiement de tout ou partie des versements du remboursement pendant une période donnée ;
-   4. la modification du taux d’intérêt ;
-   5. la possibilité de suspendre le paiement pendant une période donnée ;
-   6. des remboursements partiels ;
-   7. des conversions de devises ;
-   8. une remise de dette partielle et la consolidation de la dette.
+b) la modification des clauses et conditions existantes d’un contrat de crédit, qui peut comprendre entre autres :
+
+(i) la prolongation de la durée du contrat de crédit ;
+
+(ii) la modification du type de contrat de crédit ;
+
+(iii) le report du paiement de tout ou partie des versements du remboursement pendant une période donnée ;
+
+(iv) la modification du taux d’intérêt ;
+
+(v) la possibilité de suspendre le paiement pendant une période donnée ;
+
+(vi) des remboursements partiels ;
+
+(vii) des conversions de devises ;
+
+(viii) une remise de dette partielle et la consolidation de la dette.
 
 (2) Lorsque le prêteur définit et impose des frais au consommateur pour le défaut de paiement, ces frais ne sont pas supérieurs à ce qui est nécessaire pour indemniser les coûts supportés par le prêteur à la suite du défaut de paiement.
 
@@ -2572,10 +3009,13 @@ Dans ce cas, le préjudice consiste dans la différence entre le taux d’intér
 
 (2) Dans le cas d’un dépassement significatif qui se prolonge pendant une période supérieure à un mois, le prêteur informe le consommateur, sans délai, sur un support papier ou sur un autre support durable:
 
-1. du dépassement;
-2. du montant concerné;
-3. du taux débiteur;
-4. de toutes pénalités et de tous frais ou intérêts sur arriérés qui sont applicables.
+a) du dépassement;
+
+b) du montant concerné;
+
+c) du taux débiteur;
+
+d) de toutes pénalités et de tous frais ou intérêts sur arriérés qui sont applicables.
 
 (3) Lorsque le dépassement se prolonge pendant une période supérieure à trois mois, le prêteur propose sans délai au consommateur un autre type de crédit.
 
@@ -2601,9 +3041,9 @@ Les frais de tenue d’un compte sur lequel sont portés tant les opérations de
 
 **Art. L. 224-21 — [Loi du 21 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/21/a560/jo)**
 
-(1) Nul ne peut être établi au Luxembourg comme prêteur et conclure des contrats de crédit au sens du présent chapitre, s’il n’a obtenu au préalable soit l’autorisation écrite du Ministre ayant dans ses attributions le secteur financier de la CSSF ou, le cas échéant, conformément à l’article 14 du [règlement (UE) n° 1024/2013](https://legilux.public.lu/eli/reg_ue/2013/1024/jo) du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit, au cas où le requérant est un professionnel de ce secteur exerce une activité du secteur financier, soit l’autorisation écrite du Ministre ayant dans ses attributions les autorisations d’établissement, au cas où le requérant exerce à titre principal une activité visée par la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales [^note_3_10_0] . En vue de l’obtention d’une telle autorisation, les personnes physiques et, dans le cas de personnes morales, les membres des organes d’administration et de gestion ainsi que les associés en mesure d’exercer une influence significative sur la conduite des affaires, doivent justifier de leur honorabilité professionnelle. L’honorabilité s’apprécie sur base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable.
+(1) Nul ne peut être établi au Luxembourg comme prêteur et conclure des contrats de crédit au sens du présent chapitre, s’il n’a obtenu au préalable soit l’autorisation écrite du Ministre ayant dans ses attributions le secteur financier de la CSSF ou, le cas échéant, conformément à l’article 14 du [règlement (UE) n° 1024/2013](https://legilux.public.lu/eli/reg_ue/2013/1024/jo) du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de surveillance prudentielle des établissements de crédit, au cas où le requérant est un professionnel de ce secteur exerce une activité du secteur financier, soit l’autorisation écrite du Ministre ayant dans ses attributions les autorisations d’établissement, au cas où le requérant exerce à titre principal une activité visée par la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales[^note_3_10_0] . En vue de l’obtention d’une telle autorisation, les personnes physiques et, dans le cas de personnes morales, les membres des organes d’administration et de gestion ainsi que les associés en mesure d’exercer une influence significative sur la conduite des affaires, doivent justifier de leur honorabilité professionnelle. L’honorabilité s’apprécie sur base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable.
 
-L’autorisation ne peut être accordée qu’à des personnes qui possèdent une qualification professionnelle adéquate en matière de contrats de crédit à la consommation. Au cas où le requérant exerce à titre principal une activité visée par la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales [^note_3_10_0] , la qualification professionnelle requise pour l’exercice de son activité principale est à considérer comme qualification professionnelle adéquate au sens du présent alinéa.
+L’autorisation ne peut être accordée qu’à des personnes qui possèdent une qualification professionnelle adéquate en matière de contrats de crédit à la consommation. Au cas où le requérant exerce à titre principal une activité visée par la [loi du 2 septembre 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo) réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales[^note_3_10_0] , la qualification professionnelle requise pour l’exercice de son activité principale est à considérer comme qualification professionnelle adéquate au sens du présent alinéa.
 
 L’autorisation peut être retirée aux personnes qui n’observent pas les dispositions du présent chapitre et de ses règlements d’exécution.
 
@@ -2663,14 +3103,17 @@ Toute clause ou toute combinaison de clauses d’un contrat de crédit, conclue 
 
 (5) Sera puni d’une amende de 251 euros à 10.000 euros
 
-1. le prêteur qui, aura conclu ou tenté de conclure un contrat de crédit au sens du présent chapitre:
+a) le prêteur qui, aura conclu ou tenté de conclure un contrat de crédit au sens du présent chapitre:
 
-   - sans établir le contrat sur un support écrit ou sur un autre support durable dans les conditions prévues par l’article L. 224-6, paragraphe (1), l’article L. 224-8, paragraphe (1) et l’article L. 224-11, paragraphe (1), ou
-   - sans fournir les informations prévues par les articles L. 224-6, L-224-8 et 224-9, ou
-2. le prêteur qui, après la conclusion du contrat,
+aash sans établir le contrat sur un support écrit ou sur un autre support durable dans les conditions prévues par l’article L. 224-6, paragraphe (1), l’article L. 224-8, paragraphe (1) et l’article L. 224-11, paragraphe (1), ou
 
-   - n’aura pas fourni les informations prescrites aux articles L. 224-11 à L. 224-13 et à l’article L. 224-19; ou
-   - n’aura pas transmises sur un support écrit ou sur un autre support durable les informations prévues par l’article L. 224-12, paragraphe (1), les articles L. 224-13 à L. 224-14, et l’article L. 224-19, paragraphe (1).
+bash sans fournir les informations prévues par les articles L. 224-6, L-224-8 et 224-9, ou
+
+b) le prêteur qui, après la conclusion du contrat,
+
+aash n’aura pas fourni les informations prescrites aux articles L. 224-11 à L. 224-13 et à l’article L. 224-19; ou
+
+bash n’aura pas transmises sur un support écrit ou sur un autre support durable les informations prévues par l’article L. 224-12, paragraphe (1), les articles L. 224-13 à L. 224-14, et l’article L. 224-19, paragraphe (1).
 
 Sera puni des mêmes amendes l’intermédiaire de crédit qui aura conclu ou tenté de conclure des contrats de crédit pour le compte du prêteur.
 
@@ -2714,9 +3157,11 @@ En cas de litige transfrontalier, la Commission est habilitée à coopérer, aux
 
 (2) Le présent chapitre ne s’applique pas :
 
-1. aux forfaits et aux prestations de voyage liées couvrant une période de moins de 24 heures, à moins qu’une nuitée ne soit incluse ;
-2. aux forfaits proposés et aux prestations de voyage liées facilitées, à titre occasionnel et dans un but non lucratif et à un groupe limité de voyageurs uniquement ;
-3. aux forfaits et aux prestations de voyage liées achetés en vertu d’une convention générale conclue pour l’organisation d’un voyage d’affaires entre un professionnel et une autre personne physique ou morale agissant à des fins liées à son activité commerciale, industrielle, artisanale ou libérale.
+a) aux forfaits et aux prestations de voyage liées couvrant une période de moins de 24 heures, à moins qu’une nuitée ne soit incluse ;
+
+b) aux forfaits proposés et aux prestations de voyage liées facilitées, à titre occasionnel et dans un but non lucratif et à un groupe limité de voyageurs uniquement ;
+
+c) aux forfaits et aux prestations de voyage liées achetés en vertu d’une convention générale conclue pour l’organisation d’un voyage d’affaires entre un professionnel et une autre personne physique ou morale agissant à des fins liées à son activité commerciale, industrielle, artisanale ou libérale.
 
 **Sous-section 2 — Définitions**
 
@@ -2724,49 +3169,69 @@ En cas de litige transfrontalier, la Commission est habilitée à coopérer, aux
 
 Pour l’application du présent chapitre, on entend par :
 
-1. « service de voyage » :
+1° « service de voyage » :
 
-   1. le transport de passagers ;
-   2. l’hébergement qui ne fait pas partie intégrante du transport de passagers et qui n’a pas un objectif résidentiel ;
-   3. la location de voitures, d’autres véhicules à moteur au sens de l’article 3, point 11), de la
+a) le transport de passagers ;
 
-      [directive 2007/46/CE](https://legilux.public.lu/eli/dir_ue/2007/46/jo) du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules ou de motocycles dont la conduite nécessite la possession d’un permis de conduire de catégorie A ;
-   4. tout autre service touristique qui ne fait pas partie intégrante d’un service de voyage au sens des lettres a), b) ou c) ;
-2. « forfait » : la combinaison d’au moins deux types différents de services de voyage aux fins du même voyage ou séjour de vacances, si :
+b) l’hébergement qui ne fait pas partie intégrante du transport de passagers et qui n’a pas un objectif résidentiel ;
 
-   1. ces services sont combinés par un seul professionnel, y compris à la demande du voyageur ou conformément à son choix, avant qu’un contrat unique incluant tous ces services ne soit conclu ; ou
-   2. indépendamment de l’éventuelle conclusion de contrats séparés avec des prestataires de services de voyage individuels, ces services sont :
+c) la location de voitures, d’autres véhicules à moteur au sens de l’article 3, point 11), de la [directive 2007/46/CE](https://legilux.public.lu/eli/dir_ue/2007/46/jo) du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules ou de motocycles dont la conduite nécessite la possession d’un permis de conduire de catégorie A ;
 
-      1. achetés auprès d’un seul point de vente et ont été choisis avant que le voyageur n’accepte de payer ;
-      2. proposés, vendus ou facturés à un prix tout compris ou à un prix total ;
-      3. annoncés ou vendus sous la dénomination de « forfait » ou sous une dénomination similaire ;
-      4. combinés après la conclusion d’un contrat par lequel un professionnel autorise le voyageur à choisir parmi une sélection de différents types de services de voyage ; ou
-      5. achetés auprès de professionnels distincts grâce à des procédures de réservation en ligne liées, lorsque le nom du voyageur, les modalités de paiement et l’adresse électronique sont transmis par le professionnel avec lequel le premier contrat est conclu à un ou plusieurs autres professionnels et lorsqu’un contrat avec ce ou ces derniers est conclu au plus tard 24 heures après la confirmation de la réservation du premier service de voyage.
+d) tout autre service touristique qui ne fait pas partie intégrante d’un service de voyage au sens des lettres a), b) ou c) ;
 
-         Les combinaisons de services de voyages dans lesquelles un seul des types de service de voyage visés au point 1), lettre a), b) ou c), est combiné à un ou plusieurs des services touristiques visés au point 1), lettre d) ne constituent pas un forfait si ces derniers services :
+2° « forfait » : la combinaison d’au moins deux types différents de services de voyage aux fins du même voyage ou séjour de vacances, si :
 
-         1. ne représentent pas une part significative de la valeur de la combinaison, ne sont pas annoncés comme étant une caractéristique essentielle de la combinaison ou ne constituent pas d’une manière ou d’une autre une telle caractéristique ; ou
-         2. sont choisis et achetés uniquement après que l’exécution d’un service de voyage visé au point 1), lettre a), b) ou c) a commencé ;
-3. « contrat de voyage à forfait » : un contrat portant sur le forfait formant un tout ou, si le forfait est fourni dans le cadre de contrats séparés, tous les contrats couvrant les services de voyage compris dans le forfait ;
-4. « début du forfait », le commencement de l’exécution des services de voyage compris dans le forfait ;
-5. « prestation de voyage liée » : au moins deux types différents de services de voyage achetés aux fins du même voyage ou séjour de vacances, ne constituant pas un forfait entraînant la conclusion de contrats séparés avec des prestataires de services de voyage individuels, si un professionnel facilite :
+a) ces services sont combinés par un seul professionnel, y compris à la demande du voyageur ou conformément à son choix, avant qu’un contrat unique incluant tous ces services ne soit conclu ; ou
 
-   1. à l’occasion d’une seule visite à son point de vente ou d’une seule prise de contact avec celui-ci, le choix séparé et le paiement séparé de chaque service de voyage par les voyageurs ; ou
-   2. d’une manière ciblée, l’achat d’au moins un service de voyage supplémentaire auprès d’un autre professionnel lorsque le contrat avec cet autre professionnel est conclu au plus tard 24 heures après la confirmation de la réservation du premier service de voyage ;
+b) indépendamment de l’éventuelle conclusion de contrats séparés avec des prestataires de services de voyage individuels, ces services sont :
 
-   Lorsqu’il est acheté un seul des types de service de voyage visés au point 1), lettre a), b) ou c) et un ou plusieurs des services touristiques visés au point 1), lettre d), ceux-ci ne constituent pas une prestation de voyage liée si ces derniers services ne représentent pas une part significative de la valeur combinée des services et ne sont pas annoncés comme étant une caractéristique essentielle du voyage ou séjour de vacances ou ne constituent pas d’une manière ou d’une autre une telle caractéristique ;
-6. « voyageur » : toute personne cherchant à conclure un contrat relevant du champ d’application du présent chapitre ou ayant le droit de voyager sur la base d’un tel contrat déjà conclu ;
-7. « professionnel » : toute personne telle que définie à l’article L. 010-1, point 2), agissant en qualité d’organisateur, de détaillant, de professionnel facilitant une prestation de voyage liée ou de prestataire d’un service de voyage ;
-8. « organisateur » : un professionnel qui élabore des forfaits et les vend ou les offre à la vente, directement ou par l’intermédiaire d’un autre professionnel ou encore conjointement avec un autre professionnel, ou un professionnel qui transmet les données du voyageur à un autre professionnel conformément au point 2), lettre b), point v) ;
-9. « détaillant » : un professionnel autre que l’organisateur, qui vend ou offre à la vente des forfaits élaborés par un organisateur ;
-10. « établissement » : l’établissement défini à l’article 2, lettre f), de la
+(i) achetés auprès d’un seul point de vente et ont été choisis avant que le voyageur n’accepte de payer ;
 
-   [loi modifiée du 24 mai 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/jo) relative aux services dans le marché intérieur ;
-11. « support durable » : tout instrument permettant au voyageur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter aisément à l’avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées ;
-12. « circonstances exceptionnelles et inévitables » : une situation échappant au contrôle de la partie qui invoque cette situation et dont les conséquences n’auraient pu être évitées même si toutes les mesures raisonnables avaient été prises ;
-13. « non-conformité » : l’inexécution ou la mauvaise exécution des services de voyage compris dans un forfait ;
-14. « point de vente » : tout site commercial, qu’il soit meuble ou immeuble, ou un site internet commercial ou une structure de vente en ligne similaire, y compris lorsque des sites internet commerciaux ou des structures de vente en ligne sont présentés aux voyageurs comme une structure unique, y compris un service téléphonique ;
-15. « rapatriement » : le retour du voyageur au lieu de départ ou à un autre lieu décidé d’un commun accord par les parties contractantes.
+(ii) proposés, vendus ou facturés à un prix tout compris ou à un prix total ;
+
+(iii) annoncés ou vendus sous la dénomination de « forfait » ou sous une dénomination similaire ;
+
+(iv) combinés après la conclusion d’un contrat par lequel un professionnel autorise le voyageur à choisir parmi une sélection de différents types de services de voyage ; ou
+
+(v) achetés auprès de professionnels distincts grâce à des procédures de réservation en ligne liées, lorsque le nom du voyageur, les modalités de paiement et l’adresse électronique sont transmis par le professionnel avec lequel le premier contrat est conclu à un ou plusieurs autres professionnels et lorsqu’un contrat avec ce ou ces derniers est conclu au plus tard 24 heures après la confirmation de la réservation du premier service de voyage.
+
+Les combinaisons de services de voyages dans lesquelles un seul des types de service de voyage visés au point 1), lettre a), b) ou c), est combiné à un ou plusieurs des services touristiques visés au point 1), lettre d) ne constituent pas un forfait si ces derniers services :
+
+a) ne représentent pas une part significative de la valeur de la combinaison, ne sont pas annoncés comme étant une caractéristique essentielle de la combinaison ou ne constituent pas d’une manière ou d’une autre une telle caractéristique ; ou
+
+b) sont choisis et achetés uniquement après que l’exécution d’un service de voyage visé au point 1), lettre a), b) ou c) a commencé ;
+
+3° « contrat de voyage à forfait » : un contrat portant sur le forfait formant un tout ou, si le forfait est fourni dans le cadre de contrats séparés, tous les contrats couvrant les services de voyage compris dans le forfait ;
+
+4° « début du forfait », le commencement de l’exécution des services de voyage compris dans le forfait ;
+
+5° « prestation de voyage liée » : au moins deux types différents de services de voyage achetés aux fins du même voyage ou séjour de vacances, ne constituant pas un forfait entraînant la conclusion de contrats séparés avec des prestataires de services de voyage individuels, si un professionnel facilite :
+
+a) à l’occasion d’une seule visite à son point de vente ou d’une seule prise de contact avec celui-ci, le choix séparé et le paiement séparé de chaque service de voyage par les voyageurs ; ou
+
+b) d’une manière ciblée, l’achat d’au moins un service de voyage supplémentaire auprès d’un autre professionnel lorsque le contrat avec cet autre professionnel est conclu au plus tard 24 heures après la confirmation de la réservation du premier service de voyage ;
+
+Lorsqu’il est acheté un seul des types de service de voyage visés au point 1), lettre a), b) ou c) et un ou plusieurs des services touristiques visés au point 1), lettre d), ceux-ci ne constituent pas une prestation de voyage liée si ces derniers services ne représentent pas une part significative de la valeur combinée des services et ne sont pas annoncés comme étant une caractéristique essentielle du voyage ou séjour de vacances ou ne constituent pas d’une manière ou d’une autre une telle caractéristique ;
+
+6° « voyageur » : toute personne cherchant à conclure un contrat relevant du champ d’application du présent chapitre ou ayant le droit de voyager sur la base d’un tel contrat déjà conclu ;
+
+7° « professionnel » : toute personne telle que définie à l’article L. 010-1, point 2), agissant en qualité d’organisateur, de détaillant, de professionnel facilitant une prestation de voyage liée ou de prestataire d’un service de voyage ;
+
+8° « organisateur » : un professionnel qui élabore des forfaits et les vend ou les offre à la vente, directement ou par l’intermédiaire d’un autre professionnel ou encore conjointement avec un autre professionnel, ou un professionnel qui transmet les données du voyageur à un autre professionnel conformément au point 2), lettre b), point v) ;
+
+9° « détaillant » : un professionnel autre que l’organisateur, qui vend ou offre à la vente des forfaits élaborés par un organisateur ;
+
+10° « établissement » : l’établissement défini à l’article 2, lettre f), de la [loi modifiée du 24 mai 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/jo) relative aux services dans le marché intérieur ;
+
+11° « support durable » : tout instrument permettant au voyageur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter aisément à l’avenir pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées ;
+
+12° « circonstances exceptionnelles et inévitables » : une situation échappant au contrôle de la partie qui invoque cette situation et dont les conséquences n’auraient pu être évitées même si toutes les mesures raisonnables avaient été prises ;
+
+13° « non-conformité » : l’inexécution ou la mauvaise exécution des services de voyage compris dans un forfait ;
+
+14° « point de vente » : tout site commercial, qu’il soit meuble ou immeuble, ou un site internet commercial ou une structure de vente en ligne similaire, y compris lorsque des sites internet commerciaux ou des structures de vente en ligne sont présentés aux voyageurs comme une structure unique, y compris un service téléphonique ;
+
+15° « rapatriement » : le retour du voyageur au lieu de départ ou à un autre lieu décidé d’un commun accord par les parties contractantes.
 
 ###### *Section 2* — *Obligations d’informations et contenu du contrat de voyage à forfait*
 
@@ -2776,25 +3241,37 @@ Pour l’application du présent chapitre, on entend par :
 
 (1) L’organisateur, ainsi que le détaillant lorsque les forfaits sont vendus par l’intermédiaire d’un détaillant, communique au voyageur, avant qu’il ne soit lié par un contrat de voyage à forfait ou toute offre correspondante, les informations au moyen du formulaire standard déterminé par règlement grand-ducal, et dans le cas où elles s’appliquent au forfait, les informations mentionnées ci-après :
 
-1. les caractéristiques principales des services de voyage :
+a) les caractéristiques principales des services de voyage :
 
-   1. la ou les destinations, l’itinéraire et les périodes de séjour, avec les dates et, lorsque l’hébergement est compris, le nombre de nuitées comprises ;
-   2. les moyens, caractéristiques et catégories de transport, les lieux, dates et heures de départ et de retour, la durée et le lieu des escales et des correspondances. Lorsque l’heure exacte n’est pas encore fixée, l’organisateur et, le cas échéant, le détaillant informent le voyageur de l’heure approximative du départ et du retour ;
-   3. la situation, les principales caractéristiques et, s’il y a lieu, la catégorie touristique de l’hébergement en vertu des règles du pays de destination ;
-   4. les repas fournis ;
-   5. les visites, les excursions ou les autres services compris dans le prix total convenu pour le forfait ;
-   6. lorsque cela ne ressort pas du contexte, si les services de voyage éventuels seront fournis au voyageur en tant que membre d’un groupe et, dans ce cas, si possible, la taille approximative du groupe ;
-   7. lorsque le bénéfice d’autres services touristiques fournis au voyageur repose sur une communication verbale efficace, la langue dans laquelle ces services seront fournis ; et
-   8. des informations sur le fait de savoir si le voyage ou le séjour de vacances est, d’une manière générale, adapté aux personnes à mobilité réduite et, à la demande du voyageur, des informations précises sur l’adéquation du voyage ou du séjour de vacances aux besoins du voyageur ;
-2. la dénomination sociale et l’adresse géographique de l’organisateur et, s’il y a lieu, du détaillant, ainsi que leurs coordonnées téléphoniques et, s’il y a lieu, électroniques ;
-3. le prix total du forfait incluant les taxes et, s’il y a lieu, tous les frais, redevances ou autres coûts supplémentaires, ou, quand ceux-ci ne peuvent être raisonnablement calculés avant la conclusion du contrat, une indication du type de coûts additionnels que le voyageur peut encore avoir à supporter ;
-4. les modalités de paiement, y compris le montant ou le pourcentage du prix à verser à titre d’acompte et le calendrier pour le paiement du solde, ou les garanties financières à verser ou à fournir par le voyageur ;
-5. le nombre minimal de personnes requis pour la réalisation du forfait et la date limite visée à l’article L. 225-10, paragraphe 3, lettre a), précédant le début du forfait pour une éventuelle résiliation du contrat au cas où ce nombre ne serait pas atteint ;
-6. des informations d’ordre général concernant les conditions applicables en matière de passeports et de visas, y compris la durée approximative d’obtention des visas, ainsi que des renseignements sur les formalités sanitaires, du pays de destination ;
-7. une mention indiquant que le voyageur peut résilier le contrat à tout moment avant le début du forfait, moyennant le paiement de frais de résiliation appropriés ou, le cas échéant, de frais de résiliation standard réclamés par l’organisateur, conformément à l’article L. 225-10, paragraphe 1
+(i) la ou les destinations, l’itinéraire et les périodes de séjour, avec les dates et, lorsque l’hébergement est compris, le nombre de nuitées comprises ;
 
-   <sup>er</sup> ;
-8. des informations sur les assurances obligatoires ou facultatives couvrant les frais de résiliation du contrat par le voyageur ou sur le coût d’une assistance, couvrant le rapatriement, en cas d’accident, de maladie ou de décès.
+(ii) les moyens, caractéristiques et catégories de transport, les lieux, dates et heures de départ et de retour, la durée et le lieu des escales et des correspondances. Lorsque l’heure exacte n’est pas encore fixée, l’organisateur et, le cas échéant, le détaillant informent le voyageur de l’heure approximative du départ et du retour ;
+
+(iii) la situation, les principales caractéristiques et, s’il y a lieu, la catégorie touristique de l’hébergement en vertu des règles du pays de destination ;
+
+(iv) les repas fournis ;
+
+(v) les visites, les excursions ou les autres services compris dans le prix total convenu pour le forfait ;
+
+(vi) lorsque cela ne ressort pas du contexte, si les services de voyage éventuels seront fournis au voyageur en tant que membre d’un groupe et, dans ce cas, si possible, la taille approximative du groupe ;
+
+(vii) lorsque le bénéfice d’autres services touristiques fournis au voyageur repose sur une communication verbale efficace, la langue dans laquelle ces services seront fournis ; et
+
+(viii) des informations sur le fait de savoir si le voyage ou le séjour de vacances est, d’une manière générale, adapté aux personnes à mobilité réduite et, à la demande du voyageur, des informations précises sur l’adéquation du voyage ou du séjour de vacances aux besoins du voyageur ;
+
+b) la dénomination sociale et l’adresse géographique de l’organisateur et, s’il y a lieu, du détaillant, ainsi que leurs coordonnées téléphoniques et, s’il y a lieu, électroniques ;
+
+c) le prix total du forfait incluant les taxes et, s’il y a lieu, tous les frais, redevances ou autres coûts supplémentaires, ou, quand ceux-ci ne peuvent être raisonnablement calculés avant la conclusion du contrat, une indication du type de coûts additionnels que le voyageur peut encore avoir à supporter ;
+
+d) les modalités de paiement, y compris le montant ou le pourcentage du prix à verser à titre d’acompte et le calendrier pour le paiement du solde, ou les garanties financières à verser ou à fournir par le voyageur ;
+
+e) le nombre minimal de personnes requis pour la réalisation du forfait et la date limite visée à l’article L. 225-10, paragraphe 3, lettre a), précédant le début du forfait pour une éventuelle résiliation du contrat au cas où ce nombre ne serait pas atteint ;
+
+f) des informations d’ordre général concernant les conditions applicables en matière de passeports et de visas, y compris la durée approximative d’obtention des visas, ainsi que des renseignements sur les formalités sanitaires, du pays de destination ;
+
+g) une mention indiquant que le voyageur peut résilier le contrat à tout moment avant le début du forfait, moyennant le paiement de frais de résiliation appropriés ou, le cas échéant, de frais de résiliation standard réclamés par l’organisateur, conformément à l’article L. 225-10, paragraphe 1 <sup>er</sup> ;
+
+h) des informations sur les assurances obligatoires ou facultatives couvrant les frais de résiliation du contrat par le voyageur ou sur le coût d’une assistance, couvrant le rapatriement, en cas d’accident, de maladie ou de décès.
 
 Dans le cas des contrats de voyage à forfait conclus par téléphone, l’organisateur et, le cas échéant, le détaillant fournissent au voyageur les informations standard figurant au formulaire d’information standard déterminé par règlement grand-ducal, et les informations qui sont énumérées au premier alinéa, lettres a) à h).
 
@@ -2820,19 +3297,25 @@ En ce qui concerne les contrats hors établissement au sens de l’article L. 22
 
 (2) Le contrat de voyage à forfait ou sa confirmation reprend l’ensemble du contenu de la convention, qui inclut toutes les informations mentionnées à l’article L. 225-3, paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> , lettres a) à h), et les informations suivantes :
 
-1. les exigences particulières du voyageur que l’organisateur a acceptées ;
-2. une mention indiquant que l’organisateur est :
+a) les exigences particulières du voyageur que l’organisateur a acceptées ;
 
-   1. responsable de la bonne exécution de tous les services de voyage compris dans le contrat conformément à l’article L. 225-11 ; et
-   2. tenu d’apporter une aide au voyageur s’il est en difficulté, conformément à l’article L. 225-14 ;
-3. le nom de l’entité chargée de la protection contre l’insolvabilité et ses coordonnées, dont son adresse géographique et, le cas échéant, le nom de l’autorité compétente désignée par l’État membre concerné à cette fin et ses coordonnées ;
-4. le nom, l’adresse, le numéro de téléphone, l’adresse électronique et, le cas échéant, le numéro de télécopieur, du représentant local de l’organisateur, d’un point de contact ou d’un autre service par l’intermédiaire duquel le voyageur peut contacter rapidement l’organisateur et communiquer avec lui de manière efficace, demander une aide si le voyageur est en difficulté ou se plaindre de toute non-conformité constatée lors de l’exécution du forfait ;
-5. une mention indiquant que le voyageur est tenu de communiquer toute non-conformité qu’il constate lors de l’exécution du forfait conformément à l’article L. 225-11, paragraphe 2 ;
-6. lorsque des mineurs, non accompagnés par un parent ou une autre personne autorisée, voyagent sur la base d’un contrat de voyage à forfait comprenant un hébergement, des informations permettant d’établir un contact direct avec le mineur ou la personne responsable du mineur sur le lieu de séjour du mineur ;
-7. (
+b) une mention indiquant que l’organisateur est :
 
-   [L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) des informations sur les procédures internes de traitement des plaintes disponibles et sur les mécanismes de règlement extrajudiciaire des litiges (ci-après REL) conformément au livre IV du Code de la consommation et, s’il y a lieu, sur l’entité de REL dont relève le professionnel;
-8. des informations sur le droit du voyageur de céder le contrat à un autre voyageur conformément à l’article L. 225-7.
+(i) responsable de la bonne exécution de tous les services de voyage compris dans le contrat conformément à l’article L. 225-11 ; et
+
+(ii) tenu d’apporter une aide au voyageur s’il est en difficulté, conformément à l’article L. 225-14 ;
+
+c) le nom de l’entité chargée de la protection contre l’insolvabilité et ses coordonnées, dont son adresse géographique et, le cas échéant, le nom de l’autorité compétente désignée par l’État membre concerné à cette fin et ses coordonnées ;
+
+d) le nom, l’adresse, le numéro de téléphone, l’adresse électronique et, le cas échéant, le numéro de télécopieur, du représentant local de l’organisateur, d’un point de contact ou d’un autre service par l’intermédiaire duquel le voyageur peut contacter rapidement l’organisateur et communiquer avec lui de manière efficace, demander une aide si le voyageur est en difficulté ou se plaindre de toute non-conformité constatée lors de l’exécution du forfait ;
+
+e) une mention indiquant que le voyageur est tenu de communiquer toute non-conformité qu’il constate lors de l’exécution du forfait conformément à l’article L. 225-11, paragraphe 2 ;
+
+f) lorsque des mineurs, non accompagnés par un parent ou une autre personne autorisée, voyagent sur la base d’un contrat de voyage à forfait comprenant un hébergement, des informations permettant d’établir un contact direct avec le mineur ou la personne responsable du mineur sur le lieu de séjour du mineur ;
+
+g) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) des informations sur les procédures internes de traitement des plaintes disponibles et sur les mécanismes de règlement extrajudiciaire des litiges (ci-après REL) conformément au livre IV du Code de la consommation et, s’il y a lieu, sur l’entité de REL dont relève le professionnel;
+
+h) des informations sur le droit du voyageur de céder le contrat à un autre voyageur conformément à l’article L. 225-7.
 
 (3) En ce qui concerne les forfaits définis à l’article L. 225-2, alinéa 1 <sup>er</sup> , point 2), lettre b), point v), le professionnel auquel les données sont transmises informe l’organisateur de la conclusion du contrat donnant lieu à la création d’un forfait. Le professionnel lui fournit les informations nécessaires pour lui permettre de s’acquitter de ses obligations en tant qu’organisateur.
 
@@ -2866,9 +3349,11 @@ Ces coûts ne sont pas déraisonnables et n’excèdent pas le coût effectiveme
 
 (1) Après la conclusion du contrat de voyage à forfait, les prix ne peuvent être majorés que si le contrat prévoit expressément cette possibilité et indique que le voyageur a droit à une réduction du prix en vertu du paragraphe 4. Dans ce cas, le contrat de voyage à forfait précise de quelle manière la révision du prix doit être calculée. Les majorations de prix sont possibles uniquement si elles sont la conséquence directe d’une évolution :
 
-1. du prix du transport de passagers résultant du coût du carburant ou d’autres sources d’énergie ;
-2. du niveau des taxes ou redevances sur les services de voyage compris dans le contrat, imposées par un tiers qui ne participe pas directement à l’exécution du forfait, y compris les taxes touristiques, les taxes d’atterrissage ou d’embarquement et de débarquement dans les ports et aéroports ; ou
-3. des taux de change en rapport avec le forfait.
+a) du prix du transport de passagers résultant du coût du carburant ou d’autres sources d’énergie ;
+
+b) du niveau des taxes ou redevances sur les services de voyage compris dans le contrat, imposées par un tiers qui ne participe pas directement à l’exécution du forfait, y compris les taxes touristiques, les taxes d’atterrissage ou d’embarquement et de débarquement dans les ports et aéroports ; ou
+
+c) des taux de change en rapport avec le forfait.
 
 (2) Si la majoration du prix visée au paragraphe 1 <sup>er</sup> dépasse 8 pour cent du prix total du forfait, l’article L. 225-9, paragraphes 2 à 5, s’applique.
 
@@ -2884,23 +3369,29 @@ Ces coûts ne sont pas déraisonnables et n’excèdent pas le coût effectiveme
 
 (1) L’organisateur ne peut, avant le début du forfait, modifier unilatéralement les clauses du contrat de voyage à forfait autres que le prix conformément à l’article L. 225-8, à moins que :
 
-1. l’organisateur ne se soit réservé ce droit dans le contrat ;
-2. la modification ne soit mineure ; et
-3. l’organisateur n’en informe le voyageur d’une manière claire, compréhensible et apparente sur un support durable.
+a) l’organisateur ne se soit réservé ce droit dans le contrat ;
+
+b) la modification ne soit mineure ; et
+
+c) l’organisateur n’en informe le voyageur d’une manière claire, compréhensible et apparente sur un support durable.
 
 (2) Si, avant le début du forfait, l’organisateur se trouve contraint de modifier, de façon significative, une ou plusieurs des caractéristiques principales des services de voyage visées à l’article L. 225-3, paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> , lettre a), ou s’il ne peut pas satisfaire aux exigences particulières visées à l’article L. 225-5, paragraphe 2, lettre a), ou s’il propose d’augmenter le prix du forfait de plus de 8 pour cent conformément à l’article L. 225-8, paragraphe 2, le voyageur peut, dans un délai raisonnable fixé par l’organisateur :
 
-1. accepter la modification proposée ; ou
-2. résilier le contrat sans payer de frais de résiliation.
+a) accepter la modification proposée ; ou
+
+b) résilier le contrat sans payer de frais de résiliation.
 
 Si le voyageur résilie le contrat de voyage à forfait, il peut accepter un autre forfait, si possible de qualité égale ou supérieure, dans le cas où cela est proposé par l’organisateur.
 
 (3) L’organisateur informe le voyageur sans retard excessif, d’une manière claire, compréhensible et apparente, sur un support durable :
 
-1. des modifications proposées visées au paragraphe 2 et, s’il y a lieu, en application du paragraphe 4, de leurs répercussions sur le prix du forfait ;
-2. d’un délai raisonnable dans lequel le voyageur doit communiquer à l’organisateur la décision qu’il prend en application du paragraphe 2 ;
-3. des conséquences de l’absence de réponse du voyageur dans le délai visé à la lettre b) ; et
-4. s’il y a lieu, de l’autre forfait proposé, ainsi que de son prix.
+a) des modifications proposées visées au paragraphe 2 et, s’il y a lieu, en application du paragraphe 4, de leurs répercussions sur le prix du forfait ;
+
+b) d’un délai raisonnable dans lequel le voyageur doit communiquer à l’organisateur la décision qu’il prend en application du paragraphe 2 ;
+
+c) des conséquences de l’absence de réponse du voyageur dans le délai visé à la lettre b) ; et
+
+d) s’il y a lieu, de l’autre forfait proposé, ainsi que de son prix.
 
 (4) Lorsque les modifications du contrat de voyage à forfait visées au paragraphe 2, alinéa 1 <sup>er</sup> , ou le forfait de substitution visé au paragraphe 2, alinéa 2, entraînent une baisse de qualité du forfait ou de son coût, le voyageur a droit à une réduction de prix adéquate.
 
@@ -2916,14 +3407,17 @@ Si le voyageur résilie le contrat de voyage à forfait, il peut accepter un aut
 
 (3) L’organisateur peut résilier le contrat de voyage à forfait et rembourser intégralement le voyageur des paiements effectués pour le forfait, mais il n’est pas tenu à un dédommagement supplémentaire, si :
 
-1. le nombre de personnes inscrites pour le forfait est inférieur au nombre minimal indiqué dans le contrat et que l’organisateur notifie la résiliation du contrat au voyageur dans le délai fixé par le contrat, mais au plus tard :
+a) le nombre de personnes inscrites pour le forfait est inférieur au nombre minimal indiqué dans le contrat et que l’organisateur notifie la résiliation du contrat au voyageur dans le délai fixé par le contrat, mais au plus tard :
 
-   1. vingt jours avant le début du forfait dans le cas de voyages dont la durée dépasse six jours ;
-   2. sept jours avant le début du forfait dans le cas de voyages dont la durée est de deux à six jours ;
-   3. 48 heures avant le début du forfait dans le cas de voyages ne durant pas plus de deux jours ;
+(i) vingt jours avant le début du forfait dans le cas de voyages dont la durée dépasse six jours ;
 
-   ou
-2. l’organisateur est empêché d’exécuter le contrat en raison de circonstances exceptionnelles et inévitables et notifie la résiliation du contrat au voyageur sans retard excessif avant le début du forfait.
+(ii) sept jours avant le début du forfait dans le cas de voyages dont la durée est de deux à six jours ;
+
+(iii) 48 heures avant le début du forfait dans le cas de voyages ne durant pas plus de deux jours ;
+
+ou
+
+b) l’organisateur est empêché d’exécuter le contrat en raison de circonstances exceptionnelles et inévitables et notifie la résiliation du contrat au voyageur sans retard excessif avant le début du forfait.
 
 (4) L’organisateur procède aux remboursements requis en vertu des paragraphes 2 et 3 ou, au titre du paragraphe 1 <sup>er</sup> , rembourse tous les paiements effectués par le voyageur ou en son nom pour le forfait moins les frais de résiliation appropriés. Ces remboursements au profit du voyageur sont effectués sans retard excessif et en tout état de cause dans les quatorze jours au plus tard après la résiliation du contrat de voyage à forfait.
 
@@ -2939,8 +3433,9 @@ Si le voyageur résilie le contrat de voyage à forfait, il peut accepter un aut
 
 (3) Si l’un des services de voyage n’est pas exécuté conformément au contrat de voyage à forfait, l’organisateur remédie à la non-conformité, sauf si cela :
 
-1. est impossible ; ou
-2. entraîne des coûts disproportionnés, compte tenu de l’importance de la non-conformité et de la valeur des services de voyage concernés.
+a) est impossible ; ou
+
+b) entraîne des coûts disproportionnés, compte tenu de l’importance de la non-conformité et de la valeur des services de voyage concernés.
 
 Si l’organisateur ne remédie pas à la non-conformité conformément à l’alinéa 1 <sup>er</sup> , lettre a) ou b), l’article L. 225-12 s’applique.
 
@@ -2972,9 +3467,11 @@ Si le forfait comprend le transport de passagers, l’organisateur fournit égal
 
 (3) Le voyageur n’a droit à aucun dédommagement si l’organisateur prouve que la non-conformité est :
 
-1. imputable au voyageur ;
-2. imputable à un tiers étranger à la fourniture des services de voyage compris dans le contrat de voyage à forfait et revêt un caractère imprévisible ou inévitable ; ou
-3. due à des circonstances exceptionnelles et inévitables.
+a) imputable au voyageur ;
+
+b) imputable à un tiers étranger à la fourniture des services de voyage compris dans le contrat de voyage à forfait et revêt un caractère imprévisible ou inévitable ; ou
+
+c) due à des circonstances exceptionnelles et inévitables.
 
 (4) Dans la mesure où des conventions internationales qui lient l’Union européenne circonscrivent les conditions dans lesquelles un dédommagement est dû par un prestataire fournissant un service de voyage qui fait partie d’un forfait ou limitent l’étendue de ce dédommagement, les mêmes limites s’appliquent à l’organisateur. Dans les autres cas, le contrat de voyage à forfait peut limiter le dédommagement à verser par l’organisateur, pour autant que cette limitation ne s’applique pas aux préjudices corporels ni aux dommages causés intentionnellement ou par négligence et qu’elle ne représente pas moins de trois fois le prix total du forfait.
 
@@ -2994,8 +3491,9 @@ Aux fins du respect des dates butoirs ou des délais de prescription, la date de
 
 L’organisateur apporte sans retard excessif une aide appropriée au voyageur en difficulté, y compris dans les circonstances visées à l’article L. 225-11, paragraphe 7, notamment :
 
-1. en fournissant des informations utiles sur les services de santé, les autorités locales et l’assistance consulaire ; et
-2. en aidant le voyageur à effectuer des communications longue distance et à trouver d’autres prestations de voyage.
+a) en fournissant des informations utiles sur les services de santé, les autorités locales et l’assistance consulaire ; et
+
+b) en aidant le voyageur à effectuer des communications longue distance et à trouver d’autres prestations de voyage.
 
 L’organisateur est en droit de facturer un prix raisonnable pour cette aide si cette difficulté est causée de façon intentionnelle par le voyageur ou par sa négligence. Le prix facturé ne dépasse en aucun cas les coûts réels supportés par l’organisateur.
 
@@ -3013,11 +3511,11 @@ Le paragraphe 1 <sup>er</sup> s’applique également à l’organisateur qui n�
 
 L’organisateur établi au Grand-Duché de Luxembourg fournit au ministre ayant l’Économie dans ses attributions un certificat établi par le garant et contenant les informations suivantes :
 
-1. les informations visées à l’article L. 225-5, paragraphe 2, lettre c) ;
-2. le numéro de téléphone et une adresse électronique permettant de contacter le garant ;
-3. l’étendue de la couverture visée au paragraphe 1
+a) les informations visées à l’article L. 225-5, paragraphe 2, lettre c) ;
 
-   <sup>er</sup> .
+b) le numéro de téléphone et une adresse électronique permettant de contacter le garant ;
+
+c) l’étendue de la couverture visée au paragraphe 1 <sup>er</sup> .
 
 L’identité de l’organisateur complétée par les informations visées à l’alinéa 2, lettres a) et b) sont publiques. L’information visée à l’alinéa 2, lettre c) est communiquée sur demande à des points de contact d’autres États membres.
 
@@ -3057,11 +3555,11 @@ Le paragraphe 1 <sup>er</sup> s’applique également aux professionnels facilit
 
 Le professionnel fournit au ministre ayant l’Économie dans ses attributions un certificat établi par le garant et contenant les informations suivantes :
 
-1. les informations visées à l’article L. 225-5, paragraphe 2, lettre c) ;
-2. le numéro de téléphone et une adresse électronique permettant de contacter le garant ;
-3. l’étendue de la couverture de la garantie visée au paragraphe 1
+a) les informations visées à l’article L. 225-5, paragraphe 2, lettre c) ;
 
-   <sup>er</sup> .
+b) le numéro de téléphone et une adresse électronique permettant de contacter le garant ;
+
+c) l’étendue de la couverture de la garantie visée au paragraphe 1 <sup>er</sup> .
 
 L’identité du professionnel complétée par les informations visées à l’alinéa 2, lettres a) et b) sont publiques. L’information visée à l’alinéa 2, lettre c) est communiquée sur demande à des points de contact d’autres États membres.
 
@@ -3071,10 +3569,9 @@ Les modalités de la notification ainsi que les pièces à produire sont précis
 
 (3) Avant que le voyageur ne soit lié par un contrat conduisant à l’élaboration d’une prestation de voyage liée ou d’une offre correspondante, le professionnel facilitant les prestations de voyage liées, y compris s’il n’est pas établi dans un État membre mais dirige par tout moyen ces activités vers un État membre, mentionne de façon claire, compréhensible et apparente que le voyageur :
 
-1. ne bénéficiera d’aucun des droits applicables exclusivement aux forfaits au titre du présent chapitre et que chaque prestataire de service sera seulement responsable de la bonne exécution contractuelle de son service ; et
-2. bénéficiera d’une protection contre l’insolvabilité conformément au paragraphe 1
+a) ne bénéficiera d’aucun des droits applicables exclusivement aux forfaits au titre du présent chapitre et que chaque prestataire de service sera seulement responsable de la bonne exécution contractuelle de son service ; et
 
-   <sup>er</sup> .
+b) bénéficiera d’une protection contre l’insolvabilité conformément au paragraphe 1 <sup>er</sup> .
 
 Afin de se conformer au présent paragraphe, le professionnel facilitant une prestation de voyage liée fournit ces informations au voyageur au moyen du formulaire d’information standard déterminé par règlement grand-ducal ou, si le type particulier de prestation de voyage liée ne correspond à aucun des formulaires dudit règlement grand-ducal, il fournit les informations qui y figurent.
 
@@ -3124,33 +3621,31 @@ Le non-respect d’une ou plusieurs obligations d’informations essentielles vi
 
 (1) Sera puni d’une amende de 251 à 15.000 euros :
 
-1. l’organisateur qui n’aura pas respecté son obligation d’information précontractuelle de l’article L. 225-3, paragraphes 1
+1° l’organisateur qui n’aura pas respecté son obligation d’information précontractuelle de l’article L. 225-3, paragraphes 1 <sup>er</sup> et 2 ;
 
-   <sup>er</sup> et 2 ;
-2. l’organisateur qui n’aura pas respecté son obligation de communication des modifications relatives aux informations précontractuelles de l’article L. 225-4, paragraphe 1
+2° l’organisateur qui n’aura pas respecté son obligation de communication des modifications relatives aux informations précontractuelles de l’article L. 225-4, paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> ;
-3. l’organisateur qui n’aura pas remis au voyageur en temps utile avant le début du forfait les documents et informations visées à l’article L. 225-5, paragraphe 5 ;
-4. l’organisateur qui n’aura pas respecté son obligation d’information de l’article L. 225-9, paragraphe 3 ;
-5. le détaillant qui n’aura pas respecté son obligation d’information précontractuelle des articles L. 225-3, paragraphe 1
+3° l’organisateur qui n’aura pas remis au voyageur en temps utile avant le début du forfait les documents et informations visées à l’article L. 225-5, paragraphe 5 ;
 
-   <sup>er</sup> ;
-6. le détaillant qui n’aura pas respecté son obligation de communication des modifications relatives aux informations précontractuelles de l’article L. 225-4, paragraphe 1
+4° l’organisateur qui n’aura pas respecté son obligation d’information de l’article L. 225-9, paragraphe 3 ;
 
-   <sup>er</sup> .
+5° le détaillant qui n’aura pas respecté son obligation d’information précontractuelle des articles L. 225-3, paragraphe 1 <sup>er</sup> ;
+
+6° le détaillant qui n’aura pas respecté son obligation de communication des modifications relatives aux informations précontractuelles de l’article L. 225-4, paragraphe 1 <sup>er</sup> .
 
 (2) Sera puni d’une amende de 500 à 75.000 euros :
 
-1. l’organisateur qui n’a pas fourni au voyageur une copie ou une confirmation du contrat sur un support durable conformément à l’article L. 225-5, paragraphe 1
+1° l’organisateur qui n’a pas fourni au voyageur une copie ou une confirmation du contrat sur un support durable conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> et paragraphe 3, alinéa 2, ou sur papier conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 2 ;
 
-   <sup>er</sup> , alinéa 1 <sup>er</sup> et paragraphe 3, alinéa 2, ou sur papier conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 2 ;
-2. l’organisateur qui n’a pas apporté une aide appropriée au voyageur en difficulté conformément à l’article L. 225-14 ;
-3. l’organisateur qui ne fournit pas la garantie requise par l’article L. 225-15 ou qui ne procède pas aux notifications obligatoires prévues au même article. Sera puni de la même peine, l’organisateur qui fournit des informations incomplètes ou fausses ;
-4. le détaillant qui n’a pas fourni au voyageur une copie ou une confirmation du contrat sur un support durable conformément à l’article L. 225-5, paragraphe 1
+2° l’organisateur qui n’a pas apporté une aide appropriée au voyageur en difficulté conformément à l’article L. 225-14 ;
 
-   <sup>er</sup> , alinéa 1 <sup>er</sup> , ou sur papier conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 2 ;
-5. le professionnel visé par l’article L. 225-5, paragraphe 3, qui n’a pas informé l’organisateur de la conclusion du contrat donnant lieu à la création d’un forfait ;
-6. le professionnel qui ne fournit pas la garantie requise par l’article L. 225-17 ou qui ne procède pas aux notifications obligatoires prévues au même article. Sera puni de la même peine, le professionnel qui fournit des informations incomplètes ou fausses.
+3° l’organisateur qui ne fournit pas la garantie requise par l’article L. 225-15 ou qui ne procède pas aux notifications obligatoires prévues au même article. Sera puni de la même peine, l’organisateur qui fournit des informations incomplètes ou fausses ;
+
+4° le détaillant qui n’a pas fourni au voyageur une copie ou une confirmation du contrat sur un support durable conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 1 <sup>er</sup> , ou sur papier conformément à l’article L. 225-5, paragraphe 1 <sup>er</sup> , alinéa 2 ;
+
+5° le professionnel visé par l’article L. 225-5, paragraphe 3, qui n’a pas informé l’organisateur de la conclusion du contrat donnant lieu à la création d’un forfait ;
+
+6° le professionnel qui ne fournit pas la garantie requise par l’article L. 225-17 ou qui ne procède pas aux notifications obligatoires prévues au même article. Sera puni de la même peine, le professionnel qui fournit des informations incomplètes ou fausses.
 
 (3) Tout manquement aux dispositions des articles L. 225-9, paragraphe 2, alinéa 1 <sup>er</sup> , lettre b) et paragraphe 5, L. 225-10, paragraphes 1 <sup>er</sup> , 2 et 4, L. 225-11 paragraphe 6, sera puni d’une amende de 500 à 50.000 euros.
 
@@ -3168,74 +3663,103 @@ Sera puni d’une amende de 500 à 75.000 euros le détaillant visé par l’art
 
 Pour l’application du présent chapitre, on entend par:
 
-1. «autorité compétente»: toute autorité désignée comme autorité compétente par un État membre en vertu de l’article 5 de la
+1\. «autorité compétente»: toute autorité désignée comme autorité compétente par un État membre en vertu de l’article 5 de la [directive 2014/17/UE](https://legilux.public.lu/eli/dir_ue/2014/17/jo) du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les [directives 2008/48/CE](https://legilux.public.lu/eli/dir_ue/2008/48/jo) et [2013/36/UE](https://legilux.public.lu/eli/dir_ue/2013/36/jo) et le [règlement (UE) n°1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo), dénommée ci-après « [directive 2014/17/UE](https://legilux.public.lu/eli/dir_ue/2014/17/jo) ». Est visée au Luxembourg, la Commission de surveillance du secteur financier créée par la [loi modifiée du 23 décembre 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/12/23/n2/jo) portant création d’une commission de surveillance du secteur financier, dénommée ci-après « CSSF »;
 
-   [directive 2014/17/UE](https://legilux.public.lu/eli/dir_ue/2014/17/jo) du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les [directives 2008/48/CE](https://legilux.public.lu/eli/dir_ue/2008/48/jo) et [2013/36/UE](https://legilux.public.lu/eli/dir_ue/2013/36/jo) et le [règlement (UE) n°1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo), dénommée ci-après « [directive 2014/17/UE](https://legilux.public.lu/eli/dir_ue/2014/17/jo) ». Est visée au Luxembourg, la Commission de surveillance du secteur financier créée par la [loi modifiée du 23 décembre 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/12/23/n2/jo) portant création d’une commission de surveillance du secteur financier, dénommée ci-après « CSSF »;
-2. «contrat de crédit»: un contrat en vertu duquel un prêteur consent ou s’engage à consentir à un consommateur un crédit sous la forme d’un délai de paiement, d’un prêt ou de toute autre facilité de paiement similaire;
-3. «contrat de crédit immobilier»: un contrat de crédit relevant du champ d’application tel que défini à l’article L. 226-2;
-4. «contrat de crédit immobilier en fonds partagés»: un contrat de crédit immobilier dont le capital remboursable est fondé sur un pourcentage, établi contractuellement, de la valeur du bien immobilier au moment du remboursement ou des remboursements du capital;
-5. «contrat de crédit immobilier en monnaie étrangère»: un contrat de crédit immobilier dans lequel le crédit est:
+2\. «contrat de crédit»: un contrat en vertu duquel un prêteur consent ou s’engage à consentir à un consommateur un crédit sous la forme d’un délai de paiement, d’un prêt ou de toute autre facilité de paiement similaire;
 
-   1. libellé dans une monnaie autre que celle dans laquelle le consommateur reçoit les revenus ou détient les actifs sur la base desquels le crédit doit être remboursé; ou
-   2. libellé dans une monnaie autre que celle de l’Etat membre où le consommateur est résident;
-6. «coût total du crédit pour le consommateur»: tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit immobilier et qui sont connus par le prêteur, à l’exception des frais de notaire. Ces coûts comprennent également les coûts relatifs aux services accessoires liés au contrat de crédit immobilier, notamment les primes d’assurance, si, en outre, la conclusion du contrat de service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales. Y est compris le coût de l’évaluation du bien immobilier lorsque cette évaluation est nécessaire pour obtenir le crédit mais hors frais d’enregistrement liés au transfert de propriété du bien immobilier. Sont exclus tous les frais à la charge du consommateur en cas de non-respect des obligations prévues dans le contrat de crédit immobilier;
-7. «crédit pont ou relais»: un contrat de crédit immobilier sans durée fixe ou devant être remboursé dans un délai de douze mois, utilisé par un consommateur comme moyen de financement temporaire lors de la transition vers une autre solution financière pour le bien immobilier;
-8. «engagement conditionnel ou garantie»: un contrat de crédit immobilier qui sert de garantie à une opération distincte, mais auxiliaire, et dans lequel le capital garanti par un bien immobilier n’est prélevé que si l’un ou plusieurs des événements mentionnés dans le contrat se produisent;
-9. «établissement de crédit»: un établissement de crédit au sens de l’article 1
+3\. «contrat de crédit immobilier»: un contrat de crédit relevant du champ d’application tel que défini à l’article L. 226-2;
 
-   <sup>er</sup> , point 12 de la [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier;
-10. «État membre d’accueil»: l’État membre, autre que l’État membre d’origine, dans lequel le prêteur ou l’intermédiaire de crédit immobilier a une succursale ou offre des services;
-11. «État membre d’origine»:
+4\. «contrat de crédit immobilier en fonds partagés»: un contrat de crédit immobilier dont le capital remboursable est fondé sur un pourcentage, établi contractuellement, de la valeur du bien immobilier au moment du remboursement ou des remboursements du capital;
 
-   1. lorsque le prêteur ou l’intermédiaire de crédit immobilier est une personne physique, l’État membre dans lequel son administration centrale est située;
-   2. lorsque le prêteur ou l’intermédiaire de crédit immobilier est une personne morale, l’État membre dans lequel son siège statutaire est situé, ou, s’il n’a pas de siège statutaire en vertu de son droit national, l’État membre dans lequel son administration centrale est située;
-12. «évaluation de la solvabilité»: l’évaluation des perspectives de remboursement de la dette découlant du contrat de crédit immobilier;
-13. «groupe»: un groupe de prêteurs qui doivent être consolidés aux fins de l’établissement de comptes consolidés au sens de la
+5\. «contrat de crédit immobilier en monnaie étrangère»: un contrat de crédit immobilier dans lequel le crédit est:
 
-   [directive 2013/34/UE](https://legilux.public.lu/eli/dir_ue/2013/34/jo) du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises;
-14. «intermédiaire de crédit immobilier»: une personne physique ou morale qui n’agit pas en qualité de prêteur ou de notaire et ne présente pas seulement, directement ou indirectement, un consommateur à un prêteur ou à un intermédiaire de crédit immobilier et qui, dans le cadre de l’exercice de ses activités commerciales ou professionnelles, contre une rémunération qui peut être pécuniaire ou revêtir toute autre forme d’avantage économique ayant fait l’objet d’un accord:
+a) libellé dans une monnaie autre que celle dans laquelle le consommateur reçoit les revenus ou détient les actifs sur la base desquels le crédit doit être remboursé; ou
 
-   1. présente ou propose des contrats de crédit immobilier aux consommateurs;
-   2. assiste les consommateurs en réalisant des travaux préparatoires ou d’autres travaux administratifs au stade précontractuel, autres que ceux visés à la lettre a), pour des contrats de crédit immobilier; ou
-   3. conclut des contrats de crédit immobilier avec des consommateurs pour le compte du prêteur;
-15. «intermédiaire de crédit immobilier lié»: un intermédiaire de crédit immobilier agissant pour le compte et sous la responsabilité entière et inconditionnelle:
+b) libellé dans une monnaie autre que celle de l’Etat membre où le consommateur est résident;
 
-   1. d’un seul prêteur;
-   2. d’un seul groupe; ou
-   3. d’un nombre de prêteurs ou de groupes de prêteurs qui ne représente pas la majorité du marché;
-16. «montant total du crédit»: le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit immobilier;
-17. «montant total dû par le consommateur»: la somme du montant total du crédit et du coût total du crédit pour le consommateur;
-18. «personnel»:
+6\. «coût total du crédit pour le consommateur»: tous les coûts, y compris les intérêts, les commissions, les taxes, et tous les autres types de frais que le consommateur est tenu de payer pour le contrat de crédit immobilier et qui sont connus par le prêteur, à l’exception des frais de notaire. Ces coûts comprennent également les coûts relatifs aux services accessoires liés au contrat de crédit immobilier, notamment les primes d’assurance, si, en outre, la conclusion du contrat de service est obligatoire pour l’obtention même du crédit ou en application des clauses et conditions commerciales. Y est compris le coût de l’évaluation du bien immobilier lorsque cette évaluation est nécessaire pour obtenir le crédit mais hors frais d’enregistrement liés au transfert de propriété du bien immobilier. Sont exclus tous les frais à la charge du consommateur en cas de non-respect des obligations prévues dans le contrat de crédit immobilier;
 
-   1. les personnes physiques travaillant pour le prêteur ou l’intermédiaire de crédit immobilier qui exercent directement des activités relevant du présent chapitre ou qui sont en contact avec les consommateurs dans le cadre de ces activités;
-   2. les personnes physiques qui dirigent directement ou encadrent les personnes physiques visées à la lettre a);
-19. «prêteur»: toute personne physique ou morale qui consent ou s’engage à consentir un contrat de crédit immobilier dans le cadre de l’exercice de ses activités commerciales ou professionnelles;
-20. «prêteur autre qu’un établissement de crédit»: un prêteur qui n’est pas un établissement de crédit;
-21. «représentant désigné»: une personne physique ou morale qui, pour le compte et sous la responsabilité entière et inconditionnelle d’un seul intermédiaire de crédit immobilier, exerce les activités visées au point 14;
-22. «service auxiliaire»: un service proposé au consommateur en rapport avec le contrat de crédit immobilier;
-23. «services de conseil»: la fourniture de recommandations personnalisées à un consommateur en ce qui concerne une ou plusieurs opérations liées à des contrats de crédit immobilier, qui constitue une activité distincte de l’octroi de crédit et des activités d’intermédiaire de crédit immobilier visées au point 14;
-24. «taux annuel effectif global» ou « TAEG »: le coût total du crédit pour le consommateur, exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article L. 226-19, paragraphe 1
+7\. «crédit pont ou relais»: un contrat de crédit immobilier sans durée fixe ou devant être remboursé dans un délai de douze mois, utilisé par un consommateur comme moyen de financement temporaire lors de la transition vers une autre solution financière pour le bien immobilier;
 
-   <sup>er</sup> , et qui correspond, sur une base annuelle, à la valeur actualisée de l’ensemble des engagements, existants ou futurs, convenus par le prêteur et le consommateur. Sont des engagements au sens du présent point, les prélèvements, remboursements et frais;
-25. «taux débiteur»: le taux d’intérêt exprimé en pourcentage fixe ou variable, appliqué sur une base annuelle au montant de crédit prélevé;
-26. «vente liée»: le fait de proposer ou de vendre, sous forme de lot, un contrat de crédit immobilier en même temps que d’autres produits ou services financiers distincts, lorsque le contrat de crédit immobilier n’est pas proposé au consommateur séparément.
+8\. «engagement conditionnel ou garantie»: un contrat de crédit immobilier qui sert de garantie à une opération distincte, mais auxiliaire, et dans lequel le capital garanti par un bien immobilier n’est prélevé que si l’un ou plusieurs des événements mentionnés dans le contrat se produisent;
+
+9\. «établissement de crédit»: un établissement de crédit au sens de l’article 1 <sup>er</sup> , point 12 de la [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier;
+
+10\. «État membre d’accueil»: l’État membre, autre que l’État membre d’origine, dans lequel le prêteur ou l’intermédiaire de crédit immobilier a une succursale ou offre des services;
+
+11\. «État membre d’origine»:
+
+a) lorsque le prêteur ou l’intermédiaire de crédit immobilier est une personne physique, l’État membre dans lequel son administration centrale est située;
+
+b) lorsque le prêteur ou l’intermédiaire de crédit immobilier est une personne morale, l’État membre dans lequel son siège statutaire est situé, ou, s’il n’a pas de siège statutaire en vertu de son droit national, l’État membre dans lequel son administration centrale est située;
+
+12\. «évaluation de la solvabilité»: l’évaluation des perspectives de remboursement de la dette découlant du contrat de crédit immobilier;
+
+13\. «groupe»: un groupe de prêteurs qui doivent être consolidés aux fins de l’établissement de comptes consolidés au sens de la [directive 2013/34/UE](https://legilux.public.lu/eli/dir_ue/2013/34/jo) du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises;
+
+14\. «intermédiaire de crédit immobilier»: une personne physique ou morale qui n’agit pas en qualité de prêteur ou de notaire et ne présente pas seulement, directement ou indirectement, un consommateur à un prêteur ou à un intermédiaire de crédit immobilier et qui, dans le cadre de l’exercice de ses activités commerciales ou professionnelles, contre une rémunération qui peut être pécuniaire ou revêtir toute autre forme d’avantage économique ayant fait l’objet d’un accord:
+
+a) présente ou propose des contrats de crédit immobilier aux consommateurs;
+
+b) assiste les consommateurs en réalisant des travaux préparatoires ou d’autres travaux administratifs au stade précontractuel, autres que ceux visés à la lettre a), pour des contrats de crédit immobilier; ou
+
+c) conclut des contrats de crédit immobilier avec des consommateurs pour le compte du prêteur;
+
+15\. «intermédiaire de crédit immobilier lié»: un intermédiaire de crédit immobilier agissant pour le compte et sous la responsabilité entière et inconditionnelle:
+
+a) d’un seul prêteur;
+
+b) d’un seul groupe; ou
+
+c) d’un nombre de prêteurs ou de groupes de prêteurs qui ne représente pas la majorité du marché;
+
+16\. «montant total du crédit»: le plafond ou le total des sommes rendues disponibles en vertu d’un contrat de crédit immobilier;
+
+17\. «montant total dû par le consommateur»: la somme du montant total du crédit et du coût total du crédit pour le consommateur;
+
+18\. «personnel»:
+
+a) les personnes physiques travaillant pour le prêteur ou l’intermédiaire de crédit immobilier qui exercent directement des activités relevant du présent chapitre ou qui sont en contact avec les consommateurs dans le cadre de ces activités;
+
+b) les personnes physiques qui dirigent directement ou encadrent les personnes physiques visées à la lettre a);
+
+19\. «prêteur»: toute personne physique ou morale qui consent ou s’engage à consentir un contrat de crédit immobilier dans le cadre de l’exercice de ses activités commerciales ou professionnelles;
+
+20\. «prêteur autre qu’un établissement de crédit»: un prêteur qui n’est pas un établissement de crédit;
+
+21\. «représentant désigné»: une personne physique ou morale qui, pour le compte et sous la responsabilité entière et inconditionnelle d’un seul intermédiaire de crédit immobilier, exerce les activités visées au point 14;
+
+22\. «service auxiliaire»: un service proposé au consommateur en rapport avec le contrat de crédit immobilier;
+
+23\. «services de conseil»: la fourniture de recommandations personnalisées à un consommateur en ce qui concerne une ou plusieurs opérations liées à des contrats de crédit immobilier, qui constitue une activité distincte de l’octroi de crédit et des activités d’intermédiaire de crédit immobilier visées au point 14;
+
+24\. «taux annuel effectif global» ou « TAEG »: le coût total du crédit pour le consommateur, exprimé en pourcentage annuel du montant total du crédit, en tenant compte, le cas échéant, des frais visés à l’article L. 226-19, paragraphe 1 <sup>er</sup> , et qui correspond, sur une base annuelle, à la valeur actualisée de l’ensemble des engagements, existants ou futurs, convenus par le prêteur et le consommateur. Sont des engagements au sens du présent point, les prélèvements, remboursements et frais;
+
+25\. «taux débiteur»: le taux d’intérêt exprimé en pourcentage fixe ou variable, appliqué sur une base annuelle au montant de crédit prélevé;
+
+26\. «vente liée»: le fait de proposer ou de vendre, sous forme de lot, un contrat de crédit immobilier en même temps que d’autres produits ou services financiers distincts, lorsque le contrat de crédit immobilier n’est pas proposé au consommateur séparément.
 
 **Art. L. 226-2.**
 
 Le présent chapitre s’applique:
 
-1. aux contrats de crédit garantis par une hypothèque, par une autre sûreté comparable sur des biens immobiliers à usage résidentiel, ou par un droit lié à un bien immobilier à usage résidentiel; et
-2. aux contrats de crédit destinés à permettre l’acquisition ou le maintien de droits de propriété sur un terrain ou un immeuble existant ou à construire.
+1\. aux contrats de crédit garantis par une hypothèque, par une autre sûreté comparable sur des biens immobiliers à usage résidentiel, ou par un droit lié à un bien immobilier à usage résidentiel; et
+
+2\. aux contrats de crédit destinés à permettre l’acquisition ou le maintien de droits de propriété sur un terrain ou un immeuble existant ou à construire.
 
 **Art. L. 226-3.**
 
 Le présent chapitre ne s’applique pas:
 
-1. aux contrats de crédit immobilier qui sont accordés par un employeur à ses salariés à titre accessoire, sans intérêts ou à un TAEG inférieur à celui pratiqué sur le marché, et qui ne sont pas proposés au public en général;
-2. aux contrats de crédit immobilier au titre desquels le crédit est accordé sans intérêts et sans autres frais que ceux couvrant les coûts directement liés à la garantie du crédit;
-3. aux contrats de crédit immobilier accordés sous la forme d’une facilité de découvert remboursable dans un délai d’un mois;
-4. aux contrats de crédit immobilier qui sont le fruit d’un accord intervenu devant une juridiction ou toute autre autorité instituée par la loi;
-5. aux contrats de crédit immobilier, autres que ceux visés à l’article L. 226-2, point 1., qui sont liés au délai de paiement consenti, sans frais, pour le règlement d’une dette existante.
+1\. aux contrats de crédit immobilier qui sont accordés par un employeur à ses salariés à titre accessoire, sans intérêts ou à un TAEG inférieur à celui pratiqué sur le marché, et qui ne sont pas proposés au public en général;
+
+2\. aux contrats de crédit immobilier au titre desquels le crédit est accordé sans intérêts et sans autres frais que ceux couvrant les coûts directement liés à la garantie du crédit;
+
+3\. aux contrats de crédit immobilier accordés sous la forme d’une facilité de découvert remboursable dans un délai d’un mois;
+
+4\. aux contrats de crédit immobilier qui sont le fruit d’un accord intervenu devant une juridiction ou toute autre autorité instituée par la loi;
+
+5\. aux contrats de crédit immobilier, autres que ceux visés à l’article L. 226-2, point 1., qui sont liés au délai de paiement consenti, sans frais, pour le règlement d’une dette existante.
 
 **Art. L. 226-4.**
 
@@ -3261,28 +3785,43 @@ L’alinéa 1 <sup>er</sup> ne fait pas obstacle à ce que la CSSF échange ou t
 
 (2) Est interdite toute publicité:
 
-1. axée spécifiquement sur l’incitation du consommateur, dans l’impossibilité de faire face à ses dettes, à recourir au crédit;
-2. axée spécifiquement sur la mise en valeur de la facilité ou de la rapidité avec lesquelles le crédit peut être obtenu;
-3. indiquant avec des mots, signes ou symboles que le montant du crédit est mis à la disposition du consommateur en argent comptant;
-4. laissant entendre que le contrat de crédit immobilier améliore la situation financière ou le budget du consommateur, entraîne une augmentation de ressources ou constitue un substitut d’épargne;
-5. indiquant qu’un crédit ou une opération de crédit consistant à regrouper des crédits antérieurs peut être consenti sans élément d’information permettant d’apprécier la situation financière du consommateur;
-6. mentionnant des taux avantageux sans indiquer les conditions particulières ou restrictives auxquelles l’avantage de ces taux est soumis; ou
-7. indiquant qu’un contrat de crédit immobilier peut être conclu sans élément d’information permettant d’apprécier la situation financière du consommateur.
+1\. axée spécifiquement sur l’incitation du consommateur, dans l’impossibilité de faire face à ses dettes, à recourir au crédit;
+
+2\. axée spécifiquement sur la mise en valeur de la facilité ou de la rapidité avec lesquelles le crédit peut être obtenu;
+
+3\. indiquant avec des mots, signes ou symboles que le montant du crédit est mis à la disposition du consommateur en argent comptant;
+
+4\. laissant entendre que le contrat de crédit immobilier améliore la situation financière ou le budget du consommateur, entraîne une augmentation de ressources ou constitue un substitut d’épargne;
+
+5\. indiquant qu’un crédit ou une opération de crédit consistant à regrouper des crédits antérieurs peut être consenti sans élément d’information permettant d’apprécier la situation financière du consommateur;
+
+6\. mentionnant des taux avantageux sans indiquer les conditions particulières ou restrictives auxquelles l’avantage de ces taux est soumis; ou
+
+7\. indiquant qu’un contrat de crédit immobilier peut être conclu sans élément d’information permettant d’apprécier la situation financière du consommateur.
 
 **Art. L. 226-6.**
 
 (1) Toute publicité concernant des contrats de crédit immobilier, quel qu’en soit le support, qui indique un taux d’intérêt ou des chiffres relatifs au coût du crédit pour le consommateur mentionne de façon claire, concise et visible les informations de base suivantes:
 
-1. l’identité du prêteur ou, le cas échéant, de l’intermédiaire de crédit immobilier;
-2. le cas échéant, le fait que le contrat de crédit immobilier sera garanti par une hypothèque, par une autre sûreté comparable sur des biens immobiliers à usage résidentiel, ou par un droit lié à un bien immobilier à usage résidentiel;
-3. le taux débiteur, en précisant s’il est fixe ou variable ou une combinaison des deux, accompagné d’informations relatives à tous les frais compris dans le coût total du crédit pour le consommateur;
-4. le montant total du crédit;
-5. le TAEG, qui figure sur la publicité au moins aussi visiblement que tout taux d’intérêt;
-6. le cas échéant, la durée du contrat de crédit immobilier;
-7. le cas échéant, le montant des versements;
-8. le cas échéant, le montant total dû par le consommateur;
-9. le cas échéant, le nombre de versements;
-10. le cas échéant, un avertissement concernant le fait que d’éventuelles fluctuations du taux de change sont susceptibles de modifier le montant dû par le consommateur.
+1\. l’identité du prêteur ou, le cas échéant, de l’intermédiaire de crédit immobilier;
+
+2\. le cas échéant, le fait que le contrat de crédit immobilier sera garanti par une hypothèque, par une autre sûreté comparable sur des biens immobiliers à usage résidentiel, ou par un droit lié à un bien immobilier à usage résidentiel;
+
+3\. le taux débiteur, en précisant s’il est fixe ou variable ou une combinaison des deux, accompagné d’informations relatives à tous les frais compris dans le coût total du crédit pour le consommateur;
+
+4\. le montant total du crédit;
+
+5\. le TAEG, qui figure sur la publicité au moins aussi visiblement que tout taux d’intérêt;
+
+6\. le cas échéant, la durée du contrat de crédit immobilier;
+
+7\. le cas échéant, le montant des versements;
+
+8\. le cas échéant, le montant total dû par le consommateur;
+
+9\. le cas échéant, le nombre de versements;
+
+10\. le cas échéant, un avertissement concernant le fait que d’éventuelles fluctuations du taux de change sont susceptibles de modifier le montant dû par le consommateur.
 
 (2) Les informations figurant au paragraphe 1 <sup>er</sup> autres que celles visées aux points 1, 2 ou 10, sont mentionnées à l’aide d’un exemple représentatif et y correspondent en tout point. La CSSF détermine les caractéristiques d’un tel exemple représentatif.
 
@@ -3308,8 +3847,9 @@ Ces informations personnalisées sont fournies dans les meilleurs délais, une f
 
 (3) Lorsqu’une offre engageant le prêteur est fournie au consommateur, elle doit l’être sur un support papier ou sur un autre support durable et être accompagnée d’une FISE:
 
-1. si aucune FISE n’a encore été fournie au consommateur; ou
-2. si les caractéristiques de l’offre sont différentes des informations contenues dans la FISE fournie précédemment.
+1\. si aucune FISE n’a encore été fournie au consommateur; ou
+
+2\. si les caractéristiques de l’offre sont différentes des informations contenues dans la FISE fournie précédemment.
 
 (4) Le consommateur dispose d’un délai de réflexion de quatorze jours calendrier pendant lequel le prêteur a l’obligation de maintenir les conditions indiquées dans son offre.
 
@@ -3333,13 +3873,17 @@ Le prêteur ou, le cas échéant, l’intermédiaire de crédit immobilier, four
 
 Les explications comprennent, le cas échéant, les éléments suivants:
 
-1. les informations précontractuelles à fournir conformément:
+1\. les informations précontractuelles à fournir conformément:
 
-   1. à l’article L. 226-8 pour ce qui est des prêteurs;
-   2. aux articles L. 226-8 et L. 226-35 pour ce qui est des intermédiaires de crédit immobilier;
-2. les principales caractéristiques des produits proposés;
-3. les effets spécifiques que les produits proposés peuvent avoir sur le consommateur, y compris les conséquences d’un défaut de paiement du consommateur; et
-4. lorsque des services auxiliaires sont liés à un contrat de crédit immobilier, l’indication de la possibilité ou non de résilier chaque composante séparément et les implications d’une telle procédure pour le consommateur.
+a) à l’article L. 226-8 pour ce qui est des prêteurs;
+
+b) aux articles L. 226-8 et L. 226-35 pour ce qui est des intermédiaires de crédit immobilier;
+
+2\. les principales caractéristiques des produits proposés;
+
+3\. les effets spécifiques que les produits proposés peuvent avoir sur le consommateur, y compris les conséquences d’un défaut de paiement du consommateur; et
+
+4\. lorsque des services auxiliaires sont liés à un contrat de crédit immobilier, l’indication de la possibilité ou non de résilier chaque composante séparément et les implications d’une telle procédure pour le consommateur.
 
 Le prêteur, ou le cas échéant, l’intermédiaire de crédit immobilier, avertit le consommateur lorsque, compte tenu de la situation financière de ce dernier, un contrat de crédit immobilier peut induire des risques spécifiques pour ce dernier.
 
@@ -3349,31 +3893,39 @@ Les prêteurs ou, le cas échéant, les intermédiaires de crédit immobilier li
 
 Les informations générales visées à l’alinéa 1 <sup>er</sup> comprennent au moins les informations suivantes:
 
-1. l’identité et l’adresse géographique de la partie qui fournit les informations;
-2. les destinations possibles du crédit;
-3. les formes de sûretés, y compris, le cas échéant, la possibilité qu’elles se trouvent dans un autre État membre;
-4. la durée possible des contrats de crédit immobilier;
-5. les types de taux débiteurs proposés, en précisant s’ils sont fixes ou variables, accompagnés d’un bref exposé des caractéristiques d’un taux fixe et d’un taux variable, y compris de leurs implications pour le consommateur;
-6. dans le cas où les contrats de crédit immobilier en monnaie étrangère sont proposés, l’indication de la ou des monnaies étrangères, assortie d’une description des implications, pour le consommateur, d’un crédit libellé en monnaie étrangère;
-7. un exemple représentatif du montant total du crédit, du coût total du crédit pour le consommateur, du montant total dû par le consommateur et du TAEG;
-8. l’indication d’autres coûts éventuels, non compris dans le coût total du crédit pour le consommateur, à payer en lien avec le contrat de crédit immobilier;
-9. l’éventail des différentes modalités de remboursement possibles, y compris le nombre, la périodicité et le montant des versements réguliers;
-10. le cas échéant, une déclaration claire et concise selon laquelle le respect des conditions des contrats de crédit immobilier ne comporte pas de garantie de remboursement du montant total du crédit prélevé au titre du contrat de crédit immobilier;
-11. les conditions directement liées à un remboursement anticipé;
-12. la nécessité éventuelle de faire évaluer le bien concerné et, le cas échéant, le responsable chargé de veiller à la réalisation de cette évaluation ainsi que les coûts qui en découlent éventuellement pour le consommateur;
-13. l’indication des services auxiliaires que le consommateur est obligé d’acquérir pour obtenir le crédit ou pour l’obtenir aux conditions annoncées et, le cas échéant, la précision que les services auxiliaires peuvent être acquis auprès d’un fournisseur autre que le prêteur;
-14. un avertissement général concernant les éventuelles conséquences d’un non-respect des obligations liées au contrat de crédit immobilier; (. . .)
+1\. l’identité et l’adresse géographique de la partie qui fournit les informations;
 
-   [^note_3_11_0]
-15. l’indication du délai de réflexion visé à l’article L. 226-8, paragraphe 4 ; et
+2\. les destinations possibles du crédit;
 
-   [^note_3_11_1]
+3\. les formes de sûretés, y compris, le cas échéant, la possibilité qu’elles se trouvent dans un autre État membre;
+
+4\. la durée possible des contrats de crédit immobilier;
+
+5\. les types de taux débiteurs proposés, en précisant s’ils sont fixes ou variables, accompagnés d’un bref exposé des caractéristiques d’un taux fixe et d’un taux variable, y compris de leurs implications pour le consommateur;
+
+6\. dans le cas où les contrats de crédit immobilier en monnaie étrangère sont proposés, l’indication de la ou des monnaies étrangères, assortie d’une description des implications, pour le consommateur, d’un crédit libellé en monnaie étrangère;
+
+7\. un exemple représentatif du montant total du crédit, du coût total du crédit pour le consommateur, du montant total dû par le consommateur et du TAEG;
+
+8\. l’indication d’autres coûts éventuels, non compris dans le coût total du crédit pour le consommateur, à payer en lien avec le contrat de crédit immobilier;
+
+9\. l’éventail des différentes modalités de remboursement possibles, y compris le nombre, la périodicité et le montant des versements réguliers;
+
+10\. le cas échéant, une déclaration claire et concise selon laquelle le respect des conditions des contrats de crédit immobilier ne comporte pas de garantie de remboursement du montant total du crédit prélevé au titre du contrat de crédit immobilier;
+
+11\. les conditions directement liées à un remboursement anticipé;
+
+12\. la nécessité éventuelle de faire évaluer le bien concerné et, le cas échéant, le responsable chargé de veiller à la réalisation de cette évaluation ainsi que les coûts qui en découlent éventuellement pour le consommateur;
+
+13\. l’indication des services auxiliaires que le consommateur est obligé d’acquérir pour obtenir le crédit ou pour l’obtenir aux conditions annoncées et, le cas échéant, la précision que les services auxiliaires peuvent être acquis auprès d’un fournisseur autre que le prêteur;
+
+14\. un avertissement général concernant les éventuelles conséquences d’un non-respect des obligations liées au contrat de crédit immobilier; (. . .)[^note_3_11_0]
+
+15\. l’indication du délai de réflexion visé à l’article L. 226-8, paragraphe 4 ; et[^note_3_11_1]
 
 \*([Loi du 17 avril 2018](http://legilux.lu/eli/etat/leg/loi/2018/04/17/a257/jo))*
 
-1. lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l’article 3, paragraphe 1
-
-   <sup>er</sup> , point 3, du [règlement (UE) 2016/1011](https://legilux.public.lu/eli/reg_ue/2016/1011/jo), les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur.
+16\. lorsque des contrats de crédit immobilier font référence à un indice de référence au sens de l’article 3, paragraphe 1 <sup>er</sup> , point 3, du [règlement (UE) 2016/1011](https://legilux.public.lu/eli/reg_ue/2016/1011/jo), les noms des indices de référence et de leurs administrateurs, ainsi que leurs éventuelles implications pour le consommateur.
 
 **Sous-section 3 — Ventes liées**
 
@@ -3441,26 +3993,33 @@ Le prêteur ou, le cas échéant, l’intermédiaire de crédit immobilier, aver
 
 (2) Avant la fourniture de services de conseil ou, le cas échéant, avant la conclusion d’un contrat relatif à la prestation de services de conseil, le prêteur ou l’intermédiaire de crédit immobilier, fournit au consommateur sur un support papier ou sur un autre support durable les informations suivantes:
 
-1. si la recommandation se fondera uniquement sur leur propre gamme de produits conformément au paragraphe 3, point 2, ou sur une large gamme de produits provenant de l’ensemble du marché, conformément au paragraphe 3, point 3, afin que le consommateur puisse connaître la base sur laquelle la recommandation est faite;
-2. le cas échéant, les frais que le consommateur doit payer pour les services de conseil ou, si le montant ne peut être déterminé avec certitude au moment de la communication des informations, la méthode employée pour le calculer.
+1\. si la recommandation se fondera uniquement sur leur propre gamme de produits conformément au paragraphe 3, point 2, ou sur une large gamme de produits provenant de l’ensemble du marché, conformément au paragraphe 3, point 3, afin que le consommateur puisse connaître la base sur laquelle la recommandation est faite;
+
+2\. le cas échéant, les frais que le consommateur doit payer pour les services de conseil ou, si le montant ne peut être déterminé avec certitude au moment de la communication des informations, la méthode employée pour le calculer.
 
 Les informations visées à l’alinéa 1 <sup>er</sup> peuvent être fournies au consommateur sous la forme d’informations précontractuelles complémentaires.
 
 (3) Lorsque des services de conseil sont fournis aux consommateurs, outre les exigences prévues aux articles L. 226-36 et L. 226-37:
 
-1. les prêteurs ou les intermédiaires de crédit immobilier recueillent, sur la situation personnelle et financière du consommateur et sur ses préférences et ses objectifs, les informations nécessaires pour pouvoir lui recommander des contrats de crédit immobilier appropriés. Cette évaluation est fondée sur des informations à jour et prend en compte des hypothèses raisonnables quant aux risques pour la situation du consommateur pendant la durée du contrat de crédit immobilier proposé;
-2. les prêteurs ou les intermédiaires de crédit immobilier liés prennent en considération un nombre suffisamment important de contrats de crédit immobilier de leur gamme de produits et recommandent, parmi ceux-ci, un ou plusieurs contrats de crédit immobilier adaptés aux besoins et à la situation personnelle et financière du consommateur;
-3. les intermédiaires de crédit immobilier non liés prennent en considération un nombre suffisamment important de contrats de crédit immobilier disponibles sur le marché et recommandent un ou plusieurs contrats de crédit immobilier disponibles sur le marché qui sont adaptés aux besoins et à la situation personnelle et financière du consommateur;
-4. les prêteurs ou les intermédiaires de crédit immobilier agissent au mieux des intérêts du consommateur:
+1\. les prêteurs ou les intermédiaires de crédit immobilier recueillent, sur la situation personnelle et financière du consommateur et sur ses préférences et ses objectifs, les informations nécessaires pour pouvoir lui recommander des contrats de crédit immobilier appropriés. Cette évaluation est fondée sur des informations à jour et prend en compte des hypothèses raisonnables quant aux risques pour la situation du consommateur pendant la durée du contrat de crédit immobilier proposé;
 
-   1. en s’informant des besoins et de la situation de celui-ci; et
-   2. en recommandant des contrats de crédit immobilier adaptés conformément aux points 1, 2 et 3; et
-5. les prêteurs ou les intermédiaires de crédit immobilier remettent le contenu de la recommandation au consommateur sur un support papier ou sur un autre support durable.
+2\. les prêteurs ou les intermédiaires de crédit immobilier liés prennent en considération un nombre suffisamment important de contrats de crédit immobilier de leur gamme de produits et recommandent, parmi ceux-ci, un ou plusieurs contrats de crédit immobilier adaptés aux besoins et à la situation personnelle et financière du consommateur;
+
+3\. les intermédiaires de crédit immobilier non liés prennent en considération un nombre suffisamment important de contrats de crédit immobilier disponibles sur le marché et recommandent un ou plusieurs contrats de crédit immobilier disponibles sur le marché qui sont adaptés aux besoins et à la situation personnelle et financière du consommateur;
+
+4\. les prêteurs ou les intermédiaires de crédit immobilier agissent au mieux des intérêts du consommateur:
+
+a) en s’informant des besoins et de la situation de celui-ci; et
+
+b) en recommandant des contrats de crédit immobilier adaptés conformément aux points 1, 2 et 3; et
+
+5\. les prêteurs ou les intermédiaires de crédit immobilier remettent le contenu de la recommandation au consommateur sur un support papier ou sur un autre support durable.
 
 (4) L’emploi des termes «conseil indépendant» ou «conseiller indépendant» par les prêteurs ou les intermédiaires de crédit immobilier qui fournissent des services de conseil est soumis aux conditions suivantes:
 
-1. les prêteurs ou les intermédiaires de crédit immobilier prennent en considération un nombre suffisamment important de contrats de crédit immobilier disponibles sur le marché; et
-2. les prêteurs ou les intermédiaires de crédit immobilier ne sont pas rémunérés pour ces services de conseil par un ou plusieurs prêteurs.
+1\. les prêteurs ou les intermédiaires de crédit immobilier prennent en considération un nombre suffisamment important de contrats de crédit immobilier disponibles sur le marché; et
+
+2\. les prêteurs ou les intermédiaires de crédit immobilier ne sont pas rémunérés pour ces services de conseil par un ou plusieurs prêteurs.
 
 Le point 2 s’applique uniquement lorsque le nombre de prêteurs pris en considération est inférieur à une majorité du marché.
 
@@ -3468,11 +4027,13 @@ Le point 2 s’applique uniquement lorsque le nombre de prêteurs pris en consid
 
 L’alinéa 1 <sup>er</sup> ne s’applique pas:
 
-1. aux personnes fournissant des services de conseil, lorsque ces services sont fournis à titre accessoire dans le cadre d’une activité professionnelle, dès lors que cette activité est régie par des dispositions législatives ou réglementaires ou par un code déontologique qui n’exclut pas la fourniture de ces services;
-2. aux administrateurs judiciaires délivrant des services de conseil dans le cadre de la gestion d’une dette existante dès lors que cette activité est régie par des dispositions législatives ou réglementaires; et
-3. aux personnes fournissant des services de conseil aux personnes endettées, publics ou volontaires, qui ne fonctionnent pas sur une base commerciale.
+1\. aux personnes fournissant des services de conseil, lorsque ces services sont fournis à titre accessoire dans le cadre d’une activité professionnelle, dès lors que cette activité est régie par des dispositions législatives ou réglementaires ou par un code déontologique qui n’exclut pas la fourniture de ces services;
 
-   Les personnes qui bénéficient de l’exonération prévue à l’alinéa 2 ne jouissent pas du droit de fournir des services de conseil pour l’ensemble du territoire de l’Union européenne.
+2\. aux administrateurs judiciaires délivrant des services de conseil dans le cadre de la gestion d’une dette existante dès lors que cette activité est régie par des dispositions législatives ou réglementaires; et
+
+3\. aux personnes fournissant des services de conseil aux personnes endettées, publics ou volontaires, qui ne fonctionnent pas sur une base commerciale.
+
+Les personnes qui bénéficient de l’exonération prévue à l’alinéa 2 ne jouissent pas du droit de fournir des services de conseil pour l’ensemble du territoire de l’Union européenne.
 
 (6) Le présent article est sans préjudice de l’article L. 226-9 et de la compétence de la CSSF de veiller à ce que des services soient mis à la disposition des consommateurs pour les aider à comprendre leurs besoins financiers et quels types de produits sont susceptibles de répondre à ces besoins.
 
@@ -3494,11 +4055,15 @@ L’alinéa 1 <sup>er</sup> ne s’applique pas:
 
 Sans préjudice des autres obligations prévues au présent chapitre, le prêteur communique, avant la modification des clauses et conditions du contrat de crédit, les informations suivantes au consommateur :
 
-1. une description claire des modifications proposées et, le cas échéant, de la nécessité d’obtenir le consentement du consommateur ou des modifications introduites par effet de la loi ;
-2. le calendrier de mise en œuvre des modifications visées au point a) ;
-3. les moyens dont dispose le consommateur pour déposer une réclamation en ce qui concerne les modifications visées au point a) ;
-4. le délai fixé pour le dépôt d’une telle réclamation ;
-5. le nom et l’adresse de l’autorité compétente auprès de laquelle le consommateur peut déposer cette réclamation.
+a) une description claire des modifications proposées et, le cas échéant, de la nécessité d’obtenir le consentement du consommateur ou des modifications introduites par effet de la loi ;
+
+b) le calendrier de mise en œuvre des modifications visées au point a) ;
+
+c) les moyens dont dispose le consommateur pour déposer une réclamation en ce qui concerne les modifications visées au point a) ;
+
+d) le délai fixé pour le dépôt d’une telle réclamation ;
+
+e) le nom et l’adresse de l’autorité compétente auprès de laquelle le consommateur peut déposer cette réclamation.
 
 **Sous-section 2 — Crédits à taux variable**
 
@@ -3506,8 +4071,9 @@ Sans préjudice des autres obligations prévues au présent chapitre, le prêteu
 
 Lorsque le contrat de crédit immobilier est un crédit à taux variable dont la détermination du taux est corrélée à un indice ou taux de référence:
 
-1. tout indice ou taux de référence utilisé pour calculer le taux débiteur doit être clair, accessible, objectif et vérifiable par les parties au contrat de crédit immobilier et la CSSF; et
-2. les archives des indices utilisés pour calculer les taux débiteurs doivent être tenues par les pourvoyeurs de ces indices ou par les prêteurs.
+1\. tout indice ou taux de référence utilisé pour calculer le taux débiteur doit être clair, accessible, objectif et vérifiable par les parties au contrat de crédit immobilier et la CSSF; et
+
+2\. les archives des indices utilisés pour calculer les taux débiteurs doivent être tenues par les pourvoyeurs de ces indices ou par les prêteurs.
 
 **Sous-section 3 — Contrats de crédit immobilier en monnaie étrangère**
 
@@ -3515,13 +4081,15 @@ Lorsque le contrat de crédit immobilier est un crédit à taux variable dont la
 
 (1) Un contrat de crédit immobilier en monnaie étrangère prévoit:
 
-1. le droit du consommateur de convertir le contrat de crédit immobilier dans une autre monnaie dans des conditions déterminées dans le contrat de crédit immobilier; ou
-2. d’autres modalités pour limiter le risque de change auquel le consommateur est exposé dans le cadre du contrat.
+1\. le droit du consommateur de convertir le contrat de crédit immobilier dans une autre monnaie dans des conditions déterminées dans le contrat de crédit immobilier; ou
+
+2\. d’autres modalités pour limiter le risque de change auquel le consommateur est exposé dans le cadre du contrat.
 
 (2) L’autre monnaie visée au paragraphe 1 <sup>er</sup> , point 1, est:
 
-1. la monnaie principale dans laquelle le consommateur perçoit des revenus ou détient des actifs sur la base desquels le crédit doit être remboursé, comme indiqué au moment où l’évaluation de solvabilité la plus récente concernant le contrat de crédit immobilier a été réalisée; ou
-2. la monnaie de l’État membre dans lequel le consommateur était résident au moment où le contrat de crédit immobilier a été conclu ou dans lequel il réside actuellement.
+1\. la monnaie principale dans laquelle le consommateur perçoit des revenus ou détient des actifs sur la base desquels le crédit doit être remboursé, comme indiqué au moment où l’évaluation de solvabilité la plus récente concernant le contrat de crédit immobilier a été réalisée; ou
+
+2\. la monnaie de l’État membre dans lequel le consommateur était résident au moment où le contrat de crédit immobilier a été conclu ou dans lequel il réside actuellement.
 
 Les prêteurs précisent si les deux choix visés à l’alinéa 1 <sup>er</sup> , points 1 et 2, ou un seul d’entre eux, sont offerts au consommateur.
 
@@ -3577,17 +4145,25 @@ De surcroît, lorsque le contrat de crédit immobilier a été contracté en vue
 
 (1) ([L. du 15 juillet 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/07/15/a292/jo)) Les prêteurs disposent de politiques et de procédures adéquates les incitant, s’il y a lieu, à faire preuve d’une tolérance raisonnable avant d’engager une procédure de saisie. Ces mesures de renégociation tiennent compte, entre autres éléments, des conditions propres au consommateur et peuvent notamment prévoir
 
-1. le refinancement total ou partiel du contrat de crédit ;
-2. la modification des clauses et conditions existantes d’un contrat de crédit, qui peut comprendre entre autres :
+a) le refinancement total ou partiel du contrat de crédit ;
 
-   1. la prolongation de la durée du contrat de crédit ;
-   2. la modification du type de contrat de crédit ;
-   3. le report du paiement de tout ou partie des versements du remboursement pendant une période donnée ;
-   4. la modification du taux d’intérêt ;
-   5. la possibilité de suspendre le paiement pendant une période donnée ;
-   6. des remboursements partiels ;
-   7. des conversions de devises ;
-   8. une remise de dette partielle et la consolidation de la dette. ».
+b) la modification des clauses et conditions existantes d’un contrat de crédit, qui peut comprendre entre autres :
+
+(i) la prolongation de la durée du contrat de crédit ;
+
+(ii) la modification du type de contrat de crédit ;
+
+(iii) le report du paiement de tout ou partie des versements du remboursement pendant une période donnée ;
+
+(iv) la modification du taux d’intérêt ;
+
+(v) la possibilité de suspendre le paiement pendant une période donnée ;
+
+(vi) des remboursements partiels ;
+
+(vii) des conversions de devises ;
+
+(viii) une remise de dette partielle et la consolidation de la dette. ».
 
 (2) Lorsque le prêteur définit et impose des frais au consommateur pour le défaut de paiement, ces frais ne sont pas supérieurs à ce qui est nécessaire pour indemniser les coûts supportés par le prêteur à la suite du défaut de paiement.
 
@@ -3651,10 +4227,13 @@ La CSSF tient et met à jour le registre des intermédiaires de crédit immobili
 
 Le registre des intermédiaires de crédit immobilier contient au moins les informations suivantes:
 
-1. le nom des dirigeants qui sont responsables des activités d’intermédiaire de crédit immobilier;
-2. le ou les États membres dans lesquels l’intermédiaire de crédit immobilier exerce des activités au moyen de l’établissement d’une succursale ou en régime de libre prestation des services, activités dont l’intermédiaire de crédit immobilier a informé la CSSF conformément à l’article L. 226-30;
-3. le fait que l’intermédiaire de crédit immobilier est lié ou non;
-4. le ou les prêteurs pour le compte duquel l’intermédiaire de crédit immobilier lié agit.
+1\. le nom des dirigeants qui sont responsables des activités d’intermédiaire de crédit immobilier;
+
+2\. le ou les États membres dans lesquels l’intermédiaire de crédit immobilier exerce des activités au moyen de l’établissement d’une succursale ou en régime de libre prestation des services, activités dont l’intermédiaire de crédit immobilier a informé la CSSF conformément à l’article L. 226-30;
+
+3\. le fait que l’intermédiaire de crédit immobilier est lié ou non;
+
+4\. le ou les prêteurs pour le compte duquel l’intermédiaire de crédit immobilier lié agit.
 
 **Art. L. 226-29.**
 
@@ -3702,12 +4281,9 @@ Si, en dépit des mesures prises par la CSSF en tant qu’autorité compétente 
 
 Lorsque l’autorité compétente de l’État membre d’origine ne prend pas de mesures dans un délai d’un mois à compter de la réception de ces informations ou si, en dépit des mesures prises par l’autorité compétente de l’État membre d’origine, l’intermédiaire de crédit immobilier continue d’agir d’une manière clairement préjudiciable aux intérêts des consommateurs du Luxembourg ou au bon fonctionnement des marchés, la CSSF en tant qu’autorité compétente de l’État membre d’accueil:
 
-1. après en avoir informé l’autorité compétente de l’État membre d’origine, prend toutes les mesures appropriées qui s’imposent pour protéger les consommateurs et pour préserver le bon fonctionnement des marchés, y compris en empêchant au Luxembourg, le cas échéant, toute nouvelle opération de l’intermédiaire de crédit immobilier en infraction. La Commission européenne et l’Autorité bancaire européenne créée par le
+1\. après en avoir informé l’autorité compétente de l’État membre d’origine, prend toutes les mesures appropriées qui s’imposent pour protéger les consommateurs et pour préserver le bon fonctionnement des marchés, y compris en empêchant au Luxembourg, le cas échéant, toute nouvelle opération de l’intermédiaire de crédit immobilier en infraction. La Commission européenne et l’Autorité bancaire européenne créée par le [règlement (UE) n <sup>o</sup> 1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo) du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance, modifiant la [décision n° 716/2009/CE](http://data.europa.eu/eli/dec/2009/716/oj) et abrogeant la [décision 2009/78/CE](http://data.europa.eu/eli/dec/2009/78(1)/oj) de la Commission européenne, dénommé ci-après « [règlement (UE) n°1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo) » sont informées de ces mesures dans les meilleurs délais;
 
-   [règlement (UE) n <sup>o</sup> 1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo) du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance, modifiant la [décision n° 716/2009/CE](http://data.europa.eu/eli/dec/2009/716/oj) et abrogeant la [décision 2009/78/CE](http://data.europa.eu/eli/dec/2009/78(1)/oj) de la Commission européenne, dénommé ci-après « [règlement (UE) n°1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo) » sont informées de ces mesures dans les meilleurs délais;
-2. peut saisir l’Autorité bancaire européenne et solliciter son assistance au titre de l’article 19 du
-
-   [règlement (UE) no 1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo).
+2\. peut saisir l’Autorité bancaire européenne et solliciter son assistance au titre de l’article 19 du [règlement (UE) no 1093/2010](https://legilux.public.lu/eli/reg_ue/2010/1093/jo).
 
 (5) Lorsqu’un intermédiaire de crédit immobilier admis dans un autre État membre conformément à l’article 29 de la [directive 2014/17/UE](https://legilux.public.lu/eli/dir_ue/2014/17/jo) a établi une succursale au Luxembourg, les autorités compétentes de l’État membre d’origine peuvent, dans l’exercice de leurs responsabilités et après en avoir informé la CSSF en tant qu’autorité compétente de l’État membre d’accueil, procéder à des inspections sur place dans cette succursale aux fins de contrôler le respect des dispositions de ladite directive.
 
@@ -3725,12 +4301,17 @@ Aux fins de l’application du présent chapitre, la CSSF est investie de tous l
 
 Les pouvoirs de la CSSF incluent le droit:
 
-1. d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
-2. de demander aux prêteurs et aux intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier toute information utile à l’accomplissement de ses fonctions;
-3. de procéder à des inspections sur place ou des enquêtes auprès des prêteurs et des intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier;
-4. d’enjoindre de cesser toute pratique contraire aux dispositions du présent chapitre et des mesures prises pour son exécution;
-5. d’adopter toute mesure nécessaire pour s’assurer que les prêteurs et les intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier continuent de se conformer aux exigences du présent chapitre et des mesures prises pour son exécution;
-6. de transmettre des informations au Procureur d’Etat en vue de poursuites pénales.
+1\. d’avoir accès à tout document sous quelque forme que ce soit et d’en recevoir copie;
+
+2\. de demander aux prêteurs et aux intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier toute information utile à l’accomplissement de ses fonctions;
+
+3\. de procéder à des inspections sur place ou des enquêtes auprès des prêteurs et des intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier;
+
+4\. d’enjoindre de cesser toute pratique contraire aux dispositions du présent chapitre et des mesures prises pour son exécution;
+
+5\. d’adopter toute mesure nécessaire pour s’assurer que les prêteurs et les intermédiaires de crédit immobilier inscrits au registre des intermédiaires de crédit immobilier continuent de se conformer aux exigences du présent chapitre et des mesures prises pour son exécution;
+
+6\. de transmettre des informations au Procureur d’Etat en vue de poursuites pénales.
 
 En particulier, la CSSF a le droit de demander à tout prêteur et à tout intermédiaire de crédit immobilier inscrit au registre des intermédiaires de crédit immobilier tout renseignement utile à la poursuite de ses missions en vertu du présent chapitre. Elle peut prendre inspection des livres, comptes, registres ou autres actes et documents de ces personnes.
 
@@ -3740,10 +4321,13 @@ En particulier, la CSSF a le droit de demander à tout prêteur et à tout inter
 
 (1) L’agrément accordé à un intermédiaire de crédit immobilier conformément aux articles L. 226-23 à L. 226-29 est retiré si l’intermédiaire de crédit immobilier:
 
-1. renonce expressément à l’agrément ou n’a pas exercé les activités d’intermédiaire de crédit immobilier visées à l’article L. 226-1, point 14, ni fourni des services de conseil pendant les six mois précédents;
-2. a obtenu l’agrément au moyen de déclarations fausses ou trompeuses ou par tout autre moyen irrégulier;
-3. ne remplit plus les conditions d’octroi de l’agrément;
-4. a gravement ou systématiquement enfreint les dispositions du présent chapitre.
+1\. renonce expressément à l’agrément ou n’a pas exercé les activités d’intermédiaire de crédit immobilier visées à l’article L. 226-1, point 14, ni fourni des services de conseil pendant les six mois précédents;
+
+2\. a obtenu l’agrément au moyen de déclarations fausses ou trompeuses ou par tout autre moyen irrégulier;
+
+3\. ne remplit plus les conditions d’octroi de l’agrément;
+
+4\. a gravement ou systématiquement enfreint les dispositions du présent chapitre.
 
 (2) Tout retrait d’agrément doit être motivé et communiqué à l’intermédiaire de crédit immobilier.
 
@@ -3757,13 +4341,19 @@ En particulier, la CSSF a le droit de demander à tout prêteur et à tout inter
 
 (1) Avant l’exercice d’une des activités d’intermédiaire de crédit immobilier visées à l’article L. 226-1, point 14, l’intermédiaire de crédit immobilier fournit au consommateur, sur un support papier ou sur un autre support durable, au moins les informations suivantes:
 
-1. son identité et son adresse géographique;
-2. le registre dans lequel il a été inscrit, le numéro d’enregistrement, le cas échéant, et les moyens de vérifier l’inscription au registre;
-3. si l’intermédiaire de crédit immobilier est lié ou travaille à titre exclusif avec un ou plusieurs prêteurs. Lorsque l’intermédiaire de crédit immobilier est lié ou travaille à titre exclusif avec un ou plusieurs prêteurs, il fournit le nom du ou des prêteurs pour le compte desquels il agit. L’intermédiaire de crédit immobilier peut indiquer qu’il est indépendant s’il remplit les conditions fixées à l’article L. 226-15, paragraphe 4;
-4. si l’intermédiaire de crédit immobilier propose des services de conseil;
-5. le cas échéant, les frais que le consommateur doit payer à l’intermédiaire de crédit immobilier pour ses services ou, lorsque ce n’est pas possible, la méthode de calcul de ces frais;
-6. les procédures permettant aux consommateurs ou aux autres parties intéressées de déposer des réclamations en interne contre les intermédiaires de crédit immobilier et, s’il y a lieu, les voies de réclamation et de recours extrajudiciaires existantes;
-7. le cas échéant, l’existence de commissions ou d’autres incitations que les prêteurs ou des tiers doivent payer à l’intermédiaire de crédit immobilier pour ses services dans le cadre du contrat de crédit immobilier, ainsi que leur montant, lorsqu’il est connu. Lorsque ce montant n’est pas connu au moment de la communication des informations, l’intermédiaire de crédit immobilier informe le consommateur du fait que le montant réel sera communiqué à un stade ultérieur dans la FISE.
+1\. son identité et son adresse géographique;
+
+2\. le registre dans lequel il a été inscrit, le numéro d’enregistrement, le cas échéant, et les moyens de vérifier l’inscription au registre;
+
+3\. si l’intermédiaire de crédit immobilier est lié ou travaille à titre exclusif avec un ou plusieurs prêteurs. Lorsque l’intermédiaire de crédit immobilier est lié ou travaille à titre exclusif avec un ou plusieurs prêteurs, il fournit le nom du ou des prêteurs pour le compte desquels il agit. L’intermédiaire de crédit immobilier peut indiquer qu’il est indépendant s’il remplit les conditions fixées à l’article L. 226-15, paragraphe 4;
+
+4\. si l’intermédiaire de crédit immobilier propose des services de conseil;
+
+5\. le cas échéant, les frais que le consommateur doit payer à l’intermédiaire de crédit immobilier pour ses services ou, lorsque ce n’est pas possible, la méthode de calcul de ces frais;
+
+6\. les procédures permettant aux consommateurs ou aux autres parties intéressées de déposer des réclamations en interne contre les intermédiaires de crédit immobilier et, s’il y a lieu, les voies de réclamation et de recours extrajudiciaires existantes;
+
+7\. le cas échéant, l’existence de commissions ou d’autres incitations que les prêteurs ou des tiers doivent payer à l’intermédiaire de crédit immobilier pour ses services dans le cadre du contrat de crédit immobilier, ainsi que leur montant, lorsqu’il est connu. Lorsque ce montant n’est pas connu au moment de la communication des informations, l’intermédiaire de crédit immobilier informe le consommateur du fait que le montant réel sera communiqué à un stade ultérieur dans la FISE.
 
 (2) Sur demande du consommateur, les intermédiaires de crédit immobilier qui reçoivent une commission de la part d’un ou de plusieurs prêteurs lui fournissent des informations sur les différents niveaux de commission payables par les différents prêteurs qui fournissent les contrats de crédit immobilier proposés au consommateur. Le consommateur est informé du fait qu’il a le droit d’exiger ces informations.
 
@@ -3783,8 +4373,9 @@ En particulier, la CSSF a le droit de demander à tout prêteur et à tout inter
 
 (3) Les prêteurs se conforment dans le cadre de l’élaboration et de l’application de leur politique de rémunération du personnel responsable de l’évaluation de la solvabilité aux principes suivants, selon les modalités et dans la mesure nécessaires compte tenu de leur taille, de leur organisation interne et de la nature, de l’étendue et de la complexité de leurs activités:
 
-1. la politique de rémunération permet et promeut une gestion du risque saine et effective et n’encourage pas une prise de risque excédant le niveau de risque toléré du prêteur;
-2. la politique de rémunération est conforme à la stratégie commerciale, aux objectifs, aux valeurs et aux intérêts à long terme du prêteur et comporte des mesures visant à éviter les conflits d’intérêts, en faisant notamment en sorte que la rémunération ne dépende pas du nombre ou de la proportion des demandes acceptées.
+1\. la politique de rémunération permet et promeut une gestion du risque saine et effective et n’encourage pas une prise de risque excédant le niveau de risque toléré du prêteur;
+
+2\. la politique de rémunération est conforme à la stratégie commerciale, aux objectifs, aux valeurs et aux intérêts à long terme du prêteur et comporte des mesures visant à éviter les conflits d’intérêts, en faisant notamment en sorte que la rémunération ne dépende pas du nombre ou de la proportion des demandes acceptées.
 
 (4) Lorsque les prêteurs ou les intermédiaires de crédit immobilier fournissent des services de conseil, la structure des rémunérations du personnel concerné ne doit pas porter préjudice à sa capacité de servir au mieux les intérêts du consommateur et, en particulier, ne dépend pas des objectifs de vente.
 
@@ -3816,22 +4407,31 @@ La CSSF et les autorités compétentes peuvent s’attribuer mutuellement certai
 
 (1) Les exigences minimales concernant le niveau de connaissances et de compétences dans le domaine des contrats de crédit immobilier du personnel des prêteurs et des intermédiaires de crédit immobilier ainsi que des personnes visées à l’article L. 226-25, paragraphe 1 <sup>er</sup> se basent sur:
 
-1. la connaissance suffisante des formules de contrats de crédit immobilier et des services auxiliaires généralement proposés avec ces produits;
-2. la connaissance suffisante du Code de la consommation et notamment des dispositions relatives aux contrats de crédit immobilier;
-3. la connaissance et compréhension suffisantes des procédures d’achat de biens immobiliers;
-4. la connaissance suffisante de l’évaluation des garanties;
-5. la connaissance suffisante de l’organisation et du fonctionnement des cadastres;
-6. la connaissance suffisante du marché du crédit immobilier au Luxembourg;
-7. la connaissance suffisante des normes déontologiques;
-8. la connaissance suffisante du processus d’évaluation de la solvabilité du consommateur ou, le cas échéant, la compétence pour évaluer la solvabilité du consommateur;
-9. le niveau suffisant de compétences financières et économiques.
+1\. la connaissance suffisante des formules de contrats de crédit immobilier et des services auxiliaires généralement proposés avec ces produits;
+
+2\. la connaissance suffisante du Code de la consommation et notamment des dispositions relatives aux contrats de crédit immobilier;
+
+3\. la connaissance et compréhension suffisantes des procédures d’achat de biens immobiliers;
+
+4\. la connaissance suffisante de l’évaluation des garanties;
+
+5\. la connaissance suffisante de l’organisation et du fonctionnement des cadastres;
+
+6\. la connaissance suffisante du marché du crédit immobilier au Luxembourg;
+
+7\. la connaissance suffisante des normes déontologiques;
+
+8\. la connaissance suffisante du processus d’évaluation de la solvabilité du consommateur ou, le cas échéant, la compétence pour évaluer la solvabilité du consommateur;
+
+9\. le niveau suffisant de compétences financières et économiques.
 
 Les exigences minimales concernant le niveau de connaissances et de compétences peuvent varier en fonction des rôles et responsabilités du personnel et des dirigeants concernés.
 
 (2) Le niveau de connaissances et de compétences approprié est établi sur la base
 
-1. des qualifications professionnelles; ou
-2. de l’expérience professionnelle qui ne doit pas être inférieur à trois années de travail dans les domaines liés à l’octroi, à la distribution et à l’intermédiation de produits de crédit.
+1\. des qualifications professionnelles; ou
+
+2\. de l’expérience professionnelle qui ne doit pas être inférieur à trois années de travail dans les domaines liés à l’octroi, à la distribution et à l’intermédiation de produits de crédit.
 
 (3) Jusqu’au 21 mars 2019, les exigences minimales concernant le niveau de connaissances et de compétences sont réputées être remplies lorsque les personnes concernées justifient d’une expérience professionnelle d’au moins trois années dans les domaines liés à l’octroi, à la distribution et à l’intermédiation de produits de crédit.
 
@@ -3855,27 +4455,39 @@ Toute clause ou toute combinaison de clauses d’un contrat de crédit immobilie
 
 (1) Les personnes physiques ou morales soumises aux dispositions du présent chapitre peuvent être sanctionnées par la CSSF au cas où:
 
-1. elles ne respectent pas:
+1\. elles ne respectent pas:
 
-   1. en ce qui concerne les prêteurs et les intermédiaires de crédit immobilier, les dispositions des articles L. 226-5, L. 226-6, L. 226-7, L. 226-8, L. 226-9, L. 226-10, L. 226-11, L. 226-12, L. 226-13, L. 226-14 et L. 226-15 relatifs aux informations et pratiques précédant la conclusion du contrat de crédit immobilier;
-   2. en ce qui concerne les prêteurs, les dispositions des articles L. 226-16, L. 226-17, L. 226-18 et L. 226-19 relatifs aux informations et droits concernant les contrats de crédit immobilier;
-   3. en ce qui concerne les prêteurs, les dispositions des articles L. 226-20, L. 226-21 et L. 226-22 relatifs à l’exécution des contrats de crédit immobilier et à l’exercice des droits connexes;
-   4. en ce qui concerne les intermédiaires de crédit immobilier, les dispositions des articles L. 226-23, L. 226-24, L. 226-25, L. 226-26, L. 226-27, L. 226-28, L. 226-29, L. 226-30, L. 226-31 et L. 226-35 relatifs aux intermédiaires de crédit immobilier;
-   5. en ce qui concerne les prêteurs et les intermédiaires de crédit immobilier, les dispositions des articles L. 226-36, L. 226-37 et L. 226-38 relatifs aux obligations applicables aux prêteurs et aux intermédiaires de crédit immobilier;
-2. elles refusent de fournir les documents ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l’application du présent chapitre;
-3. elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
-4. elles font obstacle à l’exercice des pouvoirs de surveillance, d’inspection et d’enquête de la CSSF;
-5. elles ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l’article L. 226-33, alinéa 2, point 4.
+a) en ce qui concerne les prêteurs et les intermédiaires de crédit immobilier, les dispositions des articles L. 226-5, L. 226-6, L. 226-7, L. 226-8, L. 226-9, L. 226-10, L. 226-11, L. 226-12, L. 226-13, L. 226-14 et L. 226-15 relatifs aux informations et pratiques précédant la conclusion du contrat de crédit immobilier;
+
+b) en ce qui concerne les prêteurs, les dispositions des articles L. 226-16, L. 226-17, L. 226-18 et L. 226-19 relatifs aux informations et droits concernant les contrats de crédit immobilier;
+
+c) en ce qui concerne les prêteurs, les dispositions des articles L. 226-20, L. 226-21 et L. 226-22 relatifs à l’exécution des contrats de crédit immobilier et à l’exercice des droits connexes;
+
+d) en ce qui concerne les intermédiaires de crédit immobilier, les dispositions des articles L. 226-23, L. 226-24, L. 226-25, L. 226-26, L. 226-27, L. 226-28, L. 226-29, L. 226-30, L. 226-31 et L. 226-35 relatifs aux intermédiaires de crédit immobilier;
+
+e) en ce qui concerne les prêteurs et les intermédiaires de crédit immobilier, les dispositions des articles L. 226-36, L. 226-37 et L. 226-38 relatifs aux obligations applicables aux prêteurs et aux intermédiaires de crédit immobilier;
+
+2\. elles refusent de fournir les documents ou autres renseignements demandés, nécessaires à la CSSF pour les besoins de l’application du présent chapitre;
+
+3\. elles ont fourni des documents ou autres renseignements qui se révèlent être incomplets, inexacts ou faux;
+
+4\. elles font obstacle à l’exercice des pouvoirs de surveillance, d’inspection et d’enquête de la CSSF;
+
+5\. elles ne donnent pas suite aux injonctions de la CSSF prononcées en vertu de l’article L. 226-33, alinéa 2, point 4.
 
 (2) Peuvent être prononcés par la CSSF, classés par ordre de gravité:
 
-1. un avertissement;
-2. un blâme;
-3. une amende administrative dont le montant ne peut être ni inférieur à 251 euros, ni supérieur à 250.000 euros, ou si l’infraction a procuré un avantage patrimonial, direct ou indirect, aux personnes visées au présent article, une amende dont le montant ne peut être ni inférieur au montant du profit réalisé, ni supérieur au quintuple de ce montant;
-4. une ou plusieurs des mesures suivantes:
+1\. un avertissement;
 
-   1. l’interdiction limitée dans le temps ou définitive d’effectuer une ou plusieurs opérations ou activités d’intermédiaire de crédit immobilier ou de fourniture de services de conseil;
-   2. l’interdiction professionnelle limitée dans le temps ou définitive des administrateurs, gérants ou dirigeants de fait ou de droit des intermédiaires de crédit immobilier.
+2\. un blâme;
+
+3\. une amende administrative dont le montant ne peut être ni inférieur à 251 euros, ni supérieur à 250.000 euros, ou si l’infraction a procuré un avantage patrimonial, direct ou indirect, aux personnes visées au présent article, une amende dont le montant ne peut être ni inférieur au montant du profit réalisé, ni supérieur au quintuple de ce montant;
+
+4\. une ou plusieurs des mesures suivantes:
+
+a) l’interdiction limitée dans le temps ou définitive d’effectuer une ou plusieurs opérations ou activités d’intermédiaire de crédit immobilier ou de fourniture de services de conseil;
+
+b) l’interdiction professionnelle limitée dans le temps ou définitive des administrateurs, gérants ou dirigeants de fait ou de droit des intermédiaires de crédit immobilier.
 
 Dans le prononcé de la sanction, la CSSF tient compte de la nature, de la durée et de la gravité de l’infraction, de la conduite et des antécédents de la personne physique ou morale à sanctionner, du préjudice causé aux tierces personnes et des avantages ou gains potentiels ou effectivement tirés de l’infraction.
 
@@ -3909,9 +4521,11 @@ La CSSF peut transmettre les informations reçues aux autres autorités compéte
 
 (3) Si la CSSF est invitée à coopérer à une enquête, à une activité de surveillance ou à un échange d’informations conformément au paragraphe 2, elle ne peut refuser de donner suite à une telle requête que lorsque:
 
-1. l’enquête, la vérification sur place, l’activité de surveillance ou l’échange d’informations risque de porter atteinte à la souveraineté, à la sécurité ou à l’ordre public de l’État luxembourgeois;
-2. une procédure judiciaire a déjà été engagée pour les mêmes faits et à l’encontre des mêmes personnes devant les tribunaux luxembourgeois; ou
-3. un jugement définitif a déjà été rendu pour les mêmes faits et à l’encontre des mêmes personnes au Luxembourg.
+1\. l’enquête, la vérification sur place, l’activité de surveillance ou l’échange d’informations risque de porter atteinte à la souveraineté, à la sécurité ou à l’ordre public de l’État luxembourgeois;
+
+2\. une procédure judiciaire a déjà été engagée pour les mêmes faits et à l’encontre des mêmes personnes devant les tribunaux luxembourgeois; ou
+
+3\. un jugement définitif a déjà été rendu pour les mêmes faits et à l’encontre des mêmes personnes au Luxembourg.
 
 En cas de refus fondé sur ces motifs, la CSSF en informe l’autorité compétente requérante de façon aussi circonstanciée que possible.
 
@@ -3947,18 +4561,13 @@ En cas de refus fondé sur ces motifs, la CSSF en informe l’autorité compéte
 
 Pour l’application du présent livre, on entend par:
 
-1. (
+1\) ([Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) « [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) », le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2006/2004/jo) » ; « [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) », le [Règlement (CE) N° 2006/2004](https://legilux.public.lu/eli/reg_ue/2004/2006/jo) du Parlement européen et du Conseil du 27 octobre 2004 relatif à la coopération en matière de protection des consommateurs.
 
-   [Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) « [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) », le [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2006/2004/jo) » ; « [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) », le [Règlement (CE) N° 2006/2004](https://legilux.public.lu/eli/reg_ue/2004/2006/jo) du Parlement européen et du Conseil du 27 octobre 2004 relatif à la coopération en matière de protection des consommateurs.
-2. «Agent habilité», l’agent d’une autorité compétente désignée comme responsable pour l’application du
+2\) «Agent habilité», l’agent d’une autorité compétente désignée comme responsable pour l’application du [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) ainsi que des titres 1 et 2 du présent livre.
 
-   [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) ainsi que des titres 1 et 2 du présent livre.
-3. (
+3\) ([Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) «Lois protégeant les intérêts des consommateurs», celles définies par l’article 3.1) du [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo).
 
-   [Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) «Lois protégeant les intérêts des consommateurs», celles définies par l’article 3.1) du [Règlement 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo).
-4. «
-
-   [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) », le [Règlement (CE) N° 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d’indemnisation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le [Règlement (CEE) N° 295/91](https://legilux.public.lu/eli/reg_ue/1991/295/jo).
+4\) « [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) », le [Règlement (CE) N° 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d’indemnisation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le [Règlement (CEE) N° 295/91](https://legilux.public.lu/eli/reg_ue/1991/295/jo).
 
 ###### Art. L. 311-3.
 
@@ -4080,18 +4689,13 @@ Le juge assisté de son greffier peut se rendre dans les locaux pendant l’inte
 
 (1) L’autorité compétente à caractère général prévue à l’article L. 311-4 du présent chapitre reçoit les plaintes des passagers aériens conformément à l’article 16, paragraphe (2) du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo), constate l’existence d’une violation du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) et a le pouvoir d’enjoindre, par voie de décision, le transporteur aérien:
 
-1. d’indemniser dans un délai maximum d’un mois le passager conformément à l’article 7 du
+a) d’indemniser dans un délai maximum d’un mois le passager conformément à l’article 7 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
 
-   [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
-2. de rembourser dans un délai maximum d’un mois le billet d’avion vers la destination finale ou d’origine que le passager aérien a dû se procurer lorsque la violation aux dispositions du
+b) de rembourser dans un délai maximum d’un mois le billet d’avion vers la destination finale ou d’origine que le passager aérien a dû se procurer lorsque la violation aux dispositions du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) consiste dans un défaut d’assistance prévu à l’article 8 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
 
-   [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) consiste dans un défaut d’assistance prévu à l’article 8 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
-3. de verser au passager aérien dans un délai maximum d’un mois une indemnité forfaitaire de respectivement 25 euros pour des rafraîchissements non offerts, de 50 euros pour une restauration non offerte, de 200 euros pour un hébergement en hôtel non offert, de 25 euros pour le transport non offert depuis l’hôtel à l’aéroport, et/ou de 50 euros pour le non-respect par le transporteur aérien effectif de l’article 9, paragraphe (2) lorsque la violation aux dispositions du
+c) de verser au passager aérien dans un délai maximum d’un mois une indemnité forfaitaire de respectivement 25 euros pour des rafraîchissements non offerts, de 50 euros pour une restauration non offerte, de 200 euros pour un hébergement en hôtel non offert, de 25 euros pour le transport non offert depuis l’hôtel à l’aéroport, et/ou de 50 euros pour le non-respect par le transporteur aérien effectif de l’article 9, paragraphe (2) lorsque la violation aux dispositions du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) consiste en le défaut de prise en charge tel que prévu à l’article 9 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
 
-   [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) consiste en le défaut de prise en charge tel que prévu à l’article 9 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo) ;
-4. de se conformer aux obligations énoncées aux articles 10, 11 et 14 du
-
-   [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo).
+d) de se conformer aux obligations énoncées aux articles 10, 11 et 14 du [Règlement 261/2004](https://legilux.public.lu/eli/reg_ue/2004/261/jo).
 
 Les injonctions précitées sont cumulables.
 
@@ -4133,13 +4737,11 @@ Aucune amende administrative ne peut être imposée lorsque le non-respect des o
 
 Il a pour mission:
 
-- (
+aash ([L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) de promouvoir l’échange de vues entre le gouvernement, des représentants des intérêts des consommateurs, et des organisations patronales;
 
-  [L. 20 novembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/11/20/a507/jo)) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) de promouvoir l’échange de vues entre le gouvernement, des représentants des intérêts des consommateurs, et des organisations patronales;
-- de favoriser la concertation entre les représentants des intérêts des consommateurs et les délégués des organisations patronales pour tous les problèmes relevant du domaine de la protection des consommateurs;
-- (
+bash de favoriser la concertation entre les représentants des intérêts des consommateurs et les délégués des organisations patronales pour tous les problèmes relevant du domaine de la protection des consommateurs;
 
-  [Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) d’étudier et d’émettre, à la demande, soit du ministre ayant la Protection des consommateurs dans ses attributions, soit des représentants des intérêts des consommateurs, soit des délégués des organisations patronales, des avis sur les questions lui soumises.
+cash ([Loi du 19 novembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/11/19/a833/jo)) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) d’étudier et d’émettre, à la demande, soit du ministre ayant la Protection des consommateurs dans ses attributions, soit des représentants des intérêts des consommateurs, soit des délégués des organisations patronales, des avis sur les questions lui soumises.
 
 ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) La composition exacte et le mode de fonctionnement du Conseil de la consommation sont régis par les articles R. 301-1 à R. 301-8.
 
@@ -4165,28 +4767,35 @@ Lorsque les conditions prévues à l’article L. 311-1 du présent code sont r�
 
 Les actions en cessation ou en interdiction prévues au présent titre peuvent être intentées par :
 
-1. toute personne physique ayant un intérêt à agir ;
-2. toute association, qu’elle représente des membres d’un ou de plusieurs États membres, agréée au sens de l’article L. 321-3 ;
-3. toute entité qualifiée désignée par un État membre de l’Union européenne ou de l’Espace économique européen ;
-4. toute entité régulatrice sectorielle instituée visée à l’article L. 321-4 ;
-5. tout ministre ;
-6. le Collège médical et tout ordre professionnel qui est institué par la
+a) toute personne physique ayant un intérêt à agir ;
 
-   [loi](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) ou qui est une association professionnelle ;
-7. la Caisse nationale de santé.
+b) toute association, qu’elle représente des membres d’un ou de plusieurs États membres, agréée au sens de l’article L. 321-3 ;
+
+c) toute entité qualifiée désignée par un État membre de l’Union européenne ou de l’Espace économique européen ;
+
+d) toute entité régulatrice sectorielle instituée visée à l’article L. 321-4 ;
+
+e) tout ministre ;
+
+f) le Collège médical et tout ordre professionnel qui est institué par la [loi](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) ou qui est une association professionnelle ;
+
+g) la Caisse nationale de santé.
 
 ###### Art. L. 321-3.
 
 (1) L’agrément donnant qualité d’entité qualifiée aux fins d’exercer l’action en cessation ou en interdiction prévue au présent titre ou le recours collectif prévu au livre 5 est accordé à toute association qui remplit tous les critères suivants :
 
-1. il s’agit d’une personne morale constituée conformément au droit luxembourgeois qui peut démontrer douze mois d’activité publique réelle dans la protection des intérêts des consommateurs avant sa demande de désignation ;
-2. son objet statutaire démontre qu’elle a un intérêt légitime à protéger les intérêts des consommateurs comme le prévoient les dispositions du droit de l’Union européenne visées à l’annexe I de la
+a) il s’agit d’une personne morale constituée conformément au droit luxembourgeois qui peut démontrer douze mois d’activité publique réelle dans la protection des intérêts des consommateurs avant sa demande de désignation ;
 
-   [directive (UE) 2020/1828](https://legilux.public.lu/eli/dir_ue/2020/1828/jo) du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la [directive 2009/22/CE](https://legilux.public.lu/eli/dir_ue/2009/22/jo), ainsi que, le cas échéant, les dispositions de transposition corrélatives du droit national ;
-3. elle poursuit un but non lucratif ;
-4. elle ne fait pas l’objet d’une procédure d’insolvabilité et n’est pas déclarée insolvable ;
-5. elle est indépendante et n’est pas influencée par des personnes autres que des consommateurs, en particulier par des professionnels, qui ont un intérêt économique dans l’introduction d’un quelconque recours collectif, y compris en cas de financement par des tiers, et, à cette fin, elle a mis en place des procédures pour prévenir une telle influence ainsi que les conflits d’intérêts entre elle-même, ses bailleurs de fonds et les intérêts des consommateurs ;
-6. elle met à la disposition du public, en des termes clairs et compréhensibles, par tout moyen approprié, en particulier sur son site internet, des informations démontrant que l’entité satisfait aux critères énumérés aux lettres a) à e) et des informations sur les sources de son financement en général, sa structure organisationnelle, de gestion et d’affiliation, son objet statutaire et ses activités.
+b) son objet statutaire démontre qu’elle a un intérêt légitime à protéger les intérêts des consommateurs comme le prévoient les dispositions du droit de l’Union européenne visées à l’annexe I de la [directive (UE) 2020/1828](https://legilux.public.lu/eli/dir_ue/2020/1828/jo) du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la [directive 2009/22/CE](https://legilux.public.lu/eli/dir_ue/2009/22/jo), ainsi que, le cas échéant, les dispositions de transposition corrélatives du droit national ;
+
+c) elle poursuit un but non lucratif ;
+
+d) elle ne fait pas l’objet d’une procédure d’insolvabilité et n’est pas déclarée insolvable ;
+
+e) elle est indépendante et n’est pas influencée par des personnes autres que des consommateurs, en particulier par des professionnels, qui ont un intérêt économique dans l’introduction d’un quelconque recours collectif, y compris en cas de financement par des tiers, et, à cette fin, elle a mis en place des procédures pour prévenir une telle influence ainsi que les conflits d’intérêts entre elle-même, ses bailleurs de fonds et les intérêts des consommateurs ;
+
+f) elle met à la disposition du public, en des termes clairs et compréhensibles, par tout moyen approprié, en particulier sur son site internet, des informations démontrant que l’entité satisfait aux critères énumérés aux lettres a) à e) et des informations sur les sources de son financement en général, sa structure organisationnelle, de gestion et d’affiliation, son objet statutaire et ses activités.
 
 (2) La désignation des associations visées à l’article L. 321-2, lettre b), et à l’article L. 511-4, point 2°, est soumise à un agrément du ministre ayant la Protection des consommateurs dans ses attributions.
 
@@ -4212,16 +4821,25 @@ Le professionnel défendeur à l’action a le droit de faire part au juge comp�
 
 Les entités régulatrices sectorielles instituées qui peuvent intenter des actions en cessation ou en interdiction nationales ou transfrontières ou un recours collectif national ou transfrontière sont :
 
-1. la Commission de surveillance du secteur financier ;
-2. le Commissariat aux assurances ;
-3. la Commission nationale pour la protection des données ;
-4. l’Institut luxembourgeois de régulation ;
-5. l’Autorité luxembourgeoise indépendante de l’audiovisuel ;
-6. l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services ;
-7. l’Administration luxembourgeoise vétérinaire et alimentaire ;
-8. la Direction de l’aviation civile ;
-9. la Direction de la santé ;
-10. l’Autorité de la concurrence.
+a) la Commission de surveillance du secteur financier ;
+
+b) le Commissariat aux assurances ;
+
+c) la Commission nationale pour la protection des données ;
+
+d) l’Institut luxembourgeois de régulation ;
+
+e) l’Autorité luxembourgeoise indépendante de l’audiovisuel ;
+
+f) l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services ;
+
+g) l’Administration luxembourgeoise vétérinaire et alimentaire ;
+
+h) la Direction de l’aviation civile ;
+
+i) la Direction de la santé ;
+
+j) l’Autorité de la concurrence.
 
 ##### Chapitre 2 — Procédure
 
@@ -4253,8 +4871,9 @@ Cette procédure peut être mise en œuvre même en l’absence de preuve d’un
 
 Sans préjudice de l’application de l’article L. 322-1, en cas de publicité trompeuse ou de publicité comparative illicite, le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale peut, à la requête des personnes et entités visées à l’article L. 321-2 et en application de la procédure prévue à l’article L. 322-1 :
 
-1. exiger que l’annonceur apporte des preuves concernant l’exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l’annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée au vu des circonstances du cas d’espèce, et dans le cas de la publicité comparative, exiger que l’annonceur fournisse ses preuves à bref délai ;
-2. considérer des données de fait comme inexactes si les preuves exigées conformément à la lettre a) ne sont pas apportées ou sont estimées insuffisantes.
+a) exiger que l’annonceur apporte des preuves concernant l’exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l’annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée au vu des circonstances du cas d’espèce, et dans le cas de la publicité comparative, exiger que l’annonceur fournisse ses preuves à bref délai ;
+
+b) considérer des données de fait comme inexactes si les preuves exigées conformément à la lettre a) ne sont pas apportées ou sont estimées insuffisantes.
 
 ###### Art. L. 322-3.
 
@@ -4274,40 +4893,55 @@ Sans préjudice de l’application de l’article L. 322-1, en cas de publicité
 
 (1) Au sens du présent livre, on entend par:
 
-1. «contrat de vente»: tout contrat en vertu duquel le professionnel transfère ou s’engage à transférer la propriété des biens au consommateur et le consommateur paie ou s’engage à payer le prix de ceux-ci, y compris les contrats ayant à la fois pour objet des biens et des services;
-2. «contrat de service»: tout contrat autre qu’un contrat de vente en vertu duquel le professionnel fournit ou s’engage à fournir un service au consommateur et le consommateur paie ou s’engage à payer le prix de celui-ci;
-3. «litige national»: un litige de nature contractuelle découlant d’un contrat de vente ou de service, lorsque le consommateur, au moment de sa commande de biens ou de services, réside au Luxembourg et que le professionnel y a son lieu d’établissement;
-4. «litige transfrontalier»: un litige de nature contractuelle découlant d’un contrat de vente ou de service, lorsque le consommateur, au moment de sa commande de biens ou de services, réside dans un autre Etat membre de l’Union européenne et que le professionnel a son lieu d’établissement au Luxembourg;
-5. «litige de consommation»: tout litige national ou transfrontalier survenant entre un consommateur et un professionnel concernant les obligations contractuelles découlant d’un contrat de vente ou de service;
-6. «règlement extrajudiciaire des litiges de consommation»: toute intervention d’une entité qui propose une solution ou réunit les parties en vue de faciliter la recherche d’une solution amiable à un litige de consommation;
-7. «entité qualifiée»: toute entité, quelle que soit la façon dont elle est appelée ou citée, qui est durablement établie et propose de régler un litige de consommation par une procédure de règlement extrajudiciaire des litiges de consommation et qui figure sur la liste établie par le ministre ayant l’Economie dans ses attributions;
-8. Abrogé (
+1\) «contrat de vente»: tout contrat en vertu duquel le professionnel transfère ou s’engage à transférer la propriété des biens au consommateur et le consommateur paie ou s’engage à payer le prix de ceux-ci, y compris les contrats ayant à la fois pour objet des biens et des services;
 
-   [L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo))
+2\) «contrat de service»: tout contrat autre qu’un contrat de vente en vertu duquel le professionnel fournit ou s’engage à fournir un service au consommateur et le consommateur paie ou s’engage à payer le prix de celui-ci;
+
+3\) «litige national»: un litige de nature contractuelle découlant d’un contrat de vente ou de service, lorsque le consommateur, au moment de sa commande de biens ou de services, réside au Luxembourg et que le professionnel y a son lieu d’établissement;
+
+4\) «litige transfrontalier»: un litige de nature contractuelle découlant d’un contrat de vente ou de service, lorsque le consommateur, au moment de sa commande de biens ou de services, réside dans un autre Etat membre de l’Union européenne et que le professionnel a son lieu d’établissement au Luxembourg;
+
+5\) «litige de consommation»: tout litige national ou transfrontalier survenant entre un consommateur et un professionnel concernant les obligations contractuelles découlant d’un contrat de vente ou de service;
+
+6\) «règlement extrajudiciaire des litiges de consommation»: toute intervention d’une entité qui propose une solution ou réunit les parties en vue de faciliter la recherche d’une solution amiable à un litige de consommation;
+
+7\) «entité qualifiée»: toute entité, quelle que soit la façon dont elle est appelée ou citée, qui est durablement établie et propose de régler un litige de consommation par une procédure de règlement extrajudiciaire des litiges de consommation et qui figure sur la liste établie par le ministre ayant l’Economie dans ses attributions;
+
+8\) Abrogé ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo))
 
 (2) Un professionnel est établi:
 
-1. au lieu de son activité s’il s’agit d’une personne physique,
-2. à son siège social, son administration centrale ou au lieu de son activité, y compris une succursale, une agence ou tout autre établissement, s’il s’agit d’une société ou d’une autre personne morale ou d’une association de personnes physiques ou morales.
+a) au lieu de son activité s’il s’agit d’une personne physique,
+
+b) à son siège social, son administration centrale ou au lieu de son activité, y compris une succursale, une agence ou tout autre établissement, s’il s’agit d’une société ou d’une autre personne morale ou d’une association de personnes physiques ou morales.
 
 (3) Une entité de règlement extrajudiciaire des litiges de consommation est établie:
 
-1. si son fonctionnement est assuré par une personne physique, au lieu où elle exerce ses activités de règlement extrajudiciaire des litiges,
-2. si son fonctionnement est assuré par une personne morale ou une association de personnes physiques ou morales, au lieu où la personne morale ou l’association de personnes physiques ou morales exerce ses activités de règlement extrajudiciaire des litiges ou a son siège statutaire,
-3. si son fonctionnement est assuré par une autorité ou un autre organisme public, au lieu où cette autorité ou cet autre organisme public a son siège.
+a) si son fonctionnement est assuré par une personne physique, au lieu où elle exerce ses activités de règlement extrajudiciaire des litiges,
+
+b) si son fonctionnement est assuré par une personne morale ou une association de personnes physiques ou morales, au lieu où la personne morale ou l’association de personnes physiques ou morales exerce ses activités de règlement extrajudiciaire des litiges ou a son siège statutaire,
+
+c) si son fonctionnement est assuré par une autorité ou un autre organisme public, au lieu où cette autorité ou cet autre organisme public a son siège.
 
 ###### Art. L. 411-2.
 
 Le présent livre ne s’applique pas:
 
-1. aux procédures se déroulant devant des entités de règlement des litiges au sein desquelles les personnes physiques chargées du règlement des litiges sont employées ou rémunérées exclusivement par le professionnel concerné;
-2. aux procédures se déroulant dans le cadre de systèmes de traitement des plaintes gérés par le professionnel;
-3. aux services d’intérêt général non économiques;
-4. aux litiges entre professionnels;
-5. aux négociations directes entre le consommateur et le professionnel;
-6. aux tentatives faites par le juge saisi d’un litige pour régler celui-ci au cours de la procédure judiciaire;
-7. aux services de santé fournis par des professionnels de la santé aux patients pour évaluer, maintenir ou rétablir leur état de santé, y compris la prescription, l’administration et la fourniture de médicaments et de dispositifs médicaux;
-8. aux prestataires publics de l’enseignement postsecondaire ou de l’enseignement supérieur.
+a) aux procédures se déroulant devant des entités de règlement des litiges au sein desquelles les personnes physiques chargées du règlement des litiges sont employées ou rémunérées exclusivement par le professionnel concerné;
+
+b) aux procédures se déroulant dans le cadre de systèmes de traitement des plaintes gérés par le professionnel;
+
+c) aux services d’intérêt général non économiques;
+
+d) aux litiges entre professionnels;
+
+e) aux négociations directes entre le consommateur et le professionnel;
+
+f) aux tentatives faites par le juge saisi d’un litige pour régler celui-ci au cours de la procédure judiciaire;
+
+g) aux services de santé fournis par des professionnels de la santé aux patients pour évaluer, maintenir ou rétablir leur état de santé, y compris la prescription, l’administration et la fourniture de médicaments et de dispositifs médicaux;
+
+h) aux prestataires publics de l’enseignement postsecondaire ou de l’enseignement supérieur.
 
 ###### Art. L. 411-3.
 
@@ -4319,7 +4953,7 @@ Toute clause contraire est réputée nulle et non écrite. Cette nullité ne peu
 
 ###### Art. L. 412-1.
 
-(1) Lorsqu’un professionnel établi à Luxembourg s’engage à recourir à une entité qualifiée de règlement extrajudiciaire [^note_5_0_0] des litiges de consommation ou est tenu d’y recourir pour résoudre les litiges avec les consommateurs, il doit, avant la conclusion de tout contrat de vente ou de service, fournir au consommateur des informations sur l’entité ou les entités de règlement extrajudiciaire des litiges dont il relève. Ces informations comprennent l’adresse du site Internet de l’entité qualifiée ou des entités qualifiées de règlement extrajudiciaire des litiges concernées.
+(1) Lorsqu’un professionnel établi à Luxembourg s’engage à recourir à une entité qualifiée de règlement extrajudiciaire[^note_5_0_0] des litiges de consommation ou est tenu d’y recourir pour résoudre les litiges avec les consommateurs, il doit, avant la conclusion de tout contrat de vente ou de service, fournir au consommateur des informations sur l’entité ou les entités de règlement extrajudiciaire des litiges dont il relève. Ces informations comprennent l’adresse du site Internet de l’entité qualifiée ou des entités qualifiées de règlement extrajudiciaire des litiges concernées.
 
 Les informations visées à l’alinéa 1 doivent être claires, compréhensibles et aisément accessibles sur le site Internet du professionnel, quand il en a un, et, le cas échéant, dans les conditions générales des contrats de vente ou de service conclus entre le professionnel et le consommateur.
 
@@ -4357,9 +4991,11 @@ Il est créé sous l’autorité du ministre ayant l’Economie dans ses attribu
 
 Le Médiateur de la consommation est chargé des missions suivantes:
 
-1. informer les consommateurs et les professionnels sur les possibilités de règlement extrajudiciaire des litiges entre consommateurs et professionnels;
-2. réceptionner toute demande de règlement extrajudiciaire d’un litige de consommation et, le cas échéant, la transmettre à une autre entité qualifiée compétente en la matière, soit la traiter elle-même;
-3. intervenir lui-même dans toute demande de règlement extrajudiciaire d’un litige pour lequel aucune autre entité qualifiée n’est compétente.
+1\) informer les consommateurs et les professionnels sur les possibilités de règlement extrajudiciaire des litiges entre consommateurs et professionnels;
+
+2\) réceptionner toute demande de règlement extrajudiciaire d’un litige de consommation et, le cas échéant, la transmettre à une autre entité qualifiée compétente en la matière, soit la traiter elle-même;
+
+3\) intervenir lui-même dans toute demande de règlement extrajudiciaire d’un litige pour lequel aucune autre entité qualifiée n’est compétente.
 
 ##### Chapitre 2 — Compétences
 
@@ -4401,12 +5037,17 @@ Lorsqu’une demande a trait à un litige de consommation pour lequel aucune aut
 
 (2) Le Médiateur de la consommation peut refuser de traiter une demande visée au paragraphe 1 <sup>er</sup> du présent article, au motif que:
 
-1. le demandeur n’a pas tenté de contacter l’autre partie afin de discuter de sa réclamation et de chercher, dans un premier temps, à résoudre le problème directement avec celle-ci;
-2. le litige est abusif, fantaisiste ou vexatoire;
-3. le litige a été précédemment ou est actuellement examiné par une autre entité de règlement extrajudiciaire de litiges, un tribunal arbitral ou une juridiction, nationaux ou étrangers;
-4. le demandeur n’a pas introduit de réclamation auprès du Médiateur de la consommation dans un délai d’un an à compter de la date à laquelle il a introduit une réclamation auprès de l’autre partie;
-5. le traitement d’un litige de ce type entraverait sinon gravement le fonctionnement effectif du Médiateur de la consommation;
-6. la demande ne relève pas des litiges de consommation.
+a) le demandeur n’a pas tenté de contacter l’autre partie afin de discuter de sa réclamation et de chercher, dans un premier temps, à résoudre le problème directement avec celle-ci;
+
+b) le litige est abusif, fantaisiste ou vexatoire;
+
+c) le litige a été précédemment ou est actuellement examiné par une autre entité de règlement extrajudiciaire de litiges, un tribunal arbitral ou une juridiction, nationaux ou étrangers;
+
+d) le demandeur n’a pas introduit de réclamation auprès du Médiateur de la consommation dans un délai d’un an à compter de la date à laquelle il a introduit une réclamation auprès de l’autre partie;
+
+e) le traitement d’un litige de ce type entraverait sinon gravement le fonctionnement effectif du Médiateur de la consommation;
+
+f) la demande ne relève pas des litiges de consommation.
 
 (3) Ces règles de procédure ne doivent pas entraver considérablement l’accès des consommateurs aux procédures de règlement extrajudiciaire des litiges de consommation, notamment dans le cas de litiges transfrontaliers.
 
@@ -4472,8 +5113,9 @@ Cet écrit contient les engagements précis pris par chacune d’elles.
 
 Le juge refuse l’homologation de l’accord issu de la procédure de règlement extrajudiciaire d’un litige :
 
-- si celui-ci est contraire à l’ordre public ; ou
-- si le litige n’est pas susceptible d’être réglé par voie de la procédure de règlement extrajudiciaire d’un litige.
+aash si celui-ci est contraire à l’ordre public ; ou
+
+bash si le litige n’est pas susceptible d’être réglé par voie de la procédure de règlement extrajudiciaire d’un litige.
 
 #### Titre 3 — Les entités qualifiées de règlement extrajudiciaire des litiges de consommation
 
@@ -4485,14 +5127,21 @@ Le juge refuse l’homologation de l’accord issu de la procédure de règlemen
 
 Cette liste contient les informations suivantes:
 
-1. le nom, les coordonnées et l’adresse du site Internet des entités de règlement extrajudiciaire des litiges de consommation visées au premier alinéa;
-2. leurs tarifs, le cas échéant;
-3. la ou les langues dans lesquelles les demandes peuvent être introduites et dans lesquelles les procédures de règlement extrajudiciaire des litiges peuvent se dérouler;
-4. les types de litiges régis par la procédure de règlement extrajudiciaire des litiges;
-5. les secteurs et les catégories de litiges relevant de chaque entité de règlement extrajudiciaire des litiges;
-6. la nécessité de la présence physique des parties ou de leurs représentants, le cas échéant, y compris une déclaration de l’entité de règlement extrajudiciaire des litiges précisant si la procédure de règlement extrajudiciaire des litiges se déroule ou peut se dérouler oralement ou par écrit;
-7. la nature contraignante ou non de l’issue de la procédure; et
-8. les motifs pour lesquels l’entité de règlement extrajudiciaire des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2.
+a) le nom, les coordonnées et l’adresse du site Internet des entités de règlement extrajudiciaire des litiges de consommation visées au premier alinéa;
+
+b) leurs tarifs, le cas échéant;
+
+c) la ou les langues dans lesquelles les demandes peuvent être introduites et dans lesquelles les procédures de règlement extrajudiciaire des litiges peuvent se dérouler;
+
+d) les types de litiges régis par la procédure de règlement extrajudiciaire des litiges;
+
+e) les secteurs et les catégories de litiges relevant de chaque entité de règlement extrajudiciaire des litiges;
+
+f) la nécessité de la présence physique des parties ou de leurs représentants, le cas échéant, y compris une déclaration de l’entité de règlement extrajudiciaire des litiges précisant si la procédure de règlement extrajudiciaire des litiges se déroule ou peut se dérouler oralement ou par écrit;
+
+g) la nature contraignante ou non de l’issue de la procédure; et
+
+h) les motifs pour lesquels l’entité de règlement extrajudiciaire des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2.
 
 (2) Cette liste est notifiée par le ministre ayant l’Economie dans ses attributions à la Commission européenne. Si des changements sont notifiés par les entités de règlement extrajudiciaire des litiges de consommation au ministre ayant l’Economie dans ses attributions conformément à l’article L. 431-2, paragraphe 2, cette liste est mise à jour sans tarder et les informations pertinentes sont notifiées à la Commission européenne.
 
@@ -4504,23 +5153,33 @@ Cette liste contient les informations suivantes:
 
 (6) Au plus tard le 9 juillet 2018 et ensuite tous les quatre ans, le ministre ayant l’Economie dans ses attributions publie un rapport sur l’évolution et le fonctionnement des entités figurant sur sa liste et l’envoie à la Commission européenne. Plus particulièrement, ce rapport:
 
-1. recense les bonnes pratiques des entités de règlement extrajudiciaire des litiges de consommation qualifiées;
-2. relève, à l’aide de statistiques, les lacunes qui nuisent au fonctionnement des entités qualifiées pour les litiges nationaux et transfrontaliers, s’il y a lieu;
-3. présente des recommandations sur la manière d’améliorer le fonctionnement effectif et l’efficacité des entités qualifiées, s’il y a lieu.
+a) recense les bonnes pratiques des entités de règlement extrajudiciaire des litiges de consommation qualifiées;
+
+b) relève, à l’aide de statistiques, les lacunes qui nuisent au fonctionnement des entités qualifiées pour les litiges nationaux et transfrontaliers, s’il y a lieu;
+
+c) présente des recommandations sur la manière d’améliorer le fonctionnement effectif et l’efficacité des entités qualifiées, s’il y a lieu.
 
 ###### Art. L. 431-2.
 
 (1) L’entité de règlement extrajudiciaire des litiges de consommation qui entend figurer sur la liste visée à l’article L. 431- 1, paragraphe 1 <sup>er</sup> adresse une demande au ministre ayant l’Economie dans ses attributions. Cette demande contient toutes les données nécessaires pour permettre au ministre ayant l’Economie dans ses attributions d’évaluer si l’entité satisfait aux conditions du chapitre 2. Les informations à notifier sont les suivantes:
 
-1. le nom de l’entité, ses coordonnées et l’adresse de son site Internet;
-2. des informations sur sa structure et son financement, y compris des informations sur les personnes physiques chargées du règlement des litiges, sur leur financement, sur le niveau des rémunérations et la durée du mandat de ces personnes ainsi que sur leur employeur;
-3. ses règles de procédure;
-4. ses tarifs, le cas échéant;
-5. la durée moyenne de la procédure de règlement des litiges;
-6. la ou les langues dans lesquelles les demandes peuvent être introduites et dans lesquelles les procédures de règlement des litiges peuvent se dérouler;
-7. une déclaration sur les types de litiges régis par la procédure de règlement des litiges;
-8. les motifs pour lesquels l’entité de règlement des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2;
-9. une déclaration motivée indiquant si l’entité peut prétendre à la qualité d’entité qualifiée et satisfait aux exigences de qualité établies au chapitre 2.
+a) le nom de l’entité, ses coordonnées et l’adresse de son site Internet;
+
+b) des informations sur sa structure et son financement, y compris des informations sur les personnes physiques chargées du règlement des litiges, sur leur financement, sur le niveau des rémunérations et la durée du mandat de ces personnes ainsi que sur leur employeur;
+
+c) ses règles de procédure;
+
+d) ses tarifs, le cas échéant;
+
+e) la durée moyenne de la procédure de règlement des litiges;
+
+f) la ou les langues dans lesquelles les demandes peuvent être introduites et dans lesquelles les procédures de règlement des litiges peuvent se dérouler;
+
+g) une déclaration sur les types de litiges régis par la procédure de règlement des litiges;
+
+h) les motifs pour lesquels l’entité de règlement des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2;
+
+i) une déclaration motivée indiquant si l’entité peut prétendre à la qualité d’entité qualifiée et satisfait aux exigences de qualité établies au chapitre 2.
 
 (2) Si les informations mentionnées aux points a) à h) font l’objet de changements, les entités notifient sans tarder ces changements au ministre ayant l’Economie dans ses attributions.
 
@@ -4528,14 +5187,21 @@ Cette liste contient les informations suivantes:
 
 Les entités qualifiées transmettent tous les deux ans au ministre ayant l’Economie dans ses attributions des informations sur:
 
-1. le nombre de litiges dont elles ont été saisies et les types de plaintes auxquelles ils sont liés;
-2. la part en pourcentage de procédures de règlement extrajudiciaire des litiges qui ont été interrompues avant d’avoir abouti;
-3. le laps de temps moyen nécessaire au règlement des litiges traités;
-4. le taux de respect des solutions issues des procédures de règlement extrajudiciaire des litiges, s’il est connu;
-5. les problèmes systématiques ou importants qui se posent fréquemment et qui sont à l’origine de litiges entre les consommateurs et les professionnels. Les informations communiquées à cet égard peuvent être assorties de recommandations quant à la manière d’éviter ou de résoudre de tels problèmes à l’avenir;
-6. le cas échéant, une évaluation de l’efficacité de leur coopération au sein des réseaux d’entités de résolution extrajudiciaire des litiges de consommation qui facilitent le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel;
-7. le cas échéant, la formation dispensée aux personnes physiques chargées du règlement extrajudiciaire des litiges de consommation dans le but de leur conférer les connaissances et aptitudes requises par l’article L. 432-5 dans le domaine du règlement extrajudiciaire ou judiciaire des litiges de consommation ainsi qu’une compréhension générale du droit;
-8. une évaluation de l’efficacité de la procédure de règlement extrajudiciaire des litiges de consommation proposée par l’entité et des moyens envisageables pour améliorer ses résultats.
+a) le nombre de litiges dont elles ont été saisies et les types de plaintes auxquelles ils sont liés;
+
+b) la part en pourcentage de procédures de règlement extrajudiciaire des litiges qui ont été interrompues avant d’avoir abouti;
+
+c) le laps de temps moyen nécessaire au règlement des litiges traités;
+
+d) le taux de respect des solutions issues des procédures de règlement extrajudiciaire des litiges, s’il est connu;
+
+e) les problèmes systématiques ou importants qui se posent fréquemment et qui sont à l’origine de litiges entre les consommateurs et les professionnels. Les informations communiquées à cet égard peuvent être assorties de recommandations quant à la manière d’éviter ou de résoudre de tels problèmes à l’avenir;
+
+f) le cas échéant, une évaluation de l’efficacité de leur coopération au sein des réseaux d’entités de résolution extrajudiciaire des litiges de consommation qui facilitent le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel;
+
+g) le cas échéant, la formation dispensée aux personnes physiques chargées du règlement extrajudiciaire des litiges de consommation dans le but de leur conférer les connaissances et aptitudes requises par l’article L. 432-5 dans le domaine du règlement extrajudiciaire ou judiciaire des litiges de consommation ainsi qu’une compréhension générale du droit;
+
+h) une évaluation de l’efficacité de la procédure de règlement extrajudiciaire des litiges de consommation proposée par l’entité et des moyens envisageables pour améliorer ses résultats.
 
 ###### Art. L. 431-4.
 
@@ -4551,28 +5217,35 @@ Si une entité de règlement des litiges de consommation figurant sur la liste n
 
 Les entités de règlement extrajudiciaire des litiges de consommation, afin de figurer sur la liste de l’article L. 431-1, paragraphe 1 <sup>er</sup> , doivent
 
-1. tenir à jour un site Internet qui fournit aux parties un accès aisé aux informations concernant la procédure de règlement extrajudiciaire des litiges et qui permette aux demandeurs d’introduire une plainte et de soumettre les justificatifs nécessaires en ligne;
-2. fournir aux parties, si elles en font la demande, les informations visées au point a) sur un support durable;
-3. le cas échéant, permettre au demandeur d’introduire une réclamation hors ligne;
-4. permettre l’échange d’informations entre les parties par voie électronique ou, s’il y a lieu, par voie postale;
-5. (
+a) tenir à jour un site Internet qui fournit aux parties un accès aisé aux informations concernant la procédure de règlement extrajudiciaire des litiges et qui permette aux demandeurs d’introduire une plainte et de soumettre les justificatifs nécessaires en ligne;
 
-   [L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) traiter à la fois les litiges nationaux et les litiges transfrontaliers; et
-6. prendre les mesures nécessaires, quand elles traitent des litiges relevant du présent livre, pour garantir que le traitement des données à caractère personnel respecte les règles de protection des données à caractère personnel établies par la
+b) fournir aux parties, si elles en font la demande, les informations visées au point a) sur un support durable;
 
-   [loi modifiée du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel.
+c) le cas échéant, permettre au demandeur d’introduire une réclamation hors ligne;
+
+d) permettre l’échange d’informations entre les parties par voie électronique ou, s’il y a lieu, par voie postale;
+
+e) ([L. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/loi/2026/04/23/a233/jo)) traiter à la fois les litiges nationaux et les litiges transfrontaliers; et
+
+f) prendre les mesures nécessaires, quand elles traitent des litiges relevant du présent livre, pour garantir que le traitement des données à caractère personnel respecte les règles de protection des données à caractère personnel établies par la [loi modifiée du 2 août 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/jo) relative à la protection des personnes à l’égard du traitement des données à caractère personnel.
 
 **Art. L. 432-2.**
 
 (1) Les entités de règlement extrajudiciaire des litiges de consommation sont autorisées à maintenir et introduire des règles de procédure qui leur permettent de refuser de traiter un litige donné, au motif que:
 
-1. le demandeur n’a pas tenté de contacter l’autre partie afin de discuter de sa réclamation et de chercher, dans un premier temps, à résoudre le problème directement avec celle-ci;
-2. le litige est abusif, fantaisiste ou vexatoire;
-3. le litige a été précédemment ou est actuellement examiné par une autre entité de règlement extrajudiciaire de litiges, un tribunal arbitral ou une juridiction, nationaux ou étrangers;
-4. la réclamation porte sur une valeur qui est inférieure ou supérieure à un seuil financier prédéterminé, sans que ce seuil ne puisse être fixé à un niveau où il entraverait considérablement l’accès des consommateurs à la procédure de règlement extrajudiciaire des litiges;
-5. le demandeur n’a pas introduit de réclamation auprès de l’entité dans le délai imparti, qui ne doit pas être inférieur à un an à compter de la date à laquelle il a introduit une réclamation auprès de l’autre partie;
-6. le traitement d’un litige de ce type entraverait sinon gravement le fonctionnement effectif de l’entité de règlement extrajudiciaire des litiges de consommation;
-7. la demande ne relève pas des litiges de consommation.
+a) le demandeur n’a pas tenté de contacter l’autre partie afin de discuter de sa réclamation et de chercher, dans un premier temps, à résoudre le problème directement avec celle-ci;
+
+b) le litige est abusif, fantaisiste ou vexatoire;
+
+c) le litige a été précédemment ou est actuellement examiné par une autre entité de règlement extrajudiciaire de litiges, un tribunal arbitral ou une juridiction, nationaux ou étrangers;
+
+d) la réclamation porte sur une valeur qui est inférieure ou supérieure à un seuil financier prédéterminé, sans que ce seuil ne puisse être fixé à un niveau où il entraverait considérablement l’accès des consommateurs à la procédure de règlement extrajudiciaire des litiges;
+
+e) le demandeur n’a pas introduit de réclamation auprès de l’entité dans le délai imparti, qui ne doit pas être inférieur à un an à compter de la date à laquelle il a introduit une réclamation auprès de l’autre partie;
+
+f) le traitement d’un litige de ce type entraverait sinon gravement le fonctionnement effectif de l’entité de règlement extrajudiciaire des litiges de consommation;
+
+g) la demande ne relève pas des litiges de consommation.
 
 (2) Ces règles de procédure ne doivent pas entraver considérablement l’accès des consommateurs aux procédures de règlement extrajudiciaire des litiges de consommation, notamment dans le cas de litiges transfrontaliers.
 
@@ -4580,22 +5253,33 @@ Les entités de règlement extrajudiciaire des litiges de consommation, afin de 
 
 (1) Les entités de règlement extrajudiciaire des litiges de consommation doivent mettre à la disposition du public, sur leur site Internet, ou sur un support durable sur demande, et par tout autre moyen qu’elles jugent approprié, des informations claires et facilement compréhensibles sur:
 
-1. leurs coordonnées, y compris les adresses postale et électronique;
-2. le fait que les entités de règlement extrajudiciaire des litiges de consommation figurent sur une liste établie par le ministre ayant l’Economie dans ses attributions, conformément à l’article L. 431-1, paragraphe 1
+a) leurs coordonnées, y compris les adresses postale et électronique;
 
-   <sup>er</sup> ;
-3. les personnes physiques chargées du règlement extrajudiciaire des litiges, les modalités de leur nomination et la durée de leur mandat;
-4. les compétences, l’impartialité et l’indépendance des personnes physiques chargées du règlement extrajudiciaire des litiges, si elles sont employées ou rémunérées exclusivement par le professionnel;
-5. leur appartenance à des réseaux d’entités de règlement extrajudiciaire des litiges facilitant le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel, le cas échéant;
-6. les types de litiges relevant de leur compétence, y compris, le cas échéant, le seuil éventuellement fixé;
-7. les règles de procédure applicables au règlement des litiges et les motifs pour lesquels l’entité de règlement extrajudiciaire des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2;
-8. les langues dans lesquelles les demandes peuvent être soumises aux entités de règlement extrajudiciaire des litiges et dans lesquelles la procédure de règlement extrajudiciaire des litiges se déroule;
-9. les types de règles sur lesquelles l’entité de règlement extrajudiciaire des litiges peut se fonder pour régler les litiges tels que, sans y être limités, des dispositions juridiques, considérations d’équité ou codes de conduite;
-10. toutes les exigences préalables que les parties peuvent avoir à remplir avant qu’une procédure de règlement extrajudiciaire des litiges puisse être ouverte, y compris l’obligation pour le demandeur de tenter de résoudre le litige directement avec l’autre partie;
-11. la possibilité pour les parties de se retirer de la procédure;
-12. les frais éventuels à la charge des parties, y compris les règles concernant l’adjudication des frais à l’issue de la procédure;
-13. la durée moyenne de la procédure de règlement extrajudiciaire des litiges;
-14. les conséquences juridiques éventuelles de la solution résultant de la procédure de règlement extrajudiciaire des litiges, y compris les sanctions en cas de non-respect dans le cas où une décision a un effet contraignant sur les parties, le cas échéant.
+b) le fait que les entités de règlement extrajudiciaire des litiges de consommation figurent sur une liste établie par le ministre ayant l’Economie dans ses attributions, conformément à l’article L. 431-1, paragraphe 1 <sup>er</sup> ;
+
+c) les personnes physiques chargées du règlement extrajudiciaire des litiges, les modalités de leur nomination et la durée de leur mandat;
+
+d) les compétences, l’impartialité et l’indépendance des personnes physiques chargées du règlement extrajudiciaire des litiges, si elles sont employées ou rémunérées exclusivement par le professionnel;
+
+e) leur appartenance à des réseaux d’entités de règlement extrajudiciaire des litiges facilitant le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel, le cas échéant;
+
+f) les types de litiges relevant de leur compétence, y compris, le cas échéant, le seuil éventuellement fixé;
+
+g) les règles de procédure applicables au règlement des litiges et les motifs pour lesquels l’entité de règlement extrajudiciaire des litiges peut refuser de traiter un litige particulier conformément à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2;
+
+h) les langues dans lesquelles les demandes peuvent être soumises aux entités de règlement extrajudiciaire des litiges et dans lesquelles la procédure de règlement extrajudiciaire des litiges se déroule;
+
+i) les types de règles sur lesquelles l’entité de règlement extrajudiciaire des litiges peut se fonder pour régler les litiges tels que, sans y être limités, des dispositions juridiques, considérations d’équité ou codes de conduite;
+
+j) toutes les exigences préalables que les parties peuvent avoir à remplir avant qu’une procédure de règlement extrajudiciaire des litiges puisse être ouverte, y compris l’obligation pour le demandeur de tenter de résoudre le litige directement avec l’autre partie;
+
+k) la possibilité pour les parties de se retirer de la procédure;
+
+l) les frais éventuels à la charge des parties, y compris les règles concernant l’adjudication des frais à l’issue de la procédure;
+
+m) la durée moyenne de la procédure de règlement extrajudiciaire des litiges;
+
+n) les conséquences juridiques éventuelles de la solution résultant de la procédure de règlement extrajudiciaire des litiges, y compris les sanctions en cas de non-respect dans le cas où une décision a un effet contraignant sur les parties, le cas échéant.
 
 (2) Les entités de règlement extrajudiciaire des litiges de consommation doivent mettre à la disposition du public, sur leur site Internet en fournissant un lien vers le site Internet de la Commission européenne, et dans la mesure du possible sur un support durable dans leurs locaux, la liste des entités établie par la Commission européenne, visée à l’article L. 431-1, paragraphe 3.
 
@@ -4605,15 +5289,19 @@ Les entités de règlement extrajudiciaire des litiges de consommation, afin de 
 
 Les entités de règlement extrajudiciaire des litiges de consommation doivent mettre à la disposition du public, sur leur site Internet, ou sur un support durable sur demande, et par tout autre moyen qu’elles jugent approprié, leurs rapports d’activité annuels. Ces rapports comprennent les informations suivantes, relatives aux litiges nationaux et transfrontaliers:
 
-1. le nombre de litiges dont elles ont été saisies et les types de demandes auxquelles ils se rapportent;
-2. les problèmes systématiques ou importants qui se posent fréquemment et qui sont à l’origine de litiges entre les consommateurs et les professionnels; ces informations peuvent être accompagnées de recommandations sur la façon dont de tels problèmes peuvent être évités ou résolus à l’avenir, afin d’améliorer les normes des professionnels et de faciliter les échanges d’informations et de bonnes pratiques;
-3. la proportion de litiges que l’entité de règlement extrajudiciaire des litiges a refusé de traiter et la part en pourcentage des différents types de motifs de refus visés à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2, paragraphe 1
+a) le nombre de litiges dont elles ont été saisies et les types de demandes auxquelles ils se rapportent;
 
-   <sup>er</sup> ;
-4. la part en pourcentage de procédures de règlement extrajudiciaire des litiges qui ont été interrompues et les raisons de cette interruption, si ces raisons sont connues;
-5. le laps de temps moyen nécessaire à la résolution des litiges;
-6. s’il est connu, le taux de respect des solutions issues des procédures de règlement extrajudiciaire des litiges;
-7. des informations sur la coopération des entités de règlement extrajudiciaire au sein de réseaux d’entités de règlement extrajudiciaire des litiges qui facilitent le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel, le cas échéant.
+b) les problèmes systématiques ou importants qui se posent fréquemment et qui sont à l’origine de litiges entre les consommateurs et les professionnels; ces informations peuvent être accompagnées de recommandations sur la façon dont de tels problèmes peuvent être évités ou résolus à l’avenir, afin d’améliorer les normes des professionnels et de faciliter les échanges d’informations et de bonnes pratiques;
+
+c) la proportion de litiges que l’entité de règlement extrajudiciaire des litiges a refusé de traiter et la part en pourcentage des différents types de motifs de refus visés à l’article L. 422-6, paragraphe 2, respectivement à l’article L. 432-2, paragraphe 1 <sup>er</sup> ;
+
+d) la part en pourcentage de procédures de règlement extrajudiciaire des litiges qui ont été interrompues et les raisons de cette interruption, si ces raisons sont connues;
+
+e) le laps de temps moyen nécessaire à la résolution des litiges;
+
+f) s’il est connu, le taux de respect des solutions issues des procédures de règlement extrajudiciaire des litiges;
+
+g) des informations sur la coopération des entités de règlement extrajudiciaire au sein de réseaux d’entités de règlement extrajudiciaire des litiges qui facilitent le règlement des litiges entre un consommateur résidant, au moment de sa commande de biens ou de services, dans un Etat membre de l’Union européenne autre que celui du lieu d’établissement du professionnel, le cas échéant.
 
 **Sous-section 2 — Personnes physiques chargées du règlement extrajudiciaire des litiges**
 
@@ -4623,21 +5311,27 @@ Compétences, indépendance et impartialité
 
 Les personnes physiques chargées du règlement extrajudiciaire des litiges de consommation doivent avoir les compétences nécessaires et être indépendantes et impartiales. A cet effet elles doivent satisfaire aux conditions suivantes:
 
-1. Elles doivent posséder les connaissances et les aptitudes nécessaires dans le domaine du règlement extrajudiciaire ou judiciaire des litiges de consommation, ainsi qu’une compréhension générale du droit.
+1\) Elles doivent posséder les connaissances et les aptitudes nécessaires dans le domaine du règlement extrajudiciaire ou judiciaire des litiges de consommation, ainsi qu’une compréhension générale du droit.
 
-   A cet effet, elles doivent disposer d’une formation spécifique en résolution extrajudiciaire des litiges de consommation dont le programme est fixé par règlement grand-ducal. Sont dispensés de la formation les prestataires de services de résolution extrajudiciaire de litiges de consommation qui remplissent des exigences équivalentes ou essentiellement comparables dans un autre Etat membre de l’Union européenne. Sont également dispensées de la formation les personnes faisant preuve d’une expérience professionnelle équivalente. Sera considérée comme expérience professionnelle équivalente une expérience de deux ans minimum dans le domaine du règlement extrajudiciaire ou judiciaire de litiges entre consommateurs et professionnels.
-2. Elles doivent être nommées pour une durée suffisante pour assurer l’indépendance de leurs actions et elles ne doivent pas être susceptibles d’être relevées de leurs fonctions sans juste motif.
-3. Elles ne doivent pas recevoir d’instructions de l’une des parties ou des représentants de celles-ci.
-4. Elles doivent être rémunérées d’une façon qui n’a pas de rapport avec le résultat de la procédure.
-5. Elles doivent communiquer sans tarder à l’entité de règlement extrajudiciaire des litiges toute circonstance susceptible d’affecter ou d’être considérée comme affectant leur indépendance et leur impartialité ou de donner lieu à un conflit d’intérêts avec l’une ou l’autre partie au litige qu’elles sont chargées de résoudre. L’obligation de communiquer ces circonstances est une obligation permanente tout au long de la procédure de règlement extrajudiciaire des litiges. Elle n’est pas applicable lorsque l’entité de règlement extrajudiciaire des litiges n’est composée que d’une personne physique.
+A cet effet, elles doivent disposer d’une formation spécifique en résolution extrajudiciaire des litiges de consommation dont le programme est fixé par règlement grand-ducal. Sont dispensés de la formation les prestataires de services de résolution extrajudiciaire de litiges de consommation qui remplissent des exigences équivalentes ou essentiellement comparables dans un autre Etat membre de l’Union européenne. Sont également dispensées de la formation les personnes faisant preuve d’une expérience professionnelle équivalente. Sera considérée comme expérience professionnelle équivalente une expérience de deux ans minimum dans le domaine du règlement extrajudiciaire ou judiciaire de litiges entre consommateurs et professionnels.
+
+2\) Elles doivent être nommées pour une durée suffisante pour assurer l’indépendance de leurs actions et elles ne doivent pas être susceptibles d’être relevées de leurs fonctions sans juste motif.
+
+3\) Elles ne doivent pas recevoir d’instructions de l’une des parties ou des représentants de celles-ci.
+
+4\) Elles doivent être rémunérées d’une façon qui n’a pas de rapport avec le résultat de la procédure.
+
+5\) Elles doivent communiquer sans tarder à l’entité de règlement extrajudiciaire des litiges toute circonstance susceptible d’affecter ou d’être considérée comme affectant leur indépendance et leur impartialité ou de donner lieu à un conflit d’intérêts avec l’une ou l’autre partie au litige qu’elles sont chargées de résoudre. L’obligation de communiquer ces circonstances est une obligation permanente tout au long de la procédure de règlement extrajudiciaire des litiges. Elle n’est pas applicable lorsque l’entité de règlement extrajudiciaire des litiges n’est composée que d’une personne physique.
 
 **Art. L. 432-6.**
 
 (1) Les entités de règlement extrajudiciaire des litiges de consommation doivent se doter de procédures pour faire en sorte que, si les circonstances visées à l’article L. 432-5, point 5) se présentent:
 
-1. la personne physique concernée soit remplacée par une autre personne physique qui sera chargée de mener la procédure de règlement extrajudiciaire des litiges; ou, à défaut,
-2. la personne physique concernée s’abstienne de mener la procédure de règlement extrajudiciaire des litiges et, dans la mesure du possible, l’entité de règlement extrajudiciaire des litiges propose aux parties de soumettre le litige à une autre entité de règlement extrajudiciaire des litiges compétente pour traiter le litige; ou, à défaut,
-3. les circonstances soient communiquées aux parties et la personne physique concernée soit autorisée à continuer de mener la procédure de règlement extrajudiciaire des litiges uniquement si les parties n’y ont pas fait objection après avoir été informées des circonstances et de leur droit d’opposition.
+a) la personne physique concernée soit remplacée par une autre personne physique qui sera chargée de mener la procédure de règlement extrajudiciaire des litiges; ou, à défaut,
+
+b) la personne physique concernée s’abstienne de mener la procédure de règlement extrajudiciaire des litiges et, dans la mesure du possible, l’entité de règlement extrajudiciaire des litiges propose aux parties de soumettre le litige à une autre entité de règlement extrajudiciaire des litiges compétente pour traiter le litige; ou, à défaut,
+
+c) les circonstances soient communiquées aux parties et la personne physique concernée soit autorisée à continuer de mener la procédure de règlement extrajudiciaire des litiges uniquement si les parties n’y ont pas fait objection après avoir été informées des circonstances et de leur droit d’opposition.
 
 (2) Lorsque l’entité de règlement extrajudiciaire n’est composée que d’une personne physique, seuls les points b) et c) du paragraphe 1 <sup>er</sup> du présent article sont applicables.
 
@@ -4671,10 +5365,13 @@ Dans les procédures de règlement extrajudiciaire des litiges, le consommateur 
 
 (1) Dans les procédures de règlement extrajudiciaire des litiges qui visent à régler un litige en proposant une solution, le consommateur et le professionnel, avant d’accepter ou de suivre la solution proposée, doivent être informés par l’entité de règlement extrajudiciaire des litiges:
 
-1. qu’ils ont la possibilité d’accepter, de refuser ou de suivre la solution proposée;
-2. que la participation à la procédure n’exclut pas la possibilité de former un recours par le biais des procédures judiciaires;
-3. que la solution proposée pourrait être différente de la décision d’un tribunal appliquant les dispositions légales;
-4. des conséquences juridiques éventuelles liées au fait d’accepter ou de suivre cette solution.
+i. qu’ils ont la possibilité d’accepter, de refuser ou de suivre la solution proposée;
+
+ii. que la participation à la procédure n’exclut pas la possibilité de former un recours par le biais des procédures judiciaires;
+
+iii. que la solution proposée pourrait être différente de la décision d’un tribunal appliquant les dispositions légales;
+
+iv. des conséquences juridiques éventuelles liées au fait d’accepter ou de suivre cette solution.
 
 (2) Le consommateur et le professionnel disposent d’un délai de réflexion raisonnable avant d’indiquer qu’ils acceptent la solution proposée ou un accord à l’amiable.
 
@@ -4690,12 +5387,9 @@ Les délais de prescription de droit commun sont suspendus à partir de la date 
 
 La suspension court jusqu’au jour où l’entité de règlement extrajudiciaire des litiges communique aux parties:
 
-- que le traitement de la demande est refusé, en application des articles L. 432-2, paragraphe 1
+aash que le traitement de la demande est refusé, en application des articles L. 432-2, paragraphe 1 <sup>er</sup> , respectivement L. 422-6, paragraphe 2 et L. 432-16, paragraphe 2; ou
 
-  <sup>er</sup> , respectivement L. 422-6, paragraphe 2 et L. 432-16, paragraphe 2; ou
-- quelle est l’issue de la procédure, en application de l’article L. 432-17, paragraphe 1
-
-  <sup>er</sup> .
+bash quelle est l’issue de la procédure, en application de l’article L. 432-17, paragraphe 1 <sup>er</sup> .
 
 La suspension prend encore fin à la date à laquelle l’une des parties informe l’autre partie de sa volonté de mettre fin à la résolution extrajudiciaire du litige.
 
@@ -4733,21 +5427,29 @@ L’information se fait par écrit ou sur un support durable.
 
 Pour l’application du présent livre, il faut entendre par :
 
-1. « Intérêts collectifs des consommateurs » : l’intérêt général des consommateurs et, en particulier aux fins des mesures de réparation, les intérêts d’un groupe de consommateurs ;
-2. « Entité qualifiée » : toute entité représentant les intérêts des consommateurs qui a été désignée par un État membre comme étant qualifiée pour intenter un recours collectif visée par l’article L. 511-4 ;
-3. « Recours collectif » : un recours visant à protéger les intérêts collectifs des consommateurs qui est intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, en tant que partie demanderesse pour le compte de consommateurs en vue de demander une mesure de cessation ou d’interdiction, une mesure de réparation, ou les deux ;
-4. « Recours collectif national » : un recours collectif intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, dans l’État membre dans lequel ladite entité a été désignée ;
-5. « Recours collectif transfrontière » : un recours collectif intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, dans un État membre autre que celui dans lequel l’entité qualifiée a été désignée ;
-6. « Pratique » : tout acte ou omission d’un professionnel ;
-7. « Décision définitive » : une décision d’une juridiction ou d’une autorité administrative d’un État membre qui ne peut pas ou ne peut plus faire l’objet d’un contrôle juridictionnel par les voies de recours ordinaires ;
-8. « Mesure de réparation » : une mesure qui ordonne à un professionnel d’offrir aux consommateurs concernés des modes de dédommagement tels que l’indemnisation, la réparation, le remplacement, la réduction du prix, la résolution du contrat ou le remboursement du prix payé, selon le cas et selon ce que prévoit le droit de l’Union européenne ou le droit applicable au litige.
+1° « Intérêts collectifs des consommateurs » : l’intérêt général des consommateurs et, en particulier aux fins des mesures de réparation, les intérêts d’un groupe de consommateurs ;
+
+2° « Entité qualifiée » : toute entité représentant les intérêts des consommateurs qui a été désignée par un État membre comme étant qualifiée pour intenter un recours collectif visée par l’article L. 511-4 ;
+
+3° « Recours collectif » : un recours visant à protéger les intérêts collectifs des consommateurs qui est intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, en tant que partie demanderesse pour le compte de consommateurs en vue de demander une mesure de cessation ou d’interdiction, une mesure de réparation, ou les deux ;
+
+4° « Recours collectif national » : un recours collectif intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, dans l’État membre dans lequel ladite entité a été désignée ;
+
+5° « Recours collectif transfrontière » : un recours collectif intenté par une entité qualifiée, qui a qualité pour agir en vertu de l’article L. 511-4, dans un État membre autre que celui dans lequel l’entité qualifiée a été désignée ;
+
+6° « Pratique » : tout acte ou omission d’un professionnel ;
+
+7° « Décision définitive » : une décision d’une juridiction ou d’une autorité administrative d’un État membre qui ne peut pas ou ne peut plus faire l’objet d’un contrôle juridictionnel par les voies de recours ordinaires ;
+
+8° « Mesure de réparation » : une mesure qui ordonne à un professionnel d’offrir aux consommateurs concernés des modes de dédommagement tels que l’indemnisation, la réparation, le remplacement, la réduction du prix, la résolution du contrat ou le remboursement du prix payé, selon le cas et selon ce que prévoit le droit de l’Union européenne ou le droit applicable au litige.
 
 ###### Art. L. 511-2.
 
 Le recours collectif peut être exercé en justice lorsqu’il y a atteinte aux intérêts individuels de plusieurs consommateurs placés dans une situation similaire ou identique subissant un dommage causé par un même ou par plusieurs professionnels :
 
-1. ayant pour cause commune un manquement à ses obligations légales ; ou
-2. résultant d’un ou de plusieurs manquements constatés dans le cadre d’une action en cessation ou en interdiction.
+a) ayant pour cause commune un manquement à ses obligations légales ; ou
+
+b) résultant d’un ou de plusieurs manquements constatés dans le cadre d’une action en cessation ou en interdiction.
 
 Les obligations légales du professionnel visées à la lettre a) sont constituées par les dispositions du droit de l’Union européenne visées à l’annexe I de la [directive (UE) 2020/1828](https://legilux.public.lu/eli/dir_ue/2020/1828/jo) du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la [directive 2009/22/CE](https://legilux.public.lu/eli/dir_ue/2009/22/jo), ainsi que, le cas échéant, les dispositions de transposition corrélatives du droit national.
 
@@ -4761,9 +5463,11 @@ Le recours collectif peut être exercé en vue soit de la cessation ou de l’in
 
 Les entités qualifiées suivantes peuvent exercer le recours collectif en tant que demandeur :
 
-1. toute entité régulatrice sectorielle instituée visée à l’article L. 321-2, lettre d) ;
-2. toute association, qu’elle représente des membres d’un ou plusieurs États membres, agréée au sens de l’article L. 321-3 ;
-3. toute entité qualifiée désignée par un État membre de l’Union européenne ou de l’Espace économique européen inscrite sur la liste mentionnée à l’article L. 321-3, paragraphe 3, alinéa 2.
+1° toute entité régulatrice sectorielle instituée visée à l’article L. 321-2, lettre d) ;
+
+2° toute association, qu’elle représente des membres d’un ou plusieurs États membres, agréée au sens de l’article L. 321-3 ;
+
+3° toute entité qualifiée désignée par un État membre de l’Union européenne ou de l’Espace économique européen inscrite sur la liste mentionnée à l’article L. 321-3, paragraphe 3, alinéa 2.
 
 ###### Art. L. 511-5.
 
@@ -4779,9 +5483,11 @@ La demande est introduite, instruite et jugée selon la procédure applicable de
 
 (1) Outre les mentions prévues aux articles 153 et 154 et, suivant la procédure appliquée, à l’article 548 du [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile), l’assignation indique expressément, sous peine de nullité :
 
-1. des cas individuels présentés par le demandeur au soutien de son action ;
-2. la description des consommateurs concernés par le recours collectif ;
-3. les mesures demandées aux termes de son action.
+a) des cas individuels présentés par le demandeur au soutien de son action ;
+
+b) la description des consommateurs concernés par le recours collectif ;
+
+c) les mesures demandées aux termes de son action.
 
 Sous peine de nullité de l’assignation, le document séparé renseignant les sources de financement de l’action visé à l’article L. 513-1, paragraphe 1 <sup>er</sup> , est joint à l’assignation.
 
@@ -4795,8 +5501,9 @@ Sous peine de nullité de l’assignation, le document séparé renseignant les 
 
 (3) Pour l’application du présent article et de l’article L. 521-1, paragraphe 1 <sup>er</sup> , lettre d), le tribunal vérifie que lorsque le financement du recours collectif provient de tiers, il soit interdit :
 
-1. au bailleur de fonds d’indûment influencer les décisions du demandeur dans le cadre d’un recours collectif, y compris les décisions relatives à un accord de médiation en matière de recours collectif homologué au sens de l’article L. 522-5, d’une manière qui porterait préjudice aux intérêts collectifs des consommateurs concernés par le recours collectif ;
-2. au demandeur d’intenter le recours collectif contre un défendeur qui est un concurrent du bailleur de fonds ou contre un défendeur dont le bailleur de fonds dépend.
+a) au bailleur de fonds d’indûment influencer les décisions du demandeur dans le cadre d’un recours collectif, y compris les décisions relatives à un accord de médiation en matière de recours collectif homologué au sens de l’article L. 522-5, d’une manière qui porterait préjudice aux intérêts collectifs des consommateurs concernés par le recours collectif ;
+
+b) au demandeur d’intenter le recours collectif contre un défendeur qui est un concurrent du bailleur de fonds ou contre un défendeur dont le bailleur de fonds dépend.
 
 (4) Lorsque le financement du recours collectif provient de tiers, dans les cas où des doutes justifiés surgissent à l’égard d’un conflit d’intérêts, et ce à tout moment de la procédure, le demandeur a l’obligation de fournir au tribunal, à la demande de ce dernier, un aperçu financier énumérant les sources des fonds utilisés pour soutenir le recours collectif.
 
@@ -4818,10 +5525,13 @@ En cas de manquement à l’obligation de communication d’informations sur les
 
 Le recours collectif est recevable lorsqu’il est satisfait à chacune des conditions suivantes :
 
-1. la cause invoquée, au sens de l’article L. 511-2, constitue un manquement potentiel ou avéré par une décision définitive, telle que définie à l’article L. 511-1, point 7°, du professionnel à ses obligations légales ;
-2. l’action est introduite par un demandeur qui a qualité pour agir conformément à l’article L. 511-4 ;
-3. une pluralité de consommateurs est concernée ;
-4. le demandeur n’est pas exposé à un conflit d’intérêts.
+a) la cause invoquée, au sens de l’article L. 511-2, constitue un manquement potentiel ou avéré par une décision définitive, telle que définie à l’article L. 511-1, point 7°, du professionnel à ses obligations légales ;
+
+b) l’action est introduite par un demandeur qui a qualité pour agir conformément à l’article L. 511-4 ;
+
+c) une pluralité de consommateurs est concernée ;
+
+d) le demandeur n’est pas exposé à un conflit d’intérêts.
 
 ###### Art. L. 521-2.
 
@@ -4863,11 +5573,11 @@ Le greffe de la juridiction ayant rendu la décision sur la recevabilité ou l�
 
 (4) Par dérogation à l’article 1251-3 du [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile), la médiation en matière de recours collectif peut uniquement être confiée :
 
-1. à un ou plusieurs médiateurs agréés au sens de l’article L. 1251-3 du
+1° à un ou plusieurs médiateurs agréés au sens de l’article L. 1251-3 du [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile) ;
 
-   [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile) ;
-2. à un prestataire de services de médiation dispensé de l’agrément, qui remplit des exigences équivalentes ou essentiellement comparables dans un autre État membre de l’Union européenne ;
-3. au Médiateur de la consommation.
+2° à un prestataire de services de médiation dispensé de l’agrément, qui remplit des exigences équivalentes ou essentiellement comparables dans un autre État membre de l’Union européenne ;
+
+3° au Médiateur de la consommation.
 
 ###### Section 2 — La médiation extrajudiciaire
 
@@ -4903,19 +5613,31 @@ Par dérogation à l’article 1251-9, paragraphe 4, du [Nouveau Code de procéd
 
 (2) L’accord de médiation contient au moins les éléments suivants :
 
-1. les noms et les adresses des parties ;
-2. les antécédents à l’accord de médiation ;
-3. la référence à l’accord en vue de la médiation et ses avenants ;
-4. les engagements précis pris par chacune des parties ;
-5. la date et le lieu de la signature ;
-6. la signature des parties ;
-7. le cas échéant, la description du groupe des consommateurs concernés par l’accord de médiation ;
-8. le délai d’exercice du droit d’option accordé aux consommateurs, postérieurement à la publication de l’accord homologué, pour manifester leur volonté d’adhérer au groupe en vertu de la procédure visée à l’article L. 522-6 et de bénéficier de la réparation telle que déterminée par l’accord homologué ;
-9. les modalités et conditions d’adhésion convenues entre les parties ainsi que le délai dans lequel le consommateur peut renoncer à l’adhésion au groupe ;
-10. la forme et le contenu de la demande d’adhésion et les documents ou éléments de preuve nécessaires au soutien de la demande ;
-11. le contenu, les mesures de publicité de l’accord homologué et d’information des consommateurs et les délais adaptés aux circonstances de l’espèce ;
-12. le délai d’indemnisation des consommateurs appartenant au groupe par le professionnel et, s’il y a lieu, les sanctions pécuniaires pour le cas de l’inexécution des engagements et les mécanismes d’interprétation et de vérification des engagements au cours de la mise en œuvre pratique de l’accord de médiation ;
-13. les sources de financement de la médiation, si le financement provient de tiers afin d’éviter des conflits d’intérêts.
+a) les noms et les adresses des parties ;
+
+b) les antécédents à l’accord de médiation ;
+
+c) la référence à l’accord en vue de la médiation et ses avenants ;
+
+d) les engagements précis pris par chacune des parties ;
+
+e) la date et le lieu de la signature ;
+
+f) la signature des parties ;
+
+g) le cas échéant, la description du groupe des consommateurs concernés par l’accord de médiation ;
+
+h) le délai d’exercice du droit d’option accordé aux consommateurs, postérieurement à la publication de l’accord homologué, pour manifester leur volonté d’adhérer au groupe en vertu de la procédure visée à l’article L. 522-6 et de bénéficier de la réparation telle que déterminée par l’accord homologué ;
+
+i) les modalités et conditions d’adhésion convenues entre les parties ainsi que le délai dans lequel le consommateur peut renoncer à l’adhésion au groupe ;
+
+j) la forme et le contenu de la demande d’adhésion et les documents ou éléments de preuve nécessaires au soutien de la demande ;
+
+k) le contenu, les mesures de publicité de l’accord homologué et d’information des consommateurs et les délais adaptés aux circonstances de l’espèce ;
+
+l) le délai d’indemnisation des consommateurs appartenant au groupe par le professionnel et, s’il y a lieu, les sanctions pécuniaires pour le cas de l’inexécution des engagements et les mécanismes d’interprétation et de vérification des engagements au cours de la mise en œuvre pratique de l’accord de médiation ;
+
+m) les sources de financement de la médiation, si le financement provient de tiers afin d’éviter des conflits d’intérêts.
 
 (3) Si les parties ne parviennent pas à un accord dans les délais et conditions fixés par le tribunal, le tribunal poursuit l’examen du recours collectif pendant.
 
@@ -4929,12 +5651,17 @@ Par dérogation à l’article 1251-24 du [Nouveau Code de procédure civile](ht
 
 (2) Le tribunal refuse l’homologation de cet accord de médiation :
 
-1. si celui-ci est contraire à l’ordre public ;
-2. si celui-ci est contraire à l’intérêt des consommateurs ;
-3. si l’accord comporte des conditions qui ne peuvent pas être exécutées, compte tenu des droits et des intérêts de toutes les parties, et en particulier des consommateurs concernés ;
-4. si la preuve n’est pas rapportée que l’interdiction imposée au bailleur de fonds à l’article L. 513-1, paragraphe 3, est respectée ;
-5. si l’accord n’est pas total ; ou
-6. si l’accord ne contient pas le contenu minimal obligatoire fixé à l’article L. 522-4, paragraphe 2.
+a) si celui-ci est contraire à l’ordre public ;
+
+b) si celui-ci est contraire à l’intérêt des consommateurs ;
+
+c) si l’accord comporte des conditions qui ne peuvent pas être exécutées, compte tenu des droits et des intérêts de toutes les parties, et en particulier des consommateurs concernés ;
+
+d) si la preuve n’est pas rapportée que l’interdiction imposée au bailleur de fonds à l’article L. 513-1, paragraphe 3, est respectée ;
+
+e) si l’accord n’est pas total ; ou
+
+f) si l’accord ne contient pas le contenu minimal obligatoire fixé à l’article L. 522-4, paragraphe 2.
 
 (3) L’homologation n’emporte pas reconnaissance de responsabilité du professionnel.
 
@@ -4976,8 +5703,9 @@ L’article L. 524-4, paragraphe 3, est applicable.
 
 Pour que le demandeur introduise une demande de mesure de cessation ou d’interdiction, les consommateurs individuels ne sont pas tenus d’exprimer leur volonté d’être représentés par ledit demandeur. Le demandeur n’est pas tenu de prouver :
 
-1. une perte ou un préjudice réels subis par les consommateurs individuels lésés par l’infraction visée à l’article L. 511-2 ; ou
-2. l’intention ou la négligence du professionnel.
+a) une perte ou un préjudice réels subis par les consommateurs individuels lésés par l’infraction visée à l’article L. 511-2 ; ou
+
+b) l’intention ou la négligence du professionnel.
 
 (2) Le jugement sur la cessation ou l’interdiction du manquement est toujours susceptible d’appel.
 
@@ -4991,8 +5719,9 @@ L’appel contre le jugement sur la cessation ou l’interdiction est introduit 
 
 Au soutien de la seule demande de mesure de cessation ou d’interdiction, les consommateurs individuels ne sont pas tenus d’exprimer leur volonté d’être représentés par ledit demandeur. Le demandeur n’est pas tenu de prouver :
 
-1. une perte ou un préjudice réels subis par les consommateurs individuels lésés par l’infraction visée à l’article L. 511-2 ; ou
-2. l’intention ou la négligence du professionnel.
+a) une perte ou un préjudice réels subis par les consommateurs individuels lésés par l’infraction visée à l’article L. 511-2 ; ou
+
+b) l’intention ou la négligence du professionnel.
 
 (2) Le jugement séparé sur la cessation ou l’interdiction du manquement est toujours susceptible d’appel.
 
@@ -5018,8 +5747,9 @@ L’appel contre le jugement séparé sur la cessation ou l’interdiction est i
 
 (6) Le tribunal détermine le système d’option applicable, qui peut être par inclusion au groupe ou par exclusion du groupe. Seul le système d’option d’inclusion est applicable lorsque le recours collectif concerne :
 
-1. la réparation d’un préjudice corporel ou moral ; ou
-2. des consommateurs qui résident hors du Grand-Duché de Luxembourg.
+a) la réparation d’un préjudice corporel ou moral ; ou
+
+b) des consommateurs qui résident hors du Grand-Duché de Luxembourg.
 
 (7) La décision définitive d’une juridiction ou d’une autorité administrative de tout État membre de l’Union européenne concernant l’existence d’une infraction portant atteinte aux intérêts collectifs des consommateurs peut être utilisée par toutes les parties comme élément de preuve dans le cadre de toute autre action exercée au Grand-Duché de Luxembourg visant à obtenir des mesures de réparation intentée contre le même professionnel pour la même pratique.
 
@@ -5027,27 +5757,23 @@ L’appel contre le jugement séparé sur la cessation ou l’interdiction est i
 
 Le tribunal désigne un liquidateur qui accomplit toutes les démarches et missions nécessaires au bon déroulement de la mise en œuvre du jugement sur la responsabilité ou, le cas échéant, de l’accord de médiation homologué, telles que définies :
 
-1. aux articles L. 524-12, paragraphes 1
+1° aux articles L. 524-12, paragraphes 1 <sup>er</sup> , alinéa 2, et 2, et L. 522-6, relatifs à la réception et au traitement des demandes d’adhésion ;
 
-   <sup>er</sup> , alinéa 2, et 2, et L. 522-6, relatifs à la réception et au traitement des demandes d’adhésion ;
-2. à l’article L. 524-13, paragraphe 1
+2° à l’article L. 524-13, paragraphe 1 <sup>er</sup> , alinéa 2, relatif à la réception et au traitement des informations d’exclusion sauf en matière de médiation ;
 
-   <sup>er</sup> , alinéa 2, relatif à la réception et au traitement des informations d’exclusion sauf en matière de médiation ;
-3. à l’article L. 524-12, paragraphe 1
+3° à l’article L. 524-12, paragraphe 1 <sup>er</sup> , alinéa 2, relatif à la réception et à la transmission des documents nécessaires au soutien de la demande d’adhésion ;
 
-   <sup>er</sup> , alinéa 2, relatif à la réception et à la transmission des documents nécessaires au soutien de la demande d’adhésion ;
-4. à l’article L. 524-4, paragraphe 3, relatif à l’établissement et à la transmission d’une liste provisoire d’adhésion et à l’article L. 524-5, paragraphe 1
+4° à l’article L. 524-4, paragraphe 3, relatif à l’établissement et à la transmission d’une liste provisoire d’adhésion et à l’article L. 524-5, paragraphe 1 <sup>er</sup> , alinéa 2, relatif à la communication au professionnel en cas d’exclusion du groupe ;
 
-   <sup>er</sup> , alinéa 2, relatif à la communication au professionnel en cas d’exclusion du groupe ;
-5. à l’article L. 524-14, paragraphe 5, relatif à l’information individuelle des consommateurs concernés ;
-6. aux articles L. 524-15 et L. 524-19, relatifs au contrôle et au suivi de l’indemnisation des consommateurs ;
-7. aux articles L. 524-16, paragraphes 1
+5° à l’article L. 524-14, paragraphe 5, relatif à l’information individuelle des consommateurs concernés ;
 
-   <sup>er</sup> et 2, et L. 522-7, relatifs aux difficultés liées à l’indemnisation ou au paiement des consommateurs ;
-8. à l’article L. 524-16, paragraphe 1
+6° aux articles L. 524-15 et L. 524-19, relatifs au contrôle et au suivi de l’indemnisation des consommateurs ;
 
-   <sup>er</sup> , relatif à l’élaboration et à la transmission de rapports intermédiaires au tribunal ;
-9. à l’article L. 524-17 relatif à l’élaboration et à la transmission du rapport final au tribunal, aux parties et aux consommateurs individuels concernés.
+7° aux articles L. 524-16, paragraphes 1 <sup>er</sup> et 2, et L. 522-7, relatifs aux difficultés liées à l’indemnisation ou au paiement des consommateurs ;
+
+8° à l’article L. 524-16, paragraphe 1 <sup>er</sup> , relatif à l’élaboration et à la transmission de rapports intermédiaires au tribunal ;
+
+9° à l’article L. 524-17 relatif à l’élaboration et à la transmission du rapport final au tribunal, aux parties et aux consommateurs individuels concernés.
 
 **Art. L. 524-3.**
 
@@ -5067,15 +5793,19 @@ Le présent paragraphe s’applique sans préjudice du paragraphe 5.
 
 (7) Les mesures de publicité et d’information ordonnées par le tribunal comportent, outre les mentions additionnelles éventuellement prescrites par le jugement sur la responsabilité :
 
-1. la reproduction du dispositif du jugement sur la responsabilité ;
-2. les critères de rattachement déterminés par le jugement sur la responsabilité en application de l’article L. 524-1, paragraphe 1
+a) la reproduction du dispositif du jugement sur la responsabilité ;
 
-   <sup>er</sup> ;
-3. les préjudices couverts par le recours suivant les éléments déterminés par le jugement sur la responsabilité en application de l’article L. 524-1, paragraphe 2 ;
-4. l’indication qu’en cas d’adhésion ou d’absence d’expression de volonté de ne pas faire partie du groupe devenue définitive, conformément à l’article L. 524-14, paragraphe 6, le consommateur concerné ne peut plus agir individuellement ni être représenté dans le cadre d’un autre recours collectif à l’encontre du professionnel déclaré responsable en réparation des chefs de préjudices déjà indemnisés dans le cadre du recours collectif, ni dans un accord de médiation homologué, mais qu’il peut toujours agir en indemnisation de ses autres chefs de préjudices ;
-5. la forme, le contenu et le délai dans lesquels la demande d’adhésion est adressée au liquidateur, les coordonnées du liquidateur auprès duquel chaque consommateur concerné peut adresser sa demande d’adhésion au groupe ou sa volonté d’exclusion du groupe selon le système d’option applicable et les coordonnées de chaque demandeur au recours collectif ;
-6. l’indication que le consommateur concerné doit transmettre au liquidateur les documents nécessaires au soutien de sa demande avant l’expiration du délai pour l’adhésion au groupe ;
-7. l’indication qu’à défaut d’adhésion, ou qu’en cas d’exclusion du groupe, selon les modalités et délais requis, le consommateur n’est plus recevable à obtenir une indemnisation dans le cadre du recours collectif.
+b) les critères de rattachement déterminés par le jugement sur la responsabilité en application de l’article L. 524-1, paragraphe 1 <sup>er</sup> ;
+
+c) les préjudices couverts par le recours suivant les éléments déterminés par le jugement sur la responsabilité en application de l’article L. 524-1, paragraphe 2 ;
+
+d) l’indication qu’en cas d’adhésion ou d’absence d’expression de volonté de ne pas faire partie du groupe devenue définitive, conformément à l’article L. 524-14, paragraphe 6, le consommateur concerné ne peut plus agir individuellement ni être représenté dans le cadre d’un autre recours collectif à l’encontre du professionnel déclaré responsable en réparation des chefs de préjudices déjà indemnisés dans le cadre du recours collectif, ni dans un accord de médiation homologué, mais qu’il peut toujours agir en indemnisation de ses autres chefs de préjudices ;
+
+e) la forme, le contenu et le délai dans lesquels la demande d’adhésion est adressée au liquidateur, les coordonnées du liquidateur auprès duquel chaque consommateur concerné peut adresser sa demande d’adhésion au groupe ou sa volonté d’exclusion du groupe selon le système d’option applicable et les coordonnées de chaque demandeur au recours collectif ;
+
+f) l’indication que le consommateur concerné doit transmettre au liquidateur les documents nécessaires au soutien de sa demande avant l’expiration du délai pour l’adhésion au groupe ;
+
+g) l’indication qu’à défaut d’adhésion, ou qu’en cas d’exclusion du groupe, selon les modalités et délais requis, le consommateur n’est plus recevable à obtenir une indemnisation dans le cadre du recours collectif.
 
 **Art. L. 524-4.**
 
@@ -5121,14 +5851,21 @@ L’arrêt à intervenir est notifié selon les mêmes modalités.
 
 Le jugement sur la responsabilité prévu aux articles L. 524-1 à L. 524-7 comporte les mentions suivantes :
 
-1. la mention de la responsabilité du professionnel, la définition du groupe des consommateurs, les critères de rattachement au groupe, la détermination et l’évaluation des préjudices, les modalités et mesures de réparation et le système d’option applicable prévus à l’article L. 524-1 ;
-2. le nom et les coordonnées du liquidateur suivant l’article L. 524-2 ;
-3. les mesures de publicité du jugement et d’information des consommateurs ainsi que leur délai de mise en œuvre prévu à l’article L. 524-3 ;
-4. le délai, les modalités et conditions d’exercice du droit d’option ainsi que les conséquences attachées à la notification d’une décision d’adhésion au consommateur prévues aux articles L. 524-4, L. 524-12 et L. 524-13 ;
-5. les documents nécessaires au soutien de la demande d’adhésion au groupe à soumettre au liquidateur conformément à l’article L. 524-12, paragraphe 5 ;
-6. le délai d’indemnisation prévu à l’article L. 524-5 ;
-7. la date de chaque audience sur les contestations prévue à l’article L. 524-6 ;
-8. le délai d’appel prévu à l’article L. 524-7.
+1° la mention de la responsabilité du professionnel, la définition du groupe des consommateurs, les critères de rattachement au groupe, la détermination et l’évaluation des préjudices, les modalités et mesures de réparation et le système d’option applicable prévus à l’article L. 524-1 ;
+
+2° le nom et les coordonnées du liquidateur suivant l’article L. 524-2 ;
+
+3° les mesures de publicité du jugement et d’information des consommateurs ainsi que leur délai de mise en œuvre prévu à l’article L. 524-3 ;
+
+4° le délai, les modalités et conditions d’exercice du droit d’option ainsi que les conséquences attachées à la notification d’une décision d’adhésion au consommateur prévues aux articles L. 524-4, L. 524-12 et L. 524-13 ;
+
+5° les documents nécessaires au soutien de la demande d’adhésion au groupe à soumettre au liquidateur conformément à l’article L. 524-12, paragraphe 5 ;
+
+6° le délai d’indemnisation prévu à l’article L. 524-5 ;
+
+7° la date de chaque audience sur les contestations prévue à l’article L. 524-6 ;
+
+8° le délai d’appel prévu à l’article L. 524-7.
 
 **Art. L. 524-9.**
 
@@ -5198,9 +5935,11 @@ Une procédure d’appel individuelle suspend le délai d’indemnisation du con
 
 (6) À compter de la décision définitive portant adhésion au groupe :
 
-1. toute procédure individuelle déjà introduite par ce consommateur ayant la même cause et le même objet contre le même professionnel est rejetée ;
-2. toute nouvelle procédure individuelle introduite par ce consommateur et ayant la même cause et le même objet contre le même professionnel est irrecevable ;
-3. ce consommateur ne peut participer ni à un autre recours collectif ni à un accord de médiation homologué ayant le même objet et la même cause contre le même professionnel.
+1° toute procédure individuelle déjà introduite par ce consommateur ayant la même cause et le même objet contre le même professionnel est rejetée ;
+
+2° toute nouvelle procédure individuelle introduite par ce consommateur et ayant la même cause et le même objet contre le même professionnel est irrecevable ;
+
+3° ce consommateur ne peut participer ni à un autre recours collectif ni à un accord de médiation homologué ayant le même objet et la même cause contre le même professionnel.
 
 **Sous-section 3 — Procédure de réparation des préjudices**
 
@@ -5212,9 +5951,11 @@ Une procédure d’appel individuelle suspend le délai d’indemnisation du con
 
 (3) Le professionnel informe sans délai le liquidateur par tout moyen permettant d’en accuser la réception :
 
-1. de l’état d’avancement de l’indemnisation des consommateurs ;
-2. du règlement de l’indemnisation ou du paiement des consommateurs ;
-3. de toute difficulté d’indemnisation ou de paiement des consommateurs.
+a) de l’état d’avancement de l’indemnisation des consommateurs ;
+
+b) du règlement de l’indemnisation ou du paiement des consommateurs ;
+
+c) de toute difficulté d’indemnisation ou de paiement des consommateurs.
 
 **Art. L. 524-16.**
 
@@ -5222,11 +5963,15 @@ Une procédure d’appel individuelle suspend le délai d’indemnisation du con
 
 Chaque rapport intermédiaire contient toute information :
 
-1. relative à l’état d’avancement de l’indemnisation des consommateurs par le professionnel ;
-2. relative au règlement de l’indemnisation ou au paiement des consommateurs ;
-3. relative aux difficultés d’indemnisation ou de paiement des consommateurs communiquées par le professionnel ;
-4. relative au défaut d’indemnisation des consommateurs ;
-5. nécessaire pour permettre au tribunal de se prononcer sur les difficultés d’indemnisation ou de paiement des consommateurs et sur les défauts d’indemnisation des consommateurs tel que prévu au paragraphe 2.
+a) relative à l’état d’avancement de l’indemnisation des consommateurs par le professionnel ;
+
+b) relative au règlement de l’indemnisation ou au paiement des consommateurs ;
+
+c) relative aux difficultés d’indemnisation ou de paiement des consommateurs communiquées par le professionnel ;
+
+d) relative au défaut d’indemnisation des consommateurs ;
+
+e) nécessaire pour permettre au tribunal de se prononcer sur les difficultés d’indemnisation ou de paiement des consommateurs et sur les défauts d’indemnisation des consommateurs tel que prévu au paragraphe 2.
 
 (2) Les difficultés d’indemnisation ou de paiement des consommateurs et les défauts d’indemnisation des consommateurs sont, en application du paragraphe 1 <sup>er</sup> , soumises au tribunal avant l’expiration du délai fixé pour l’indemnisation des consommateurs.
 
@@ -5294,10 +6039,13 @@ Le greffe communique dans un délai de sept jours la décision sous forme élect
 
 (1) Le tribunal prononce d’office la substitution du demandeur ou du liquidateur lorsqu’il en constate la nécessité. Tel est le cas :
 
-1. lorsque le demandeur ne répond plus aux conditions de qualité pour agir déterminées à l’article L. 511-4 ;
-2. si le tribunal constate un conflit d’intérêts dans le chef du demandeur déterminé à l’article L. 513-1 ou dans le chef du liquidateur ;
-3. en cas d’empêchement du liquidateur ou du demandeur ne lui permettant pas de réaliser ses missions avec honorabilité et diligence ;
-4. en cas de décès du liquidateur.
+a) lorsque le demandeur ne répond plus aux conditions de qualité pour agir déterminées à l’article L. 511-4 ;
+
+b) si le tribunal constate un conflit d’intérêts dans le chef du demandeur déterminé à l’article L. 513-1 ou dans le chef du liquidateur ;
+
+c) en cas d’empêchement du liquidateur ou du demandeur ne lui permettant pas de réaliser ses missions avec honorabilité et diligence ;
+
+d) en cas de décès du liquidateur.
 
 (2) Lorsqu’il prononce la substitution du demandeur ou du liquidateur, sur demande ou d’office, le tribunal désigne un autre demandeur ou un autre liquidateur.
 
@@ -5329,8 +6077,9 @@ Le greffe du tribunal communique dans un délai de sept jours le jugement sous f
 
 (2) La désignation d’un demandeur supplémentaire peut être demandée :
 
-1. lorsqu’un demandeur décide de s’engager dans un processus de médiation en matière de recours collectif tel que prévu aux articles L. 522-1 et suivants et qu’un ou plusieurs consommateurs souhaitent poursuivre la procédure judiciaire ;
-2. lorsque le demandeur décide de poursuivre la procédure judiciaire telle que prévue aux articles L. 523-1 et suivants et que certains consommateurs concernés souhaitent s’engager dans un processus de médiation en matière de recours collectif.
+a) lorsqu’un demandeur décide de s’engager dans un processus de médiation en matière de recours collectif tel que prévu aux articles L. 522-1 et suivants et qu’un ou plusieurs consommateurs souhaitent poursuivre la procédure judiciaire ;
+
+b) lorsque le demandeur décide de poursuivre la procédure judiciaire telle que prévue aux articles L. 523-1 et suivants et que certains consommateurs concernés souhaitent s’engager dans un processus de médiation en matière de recours collectif.
 
 Outre l’obligation prévue à l’article L. 530-1, paragraphe 2, alinéa 2, de fournir des informations sur les sources de financement, le requérant indique, sous peine de nullité de sa demande, une description des consommateurs concernés par le recours collectif ou, le cas échéant, la médiation en matière de recours collectif.
 
@@ -5368,7 +6117,7 @@ Toute clause ou toute combinaison de clauses d’un contrat, ayant pour objet ou
 
 ## II — CODE - PARTIE RÉGLEMENTAIRE
 
-### **Règlement grand-ducal du 19 mai 2011 portant introduction d’une partie réglementaire au Code de la consommation** [^note_6_0_0]
+### **Règlement grand-ducal du 19 mai 2011 portant introduction d’une partie réglementaire au Code de la consommation**[^note_6_0_0]
 
 ([Mém. A - 105 du 24 mai 2011](http://www.legilux.lu/eli/etat/leg/rgd/2011/05/19/n2/jo), p. 1666; [dir. 2008/48](https://legilux.public.lu/eli/dir_ue/2008/48/jo) et [2008/122](https://legilux.public.lu/eli/dir_ue/2008/122/jo))
 
@@ -5400,15 +6149,23 @@ Les dispositions annexées au présent règlement grand-ducal constituent la par
 
 Sont abrogés les règlements grand-ducaux suivants:
 
-- [règlement grand-ducal du 26 août 1993](https://legilux.public.lu/eli/etat/leg/rgd/1993/08/26/n5/jo) déterminant la méthode de calcul du taux annuel effectif global tel que modifié par le [règlement grand-ducal du 11 août 2001](https://legilux.public.lu/eli/etat/leg/rgd/2001/08/11/n13/jo) ;
-- [règlement grand-ducal du 3 avril 1996](https://legilux.public.lu/eli/etat/leg/rgd/1996/04/03/n1/jo) complétant les conditions essentielles à faire figurer dans le contrat de crédit à la consommation;
-- [règlement grand-ducal modifié du 4 novembre 1997](https://legilux.public.lu/eli/etat/leg/rgd/1997/11/04/n2/jo) déterminant les éléments de l’information préalable et les dispositions du contrat relatifs aux voyages, vacances ou séjours à forfait, en exécution des articles 9, 11 et 12 de la [loi du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la directive du 13 juin 1990 concernant les voyages, vacances et circuits à forfait;
-- [règlement grand-ducal du 4 novembre 1997](https://legilux.public.lu/eli/etat/leg/rgd/1997/11/04/n1/jo) déterminant le montant, les modalités et l’utilisation de la garantie financière prévue à l’article 6 de la [loi du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la directive du 13 juin 1990 concernant les voyages, vacances et circuits à forfait;
-- [règlement grand-ducal du 15 novembre 2000](https://legilux.public.lu/eli/etat/leg/rgd/2000/11/15/n1/jo) déterminant les modalités de calcul du montant de la réduction équitable du coût total du crédit, pris en application de l’article 6 de la [loi du 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n2/jo) réglementant le crédit à la consommation;
-- [règlement grand-ducal du 7 septembre 2001](https://legilux.public.lu/eli/etat/leg/rgd/2001/09/07/n2/jo) relatif à l’indication des prix des produits et des services;
-- [règlement grand-ducal du 29 juillet 2004](https://legilux.public.lu/eli/etat/leg/rgd/2004/07/29/n2/jo) relatif à l’indication des prix des produits et des services;
-- [règlement grand-ducal du 6 mai 2005](https://legilux.public.lu/eli/etat/leg/rgd/2005/05/06/n2/jo) concernant l’organisation et le fonctionnement du Conseil de la consommation;
-- [règlement grand-ducal du 16 mars 2012](https://legilux.public.lu/eli/etat/leg/rgd/2012/03/16/n12/jo) relatif à l’inscription des intermédiaires de crédit.
+aash [règlement grand-ducal du 26 août 1993](https://legilux.public.lu/eli/etat/leg/rgd/1993/08/26/n5/jo) déterminant la méthode de calcul du taux annuel effectif global tel que modifié par le [règlement grand-ducal du 11 août 2001](https://legilux.public.lu/eli/etat/leg/rgd/2001/08/11/n13/jo) ;
+
+bash [règlement grand-ducal du 3 avril 1996](https://legilux.public.lu/eli/etat/leg/rgd/1996/04/03/n1/jo) complétant les conditions essentielles à faire figurer dans le contrat de crédit à la consommation;
+
+cash [règlement grand-ducal modifié du 4 novembre 1997](https://legilux.public.lu/eli/etat/leg/rgd/1997/11/04/n2/jo) déterminant les éléments de l’information préalable et les dispositions du contrat relatifs aux voyages, vacances ou séjours à forfait, en exécution des articles 9, 11 et 12 de la [loi du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la directive du 13 juin 1990 concernant les voyages, vacances et circuits à forfait;
+
+dash [règlement grand-ducal du 4 novembre 1997](https://legilux.public.lu/eli/etat/leg/rgd/1997/11/04/n1/jo) déterminant le montant, les modalités et l’utilisation de la garantie financière prévue à l’article 6 de la [loi du 14 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/14/n1/jo) portant réglementation des conditions d’exercice des activités relatives à l’organisation et à la vente de voyages ou de séjours et portant transposition de la directive du 13 juin 1990 concernant les voyages, vacances et circuits à forfait;
+
+eash [règlement grand-ducal du 15 novembre 2000](https://legilux.public.lu/eli/etat/leg/rgd/2000/11/15/n1/jo) déterminant les modalités de calcul du montant de la réduction équitable du coût total du crédit, pris en application de l’article 6 de la [loi du 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n2/jo) réglementant le crédit à la consommation;
+
+fash [règlement grand-ducal du 7 septembre 2001](https://legilux.public.lu/eli/etat/leg/rgd/2001/09/07/n2/jo) relatif à l’indication des prix des produits et des services;
+
+gash [règlement grand-ducal du 29 juillet 2004](https://legilux.public.lu/eli/etat/leg/rgd/2004/07/29/n2/jo) relatif à l’indication des prix des produits et des services;
+
+hash [règlement grand-ducal du 6 mai 2005](https://legilux.public.lu/eli/etat/leg/rgd/2005/05/06/n2/jo) concernant l’organisation et le fonctionnement du Conseil de la consommation;
+
+iash [règlement grand-ducal du 16 mars 2012](https://legilux.public.lu/eli/etat/leg/rgd/2012/03/16/n12/jo) relatif à l’inscription des intermédiaires de crédit.
 
 #### Art. 3.
 
@@ -5416,7 +6173,7 @@ Notre Ministre de l’Economie et du Commerce extérieur, Notre Ministre des Fin
 
 \*([Règl. g.-d. du 2 avril 2014](http://www.legilux.lu/eli/etat/leg/rgd/2014/04/02/n5/jo))*
 
-#### *Section I* — *Indication des prix* [^note_7_0_0]
+#### *Section I* — *Indication des prix*[^note_7_0_0]
 
 ##### Art. R. 112-1.
 
@@ -5462,7 +6219,7 @@ Le directeur général de la police grand-ducale établit au début de chaque mo
 
 Le directeur général de la police grand-ducale établit au 31 décembre de chaque année un inventaire des opérations de l’année écoulée. Un exemplaire de cet inventaire est adressé à l’Administration de l’enregistrement et des domaines avec les formules annulées. Un autre exemplaire est transmis au procureur d’Etat.
 
-#### *Section II* [^note_7_1_0] — *Pratiques commerciales déloyales*
+#### *Section II*[^note_7_1_0] — *Pratiques commerciales déloyales*
 
 ##### Art. R. 121-1.
 
@@ -5470,34 +6227,25 @@ En complément aux informations prévues à l’article L. 122-3, paragraphe 5 d
 
 \*([Règl. g.-d. du 2 avril 2014](http://www.legilux.lu/eli/etat/leg/rgd/2014/04/02/n5/jo))*
 
-1. les articles L. 112-7, L. 113-1, L. 222-3, L. 222-4, L. 222-6, L. 222-14, L. 222-15, L. 222-16, L. 223-4, L. 224-6, L. 224-7, L. 224-8, L. 225-9 et L. 225-10 du Code de la consommation;
-2. les dispositions du chapitre 3 du
+1\) les articles L. 112-7, L. 113-1, L. 222-3, L. 222-4, L. 222-6, L. 222-14, L. 222-15, L. 222-16, L. 223-4, L. 224-6, L. 224-7, L. 224-8, L. 225-9 et L. 225-10 du Code de la consommation;
 
-   [règlement grand-ducal modifié du 15 décembre 1992](https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/jo) relatif à la mise sur le marché des médicaments portant transposition des articles 86 à 100 de la [directive modifiée 2001/83/CE](https://legilux.public.lu/eli/dir_ue/2001/83/jo) du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain;
-3. l’article 5 de la
+2\) les dispositions du chapitre 3 du [règlement grand-ducal modifié du 15 décembre 1992](https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/jo) relatif à la mise sur le marché des médicaments portant transposition des articles 86 à 100 de la [directive modifiée 2001/83/CE](https://legilux.public.lu/eli/dir_ue/2001/83/jo) du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain;
 
-   [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique;
-4. l’article 110 de la
+3\) l’article 5 de la [loi modifiée du 14 août 2000](https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/jo) relative au commerce électronique;
 
-   [loi modifiée du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n3/jo) concernant les organismes de placement collectif;
-5. les articles 108 et 108-1 de la
+4\) l’article 110 de la [loi modifiée du 20 décembre 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n3/jo) concernant les organismes de placement collectif;
 
-   [loi modifiée du 6 décembre 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/12/06/n2/jo) sur le secteur des assurances;
-6. les articles 9 paragraphe 3, 10, 17, 62-2 et 62-6 de la
+5\) les articles 108 et 108-1 de la [loi modifiée du 6 décembre 1991](https://legilux.public.lu/eli/etat/leg/loi/1991/12/06/n2/jo) sur le secteur des assurances;
 
-   [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance;
-7. l’article 37-3 de la
+6\) les articles 9 paragraphe 3, 10, 17, 62-2 et 62-6 de la [loi modifiée du 27 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/jo) sur le contrat d’assurance;
 
-   [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier;
-8. les articles 31 à 39 et 45 à 50 du
+7\) l’article 37-3 de la [loi modifiée du 5 avril 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo) relative au secteur financier;
 
-   [règlement grand-ducal du 13 juillet 2007](https://legilux.public.lu/eli/etat/leg/rgd/2007/07/13/n2/jo) relatif aux exigences organisationnelles et aux règles de conduite dans le secteur financier et portant transposition de la [directive 2006/73/CE](https://legilux.public.lu/eli/dir_ue/2006/73/jo) de la Commission du 10 août 2006 portant mesures d’exécution de la [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo) du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d’exercice applicables aux entreprises d’investissement et la définition de certains termes aux fins de ladite directive;
-9. les articles 8 et 10 de la
+8\) les articles 31 à 39 et 45 à 50 du [règlement grand-ducal du 13 juillet 2007](https://legilux.public.lu/eli/etat/leg/rgd/2007/07/13/n2/jo) relatif aux exigences organisationnelles et aux règles de conduite dans le secteur financier et portant transposition de la [directive 2006/73/CE](https://legilux.public.lu/eli/dir_ue/2006/73/jo) de la Commission du 10 août 2006 portant mesures d’exécution de la [directive 2004/39/CE](https://legilux.public.lu/eli/dir_ue/2004/39/jo) du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d’exercice applicables aux entreprises d’investissement et la définition de certains termes aux fins de ladite directive;
 
-   [loi du 10 juillet 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/07/10/n1/jo) relative aux prospectus pour valeurs immobilières;
-10. les chapitres II et III du
+9\) les articles 8 et 10 de la [loi du 10 juillet 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/07/10/n1/jo) relative aux prospectus pour valeurs immobilières;
 
-   [règlement (CE) n <sup>o</sup> 809/2004](https://legilux.public.lu/eli/reg_ue/2004/89/jo) de la Commission du 29 avril 2004 mettant en œuvre la [directive 2003/71/CE](https://legilux.public.lu/eli/dir_ue/2003/71/jo) du Parlement européen et du Conseil en ce qui concerne certaines informations contenues dans les prospectus, la structure des prospectus, l’inclusion d’informations par référence, la publication des prospectus et la diffusion des communications à caractère promotionnel, tel que modifié.
+10\) les chapitres II et III du [règlement (CE) n <sup>o</sup> 809/2004](https://legilux.public.lu/eli/reg_ue/2004/89/jo) de la Commission du 29 avril 2004 mettant en œuvre la [directive 2003/71/CE](https://legilux.public.lu/eli/dir_ue/2003/71/jo) du Parlement européen et du Conseil en ce qui concerne certaines informations contenues dans les prospectus, la structure des prospectus, l’inclusion d’informations par référence, la publication des prospectus et la diffusion des communications à caractère promotionnel, tel que modifié.
 
 \*([Règl. g.-d. du 2 avril 2014](http://www.legilux.lu/eli/etat/leg/rgd/2014/04/02/n5/jo))*
 
@@ -5507,17 +6255,17 @@ En complément aux informations prévues à l’article L. 122-3, paragraphe 5 d
 
 Les informations standardisées sur la rétractation dans les contrats à distance et hors établissement mentionnées à l’article L. 222-3, paragraphe 4 et à l’article L. 222-6, paragraphe 4 du Code de la consommation correspondent aux informations suivantes:
 
-| A. Informations standardisées sur la rétractation<br>Droit de rétractation<br>Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze jours.<br>Le délai de rétractation expire quatorze jours après le jour 1 .<br>Pour exercer le droit de rétractation, vous devez nous notifier 2 votre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste [^note_8_1_0] ou courrier électronique).<br>Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n’est pas obligatoire. 3<br>Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l’exercice du droit de rétractation avant l’expiration du délai de rétractation.<br>Effets de la rétractation<br>En cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (à l’exception des frais supplémentaires découlant du fait que vous avez choisi, le cas échéant, un mode de livraison autre que le mode moins coûteux de livraison standard proposé par nous) sans retard excessif et, en tout état de cause, au plus tard quatorze jours à compter du jour où nous sommes informés de votre décision de rétractation du présent contrat. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé pour la transaction initiale, sauf si vous convenez expressément d’un moyen différent; en tout état de cause, ce remboursement n’occasionnera pas de frais pour vous. 4<br>5<br>6<br>Instructions à suivre pour remplir les informations<br>1. Insérez l’un des passages suivants entre guillemets:<br>s’il s’agit d’un contrat de service ou d’un contrat portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou d’un contenu numérique non fourni sur un support matériel: «de la conclusion du contrat.»; s’il s’agit d’un contrat de vente: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du bien.»; s’il s’agit d’un contrat portant sur plusieurs biens commandés par le consommateur au moyen d’une seule commande et si ces biens sont livrés séparément: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier bien.»; s’il s’agit d’un contrat portant sur la livraison d’un bien en plusieurs lots ou pièces: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier lot ou de la dernière pièce.»; s’il s’agit d’un contrat portant sur la livraison régulière de biens pendant une période de temps déterminée: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du premier bien.».<br>2. Insérez votre nom, votre adresse géographique, votre numéro de téléphone [^note_8_2_0] et votre adresse électronique.<br>3. Si vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa rétractation du contrat sur votre site internet, insérez le texte suivant: «Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté sur notre site internet [insérer l’adresse du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation sur un support durable (par exemple, par courriel).»<br>4. S’il s’agit d’un contrat de vente dans le cadre duquel vous n’avez pas proposé de récupérer le bien en cas de rétractation, insérez le texte suivant: «Nous pouvons différer le remboursement jusqu’à ce que nous ayons reçu le bien ou jusqu’à ce que vous ayez fourni une preuve d’expédition du bien, la date retenue étant celle du premier de ces faits.»<br>5. Si le consommateur a reçu des biens dans le cadre du contrat:<br>insérez: «Nous récupérerons le bien»; ou «Vous devrez renvoyer ou rendre le bien, à nous-mêmes ou à … [insérer le nom et l’adresse géographique, le cas échéant, de la personne habilitée par vous à réceptionner le bien] sans retard excessif et, en tout état de cause, au plus tard quatorze jours après que vous nous aurez communiqué votre décision de rétractation du présent contrat. Ce délai est réputé respecté si vous renvoyez le bien avant l’expiration du délai de quatorze jours.» insérez: «Nous prendrons en charge les frais de renvoi du bien.»; «Vous devrez prendre en charge les frais directs de renvoi du bien.»; Si, dans le cas d’un contrat à distance, vous ne proposez pas de prendre en charge les frais de renvoi du bien et que le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste: «Vous devrez prendre en charge les frais directs de renvoi du bien, … EUR [insérer le montant].»; ou, si le coût de renvoi du bien ne peut raisonnablement être calculé à l’avance: «Vous devrez prendre en charge les frais directs de renvoi du bien. Ces frais sont estimés à un maximum d’environ … EUR [insérer le montant].»; ou Si, dans le cas d’un contrat hors établissement, le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste et a été livré au domicile du consommateur au moment de la conclusion du contrat: «Nous récupérerons le bien à nos propres frais.» et insérez: «Votre responsabilité n’est engagée qu’à l’égard de la dépréciation du bien résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien.»<br>6. Dans le cas d’un contrat de prestation de services ou de fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant: «Si vous avez demandé de commencer la prestation de services ou la fourniture d’eau/de gaz/ d’électricité/de chauffage urbain [supprimer les mentions inutiles] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu’au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l’ensemble des prestations prévues par le contrat.» |
+| A. Informations standardisées sur la rétractation<br>Droit de rétractation<br>Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze jours.<br>Le délai de rétractation expire quatorze jours après le jour 1 .<br>Pour exercer le droit de rétractation, vous devez nous notifier 2 votre décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté (par exemple, lettre envoyée par la poste[^note_8_1_0] ou courrier électronique).<br>Vous pouvez utiliser le modèle de formulaire de rétractation mais ce n’est pas obligatoire. 3<br>Pour que le délai de rétractation soit respecté, il suffit que vous transmettiez votre communication relative à l’exercice du droit de rétractation avant l’expiration du délai de rétractation.<br>Effets de la rétractation<br>En cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (à l’exception des frais supplémentaires découlant du fait que vous avez choisi, le cas échéant, un mode de livraison autre que le mode moins coûteux de livraison standard proposé par nous) sans retard excessif et, en tout état de cause, au plus tard quatorze jours à compter du jour où nous sommes informés de votre décision de rétractation du présent contrat. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé pour la transaction initiale, sauf si vous convenez expressément d’un moyen différent; en tout état de cause, ce remboursement n’occasionnera pas de frais pour vous. 4<br>5<br>6<br>Instructions à suivre pour remplir les informations<br>1. Insérez l’un des passages suivants entre guillemets:<br>s’il s’agit d’un contrat de service ou d’un contrat portant sur la fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, de chauffage urbain ou d’un contenu numérique non fourni sur un support matériel: «de la conclusion du contrat.»; s’il s’agit d’un contrat de vente: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du bien.»; s’il s’agit d’un contrat portant sur plusieurs biens commandés par le consommateur au moyen d’une seule commande et si ces biens sont livrés séparément: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier bien.»; s’il s’agit d’un contrat portant sur la livraison d’un bien en plusieurs lots ou pièces: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du dernier lot ou de la dernière pièce.»; s’il s’agit d’un contrat portant sur la livraison régulière de biens pendant une période de temps déterminée: «où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du premier bien.».<br>2. Insérez votre nom, votre adresse géographique, votre numéro de téléphone[^note_8_2_0] et votre adresse électronique.<br>3. Si vous donnez au consommateur la faculté de remplir et de transmettre électroniquement les informations sur sa rétractation du contrat sur votre site internet, insérez le texte suivant: «Vous pouvez également remplir et transmettre le modèle de formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté sur notre site internet [insérer l’adresse du site internet]. Si vous utilisez cette option, nous vous enverrons sans délai un accusé de réception de la rétractation sur un support durable (par exemple, par courriel).»<br>4. S’il s’agit d’un contrat de vente dans le cadre duquel vous n’avez pas proposé de récupérer le bien en cas de rétractation, insérez le texte suivant: «Nous pouvons différer le remboursement jusqu’à ce que nous ayons reçu le bien ou jusqu’à ce que vous ayez fourni une preuve d’expédition du bien, la date retenue étant celle du premier de ces faits.»<br>5. Si le consommateur a reçu des biens dans le cadre du contrat:<br>insérez: «Nous récupérerons le bien»; ou «Vous devrez renvoyer ou rendre le bien, à nous-mêmes ou à … [insérer le nom et l’adresse géographique, le cas échéant, de la personne habilitée par vous à réceptionner le bien] sans retard excessif et, en tout état de cause, au plus tard quatorze jours après que vous nous aurez communiqué votre décision de rétractation du présent contrat. Ce délai est réputé respecté si vous renvoyez le bien avant l’expiration du délai de quatorze jours.» insérez: «Nous prendrons en charge les frais de renvoi du bien.»; «Vous devrez prendre en charge les frais directs de renvoi du bien.»; Si, dans le cas d’un contrat à distance, vous ne proposez pas de prendre en charge les frais de renvoi du bien et que le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste: «Vous devrez prendre en charge les frais directs de renvoi du bien, … EUR [insérer le montant].»; ou, si le coût de renvoi du bien ne peut raisonnablement être calculé à l’avance: «Vous devrez prendre en charge les frais directs de renvoi du bien. Ces frais sont estimés à un maximum d’environ … EUR [insérer le montant].»; ou Si, dans le cas d’un contrat hors établissement, le bien, en raison de sa nature, ne peut normalement être renvoyé par la poste et a été livré au domicile du consommateur au moment de la conclusion du contrat: «Nous récupérerons le bien à nos propres frais.» et insérez: «Votre responsabilité n’est engagée qu’à l’égard de la dépréciation du bien résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce bien.»<br>6. Dans le cas d’un contrat de prestation de services ou de fourniture d’eau, de gaz ou d’électricité lorsqu’ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée, ou de chauffage urbain, insérez le texte suivant: «Si vous avez demandé de commencer la prestation de services ou la fourniture d’eau/de gaz/ d’électricité/de chauffage urbain [supprimer les mentions inutiles] pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu’au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l’ensemble des prestations prévues par le contrat.» |
 |---|
 
 ##### Art. R. 222-2.
 
 Le formulaire de rétractation dans les contrats à distance et hors établissement mentionné à l’article L. 222-9, paragraphe 5, du Code de la consommation correspond au formulaire suivant:
 
-| B. Modèle de formulaire de rétractation<br>(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)<br>A l’attention de [le professionnel insère ici son nom, son adresse géographique [^note_8_3_0] et son adresse électronique]: Je/Nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de service (*) ci-dessous Commandé le (*)/reçu le (*) Nom du (des) consommateur(s) Adresse du (des) consommateur(s) Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) Date |
+| B. Modèle de formulaire de rétractation<br>(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)<br>A l’attention de [le professionnel insère ici son nom, son adresse géographique[^note_8_3_0] et son adresse électronique]: Je/Nous (*) vous notifie/notifions (*) par la présente ma/notre (*) rétractation du contrat portant sur la vente du bien (*)/pour la prestation de service (*) ci-dessous Commandé le (*)/reçu le (*) Nom du (des) consommateur(s) Adresse du (des) consommateur(s) Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) Date |
 |---|
 
-#### *Section IV. [^note_7_2_0]* — *Contrats d’utilisation de biens à temps partagé*
+#### *Section IV.[^note_7_2_0]* — *Contrats d’utilisation de biens à temps partagé*
 
 ##### Art. R. 223-1.
 
@@ -5646,7 +6394,7 @@ Accusé de réception des informations:
 
 Signature du consommateur:
 
-#### *Section V [^note_7_4_0] .* — *Contrats de crédit à la consommation*
+#### *Section V[^note_7_4_0] .* — *Contrats de crédit à la consommation*
 
 ##### *Sous-section I.* — *Informations européennes normalisées en matière de crédit aux consommateurs*
 
@@ -5656,7 +6404,7 @@ Le formulaire «informations européennes normalisées en matière de crédit au
 
 \**Informations européennes normalisées en matière de crédit aux consommateurs**
 
-\1. Identité et coordonnées du prêteur/de l’intermédiaire de crédit
+1\. Identité et coordonnées du prêteur/de l’intermédiaire de crédit
 
 | Prêteur | [Identité] |
 |---|---|
@@ -5679,7 +6427,7 @@ Lorsque la mention «Le cas échéant» est indiquée, le prêteur doit remplir 
 
 Les indications qui figurent entre crochets sont des explications destinées au prêteur et doivent être remplacées par les informations correspondantes.
 
-\2. Description des principales caractéristiques du produit de crédit
+2\. Description des principales caractéristiques du produit de crédit
 
 | Le type de crédit |  |
 |---|---|
@@ -5695,7 +6443,7 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 
 \*([Règl. g.-d. du 7 juin 2012](http://www.legilux.lu/eli/etat/leg/rgd/2012/06/07/n3/jo))*
 
-\3. Coût du crédit
+3\. Coût du crédit
 
 <table>
 <tr>
@@ -5703,15 +6451,15 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 <td>[%<br>Fixe ou Variable (avec l’indice ou le taux de référence applicable au taux débiteur initial) Périodes]</td>
 </tr>
 <tr>
-<td>Taux annuel effectif global (TAEG)<br>*Il s’agit du coût total exprimé en pourcentage annuel du montant total du crédit.*<br>Le TAEG vous permet de comparer différentes offres.</td>
+<td>Taux annuel effectif global (TAEG)<br><i>Il s’agit du coût total exprimé en pourcentage annuel du montant total du crédit.</i><br>Le TAEG vous permet de comparer différentes offres.</td>
 <td>[% Donner ici un exemple représentatif qui mentionne toutes les hypothèses utilisées pour calculer le taux]</td>
 </tr>
 <tr>
-<td>Est-il obligatoire pour l’obtention même du crédit ou conformément aux clauses et conditions commerciales de souscrire:<br>une police d’assurance garantissant le crédit, ou un autre contrat de service accessoire?<br>*Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG*</td>
+<td>Est-il obligatoire pour l’obtention même du crédit ou conformément aux clauses et conditions commerciales de souscrire:<br>une police d’assurance garantissant le crédit, ou un autre contrat de service accessoire?<br><i>Si les coûts de ces services ne sont pas connus du prêteur, ils ne sont pas inclus dans le TAEG</i></td>
 <td>Oui/non; [si oui, préciser le type d’assurance]<br>Oui/non; [si oui, préciser le type de service accessoire]</td>
 </tr>
 <tr>
-<td colspan="2">**Coûts liés**</td>
+<td colspan="2"><b>Coûts liés</b></td>
 </tr>
 <tr>
 <td>Le cas échéant<br>Tenue d’un ou de plusieurs comptes si ces comptes sont nécessaires pour enregistrer tant les opérations de paiement que les prélèvements.</td>
@@ -5734,12 +6482,12 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 <td></td>
 </tr>
 <tr>
-<td>Frais en cas de retard de paiement<br>*Les impayés risquent d’avoir de graves conséquences pour vous (p. ex. vente forcée) et de rendre plus difficile l’obtention d’un crédit.*</td>
+<td>Frais en cas de retard de paiement<br><i>Les impayés risquent d’avoir de graves conséquences pour vous (p. ex. vente forcée) et de rendre plus difficile l’obtention d’un crédit.</i></td>
 <td>Vous devrez payer [... (taux d’intérêt applicable et modalités d’adaptation, et, le cas échéant, frais d’inexécution)] en cas de retard de paiement.</td>
 </tr>
 </table>
 
-\4. Autres aspects juridiques importants
+4\. Autres aspects juridiques importants
 
 | Droit de rétractation<br>*Vous disposez d’un délai de 14 jours calendaires pour revenir sur votre engagement vis-à-vis du contrat de crédit.* | Oui/non |
 |---|---|
@@ -5751,7 +6499,7 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 
 Le cas échéant
 
-\5. Informations complémentaires en cas de vente à distance de services financiers
+5\. Informations complémentaires en cas de vente à distance de services financiers
 
 | a) relatives au prêteur |  |
 |---|---|
@@ -5782,7 +6530,7 @@ Le formulaire «informations européennes en matière de crédit aux consommateu
 
 \**3) au rééchelonnement de la dette**
 
-\1. Identité et coordonnées du prêteur/de l’intermédiaire de crédit
+1\. Identité et coordonnées du prêteur/de l’intermédiaire de crédit
 
 | Prêteur<br>Adresse<br>Numéro de téléphone(*)<br>Adresse électronique(*)<br>Numéro de télécopieur(*)<br>Adresse Internet(*) | [Identité]<br>[Adresse géographique à utiliser par le consommateur] |
 |---|---|
@@ -5794,7 +6542,7 @@ Lorsque la mention «Le cas échéant» est indiquée, le prêteur doit remplir 
 
 Les indications qui figurent entre crochets sont des explications destinées au prêteur et doivent être remplacées par les informations correspondantes.
 
-\2. Description des principales caractéristiques du produit de crédit
+2\. Description des principales caractéristiques du produit de crédit
 
 | Le type de crédit |  |
 |---|---|
@@ -5802,7 +6550,7 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 | La durée du contrat de crédit |  |
 | Le cas échéant<br>Il peut vous être demandé à tout moment de rembourser le montant total du crédit. |  |
 
-\3. Coût du crédit
+3\. Coût du crédit
 
 | Le taux débiteur ou, le cas échéant, les différents taux débiteurs qui s’appliquent au contrat de crédit | [%<br>Fixe ou Variable (avec l’indice ou le taux de référence applicable au taux débiteur initial)] |
 |---|---|
@@ -5812,7 +6560,7 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 
 (*) Ne s’applique pas aux informations européennes en matière de crédit à la consommation relative aux découverts dans les Etats membres qui décident en vertu de l’article L.224-8 (2) qu’il n’est pas nécessaire d’indiquer de TAEG pour les découverts, de la [loi du 8 avril 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/04/08/n2/jo) portant introduction d’un Code de la consommation.
 
-\4. Autres aspects juridiques importants
+4\. Autres aspects juridiques importants
 
 | Fin du contrat de crédit | [Les conditions et modalités selon lesquelles il peut être mis fin au contrat de crédit] |
 |---|---|
@@ -5821,13 +6569,17 @@ Les indications qui figurent entre crochets sont des explications destinées au 
 
 Le cas échéant
 
-\5. Informations complémentaires si les informations précontractuelles sont fournies par certaines organisations de crédit qui:
+5\. Informations complémentaires si les informations précontractuelles sont fournies par certaines organisations de crédit qui:
 
-1. sont créées dans l’intérêt commun de leurs membres;
-2. ne font pas de profit pour d’autres personnes que leurs membres;
-3. répondent à un objectif social imposé par la législation nationale;
-4. reçoivent et gèrent l’épargne de leurs seuls membres et fournissent des sources de crédit uniquement à leurs membres; et
-5. fournissent le crédit sur la base d’un taux annuel effectif global qui est inférieur à celui pratiqué sur le marché ou plafonné par le droit national,
+a) sont créées dans l’intérêt commun de leurs membres;
+
+b) ne font pas de profit pour d’autres personnes que leurs membres;
+
+c) répondent à un objectif social imposé par la législation nationale;
+
+d) reçoivent et gèrent l’épargne de leurs seuls membres et fournissent des sources de crédit uniquement à leurs membres; et
+
+e) fournissent le crédit sur la base d’un taux annuel effectif global qui est inférieur à celui pratiqué sur le marché ou plafonné par le droit national,
 
 et dont la composition est limitée aux personnes résidant ou employées dans une région particulière ou aux salariés, en activité ou à la retraite, d’un employeur donné, ou aux personnes répondant à d’autres conditions prévues par la législation nationale comme base de l’existence d’un lien commun entre les membres.
 
@@ -5838,7 +6590,7 @@ et dont la composition est limitée aux personnes résidant ou employées dans u
 
 Le cas échéant
 
-\6. Informations complémentaires en cas de vente à distance de services financiers
+6\. Informations complémentaires en cas de vente à distance de services financiers
 
 | a) relatives au prêteur |  |
 |---|---|
@@ -5861,53 +6613,82 @@ Le cas échéant
 
 (1) Le taux annuel effectif global visé à l’article L. 224-20, paragraphe 1 du Code de la consommation est calculé selon la formule mathématique et, le cas échéant, selon les hypothèses supplémentaires exposées ci après:
 
-1. Équation de base traduisant l’équivalence des prélèvements de crédit, d’une part, et des remboursements et frais, d’autre part.
+I. Équation de base traduisant l’équivalence des prélèvements de crédit, d’une part, et des remboursements et frais, d’autre part.
 
-   L’équation de base, qui définit le taux annuel effectif global (TAEG), exprime sur base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des montants des remboursements et paiements des frais, soit:
+L’équation de base, qui définit le taux annuel effectif global (TAEG), exprime sur base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des montants des remboursements et paiements des frais, soit:
 
-   ![image](../images/43/4336d2bd6be028d8.png)
+![image](../images/43/4336d2bd6be028d8.png)
 
-   où: - X est le TAEG et - m désigne le numéro d’ordre du dernier prélèvement de crédit - k désigne le numéro d’ordre d’un prélèvement de crédit, donc 1≤ k ≤ m, - C <sub>k</sub> est le montant du prélèvement de crédit numéro k, - t <sub>k</sub> désigne l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0, - m’ est le numéro d’ordre du dernier remboursement ou paiement des frais, - l est le numéro d’ordre d’un remboursement ou paiement des frais, - D <sub>l</sub> est le montant d’un remboursement ou paiement des frais, - s <sub>l</sub> est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais.
+où:
 
-   Remarques
+> | - | X | est le TAEG et |
+> |---|---|---|
+> | - | m | désigne le numéro d’ordre du dernier prélèvement de crédit |
+> | - | k | désigne le numéro d’ordre d’un prélèvement de crédit, donc 1≤ k ≤ m, |
+> | - | C <sub>k</sub> | est le montant du prélèvement de crédit numéro k, |
+> | - | t <sub>k</sub> | désigne l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0, |
+> | - | m’ | est le numéro d’ordre du dernier remboursement ou paiement des frais, |
+> | - | l | est le numéro d’ordre d’un remboursement ou paiement des frais, |
+> | - | D <sub>l</sub> | est le montant d’un remboursement ou paiement des frais, |
+> | - | s <sub>l</sub> | est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. |
 
-   1. Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
-   2. La date initiale est celle du premier prélèvement de crédit.
-   3. L’écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d’années. Une année est présumée compter 365 jours (pour les années bissextiles, 366 jours), 52 semaines ou 12 mois normalisés. Un mois normalisé est présumé compter 30,41666 jours (c’est-à-dire 365/12), que l’année soit bissextile ou non.
-   4. Le résultat du calcul est exprimé avec une exactitude d’au moins une décimale. Si le chiffre de la décimale suivante est supérieur ou égal à 5, le chiffre de la première décimale sera augmenté de 1.
-   5. On peut réécrire l’équation en n’utilisant qu’une seule sommation et en utilisant la notion de flux (Ak) qui seront positifs ou négatifs, c’est-à-dire respectivement payés ou perçus aux périodes l à k, et exprimés en années, soit:
+Remarques
 
-      ![image](../images/ee/eebfdd71e343c9d5.png)
+a) Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
 
-   S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
+b) La date initiale est celle du premier prélèvement de crédit.
+
+c) L’écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d’années. Une année est présumée compter 365 jours (pour les années bissextiles, 366 jours), 52 semaines ou 12 mois normalisés. Un mois normalisé est présumé compter 30,41666 jours (c’est-à-dire 365/12), que l’année soit bissextile ou non.
+
+d) Le résultat du calcul est exprimé avec une exactitude d’au moins une décimale. Si le chiffre de la décimale suivante est supérieur ou égal à 5, le chiffre de la première décimale sera augmenté de 1.
+
+e) On peut réécrire l’équation en n’utilisant qu’une seule sommation et en utilisant la notion de flux (Ak) qui seront positifs ou négatifs, c’est-à-dire respectivement payés ou perçus aux périodes l à k, et exprimés en années, soit:
+
+![image](../images/ee/eebfdd71e343c9d5.png)
+
+S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
 
 \*([Règl. g.-d. du 7 juin 2012](http://www.legilux.lu/eli/etat/leg/rgd/2012/06/07/n3/jo))*
 
-1. Les hypothèses supplémentaires nécessaires au calcul du taux annuel effectif global sont les suivantes:
+II. Les hypothèses supplémentaires nécessaires au calcul du taux annuel effectif global sont les suivantes:
 
-   1. Si un contrat de crédit laisse au consommateur le libre choix quant au prélèvement de crédit, le montant total du crédit est réputé entièrement et immédiatement prélevé.
-   2. Si un contrat de crédit laisse en général au consommateur le libre choix quant au prélèvement de crédit, mais prévoit parmi les divers modes de prélèvement une limite quant au montant et à la durée, le montant du crédit est réputé prélevé à la date la plus proche prévue dans le contrat et conformément à ces limites de prélèvement.
-   3. Si un contrat de crédit offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, le montant total du crédit est réputé prélevé au taux débiteur le plus élevé et avec les frais les plus élevés dans la catégorie d’opérations la plus fréquemment utilisée dans ce type de contrat de crédit.
-   4. En cas de facilité de découvert, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit. Si la durée de la facilité de découvert n’est pas connue, on calcule le taux annuel effectif global en partant de l’hypothèse que la durée du crédit est de trois mois.
-   5. En cas de contrat de crédit à durée indéterminée, autre qu’une facilité de découvert:
+a) Si un contrat de crédit laisse au consommateur le libre choix quant au prélèvement de crédit, le montant total du crédit est réputé entièrement et immédiatement prélevé.
 
-      1. le crédit est réputé être octroyé pour une durée d’un an à partir de la date du prélèvement initial, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels;
-      2. le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date du prélèvement initial. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l’intérieur de chaque période de paiement, les prélèvements et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d’un an. Les intérêts et autres frais sont appliqués conformément à ces prélèvements et remboursements du capital, d’une part, et aux dispositions du contrat de crédit, d’autre part.
+b) Si un contrat de crédit laisse en général au consommateur le libre choix quant au prélèvement de crédit, mais prévoit parmi les divers modes de prélèvement une limite quant au montant et à la durée, le montant du crédit est réputé prélevé à la date la plus proche prévue dans le contrat et conformément à ces limites de prélèvement.
 
-      Aux fins du présent point, on entend, par contrat de crédit à durée indéterminée, un contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour un nouveau prélèvement.
-   6. En cas de contrats de crédit autres que les découverts et les crédits à durée indéterminée visés dans les hypothèses des points d) et e):
+c) Si un contrat de crédit offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, le montant total du crédit est réputé prélevé au taux débiteur le plus élevé et avec les frais les plus élevés dans la catégorie d’opérations la plus fréquemment utilisée dans ce type de contrat de crédit.
 
-      1. si la date ou le montant d’un remboursement de capital devant être effectué par le consommateur ne peuvent être établis, le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le plus bas prévu dans le contrat;
-      2. si la date de conclusion du contrat de crédit n’est pas connue, la date du prélèvement initial est réputée être la date qui correspond à l’intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit effectuer.
-   7. Si la date ou le montant d’un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du contrat de crédit ou des hypothèses exposées aux points d), e) ou f), le paiement est réputé être effectué aux dates et conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues:
+d) En cas de facilité de découvert, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit. Si la durée de la facilité de découvert n’est pas connue, on calcule le taux annuel effectif global en partant de l’hypothèse que la durée du crédit est de trois mois.
 
-      1. les frais d’intérêts sont payés en même temps que les remboursements du capital;
-      2. les frais autres que d’intérêts, exprimés sous la forme d’une somme unique, sont payés à la date de conclusion du contrat de crédit;
-      3. les frais autres que d’intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à partir de la date du premier remboursement du capital, et si le montant de ces paiements n’est pas connu, les montants sont réputés égaux;
-      4. le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels.
-   8. Si le plafond du crédit n’a pas encore été arrêté, le plafond est supposé être de 1.500 EUR.
-   9. Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit.
-   10. Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d’un indicateur convenu, le calcul du taux annuel effectif global part de l’hypothèse que, à compter de la fin de la période à taux débiteur fixe, le taux débiteur est le même qu’au moment du calcul du taux annuel effectif global, en fonction de la valeur de l’indicateur convenu à ce moment-là.
+e) En cas de contrat de crédit à durée indéterminée, autre qu’une facilité de découvert:
+
+i) le crédit est réputé être octroyé pour une durée d’un an à partir de la date du prélèvement initial, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels;
+
+ii) le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date du prélèvement initial. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l’intérieur de chaque période de paiement, les prélèvements et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d’un an. Les intérêts et autres frais sont appliqués conformément à ces prélèvements et remboursements du capital, d’une part, et aux dispositions du contrat de crédit, d’autre part.
+
+Aux fins du présent point, on entend, par contrat de crédit à durée indéterminée, un contrat de crédit sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour un nouveau prélèvement.
+
+f) En cas de contrats de crédit autres que les découverts et les crédits à durée indéterminée visés dans les hypothèses des points d) et e):
+
+i) si la date ou le montant d’un remboursement de capital devant être effectué par le consommateur ne peuvent être établis, le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit et pour le montant le plus bas prévu dans le contrat;
+
+ii) si la date de conclusion du contrat de crédit n’est pas connue, la date du prélèvement initial est réputée être la date qui correspond à l’intervalle le plus court entre cette date et la date du premier paiement que le consommateur doit effectuer.
+
+g) Si la date ou le montant d’un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du contrat de crédit ou des hypothèses exposées aux points d), e) ou f), le paiement est réputé être effectué aux dates et conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues:
+
+i) les frais d’intérêts sont payés en même temps que les remboursements du capital;
+
+ii) les frais autres que d’intérêts, exprimés sous la forme d’une somme unique, sont payés à la date de conclusion du contrat de crédit;
+
+iii) les frais autres que d’intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à partir de la date du premier remboursement du capital, et si le montant de ces paiements n’est pas connu, les montants sont réputés égaux;
+
+iv) le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels.
+
+h) Si le plafond du crédit n’a pas encore été arrêté, le plafond est supposé être de 1.500 EUR.
+
+i) Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux débiteur et les frais sont réputés être le taux le plus élevé pendant la durée totale du contrat de crédit.
+
+j) Pour les contrats de crédit aux consommateurs pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d’un indicateur convenu, le calcul du taux annuel effectif global part de l’hypothèse que, à compter de la fin de la période à taux débiteur fixe, le taux débiteur est le même qu’au moment du calcul du taux annuel effectif global, en fonction de la valeur de l’indicateur convenu à ce moment-là.
 
 \*([Règl. g.-d. du 2 avril 2014](http://www.legilux.lu/eli/etat/leg/rgd/2014/04/02/n5/jo))*
 
@@ -5952,18 +6733,29 @@ En cliquant sur l’hyperlien, le voyageur recevra les informations suivantes :
 
 Droits essentiels au titre de la [directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) :
 
-- Les voyageurs recevront toutes les informations essentielles sur le forfait avant de conclure le contrat de voyage à forfait.
-- Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
-- Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
-- Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
-- Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, les prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs ont le droit d’obtenir le remboursement et un dédommagement, s’il y a lieu.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
-- En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
-- Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
-- Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
-- L’organisateur doit apporter une aide si le voyageur est en difficulté.
-- Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’entité chargée de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cette entité ou, le cas échéant, avec l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
+aash Les voyageurs recevront toutes les informations essentielles sur le forfait avant de conclure le contrat de voyage à forfait.
+
+bash Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
+
+cash Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
+
+dash Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
+
+eash Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, les prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
+
+fash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs ont le droit d’obtenir le remboursement et un dédommagement, s’il y a lieu.
+
+gash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
+
+hash En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
+
+iash Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
+
+jash Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
+
+kash L’organisateur doit apporter une aide si le voyageur est en difficulté.
+
+lash Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’entité chargée de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cette entité ou, le cas échéant, avec l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
 
 [Directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) transposée en droit national [HYPERLIEN].
 
@@ -5976,18 +6768,29 @@ Droits essentiels au titre de la [directive (UE) 2015/2302](https://legilux.publ
 
 Droits essentiels prévus par la [directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) :
 
-- Les voyageurs recevront toutes les informations essentielles sur le forfait avant de conclure le contrat de voyage à forfait.
-- Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
-- Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
-- Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
-- Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, les prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs peuvent obtenir le remboursement et un dédommagement, s’il y a lieu.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
-- En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
-- Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
-- Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
-- L’organisateur doit apporter une aide si le voyageur est en difficulté.
-- Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’organisme chargé de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cet organisme ou, le cas échéant, avec l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
+aash Les voyageurs recevront toutes les informations essentielles sur le forfait avant de conclure le contrat de voyage à forfait.
+
+bash Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
+
+cash Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
+
+dash Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
+
+eash Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, les prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
+
+fash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs peuvent obtenir le remboursement et un dédommagement, s’il y a lieu.
+
+gash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
+
+hash En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
+
+iash Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
+
+jash Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
+
+kash L’organisateur doit apporter une aide si le voyageur est en difficulté.
+
+lash Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’organisme chargé de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cet organisme ou, le cas échéant, avec l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
 
 [Site internet sur lequel on peut consulter la [directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) transposée en droit national.]
 
@@ -6006,18 +6809,29 @@ En cliquant sur l’hyperlien, le voyageur recevra les informations suivantes :
 
 Droits essentiels prévus par la [directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) :
 
-- Les voyageurs recevront toutes les informations essentielles sur les services de voyage avant de conclure le contrat de voyage à forfait.
-- Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
-- Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
-- Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
-- Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs peuvent obtenir le remboursement et un dédommagement, s’il y a lieu.
-- Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
-- En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
-- Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
-- Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
-- L’organisateur doit apporter une aide si le voyageur est en difficulté.
-- Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’entité chargée de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cette entité ou, le cas échéant, l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
+aash Les voyageurs recevront toutes les informations essentielles sur les services de voyage avant de conclure le contrat de voyage à forfait.
+
+bash Il y a toujours au moins un professionnel qui est responsable de la bonne exécution de tous les services de voyage compris dans le contrat.
+
+cash Les voyageurs reçoivent un numéro de téléphone d’urgence ou les coordonnées d’un point de contact leur permettant de joindre l’organisateur ou l’agent de voyages.
+
+dash Les voyageurs peuvent céder leur forfait à une autre personne, moyennant un préavis raisonnable et éventuellement sous réserve de payer des frais supplémentaires.
+
+eash Le prix du forfait ne peut être augmenté que si des coûts spécifiques augmentent (par exemple, prix des carburants) et si cette possibilité est explicitement prévue dans le contrat, et ne peut en tout cas pas être modifié moins de vingt jours avant le début du forfait. Si la majoration de prix dépasse 8 % du prix du forfait, le voyageur peut résilier le contrat. Si l’organisateur se réserve le droit d’augmenter le prix, le voyageur a droit à une réduction de prix en cas de diminution des coûts correspondants.
+
+fash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation et être intégralement remboursés des paiements effectués si l’un des éléments essentiels du forfait, autre que le prix, subit une modification importante. Si, avant le début du forfait, le professionnel responsable du forfait annule celui-ci, les voyageurs peuvent obtenir le remboursement et un dédommagement, s’il y a lieu.
+
+gash Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation avant le début du forfait en cas de circonstances exceptionnelles, par exemple s’il existe des problèmes graves pour la sécurité au lieu de destination qui sont susceptibles d’affecter le forfait.
+
+hash En outre, les voyageurs peuvent, à tout moment avant le début du forfait, résilier le contrat moyennant le paiement de frais de résiliation appropriés et justifiables.
+
+iash Si, après le début du forfait, des éléments importants de celui-ci ne peuvent pas être fournis comme prévu, d’autres prestations appropriées devront être proposées aux voyageurs, sans supplément de prix. Les voyageurs peuvent résilier le contrat sans payer de frais de résiliation lorsque les services ne sont pas exécutés conformément au contrat, que cela perturbe considérablement l’exécution du forfait et que l’organisateur ne remédie pas au problème.
+
+jash Les voyageurs ont aussi droit à une réduction de prix et/ou à un dédommagement en cas d’inexécution ou de mauvaise exécution des services de voyage.
+
+kash L’organisateur doit apporter une aide si le voyageur est en difficulté.
+
+lash Si l’organisateur ou, dans certains États membres, le détaillant devient insolvable, les montants versés seront remboursés. Si l’organisateur ou, le cas échéant, le détaillant devient insolvable après le début du forfait et si le transport est compris dans le forfait, le rapatriement des voyageurs est garanti. XY a souscrit une protection contre l’insolvabilité auprès de YZ [l’entité chargée de la protection contre l’insolvabilité, par exemple un fonds de garantie ou une compagnie d’assurance]. Les voyageurs peuvent prendre contact avec cette entité ou, le cas échéant, l’autorité compétente (coordonnées du point de contact, y compris son nom, son adresse géographique, son adresse électronique et son numéro de téléphone) si des services leur sont refusés en raison de l’insolvabilité de XY.
 
 [Directive (UE) 2015/2302](https://legilux.public.lu/eli/dir_ue/2015/2302/jo) transposée en droit national [HYPERLIEN].
 
@@ -6149,134 +6963,177 @@ La date de validité est dûment mise en évidence. Est visée la période penda
 
 \**Section 1. Prêteur**
 
-1. Le nom, le numéro de téléphone et l’adresse géographique du prêteur sont les coordonnées que le consommateur peut utiliser pour toute future correspondance.
-2. Les informations sur l’adresse électronique, le numéro de télécopieur, l’adresse web et la personne ou le point de contact sont facultatives.
-3. Conformément à l’article L. 222-14, paragraphe 1
+1\. Le nom, le numéro de téléphone et l’adresse géographique du prêteur sont les coordonnées que le consommateur peut utiliser pour toute future correspondance.
 
-   <sup>er</sup> , point 1., lettre b) du Code de la consommation, lorsque la transaction est proposée à distance, le prêteur indique, le cas échéant, le nom et l’adresse géographique de son représentant dans l’État membre de résidence du consommateur. Le numéro de téléphone, l’adresse électronique et l’adresse web du représentant du prestataire de crédit sont facultatifs.
-4. Si la section 2 n’est pas applicable, le prêteur fait savoir au consommateur si des services de conseil sont fournis et sur quelle base, en recourant à la formulation type de la FISE.
+2\. Les informations sur l’adresse électronique, le numéro de télécopieur, l’adresse web et la personne ou le point de contact sont facultatives.
+
+3\. Conformément à l’article L. 222-14, paragraphe 1 <sup>er</sup> , point 1., lettre b) du Code de la consommation, lorsque la transaction est proposée à distance, le prêteur indique, le cas échéant, le nom et l’adresse géographique de son représentant dans l’État membre de résidence du consommateur. Le numéro de téléphone, l’adresse électronique et l’adresse web du représentant du prestataire de crédit sont facultatifs.
+
+4\. Si la section 2 n’est pas applicable, le prêteur fait savoir au consommateur si des services de conseil sont fournis et sur quelle base, en recourant à la formulation type de la FISE.
 
 \**Section 2. Intermédiaire de crédit immobilier**
 
 Informations sur le produit fournies au consommateur par un intermédiaire de crédit immobilier:
 
-1. Le nom, le numéro de téléphone et l’adresse géographique de l’intermédiaire de crédit immobilier sont les coordonnées que le consommateur peut utiliser pour toute future correspondance.
-2. Les informations sur l’adresse électronique, le numéro de télécopieur, l’adresse web et la personne ou le point de contact sont facultatives.
-3. L’intermédiaire de crédit immobilier indique au consommateur si des services de conseil sont fournis et sur quelle base, en recourant à la formulation type de la FISE.
-4. Des explications concernant le mode de rémunération de l’intermédiaire de crédit immobilier sont fournies, le cas échéant. S’il perçoit une commission de la part d’un prêteur, le montant de cette commission et le nom du prêteur (si celui-ci est différent du nom figurant dans la section 1) sont indiqués.
+1\. Le nom, le numéro de téléphone et l’adresse géographique de l’intermédiaire de crédit immobilier sont les coordonnées que le consommateur peut utiliser pour toute future correspondance.
+
+2\. Les informations sur l’adresse électronique, le numéro de télécopieur, l’adresse web et la personne ou le point de contact sont facultatives.
+
+3\. L’intermédiaire de crédit immobilier indique au consommateur si des services de conseil sont fournis et sur quelle base, en recourant à la formulation type de la FISE.
+
+4\. Des explications concernant le mode de rémunération de l’intermédiaire de crédit immobilier sont fournies, le cas échéant. S’il perçoit une commission de la part d’un prêteur, le montant de cette commission et le nom du prêteur (si celui-ci est différent du nom figurant dans la section 1) sont indiqués.
 
 \**Section 3. Principales caractéristiques du prêt**
 
-1. Cette section explique clairement les principales caractéristiques du crédit, y compris la valeur et la monnaie ainsi que les risques potentiels associés au taux débiteur, y compris les risques liés à un taux débiteur qui n’est pas fixe, et la structure de l’amortissement.
-2. Si la monnaie du crédit n’est pas la monnaie nationale du consommateur, le prêteur indique que le consommateur sera averti régulièrement, au moins si le taux de change varie de plus de 20 pour cent, qu’il aura le droit, le cas échéant, de convertir la monnaie du contrat de crédit immobilier ou la possibilité de renégocier les conditions et tout autre arrangement à la disposition du consommateur en vue de limiter son exposition au risque de change. Lorsque le contrat de crédit immobilier contient une disposition en vue de limiter le risque de change, le prêteur indique le montant maximal que le consommateur aurait à rembourser. Lorsque le contrat de crédit immobilier ne comporte aucune disposition pour limiter le risque de change auquel le consommateur est exposé à une fluctuation du taux de change inférieure à 20 pour cent, le prêteur fournit un exemple de l’effet qu’aurait sur la valeur du prêt une baisse de 20 pour cent de la valeur de la monnaie nationale du consommateur par rapport à la monnaie du crédit.
-3. La durée du crédit est exprimée en années ou en mois, selon que l’une ou l’autre unité est la plus appropriée. Si la durée du crédit est susceptible de varier pendant la durée du contrat, le prêteur explique quand et à quelles conditions cette variation peut survenir. Si le crédit est à durée indéterminée, par exemple dans le cas d’une carte de crédit avec garantie, le prêteur l’indique clairement.
-4. Le type de crédit devrait être clairement indiqué (par exemple, crédit hypothécaire, prêt au logement, carte de crédit avec garantie). La description du type de crédit indique clairement comment le capital et les intérêts sont remboursés sur la durée du prêt (c’est-à-dire la structure d’amortissement), en précisant si le contrat de crédit immobilier porte sur le remboursement du capital ou si le crédit contracté au titre dudit contrat est un crédit sans remboursement du capital, ou un mélange des deux.
-5. Si le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention indiquant clairement ce fait figure en évidence à la fin de cette section en recourant à la formulation type de la FISE.
-6. Cette section précise si le taux débiteur est fixe ou variable et, le cas échéant, les périodes pendant lesquelles il restera fixe, la fréquence des révisions du taux et les limites éventuelles de variation du taux débiteur, par exemple plafonds et planchers.
+1\. Cette section explique clairement les principales caractéristiques du crédit, y compris la valeur et la monnaie ainsi que les risques potentiels associés au taux débiteur, y compris les risques liés à un taux débiteur qui n’est pas fixe, et la structure de l’amortissement.
 
-   La formule utilisée pour réviser le taux débiteur et ses différentes composantes (par exemple, le taux de référence ou les écarts de taux d’intérêt) sont expliquées. Le prêteur précise, par exemple sur son site internet, où trouver d’autres informations sur les indices ou les taux utilisés dans la formule (par exemple, l’Euribor ou le taux de référence de la banque centrale).
-7. Si différents taux débiteurs s’appliquent en fonction des circonstances, les informations portent sur tous les taux applicables sont fournies.
-8. Le «montant total à rembourser» correspond au montant total dû par le consommateur. Il est calculé en additionnant le montant du prêt et le coût total du prêt pour le consommateur. Si le taux débiteur n’est pas fixe pendant la durée du contrat, il convient de préciser que ce montant est donné à titre indicatif et peut varier, en particulier en fonction des variations du taux débiteur.
-9. Lorsque le prêt est garanti par une hypothèque sur le bien immobilier, par une autre sûreté comparable ou par un droit lié à un bien immobilier, le prêteur attire l’attention du consommateur sur ce fait. Le cas échéant, le prêteur indique la valeur estimée du bien immobilier ou une autre sûreté utilisée aux fins de préparer cette fiche d’information.
-10. Le prêteur indique, le cas échéant:
+2\. Si la monnaie du crédit n’est pas la monnaie nationale du consommateur, le prêteur indique que le consommateur sera averti régulièrement, au moins si le taux de change varie de plus de 20 pour cent, qu’il aura le droit, le cas échéant, de convertir la monnaie du contrat de crédit immobilier ou la possibilité de renégocier les conditions et tout autre arrangement à la disposition du consommateur en vue de limiter son exposition au risque de change. Lorsque le contrat de crédit immobilier contient une disposition en vue de limiter le risque de change, le prêteur indique le montant maximal que le consommateur aurait à rembourser. Lorsque le contrat de crédit immobilier ne comporte aucune disposition pour limiter le risque de change auquel le consommateur est exposé à une fluctuation du taux de change inférieure à 20 pour cent, le prêteur fournit un exemple de l’effet qu’aurait sur la valeur du prêt une baisse de 20 pour cent de la valeur de la monnaie nationale du consommateur par rapport à la monnaie du crédit.
 
-   1. le «montant maximal de prêt disponible par rapport à la valeur du bien», qui est le ratio montant à financer/valeur du bien (ratio hypothécaire). Ce ratio est accompagné d’un exemple montrant en valeur absolue le montant maximal pouvant être emprunté pour la valeur d’un bien particulier; ou
-   2. la «valeur minimale du bien requise par le prêteur pour prêter le montant illustré».
-11. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, des prêts en partie à taux fixe, en partie à taux variable), cette information figure dans l’indication du type de crédit, et les informations requises sont mentionnées pour chaque partie du crédit.
+3\. La durée du crédit est exprimée en années ou en mois, selon que l’une ou l’autre unité est la plus appropriée. Si la durée du crédit est susceptible de varier pendant la durée du contrat, le prêteur explique quand et à quelles conditions cette variation peut survenir. Si le crédit est à durée indéterminée, par exemple dans le cas d’une carte de crédit avec garantie, le prêteur l’indique clairement.
+
+4\. Le type de crédit devrait être clairement indiqué (par exemple, crédit hypothécaire, prêt au logement, carte de crédit avec garantie). La description du type de crédit indique clairement comment le capital et les intérêts sont remboursés sur la durée du prêt (c’est-à-dire la structure d’amortissement), en précisant si le contrat de crédit immobilier porte sur le remboursement du capital ou si le crédit contracté au titre dudit contrat est un crédit sans remboursement du capital, ou un mélange des deux.
+
+5\. Si le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention indiquant clairement ce fait figure en évidence à la fin de cette section en recourant à la formulation type de la FISE.
+
+6\. Cette section précise si le taux débiteur est fixe ou variable et, le cas échéant, les périodes pendant lesquelles il restera fixe, la fréquence des révisions du taux et les limites éventuelles de variation du taux débiteur, par exemple plafonds et planchers.
+
+La formule utilisée pour réviser le taux débiteur et ses différentes composantes (par exemple, le taux de référence ou les écarts de taux d’intérêt) sont expliquées. Le prêteur précise, par exemple sur son site internet, où trouver d’autres informations sur les indices ou les taux utilisés dans la formule (par exemple, l’Euribor ou le taux de référence de la banque centrale).
+
+7\. Si différents taux débiteurs s’appliquent en fonction des circonstances, les informations portent sur tous les taux applicables sont fournies.
+
+8\. Le «montant total à rembourser» correspond au montant total dû par le consommateur. Il est calculé en additionnant le montant du prêt et le coût total du prêt pour le consommateur. Si le taux débiteur n’est pas fixe pendant la durée du contrat, il convient de préciser que ce montant est donné à titre indicatif et peut varier, en particulier en fonction des variations du taux débiteur.
+
+9\. Lorsque le prêt est garanti par une hypothèque sur le bien immobilier, par une autre sûreté comparable ou par un droit lié à un bien immobilier, le prêteur attire l’attention du consommateur sur ce fait. Le cas échéant, le prêteur indique la valeur estimée du bien immobilier ou une autre sûreté utilisée aux fins de préparer cette fiche d’information.
+
+10\. Le prêteur indique, le cas échéant:
+
+a) le «montant maximal de prêt disponible par rapport à la valeur du bien», qui est le ratio montant à financer/valeur du bien (ratio hypothécaire). Ce ratio est accompagné d’un exemple montrant en valeur absolue le montant maximal pouvant être emprunté pour la valeur d’un bien particulier; ou
+
+b) la «valeur minimale du bien requise par le prêteur pour prêter le montant illustré».
+
+11\. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, des prêts en partie à taux fixe, en partie à taux variable), cette information figure dans l’indication du type de crédit, et les informations requises sont mentionnées pour chaque partie du crédit.
 
 \**Section 4. Taux d’intérêt et autres frais**
 
-1. Le «taux d’intérêt» correspond au taux débiteur ou aux taux débiteurs.
-2. Le taux débiteur est indiqué sous forme de pourcentage. Si le taux débiteur est variable et fondé sur un taux de référence, le prêteur peut indiquer le taux débiteur en annonçant un taux de référence et une valeur en pourcentage de sa marge. Le prêteur indique toutefois la valeur du taux de référence valide le jour de l’émission de la FISE.
+1\. Le «taux d’intérêt» correspond au taux débiteur ou aux taux débiteurs.
 
-   Si le taux débiteur est variable, l’information comprend:
+2\. Le taux débiteur est indiqué sous forme de pourcentage. Si le taux débiteur est variable et fondé sur un taux de référence, le prêteur peut indiquer le taux débiteur en annonçant un taux de référence et une valeur en pourcentage de sa marge. Le prêteur indique toutefois la valeur du taux de référence valide le jour de l’émission de la FISE.
 
-   1. les hypothèses utilisées pour le calcul du TAEG;
-   2. le cas échéant, les plafonds et les seuils applicables; et
-   3. un avertissement indiquant que la variabilité pourrait affecter le niveau réel du TAEG.
+Si le taux débiteur est variable, l’information comprend:
 
-   Pour attirer l’attention du consommateur, la taille de caractère utilisée pour l’avertissement est plus grande et figure en évidence dans la partie principale de la FISE. L’avertissement est accompagné d’un exemple indicatif sur le TAEG. Lorsque le taux débiteur est plafonné, l’exemple suppose que le taux débiteur s’élève dans les plus brefs délais au niveau le plus élevé prévu dans le contrat de crédit immobilier. En l’absence de plafond, l’exemple présente le TAEG au taux débiteur le plus élevé au cours des vingt dernières années au moins ou, si les données sous-jacentes pour le calcul du taux débiteur sont disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces données sont disponibles, sur la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul du taux débiteur le cas échéant, ou de la valeur la plus élevée d’un taux de référence fixé par une autorité compétente ou par l’Autorité bancaire européenne (ci-après « ABE ») lorsque le prêteur n’utilise pas un taux de référence extérieur. Cette exigence ne s’applique pas aux contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur. Dans le cas des contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur, l’information comprend un avertissement indiquant que le TAEG est calculé sur la base du taux débiteur de la période initiale. L’avertissement est accompagné d’un exemple de TAEG supplémentaire calculé conformément à l’article L. 226-19, paragraphe 4 du Code de la consommation. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, en partie à taux fixe, en partie à taux variable), les informations sont mentionnées pour chaque partie du crédit.
-3. Dans la section «Autres composantes du TAEG», il convient d’énumérer tous les autres frais inclus dans le TAEG, y compris les frais non récurrents, tels que les frais administratifs, et les frais réguliers, tels que les frais administratifs annuels. Le prêteur dresse la liste des frais en les classant par catégorie (frais à payer de manière non récurrente, frais à payer régulièrement et inclus dans les versements, frais à payer régulièrement mais non inclus dans les versements), en indiquant leur montant et en précisant à qui et quand ils devront être payés. Il n’est pas nécessaire d’inclure les frais encourus pour non-respect des obligations contractuelles. Lorsque ce montant n’est pas connu, le prêteur donne si possible une indication du montant ou, à défaut, explique le mode de calcul du montant et précise que ce montant n’est donné qu’à titre indicatif. Dans le cas où certains frais ne sont pas inclus dans le TAEG parce que le prêteur ne les connaît pas, il convient d’attirer l’attention sur ce fait.
+a) les hypothèses utilisées pour le calcul du TAEG;
 
-   Si le consommateur a indiqué au prêteur un ou plusieurs éléments du crédit qu’il privilégie, tels que la durée du contrat de crédit immobilier et le montant total du crédit, le prêteur tient, si possible, compte de ces éléments; si un contrat de crédit immobilier offre au consommateur différentes possibilités de prélèvement, assorties de frais ou de taux débiteurs différents, et que le prêteur applique l’hypothèse de l’article R. 226-4, point 2., il indique que d’autres modalités de prélèvement existant pour ce type de crédit peuvent avoir pour conséquence un TAEG plus élevé. Lorsque les conditions de prélèvement sont utilisées pour le calcul du TAEG, le prêteur attire l’attention sur les frais liés aux autres modalités de prélèvement qui ne sont pas nécessairement celles utilisées dans le calcul du TAEG.
-4. Si l’inscription de l’hypothèque ou d’une autre sûreté comparable donne lieu au paiement de frais, cette information figure dans cette section avec le montant, s’il est connu, ou, si ce n’est pas possible, la base de détermination de ce montant. Si les frais sont connus et inclus dans le TAEG, l’existence et le montant des frais sont mentionnés dans la rubrique «Frais payables en une seule fois». Si les frais ne sont pas connus du prêteur et ne sont donc pas pris en compte dans le TAEG, leur existence est clairement mentionnée sur la liste des frais qui ne sont pas connus du prêteur. Dans les deux cas, la formulation type du formulaire de la FISE est utilisée à la rubrique correspondante.
+b) le cas échéant, les plafonds et les seuils applicables; et
+
+c) un avertissement indiquant que la variabilité pourrait affecter le niveau réel du TAEG.
+
+Pour attirer l’attention du consommateur, la taille de caractère utilisée pour l’avertissement est plus grande et figure en évidence dans la partie principale de la FISE. L’avertissement est accompagné d’un exemple indicatif sur le TAEG. Lorsque le taux débiteur est plafonné, l’exemple suppose que le taux débiteur s’élève dans les plus brefs délais au niveau le plus élevé prévu dans le contrat de crédit immobilier. En l’absence de plafond, l’exemple présente le TAEG au taux débiteur le plus élevé au cours des vingt dernières années au moins ou, si les données sous-jacentes pour le calcul du taux débiteur sont disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces données sont disponibles, sur la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul du taux débiteur le cas échéant, ou de la valeur la plus élevée d’un taux de référence fixé par une autorité compétente ou par l’Autorité bancaire européenne (ci-après « ABE ») lorsque le prêteur n’utilise pas un taux de référence extérieur. Cette exigence ne s’applique pas aux contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur. Dans le cas des contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur, l’information comprend un avertissement indiquant que le TAEG est calculé sur la base du taux débiteur de la période initiale. L’avertissement est accompagné d’un exemple de TAEG supplémentaire calculé conformément à l’article L. 226-19, paragraphe 4 du Code de la consommation. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, en partie à taux fixe, en partie à taux variable), les informations sont mentionnées pour chaque partie du crédit.
+
+3\. Dans la section «Autres composantes du TAEG», il convient d’énumérer tous les autres frais inclus dans le TAEG, y compris les frais non récurrents, tels que les frais administratifs, et les frais réguliers, tels que les frais administratifs annuels. Le prêteur dresse la liste des frais en les classant par catégorie (frais à payer de manière non récurrente, frais à payer régulièrement et inclus dans les versements, frais à payer régulièrement mais non inclus dans les versements), en indiquant leur montant et en précisant à qui et quand ils devront être payés. Il n’est pas nécessaire d’inclure les frais encourus pour non-respect des obligations contractuelles. Lorsque ce montant n’est pas connu, le prêteur donne si possible une indication du montant ou, à défaut, explique le mode de calcul du montant et précise que ce montant n’est donné qu’à titre indicatif. Dans le cas où certains frais ne sont pas inclus dans le TAEG parce que le prêteur ne les connaît pas, il convient d’attirer l’attention sur ce fait.
+
+Si le consommateur a indiqué au prêteur un ou plusieurs éléments du crédit qu’il privilégie, tels que la durée du contrat de crédit immobilier et le montant total du crédit, le prêteur tient, si possible, compte de ces éléments; si un contrat de crédit immobilier offre au consommateur différentes possibilités de prélèvement, assorties de frais ou de taux débiteurs différents, et que le prêteur applique l’hypothèse de l’article R. 226-4, point 2., il indique que d’autres modalités de prélèvement existant pour ce type de crédit peuvent avoir pour conséquence un TAEG plus élevé. Lorsque les conditions de prélèvement sont utilisées pour le calcul du TAEG, le prêteur attire l’attention sur les frais liés aux autres modalités de prélèvement qui ne sont pas nécessairement celles utilisées dans le calcul du TAEG.
+
+4\. Si l’inscription de l’hypothèque ou d’une autre sûreté comparable donne lieu au paiement de frais, cette information figure dans cette section avec le montant, s’il est connu, ou, si ce n’est pas possible, la base de détermination de ce montant. Si les frais sont connus et inclus dans le TAEG, l’existence et le montant des frais sont mentionnés dans la rubrique «Frais payables en une seule fois». Si les frais ne sont pas connus du prêteur et ne sont donc pas pris en compte dans le TAEG, leur existence est clairement mentionnée sur la liste des frais qui ne sont pas connus du prêteur. Dans les deux cas, la formulation type du formulaire de la FISE est utilisée à la rubrique correspondante.
 
 \**Section 5. Nombre et périodicité des versements**
 
-1. Si les versements sont effectués à intervalles réguliers, leur périodicité (par exemple, mensuelle) est précisée. Si la fréquence des versements est irrégulière, ce fait est clairement expliqué au consommateur.
-2. Le nombre de versements indiqué porte sur toute la durée du prêt.
+1\. Si les versements sont effectués à intervalles réguliers, leur périodicité (par exemple, mensuelle) est précisée. Si la fréquence des versements est irrégulière, ce fait est clairement expliqué au consommateur.
+
+2\. Le nombre de versements indiqué porte sur toute la durée du prêt.
 
 \**Section 6. Montant de chaque versement**
 
-1. La monnaie du crédit et la monnaie des versements sont indiquées clairement.
-2. Lorsque le montant des versements est susceptible de changer pendant la durée du crédit, le prêteur précise pendant quelle période le montant initial des versements reste inchangé, et quand et avec quelle périodicité il changera par la suite.
-3. Lorsque le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention l’indiquant clairement figure en évidence à la fin de cette section en recourant à la formulation type de la FISE.
+1\. La monnaie du crédit et la monnaie des versements sont indiquées clairement.
 
-   Si le consommateur est tenu de contracter un produit d’épargne lié comme condition pour obtenir un crédit sans remboursement du capital garanti par une hypothèque ou une sûreté comparable, le montant et la périodicité des paiements sont indiqués.
-4. Lorsque le taux débiteur est variable, l’information le mentionne, en recourant à la formulation type de la FISE, et fournit un exemple de montant maximal de versement. Lorsqu’il existe un plafond, l’exemple précise quel sera le montant des versements si le taux débiteur atteint ce plafond. En l’absence de plafond, c’est l’hypothèse la plus défavorable qui illustre le niveau des versements au taux débiteur le plus élevé au cours des vingt dernières années, ou, si les données sous-jacentes pour le calcul du taux débiteur sont disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces données sont disponibles, sur la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul du taux débiteur le cas échéant ou de la valeur la plus élevée d’un taux de référence fixé par la CSSF ou par l’ABE lorsque le prêteur n’utilise pas un taux de référence extérieur. L’exigence de fournir un exemple à titre indicatif ne s’applique pas aux contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, en partie à taux fixe, en partie à taux variable), les informations sont mentionnées pour chaque partie du crédit, et pour le total.
-5. (Le cas échéant) Lorsque la monnaie du prêt n’est pas la monnaie nationale du consommateur ou lorsque le crédit est indexé sur une monnaie qui n’est pas la monnaie nationale du consommateur, le prêteur donne un exemple chiffré montrant clairement l’impact que des variations du taux de change applicable peuvent avoir sur le montant des versements, en recourant à la formulation type de la FISE. Cet exemple s’appuie sur une réduction de 20 pour cent de la valeur de la monnaie nationale du consommateur, accompagné d’une mention visible indiquant que les versements pourraient augmenter davantage que le montant supposé dans cet exemple. Lorsqu’un plafond limite l’augmentation à un montant inférieur à 20 pour cent, le montant maximal des versements dans la monnaie du consommateur est indiqué, sans mentionner la possibilité de nouvelles augmentations.
-6. Lorsque le crédit est, en totalité ou en partie, un crédit à taux variable et que le point 3 s’applique, l’exemple visé au point 5 est fourni sur la base du montant de versement visé au point 1.
-7. Lorsque la monnaie dans laquelle sont libellés les versements est différente de la monnaie du crédit ou que le montant de chaque versement exprimé dans la monnaie nationale du consommateur dépend du montant correspondant dans une autre monnaie, cette section indique la date à laquelle le taux de change applicable est calculé et le taux de change ou la base sur laquelle il sera calculé ainsi que la fréquence de leur ajustement. Le cas échéant, les indications fournies comprennent notamment le nom de l’institution qui publie le taux de change applicable.
-8. Lorsque le crédit est un crédit à intérêts différés dont les intérêts dus ne sont pas intégralement remboursés par les versements et s’ajoutent au montant total du crédit restant dû, les explications suivantes sont fournies: comment et quand les intérêts différés s’ajoutent au crédit en tant qu’apport de trésorerie; et quelles sont les conséquences pour le consommateur au niveau du restant de la dette.
+2\. Lorsque le montant des versements est susceptible de changer pendant la durée du crédit, le prêteur précise pendant quelle période le montant initial des versements reste inchangé, et quand et avec quelle périodicité il changera par la suite.
+
+3\. Lorsque le crédit est, en totalité ou en partie, un crédit sans remboursement du capital, une mention l’indiquant clairement figure en évidence à la fin de cette section en recourant à la formulation type de la FISE.
+
+Si le consommateur est tenu de contracter un produit d’épargne lié comme condition pour obtenir un crédit sans remboursement du capital garanti par une hypothèque ou une sûreté comparable, le montant et la périodicité des paiements sont indiqués.
+
+4\. Lorsque le taux débiteur est variable, l’information le mentionne, en recourant à la formulation type de la FISE, et fournit un exemple de montant maximal de versement. Lorsqu’il existe un plafond, l’exemple précise quel sera le montant des versements si le taux débiteur atteint ce plafond. En l’absence de plafond, c’est l’hypothèse la plus défavorable qui illustre le niveau des versements au taux débiteur le plus élevé au cours des vingt dernières années, ou, si les données sous-jacentes pour le calcul du taux débiteur sont disponibles pour une période de moins de vingt ans, la période la plus longue pour laquelle ces données sont disponibles, sur la base de la valeur la plus élevée de tout taux de référence extérieur utilisé pour le calcul du taux débiteur le cas échéant ou de la valeur la plus élevée d’un taux de référence fixé par la CSSF ou par l’ABE lorsque le prêteur n’utilise pas un taux de référence extérieur. L’exigence de fournir un exemple à titre indicatif ne s’applique pas aux contrats de crédit immobilier dont le taux débiteur est fixé pour une période initiale de plusieurs années et peut ensuite être fixé pour une nouvelle période après négociation entre le prêteur et le consommateur. Lorsque les crédits sont des crédits en plusieurs parties (par exemple, en partie à taux fixe, en partie à taux variable), les informations sont mentionnées pour chaque partie du crédit, et pour le total.
+
+5\. (Le cas échéant) Lorsque la monnaie du prêt n’est pas la monnaie nationale du consommateur ou lorsque le crédit est indexé sur une monnaie qui n’est pas la monnaie nationale du consommateur, le prêteur donne un exemple chiffré montrant clairement l’impact que des variations du taux de change applicable peuvent avoir sur le montant des versements, en recourant à la formulation type de la FISE. Cet exemple s’appuie sur une réduction de 20 pour cent de la valeur de la monnaie nationale du consommateur, accompagné d’une mention visible indiquant que les versements pourraient augmenter davantage que le montant supposé dans cet exemple. Lorsqu’un plafond limite l’augmentation à un montant inférieur à 20 pour cent, le montant maximal des versements dans la monnaie du consommateur est indiqué, sans mentionner la possibilité de nouvelles augmentations.
+
+6\. Lorsque le crédit est, en totalité ou en partie, un crédit à taux variable et que le point 3 s’applique, l’exemple visé au point 5 est fourni sur la base du montant de versement visé au point 1.
+
+7\. Lorsque la monnaie dans laquelle sont libellés les versements est différente de la monnaie du crédit ou que le montant de chaque versement exprimé dans la monnaie nationale du consommateur dépend du montant correspondant dans une autre monnaie, cette section indique la date à laquelle le taux de change applicable est calculé et le taux de change ou la base sur laquelle il sera calculé ainsi que la fréquence de leur ajustement. Le cas échéant, les indications fournies comprennent notamment le nom de l’institution qui publie le taux de change applicable.
+
+8\. Lorsque le crédit est un crédit à intérêts différés dont les intérêts dus ne sont pas intégralement remboursés par les versements et s’ajoutent au montant total du crédit restant dû, les explications suivantes sont fournies: comment et quand les intérêts différés s’ajoutent au crédit en tant qu’apport de trésorerie; et quelles sont les conséquences pour le consommateur au niveau du restant de la dette.
 
 \**Section 7. Échéancier indicatif**
 
-1. Cette section est ajoutée lorsque le crédit est un crédit à intérêts différés, dont les intérêts dus ne sont pas intégralement remboursés par les versements et s’ajoutent au montant total du crédit restant dû, ou lorsque le taux débiteur est fixé pour la durée du contrat de crédit immobilier. Le tableau d’amortissement indicatif est obligatoire dans les autres cas.
+1\. Cette section est ajoutée lorsque le crédit est un crédit à intérêts différés, dont les intérêts dus ne sont pas intégralement remboursés par les versements et s’ajoutent au montant total du crédit restant dû, ou lorsque le taux débiteur est fixé pour la durée du contrat de crédit immobilier. Le tableau d’amortissement indicatif est obligatoire dans les autres cas.
 
-   Lorsque le consommateur a le droit de recevoir un tableau d’amortissement révisé, ce droit est mentionné avec les conditions dans lesquelles le consommateur peut l’exercer.
-2. Si le taux débiteur est susceptible de varier pendant la durée du crédit, le prêteur indique la période pendant laquelle ce taux débiteur initial restera inchangé.
-3. Le tableau à inclure dans cette section comprend les colonnes suivantes: «échéance» (par exemple, 1
+Lorsque le consommateur a le droit de recevoir un tableau d’amortissement révisé, ce droit est mentionné avec les conditions dans lesquelles le consommateur peut l’exercer.
 
-   <sup>er</sup> mois, 2 <sup>e</sup> mois, 3 <sup>e</sup> mois), «montant du versement», «intérêt à payer par versement», «autres frais inclus dans le versement» (le cas échéant), «capital remboursé par versement» et «capital restant dû après chaque versement».
-4. Pour la première année de remboursement, l’information est fournie pour chaque versement échelonné, et un soustotal correspondant à la fin de cette première année est fourni pour chacune des colonnes. Pour les années suivantes, les informations peuvent être fournies sur une base annuelle. Une ligne supplémentaire est ajoutée à la fin du tableau pour indiquer le total de chaque colonne. Le coût total du crédit payé par le consommateur (qui correspond au total de la colonne «montant du versement») est dûment mis en évidence et indiqué comme tel.
-5. Si le taux débiteur est révisable et que le montant du versement après chaque révision n’est pas connu, le prêteur peut indiquer dans le tableau d’amortissement le même montant de versement pour toute la durée du crédit. Dans ce cas, il attire l’attention du consommateur sur ce fait en différenciant visuellement les montants connus des montants hypothétiques (en utilisant, par exemple, une autre police, d’autres bordures ou un arrière-plan différent). En outre, un texte clair et intelligible explique pendant quelles périodes les montants présentés dans l’échéancier sont susceptibles de varier et pourquoi.
+2\. Si le taux débiteur est susceptible de varier pendant la durée du crédit, le prêteur indique la période pendant laquelle ce taux débiteur initial restera inchangé.
+
+3\. Le tableau à inclure dans cette section comprend les colonnes suivantes: «échéance» (par exemple, 1 <sup>er</sup> mois, 2 <sup>e</sup> mois, 3 <sup>e</sup> mois), «montant du versement», «intérêt à payer par versement», «autres frais inclus dans le versement» (le cas échéant), «capital remboursé par versement» et «capital restant dû après chaque versement».
+
+4\. Pour la première année de remboursement, l’information est fournie pour chaque versement échelonné, et un soustotal correspondant à la fin de cette première année est fourni pour chacune des colonnes. Pour les années suivantes, les informations peuvent être fournies sur une base annuelle. Une ligne supplémentaire est ajoutée à la fin du tableau pour indiquer le total de chaque colonne. Le coût total du crédit payé par le consommateur (qui correspond au total de la colonne «montant du versement») est dûment mis en évidence et indiqué comme tel.
+
+5\. Si le taux débiteur est révisable et que le montant du versement après chaque révision n’est pas connu, le prêteur peut indiquer dans le tableau d’amortissement le même montant de versement pour toute la durée du crédit. Dans ce cas, il attire l’attention du consommateur sur ce fait en différenciant visuellement les montants connus des montants hypothétiques (en utilisant, par exemple, une autre police, d’autres bordures ou un arrière-plan différent). En outre, un texte clair et intelligible explique pendant quelles périodes les montants présentés dans l’échéancier sont susceptibles de varier et pourquoi.
 
 \**Section 8. Obligations supplémentaires**
 
-1. Dans cette section, le prêteur mentionne les obligations telles que celles d’assurer le bien immobilier, de souscrire une assurance-vie, de verser un salaire sur un compte du prêteur ou d’acquérir un autre produit ou service. Pour chaque obligation, le prêteur précise auprès de qui et dans quel délai elle doit être remplie.
-2. Le prêteur précise la durée de l’obligation, par exemple le terme du contrat de crédit immobilier. Le prêteur précise, pour chaque obligation, tous les frais payables par le consommateur qui ne sont pas compris dans le TAEG.
-3. Le prêteur indique si le consommateur est tenu de souscrire à des services auxiliaires pour obtenir le crédit aux conditions mentionnées et, dans l’affirmative, si le consommateur est tenu d’y souscrire auprès du prestataire indiqué par le prêteur ou si ces services peuvent être achetés auprès d’un prestataire choisi par le consommateur. Si cette possibilité est subordonnée au respect de certaines caractéristiques minimales par les services auxiliaires, ces caractéristiques sont décrites dans cette section.
+1\. Dans cette section, le prêteur mentionne les obligations telles que celles d’assurer le bien immobilier, de souscrire une assurance-vie, de verser un salaire sur un compte du prêteur ou d’acquérir un autre produit ou service. Pour chaque obligation, le prêteur précise auprès de qui et dans quel délai elle doit être remplie.
 
-   Si le contrat de crédit immobilier est lié à d’autres produits, le prêteur mentionne les caractéristiques essentielles de ces autres produits et indique clairement si le consommateur a le droit de résilier le contrat de crédit immobilier ou les produits liés séparément, dans quelles conditions et avec quelles conséquences ainsi que, le cas échéant, les conséquences éventuelles d’une suppression des services auxiliaires requis dans le cadre du contrat de crédit immobilier.
+2\. Le prêteur précise la durée de l’obligation, par exemple le terme du contrat de crédit immobilier. Le prêteur précise, pour chaque obligation, tous les frais payables par le consommateur qui ne sont pas compris dans le TAEG.
+
+3\. Le prêteur indique si le consommateur est tenu de souscrire à des services auxiliaires pour obtenir le crédit aux conditions mentionnées et, dans l’affirmative, si le consommateur est tenu d’y souscrire auprès du prestataire indiqué par le prêteur ou si ces services peuvent être achetés auprès d’un prestataire choisi par le consommateur. Si cette possibilité est subordonnée au respect de certaines caractéristiques minimales par les services auxiliaires, ces caractéristiques sont décrites dans cette section.
+
+Si le contrat de crédit immobilier est lié à d’autres produits, le prêteur mentionne les caractéristiques essentielles de ces autres produits et indique clairement si le consommateur a le droit de résilier le contrat de crédit immobilier ou les produits liés séparément, dans quelles conditions et avec quelles conséquences ainsi que, le cas échéant, les conséquences éventuelles d’une suppression des services auxiliaires requis dans le cadre du contrat de crédit immobilier.
 
 \**Section 9. Remboursement anticipé**
 
-1. Le prêteur précise les conditions auxquelles le consommateur peut rembourser le crédit par anticipation, entièrement ou partiellement.
-2. Dans la section sur les frais de sortie, le prêteur attire l’attention du consommateur sur tout frais payable au titre de remboursement anticipé en vue d’indemniser le prêteur. Il s’agit en l’occurrence de l’indemnité visée à l’article L. 226-20 du Code de la consommation qui correspond au montant maximal qui peut être facturé au consommateur en cas de remboursement anticipé. Le cas échéant, le prêteur en indique le montant. Si le montant de l’indemnisation dépend de plusieurs facteurs, tels que le montant remboursé ou le taux d’intérêt en vigueur au moment du remboursement anticipé, le prêteur indique comment est calculée l’indemnisation et indique le montant maximal des frais ou, si ce n’est pas possible, il fournit un exemple indicatif afin d’informer le consommateur du niveau possible de l’indemnisation dans plusieurs scénarios différents.
+1\. Le prêteur précise les conditions auxquelles le consommateur peut rembourser le crédit par anticipation, entièrement ou partiellement.
+
+2\. Dans la section sur les frais de sortie, le prêteur attire l’attention du consommateur sur tout frais payable au titre de remboursement anticipé en vue d’indemniser le prêteur. Il s’agit en l’occurrence de l’indemnité visée à l’article L. 226-20 du Code de la consommation qui correspond au montant maximal qui peut être facturé au consommateur en cas de remboursement anticipé. Le cas échéant, le prêteur en indique le montant. Si le montant de l’indemnisation dépend de plusieurs facteurs, tels que le montant remboursé ou le taux d’intérêt en vigueur au moment du remboursement anticipé, le prêteur indique comment est calculée l’indemnisation et indique le montant maximal des frais ou, si ce n’est pas possible, il fournit un exemple indicatif afin d’informer le consommateur du niveau possible de l’indemnisation dans plusieurs scénarios différents.
 
 \**Section 10. Caractéristiques variables**
 
-1. Le cas échéant, le prêteur explique la possibilité de transférer le crédit à un autre prêteur ou à l’égard d’un autre bien immobilier ainsi que les conditions relatives à ce transfert.
-2. (Le cas échéant) Caractéristiques supplémentaires: lorsque le produit contient l’une des caractéristiques répertoriées au point 5, la présente section doit en dresser la liste et fournir une brève explication des aspects suivants: les circonstances dans lesquelles le consommateur peut utiliser cette caractéristique; les conditions liées à la caractéristique; si le fait que la caractéristique fait partie du crédit garanti par une hypothèque ou une garantie comparable signifie que le consommateur perd une protection réglementaire ou autre généralement associée à la caractéristique; l’entreprise fournissant la caractéristique (si celle-ci est différente du prêteur).
-3. Si la caractéristique prévoit un crédit supplémentaire, alors la présente section doit indiquer au consommateur: le montant total du crédit (y compris le crédit garanti par l’hypothèque ou la garantie comparable); si le crédit supplémentaire est sécurisé ou non; les taux débiteurs concernés et si la caractéristique est réglementée ou non. Ce montant de crédit supplémentaire est inclus dans l’évaluation initiale de solvabilité ou, s’il ne l’est pas, cette section précise que la disponibilité du montant supplémentaire est subordonnée à une nouvelle évaluation de la capacité de remboursement du consommateur.
-4. Si la caractéristique suppose un mécanisme d’épargne, le taux d’intérêt adéquat doit être expliqué.
-5. Les caractéristiques supplémentaires possibles sont les suivantes: «Trop payés/Moins payés [paiements supérieurs ou inférieurs au versement normalement requis par la structure d’amortissement]; «Dispense temporaire de remboursement» [périodes pendant lesquelles le consommateur n’est pas tenu d’effectuer des paiements]; «Réemprunt» [possibilité pour le consommateur d’emprunter à nouveau des fonds déjà prélevés et remboursés]; «Emprunt supplémentaire disponible sans autre approbation»; «Emprunt supplémentaire sécurisé ou non sécurisé» [conformément au point 3 ci-dessus]; «Carte de crédit»; «Compte courant lié»; et «Compte épargne lié».
-6. Le prêteur peut inclure toutes les autres caractéristiques offertes par le prêteur dans le cadre du contrat de crédit immobilier qui ne sont pas mentionnées dans les sections précédentes.
+1\. Le cas échéant, le prêteur explique la possibilité de transférer le crédit à un autre prêteur ou à l’égard d’un autre bien immobilier ainsi que les conditions relatives à ce transfert.
+
+2\. (Le cas échéant) Caractéristiques supplémentaires: lorsque le produit contient l’une des caractéristiques répertoriées au point 5, la présente section doit en dresser la liste et fournir une brève explication des aspects suivants: les circonstances dans lesquelles le consommateur peut utiliser cette caractéristique; les conditions liées à la caractéristique; si le fait que la caractéristique fait partie du crédit garanti par une hypothèque ou une garantie comparable signifie que le consommateur perd une protection réglementaire ou autre généralement associée à la caractéristique; l’entreprise fournissant la caractéristique (si celle-ci est différente du prêteur).
+
+3\. Si la caractéristique prévoit un crédit supplémentaire, alors la présente section doit indiquer au consommateur: le montant total du crédit (y compris le crédit garanti par l’hypothèque ou la garantie comparable); si le crédit supplémentaire est sécurisé ou non; les taux débiteurs concernés et si la caractéristique est réglementée ou non. Ce montant de crédit supplémentaire est inclus dans l’évaluation initiale de solvabilité ou, s’il ne l’est pas, cette section précise que la disponibilité du montant supplémentaire est subordonnée à une nouvelle évaluation de la capacité de remboursement du consommateur.
+
+4\. Si la caractéristique suppose un mécanisme d’épargne, le taux d’intérêt adéquat doit être expliqué.
+
+5\. Les caractéristiques supplémentaires possibles sont les suivantes: «Trop payés/Moins payés [paiements supérieurs ou inférieurs au versement normalement requis par la structure d’amortissement]; «Dispense temporaire de remboursement» [périodes pendant lesquelles le consommateur n’est pas tenu d’effectuer des paiements]; «Réemprunt» [possibilité pour le consommateur d’emprunter à nouveau des fonds déjà prélevés et remboursés]; «Emprunt supplémentaire disponible sans autre approbation»; «Emprunt supplémentaire sécurisé ou non sécurisé» [conformément au point 3 ci-dessus]; «Carte de crédit»; «Compte courant lié»; et «Compte épargne lié».
+
+6\. Le prêteur peut inclure toutes les autres caractéristiques offertes par le prêteur dans le cadre du contrat de crédit immobilier qui ne sont pas mentionnées dans les sections précédentes.
 
 \**Section 11. Autres droits de l’emprunteur**
 
-1. Le prêteur donne des précisions sur le droit de réflexion et, le cas échéant, les autres droits existants tels que la portabilité (y compris la subrogation), sur les conditions auxquelles ce ou ces droits sont soumis, sur la procédure à suivre par le consommateur afin de les exercer.
-2. En vertu de l’article L. 222-18, paragraphe 2, lettres c) et d) du Code de la consommation, le consommateur est à informer qu’il n’existe pas de droit de rétractation, lorsque la transaction est proposée à distance.
+1\. Le prêteur donne des précisions sur le droit de réflexion et, le cas échéant, les autres droits existants tels que la portabilité (y compris la subrogation), sur les conditions auxquelles ce ou ces droits sont soumis, sur la procédure à suivre par le consommateur afin de les exercer.
+
+2\. En vertu de l’article L. 222-18, paragraphe 2, lettres c) et d) du Code de la consommation, le consommateur est à informer qu’il n’existe pas de droit de rétractation, lorsque la transaction est proposée à distance.
 
 \**Section 12. Réclamations**
 
-1. Cette section indique le point de contact interne [nom du service responsable] et le moyen de le contacter en cas de réclamation [adresse géographique] ou [numéro de téléphone] ou [la personne de contact]: [coordonnées du contact] ainsi qu’un lien vers la procédure de réclamation sur la page appropriée d’un site internet ou une source d’information similaire.
-2. Elle indique le nom de l’organisme extérieur chargé du règlement des réclamations et recours extrajudiciaires et lorsque le recours à la procédure de réclamation interne est une condition préalable à l’accès à cet organisme, elle l’indique en recourant à la formulation type de la FISE.
-3. Dans le cas d’un contrat de crédit immobilier avec un consommateur résidant dans un autre État membre, le prêteur mentionne l’existence du réseau FIN-NET.
+1\. Cette section indique le point de contact interne [nom du service responsable] et le moyen de le contacter en cas de réclamation [adresse géographique] ou [numéro de téléphone] ou [la personne de contact]: [coordonnées du contact] ainsi qu’un lien vers la procédure de réclamation sur la page appropriée d’un site internet ou une source d’information similaire.
+
+2\. Elle indique le nom de l’organisme extérieur chargé du règlement des réclamations et recours extrajudiciaires et lorsque le recours à la procédure de réclamation interne est une condition préalable à l’accès à cet organisme, elle l’indique en recourant à la formulation type de la FISE.
+
+3\. Dans le cas d’un contrat de crédit immobilier avec un consommateur résidant dans un autre État membre, le prêteur mentionne l’existence du réseau FIN-NET.
 
 \**Section 13. Non-respect des engagements liés au prêt: conséquences pour l’emprunteur**
 
-1. Si le non-respect, par le consommateur, de l’une quelconque des obligations liées à son prêt peut avoir pour lui des conséquences financières ou juridiques, le prêteur décrit dans cette section les principales situations possibles (retard ou défaut de paiement, ou encore non-respect des obligations énoncées à la section 8, «Obligations supplémentaires», par exemple) et indique où des informations supplémentaires pourraient être obtenues.
-2. Pour chacun de ces cas, le prêteur précise, en termes clairs et aisément compréhensibles, les sanctions ou les conséquences auxquelles l’emprunteur s’expose. Les conséquences les plus graves sont mises en évidence.
-3. Lorsque le bien immobilier utilisé pour garantir le crédit peut être restitué ou transféré au prêteur si le consommateur ne respecte pas ses obligations, cette section comprend une mention à ce sujet en recourant à la formulation type de la FISE.
+1\. Si le non-respect, par le consommateur, de l’une quelconque des obligations liées à son prêt peut avoir pour lui des conséquences financières ou juridiques, le prêteur décrit dans cette section les principales situations possibles (retard ou défaut de paiement, ou encore non-respect des obligations énoncées à la section 8, «Obligations supplémentaires», par exemple) et indique où des informations supplémentaires pourraient être obtenues.
+
+2\. Pour chacun de ces cas, le prêteur précise, en termes clairs et aisément compréhensibles, les sanctions ou les conséquences auxquelles l’emprunteur s’expose. Les conséquences les plus graves sont mises en évidence.
+
+3\. Lorsque le bien immobilier utilisé pour garantir le crédit peut être restitué ou transféré au prêteur si le consommateur ne respecte pas ses obligations, cette section comprend une mention à ce sujet en recourant à la formulation type de la FISE.
 
 \**Section 14. Informations complémentaires**
 
-1. En cas de vente à distance, cette section comprend toute rubrique précisant la loi applicable au contrat de crédit immobilier et/ou la juridiction compétente.
-2. Lorsque le prêteur a l’intention de communiquer avec le consommateur pendant la durée de validité du contrat dans une autre langue que celle de la FISE, ce fait est mentionné et la langue de communication est indiquée. Ce point est sans préjudice de l’article L. 222-14, paragraphe 1
+1\. En cas de vente à distance, cette section comprend toute rubrique précisant la loi applicable au contrat de crédit immobilier et/ou la juridiction compétente.
 
-   <sup>er</sup> , point 3., lettre e) du Code de la consommation.
-3. Le prêteur ou l’intermédiaire de crédit immobilier indique le droit du consommateur à recevoir un exemplaire du projet de contrat de crédit immobilier, au moins après qu’une offre engageant le prêteur a été fournie.
+2\. Lorsque le prêteur a l’intention de communiquer avec le consommateur pendant la durée de validité du contrat dans une autre langue que celle de la FISE, ce fait est mentionné et la langue de communication est indiquée. Ce point est sans préjudice de l’article L. 222-14, paragraphe 1 <sup>er</sup> , point 3., lettre e) du Code de la consommation.
+
+3\. Le prêteur ou l’intermédiaire de crédit immobilier indique le droit du consommateur à recevoir un exemplaire du projet de contrat de crédit immobilier, au moins après qu’une offre engageant le prêteur a été fournie.
 
 \**Section 15. Autorité de surveillance**
 
@@ -6286,69 +7143,104 @@ L’autorité compétente pour la surveillance du stade précontractuel de l’a
 
 Le taux annuel effectif global (TAEG) visé à l’article L. 226-19, paragraphe 6 du Code de la consommation est calculé selon la formule mathématique, et le cas échéant, selon les hypothèses supplémentaires exposées ci-après:
 
-1. Équation de base traduisant l’équivalence des prélèvements de crédit (drawdowns), d’une part, et des remboursements et frais, d’autre part.
+1\. Équation de base traduisant l’équivalence des prélèvements de crédit (drawdowns), d’une part, et des remboursements et frais, d’autre part.
 
-   L’équation de base, qui définit le taux annuel effectif global (TAEG) exprime sur une base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des remboursements et paiements de frais, soit:
+L’équation de base, qui définit le taux annuel effectif global (TAEG) exprime sur une base annuelle l’égalité entre, d’une part, la somme des valeurs actualisées des prélèvements de crédit et, d’autre part, la somme des valeurs actualisées des remboursements et paiements de frais, soit:
 
-   ![image](../images/f9/f988ba2417983c3d.png)
+![image](../images/f9/f988ba2417983c3d.png)
 
-   où, - X est le TAEG; - m désigne le numéro d’ordre du dernier prélèvement de crédit; - k désigne le numéro d’ordre d’un prélèvement de crédit, donc 1 ≤ k ≤ m; - C <sub>k</sub> est le montant du prélèvement de crédit numéro k; - t <sub>k</sub> désigne l’intervalle de temps, exprimé en années et fractions d’année, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0; - m’ est le numéro d’ordre du dernier remboursement ou paiement des frais; - l est le numéro d’ordre d’un remboursement ou paiement des frais; - D <sub>l</sub> est le montant d’un remboursement ou paiement des frais; - S <sub>l</sub> est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais.
+où,
 
-   Remarques:
+> | - | X | est le TAEG; |
+> |---|---|---|
+> | - | m | désigne le numéro d’ordre du dernier prélèvement de crédit; |
+> | - | k | désigne le numéro d’ordre d’un prélèvement de crédit, donc 1 ≤ k ≤ m; |
+> | - | C <sub>k</sub> | est le montant du prélèvement de crédit numéro k; |
+> | - | t <sub>k</sub> | désigne l’intervalle de temps, exprimé en années et fractions d’année, entre la date du premier prélèvement de crédit et la date de chaque prélèvement de crédit, donc t1 = 0; |
+> | - | m’ | est le numéro d’ordre du dernier remboursement ou paiement des frais; |
+> | - | l | est le numéro d’ordre d’un remboursement ou paiement des frais; |
+> | - | D <sub>l</sub> | est le montant d’un remboursement ou paiement des frais; |
+> | - | S <sub>l</sub> | est l’intervalle de temps, exprimé en années et fractions d’années, entre la date du premier prélèvement de crédit et la date de chaque remboursement ou paiement des frais. |
 
-   1. Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
-   2. La date initiale est celle du premier prélèvement de crédit.
-   3. L’écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d’année. Une année est présumée compter 365 jours (pour les années bissextiles: 366 jours), 52 semaines ou 12 mois normalisés. Un mois normalisé est présumé compter 30,41666 jours (c’est-à-dire 365/12), que l’année soit bissextile ou non.
+Remarques:
 
-      Lorsque l’écart entre les dates utilisées pour le calcul ne peut être exprimé en nombre entier de semaines, de mois ou d’années, il est exprimé en nombre entier de l’une de ces périodes en combinaison avec un nombre de jours. En cas d’utilisation de jours:
+a) Les montants payés de part et d’autre à différents moments ne sont pas nécessairement égaux et ne sont pas nécessairement versés à des intervalles réguliers.
 
-      1. chaque jour est compté, y compris les weekends et les jours fériés;
-      2. l’intervalle de temps est calculé par périodes normalisées et ensuite par jours en remontant jusqu’à la date du prélèvement initial;
-      3. la durée en jours est obtenue en excluant le premier jour et en incluant le dernier et elle est exprimée en années en divisant le nombre obtenu par le nombre de jours (365 ou 366) de l’année complète en remontant du dernier jour au même jour de l’année précédente.
-   4. Le résultat du calcul est exprimé avec une exactitude d’au moins une décimale. Si le chiffre de la décimale suivante est supérieur ou égal à 5, le chiffre de la précédente décimale exprimée sera augmenté de 1.
-   5. On peut réécrire l’équation en n’utilisant qu’une seule sommation et en utilisant la notion de flux (A
+b) La date initiale est celle du premier prélèvement de crédit.
 
-      <sub>k</sub> ), qui seront positifs ou négatifs, c’est-à-dire respectivement payés ou perçus aux périodes 1 à n exprimées en années, soit:
+c) L’écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d’année. Une année est présumée compter 365 jours (pour les années bissextiles: 366 jours), 52 semaines ou 12 mois normalisés. Un mois normalisé est présumé compter 30,41666 jours (c’est-à-dire 365/12), que l’année soit bissextile ou non.
 
-      ![image](../images/68/68480dd2481bfbd0.png)
+Lorsque l’écart entre les dates utilisées pour le calcul ne peut être exprimé en nombre entier de semaines, de mois ou d’années, il est exprimé en nombre entier de l’une de ces périodes en combinaison avec un nombre de jours. En cas d’utilisation de jours:
 
-   S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
-2. Les hypothèses supplémentaires nécessaires au calcul du TAEG sont les suivantes:
+i. chaque jour est compté, y compris les weekends et les jours fériés;
 
-   1. Si un contrat de crédit immobilier laisse au consommateur le libre choix quant au prélèvement de crédit, le montant total du crédit est réputé entièrement et immédiatement prélevé.
-   2. Si un contrat de crédit immobilier offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, le montant total du crédit est réputé prélevé au taux débiteur le plus élevé et avec les frais les plus élevés dans la catégorie d’opérations la plus fréquemment utilisée dans ce type de contrat de crédit immobilier.
-   3. Si un contrat de crédit immobilier laisse en général au consommateur le libre choix quant au prélèvement de crédit, mais prévoit parmi les divers modes de prélèvement une limite quant au montant et à la durée, le montant du crédit est réputé prélevé à la date la plus proche prévue dans le contrat et conformément à ces limites de prélèvement.
-   4. Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux débiteur et les frais les plus élevés sont réputés être le taux débiteur et les frais pendant la durée totale du contrat de crédit immobilier.
-   5. Pour les contrats de crédit immobilier pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d’un indicateur ou d’un taux de référence interne convenu, le calcul du TAEG part de l’hypothèse que, à la fin de la période à taux débiteur fixe, le taux débiteur est le même qu’au moment du calcul du TAEG, en fonction de la valeur, à ce moment-là, de l’indicateur ou du taux de référence interne convenu, sans être inférieur, cependant, au taux débiteur fixe.
-   6. Si le plafond du crédit n’a pas encore été arrêté, le plafond est supposé être de 170.000 euros. En cas de contrats de crédit immobilier, autres que les cautionnements ou les garanties, dont le but n’est pas d’acquérir ou de conserver un droit de propriété sur un bien immobilier ou un terrain, de découverts, de cartes à débit différé ou de cartes de crédit, ce plafond est supposé être de 1.500 euros.
-   7. En cas de contrats de crédit autres que les découverts, les crédits ponts ou relais, les contrats de crédit immobilier en fonds partagés, les cautionnements ou les garanties et les crédits à durée indéterminée visés dans les hypothèses des lettres i), j), k), l) et m):
+ii. l’intervalle de temps est calculé par périodes normalisées et ensuite par jours en remontant jusqu’à la date du prélèvement initial;
 
-      1. si la date ou le montant d’un remboursement de capital devant être effectué par le consommateur ne peuvent être établis, le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit immobilier et pour le montant le plus bas prévu dans le contrat;
-      2. si l’intervalle entre la date du prélèvement initial et celle du premier paiement devant être effectué par le consommateur ne peut pas être établi, il est supposé être l’intervalle le plus court.
-   8. Si la date ou le montant d’un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du contrat de crédit immobilier ou des hypothèses exposées aux lettres g), i), j), k), l) et m), le paiement est réputé être effectué aux dates et aux conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues:
+iii. la durée en jours est obtenue en excluant le premier jour et en incluant le dernier et elle est exprimée en années en divisant le nombre obtenu par le nombre de jours (365 ou 366) de l’année complète en remontant du dernier jour au même jour de l’année précédente.
 
-      1. les frais d’intérêts sont payés en même temps que les remboursements du capital;
-      2. les frais autres que d’intérêts, exprimés sous la forme d’une somme unique, sont payés à la date de conclusion du contrat de crédit immobilier;
-      3. les frais autres que d’intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à partir de la date du premier remboursement du capital, et si le montant de ces paiements n’est pas connu, les montants sont réputés égaux;
-      4. le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels.
-   9. En cas de facilité de découvert, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit immobilier. Si la durée de la facilité de découvert n’est pas connue, on calcule le TAEG en partant de l’hypothèse que la durée du crédit est de trois mois.
-   10. En cas de crédit pont ou relais, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit immobilier. Si la durée du contrat de crédit immobilier n’est pas connue, on calcule le TAEG en partant de l’hypothèse que la durée du crédit est de douze mois.
-   11. En cas de contrat de crédit immobilier à durée indéterminée, autre qu’une facilité de découvert ou un crédit pont ou relais:
+d) Le résultat du calcul est exprimé avec une exactitude d’au moins une décimale. Si le chiffre de la décimale suivante est supérieur ou égal à 5, le chiffre de la précédente décimale exprimée sera augmenté de 1.
 
-      1. en cas de contrats de crédit immobilier dont le but est d’acquérir ou de conserver des droits de propriété sur un bien immobilier, le crédit est réputé être octroyé pour une durée de vingt ans à partir de la date du prélèvement initial, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels; en cas de contrats de crédit immobilier dont le but n’est pas d’acquérir ou de conserver des droits de propriété sur un bien immobilier ou dont les prélèvements sont effectués au moyen de cartes à débit différé ou de cartes de crédit, cette durée est d’un an;
-      2. le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date du prélèvement initial. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l’intérieur de chaque période de paiement, les prélèvements et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d’un an. Les intérêts et autres frais sont appliqués conformément à ces prélèvements et remboursements du capital, d’une part, et aux dispositions du contrat de crédit immobilier, d’autre part.
+e) On peut réécrire l’équation en n’utilisant qu’une seule sommation et en utilisant la notion de flux (A <sub>k</sub> ), qui seront positifs ou négatifs, c’est-à-dire respectivement payés ou perçus aux périodes 1 à n exprimées en années, soit:
 
-      Aux fins de la lettre k), on entend, par contrat de crédit immobilier à durée indéterminée, un contrat de crédit immobilier sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour un nouveau prélèvement.
-   12. En cas d’engagements conditionnels ou de garanties, le montant total du crédit est réputé prélevé en totalité en une fois à celle des dates suivantes qui intervient le plus tôt:
+![image](../images/68/68480dd2481bfbd0.png)
 
-      1. la dernière date de prélèvement autorisée en vertu du contrat de crédit immobilier susceptible de faire intervenir l’engagement conditionnel ou la garantie; ou
-      2. en cas de contrat de crédit immobilier renouvelable, à la fin de la période initiale préalablement à la reconduction du contrat.
-   13. En cas de contrats de crédit en fonds partagés:
+S étant le solde des flux actualisés et dont la valeur sera nulle si on veut conserver l’équivalence des flux.
 
-      1. les paiements effectués par les consommateurs sont réputés intervenir à la (ou aux) dernière(s) date(s) autorisée(s) en vertu du contrat de crédit immobilier;
-      2. le pourcentage d’accroissement de la valeur du bien immobilier qui garantit le contrat de crédit immobilier en fonds partagés, ainsi que le taux de tout indice d’inflation visé dans le contrat, sont supposés égaux à la valeur la plus élevée entre le taux d’inflation cible de la banque centrale en vigueur et le niveau d’inflation dans l’État membre où le bien immobilier est situé au moment de la conclusion du contrat de crédit immobilier ou à 0 pour cent si ces pourcentages sont négatifs.
+2\. Les hypothèses supplémentaires nécessaires au calcul du TAEG sont les suivantes:
 
-#### *Section VIII* [^note_7_5_0] — *Mise en œuvre du droit de la consommation*
+a) Si un contrat de crédit immobilier laisse au consommateur le libre choix quant au prélèvement de crédit, le montant total du crédit est réputé entièrement et immédiatement prélevé.
+
+b) Si un contrat de crédit immobilier offre au consommateur différentes possibilités quant au prélèvement de crédit, assorties de frais ou de taux débiteurs différents, le montant total du crédit est réputé prélevé au taux débiteur le plus élevé et avec les frais les plus élevés dans la catégorie d’opérations la plus fréquemment utilisée dans ce type de contrat de crédit immobilier.
+
+c) Si un contrat de crédit immobilier laisse en général au consommateur le libre choix quant au prélèvement de crédit, mais prévoit parmi les divers modes de prélèvement une limite quant au montant et à la durée, le montant du crédit est réputé prélevé à la date la plus proche prévue dans le contrat et conformément à ces limites de prélèvement.
+
+d) Si des taux débiteurs et des frais différents sont proposés pendant une période limitée ou pour un montant limité, le taux débiteur et les frais les plus élevés sont réputés être le taux débiteur et les frais pendant la durée totale du contrat de crédit immobilier.
+
+e) Pour les contrats de crédit immobilier pour lesquels un taux débiteur fixe a été convenu dans le cadre de la période initiale, à la fin de laquelle un nouveau taux débiteur est établi et est ensuite périodiquement ajusté en fonction d’un indicateur ou d’un taux de référence interne convenu, le calcul du TAEG part de l’hypothèse que, à la fin de la période à taux débiteur fixe, le taux débiteur est le même qu’au moment du calcul du TAEG, en fonction de la valeur, à ce moment-là, de l’indicateur ou du taux de référence interne convenu, sans être inférieur, cependant, au taux débiteur fixe.
+
+f) Si le plafond du crédit n’a pas encore été arrêté, le plafond est supposé être de 170.000 euros. En cas de contrats de crédit immobilier, autres que les cautionnements ou les garanties, dont le but n’est pas d’acquérir ou de conserver un droit de propriété sur un bien immobilier ou un terrain, de découverts, de cartes à débit différé ou de cartes de crédit, ce plafond est supposé être de 1.500 euros.
+
+g) En cas de contrats de crédit autres que les découverts, les crédits ponts ou relais, les contrats de crédit immobilier en fonds partagés, les cautionnements ou les garanties et les crédits à durée indéterminée visés dans les hypothèses des lettres i), j), k), l) et m):
+
+i. si la date ou le montant d’un remboursement de capital devant être effectué par le consommateur ne peuvent être établis, le remboursement est réputé être effectué à la date la plus proche prévue dans le contrat de crédit immobilier et pour le montant le plus bas prévu dans le contrat;
+
+ii. si l’intervalle entre la date du prélèvement initial et celle du premier paiement devant être effectué par le consommateur ne peut pas être établi, il est supposé être l’intervalle le plus court.
+
+h) Si la date ou le montant d’un paiement devant être effectué par le consommateur ne peuvent être établis sur la base du contrat de crédit immobilier ou des hypothèses exposées aux lettres g), i), j), k), l) et m), le paiement est réputé être effectué aux dates et aux conditions requises par le prêteur et, lorsque celles-ci ne sont pas connues:
+
+i. les frais d’intérêts sont payés en même temps que les remboursements du capital;
+
+ii. les frais autres que d’intérêts, exprimés sous la forme d’une somme unique, sont payés à la date de conclusion du contrat de crédit immobilier;
+
+iii. les frais autres que d’intérêts, exprimés sous la forme de paiements multiples, sont payés à intervalles réguliers, à partir de la date du premier remboursement du capital, et si le montant de ces paiements n’est pas connu, les montants sont réputés égaux;
+
+iv. le paiement final liquide le solde du capital, les intérêts et les autres frais éventuels.
+
+i) En cas de facilité de découvert, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit immobilier. Si la durée de la facilité de découvert n’est pas connue, on calcule le TAEG en partant de l’hypothèse que la durée du crédit est de trois mois.
+
+j) En cas de crédit pont ou relais, le montant total du crédit est réputé prélevé en totalité et pour la durée totale du contrat de crédit immobilier. Si la durée du contrat de crédit immobilier n’est pas connue, on calcule le TAEG en partant de l’hypothèse que la durée du crédit est de douze mois.
+
+k) En cas de contrat de crédit immobilier à durée indéterminée, autre qu’une facilité de découvert ou un crédit pont ou relais:
+
+i. en cas de contrats de crédit immobilier dont le but est d’acquérir ou de conserver des droits de propriété sur un bien immobilier, le crédit est réputé être octroyé pour une durée de vingt ans à partir de la date du prélèvement initial, et le paiement final effectué par le consommateur liquide le solde du capital, les intérêts et les autres frais éventuels; en cas de contrats de crédit immobilier dont le but n’est pas d’acquérir ou de conserver des droits de propriété sur un bien immobilier ou dont les prélèvements sont effectués au moyen de cartes à débit différé ou de cartes de crédit, cette durée est d’un an;
+
+ii. le capital est supposé être remboursé par le consommateur en mensualités égales, le remboursement débutant un mois après la date du prélèvement initial. Toutefois, dans les cas où le capital doit être remboursé en totalité uniquement, en un seul versement, à l’intérieur de chaque période de paiement, les prélèvements et les remboursements successifs de la totalité du capital par le consommateur sont supposés être effectués sur la durée d’un an. Les intérêts et autres frais sont appliqués conformément à ces prélèvements et remboursements du capital, d’une part, et aux dispositions du contrat de crédit immobilier, d’autre part.
+
+Aux fins de la lettre k), on entend, par contrat de crédit immobilier à durée indéterminée, un contrat de crédit immobilier sans durée fixe, y compris les crédits qui doivent être remboursés en totalité dans ou après un délai donné mais qui, une fois remboursés, sont disponibles pour un nouveau prélèvement.
+
+l) En cas d’engagements conditionnels ou de garanties, le montant total du crédit est réputé prélevé en totalité en une fois à celle des dates suivantes qui intervient le plus tôt:
+
+i. la dernière date de prélèvement autorisée en vertu du contrat de crédit immobilier susceptible de faire intervenir l’engagement conditionnel ou la garantie; ou
+
+ii. en cas de contrat de crédit immobilier renouvelable, à la fin de la période initiale préalablement à la reconduction du contrat.
+
+m) En cas de contrats de crédit en fonds partagés:
+
+i. les paiements effectués par les consommateurs sont réputés intervenir à la (ou aux) dernière(s) date(s) autorisée(s) en vertu du contrat de crédit immobilier;
+
+ii. le pourcentage d’accroissement de la valeur du bien immobilier qui garantit le contrat de crédit immobilier en fonds partagés, ainsi que le taux de tout indice d’inflation visé dans le contrat, sont supposés égaux à la valeur la plus élevée entre le taux d’inflation cible de la banque centrale en vigueur et le niveau d’inflation dans l’État membre où le bien immobilier est situé au moment de la conclusion du contrat de crédit immobilier ou à 0 pour cent si ces pourcentages sont négatifs.
+
+#### *Section VIII*[^note_7_5_0] — *Mise en œuvre du droit de la consommation*
 
 ##### Sous-section I — Composition du Conseil de la consommation ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo))
 
@@ -6358,29 +7250,27 @@ Le taux annuel effectif global (TAEG) visé à l’article L. 226-19, paragraphe
 
 (1) ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) Le Conseil de la consommation, appelé ci-après «le Conseil», se compose de quinze membres dont:
 
-- deux représentants du Ministre ayant la protection des consommateurs dans ses attributions, ci-après dénommé «le Ministre»;
-- un représentant du Ministre ayant les Classes Moyennes dans ses attributions;
-- un représentant du Ministre ayant la Justice dans ses attributions;
-- (
+aash deux représentants du Ministre ayant la protection des consommateurs dans ses attributions, ci-après dénommé «le Ministre»;
 
-  [Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant du Ministre ayant les Médias et la Connectivité dans ses attributions ;
-- quatre délégués des organisations protectrices des intérêts collectifs des consommateurs agréées conformément à l’article L. 313-1 du Code de la consommation;
+bash un représentant du Ministre ayant les Classes Moyennes dans ses attributions;
 
-  [^note_9_79_0]
-- (
+cash un représentant du Ministre ayant la Justice dans ses attributions;
 
-  [Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant du Centre européen des consommateurs GIE Luxembourg ;
-- un représentant de la Chambre de Commerce;
-- un représentant de la Chambre des Métiers;
-- (
+dash ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant du Ministre ayant les Médias et la Connectivité dans ses attributions ;
 
-  [Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Luxembourg Confederation;
-- (
+eash quatre délégués des organisations protectrices des intérêts collectifs des consommateurs agréées conformément à l’article L. 313-1 du Code de la consommation;[^note_9_79_0]
 
-  [Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Fédération des Artisans;
-- (
+fash ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant du Centre européen des consommateurs GIE Luxembourg ;
 
-  [Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Chambre d’agriculture.
+gash un représentant de la Chambre de Commerce;
+
+hash un représentant de la Chambre des Métiers;
+
+iash ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Luxembourg Confederation;
+
+jash ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Fédération des Artisans;
+
+kash ([Règl. g.-d. 23 avril 2026](https://legilux.public.lu/eli/etat/leg/rgd/2026/04/23/a234/jo)) un représentant de la Chambre d’agriculture.
 
 (2) A chaque membre effectif du Conseil est adjoint un membre suppléant appelé à le remplacer en cas d’empêchement. Les membres effectifs et suppléants désignés par les organes respectifs sont nommés par le Ministre pour une durée de trois ans. Leur mandat est renouvelable.
 
@@ -6420,8 +7310,9 @@ Le Conseil peut instituer des commissions ou des groupes de travail chargés soi
 
 (1) Une demande d’avis émise, soit par des représentants des intérêts des consommateurs, soit par des représentants des organisations patronales, répond aux critères suivants :
 
-1. elle émane d’une majorité des membres du groupe ;
-2. elle est motivée sur base d’un document de travail développant la thématique proposée et son incidence sur la politique de protection des consommateurs et reprenant les aspects spécifiques à aborder.
+1° elle émane d’une majorité des membres du groupe ;
+
+2° elle est motivée sur base d’un document de travail développant la thématique proposée et son incidence sur la politique de protection des consommateurs et reprenant les aspects spécifiques à aborder.
 
 (2) La demande d’avis est adressée à la présidence du Conseil de la consommation qui juge de sa recevabilité. L’adoption de l’avis, qui reprend dans la mesure du possible des recommandations par rapport à d’éventuelles démarches futures, se fait à la majorité des voix des membres présents ou représentés. L’avis est ensuite transmis par la présidence au Ministre qui peut le publier.
 
@@ -6433,11 +7324,15 @@ Le Conseil peut instituer des commissions ou des groupes de travail chargés soi
 
 Le procès-verbal visé à l’article L. 311-8, paragraphe 15, contient les mentions suivantes, en ce qui concerne les modalités de consultation et d’utilisation de l’interface en ligne, au sens de l’article 3, point 15), du [règlement (UE) 2017/2394](https://legilux.public.lu/eli/reg_ue/2017/2394/jo) du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l’application de la législation en matière de protection des consommateurs et abrogeant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2006/2004/jo) :
 
-1. Les noms, qualité et résidence administrative de l’agent habilité ;
-2. L’identité d’emprunt sous laquelle l’agent habilité a conduit le contrôle ;
-3. La date et l’heure du contrôle ;
-4. Les modalités de connexion à l’interface et de recueil des informations ;
-5. Les modalités selon lesquelles les achats-tests ont été réalisés.
+1° Les noms, qualité et résidence administrative de l’agent habilité ;
+
+2° L’identité d’emprunt sous laquelle l’agent habilité a conduit le contrôle ;
+
+3° La date et l’heure du contrôle ;
+
+4° Les modalités de connexion à l’interface et de recueil des informations ;
+
+5° Les modalités selon lesquelles les achats-tests ont été réalisés.
 
 \*([Règl. g.-d. du 5 juillet 2016](http://www.legilux.lu/eli/etat/leg/rgd/2016/07/05/n7/jo))*
 
@@ -6449,21 +7344,33 @@ Le procès-verbal visé à l’article L. 311-8, paragraphe 15, contient les men
 
 (2) Le programme de formation professionnelle pénale spéciale des agents habilités est fixé comme suit :
 
-1. Une première partie de formation sur les éléments généraux de droit pénal et de procédure pénale d’une durée de 3 heures portant sur :
+1° Une première partie de formation sur les éléments généraux de droit pénal et de procédure pénale d’une durée de 3 heures portant sur :
 
-   1. l’organisation judicaire ;
-   2. le fonctionnement du Parquet ;
-   3. l’acheminement des dossiers ;
-   4. la fonction et les missions du juge d’instruction ;
-   5. la saisine d’instruction ;
-   6. la saisine des juridictions de jugement ;
-   7. le déroulement des audiences ;
-   8. la recherche et la constatation des infractions ;
-   9. le flagrant délit ;
-   10. la perquisition et la saisie ;
-   11. les droits et obligations de l’officier de police judiciaire ;
-   12. la valeur probante.
-2. Une deuxième partie de formation, d’une durée de 9 heures, portant sur les dispositions du présent code sanctionnées pénalement, ainsi que sur les missions et pouvoirs d’enquête des agents habilités.
+a) l’organisation judicaire ;
+
+b) le fonctionnement du Parquet ;
+
+c) l’acheminement des dossiers ;
+
+d) la fonction et les missions du juge d’instruction ;
+
+e) la saisine d’instruction ;
+
+f) la saisine des juridictions de jugement ;
+
+g) le déroulement des audiences ;
+
+h) la recherche et la constatation des infractions ;
+
+i) le flagrant délit ;
+
+j) la perquisition et la saisie ;
+
+k) les droits et obligations de l’officier de police judiciaire ;
+
+l) la valeur probante.
+
+2° Une deuxième partie de formation, d’une durée de 9 heures, portant sur les dispositions du présent code sanctionnées pénalement, ainsi que sur les missions et pouvoirs d’enquête des agents habilités.
 
 (3) Le contrôle des connaissances de la première partie de formation se fait à l’issue de la formation en ligne et est organisé par l’Institut national d’administration publique. L’agent réussit ce contrôle s’il obtient un score d’au moins huit sur dix. Les agents ayant réussi ce contrôle, peuvent ensuite accéder à l’examen qui porte sur les deux parties.
 
@@ -6471,7 +7378,7 @@ Le ministre ayant la Protection des consommateurs dans ses attributions, communi
 
 L’examen comporte deux épreuves écrites, une pour chaque partie de formation, dont le maximum des points à attribuer s’élève à trente points pour la première partie et trente points pour la deuxième partie. Si la note attribuée au candidat s’élève au moins à quinze sur trente points pour chaque partie, le candidat est considéré avoir réussi la formation et est admis à prêter serment en tant qu’officier de police judiciaire après avoir été désigné agent habilité par décision ministérielle. Un procès-verbal est envoyé au candidat avec une note sur soixante points.
 
-#### *Section IX* [^note_7_6_0] — *Règlement extrajudiciaire des litiges de consommation*
+#### *Section IX*[^note_7_6_0] — *Règlement extrajudiciaire des litiges de consommation*
 
 ##### Art. R. 411-1.
 
@@ -6479,16 +7386,21 @@ La formation spécifique en matière de résolution extrajudiciaire des litiges 
 
 Le programme théorique comprend les éléments suivants:
 
-1. Le règlement extrajudiciaire des litiges de consommation: définition;
-2. Le paysage du règlement extrajudiciaire des litiges de consommation au Luxembourg;
-3. Rôle du futur Service national du médiateur de la consommation;
-4. Relations avec la médiation civile et commerciale réglée par le
+1\. Le règlement extrajudiciaire des litiges de consommation: définition;
 
-   [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile) ;
-5. Entité qualifiée/Critères à respecter par une entité pour être notifiée à la Commission européenne;
-6. Règlement en ligne des litiges de consommation;
-7. Rôle du Centre Européen des Consommateurs;
-8. Les techniques de la médiation et de la conciliation comme outils pour le règlement de conflits.
+2\. Le paysage du règlement extrajudiciaire des litiges de consommation au Luxembourg;
+
+3\. Rôle du futur Service national du médiateur de la consommation;
+
+4\. Relations avec la médiation civile et commerciale réglée par le [Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile) ;
+
+5\. Entité qualifiée/Critères à respecter par une entité pour être notifiée à la Commission européenne;
+
+6\. Règlement en ligne des litiges de consommation;
+
+7\. Rôle du Centre Européen des Consommateurs;
+
+8\. Les techniques de la médiation et de la conciliation comme outils pour le règlement de conflits.
 
 Le programme pratique se fait sous forme de cas pratiques ou jeux de rôle.
 
@@ -6500,7 +7412,7 @@ Le programme pratique se fait sous forme de cas pratiques ou jeux de rôle.
 
 <table>
 <tr>
-<td colspan="2">**1. Dispositions communes**</td>
+<td colspan="2"><b>1. Dispositions communes</b></td>
 <td></td>
 <td></td>
 </tr>
@@ -6541,7 +7453,7 @@ Le programme pratique se fait sous forme de cas pratiques ou jeux de rôle.
 <td></td>
 </tr>
 <tr>
-<td colspan="2">**2. Indication du prix des produits**</td>
+<td colspan="2"><b>2. Indication du prix des produits</b></td>
 <td></td>
 <td></td>
 </tr>
@@ -6588,7 +7500,7 @@ Le programme pratique se fait sous forme de cas pratiques ou jeux de rôle.
 <td></td>
 </tr>
 <tr>
-<td colspan="2">**3. Indication du prix des services**</td>
+<td colspan="2"><b>3. Indication du prix des services</b></td>
 <td></td>
 <td></td>
 </tr>
@@ -6684,31 +7596,31 @@ Le programme pratique se fait sous forme de cas pratiques ou jeux de rôle.
 
 \**Notion de «consommateur»**
 
-\1. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 - Consommateur tel que défini à l’article 2 - Notion - Personnes morales – Exclusion
+1\. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 - Consommateur tel que défini à l’article 2 - Notion - Personnes morales – Exclusion
 
 \*La notion de consommateur, telle que définie à l’article 2, sous b), de la directive 93/13 concernant les clauses abusives dans les contrats conclus avec les consommateurs, doit être interprétée en ce sens qu’elle vise exclusivement les personnes physiques.*
 
 CJUE, 22 novembre 2001, Cape Snc contre Idealservice Srl (C-541/99) et Idealservice MN RE Sas contre OMAI Srl (C-542/99), Affaires jointes C-541/99 et C-542/99, Rec. 2001 page I-09049
 
-\2. Notion de consommateur – position d’infériorité par rapport au professionnel – pouvoir de négociation – directive 93/13
+2\. Notion de consommateur – position d’infériorité par rapport au professionnel – pouvoir de négociation – directive 93/13
 
 \*Le système de protection mis en oeuvre par la directive 93/13 repose sur l’idée que le consommateur se trouve dans une situation d’infériorité à l’égard du professionnel en ce qui concerne tant le pouvoir de négociation que le niveau d’information, situation qui le conduit à adhérer aux conditions rédigées préalablement par le professionnel, sans pouvoir exercer une influence sur le contenu de celles-ci.*
 
 CJUE, 26 octobre 2006, Elisa María Mostaza Claro contre Centro Móvil Milenium SL, Affaire C-168/05, Rec. 2006 page I-10421; Voy. aussi: CJUE, 4 juin 2009, Pannon GSM, Affaire C-243/08, Rec. 2009 page I‑4713, point 22, et CJUE, 6 octobre 2009, Asturcom Telecomunicaciones, Affaire C-40/08, Rec. 2009 page I-9579, point 29
 
-\3. Notion de consommateur – directive 2005/29
+3\. Notion de consommateur – directive 2005/29
 
 \*Aux fins de l’interprétation des dispositions de la directive 2005/29, la notion de consommateur revêt une importance primordiale. Cette directive prend comme critère d’évaluation le consommateur moyen qui est normalement informé et raisonnablement attentif et avisé, compte tenu des facteurs sociaux, culturels et linguistiques.*
 
 CJUE, 12 mai 2011, Konsumentombudsmannen contre Ving Sverige AB, Affaire C-122/10; Voy. aussi: CJUE, 19 septembre 2006, Lidl Belgium, Affaire C-356/04, Rec. 2006 page I-8501; CJUE, 9 novembre 2010, Mediaprint Zeitungs- und Zeitschriftenverlag GmbH & Co. KG contre «Österreich» Zeitungsverlag GmbH, Affaire C-540/08, Rec. 2010 page I-10909; CJUE, 19 septembre 2013, CHS Tour Services GmbH/Team4 Travel GmbH, Affaire C-435/11, non encore publié au Recueil.
 
-\4. Directive 85/577 concernant la protection des consommateurs dans le cas de contrats négociés en dehors des établissements commerciaux - Consommateur protégé - Notion - Commerçant démarché en vue de la conclusion d’un contrat de publicité relatif à la vente de son fonds de commerce - Exclusion - Législation nationale étendant aux commerçants la protection prévue par la directive – Admissibilité
+4\. Directive 85/577 concernant la protection des consommateurs dans le cas de contrats négociés en dehors des établissements commerciaux - Consommateur protégé - Notion - Commerçant démarché en vue de la conclusion d’un contrat de publicité relatif à la vente de son fonds de commerce - Exclusion - Législation nationale étendant aux commerçants la protection prévue par la directive – Admissibilité
 
 \*Le commerçant démarché en vue de la conclusion d’un contrat de publicité relatif à la vente de son fonds de commerce ne doit pas être considéré comme un consommateur protégé par la directive 85/577 […]. Il résulte, en effet, de l’article 2 de cette directive que le critère d’application de la protection réside dans le lien qui unit les transactions faisant l’objet du démarchage à l’activité professionnelle du commerçant: celui-ci ne peut prétendre à l’application de la directive que si l’opération pour laquelle il est démarché excède le cadre de ses activités professionnelles. Les actes préparatoires à la vente d’un fonds de commerce sont liés à l’activité professionnelle du commerçant; ils peuvent certes conduire à mettre fin à cette activité, mais ils n’en constituent pas moins des actes de gestion accomplis en vue de satisfaire des besoins autres que les besoins familiaux ou personnels du commerçant. La directive 85/577 ne s’oppose pas à ce qu’une législation nationale sur le démarchage étende la protection qu’elle établit à des commerçants, lorsque ceux-ci accomplissent des actes en vue de la vente de leur fonds de commerce. En effet, l’article 8 de cette directive, qui laisse aux États membres la faculté d’adopter ou de maintenir des dispositions encore plus favorables en matière de protection des consommateurs dans le domaine couvert par la directive, ne saurait être interprété comme interdisant auxdits États de prendre des mesures dans un domaine non couvert par celle-ci, comme celui de la protection des commerçants.*
 
 CJUE, 14 mars 1991, Procédure pénale contre Patrice Di Pinto, Affaire C-361/89, Rec. 1991 page I-01189
 
-\5. Consommateur moyen - notion - appréciation par les juridictions nationales
+5\. Consommateur moyen - notion - appréciation par les juridictions nationales
 
 \*Le consommateur moyen est celui qui est normalement informé et raisonnablement attentif et avisé, compte tenu des facteurs sociaux, culturels et linguistiques. La notion de consommateur moyen n’est pas une notion statique et les juridictions nationales devront s’en remettre à leur propre faculté de jugement, en tenant compte de la jurisprudence de la Cour de justice, pour déterminer la réaction typique du consommateur moyen dans un cas donné.*
 
@@ -6742,25 +7654,25 @@ Tribunal d’arrondissement de Luxembourg – 6 <sup>e</sup> Chambre – 30 juin
 
 \*Interdictions générales de principe*
 
-\1. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale interdisant les offres conjointes aux consommateurs
+1\. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale interdisant les offres conjointes aux consommateurs
 
 \*La directive 2005/29/CE […] doit être interprétée en ce sens qu’elle s’oppose à une réglementation nationale, telle que celle en cause dans les litiges au principal, qui, sauf certaines exceptions et sans tenir compte des circonstances spécifiques du cas d’espèce, interdit toute offre conjointe faite par un vendeur à un consommateur.*
 
 CJUE, 23 avril 2009, VTB-VAB NV contre Total Belgium NV (C-261/07) et Galatea BVBA contre Sanoma Magazines Belgium NV (C-299/07), Affaires jointes C- 261/07 et C-299/07, Rec. 2009 page I-02949
 
-\2. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale énonçant une interdiction de principe des pratiques commerciales subordonnant la participation des consommateurs à un jeu promotionnel à l’acquisition d’un bien ou d’un service.
+2\. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale énonçant une interdiction de principe des pratiques commerciales subordonnant la participation des consommateurs à un jeu promotionnel à l’acquisition d’un bien ou d’un service.
 
 \*La directive 2005/29/CE […] doit être interprétée en ce sens qu’elle s’oppose à une réglementation nationale, telle que celle en cause au principal, qui prévoit une interdiction de principe, sans tenir compte des circonstances spécifiques du cas d’espèce, des pratiques commerciales faisant dépendre la participation des consommateurs à un concours ou à un jeu promotionnels de l’acquisition d’un bien ou d’un service.*
 
 CJUE, 14 janvier 2010, Zentrale zur Bekämpfung unlauteren Wettbewerbs eV contre Plus Warenhandelsgesellschaft mbH, Affaire C-304/08, Rec. 2010 page I-00217
 
-\3. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale énonçant une interdiction de principe des pratiques commerciales subordonnant l’offre de primes aux consommateurs à l’acquisition de biens ou de services
+3\. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales - Réglementation nationale énonçant une interdiction de principe des pratiques commerciales subordonnant l’offre de primes aux consommateurs à l’acquisition de biens ou de services
 
 \*La directive 2005/29/CE […] doit être interprétée en ce sens qu’elle s’oppose à une disposition nationale, telle que celle en cause au principal, qui prévoit une interdiction générale des ventes avec primes et qui vise non seulement à protéger les consommateurs, mais poursuit également d’autres objectifs.*
 
 CJUE, 9 novembre 2010, Mediaprint Zeitungs- und Zeitschriftenverlag GmbH & Co. KG contre «Österreich» Zeitungsverlag GmbH, Affaire C-540/08, Rec. 2010 page I-10909
 
-\4. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales – Réglementation nationale interdisant les annonces de réduction de prix et celles suggérant une telle réduction.
+4\. Directive 2005/29/CE relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales») - Pratiques commerciales déloyales – Réglementation nationale interdisant les annonces de réduction de prix et celles suggérant une telle réduction.
 
 \*La directive 2005/29/CE […] doit être interprétée en ce sens qu’elle s’oppose à une disposition nationale, telle que celle en cause au principal, qui prévoit une interdiction générale des annonces de réduction de prix et de celles suggérant une telle réduction au cours de la période précédant celle des ventes en solde, pour autant que cette disposition poursuive des finalités tenant à la protection des consommateurs. Il appartient à la juridiction de renvoi d’apprécier si tel est le cas dans l’affaire au principal.*
 
@@ -6786,19 +7698,19 @@ CJUE, 9 novembre 2010, Mediaprint Zeitungs- und Zeitschriftenverlag GmbH & Co. K
 
 \*Quant à l’article L. 122-2*
 
-\1. Pratique trompeuse - garantie satisfait ou remboursé
+1\. Pratique trompeuse - garantie satisfait ou remboursé
 
 \*La pratique consistant à offrir un service payant avec une garantie satisfait ou remboursé dont la mise en oeuvre est liée à l’absence de tout contact par un intéressé et au respect de formalités strictes est à considérée comme une pratique trompeuse au sens de l’article L.122-2 (1) 2) du Code de la consommation*
 
 Ordonnance en matière commerciale IIe du 17 juin 2011 N° 862/2011
 
-\2. Pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs – action trompeuse (notion) – décision commerciale (notion) - caractère cumulatif des conditions énumérées par la disposition en cause - directive 2005/29/CE, art. 6 paragraphe 1
+2\. Pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs – action trompeuse (notion) – décision commerciale (notion) - caractère cumulatif des conditions énumérées par la disposition en cause - directive 2005/29/CE, art. 6 paragraphe 1
 
 \*Une pratique commerciale doit être qualifiée de «trompeuse», au sens de l’article 6, paragraphe 1, de la directive 2005/29/CE du Parlement européen et du Conseil, du 11 mai 2005, relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales»), lorsque cette pratique, d’une part, contient des informations fausses ou qu’elle est susceptible d’induire en erreur le consommateur moyen et, d’autre part, elle est de nature à amener le consommateur à prendre une décision commerciale qu’il n’aurait pas prise autrement. L’article 2, sous k), de cette directive doit être interprété en ce sens que relève de la notion de «décision commerciale» toute décision qui est en lien direct avec celle d’acquérir ou non un produit.*
 
 CJUE, 19 décembre 2013, Trento Sviluppo srl, Centrale Adriatica Soc. coop. Arl contre Autorità Garante della Concorrenza e del Mercato, Affaire C-281/12, non encore publié au Recueil; CJUE, 19 septembre 2013, CHS Tour Services GmbH/Team4 Travel GmbH, Affaire C-435/11, non encore publié au Recueil
 
-\3. Directive 2005/29/CE – Pratiques commerciales déloyales – Champ d’application – Informations trompeuses diffusées par une caisse de maladie du régime légal d’assurance sociale – Caisse constituée sous la forme d’un organisme de droit public
+3\. Directive 2005/29/CE – Pratiques commerciales déloyales – Champ d’application – Informations trompeuses diffusées par une caisse de maladie du régime légal d’assurance sociale – Caisse constituée sous la forme d’un organisme de droit public
 
 \*La directive 2005/29/CE du Parlement européen et du Conseil, du 11 mai 2005, relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales»), doit être interprétée en ce sens que relève de son champ d’application personnel un organisme de droit public en charge d’une mission d’intérêt général, telle que la gestion d’un régime légal d’assurance maladie.*
 
@@ -6816,7 +7728,7 @@ CJUE, 12 mai 2011, Konsumentombudsmannen contre Ving Sverige AB, Affaire C-122/1
 
 \*Quant à l’article L. 122-7*
 
-\1. Directive 2005/29/CE – Pratiques commerciales déloyales – Pratique consistant à informer le consommateur du fait qu’il a gagné un prix et l’obligeant, afin de recevoir ledit prix, à supporter un coût quelconque
+1\. Directive 2005/29/CE – Pratiques commerciales déloyales – Pratique consistant à informer le consommateur du fait qu’il a gagné un prix et l’obligeant, afin de recevoir ledit prix, à supporter un coût quelconque
 
 \*Le point 31, second tiret, de l’annexe I de la directive 2005/29/CE du Parlement européen et du Conseil, du 11 mai 2005, relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales»), doit être interprété en ce sens qu’il interdit les pratiques agressives par lesquelles des professionnels, tels que ceux en cause dans l’affaire au principal, donnent l’impression fausse que le consommateur a déjà gagné un prix, alors que l’accomplissement d’une action en rapport avec la demande de ce prix, qu’il s’agisse d’une demande d’information relative à la nature dudit prix ou de la prise de possession de celui-ci, est subordonné à l’obligation, pour le consommateur, de verser de l’argent ou de supporter un coût quelconque.*
 
@@ -6828,7 +7740,7 @@ CJUE, 12 mai 2011, Konsumentombudsmannen contre Ving Sverige AB, Affaire C-122/1
 
 CJUE, 18 octobre 2012, Purely Creative Ltd et autres contre Office of Fair Trading, Affaire C-428/11, non encore publié au Recueil
 
-\2. Directive 2005/29/CE – Pratiques commerciales déloyales – Champ d’application ratione personae – Omissions trompeuses dans des publireportages – Réglementation d’un État membre interdisant toute publication à titre onéreux sans la mention «annonce» («Anzeige») – Harmonisation complète – Mesures plus strictes – Liberté de la presse
+2\. Directive 2005/29/CE – Pratiques commerciales déloyales – Champ d’application ratione personae – Omissions trompeuses dans des publireportages – Réglementation d’un État membre interdisant toute publication à titre onéreux sans la mention «annonce» («Anzeige») – Harmonisation complète – Mesures plus strictes – Liberté de la presse
 
 \*La directive 2005/29/CE du Parlement européen et du Conseil, du 11 mai 2005, relative aux pratiques commerciales déloyales des entreprises visà-vis des consommateurs dans le marché intérieur et modifiant la directive 84/450/CEE du Conseil et les directives 97/7/CE, 98/27/CE et 2002/65/CE du Parlement européen et du Conseil et le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil («directive sur les pratiques commerciales déloyales»), n’a pas vocation à être invoquée à l’encontre des éditeurs de presse, de sorte que, dans ces circonstances, cette directive doit être interprétée en ce sens qu’elle ne s’oppose pas à l’application d’une disposition nationale en vertu de laquelle ces éditeurs sont tenus de faire figurer une mention spécifique, en l’occurrence le terme «annonce» («Anzeige»), sur toute publication dans leurs périodiques pour laquelle ils perçoivent une rétribution, à moins que la disposition ou la conception de cette publication ne permettent, de façon générale, de reconnaître la nature publicitaire de celle-ci.*
 
@@ -6836,13 +7748,13 @@ CJUE, 17 octobre 2013, RLvS Verlagsgesellschaft mbH contre Stuttgarter Wochenbla
 
 \**Clauses abusives**
 
-\1. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clauses abusives dans les contrats conclus avec les consommateurs - Absence de contestation du caractère abusif d’une clause lors de la procédure arbitrale - Possibilité de soulever cette exception dans le cadre de la procédure de recours contre la sentence arbitrale
+1\. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clauses abusives dans les contrats conclus avec les consommateurs - Absence de contestation du caractère abusif d’une clause lors de la procédure arbitrale - Possibilité de soulever cette exception dans le cadre de la procédure de recours contre la sentence arbitrale
 
 \*La directive 93/13 […] doit être interprétée en ce sens qu’elle implique qu’une juridiction nationale saisie d’un recours en annulation d’une sentence arbitrale apprécie la nullité de la convention d’arbitrage et annule cette sentence au motif que ladite convention contient une clause abusive, alors même que le consommateur a invoqué cette nullité non pas dans le cadre de la procédure arbitrale, mais uniquement dans celui du recours en annulation.*
 
 CJUE, 26 octobre 2006, Elisa María Mostaza Claro contre Centro Móvil Milenium SL, Affaire C-168/05, Rec. 2006 page I-10421
 
-\2. Consommation – clauses abusives – énumération exhaustive par la loi (non) – appréciation – circonstances concrètes entourant la conclusion du contrat – interprétation la plus favorable au consommateur en cas de doute – obligation de loyauté – rédaction du contrat de manière claire et compréhensible – loi modifiée du 25 août 1983, art. 1, 1-1 et 2
+2\. Consommation – clauses abusives – énumération exhaustive par la loi (non) – appréciation – circonstances concrètes entourant la conclusion du contrat – interprétation la plus favorable au consommateur en cas de doute – obligation de loyauté – rédaction du contrat de manière claire et compréhensible – loi modifiée du 25 août 1983, art. 1, 1-1 et 2
 
 \*La loi n’énumère pas de manière exhaustive les clauses abusives et, partant, nulles.*
 
@@ -6854,54 +7766,57 @@ CJUE, 26 octobre 2006, Elisa María Mostaza Claro contre Centro Móvil Milenium 
 
 Cour d’appel (civil), 5 mai 2010, A.-B. – VK INVEST S.A. –X. – HABITAT SARL, Pasicrisie n° 2/2011, page 187
 
-\3. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Contrats conclus avec les consommateurs – Clauses définissant l’objet principal du contrat - Contrôle juridictionnel de leur caractère abusif - Exclusion – Dispositions nationales plus strictes pour assurer un niveau de protection plus élevé au consommateur
+3\. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Contrats conclus avec les consommateurs – Clauses définissant l’objet principal du contrat - Contrôle juridictionnel de leur caractère abusif - Exclusion – Dispositions nationales plus strictes pour assurer un niveau de protection plus élevé au consommateur
 
 \*Les articles 3, paragraphe 1, et 4, paragraphe 1, de la directive 93/13 […] définissent, dans leur ensemble, les critères généraux permettant d’apprécier la nature abusive des clauses contractuelles soumises aux dispositions de la directive. Dans cette même perspective, l’article 4, paragraphe 2, de la directive vise pour sa part uniquement à établir les modalités et l’étendue du contrôle de fond des clauses contractuelles, n’ayant pas fait l’objet d’une négociation individuelle, qui décrivent les prestations essentielles des contrats conclus entre un professionnel et un consommateur. Il s’ensuit que les clauses visées à cet article 4, paragraphe 2, relèvent bien du domaine régi par la directive et que, partant, l’article 8 de celle-ci s’applique également audit article 4, paragraphe 2.*
 
 CJUE, 3 juin 2010, Caja de Ahorros y Monte de Piedad de Madrid contre Asociación de Usuarios de Servicios Bancarios (Ausbanc), Affaire C-484/08, Rec. 2010 page I-04785.
 
-\4. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clause abusive au sens de l’article 3 - Notion - Clause obligeant le consommateur à payer la totalité du prix avant l’exécution de la contrepartie mais dès constitution d’une garantie - Appréciation du caractère abusif par le juge national
+4\. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clause abusive au sens de l’article 3 - Notion - Clause obligeant le consommateur à payer la totalité du prix avant l’exécution de la contrepartie mais dès constitution d’une garantie - Appréciation du caractère abusif par le juge national
 
 \*Il appartient au juge national de déterminer si une clause d’un contrat de construction rendant la totalité du prix exigible avant l’exécution de ses obligations par le professionnel et imposant la constitution d’une garantie par celuici réunit les critères requis pour être qualifiée d’abusive au sens de l’article 3, paragraphe 1, de la directive 93/13 […]. En effet, si la Cour peut interpréter les critères généraux utilisés par le législateur communautaire pour définir la notion de clause abusive telle qu’elle figure dans la directive 93/13, en revanche, elle ne saurait se prononcer sur l’application de ces critères généraux à une clause particulière qui doit être examinée en fonction des circonstances propres au cas d’espèce.*
 
 CJUE, 1 <sup>er</sup> avril 2004, Freiburger Kommunalbauten GmbH Baugesellschaft & Co. KG contre Ludger Hofstetter et Ulrike Hofstetter, Affaire C-237/02, Rec. 2004 page I-03403
 
-\5. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 concernant les clauses abusives dans les contrats conclus avec les consommateurs - Faculté pour le juge national de relever, d’office ou à la suite d’une exception soulevée par le consommateur, le caractère abusif d’une clause du contrat – Réglementation nationale imposant un délai de forclusion - Inadmissibilité
+5\. Clauses abusives dans les contrats conclus avec les consommateurs - Directive 93/13 concernant les clauses abusives dans les contrats conclus avec les consommateurs - Faculté pour le juge national de relever, d’office ou à la suite d’une exception soulevée par le consommateur, le caractère abusif d’une clause du contrat – Réglementation nationale imposant un délai de forclusion - Inadmissibilité
 
 \*La protection que la directive 93/13 […] confère aux consommateurs s’étend aux hypothèses dans lesquelles le consommateur qui a conclu avec un professionnel un contrat contenant une clause abusive s’abstient d’invoquer le caractère abusif de cette clause. Il apparaît dès lors que, dans les procédures ayant pour objet l’exécution de clauses abusives, introduites par des professionnels à l’encontre de consommateurs, la fixation d’une limite temporelle au pouvoir du juge d’écarter, d’office ou à la suite d’une exception soulevée par le consommateur, de telles clauses est de nature à porter atteinte à l’effectivité de la protection voulue par les articles 6 et 7 de la directive. Ainsi, une disposition procédurale qui interdit au juge national, à l’expiration d’un délai de forclusion, de relever, d’office ou à la suite d’une exception soulevée par un consommateur, le caractère abusif d’une clause dont l’exécution est demandée par le professionnel est de nature à rendre excessivement difficile, dans les litiges dans lesquels les consommateurs sont défendeurs, l’application de la protection que la directive entend leur conférer et, en conséquence, elle doit être écartée par ledit juge.*
 
 CJUE, 21 novembre 2002, Cofidis SA contre Jean-Louis Fredout, Affaire C-473/00, Rec. 2002 page I-10875
 
-\6. Directive 93/13/CEE — Contrats conclus avec les consommateurs — Clause d’intérêts moratoires abusive — Procédure d’injonction de payer — Compétences du juge national
+6\. Directive 93/13/CEE — Contrats conclus avec les consommateurs — Clause d’intérêts moratoires abusive — Procédure d’injonction de payer — Compétences du juge national
 
 \*La directive 93/13/CEE du Conseil, du 5 avril 1993, concernant les clauses abusives dans les contrats conclus avec les consommateurs, doit être interprétée en ce sens qu’elle s’oppose à une réglementation d’un État membre, telle que celle en cause au principal, qui ne permet pas au juge saisi d’une demande d’injonction de payer d’apprécier d’office, in limine litis ni à aucun autre moment de la procédure, alors même qu’il dispose des éléments de droit et de fait nécessaires à cet effet, le caractère abusif d’une clause d’intérêts moratoires contenue dans un contrat conclu entre un professionnel et un consommateur, en l’absence d’opposition formée par ce dernier. L’article 6, paragraphe 1, de la directive 93/13 doit être interprété en ce sens qu’il s’oppose à une réglementation d’un État membre, telle que l’article 83 du décret royal législatif 1/2007, portant refonte de la loi générale relative à la protection des consommateurs et des usagers et d’autres lois complémentaires (Real Decreto Legislativo 1/2007 por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias), du 16 novembre 2007, qui permet au juge national, lorsqu’il constate la nullité d’une clause abusive dans un contrat conclu entre un professionnel et un consommateur, de compléter ledit contrat en révisant le contenu de cette clause.*
 
 CJUE, 14 juin 2012, Banco Español de Crédito SA contre Joaquín Calderón Camino, Affaire C-618/10, non encore publié au Recueil.
 
-\7. Directive 93/13/CEE, art. 4, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – caractère abusif - critère d’appréciation
+7\. Directive 93/13/CEE, art. 4, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – caractère abusif - critère d’appréciation
 
 \*Conformément à l’article 4, paragraphe 1, de la directive, le caractère abusif d’une clause contractuelle doit être apprécié en tenant compte de la nature des biens ou des services qui font l’objet du contrat en cause et en se référant à toutes les circonstances qui entourent sa conclusion, de même qu’à toutes les autres clauses de ce contrat*
 
 CJUE, 21 février 2013, Banif Plus Bank Zrt contre Csaba Csipai et Viktória Csipai, Affaire C-472/11, non encore publié au Recueil.
 
-\8. Directive 93/13/CEE, art. 3, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – critère d’appréciation – déséquilibre significatif (notion)
+8\. Directive 93/13/CEE, art. 3, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – critère d’appréciation – déséquilibre significatif (notion)
 
 \*Il ressort de l’article 3, paragraphe 1, de la directive, seules entrent dans le champ d’application de celle‑ci les clauses figurant dans un contrat conclu entre un professionnel et un consommateur qui n’ont pas fait l’objet d’une négociation individuelle. (…) Selon une jurisprudence constante de la Cour, la compétence de cette dernière en la matière porte sur l’interprétation de la notion de «clause abusive», visée à l’article 3, paragraphe 1, de la directive et à l’annexe de celle-ci, ainsi que sur les critères que le juge national peut ou doit appliquer lors de l’examen d’une clause contractuelle au regard des dispositions de la directive, étant entendu qu’il appartient audit juge de se prononcer, en tenant compte de ces critères, sur la qualification concrète d’une clause ontractuelle particulière en fonction des circonstances propres au cas d’espèce. Il en ressort que la Cour doit se limiter à fournir à la juridiction de renvoi des indications dont cette dernière est censée tenir compte afin d’apprécier le caractère abusif de la clause concernée. Afin de savoir si une clause crée, au détriment du consommateur, un «déséquilibre significatif» entre les droits et obligations des parties découlant d’un contrat, il convient notamment de tenir compte des règles applicables en droit national en l’absence d’un accord des parties en ce sens. C’est au moyen d’une telle analyse comparative que le juge national pourra évaluer si et, le cas échéant, dans quelle mesure le contrat place le consommateur dans une situation juridique moins favorable par rapport à celle prévue par le droit national en vigueur.*
 
 CJUE, 14 mars 2013, Mohamed Aziz contre Caixa d´Estalvis de Catalunya, Tarragona i Manresa (Catalunyacaixa), Affaire C-415/11, non encore publié au Recueil.
 
-\9. Directive 93/13/CEE – Clauses abusives figurant dans les contrats conclus avec les consommateurs – Contrat de bail d’habitation conclu entre un bailleur professionnel et un locataire agissant à des fins privées – Examen d’office, par le juge national, du caractère abusif d’une clause contractuelle – Clause pénale – Annulation de la clause
+9\. Directive 93/13/CEE – Clauses abusives figurant dans les contrats conclus avec les consommateurs – Contrat de bail d’habitation conclu entre un bailleur professionnel et un locataire agissant à des fins privées – Examen d’office, par le juge national, du caractère abusif d’une clause contractuelle – Clause pénale – Annulation de la clause
 
-1. *La directive 93/13/CEE du Conseil, du 5 avril 1993, concernant les clauses abusives dans les contrats conclus avec les consommateurs, doit être interprétée en ce sens que, sous réserve des clauses reflétant des dispositions législatives ou réglementaires impératives prévues par le droit national, ce qu’il appartient au juge national de vérifier, elle s’applique à un contrat de bail à usage d’habitation, conclu entre un bailleur agissant dans le cadre de son activité professionnelle et un locataire agissant à des fins qui n’entrent pas dans le cadre de son activité professionnelle.*
-2. *La directive 93/13 doit être interprétée en ce sens que:*
+1\) *La directive 93/13/CEE du Conseil, du 5 avril 1993, concernant les clauses abusives dans les contrats conclus avec les consommateurs, doit être interprétée en ce sens que, sous réserve des clauses reflétant des dispositions législatives ou réglementaires impératives prévues par le droit national, ce qu’il appartient au juge national de vérifier, elle s’applique à un contrat de bail à usage d’habitation, conclu entre un bailleur agissant dans le cadre de son activité professionnelle et un locataire agissant à des fins qui n’entrent pas dans le cadre de son activité professionnelle.*
 
-   - *dès lors que le juge national, saisi d’une action introduite par un professionnel à l’encontre d’un consommateur, portant sur l’exécution d’un contrat, a le pouvoir, selon les règles de procédure internes, d’examiner d’office la contrariété entre la clause qui sert de base à la demande et les règles nationales d’ordre public, il doit de la même manière, lorsqu’il a établi que ladite clause entre dans le champ d’application de cette directive, apprécier d’office le caractère éventuellement abusif de celle-ci au regard des critères édictés par ladite directive;*
-   - *dès lors que le juge national a le pouvoir, selon les règles de procédure internes, d’annuler d’office une clause contraire à l’ordre public ou à une disposition légale contraignante dont la portée justifie cette sanction, il doit, en principe, après avoir donné aux parties la possibilité d’un débat contradictoire, annuler d’office une clause contractuelle dont il a constaté le caractère abusif au regard des critères édictés par ladite directive.*
-3. *L’article 6, paragraphe 1, de la directive 93/13 doit être interprété en ce sens qu’il ne permet pas au juge national, lorsqu’il a établi le caractère abusif d’une clause pénale dans un contrat conclu entre un professionnel et un consommateur, de se limiter, comme l’y autorise le droit national, à modérer le montant de la pénalité mise par cette clause à la charge de ce consommateur, mais lui impose d’écarter purement et simplement l’application de ladite clause à l’égard du consommateur.*
+2\) *La directive 93/13 doit être interprétée en ce sens que:*
+
+aash *dès lors que le juge national, saisi d’une action introduite par un professionnel à l’encontre d’un consommateur, portant sur l’exécution d’un contrat, a le pouvoir, selon les règles de procédure internes, d’examiner d’office la contrariété entre la clause qui sert de base à la demande et les règles nationales d’ordre public, il doit de la même manière, lorsqu’il a établi que ladite clause entre dans le champ d’application de cette directive, apprécier d’office le caractère éventuellement abusif de celle-ci au regard des critères édictés par ladite directive;*
+
+bash *dès lors que le juge national a le pouvoir, selon les règles de procédure internes, d’annuler d’office une clause contraire à l’ordre public ou à une disposition légale contraignante dont la portée justifie cette sanction, il doit, en principe, après avoir donné aux parties la possibilité d’un débat contradictoire, annuler d’office une clause contractuelle dont il a constaté le caractère abusif au regard des critères édictés par ladite directive.*
+
+3\) *L’article 6, paragraphe 1, de la directive 93/13 doit être interprété en ce sens qu’il ne permet pas au juge national, lorsqu’il a établi le caractère abusif d’une clause pénale dans un contrat conclu entre un professionnel et un consommateur, de se limiter, comme l’y autorise le droit national, à modérer le montant de la pénalité mise par cette clause à la charge de ce consommateur, mais lui impose d’écarter purement et simplement l’application de ladite clause à l’égard du consommateur.*
 
 CJUE, 30 mai 2013, Dirk Frederik Asbeek Brusse et Katarina de Man Garabito contre Jahani BV, Affaire C-488/11, non publié au Recueil.
 
-\10. Directive 93/13/CEE, art. 3, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – critère d’appréciation – déséquilibre significatif (notion)
+10\. Directive 93/13/CEE, art. 3, paragraphe 1 – contrats conclus avec les consommateurs – contrat de vente immobilière – clauses abusives – critère d’appréciation – déséquilibre significatif (notion)
 
 \*Il apparaît ainsi que la question de savoir si un tel déséquilibre significatif existe ne saurait se limiter à une appréciation économique de nature quantitative, reposant sur une comparaison entre le montant total de l’opération ayant fait l’objet du contrat, d’une part, et les coûts mis à la charge du consommateur par cette clause, d’autre part. Au contraire, un déséquilibre significatif peut résulter du seul fait d’une atteinte suffisamment grave à la situation juridique dans laquelle le consommateur, en tant que partie au contrat en cause, est placé en vertu des dispositions nationales applicables, que ce soit sous la forme d’une restriction au contenu des droits que, selon ces dispositions, il tire de ce contrat ou d’une entrave à l’exercice de ceux-ci ou encore de la mise à sa charge d’une obligation supplémentaire, non prévue par les règles nationales.*
 
@@ -6909,7 +7824,7 @@ CJUE, 16 janvier 2014, Constructora Principado SA contre José Ignacio Menéndez
 
 \*Quant à l’article L. 211-2 et L. 211-3*
 
-\1. Conditions générales des services – télécommunications électroniques - protection du consommateur - clauses déclarées abusives - notion de consommateur moyen
+1\. Conditions générales des services – télécommunications électroniques - protection du consommateur - clauses déclarées abusives - notion de consommateur moyen
 
 \*La clause, en ce qu’elle dégage l’opérateur de tout engagement en ce qui concerne la «qualité de service donnée» et l’oblige uniquement à prendre les mesures nécessaires au maintien de la continuité et de la meilleure qualité du service, a pour finalité d’exclure la garantie en cas de mauvais fonctionnement dans l’utilisation du service. La clause ainsi libellée dans des termes générauxet étant applicable à tous les services contractés entraîne un déséquilibre des droits et obligations au préjudice du consommateur.*
 
@@ -6955,13 +7870,13 @@ CJUE, 16 janvier 2014, Constructora Principado SA contre José Ignacio Menéndez
 
 Arrêt de la CA Luxembourg, 12-10-2011, ULC contre Luxembourg Online s.a. et Luxembourg Online Mobile s.à r.l., n° 36698 du rôle, Pasicrisie n° 1/2013, page 51
 
-\2. Clause abusive - preuve - clause non énumérée par l’article L. 211-3
+2\. Clause abusive - preuve - clause non énumérée par l’article L. 211-3
 
 \*Celui qui se prévaut du caractère abusif d’une clause contractuelle doit soit rapporter la preuve que la clause a la même teneur que les clauses énumérées par le législateur à l’article 2 de la Loi, doit démontrer un déséquilibre contractuel (Ordonnance en matière de protection juridique du consommateur IIe N° 943/2011 du 1 <sup>er</sup> juillet 2011, Union luxembourgeoise des Consommateurs Nouvelle ASBL c. Hanus et Simon) Même si la Loi n’exige pas que le déséquilibre soit manifeste, il n’en demeure pas moins que le simple fait qu’une clause est désavantageuse au consommateur ne permet pas de conclure au caractère abusif. Le déséquilibre doit être d’ordre juridique, de sorte qu’il incombe au juge de comparer la solution que prévoit le régime supplétif du Code civil à celle qui découle de la clause contractuelle dérogatoire soumise à son appréciation.*
 
 Ordonnance en matière de protection juridique du consommateur IIe N° 480/10 du 26 mars 2010, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Luxembourg Online Mobile S.à.R.L., Ordonnance en matière de protection juridique du consommateur IIe N° 199/11 du 18 février 2011, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Vérandas Grand-Ducales S.A.
 
-\3. Compromis conclu par un salarié du propriétaire de la chose vendue - Condition suspensive de l’acceptation de la vente par le propriétaire - Mandat tacite (non) – Condition potestative (non) - Clause abusive (non) - C. civ., art. 1170 et 1998 - Loi du 25 août 1983, art. 1 <sup>er</sup> .
+3\. Compromis conclu par un salarié du propriétaire de la chose vendue - Condition suspensive de l’acceptation de la vente par le propriétaire - Mandat tacite (non) – Condition potestative (non) - Clause abusive (non) - C. civ., art. 1170 et 1998 - Loi du 25 août 1983, art. 1 <sup>er</sup> .
 
 \*En acceptant la clause stipulant que le compromis de vente signé par un salarié du propriétaire ne prendrait effet que sous la condition suspensive expresse de l’approbation et de la signature du compromis de celuici, l’acquéreur reconnait traiter avec un vendeur sans qualité pour engager définitivement le propriétaire. Il reconnait ainsi que la vente ne sera parfaite qu’à partir de l’approbation de la part du propriétaire. L’acceptation d’une telle clause exclut dès lors l’application de la théorie du mandat tacite à l’égard du propriétaire de l’objet du compromis.*
 
@@ -6969,7 +7884,7 @@ Ordonnance en matière de protection juridique du consommateur IIe N° 480/10 du
 
 Arrêt de la Cour d’appel (civil), S. - B. - Neuhengen Constructions S.à.R.L. du 13/02/2008, Pasicrisie n° 4/2008, p. 151
 
-\4. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Contrats conclus avec les consommateurs - Clause d’arbitrage abusive - Nullité - Sentence arbitrale ayant acquis l’autorité de la chose jugée - Exécution forcée – Compétence du juge national de l’exécution pour soulever d’office la nullité de la clause d’arbitrage abusive - Principes d’équivalence et d’effectivité.
+4\. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Contrats conclus avec les consommateurs - Clause d’arbitrage abusive - Nullité - Sentence arbitrale ayant acquis l’autorité de la chose jugée - Exécution forcée – Compétence du juge national de l’exécution pour soulever d’office la nullité de la clause d’arbitrage abusive - Principes d’équivalence et d’effectivité.
 
 \*La directive 93/13 […] doit être interprétée en ce sens qu’une juridiction nationale saisie d’un recours en exécution forcée d’une sentence arbitrale ayant acquis la force de chose jugée, rendue sans comparution du consommateur, est tenue, dès qu’elle dispose des éléments de droit et de fait nécessaires à cet effet, d’apprécier d’office le caractère abusif de la clause d’arbitrage contenue dans un contrat conclu entre un professionnel et un consommateur, dans la mesure où, selon les règles de procédure nationales, elle peut procéder à une telle appréciation dans le cadre de recours similaires de nature interne. Si tel est le cas, il incombe à cette juridiction de tirer toutes les conséquences qui en découlent selon le droit national afin de s’assurer que ce consommateur n’est pas lié par ladite clause.*
 
@@ -6977,13 +7892,13 @@ Arrêt de la Cour d’appel (civil), S. - B. - Neuhengen Constructions S.à.R.L.
 
 CJUE, 6 octobre 2009, Asturcom Telecomunicaciones SL contre Cristina Rodríguez Nogueira, Affaire C-40/08, Rec. 2009 page I-09579
 
-\5. Clauses abusives - Délai anormalement court pour faire des réclamations - Clause de poste restante – Clause portant sur le délai de réclamation (non) - Délai de réclamation - Opérations financières - Durée d’un mois – Délai adéquat - Loi du 25 août 1983, art. 1 et 2.11°
+5\. Clauses abusives - Délai anormalement court pour faire des réclamations - Clause de poste restante – Clause portant sur le délai de réclamation (non) - Délai de réclamation - Opérations financières - Durée d’un mois – Délai adéquat - Loi du 25 août 1983, art. 1 et 2.11°
 
 \*Sont abusives les clauses imposant au consommateur un délai anormalement court pour faire des réclamations au professionnel. La clause de poste restante règle le délai dans lequel le client est censé avoir reçu le courrier dont il demande la rétention auprès de la banque. Elle ne porte pas sur un délai de réclamation. Eu égards à l’exigence de sécurité, d’autre part, requises dans les opérations financières, le délai de réclamation d’un mois à partir de la réception d’un extrait de compte n’est pas à qualifier de délai anormalement court.*
 
 Arrêt de la Cour d’appel (civil) Commerzbank International S.A. - D. du 25/06/2009, Pasicrisie n° 3-4/2010, page 645
 
-\6. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clauses abusives dans les contrats conclus avec les consommateurs - Clause attributive de juridiction – Pouvoir du juge d’examiner d’office le caractère abusif d’une telle clause
+6\. Directive 93/13/CEE concernant les clauses abusives dans les contrats conclus avec les consommateurs - Clauses abusives dans les contrats conclus avec les consommateurs - Clause attributive de juridiction – Pouvoir du juge d’examiner d’office le caractère abusif d’une telle clause
 
 \*Une clause attributive de juridiction, qui est insérée sans avoir fait l’objet d’une négociation individuelle dans un contrat conclu entre un consommateur et un professionnel et qui confère compétence exclusive au tribunal dans le ressort duquel est situé le siège du professionnel, doit être considérée comme abusive au sens de l’article 3 de la directive 93/13 […] dans la mesure où elle crée, en dépit de l’exigence de bonne foi, au détriment du consommateur un déséquilibre significatif entre les droits et les obligations des parties découlant du contrat.*
 
@@ -6993,19 +7908,19 @@ Arrêt de la Cour d’appel (civil) Commerzbank International S.A. - D. du 25/06
 
 CJUE, 27 juin 2000, Océano Grupo Editorial SA contre Roció Murciano Quintero (C-240/98) et Salvat Editores SA contre José M. Sánchez Alcón Prades (C-241/98), José Luis Copano Badillo (C-242/98), Mohammed Berroane (C-243/98) et Emilio Viñas Feliú (C-244/98), Affaires jointes C-240/98 à C-244/98, Rec. 2000 page I-04941
 
-\7. Clause abusive (oui) - clause ne figurant pas dans le contrat de vente - clause induisant le client en erreur
+7\. Clause abusive (oui) - clause ne figurant pas dans le contrat de vente - clause induisant le client en erreur
 
 \*Ces clauses [rédigées en des termes très généraux], bien qu’insérées dans un contrat d’entretien (et non de vente) de chaudière et bien que n’excluant pas expressément la garantie légale en cas de vice caché ou de défaut de conformité, sont cependant de nature à induire le client en erreur sur la portée réelle des obligations de garantie de la société. En ne distinguant pas les réparations tombant sous la garantie du vendeur des réparations normalement à charge des clients, ces clauses sont rédigées de façon à exclure, du moins indirectement, et à limiter l’obligation de la société.*
 
 Ordonnance du Tribunal d’arrondissement du 10 avril 2008, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Brico Sanichel SPRL, n° 401/08
 
-\8. Clause abusive (non) - suspension sans préavis des services en cas de non paiement - exception d’inexécution
+8\. Clause abusive (non) - suspension sans préavis des services en cas de non paiement - exception d’inexécution
 
 \*La clause qui prévoit que le client accepte expressément «que la société puisse suspendre sans préavis une partie ou l’intégralité des services jusqu’au paiement complet de toutes les sommes dues par le client» n’est qu’une application du principe légal de l’exception d’inexécution.*
 
 CA (référé en matière de protection juridique du consommateur) 25-10-2006 (31602)
 
-\9. Clause abusive - délai de paiement - taux d’intérêt applicable - mention dans la facture
+9\. Clause abusive - délai de paiement - taux d’intérêt applicable - mention dans la facture
 
 \*Il résulte du chapitre II de la loi modifiée du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard (applicable aux créances résultant de contrats conclus entre un professionnel et un consommateur) que les créances y visées sont de plein droit productives d’intérêts aux taux légal à partir de l’expiration du troisième mois qui suit la réception des marchandises, l’achèvement des travaux ou la prestation de services. Ces intérêts ne sont dus que si le professionnel a, dans le mois de la réception des marchandises, de l’achèvement des travaux ou de la prestation de services, adressé au consommateur la facture y relative. La facture doit contenir la mention que le professionnel entend bénéficier de la disposition précédente.*
 
@@ -7013,7 +7928,7 @@ CA (référé en matière de protection juridique du consommateur) 25-10-2006 (3
 
 Ordonnance en matière de protection juridique du consommateur IIe N° 199/11 du 18 février 2011, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Vérandas Grand-Ducales S.A.
 
-\10. Clause abusive - prix prévu au contrat - majoration «à tout le moins» - clause pénale
+10\. Clause abusive - prix prévu au contrat - majoration «à tout le moins» - clause pénale
 
 \*Le fait que l’article prévoit une majoration «à tout le moins» en fonction de l’indice des prix à la consommation, il institue un déséquilibre entre parties. En effet, si l’adaptation du prix en fonction de l’indice de coût de vie n’est pas critiquable surtout si le retard dans l’exécution du contrat est imputable au consommateur, il en est autrement si cette augmentation n’est qu’un minimum et risque d’être plus importante sans que le consommateur ne soit informé des raisons justifiant cette augmentation.*
 
@@ -7021,13 +7936,13 @@ Ordonnance en matière de protection juridique du consommateur IIe N° 199/11 du
 
 Ordonnance en matière de protection juridique du consommateur IIe N° 199/11 du 18 février 2011, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Vérandas Grand-Ducales S.A.
 
-\11. Clause abusive - pacte commissoire exprès – conditions de validité - motif spécifique
+11\. Clause abusive - pacte commissoire exprès – conditions de validité - motif spécifique
 
 \*L’article 1184 du Code civil n’étant pas d’ordre public, il est loisible aux parties de convenir un pacte commissoire exprès. Il reste que le pacte commissoire exprès ne doit pas tomber dans le champ d’application de l’article 2,4° de la Loi qui prohibe les clauses permettant au professionnel de rompre unilatéralement le contrat sans motif spécifique et valable stipulé dans le contrat. En l’espèce, la résiliation ne peut jouer que dans les cas énumérés spécifiquement, respectivement en cas de violation d’une obligation contractuelle. Une violation par le client de ses obligations contractuelles doit être considérée comme un motif spécifique, objectivement vérifiable et, dès lors, valable. Par ailleurs, dans la mesure où cet article ne prévoit pas que la résiliation joue «de plein droit», il ne supprime pas l’intervention obligatoire du juge.*
 
 Ordonnance en matière de protection juridique du consommateur IIe N° 480/10 du 26 mars 2010, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Luxembourg Online Mobile S.à.R.L.
 
-\12. Clause abusive - engagement minimal - contrat conclu à durée déterminée - requalification en clause pénale
+12\. Clause abusive - engagement minimal - contrat conclu à durée déterminée - requalification en clause pénale
 
 \*Bien que le client ait la possibilité de résilier le contrat soit dans le délai d’un mois de la notification de la modification et avec un préavis d’un mois, il reste soumis à l’obligation de respecter le délai d’engagement minimal. Or, la résiliation du contrat par le client est la conséquence de la modification des conditions générales et intervient dès lors suite à une initiative des défenderesses. La circonstance que même dans une telle hypothèse, le consommateur reste tenu par un engagement minimal restreint, voire vide de toute substance, son droit à résiliation.*
 
@@ -7035,13 +7950,13 @@ Ordonnance en matière de protection juridique du consommateur IIe N° 480/10 du
 
 Ordonnance en matière de protection juridique du consommateur IIe N° 480/10 du 26 mars 2010, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Luxembourg Online Mobile S.à.R.L.
 
-\13. Clause abusive - respect de la politique de «fair use» - professionnel seul juge de son respect - sanction sans information préalable
+13\. Clause abusive - respect de la politique de «fair use» - professionnel seul juge de son respect - sanction sans information préalable
 
 \*Si la politique de «fair use» donne quelques indications quant aux pratiques prohibées, il reste que le consommateur n’a pas suffisamment connaissance de ses obligations pour se voir appliquer les sanctions sans mise en demeure préalable. En conférant au seul professionnel la possibilité de vérifier et de juger si le consommateur est conforme aux obligations de la politique de «fair use», et en soumettant le consommateur à des sanctions sans l’informer au préalable de la violation contractuelle reprochée, la clause crée un déséquilibre au sens de l’article 1 de la Loi.*
 
 Ordonnance en matière de protection juridique du consommateur IIe N°480/10 du 26 mars 2010, Union Luxembourgeoise des Consommateurs Nouvelle a.s.b.l. c. Luxembourg Online Mobile S.à.R.L.
 
-\14. Clause abusive - entreprise de nettoyage - exclusion de la détérioration des articles confiés
+14\. Clause abusive - entreprise de nettoyage - exclusion de la détérioration des articles confiés
 
 \*Le contrat qui se forme entre une entreprise de nettoyage et son client est un contrat d’entreprise dans la mesure où le teinturier effectue un travail sur l’objet lui confié. Il n’en reste pas moins que l’entrepreneur est, au même titre que le dépositaire, tenu, pour la conservation de la chose confiée, d’une obligation de moyens renforcée dont il peut se libérer par la preuve de l’absence d’une faute. L’inexécution de l’obligation de conservation de la chose se traduit soit par la détérioration, soit par la perte totale ou partielle de la chose. Il résulte des travaux parlementaires précédant l’adoption de la Loi du 25 août 1983 relative à la protection juridique du consommateur, ayant été reprise sans modification de son contenu dans le Code de la consommation que «cette disposition entend prohiber à l’égard d’un consommateur privé final la clause excluant ou limitant la responsabilité du professionnel pour les dommages causés à la chose pendant le temps où elle se trouvait sous sa garde pour exécution d’un travail» et que «de telles clauses sont utilisées fréquemment dans le domaine de la teinturerie et du nettoyage à sec».*
 
@@ -7065,19 +7980,19 @@ Justice de paix de Luxembourg du 18 mars 2010, K. c. Orange S.A., N° 1160/10
 
 \*Quant à l’article L. 212-5*
 
-\1. Protection des consommateurs - Vente et garanties des biens de consommation - Directive 1999/44/CE sur certains aspects de la vente et des garanties des biens de consommation - Article 3, paragraphes 2 et 3 – Remplacement du bien défectueux comme seul mode de dédommagement - Bien défectueux ayant déjà été installé par le consommateur - Obligation, pour le vendeur, d’enlever le bien défectueux et d’installer le bien de remplacement - Disproportion absolue - Conséquences
+1\. Protection des consommateurs - Vente et garanties des biens de consommation - Directive 1999/44/CE sur certains aspects de la vente et des garanties des biens de consommation - Article 3, paragraphes 2 et 3 – Remplacement du bien défectueux comme seul mode de dédommagement - Bien défectueux ayant déjà été installé par le consommateur - Obligation, pour le vendeur, d’enlever le bien défectueux et d’installer le bien de remplacement - Disproportion absolue - Conséquences
 
 \*Lorsqu’un bien de consommation non conforme, qui, avant l’apparition du défaut, a été installé, de bonne foi, par le consommateur conformément à sa nature et à l’usage recherché, est mis dans un état conforme par remplacement, le vendeur est tenu soit de procéder lui-même à l’enlèvement de ce bien du lieu où il a été installé et d’y installer le bien de remplacement, soit de supporter les frais nécessaires à cet enlèvement et à l’installation du bien de remplacement. Cette obligation du vendeur existe indépendamment du point de savoir si celui-ci s’était engagé, en vertu du contrat de vente, à installer le bien de consommation acheté initialement.*
 
 CJUE, 16 juin 2011, Gebr.Weber GmbH contre Jürgen Wittmer (C-65/09) et Ingrid Putz contre Medianess Electronics GmbH, affaires jointes C-65/09 et C-87/09, Rec. 2011 page I-05257
 
-\2. Protection des consommateurs - Directive 1999/44/CE sur certains aspects de la vente et des garanties des biens de consommation - Vente et garanties des biens de consommation - Droit du vendeur, en cas de remplacement d’un bien non conforme, d’exiger du consommateur une indemnité pour l’usage de ce bien - Gratuité de l’usage du bien non conforme
+2\. Protection des consommateurs - Directive 1999/44/CE sur certains aspects de la vente et des garanties des biens de consommation - Vente et garanties des biens de consommation - Droit du vendeur, en cas de remplacement d’un bien non conforme, d’exiger du consommateur une indemnité pour l’usage de ce bien - Gratuité de l’usage du bien non conforme
 
 \*L’article 3 de la directive 1999/44 […] doit être interprété en ce sens qu’il s’oppose à une réglementation nationale qui permet au vendeur, dans l’hypothèse où il a vendu un bien de consommation affecté d’un défaut de conformité, d’exiger du consommateur une indemnité pour l’usage du bien non conforme jusqu’à son remplacement par un nouveau bien. En effet, il ressort tant du libellé que des travaux préparatoires pertinents de la directive que le législateur communautaire a entendu faire de la gratuité de la mise en conformité du bien par le vendeur un élément essentiel de la protection assurée au consommateur par cette directive. Cette obligation de gratuité de la mise en conformité du bien incombant au vendeur, que ce soit sous la forme d’une réparation ou d’un remplacement du bien non conforme, vise à protéger le consommateur du risque de charges financières qui pourrait le dissuader de faire valoir ses droits en l’absence d’une telle protection. Cette assurance de gratuité voulue par le législateur communautaire conduit à exclure toute prétention financière de la part du vendeur dans le cadre de l’exécution de son obligation de mise en conformité du bien sur lequel porte le contrat. Par ailleurs, la gratuité de la mise en conformité correspond à la finalité de la directive qui est de garantir un niveau élevé de protection des consommateurs.*
 
 CJUE, 17 avril 2008, Quelle AG contre Bundesverband der Verbraucherzentralen und Verbraucherverbände, Affaire C-404/06, Rec. 2008 page I- 02685
 
-\3. Directive 1999/44/CE – Droits du consommateur en cas de défaut de conformité du bien – Caractère mineur de ce défaut – Exclusion de la résolution du contrat – Compétences du juge national
+3\. Directive 1999/44/CE – Droits du consommateur en cas de défaut de conformité du bien – Caractère mineur de ce défaut – Exclusion de la résolution du contrat – Compétences du juge national
 
 \*La directive 1999/44/CE du Parlement européen et du Conseil, du 25 mai 1999, sur certains aspects de la vente et des garanties des biens de consommation, doit être interprétée en ce sens qu’elle s’oppose à la réglementation d’un État membre, telle que celle en cause au principal, qui, lorsqu’un consommateur ayant droit à une réduction adéquate du prix d’un bien fixé par le contrat de vente se borne à demander en justice uniquement la résolution de ce contrat, alors que celle-ci ne saurait être obtenue en raison du caractère mineur du défaut de conformité de ce bien, ne permet pas au juge national saisi d’accorder d’office une telle réduction, et ce quand bien même ledit consommateur n’est habilité ni à préciser sa demande initiale ni à introduire un nouveau recours à cet effet.*
 
@@ -7085,13 +8000,13 @@ CJUE, 03 octobre 2013, Soledad Duarte Hueros contre Autociba SA et Automóviles 
 
 \*Quant à l’article L. 212-6*
 
-\1. Défaut de conformité - existence – preuve
+1\. Défaut de conformité - existence – preuve
 
 \*Etant donné qu’il ressort des constatations de l’expert que l’ordinateur portable se trouvait en bon état et ne présentait aucune trace qui pouvait laisser présumer qu’il ait pu être «bricolé» par le demandeur il y a lieu de conclure que la seule cause possible était un défaut de conformité consistant dans un montage défaillant du connecteur qui existait antérieurement à la vente, défectuosité qui ne s’est révélée que lors de l’usage prolongé de l’ordinateur.*
 
 Tribunal de paix de Luxembourg du 6 novembre 2009, Fardellini c. Maxima Exell Luxembourg S.A., No 3646/09
 
-\2. Défaut de conformité - apparition huit mois après la délivrance - preuve - rapport d’expertise unilatéral - validité
+2\. Défaut de conformité - apparition huit mois après la délivrance - preuve - rapport d’expertise unilatéral - validité
 
 \*Il incombe au consommateur de prouver l’existence du défaut de conformité et que ce défaut existait lors de la délivrance, étant entendu que l’article 6 alinéa 6 dispose que, sauf preuve contraire, les défauts de conformité qui délivrance du bien sont présumés exister au moment de la délivrance. Le consommateur doit encore prouver qu’il a dénoncé le défaut endéans un délai de deux ans à partir de la délivrance du bien et il doit, à peine de déchéance, introduire son action en garantie dans un délai de deux ans à compter de la dénonciation du défaut de conformité du vendeur.*
 
@@ -7099,7 +8014,7 @@ Tribunal de paix de Luxembourg du 6 novembre 2009, Fardellini c. Maxima Exell Lu
 
 Tribunal d’Arrondissement 8-12-2009 (122761)
 
-\3. Garantie de conformité - bien d’occasion - durée limitée à un an - conditions - preuve
+3\. Garantie de conformité - bien d’occasion - durée limitée à un an - conditions - preuve
 
 \*La loi du 21 avril 2004 pose comme principe une garantie de conformité de deux années. Ce n’est qu’à titre d’exception et sous certaines conditions que la loi admet une limitation conventionnelle de la durée garantie. Il appartient partant au vendeur qui affirme qu’en l’espèce la durée de la garantie a été conventionnellement limitée à un an de prouver que les conditions légalement posées pour une telle limitation ont été respectées. Or, la simple circonstance que la mention renseignait la durée de la garantie ait été rédigée de manière manuscrite ne suffit pas pour en conclure qu’elle est le fruit d’une négociation individuelle.*
 
@@ -7107,7 +8022,7 @@ Tribunal d’Arrondissement 3-2-2009 (118754)
 
 \*Quant à l’article L. 212-7*
 
-\1. Clause de non garantie - admissibilité - précision
+1\. Clause de non garantie - admissibilité - précision
 
 \*Il n’a pas suffi pour donner en l’espèce valeur à la clause de non garantie que l’acheteur ait au moment de la conclusion du contrat eu connaissance des réparations nécessaires à effectuer et qu’il ait eu obtenu en raison de ces réparations une diminution du prix. Pour que la clause de non garantie soit valable, il aurait encore fallu que l’acheteur ait déclaré avoir eu connaissance des défauts et ait précisé la nature des défauts. A défaut de cette déclaration et de cette précision, la clause de non garantie n’a pas pu être valable.*
 
@@ -7115,7 +8030,7 @@ CA (référé commercial) 10-2-2010 (35099)
 
 \*Quant à l’article L. 212-11*
 
-\1. Droit de la consommation - Loi du 21 avril 2004 relative à la garantie de conformité - Fabricant offrant une garantie de moins de 2 ans - Absence de mention du délai de la garantie légale - Clause nulle et non écrite
+1\. Droit de la consommation - Loi du 21 avril 2004 relative à la garantie de conformité - Fabricant offrant une garantie de moins de 2 ans - Absence de mention du délai de la garantie légale - Clause nulle et non écrite
 
 \*Le mandataire de la société A. argumente, en se référant à la «garantie fabricant» et aux «garanties commerciales», qu’un délai de garantie inférieur à deux ans n’est pas forcément illégal, de sorte que la demande de l’association de protection des consommateurs serait à rejeter. S’il est vrai qu’une «garantie fabricant» ou une garantie commerciale, même inférieure à deux ans, peut, le cas échéant, apporter un surplus de protection au consommateur, le législateur a néanmoins prévu que le consommateur doit, en tout état de cause, être informé du délai de la garantie légale (article 11 de la loi modifiée du 25 août 1983 relative à la protection juridique du consommateur).*
 
@@ -7123,25 +8038,25 @@ CA (référé commercial) 10-2-2010 (35099)
 
 Tribunal d’arrondissement de Luxembourg - 20.03.2008 - 6 <sup>e</sup> Chambre - Ordonnance N° 305/08 (B.I.J. 6-2008, page 1)
 
-\2. Durée de la garantie - renvoi aux dépliants publicitaires - imprécision
+2\. Durée de la garantie - renvoi aux dépliants publicitaires - imprécision
 
 \*Telle qu’il est formulé, ce contrat renvoie nécessairement aux dépliants publicitaires prévoyant sur les produits visés «une garantie de un an» parfois «une garantie de deux ans» sans renvoi à la loi de 2004. Il a pour effet d’induire le client en erreur sur la durée de sa garantie et a ainsi pour conséquence indirecte d’empêcher l’application réelle des dispositions de la loi de 2004 et la prive d’effets. Le contrat de garantie ainsi offert n’est pas conforme aux dispositions impératives de la loi de 2004 sur la durée de garantie.*
 
 CA (référé commercial) 13-6-2007 (31827), Pasicrisie n° 3/2008, p. 30
 
-\3. Consommateurs - Garantie légale de conformité - Qualité pour agir - Association de défense des consommateurs - Pouvoirs du juge - Etendue - Loi du 21 avril 2004, art. 9 et 11
+3\. Consommateurs - Garantie légale de conformité - Qualité pour agir - Association de défense des consommateurs - Pouvoirs du juge - Etendue - Loi du 21 avril 2004, art. 9 et 11
 
 \*Une association de défense des consommateurs est en droit d’intenter des actions en cessation d’un acte de concurrence déloyale. Le juge peut ordonner toute mesure destinée à faire cesser tout acte contraire aux dispositions de la loi du 21 avril 2004 relative à la garantie de conformité due par le vendeur de biens meubles corporels, dont celle relative à la protection des consommateurs.*
 
 Arrêt de la Cour d’appel (référé commercial) Union Luxembourgeoise des Consommateurs Nouvelle ASBL - Auchan Luxembourg S.A. du 13/06/2007, Pasicrisie n° 3/2008, p. 30
 
-\4. Consommateurs - Garantie légale de conformité - Obligation d’indiquer la durée de la garantie légale – Conditions - Preuve que le client a acheté en raison de la garantie (non) - Possibilité d’influence sur le comportement du consommateur - Elément suffisant - Loi du 30 juillet 2002, art. 17(2) - Loi du 21 avril 2004, art. 1, 3, 4, 5, 6 et 11.
+4\. Consommateurs - Garantie légale de conformité - Obligation d’indiquer la durée de la garantie légale – Conditions - Preuve que le client a acheté en raison de la garantie (non) - Possibilité d’influence sur le comportement du consommateur - Elément suffisant - Loi du 30 juillet 2002, art. 17(2) - Loi du 21 avril 2004, art. 1, 3, 4, 5, 6 et 11.
 
 \*La loi sur la garantie de conformité s’applique à toute situation d’offre de garantie, que ce soit sur un dépliant publicitaire, sur un contrat de garantie ou sur tout autre support possible. Le défaut d’indication sur un dépliant publicitaire de la durée légale de la garantie de conformité est de nature à induire en erreur le consommateur normalement prudent et diligent, lequel est d’avis qu’il bénéficie du délai de la garantie commerciale stipulé et que, passé ce délai, il n’a plus de garantie.*
 
 Arrêt de la Cour d’appel (référé commercial) Union Luxembourgeoise des Consommateurs Nouvelle ASBL - Auchan Luxembourg S.A. du 13/06/2007, Pasicrisie n° 3/2008, page 30
 
-\5. Atteintes au régime de garantie de conformité – société déclarée en faillite sur aveu - action en cessation (sans objet)
+5\. Atteintes au régime de garantie de conformité – société déclarée en faillite sur aveu - action en cessation (sans objet)
 
 \*Etant donné que les curateurs de faillite n’assurent en général plus les services après-vente des sociétés en faillite, même au cas où les modalités imposées par la société dans ses conditions générales seraient contraires à la loi, une éventuelle décision en ce sens par le Magistrat saisi de la présente affaire ne pourrait avoir aucune incidence pratique pour les clients de la société.*
 
@@ -7149,19 +8064,19 @@ Ordonnance en matière de concurrence déloyale IIe N° 725/05, du 30 juin 2006,
 
 \**Contrats à distance**
 
-\1. Protection des consommateurs - Contrats négociés en dehors des établissements commerciaux - Contrat de prêt lié à une acquisition immobilière conclue par voie de démarchage à domicile - Droit de révocation – Directive 85/577 concernant la protection des consommateurs dans le cas de contrats négociés en dehors des établissements commerciaux
+1\. Protection des consommateurs - Contrats négociés en dehors des établissements commerciaux - Contrat de prêt lié à une acquisition immobilière conclue par voie de démarchage à domicile - Droit de révocation – Directive 85/577 concernant la protection des consommateurs dans le cas de contrats négociés en dehors des établissements commerciaux
 
 \*Les articles 1 <sup>er</sup> et 2 de la directive 85/577 […] doivent être interprétés en ce sens que, lorsqu’un tiers intervient au nom ou pour le compte d’un commerçant dans la négociation ou la conclusion d’un contrat, l’application de la directive ne peut pas être subordonnée à la condition que le commerçant ait su ou aurait dû savoir que le contrat avait été conclu dans une situation de démarchage visée à l’article 1 <sup>er</sup> de ladite directive. En effet, l’existence d’une telle condition supplémentaire ne trouve aucun fondement dans le libellé de la directive et admettre une telle condition supplémentaire est contraire à l’objectif de celle-ci qui est de protéger le consommateur contre l’élément de surprise inhérent au démarchage à domicile.*
 
 CJUE, 25 octobre 2005, Crailsheimer Volksbank eG contre Klaus Conrads et autres, Affaire C- 229/04, Rec. 2005 page I-09273
 
-\2. Demande de décision préjudicielle - Hof van Beroep te Gent - Interprétation des art. 28 et 30 CE - Effets sur le commerce intracommunautaire d’une réglementation nationale interdisant d’exiger du consommateur un acompte ou paiement avant la fin du délai de renonciation - Compatibilité avec le droit communautaire (revirement de jurisprudence)
+2\. Demande de décision préjudicielle - Hof van Beroep te Gent - Interprétation des art. 28 et 30 CE - Effets sur le commerce intracommunautaire d’une réglementation nationale interdisant d’exiger du consommateur un acompte ou paiement avant la fin du délai de renonciation - Compatibilité avec le droit communautaire (revirement de jurisprudence)
 
 \*L’article 29 CE ne s’oppose pas à une réglementation nationale interdisant au fournisseur, dans le cadre d’une vente à distance transfrontière, d’exiger un acompte ou un paiement quelconque de la part du consommateur avant l’expiration du délai de rétractation, mais il s’oppose à ce que, en application de cette réglementation, il soit interdit, avant l’expiration dudit délai, de demander le numéro de la carte de paiement du consommateur.*
 
 CJUE, 16 décembre 2008, Lodewijk Gysbrechts et Santurel Inter BVBA, Affaire C-205/07, Rec. 2008 page I-09947
 
-\3. Renvoi préjudiciel — Directive 97/7/CE — Protection des consommateurs — Contrats à distance — Information du consommateur — Informations fournies ou reçues — Support durable — Notion — Hyperlien sur le site Internet du fournisseur — Droit de rétractation
+3\. Renvoi préjudiciel — Directive 97/7/CE — Protection des consommateurs — Contrats à distance — Information du consommateur — Informations fournies ou reçues — Support durable — Notion — Hyperlien sur le site Internet du fournisseur — Droit de rétractation
 
 \*L’article 5, paragraphe 1, de la directive 97/7/CE du Parlement européen et du Conseil, du 20 mai 1997, concernant la protection des consommateurs en matière de contrats à distance, doit être interprété en ce sens qu’une pratique commerciale qui consiste à ne rendre accessibles les informations prévues à cette disposition que par un hyperlien sur un site Internet de l’entreprise concernée ne satisfait pas aux exigences de ladite disposition, dès lors que ces informations ne sont ni «fournies» par cette entreprise ni «reçues» par le consommateur, au sens de cette même disposition, et qu’un site Internet tel que celui en cause au principal ne peut être considéré comme un «support durable» au sens dudit article 5, paragraphe 1.*
 
@@ -7189,13 +8104,13 @@ CJUE, 17 décembre 2009, Eva Martín Martín contre EDP Editores SL, Affaire C-2
 
 \*Quant à l’article L. 222-6*
 
-\1. Demande de décision préjudicielle - Amtsgericht Lahr - Interprétation de l’art. 6, par. 1 et 2, de la directive 97/7/CE du Parlement européen et du Conseil, du 20 mai 1997, concernant la protection des consommateurs en matière de contrats à distance (JO L 144, p. 19) - Exercice du droit de rétractation par le consommateur - Indemnité de jouissance à verser au vendeur
+1\. Demande de décision préjudicielle - Amtsgericht Lahr - Interprétation de l’art. 6, par. 1 et 2, de la directive 97/7/CE du Parlement européen et du Conseil, du 20 mai 1997, concernant la protection des consommateurs en matière de contrats à distance (JO L 144, p. 19) - Exercice du droit de rétractation par le consommateur - Indemnité de jouissance à verser au vendeur
 
 \*Les dispositions de l’article 6, paragraphes 1, deuxième phrase, et 2, de la directive 97/7/CE […] doivent être interprétées en ce sens qu’elles s’opposent à ce qu’une réglementation nationale prévoie de manière générale la possibilité pour le vendeur de réclamer au consommateur une indemnité compensatrice pour l’utilisation d’un bien acquis par un contrat à distance dans le cas où ce dernier a exercé son droit de rétractation dans les délais. Toutefois, ces mêmes dispositions ne s’opposent pas à ce que le payement d’une indemnité compensatrice pour l’utilisation de ce bien soit imposé au consommateur dans l’hypothèse où celui-ci aurait fait usage dudit bien d’une manière incompatible avec les principes de droit civil, tels que la bonne foi ou l’enrichissement sans cause, à la condition qu’il ne soit pas porté atteinte à la finalité de ladite directive et, notamment, à l’efficacité et à l’effectivité du droit de rétractation, ce qu’il incombe à la juridiction nationale de déterminer.*
 
 CJUE, 3 septembre 2009, Pia Messner/Firma Stefan Krüger, Affaire C-489/07, Rec. 2009 page I-07315
 
-\2. Directive 97/7/CE - Protection des consommateurs - Contrats conclus à distance - Droit de rétractation - Imputation des frais d’expédition de la marchandise au consommateur - Directive 97/7/CE du Parlement européen et du Conseil, du 20 mai 1997, concernant la protection des consommateurs en matière de contrats à distance
+2\. Directive 97/7/CE - Protection des consommateurs - Contrats conclus à distance - Droit de rétractation - Imputation des frais d’expédition de la marchandise au consommateur - Directive 97/7/CE du Parlement européen et du Conseil, du 20 mai 1997, concernant la protection des consommateurs en matière de contrats à distance
 
 \*L’article 6, paragraphes 1, premier alinéa, seconde phrase, et 2, de la directive 97/7 […] doit être interprété en ce sens qu’il s’oppose à une réglementation nationale qui permet au fournisseur, dans un contrat conclu à distance, d’imputer les frais d’expédition des marchandises au consommateur dans le cas où ce dernier exerce son droit de rétractation. En effet, ces dispositions n’autorisent le fournisseur à imputer au consommateur, en cas de rétractation de ce dernier, que les frais directs de renvoi des marchandises. Si les frais d’expédition devaient également être mis à la charge du consommateur, une telle imputation, qui serait nécessairement de nature à dissuader ce dernier d’exercer son droit de rétractation, irait à l’encontre de l’objectif même dudit article 6. En outre, une telle imputation serait de nature à remettre en cause une répartition équilibrée des risques entre les parties dans les contrats conclus à distance, en faisant supporter au consommateur l’ensemble des charges liées au transport des marchandises.*
 
@@ -7203,19 +8118,19 @@ CJUE, 15 avril 2010, Handelsgesellschaft Heinrich Heine GmbH contre Verbraucherz
 
 \**Contrats de crédits à la consommation**
 
-\1. Protection des consommateurs - Directive 93/13/CEE - Clauses abusives - Directive 2008/48/CE – Directive 87/102 - Contrats de crédit à la consommation – Taux annuel effectif global - Procédure d’arbitrage – Sentence arbitrale - Faculté du juge national d’apprécier d’office l’éventuel caractère abusif de certaines clauses
+1\. Protection des consommateurs - Directive 93/13/CEE - Clauses abusives - Directive 2008/48/CE – Directive 87/102 - Contrats de crédit à la consommation – Taux annuel effectif global - Procédure d’arbitrage – Sentence arbitrale - Faculté du juge national d’apprécier d’office l’éventuel caractère abusif de certaines clauses
 
 \*L’absence de mention en pourcentage du coût total supporté par le consommateur (TAEG) dans un contrat de crédit à la consommation, laquelle mention revêt une importance essentielle dans le contexte de la directive 87/102, peut constituer un élément décisif dans le cadre de l’analyse par une juridiction nationale du point de savoir si une clause d’un contrat de crédit à la consommation relative au coût de celui-ci dans laquelle ne figure pas une telle mention est rédigée de façon claire et compréhensible au sens de l’article 4 de la directive 93/13. Si tel n’est pas le cas, cette juridiction a la faculté d’apprécier, même d’office, si, eu égard à toutes les circonstances entourant la conclusion de ce contrat, l’omission de la mention du TAEG dans la clause de celui-ci relative au coût de ce crédit est susceptible de conférer à cette clause un caractère abusif au sens des articles 3 et 4 de la directive 93/13. Cependant, nonobstant la possibilité qui est donnée d’apprécier ledit contrat au regard de la directive 93/13, la directive 87/102 doit être interprétée en ce sens qu’elle permet au juge national d’appliquer d’office les dispositions transposant en droit interne l’article 4 de cette dernière directive et prévoyant que l’absence de mention du TAEG dans un contrat de crédit à la consommation a pour conséquence que le crédit consenti est réputé exempt d’intérêts et de frais.*
 
 CJUE, 16 novembre 2010, Pohotovosť s.r.o. contre Iveta Korčkovská, Affaire C-76/10, Rec. 2010 page I-11557
 
-\2. Protection des consommateurs en matière de crédit à la consommation - Directive 87/102 relative au rapprochement des dispositions législatives, réglementaires et administratives des États membres en matière de crédit à la consommation - Information du consommateur - Obligation d’information préalable à chaque renouvellement du contrat de crédit - Absence - (Directive du Conseil 87/102)
+2\. Protection des consommateurs en matière de crédit à la consommation - Directive 87/102 relative au rapprochement des dispositions législatives, réglementaires et administratives des États membres en matière de crédit à la consommation - Information du consommateur - Obligation d’information préalable à chaque renouvellement du contrat de crédit - Absence - (Directive du Conseil 87/102)
 
 \*La directive 87/102 […] n’impose pas que, préalablement à chaque renouvellement, à des conditions inchangées, d’un contrat de crédit d’une durée déterminée, consenti sous la forme d’une ouverture de crédit utilisable par fractions et assortie d’une carte de crédit, remboursable par mensualités et dont le taux d’intérêt est stipulé variable, le prêteur soit obligé d’informer par écrit l’emprunteur du taux annuel effectif global en vigueur ainsi que des conditions auxquelles ce dernier pourra être modifié.*
 
 CJUE, 4 mars 2004, Cofinoga Mérignac SA contre Sylvain Sachithanathan, Affaire C-264/02, Rec. 2004 page I-02157
 
-\3. Directive 87/102/CEE - Crédit à la consommation – Droit du consommateur d’exercer un recours à l’encontre du prêteur en cas d’inexécution ou d’exécution non conforme du contrat relatif aux biens ou aux services financés par le crédit -Conditions - Mention du bien ou du service financé sur l’offre de crédit - Ouverture de crédit permettant d’utiliser le crédit consenti à plusieurs reprises - Possibilité pour le juge national de relever d’office le droit du consommateur d’exercer un recours à l’encontre du prêteur.
+3\. Directive 87/102/CEE - Crédit à la consommation – Droit du consommateur d’exercer un recours à l’encontre du prêteur en cas d’inexécution ou d’exécution non conforme du contrat relatif aux biens ou aux services financés par le crédit -Conditions - Mention du bien ou du service financé sur l’offre de crédit - Ouverture de crédit permettant d’utiliser le crédit consenti à plusieurs reprises - Possibilité pour le juge national de relever d’office le droit du consommateur d’exercer un recours à l’encontre du prêteur.
 
 \*1. L’article 11, paragraphe 2, de la directive 87/102, relative au rapprochement des dispositions législatives, réglementaires et administratives des États membres en matière de crédit à la consommation, telle que modifiée par la directive 98/7, qui porte sur le droit du consommateur d’exercer un recours à l’encontre du prêteur, s’applique tant à un crédit visant à financer une opération unique qu’à une ouverture de crédit permettant au consommateur d’utiliser le crédit consenti à plusieurs reprises.*
 
@@ -7231,25 +8146,25 @@ CJUE, 4 mars 2004, Cofinoga Mérignac SA contre Sylvain Sachithanathan, Affaire 
 
 CJUE, 4 octobre 2007, Max Rampion et Marie-Jeanne Godard, épouse Rampion contre Franfinance SA et K par K SAS, Affaire C-429/05, Rec. 2007 page I-08017
 
-\4. Crédit à la consommation - Droit du consommateur d’exercer un recours à l’encontre du prêteur en cas d’inexécution du contrat de vente relatif aux biens financés par le crédit
+4\. Crédit à la consommation - Droit du consommateur d’exercer un recours à l’encontre du prêteur en cas d’inexécution du contrat de vente relatif aux biens financés par le crédit
 
 \*L’existence d’un accord entre le prêteur et le fournisseur, sur la base duquel un prêt est octroyé exclusivement par ce prêteur aux clients de ce fournisseur, n’est pas une condition nécessaire du droit pour ces clients d’agir à l’encontre dudit prêteur en cas d’inexécution des obligations incombant audit fournisseur afin d’obtenir la résolution du contrat de prêt et la restitution subséquente des sommes versées à l’organisme de financement.*
 
 CJUE, 23 avril 2009, Luigi Scarpelli/NEOS Banca SpA, Affaire C-509/07, Rec. 2009 page I-03311
 
-\5. Banque – crédit – obligation de mise en garde – emprunteur non averti – portée de l’obligation – refus d’un crédit excessif (non) – C. civ., art. 1892 et s.
+5\. Banque – crédit – obligation de mise en garde – emprunteur non averti – portée de l’obligation – refus d’un crédit excessif (non) – C. civ., art. 1892 et s.
 
 \*La banque dispensatrice d’un crédit a, vis-à-vis du bénéficiaire non averti, une obligation de mise en garde. Cette obligation n’implique pas, en principe, le devoir de refuser le crédit excessif.*
 
 Cour d’appel (commercial), 1 <sup>er</sup> juillet 2009, R. – FORTIS BANQUE LUXEMBOURG S.A., Pasicrisie n° 3-4/2010, page 652
 
-\6. Banque – crédit – obligation de la banque de se renseigner – chances de remboursement – date d’appréciation – obligation du client de coopérer – information loyale – C. civ., art. 1892 et s.
+6\. Banque – crédit – obligation de la banque de se renseigner – chances de remboursement – date d’appréciation – obligation du client de coopérer – information loyale – C. civ., art. 1892 et s.
 
 \*Pour pouvoir utilement alerter le preneur du crédit sur les risques du crédit sollicité et apprécier si le crédit a de bonnes chances d’être remboursé, la banque doit se renseigner sur les capacités financières du preneur de crédit. Pour l’appréciation des chances de remboursement, elle doit se placer au moment de l’octroi du crédit et tenir compte aussi bien de la situation actuelle du preneur de crédit que des perspectives prévisibles.*
 
 Cour d’appel (commercial), 1 <sup>er</sup> juillet 2009, R. – FORTIS BANQUE LUXEMBOURG S.A., Pasicrisie n° 3-4/2010, page 652
 
-\7. Protection des consommateurs — Contrat de crédit à la consommation — Indication erronée d’un taux annuel effectif global — Incidence des pratiques commerciales déloyales et des clauses abusives sur la validité globale du contrat
+7\. Protection des consommateurs — Contrat de crédit à la consommation — Indication erronée d’un taux annuel effectif global — Incidence des pratiques commerciales déloyales et des clauses abusives sur la validité globale du contrat
 
 \*L’article 6, paragraphe 1, de la directive 93/13/CEE du Conseil, du 5 avril 1993, concernant les clauses abusives dans les contrats conclus avec les consommateurs, doit être interprété en ce sens que, lors de l’appréciation du point de savoir si un contrat conclu avec un consommateur par un professionnel et contenant une ou plusieurs clauses abusives peut subsister sans lesdites clauses, le juge saisi ne saurait se fonder uniquement sur le caractère éventuellement avantageux pour l’une des parties, en l’occurrence le consommateur, de l’annulation du contrat concerné dans son ensemble. Ladite directive ne s’oppose pas, cependant, à ce qu’un État membre prévoie, dans le respect du droit de l’Union, qu’un contrat conclu avec un consommateur par un professionnel et contenant une ou plusieurs clauses abusives est nul dans son ensemble lorsqu’il s’avère que cela assure une meilleure protection du consommateur.*
 
@@ -7271,19 +8186,19 @@ CJUE, 30 avril 2002, Club-Tour, Viagens e Turismo SA contre Alberto Carlos Lobo 
 
 \*Quant à l’article L. 225-6*
 
-\1. Voyages, vacances et circuits à forfait – Directive 90/314, concernant les voyages, vacances et circuits à forfait - Protection contre le risque d’insolvabilité ou de faillite de l’organisateur - Portée - (Directive du Conseil 90/314, art. 7)
+1\. Voyages, vacances et circuits à forfait – Directive 90/314, concernant les voyages, vacances et circuits à forfait - Protection contre le risque d’insolvabilité ou de faillite de l’organisateur - Portée - (Directive du Conseil 90/314, art. 7)
 
 \*L’article 7 de la directive 90/314 […] doit être interprété en ce sens que relève de son champ d’application au titre de remboursement des fonds déposés une situation dans laquelle l’acheteur d’un voyage à forfait, qui a payé ses frais d’hébergement préalablement au voyage à l’organisateur, est contraint, à la suite de l’insolvabilité de ce dernier, de régler les mêmes frais à l’hôtelier, sous peine de ne pouvoir quitter l’hôtel pour effectuer son voyage de retour.*
 
 CJUE, 14 mai 1998, Verein für Konsumenteninformation contre Österreichische Kreditversicherungs AG, Affaire C-364/96, Rec. 1998 page I- 02949
 
-\2. Directive 90/314/CEE — Voyages, vacances et circuits à forfait — Article 7 — Protection contre le risque d’insolvabilité ou de faillite de l’organisateur du forfait — Champ d’application — Insolvabilité de l’organisateur due à une utilisation frauduleuse des fonds déposés par le consommateur
+2\. Directive 90/314/CEE — Voyages, vacances et circuits à forfait — Article 7 — Protection contre le risque d’insolvabilité ou de faillite de l’organisateur du forfait — Champ d’application — Insolvabilité de l’organisateur due à une utilisation frauduleuse des fonds déposés par le consommateur
 
 \*L’article 7 de la directive 90/314, concernant les voyages, vacances et circuits à forfait, doit être interprété en ce sens que relève de son champ d’application une situation dans laquelle l’insolvabilité de l’organisateur du voyage est due au comportement frauduleux de celui-ci.*
 
 CJUE, 16 février 2012, Jürgen Blödel-Pawlik contre HanseMerkur Reiseversicherung AG, Affaire C-134/11, non encore publié au Recueil
 
-\3. Voyages, vacances et circuits à forfait - Directive 90/314 - Article 7 relatif à la protection contre le risque d’insolvabilité ou de faillite de l’organisateur - Champ d’application - Voyages offerts à titre de cadeaux, moyennant une participation financière, à un cercle restreint de consommateurs – Inclusion – obligation de résultat
+3\. Voyages, vacances et circuits à forfait - Directive 90/314 - Article 7 relatif à la protection contre le risque d’insolvabilité ou de faillite de l’organisateur - Champ d’application - Voyages offerts à titre de cadeaux, moyennant une participation financière, à un cercle restreint de consommateurs – Inclusion – obligation de résultat
 
 \*L’article 7 de la directive 90/314/CEE du Conseil, du 13 juin 1990, concernant les voyages, vacances et circuits à forfait, s’applique aux voyages qui, dans le cadre d’une action publicitaire illicite au regard du droit national de la concurrence, sont offerts à titre de cadeaux par un quotidien au profit exclusif de ses abonnés et pour lesquels le contractant principal paie, s’il voyage seul, les taxes d’aéroport ainsi que le supplément pour chambre individuelle ou, s’il est accompagné par au moins une personne payant le tarif plein, uniquement les taxes d’aéroport.*
 
@@ -7329,23 +8244,25 @@ Cour de cassation (cassation commerciale), 2 février 2012, UNION LUXEMBOURGEOIS
 
 \**Droit international privé**
 
-\1. Droit de l’Union – protection du consommateur - Règlement (CE) n° 44/2001 — Compétence en matière de contrats conclus par les consommateurs — Droit pour le consommateur destinataire d’une publicité trompeuse de revendiquer en justice le prix apparemment gagné — Qualification — Action de nature contractuelle visée à l’article 15, paragraphe 1, sous c), dudit règlement — Conditions
+1\. Droit de l’Union – protection du consommateur - Règlement (CE) n° 44/2001 — Compétence en matière de contrats conclus par les consommateurs — Droit pour le consommateur destinataire d’une publicité trompeuse de revendiquer en justice le prix apparemment gagné — Qualification — Action de nature contractuelle visée à l’article 15, paragraphe 1, sous c), dudit règlement — Conditions
 
 \*Dans une situation dans laquelle un consommateur vise à faire condamner, en application de la législation de l’État membre sur le territoire duquel il a son domicile et devant le tribunal du lieu où se trouve celui-ci, une société de vente par correspondance, établie dans un autre État membre, à la remise d’un prix apparemment gagné par lui, et*
 
-- *lorsque cette société, dans le but d’inciter ce consommateur à contracter, a adressé à ce dernier, nominativement désigné, un envoi de nature à lui donner l’impression qu’un prix lui serait attribué dès lors qu’il en solliciterait le versement en retournant le «certificat de réclamation de gain» joint audit envoi,*
-- *mais sans que l’attribution de ce prix dépende d’une commande de produits offerts à la vente par cette société ou d’une commande à titre d’essai,*
+aash *lorsque cette société, dans le but d’inciter ce consommateur à contracter, a adressé à ce dernier, nominativement désigné, un envoi de nature à lui donner l’impression qu’un prix lui serait attribué dès lors qu’il en solliciterait le versement en retournant le «certificat de réclamation de gain» joint audit envoi,*
+
+bash *mais sans que l’attribution de ce prix dépende d’une commande de produits offerts à la vente par cette société ou d’une commande à titre d’essai,*
 
 \*Les règles de compétence énoncées par le règlement nº 44/2001, concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale, doivent être interprétées de la manière suivante:*
 
-- *une telle action juridictionnelle introduite par le consommateur relève de l’article 15, paragraphe 1, sous c), dudit règlement à la condition que le vendeur professionnel se soit juridiquement engagé à payer ce prix au consommateur;*
-- *lorsque cette condition n’est pas remplie, une telle action ne relève de la même disposition du règlement nº 44/2001 que dans l’hypothèse où le consommateur a effectivement passé une commande à ce vendeur professionnel.*
+aash *une telle action juridictionnelle introduite par le consommateur relève de l’article 15, paragraphe 1, sous c), dudit règlement à la condition que le vendeur professionnel se soit juridiquement engagé à payer ce prix au consommateur;*
+
+bash *lorsque cette condition n’est pas remplie, une telle action ne relève de la même disposition du règlement nº 44/2001 que dans l’hypothèse où le consommateur a effectivement passé une commande à ce vendeur professionnel.*
 
 \*En effet, l’article 15, paragraphe 1, sous c), du règlement nº 44/2001, rédigé en des termes identiques à ceux de l’article 13 de la convention de Bruxelles, exige qu’un contrat ait été conclu par le consommateur avec une personne qui exerce des activités commerciales ou professionnelles. Aux fins de l’existence d’un contrat au sens de cette disposition, il est indispensable que le vendeur professionnel prenne un engagement juridique, en soumettant une offre ferme, suffisamment claire et précise quant à son objet et à sa portée, pour donner lieu à un lien de nature contractuelle, c’est-à-dire en se déclarant inconditionnellement disposé à payer le prix en cause aux consommateurs qui en feraient la demande. En l’absence d’un tel engagement juridique, l’article 15, paragraphe 1, sous c), n’est applicable qu’à la condition que la promesse fallacieuse de gain ait été suivie de la conclusion d’un contrat par le consommateur avec la société de vente par correspondance, se matérialisant par une commande passée à cette dernière.*
 
 CJUE, 14 mai 2009, Renate Ilsinger contre Martin Dreschers, Affaire C-180/06, Rec. 2009 page I-03961
 
-\2. Compétence judiciaire en matière civile et commerciale — Règlement (CE) n <sup>o</sup> 44/2001 — Article 15, paragraphes 1, sous c), et 3 — Compétence en matière de contrats conclus par les consommateurs — Contrat de voyage en cargo — Notion de ‘voyage à forfait’ — Contrat de séjour à l’hôtel — Présentation du voyage et de l’hôtel sur un site Internet — Notion d’activité ‘dirigée vers’ l’État membre où le consommateur a son domicile — Critères — Accessibilité du site Internet
+2\. Compétence judiciaire en matière civile et commerciale — Règlement (CE) n <sup>o</sup> 44/2001 — Article 15, paragraphes 1, sous c), et 3 — Compétence en matière de contrats conclus par les consommateurs — Contrat de voyage en cargo — Notion de ‘voyage à forfait’ — Contrat de séjour à l’hôtel — Présentation du voyage et de l’hôtel sur un site Internet — Notion d’activité ‘dirigée vers’ l’État membre où le consommateur a son domicile — Critères — Accessibilité du site Internet
 
 \*1.* *Un contrat ayant pour objet un voyage en cargo peut constituer un contrat de transport qui, pour un prix forfaitaire, combine voyage et hébergement au sens de l’article 15, paragraphe 3, du règlement nº 44/2001, concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale.*
 
@@ -7359,19 +8276,19 @@ CJUE, 14 mai 2009, Renate Ilsinger contre Martin Dreschers, Affaire C-180/06, Re
 
 CJUE, 7 décembre 2010, Peter Pammer contre Reederei Karl Schlüter GmbH & Co. KG et Hotel Alpenhof GesmbH contre Oliver Heller, Affaires jointes C-585/08 et C-144/09, Rec. 2010 page I-12527
 
-\3. Compétence judiciaire en matière civile et commerciale – Règlement (CE) n° 44/2001 – Article 16, paragraphe 1 – Contrat de voyage conclu entre un consommateur domicilié dans un État membre et une agence de voyages établie dans un autre État membre – Prestataire de services utilisé par l’agence de voyages établi dans l’État membre du domicile du consommateur – Droit du consommateur d’intenter, devant le tribunal du lieu de son domicile, une action contre les deux entreprises
+3\. Compétence judiciaire en matière civile et commerciale – Règlement (CE) n° 44/2001 – Article 16, paragraphe 1 – Contrat de voyage conclu entre un consommateur domicilié dans un État membre et une agence de voyages établie dans un autre État membre – Prestataire de services utilisé par l’agence de voyages établi dans l’État membre du domicile du consommateur – Droit du consommateur d’intenter, devant le tribunal du lieu de son domicile, une action contre les deux entreprises
 
 \*La notion d’«autre partie au contrat» prévue à l’article 16, paragraphe 1, du règlement (CE) n° 44/2001 du Conseil, du 22 décembre 2000, concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale, doit être interprétée en ce sens qu’elle désigne, dans des circonstances telles que celles en cause au principal, également le cocontractant de l’opérateur auprès duquel le consommateur a conclu ce contrat et qui a son siège sur le territoire de l’État membre du domicile de ce consommateur.*
 
 CJUE, 14 novembre 2013, Armin Maletic et Marianne Maletic contre lastminute. com Gmbh et TUI Österreich GmbH, Affaire C-478/12, non encore publié au Recueil
 
-\4. Compétence judiciaire en matière civile et commerciale — Compétence en matière de contrats conclus par les consommateurs — Règlement (CE) n° 44/2001 — Article 15, paragraphe 1, sous c) — Limitation éventuelle de cette compétence aux contrats conclus à distance
+4\. Compétence judiciaire en matière civile et commerciale — Compétence en matière de contrats conclus par les consommateurs — Règlement (CE) n° 44/2001 — Article 15, paragraphe 1, sous c) — Limitation éventuelle de cette compétence aux contrats conclus à distance
 
 \*L’article 15, paragraphe 1, sous c), du règlement (CE) nº 44/2001 du Conseil, du 22 décembre 2000, concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale, doit être interprété en ce sens qu’il n’exige pas que le contrat entre le consommateur et le professionnel ait été conclu à distance.*
 
 CJUE, 6 septembre 2012, Daniela Mühlleitner contre Ahmad Yusufi et Wadat Yusufi, Affaire C-190/11, non encore publié au Recueil
 
-\5. Règlement (CE) n° 44/2001 – Article 15, paragraphe 1, sous c) – Compétence en matière de contrats conclus par les consommateurs – Limitation éventuelle de cette compétence aux contrats conclus à distance – Lien de causalité entre l’activité commerciale ou professionnelle dirigée vers l’État membre de domicile du consommateur au moyen de l’Internet et la conclusion du contrat
+5\. Règlement (CE) n° 44/2001 – Article 15, paragraphe 1, sous c) – Compétence en matière de contrats conclus par les consommateurs – Limitation éventuelle de cette compétence aux contrats conclus à distance – Lien de causalité entre l’activité commerciale ou professionnelle dirigée vers l’État membre de domicile du consommateur au moyen de l’Internet et la conclusion du contrat
 
 \*L’article 15, paragraphe 1, sous c), du règlement (CE) n° 44/2001 doit être interprété en ce sens qu’il n’exige pas l’existence d’un lien de causalité entre le moyen employé pour diriger l’activité commerciale ou professionnelle vers l’État membre du domicile du consommateur, à savoir un site Internet, et la conclusion du contrat avec ce consommateur. Toutefois, l’existence d’un tel lien de causalité constitue un indice de rattachement du contrat à une telle activité.*
 

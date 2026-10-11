@@ -29,7 +29,7 @@ CODE DE LA SÉCURITÉ SOCIALE
 LOIS ET RÈGLEMENTS
 
 NOTE EXPLICATIVE
-\1. Le présent recueil dénommé « Code de la Sécurité Sociale, Lois et Règlements » réunit le « Code de la
+1\. Le présent recueil dénommé « Code de la Sécurité Sociale, Lois et Règlements » réunit le « Code de la
 sécurité sociale » au sens stricte du terme, à savoir le Code-Loi, et les textes normatifs présentant un lien
 direct avec la sécurité sociale.
 Le Code de la sécurité sociale est reproduit de façon complète. Pour la reproduction des lois et règlements,
@@ -37,14 +37,14 @@ il s’agit d’une sélection de textes. Il y a lieu de relever que certains r�
 formellement modifiés suite à l’introduction du statut unique ont été reproduits dans le présent Code dans
 leur dernière version.
 Le recueil est mis à jour jusqu’en janvier 2026.
-\2. La table chronologique des lois et des règlements contient seulement les textes en vigueur et non pas les
+2\. La table chronologique des lois et des règlements contient seulement les textes en vigueur et non pas les
 textes abrogés.
-\3. Les chiffres se trouvant à gauche des textes légaux indiquent les alinéas. La numérotation n’a pas de
+3\. Les chiffres se trouvant à gauche des textes légaux indiquent les alinéas. La numérotation n’a pas de
 caractère officiel.
 Les indications se trouvant à droite des textes légaux concernent, les premières le renvoi aux sources, les
 secondes le renvoi aux règlements pris et à la pasicrisie.
 Les indications se trouvant à droite des textes réglementaires concernent le renvoi aux sources.
-\4. Les abréviations employées sont illustrées par les exemples suivants:
+4\. Les abréviations employées sont illustrées par les exemples suivants:
 L. 13.5.08 = Loi du 13 mai 2008
 L. 13.5.08, II = Loi du 13 mai 2008, article II
 L. 13.5.08,1 = Loi du 13 mai 2008, article 1er
@@ -54,10 +54,10 @@ R. 31.12.07= Règlement grand-ducal du 31 décembre 2007
 R. 24.1.06 = Règlement ministériel du 24 janvier 2006
 A. 12.6.09 = Arrêté ministériel du 12 juin 2010
 P. VII, 259 = Pasicrisie luxembourgeoise, tome VII, page 259
-\5. En cas de contrariété des textes publiés dans le présent recueil et ceux publiés au Journal officiel seuls ceux
+5\. En cas de contrariété des textes publiés dans le présent recueil et ceux publiés au Journal officiel seuls ceux
 publiés au Journal officiel ont force de loi.
-\6. Par l’article 2 de la loi du 13 mai 2008 portant introduction d’un statut unique (Mém. A 60 du 15 mai 2008, p.
-\790) la dénomination du « Code des assurances sociales » a été changé en « Code de la sécurité sociale ».
+6\. Par l’article 2 de la loi du 13 mai 2008 portant introduction d’un statut unique (Mém. A 60 du 15 mai 2008, p.
+790\) la dénomination du « Code des assurances sociales » a été changé en « Code de la sécurité sociale ».
 L’article 9 de la même loi dispose que dans la mesure où la loi se réfère à « l’Union des caisses de maladie »
 ces termes sont remplacés par les termes « la Caisse nationale de santé ». Dans la mesure où la loi se réfère
 à « l’assemblée générale de l’Union des caisses de maladie » ces termes sont remplacés par les termes
@@ -73,17 +73,17 @@ pension des artisans, des commerçants et des industriels et de la Caisse de pen
 temporelle et juridique entre les anciens établissements publics absorbés et les nouveaux établissements
 publics absorbants.
 Il a donc été tenu compte de ces modifications dans les textes reproduits ci-après.
-\7. En ce qui concerne les extraits du Code du travail reproduits dans le présent recueil, il a été tenu compte de
+7\. En ce qui concerne les extraits du Code du travail reproduits dans le présent recueil, il a été tenu compte de
 l’article 8 paragraphe (1) de la loi du 13 mai 2008 portant introduction d’un statut unique qui dispose que
 dans tout le Code du travail les termes « travailleurs », « employé privé », « employé » et « ouvrier » sont
 remplacés par le terme « salarié », pour autant qu’il s’agit d’un nom et qu’ils équivalent au terme de salarié,
 et les termes « rémunération » et « traitement » sont remplacés par le terme « salaire » pour autant qu’il s’agit
 d’un nom et qu’ils équivalent au terme salaire.
-\8. L’article 5 de la loi du 12 mai 2010 portant réforme de l’assurance accident dispose que dans la mesure où
+8\. L’article 5 de la loi du 12 mai 2010 portant réforme de l’assurance accident dispose que dans la mesure où
 la loi se réfère au « Conseil arbitral des assurances sociales » ou au « Conseil supérieur des assurances
 sociales », ces termes sont remplacés par les termes « Conseil arbitral de la sécurité sociale » ou « Conseil
 supérieur de la sécurité sociale » (Mém. A 81 du 27 mai 2010).
-\9. L’article III de la loi du 23 juillet 2015 portant modification du Code du travail et du Code de la sécurité sociale
+9\. L’article III de la loi du 23 juillet 2015 portant modification du Code du travail et du Code de la sécurité sociale
 concernant le dispositif du reclassement interne et externe prévoit que: « Dans le Code du travail et dans le
 Code de la sécurité sociale le terme «reclassement» utilisé au sens de la procédure de reclassement interne
 
@@ -92,23 +92,23 @@ travail du Code du travail est complété par le mot «professionnel». Dans le 
 de la sécurité sociale les termes «rente d’attente» sont remplacés par les termes «rente professionnelle
 d’attente» et les termes «indemnité d’attente» sont remplacés par les termes «indemnité professionnelle
 d’attente», à l’exception de l’article L. 512-4, alinéa 1, point 2. du Code du travail. »
-\10. L’article 6 de la loi du 29 août 2017 portant modification 1. du Code de la sécurité sociale; 2. de la loi modifiée
+10\. L’article 6 de la loi du 29 août 2017 portant modification 1. du Code de la sécurité sociale; 2. de la loi modifiée
 du 15 décembre 1993 déterminant le cadre du personnel des administrations, des services et des juridictions
 de la sécurité sociale; 3. de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions
 et modalités d’avancement des fonctionnaires de l’État prévoit que: « Dans tous les textes de loi, de
 règlement et de conventions, la référence à la Cellule d’évaluation et d’orientation, ou à l’Inspection générale
 de la sécurité sociale - Cellule d’évaluation et d’orientation, s’entend comme référence à l’Administration
 d’évaluation et de contrôle de l’assurance dépendance. »
-\11. L’article 50 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale prévoit que: « (1) Toute référence
+11\. L’article 50 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale prévoit que: « (1) Toute référence
 au « Service national d'action sociale » s'entend comme référence à « l’Office national d'inclusion sociale ».
 (2) Toute référence au « Commissaire de gouvernement à l'action sociale » s'entend comme référence au
 « directeur de l'Office national d'inclusion sociale ».
-\12. L’article 4 de la loi du 9 août 2018 modifiant 1. le Code de la sécurité sociale; 2. la loi du 27 juin 2018 ayant
+12\. L’article 4 de la loi du 9 août 2018 modifiant 1. le Code de la sécurité sociale; 2. la loi du 27 juin 2018 ayant
 pour objet l’organisation de l’Université du Luxembourg; 3. la loi modifiée du 30 juillet 1960 concernant la
 création d’un fonds national de solidarité modifiant certaines dispositions du Code de la sécurité sociale
 prévoit que: « Dans tous les textes de loi, de règlement et de convention, la référence au « comité directeur »
 s’entend comme référence au « conseil d’administration ».
-\13. La loi du 28 juillet 2018 relative au revenu d’inclusion sociale (JO, Mém. A 630 du 30 juillet 2018) a abrogé la
+13\. La loi du 28 juillet 2018 relative au revenu d’inclusion sociale (JO, Mém. A 630 du 30 juillet 2018) a abrogé la
 loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti. Dans tous les textes
 légaux et réglementaires utilisant les termes « revenu minimum garanti » il y a lieu de lire « revenu d’inclusion
 sociale ».
@@ -151,7 +151,7 @@ Code civil .....................................................................
 
 Prestations familiales.................................................................................................................................................... 383
 Loi du 20 juin 1977 ayant pour objet: 1) d’instituer le contrôle médical systématique des femmes enceintes et des enfants en bas âge;
-\2) de modifier la législation existante en matière d’allocations de naissance ......................................................................................... 385
+2\) de modifier la législation existante en matière d’allocations de naissance ......................................................................................... 385
 Loi du 30 avril 1980 portant création d’une allocation de maternité ....................................................................................................... 387
 Loi du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales............ 389
 Loi du 14 juillet 1986 concernant la création d’une allocation de rentrée scolaire.................................................................................. 391
@@ -428,7 +428,7 @@ personnes gravement handicapées................................................
 Règlement grand-ducal du 1er octobre 2018 fixant les modalités d’application de la loi du 28 juillet 2018 relative au revenu d’inclusion
 sociale ...................................................................................................................................................................................................... 822
 Règlement du Gouvernement en conseil du 14 novembre 2025 relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2026. ....................................................................................................................................................................................................... 824
+2026\. ....................................................................................................................................................................................................... 824
 
 Divers.............................................................................................................................................................................. 829
 Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées .. 831
@@ -573,7 +573,7 @@ chômage complet (Mém. A 1976, p. 592).
 27 juillet
 
 Loi modifiant et complétant la loi du 30 juin 1976 portant 1. création d’un fonds de chômage;
-\2. réglementation de l’octroi des indemnités de chômage complet (Mém. A 1978, p. 1008).
+2\. réglementation de l’octroi des indemnités de chômage complet (Mém. A 1978, p. 1008).
 
 23 décembre
 
@@ -694,7 +694,7 @@ Loi portant réforme de l’assurance maladie et du secteur de la santé (Mém. 
 27 juillet
 
 Loi portant 1. modification de la loi du 1er août 1988 portant création d’une allocation d’éducation;
-\2. modification de la loi modifiée du 14 juillet 1986 concernant la création d’une allocation de rentrée
+2\. modification de la loi modifiée du 14 juillet 1986 concernant la création d’une allocation de rentrée
 scolaire; 3. modification de l’article 171 du Code des assurances sociales (Mém. A 1992, p. 1698).
 
 1er décembre
@@ -1077,7 +1077,7 @@ Loi modifiant l’article 22 du Code des assurances sociales (Mém. A 11 du 28 j
 juillet
 
 Loi modifiant 1. la loi du 25 juillet 2002 concernant l’incapacité de travail et la réinsertion professionnelle
-\2. le Code des assurances sociales 3. la loi modifiée du 24 mai 1989 sur le contrat de travail 4. la loi
+2\. le Code des assurances sociales 3. la loi modifiée du 24 mai 1989 sur le contrat de travail 4. la loi
 modifiée du 21 février 1976 concernant l’organisation et le fonctionnement de l’administration de
 l’emploi et portant création d’une commission nationale de l’emploi 5. la loi modifiée du 30 juin 1976
 portant 1. création d’un fonds de chômage; 2. réglementation de l’octroi des indemnités de chômage
@@ -1187,7 +1187,7 @@ d’un congé pour raisons familiales; 2. de la loi modifiée du 19 juin 1985 co
 familiales et portant création de la caisse nationale des prestations familiales; 3. de la loi du 2 août 2002
 relative à la protection des personnes à l’égard du traitement des données à caractère personnel; 4. du
 Code du Travail; 5. de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État;
-\6. de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux (Mém.
+6\. de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux (Mém.
 A 242 du 29 décembre 2006, p. 4838).
 
 31 octobre
@@ -1253,7 +1253,7 @@ relative aux personnes handicapées (Mém. A 70 du 26 mai 2008, p. 962).
 Loi 1. portant sur la libre circulation des personnes et l’immigration; 2. modifiant - la loi modifiée du 5
 mai 2006 relative au droit d’asile et à des formes complémentaires de protection; - la loi modifiée du 29
 avril 1999 portant création d’un droit à un revenu minimum garanti, - le Code du travail, - le Code pénal;
-\3. abrogeant - la loi modifiée du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers, 2. le
+3\. abrogeant - la loi modifiée du 28 mars 1972 concernant 1. l’entrée et le séjour des étrangers, 2. le
 contrôle médical des étrangers, 3. l’emploi de la main-d’œuvre étrangère, - la loi du 26 juin 1953 portant
 fixation des taxes à percevoir en matière de cartes d’identité pour étrangers, - la loi du 28 octobre 1920
 destinée à endiguer l’affluence exagérée d’étrangers sur le territoire du grand-duché (Mém. A 138 du 10
@@ -1320,7 +1320,7 @@ Titre IX nouveau; 2. l’article 631-2 du Code du Travail (Mém. A 41 du 10 mars
 16 mars
 
 Loi relative aux soins palliatifs, à la directive anticipée et à l’accompagnement en fin de vie et modifiant
-\1. le Code de la sécurité sociale; 2. la loi modifiée du 16 avril 1979 fixant le statut général des
+1\. le Code de la sécurité sociale; 2. la loi modifiée du 16 avril 1979 fixant le statut général des
 fonctionnaires de l’État; 3. la loi modifiée du 24 décembre 1985 fixant le statut général des
 fonctionnaires communaux; 4. le Code du Travail (Mém. A 46 du 16 mars 2009, p. 610).
 
@@ -1338,7 +1338,7 @@ sociale (Mém. A 104 du 19 mai 2009, p. 1546).
 28 mai
 
 Loi portant création et organisation du Centre de rétention et modifiant 1. le Code de la sécurité sociale;
-\2. la loi modifiée du 22 juin 1963 fixant le régime des tratiements des fonctionnaires de l’État; 3. la loi du
+2\. la loi modifiée du 22 juin 1963 fixant le régime des tratiements des fonctionnaires de l’État; 3. la loi du
 29 août 2008 sur la libre circulation des personnes et l’immigration (Mém. A 119 du 29 mai 2009,
 p.1708).
 
@@ -1403,7 +1403,7 @@ produits de tabacs manufacturés, l’alcool et les boissons alcooliques et modi
 chômage complet; 2. la loi modifiée du 23 décembre 2004 1. établissant un système d’échange de
 quotas d’émission de gaz à effet de serre; 2. créant un fonds de financement des mécanismes de
 Kyoto; 3. modifiant l’article 13bis de la loi modifiée du 10 juin 1999 relative aux établissements classés;
-\3. la loi du 1er août 2007 relative à l’organisation du marché de l’électricité; 4. la loi du 1er août 2007
+3\. la loi du 1er août 2007 relative à l’organisation du marché de l’électricité; 4. la loi du 1er août 2007
 relative à l’organisation du marché du gaz naturel (Mém. A 228 du 21 décembre 2010, p. 3676).
 
 17 décembre
@@ -1437,7 +1437,7 @@ au développement rural (Mém. A 245 du 28 décembre 2010, p. 4076).
 17 décembre
 
 Loi portant introduction des mesures fiscales relatives à la crise financière et économique et portant
-\1. modification de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu; 2. modification
+1\. modification de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu; 2. modification
 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour l’emploi; 2. réglementation de
 l’octroi des indemnités de chômage complet; 3. introduction d’une contribution de crise (Mém. A 247 du
 31 décembre 2010, p. 4094).
@@ -1639,7 +1639,7 @@ p. 1738).
 19 décembre
 
 Loi portant modification du paragraphe (3) de l’article 3 de la loi modifiée du 17 février 2009 portant
-\1. modification de l’article L.511-12 du Code du Travail; 2. dérogation, pour l’année 2009, aux
+1\. modification de l’article L.511-12 du Code du Travail; 2. dérogation, pour l’année 2009, aux
 dispositions des articles L.511-5, L.511-7 et L.511-12 du Code du Travail (Mém. A 246 du 23 décembre
 2014, p. 4804).
 
@@ -1688,7 +1688,7 @@ dépenses de l’État pour l’exercice 2015 (Mém. A 94 du 2 juin 2015).
 14 juillet
 
 Loi portant création de la profession de psychothérapeute et modifiant 1) le Code de la sécurité sociale;
-\2) la loi du 8 juin 1999 relative au Collège médical; 3) la loi du 19 juin 2009 ayant pour objet la
+2\) la loi du 8 juin 1999 relative au Collège médical; 3) la loi du 19 juin 2009 ayant pour objet la
 transposition de la directive 2005/36/CE pour ce qui est a) du régime général de reconnaissance des
 titres de formation et des qualifications professionnelles, b) de la prestation temporaire de service
 (Mém. A 136 du 21 juillet 2015, p. 2894).
@@ -1744,14 +1744,14 @@ dénommé «Fonds d’investissements de la Cité Syrdall»; 6) la loi modifiée
 régime d’aides à la protection de l’environnement et à l’utilisation des ressources naturelles; 7) la loi
 modifiée du 5 juin 2009 relative à la promotion de la recherche, du développement et de l’innovation; 8)
 la loi du 29 avril 2014 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2014;
-\9) le Code de la sécurité sociale; 10) la loi modifiée du 17 décembre 2010 fixant les droits d’accise et
+9\) le Code de la sécurité sociale; 10) la loi modifiée du 17 décembre 2010 fixant les droits d’accise et
 taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés,
 l’alcool et les boissons alcooliques (Mém. A. 242 du 23 décembre 2015, p. 5387).
 
 18 décembre
 
 Loi portant modification: 1. du Code du travail; 2. de la loi modifiée du 17 février 2009 portant:
-\1. modification de l’article L.511-12 du Code du travail; 2. dérogation pour l’année 2009, aux
+1\. modification de l’article L.511-12 du Code du travail; 2. dérogation pour l’année 2009, aux
 dispositions des articles L.511-5, L.511-7 et L.511-12 du Code du travail; 3. de la loi modifiée du 3 août
 2010 portant: 1) introduction de diverses mesures temporaires visant à promouvoir l’emploi et à adapter
 les modalités d’indemnisation de chômage et complétant ou dérogeant à certaines dispositions du
@@ -1942,7 +1942,7 @@ personnel de l'enseignement fondamental; 4° de la loi modifiée du 18 mars 2013
 de données à caractère personnel concernant les élèves; 5° de la loi modifiée du 30 juillet 2015 portant
 création d'un Institut de formation de l'Éducation nationale; 6° de la loi du 29 juin 2017 portant
 modification 1. de la loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental;
-\2. de la loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental; 3. de la loi
+2\. de la loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental; 3. de la loi
 modifiée du 7 octobre 1993 ayant pour objet a) la création d'un Service de Coordination de la Recherche
 et de l'Innovation pédagogiques et technologiques; b) la création d'un «Centre de Gestion Informatique
 de l'Éducation»; c) l'institution d'un Conseil scientifique ; 4. de la loi modifiée du 9 décembre 2005
@@ -2117,7 +2117,7 @@ Covid-19. (JO, Mém. A 533 du 25 juin 2020)
 
 Loi portant 1° dérogation temporaire à certaines dispositions en matière de droit du travail en relation
 avec l’état de crise lié au Covid-19 ; 2° modification du Code du travail. (JO, Mém. A 538 du 25 juin
-2020)
+2020\)
 
 24 juillet
 
@@ -2357,7 +2357,7 @@ artistique ;2°la loi modifiée du 8 avril 2018 sur les marchés publics. (JO, M
 22 mai
 
 Loi portant modification des livres Ier, II et III du Code de la sécurité sociale. (JO, Mém. A 257 du 26 mai
-2023)
+2023\)
 
 28 juin
 
@@ -2415,7 +2415,7 @@ Mém. A 478 du 2 août 2023)
 2 août
 
 Loi concernant le soutien au développement durable des zones rurales. (JO, Mém. A 489 du 7 août
-2023)
+2023\)
 
 7 août
 
@@ -2431,7 +2431,7 @@ général des fonctionnaires de l’État ; 3°de la loi modifiée du 24 décemb
 des fonctionnaires communaux, en vue de la transposition de la directive (UE) 2019/1158 du Parlement
 européen et du Conseil du 20 juin 2019 concernant l’équilibre entre vie professionnelle et vie privée des
 parents et des aidants et abrogeant la directive 2010/18/UE du Conseil. (JO, Mém. A 512 du 17 août
-2023)
+2023\)
 
 22 décembre
 
@@ -3929,7 +3929,7 @@ par le comité directeur du 25 février 2010 (Mém. B 30 du 9 avril 2010, p. 456
 Règlement grand-ducal modifiant le règlement grand-ducal du 22 décembre 2006 déterminant: 1. les
 modalités et les limites de la prise en charge des aides techniques par l’assurance dépendance; 2. les
 modalités et les limites de la prise en charge des adaptations du logement par l’assurance dépendance;
-\3. les produits nécessaires aux aides et soins (Mém. A 65 du 28 avril 2010, p. 1262).
+3\. les produits nécessaires aux aides et soins (Mém. A 65 du 28 avril 2010, p. 1262).
 
 1er juin
 
@@ -4791,7 +4791,7 @@ spécifiques de la détermination de la dépendance chez l’enfant (JO, Mém. A
 13 décembre
 
 Règlement grand-ducal modifiant le règlement grand-ducal modifié du 22 décembre 2006 déterminant
-\1. les modalités et les limites de la prise en charge des aides techniques par l’assurance dépendance; 2.
+1\. les modalités et les limites de la prise en charge des aides techniques par l’assurance dépendance; 2.
 les modalités et les limites de la prise en charge des adaptations du logement par l’assurance
 dépendance; 3. les produits nécessaires aux aides et soins (JO, Mém. A 1092 du 19 décembre 2017).
 
@@ -4936,7 +4936,7 @@ modalités de la détermination de la dépendance. (JO, Mém. A 877 du 27 septem
 21 septembre
 
 Règlement du Gouvernement en conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2019. (JO, Mém. A 891 du 4 octobre 2018)
+2019\. (JO, Mém. A 891 du 4 octobre 2018)
 
 1er octobre
 
@@ -5287,7 +5287,7 @@ Mém. A 892 du 10 novembre 2020)
 20 novembre
 
 Règlement du Gouvernement en Conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2021. (JO, Mém. A 963 du 3 décembre 2020)
+2021\. (JO, Mém. A 963 du 3 décembre 2020)
 
 14 décembre
 
@@ -5540,7 +5540,7 @@ nomenclature des actes et services des médecins pris en charge par l’assuranc
 19 novembre
 
 Règlement du Gouvernement en Conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2022. (JO, Mém. A 828 du 26 novembre 2021)
+2022\. (JO, Mém. A 828 du 26 novembre 2021)
 
 29 novembre
 
@@ -5638,7 +5638,7 @@ accident volontaire pour l’exercice 2022. (JO, Mém. B3225 du 6 septembre 2022
 25 novembre
 
 Règlement du Gouvernement en conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2023. (JO, Mém. A 598 du 6 décembre 2022)
+2023\. (JO, Mém. A 598 du 6 décembre 2022)
 
 28 novembre
 
@@ -5765,7 +5765,7 @@ Mém. A 280 du 5 juin 2023)
 26 mai
 
 Règlement du Gouvernement en conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2024. (JO, Mém. A 283 du 6 juin 2023)
+2024\. (JO, Mém. A 283 du 6 juin 2023)
 
 5 juin
 
@@ -5904,8 +5904,8 @@ arrêtées par le Conseil d'administration de la Caisse nationale de santé en d
 24 janvier
 
 Règlement grand-ducal modifiant le règlement grand-ducal modifié du 22 décembre 2006 déterminant
-\1. les modalités et les limites de la prise en charge des aides techniques par l’assurance dépendance ;
-\2. les modalités et les limites de la prise en charge des adaptations du logement par l’assurance
+1\. les modalités et les limites de la prise en charge des aides techniques par l’assurance dépendance ;
+2\. les modalités et les limites de la prise en charge des adaptations du logement par l’assurance
 dépendance ; 3. les modalités et les limites de prise en charge par l’assurance dépendance des aides
 techniques pour les personnes bénéficiaires de soins palliatifs. (JO, Mém. A 23 du 1er février 2024)
 
@@ -5936,7 +5936,7 @@ Mém. A 264 du 27 juin 2024)
 17 juillet
 
 Règlement du Gouvernement en conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2025. (JO, Mém. A 289 du 18 juillet 2024)
+2025\. (JO, Mém. A 289 du 18 juillet 2024)
 
 17 juillet
 
@@ -5948,7 +5948,7 @@ mai 2024. (JO, Mém. A 312 du 31 juillet 2024)
 
 Règlement grand-ducal modifiant le règlement grand-ducal du 6 décembre 2019 précisant les
 modalités et conditions de mise en place du dossier de soins partagé. (JO, Mém. A 387 du 28 août
-2024)
+2024\)
 
 27 août
 
@@ -6089,7 +6089,7 @@ A 425 du 9 octobre 2025)
 14 novembre
 
 Règlement du Gouvernement en conseil relatif à l’octroi d’une allocation de vie chère au titre de l’année
-\2026. (JO, Mém. A 504 du 19 novembre 2025)
+2026\. (JO, Mém. A 504 du 19 novembre 2025)
 
 3 décembre
 
@@ -6112,7 +6112,7 @@ Mém. A 555 du 12 décembre 2025)
 
 Règlement grand-ducal modifiant le règlement grand-ducal modifié du 24 août 2016 concernant le
 statut du personnel de la Caisse nationale d’assurance pension. (JO, Mém. A 588 du 18 décembre
-2025)
+2025\)
 
 17 décembre
 
@@ -6229,14 +6229,14 @@ Art. 1er.1) Sont assurés obligatoirement conformément aux dispositions qui sui
 
 L. 27.7.92
 
-\2) 3)
+2\) 3)
 
 les personnes qui exercent au Grand-Duché de Luxembourg contre rémunération
 une activité professionnelle pour le compte d’autrui;
 
-\2) les apprentis bénéficiant au Grand-Duché de Luxembourg d’une formation
+2\) les apprentis bénéficiant au Grand-Duché de Luxembourg d’une formation
 professionnelle indemnisée;
-\3) les gens de mer occupés sur un navire battant pavillon luxembourgeois et qui, soit
+3\) les gens de mer occupés sur un navire battant pavillon luxembourgeois et qui, soit
 possèdent la nationalité luxembourgeoise ou celle d’un pays avec lequel le
 Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit
 résident au Grand-Duché de Luxembourg;
@@ -6259,38 +6259,38 @@ une telle activité qui sont délégués à la gestion journalière,
 d’établissement délivrée conformément à la loi du 2 septembre 2011 réglementant
 l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines
 professions libérales 5);
-\5) le conjoint ou le partenaire 6) au sens de l’article 2 de la loi du 9 juillet 2004 relative aux L. 25.7.05,I,2°
+5\) le conjoint ou le partenaire 6) au sens de l’article 2 de la loi du 9 juillet 2004 relative aux L. 25.7.05,I,2°
 effets légaux de certains partenariats et, pour les activités ressortissant de la Chambre
 d’agriculture, les parents et alliés en ligne directe ou collatérale jusqu’au troisième
 degré inclusivement d’un assuré au titre du numéro 4), première phrase pourvu que le
 conjoint, le partenaire, le parent ou allié soit âgé de dix-huit ans au moins et prête à cet
 assuré des services nécessaires dans une mesure telle que ces services peuvent être
 considérés comme activité principale;
-\6) les membres d’associations religieuses et les personnes pouvant leur être assimilées L. 27.7.92
+6\) les membres d’associations religieuses et les personnes pouvant leur être assimilées L. 27.7.92
 exerçant au Grand-Duché de Luxembourg une activité dans l’intérêt des malades et de
 l’utilité générale;
-\7) les personnes visées par la loi du 6 janvier 1996 sur la coopération au développement L. 25.7.05,I,4°
+7\) les personnes visées par la loi du 6 janvier 1996 sur la coopération au développement L. 25.7.05,I,4°
 de même que celles visées par la loi du 27 juillet 1992 relative à la participation du
 Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le
 cadre d’organisations internationales;
-8)
+8\)
 
-\7) les bénéficiaires d’une pension personnelle ou d’une pension de survie en vertu du
+7\) les bénéficiaires d’une pension personnelle ou d’une pension de survie en vertu du
 
 L. 27.7.92
 
 livre III du présent code ou de la législation et réglementation sur les pensions d’un
 régime spécial 8) luxembourgeois, lorsqu’ils résident au Grand-Duché de Luxembourg;
-\9) les bénéficiaires d’une ou de plusieurs rentes personnelles pour une réduction de la
+9\) les bénéficiaires d’une ou de plusieurs rentes personnelles pour une réduction de la
 capacité de travail de cinquante pour cent au moins ainsi que d’une rente de survie en
 vertu de la législation concernant les dommages de guerre, à condition qu’ils résident
 
-5)
+5\)
 
-6)
+6\)
 
-7)
-8)
+7\)
+8\)
 
 L. 15.12.17,3,(3),8° : Aux fins d’obtention de l’agrément, le requérant introduit une demande par écrit au
 ministre, qui sera accompagnée des documents suivants : (…) 8. un document attestant son affiliation
@@ -6317,25 +6317,25 @@ L. 25.7.05,I,5° : Les mots « régime non contributif » sont remplacés par le
 
 au Grand-Duché de Luxembourg et qu’ils ne soient pas affiliés obligatoirement à un
 autre titre;
-\10) les personnes bénéficiant d’un revenu de remplacement sur lequel une retenue de
+10\) les personnes bénéficiant d’un revenu de remplacement sur lequel une retenue de
 cotisation au titre de la législation luxembourgeoise sur l’assurance maladie est prévue;
-\11) les bénéficiaires d’une allocation au titre de la loi modifiée du 28 juillet 2018 relative au
+11\) les bénéficiaires d’une allocation au titre de la loi modifiée du 28 juillet 2018 relative au
 revenu d’inclusion sociale
-\12) les membres de la chambre des députés et les représentants luxembourgeois à
+12\) les membres de la chambre des députés et les représentants luxembourgeois à
 l’assemblée des communautés européennes pendant la durée de leur mandat, à
 condition qu’ils ne soient pas assurés obligatoirement à un autre titre;
-\13) les enfants âgés de moins de dix-huit ans résidant au Grand-Duché de Luxembourg
+13\) les enfants âgés de moins de dix-huit ans résidant au Grand-Duché de Luxembourg
 qui ne sont pas assurés à un autre titre et qui ne bénéficient pas d’une protection en
 vertu de l’article 7;
-\14) 1) 2) les personnes âgées de plus de dix-huit ans poursuivant au Grand-Duché de
+14\) 1) 2) les personnes âgées de plus de dix-huit ans poursuivant au Grand-Duché de
 Luxembourg des études ou une formation professionnelle non indemnisée au titre d’un
 apprentissage, qui ne sont pas assurées à un autre titre et qui ne bénéficient pas d’une
 protection en vertu de l’article 7;
-\15) les personnes résidant au Grand-Duché de Luxembourg qui par suite d’infirmité
+15\) les personnes résidant au Grand-Duché de Luxembourg qui par suite d’infirmité
 physique ou intellectuelle se trouvent hors d’état de gagner leur vie, qui ne sont pas
 assurées à un autre titre et qui ne bénéficient pas d’une protection en vertu de
 l’article 7;
-\16) 3) les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de
+16\) 3) les volontaires de l’armée au sens de la loi du 2 août 1997 portant réorganisation de
 l’armée et modification de la loi du 27 juillet 1992 relative à la participation du GrandDuché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le
 cadre d’organisations internationales 4), les personnes participant, sous l’égide
 d’organisations internationales, comme observateurs aux missions officielles
@@ -6343,20 +6343,20 @@ d’observation aux élections à l’étranger, ainsi que celles remplissant la
 d’observateur prévue par la loi modifiée du 29 août 2008 sur la libre circulation des
 personnes et l’immigration et ses règlements d’exécution et qui assistent à l’exécution
 d’une mesure d’éloignement;
-\17) 3) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre
+17\) 3) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre
 2007 sur le service volontaire des jeunes;
-\18) 3) aux salariés handicapés occupés dans les ateliers protégés et aux personnes
+18\) 3) aux salariés handicapés occupés dans les ateliers protégés et aux personnes
 bénéficiant d’un revenu pour personnes gravement handicapées au sens de la loi du
 12 septembre 2003 relative aux personnes handicapées;
-\19) les sportifs d’élite qui participent à des activités d’élite dans le cadre de la loi du 3 août
+19\) les sportifs d’élite qui participent à des activités d’élite dans le cadre de la loi du 3 août
 2005 concernant le sport;
-\20) les bénéficiaires d’une rente partielle ou complète, d’une rente professionnelle
+20\) les bénéficiaires d’une rente partielle ou complète, d’une rente professionnelle
 d’attente ou d’une rente de survie en vertu du livre II du présent code du chef d’un
 accident survenu ou d’une maladie professionnelle déclarée après le 31 décembre
 2010;
-\21) les jeunes au pair séjournant dans une famille d’accueil conformément à la loi du
+21\) les jeunes au pair séjournant dans une famille d’accueil conformément à la loi du
 18 février 2013 sur les jeunes au pair.
-\22) les bénéficiaires de la protection temporaire pourvus de l’attestation prévue à l’article
+22\) les bénéficiaires de la protection temporaire pourvus de l’attestation prévue à l’article
 72 de la loi modifiée du 18 décembre 2015 relative à la protection internationale et à la
 protection temporaire. 5)
 
@@ -6407,7 +6407,7 @@ obtenir un remboursement complémentaire en cas de détachement à l’étranger
 autorisées par le ministre.
 L. 10.5.22, 3 : La présente loi produit ses effets au 4 mars 2022.
 
-5)
+5\)
 
 Sont assurées obligatoirement dans les conditions applicables aux personnes visées au L. 12.5.10,2,1°,c)
 numéro 1) de l’alinéa 1 du présent article les personnes exerçant au Grand-Duché de
@@ -6517,20 +6517,20 @@ Extension de l’assurance
 L. 9.7.04,15,4°
 
 Art. 7. Le bénéfice de l’assurance obligatoire et de l’assurance volontaire s’étend:
-\1) au conjoint ou au partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux
+1\) au conjoint ou au partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux
 effets légaux de certains partenariats;
-\2) au parent et allié en ligne directe ou collatérale jusqu'au troisième degré qui à défaut
+2\) au parent et allié en ligne directe ou collatérale jusqu'au troisième degré qui à défaut
 de conjoint ou de partenaire au sens de l'article 2 de la loi du 9 juillet 2004 relative aux
 effets légaux de certains partenariats, tient le ménage de l'assuré principal;
-\3) aux enfants légitimes, légitimés, naturels et adoptifs de l’assuré principal pour lesquels L. 26.7.10,V,1°
+3\) aux enfants légitimes, légitimés, naturels et adoptifs de l’assuré principal pour lesquels L. 26.7.10,V,1°
 il obtient une modération d’impôt en application des articles 122 et 123 de la loi
 modifiée du 4 décembre 1967 concernant l’impôt sur le revenu;
-\4) aux enfants recueillis d’une manière durable dans le ménage de l’assuré et auxquels
+4\) aux enfants recueillis d’une manière durable dans le ménage de l’assuré et auxquels
 celui-ci assure l’éducation et l’entretien, pour lesquels l’assuré, son conjoint ou son
 partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de
 certains partenariats obtient une modération d’impôt en application des articles 122 et
 123 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu;
-\5) aux ayants droit visés sous 3) et 4) âgés de moins de trente ans et pour lesquels la
+5\) aux ayants droit visés sous 3) et 4) âgés de moins de trente ans et pour lesquels la
 modération pour enfants n’est plus accordée, s’ils disposent de ressources inférieures
 aux limites fixées à l’article 5 de la loi modifiée du 28 juillet 2018 relative au revenu
 d’inclusion sociale pour une personne seule. 2)
@@ -6576,7 +6576,7 @@ indemnité pécuniaire de maladie. 1)
 L’indemnité pécuniaire de maladie est due pendant les périodes de reprise progressive du L. 10.8.18,2,1°
 travail accordée en vertu de l’article 14bis. 2)
 
-\3) L’indemnité pécuniaire de maladie est due pareillement pendant les périodes de congé L. 13.5.08,2,1°
+3\) L’indemnité pécuniaire de maladie est due pareillement pendant les périodes de congé L. 13.5.08,2,1°
 pour raisons familiales, déterminées par référence à l’article L. 234-52 4) du Code du travail.
 
 L’indemnité pécuniaire de maladie est encore due pendant les périodes déterminées par L. 16.3.09,10,1
@@ -6590,10 +6590,10 @@ Sont portées en compte séparément:
 
 L. 13.5.08,2,2°
 
-\1) la rémunération de base la plus élevée qui fait partie de l’assiette appliquée au cours
+1\) la rémunération de base la plus élevée qui fait partie de l’assiette appliquée au cours
 de l’un des trois mois de calendrier précédant le début du paiement de l’indemnité
 pécuniaire par la caisse;
-\2) la moyenne des compléments et accessoires de la rémunération qui font partie des
+2\) la moyenne des compléments et accessoires de la rémunération qui font partie des
 assiettes des douze mois de calendrier précédant le mois antérieur à la survenance de
 l’incapacité de travail; si cette période de référence n’est pas entièrement couverte par
 une activité soumise à l’assurance, la moyenne est calculée sur base des mois de
@@ -6653,10 +6653,10 @@ L. 10.8.18,3: Entrée en vigueur: 1er janvier 2019.
 L. 10.8.18,2,1° : Les alinéas 2 et 3 actuels deviennent les alinéas 3 et 4 nouveaux.
 L. 12.8.22,6 : Les termes « L. 234-51 » sont remplacés par les termes « L. 234-52 ».
 
-5)
-6)
+5\)
+6\)
 
-7)
+7\)
 
 Art. 11. L’indemnité pécuniaire due à un salarié prend cours à partir du premier jour ouvré L. 27.7.92
 de l’incapacité de travail, à condition que celle-ci ait été déclarée dans les formes et délais
@@ -6672,7 +6672,7 @@ tenus de déclarer les incapacités de travail à la Caisse nationale de santé 
 l’alinéa 1.
 La conservation légale de la rémunération cesse pour les mêmes motifs de refus que L. 7.8.15,2,1°
 l’indemnité pécuniaire de maladie.
-\2) L’indemnité pécuniaire due à un salarié est soumise aux cotisations au titre de L. 21.12.04,1,2°
+2\) L’indemnité pécuniaire due à un salarié est soumise aux cotisations au titre de L. 21.12.04,1,2°
 l’assurance maladie, de l’assurance pension et de l’assurance dépendance, à l’instar de la
 rémunération sur base de laquelle elle est calculée, mais exempte des cotisations en
 matière d’assurance accidents et d’allocations familiales.3)
@@ -6772,17 +6772,17 @@ décision de la commission mixte sur le reclassement professionnel en applicatio
 V du livre V du Code du travail. 5)
 
 Art. 16. L’indemnité pécuniaire n’est pas payée:
-\1) tant que l’assuré se soustrait sans motif valable au contrôle médical;
-\2) tant que l’assuré se soustrait sans motif valable aux examens médicaux prévus à
+1\) tant que l’assuré se soustrait sans motif valable au contrôle médical;
+2\) tant que l’assuré se soustrait sans motif valable aux examens médicaux prévus à
 l’article L. 552-2, paragraphe 2, alinéa 4 du Code du travail;
-\3) tant que le bénéficiaire séjourne à l’étranger sans autorisation préalable de la caisse de
+3\) tant que le bénéficiaire séjourne à l’étranger sans autorisation préalable de la caisse de
 maladie;
-\4) 6) 7) tant que l’assuré ne fournit pas tous renseignements, documents et pièces
+4\) 6) 7) tant que l’assuré ne fournit pas tous renseignements, documents et pièces
 demandés par la Caisse nationale de santé ou le Contrôle médical de la sécurité sociale.
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 L. 1.7.05,II,2°
 L. 23.7.15,II,1°
@@ -6806,13 +6806,13 @@ Voir sous « Lois - Assurance maladie » du présent recueil.
 Renumérotation adaptée par L. 9.8.18,1,1°.
 L. 26.2.2013,20 (Mém. A 38 du 5.3.2016) et L. 5.4.2016,19 (Mém. A 62 du 15.4.2016):
 Contrôle des arrêts de travail
-\1. En cas d’arrêt de travail d’un salarié soumis à la législation d’une Partie contractante et résidant sur le
+1\. En cas d’arrêt de travail d’un salarié soumis à la législation d’une Partie contractante et résidant sur le
 territoire de l’autre Partie contractante, l’institution compétente de la première Partie peut, en application
 du règlement d’application, demander à l’institution compétente de l’autre Partie contractante de
 procéder aux mesures de contrôle prévues par la législation de cette autre Partie contractante.
 L’institution compétente requise procède sans délai aux mesures de contrôle demandées et informe
 l’institution compétente requérante des constatations qu’elle a faites.
-\2. Par ailleurs, l’institution d’une Partie contractante qui souhaite s’assurer de la justification d’un arrêt
+2\. Par ailleurs, l’institution d’une Partie contractante qui souhaite s’assurer de la justification d’un arrêt
 de travail d’un salarié soumis à la législation qu’elle applique et résidant sur le territoire de l’autre Partie
 contractante peut mandater un médecin de son choix exerçant sur le territoire de cette dernière aux fins
 d’effectuer une visite de contrôle au domicile du salarié.
@@ -6832,45 +6832,45 @@ commun de la sécurité sociale conformément aux dispositions de l’article 42
 Prestations de soins de santé
 
 Art. 17. Sont pris en charge dans une mesure suffisante et appropriée:
-\1) les soins de médecine;
+1\) les soins de médecine;
 
 L. 17.12.10,1er,5°
 
-\2) les soins de médecine dentaire;
-\3) les traitements effectués par les professionnels de santé;
-\4) les analyses de biologie médicale;
-\5) les orthèses, prothèses, épithèses et implants dentaires;
-\6) les médicaments, le sang humain et les composants sanguins;
-\7) les dispositifs médicaux 2) et les produits d’alimentation médicale;
+2\) les soins de médecine dentaire;
+3\) les traitements effectués par les professionnels de santé;
+4\) les analyses de biologie médicale;
+5\) les orthèses, prothèses, épithèses et implants dentaires;
+6\) les médicaments, le sang humain et les composants sanguins;
+7\) les dispositifs médicaux 2) et les produits d’alimentation médicale;
 
 L. 13.12.17,1er,1°
 
-\8) les traitements effectués en milieu hospitalier;
+8\) les traitements effectués en milieu hospitalier;
 
 L. 17.12.10,1er,5°
 
-\9) les frais de séjour à l’hôpital en cas d’accouchement et en cas d’hospitalisation sauf
+9\) les frais de séjour à l’hôpital en cas d’accouchement et en cas d’hospitalisation sauf
 pour le cas de simple hébergement;
-\10) les cures thérapeutiques 3);
+10\) les cures thérapeutiques 3);
 10bis) les soins de réhabilitation physique et post-oncologique;
 
 L. 12.8.22,8,2°
 
-\11) les soins de rééducations et de réadaptations fonctionnelles;
+11\) les soins de rééducations et de réadaptations fonctionnelles;
 
 L.17.12.10,1er,5°
 
-\12) les frais de transport des malades;
+12\) les frais de transport des malades;
 
 L. 26.2.2013,20 (Mém. A 38 du 5.3.2016) et L. 5.4.2016,19 (Mém. A 62 du 15.4.2016):
 Contrôle des arrêts de travail
-\1. En cas d’arrêt de travail d’un salarié soumis à la législation d’une Partie contractante et résidant sur le
+1\. En cas d’arrêt de travail d’un salarié soumis à la législation d’une Partie contractante et résidant sur le
 territoire de l’autre Partie contractante, l’institution compétente de la première Partie peut, en application
 du règlement d’application, demander à l’institution compétente de l’autre Partie contractante de
 procéder aux mesures de contrôle prévues par la législation de cette autre Partie contractante.
 L’institution compétente requise procède sans délai aux mesures de contrôle demandées et informe
 l’institution compétente requérante des constatations qu’elle a faites.
-\2. Par ailleurs, l’institution d’une Partie contractante qui souhaite s’assurer de la justification d’un arrêt
+2\. Par ailleurs, l’institution d’une Partie contractante qui souhaite s’assurer de la justification d’un arrêt
 de travail d’un salarié soumis à la législation qu’elle applique et résidant sur le territoire de l’autre Partie
 contractante peut mandater un médecin de son choix exerçant sur le territoire de cette dernière aux fins
 d’effectuer une visite de contrôle au domicile du salarié.
@@ -6898,8 +6898,8 @@ L. 12.8.22,8,1° : Les termes « et de convalescence » sont supprimés.
 R. 12.12.02
 R. 29.4.05
 
-\13) les soins palliatifs suivant les modalités d’attribution précisées par règlement grandducal; 1)
-\14) les psychothérapies visant le traitement d’un trouble mental.
+13\) les soins palliatifs suivant les modalités d’attribution précisées par règlement grandducal; 1)
+14\) les psychothérapies visant le traitement d’un trouble mental.
 
 R. 28.4.09
 L. 14.7.15,17,1.
@@ -7014,16 +7014,16 @@ Art. 19bis 3) L’assuré atteint d’une des pathologies chroniques graves qual
 d’affection de longue durée, énumérées au règlement grand-ducal déterminant la
 nomenclature des médecins, peut désigner un médecin référent avec l’accord de celui-ci
 qui a pour missions:
-\1) d’assurer le premier niveau de recours aux soins;
-\2) d’assurer les soins de prévention et contribuer à la promotion de la santé;
-\3) de suivre régulièrement le contenu du dossier de soins partagé de l’assuré visé à
+1\) d’assurer le premier niveau de recours aux soins;
+2\) d’assurer les soins de prévention et contribuer à la promotion de la santé;
+3\) de suivre régulièrement le contenu du dossier de soins partagé de l’assuré visé à
 l’article 60quater;
-\4) de superviser le parcours de l’assuré dans le système de soins de santé et de
+4\) de superviser le parcours de l’assuré dans le système de soins de santé et de
 sensibiliser le patient par rapport aux risques liés aux doubles emplois, à la
 surconsommation et aux effets secondaires;
-\5) de coordonner les soins dans les cas de pathologies lourdes ou chroniques ou de soins
+5\) de coordonner les soins dans les cas de pathologies lourdes ou chroniques ou de soins
 de longue durée;
-\6) d’informer, d’orienter et de conseiller le patient dans son parcours de soins.
+6\) d’informer, d’orienter et de conseiller le patient dans son parcours de soins.
 
 Le médecin référent doit avoir la qualité de médecin généraliste ou celle de médecin en
 pédiatrie.
@@ -7036,11 +7036,11 @@ dispensées ou prescrites dans un État membre de l’Union européenne, en Suis
 un pays de l’Espace économique européen, la prise en charge se fait en vertu du présent
 Code.
 (2) Si ces prestations de soins de santé transfrontaliers impliquent:
-\1) le séjour de l’assuré dans un hôpital, un établissement hospitalier spécialisé ou un
+1\) le séjour de l’assuré dans un hôpital, un établissement hospitalier spécialisé ou un
 établissement d’accueil pour personnes en fin de vie au sens de la loi modifiée du 8
 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière 4)
 pour au moins une nuit, ou
-\2) le recours aux infrastructures hautement spécialisées et coûteuses que sont les L. 12.8.22,9,2°
+2\) le recours aux infrastructures hautement spécialisées et coûteuses que sont les L. 12.8.22,9,2°
 réseaux de compétences nationaux, les centres de diagnostic, les services nationaux
 et les établissements hospitaliers spécialisés de réhabilitation neuropsychiatrique, de
 rééducation fonctionnelle, de rééducation gériatrique, de réhabilitation physique et
@@ -7077,12 +7077,12 @@ Le refus de faire droit à une demande d’autorisation préalable pour des soin
 transfrontaliers est à motiver en vertu des critères des articles 17, alinéa 1 et 23, alinéa 1.
 Toutefois, la Caisse nationale de santé ne peut refuser d’accorder une autorisation
 préalable:
-\1) si les prestations de soins de santé transfrontaliers font partie de la prise en charge de
+1\) si les prestations de soins de santé transfrontaliers font partie de la prise en charge de
 l’article 17, alinéa 1, mais que ces prestations ne peuvent pas être dispensées sur le
 territoire luxembourgeois dans un délai acceptable sur le plan médical, suivant
 évaluation par le Contrôle médical de la sécurité sociale sur base des critères fixés
 dans les statuts, ou
-\2) si les prestations de soins de santé transfrontaliers, indispensables suivant avis du
+2\) si les prestations de soins de santé transfrontaliers, indispensables suivant avis du
 Contrôle médical de la sécurité sociale, ne sont pas prévues par la législation
 luxembourgeoise.
 (3) La prise en charge des prestations de soins de santé transfrontaliers visées aux
@@ -7104,9 +7104,9 @@ dispensées ou prescrites dans un pays autre qu’un État membre de l’Union e
 que la Suisse ou qu’un pays de l’Espace économique européen et non lié au Grand-Duché
 de Luxembourg par un instrument bilatéral en matière d’assurance maladie, la prise en
 charge est liée,
-\1) sur avis motivé du Contrôle médical de la sécurité sociale, aux seules prestations
+1\) sur avis motivé du Contrôle médical de la sécurité sociale, aux seules prestations
 d’urgence reçues en cas de maladie ou d’accident survenus à l’étranger, ou
-\2) à l’obtention d’une autorisation préalable de la Caisse nationale de santé, sur avis
+2\) à l’obtention d’une autorisation préalable de la Caisse nationale de santé, sur avis
 motivé du Contrôle médical de la sécurité sociale. Avant de saisir le Contrôle médical
 de la sécurité sociale pour avis, la Caisse nationale de santé décide de la recevabilité
 de la demande quant au respect des conditions de forme déterminées par les statuts.
@@ -7321,7 +7321,7 @@ cours de l’année précédant le début de cette période.
 A droit à la même indemnité l'assuré non salarié pendant la durée déterminée par analogie L. 21.12.04,I,6°
 à l'alinéa 2.
 
-\8) L’indemnité pécuniaire de maternité est égale à l’indemnité pécuniaire de maladie. Elle
+8\) L’indemnité pécuniaire de maternité est égale à l’indemnité pécuniaire de maladie. Elle
 
 L. 1.8.01
 ne peut être cumulée avec celle-ci, ni avec un autre revenu professionnel. Dans le cas visé
@@ -7339,7 +7339,7 @@ par les statuts.
 Chapitre III. - Financement
 Système de financement
 
-9)
+9\)
 
 Art. 28.10) Pour faire face aux charges qui incombent à l’assurance maladie-maternité, la L. 23.12.16,37
 Caisse nationale de santé applique le système de la répartition des charges avec
@@ -7357,32 +7357,32 @@ patrimoine des caisses de maladie visées à l’article 48.
 Cass, 1er mars 2001, no 1784 du registre CMEP/Van Bever.
 A voir arrêt de la Cour constitutionnelle n° 100/13 du 12 juillet 2013 (Mém. A 135 du 26 juillet 2013, p.
 2754).
-\3) Termes ajoutés par L. 17.11.03, I, 1°, a).
-\4) L. 13.5.08,8,4°:
+3\) Termes ajoutés par L. 17.11.03, I, 1°, a).
+4\) L. 13.5.08,8,4°:
 Le paragraphe 2 de l’article L. 332-3 du Code du travail est modifié comme suit:
 La période du congé de maternité est prise en compte pour la détermination des droits liés à
 l’ancienneté. La femme salariée conserve en outre le bénéfice de tous les avantages qu’elle avait acquis
 avant le début du congé de maternité et elle bénéficie de toute amélioration des conditions de travail à
 laquelle elle aurait eu droit durant son absence.
-\5) Par L. 31.7.06, article 2, point 45, la loi du 1er août 2001 concernant la protection des travailleuses
+5\) Par L. 31.7.06, article 2, point 45, la loi du 1er août 2001 concernant la protection des travailleuses
 enceintes, accouchés et allaitantes a été abrogée. Par L. 31.7.06, article 3, les références à cette loi ont
 été remplacées par les références aux articles correspondants du Code du travail.
 Voir sous « Lois - Assurance maladie » du présent recueil.
-\6) Il y a lieu de lire « article L. 234-56 ».
-\7) Termes ajoutés par L. 17.11.03, I, 1°, a).
-\8) Alinéa renuméroté par L. 21.12.04,06°.
-\9) L.18.12.09,52,(1):
+6\) Il y a lieu de lire « article L. 234-56 ».
+7\) Termes ajoutés par L. 17.11.03, I, 1°, a).
+8\) Alinéa renuméroté par L. 21.12.04,06°.
+9\) L.18.12.09,52,(1):
 Par dérogation à l’article 28, alinéa 1 du Code de la sécurité sociale la limite inférieure de la réserve y
 prévue est réduite pour l’exercice 2010 à 5,5 pour cent.
 Pour faire face à des difficultés de trésorerie éventuelles, une ligne de crédit peut être ouverte sans frais
 par le conseil d’administration sur la réserve prévue à l’article 375 du Code de la sécurité sociale. L’article
 41, alinéa 2, du même Code est applicable.
-\10) L. 17.12.10,3:
+10\) L. 17.12.10,3:
 Par dérogation à l’article 28, alinéa 1er du Code de la sécurité sociale, la limite inférieure de la réserve y
 prévue est réduite pour l’exercice 2011 à 5,5 pour cent, pour l’exercice 2012 à 6,5 pour cent, pour
 l’exercice 2013 à 7,5 pour cent et pour l’exercice 2014 à 8,5 pour cent.
 
-\1) 2)
+1\) 2)
 
 (alinéa abrogé)
 
@@ -7405,10 +7405,10 @@ Le taux de cotisation refixé est publié au Journal officiel du Grand-Duché de
 
 Charge des cotisations
 
-5)
+5\)
 
-6)
-7)
+6\)
+7\)
 
 Art. 31. L’État supporte quarante pour cent des cotisations 5).
 L. 17.12.10,1,18°
@@ -7536,30 +7536,30 @@ au moins.
 Par L. 29.8.17,IV les termes « ainsi que le personnel des établissements pénitentiaires et de le personnel
 du Centre de rétention » sont remplacés par les termes « ainsi que le personnel des établissements
 pénitentiaires, le personnel du Centre de rétention et le personnel de l’unité de sécurité du centre socioéducatif de l’État ».
-\2) L. 12.8.22,12 : Les termes « à l’article 1er » sont remplacés par les termes « à l’article 1er, alinéa 1er ».
-\3) L. 27.6.16,55 (Voir rubrique Lois - Divers du présent recueil):
+2\) L. 12.8.22,12 : Les termes « à l’article 1er » sont remplacés par les termes « à l’article 1er, alinéa 1er ».
+3\) L. 27.6.16,55 (Voir rubrique Lois - Divers du présent recueil):
 Les cotisations d’assurance maladie des personnes visées à l’article 1er sous 4) et 5) du Code de la
 sécurité sociale, remplissant les conditions prévues à l’article 2, paragraphe 3, point 2 et 3 sont prises en
 charge par l’État jusqu’à concurrence de trois quarts de la cotisation à charge des assurés calculée sur
 base du salaire minimum de référence pour un salarié non qualifié âgé de dix-huit ans au moins.
-\4) Par L. 17.12.10,1,19°,d) les termes « et 14 » ont été ajoutés.
-\5) L. 9.8.18,6:
+4\) Par L. 17.12.10,1,19°,d) les termes « et 14 » ont été ajoutés.
+5\) L. 9.8.18,6:
 Pour la période allant du 1er janvier 2011 jusqu’au 1er août 2018, l’État prend en charge les cotisations à
 l’assurance maladie des personnes visées à l’article 1er, alinéa 1, point 14 du Code de la sécurité sociale.
-\6) L. 3.8.05:
+6\) L. 3.8.05:
 Art. 14. Des mesures d'appui particulières pour le sportif d'élite. […]
 (6) Pour autant que les sportifs d'élite ne sont pas assurés à un autre titre, l’État prend à charge, sur la
 base de l'assiette du salaire social minimum, les cotisations de sécurité sociale. Pour les sportifs d'élite
 qui réduisent leur activité professionnelle de façon à ce que leurs revenus tombent en dessous du salaire
 social minimum, l’État rembourse les charges sociales calculées d'après leur revenu réel. […]
-\7) L. 10.5.22, 2 : 1° Le terme « et » est remplacé par une virgule ; 2° Il est complété par les termes « et 22) » .
-\8) L. 10. 5.22, 3 : La présente loi produit ses effets au 4 mars 2022.
-\9) Par L. 9.8.18,1er,3°, les termes « autres » et « de l’article 1er, sous 14) ou » ont été supprimés.
-\10) Voir R. 7.10.04,28 et ss.
+7\) L. 10.5.22, 2 : 1° Le terme « et » est remplacé par une virgule ; 2° Il est complété par les termes « et 22) » .
+8\) L. 10. 5.22, 3 : La présente loi produit ses effets au 4 mars 2022.
+9\) Par L. 9.8.18,1er,3°, les termes « autres » et « de l’article 1er, sous 14) ou » ont été supprimés.
+10\) Voir R. 7.10.04,28 et ss.
 
 R. 8.12.11
 
-\11) L. 19.12.14,7: Introduction d’un impôt d’équilibrage budgétaire temporaire
+11\) L. 19.12.14,7: Introduction d’un impôt d’équilibrage budgétaire temporaire
 (1) Il est introduit pour les années 2015 et 2016 (L. 23.12.16,8) un prélèvement sur le revenu des personnes
 physiques, dénommé impôt d’équilibrage budgétaire temporaire. L’impôt d’équilibrage budgétaire
 temporaire est perçu au profit de l’État par le Centre commun de la sécurité sociale et par l’Administration
@@ -7613,16 +7613,16 @@ La perception et le recouvrement de l’impôt d’équilibrage budgétaire temp
 5 s’opèrent et se poursuivent dans les mêmes formes et avec les mêmes privilèges et hypothèque légale
 que ceux des contributions directes.
 (8) Un règlement grand-ducal peut:
-\1. majorer les taux des différentes retenues prévues par la loi modifiée concernant l’impôt sur le revenu
+1\. majorer les taux des différentes retenues prévues par la loi modifiée concernant l’impôt sur le revenu
 au titre de l’impôt d’équilibrage budgétaire temporaire sans que cette majoration puisse excéder 0,5% du
 revenu sousjacent;
-\2. régler l’exécution pratique des dispositions des paragraphes 5 à 7.
+2\. régler l’exécution pratique des dispositions des paragraphes 5 à 7.
 (9) Le Centre commun de la sécurité sociale et l’Administration des contributions directes échangent, à
 l’aide de procédés automatisés ou non, les informations nécessaires en vue du calcul correct de l’impôt
 d’équilibrage budgétaire temporaire.
 (10) Le produit de l’impôt d’équilibrage budgétaire temporaire est imputé sur le budget ordinaire des
 recettes et des dépenses de l’État.
-\12) L.12.8.22,76 : Les termes « de référence » sont supprimés.
+12\) L.12.8.22,76 : Les termes « de référence » sont supprimés.
 
 Pour les personnes bénéficiant d’un régime de pension spécial ou d’un régime de pension
 transitoire spécial pour les fonctionnaires et pour les personnes leur assimilées, l’assiette
@@ -7801,18 +7801,18 @@ L. 13.5.08,2,10°
 
 Art. 44. La gestion de l’assurance maladie-maternité incombe à la Caisse nationale de
 santé et, dans les limites des attributions leur dévolues en application de l’article 48, à
-\1) la Caisse de maladie des fonctionnaires et employés publics dont relèvent les assurés
+1\) la Caisse de maladie des fonctionnaires et employés publics dont relèvent les assurés
 exerçant une activité professionnelle ressortissant de la Chambre des fonctionnaires et
 employés publics, les assurés bénéficiant d’une pension auprès d’un régime de
 pension spécial, à l’exclusion de ceux visés sous 2) et 3) ainsi que les personnes
 assurées en application de l’article 2, alinéa 3;
 
-\2) la Caisse de maladie des fonctionnaires et employés communaux dont relèvent les
+2\) la Caisse de maladie des fonctionnaires et employés communaux dont relèvent les
 assurés au service des communes, des syndicats intercommunaux et des
 établissements publics placés sous le contrôle des communes ainsi que les
 bénéficiaires d’une pension auprès de la caisse de prévoyance des fonctionnaires et
 employés communaux;
-\3) l’Entraide médicale de la société nationale des chemins de fer luxembourgeois dont
+3\) l’Entraide médicale de la société nationale des chemins de fer luxembourgeois dont
 relèvent les agents, employés et stagiaires de cette société ainsi que les bénéficiaires
 de pension afférents. Un règlement grand-ducal peut préciser la caisse compétente en
 cas de cumul d’activités ou de pensions relevant de caisses ou de régimes différents.
@@ -7831,19 +7831,19 @@ Il lui appartient notamment:
 
 L. 9.8.18,1,7°,a)
 
-\1) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
+1\) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
 jour annuelle y visée;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) de statuer sur le budget annuel global, compte tenu du budget des frais administratifs
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) de statuer sur le budget annuel global, compte tenu du budget des frais administratifs
 établi par les caisses prévues à l’article 44 sous 1) à 3);
-\4) de refixer les taux de cotisation conformément à l’article 30;
-\5) de préparer les négociations à mener par le président ou son représentant avec les
+4\) de refixer les taux de cotisation conformément à l’article 30;
+5\) de préparer les négociations à mener par le président ou son représentant avec les
 prestataires de soins et de se prononcer sur le résultat de ces négociations;
-\6) d’établir les statuts réglant, dans la limite des dispositions légales, réglementaires et
+6\) d’établir les statuts réglant, dans la limite des dispositions légales, réglementaires et
 conventionnelles, tout ce qui concerne les prestations;
-\7) de statuer sur le décompte annuel global des recettes et des dépenses ainsi que sur le
+7\) de statuer sur le décompte annuel global des recettes et des dépenses ainsi que sur le
 bilan;
-\8) d’établir les règles relatives à la mise en place d’un point de contact national
+8\) d’établir les règles relatives à la mise en place d’un point de contact national
 fournissant, sur demande, des informations aux assurés affiliés au Luxembourg ainsi
 qu’aux prestataires de soins, notamment relatives aux prestations de soins de santé
 transfrontaliers dispensés ou prescrits dans un État membre de l’Union européenne,
@@ -7854,10 +7854,10 @@ soit par application d’un instrument bi- ou multilatéral de coordination de s
 sociale, soit suivant le présent Code:
 \- les voies de recours administratives et juridictionnelles dont dispose l’assuré en
 vertu du présent Code;
-\9) de gérer le patrimoine;
-\10) de prendre les décisions concernant le personnel;
-\11) d’établir son règlement d’ordre intérieur;
-\12) d’établir un code de conduite.
+9\) de gérer le patrimoine;
+10\) de prendre les décisions concernant le personnel;
+11\) d’établir son règlement d’ordre intérieur;
+12\) d’établir un code de conduite.
 
 Les décisions prévues aux points 3), 4), 6), 7), 8) et 11) 3) de l’alinéa qui précède sont L. 1.7.14,I,3°,b)
 soumises à l’approbation du ministre ayant dans ses attributions la Sécurité sociale, sur
@@ -7891,19 +7891,19 @@ R. 19.12.08
 
 Art. 46. Le conseil d’administration se compose en dehors du président, fonctionnaire de
 l’État, nommé par le Grand-Duc sur proposition du Gouvernement 1):
-\1) de cinq délégués des salariés du secteur privé désignés par la Chambre des salariés à
+1\) de cinq délégués des salariés du secteur privé désignés par la Chambre des salariés à
 l’exception du groupe des agents du chemin de fer;
-\2) d’un délégué des cheminots désigné par le groupe des agents du chemin de fer de la
+2\) d’un délégué des cheminots désigné par le groupe des agents du chemin de fer de la
 Chambre des salariés;
-\3) d’un délégué des salariés du secteur public désigné par le groupe des fonctionnaires
+3\) d’un délégué des salariés du secteur public désigné par le groupe des fonctionnaires
 et employés communaux de la Chambre des fonctionnaires et employés publics;
-\4) d’un délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
+4\) d’un délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
 et employés publics à l’exception du groupe des fonctionnaires et employés
 communaux;
-\5) d’un délégué des non-salariés désigné par la Chambre de commerce;
-\6) d’un délégué des non-salariés désigné par la Chambre des métiers;
-\7) d’un délégué des non-salariés désigné par la Chambre d’agriculture;
-\8) de cinq délégués des employeurs désignés par la Chambre de commerce et par la
+5\) d’un délégué des non-salariés désigné par la Chambre de commerce;
+6\) d’un délégué des non-salariés désigné par la Chambre des métiers;
+7\) d’un délégué des non-salariés désigné par la Chambre d’agriculture;
+8\) de cinq délégués des employeurs désignés par la Chambre de commerce et par la
 Chambre des métiers suivant une clé de répartition à déterminer par règlement grandducal sur proposition desdites chambres.
 Il y a autant de membres suppléants qu’il y a de membres effectifs.
 En matière de frais de soins de santé avancés par les assurés, d’indemnités pécuniaires de
@@ -7927,7 +7927,7 @@ visioconférence ou autre moyen de télécommunication permettant leur identific
 membres qui participent par un tel moyen sont réputés présents pour le calcul du quorum
 et de la majorité au conseil. Les modalités de la tenue des séances du conseil
 d’administration sont précisées par le règlement d’ordre intérieur.
-\2) Le conseil d’administration peut décider de la mise en place de groupes de travail
+2\) Le conseil d’administration peut décider de la mise en place de groupes de travail
 chargés des travaux préparatoires pour l’examen de sujets portant sur une problématique
 spécifique en relation avec ses attributions et composés de deux représentants effectifs du
 conseil d’administration et d’agents des services internes de la Caisse nationale de santé
@@ -8016,13 +8016,13 @@ Dans le cadre des attributions de la caisse de maladie, le conseil d’administr
 compétent pour toutes les matières non attribuées à un autre organe.
 
 Il lui appartient notamment:
-\1) d’établir le budget des frais administratifs de la caisse;
-\2) d’établir les règles relatives au fonctionnement de la caisse;
-\3) de prendre les décisions individuelles, sans préjudice de l’art. 51, alinéa 2 en matière
+1\) d’établir le budget des frais administratifs de la caisse;
+2\) d’établir les règles relatives au fonctionnement de la caisse;
+3\) de prendre les décisions individuelles, sans préjudice de l’art. 51, alinéa 2 en matière
 de prestations à l’exclusion de celles concernant les prestations prises directement en
 charge par la Caisse nationale de santé.
-\4) de gérer le patrimoine immobilier propre de la caisse;
-\5) de prendre les décisions concernant le personnel de la caisse.
+4\) de gérer le patrimoine immobilier propre de la caisse;
+5\) de prendre les décisions concernant le personnel de la caisse.
 
 A sa demande, le conseil d’administration peut bénéficier de l’assistance des services de
 la Caisse nationale de santé.
@@ -8145,12 +8145,12 @@ L. 13.5.08,2,11°
 Art. 53.1) Sont affiliés obligatoirement à la Mutualité tous les employeurs occupant des
 salariés au sens de l’article L. 121-1 du Code du travail. Sont toutefois exemptés de
 l’affiliation obligatoire:
-\1) l’État, les établissements publics administratifs, les communes, les syndicats de
+1\) l’État, les établissements publics administratifs, les communes, les syndicats de
 communes, les établissements publics placés sous le contrôle des communes et la
 Société nationale des chemins de fer luxembourgeois, pour ceux de leurs salariés qui
 bénéficient de la conservation de la rémunération sans limitation dans le temps en vertu
 d’une disposition légale, réglementaire ou conventionnelle particulière;
-\2) les employeurs visés à l’article 426, alinéa 2.
+2\) les employeurs visés à l’article 426, alinéa 2.
 
 Peuvent s’affilier volontairement à la Mutualité les personnes assurées en application de
 l’article 1er, alinéa 1, sous 4) ensemble avec celles visées par l’article 1er, alinéa 1, sous 5).
@@ -8167,9 +8167,9 @@ incapacités de travail concernant:
 
 R. 17.12.08
 
-\1) le congé pour raisons familiales;
-\2) le congé d’accompagnement;
-\3) les périodes d’essai des apprentis et des salariés prévues aux articles L. 111-8, L. 12.8.22,18
+1\) le congé pour raisons familiales;
+2\) le congé d’accompagnement;
+3\) les périodes d’essai des apprentis et des salariés prévues aux articles L. 111-8, L. 12.8.22,18
 paragraphe 1er, alinéa 2, point 3, L. 121-5 et L. 122-11 du Code du travail ; la période
 à prendre en considération comprend le mois de calendrier entier au cours duquel se
 situe la fin de la période d’essai ou la fin des trois premiers mois d’une période d’essai
@@ -8178,8 +8178,8 @@ plus longue.
 Pendant la période de suspension prévue à l’article 12, alinéa 3, la Mutualité assure L. 13.5.08,2,11°
 également le paiement aux non salariés du montant intégral des indemnités pécuniaires
 dues au titre:
-\1) du congé pour raisons familiales;
-\2) du congé d’accompagnement.
+1\) du congé pour raisons familiales;
+2\) du congé d’accompagnement.
 Art. 55. 2) Pour faire face aux charges qui lui incombent, la Mutualité applique le système
 de la répartition de la charge avec constitution d’une réserve qui ne peut être inférieure à
 dix pour cent du montant annuel des dépenses.3)
@@ -8237,10 +8237,10 @@ Pour chaque délégué effectif, il y a un délégué suppléant.
 Le conseil d’administration désigne en son sein un président et un vice-président.
 
 Art. 58. Le conseil d’administration a notamment pour mission:
-5)
-6)
-7)
-8)
+5\)
+6\)
+7\)
+8\)
 
 L. 9.8.18,1,12°,a)
 
@@ -8303,9 +8303,9 @@ des employeurs est fixé à 1,90 pour cent pour les exercices 2021, 2022 et 2023
 Par L. 9.8.18,1,12°,b) les termes « aux points 1) à 5) » sont remplacés par les termes « aux points 1) à 4)
 et 7).
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 R. 9.12.08
 
@@ -8364,7 +8364,7 @@ prestations effectuées relevant du secteur extrahospitalier peuvent être fixé
 règlement grand-ducal.
 Art. 60ter. (1) Il est mis en place une «Agence nationale des informations partagées dans L. 17.12.10,1er,29°
 le domaine de la santé» 4), désignée ci-après par l’«Agence» qui a pour missions:
-\1) la réalisation, le déploiement, l’exploitation et la gestion administrative et technique
+1\) la réalisation, le déploiement, l’exploitation et la gestion administrative et technique
 d’une plateforme électronique nationale d’échange et de partage de données de santé,
 ainsi que d’applications et de systèmes informatiques de santé à l’échelle nationale,
 comportant:
@@ -8394,7 +8394,7 @@ groupement d’intérêt économique Agence eSanté - Agence nationale des infor
 le domaine de la santé G.I.E. par le Centre des technologies de l’information de l’État. (JO, Mém. A 519
 du 28 novembre 2025).
 
-\2) la promotion de l’interopérabilité et de la sécurité dans la mise en place de systèmes
+2\) la promotion de l’interopérabilité et de la sécurité dans la mise en place de systèmes
 d’information de santé, moyennant:
 
 la production et la promotion de référentiels contribuant à l’interopérabilité et à la
@@ -8408,16 +8408,16 @@ la veille des normes et standards pour les systèmes d’information en santé;
 la collaboration avec les organisations internationales en charge de la
 standardisation dans le domaine des systèmes d’information de santé;
 
-\3) l’établissement et la tenue à jour d’un schéma directeur des systèmes d’information de
+3\) l’établissement et la tenue à jour d’un schéma directeur des systèmes d’information de
 santé, déclinant une stratégie nationale, articulée avec les priorités sanitaires du pays
 d’une part et les besoins d’échange et de partage des acteurs du secteur d’autre part.
 Ce schéma directeur organise en outre les projets et activités directement ou
 indirectement gérés par l’Agence, ainsi que les autres projets stratégiques de systèmes
 d’information contribuant au partage et à l’échange de données de santé, gérés
 directement par les acteurs du secteur;
-\4) le conseil des autorités de tutelle en matière des choix stratégiques des systèmes
+4\) le conseil des autorités de tutelle en matière des choix stratégiques des systèmes
 d’information de santé;
-\5) l’information des patients et prestataires sur les modalités opérationnelles et les
+5\) l’information des patients et prestataires sur les modalités opérationnelles et les
 mesures de sécurité en rapport avec le dossier de soins partagé et la plateforme
 électronique nationale d’échange et de partage de données de santé.
 L’ Agence est soumise à l’autorité conjointe des ministres ayant dans leurs attributions la
@@ -8480,12 +8480,12 @@ santé tient à la disposition des prestataires et des patients un dossier de so
 concernant le patient, utiles et pertinentes afin de favoriser la sécurité, la continuité des
 soins, la coordination des soins, ainsi qu’une utilisation efficiente des services de soins de
 santé. Il comporte ainsi:
-\1) les actes et données médicaux mentionnés à l’article 60bis, alinéa 1;
-\2) les prescriptions effectuées dans le domaine des analyses de biologie médicale
+1\) les actes et données médicaux mentionnés à l’article 60bis, alinéa 1;
+2\) les prescriptions effectuées dans le domaine des analyses de biologie médicale
 d’imagerie médicale et de médicaments, et le cas échéant les résultats y afférents;
-\3) l’historique et les comptes rendus de la prise en charge de certaines prestations de
+3\) l’historique et les comptes rendus de la prise en charge de certaines prestations de
 soins de santé;
-\4) des informations ou déclarations introduites par le patient lui-même.
+4\) des informations ou déclarations introduites par le patient lui-même.
 (3) Dans le respect du secret médical et des finalités visées au présent article, l’accès au
 dossier de soins partagé est réservé au médecin référent, au médecin traitant et aux
 professionnels de santé participant à la prise en charge du patient.
@@ -8510,16 +8510,16 @@ de santé du patient, sont conservées jusqu’à la fermeture du dossier de soi
 (6) La Commission nationale pour la protection des données demandée en son avis, un L. 17.12.10,1,30°
 règlement grand-ducal précise les modalités et conditions de la mise en place du dossier
 de soins partagé, notamment en ce qui concerne:
-\1) la procédure détaillée de création, de fermeture et de suppression du dossier de soins
+1\) la procédure détaillée de création, de fermeture et de suppression du dossier de soins
 partagé; 4) ;
-\2) la procédure et les modalités d’accès au dossier par le patient et les prestataires et les
+2\) la procédure et les modalités d’accès au dossier par le patient et les prestataires et les
 modalités d’après lesquels le patient peut accéder aux traces d’accès à son dossier de
 soins partagé;
-\3) la détermination de niveaux d’accès différents tenant compte des attributions des
+3\) la détermination de niveaux d’accès différents tenant compte des attributions des
 différentes catégories de prestataires et des différentes catégories de données;
-\4) les mesures nécessaires pour assurer un niveau de sécurité particulièrement élevé de
+4\) les mesures nécessaires pour assurer un niveau de sécurité particulièrement élevé de
 la plateforme électronique nationale d’échange et de partage de données de santé;
-\5) les procédures, les nomenclatures et les terminologies standardisées, les formats et
+5\) les procédures, les nomenclatures et les terminologies standardisées, les formats et
 autres normes, de même que les modalités techniques suivant lesquelles les
 informations et documents électroniques sont à verser au dossier de soins partagé;
 
@@ -8546,12 +8546,12 @@ suppression du dossier de soins partagé ; ».
 
 R. 6.12.19
 
-\6) les délais dans lesquels les prestataires de soins, la Caisse nationale de santé et tout
+6\) les délais dans lesquels les prestataires de soins, la Caisse nationale de santé et tout
 autre dépositaire ou détenteur d’éléments du dossier doit les verser au dossier de soins
 partagé;
-\7) le cas échéant, l’ouverture d’un dossier de soins partagé pour les bénéficiaires de soins
+7\) le cas échéant, l’ouverture d’un dossier de soins partagé pour les bénéficiaires de soins
 de santé au pays qui ne sont pas des assurés résidants;
-\8) le cas échéant, les modalités de coopération et de transfert de données
+8\) le cas échéant, les modalités de coopération et de transfert de données
 transfrontalières avec les autorités afférentes d’un autre État membre un autre État
 membre de l’Union européenne ou partie à l’accord sur l’Espace économique
 européen.
@@ -8566,22 +8566,22 @@ Grand-Duché de Luxembourg en dehors du secteur hospitalier sont définis par de
 conventions écrites ou par des sentences arbitrales conformément aux dispositions légales
 et réglementaires.
 Il est conclu une convention distincte:
-\1) pour les médecins; 1)
-\2) pour les médecins-dentistes; 2)
-\3) séparément pour les différentes professions de la santé; 3) 4) 5) 6) 7) 8)
-\4) pour les laboratoires d’analyses médicales et de biologie clinique; 9)
-\5) pour les établissements de cures thérapeutiques ;10)11)
-\6) pour les services prestés dans le domaine de la psychiatrie extrahospitalière;12)
-\7) pour les fournisseurs de prothèses orthopédiques, d’orthèses et d’épithèses;13)
-\8) pour les pharmaciens;14)
-\9) pour les opticiens;15)
-\10) pour la Croix Rouge Luxembourgeoise pour la transfusion sanguine, le
+1\) pour les médecins; 1)
+2\) pour les médecins-dentistes; 2)
+3\) séparément pour les différentes professions de la santé; 3) 4) 5) 6) 7) 8)
+4\) pour les laboratoires d’analyses médicales et de biologie clinique; 9)
+5\) pour les établissements de cures thérapeutiques ;10)11)
+6\) pour les services prestés dans le domaine de la psychiatrie extrahospitalière;12)
+7\) pour les fournisseurs de prothèses orthopédiques, d’orthèses et d’épithèses;13)
+8\) pour les pharmaciens;14)
+9\) pour les opticiens;15)
+10\) pour la Croix Rouge Luxembourgeoise pour la transfusion sanguine, le
 conditionnement et la fourniture de sang humain et de ses dérivés;16)
-\11) pour les personnes s’occupant particulièrement du transport des malades ou
+11\) pour les personnes s’occupant particulièrement du transport des malades ou
 accidentés.17)
-\12) concernant les soins palliatifs, pour les réseaux d’aides et de soins, les établissements
+12\) concernant les soins palliatifs, pour les réseaux d’aides et de soins, les établissements
 d’aides et de soins visés respectivement aux articles 389 à 391; 18)
-\13) pour les psychothérapeutes.
+13\) pour les psychothérapeutes.
 Tout arrangement conclu par les parties à quelque titre que ce soit, qui ne suit pas les
 procédures ou ne revêt pas les formes prescrites, est nul et non avenu.
 
@@ -8639,7 +8639,7 @@ Protocole d'accord du 28 novembre 2018 (JO, Mém. A 1197 du 27 décembre 2018), 
 du 6 décembre 2018 (JO, Mém. A 3 du 10 janvier 2019), protocole d'accord du 25 novembre 2020 (JO,
 Mém. A 1049 du 22 décembre 2020), protocole d'accord du 24 novembre 2021 (JO, Mém. A 933 du
 23 décembre 2021), Protocole d'accord du 7 février 2024 (JO, Mém. A 76 du 27 février 2024).
-\3) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association nationale des
+3\) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association nationale des
 infirmiers luxembourgeois, conclue en exécution de l'article 61 et suivants du Code des assurances
 sociales (Mém. A 1993, p. 2026) amendée le 20 juin 1994 (Mém. A 1994, p. 1048), le 25 mai 1998 (Mém.
 A 1998, p. 1002), le 16 décembre 1998 (Mém. A 1998, p. 3060) et le 15 décembre 2000 (Mém. A 2001,
@@ -8652,7 +8652,7 @@ Protocole d'accord du 14 novembre 2018 (JO, Mém. A 1170 du 24 décembre 2018), 
 du 9 décembre 2020 (JO, Mém. A 1108 du 30 décembre 2020), Protocole d'accord du 14 décembre
 2022 (JO, Mém. A 35 du 20 janvier 2023), Protocole d'accord du 11 décembre 2024 (JO, Mém. A 629
 du 31 décembre 2024).
-\4) Convention du 23 novembre 2016 entre la Caisse nationale de santé et l'Association luxembourgeoise
+4\) Convention du 23 novembre 2016 entre la Caisse nationale de santé et l'Association luxembourgeoise
 des kinésithérapeutes, conclue en exécution de l'article 61 et suivants du Code de la sécurité sociale
 (Mém. A 266 du 21 décembre 2016, p. 4688), ajout annexe 8 (JO, Mém. A 116 du 31 janvier 2017),
 amendée le 5 mai 2017 (JO, Mém. A 555 du 7 juin 2017), le 5 juin 2019 (JO, Mém. A 568 du 21 août
@@ -8663,42 +8663,42 @@ Protocole d'accord du 15 novembre 2018 (JO, Mém. A 1174 du 24 décembre 2018), 
 du 29 septembre 2021 (JO, Mém. A 766 du 5 novembre 2021), Protocole d'accord du 14 décembre 2022
 (JO, Mém. A 21 du 16 janvier 2023), protocole d'accord du 17 décembre 2025 (JO, Mém. A 637 du
 24 décembre 2025).
-\5) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
+5\) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
 des psychomotriciens diplômés, conclue en exécution de l'article 61 et suivants du Code des
 assurances sociales (Mém. A 1993, p. 2109), amendée le 28 novembre 2001 (Mém. A 2001, p. 3764).
 Protocole d'accord du 15 novembre 2018 (JO, Mém. A 1171 du 24 décembre 2018), protocole d'accord
 du 9 décembre 2020 (JO, Mém. A 17 du 13 janvier 2021), Protocole d’accord du 29 décembre 2022 (JO,
 Mém. A 20 du 16 janvier 2023), Protocole d'accord du 11 décembre 2024 (JO, Mém. A 620 du 31
 décembre 2024).
-\6) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
+6\) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
 des sages-femmes, conclue en exécution de l'article 61 et suivants du Code des assurances sociales
 (Mém. A 1993, p. 2115), amendée le 19 décembre 2001 (Mém. A 2001, p. 3790).
 Protocole d'accord du 15 novembre 2018 (JO, Mém. A 1172 du 24 décembre 2018), protocole d'accord
 du 9 décembre 2020 (JO, Mém. A 15 du 12 janvier 2021), protocole d'accord du 29 décembre 2022 (JO,
 Mém. A 14 du 11 janvier 2023), Protocole d'accord du 11 décembre 2024 (JO, Mém. A 628 du 31
 décembre 2024).
-\7) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
+7\) Convention du 13 décembre 1993 entre l'union des caisses de maladie et l'association luxembourgeoise
 des orthophonistes, conclue en exécution de l'article 61 et suivants du Code des assurances sociales
 (Mém. A 1993, p. 2089) amendée le 31 juillet 2000 (Mém. A 2000, p. 2684), et le 28 novembre 2001 (Mém.
 A 2001, p. 3748), Protocole d'accord du 29 décembre 2022 (JO, Mém. A 24 du 17 décembre 2023).
 Protocole d'accord du 15 novembre 2018 (JO, Mém. A 1173 du 24 décembre 2018), protocole d'accord
 du 9 décembre 2020 (JO, Mém. A 6 du 6 janvier 2021), Protocole d'accord du 11 décembre 2024 (JO,
 Mém. A 621 du 31 décembre 2024).
-\8) Convention du 14 novembre 2018 entre la Caisse nationale de santé et l'Association nationale des
+8\) Convention du 14 novembre 2018 entre la Caisse nationale de santé et l'Association nationale des
 diététiciens du Luxembourg, conclue en exécution des articles 61 et suivants du Code de la sécurité
 sociale (JO, Mém. A 1132 du 17 décembre 2018).
 Protocole d'accord du 28 novembre 2018 (JO, Mém. A 1188 du 24 décembre 2018), protocole d'accord
 du 9 décembre 2020 (JO, Mém. A 7 du 6 janvier 2021), Protocole d'accord du 29 décembre 2022 (JO,
 Mém. A 22 du 16 janvier 2023), Protocole d'accord du 11 décembre 2024 (JO, Mém. A 622 du
 31 décembre 2024).
-\9) Convention du 10 juin 2015 entre la Fédération luxembourgeoise des Laboratoires d'analyses
+9\) Convention du 10 juin 2015 entre la Fédération luxembourgeoise des Laboratoires d'analyses
 médicales et la Caisse nationale de santé, conclue en exécution de l'article 61 et suivants du Code de
 la sécurité sociale (Mém. A 199 du 20 octobre 2015, p. 4538).
 Protocole d'accord du 15 novembre 2018 (JO, Mém. A 1196 du 27 décembre 2018), protocole d'accord
 du 16 décembre 2020 (JO, Mém. A 16 du 13 janvier 2021), protocole d'accord du 29 décembre 2022
 (JO, Mém. A 24 du 17 janvier 2023), protocole d'accord du 8 mars 2023 (JO, Mém. A 331 du 28 juin
 2023), rectificatif du 28 juin 2023 (JO, Mém. A 341 du 30 juin 2023).
-\10) Convention du 13 décembre 2017 entre la Caisse nationale de santé et le Centre thermal et de santé
+10\) Convention du 13 décembre 2017 entre la Caisse nationale de santé et le Centre thermal et de santé
 de Mondorf-les-Bains, conclue en exécution de l'article 61 et suivants du Code de la sécurité sociale
 (JO, Mém. A 91 du 29 janvier 2018), le 15 septembre 2021 (JO, Mém. A 750 du 26 octobre 2021).
 Cahier des charges du 13 décembre 2017 (JO, Mém. A 92 du 29 janvier 2018).
@@ -8706,8 +8706,8 @@ Protocole d'accord du 30 septembre 2020 (JO, Mém. A 906 du 17 novembre 2020), p
 du 6 décembre 2021 (JO, Mém. A 949 du 30 décembre 2021), protocole d'accord du 9 novembre 2022
 (JO, Mém. A 11 du 9 janvier 2023), protocole d'accord du 13 décembre 2023 (JO, Mém. A 824 du 22
 décembre 2023), protocole d'accord du 26 novembre 2025 (JO, Mém. A 633 du 23 décembre 2025).
-\11) L. 12.8.22,21 : Les termes « et les centres de convalescence » sont supprimés.
-\12) Convention du 24 octobre 2007 entre l'Union des caisses de maladie et l'entente des gestionnaires des
+11\) L. 12.8.22,21 : Les termes « et les centres de convalescence » sont supprimés.
+12\) Convention du 24 octobre 2007 entre l'Union des caisses de maladie et l'entente des gestionnaires des
 structures complémentaires et extra-hospitalières en psychiatrie a.s.b.l. (Mém. A 204 du
 23.11.2007, p. 3561), protocole d'accord du 14 décembre 2022 (JO, Mém. A 9 du 9 janvier 2023).
 Protocole d'accord du 23 décembre 2016 (Mém. A 306 du 28 décembre 2016, p. 6376), protocole
@@ -8718,7 +8718,7 @@ Mém. A 21 du 21 janvier 2020), protocole d'accord du 9 décembre 2020 (JO, Mém
 28 décembre 2020), protocole d'accord du 8 décembre 2021 (JO, Mém. A 948 du 30 décembre 2021),
 protocole d'accord du 7 décembre 2023 (JO, Mém. A 823 du 22 décembre 2023), Protocole d'accord
 du 11 décembre 2024 (JO, Mém. A 623 du 31 décembre 2024).
-\13) Convention du 13 mars 2013 entre la Caisse nationale de santé et la Fédération des OrthopédistesCordonniers-Bandagistes et des Cordonniers-Réparateurs du Grand-Duché de Luxembourg,
+13\) Convention du 13 mars 2013 entre la Caisse nationale de santé et la Fédération des OrthopédistesCordonniers-Bandagistes et des Cordonniers-Réparateurs du Grand-Duché de Luxembourg,
 conclue en exécution de l'article 61 et suivants du Code de la sécurité sociale (Mém. A 86 du 13 mai
 2013, p. 1000), amendée le 16 décembre 2016 (Mém. A 306 du 28 décembre 2016, p. 6376) ; modifiée
 et intitulé changé en « Convention du 13 mars 2013 telle que modifiée, conclue entre la
@@ -8733,17 +8733,17 @@ portant fixation des tarifs conventionnels (JO, Mém. A 896 du 24 décembre 2019
 du 25 novembre 2020 (JO, Mém. A 1050 du 22 décembre 2020), protocole d'accord du 10 février 2021
 (JO, Mém. A 235 du 25 mars 2021). Protocole d'accord du 8 mars 2023 (JO, Mém. A 179 du 31 mars
 2023), Protocole d'accord du 11 décembre 2024 (JO, Mém. A 626 du 31 décembre 2024).
-\14) Convention du 23 avril 2014 entre la Caisse nationale de santé et le Syndicat des pharmaciens
+14\) Convention du 23 avril 2014 entre la Caisse nationale de santé et le Syndicat des pharmaciens
 luxembourgeois, conclue en exécution de l'article 61 et suivants du Code de la sécurité sociale (Mém.
 A 96 du 10 juin 2014, p. 1468), modifiée le 11 décembre 2019 (JO, Mém. A 29 du 27 janvier 2020).
-\15) Convention du 13 décembre 1993 entre l'union des caisses de maladie et la fédération des patrons
+15\) Convention du 13 décembre 1993 entre l'union des caisses de maladie et la fédération des patrons
 opticiens du Grand-Duché de Luxembourg, conclue en exécution de l'article 61 et suivants du Code des
 assurances sociales (Mém. A 1993, p. 2085), amendée le 28 novembre 2001 (Mém. A 2001, p. 2776), le
 28 novembre 2002 (Mém. A 2002, p. 3703), le 22 octobre 2008 (Mém. A 185 du 15 décembre 2008,
 p. 2500) et le 20 mai 2009 (Mém. A 152 du 29 juin 2009, p. 2279), le 25 novembre 2020 (JO, Mém. A 1029
 du 18 décembre 2020). Rectificatif (JO, Mém. A 9 du 7 janvier 2021), le 10 décembre 2025 (JO, Mém.
 A 641 du 29 décembre 2025).
-\16) Convention du 1er février 1994 entre l'union des caisses de maladie et la Croix Rouge
+16\) Convention du 1er février 1994 entre l'union des caisses de maladie et la Croix Rouge
 Luxembourgeoise, conclue en exécution de l'article 61 et suivants du Code des assurances sociales
 (Mém. A 1994, p. 587). Protocole d'accord du 13 avril 2016 portant fixation des tarifs conventionnels
 (Mém. A 76 du 2 mai 2016, p. 1151), protocole d'accord du 25 juillet 2018 portant modification de la liste
@@ -8754,10 +8754,10 @@ décembre 2021), protocole d'accord du 14 décembre 2022 (JO, Mém. A 7 du 9 jan
 d'accord du 13 décembre 2023 (JO, Mém. A 822 du 22 décembre 2023), Protocole d'accord du 11
 décembre 2024 (JO, Mém. A 624 du 31 décembre 2024), protocole d'accord du 10 décembre 2025 (JO,
 Mém. A 632 du 23 décembre 2025).
-\17) Convention du 1er mai 2014 réglant les rapports entre la Caisse nationale de santé et l'A.s.b.l.
+17\) Convention du 1er mai 2014 réglant les rapports entre la Caisse nationale de santé et l'A.s.b.l.
 « LUXEMBOURG AIR RESCUE », concernant le transport de malades par air (Mém. A 69 du 2 mai 2014,
 p. 1007), amendée le 31 juillet 2017 (JO, Mém. A 802 du 12 septembre 2017).
-\18) Convention du 15 juillet 2012 en matière de soins palliatifs conclue entre la Confédération des
+18\) Convention du 15 juillet 2012 en matière de soins palliatifs conclue entre la Confédération des
 organismes prestataires d'aides et de soins et la Caisse nationale de santé (Mém. A 215 du 8 octobre
 2012, p. 2980). Protocole d'accord du 19 décembre 2018 (JO, Mém. A 1169 du 24 décembre 2018),
 protocole d'accord du 8 décembre 2021 (JO, Mém. A 943 du 28 décembre 2021), protocole d'accord
@@ -8800,18 +8800,18 @@ Art. 64. Les conventions déterminent obligatoirement:
 
 L. 17.12.10,1,33°
 
-\1) les dispositions organisant la transmission et la circulation des données et informations
+1\) les dispositions organisant la transmission et la circulation des données et informations
 entre les prestataires de soins, les assurés, le Contrôle médical de la sécurité sociale,
 la Caisse nationale de santé ainsi que les caisses de maladie, notamment par des
 formules standardisées pour les honoraires et les prescriptions, par des relevés ou par
 tout autre moyen de communication;
-\2) les engagements relatifs au respect de la nomenclature des actes pour les prestataires L. 1.7.14,I,4°
+2\) les engagements relatifs au respect de la nomenclature des actes pour les prestataires L. 1.7.14,I,4°
 concernés, y compris dans leurs relations envers un assuré d’un autre État membre de
 l’Union européenne, de la Suisse ou d’un pays de l’Espace économique européen, ou
 envers un assuré d’un pays avec lequel le Grand-Duché de Luxembourg est lié par un
 instrument bilatéral en matière d’assurance maladie, lorsqu’il se trouve dans une
 situation médicale comparable à celle d’un assuré affilié au Luxembourg;
-\3) en cas de prise en charge directe par la Caisse nationale de santé, les conditions et les L. 13.12.17,1er,4°
+3\) en cas de prise en charge directe par la Caisse nationale de santé, les conditions et les L. 13.12.17,1er,4°
 modalités de la mise en compte des intérêts légaux en cas de paiement tardif, au taux
 
 L. 12.8.22,22 : Les termes « sont arrêtées par le ministre ayant dans ses attributions la Sécurité sociale
@@ -8848,30 +8848,30 @@ Luxembourg ».
 
 d’intérêt légal tel que prévu aux articles 12 et suivants de la loi modifiée du 18 avril 2004
 relative aux délais de paiement et aux intérêts de retard;
-\4) les tarifs conventionnels 1) non établis moyennant lettre-clé et la périodicité de L. 19.12.14,41, (1)
+4\) les tarifs conventionnels 1) non établis moyennant lettre-clé et la périodicité de L. 19.12.14,41, (1)
 négociation de ces tarifs;
-\5) les modalités de l’application rétroactive des nouveaux tarifs à partir de la date L. 17.12.10,1,33°
+5\) les modalités de l’application rétroactive des nouveaux tarifs à partir de la date L. 17.12.10,1,33°
 d’échéance des anciens tarifs pour le cas exceptionnel où la valeur de la lettre-clé ou
 le tarif n’aurait pas pu être adapté avant cette échéance;
-\6) les engagements relatifs au respect de la précision du lieu d’exécution de la prestation L. 1.7.14,I,5°
+6\) les engagements relatifs au respect de la précision du lieu d’exécution de la prestation L. 1.7.14,I,5°
 de soins de santé.
 
 Pour les médecins et pour les médecins-dentistes, la convention détermine en outre L. 17.12.10,1,33°
 obligatoirement:
-\1) les engagements relatifs au respect, dans le cadre des dispositions légales et
+1\) les engagements relatifs au respect, dans le cadre des dispositions légales et
 réglementaires, de la liberté d’installation du médecin, du libre choix du médecin par le
 malade, de la liberté de prescription du médecin, du secret professionnel;
 
-\2) les dispositions garantissant une médication économique compatible avec l’efficacité
+2\) les dispositions garantissant une médication économique compatible avec l’efficacité
 du traitement, conforme aux données acquises par la science et conforme à la
 déontologie médicale;
-\3) les modalités du dépassement des tarifs visés à l’article 66, alinéa 3;
-\4) les modalités de diffusion des standards de bonne pratique médicale tels que définis à
+3\) les modalités du dépassement des tarifs visés à l’article 66, alinéa 3;
+4\) les modalités de diffusion des standards de bonne pratique médicale tels que définis à
 l’article 65bis;
-\5) les modalités de l’établissement des rapports d’activité des prestataires de soins
+5\) les modalités de l’établissement des rapports d’activité des prestataires de soins
 prévus à l’article 419 1) ;
-\6) les domaines d’application de la rémunération salariée;
-\7) les rapports avec le médecin référent.
+6\) les domaines d’application de la rémunération salariée;
+7\) les rapports avec le médecin référent.
 Pour les prestataires de soins autres que les médecins et médecins-dentistes constitués L. 13.12.17,1er,5°
 sous forme de personne morale, la convention détermine en outre obligatoirement
 l’engagement de tenir une comptabilité suivant un plan comptable uniforme complété par
@@ -8926,7 +8926,7 @@ l’égard des personnes dépendantes au sens du Livre V et pour les actes et se
 dispensés par les prestataires visés à l’article 61, alinéa 2, sous 12).
 Elles peuvent également prévoir la réduction ou l’augmentation du tarif des actes et
 services dans des conditions qu’elles déterminent.
-8)
+8\)
 Les nomenclatures des actes, services professionnels et prothèses sont déterminées par
 des règlements grand-ducaux sur base d’une recommandation circonstanciée de la
 Commission de nomenclature.
@@ -8962,7 +8962,7 @@ du 6 mai 2015 (Mém. A 101 du 11 juin 2015, p. 1732), du 27 novembre 2015 (Mém.
 du 20 octobre 2016, p. 4026), du 26 octobre 2016 (Mém. A 220 du 31 octobre 2016, p. 4144), du
 25 novembre 2016 (Mém. A 238 du 30 novembre 2016, p. 4388) Rectificatif (JO, Mém. A 189 du 9 février
 2017), du 22 mars 2017 (JO, Mém. A 348 du 31 mars 2017), du 24 avril 2017 (JO, Mém. A 470 du 10 mai
-\2017) Rectificatif (JO, Mém. A 763 du 28 août 2017), du 1er décembre 2017 (JO, Mém. A 1031 du
+2017\) Rectificatif (JO, Mém. A 763 du 28 août 2017), du 1er décembre 2017 (JO, Mém. A 1031 du
 6 décembre 2017), du 6 décembre 2017 (JO, Mém. A 1033 du 7 décembre 2017), du 25 avril 2018 (JO,
 Mém. A 329 du 27 avril 2018), du 1er août 2018 (JO, Mém. A 798 du 12 septembre 2018), du 1er août
 2018 (JO, Mém. A 818 du 13 septembre 2018), du 19 octobre 2018 (JO, A 981 du 25 octobre 2018), du
@@ -9078,9 +9078,9 @@ Règlement grand-ducal du 25 janvier 2023 arrêtant la nomenclature des actes et
 psychothérapeutes pris en charge par l’assurance maladie. (JO, Mém. A 53 du 28 janvier 2023)
 Voir note sous article 61, alinéa 2 point 1).
 
-5)
+5\)
 
-6)
+6\)
 
 L. 19.12.08,41:
 Par dérogation aux articles 65, alinéa 2 et 67 à 70 du Code de la sécurité sociale, la valeur de la lettre clé
@@ -9117,8 +9117,8 @@ Code de la sécurité sociale est fixée à 0,28456.
 L. 17.12.21, 37: Modification de la valeur de la lettre-clé des infirmiers
 Par dérogation aux articles 65, alinéa 2 et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé pour la nomenclature des infirmiers visée à l’article 61, alinéa 2, point 3) du Code de la sécurité sociale
 est fixée au 1er janvier 2022 à 0,79134 au nombre cent de l’indice pondéré du coût de la vie au 1er janvier
-\1948. Cette valeur est augmentée de 0,07344 pour la période allant du 1er janvier 2022 au 31 décembre
-2022.
+1948\. Cette valeur est augmentée de 0,07344 pour la période allant du 1er janvier 2022 au 31 décembre
+2022\.
 L.19.12.14,36: Mesures en matière d’assurance maladie: valeur des lettres-clés des
 prestataires
 Par dérogation aux articles 65, alinéa 2, et 67 à 70 du Code de la sécurité sociale, les valeurs des lettresclés des prestataires visés à l’article 61, alinéa 2, points 1 à 3 du Code de la sécurité sociale sont fixées
@@ -9145,14 +9145,14 @@ Par dérogation aux articles 65, alinéa 2 et 67 à 70 du Code de la sécurité 
 Code de la sécurité sociale est fixée à 0,28456.
 Par dérogation aux articles 65, alinéa 2, et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé pour la nomenclature des masseurs-kinésithérapeutes visés à l’article 61, alinéa 2, point 3) du Code
 de la sécurité sociale est fixée à 4,2144 au nombre cent de l’indice pondéré du coût de la vie au 1er janvier
-1948.
+1948\.
 L. 15.12.17,45: Mesure en matière d’assurance maladie : valeur de la lettre-clé des laboratoires
 d’analyses médicales et de biologie clinique, des masseurs-kinésithérapeutes, des infirmiers et,
 concernant les soins palliatifs, des réseaux et établissements d’aides et de soins
 (1) Par dérogation aux articles 65, alinéa 2 et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé des laboratoires d’analyses médicales et de biologie clinique visés à l’article 61, alinéa 2, point 4) du
 Code de la sécurité sociale est fixée pour l’exercice 2018 à 0,28456.
 
-7)
+7\)
 
 (2) Par dérogation aux articles 65, alinéa 2, et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé pour la nomenclature des masseurs-kinésithérapeutes visés à l’article 61, alinéa 2, point 3) du Code
 de la sécurité sociale est fixée pour l’exercice 2018 à 4,21440 au nombre cent de l’indice pondéré du
@@ -9173,8 +9173,8 @@ Code de la sécurité sociale est fixée à 0,30625 à partir du 1er mai 2019.
 L. 17.12.21, 37: Modification de la valeur de la lettre-clé des infirmiers
 Par dérogation aux articles 65, alinéa 2 et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé pour la nomenclature des infirmiers visée à l’article 61, alinéa 2, point 3) du Code de la sécurité sociale
 est fixée au 1er janvier 2022 à 0,79134 au nombre cent de l’indice pondéré du coût de la vie au 1er janvier
-\1948. Cette valeur est augmentée de 0,07344 pour la période allant du 1er janvier 2022 au 31 décembre
-2022.
+1948\. Cette valeur est augmentée de 0,07344 pour la période allant du 1er janvier 2022 au 31 décembre
+2022\.
 L. 20.12.24, 35 : Mesure en matière d'assurance maladie : Valeur de la lettre-clé des laboratoires
 d'analysses médicales de biologie clinique
 Par dérogation aux articles 65, alinéa 2, et 67 à 70 du Code de la sécurité sociale, la valeur de la lettreclé des laboratoires d’analyses médicales et de biologie clinique visés à l’article 61, alinéa 2, point 4) du
@@ -9245,7 +9245,7 @@ R. 19.12.14
 
 R. 18.12.15
 
-8)
+8\)
 
 L. 23.12.16,36: Mesures en matière d’assurance maladie: coefficients des actes et services de la
 nomenclature des laboratoires d’analyses médicales et de biologie clinique
@@ -9262,14 +9262,14 @@ par l’assurance maladie, sans que cette adaptation puisse majorer la masse des
 6,7 pour cent.
 
 La Commission de nomenclature se compose de:
-\1) deux membres dont le président, désignés par arrêté conjoint des ministres ayant dans
+1\) deux membres dont le président, désignés par arrêté conjoint des ministres ayant dans
 leurs attributions la Sécurité sociale et la Santé; un membre doit avoir la qualité de
 médecin;
-\2) deux membres désignés par le conseil d’administration de la Caisse nationale de
+2\) deux membres désignés par le conseil d’administration de la Caisse nationale de
 santé;
-\3) deux membres désignés par le ou les groupements signataires de la convention pour
+3\) deux membres désignés par le ou les groupements signataires de la convention pour
 les médecins;
-\4) en fonction de la nomenclature en cause, deux membres désignés par le ou les
+4\) en fonction de la nomenclature en cause, deux membres désignés par le ou les
 groupements signataires de la convention concernée.
 
 Lorsque la Commission de nomenclature est amenée à statuer en matière d’actes et
@@ -9306,17 +9306,17 @@ R. 30.7.11
 15 Les frais de fonctionnement de la commission sont entièrement à charge de l’État.
 Art. 65bis. (1) Il est créé sous l’autorité des ministres ayant dans leurs attributions la Santé L. 17.12.10,1,35°
 et la Sécurité sociale une Cellule d’expertise médicale qui a pour missions:
-\1) de proposer, en s’orientant suivant des référentiels acquis par la science, le libellé et
+1\) de proposer, en s’orientant suivant des référentiels acquis par la science, le libellé et
 les coefficients des actes, d’en produire une définition complète et d’en préciser les
 indications et les conditions d’application;
-\2) de s’enquérir de l’évaluation scientifique des dispositifs médicaux et de procéder à
+2\) de s’enquérir de l’évaluation scientifique des dispositifs médicaux et de procéder à
 l’émission de recommandations pour leur bon usage permettant de déterminer le bienfondé de la prise en charge par l’assurance maladie;
-\3) de collaborer à l’élaboration des standards de bonne pratique médicale prévue au
+3\) de collaborer à l’élaboration des standards de bonne pratique médicale prévue au
 paragraphe 2, alinéa 2 et à leur promotion auprès des professionnels de la santé;
-\4) d’analyser des avis concernant le résultat attendu d’un acte ou d’une source 3), en
+4\) d’analyser des avis concernant le résultat attendu d’un acte ou d’une source 3), en
 fonction de son intérêt diagnostique ou thérapeutique, de son impact sur la santé de la
 population et de son impact financier;
-\5) d’assurer le secrétariat et l’appui technique du Conseil scientifique.
+5\) d’assurer le secrétariat et l’appui technique du Conseil scientifique.
 
 L. 1.7.14,I,6°
 
@@ -9367,9 +9367,9 @@ conformément à l’alinéa qui précède:
 
 R. 26.10.11
 
-\1) pour les convenances personnelles sollicitées par les personnes protégées en milieu
+1\) pour les convenances personnelles sollicitées par les personnes protégées en milieu
 hospitalier et ambulatoire;
-\2) après devis préalable pour les prothèses et autres prestations dentaires dépassant
+2\) après devis préalable pour les prothèses et autres prestations dentaires dépassant
 l’utile et le nécessaire.
 
 Art. 67. La revalorisation des lettres-clés est négociée tous les deux ans par les parties L. 22.7.03,3
@@ -9395,10 +9395,10 @@ Les pharmaciens accordent à l’assurance maladie un abattement à fixer par r�
 grand-ducal qui ne peut dépasser cinq pour cent par rapport aux prix de vente officiels des
 médicaments et spécialités pharmaceutiques. Le règlement grand-ducal détermine
 également les modalités d’exécution de ces dispositions dont notamment:
-\1) l’assiette servant au calcul de l’abattement;
-\2) les fournitures ne donnant pas lieu à un abattement, ainsi que celles donnant lieu à un
+1\) l’assiette servant au calcul de l’abattement;
+2\) les fournitures ne donnant pas lieu à un abattement, ainsi que celles donnant lieu à un
 abattement réduit;
-\3) les conditions dans lesquelles les prestataires peuvent bénéficier d’une réduction ou
+3\) les conditions dans lesquelles les prestataires peuvent bénéficier d’une réduction ou
 même d’une exemption de l’abattement.
 Art. 68. Les conventions et leurs avenants sont soumis à l’approbation du ministre ayant la L. 12.8.22,24
 Sécurité sociale dans ses attributions, sur avis de l’Inspection générale de la sécurité
@@ -9425,11 +9425,11 @@ A défaut d’entente collective:
 
 L. 17.12.10,1,37°
 
-\1) sur l’élaboration d’une nouvelle convention après un délai de négociation de six mois
+1\) sur l’élaboration d’une nouvelle convention après un délai de négociation de six mois
 suivant la convocation faite par la Caisse nationale de santé;
-\2) sur l’adaptation de la convention dans les six mois suivant la dénonciation totale ou
+2\) sur l’adaptation de la convention dans les six mois suivant la dénonciation totale ou
 partielle de l’ancienne convention;
-\3) sur les dispositions obligatoires de la convention visées à l’article 64 et à l’article 66,
+3\) sur les dispositions obligatoires de la convention visées à l’article 64 et à l’article 66,
 alinéa 3, après un délai de négociation de six mois suivant la convocation faite par la
 Caisse nationale de santé 1),
 l’Inspection générale de la sécurité sociale convoque les parties en vue de la désignation
@@ -9518,15 +9518,15 @@ qui sera transmise par la suite à la Commission de surveillance pour prise de d
 
 Pour chaque affaire le président désigne les quatre délégués suivant les modalités L. 17.12.10,1,40°
 suivantes:
-\1) deux délégués sont choisis par le président sur une liste de dix personnes établie par
+1\) deux délégués sont choisis par le président sur une liste de dix personnes établie par
 le conseil d’administration de la Caisse nationale de santé. Cinq des délégués figurant
 sur cette liste représentent les secteurs visés aux points 1 à 4 de l’article 46 et cinq
 autres délégués les secteurs visés aux points 5 à 8 du même article;
-\2) pour les affaires mettant en cause un médecin ou un médecin-dentiste, le troisième
+2\) pour les affaires mettant en cause un médecin ou un médecin-dentiste, le troisième
 délégué est choisi sur une liste de cinq personnes établie par le Collège médical et le
 quatrième délégué est choisi sur une liste de cinq personnes établie par le groupement
 représentatif des médecins et des médecins-dentistes;
-\3) pour les affaires mettant en cause un autre prestataire visé à l’article 61, alinéa 2 que
+3\) pour les affaires mettant en cause un autre prestataire visé à l’article 61, alinéa 2 que
 celui visé au point précédent, le troisième délégué est choisi sur une liste de cinq
 personnes établie par le Conseil supérieur des professions de santé et le quatrième
 délégué est choisi sur une liste de cinq personnes établie par chaque groupement
@@ -9545,9 +9545,9 @@ suivre ainsi que l’indemnisation des membres et des experts commis. Les frais 
 fonctionnement sont entièrement à charge de l’État.
 
 Art. 72bis. La Commission de surveillance est compétente:
-\1) pour les litiges lui déférés par les prestataires de soins en application des articles 47,
+1\) pour les litiges lui déférés par les prestataires de soins en application des articles 47,
 alinéa 5 3) et 146, alinéa 2;
-\2) pour les litiges lui déférés par un assuré ou par un prestataire de soins en application
+2\) pour les litiges lui déférés par un assuré ou par un prestataire de soins en application
 des articles 47, alinéa 3 4) et 51, alinéa 2.
 
 Si, dans les litiges visés à l’alinéa 1, sous le numéro 1), la Commission de surveillance
@@ -9577,7 +9577,7 @@ R. 25.10.99
 
 L. 17.12.10,1,41°
 
-5)
+5\)
 
 surveillance décide que le prestataire n’a pas respecté les tarifs fixés en vertu des
 nomenclatures, des conventions ou des stipulations relatives au dépassement des tarifs,
@@ -9600,23 +9600,23 @@ leur autorité ou agissant pour leur compte. Le directeur et les présidents peu
 ce pouvoir à un fonctionnaire ou employé dirigeant de leur administration ou institution.
 L’instruction a pour objet de constater dans le chef des prestataires visés à l’article 61,
 alinéa 2:
-\1) l’inobservation des dispositions légales, réglementaires, statutaires et conventionnelles
+1\) l’inobservation des dispositions légales, réglementaires, statutaires et conventionnelles
 ayant abouti ou tenté d’aboutir à une demande, une prise en charge ou un versement
 indu d’une prestation de soins de santé ou en espèces par l’assurance maladiematernité;
-\2) le refus d’accès à une information, l’absence de réponse ou la réponse fausse,
+2\) le refus d’accès à une information, l’absence de réponse ou la réponse fausse,
 incomplète ou abusivement tardive à toute demande de pièce justificative,
 d’information, d’accès à une information par l’institution de sécurité sociale
 compétente ou par le Contrôle médical de la sécurité sociale;
-\3) les agissements ayant pour effet de faire obstacle aux contrôles ou à la bonne gestion
+3\) les agissements ayant pour effet de faire obstacle aux contrôles ou à la bonne gestion
 de l’institution de sécurité sociale compétente;
-\4) les manquements aux formalités administratives imposées par les dispositions légales,
+4\) les manquements aux formalités administratives imposées par les dispositions légales,
 réglementaires, statutaires et conventionnelles;
-\5) le refus du prestataire de reporter dans le dossier de soins partagé les éléments issus
+5\) le refus du prestataire de reporter dans le dossier de soins partagé les éléments issus
 de chaque acte ou consultation, dès lors que l’assuré ne s’est pas explicitement
 opposé au report de cet acte ou consultation dans son dossier de soins partagé;
-\6) la prescription ou l’exécution de prestations superflues ou inutilement onéreuses en
+6\) la prescription ou l’exécution de prestations superflues ou inutilement onéreuses en
 violation de l’article 23, alinéa 1;
-\7) les agissements exposant l’assuré à des dépassements d’honoraires non conformes
+7\) les agissements exposant l’assuré à des dépassements d’honoraires non conformes
 aux dispositions légales, réglementaires, statutaires et conventionnelles.
 La Commission de surveillance peut procéder à des mesures d’investigation qu’elle peut
 déléguer au président ou aux vice-présidents 4). Elle peut recourir aux services d’experts
@@ -9637,7 +9637,7 @@ part, et du directeur du Contrôle médical de la sécurité sociale ou de son d
 du président de la Caisse nationale de santé ou de son délégué, d’autre part, prononcer à
 l’encontre du prestataire concerné, en fonction de la nature et de la gravité des faits dont
 il est reconnu coupable:
-\1) une amende d’ordre au profit de la Caisse nationale de santé, ne pouvant dépasser
+1\) une amende d’ordre au profit de la Caisse nationale de santé, ne pouvant dépasser
 vingt-cinq mille euros. En cas de récidive dans un délai de deux ans l’amende d’ordre
 ne peut être ni inférieure à vingt-cinq mille euros ni supérieure à cinq cent mille euros;
 
@@ -9650,12 +9650,12 @@ Par L. 13.12.17,1er,7° les termes « au vice-président » sont remplacés par 
 L. 4.6.24, 3 : L’article 73, alinéa 4, est complété par les termes « , statuant conformément à l’article
 456ter »
 
-\2) la restitution, à la Caisse nationale de santé, des montants indûment perçus,
+2\) la restitution, à la Caisse nationale de santé, des montants indûment perçus,
 augmentés des intérêts légaux;
-\3) la soumission obligatoire et exclusive, pendant une période de cinq ans au plus, du
+3\) la soumission obligatoire et exclusive, pendant une période de cinq ans au plus, du
 prestataire au régime conventionnel prévoyant une prise en charge directe par la Caisse
 nationale de santé de toutes les prestations effectuées pour compte des assurés;
-\4) la limitation du nombre d’actes et de services professionnels par assuré en moyenne
+4\) la limitation du nombre d’actes et de services professionnels par assuré en moyenne
 que le prestataire ne peut pas dépasser pendant une période future de trois années au
 plus, sous peine de restitution des honoraires afférents. Ce maximum peut s’appliquer
 à tout ou partie de l’activité du prestataire.
@@ -9788,9 +9788,9 @@ ou d’un pays de l’Espace économique européen, se trouvant dans une situati
 comparable à celle d’un assuré affilié au Luxembourg, les prestataires de soins visés à
 l’article 60, alinéa 2, appliquent 7) un coût calculé sur base des critères visés à l’alinéa 9.
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 R. 11.8.11
 
@@ -9879,20 +9879,20 @@ le 31 décembre 2020 (JO, Mém. A 215 du 18 mars 2021), le 24 novembre 2021 (JO,
 décembre 2021), le 17 septembre 2025 (JO, Mém. A 412 du 30 septembre 2025). Cahier des charges
 du 9 juillet 2020 (JO, Mém. A 687 du 13 août 2020). Protocole d'accord du 10 décembre 2025 (JO, Mém.
 A 634 du 24 décembre 2025).
-\2) L. 12.8.22,26,1° : Le terme « hôpitaux » est remplacé par les termes « établissements hospitaliers ».
-\3) Il y a lieu de lire « article 74, alinéa 5 ».
-\4) Il y a lieu de lire « article 74, alinéa 6 ».
-\5) L. 12.8.22,26,2° : Le terme « hôpitaux » est remplacé par les termes « prestataires de soins visés à
+2\) L. 12.8.22,26,1° : Le terme « hôpitaux » est remplacé par les termes « établissements hospitaliers ».
+3\) Il y a lieu de lire « article 74, alinéa 5 ».
+4\) Il y a lieu de lire « article 74, alinéa 6 ».
+5\) L. 12.8.22,26,2° : Le terme « hôpitaux » est remplacé par les termes « prestataires de soins visés à
 l’article 60, alinéa 2 ».
-\6) Voir note sous l’article 74 du CSS.
-\7) L. 12.8.22,27,1° : Le terme « hôpitaux » est remplacé par les termes « prestataires de soins visés à
+6\) Voir note sous l’article 74 du CSS.
+7\) L. 12.8.22,27,1° : Le terme « hôpitaux » est remplacé par les termes « prestataires de soins visés à
 l’article 60, alinéa 2 ».
-\8) L. 12.8.22,27,2° : les termes « établissement hospitalier » sont remplacés par les termes « prestataire de
+8\) L. 12.8.22,27,2° : les termes « établissement hospitalier » sont remplacés par les termes « prestataire de
 soins ».
-\9) L. 12.8.22,27, 3° : Les termes « de deux représentants des hôpitaux, dont un de l’hôpital concerné » sont
+9\) L. 12.8.22,27, 3° : Les termes « de deux représentants des hôpitaux, dont un de l’hôpital concerné » sont
 remplacés par les termes « de deux représentants des prestataires de soins visés à l’article 60, alinéa 2,
 dont un du prestataire de soins concerné ».
-\10) Il y a lieu de lire « article 69, alinéa 3 ».
+10\) Il y a lieu de lire « article 69, alinéa 3 ».
 
 La commission est chargée d’une mission de conciliation dans le cadre de l’établissement
 des budgets à arrêter entre la Caisse nationale de santé et les différents prestataires de
@@ -9926,7 +9926,7 @@ un comité quadripartite qui réunit les ministres ayant dans leurs attributions
 sociale, la Santé et les Finances, les représentants des organisations professionnelles les
 plus représentatives des salariés et des employeurs, ainsi que ceux des groupements
 professionnels signataires des conventions visées à l’article 61, alinéa 2, sous 1), 2), 4) et
-\8) et à l’article 75.
+8\) et à l’article 75.
 
 Sur base d’un rapport établi par des experts, le comité quadripartite examine l’évolution
 des recettes et des dépenses en matière de santé et propose des mesures à prendre sur
@@ -9958,8 +9958,8 @@ assurées en vertu de la présente loi ou de leurs survivants.
 Toutefois, l’État, la commune ou l’office social qui ont secouru un indigent pour une période
 pendant laquelle celui-ci avait droit aux prestations de l’assurance maladie, pourront se
 faire rembourser leurs dépenses dans les limites ci-après déterminées:
-\1) les frais funéraires jusqu’à concurrence de l’indemnité funéraire;
-\2) le traitement médical et pharmaceutique, ainsi que le placement dans un hôpital ou un
+1\) les frais funéraires jusqu’à concurrence de l’indemnité funéraire;
+2\) le traitement médical et pharmaceutique, ainsi que le placement dans un hôpital ou un
 autre établissement;
 
 L. 12.8.22,28,1° : Le terme « hôpital » est remplacé par les termes « prestataire de soins visé à l’article
@@ -9975,7 +9975,7 @@ vertu de l’article 17 n’est pas demandée. La participation financière de l
 l’État sur base d’un décompte annuel de la Caisse nationale de santé à établir sur les montants payés
 aux établissements hospitaliers sur base de l’article 78, alinéa 3 du Code de la sécurité sociale.
 
-\3) tous les autres secours, sur les prestations correspondantes.
+3\) tous les autres secours, sur les prestations correspondantes.
 
 La Caisse nationale de santé et les caisses de maladie sont tenues d’informer, sur
 demande, les organismes d’assistance si et dans quelle étendue des personnes que ceuxci ont secourues, ont droit aux prestations prévues par la présente loi.
@@ -10132,18 +10132,18 @@ Section 1.- Personnes assurées
 
 Art. 85 . Sont assurés obligatoirement dans le cadre d’un régime général d’assurance
 accident:
-\1) les personnes qui exercent au Grand-Duché de Luxembourg contre rémunération une
+1\) les personnes qui exercent au Grand-Duché de Luxembourg contre rémunération une
 activité professionnelle pour le compte d’autrui;
-\2) les apprentis bénéficiant au Grand-Duché de Luxembourg d’une formation
+2\) les apprentis bénéficiant au Grand-Duché de Luxembourg d’une formation
 professionnelle indemnisée;
-\3) les gens de mer occupés sur un navire battant pavillon luxembourgeois et qui, soit
+3\) les gens de mer occupés sur un navire battant pavillon luxembourgeois et qui, soit
 possèdent la nationalité luxembourgeoise ou celle d’un pays avec lequel le
 Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit
 résident au Luxembourg;
-\4) les membres d’associations religieuses et les personnes pouvant leur être assimilées
+4\) les membres d’associations religieuses et les personnes pouvant leur être assimilées
 exerçant au Grand-Duché de Luxembourg une activité dans l’intérêt des malades ou
 de l’utilité générale;
-\5) les personnes visées par la loi modifiée du 6 janvier 1996 sur la coopération au
+5\) les personnes visées par la loi modifiée du 6 janvier 1996 sur la coopération au
 développement de même que celles visées par la loi modifiée du 27 juillet 1992 relative
 à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien
 de la paix (OMP) dans le cadre d’organisations internationales, les personnes
@@ -10152,11 +10152,11 @@ missions officielles d’observation aux élections à l’étranger, ainsi que 
 remplissant la mission d’observateur prévue par la loi modifiée du 29 août 2008 sur la
 libre circulation des personnes et l’immigration et ses règlements d’exécution et qui
 assistent à l’exécution d’une mesure d’éloignement;
-\6) les volontaires au sens de la loi modifiée du 23 juillet 1952 concernant l’organisation
+6\) les volontaires au sens de la loi modifiée du 23 juillet 1952 concernant l’organisation
 militaire;
-7)
+7\)
 
-\3) les personnes
+3\) les personnes
 
 qui exercent au Grand-Duché de Luxembourg pour leur propre
 compte une activité professionnelle ressortissant de la Chambre des métiers, de la
@@ -10175,18 +10175,18 @@ de personnes sur lesquelles repose l’autorisation d’établissement délivré
 conformément à la loi du 2 septembre 2011 réglementant l’accès aux professions
 d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales 4);
 
-\8) le conjoint ou le partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux
+8\) le conjoint ou le partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux
 effets légaux de certains partenariats et, pour les activités ressortissant de la Chambre
 d’agriculture, les parents et alliés en ligne directe ou collatérale jusqu’au troisième
 degré inclusivement, d’un assuré au titre du numéro 7), première phrase, pourvu que
 le conjoint, le partenaire, le parent ou allié soit âgé de dix-huit ans au moins et prête à
 cet assuré des services nécessaires dans une mesure telle que ces services peuvent
 être considérés comme activité principale;
-\9) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007
+9\) les jeunes qui exercent un service volontaire conformément à la loi du 31 octobre 2007
 sur le service volontaire des jeunes;
-\10) les salariés handicapés occupés dans les ateliers protégés au sens de la loi modifiée
+10\) les salariés handicapés occupés dans les ateliers protégés au sens de la loi modifiée
 du 12 septembre 2003 relative aux personnes handicapées;
-\11) les sportifs qui participent à des activités d’élite dans le cadre de la loi modifiée du 3
+11\) les sportifs qui participent à des activités d’élite dans le cadre de la loi modifiée du 3
 août 2005 concernant le sport;
 
 L’indemnisation des personnes requises en cas de conflit armé, de crise internationale grave ou de
@@ -10205,7 +10205,7 @@ d’industriel ainsi qu’à certaines professions libérales ».
 
 Livre II
 
-\12) les jeunes au pair pendant l’exercice des tâches familiales et la visite des cours de L. 18.2.13,7,(3),3°
+12\) les jeunes au pair pendant l’exercice des tâches familiales et la visite des cours de L. 18.2.13,7,(3),3°
 langues tels que spécifiés dans la convention d’accueil au pair prévue à l’article 4 de la
 loi du 18 février 2013 sur les jeunes au pair. 1)
 
@@ -10262,12 +10262,12 @@ Art. 90. L’assurance des personnes exerçant une activité ressortissant de la
 d’agriculture visées à l’article 85, alinéa 1, sous 7) et 8) ainsi que celles visées à l’article 89
 s’étend aux activités accessoires en dépendance économique avec l’exploitation agricole,
 telles que
-\1) l’exploitation des propriétés forestières;
-\2) l’élaboration et la mise en œuvre des produits de l’exploitation;
-\3) la satisfaction des besoins de l’exploitation;
-\4) l’extraction ou la mise en œuvre de produits de terre;
-\5) les travaux exécutés au profit de tiers;
-\6) les stages effectués au Grand-Duché de Luxembourg et à l’étranger pour autant que
+1\) l’exploitation des propriétés forestières;
+2\) l’élaboration et la mise en œuvre des produits de l’exploitation;
+3\) la satisfaction des besoins de l’exploitation;
+4\) l’extraction ou la mise en œuvre de produits de terre;
+5\) les travaux exécutés au profit de tiers;
+6\) les stages effectués au Grand-Duché de Luxembourg et à l’étranger pour autant que
 les stagiaires ne sont pas couverts au titre de l’article 91,1) ainsi que les formations
 continues prévus par les lois et règlements et reconnus par la Chambre d’agriculture.
 
@@ -10301,7 +10301,7 @@ en vertu de l’article 85, alinéa 1, sous 8).
 Livre II
 
 Art. 91. Sont également assurés dans le cadre de régimes spéciaux d’assurance accident:
-\1) les écoliers, élèves et étudiants1) admis à l’enseignement précoce, préscolaire, scolaire
+1\) les écoliers, élèves et étudiants1) admis à l’enseignement précoce, préscolaire, scolaire
 et universitaire, y compris les activités péripréscolaires, périscolaires et
 périuniversitaires, à définir par règlement grand-ducal et les enfants âgés de moins de
 six ans accueillis dans un organisme agréé en vertu de la loi modifiée du 8 septembre
@@ -10310,53 +10310,53 @@ social, familial et thérapeutique;
 
 R. 17.12.10
 
-\2) les chargés de cours, moniteurs et surveillants d’activités péripréscolaires,
+2\) les chargés de cours, moniteurs et surveillants d’activités péripréscolaires,
 périscolaires et périuniversitaires, les personnes participant aux cours de formation
 continue et examens y relatifs organisés ou agréés par l’État, les communes et les
 chambres professionnelles ainsi que les chargés de cours et membres ou auxiliaires
 des jurys afférents, à condition qu’ils ne soient pas assurés au titre de l’article 85
 sous 1);
-\3) les délégués des différentes branches professionnelles participant aux séances des
+3\) les délégués des différentes branches professionnelles participant aux séances des
 chambres professionnelles, des organes des institutions de sécurité sociale, du
 Conseil arbitral de la sécurité sociale, du Conseil supérieur de la sécurité sociale, du
 Tribunal du travail, du Conseil économique et social, du Comité de coordination
 tripartite, de l’Office national de conciliation ou participant à des réunions de toute
 autre instance du dialogue social créée par une disposition légale ou réglementaire, à
 condition qu’ils ne soient pas assurés à un autre titre;
-\4) les personnes participant aux actions de secours et de sauvetage apportées à la
+4\) les personnes participant aux actions de secours et de sauvetage apportées à la
 personne ou aux biens d’un tiers en péril, aux exercices théoriques et pratiques se
 rapportant directement à ces actions, pour autant que ces activités se situent dans le
 cadre d’une association ou d’un corps poursuivant habituellement et bénévolement de
 tels objectifs ainsi qu’à l’action de secours et de sauvetage apportée spontanément par
 un particulier à la personne ou aux biens d’un tiers exposé à un péril imminent sur le
 territoire du Grand-Duché;
-\5) les personnes bénéficiant d’une mesure d’activation au titre de la loi modifiée du 28
+5\) les personnes bénéficiant d’une mesure d’activation au titre de la loi modifiée du 28
 juillet 2018 relative au revenu d’inclusion sociale; 2)
-\6) les personnes faisant l’objet d’une mesure ordonnée en application de l’article 22 du
+6\) les personnes faisant l’objet d’une mesure ordonnée en application de l’article 22 du
 Code pénal, de l’article 1, alinéa 3 sous b) de la loi modifiée du 10 août 1992 relative à
 la protection de la jeunesse, de l’article 633-7 sous 6) du Code d’instruction criminelle
 ou dans le cadre de l’exercice du pouvoir de grâce ainsi que les détenus ou retenus
 occupés respectivement pour le compte de l’administration pénitentiaire ou le Centre
 de rétention;
-\7) les demandeurs d’emploi bénéficiant d’une mesure d’insertion professionnelle visée à
+7\) les demandeurs d’emploi bénéficiant d’une mesure d’insertion professionnelle visée à
 l’article L. 523-1 du Code du travail;
-\8) dans l’exercice de leurs fonctions, les membres de la Chambre des députés, les
+8\) dans l’exercice de leurs fonctions, les membres de la Chambre des députés, les
 représentants luxembourgeois au Parlement européen, les membres du Conseil d’État,
 les bourgmestres, échevins et membres du Conseil communal, les membres des
 organes des établissements publics communaux et des syndicats des communes, les
 membres des commissions consultatives instituées auprès des communes ainsi que
 les personnes appelées en vertu d’une disposition légale par l’État et les communes à
 participer à l’exercice d’un service public;
-\9) les personnes qui exercent à titre bénévole une activité dans les domaines social,
+9\) les personnes qui exercent à titre bénévole une activité dans les domaines social,
 socio-éducatif, médico-social ou thérapeutique au profit d’un organisme agréé par
 l’État conformément aux dispositions de la loi du 8 septembre 1998 réglant les relations
 entre l’État et les organismes œuvrant dans les domaines social, familial et
 thérapeutique;
-\10) dans le cadre des examens par le Contrôle médical de la sécurité sociale ou
+10\) dans le cadre des examens par le Contrôle médical de la sécurité sociale ou
 l’Administration d’évaluation et de contrôle de l’assurance dépendance en vertu des
 articles 421 3) et 385 4), l’assuré ou la personne dépendante ainsi que la tierce personne
 qui l’accompagne en raison de son état de santé;
-\11) les personnes assurées en application de l’article 2, alinéa 3;
+11\) les personnes assurées en application de l’article 2, alinéa 3;
 
 A voir loi du 18 mars 2013 relative aux traitements de données à caractère personnel concernant les
 élèves (Mém. A 55 du 2 avril 2013, p. 726).
@@ -10368,31 +10368,31 @@ Il y a lieu de lire « articles 421 et 386 ».
 
 Livre II
 
-\12) le bénéficiaire de l’indemnité de chômage complet se présentant auprès de l’Agence
+12\) le bénéficiaire de l’indemnité de chômage complet se présentant auprès de l’Agence
 pour le développement de l’emploi, à un entretien d’embauche ou à une mesure active
 en faveur de l’emploi proposés par les services de l’Agence pour le développement de
 l’emploi ou remplissant toute autre obligation résultant de l’article L. 521-9 du Code du
 travail;
-\13) les personnes handicapées inscrites dans un service de formation agréé en vertu de la L. 17.12.10,1,1°
+13\) les personnes handicapées inscrites dans un service de formation agréé en vertu de la L. 17.12.10,1,1°
 loi du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant
 dans les domaines social, familial et thérapeutique;
-\14) les représentants des parents d’élèves participant à une réunion d’une association de L. 1.8.18,11
+14\) les représentants des parents d’élèves participant à une réunion d’une association de L. 1.8.18,11
 parents d’élèves de l’école fondamentale ou de l’enseignement secondaire, ainsi qu’à
 une réunion dans le cadre de la loi modifiée du 6 février 2009 portant organisation de
 l’enseignement fondamental, dans le cadre de la loi modifiée du 25 juin 2004 portant
 organisation des lycées ou dans le cadre de la loi du 1er août 2018 portant création
 d’une représentation nationale des parents;
-\15) les candidats effectuant le stage préparant à l’obtention de l’attestation habilitant à L. 30.7.15,107
+15\) les candidats effectuant le stage préparant à l’obtention de l’attestation habilitant à L. 30.7.15,107
 faire des remplacements dans l’enseignement fondamental ainsi que dans les centres, L. 22.6.18,I
 instituts et services de l’Education différenciée.
-\16) les jeunes participant aux activités de préparation à la vie active organisées par le L. 22.6.17, VIII
+16\) les jeunes participant aux activités de préparation à la vie active organisées par le L. 22.6.17, VIII
 Service national de la jeunesse telles que définies à l’article 7, alinéa 2, point k) de la loi
 modifiée du 4 juillet 2008 sur la jeunesse.
-\17) les bénéficiaires d’une reprise progressive du travail au sens de l’article 14bis.1)
+17\) les bénéficiaires d’une reprise progressive du travail au sens de l’article 14bis.1)
 
 L. 10.8.18,2,5°
 
-\18) les personnes visées aux articles 4, alinéa 5, et 177, alinéa 3, autres que celles déjà L. 22.5.23,3
+18\) les personnes visées aux articles 4, alinéa 5, et 177, alinéa 3, autres que celles déjà L. 22.5.23,3
 couvertes au titre des points 3) et 8), à condition qu’elles ne soient pas assurées à un
 autre titre. 2)
 
@@ -10473,12 +10473,12 @@ Art. 97. L’assuré a droit à la réparation du préjudice résultant d’une 
 couvertes conformément aux articles 92 à 94.
 
 La réparation consiste dans l’octroi dans les conditions prévues aux articles qui suivent:
-\1) des prestations en nature,
-\2) des prestations en espèces en cas d’incapacité de travail totale pendant les cinquantedeux premières semaines,
-\3) d’une rente complète en cas d’incapacité de travail prolongée,
-\4) d’une rente partielle en cas d’incapacité de gain partielle,
-\5) d’une rente professionnelle d’attente en cas de reconversion professionnelle,
-\6) d’une indemnité pour préjudice physiologique et d’agrément, d’une indemnité pour les
+1\) des prestations en nature,
+2\) des prestations en espèces en cas d’incapacité de travail totale pendant les cinquantedeux premières semaines,
+3\) d’une rente complète en cas d’incapacité de travail prolongée,
+4\) d’une rente partielle en cas d’incapacité de gain partielle,
+5\) d’une rente professionnelle d’attente en cas de reconversion professionnelle,
+6\) d’une indemnité pour préjudice physiologique et d’agrément, d’une indemnité pour les
 douleurs physiques endurées et d’une indemnité pour préjudice esthétique.
 
 Section 1.- Prestations en nature
@@ -10614,7 +10614,7 @@ base d’une expertise émanant d’un expert en automobiles agréé. Les frais 
 remboursés intégralement sur présentation d’une facture acquittée par un professionnel
 légalement établi.
 
-\1) L. 12.8.22,33,2° : Les termes « aux paragraphes 4 à 8 » sont remplacés par les termes « aux paragraphes
+1\) L. 12.8.22,33,2° : Les termes « aux paragraphes 4 à 8 » sont remplacés par les termes « aux paragraphes
 3 à 5, 7 et 8 ».
 
 R. 17.12.10
@@ -11372,19 +11372,19 @@ d’administration.
 Le conseil d’administration gère l’Association d’assurance accident dans toutes les affaires L. 9.8.18,1,19°,a)
 qui n’ont pas été déférées à un autre organe par la loi ou les règlements.
 Il lui appartient notamment:
-\1) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
+1\) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
 jour annuelle y visée;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) de statuer sur le budget annuel;
-\4) de fixer le taux de cotisation 3);
-\5) d’établir et de modifier les statuts;
-\6) de statuer sur le décompte annuel global des recettes et des dépenses ainsi que sur le
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) de statuer sur le budget annuel;
+4\) de fixer le taux de cotisation 3);
+5\) d’établir et de modifier les statuts;
+6\) de statuer sur le décompte annuel global des recettes et des dépenses ainsi que sur le
 bilan;
-\7) de prendre les décisions concernant le personnel;
-\8) de gérer le patrimoine;
-\9) d’établir des recommandations de prévention;
-\10) d'établir son règlement d’ordre intérieur;
-\11) d’établir un code de conduite.
+7\) de prendre les décisions concernant le personnel;
+8\) de gérer le patrimoine;
+9\) d’établir des recommandations de prévention;
+10\) d'établir son règlement d’ordre intérieur;
+11\) d’établir un code de conduite.
 
 Par L. 23.7.15,II,11°, les termes « des facteurs de capitalisation prévues à l’article 119 » sont remplacés
 par les termes « de facteurs de capitalisation à déterminer par règlement grand-ducal ».
@@ -11406,11 +11406,11 @@ Art. 142. (article abrogé) 3)
 
 Art. 143. Le conseil d’administration se compose en dehors du président, fonctionnaire de
 l’État nommé par le Grand-Duc sur proposition du Gouvernement 4):
-\1) de sept délégués des employeurs désignés par la Chambre de commerce et par la
+1\) de sept délégués des employeurs désignés par la Chambre de commerce et par la
 Chambre des métiers suivant une clé de répartition à déterminer par règlement grandducal sur proposition desdites chambres;
-\2) d’un délégué des employeurs désigné par la Chambre d’agriculture;
-\3) de sept délégués des salariés du secteur privé désignés par la Chambre des salariés;
-\4) d’un délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
+2\) d’un délégué des employeurs désigné par la Chambre d’agriculture;
+3\) de sept délégués des salariés du secteur privé désignés par la Chambre des salariés;
+4\) d’un délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
 et employés publics.
 
 Il y a autant de membres suppléants qu’il y a de membres effectifs.
@@ -11496,8 +11496,8 @@ charges du régime général sont couvertes par des cotisations.
 
 Le taux de cotisation 3) pour l’exercice à venir est fixé annuellement sur base du budget de L. 17.12.10,1,6°
 cet exercice de manière
-\1) à couvrir les dépenses courantes à charge de l’Association d’assurance accident;
-\2) à constituer la réserve légale prévue à l’article 148.
+1\) à couvrir les dépenses courantes à charge de l’Association d’assurance accident;
+2\) à constituer la réserve légale prévue à l’article 148.
 
 Le taux de cotisation est publié au Journal officiel du Grand-Duché de Luxembourg 3).
 Art. 150. La charge des cotisations incombe à l’employeur en ce qui concerne les assurés L. 18.2.13,7,(3),5°
@@ -11807,13 +11807,13 @@ Livre III
 
 Assurance obligatoire 1)
 
-\1) les périodes correspondant à une activité professionnelle exercée pour le compte L. 12.5.10,3,2°
+1\) les périodes correspondant à une activité professionnelle exercée pour le compte L. 12.5.10,3,2°
 d’autrui; y sont assimilées les périodes pendant lesquelles une personne exerce une
 activité professionnelle rémunérée pour un tiers sans être établie légalement à son
 propre compte ainsi que celles pendant lesquelles une personne effectue un stage
 rémunéré ou non sans être assurée au titre de l’article 91;
 
-\3) 4) les périodes correspondant à une activité professionnelle exercée pour le propre L. 25.7.05,I,18°
+3\) 4) les périodes correspondant à une activité professionnelle exercée pour le propre L. 25.7.05,I,18°
 compte, ressortissant de la chambre des métiers, de la chambre de commerce ou de
 la chambre d'agriculture ou ayant un caractère principalement intellectuel et non
 commercial.
@@ -11833,7 +11833,7 @@ d'établissement délivrée conformément à la loi du 2 septembre 2011 régleme
 l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines
 professions libérales 5);
 
-5)
+5\)
 
 L. 15.12.17,3,(3),8° : Aux fins d’obtention de l’agrément, le requérant introduit une demande par écrit au
 ministre, qui sera accompagnée des documents suivants : (…) 8. un document attestant son affiliation
@@ -11864,20 +11864,20 @@ d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions 
 termes « la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant,
 d’industriel ainsi qu’à certaines professions libérales ».
 
-\3) les périodes pour lesquelles est versé un revenu de remplacement sur lequel une L. 27.7.87
+3\) les périodes pour lesquelles est versé un revenu de remplacement sur lequel une L. 27.7.87
 retenue de cotisations au titre de l’assurance pension est prévue;
-\4) les périodes correspondant à des périodes d’activité exercée par des membres
+4\) les périodes correspondant à des périodes d’activité exercée par des membres
 d’associations religieuses et des personnes pouvant leur être assimilées, dans l’intérêt
 des malades et de l’utilité générale;
-\5) les périodes correspondant au titre d’un apprentissage pratique à des périodes de
+5\) les périodes correspondant au titre d’un apprentissage pratique à des périodes de
 formation professionnelle indemnisées, pour autant qu’elles se situent après l’âge de
 quinze ans accomplis;
 
-7)
+7\)
 
 Livre III
 
-6)
+6\)
 
 les périodes accomplies par le conjoint ou le partenaire au sens de l'article 2 de la loi L. 25.7.05,I,19°
 du 9 juillet 2004 relative aux effets légaux de certains partenariats et, pour les activités
@@ -11910,9 +11910,9 @@ l’éducation de l’enfant, ladite période est partagée par moitié entre le
 La validation de la période se fait au moment de l’échéance du risque. La condition que L. 21.12.12,I,1°
 des cotisations aient été versées ne s’applique pas;
 
-\8) les périodes accomplies dans un pays en voie de développement conformément à la L. 28.7.00,27,14)
+8\) les périodes accomplies dans un pays en voie de développement conformément à la L. 28.7.00,27,14)
 loi du 6 janvier 1996 sur la coopération au développement;
-9)
+9\)
 
 les périodes prévues à la loi du 25 février 1967 3) ayant pour objet diverses mesures L. 27.7.87
 en faveur de personnes devenues victimes d’actes illégaux de l’occupant et à l’article
@@ -12083,42 +12083,42 @@ présente loi ainsi que les modalités de versement et le tarif applicable seron
 grand-ducal (R. 5.12.69), le tarif applicable étant adapté tous les cinq ans à l’évolution des données
 actuarielles.
 
-\10) les périodes de service militaire obligatoire, accomplies dans l’armée
+10\) les périodes de service militaire obligatoire, accomplies dans l’armée
 luxembourgeoise, compte tenu des périodes de rappel ainsi que des périodes
 d’incapacité de travail résultant d’un accident subi ou d’une maladie grave contractée
 à l’occasion de ce service, pour autant que ces périodes ne soient pas autrement
 couvertes par des cotisations de sécurité sociale;
-\11) les périodes pendant lesquelles l’intéressé a participé à une opération pour le maintien L. 27.7.92,20,(1) d)
+11\) les périodes pendant lesquelles l’intéressé a participé à une opération pour le maintien L. 27.7.92,20,(1) d)
 de la paix conformément à la loi du 27 juillet 1992 relative à la participation du GrandDuché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le
 cadre d’organisations internationales;
 
 Livre III
 
-\12) les périodes pendant lesquelles l’intéressé était volontaire au service de l’armée au L. 28.7.00,27,15)
+12\) les périodes pendant lesquelles l’intéressé était volontaire au service de l’armée au L. 28.7.00,27,15)
 sens de la loi du 2 août 1997 portant réorganisation de l’armée et modification de la loi
 du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des
 opérations pour le maintien de la paix (OMP) dans le cadre d’organisations
 internationales;
-\13) les périodes pendant lesquelles une personne a assuré des aides et des soins à une
+13\) les périodes pendant lesquelles une personne a assuré des aides et des soins à une
 personne dépendante au sens du livre V, sans qu’il s’agisse d’une activité
 professionnelle au sens des numéros 1), 2) et 4) visés ci-dessus;
-\14) les périodes pendant lesquelles une personne a accueilli un enfant en placement de
+14\) les périodes pendant lesquelles une personne a accueilli un enfant en placement de
 jour et de nuit ou en placement de jour et que ce placement a été effectué par un
 organisme agréé conformément à la législation réglant les relations entre l’État et les
 organismes œuvrant dans les domaines social, familial et thérapeutique;
-\15) les périodes pendant lesquelles l’intéressé a exercé un service volontaire L. 31.10.07,8, (3)
+15\) les périodes pendant lesquelles l’intéressé a exercé un service volontaire L. 31.10.07,8, (3)
 conformément à la loi du 31 octobre 2007 sur le service volontaire des jeunes;
-\16) les périodes correspondant au congé parental dont l’assuré a bénéficié au titre de la loi L. 28.7.00,27,(15)
+16\) les périodes correspondant au congé parental dont l’assuré a bénéficié au titre de la loi L. 28.7.00,27,(15)
 du 12 février 1999 portant création d’un congé parental et d’un congé pour raisons
 familiales.
-\17) aux salariés handicapés occupés dans les ateliers protégés au sens de la loi du 12 L. 12.9.03,41,4°
+17\) aux salariés handicapés occupés dans les ateliers protégés au sens de la loi du 12 L. 12.9.03,41,4°
 septembre 2003 relative aux personnes handicapées.
-\18) les périodes pendant lesquelles l’intéressé a une activité sportive d’élite conformément L. 3.8.05,22,4
+18\) les périodes pendant lesquelles l’intéressé a une activité sportive d’élite conformément L. 3.8.05,22,4
 à la loi du 3 août 2005 concernant le sport;
-\19) les périodes pendant lesquelles une personne a bénéficié de l’allocation d’inclusion L. 12.8.22,44,2°
+19\) les périodes pendant lesquelles une personne a bénéficié de l’allocation d’inclusion L. 12.8.22,44,2°
 conformément à l’article 6, alinéa 3, de la loi modifiée du 28 juillet 2018 relative au
 revenu d’inclusion sociale;
-\20) les périodes pendant lesquelles une personne a bénéficié du revenu pour personnes L. 13.12.17,3,1°
+20\) les périodes pendant lesquelles une personne a bénéficié du revenu pour personnes L. 13.12.17,3,1°
 gravement handicapées conformément à l’article 27bis de la loi modifiée du
 12 septembre 2003 relative aux personnes handicapées.
 
@@ -12139,18 +12139,18 @@ parfaire la durée des quatre cent quatre-vingts mois visée à l’article 184,
 stage requis 2) pour la pension minimum, ainsi qu’aux fins de l’acquisition des majorations
 forfaitaires dans les pensions, les périodes ci-après pour autant qu’elles ne soient pas
 autrement couvertes par un régime de pension luxembourgeois ou étranger, à savoir:
-\1) les périodes pendant lesquelles une pension d’invalidité accordée en vertu du présent
+1\) les périodes pendant lesquelles une pension d’invalidité accordée en vertu du présent
 livre ou en vertu de la législation antérieurement en vigueur régissant la même matière,
 a été versée;
-\2) au maximum neuf années de périodes d’études ou de formation professionnelle, non L.19.12.25,1er,2°
+2\) au maximum neuf années de périodes d’études ou de formation professionnelle, non L.19.12.25,1er,2°
 indemnisées au titre d’un apprentissage, pour autant que ces périodes se situent après
 la dix-huitième année d’âge accomplie;
 
 R. 29.1.88
 
-\3) la période correspondant au délai d’inscription imposé au jeune demandeur d’emploi L. 27.7.87
+3\) la période correspondant au délai d’inscription imposé au jeune demandeur d’emploi L. 27.7.87
 avant l’ouverture du droit à l’indemnité de chômage complet;
-\4) les périodes pendant lesquelles l’un des parents a élevé au Luxembourg un ou
+4\) les périodes pendant lesquelles l’un des parents a élevé au Luxembourg un ou
 plusieurs enfants âgés de moins de six ans accomplis; ces périodes ne peuvent être
 inférieures à huit ans pour la naissance de deux enfants, ni être inférieures à dix ans
 pour la naissance de trois enfants; l’âge prévisé est porté à dix-huit ans si l’enfant est
@@ -12165,9 +12165,9 @@ le stage requis ».
 
 ont été confiés à une institution spécialisée. Le ministre ayant dans ses attributions la
 Sécurité sociale peut dispenser de la condition que l’enfant soit élevé au Luxembourg;
-\5) les périodes d’assurance correspondant à une activité professionnelle exercée pour le L. 1.12.92,II,1°
+5\) les périodes d’assurance correspondant à une activité professionnelle exercée pour le L. 1.12.92,II,1°
 propre compte et dispensées de cotisations avant le 1er janvier 1993;
-\6) jusqu’à concurrence de quinze années les périodes d’activité professionnelle au L. 27.7.87
+6\) jusqu’à concurrence de quinze années les périodes d’activité professionnelle au L. 27.7.87
 Luxembourg se situant avant la création des anciens régimes de pension contributifs
 ou dispensées de l’assurance obligatoire en vertu des dispositions légales applicables
 à ces régimes pour autant que ces périodes ne donnent pas autrement lieu à
@@ -12175,18 +12175,18 @@ prestations;
 
 Livre III
 
-\7) les périodes à partir du 1er janvier 1990 pendant lesquelles une personne a assuré des L. 17.12.10,1,50°
+7\) les périodes à partir du 1er janvier 1990 pendant lesquelles une personne a assuré des L. 17.12.10,1,50°
 soins au bénéficiaire d’une allocation de soins prévue par la loi du 22 mai 1989, d’une
 allocation spéciale pour personnes gravement handicapées au titre de la loi modifiée
 du 16 avril 1979, d’une majoration de la rente accident pour impotence ou d’une
 majoration de complément du revenu minimum garanti 1) prévu par l’article 3, alinéa 4
 de la loi modifiée du 26 juillet 1986;
-\8) les périodes d’activité professionnelle soumises à assurance au titre de la législation L. 24.4.91,I,2°
+8\) les périodes d’activité professionnelle soumises à assurance au titre de la législation L. 24.4.91,I,2°
 du pays d’origine dans le chef des personnes ayant bénéficié avant l’acquisition de la
 nationalité luxembourgeoise du statut de réfugié politique au sens de l’article 1er de la
 convention signée à Genève le 28 juillet 1951 et pour autant qu’elles soient exclues du
 bénéfice de prestations par tout régime international ou étranger.
-\9) les périodes précédant celles au titre de l’article 171, alinéa 1, sous 17 du Code de la L. 12.9.03,41,5°
+9\) les périodes précédant celles au titre de l’article 171, alinéa 1, sous 17 du Code de la L. 12.9.03,41,5°
 sécurité sociale, pendant lesquelles le salarié handicapé au sens de l’article 1er de la
 loi du 12 septembre 2003 relative aux personnes handicapées n’a pas pu être occupé,
 pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les
@@ -12337,7 +12337,7 @@ sont portées en compte que dans la mesure où elles s’avèrent plus favorable
 sous l’occupation principale et jusqu’à concurrence du nombre de mois civils couverts par l’occupation
 principale.
 
-5)
+5\)
 
 d’assurance découlant de l’application d’un ou de plusieurs des articles prévisés, la mise
 en compte ne peut excéder un mois. Pour autant que de besoin, les mois sont convertis en
@@ -12578,7 +12578,7 @@ Art. 2. Les dispositions de l’article qui précède (lire: de l’alinéa 2 de
 également applicables à ceux des employés techniques qui ont quitté l’assurance supplémentaire mais
 qui ont conservé le statut minier de l’industrie qui les occupe.
 
-5)
+5\)
 
 Livre III
 
@@ -12625,7 +12625,7 @@ suivant l’expiration du droit de l’assuré à son revenu professionnel. Tout
 l’assuré continue à exercer une activité professionnelle autre qu’insignifiante 7), la pension
 prend cours le premier jour du mois suivant celui de la demande, mais au plus tôt à partir
 du mois au cours duquel le revenu professionnel est inférieur 8) au plafond prévu à l’article
-226.
+226\.
 
 Pour l’application des dispositions qui précèdent chaque jour du mois du début de la L. 27.7.87
 pension est compté uniformément, s’il échet, pour un trentième du mois.
@@ -12655,11 +12655,11 @@ L. 19.12.25,2,1° : Le mot « salariée » est remplacé par les mots « profess
 L. 19.12.25,2,2° : Les mots « la rémunération est inférieure » sont remplacés par les mots « le revenu
 professionnel est inférieur ».
 
-5)
-6)
+5\)
+6\)
 
-7)
-8)
+7\)
+8\)
 
 Si l’activité professionnelle 3) dépasse les limites prévues à l’alinéa qui précède, les L. 21.12.12,I,3°
 dispositions de réduction prévues à l’article 226 sont applicables. Lorsque le revenu
@@ -12781,7 +12781,7 @@ Pour la période pendant laquelle l’assuré bénéficiaire d’une pension d�
 professionnelle d’attente régies par la législation luxembourgeoise, la pension d’invalidité
 est versée au Fonds pour l’emploi qui transmet la différence éventuelle à l’assuré.
 
-\5) 6) Lorsque l’invalidité ne revêt qu’un caractère temporaire, la pension prend cours à
+5\) 6) Lorsque l’invalidité ne revêt qu’un caractère temporaire, la pension prend cours à
 
 L. 21.12.04,I,14°
 
@@ -12789,7 +12789,7 @@ l’expiration du droit à l’indemnité pécuniaire accordée conformément au
 97 ou, à défaut d’un tel droit, à l’expiration d’une période ininterrompue d’invalidité de six
 mois.
 
-\5) Dans le cas prévu à l’alinéa qui précède, la pension d’invalidité est réallouée pour les
+5\) Dans le cas prévu à l’alinéa qui précède, la pension d’invalidité est réallouée pour les
 
 L. 27.7.92,III,4°
 
@@ -12798,7 +12798,7 @@ pécuniaire de maladie conformément à l’article 14, alinéa 2 7) pour autant
 remplisse les conditions prévues à l’article 186 au moment du début de chaque nouvelle
 période d’invalidité.
 
-5)
+5\)
 La pension d’invalidité n’est pas allouée pour une période antérieure de plus d’une année L. 27.7.87
 à la réception de la demande.
 
@@ -12822,9 +12822,9 @@ Alinéas renumérotés par L. 13.12.17,3,6°.
 Alinéas renumérotés par L.24.7.20,14,2°.
 Par L. 13.12.17,3,7° le chiffre « 3 » est remplacé par le chiffre « 2 ».
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 Lorsque le bénéficiaire justifie de revenus cotisables 1) mis en compte au titre de l’article
 171 se situant pendant la période de jouissance de la pension, il est procédé à un recalcul
@@ -12865,8 +12865,8 @@ handicapées. Toutefois ce stage n’est pas exigé en cas de décès de l’ass
 un accident de quelque nature que ce soit ou à une maladie professionnelle reconnue en
 vertu des dispositions du présent code, survenus pendant l’affiliation.
 
-5)
-6)
+5\)
+6\)
 
 L. 19.12.25,4 : À l’article 192, alinéa 2, première phrase, du même code, les mots « salaires, traitements
 ou » sont supprimés.
@@ -13273,7 +13273,7 @@ Livre III
 Calcul des pensions 2) 3)
 Art. 214. La pension de vieillesse annuelle se compose des majorations de pension L. 21.12.12,I,9°
 suivantes:
-\1) les majorations proportionnelles correspondant au produit de la multiplication du taux
+1\) les majorations proportionnelles correspondant au produit de la multiplication du taux
 de pourcentage respectif du tableau visé à l’alinéa 2 par la somme des éléments de
 revenus 4) soumis à retenue pour pension, mis en compte au titre des articles 171, 173,
 173bis et 174 avant le début du droit à la pension de vieillesse et déterminés
@@ -13314,17 +13314,17 @@ allocation et étaient allouées dans la mesure prévue pour la majoration des p
 L. 6.4.99:
 
 Article IV:
-\1) Les pensions échues avant le 1er janvier 1988 conformément aux dispositions légales ayant régi les
+1\) Les pensions échues avant le 1er janvier 1988 conformément aux dispositions légales ayant régi les
 anciens régimes de pension contributifs sont recalculées avec effet au 1er janvier 1999 par
 application du livre III du Code des assurances sociales.
-\2) Les pensions ainsi recalculées seront majorées, le cas échéant, du ou des suppléments pour enfant
+2\) Les pensions ainsi recalculées seront majorées, le cas échéant, du ou des suppléments pour enfant
 prévus par les anciennes dispositions et dus au 31 décembre 1998.
-\3) Le recalcul ne peut avoir pour effet de réduire le montant total des pensions allouées à un même
+3\) Le recalcul ne peut avoir pour effet de réduire le montant total des pensions allouées à un même
 bénéficiaire ou aux survivants d'un même assuré en dessous du montant atteint le 31 décembre
 1998 avant l'application des dispositions réglant le concours avec une autre pension ou une rente
 accident. Ce dernier montant au nombre indice 100 et au niveau de l'année de base 1984 est
 maintenu tant qu'il dépasse le montant résultant du recalcul jusqu'à la cessation de la pension.*)
-\4) L’application d’une disposition réglant le concours avec une autre pension ou une rente accident ne
+4\) L’application d’une disposition réglant le concours avec une autre pension ou une rente accident ne
 saurait aboutir à une réduction plus importante de la pension que celle atteinte le 31 décembre 1998.
 Pour autant que de besoin un complément représentant la différence au niveau de l’année de base
 1984 et au nombre indice 100 est alloué. Ce complément ne subira plus de changement même en
@@ -13341,7 +13341,7 @@ L. 28.6.02,IX,5°: Les dispositions de l’article 214, point 1) phrases 2 et 3 
 sociales et les dispositions de l’article 37, point 1) phrases 2 et 3 ne s’appliquent pas aux pensions
 échues avant le 1er mars 2002.
 
-5)
+5\)
 
 les majorations forfaitaires correspondant, après une durée de quarante années au
 titre des articles 171 à 174, au produit de la multiplication du taux de pourcentage
@@ -13653,14 +13653,14 @@ effectuée que dans la mesure où ce mode de calcul s’avère plus favorable.
 
 Art. 216. La pension d’invalidité annuelle se compose des majorations de pension L. 21.12.12,I,10°
 suivantes:
-\1) les majorations proportionnelles prévues à l’article 214, alinéa 1, point 1);
-\2) les majorations proportionnelles spéciales correspondant au produit de la
+1\) les majorations proportionnelles prévues à l’article 214, alinéa 1, point 1);
+2\) les majorations proportionnelles spéciales correspondant au produit de la
 multiplication du taux des majorations proportionnelles visé à l’article 214, alinéa 1,
 point 1), appliqué à la base de référence définie à l’article 221 par le nombre d’années
 restant à courir du début du droit à la pension jusqu’à l’accomplissement de la
 cinquante-cinquième année d’âge;
-\3) les majorations forfaitaires prévues à l’article 214, alinéa 1, point 2);
-\4) les majorations forfaitaires spéciales correspondant à autant de quarantièmes du
+3\) les majorations forfaitaires prévues à l’article 214, alinéa 1, point 2);
+4\) les majorations forfaitaires spéciales correspondant à autant de quarantièmes du
 produit de la multiplication du taux des majorations forfaitaires visé à l’article 214,
 alinéa 1, point 2) par le montant de référence défini à l’article 222 qu’il manque
 d’années entre le début du droit à la pension et l’âge de soixante-cinq ans accomplis,
@@ -13797,12 +13797,12 @@ Les salaires pour les classes de cotisations de la période du 1er octobre 1940 
 qui concerne les ouvriers mineurs, au 31 décembre 1942, sont portés en compte, suivant qu’il s’agira de
 classes établies par semaines ou par mois.
 
-5)
+5\)
 
 dans la classe
 
 Livre III
-6)
+6\)
 
 I pour
 II
@@ -13911,7 +13911,7 @@ employés des pensions ou des capitaux en cas d’invalidité, de vieillesse ou 
 loi. L’employeur versera à la caisse de pension les réserves mathématiques nécessaires pour
 garantir les prestations prévues par la présente loi et calculées sur la base de 10% de cotisations
 
-7)
+7\)
 
 Livre III
 
@@ -14007,19 +14007,19 @@ calcul lors de la fixation ultérieure des facteurs.
 
 Art. 221. La base de référence annuelle servant au calcul des majorations proportionnelles L. 27.7.87
 spéciales visée à l’article 216 est définie comme suit:
-\1) Lorsque l’échéance du risque se situe après l’âge de vingt-cinq ans accomplis, la base
+1\) Lorsque l’échéance du risque se situe après l’âge de vingt-cinq ans accomplis, la base
 de référence est égale à la somme des revenus cotisables 3) valablement déclarés au
 titre des articles 171, 173, 173bis 4) et 174 et correspondant à la période se situant
 entre le début de l’année civile suivant celle où l’assuré a accompli l’âge de vingtquatre ans et l’échéance du risque, divisée par le nombre d’années se situant dans la
 période correspondante. Au cas où cette période est inférieure à deux années, sont
 prises en compte les deux années précédant l’échéance du risque.
-\2) Ne sont pas à comprendre dans le diviseur le nombre d’années se situant dans cette L. 24.4.91,I,19°
+2\) Ne sont pas à comprendre dans le diviseur le nombre d’années se situant dans cette L. 24.4.91,I,19°
 période et correspondant aux périodes prévues aux numéros 1) à 4) ainsi qu’au numéro
-\7) de l’article 172 pendant lesquelles des cotisations n’ont pas été portées en compte;
+7\) de l’article 172 pendant lesquelles des cotisations n’ont pas été portées en compte;
 au cas où des cotisations auraient été portées en compte simultanément au titre des
 articles 171, 173, 173bis 2) et 174 la prise en compte de ces revenus cotisables et de
 ces périodes se fait suivant le mode de calcul le plus favorable pour l’assuré.
-\3) Lorsque l’échéance du risque se situe avant l’âge de vingt-cinq ans accomplis, la base L. 27.7.87
+3\) Lorsque l’échéance du risque se situe avant l’âge de vingt-cinq ans accomplis, la base L. 27.7.87
 de référence est égale à la somme des revenus cotisables 5) valablement déclarés au
 titre des articles 171, 173 et 174 divisés par le nombre d’années d’assurance au titre
 des mêmes articles. Sont négligées tant au numérateur qu’au dénominateur les
@@ -14034,12 +14034,12 @@ Art. 222. Le montant de référence annuel au nombre indice cent de l’indice p
 coût de la vie au 1er janvier 1948 et défini pour l’année de base prévue à l’article 220 est
 égal à 2 085 euros.
 
-5)
-6)
+5\)
+6\)
 
 L. 28.6.02,IX,3°:
 Pour les enfants nés avant le 1er janvier 1988, la période de référence visée à l’article 171, alinéa 1, sous
-\7) du Code des assurances sociales, correspond à l’année civile de la naissance ou de l’adoption de
+7\) du Code des assurances sociales, correspond à l’année civile de la naissance ou de l’adoption de
 l’enfant et aux trois années précédentes.Pour les mêmes enfants, la moyenne visée à l’article 220, alinéa
 3 du même code est calculée sur base des revenus cotisables de l’année civile de la naissance et
 l’adoption de l’enfant et de l’année civile précédente.Si pendant ces deux années l’intéressé ne justifie
@@ -14187,12 +14187,12 @@ L. 12.8.22,52 : Les termes « du régime général de pension » sont remplacés
 nationale d’assurance pension ».
 L. 6.4.99, IV:
 [...]
-\3) Le recalcul ne peut avoir pour effet de réduire le montant total des pensions allouées à un même
+3\) Le recalcul ne peut avoir pour effet de réduire le montant total des pensions allouées à un même
 bénéficiaire ou aux survivants d'un même assuré en dessous du montant atteint le 31 décembre 1998
 avant l'application des dispositions réglant le concours avec une autre pension ou une rente accident.
 Ce dernier montant au nombre indice 100 et au niveau de l'année de base 1984 est maintenu tant qu'il
 dépasse le montant résultant du recalcul jusqu'à la cessation de la pension.*)
-\4) L’application d’une disposition réglant le concours avec une autre pension ou une rente accident ne
+4\) L’application d’une disposition réglant le concours avec une autre pension ou une rente accident ne
 saurait aboutir à une réduction plus importante de la pension que celle atteinte le 31 décembre 1998.
 Pour autant que de besoin un complément représentant la différence au niveau de l’année de base
 1984 et au nombre indice 100 est alloué. Ce complément ne subira plus de changement même en cas
@@ -14220,10 +14220,10 @@ L. 12.8.22,53 : Les termes « d’une veuve, d’un veuf, d’un ancien partenai
 conjoint survivant, d’un partenaire survivant au sens de la loi modifiée du 9 juillet 2004 relative aux effets
 légaux de certains partenariats ».
 
-5)
-6)
-7)
-8)
+5\)
+6\)
+7\)
+8\)
 
 R. 3.12.25
 
@@ -14251,14 +14251,14 @@ Livre III
 
 L. 13.12.17,3,13°
 
-\1. qu’ils soient réalisés ou obtenus au Luxembourg ou à l’étranger:
+1\. qu’ils soient réalisés ou obtenus au Luxembourg ou à l’étranger:
 a) les revenus professionnels et les revenus de remplacement au sens de l’article 171,
 alinéa 1, sous 3) dépassant deux tiers du montant de référence visé à l’article 222,
 b) les pensions et les rentes issues d’un régime légal au sens de la législation sociale,
 à l’exception des pensions ou rentes de survie du chef du même conjoint ou du
 même partenaire au sens de l’article 2 de la loi du 9 juillet 2004 relative aux effets
 légaux de certains partenariats;
-\3. le forfait d’éducation prévu par la loi du 28 juin 2002 portant création d’un forfait
+3\. le forfait d’éducation prévu par la loi du 28 juin 2002 portant création d’un forfait
 d’éducation.
 
 L’indemnité visée à l’article L. 125-1, paragraphe 2 du Code du travail n’est pas prise en L. 13.12.17,3,14°
@@ -14296,11 +14296,11 @@ au mois de la réduction.
 (4) Le bénéficiaire de pension signale à la Caisse nationale d’assurance pension les
 revenus au sens des articles 226 et 229 et en justifier les montants. Les montants versés
 en trop sont récupérés ou déduits de la pension nonobstant la limitation prévue à l’article
-\211. La Caisse nationale d’assurance pension peut renoncer en tout ou en partie à la
+211\. La Caisse nationale d’assurance pension peut renoncer en tout ou en partie à la
 
 L. 6.4.99,IV:
 [...]
-\5) L’article 229 n’est pas applicable au bénéficiaire d’une pension de veuf ou de veuve échue avant le 1er
+5\) L’article 229 n’est pas applicable au bénéficiaire d’une pension de veuf ou de veuve échue avant le 1er
 janvier 1988 exerçant une activité professionnelle, mais s’applique dès que l’intéressé a droit à une
 pension personnelle.
 [...]
@@ -14419,22 +14419,22 @@ Il verse mensuellement des avances fixées à un douzième de la part de l’Ét
 prévue dans le budget annuel de la caisse pour l’exercice en cours.
 Art. 240. 1) En dehors de l’intervention de l’État conformément à l’article qui précède, la L. 28.7.00,27,30)
 charge des cotisations à supporter par les assurés incombe:
-\1) par parts égales aux assurés et aux employeurs pour autant qu’il s’agisse de périodes L. 17.12.10,1,51°
+1\) par parts égales aux assurés et aux employeurs pour autant qu’il s’agisse de périodes L. 17.12.10,1,51°
 visées à l’article 171, 1), 5) et 11);
-\2) entièrement à charge de l’État pour les assurés visés à l’article 171, alinéa 1, point 12); L. 9.5.12,2,2.,a)
-\3) entièrement à charge des assurés pour autant qu’il s’agit de périodes visées aux L. 28.7.00,27,30)
+2\) entièrement à charge de l’État pour les assurés visés à l’article 171, alinéa 1, point 12); L. 9.5.12,2,2.,a)
+3\) entièrement à charge des assurés pour autant qu’il s’agit de périodes visées aux L. 28.7.00,27,30)
 articles 171, 2)2), 173, 173bis et 174;
-\4) par parts égales aux assurés et aux institutions débitrices des prestations en cause L. 23.7.15,II,13°
+4\) par parts égales aux assurés et aux institutions débitrices des prestations en cause L. 23.7.15,II,13°
 pour autant qu’il s’agit de périodes visées à l’article 171, alinéa 1, point 3);
-\5) entièrement à charge des employeurs pour les périodes visées à l’article 171, 4) pour L. 28.7.00,27,30)
+5\) entièrement à charge des employeurs pour les périodes visées à l’article 171, 4) pour L. 28.7.00,27,30)
 autant que les personnes y visées soient occupées dans un établissement appartenant
 à leur congrégation;
-\6) aux assurés visés à l’article 171, 2) en lieu et place de leurs aidants visés au
+6\) aux assurés visés à l’article 171, 2) en lieu et place de leurs aidants visés au
 numéro 6) 2) du même article;
-\7) 3) à l’assurance dépendance dans la limite prévue à l’article 357 4) et pour autant qu’il
+7\) 3) à l’assurance dépendance dans la limite prévue à l’article 357 4) et pour autant qu’il
 s’agit de périodes au sens de l’article 171 sous 1) ou 13) pendant lesquelles l’assuré a
 assuré des aides et des soins à une personne dépendante;
-\8) 3) aux organismes agréés conformément à la législation réglant les relations entre l’État
+8\) 3) aux organismes agréés conformément à la législation réglant les relations entre l’État
 et les organismes œuvrant dans les domaines social, familial et thérapeutique, au
 maximum jusqu’à concurrence d’une cotisation calculée sur base du salaire social
 
@@ -14477,14 +14477,14 @@ minimum mensuel prévu pour un salarié non qualifié âgé de dix-huit ans au m
 pour autant qu’il s’agit de périodes au sens de l’article 171 sous 14) pendant lesquelles
 l’assuré a assuré l’accueil d’un enfant en placement de jour et de nuit ou en placement
 de jour;
-\9) 1) à l’État pour autant qu’il s’agit de périodes prévues à l’article 171, 15) jusqu’à
+9\) 1) à l’État pour autant qu’il s’agit de périodes prévues à l’article 171, 15) jusqu’à
 concurrence du salaire social minimum;
-\10) 1) par parts égales à l’État et à l’assuré, pour autant qu’il s’agit de périodes visées à
+10\) 1) par parts égales à l’État et à l’assuré, pour autant qu’il s’agit de périodes visées à
 l’article 171, 16) jusqu’à concurrence de l’indemnité de congé parental;
-\11) 1) par parts égales à l’État et aux assurés visés à l’article 171, alinéa 1, point 8) et à
+11\) 1) par parts égales à l’État et aux assurés visés à l’article 171, alinéa 1, point 8) et à
 l’article173bis, alinéa 2.
-\12) par parts égales à l’État ou l’atelier protégé 2) et aux assurés visés à l’article 171, 17).
-\13) à l’État pour autant qu’il s’agit de périodes prévues à l’article 171, 18) 3) jusqu’à
+12\) par parts égales à l’État ou l’atelier protégé 2) et aux assurés visés à l’article 171, 17).
+13\) à l’État pour autant qu’il s’agit de périodes prévues à l’article 171, 18) 3) jusqu’à
 concurrence du salaire social minimum.
 
 L. 3.11.16,II,1°
@@ -14562,7 +14562,7 @@ termes « diminué le cas échéant en raison de l’âge conformément à l’a
 travail, ».
 L.12.8.22,76 : Les termes « de référence » sont supprimés.
 
-5)
+5\)
 
 R. 5.5.99
 
@@ -14762,21 +14762,21 @@ Il lui appartient notamment:
 
 L. 9.8.18,1,26°,a)
 
-\1) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
+1\) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
 jour annuelle y visée;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) de statuer sur le budget annuel;
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) de statuer sur le budget annuel;
 
 R. 19.12.08
 
-\4) de statuer au sujet des prestations légales dans les limites des lois et règlements;
-\5) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
+4\) de statuer au sujet des prestations légales dans les limites des lois et règlements;
+5\) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
 
 Livre III
 
-\6) de prendre les décisions concernant le personnel;
-\7) d’établir son règlement d’ordre intérieur;
-\8) d’établir un code de conduite.
+6\) de prendre les décisions concernant le personnel;
+7\) d’établir son règlement d’ordre intérieur;
+8\) d’établir un code de conduite.
 
 Les décisions prévues aux points 3), 5) et 7) 1) de l’alinéa qui précède sont soumises à L. 13.5.08,2,19°
 l’approbation du ministre ayant dans ses attributions la Sécurité sociale sur avis de
@@ -14788,12 +14788,12 @@ de la Caisse nationale d’assurance pension.
 
 Art. 252. Le conseil d’administration se compose en dehors du président 2), fonctionnaire L. 13.5.08,2,19°
 de l’État, nommé par le Grand-Duc sur proposition du Gouvernement 3):
-\1) de huit délégués des salariés du secteur privé, désignés par la Chambre des salariés;
-\2) d’un délégué des non-salariés désigné par la Chambre de commerce;
-\3) d’un délégué des non-salariés désigné par la Chambre des métiers;
-\4) d’un délégué des non-salariés désigné par la Chambre d’agriculture;
-\5) de quatre délégués des employeurs désignés par la Chambre de commerce;
-\6) d’un délégué des employeurs désigné par la Chambre des métiers.
+1\) de huit délégués des salariés du secteur privé, désignés par la Chambre des salariés;
+2\) d’un délégué des non-salariés désigné par la Chambre de commerce;
+3\) d’un délégué des non-salariés désigné par la Chambre des métiers;
+4\) d’un délégué des non-salariés désigné par la Chambre d’agriculture;
+5\) de quatre délégués des employeurs désignés par la Chambre de commerce;
+6\) d’un délégué des employeurs désigné par la Chambre des métiers.
 
 Il y a autant de membres suppléants qu’il y a de membres effectifs.
 
@@ -14944,13 +14944,13 @@ Il lui appartient notamment:
 
 L. 9.8.18,1,30°,a)
 
-\2) de statuer sur le budget annuel;
+2\) de statuer sur le budget annuel;
 
 R. 19.12.08
 
-\3) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
-\4) d’établir son règlement d’ordre intérieur;
-\5) d’établir un code de conduite.
+3\) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
+4\) d’établir son règlement d’ordre intérieur;
+5\) d’établir un code de conduite.
 
 Les décisions visées aux points 1) à 4) de l’alinéa qui précède sont soumises à L. 13.5.08,2,19°
 l’approbation du ministre ayant dans ses attributions la Sécurité sociale, sur avis de
@@ -14966,10 +14966,10 @@ R. 9.12.08
 
 L. 13.5.08,2,19°
 
-\1) du président du conseil d’administration de la Caisse nationale d’assurance pension et
+1\) du président du conseil d’administration de la Caisse nationale d’assurance pension et
 de trois membres désignés par le Gouvernement en Conseil;
-\2) de quatre membres délégués par les assurés;
-\3) de quatre membres délégués par les employeurs.
+2\) de quatre membres délégués par les assurés;
+3\) de quatre membres délégués par les employeurs.
 
 Pour chaque membre effectif il y a un membre suppléant.
 
@@ -15030,7 +15030,7 @@ intérieur ».
 
 Livre III
 
-\1) d’établir les directives concernant les principes et règles de gestion du patrimoine;
+1\) d’établir les directives concernant les principes et règles de gestion du patrimoine;
 
 Livre III
 
@@ -15405,7 +15405,7 @@ conformément aux dispositions applicables aux traitements des fonctionnaires de
 Par dérogation à l’alinéa 3, les montants prévus à l’alinéa 1er, correspondant au nombre L. 19.6.22,4
 cent de l’indice pondéré du coût de la vie, sont adaptés aux variations de ce coût
 conformément aux dispositions qui suivent pendant la période du 1er avril 2022 au 1er avril
-2023.
+2023\.
 
 Livre IV
 
@@ -16028,16 +16028,16 @@ Il lui appartient notamment:
 
 L. 9.8.18,1,37°,a)
 
-\1) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
+1\) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
 jour annuelle y visée;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) de statuer sur le budget annuel;
-\4) de statuer au sujet des cotisations et amendes d’ordre, sous réserve des dispositions
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) de statuer sur le budget annuel;
+4\) de statuer au sujet des cotisations et amendes d’ordre, sous réserve des dispositions
 du livre VI du présent code;
-\5) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
-\6) de prendre les décisions concernant le personnel;
-\7) d’établir son règlement d’ordre intérieur 1);
-\8) d’établir un code de conduite.
+5\) de statuer sur le décompte annuel des recettes et des dépenses et sur le bilan;
+6\) de prendre les décisions concernant le personnel;
+7\) d’établir son règlement d’ordre intérieur 1);
+8\) d’établir un code de conduite.
 
 Livre IV
 
@@ -16099,7 +16099,7 @@ L. 23.7.16
 A. 28.11.23 : Arrêté ministériel du 28 novembre 2023 portant approbation du règlement d’ordre intérieur
 de la Caisse pour l’avenir des enfants. (JO, Mém. B 4279 du 6 décembre 2023)
 Par L. 9.8.18,1,37°,b), les termes « aux points a), b) et c) » sont remplacés par les termes « aux points 3),
-\5) et 7) ».
+5\) et 7) ».
 L. 12.8.22,62,2° : Alinéa renuméroté
 
 L. 13.5.08,2,20°
@@ -16224,18 +16224,18 @@ Les actes essentiels de la vie comprennent:
 
 L. 29.8.17,1er,1°
 
-\1) dans le domaine de l’hygiène corporelle: les aides et soins visant à la propreté du
+1\) dans le domaine de l’hygiène corporelle: les aides et soins visant à la propreté du
 corps;
-\2) dans le domaine de l’élimination: les aides et soins visant à l’évacuation des déchets
+2\) dans le domaine de l’élimination: les aides et soins visant à l’évacuation des déchets
 de l’organisme;
 
 Livre V
 
-\3) dans le domaine de la nutrition: les aides et soins visant à l’assistance pour l’absorption
+3\) dans le domaine de la nutrition: les aides et soins visant à l’assistance pour l’absorption
 de l’alimentation, l’hydratation et la nutrition entérale;
-\4) dans le domaine de l’habillement: les aides et soins visant à s’habiller et à se
+4\) dans le domaine de l’habillement: les aides et soins visant à s’habiller et à se
 déshabiller;
-\5) dans le domaine de la mobilité: les aides et soins visant aux changements de position,
+5\) dans le domaine de la mobilité: les aides et soins visant aux changements de position,
 aux déplacements et aux accès et sorties du logement.
 
 L’assistance d’une tierce personne consiste à effectuer en tout ou en partie à la place de
@@ -16861,27 +16861,27 @@ L. 29.8.17,1er,16°
 Art. 366. (1) À l’initiative de l’Administration d’évaluation et de contrôle de l’assurance
 dépendance, une réévaluation des besoins de la personne dépendante 1) visés à l’article
 350 peut avoir lieu dans les conditions et d’après les modalités suivantes:
-\1) lorsque l’exécution des prestations requises dans les domaines des actes essentiels
+1\) lorsque l’exécution des prestations requises dans les domaines des actes essentiels
 de la vie arrêtées dans la synthèse de prise en charge visée à l’article 350, paragraphe
 8 est intégralement assurée par un prestataire visé aux articles 389 à 391, la
 réévaluation est effectuée au plus tôt deux ans après la notification de la décision
 définitive de prise en charge;
-\2) lorsque l’exécution des prestations requises arrêtées dans la synthèse de prise en
+2\) lorsque l’exécution des prestations requises arrêtées dans la synthèse de prise en
 charge est intégralement ou partiellement assurée au domicile de la personne
 dépendante par un aidant selon l’article 350, paragraphe 7, la réévaluation est
 effectuée au plus tôt un an après la notification de la décision définitive de prise en
 charge;
-\3) lorsque la personne dépendante quitte son domicile pour être prise en charge dans un
+3\) lorsque la personne dépendante quitte son domicile pour être prise en charge dans un
 établissement d’aides et de soins, la réévaluation est effectuée dans les six mois de
 son admission;
 
 Livre V
 
-\4) lorsque la personne dépendante introduit une demande pour des aides techniques ou
+4\) lorsque la personne dépendante introduit une demande pour des aides techniques ou
 des adaptations du logement, l’Administration d’évaluation et de contrôle de
 l’assurance dépendance peut réévaluer l’ensemble des besoins de la personne
 dépendante;
-\5) lorsque l’Administration d’évaluation et de contrôle de l’assurance dépendance
+5\) lorsque l’Administration d’évaluation et de contrôle de l’assurance dépendance
 constate un changement fondamental des circonstances, elle peut procéder à une
 réévaluation des besoins visés à l’article 350.
 À la demande motivée de la personne dépendante, des membres de sa famille visés à
@@ -17008,7 +17008,7 @@ Par L. 29.8.17,1er,18° les termes « l’article 13 de la loi du 25 février 19
 sont remplacés par les termes « l’article 13 de la loi modifiée du 25 février 1979 concernant l’aide au
 logement ».
 
-5)
+5\)
 
 L’organisme chargé de la gestion de l’assurance dépendance est tenu d’informer, sur
 demande, les organismes d’assistance si et dans quelle étendue des personnes que ceuxci ont secourues, ont droit aux prestations prévues par le présent livre.
@@ -17039,13 +17039,13 @@ nécessaires au financement de l’assurance sont constituées:
 
 Livre V
 
-\1) par une contribution de l’État 2) à raison de quarante pour cent des dépenses totales, L. 16.12.11,37
+1\) par une contribution de l’État 2) à raison de quarante pour cent des dépenses totales, L. 16.12.11,37
 y compris la dotation à la réserve;
-\2) par une contribution spéciale consistant dans le produit de la taxe « électricité » L. 24.7.00,30
+2\) par une contribution spéciale consistant dans le produit de la taxe « électricité » L. 24.7.00,30
 imputable à tout client final, autoproduction comprise, qui affiche une consommation
 annuelle supérieure à vingt-cinq mille kWh 3), à charge du secteur de l’énergie
 électrique, qui est affectée au financement de l’assurance dépendance; 4)
-\3) pour le restant par une contribution dépendance déterminée conformément aux L. 19.6.98
+3\) pour le restant par une contribution dépendance déterminée conformément aux L. 19.6.98
 dispositions des articles 377 et suivants.
 
 En ce qui concerne la contribution visée à l’alinéa 2 sous 1), l’État verse mensuellement des
@@ -17090,8 +17090,8 @@ Par L. 7.8.15,4,1° le renvoi aux numéros 1), 2), 3) et 7) à 12) de l’articl
 numéros 1) à 3), 7) à 12), 16), 18) et 20) de l’article 1er.
 Par L. 7.8.15,4,1° le renvoi à l’article 38 est remplacé par un renvoi à l’article 33.
 
-5)
-6)
+5\)
+6\)
 
 L. 22.12.06,33,2°
 
@@ -17183,21 +17183,21 @@ d’administration de la Caisse nationale de santé.
 
 Dans le cadre de l’assurance dépendance, le conseil d’administration de la Caisse L. 9.8.18,1,41°,b)
 nationale de santé a pour mission:
-\1) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
+1\) d’établir la planification triennale prévue par l’article 408bis et de statuer sur la mise à
 jour annuelle y visée;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) de statuer sur le budget annuel;
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) de statuer sur le budget annuel;
 
 R. 19.12.08
 
-\4) de statuer sur le décompte annuel des recettes et des dépenses ainsi que sur le bilan
+4\) de statuer sur le décompte annuel des recettes et des dépenses ainsi que sur le bilan
 de l’assurance dépendance;
 
 R. 19.12.08
 
-\5) de préparer les négociations à mener par le président ou son délégué avec les
+5\) de préparer les négociations à mener par le président ou son délégué avec les
 prestataires d’aides et de soins et de se prononcer sur le résultat de ces négociations;
-\6) de prendre les décisions individuelles en matière de prestations.
+6\) de prendre les décisions individuelles en matière de prestations.
 
 Livre V
 
@@ -17205,7 +17205,7 @@ Les décisions prévues aux points 3) et 4) sont soumises à l’approbation du 
 dans ses attributions la Sécurité sociale, sur avis de l’Inspection générale de la sécurité
 sociale.
 
-\3) Dans tous les votes, chaque délégué dispose d’un nombre de voix pondéré en fonction
+3\) Dans tous les votes, chaque délégué dispose d’un nombre de voix pondéré en fonction
 
 Dans les matières visées ci-dessus, le conseil d’administration délibère en l’absence des L. 13.5.08,2,21°
 délégués visés à l’article 46, alinéa 1, sous 8).
@@ -17217,7 +17217,7 @@ que les délégués des assurés. Le nombre de voix dont dispose le président e
 au début de chaque séance du conseil d’administration en tenant compte des présences
 effectives.
 
-\3) Un règlement grand-ducal détermine les modalités de la désignation des délégués, du
+3\) Un règlement grand-ducal détermine les modalités de la désignation des délégués, du
 
 R. 7.1.09
 
@@ -17230,7 +17230,7 @@ membres qui participent par un tel moyen sont réputés présents pour le calcul
 et de la majorité au conseil. Les modalités de la tenue des séances du conseil
 d’administration sont précisées par le règlement d’ordre intérieur.
 
-\4) Les frais d’administration propres à la Caisse nationale de santé sont répartis entre
+4\) Les frais d’administration propres à la Caisse nationale de santé sont répartis entre
 
 L. 29.8.17,1er,20°
 
@@ -17240,7 +17240,7 @@ au cours du pénultième exercice.
 en œuvre les mesures nécessaires à la réalisation des objectifs fixés par le conseil
 d’administration dans le cadre de la planification triennale visée à l’article 408bis.
 
-5)
+5\)
 
 Par L. 9.8.18,1,40°, les termes « est assumée par » sont remplacés par les termes « incombe à ».
 L. 23.12.16,44: Mesures en matière d’assurance dépendance: réforme de l’assurance dépendance
@@ -17433,7 +17433,7 @@ handicapées et celui des personnes âgées.
 Le délégué du ministre ayant dans ses attributions la Sécurité sociale assure les fonctions L. 23.12.05,28,3°
 de président de la commission.
 
-5)
+5\)
 
 Alinéas renumérotés par L. 29.8.17,1er,27°,a).
 Alinéas renumérotés par L. 29.8.17,1er,27°,a).
@@ -17445,7 +17445,7 @@ sociale, ses attributions sont provisoirement exercées par la Commission consul
 décembre 2017.
 Par L. 29.8.17,1er,28°,a) la référence à l’article 48 est remplacée par une référence à l’article 46.
 
-6)
+6\)
 
 Pour chaque membre effectif il y a un membre suppléant. La commission peut L. 29.8.17,1er,28°,c)
 s’adjoindre des experts.
@@ -17574,23 +17574,23 @@ soins. 2) L’article 62 est applicable.
 L. 12.8.22,66,1°
 
 Les conventions déterminent obligatoirement:
-\1) l’engagement de fournir à la personne dépendante les aides et soins selon les L. 29.8.17,1er,30°,b)
+1\) l’engagement de fournir à la personne dépendante les aides et soins selon les L. 29.8.17,1er,30°,b)
 prestations requises arrêtées dans la synthèse de prise en charge visée à l’article 350,
 paragraphe 8 et de fournir ces prestations conformément aux dispositions relatives à
 la qualité;
-\2) les procédures et les modalités de documentation des normes de dotation et de L. 29.8.17,1er,30°,c)
+2\) les procédures et les modalités de documentation des normes de dotation et de L. 29.8.17,1er,30°,c)
 qualification du personnel visées à l’article 387bis;
-\3) l’engagement de dispenser les aides et soins de façon continue tous les jours de L. 23.12.05,30
+3\) l’engagement de dispenser les aides et soins de façon continue tous les jours de L. 23.12.05,30
 l’année;
-\4) les modalités de la documentation nécessaire à la facturation et au paiement des L. 29.8.17,1er,30°,d)
+4\) les modalités de la documentation nécessaire à la facturation et au paiement des L. 29.8.17,1er,30°,d)
 prestations fournies ainsi que de leur vérification;
-\5) les conditions et modalités suivant lesquelles la personne dépendante et le prestataire L. 23.12.05,30
+5\) les conditions et modalités suivant lesquelles la personne dépendante et le prestataire L. 23.12.05,30
 adhèrent au contrat de prise en charge et peuvent y mettre fin;
-\6) l’engagement de tenir une comptabilité suivant un plan comptable uniforme complété L. 19.12.08,40,(2)
+6\) l’engagement de tenir une comptabilité suivant un plan comptable uniforme complété L. 19.12.08,40,(2)
 par une partie analytique. Le plan comptable ainsi que les modalités et les règles de la
 comptabilité analytique sont fixés par l’organisme gestionnaire de l’assurance
 dépendance;
-\7) les modalités de la coordination des aides et soins et de tous les services autour de la L. 28.12.05,30
+7\) les modalités de la coordination des aides et soins et de tous les services autour de la L. 28.12.05,30
 personne dépendante, ainsi que les modalités de coopération entre les différents
 intervenants.
 
@@ -17738,33 +17738,33 @@ L’instruction a pour objet de constater dans le chef des prestataires visés a
 
 Livre V
 
-\1) toute inobservation des dispositions légales, réglementaires, statutaires et
+1\) toute inobservation des dispositions légales, réglementaires, statutaires et
 conventionnelles ayant abouti ou tenté d’aboutir à une demande, une prise en charge
 ou un versement indu d’une prestation en nature ou en espèces par l’assurance
 dépendance;
-\2) le refus d’accès à une information, l’absence de réponse ou la réponse fausse,
+2\) le refus d’accès à une information, l’absence de réponse ou la réponse fausse,
 incomplète ou abusivement tardive à toute demande de pièce justificative,
 d’information, d’accès à une information par l’institution de sécurité sociale
 compétente ou par l’ Administration d’évaluation et de contrôle de l’assurance
 dépendance;
-\3) tout agissement ayant pour effet de faire obstacle aux contrôles ou à la bonne gestion
+3\) tout agissement ayant pour effet de faire obstacle aux contrôles ou à la bonne gestion
 de l’institution de sécurité sociale compétente ou de l’ Administration d’évaluation et
 de contrôle de l’assurance dépendance;
-\4) tout manquement aux formalités administratives imposées par les dispositions légales,
+4\) tout manquement aux formalités administratives imposées par les dispositions légales,
 réglementaires, statutaires et conventionnelles;
-\5) le refus du prestataire de reporter dans le dossier de soins partagé les éléments issus L. 29.8.17,1er,35°,c)
+5\) le refus du prestataire de reporter dans le dossier de soins partagé les éléments issus L. 29.8.17,1er,35°,c)
 de chaque prestation d’aides et de soins, dès lors que l’assuré ne s’y est pas
 explicitement opposé;
-\6) l’exécution de prestations superflues ou inutilement onéreuses en violation de l’article L. 29.8.17,1er,35°,d)
+6\) l’exécution de prestations superflues ou inutilement onéreuses en violation de l’article L. 29.8.17,1er,35°,d)
 349, alinéas 3 et 4.
 (3) Pour chaque affaire le président désigne les quatre délégués suivant les modalités L. 17.12.10,1,58°
 suivantes:
-\1) deux délégués sont choisis par le président sur une liste de dix personnes établie par
+1\) deux délégués sont choisis par le président sur une liste de dix personnes établie par
 le conseil d’administration de la Caisse nationale de santé composé conformément à
 l’article 381. Six délégués figurant sur cette liste représentent les secteurs visés aux
 points 1 à 4 de l’article 46 et quatre délégués les secteurs visés aux points 5 à 7 du
 même article;
-\2) deux délégués sont choisis par le président sur une liste de dix personnes établie par
+2\) deux délégués sont choisis par le président sur une liste de dix personnes établie par
 chaque groupement professionnel signataire d’une convention prévue à l’article
 388bis.
 A défaut de listes présentées par le conseil d’administration de la Caisse nationale de santé
@@ -17816,11 +17816,11 @@ fonction de la nature et de la gravité des faits dont il est reconnu coupable:
 
 Livre V
 
-\1) une amende d’ordre au profit de l’organisme gestionnaire de l’assurance dépendance,
+1\) une amende d’ordre au profit de l’organisme gestionnaire de l’assurance dépendance,
 ne pouvant dépasser vingt-cinq mille euros. En cas de récidive dans un délai de deux
 ans l’amende d’ordre ne peut être ni inférieure à vingt-cinq mille euros ni supérieure à
 cinq cent mille euros;
-\2) la restitution, à la Caisse nationale de santé, des montants indûment perçus,
+2\) la restitution, à la Caisse nationale de santé, des montants indûment perçus,
 augmentés des intérêts légaux.
 
 Les jugements du Conseil arbitral de la sécurité sociale sont susceptibles d’appel devant
@@ -18161,7 +18161,7 @@ par les termes « fonctionnaire de l’État, un fonctionnaire y assimilé ou un
 de l’État ».
 Par L. 9.8.18,1,45°,c) l’alinéa 4 est abrogé.
 
-5)
+5\)
 
 R.18.2.09
 
@@ -18229,16 +18229,16 @@ par la présente loi, ses attributions sont provisoirement exercées par le cons
 Caisse de pension des employés privés en fonction au 31 décembre 2008.
 (2) En attendant la constitution de la Chambre des fonctionnaires et employés publics, issue des
 élections pour cette chambre professionnelle en 2010, sont prorogés:
-\1) le mandat du délégué au sein du conseil d’administration de l’Union des caisses de maladie qui
+1\) le mandat du délégué au sein du conseil d’administration de l’Union des caisses de maladie qui
 fera partie du conseil d’administration de la Caisse nationale de santé au titre de l’article 46, alinéa
 1, sous 4) du Code de la sécurité sociale;
-\2) les mandats des délégués au sein des comités directeurs de la Caisse de maladie des
+2\) les mandats des délégués au sein des comités directeurs de la Caisse de maladie des
 fonctionnaires et employés publics et de la Caisse de maladie des fonctionnaires et employés
 communaux;
-\3) les mandats des assesseurs auprès du Conseil arbitral et du Conseil supérieur de la sécurité
+3\) les mandats des assesseurs auprès du Conseil arbitral et du Conseil supérieur de la sécurité
 sociale pour les affaires relevant de la Caisse de maladie des fonctionnaires et employés publics
 et de la Caisse de maladie des fonctionnaires et employés communaux;
-\4) les mandats des suppléants des délégués visés aux points 1) et 2) ci-avant.
+4\) les mandats des suppléants des délégués visés aux points 1) et 2) ci-avant.
 Le groupe des fonctionnaires et employés communaux de la Chambre des fonctionnaires et employés
 publics désignera un délégué et un suppléant au titre de l’article 46, alinéa 1, sous 3) du Code de la
 sécurité sociale, dont le mandat prendra effet au 1er janvier 2009 et s’achèvera avec la désignation de
@@ -18502,41 +18502,41 @@ Chapitre II – Centre commun de la sécurité sociale
 
 Art. 413. L’institution de sécurité sociale dénommée « Centre commun de la sécurité L. 9.8.18,1,51°
 sociale » a pour missions:
-\1) l’affiliation des assurés d’après les dispositions y relatives en matière de sécurité
+1\) l’affiliation des assurés d’après les dispositions y relatives en matière de sécurité
 sociale;
-\2) le calcul, la perception et le recouvrement des cotisations de sécurité sociale ainsi que,
+2\) le calcul, la perception et le recouvrement des cotisations de sécurité sociale ainsi que,
 sur demande des chambres professionnelles, des cotisations qui leur sont légalement
 dues;
 
 R. 4.11.10
 R. 17.12.10
 
-\3) la comptabilisation des cotisations et la répartition de celles-ci entre les différentes
+3\) la comptabilisation des cotisations et la répartition de celles-ci entre les différentes
 institutions et chambres professionnelles;
-\4) la liquidation des rémunérations et des pensions du personnel des différentes L. 12.8.22,69
+4\) la liquidation des rémunérations et des pensions du personnel des différentes L. 12.8.22,69
 institutions de sécurité sociale et du Fonds national de solidarité ;
-\5) l’organisation de l’informatisation, le développement et l’implémentation des L. 9.8.18,1,51°
+5\) l’organisation de l’informatisation, le développement et l’implémentation des L. 9.8.18,1,51°
 applications informatiques, la mise à disposition de l’infrastructure informatique,
 l’exploitation informatique et la gestion de la sécurité informatique pour le compte des
 différentes institutions de sécurité sociale, du Fonds national de solidarité, de
 l’Administration d’évaluation et de contrôle de l’assurance dépendance et du Contrôle
 médical de la sécurité sociale dans le cadre des missions légales, réglementaires et
 statutaires dévolues à ces établissements publics et administrations;
-\6) la centralisation et le traitement informatique des données pour le compte des
+6\) la centralisation et le traitement informatique des données pour le compte des
 différentes institutions de sécurité sociale, du Fonds national de solidarité, des
 administrations prévues au point 5), de l’Agence pour le développement de l’emploi,
 de l’Inspection générale de la sécurité sociale et des administrations compétentes pour
 
 l’application des régimes spéciaux de pensions dans le cadre des missions légales,
 réglementaires et statutaires dévolues à ces établissements publics et administrations;
-\7) la réalisation de projets et d’études lui confiés dans le cadre de ses missions par les
+7\) la réalisation de projets et d’études lui confiés dans le cadre de ses missions par les
 établissements publics et administrations prévus au point 6);
-\8) la fourniture à l’Inspection générale de la sécurité sociale de toutes données
+8\) la fourniture à l’Inspection générale de la sécurité sociale de toutes données
 nécessaires à l’accomplissement de ses missions;
-\9) la fourniture au ministre ayant le Travail et l’Emploi dans ses attributions ainsi qu’aux
+9\) la fourniture au ministre ayant le Travail et l’Emploi dans ses attributions ainsi qu’aux
 administrations et services qui en relèvent des données nécessaires à l’application de
 la législation du travail;
-\10) la mise à disposition aux assurés et aux ayants droit d’un titre de légitimation sur
+10\) la mise à disposition aux assurés et aux ayants droit d’un titre de légitimation sur
 support matériel ou électronique.
 
 L’organisation et le fonctionnement du Centre ainsi que ses relations avec les institutions
@@ -18549,15 +18549,15 @@ comprenant:
 
 R. 9.12.08
 
-\1) les présidents de la Caisse nationale de santé, de la Caisse nationale d’assurance
+1\) les présidents de la Caisse nationale de santé, de la Caisse nationale d’assurance
 pension, de l’Association d’assurance accident, de la Caisse pour l’avenir des
 enfants 1) et du Fonds national de solidarité ou leurs délégués;
-\2) cinq délégués des assurés du secteur privé désignés par la Chambre des salariés;
-\3) un délégué des assurés du secteur public désigné par la Chambre des fonctionnaires
+2\) cinq délégués des assurés du secteur privé désignés par la Chambre des salariés;
+3\) un délégué des assurés du secteur public désigné par la Chambre des fonctionnaires
 et employés publics;
-\4) cinq délégués des employeurs désignés par la Chambre de commerce et la Chambre
+4\) cinq délégués des employeurs désignés par la Chambre de commerce et la Chambre
 des métiers;
-\5) un délégué désigné par la Chambre d’agriculture.
+5\) un délégué désigné par la Chambre d’agriculture.
 
 Livre VI
 
@@ -18582,15 +18582,15 @@ Il lui appartient notamment:
 
 L. 9.8.18,1,53°,a)
 
-\1) d’établir la planification triennale prévue par l’article 408bis, qui comprend également
+1\) d’établir la planification triennale prévue par l’article 408bis, qui comprend également
 le schéma directeur informatique du Centre, et de statuer sur la mise à jour annuelle
 visée à l’article 408bis;
-\2) de déterminer les règles de gouvernance prévues par l’article 408bis;
-\3) d’arrêter le budget annuel;
-\4) de statuer sur le bilan annuel;
-\5) de prendre les décisions concernant le personnel;
-\6) d’établir son règlement d’ordre intérieur;
-\7) d’établir un code de conduite.
+2\) de déterminer les règles de gouvernance prévues par l’article 408bis;
+3\) d’arrêter le budget annuel;
+4\) de statuer sur le bilan annuel;
+5\) de prendre les décisions concernant le personnel;
+6\) d’établir son règlement d’ordre intérieur;
+7\) d’établir un code de conduite.
 
 Les décisions visées aux points 3), 4) et 6) 2) ci-avant sont soumises à l’approbation du L. 13.5.08,2,22°
 ministre ayant dans ses attributions la Sécurité sociale sur avis de l’Inspection générale de
@@ -18718,15 +18718,15 @@ Art. 423. L’Inspection générale a pour missions:
 
 L. 9.8.18,1,55°
 
-\1) de contribuer à l’élaboration des mesures législatives et réglementaires en matière de
+1\) de contribuer à l’élaboration des mesures législatives et réglementaires en matière de
 sécurité sociale;
-\2) d’assurer le contrôle des institutions de sécurité sociale qui en vertu des lois et
+2\) d’assurer le contrôle des institutions de sécurité sociale qui en vertu des lois et
 règlements est exercé par le Gouvernement ou un membre du Gouvernement;
-\3) de participer à tout travail d’élaboration et d’exécution en rapport avec les règlements
+3\) de participer à tout travail d’élaboration et d’exécution en rapport avec les règlements
 de l’Union européenne et les conventions multi- ou bilatérales en matière de
 coordination des systèmes de sécurité sociale et en rapport avec les normes des
 institutions internationales œuvrant dans le domaine de la protection sociale;
-\4) de réaliser des analyses et des études à des fins d’évaluation et de planification des
+4\) de réaliser des analyses et des études à des fins d’évaluation et de planification des
 régimes de protection sociale et de recueillir à ces fins les données auxquelles
 l’Inspection générale a accès en vertu des dispositions légales et réglementaires en
 vigueur, de les centraliser, de les traiter et de les gérer sous forme pseudonymisée. 1)
@@ -18942,7 +18942,7 @@ de crise. (JO, Mém. A 238 du 3 avril 2020).
 Dérogé par L. 20.6.20, 2 : Par dérogation à l’article 428, alinéa 4, du Code de la sécurité sociale, les
 cotisations non payées à l’échéance ne produisent pas d’intérêts moratoires pendant les périodes se
 situant entre le premier jour du mois qui suit la déclaration de l’état de crise précitée et le 31 décembre
-\2020. (JO, Mém A 511 du 21 juin 2020).
+2020\. (JO, Mém A 511 du 21 juin 2020).
 L.29.1.21,3 : Par dérogation à l’article 428, alinéa 4, du Code de la sécurité sociale, les cotisations non
 payées à l’échéance ne produisent pas d’intérêts moratoires pendant la période se situant entre le
 1er janvier 2021 et le 30 juin 2021. (JO, Mém. A 83 du 31 janvier 2021)
@@ -19051,11 +19051,11 @@ Saisissabilité et cessibilité des droits
 
 Art. 440. A l’exception des rentes et pensions, les autres droits dérivant de la présente loi
 peuvent être engagés, cédés ou saisis sans limitation pour couvrir:
-\1) une avance qui a été faite à l’intéressé sur ses droits par son employeur, une institution
+1\) une avance qui a été faite à l’intéressé sur ses droits par son employeur, une institution
 de sécurité sociale ou le Fonds national de solidarité;
-\2) les créances qui compètent aux communes, aux offices sociaux et au Fonds national
+2\) les créances qui compètent aux communes, aux offices sociaux et au Fonds national
 de solidarité, en vertu des articles 127 et 235 1);
-\3) les créances résultant des articles 203, 205, 206, 207, 212, 214, 230, 235, 359 et 385 2)
+3\) les créances résultant des articles 203, 205, 206, 207, 212, 214, 230, 235, 359 et 385 2)
 du Code civil.
 Dans tous les autres cas les prestations autres que les rentes et pensions prévues par la
 présente loi ne peuvent être cédées ni saisies. 3)
@@ -19140,11 +19140,11 @@ Dispositions pénales
 Art. 449. Sont punis d’une amende de deux cent cinquante et un euros à six mille deux cent
 cinquante euros, à moins qu’une peine plus forte ne résulte d’une autre disposition légale
 ou réglementaire:
-\1) le chef d’entreprise, le patron ou l’employé qui, sciemment, aura exclu, par des
+1\) le chef d’entreprise, le patron ou l’employé qui, sciemment, aura exclu, par des
 conventions ou des règlements de travail, l’application totale ou partielle des
 dispositions de la présente loi, au détriment des assurés, ou restreint la liberté de ceuxci dans l’acceptation ou l’exercice d’une fonction honorifique leur conférée par la
 même loi;
-\2) le chef d’entreprise, le patron ou l’employé qui, sciemment, aura opéré, sur les salaires
+2\) le chef d’entreprise, le patron ou l’employé qui, sciemment, aura opéré, sur les salaires
 des assurés, des retenues non autorisées par la loi;
 
 Si, dans ce dernier cas, le coupable a agi dans une intention frauduleuse ou méchante, le
@@ -19159,7 +19159,7 @@ publics pour une durée de trois mois à trois ans.
 
 Livre VI
 
-\3) le chef d’entreprise ou le patron qui n’aura pas employé aux fins de l’assurance les
+3\) le chef d’entreprise ou le patron qui n’aura pas employé aux fins de l’assurance les
 retenues par lui opérées, en vertu de la présente loi, sur les salaires des personnes qu’il
 occupe.
 
@@ -19245,15 +19245,15 @@ des régimes légaux de pension, le président statue seul.
 Le nombre des assesseurs-assurés siégeant en matière d’assurance maladie maternité,
 d’assurance accidents et d’assurance pension au Conseil arbitral et au Conseil supérieur
 de la sécurité sociale est fixé respectivement:
-\1) à vingt-cinq et à dix pour les assurés relevant de la compétence de la Caisse nationale
+1\) à vingt-cinq et à dix pour les assurés relevant de la compétence de la Caisse nationale
 de santé;
-\2) à trois et à trois pour les assurés relevant de la compétence de la Caisse de maladie
+2\) à trois et à trois pour les assurés relevant de la compétence de la Caisse de maladie
 des fonctionnaires et employés publics et pour ceux relevant de la compétence de la
 Caisse de maladie des fonctionnaires et employés communaux;
-\3) à trois et à trois pour les assurés relevant de la compétence de l’Entraide médicale de
+3\) à trois et à trois pour les assurés relevant de la compétence de l’Entraide médicale de
 la société nationale des chemins de fer luxembourgeois.
 
-5)
+5\)
 
 Suspension provisoire des délais pendant l'état de crise COVID 19 par le règlement grand-ducal du
 22 avril 2020 portant suspension des délais en matière de recours non-contentieux et contentieux de la
@@ -19271,12 +19271,12 @@ R. 9.12.08
 Le nombre des assesseurs-employeurs siégeant en matière d’assurance maladie
 maternité, d’assurance accidents et d’assurance pension au Conseil arbitral et au Conseil
 supérieur de la sécurité sociale est fixé respectivement:
-\1) à vingt-cinq et à dix pour les employeurs relevant de la compétence de la Caisse
+1\) à vingt-cinq et à dix pour les employeurs relevant de la compétence de la Caisse
 nationale de santé;
-\2) à trois et à trois pour les employeurs relevant de la compétence de la Caisse de maladie
+2\) à trois et à trois pour les employeurs relevant de la compétence de la Caisse de maladie
 des fonctionnaires et employés publics et pour ceux relevant de la compétence de la
 Caisse de maladie des fonctionnaires et employés communaux;
-\3) à trois et à trois pour les employeurs relevant de la compétence de l’Entraide médicale
+3\) à trois et à trois pour les employeurs relevant de la compétence de l’Entraide médicale
 de la société nationale des chemins de fer luxembourgeois.
 Les assesseurs-assurés et les assesseurs-employeurs sont nommés par le ministre ayant
 dans ses attributions la Sécurité sociale pour une durée de cinq ans sur base d’une liste de
@@ -19412,9 +19412,9 @@ avec sommation d'effectuer dans les quinze jours le dépôt de tous les document
 l'action intentée qui se trouvent en sa possession ou dont elle entend se servir en cours
 d'instance.
 
-5)
+5\)
 
-6)
+6\)
 
 L. 4.6.24,15,1° : Les alinéas 1er et 2 sont supprimés.
 L.4.6.24,15,2°,a) : Les termes « articles 72bis, 73 et 257 » sont remplacés par les termes « articles 70,
@@ -19715,7 +19715,7 @@ formé sa demande dans les trente jours à partir de celui où il a eu connaissa
 de la notification.
 
 Art. 459. Les décisions prises en application des articles 9 à 16 et 97, alinéa 2, points 2) et L. 12.8.22,75
-\3) sont communiquées en copies à l’employeur ou à l’assuré par simple lettre à la poste.
+3\) sont communiquées en copies à l’employeur ou à l’assuré par simple lettre à la poste.
 
 En ce qui concerne les décisions prises en application de l’article 187, il y a lieu de
 communiquer à l’employeur les décisions d’octroi.
@@ -20003,7 +20003,7 @@ de la fin de l’état de crise. (JO, Mém. A 266 du 8 avril 2020)
 
 maladie
 
-5)
+5\)
 
 L. 19.12.20,3 et 4:
 
@@ -20150,22 +20150,22 @@ Art. L. 125-3. Le contrat de travail cesse de plein droit le jour de l’attribu
 pension de vieillesse et au plus tard à l’âge de soixante-cinq ans à condition qu’il ait droit à une
 pension de vieillesse.
 Art. L. 125-4. Le contrat de travail cesse de plein droit:
-\1. le jour de la décision portant attribution au salarié d’une pension d’invalidité; au cas où le
+1\. le jour de la décision portant attribution au salarié d’une pension d’invalidité; au cas où le
 salarié continue à exercer ou reprend une activité professionnelle en conformité avec les
 dispositions légales régissant la pension d’invalidité, un nouveau contrat de travail peut
 être conclu;
-\2. le jour de l’épuisement des droits du salarié à l’indemnité pécuniaire de maladie lui
+2\. le jour de l’épuisement des droits du salarié à l’indemnité pécuniaire de maladie lui
 accordée conformément à l’article 9, alinéa 1 du Code de la sécurité sociale;
-\3. pour le salarié qui présente une incapacité d’exercer son dernier poste de travail, le jour de
+3\. pour le salarié qui présente une incapacité d’exercer son dernier poste de travail, le jour de
 la notification de la décision de la commission mixte retenant un reclassement
 professionnel externe;
 
 Par L. 7.8.15,6,2° les termes « après l’expiration de la période visée au paragraphe (3), alinéa 1er » sont
 remplacés par les termes « après l’expiration des périodes visées au paragraphe (3), alinéas 1 et 2 ».
 
-\4. le jour du retrait de la reconnaissance de la qualité de salarié handicapé à la personne
+4\. le jour du retrait de la reconnaissance de la qualité de salarié handicapé à la personne
 handicapée;
-\5. le jour où la confirmation de la décision de réorientation vers le marché du travail ordinaire
+5\. le jour où la confirmation de la décision de réorientation vers le marché du travail ordinaire
 est notifiée au salarié handicapé par la Commission d’orientation ou par les juridictions
 compétentes.
 [...]
@@ -20389,9 +20389,9 @@ partiel prévu aux articles L. 511-1 et suivants du même Code pendant la pério
 est sollicité et qu’aucun autre moyen de garde ne soit disponible. (JO, Mém. A 203 du 27 mars 2020)
 R. 20.5.20, 1er : Par dérogation à l’article L. 234-51, alinéa 1er du Code du travail peut également
 prétendre au congé pour raisons familiales le salarié ou le travailleur indépendant ayant à charge :
-\1. un enfant vulnérable à condition de produire un certificat médical attestant cette vulnérabilité ;
-\2. un enfant né à partir du 1er septembre 2015 ;
-\3. un enfant scolarisé de moins de treize ans dont l’école est fermée ou dont les cours restent suspendus
+1\. un enfant vulnérable à condition de produire un certificat médical attestant cette vulnérabilité ;
+2\. un enfant né à partir du 1er septembre 2015 ;
+3\. un enfant scolarisé de moins de treize ans dont l’école est fermée ou dont les cours restent suspendus
 pour des raisons directement liées à la crise sanitaire ou qui ne peut être pris en charge par aucune école
 ou structure d’accueil en raison de la mise en œuvre d’un plan de prise en charge en alternance des
 élèves ou de l’application de mesures barrière imposées, à condition de produire un certificat attestant
@@ -20452,9 +20452,9 @@ dispositions de l’article L.125-1 et de l’article L.121-5, paragraphe 2, qua
 La résiliation du contrat effectuée en violation des dispositions du présent paragraphe est
 abusive.
 
-5)
+5\)
 
-6)
+6\)
 
 L. 15.12.17,2:
 Les jours de congé pour raisons familiales déjà pris au moment de l’entrée en vigueur de la présente loi
@@ -20468,7 +20468,7 @@ Par R. 25.3.2020 les termes « et la condition d’hospitalisation ne s’appliq
 durée de l'état de crise fixé par L. 23.03.20. (JO, Mém. A. 191 du 25 mars 2020)
 L.22.1.21, 5: Par dérogation à l’article L. 234-52, alinéa 5, du même code, la durée du congé pour raisons
 familiales peut également être prorogée dans les cas visés à l’article 4. (JO, Mém. A 45 du 22 janvier
-2021)
+2021\)
 L.22.1.21, 6: Par dérogation à l’article L. 234-53 du même code, l’absence du salarié bénéficiaire d’un
 congé pour raisons familiales pris par dérogation à l’article L. 234-51, alinéa 1er, du Code du travail est
 justifiée par un certificat médical pour les cas visés à l’article 4, point 1°, et par un certificat émanant du
@@ -20818,17 +20818,17 @@ de l’Inspection du travail et des mines ou son remplaçant.
 
 L. 23.7.15,I,5°,a)
 
-\1) La demande en réexamen doit être introduite sous peine de forclusion avant l’expiration d’un
+1\) La demande en réexamen doit être introduite sous peine de forclusion avant l’expiration d’un
 
 L. 31.7.06,annexe
 
 délai de 40 jours à dater de la notification du constat. Le médecin chef de division décidera
 également si la décision du médecin du travail du service compétent est suspensive de travail
 et s’il existe un danger immédiat pour la santé du salarié.
-\1) Contre la décision du médecin chef de division de la direction de la santé un recours est
+1\) Contre la décision du médecin chef de division de la direction de la santé un recours est
 
 ouvert devant le Conseil arbitral des assurances sociales.
-\1) L’appel contre le jugement du Conseil arbitral est porté devant le Conseil supérieur de la
+1\) L’appel contre le jugement du Conseil arbitral est porté devant le Conseil supérieur de la
 
 sécurité sociale.
 
@@ -20847,18 +20847,18 @@ règlement grand-ducal peut adapter la procédure aux particularités de la mati
 conclusions des examens d’embauchage ne sont pas sujettes à recours.
 Art. L. 327-2. Sont punis d’un emprisonnement de huit jours à six mois et d’une amende de
 251 à 25.000 euros ou d’une de ces peines seulement:
-\1. tout employeur qui occupe un salarié qui ne s’est pas soumis à un des examens médicaux
+1\. tout employeur qui occupe un salarié qui ne s’est pas soumis à un des examens médicaux
 prévus aux articles L. 326-1 à L. 326-9 ou aux règlements grand-ducaux pris en leur
 exécution;
-\2. tout employeur qui occupe un salarié visé sous l’article L. 326-9 malgré l’interdiction qui lui
+2\. tout employeur qui occupe un salarié visé sous l’article L. 326-9 malgré l’interdiction qui lui
 en est faite en vertu de cet article;
-\3. tout employeur dont le service n’est pas conforme aux exigences prévues à l’article L. 3221, et notamment tout employeur qui, bien qu’étant dans les conditions prévues au dit
+3\. tout employeur dont le service n’est pas conforme aux exigences prévues à l’article L. 3221, et notamment tout employeur qui, bien qu’étant dans les conditions prévues au dit
 article, n’organise pas un service;
-\4. tout employeur, membre d’une association d’entreprises, dont le service n’est pas
+4\. tout employeur, membre d’une association d’entreprises, dont le service n’est pas
 conforme aux exigences prévues à l’article L. 322-1;
-\5. tout employeur qui refuse ou fait refuser au médecin du travail l’exécution des mesures
+5\. tout employeur qui refuse ou fait refuser au médecin du travail l’exécution des mesures
 inscrites à l’article L. 325-3;
-\6. tout employeur ou tout médecin du travail qui contrevient à l’article L. 326-3, dernier alinéa.
+6\. tout employeur ou tout médecin du travail qui contrevient à l’article L. 326-3, dernier alinéa.
 En cas de récidive dans les deux ans, ces peines peuvent être portées au double du maximum.
 
 TITRE III - Emploi de personnes enceintes, accouchées et allaitantes 6)
@@ -20872,23 +20872,23 @@ maladie
 
 Art. L. 331-2. Aux fins du présent titre, le terme 1. «femme salariée» désigne toute femme
 tombant sous le champ d’application du présent titre;
-\2. « femme enceinte » désigne toute femme salariée en état de grossesse, qui a informé
+2\. « femme enceinte » désigne toute femme salariée en état de grossesse, qui a informé
 l’employeur de son état par certificat médical envoyé par lettre recommandée à la poste;
-\3. « femme allaitante » désigne toute femme salariée allaitant son enfant au-delà de la période L. 15.12.17,1er,9°
+3\. « femme allaitante » désigne toute femme salariée allaitant son enfant au-delà de la période L. 15.12.17,1er,9°
 de douze semaines suivant l’accouchement et qui en informe son employeur par certificat
 médical envoyé par lettre recommandée à la poste. Ce certificat médical doit être reproduit à
 la demande de l’employeur en vue de la continuation de l’application des dispositions des
 chapitres III, IV, V et VI du présent titre ainsi que des articles L.336-2 et L.336-3, sans que des
 demandes successives à cet effet ne puissent être faites à intervalles trop rapprochés;
-\4. « accouchement prématuré » désigne l’accouchement avant l’achèvement de la trente- L. 31.7.06,annexe
+4\. « accouchement prématuré » désigne l’accouchement avant l’achèvement de la trente- L. 31.7.06,annexe
 septième semaine de grossesse.
 (alinéa abrogé)
 (alinéa abrogé)
 
-5)
-6)
+5\)
+6\)
 
-7)
+7\)
 
 Alinéas renumérotés par L. 23.7.15,I,5°,a).
 Par L. 23.7.15,I,5°,b) la référence aux articles 293 et suivants du Code de la sécurité sociale est
@@ -21189,17 +21189,17 @@ A voir arrêt de la Cour constitutionnelle du 24 novembre 2017 (JO, Mém. A 1009
 
 (2) Toutefois, les conditions d’ancienneté et d’exigence du certificat d’aptitude prévues au L. 24.7.20,3,1°,a)
 paragraphe 1er ne sont pas exigées pour :
-\1. Le bénéficiaire d’une pension d’invalidité auquel cette dernière a été accordée L. 23.7.15,I,8°
+1\. Le bénéficiaire d’une pension d’invalidité auquel cette dernière a été accordée L. 23.7.15,I,8°
 immédiatement à la suite de l’exercice d’une activité salariée auquel celle-ci a été retirée
 en vertu de l’article 193 du Code de la sécurité sociale au motif qu’il ne remplit plus les
 conditions prévues à l’article 187 du même Code, mais qui présente une incapacité pour
 exécuter les tâches correspondant à son dernier poste de travail;
-\2. le salarié qui présente une incapacité pour exécuter les tâches correspondant au dernier L. 24.7.20,3,1°,b)
+2\. le salarié qui présente une incapacité pour exécuter les tâches correspondant au dernier L. 24.7.20,3,1°,b)
 poste de travail imputable principalement aux séquelles d’un accident du travail ou d’une
 maladie professionnelle reconnus en vertu des dispositions du Code de la sécurité sociale,
 survenus pendant l’affiliation, ouvrant droit à une rente partielle ou une rente
 professionnelle d’attente.
-\3. le bénéficiaire d’une rente complète résultant d’une activité salariée allouée en vertu de L. 23.7.15,I,10°
+3\. le bénéficiaire d’une rente complète résultant d’une activité salariée allouée en vertu de L. 23.7.15,I,10°
 l’article 102 du Code de la sécurité sociale auquel celle-ci est retirée en application de
 l’article 123, alinéa 5 du Code de la sécurité sociale au motif qu’il n’est plus frappé d’une
 incapacité de travail totale, mais qui présente une incapacité pour exécuter les tâches
@@ -21803,20 +21803,20 @@ reclassement interne.
 
 L. 31.7.06,annexe
 
-\1. de deux délégués représentant les assurés;
-\2. de deux délégués des employeurs;
+1\. de deux délégués représentant les assurés;
+2\. de deux délégués des employeurs;
 
-\5. d’un délégué du ministre ayant dans ses attributions le Travail et l’Emploi;
+5\. d’un délégué du ministre ayant dans ses attributions le Travail et l’Emploi;
 
 maladie
 
-\3. d’un délégué du Contrôle médical de la sécurité sociale;
-\4. d’un délégué du ministre ayant la Direction de la santé dans ses attributions;
+3\. d’un délégué du Contrôle médical de la sécurité sociale;
+4\. d’un délégué du ministre ayant la Direction de la santé dans ses attributions;
 
 L. 24.7.20,11,2°
 L. 31.7.06,annexe
 
-\6. d’un délégué de l’Agence pour le développement de l’emploi.
+6\. d’un délégué de l’Agence pour le développement de l’emploi.
 Pour chaque membre effectif, il y a un membre suppléant.
 La Commission mixte est assistée par des fonctionnaires du service des salariés à capacité de
 travail réduite de l’Agence pour le développement de l’emploi auxquels elle peut déléguer
@@ -21905,16 +21905,16 @@ L’Agence pour le développement de l’emploi peut faire bénéficier le deman
 reclassement professionnel externe d’une formation professionnelle continue s’il lui adresse
 une telle demande de sa propre initiative.
 Cette demande doit être accompagnée des pièces suivantes :
-\1. une requête motivée contenant la présentation du projet professionnel ;
-\2. l’identité de l’institut de formation, accompagnée du justificatif du choix de cet institut et
+1\. une requête motivée contenant la présentation du projet professionnel ;
+2\. l’identité de l’institut de formation, accompagnée du justificatif du choix de cet institut et
 d’une copie de l’agrément du ministre ayant la Formation professionnelle continue dans
 ses attributions s’il s’agit d’un institut luxembourgeois ;
-\3. s’il s’agit d’un institut étranger, l’avis du ministre ayant la Formation professionnelle
+3\. s’il s’agit d’un institut étranger, l’avis du ministre ayant la Formation professionnelle
 continue dans ses attributions est à joindre ;
-\4. le programme détaillé de la formation professionnelle continue ;le coût de la formation
+4\. le programme détaillé de la formation professionnelle continue ;le coût de la formation
 professionnelle continue, toutes taxes comprises ;
-\5. la durée de la formation professionnelle continue ainsi que son début et sa fin ;
-\6. le cas échéant, une information sur le diplôme respectivement le certificat sanctionnant la
+5\. la durée de la formation professionnelle continue ainsi que son début et sa fin ;
+6\. le cas échéant, une information sur le diplôme respectivement le certificat sanctionnant la
 formation professionnelle continue.
 L’Agence pour le développement de l’emploi peut exiger du demandeur d’emploi qui bénéficie
 du reclassement professionnel externe de suivre une formation professionnelle continue
@@ -21969,15 +21969,15 @@ maladie
 Loi du 16 mars 2009 relative aux soins palliatifs, à la directive anticipée et
 à l’accompagnement en fin de vie
 et modifiant
-\1. le Code de la sécurité sociale;
-\2. la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de
+1\. le Code de la sécurité sociale;
+2\. la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de
 l’État;
 
 maladie
 
-\3. la loi modifiée du 24 décembre 1985 fixant le statut général des
+3\. la loi modifiée du 24 décembre 1985 fixant le statut général des
 fonctionnaires communaux;
-\4. le Code du travail.
+4\. le Code du travail.
 
 maladie
 
@@ -22267,17 +22267,17 @@ conditions et procédure
 Art. 2. 1. N’est pas sanctionné pénalement et ne peut donner lieu à une action civile en
 dommages-intérêts le fait par un médecin de répondre à une demande d’euthanasie ou
 d’assistance au suicide, si les conditions de fond suivantes sont remplies:
-\1) le patient est majeur capable et conscient au moment de sa demande;
-\2) la demande est formulée de manière volontaire, réfléchie et, le cas échéant, répétée, et
+1\) le patient est majeur capable et conscient au moment de sa demande;
+2\) la demande est formulée de manière volontaire, réfléchie et, le cas échéant, répétée, et
 elle ne résulte pas d’une pression extérieure;
-\3) le patient se trouve dans une situation médicale sans issue et fait état d’une souffrance
+3\) le patient se trouve dans une situation médicale sans issue et fait état d’une souffrance
 physique ou psychique constante et insupportable sans perspective d’amélioration,
 résultant d’une affection accidentelle ou pathologique;
-\4) la demande du patient d’avoir recours à une euthanasie ou une assistance au suicide
+4\) la demande du patient d’avoir recours à une euthanasie ou une assistance au suicide
 est consignée par écrit.
-\2. Le médecin doit dans tous les cas, avant de procéder à une euthanasie ou une aide au
+2\. Le médecin doit dans tous les cas, avant de procéder à une euthanasie ou une aide au
 suicide, respecter les conditions de forme et de procédure suivantes:
-\1) informer le patient de son état de santé et de son espérance de vie, se concerter avec
+1\) informer le patient de son état de santé et de son espérance de vie, se concerter avec
 le patient sur sa demande d’euthanasie ou d’assistance au suicide et évoquer avec lui
 les possibilités thérapeutiques encore envisageables ainsi que les possibilités
 qu’offrent les soins palliatifs et leurs conséquences. Il doit arriver à la conviction que la
@@ -22287,11 +22287,11 @@ médical, la consignation valant preuve de l’information;
 
 maladie
 
-\2) s’assurer de la persistance de la souffrance physique ou psychique du patient et de sa
+2\) s’assurer de la persistance de la souffrance physique ou psychique du patient et de sa
 volonté exprimée récemment respectivement réitérée. A cette fin, il mène avec le
 patient plusieurs entretiens, espacés d’un délai raisonnable au regard de l’évolution de
 l’état du patient;
-\3) consulter un autre médecin quant au caractère grave et incurable de l’affection, en
+3\) consulter un autre médecin quant au caractère grave et incurable de l’affection, en
 précisant les raisons de la consultation. Le médecin consulté prend connaissance du
 dossier médical, examine le patient et s’assure du caractère constant, insupportable et
 sans perspective d’amélioration de sa souffrance physique ou psychique. Il rédige un
@@ -22299,14 +22299,14 @@ rapport concernant ses constatations. Le médecin consulté doit être impartial
 l’égard du patient qu’à l’égard du médecin traitant et être compétent quant à la
 pathologie concernée. Le médecin traitant informe le patient concernant les résultats
 de cette consultation;
-\4) sauf opposition du patient, s’entretenir de sa demande avec l’équipe soignante en
+4\) sauf opposition du patient, s’entretenir de sa demande avec l’équipe soignante en
 contact régulier avec le patient ou des membres de celle-ci;
-\5) sauf opposition du patient, s’entretenir de sa demande avec la personne de confiance
+5\) sauf opposition du patient, s’entretenir de sa demande avec la personne de confiance
 que celui-ci désigne dans ses dispositions de fin de vie ou au moment de sa demande
 d’euthanasie ou d’assistance au suicide;
-\6) s’assurer que le patient a eu l’occasion de s’entretenir de sa demande avec les
+6\) s’assurer que le patient a eu l’occasion de s’entretenir de sa demande avec les
 personnes qu’il souhaitait rencontrer;
-\7) s’informer auprès de la Commission Nationale de Contrôle et d’Evaluation si des
+7\) s’informer auprès de la Commission Nationale de Contrôle et d’Evaluation si des
 dispositions de fin de vie au nom du patient y sont enregistrées.
 La demande du patient doit être actée par écrit. Le document est rédigé, daté et signé par le
 patient lui-même. S’il se trouve dans l’impossibilité physique permanente de rédiger et de
@@ -22346,7 +22346,7 @@ majeure, qui met le médecin traitant au courant de la volonté du déclarant se
 déclarations à son égard.
 Les dispositions de fin de vie peuvent être faites à tout moment. Elles doivent être constatées
 par écrit, datées et signées par le déclarant.
-\2. Si la personne qui souhaite rédiger des dispositions de fin de vie est dans l’impossibilité
+2\. Si la personne qui souhaite rédiger des dispositions de fin de vie est dans l’impossibilité
 physique permanente de rédiger et de signer, ses dispositions de fin de vie peuvent être actées
 par écrit par une personne majeure de son choix. Les dispositions de fin de vie se feront en
 présence de deux témoins majeurs. Les dispositions de fin de vie doivent alors préciser que le
@@ -22377,28 +22377,28 @@ ces dispositions par les médecins en charge d’une personne en fin de vie peuv
 déterminées par règlement grand-ducal.
 Ce règlement pourra proposer une formule de disposition de fin de vie dont les déclarants
 peuvent se servir.
-\3. N’est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommagesintérêts, le fait par un médecin de répondre à une demande d’euthanasie à la suite de
+3\. N’est pas sanctionné pénalement et ne peut donner lieu à une action civile en dommagesintérêts, le fait par un médecin de répondre à une demande d’euthanasie à la suite de
 dispositions de fin de vie telles que prévues aux paragraphes 1er et 2, si le médecin constate:
-\1) que le patient est atteint d’une affection accidentelle ou pathologique grave et
+1\) que le patient est atteint d’une affection accidentelle ou pathologique grave et
 incurable,
-\2) qu’il est inconscient,
-\3) que cette situation est irréversible selon l’état actuel de la science.
+2\) qu’il est inconscient,
+3\) que cette situation est irréversible selon l’état actuel de la science.
 Le médecin doit, dans tous les cas et avant de procéder à l’euthanasie, respecter les conditions
 de forme et de procédure suivantes:
-\1) consulter un autre médecin quant à l’irréversibilité de la situation médicale du patient,
+1\) consulter un autre médecin quant à l’irréversibilité de la situation médicale du patient,
 en l’informant des raisons de cette consultation. Le médecin consulté prend
 connaissance du dossier médical et examine le patient. Il rédige un rapport de ses
 constatations. Si une personne de confiance est désignée dans les dispositions de fin
 de vie, le médecin traitant met cette personne de confiance au courant des résultats de
 cette consultation. Le médecin consulté doit être impartial à l’égard du patient ainsi
 qu’à l’égard du médecin traitant et être compétent quant à la pathologie concernée;
-\2) s’il existe une équipe soignante en contact régulier avec le patient, s’entretenir du
+2\) s’il existe une équipe soignante en contact régulier avec le patient, s’entretenir du
 contenu des dispositions de fin de vie avec l’équipe soignante ou des membres de
 celle-ci;
-\3) si les dispositions de fin de vie désignent une personne de confiance, s’entretenir avec
+3\) si les dispositions de fin de vie désignent une personne de confiance, s’entretenir avec
 elle de la volonté du patient;
 
-\4) si les dispositions de fin de vie désignent une personne de confiance, s’entretenir de la
+4\) si les dispositions de fin de vie désignent une personne de confiance, s’entretenir de la
 volonté du patient avec les proches du patient que la personne de confiance désigne.
 Les dispositions de fin de vie ainsi que l’ensemble des démarches du médecin traitant et leur
 résultat, y compris le rapport du médecin consulté, sont consignés dans le dossier médical du
@@ -22412,7 +22412,7 @@ Commission Nationale de Contrôle et d’Evaluation visée à l’article 6 de l
 Chapitre V – La Commission Nationale de Contrôle et d’Evaluation
 Art. 6. 1. Il est institué une Commission Nationale de Contrôle et d’Evaluation de l’application
 de la présente loi, ci-après dénommée «la Commission».
-\2. La Commission se compose de neuf membres, désignés sur base de leurs connaissances
+2\. La Commission se compose de neuf membres, désignés sur base de leurs connaissances
 et de leur expérience dans les matières qui relèvent de la compétence de la Commission.
 Trois membres sont docteurs en médecine. Un membre est proposé par le Collège médical.
 L’organisation la plus représentative des médecins et médecins-dentistes propose deux
@@ -22440,7 +22440,7 @@ La qualité de membre de la Commission est incompatible avec le mandat de déput
 qualité de membre du gouvernement ou du Conseil d’État. La Commission élit parmi ses
 membres un président. La Commission ne peut délibérer valablement qu’à condition qu’au
 moins sept de ses membres soient présents. Elle prend ses décisions à la majorité simple.
-\3. La Commission établit son règlement d’ordre intérieur.
+3\. La Commission établit son règlement d’ordre intérieur.
 Art. 7. La Commission établit un document de déclaration officielle qui doit être complété par
 le médecin et adressé à la Commission chaque fois qu’il pratique une euthanasie.
 Ce document est composé de deux volets. Le premier volet doit être scellé par le médecin. Il
@@ -22614,12 +22614,12 @@ b) les personnes, qui le 10 mai 1940 étaient de nationalité luxembourgeoise et
 dans la suite la nationalité d’un pays allié, aux fins de s’enrôler dans les armées de ce pays
 et d’y combattre l’ennemi, si elles remplissent les autres conditions de dédommagement
 prévues sub a).
-\2. Pourront être indemnisés en tout ou en partie de l’accord du ministre compétent:
+2\. Pourront être indemnisés en tout ou en partie de l’accord du ministre compétent:
 a) les Luxembourgeois domiciliés à l’étranger devenus victimes politiques au sens des
 dispositions du titre II, exclusivement pour leur dommage politique et corporel;
 b) les apatrides et les étrangers domiciliés depuis 1930 au Grand-Duché et qui ont rendu des
 services signalés au pays.
-\3. Les personnes morales de nationalité luxembourgeoise d’après la législation actuellement
+3\. Les personnes morales de nationalité luxembourgeoise d’après la législation actuellement
 en vigueur sont admises au bénéfice de l’indemnisation pour dommages de guerre.
 Toutefois l’indemnisation n’a lieu pour les sociétés qu’au prorata de la participation
 luxembourgeoise dans le capital social. Il leur incombe d’établir la participation
@@ -22630,12 +22630,12 @@ Les restrictions prévues à l’alinéa qui précède ne s’appliquent ni aux 
 lucratif, ni aux établissements d’utilité publique, constitués en vertu de la loi du 21 avril 1928
 ou d’une loi spéciale, ni aux congrégations et associations religieuses, reconnues ou non par
 l’État, qui, établies au Grand-Duché, y exercent leur activité.
-\4. L’indemnisation ne tient pas compte des aménagements ou éléments purement somptuaires
+4\. L’indemnisation ne tient pas compte des aménagements ou éléments purement somptuaires
 que pouvait comporter le bien détruit.
 Une indemnisation pour le dommage moral subi n’est pas accordée.
 Un dédommagement pour des gains non réalisés n’est alloué que dans les limites de la
 présente loi.
-\5. Les dommages de guerre seront indemnisés dans les limites des crédits budgétaires.
+5\. Les dommages de guerre seront indemnisés dans les limites des crédits budgétaires.
 Le paiement se fera au fur et à mesure des liquidités mises à la disposition du Ministère des
 Dommages de Guerre. Ces liquidités seront utilisées suivant les principes édictés par un
 règlement d’administration publique à prendre sur avis obligatoire du Conseil d’État. Ce
@@ -22651,17 +22651,17 @@ seront remboursées par le Ministère des Dommages de Guerre aux conditions et d
 modalités à fixer par arrêté ministériel.
 Ces avances porteront intérêts, dont le taux sera déterminé par arrêté ministériel, à partir du
 premier janvier de la troisième année suivant leur déboursement.
-\6. Le Ministre des Dommages de Guerre décidera dans quels cas il y aura lieu à réparation en
+6\. Le Ministre des Dommages de Guerre décidera dans quels cas il y aura lieu à réparation en
 nature du dommage causé ou à un dédommagement en espèces. Dans cette dernière
 hypothèse, l’indemnité devra par préférence être employée à la réparation du dommage et
 aucun créancier ne pourra s’y opposer. Le Ministre des Dommages de Guerre aura le droit
 d’exiger le remploi de l’indemnité et de prendre toutes les mesures nécessaires pour en assurer
 l’exécution.
-\7. L’indemnisation pourra se faire également en rente viagère ou en obligations à émettre par
+7\. L’indemnisation pourra se faire également en rente viagère ou en obligations à émettre par
 l’État.
 Les conditions d’émission, d’attribution, de négociabilité et de remboursement de ses
 obligations seront déterminées par un règlement d’administration publique.
-\8. Seront défalquées:
+8\. Seront défalquées:
 a) les sommes déjà versées à titre de dédommagement des sinistrés de la guerre et des
 victimes politiques notamment par l’État, les communes, l’Office de récupération
 économique, les oeuvres sociales ou par des tiers reconnus responsables;
@@ -22671,34 +22671,34 @@ c) les sommes allouées par des pays étrangers au titre des dommages de guerre 
 causes donnant lieu à indemnisation en vertu de la présente loi.
 Les assurances-vie ne sont pas défalquées.
 
-\9. Ne tombent pas sous l’application de la présente loi les dommages de guerre qui ont été
+9\. Ne tombent pas sous l’application de la présente loi les dommages de guerre qui ont été
 indemnisés conformément à la législation en vigueur sous l’occupation allemande, ou suivant
 les dispositions de l’Aide Mutuelle Interalliée.
-\10. L’État luxembourgeois est subrogé aux droits pouvant compter aux sinistrés en vertu des
+10\. L’État luxembourgeois est subrogé aux droits pouvant compter aux sinistrés en vertu des
 présentes dispositions contre les puissances belligérantes.
 Jusqu’à concurrence des indemnités payées, il est subrogé à leurs droits de recours contre des
 tiers.
-\11. Si le dommage a été causé en tout ou en partie par la faute du sinistré ou des personnes
+11\. Si le dommage a été causé en tout ou en partie par la faute du sinistré ou des personnes
 dont il est civilement responsable, s’il a fautivement négligé de l’éviter ou de l’amoindrir, le
 dédommagement sera réduit en proportion de sa responsabilité.
-\12. Sont exclues du bénéfice de la présente loi les personnes qui, du chef d’une des infractions
+12\. Sont exclues du bénéfice de la présente loi les personnes qui, du chef d’une des infractions
 prévues par les articles 113 à 123octies du Code pénal ou du chef du délit prévu par l’art. 4 de
 l’arrêté grand-ducal du 22 avril 1941, relatif aux mesures de dépossession effectuées par
 l’ennemi, auront été condamnées par une décision coulée en force de chose jugée.
 L’indemnisation pourra être refusée en tout ou en partie.
-\1. aux personnes physiques ou morales dont le comportement ou l’activité durant
+1\. aux personnes physiques ou morales dont le comportement ou l’activité durant
 l’occupation a donné lieu à une réprobation telle qu’un acte de solidarité et de secours de
 la communauté ne se justifierait pas à leur égard;
-\2. à celui qui, du chef de l’une des infractions prévues par l’art. 16 ci-après, aura été
+2\. à celui qui, du chef de l’une des infractions prévues par l’art. 16 ci-après, aura été
 condamné par une décision coulée en force de chose jugée.
 Contre la décision de refus total ou partiel un recours est ouvert aux personnes visées à l’alinéa
 qui précède dans les formes et délais des articles 22 et suivants ci-après.
-\13. Aussi longtemps que demeure susceptible de recours une décision judiciaire dont l’effet
+13\. Aussi longtemps que demeure susceptible de recours une décision judiciaire dont l’effet
 serait d’exclure le sinistré du bénéfice de la présente loi, l’exercice du droit à la réparation reste
 suspendu, jusqu’à ce qu’une décision définitive mette fin à l’instance.
 De même, en cas d’instruction ouverte à charge d’une personne, sur pied des dispositions
 indiquées aux articles 12 et 16, l’exercice du droit à la réparation reste suspendu.
-\14. Le droit à l’indemnisation pour le dommage subi est censé prendre naissance, soit dans la
+14\. Le droit à l’indemnisation pour le dommage subi est censé prendre naissance, soit dans la
 personne du propriétaire de la chose sinistrée au moment du sinistre, soit dans la personne de
 la victime du dommage politique ou corporel, tel que ce dommage est défini dans les titres II
 et III de la présente loi.
@@ -22725,7 +22725,7 @@ A titre exceptionnel et dans des cas particulièrement favorables, le Ministre d
 Guerre peut encore, dans les deux ans de l’entrée en vigueur de la loi, agréer les actes
 juridiques de transfert non autorisés, antérieurement intervenus.
 L’article 1166 du Code civil n’est pas applicable en matière de dommages de guerre.
-\15. Tout sinistré doit sous peine de déchéance faire une déclaration de dommages de guerre
+15\. Tout sinistré doit sous peine de déchéance faire une déclaration de dommages de guerre
 au bourgmestre du lieu du sinistre. Si le dommage a été subi à l’étranger dans les conditions
 spécifiées ci-après au titre II ou si le lieu du sinistre est inconnu, elle sera faite au bourgmestre
 du dernier domicile dans le Grand-Duché avant le sinistre. Un règlement d’administration
@@ -22739,11 +22739,11 @@ avoir été faites pour l’application du présent article dans ledit délai.
 Les déclarations frauduleuses ne peuvent plus être rectifiées si l’intéressé a accepté sans
 réserves un acompte.
 
-\16. Sera puni d’un emprisonnement de 8 jours à 3 ans et d’une amende de 251 euros à 125.000
+16\. Sera puni d’un emprisonnement de 8 jours à 3 ans et d’une amende de 251 euros à 125.000
 euros ou d’une de ces peines seulement:
-\1. quiconque aura sciemment fourni des déclarations fausses sur un fait décisif quant au
+1\. quiconque aura sciemment fourni des déclarations fausses sur un fait décisif quant au
 fondement ou quant au montant de ses prétentions au dédommagement;
-\2. quiconque, dans le but de faire agréer une demande injustifiée ou exagérée, aura influencé
+2\. quiconque, dans le but de faire agréer une demande injustifiée ou exagérée, aura influencé
 ou tenté d’influencer des témoins, experts ou toutes autres personnes.
 Al. abr. implicitement (L. 13 juin 1994)
 Les juges pourront ordonner la publication de leur décision dans un ou plusieurs quotidiens aux
@@ -22767,13 +22767,13 @@ Toutefois, en cas d’infraction à la présente loi, le Ministre des Dommages d
 de transiger avec le sinistré sur le montant de l’indemnisation. Ces transactions constatées par
 écrit éteignent l’action publique. Les transactions intervenues antérieurement à l’entrée en
 vigueur de la présente loi sont validées.
-\17. Le Ministre des Dommages de Guerre procédera à toutes les mesures d’instruction qu’il
+17\. Le Ministre des Dommages de Guerre procédera à toutes les mesures d’instruction qu’il
 jugera nécessaires.
 Il peut avoir recours à ces fins aux autorités judiciaires et administratives.
 Il est autorisé à entendre les témoins et les experts sous la foi du serment.
 Les compagnies d’assurance et les instituts de crédit devront lui fournir toutes les données qui
 leur sont demandées pour les besoins de l’instruction visée à l’alinéa premier.
-\18. Le Ministre des Dommages de Guerre fait connaître à l’intéressé par avis motivé adressé
+18\. Le Ministre des Dommages de Guerre fait connaître à l’intéressé par avis motivé adressé
 sous plis recommandé à la poste, sa décision provisoire portant admission ou refus de la
 demande et fixant, s’il y a lieu, le montant de l’indemnité à accorder.
 Le sinistré est invité, en même temps, à formuler ses objections dans un délai de 30 jours.
@@ -22786,17 +22786,17 @@ La comparution doit être personnelle, sauf les cas d’impossibilité à appré
 par le Ministre des Dommages de Guerre.
 Le sinistré peut être assisté d’un conseil. Il est donné acte, en tous cas, au sinistré de sa
 comparution.
-\19. Si, lors de cette comparution, l’accord se fait entre le sinistré et le Ministre des Dommages
+19\. Si, lors de cette comparution, l’accord se fait entre le sinistré et le Ministre des Dommages
 de Guerre, il en est immédiatement dressé acte qui est signé par les deux parties en cause.
-\20. Si un accord ne peut intervenir, il est, éventuellement après une dernière invitation à
+20\. Si un accord ne peut intervenir, il est, éventuellement après une dernière invitation à
 comparaître, dressé acte de la position dernière prise par les parties au cours de la discussion.
 Le sinistré a le droit de faire insérer dans l’acte de comparution ses observations.
 Si le sinistré s’abstient de comparaître ou de transmettre l’énoncé de ses observations, il en est
 dressé acte qui fait foi de son contenu jusqu’à preuve du contraire.
-\21. Dans les trois mois de l’acte dressé conformément à l’article qui précède, le Ministre des
+21\. Dans les trois mois de l’acte dressé conformément à l’article qui précède, le Ministre des
 Dommages de Guerre statue sur la demande par avis motivé qu’il notifie par pli recommandé
 à l’auteur de la demande.
-\22. Il est ouvert aux bénéficiaires de la présente loi, qui n’ont pas accepté la décision du
+22\. Il est ouvert aux bénéficiaires de la présente loi, qui n’ont pas accepté la décision du
 Ministre des Dommages de Guerre visée à l’article 21, une action en fixation de la créance
 d’indemnité contre l’État, représenté par ledit Ministre, devant les tribunaux d’arrondissement
 qui connaissent en dernier ressort.
@@ -22805,7 +22805,7 @@ soulève le litige. Toutefois, si le différend port sur une question, qui ne co
 entre le réclamant et l’État au titre des dommages de guerre, mais soulève une contestation
 entre le réclamant et un tiers, cette difficulté est à vider d’après les dispositions du droit
 commun.
-\23. L’action est à intenter, sous peine de déchéance, dans les trois mois à partir de la réception
+23\. L’action est à intenter, sous peine de déchéance, dans les trois mois à partir de la réception
 de la décision du Ministre des Dommages de Guerre prévue à l’article 21.
 
 Si le Ministre des Dommages de Guerre a omis de statuer dans le délai de trois mois lui imparti
@@ -22817,17 +22817,17 @@ l’importance des dommages de guerre ainsi que la relation de cause à effet en
 donnant lieu à indemnisation aux termes de la présente loi et le dommage.
 En ce qui concerne l’audition des témoins, les articles 268 et 283 du Code de procédure civile
 ne sont pas applicables.
-\24. Un recours en cassation est ouvert aux parties contre les décisions des tribunaux
+24\. Un recours en cassation est ouvert aux parties contre les décisions des tribunaux
 d’arrondissement, statuant en matière de dommages de guerre, dans les cas et les délais et
 suivant les formes prévus pour les pourvois en cassation en matière civile.
 En cas de cassation donnant lieu à un nouvel examen du fond, la cause sera obligatoirement
 renvoyée pour être instruite et jugée de nouveau devant une autre juridiction de même nature
 que celle dont le jugement aura été cassé.
-\25. Les minutes, expéditions, extraits et copies des décisions et en général tous les actes de
+25\. Les minutes, expéditions, extraits et copies des décisions et en général tous les actes de
 procédure auxquels donnera lieu l’application de la présente loi, sont dispensés des formalités
 du timbre et de l’enregistrement. Ils porteront la mention expresse qu’ils sont faits en exécution
 de la présente loi.
-\26. Peuvent être annulés par le tribunal d’arrondissement les décisions définitives
+26\. Peuvent être annulés par le tribunal d’arrondissement les décisions définitives
 d’indemnisation rendues par le Ministre des Dommages de Guerre ainsi que les jugements
 rendus sur l’action visée à l’article 22, alinéa 1er, lorsque ces décisions ou jugements ont été
 pris erronément, soit que le sinistré eût dû être exclu en vertu de l’alinéa premier de l’article 12
@@ -22842,31 +22842,31 @@ Les dispositions du présent article sont également applicables aux indemnités
 aux travaux de reconstruction achevés.
 Les décisions d’annulation ou de rectification ordonneront, s’il y a lieu, le remboursement des
 sommes indûment liquidées ou versées au sinistré.
-\27. La créance de remboursement visée à l’article qui précède est privilégiée sur la généralité
+27\. La créance de remboursement visée à l’article qui précède est privilégiée sur la généralité
 des meubles du sinistré et prend rang après le No 5 de l’article 2101 du Code civil. 1)
-\28. Toutes les actions ouvertes sur la base des dispositions qui précèdent sont portées au
+28\. Toutes les actions ouvertes sur la base des dispositions qui précèdent sont portées au
 choix du demandeur soit devant le tribunal d’arrondissement de Luxembourg, soit devant celui
 de Diekirch.
-\29. Le Ministre des Dommages de Guerre est autorisé à accorder des avances aux sinistrés
+29\. Le Ministre des Dommages de Guerre est autorisé à accorder des avances aux sinistrés
 suivant les modalités à fixer par un règlement d’administration publique qui s’inspirera des
 principes inscrits à l’article 5.
 
-\30. Il peut exceptionnellement, après délibération du Gouvernement en Conseil, accorder des
+30\. Il peut exceptionnellement, après délibération du Gouvernement en Conseil, accorder des
 indemnités pour éviter des cas de rigueur.
 …
-\33. Les personnes physiques et morales de nationalité étrangère, sauf les ressortissants
+33\. Les personnes physiques et morales de nationalité étrangère, sauf les ressortissants
 étrangers visés aux articles 1er et 2, ne peuvent être admises à l’indemnisation des dommages
 de guerre subis sur le territoire du pays que sur la base de traités de réciprocité que le
 Gouvernement est autorisé à conclure avec les pays étrangers.
 Il en est de même des personnes morales de droit luxembourgeois visées à l’article 3 quant au
 prorata non indemnisable.
-\34. Les crédits qu’exige l’application de la présente législation seront inscrits chaque année au
+34\. Les crédits qu’exige l’application de la présente législation seront inscrits chaque année au
 budget des dépenses.
 
 TITRE II - Indemnisation pour perte de traitement, salaire ou revenu normal des
 personnes victimes de leur attitude patriotique et lésées par suite d’une
 sanction prise par l’ennemi
-\35. Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 mai 1940 ainsi que
+35\. Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 mai 1940 ainsi que
 les Luxembourgeois domiciliés à l’étranger à la même date, dans les limites fixées par l’article
 2 a de la présente loi, qui en raison de leur attitude patriotique ont, par un fait de l’occupant,
 subi une perte de traitement, salaire ou revenu normal, leur conjoint survivant, leurs
@@ -22877,25 +22877,25 @@ revenu.
 
 descendants ou ascendants, reçoivent sur leur demande une indemnité qui sera constatée et
 évaluée par le Ministre des Dommages de Guerre conformément aux dispositions ci-après.
-\36. Peuvent se prévaloir de la disposition qui précède:
-\1. Les ayants droit des personnes exécutées ou mises à mort par l’ennemi en raison de leur
+36\. Peuvent se prévaloir de la disposition qui précède:
+1\. Les ayants droit des personnes exécutées ou mises à mort par l’ennemi en raison de leur
 attitude patriotique ou tombées en combattant l’ennemi.
-\2. Les personnes qui ont été emprisonnées ou internées dans un camp de concentration en
+2\. Les personnes qui ont été emprisonnées ou internées dans un camp de concentration en
 raison de leur attitude patriotique.
-\3. Les déportés politiques, si leur attitude patriotique a été le motif principal de leur
+3\. Les déportés politiques, si leur attitude patriotique a été le motif principal de leur
 déportation.
-\4. Les personnes destituées de leurs fonctions, celles auxquelles l’exercice de leur profession
+4\. Les personnes destituées de leurs fonctions, celles auxquelles l’exercice de leur profession
 a été interdit, par les autorités ennemies, exclusivement en raison de leur attitude
 patriotique ainsi que celles qui, par un acte de pure résistance et afin de se désolidariser
 de l’occupant, ont intentionnellement renoncé à leurs fonctions ou à l’exercice de leur
 profession.
-\5. Les personnes qui ont été déclassées quant à leur traitement ou salaire exclusivement en
+5\. Les personnes qui ont été déclassées quant à leur traitement ou salaire exclusivement en
 raison de leur attitude patriotique.
-\6. Les personnes auxquelles les autorités ennemies ont soustrait leurs rentes ou pensions
+6\. Les personnes auxquelles les autorités ennemies ont soustrait leurs rentes ou pensions
 exclusivement en raison de leur attitude patriotique.
-\7. Les personnes qui volontairement ont combattu dans les armées alliées ou dans les
+7\. Les personnes qui volontairement ont combattu dans les armées alliées ou dans les
 armées clandestines alliées.
-\8. Les personnes qui, pour se soustraire aux mesures de rigueur de l’occupant, auxquelles
+8\. Les personnes qui, pour se soustraire aux mesures de rigueur de l’occupant, auxquelles
 elles étaient exposées en raison de leur activité patriotique dans une organisation de
 résistance ou d’actes de résistance individuelle caractérisés, même antérieurement au 10
 mai 1940, se sont évadées ou cachées, si elles n’avaient pas d’autre moyen d’éviter un
@@ -22905,16 +22905,16 @@ La preuve de l’attitude patriotique incombe à l’impétrant.
 peuvent également se prévaloir des dispositions des articles 35, 37 à 42 de la présente loi.
 Dans la mesure où elles ont été indemnisées par application de l’article 43, elles peuvent opter
 pour une indemnisation par application des articles 39 à 42.
-\37. Pourront être exclues en tout ou en partie du bénéfice du présent titre les personnes visées L. 25.2.1950
+37\. Pourront être exclues en tout ou en partie du bénéfice du présent titre les personnes visées L. 25.2.1950
 par l’article 36, qui ont démérité par leur comportement, indigne d’une victime patriotique, soit
 à raison d’actes commis au préjudice de leurs compagnons d’infortune, soit à raison de leur
 attitude à l’égard de l’ennemi, ou dont l’activité était inspirée par un esprit de lucre.
-\38. Sera remboursée, conformément aux taux de conversion prévus par les arrêtés en vigueur
+38\. Sera remboursée, conformément aux taux de conversion prévus par les arrêtés en vigueur
 concernant l’échange monétaire, la contre-valeur des amendes, frais judiciaires, honoraires
 d’avocat, frais de pension et de nourriture à la prison déboursés à l’occasion de procès
 politiques, ainsi que des amendes payées comme otage ou lors de l’établissement des listes
 de la «Volkstumskartei».
-\39. Le dommage politique sera indemnisé suivant les dispositions ci-après.
+39\. Le dommage politique sera indemnisé suivant les dispositions ci-après.
 
 Ce dommage consiste, après conversion, aux taux de 1 RM = 10 francs1), s’il échet, dans la
 différence entre le revenu normal que le sinistré aurait eu s’il avait pu librement vaquer à son
@@ -22929,17 +22929,17 @@ de l’augmentation du coût de la vie pendant la guerre sera mis à la base du 
 c) si le sinistré âgé de plus de 18 ans n’avait pas de traitement, salaire ou revenu normal, ni
 avant le temps de l’occupation, ni pendant ce temps, le salaire qui servira de base au calcul
 ne pourra pas être inférieur à 37,18 euros par mois.
-\40. Sera déduit le traitement, salaire ou revenu normal net que le sinistré a effectivement touché
+40\. Sera déduit le traitement, salaire ou revenu normal net que le sinistré a effectivement touché
 pendant le temps de l’événement dommageable.
-\41. Le plafond du traitement, salaire ou revenu normal qu’un sinistré aurait pu toucher, s’il avait
+41\. Le plafond du traitement, salaire ou revenu normal qu’un sinistré aurait pu toucher, s’il avait
 pu librement vaquer à son occupation ordinaire, est fixé à 247,89 euros par mois, chiffre qui
 sera augmenté de 12,39 euros par mois pour l’épouse et de 9,92 euros par mois pour chaque
 enfant à charge du sinistré.
-\42. L’indemnité est due jusqu’au jour ou l’événement dommageable a pris fin et au plus tard
+42\. L’indemnité est due jusqu’au jour ou l’événement dommageable a pris fin et au plus tard
 jusqu’au début du 3emois qui suit le rapatriement.
 En cas d’exécution, de mise à mort ou de décès dans les conditions de l’article 36 1°, les ayants
 cause de la victime toucheront l’indemnité dans tous les cas jusqu’au 30 septembre 1944.
-\43. Les Luxembourgeois qui sous l’empire de la loi de l’occupant ont été soumis au service
+43\. Les Luxembourgeois qui sous l’empire de la loi de l’occupant ont été soumis au service
 militaire forcé, soit qu’ils y aient été effectivement astreints, soit qu’ils aient été réfractaires,
 
 10 francs = 0,25 euro
@@ -22958,20 +22958,20 @@ l’indemnisation prévue aux articles 39 à 42 inclusivement, soit pour celle p
 article.
 
 TITRE III - Indemnisation des dommages de guerre corporels
-\44. Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 mai 1940 ou à la
+44\. Les personnes visées à l’article 1er et domiciliées au Grand-Duché le 10 mai 1940 ou à la
 date du sinistre qui, par suite directe d’un acte de guerre ont subi un dommage corporel, leur
 conjoint survivant, leurs descendants ou ascendants ou toute personne justifiant d’un intérêt
 légitime ont droit sur leur demande, à une indemnité qui sera constatée et évaluée par le
 Ministre des Dommages de Guerre conformément aux dispositions ci-après. Il en sera de
 même du Luxembourgeois domicilié à l’étranger, dans la limite de l’article 2 a du Titre I.
-\45. Sont à considérer comme actes de guerre:
-\1. Les opérations de combat, sans distinction de la nationalité des belligérants, et les
+45\. Sont à considérer comme actes de guerre:
+1\. Les opérations de combat, sans distinction de la nationalité des belligérants, et les
 explosions d’engins de guerre, même celles qui se sont produites, en territoire
 luxembourgeois seulement, après la cessation des hostilités, mais au plus tard jusqu’au 10
 septembre 1954;
-\2. Les mesures ordonnées par les autorités militaires ou civiles et qui sont en relation directe
+2\. Les mesures ordonnées par les autorités militaires ou civiles et qui sont en relation directe
 avec les actes de guerre;
-\3. Les actes de l’ennemi ou de ses organisations contre les personnes visées aux articles 1er
+3\. Les actes de l’ennemi ou de ses organisations contre les personnes visées aux articles 1er
 et 2.
 Tombent notamment sous cette catégorie:
 a) les personnes qui, en raison de leur attitude patriotique, ont été exécutées par l’ennemi
@@ -22982,13 +22982,13 @@ raisons politiques;
 c) les déportés politiques;
 d) les personnes destituées de leurs fonctions ou celles auxquelles l’exercice de leur
 profession a été interdit par les autorités ennemies pour des raisons politiques;
-\4. Le fait de personnes qui, pour se soustraire aux mesures de rigueur de l’occupant,
+4\. Le fait de personnes qui, pour se soustraire aux mesures de rigueur de l’occupant,
 auxquelles elles étaient exposées en raison de leur activité patriotique dans une
 organisation de résistance ou d’actes de résistance individuelle caractérises, se sont
 évadées ou cachées, si elles n’avaient pas d’autre moyen d’éviter un danger imminent pour
 leur vie ou leur liberté;
 
-\5. les actes exécutés pour la défense ou la libération de la patrie, notamment par:
+5\. les actes exécutés pour la défense ou la libération de la patrie, notamment par:
 a) l’enrôlement dans les armées et formations paramilitaires alliées;
 b) la collaboration pour des motifs patriotiques à un service de renseignement et d’action
 luxembourgeois ou allié;
@@ -22998,13 +22998,13 @@ e) la désertion de l’armée allemande ou d’une formation paramilitaire alle
 non-volontaire;
 f) l’insoumission à l’armée allemande, à l’S.H.D., à l’R.A.D. ou K.H.D., ainsi qu’aux
 formations paramilitaires allemandes;
-\6. Les mutilations volontaires pour échapper au service militaire dans l’armée allemande ainsi
+6\. Les mutilations volontaires pour échapper au service militaire dans l’armée allemande ainsi
 qu’aux formations énumérées sub 5 f).
-\7. L’enrôlement forcé dans l’armée allemande ainsi qu’aux formations énumérées sub 5 f).
-\46. Seront indemnisés également les ayants droit des personnes décédées après le retour au
+7\. L’enrôlement forcé dans l’armée allemande ainsi qu’aux formations énumérées sub 5 f).
+46\. Seront indemnisés également les ayants droit des personnes décédées après le retour au
 pays des suites des mauvais traitements et des privations leur infligés par l’ennemi et qui sont
 en relation directe avec un acte de guerre suivant l’article 45 de la présente loi.
-\47. Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les L. 26.3.1974
+47\. Les rentes et autres indemnités prévues par le présent titre peuvent être cumulées avec les L. 26.3.1974
 prestations versées à la suite des mêmes dommages de guerre par une institution sociale
 quelconque, sans préjudice des dispositions ci-après.
 Les rentes et autres secours alloués pour des dommages de guerre constituant en même
@@ -23028,12 +23028,12 @@ de pension qui étaient à charge de l’État en vertu de la législation appli
 1985 pour les pensions attribuées avant le 1er janvier 1988, ni des majorations forfaitaires ou
 forfaitaires spéciales ainsi que du complément pension minimum pour les pensions attribuées
 après cette date.
-\48. En cas de décès des personnes devenues victimes en raison de leur attitude patriotique, L. 25.2.1950
+48\. En cas de décès des personnes devenues victimes en raison de leur attitude patriotique, L. 25.2.1950
 l’indemnisation des ayants droit se fera d’après les règles suivantes, sans préjudice des
 dispositions légales, réglementaires ou statutaires sur les pensions:
 A. – S’il s’agit d’ayants droit d’un fonctionnaire de l’État, des communes, des établissements
 publics ou des employés aux chemins de fer:
-\1. La veuve touchera une rente équivalente à 80% du traitement intégral – y compris les
+1\. La veuve touchera une rente équivalente à 80% du traitement intégral – y compris les
 allocations familiales, l’indemnité de foyer et les triennales – qu’aurait touché le mari
 d’après la législation luxembourgeoise; à partir de la limite d’âge telle qu’elle était fixée pour
 le mari, la veuve touchera 80% de la pension intégrale à laquelle son mari aurait eu droit.
@@ -23042,41 +23042,41 @@ accomplis.
 En cas de remariage de la veuve la rente de chaque orphelin sera portée à 15% du
 traitement susvisé, sans pouvoir être inférieure au montant de la pension se dégageant de
 l’application des dispositions légales, réglementaires ou statutaires sur les pensions.
-\2. L’orphelin de père et de mère touchera jusqu’à l’âge de 18 ans accomplis une rente
+2\. L’orphelin de père et de mère touchera jusqu’à l’âge de 18 ans accomplis une rente
 équivalente à 30% du traitement susénoncé.
-\3. Même après l’accomplissement de la dix-huitième année l’allocation de la rente visée sub
-\1. et 2. sera continuée:
+3\. Même après l’accomplissement de la dix-huitième année l’allocation de la rente visée sub
+1\. et 2. sera continuée:
 a) en faveur de tout orphelin atteint d’une infirmité qui le met dans l’impossibilité de
 subvenir par son travail aux nécessités de l’existence;
 b) en faveur de tout orphelin s’adonnant à des études scientifiques ou professionnelles,
 et ce pendant la durée normalement admise pour l’achèvement de celles-ci.
-\4. Dans les cas où le divorce a été prononcé aux torts exclusifs du mari, la rente de veuve est
+4\. Dans les cas où le divorce a été prononcé aux torts exclusifs du mari, la rente de veuve est
 allouée à l’épouse divorcée à la condition qu’un jugement ait alloué à l’épouse une pension
 alimentaire et qu’il n’y ait pas eu remariage.
 Dans ces cas, la rente ne pourra pas dépasser le montant de la pension alimentaire.
 
-\5. Les dispositions concernant la pension de la veuve et des orphelins sont applicables au
+5\. Les dispositions concernant la pension de la veuve et des orphelins sont applicables au
 profit du veuf ainsi que des enfants manquant de ressources et laissés par une femme qui,
 en raison de l’incapacité de travail de son mari, a pourvu d’une façon essentielle à la
 subsistance de sa famille.
-\6. Si la victime, âgée de seize ans au moins à la date du fait dommageable laisse des
+6\. Si la victime, âgée de seize ans au moins à la date du fait dommageable laisse des
 ascendants, ceux-ci touchent à titre de rente la différence entre leur revenu effectif et un
 revenu dont le montant sera déterminé par règlement grand-ducal. La rente ne pourra
 dépasser trente pour cent du salaire social minimum augmenté de vingt pour cent.
 L. 25.2.1967
-\7. Si la victime laisse des petits-enfants à l’entretien desquels elle a pourvu d’une façon L. 25.2.1950
+7\. Si la victime laisse des petits-enfants à l’entretien desquels elle a pourvu d’une façon L. 25.2.1950
 prépondérante, ceux-ci en cas d’insuffisance de ressources touchent par personne 20%
 du traitement de la victime, au maximum 60% jusqu’à l’âge de 18 ans accomplis. Les
 dispositions de l’al. 3, a et b, seront également applicables.
-\8. Les rentes réunies des survivants ne peuvent excéder le montant du traitement tel qu’il est
+8\. Les rentes réunies des survivants ne peuvent excéder le montant du traitement tel qu’il est
 établi sub A) 1. S’il y a plus de 2 enfants, la rente de chaque enfant devra être réduite
 proportionnellement.
-\9. Les ascendants et les petits-enfants ne peuvent faire valoir leurs droits que lorsque le
+9\. Les ascendants et les petits-enfants ne peuvent faire valoir leurs droits que lorsque le
 maximum susdit n’est pas absorbé par la rente de la veuve et des enfants.
-\10. Il est alloué aux ayants droit de la victime une indemnité funéraire uniforme de 123,95
+10\. Il est alloué aux ayants droit de la victime une indemnité funéraire uniforme de 123,95
 euros. Au cas où les frais d’enterrement auront été avancés par un tiers, celui-ci aura droit
 au remboursement des frais exposés jusqu’à concurrence du montant susmentionné.
-\11. En cas de remariage de la veuve le paiement de la rente sera continué pendant 2 ans au
+11\. En cas de remariage de la veuve le paiement de la rente sera continué pendant 2 ans au
 maximum à condition que l’intéressée ait conservé la nationalité luxembourgeoise et
 qu’elle soit domiciliée au Grand-Duché.
 Il sera loisible au Ministre des Dommages de Guerre de convertir cette rente en un capital
@@ -23108,7 +23108,7 @@ année et la dernière année.
 R. 10.12.25
 
 … Al. 4 abr. (L. 26 mars 1974)
-\49. Tous les dommages corporels non visés par l’article 48 seront indemnisés d’après les L. 25.2.1950
+49\. Tous les dommages corporels non visés par l’article 48 seront indemnisés d’après les L. 25.2.1950
 dispositions du Code de la sécurité sociale traitant des prestations en cas d’accident du travail
 et de maladie professionnelle, sauf les dérogations suivantes:
 
@@ -23193,7 +23193,7 @@ hospitalisées ainsi qu’à leurs ayants droit un secours spécial; de même il
 un secours approprié aux invalides de guerre pendant la durée de leur rééducation
 professionnelle;
 p) … Abr. (L. 25 février 1967)
-\50. Les droits des survivants sont également ouverts par la déclaration de présomption de
+50\. Les droits des survivants sont également ouverts par la déclaration de présomption de
 décès de la victime qui rétroagira dans les limites de l’article 51.
 En cas de décès, survenu après la libération du pays, de suites autres que celles en rapport L. 26.3.1974
 direct avec des faits de guerre d’une victime de la guerre, frappée d’une incapacité de travail
@@ -23201,15 +23201,15 @@ telle qu’elle n’a pu exercer une activité professionnelle soumise à l’as
 obligatoire ou qu’elle n’a pu exercer une telle activité professionnelle que tardivement, un
 revenu correspondant au montant de la rente de guerre sera garanti dans le chef des survivants
 définis dans la présente loi.
-\51. La rente est due aux victimes rapatriées, au plus tôt à partir du jour de rapatriement, à L. 25.2.1950
+51\. La rente est due aux victimes rapatriées, au plus tôt à partir du jour de rapatriement, à L. 25.2.1950
 toutes les autres victimes ou à leurs ayants droits à partir du fait dommageable, mais au plus
 tôt à partir du 1er octobre 1944 et sans qu’il puisse y avoir cumulé de l’indemnisation pour
 dommage politique avec la rente pour dommage corporel.
-\52. Il n’y aura pas lieu à dédommagement, si le fait dommageable a été provoqué
+52\. Il n’y aura pas lieu à dédommagement, si le fait dommageable a été provoqué
 intentionnellement par la victime, excepté les mutilations volontaires à l’effet d’échapper au
 service dans l’armée ou dans une formation paramilitaire allemande.
 
-\53. En cas de faute grave de la victime la prestation prévue par la présente loi pourra être
+53\. En cas de faute grave de la victime la prestation prévue par la présente loi pourra être
 refusée en tout ou en partie; toutefois en cas de décès de la victime, la réduction ne pourra être
 supérieure à 50%.
 
@@ -23222,16 +23222,16 @@ Art. 1er.1) Pourront bénéficier de la présente loi en cas d’invalidité ou 
 mois 2) justifient remplir l’une ou plusieurs des conditions prévues à l’article 14, lettres a, b,
 c, d et g de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur de
 personnes devenues victimes d’actes illégaux de l’occupant, à savoir:
-\1) avoir été déportés, internés ou emprisonnés par l’occupant pour des raisons
+1\) avoir été déportés, internés ou emprisonnés par l’occupant pour des raisons
 patriotiques, de race ou de religion;
-\2) avoir été enrôlés de force dans le „Reichsarbeitsdienst“, l’armée allemande ou autres
+2\) avoir été enrôlés de force dans le „Reichsarbeitsdienst“, l’armée allemande ou autres
 services analogues ou s’y être soustraits par la fuite et qui remplissent les conditions L. 14.7.81,1,2°
 prévues à l’article 4 de la loi du 25 février 1967 précitée;
-\3) avoir été déportés, internés ou emprisonnés pour des raisons patriotiques, de race ou L. 26.3.74
+3\) avoir été déportés, internés ou emprisonnés pour des raisons patriotiques, de race ou L. 26.3.74
 de religion dans un pays soumis à l’influence ennemie;
-\4) avoir été contraints pour des raisons patriotiques, de race ou de religion de vivre
+4\) avoir été contraints pour des raisons patriotiques, de race ou de religion de vivre
 cachés pendant l’occupation du territoire national;
-\5) avoir quitté le Grand-Duché pour joindre les forces alliées ou pour se mettre à la
+5\) avoir quitté le Grand-Duché pour joindre les forces alliées ou pour se mettre à la
 disposition du Gouvernement luxembourgeois ou du Gouvernement d’une des
 puissances alliées au Grand-Duché;
 à moins que l’État par l’intermédiaire de l’office de l’État des dommages de guerre ne
@@ -23246,9 +23246,9 @@ Peuvent également bénéficier des dispositions de la loi, pourvu que l’inval
 précoces aient été reconnus par l’office de l’État des dommages de guerre comme
 entièrement imputables à ces conditions, les Luxembourgeois qui, au cours de
 l’occupation étrangère du pays:
-\1) ont été, pour des raisons patriotiques, de race ou de religion, obligés à travailler hors L. 14.7.81,1,3°
+1\) ont été, pour des raisons patriotiques, de race ou de religion, obligés à travailler hors L. 14.7.81,1,3°
 du Grand-Duché en vertu d’une astreinte au travail de l’occupant;
-\2) ont été, pour des raisons patriotiques, de race ou de religion, mis dans l’impossibilité L. 26.3.74
+2\) ont été, pour des raisons patriotiques, de race ou de religion, mis dans l’impossibilité L. 26.3.74
 d’exercer un emploi;
 
 Sont assimilés aux Luxembourgeois les étrangers et apatrides poursuivis par l’occupant en
@@ -23291,7 +23291,7 @@ l’article 216, numéros 2) et 4) du Code de la sécurité sociale.
 Par L. 14.7.81, 1, 1°, les termes « six mois » ont été remplacés par les termes « trois mois ».
 Il y a lieu de lire « trois mois ».
 
-\3) ont rendu, en exposant itérativement ou d’une façon prolongée leur vie et leur santé à
+3\) ont rendu, en exposant itérativement ou d’une façon prolongée leur vie et leur santé à
 de graves périls, des services éminents au pays ou à des personnes persécutées.
 
 Art. 3. Dans les régimes de pension non contributifs, le complément différentiel sera
@@ -23307,9 +23307,9 @@ comptant pour une année entière.
 Art. 4. Pour la détermination du montant du complément différentiel les autorités
 compétentes pour l’octroi des pensions tiendront compte:
 a) dans les régimes de pension non contributifs:
-\1) de toutes les augmentations périodiques en relation avec l’ancienneté de service
+1\) de toutes les augmentations périodiques en relation avec l’ancienneté de service
 restant à échoir à la survenance du risque;
-\2) de toutes promotions normales non encore réalisées dans la carrière occupée au
+2\) de toutes promotions normales non encore réalisées dans la carrière occupée au
 moment de la survenance du risque et pour lesquelles à cette date les prémisses
 nécessaires à une réalisation avant la limite d’âge sont acquises. Est considérée
 comme promotion normale toute promotion accordée en ordre principal à raison
@@ -23550,7 +23550,7 @@ la loi du 16 décembre 1963 ayant pour objet la coordination des régimes de pen
 régies pour celles-ci, à moins qu’il n’en soit disposé autrement.
 
 Les dispositions de la présente loi s’appliquent aux pensions échues après le 31 décembre
-\1987. Toutefois, les prestations versées ne sont pas sujettes à restitution.
+1987\. Toutefois, les prestations versées ne sont pas sujettes à restitution.
 
 Les dispositions de la présente loi s’appliquent aux personnes occupées par un
 établissement d’utilité publique dans la mesure où les périodes d’activité auprès de cet
@@ -23623,14 +23623,14 @@ L. 3.8.98
 
 Chapitre I - Champ d’application personnel
 Art. 1er. Il est créé un régime de pension spécial applicable:
-\1. aux personnes visées à l’article 2, entrées en service ou en fonction après le 31
+1\. aux personnes visées à l’article 2, entrées en service ou en fonction après le 31
 décembre 1998;
-\2. en ce qui concerne les dispositions du chapitre III – «Voies et moyens», aux personnes L. 25.3.15,1
+2\. en ce qui concerne les dispositions du chapitre III – «Voies et moyens», aux personnes L. 25.3.15,1
 énumérées à l’article 2 entrées en service ou en fonction avant le 1er janvier 1999 ainsi
 qu’aux titulaires d’une pension au titre de la loi modifiée du 26 mai 1954 réglant les
 pensions des fonctionnaires de l’État ou de celle du 25 mars 2015 instituant un régime
 de pension spécial transitoire sous Titre I et II sous Chapitre 1;
-\3. en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux
+3\. en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux
 personnes entrées en service ou en fonction avant le 1er janvier 1999 et relevant de
 l’article 16.5. de la loi précitée du 26 mai 1954 ou de l’article 13 de la loi du 25 mars
 2015 instituant un régime de pension spécial transitoire.
@@ -23639,13 +23639,13 @@ Art. 2. Sont assurés obligatoirement conformément aux dispositions qui suivent
 
 L. 3.8.98
 
-\1. les fonctionnaires de l’État visés par la loi sur les traitements ainsi que les L. 25.3.15,2,1°
+1\. les fonctionnaires de l’État visés par la loi sur les traitements ainsi que les L. 25.3.15,2,1°
 fonctionnaires stagiaires;
-\2. les employés de l’État dans les limites et sous les conditions prévues à la loi modifiée L. 3.8.98
+2\. les employés de l’État dans les limites et sous les conditions prévues à la loi modifiée L. 3.8.98
 du 27 janvier 1972 qui fixe leur régime;
-\3. les membres du Gouvernement, les parlementaires et les membres du Conseil d’État
+3\. les membres du Gouvernement, les parlementaires et les membres du Conseil d’État
 dans les conditions et limites de l’article 60 de la présente loi;
-\4. les fonctionnaires et les employés bénéficiant d’un régime statutaire, dont les
+4\. les fonctionnaires et les employés bénéficiant d’un régime statutaire, dont les
 rémunérations sont fixées par des dispositions légales ou réglementaires autres que la
 loi modifiée du 22 juin 1963 concernant les traitements des fonctionnaires de l’État, à
 moins qu’ils ne bénéficient d’un régime de pension spécifique.
@@ -23707,26 +23707,26 @@ parfaire la durée des quatre cent quatre-vingts mois visée à l’article 12, 
 stage requis 1) pour la pension minimum, ainsi qu’aux fins de l’acquisition des majorations
 forfaitaires dans les pensions, les périodes ci-après pour autant qu’elles ne soient prises
 en compte par un régime de pension luxembourgeois ou étranger, à savoir:
-\1. les périodes pendant lesquelles une pension d’invalidité a été versée conformément
+1\. les périodes pendant lesquelles une pension d’invalidité a été versée conformément
 aux dispositions de la présente loi;
-\2. au maximum neuf années de périodes d’études ou de formation professionnelle, non L. 19.12.25,7,2°
+2\. au maximum neuf années de périodes d’études ou de formation professionnelle, non L. 19.12.25,7,2°
 indemnisées au titre d’un apprentissage, pour autant que ces périodes se situent après
 la dix-huitième année d’âge accomplie;
-\3. la période correspondant au délai d’inscription imposé au jeune demandeur d’emploi L. 3.8.98
+3\. la période correspondant au délai d’inscription imposé au jeune demandeur d’emploi L. 3.8.98
 avant l’ouverture du droit à l’indemnité de chômage complet;
-\4. les périodes pendant lesquelles l’un des parents a élevé au Luxembourg un ou
+4\. les périodes pendant lesquelles l’un des parents a élevé au Luxembourg un ou
 plusieurs enfants âgés de moins de six ans accomplis; ces périodes ne peuvent être
 inférieures à huit ans pour la naissance de deux enfants, ni être inférieures à dix ans
 pour la naissance de trois enfants; l’âge prévisé est porté à dix-huit ans si l’enfant est
 atteint d’une infirmité physique ou mentale, sauf si l’éducation et l’entretien de l’enfant
 ont été confiés à une institution spécialisée. L’Administration du personnel de l’État L. 25.3.15,3,1.
 peut dispenser de la condition que l’enfant soit élevé au Luxembourg;
-\5. les périodes d’activité professionnelle soumises à assurance au titre de la législation L. 3.8.98
+5\. les périodes d’activité professionnelle soumises à assurance au titre de la législation L. 3.8.98
 du pays d’origine dans le chef des personnes ayant bénéficié avant l’acquisition de la
 nationalité luxembourgeoise du statut de réfugié politique au sens de l’article 1er de la
 convention signée à Genève le 28 juillet 1951 et pour autant qu’elles soient exclues du
 bénéfice de prestations par tout régime international ou étranger;
-\6. les périodes à partir du 1er janvier 1990 pendant lesquelles une personne a assuré des L. 25.3.15,3,2.
+6\. les périodes à partir du 1er janvier 1990 pendant lesquelles une personne a assuré des L. 25.3.15,3,2.
 soins au bénéficiaire d’une allocation de soins prévue par la loi du 22 mai 1989 portant
 création d’une allocation de soins et organisant le placement dans une maison de
 soins, d’une allocation spéciale pour personnes gravement handicapées au titre de la
@@ -23735,7 +23735,7 @@ gravement handicapées, d’une majoration de rente d’accident pour impotence
 attribuée avant l’introduction de l’assurance dépendance ou d’une majoration de
 complément du revenu minimum garanti attribuée avant la mise en vigueur de la loi
 modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti;
-\7. les périodes précédant celles au titre de l’article 171, alinéa 1, sous 17 du Code de la L. 12.9.03,40
+7\. les périodes précédant celles au titre de l’article 171, alinéa 1, sous 17 du Code de la L. 12.9.03,40
 sécurité sociale, pendant lesquelles le salarié handicapé au sens de l’article 1er de la
 loi du 12 septembre 2003 relative aux personnes handicapées n’a pas pu être occupé,
 pour des raisons indépendantes de sa volonté, dans un atelier protégé ainsi que les
@@ -23837,12 +23837,12 @@ détachés temporairement à l’étranger par leur employeur restent affiliés 
 
 Dispense de l’assurance
 Art. 9. Sont dispensés de l’assurance obligatoire:
-\1. les services ou travaux extraordinaires visés à l’article 23 de la loi modifiée du 16 avril
+1\. les services ou travaux extraordinaires visés à l’article 23 de la loi modifiée du 16 avril
 1979 fixant le statut général des fonctionnaires de l’État;
-\2. les activités exercées uniquement de façon occasionnelle et non habituelle et ce pour
+2\. les activités exercées uniquement de façon occasionnelle et non habituelle et ce pour
 une durée déterminée d’avance qui ne doit pas dépasser trois mois par année de
 calendrier;
-\3. les activités temporaires exercées au profit de l’État par un bénéficiaire d’une pension
+3\. les activités temporaires exercées au profit de l’État par un bénéficiaire d’une pension
 de vieillesse ou d’invalidité accordée au titre du présent régime ou d’un autre régime
 spécial, à l’exception de celles exercées par le bénéficiaire relevant de l’article 2, 3.
 
@@ -23916,11 +23916,11 @@ L. 19.12.25,13,3° : L’alinéa 5 est supprimé.
 L. 19.12.25,13,4° : À l’alinéa 6, les mots « en application des deux alinéas qui précèdent » sont
 supprimés.
 
-5)
-6)
-7)
-8)
-9)
+5\)
+6\)
+7\)
+8\)
+9\)
 
 Art. 13.1) Le droit à la pension de vieillesse accordée en vertu des articles 11 et 12 ne
 commence à courir qu'à partir du jour suivant l'expiration du droit du fonctionnaire à son
@@ -24369,7 +24369,7 @@ L. 19.12.08,V,2°
 
 Calcul des pensions
 Art. 37. La pension de vieillesse annuelle se compose des majorations de pension suivantes:
-\1. les majorations proportionnelles correspondant au produit de la multiplication du taux
+1\. les majorations proportionnelles correspondant au produit de la multiplication du taux
 défini au tableau sous 3. ci-après pour les majorations proportionnelles par la somme des
 éléments de rémunération soumis à retenue pour pension, mis en compte au titre des
 articles 3, 5, 5bis et 6 avant le début du droit à la pension de vieillesse et déterminés
@@ -24382,13 +24382,13 @@ détermination de la somme des années à considérer, on ne compte que les ann�
 mois, les journées excédentaires accomplies séparément au niveau des deux
 composantes étant ignorées;1)
 
-\2. les majorations forfaitaires correspondant, après une durée d’assurance de quarante
+2\. les majorations forfaitaires correspondant, après une durée d’assurance de quarante
 années au titre des articles 3 à 6, au produit de la multiplication du taux défini au tableau
 sous 3. ci-après pour les majorations forfaitaires par le montant de référence défini à
 l’article 45; les majorations forfaitaires s’acquièrent par quarantième par année, accomplie
 ou commencée, sans que le nombre des années mises en compte ne puisse dépasser celui
 de quarante;
-\3. le taux, le seuil et l’augmentation par année entière des majorations proportionnelles, ainsi
+3\. le taux, le seuil et l’augmentation par année entière des majorations proportionnelles, ainsi
 que le taux par année des majorations forfaitaires visés aux points 1. et 2. qui précèdent,
 sont fixés dans le tableau ci-dessous en fonction de l’année du début du droit à la pension.
 
@@ -24689,13 +24689,13 @@ d’un accident survenu ou d’une maladie professionnelle déclarée après le 
 lorsqu’il a accompli l’âge de soixante-cinq ans.
 
 Art. 39. La pension d'invalidité annuelle se compose des majorations de pension suivantes: L. 21.12.12,V,7°
-\1. les majorations proportionnelles prévues à l'article 37.1.;
-\2. les majorations proportionnelles spéciales correspondant au produit de la
+1\. les majorations proportionnelles prévues à l'article 37.1.;
+2\. les majorations proportionnelles spéciales correspondant au produit de la
 multiplication du taux déterminé conformément à l’article 37.1. par la base de référence
 définie à l’article 44 et par le nombre d’années restant à courir du début du droit à la
 pension jusqu’à l’accomplissement de la cinquante-cinquième année d’âge;
-\3. les majorations forfaitaires prévues à l'article 37.2.;
-\4. les majorations forfaitaires spéciales correspondant à autant de quarantièmes du
+3\. les majorations forfaitaires prévues à l'article 37.2.;
+4\. les majorations forfaitaires spéciales correspondant à autant de quarantièmes du
 produit de la multiplication du taux des majorations forfaitaires défini à l’article 37.2. par
 le montant de référence défini à l’article 45 qu’il manque d’années entre le début du
 droit à la pension et l’âge de soixante-cinq ans accomplis, sans que le nombre
@@ -24839,13 +24839,13 @@ Par L. 19.12.14,25,1° les termes « d’une mise à la retraite ou » sont supp
 
 période est inférieure à deux années, sont prises en compte les deux années précédant
 l'échéance du risque.
-\1. Ne sont pas à comprendre dans le diviseur le nombre d'années se situant dans cette
+1\. Ne sont pas à comprendre dans le diviseur le nombre d'années se situant dans cette
 période et correspondant aux périodes prévues à l'article 4 pendant lesquelles aucune
 retenue pour pension n'a été opérée; au cas où une retenue aurait été opérée
 simultanément au titre des articles 3, 5 et 6, la prise en compte de ces éléments de
 traitement et de ces périodes se fait suivant le mode de calcul le plus favorable pour le
 fonctionnaire.
-\2. Lorsque l'échéance du risque se situe avant l'âge de vingt-cinq ans accomplis, la base
+2\. Lorsque l'échéance du risque se situe avant l'âge de vingt-cinq ans accomplis, la base
 de référence est égale à la somme des éléments de rémunération soumis à retenue
 pour pension portés en compte au titre des articles 3, 5 et 6, divisée par le nombre
 d'années d'assurance au titre des mêmes articles. Sont négligées tant au numérateur
@@ -25091,33 +25091,33 @@ rémunération effectivement touchés et prévus respectivement par la loi modif
 du Gouvernement en Conseil du 1er mars 1974 fixant le régime des indemnités des
 employés occupés dans les administrations et services de l'État et par des lois autres, à
 savoir
-\1. le traitement ou l'indemnité de base;
-\2. le traitement d'attente des membres du Gouvernement;
-\3. les suppléments de traitement;
-\4. l'allocation de famille;
-\5. l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires
+1\. le traitement ou l'indemnité de base;
+2\. le traitement d'attente des membres du Gouvernement;
+3\. les suppléments de traitement;
+4\. l'allocation de famille;
+5\. l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires
 visés à l'article 1er, d'être entrés en service après le 31 décembre 1998;
-\6. la prime de brevet de maîtrise en ce qui concerne les agents exerçant la fonction L. 25.3.15,11,1°
+6\. la prime de brevet de maîtrise en ce qui concerne les agents exerçant la fonction L. 25.3.15,11,1°
 d’artisan ou d’artisan dirigeant;
-\7. les primes prévues à l'article 25, sous 1. et 3. de la prédite loi sur les traitements;
+7\. les primes prévues à l'article 25, sous 1. et 3. de la prédite loi sur les traitements;
 
 L. 25.3.15,11,2°
 
-\8. jusqu'à concurrence d'un total de 22 points indiciaires les primes d'astreinte prévues L. 25.3.15,11,3°
+8\. jusqu'à concurrence d'un total de 22 points indiciaires les primes d'astreinte prévues L. 25.3.15,11,3°
 à l'article 22 de la prédite loi sur les traitements;
-\9. la prime de formation prévue à l'article 23, sous 2. de la prédite loi sur les traitements; L. 25.3.15,11,4°
-\10. la prime prévue à l’article 9 de la loi modifiée du 21 décembre 2007 portant création de L. 25.3.15,11,5°
+9\. la prime de formation prévue à l'article 23, sous 2. de la prédite loi sur les traitements; L. 25.3.15,11,4°
+10\. la prime prévue à l’article 9 de la loi modifiée du 21 décembre 2007 portant création de L. 25.3.15,11,5°
 l’Administration de la navigation aérienne;
-\11. l'indemnité compensatoire prévue à l’article 34 de la prédite loi sur le traitements;
+11\. l'indemnité compensatoire prévue à l’article 34 de la prédite loi sur le traitements;
 
 L. 25.3.15,11,6°
 
-\12. la prime prévue à l'article 6, III de la loi modifiée du 26 juillet 1975 portant création de L. 3.8.98
+12\. la prime prévue à l'article 6, III de la loi modifiée du 26 juillet 1975 portant création de L. 3.8.98
 l'Aéroport;
-\13. la rente accident complète ou partielle en vertu du livre II du Code de la sécurité sociale L. 12.5.10,6,5°
+13\. la rente accident complète ou partielle en vertu du livre II du Code de la sécurité sociale L. 12.5.10,6,5°
 du chef d’un accident survenu ou d’une maladie professionnelle déclarée après le 31
 décembre 2010;
-\14. la prime prévue à l’article 26 de la loi sur les traitements.
+14\. la prime prévue à l’article 26 de la loi sur les traitements.
 
 L. 25.3.15,11,7°
 
@@ -25171,7 +25171,7 @@ instituant ces établissements leur imposent une participation aux pensions de l
 agents;
 c)
 
-\3) par les transferts de cotisations résultant respectivement de l’application de l’article
+3\) par les transferts de cotisations résultant respectivement de l’application de l’article
 L. 25.3.15,12,2°
 9 de la loi de coordination, de l’article 12bis de la loi précitée du 26 mai 1954 et de
 l’article 88, sous 2. de la loi du 25 mars 2015 instituant un régime de pension spécial
@@ -25181,7 +25181,7 @@ internationales;.
 
 d)
 
-\3) par des dotations du budget de l'État destinées à assurer l'équilibre entre les recettes
+3\) par des dotations du budget de l'État destinées à assurer l'équilibre entre les recettes
 
 L. 3.8.98
 
@@ -25235,7 +25235,7 @@ Points renumérotés par L. 19.12.08, V, 4°.
 Par L. 19.12.14,25,3°,a) les termes « suivant le décès » sont remplacés par les termes « suivant le mois
 du décès ».
 
-\2. Le trimestre de faveur n'est pas dû:
+2\. Le trimestre de faveur n'est pas dû:
 
 à défaut de personnes remplissant les conditions d'allocation énumérées ci-avant,
 
@@ -25259,10 +25259,10 @@ de la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements 
 fonctionnaires de l'État ainsi que les modalités de mise en vigueur de la loi du 22 juin 1963
 fixant le régime des traitements des fonctionnaires de l'État telle qu'elle a été modifiée est
 applicable.
-\5. Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps partiel, chaque L. 19.5.03,V,5.,b)
+5\. Dans l’hypothèse de l’exercice de plus d’un service ou emploi à temps partiel, chaque L. 19.5.03,V,5.,b)
 service ou emploi donnera lieu à versement d’un trimestre de faveur, à moins de
 l’application du point 2 ci-avant.
-\6. Les dispositions du paragraphe II. de l’article 10 de la loi du 25 mars 2015 instituant un L. 25.3.15,13,3°
+6\. Les dispositions du paragraphe II. de l’article 10 de la loi du 25 mars 2015 instituant un L. 25.3.15,13,3°
 régime de pension spécial transitoire sont applicables pour la fixation du trimestre de
 faveur.
 
@@ -25271,7 +25271,7 @@ Art. 67. I. Le fonctionnaire ne peut prétendre à pension au titre de la prése
 avoir été préalablement démissionné, et le cas échéant, avoir été admis à la retraite.
 II. La mise à la retraite est prononcée sans autre forme de procédure par l'autorité à laquelle
 appartient le droit de nomination:
-\1. si le fonctionnaire est atteint par la limite d’âge fixée au lendemain du jour où il atteint L. 25.3.15,14,1°,a)
+1\. si le fonctionnaire est atteint par la limite d’âge fixée au lendemain du jour où il atteint L. 25.3.15,14,1°,a)
 l’âge de soixante-cinq ans, sauf pour les personnes visées à l’article 2.3., les envoyés
 extraordinaires et les ministres plénipotentiaires du corps diplomatique dont les
 fonctions ont été prorogées, les magistrats dont la limite d’âge est fixée par la loi du 7
@@ -25289,10 +25289,10 @@ décide du maintien en service en fixant la durée du maintien, sans que celle-c
 dépasser une année, et le degré d’occupation.
 Le maintien en service peut être renouvelé d’année en année selon les modalités
 prévues au présent paragraphe;
-\2. si le fonctionnaire, âgé de soixante ans et comptant quarante années au sens des L. 3.8.98
+2\. si le fonctionnaire, âgé de soixante ans et comptant quarante années au sens des L. 3.8.98
 articles 3 à 6, en fait la demande dans les conditions et délais prévus à l’article 39 de
 la loi précitée du 16 avril 1979 4);
-\3. si le fonctionnaire, âgé de cinquante-sept ans et comptant quarante années au sens de
+3\. si le fonctionnaire, âgé de cinquante-sept ans et comptant quarante années au sens de
 l'article 3, en fait la demande dans les conditions et délais prévus à l’article 39 de la loi
 précitée du 16 avril 1979 4).
 La prorogation des fonctions des envoyés extraordinaires et des ministres plénipotentiaires
@@ -25675,16 +25675,16 @@ Art. 77. Il est créé un régime de pension spécial applicable:
 
 L. 3.8.98
 
-\1. aux affiliés relevant de l'article 1er de la loi modifiée du 7 août 1912 concernant la
+1\. aux affiliés relevant de l'article 1er de la loi modifiée du 7 août 1912 concernant la
 création d'une caisse de prévoyance pour les fonctionnaires et employés des
 communes et établissements publics ou de l’article 78 de la loi du 25 mars 2015
 instituant un régime de pension spécial transitoire 3), entrés en service après le 31
 décembre 1998;
-\2. aux parlementaires, bénéficiaires d'un traitement d'attente conformément aux
+2\. aux parlementaires, bénéficiaires d'un traitement d'attente conformément aux
 dispositions de l'article 100 de la loi modifiée du 31 juillet 1924 concernant la
 modification de la loi électorale, et relevant du point 1 ci-avant à la veille de la prestation
 de serment de parlementaire;
-\3. en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux affiliés L. 25.3.15,24,2°
+3\. en ce qui concerne les dispositions du chapitre II – «Objet de l’assurance», aux affiliés L. 25.3.15,24,2°
 entrés en service avant le 1er janvier 1999 et auxquels l’article 16.5. de la loi précitée
 du 26 mai 1954 ou l’article 13 de la loi du 25 mars 2015 instituant un régime de pension
 spécial transitoire, a été rendu applicable.
@@ -25737,19 +25737,19 @@ transitoire. »
 Par L. 9.5.18,II,8° à l’article 79, alinéa 1er, la dernière phrase est supprimée.
 Par L. 25.3.15,26,2° les termes « la Commission des pensions » ont été supprimés.
 
-5)
+5\)
 
 L. 3.8.98
 
-\1. le traitement ou l'indemnité de base;
-\2. les suppléments de traitement;
-\3. l'allocation de famille;
-\4. l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires
+1\. le traitement ou l'indemnité de base;
+2\. les suppléments de traitement;
+3\. l'allocation de famille;
+4\. l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de bénéficiaires
 visés à l'article 1er, d'être entrés en service après le 31 décembre 1998;
-\5. la prime brevet de maîtrise prévue à l'article 16ter du prédit règlement grand-ducal du
+5\. la prime brevet de maîtrise prévue à l'article 16ter du prédit règlement grand-ducal du
 4 avril 1964;
-\6. la prime prévue à l'article 17. V. 3° du prédit règlement grand-ducal du 4 avril 1964;
-\7. jusqu'à concurrence d'un total de 22 points indiciaires les primes d'astreinte prévues
+6\. la prime prévue à l'article 17. V. 3° du prédit règlement grand-ducal du 4 avril 1964;
+7\. jusqu'à concurrence d'un total de 22 points indiciaires les primes d'astreinte prévues
 à l'article 19 du prédit règlement grand-ducal du 4 avril 1964.
 
 A l'égard des parlementaires et des conseillers d'État relevant du présent régime de
@@ -25767,26 +25767,26 @@ Art. 82. Il est créé un régime de pension spécial applicable
 
 L. 3.8.98
 
-\1. aux agents tombant sous les dispositions du statut du personnel de la société nationale
+1\. aux agents tombant sous les dispositions du statut du personnel de la société nationale
 des chemins de fer luxembourgeois et de son annexe, entrés en service après le 31
 décembre 1998;
-\2. aux parlementaires, bénéficiaires d'un traitement d'attente conformément aux
+2\. aux parlementaires, bénéficiaires d'un traitement d'attente conformément aux
 dispositions de l'article 100 de la loi modifiée du 31 juillet 1924 concernant la
 modification de la loi électorale, et relevant du point 1 ci-avant à la veille de la prestation
 de serment de parlementaire;
-\3. en ce qui concerne les dispositions du chapitre II - « Objet de l'assurance », aux agents
+3\. en ce qui concerne les dispositions du chapitre II - « Objet de l'assurance », aux agents
 des chemins de fer luxembourgeois visés ci-avant, entrés en service avant le 1er janvier
 1999 et auxquels l'article 16.5 de la loi précitée du 26 mai 1954 ou l’article 13 de la loi
 du 25 mars 2015 instituant un régime de pension spécial transitoire, a été rendu
 applicable1).
 Art. 83. Sont assurés obligatoirement conformément aux dispositions qui suivent,
-\1. les personnes, agents du cadre permanent et agents hors-statut, tombant sous les
+1\. les personnes, agents du cadre permanent et agents hors-statut, tombant sous les
 dispositions du statut du personnel de la société nationale des chemins de fer
 luxembourgeois et de son annexe;
-\2. les employés privés au service de la société nationale des chemins de fer
+2\. les employés privés au service de la société nationale des chemins de fer
 luxembourgeois dans les limites et sous les conditions prévues à la loi modifiée du 27
 janvier 1972 fixant le régime des employés de l'État;
-\3. les personnes relevant du point 2 de l'article 1er ci-avant.
+3\. les personnes relevant du point 2 de l'article 1er ci-avant.
 
 Pour autant que ces dispositions visent:
 
@@ -25825,13 +25825,13 @@ b) par la convention collective de travail des employés privés des CFL dans le
 visées à l'article 2 sous 2 du présent Titre III, et
 c) par les conventions individuelles conclues entre les CFL et leurs agents hors statut, à
 savoir:
-\1) le traitement ou la rémunération de base;
-\2) les suppléments de traitement ou de rémunération;
-\3) l'allocation de famille;
-\4) l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de
+1\) le traitement ou la rémunération de base;
+2\) les suppléments de traitement ou de rémunération;
+3\) l'allocation de famille;
+4\) l'allocation de fin d'année, sous réserve en ce qui concerne le cercle de
 bénéficiaires visés à l'article 1er, d'être entrés en service après le 31décembre
 1998;
-\5) jusqu'à concurrence d'un total de 22 points indiciaires les primes pour service de
+5\) jusqu'à concurrence d'un total de 22 points indiciaires les primes pour service de
 nuit et service de dimanche, prévues à l'article 48.12 du statut du personnel.
 
 A l'égard des parlementaires et des conseillers d'État relevant du présent régime de
@@ -25846,7 +25846,7 @@ visés à l’article 75 sont de la compétence des tribunaux du travail.
 Art. 91. Les régimes de pension particuliers existant auprès de l'État, des communes et de L. 3.8.98
 la Société nationale des Chemins de Fer luxembourgeois au moment de la mise en vigueur
 de la présente loi ne s'appliquent pas aux agents entrés en service après le 31 décembre
-1998.
+1998\.
 Un règlement grand-ducal peut prévoir des catégories d'agents qui, sous certaines
 conditions, doivent se soumettre à des examens périodiques en vue la constatation de leur
 aptitude à exercer leur fonction. Le règlement grand-ducal définit en outre:
@@ -26703,9 +26703,9 @@ droit, à sa demande, à un congé parental à plein temps de quatre ou de six m
 égale à la durée normale de travail applicable dans l’établissement / l’entreprise en vertu de la
 loi ou de la convention collective, peut prendre, en accord avec l’employeur, un congé parental
 sous les formes suivantes:
-\1. un congé parental fractionné avec réduction de la durée de travail à raison de vingt
+1\. un congé parental fractionné avec réduction de la durée de travail à raison de vingt
 pourcent par semaine pendant une période de vingt mois;
-\2. un congé parental fractionné sur quatre périodes d’un mois pendant une période
+2\. un congé parental fractionné sur quatre périodes d’un mois pendant une période
 maximale de vingt mois.
 (3) Chaque parent bénéficiaire détenteur d’un contrat de travail, dont la durée de travail est
 égale ou supérieure à la moitié de la durée normale de travail applicable dans l’établissement /
@@ -26999,7 +26999,7 @@ L. 20.6.20,6 : La présente loi entre en vigueur le jour de sa publication au Jo
 après son entrée en vigueur.
 L. 23.11.2020, 1er : À l’article 6 de la loi du 20 juin 2020 portant introduction d’un congé pour soutien familial dans le cadre de la lutte contre la pandémie
 Covid-19, la partie de phrase « cinq mois après son entrée en vigueur » est remplacée par les termes « le 25 mai 2021 ». (JO, Mém. A 922 du 23 novembre
-2020)
+2020\)
 L.15.12.20,1er, 2 et 3
 Art. 1er.
 Le Gouvernement est autorisé à participer au financement des mesures suivantes prises en charge par l’assurance maladie-maternité dans le cadre de
@@ -27186,37 +27186,37 @@ Chômage
 
 Art. 3. Le fonds pour l’emploi est alimenté par les ressources ci-après:
 L. 12.5.87
-\1) par des cotisations spéciales à charge des employeurs, à l’exception de l’État, des
+1\) par des cotisations spéciales à charge des employeurs, à l’exception de l’État, des
 communes, de la société nationale des chemins de fer et des établissements publics non
 soumis à l’impôt commercial communal sur le revenu et les capitaux d’exploitation, qui
 occupent sur le territoire luxembourgeois, autrement que de façon purement
 occasionnelle, une ou plusieurs personnes moyennant rémunération;
-\2) par des impôts de solidarité prélevés moyennant des majorations de l’impôt sur le revenu
+2\) par des impôts de solidarité prélevés moyennant des majorations de l’impôt sur le revenu
 des personnes physiques, et de l’impôt sur le revenu des collectivités;
-\3) par une contribution à charge des communes;
-\4) par un droit d’accise autonome additionnel prélevé sur les huiles minérales légères et les L. 17.6.94,10,1.
+3\) par une contribution à charge des communes;
+4\) par un droit d’accise autonome additionnel prélevé sur les huiles minérales légères et les L. 17.6.94,10,1.
 gasoils destinés à l’alimentation des moteurs de véhicules circulant sur la voie publique et
 utilisés comme carburant, dénommé contribution sociale;
-\5) par une contribution à charge de l’État à fixer annuellement par la loi budgétaire.
+5\) par une contribution à charge de l’État à fixer annuellement par la loi budgétaire.
 L. 12.5.87
 Art. 4. 1. L’alimentation du fonds pour l’emploi se fait par exercice budgétaire. Elle est réduite
 ou suspendue par la loi budgétaire lorsqu’il est à prévoir qu’à la fin de l’exercice précédant celui
 qui est concerné par ladite loi, l’avoir du fonds atteindra ou dépassera un montant
 correspondant à la moyenne des dépenses de l’année de référence et des deux années
 précédentes.
-\2. L’avoir du fonds pour l’emploi visé au paragraphe 1 du présent article correspond à l’avoir
+2\. L’avoir du fonds pour l’emploi visé au paragraphe 1 du présent article correspond à l’avoir
 provenant des ressources dont est question à l’article 3 et ne comprend pas les avances
 prévues à l’alinéa 2 du paragraphe 2 de l’article 9.
 Art. 5. 1. Les cotisations spéciales dues pour les années d’alimentation du fonds de chômage L. 30.6.76
 sont fixées à 0,25 pour cent1) des salaires ou rémunérations cotisables auprès de la Caisse
 nationale d’assurance pension.
-\2. Ces cotisations sont perçues de la même façon que les cotisations dues à la Caisse
+2\. Ces cotisations sont perçues de la même façon que les cotisations dues à la Caisse
 nationale d’assurance pension. Elles sont recouvrées d’après les modalités et avec les
 garanties, privilèges et hypothèques applicables aux cotisations dues aux mêmes organismes.
 L’article 33 de la loi modifiée du 29 avril 1964 2) concernant les prestations familiales est
 applicable.
-\3. La fixation de l’assiette des cotisations peut être précisée par règlement grand-ducal.
-\4. Le produit des cotisations est versé directement, dans le mois suivant la perception ou le
+3\. La fixation de l’assiette des cotisations peut être précisée par règlement grand-ducal.
+4\. Le produit des cotisations est versé directement, dans le mois suivant la perception ou le
 recouvrement, au fonds pour l’emploi.
 Art. 6.1. Pour les années d’alimentation du fonds pour l’emploi, l’impôt sur le revenu des L. 21.12.12,5,1°
 personnes physiques est porté à 107% du montant qui se dégage de l’application des
@@ -27224,25 +27224,25 @@ dispositions des articles 118, 120, 120bis, 121, 131 et 157 à 157ter de la loi 
 décembre 1967 concernant l’impôt sur le revenu. Le même impôt est porté à 109% pour la
 tranche du revenu imposable ajusté dépassant respectivement 150.000 e en classes 1 et 1a
 ou 300.00 e en classe 2.
-\2. Un règlement grand-ducal peut majorer les taux des différentes retenues prévues par la loi L. 30.6.76
+2\. Un règlement grand-ducal peut majorer les taux des différentes retenues prévues par la loi L. 30.6.76
 concernant l’impôt sur le revenu, sans que cette majoration puisse excéder 2,5 pour cent3). Le
 même règlement peut prévoir que les barèmes de la retenue d’impôt sur les salaires et les
 pensions sont établis de façon à tenir compte de la majoration introduite par le paragraphe 1
 du présent article et de celles décrétées en vertu de ce paragraphe.
-\3. Le produit de la majoration d’impôt relatif à une année d’imposition est censé correspondre
+3\. Le produit de la majoration d’impôt relatif à une année d’imposition est censé correspondre
 à 2,5 pour cent3) des recettes faites au titre de l’impôt sur le revenu des personnes physiques
 durant l’année civile portant le même millésime.
-\4. A la fin de chaque trimestre, le produit ainsi déterminé est versé au fonds pour l’emploi.
-\5. Ce produit est déduit du produit global de l’impôt sur le revenu des personnes physiques
+4\. A la fin de chaque trimestre, le produit ainsi déterminé est versé au fonds pour l’emploi.
+5\. Ce produit est déduit du produit global de l’impôt sur le revenu des personnes physiques
 avant le calcul de la participation des communes dans le produit de certains impôts de l’État.
 Art. 7. 1. Pour les années d’alimentation du fonds pour l’emploi, l’impôt sur le revenu des
 collectivités est porté à 104 pour cent3) du montant qui se dégage de l’application des dispositions
 de l’article 174 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
-\2. Le produit de la majoration d’impôt relatif à une année d’imposition est censé correspondre
+2\. Le produit de la majoration d’impôt relatif à une année d’imposition est censé correspondre
 à quatre pour cent 4) des recettes faites au titre de l’impôt sur le revenu des collectivités durant
 l’année civile portant le même millésime.
-\3. A la fin de chaque trimestre, le produit ainsi déterminé est versé au fonds pour l’emploi.
-\4. Ce produit est déduit du produit global de l’impôt sur le revenu des collectivités avant le
+3\. A la fin de chaque trimestre, le produit ainsi déterminé est versé au fonds pour l’emploi.
+4\. Ce produit est déduit du produit global de l’impôt sur le revenu des collectivités avant le
 calcul de la contribution annuelle de l’État au fonds communal de péréquation conjoncturale
 prévue à l’article 2 de la loi modifiée du 11 décembre 1967.
 
@@ -27266,17 +27266,17 @@ droits d’accise et les taxes assimilées sur les produits énergétiques, l’
 de tabacs manufacturés, l’alcool et les boissons alcooliques.
 Art. 8. 1. La contribution totale des communes au Fonds pour l’emploi est fixée à 2 pour cent L. 21.5.25, 1er
 du montant total des communes en impôt commercial.
-\2. La part de chaque commune dans la contribution totale des communes déterminée au
+2\. La part de chaque commune dans la contribution totale des communes déterminée au
 paragraphe 1er est définie comme le quotient de la participation directe de la commune au
 produit en impôt commercial communal généré sur son territoire par la somme des
 participations directes de l’ensemble des communes au produit de l’impôt commercial
 communal.
 Art. 9. 1. L’avoir disponible du fonds pour l’emploi peut être placé temporairement par le L. 30.6.76
 ministre des finances en vertu d’une délibération du Gouvernement en conseil.
-\2. Les revenus provenant de ces placements sont portés directement en recettes au fonds pour
+2\. Les revenus provenant de ces placements sont portés directement en recettes au fonds pour
 l’emploi. Il en est de même des excédents de recettes des comptables extraordinaires chargés
 éventuellement du paiement des dépenses énumérées à l’article 2 de la présente loi.
-\3. Au cas où les moyens du fonds pour l’emploi sont temporairement insuffisants pour couvrir
+3\. Au cas où les moyens du fonds pour l’emploi sont temporairement insuffisants pour couvrir
 les dépenses prévues à l’article 2, des avances peuvent être payées à charge du budget de
 l’État. Ces avances sont remboursables au fur et à mesure que le fonds pour l’emploi dispose
 des moyens nécessaires.
@@ -27296,8 +27296,8 @@ Chômage
 L. 17.12.10,3:
 Droit d’accise autonome additionnel dénommé «contribution sociale»
 (1) En vertu de l’article 7bis de la loi modifiée du 30 juin 1976 portant:
-\1. création d’un fonds pour l’emploi;
-\2. réglementation de l’octroi des indemnités de chômage complet, le taux de l’accise autonome
+1\. création d’un fonds pour l’emploi;
+2\. réglementation de l’octroi des indemnités de chômage complet, le taux de l’accise autonome
 additionnel dénommé «contribution sociale», qui ne peut pas être dépassé, est fixé comme suit par mille
 litres à la température de 15 degrés Celsius:
 a) essence au plomb .................................................................................................................... 168,00 R
@@ -27510,13 +27510,13 @@ maintenir un niveau satisfaisant de l'emploi en période de récession économiq
 général.
 L'application des mesures préventives et correctives à mettre en oeuvre à cet effet est sujette
 aux conditions suivantes:
-\1. il doit être établi que, par suite d'un recul considérable du carnet des commandes, le taux
+1\. il doit être établi que, par suite d'un recul considérable du carnet des commandes, le taux
 d'activité d'une ou de plusieurs branches économiques accuse une baisse prononcée par
 rapport à la moyenne des trois dernières années et qu'il y a lieu de s'attendre à une
 diminution importante des besoins en main-d'oeuvre;
-\2. il faut que les difficultés mentionnées ci-dessus aient une origine essentiellement
+2\. il faut que les difficultés mentionnées ci-dessus aient une origine essentiellement
 conjoncturelle et un caractère temporaire;
-\3. il faut que l'évolution prévisible permette d'escompter une reprise normale des affaires
+3\. il faut que l'évolution prévisible permette d'escompter une reprise normale des affaires
 assurant le rétablissement du plein emploi dans un délai raisonnable.
 Art. L. 511-2. Si, après concertation entre les employeurs et leur personnel, toutes les
 possibilités de maintien d'un niveau normal de l'emploi par les moyens propres des entreprises
@@ -27630,18 +27630,18 @@ dans l’emploi accompagnant une restructuration fondamentale et homologué conf
 L. 513-3 du Code du travail.
 Pour les salariés à temps partiel les 1.714 heures sont proratisées.
 L.24.11.21, 5: L’article 1er produit ses effets au 1er janvier 2021 et s’applique jusqu’au 31 décembre
-2021.
+2021\.
 D’après L.23.7.15,5 l’entrée en vigueur de cette disposition intervient après les prochaines élections
 sociales, au plus tard lors des élections 2018.
 
 Art. L. 511-10. Sont à considérer comme salariés régulièrement occupés par l'entreprise, tels
 que visés à l'article L. 511-9, les salariés qui:
-\1. sont légalement occupés auprès d'une entreprise légalement établie sur le territoire du
+1\. sont légalement occupés auprès d'une entreprise légalement établie sur le territoire du
 Grand-Duché de Luxembourg et ne se trouvent pas en situation de préavis sur base de
 l’article L. 124-3 1);
-\2. sont normalement occupés sur un lieu de travail situé sur le territoire du Grand-Duché de
+2\. sont normalement occupés sur un lieu de travail situé sur le territoire du Grand-Duché de
 Luxembourg;
-\3. sont assurés en qualité de salariés auprès des organismes de sécurité sociale
+3\. sont assurés en qualité de salariés auprès des organismes de sécurité sociale
 luxembourgeois.
 Art. L. 511-11. La computation des heures de travail perdues, la détermination du taux de L. 13.5.08,1,25°
 l'indemnité de compensation ainsi que la définition du salaire normal de référence font l'objet
@@ -27713,14 +27713,14 @@ habituellement occupé à plein temps par un employeur, a droit à l'octroi d'un
 chômage complet, pourvu qu'il réponde aux conditions d'admission déterminées à l'article
 L. 521-3.
 (2) II en est de même du salarié
-\1. occupé à temps partiel au sens de l'article L. 123-1 concernant le travail volontaire à temps
+1\. occupé à temps partiel au sens de l'article L. 123-1 concernant le travail volontaire à temps
 partiel, à condition qu'il ait effectué régulièrement seize heures de travail au moins par
 semaine auprès du même employeur;
-\2. au service de plusieurs employeurs, à condition qu'il ait perdu un ou plusieurs emplois d'un
+2\. au service de plusieurs employeurs, à condition qu'il ait perdu un ou plusieurs emplois d'un
 total de seize heures au moins par semaine dans un délai d'un mois et que le revenu de
 travail mensuel qui lui reste soit inférieur à cent cinquante pour cent du salaire social
 minimum pour salariés non qualifiés âgés de plus de dix-huit ans occupés à plein temps;
-\3. tombant dans le champ d'application de l'article L. 551-6, paragraphe (2), à condition que
+3\. tombant dans le champ d'application de l'article L. 551-6, paragraphe (2), à condition que
 la première décision de reclassement professionnel se rapporte à un ou plusieurs emplois
 d'un total de seize heures au moins par semaine et que le revenu de travail mensuel restant
 soit inférieur à cent cinquante pour cent du salaire social minimum pour salariés non
@@ -27737,28 +27737,28 @@ de nationalité.
 Section 2. Conditions d'admission
 Art. L. 521-3. Pour être admis au bénéfice de l’indemnité de chômage complet, le salarié doit L. 22.12.06,12
 répondre aux conditions d’admission suivantes:
-\1. être chômeur involontaire;
-\2. être domicilié sur le territoire luxembourgeois au moment de la notification du licenciement
+1\. être chômeur involontaire;
+2\. être domicilié sur le territoire luxembourgeois au moment de la notification du licenciement
 dans le cadre d’une relation de travail à durée indéterminée et au plus tard six mois avant
 le terme du contrat dans le cadre d’une relation de travail à durée déterminée et y avoir
 perdu son dernier emploi, sans préjudice des règles applicables en vertu de la
 réglementation communautaire ou de conventions bilatérales ou multilatérales en vigueur;
-\3. être âgé de seize ans au moins et de soixante-quatre ans au plus;
-\4. être apte au travail, disponible pour le marché du travail et prêt à accepter tout emploi L. 8.4.18,I,9°,a)
+3\. être âgé de seize ans au moins et de soixante-quatre ans au plus;
+4\. être apte au travail, disponible pour le marché du travail et prêt à accepter tout emploi L. 8.4.18,I,9°,a)
 approprié dont les critères relatifs au niveau de rémunération augmenté, le cas échéant de
 l’aide temporaire au réemploi, à l’aptitude professionnelle, à l’aptitude physique et
 psychique, au trajet journalier et à la situation familiale, au régime de travail, à la promesse
 d’embauche et aux conditions de travail sont fixés par règlement grand-ducal, et ceci sans
 préjudice de l’application des dispositions des articles L.551-1 à L.552-4;
-\5. (abrogé);
+5\. (abrogé);
 L. 31.10.12
-\6. être inscrit comme demandeur d’emploi auprès des services pour développement de L. 22.12.06,12
+6\. être inscrit comme demandeur d’emploi auprès des services pour développement de L. 22.12.06,12
 l’emploi et avoir introduit, électroniquement via une plateforme gouvernementale
 sécurisée 2), une demande d’octroi d’indemnité de chômage complet;
-\7. remplir la condition de stage définie à l’article L. 521-6;
-\8. n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de L. 8.4.18,I,9°,b)
+7\. remplir la condition de stage définie à l’article L. 521-6;
+8\. n’exerce pas la fonction de gérant, d’administrateur, d’administrateur-délégué ou de L. 8.4.18,I,9°,b)
 responsable à la gestion journalière dans une société;
-\9. n’est pas titulaire d’une autorisation d’établissement.
+9\. n’est pas titulaire d’une autorisation d’établissement.
 Les salariés qui ne remplissent pas une des conditions posées sous les points 8 et 9 ci-avant L. 8.4.18,I,9°,c)
 peuvent néanmoins être admis au bénéfice de l’indemnité de chômage complet en précisant
 dans leur demande d’admission qu’ils y ont droit après application de l’article L.521-18.
@@ -27786,9 +27786,9 @@ Art. L. 521-4. (1) Aucune indemnité de chômage n'est due:
 
 L. 31.7.06,annexe
 
-\1. en cas d'abandon non justifié du dernier poste de travail, sauf si l'abandon est dû à des
+1\. en cas d'abandon non justifié du dernier poste de travail, sauf si l'abandon est dû à des
 motifs exceptionnels, valables et convaincants;
-\2. en cas de licenciement pour motif grave.
+2\. en cas de licenciement pour motif grave.
 (2) Dans les cas d’un licenciement pour motif grave, d’une démission motivée par un acte de L. 8.4.18,I,10°,a)
 harcèlement sexuel ou par des motifs graves procédant du fait ou de la faute de l’employeur,
 le demandeur d’emploi peut, par voie de simple requête, demander au président de la
@@ -28095,11 +28095,11 @@ Art. L. 521-12. (1) Le droit à l'indemnité de chômage complet cesse:
 
 L. 31.7.06,annexe
 
-\1. lorsque les limites prévues à l'article L. 521-11 sont atteintes, ou
-\2. lorsqu'une ou plusieurs conditions d'octroi ne sont plus remplies, ou
-\3. lorsque la limite d'âge de 65 ans accomplis est dépassée, ou
-\4. en cas de refus non justifié d'un poste de travail approprié, ou
-\5. en cas de refus non justifié du chômeur de participer à des stages, cours ou travaux d'utilité
+1\. lorsque les limites prévues à l'article L. 521-11 sont atteintes, ou
+2\. lorsqu'une ou plusieurs conditions d'octroi ne sont plus remplies, ou
+3\. lorsque la limite d'âge de 65 ans accomplis est dépassée, ou
+4\. en cas de refus non justifié d'un poste de travail approprié, ou
+5\. en cas de refus non justifié du chômeur de participer à des stages, cours ou travaux d'utilité
 publique lui assignés par l'Agence pour le développement de l'emploi conformément au
 paragraphe (3) de l'article L. 523-1.
 Lorsque le chômeur ne respecte pas ses obligations fixées par la convention de collaboration L. 22.12.06,17
@@ -28792,7 +28792,7 @@ chômage accidentel ou technique sont déduits des subventions prévues à l'art
 
 Chômage
 
-5)
+5\)
 
 L.4.6.24,25,1°,a) : À l’alinéa 1er, deuxième phrase, les termes « conformément aux articles 454 à
 455sexties du Code de la sécurité sociale » sont insérés entre les termes ? « Conseil arbitral de la sécurité
@@ -28837,26 +28837,26 @@ Art. L. 533-1. (1) Sont admis au bénéfice des dispositions du chapitre Ier et 
 présent titre les salariés qui, involontairement et en dehors de tous motifs d'ordre personnel,
 ne peuvent plus travailler régulièrement par suite de l'effet immédiat des intempéries, à
 condition:
-\1. d'être légalement occupés auprès d'une entreprise légalement établie sur le territoire du
+1\. d'être légalement occupés auprès d'une entreprise légalement établie sur le territoire du
 Grand-Duché;
-\2. d'être occupés sur un lieu de travail situé sur le territoire du Grand-Duché au moment de
+2\. d'être occupés sur un lieu de travail situé sur le territoire du Grand-Duché au moment de
 la survenance du chômage;
-\3. d'être assurés en qualité de salariés auprès des organismes de sécurité sociale
+3\. d'être assurés en qualité de salariés auprès des organismes de sécurité sociale
 luxembourgeois;
-\4. d'être aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir
+4\. d'être aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas jouir
 d'une pension de vieillesse, d'une pension de vieillesse anticipée ou d'une pension
 d'invalidité.
 (2) Toutefois, le ministre ayant l'Emploi dans ses attributions peut, sur avis de l'Agence pour le
 développement de l'emploi, admettre au bénéfice des dispositions du chapitre Ier et du
 chapitre II du présent titre les salariés occupés, lors de la survenance du chômage, sur un lieu
 de travail situé dans les régions limitrophes du Grand-Duché, à condition:
-\1. qu'ils soient légalement occupés auprès d'une entreprise légalement établie sur le territoire
+1\. qu'ils soient légalement occupés auprès d'une entreprise légalement établie sur le territoire
 du Grand-Duché et dont l'activité normale se déroule sur le territoire luxembourgeois;
-\2. que le lieu de travail concerné se situe à cinquante kilomètres au plus du point de frontière
+2\. que le lieu de travail concerné se situe à cinquante kilomètres au plus du point de frontière
 le plus proche;
-\3. qu'ils soient assurés en qualité de salariés auprès des organismes de sécurité sociale
+3\. qu'ils soient assurés en qualité de salariés auprès des organismes de sécurité sociale
 luxembourgeois;
-\4. qu'ils soient aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas
+4\. qu'ils soient aptes au travail et âgés de moins de soixante-huit ans accomplis, et de ne pas
 jouir d'une pension de vieillesse, d'une pension de vieillesse anticipée ou d'une pension
 d'invalidité.
 (3) Le ministre ayant l'Emploi dans ses attributions, sur avis de l'Agence pour le développement
@@ -28919,12 +28919,12 @@ perdue involontairement et en dehors de tous motifs d’ordre personnel au-delà
 de huit heures au maximum par mois de calendrier, sans préjudice des dispositions de l’article
 L. 533-13, point 1.
 Sont à déduire du nombre des heures perdues:
-\1. les heures de travail perdues qui ont été récupérées à l’entreprise au cours du mois
+1\. les heures de travail perdues qui ont été récupérées à l’entreprise au cours du mois
 considéré,
-\2. les heures de travail effectuées au cours du mois pour le compte d’autres employeurs; le
+2\. les heures de travail effectuées au cours du mois pour le compte d’autres employeurs; le
 salarié est tenu de signaler à son employeur normal les heures de travail accessoires ainsi
 effectuées,
-\3. les heures de travail supplémentaires dépassant la durée de travail hebdomadaire normale
+3\. les heures de travail supplémentaires dépassant la durée de travail hebdomadaire normale
 du salarié.
 Les sanctions prévues à l’article L. 533-5 sont applicables aux salariés qui omettent de faire
 des déclarations ou qui font des déclarations inexactes au sujet des heures de travail
@@ -28966,29 +28966,29 @@ prorogée en conséquence.
 Art. L. 533-13. L’indemnité compensatoire de salaire avancée par l’employeur concerné en L. 22.12.06,8
 vertu des dispositions du présent titre est prise en charge, par l’employeur et par le Fonds pour
 l’emploi selon les modalités suivantes:
-\1. l’indemnité compensatoire de salaire correspondant à la première tranche de seize heures
+1\. l’indemnité compensatoire de salaire correspondant à la première tranche de seize heures
 perdues au maximum par mois de calendrier est prise en charge par l’employeur;
-\2. le montant du remboursement à verser par le Fonds pour l’emploi à l’employeur concerné L. 31.7.06,annexe
+2\. le montant du remboursement à verser par le Fonds pour l’emploi à l’employeur concerné L. 31.7.06,annexe
 correspond au montant global de l’indemnité compensatoire de salaire avancée par
 l’employeur pour les heures de travail perdues au-delà de la tranche telle que définie au
 point 1 ci-dessus;
-\3. le versement de l’indemnité compensatoire de salaire et le remboursement par le Fonds
+3\. le versement de l’indemnité compensatoire de salaire et le remboursement par le Fonds
 pour l’emploi selon les modalités fixées au présent article sont limités à un maximum de
 trois cent cinquante heures de travail par salarié et par année de calendrier. En cas
 d’intempéries rigoureuses ou de sinistre grave d’une durée exceptionnelle, ce nombrelimite peut être majoré, par décision du Gouvernement en conseil sur avis de l’Agence pour
 le développement de l’emploi, jusqu’à cinq cents heures;
-\4. les salaires dus pour les jours de congé payé et pour les jours fériés légaux ou d’usage ainsi
+4\. les salaires dus pour les jours de congé payé et pour les jours fériés légaux ou d’usage ainsi
 que d’autres prestations extra-légales restent à charge de l’employeur;
-\5. les cotisations patronales de sécurité sociale, à l’exception toutefois des cotisations
+5\. les cotisations patronales de sécurité sociale, à l’exception toutefois des cotisations
 d’assurance accident et des cotisations dues en matière de prestations familiales, restent
 à charge de l’employeur;
-\6. le remboursement est refusé pour des heures ou journées de chômage reconnues comme
+6\. le remboursement est refusé pour des heures ou journées de chômage reconnues comme
 non justifiées;
-\7. le remboursement est refusé pour les heures ou journées de chômage non déclarées en
+7\. le remboursement est refusé pour les heures ou journées de chômage non déclarées en
 temps utile à l’Agence pour le développement de l’emploi conformément aux articles L.
 531-4 et L. 532-3, dans la mesure où ce retard avait provoqué des dépenses qui auraient
 pu être évitées;
-\8. le refus de remboursement prononcé en vertu des points 6 et 7 ne peut préjudicier le droit
+8\. le refus de remboursement prononcé en vertu des points 6 et 7 ne peut préjudicier le droit
 du salarié de toucher l’indemnité compensatoire de salaire conformément aux articles L.
 533-8 et L. 533-9.
 Art. L. 533-14. (1) Au début du mois suivant celui de la survenance du chômage, l’employeur
@@ -29251,27 +29251,27 @@ dispositions de l'article L. 585-1 y compris la part patronale des charges socia
 cette indemnité, à condition que l’employeur justifie l’embauche effective, sous le couvert d’un
 contrat de travail à temps plein ou d’un contrat de travail à temps partiel conclu à durée
 indéterminée, ou d’un contrat d’apprentissage:
-\1. d’un ou de plusieurs chômeurs indemnisés ou de demandeurs d’emploi sans emploi
+1\. d’un ou de plusieurs chômeurs indemnisés ou de demandeurs d’emploi sans emploi
 inscrits depuis trois mois au moins et lui proposés par l’Agence pour le développement de
 l’emploi, afin de pourvoir, pour le moins, à la fraction du poste libérée par suite de la
 réduction de la durée de travail du salarié bénéficiant de la préretraite progressive. Sur avis
 de l’Agence pour le développement de l’emploi la durée d’inscription minimale peut être
 réduite à un mois;
-\2. d’un ou de plusieurs salariés dont le contrat de travail à durée déterminée a été transformé
+2\. d’un ou de plusieurs salariés dont le contrat de travail à durée déterminée a été transformé
 en contrat à durée indéterminée dans les délais visés aux paragraphes 2 et 3 à condition
 que le contrat à durée déterminée ait été précédé d’une période d’indemnisation
 conformément aux dispositions du Livre V, Titre II ou d’une période d’inscription comme
 demandeur d’emploi sans emploi proposé à l’employeur conformément aux articles L. 6221 et suivants;
-\3. d’un ou de plusieurs demandeurs d’emploi sans emploi bénéficiant d’une mesure en faveur
+3\. d’un ou de plusieurs demandeurs d’emploi sans emploi bénéficiant d’une mesure en faveur
 de l’emploi prévue aux Chapitres III et IV du Titre II du Livre V et au Chapitre III du Titre IV
 du Livre V;
-\4. d’un ou de plusieurs salariés ou d’apprentis provenant d’une entreprise confrontée à des
+4\. d’un ou de plusieurs salariés ou d’apprentis provenant d’une entreprise confrontée à des
 difficultés conjoncturelles ou structurelles et exposés à un risque imminent de
 licenciement;
-\5. d’un ou de plusieurs salariés provenant d’une entreprise ayant conclu un plan de maintien
+5\. d’un ou de plusieurs salariés provenant d’une entreprise ayant conclu un plan de maintien
 dans l’emploi au sens de l’article L. 513-3, homologué par le ministre ayant l’Emploi dans
 ses attributions;
-\6. d’un ou de plusieurs salariés provenant d’une entreprise en faillite ou en liquidation
+6\. d’un ou de plusieurs salariés provenant d’une entreprise en faillite ou en liquidation
 judiciaire.
 (2) Pour les besoins de l’application des dispositions du présent article, peuvent être prises en
 considération les embauches effectuées dans les six mois qui précèdent l’admission à la
@@ -29316,10 +29316,10 @@ de la durée de travail antérieure.
 
 L. 31.7.06,annexe
 
-\1. contrat de travail à temps plein;
-\2. contrat de travail à temps partiel conformément aux dispositions du livre Ier, titre II, chapitre
+1\. contrat de travail à temps plein;
+2\. contrat de travail à temps partiel conformément aux dispositions du livre Ier, titre II, chapitre
 III relatif à l'emploi des salariés à temps partiel;
-\3. contrat d'apprentissage.
+3\. contrat d'apprentissage.
 Art. L. 584-5. La convention visée à l’article L. 584-1, sinon la délégation du personnel de L. 30.11.17,2,12°
 l’entreprise, peut établir les critères de priorité pour l’admission à la préretraite. À défaut
 d’obligation d’avoir une délégation du personnel, l’employeur, après consultation du personnel
@@ -29422,15 +29422,15 @@ transformation de fonds ou mise en société, les obligations résultant pour l�
 dispositions du présent chapitre subsistent entre le nouvel employeur et le personnel de
 l’entreprise transférée dans la mesure où elles se trouvent en cours au jour de la modification.
 Art. L. 584-10. Les droits à l’indemnité de pension progressive cessent de plein droit :
-\1. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse à partir de
+1\. à partir du jour où les conditions d’ouverture du droit à une pension de vieillesse à partir de
 l’âge de soixante-cinq ans sont remplies ;
-\2. à partir du jour où le salarié a droit, sur sa demande, à une pension de vieillesse anticipée
+2\. à partir du jour où le salarié a droit, sur sa demande, à une pension de vieillesse anticipée
 ou à une pension d’invalidité ;
-\3. à partir du jour du décès du salarié ;
-\4. à partir du jour où le salarié exerce ou reprend une activité dépassant le temps de travail
+3\. à partir du jour du décès du salarié ;
+4\. à partir du jour où le salarié exerce ou reprend une activité dépassant le temps de travail
 fixé par le dernier avenant au contrat de travail conformément à l’article L. 584-8,
 paragraphe 3 ;
-\5. à partir du jour où le salarié exerce ou reprend une autre activité lui rapportant un revenu
+5\. à partir du jour où le salarié exerce ou reprend une autre activité lui rapportant un revenu
 qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable
 au salarié concerné.
 
@@ -29464,13 +29464,13 @@ l’indemnité de préretraite peut être portée jusqu’à dix-huit mois par d
 l’Emploi dans ses attributions.
 (5) Doivent être compris dans le salaire de référence servant au calcul de l’indemnité mensuelle
 de préretraite:
-\1. les indemnités pécuniaires de maladie;
-\2. les primes et suppléments courants;
-\3. le treizième mois à raison d’un douzième par mois;
-\4. la moyenne de la gratification des trois dernières années à raison d’un douzième par mois;
-\5. l’indemnité compensatoire visée à l’article L. 551-2 (3);
-\6. l’aide temporaire au réemploi visée au point 9 du paragraphe 1er de l’article L. 631-2;
-\7. les pertes de salaire subies par le salarié au cours de la période de référence au titre de
+1\. les indemnités pécuniaires de maladie;
+2\. les primes et suppléments courants;
+3\. le treizième mois à raison d’un douzième par mois;
+4\. la moyenne de la gratification des trois dernières années à raison d’un douzième par mois;
+5\. l’indemnité compensatoire visée à l’article L. 551-2 (3);
+6\. l’aide temporaire au réemploi visée au point 9 du paragraphe 1er de l’article L. 631-2;
+7\. les pertes de salaire subies par le salarié au cours de la période de référence au titre de
 chômage partiel ou de chômage dû aux intempéries ou en cas de chômage accidentel ou
 technique.
 Sont exclus les salaires pour heures supplémentaires et toutes indemnités pour frais
@@ -29498,10 +29498,10 @@ normaux prévus pour le paiement des salaires et traitements, sous déduction de
 à qui de droit et des charges visées au présent article.
 Art. L. 585-3. (1) L'employeur est obligé d'informer immédiatement l'Agence pour le
 développement de l'emploi:
-\1. en cas d'arrêt du versement de l'indemnité de préretraite;
-\2. en cas de cessation de l’emploi du salarié embauché en remplacement du salarié admis à L. 30.11.17,2,15°
+1\. en cas d'arrêt du versement de l'indemnité de préretraite;
+2\. en cas de cessation de l’emploi du salarié embauché en remplacement du salarié admis à L. 30.11.17,2,15°
 la préretraite conformément aux dispositions de l’article L. 584-3;
-\3. en cas de réembauchage d’un salarié conformément aux dispositions du deuxième alinéa
+3\. en cas de réembauchage d’un salarié conformément aux dispositions du deuxième alinéa
 de l’article L. 584-7.
 (2) Le salarié admis à la préretraite est obligé d'informer immédiatement l'employeur et L. 31.7.06,annexe
 l'Agence pour le développement de l'emploi de toute modification de sa situation personnelle
@@ -29531,15 +29531,15 @@ pour l'employeur des dispositions du présent titre subsistent entre le nouvel e
 personnel de l'entreprise transférée dans la mesure où elles se trouvent en cours au jour de la
 modification.
 Art. L. 585-6. Les droits à l'indemnité de préretraite cessent de plein droit:
-\1. à partir du jour où les conditions d'ouverture du droit à une pension de vieillesse sont
+1\. à partir du jour où les conditions d'ouverture du droit à une pension de vieillesse sont
 remplies;
-\2. à partir du jour où le préretraité remplit les conditions de stage pour avoir droit à la pension L. 30.11.17,2,17°
+2\. à partir du jour où le préretraité remplit les conditions de stage pour avoir droit à la pension L. 30.11.17,2,17°
 de vieillesse anticipée à partir de l’âge de soixante-trois ans, sauf en cas d’application du
 quatrième alinéa du paragraphe 7 de l’article L. 582-2;
-\3. dans tous les cas, à partir du jour où le préretraité a droit, sur sa demande, à une pension L. 31.7.06,annexe
+3\. dans tous les cas, à partir du jour où le préretraité a droit, sur sa demande, à une pension L. 31.7.06,annexe
 de vieillesse anticipée ou à une pension d'invalidité;
-\4. à partir du jour du décès du préretraité;
-\5. à partir du jour où le bénéficiaire exerce ou reprend une activité lui rapportant un revenu
+4\. à partir du jour du décès du préretraité;
+5\. à partir du jour où le bénéficiaire exerce ou reprend une activité lui rapportant un revenu
 qui, sur une année civile, dépasse par mois la moitié du salaire social minimum applicable
 au salarié concerné. 1)
 Art. L. 585-7. (1) L'indemnité de préretraite doit être supprimée si les conditions prévues par le
@@ -29661,14 +29661,14 @@ Chômage
 Art. L. 631-1. Il est institué un Fonds pour l’emploi, géré suivant les règles fixées à l’article 76
 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’État.
 Art. L. 631-2. (1) Le Fonds pour l’emploi est destiné à couvrir les dépenses résultant:
-\1. de l’octroi des indemnités de chômage complet, conformément au livre V, titre II;
-\2. de l’allocation de subventions aux entreprises pour l’indemnisation des chômeurs partiels
+1\. de l’octroi des indemnités de chômage complet, conformément au livre V, titre II;
+2\. de l’allocation de subventions aux entreprises pour l’indemnisation des chômeurs partiels
 en cas de chômage dû aux intempéries et en cas de chômage accidentel ou technologique,
 conformément au livre V, titre III;
-\3. de la mise en œuvre de travaux extraordinaires d’intérêt général, autorisés conformément
+3\. de la mise en œuvre de travaux extraordinaires d’intérêt général, autorisés conformément
 au livre V, titre Ier, chapitre Ier, section 3;
 
-\4. des frais résultant du détachement de main-d’œuvre par des entreprises disposant
+4\. des frais résultant du détachement de main-d’œuvre par des entreprises disposant
 d’unités en surnombre, en vue du renforcement temporaire des effectifs de l’Agence pour
 le développement de l’emploi, et des frais résultant du prêt temporaire de main-d’œuvre
 par des entreprises respectivement des organisations patronales mettant à la disposition
@@ -29679,39 +29679,39 @@ l’Agence pour le développement de l’emploi;
 
 R. 22.12.06,231)
 
-\5. de la garantie des créances visées au paragraphe 2 de l’article L.126-1. Les L. 12.4.19,1er,6°
+5\. de la garantie des créances visées au paragraphe 2 de l’article L.126-1. Les L. 12.4.19,1er,6°
 remboursements au Fonds pour l’emploi des avances par lui consenties sont portés
 directement en recette au Fonds pour l’emploi;
-\6. du remboursement à l’employeur de la quote-part du Fonds pour l’emploi dans l’indemnité
+6\. du remboursement à l’employeur de la quote-part du Fonds pour l’emploi dans l’indemnité
 visée à l’article L. 543-14 et de la prise en charge de la part patronale des charges sociales
 afférentes à cette indemnité;
-\7. de la prise en charge des frais relatifs aux cours de formation visés à l’article L. 543-3 2);
-\8. de la prise en charge des frais relatifs à l’établissement, par des organismes tiers, sur
+7\. de la prise en charge des frais relatifs aux cours de formation visés à l’article L. 543-3 2);
+8\. de la prise en charge des frais relatifs à l’établissement, par des organismes tiers, sur
 demande de l’Administration de l’emploi, de bilans d’insertion professionnelle et de bilans
 de compétences pour chômeurs, indemnisés ou non indemnisés, inscrits à l’Agence pour
 le développement de l’emploi;
-\9. de l’octroi d’une aide temporaire au réemploi conformément aux articles L.541-5 et L. 8.4.18,I,27°,b)
+9\. de l’octroi d’une aide temporaire au réemploi conformément aux articles L.541-5 et L. 8.4.18,I,27°,b)
 suivants;
 
 R. 17.6.94
 
-\10. des frais informatiques résultant de l’application des lois et règlements ayant pour objet la
+10\. des frais informatiques résultant de l’application des lois et règlements ayant pour objet la
 lutte contre le chômage et le sous-emploi et la protection sociale des personnes sans
 emploi;
-\11. de l’octroi d’une aide forfaitaire à la mobilité géographique des demandeurs d’emploi, sans
+11\. de l’octroi d’une aide forfaitaire à la mobilité géographique des demandeurs d’emploi, sans
 emploi, inscrits à l’Agence pour le développement de l’emploi dans les conditions et
 d’après les modalités d’attribution déterminées par règlement grand-ducal;
-\12. de l’octroi aux employeurs d’une aide à l’embauche de chômeurs indemnisés de longue
+12\. de l’octroi aux employeurs d’une aide à l’embauche de chômeurs indemnisés de longue
 durée ainsi que de demandeurs d’emploi inscrits à l’Agence pour le développement de
 l’emploi et particulièrement difficiles à placer. Un règlement grand-ducal détermine les
 catégories de personnes auxquelles s’applique la présente disposition, ainsi que les
 conditions et modalités d’attribution de l’aide;
-\13. (point abrogé) 3);
-\14. de l’octroi de l’aide à la création d’entreprises par les chômeurs indemnisés visée à l’article
+13\. (point abrogé) 3);
+14\. de l’octroi de l’aide à la création d’entreprises par les chômeurs indemnisés visée à l’article
 37 de la loi du 19 décembre 1983 concernant le budget des recettes et des dépenses de
 l’État pour l’exercice 1984;
-\15. du concours du Fonds pour l’emploi à la préretraite conformément au livre V, titre VIII;
-\16. de l’affectation de demandeurs d’emploi sans emploi inscrits à l’Agence pour le
+15\. du concours du Fonds pour l’emploi à la préretraite conformément au livre V, titre VIII;
+16\. de l’affectation de demandeurs d’emploi sans emploi inscrits à l’Agence pour le
 développement de l’emploi à des tâches déclarées d’utilité publique ou à des expériences
 de travail conformément aux dispositions des paragraphes (2) et (3) de l’article L. 523-1, y
 compris notamment les indemnités complémentaires, les dépenses d’assurance, de
@@ -29720,24 +29720,24 @@ protection et de tous autres frais connexes. Il en est de même des dépenses d�
 de transport, de matériel, d’outillage, de moyens de sécurité et de protection résultant des
 activités d’insertion professionnelle prévues à l’article 10 de la loi modifiée du 29 avril 1999
 portant création d’un droit à un revenu minimum garanti;
-\17. de l’octroi des aides à l’embauche de chômeurs âgés et de chômeurs de longue durée;
-\18. de la préparation et du fonctionnement des actions de prospection, de gestion des offres
+17\. de l’octroi des aides à l’embauche de chômeurs âgés et de chômeurs de longue durée;
+18\. de la préparation et du fonctionnement des actions de prospection, de gestion des offres
 et demandes d’emploi, de conseil et de placement organisées par l’Agence pour le
 développement de l’emploi dans le cadre des missions lui dévolues sur le plan national et
 international. Les aides accordées éventuellement par les instruments financiers des
 Communautés européennes aux actions financières sur la base des dispositions du
 présent point sont portées directement en recette au Fonds pour l’emploi;
-\19. du remboursement aux employeurs de la quote-part du Fonds pour l’emploi dans
+19\. du remboursement aux employeurs de la quote-part du Fonds pour l’emploi dans
 l’indemnité compensatoire de salaire due aux salariés en cas de chômage involontaire pour
 intempéries ou en cas de chômage accidentel ou technique involontaire et des cotisations,
 le cas échéant, dues à l’Association d’assurance accident pour les salariés concernés;
 
 Chômage
 
-\20. du paiement des salaires dus au personnel d’encadrement psycho-socio-pédagogique
+20\. du paiement des salaires dus au personnel d’encadrement psycho-socio-pédagogique
 des demandeurs d’emploi, conformément à l’article VI de la loi du 31 juillet 1995 relative à
 l’emploi et à la formation professionnelle;
-\21. de l’octroi des indemnités dues aux demandeurs d’emploi affectés au pool d’assistants aux
+21\. de l’octroi des indemnités dues aux demandeurs d’emploi affectés au pool d’assistants aux
 directeurs des établissements d’enseignement postprimaire conformément à l’article VII de
 la loi du 31 juillet 1995 relative à l’emploi et à la formation professionnelle;
 
@@ -29748,72 +29748,72 @@ modifié les articles L. 543-1 à L. 543-33, le présent renvoi devrait être ad
 Par L. 8.4.18,I,27°,c, le point 13 « de l’octroi de l’aide à la création d’emplois d’utilité socio-économique
 dans les conditions et d’après les modalités à fixer par règlement grand-ducal » a été supprimé.
 
-\22. de l’octroi des indemnités dues aux préretraités affectés à l’encadrement des demandeurs
+22\. de l’octroi des indemnités dues aux préretraités affectés à l’encadrement des demandeurs
 d’emploi placés dans une mesure de mise au travail ou de formation professionnelle
 conformément à l’article L. 587-1;
-\23. de la prise en charge de la quote-part de l’indemnité de base versée au jeune dans le cadre
+23\. de la prise en charge de la quote-part de l’indemnité de base versée au jeune dans le cadre
 du stage d’insertion conformément à l’article L. 543-14 1);
-\24. de la prise en charge de la quote-part revenant au demandeur d’emploi indemnisé ou non, L. 31.7.06,annexe
+24\. de la prise en charge de la quote-part revenant au demandeur d’emploi indemnisé ou non, L. 31.7.06,annexe
 ainsi que la prise en charge des cotisations en matière de sécurité sociale et d’assurance
 accident au cours des stages de professionnalisation et des contrats de réinsertion-emploi
 prévus aux articles L.524-1 et L.524-4;
-\25. de la prise en charge de la prime versée à l’employeur en cas de passage d’un salarié d’un
+25\. de la prise en charge de la prime versée à l’employeur en cas de passage d’un salarié d’un
 travail à temps plein vers un travail à temps partiel conformément à l’article L. 526-2;
-\26. de la prise en charge de la prime versée à l’employeur en cas d’embauche de chômeurs
+26\. de la prise en charge de la prime versée à l’employeur en cas d’embauche de chômeurs
 inscrits à l’Agence pour le développement de l’emploi par suite d’une réduction du temps
 de travail prévue par la convention collective, conformément à l’article L. 526-1;
-\27. de la prise en charge des frais occasionnés par les examens médicaux ou psychologiques
+27\. de la prise en charge des frais occasionnés par les examens médicaux ou psychologiques
 des demandeurs d’emploi décidés en application de l’article L. 622-9 2);
-\28. de la prise en charge des frais de voyage et des frais de garde d’enfants encourus par les
+28\. de la prise en charge des frais de voyage et des frais de garde d’enfants encourus par les
 personnes visées au paragraphe (1) de l’article L. 526-3;
-\29. de la prise en charge de la différence entre l’indemnité de chômage et l’indemnité de stage
+29\. de la prise en charge de la différence entre l’indemnité de chômage et l’indemnité de stage
 conformément à l’article L. 543-20 2);
-\30. de la prise en charge du complément d’indemnité versé aux personnes adultes qui suivent
+30\. de la prise en charge du complément d’indemnité versé aux personnes adultes qui suivent
 un apprentissage conformément à l’article 26 de la loi modifiée du 4 septembre 1990
 portant réforme de l’enseignement secondaire technique et de la formation professionnelle
 continue;
-\31. de la prise en charge des dépenses liées à l’exploitation des possibilités offertes par la
+31\. de la prise en charge des dépenses liées à l’exploitation des possibilités offertes par la
 création d’emplois à l’échelon local, dans l’économie sociale et dans les nouvelles activités
 liées aux besoins non encore satisfaits par le marché notamment dans les domaines de la
 rénovation urbaine, de l’environnement, de l’exploitation touristique, de l’encadrement des
 jeunes et de l’aide familiale de proximité;
-\32. de l’octroi d’une indemnité compensatoire visée à l’article L. 551-2;
-\33. 3de l’octroi aux employeurs des aides prévues à l’article L. 551-7, paragraphes (2) et (3);
-\34. de la prise en charge des frais résultant de l’application des mesures de réhabilitation, de L.24.7.20,13
+32\. de l’octroi d’une indemnité compensatoire visée à l’article L. 551-2;
+33\. 3de l’octroi aux employeurs des aides prévues à l’article L. 551-7, paragraphes (2) et (3);
+34\. de la prise en charge des frais résultant de l’application des mesures de réhabilitation, de L.24.7.20,13
 reconversion et de formation professionnelle continue prévues à l'article L.522-2;
-\35. de la prise en charge de l’indemnité compensatoire versée aux salariés handicapés en L.31.7.06, annexe
+35\. de la prise en charge de l’indemnité compensatoire versée aux salariés handicapés en L.31.7.06, annexe
 vertu de l’article 45, paragraphe (1), deuxième alinéa de la loi du 12 septembre 2003 relative
 aux personnes handicapées;
-\36. de la prise en charge, totale ou partielle, des dépenses des mesures d’insertion ou de
+36\. de la prise en charge, totale ou partielle, des dépenses des mesures d’insertion ou de
 réinsertion organisées à l’intention des chômeurs, indemnisés ou non, inscrits à l’Agence
 pour le développement de l’emploi et assignées par le service du placement de l’Agence
 pour le développement de l’emploi. Les conditions et modalités d’attribution de l’aide sont
 régies par une convention à conclure avec le ministre ayant l’Emploi dans ses attributions;
-\37. de la prise en charge, totale ou partielle, des dépenses de mesures de qualification
+37\. de la prise en charge, totale ou partielle, des dépenses de mesures de qualification
 individuelles, à l’intérieur du pays ou à l’étranger, pour chômeurs, indemnisés ou non,
 inscrits à l’Agence pour le développement de l’emploi, en vue d’augmenter leur
 employabilité, mesures assignées par le service du placement de l’Agence pour le
 développement de l’emploi. Un règlement grand-ducal détermine les conditions et
 modalités de l’attribution de l’aide;
-\38. assurer la mise en œuvre et le suivi des mesures visées au titre IX du livre V.
+38\. assurer la mise en œuvre et le suivi des mesures visées au titre IX du livre V.
 
 L. 3.3.09,III
 
-\39. de la prise en charge des frais d’évaluation qualitative3) et quantitative permanente, par des L. 18.1.12,6,5°
+39\. de la prise en charge des frais d’évaluation qualitative3) et quantitative permanente, par des L. 18.1.12,6,5°
 experts externes, de la mise en œuvre des nouvelles dispositions relatives à la loi du 18
 janvier 2012 portant création de l’Agence pour le développement de l’emploi, ainsi que des
 mesures actives en faveur de l’emploi telles que décrites par le livre V du Code du travail.
-\40. de la prise en charge des frais résultant de l’application, de la promotion et du suivi de la L. 11.11.09,12,3
+40\. de la prise en charge des frais résultant de l’application, de la promotion et du suivi de la L. 11.11.09,12,3
 loi du 11 novembre 2009: 1. concernant certaines mesures temporaires visant à atténuer
 les effets de la crise économique sur l’emploi des jeunes; 2. modifiant certaines
 dispositions du Code du travail.
 
 Chômage
 
-\41. de la prise en charge des frais engendrés par la collaboration entre les services de l’Agence L. 22.12.06,11
+41\. de la prise en charge des frais engendrés par la collaboration entre les services de l’Agence L. 22.12.06,11
 pour le développement de l’emploi et les entreprises du secteur du travail intérimaire
 respectivement du secteur du recrutement;
-\42. de la pise en charge des frais d’expertise par des experts externes visés à l’article L. 5131(3) et des frais engendrés par des mesures de maintien dans l’emploi prévues dans un
+42\. de la pise en charge des frais d’expertise par des experts externes visés à l’article L. 5131(3) et des frais engendrés par des mesures de maintien dans l’emploi prévues dans un
 plan de maintien dans l’emploi au sens de l’article L. 513-3 homologué par le ministre ayant
 l’Emploi dans ses attributions.
 
@@ -29823,39 +29823,39 @@ modifié les articles L. 543-1 à L. 543-33, le présent renvoi devrait être ad
 Par L. 18.1.12 la référence à l’article L. 622-10 a été remplacée par une référence à l’article L. 622-9.
 Par L. 21.12.12,1,6° le terme « qualificative » a été remplacé par le terme « qualitative ».
 
-\43. (point supprimé)
+43\. (point supprimé)
 
 L. 12.7.19,5
 
-\44. (...)
+44\. (...)
 
 L. 19.12.08,61,(4)
 
-\45. de la moitié de l’octroi d’une indemnité professionnelle d’attente visée à l’article L. 551-5, L. 23.7.15,I,30°
+45\. de la moitié de l’octroi d’une indemnité professionnelle d’attente visée à l’article L. 551-5, L. 23.7.15,I,30°
 paragraphe 2 et de la prise en charge de la moitié de la part patronale des charges sociales
 afférentes à cette indemnité.
-\46. des frais résultant du détachement de main-d’œuvre, autorisé par le ministre ayant l’Emploi L. 23.12.16,4°
+46\. des frais résultant du détachement de main-d’œuvre, autorisé par le ministre ayant l’Emploi L. 23.12.16,4°
 dans ses attributions, par des entreprises disposant d’unités en surnombre, en vue du
 renforcement temporaire des effectifs du Service de la formation professionnelle, et des
 frais résultant du prêt temporaire de main d’œuvre par des entreprises mettant à la
 disposition temporaire du Service de la formation professionnelle des spécialistes en
 matière de formation.
-\47. des frais résultant du détachement de main-d’œuvre, autorisé par le Gouvernement en
+47\. des frais résultant du détachement de main-d’œuvre, autorisé par le Gouvernement en
 conseil, par des entreprises disposant d’unités en surnombre, en vue du renforcement
 temporaire des effectifs auprès d’administrations publiques autres que celles visées par les
 points 4 et 46 qui précèdent, et des frais résultant du prêt temporaire de main-d’œuvre par
 des entreprises mettant à la disposition temporaire de ces administrations des spécialistes
 dans leurs domaines respectifs;
-\48. de la prise en charge des aides à l’embauche de chômeurs de longue durée prévues aux L. 20.7.17,9
+48\. de la prise en charge des aides à l’embauche de chômeurs de longue durée prévues aux L. 20.7.17,9
 articles L. 541-5 et L. 541-6.
-\49. de la mise en place et de la mise en œuvre de tout programme visant à développer les L. 15.12.17,35
+49\. de la mise en place et de la mise en œuvre de tout programme visant à développer les L. 15.12.17,35
 compétences des salariés d’entreprises connaissant les transformations techniques
 majeures ou les changements importants de leur environnement concurrentiel.
-\50. de la prise en charge des dépenses en relation avec l’assistance à l’inclusion dans l’emploi L. 1.8.19,2
+50\. de la prise en charge des dépenses en relation avec l’assistance à l’inclusion dans l’emploi L. 1.8.19,2
 en vertu des articles L. 553-4 et L. 553-6.
-\51. de la mise en œuvre de tout programme visant à développer les compétences des salariés L. 16.4.21
+51\. de la mise en œuvre de tout programme visant à développer les compétences des salariés L. 16.4.21
 occupés dans une entreprise qui s’est vue accorder le bénéfice du chômage partiel.
-\52. de la participation aux frais de conseil, aux frais directs de formation et aux salaires dans L. 19.6.25, 3
+52\. de la participation aux frais de conseil, aux frais directs de formation et aux salaires dans L. 19.6.25, 3
 le cadre de la préparation et de la mise en œuvre du programme de gestion prévisionnelle
 de l’emploi et des compétences conformément au livre V, titre premier, chapitre IV.
 (2) Le Fonds pour l’emploi comprend une section spéciale destinée à promouvoir la formation L. 31.7.06,annexe
@@ -29874,18 +29874,18 @@ L. 8.4.18,I,29°
 Art. 641-1. (1) II est créé auprès du Ministre ayant l’emploi dans ses attributions un réseau L. 8.4.18,I,30°
 d’études sur le marché du travail et de l’emploi, ci-après désigné par le sigle RETEL.
 (2) Le RETEL a pour missions:
-\1. l’organisation d’un travail en réseau des producteurs, analystes et utilisateurs d’études et
+1\. l’organisation d’un travail en réseau des producteurs, analystes et utilisateurs d’études et
 de données sur le marché du travail et de l’emploi au Grand-Duché;
-\2. la création, centralisation et gestion de bases de données et d’études garantissant une
+2\. la création, centralisation et gestion de bases de données et d’études garantissant une
 meilleure connaissance et compréhension de la situation et des évolutions du marché du
 travail et de l’emploi;
-\3. la réalisation d’évaluations des politiques en faveur de l’emploi;
-\4. la réalisation d’études statistiques ponctuelles sur l’emploi pour répondre aux demandes
+3\. la réalisation d’évaluations des politiques en faveur de l’emploi;
+4\. la réalisation d’études statistiques ponctuelles sur l’emploi pour répondre aux demandes
 du Ministre ayant le travail et/ou l’emploi dans ses attributions ou aux demandes d’un autre
 membre du gouvernement;
-\5. la conceptualisation et réalisation d’indicateurs statistiques sur l’emploi;
-\6. l’élaboration de prévisions et d’évolutions futures du marché du travail;
-\7. la collaboration avec les organismes européens et internationaux oeuvrant dans le même
+5\. la conceptualisation et réalisation d’indicateurs statistiques sur l’emploi;
+6\. l’élaboration de prévisions et d’évolutions futures du marché du travail;
+7\. la collaboration avec les organismes européens et internationaux oeuvrant dans le même
 domaine.
 Chômage
 
@@ -30469,7 +30469,7 @@ personnes gravement handicapées
 Abrogée avec effet au 1.1.1999 par l’article XI de la loi du 19.6.1998 portant introduction d’une
 assurance dépendance. Cependant l’article VIII de cette loi dispose:
 Les personnes bénéficiant en date du 31 décembre 1998 de prestations au titre [...]
-\2) de la loi modifiée du 16 avril 1979 portant création d’une allocation spéciale pour personnes
+2\) de la loi modifiée du 16 avril 1979 portant création d’une allocation spéciale pour personnes
 gravement handicapées; [...]
 continuent à bénéficier des dispositions de ces lois, aussi longtemps que des prestations au
 titre de l’assurance dépendance ne leur auront pas été allouées pour la même période à leur
@@ -30619,7 +30619,7 @@ organisant le placement dans une maison de soins
 Abrogée avec effet au 1.1.1999 par l’article XI de la loi du 19.6.1998 portant introduction d’une
 assurance dépendance. Cependant l’article VIII de cette loi dispose:
 Les personnes bénéficiant en date du 31 décembre 1998 de prestations au titre [...]
-\4) de la loi du 22 mai 1989 portant création d’une allocation de soins et organisant le placement
+4\) de la loi du 22 mai 1989 portant création d’une allocation de soins et organisant le placement
 dans une maison de soins;
 continuent à bénéficier des dispositions de ces lois, aussi longtemps que des prestations au
 titre de l’assurance dépendance ne leur auront pas été allouées pour la même période à leur
@@ -30671,7 +30671,7 @@ L. 28.6.02,IX,7°:
 Les personnes bénéficiaires d’une pension au 1er juillet 2002 ont droit à la mise en compte du forfait d’éducation dans les conditions et d’après les
 modalités prévues par la loi du 28 juin 2002 portant création d’un forfait d’éducation. Pour ces bénéficiaires, il n’est pas procédé à un recalcul en raison
 de la mise en compte des périodes prévues à l’article 171, alinéa 1, sous 7) du Code des assurances sociales pour les enfants nés avant le 1er janvier
-1988.
+1988\.
 
 Revis
 
@@ -30690,7 +30690,7 @@ Fer luxembourgeois ou de l’article 9.I.a) 9. de la loi modifiée du 26 mai 195
 pensions des fonctionnaires de l’État respectivement des dispositions correspondantes
 des législations régissant les autres régimes spéciaux transitoires.
 
-\2. La condition de domiciliation et de résidence prévue à l’alinéa 1er ne s’applique pas aux L. 19.12.08,VII,2°
+2\. La condition de domiciliation et de résidence prévue à l’alinéa 1er ne s’applique pas aux L. 19.12.08,VII,2°
 personnes relevant d’un instrument bi- ou multilatéral de coordination de sécurité sociale.
 
 Le ministre ayant dans ses attributions la Famille peut dispenser de la condition de L. 28.06.02
@@ -31077,11 +31077,11 @@ Grand-Duché de Luxembourg ou à l’étranger, dans les établissements hospita
 un traitement dûment autorisé par le Contrôle médical de la sécurité sociale dans un
 établissement de santé stationnaire à l’étranger et dont les frais sont pris en charge par la
 Caisse nationale de santé, bénéficient de l’allocation d’inclusion réduite prévue au paragraphe
-\3. Les dispositions de l’article 4, paragraphe 1er leur sont applicables.
+3\. Les dispositions de l’article 4, paragraphe 1er leur sont applicables.
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 Par L. 21.12.18,I,1° les termes « paragraphe V » sont remplacés par les termes « paragraphe 1er ».
 L. 20.12.24, 2, 1°, a) : Les termes « quatre-vingt-quinze euros et cinquante cents » sont remplacés par
@@ -31446,11 +31446,11 @@ prise de décision.
 Art. 24. (1) L’Office notifie un avertissement à la personne tombant sous l’application du
 présent chapitre pour laquelle il a constaté un des comportements suivants pendant la durée
 du plan d’activation:
-\1. non-respect des engagements visés à l’article 16, alinéa 1er, lettre b);
-\2. non-respect du calendrier des démarches visé à l’article 16, alinéa 1er, lettre b);
-\3. refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1er;
-\4. non-respect des modalités de la convention visée à l’article 17, paragraphe 1er, lettre b);
-\5. absence non justifiée à un rendez-vous fixé par lettre recommandée de l’Office.
+1\. non-respect des engagements visés à l’article 16, alinéa 1er, lettre b);
+2\. non-respect du calendrier des démarches visé à l’article 16, alinéa 1er, lettre b);
+3\. refus de participer aux mesures d’activation visées à l’article 17, paragraphe 1er;
+4\. non-respect des modalités de la convention visée à l’article 17, paragraphe 1er, lettre b);
+5\. absence non justifiée à un rendez-vous fixé par lettre recommandée de l’Office.
 (2) Au cas où, au cours d’un même plan d’activation, l’Office constate que l’intéressé adopte
 une deuxième fois un des comportements visés au paragraphe 1er, une réduction de vingt pour
 cent de la prestation au titre de l’article 1er, paragraphe 1er, lettres a) et b), est appliquée à
@@ -31554,7 +31554,7 @@ a) lorsque la succession d'un bénéficiaire échoit en tout ou en partie au con
 à des successeurs en ligne directe, le Fonds ne peut faire valoir aucune demande en
 restitution pour une première tranche de l'actif de la succession fixée à vingt-neuf mille sept
 cent quarante-sept euros au nombre 100 de l'indice pondéré du coût de la vie au 1er janvier
-1948.
+1948\.
 b) Lorsque le conjoint survivant ou un autre successeur en ligne directe d'un bénéficiaire du
 Revis continue à habiter dans un immeuble ayant appartenu soit au bénéficiaire seul, soit
 conjointement au bénéficiaire du Revis et à son conjoint, le Fonds ne peut pas, tant que
@@ -31750,7 +31750,7 @@ immunisé sur les ressources personnelles du bénéficiaire.
 
 (2) Chaque bénéficiaire a droit à un montant mensuel immunisé sur ses ressources
 personnelles de 65 euros au nombre 100 de l'indice pondéré du coût de la vie au 1er janvier
-1948.
+1948\.
 (3) Si une augmentation du prix d'hébergement mensuel d'une chambre ou d'un logement
 encadré agréé occupé par un bénéficiaire du complément fait en sorte que le nouveau prix
 d'hébergement mensuel dépasse la moyenne des prix d'hébergement mensuels prévue au
@@ -32472,14 +32472,14 @@ peuvent être cédées ou saisies comme suit:
 
 R. 1.3.23
 
-\1. La première tranche ne peut être cédée ni saisie.
-\2. La deuxième tranche peut être cédée jusqu’à concurrence d’un dixième et saisie
+1\. La première tranche ne peut être cédée ni saisie.
+2\. La deuxième tranche peut être cédée jusqu’à concurrence d’un dixième et saisie
 jusqu’à concurrence d’un dixième.
-\3. La troisième tranche peut être cédée jusqu’à concurrence d’un cinquième et saisie
+3\. La troisième tranche peut être cédée jusqu’à concurrence d’un cinquième et saisie
 jusqu’à concurrence d’un cinquième.
-\4. La quatrième tranche peut être cédée jusqu’à concurrence d’un quart et saisie jusqu’à
+4\. La quatrième tranche peut être cédée jusqu’à concurrence d’un quart et saisie jusqu’à
 concurrence d’un quart.
-\5. La cinquième tranche peut être cédée et saisie sans limitation.
+5\. La cinquième tranche peut être cédée et saisie sans limitation.
 
 Par dérogation aux dispositions qui précèdent, les rémunérations, pensions et rentes L. 23.12.78,I,2°
 peuvent être cédées comme suit, lorsque la cession est consentie à l’occasion d’un contrat
@@ -32513,10 +32513,10 @@ sont déterminées au dernier alinéa de l’article précédent que:
 
 L. 11.11.70
 
-\1. du chef d’amendes encourues par le salarié en vertu de la loi, en vertu de son statut ou
+1\. du chef d’amendes encourues par le salarié en vertu de la loi, en vertu de son statut ou
 en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;
-\2. du chef de réparation du dommage causé par la faute du salarié;
-\3. du chef de fournitures au salarié:
+2\. du chef de réparation du dommage causé par la faute du salarié;
+3\. du chef de fournitures au salarié:
 a) d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;
 b) de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge
 selon l’usage admis ou aux termes de leur engagement;
@@ -32540,17 +32540,17 @@ Les acomptes versés pour une période de travail révolue ou en cours pour laqu
 décompte définitif n’a pas encore été établi ne sont pas considérés comme avances.
 Art. 6. Les rentes et pensions dérivant des dispositions du Code de la sécurité sociale
 peuvent être mises en gage, cédées ou saisies sans limitation pour couvrir:
-\1. une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution
+1\. une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution
 d’assurance sociale;
-\2. les créances qui compètent aux communes et offices sociaux en vertu des articles 120 L. 27.7.87,VII
+2\. les créances qui compètent aux communes et offices sociaux en vertu des articles 120 L. 27.7.87,VII
 et 235 du Code de la sécurité sociale.
 
 Art. 7. Les pensions autres que celles visées à l’article qui précède peuvent être mises en L. 11.11.70
 gage, cédées ou saisies sans limitation pour couvrir:
 
-\1. les avances sur ces pensions faites au titulaire par son employeur ou une institution de
+1\. les avances sur ces pensions faites au titulaire par son employeur ou une institution de
 droit public entre l’échéance et l’ordonnancement de la pension;
-\2. les créances qui compétent aux communes et établissements de bienfaisance pour
+2\. les créances qui compétent aux communes et établissements de bienfaisance pour
 secours fournis depuis que la pension était due.
 
 Il en est de même des indemnités de chômage complet.
@@ -32731,7 +32731,7 @@ battant pavillon luxembourgeois doivent contracter auprès d’un établissement
 agréé à cet effet par le Gouvernement suivant des critères qui peuvent être précisés par
 règlement grand-ducal, une police d’assurance garantissant au personnel occupé sur ces
 navires une protection répondant aux normes suivantes:
-\1) En cas de maladie,
+1\) En cas de maladie,
 a) des soins de santé, comprenant les actes et fournitures médicaux et médico-dentaires, les
 médicaments et spécialités pharmaceutiques et l’hospitalisation dans une mesure
 suffisante et appropriée pendant toute la durée de l’état morbide. La participation aux frais
@@ -32740,15 +32740,15 @@ b) des indemnités de maladie au moins égales à soixante pour cent du revenu a
 pendant toute la durée de l’incapacité de travail mais au maximum jusqu’à concurrence de
 cinquante-deux semaines.
 Le bénéfice des prestations susvisées ne peut être subordonné à un stage supérieur à un mois.
-\2) En cas de chômage des prestations au moins égales à quarante-cinq pour cent du revenu
+2\) En cas de chômage des prestations au moins égales à quarante-cinq pour cent du revenu
 antérieur pendant au moins treize semaines au cours d’une période de douze mois.
 Le bénéfice des prestations susvisées ne peut être subordonné à un stage supérieur à trois
 mois.
-\3) En cas de vieillesse, des prestations au moins égales à 1,5 pour cent des revenus par année
+3\) En cas de vieillesse, des prestations au moins égales à 1,5 pour cent des revenus par année
 d’assurance. L’âge requis pour l’obtention de la prestation ne peut dépasser soixante-cinq ans.
 Le bénéfice des prestations susvisées ne peut être subordonné à un stage supérieur à une
 année.
-\4) En cas d’invalidité les prestations correspondant à celles prévues en cas de vieillesse
+4\) En cas d’invalidité les prestations correspondant à celles prévues en cas de vieillesse
 majorées de 1,5 pour cent de la moyenne des revenus assurés antérieurement à l’échéance du
 risque pour chaque année se situant entre l’année de la survenance de l’invalidité et celle où
 l’intéressé atteint l’âge de cinquante-cinq ans.
@@ -32759,13 +32759,13 @@ appropriés la réadaptation des intéressés.
 Le bénéfice des prestations ne peut être subordonné à un stage supérieur à trois mois. Les
 prestations doivent être versées tant que l’intéressé est par suite de l’invalidité incapable de
 gagner sa vie.
-\5) En cas de décès de l’assuré, les prestations doivent correspondre à soixante pour cent de
+5\) En cas de décès de l’assuré, les prestations doivent correspondre à soixante pour cent de
 la pension de vieillesse ou d’invalidité à laquelle aurait pu prétendre l’assuré pour le conjoint
 survivant et à vingt pour cent pour chaque enfant à charge de l’assuré âgé de moins de dixhuit ans, sans que le total des prestations ne puisse dépasser le montant qui serait revenu à
 l’assuré.
 Le bénéfice des prestations susvisées ne peut être subordonné à un stage supérieur à trois
 mois.
-\6) En cas d’accident de travail ou de maladie professionnelle, les prestations doivent
+6\) En cas d’accident de travail ou de maladie professionnelle, les prestations doivent
 comprendre les soins de santé, tels que prévus au numéro 1) a) ainsi qu’une rente viagère
 correspondant au moins à cinquante pour cent du revenu antérieur en cas d’incapacité totale;
 en cas d’incapacité partielle la rente correspond à une fraction de la rente prévue en cas
@@ -32776,7 +32776,7 @@ d’incapacité totale pour le conjoint survivant et à vingt pour cent pour cha
 de l’assuré âgé de moins de dix-huit ans, sans que le total des prestations ne puisse dépasser
 le montant de la rente qui serait revenue à l’assuré. Aucune condition de stage ni de
 participation de l’assuré aux frais des soins de santé ne peut être requise.
-\7) En cas de maternité,
+7\) En cas de maternité,
 a) des prestations en nature doivent comprendre les soins prénatals, les soins pendant
 l’accouchement et les soins postnatals donnés soit par un médecin, soit par une sagefemme diplômée ainsi que les fournitures pharmaceutiques et l’hospitalisation; les
 prestations prévisées ne peuvent pas comporter une participation aux frais;
@@ -33173,11 +33173,11 @@ congé annuel payé fixé par le présent code, la loi ou une convention spécia
 Art. L. 234-36. L’octroi du congé de la coopération au développement aux experts et aux représentants
 des organisations non gouvernementales exerçant une activité professionnelle salariée est subordonnée
 aux conditions suivantes:
-\1. l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
-\2. sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être
+1\. l’intéressé doit pouvoir justifier d’au moins un an de service auprès du même employeur;
+2\. sauf accord de la part de l’employeur, le congé de la coopération au développement ne peut être
 rattaché à une période de congé annuel payé ou à une période de maladie pour le cas où ce cumul
 entraînerait une absence continue dépassant la durée totale du congé annuel dû;
-\3. l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié
+3\. l’octroi du congé de la coopération au développement sollicité peut être refusé si l’absence du salarié
 risque d’avoir une répercussion majeure préjudiciable à l’exploitation de l’entreprise, au bon
 fonctionnement de l’administration ou du service public ou au déroulement harmonieux du congé annuel
 payé des autres membres du personnel.
@@ -33208,24 +33208,24 @@ Divers
 
 Loi du 12 septembre 2003 1) 2) 3) relative aux personnes handicapées
 et portant modification
-\1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de
+1\. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de
 l’État,
-\2. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel
+2\. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel
 payé des salariés du secteur privé,
-\3. de la loi modifiée du 12 mars 1973 portant réforme du salaire social
+3\. de la loi modifiée du 12 mars 1973 portant réforme du salaire social
 minimum,
-\4. de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour
+4\. de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds pour
 l’emploi; 2. réglementation de l’octroi des indemnités de chômage complet,
-\5. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et
+5\. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et
 portant création de la caisse nationale des prestations familiales,
-\6. de la loi modifiée du 27 juillet 1987 concernant l’assurance pension en cas
+6\. de la loi modifiée du 27 juillet 1987 concernant l’assurance pension en cas
 de vieillesse, d’invalidité et de survie,
-\7. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux
+7\. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux
 pour les fonctionnaires de l’État et des communes ainsi que pour les agents
 de la Société nationale des chemins de fer luxembourgeois,
-\8. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des
+8\. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des
 régimes légaux de pension et
-\9. du Code des assurances sociales
+9\. du Code des assurances sociales
 
 L. 12.9.03,47:
 La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes « loi du 12 septembre 2003 relative aux personnes
@@ -33403,7 +33403,7 @@ aux paragraphes 1 à 3 ci-avant.
 Art. 4. Toute personne reconnue salarié handicapé est tenue à se faire inscrire au service en
 charge du développement de l’emploi et de la formation au service des salariés handicapés de
 l’Agence pour le développement de l’emploi ou à une de ses agences, service défini à l’article
-31.
+31\.
 Art. 5. (1) Si le salarié handicapé n’a pas accès à un emploi salarié pour des raisons
 indépendantes de sa volonté, le directeur de l’Agence pour le développement de l’emploi
 transmet le dossier avec les pièces justificatives déterminées par règlement grand-ducal en vue
@@ -33732,7 +33732,7 @@ remplacées par les références aux dispositions correspondantes du Code du tra
 Par L. 31.7.06 article 3, la référence à la loi du 12 juillet 1895 concernant le paiement des salaires des
 ouvriers a été remplacée par la références aux dispositions correspondantes du Code du travail.
 Par L. 31.7.06 article 3, la référence à la loi du 30 juin 1976 portant 1. création d’un fonds pour l’emploi;
-\2. réglementation de l’octroi des indemnités de chômage complet a été remplacée par la références aux
+2\. réglementation de l’octroi des indemnités de chômage complet a été remplacée par la références aux
 dispositions correspondantes du Code du travail.
 
 Divers
@@ -33794,7 +33794,7 @@ Le revenu est dû à partir de la date où la demande est réputée être faite.
 solidarité décide de l’attribution du revenu pour personnes gravement handicapées, après
 avoir reçu communication du dossier par le directeur de l’Agence pour le développement de
 
-5)
+5\)
 
 L. 20.12.24, 1er : Les termes « 191 euros » sont remplacés par ceux de « 195,96 euros ».
 L. 20.12.24, 3 : La présente loi entre en vigueur le 1er janvier 2025.
@@ -34022,8 +34022,8 @@ progressivement croissante.
 Art. L. 222-5. Le niveau du salaire social minimum des salariés adolescents âgés de moins de
 dix-huit ans accomplis est fixé comme suit en pourcentage du salaire social minimum des
 salariés adultes:
-\1. pour les adolescents âgés de 17 à 18 ans: 80 pour cent;
-\2. pour les adolescents âgés de 15 à 17 ans: 75 pour cent.
+1\. pour les adolescents âgés de 17 à 18 ans: 80 pour cent;
+2\. pour les adolescents âgés de 15 à 17 ans: 75 pour cent.
 
 Divers
 
@@ -34048,7 +34048,7 @@ Art. L. 222-9. 1) Sous réserve, s’il y a lieu, des adaptations prévues à l�
 mensuel du salaire social minimum d’un salarié non qualifié rémunéré au mois est fixé, à partir
 du 1er janvier 2025 2) et jusqu’à la prochaine adaptation à intervenir en application de l’article
 L. 222-2, à 279,30 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier
-1948.
+1948\.
 Le taux horaire correspondant au taux mensuel prévu à l’alinéa 1er 4) est obtenu par la division L. 19.12.08 3)
 de ce taux mensuel par cent soixante-treize.
 Art. L. 222-10. Les employeurs qui ont versé des salaires inférieures aux taux applicables en
@@ -34270,17 +34270,17 @@ L. 16.12.22, 6
 (1) Les artistes professionnels indépendants au sens de la présente loi, sur demande écrite
 adressée au ministre, sont admis au bénéfice des aides en faveur des artistes professionnels
 indépendants à condition :
-\1. de remplir la condition prévue à l’article 1er, paragraphe 3 ;
-\2. de répondre aux critères de la définition prévue à l’article 1er, paragraphe 1-0, point 6,
+1\. de remplir la condition prévue à l’article 1er, paragraphe 3 ;
+2\. de répondre aux critères de la définition prévue à l’article 1er, paragraphe 1-0, point 6,
 depuis au moins deux ans précédant immédiatement la demande ;
-\3. que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le
+3\. que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le
 salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années
 précédant immédiatement la demande ;
-\4. de ne pas être admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue
+4\. de ne pas être admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue
 à l’article 6 ;
-\5. de ne pas toucher un revenu de remplacement au titre de la législation luxembourgeoise
+5\. de ne pas toucher un revenu de remplacement au titre de la législation luxembourgeoise
 ou étrangère ; 3)
-\6. de ne pas exercer une activité principale régie par la loi modifiée du 2 septembre 2011
+6\. de ne pas exercer une activité principale régie par la loi modifiée du 2 septembre 2011
 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à
 certaines professions libérales et les règlements y relatifs. 3)
 Les personnes qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un
@@ -34314,7 +34314,7 @@ A voir également: 1. Article 3 de la loi du 3 avril 2020 relative à la mise en
 faveur des entreprises en difficulté financière temporaie et modifiant la loi modifiée du 19 décembre 2014
 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents
 du spectacle 2) à la promotion de la création artistique. (JO, Mém. A230 du 3 avril 2020)
-\2. Règlement grand-ducal du 3 avril 2020 portant exécution de l'article 3 de la loi 3 avril 2020 relative à
+2\. Règlement grand-ducal du 3 avril 2020 portant exécution de l'article 3 de la loi 3 avril 2020 relative à
 la mise en place d'un régime d'aides en faveur des entreprises en difficulté financière temporaie et
 modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes
 professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.
@@ -34346,9 +34346,9 @@ Pour la détermination des ressources mensuelles de l’artiste sont pris en com
 revenus bruts, professionnels ou non.
 Aucune aide au titre de la présente loi ne peut être perçue pour les mois pendant lesquels
 l’artiste professionnel indépendant :
-\1. est admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article
+1\. est admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article
 6 ; ou
-\2. touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.
+2\. touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.
 Les modalités relatives à la demande en obtention des aides sont déterminées par règlement
 grandducal.
 (4) Les artistes professionnels indépendants admis au bénéfice des aides bénéficient, sur
@@ -34357,12 +34357,12 @@ paragraphe 3 ne pouvant dépasser la moitié du salaire social minimum pour trav
 qualifiés de la part du Fonds social culturel, la somme des ressources mensuelles propres et
 de l’aide de soutien mensuelle ne pouvant dépasser 1,5 fois le salaire social minimum pour
 travailleurs qualifiés, et ce :
-\1. pendant une période au cours de laquelle a lieu un événement imprévisible rendant
+1\. pendant une période au cours de laquelle a lieu un événement imprévisible rendant
 impossible l’exercice normal des activités tombant sous le champ d’application de la
 présente loi ;
-\2. lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés
+2\. lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés
 temporaires à effectuer ses prestations artistiques pendant l’événement imprévisible ;
-\3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à
+3\. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à
 effectuer ses prestations artistiques.
 Pour être admise au bénéfice des aides, l’activité artistique doit, par dérogation au
 paragraphe 1er, alinéa 1er, point 3, avoir généré un revenu moyen annuel d’au moins quatre fois
@@ -34379,28 +34379,28 @@ L.19.12.14
 (1) Le bénéfice d’une indemnisation en cas d’inactivité involontaire est accordé aux
 intermittents du spectacle au sens de l’article 1er, paragraphe 1-0, point 7, 1) de la présente loi,
 à condition:
-\1. qu’ils justifient d’une période d’activité comptant quatre-vingt jours au moins et pendant L. 16.12.22,6,1°,b)
+1\. qu’ils justifient d’une période d’activité comptant quatre-vingt jours au moins et pendant L. 16.12.22,6,1°,b)
 lesquels une activité rémunérée principale a été exercée de manière temporaire soit pour
 le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la
 production cinématographique, audiovisuelle et musicale, soit dans le cadre d’une
 production de spectacle vivant, ceci endéans la période de 365 jours de calendrier
 précédant la demande d’ouverture des droits en indemnisation ;
-\2. que cette activité ait généré un revenu au moins égal à quatre fois le salaire social minimum L. 19.12.14
+2\. que cette activité ait généré un revenu au moins égal à quatre fois le salaire social minimum L. 19.12.14
 mensuel pour travailleurs non qualifiés au cours de l’année précédant immédiatement la
 demande;
-\3. que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;
-\4. qu’ils remplissent la condition prévue à l’article 1er, paragraphe 3;
-\5. qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels
+3\. que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;
+4\. qu’ils remplissent la condition prévue à l’article 1er, paragraphe 3;
+5\. qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels
 indépendants;
-\6. qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du
+6\. qu’ils ne soient pas admis au bénéfice de l’indemnité de chômage prévue par le titre II du
 livre V du Code du travail;
-\7. qu’ils ne soient pas admis au bénéfice du revenu d’inclusion sociale prévu par la loi L. 16.12.22,1°,c)
+7\. qu’ils ne soient pas admis au bénéfice du revenu d’inclusion sociale prévu par la loi L. 16.12.22,1°,c)
 modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale.
 (1bis) Sont considérées comme période d’activités au sens du présent article, à concurrence L. 16.12.22,2°
 d‘un maximum de 10 jours sur les 80 jours d’activités, les activités occasionnelles suivantes :
-\1. les participations à des formations en rapport avec l’exercice de l’activité d’intermittent du
+1\. les participations à des formations en rapport avec l’exercice de l’activité d’intermittent du
 spectacle ;
-\2. la tenue d’activités pédagogiques ou de leçons dans un contexte éducatif et toute autre
+2\. la tenue d’activités pédagogiques ou de leçons dans un contexte éducatif et toute autre
 activité de médiation culturelle à condition d’être liée à l’activité d’intermittent du spectacle
 et d’être rémunérée.
 
@@ -34435,13 +34435,13 @@ L’intermittent du spectacle admis au bénéfice de l’indemnisation en cas d�
 peut toucher jusqu’à vingt indemnités journalières par mois supplémentaires en cas d’inactivité
 involontaire par rapport aux cent vingt et une ou cent trente et une indemnités journalières 2)
 prévues à l’alinéa 1er, et ce :
-\1. pendant une période au cours de laquelle a lieu un événement imprévisible au sens de L. 16.12.22,6,3°,b), ii)
+1\. pendant une période au cours de laquelle a lieu un événement imprévisible au sens de L. 16.12.22,6,3°,b), ii)
 l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous
 le champ d’application de la présente loi ;
-\2. lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir L.3.4.20,10,2° 2) 3)
+2\. lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir L.3.4.20,10,2° 2) 3)
 ses services tels que prévus par l’article 3 de la présente loi pendant l’événement
 imprévisible 3) ; et
-\3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à
+3\. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à
 effectuer ses services.
 Pour être admis au bénéfice des aides, l’intermittent du spectacle doit, par dérogation à l’article
 6, paragraphe 1er, point 1, justifier d’une période comptant quatre-vingt jours au moins, réduite
@@ -34477,7 +34477,7 @@ Lorsqu’une période à laquelle il est fait référence à l’article 5, para
 couvertes par un congé de maladie d’au moins un mois, un congé de maternité, un congé
 d’accueil ou un congé parental, ou une période au cours de laquelle a lieu événement
 
-5)
+5\)
 
 Entrée en vigueur: 1er janvier 2020
 L. 16.12.22,6,3°,b),i) : Les termes « par rapport aux 121 indemnités journalières » sont remplacés par les
@@ -34828,11 +34828,11 @@ Art. 16. Les volontaires bénéficient:
 
 R. 12.6.98
 
-\1. [...]
-\2. [...]
-\3. [...]
-\4. [...]
-\5. De la gratuité médicale, médico-dentaire et pharmaceutique dans la mesure du nécessaire
+1\. [...]
+2\. [...]
+3\. [...]
+4\. [...]
+5\. De la gratuité médicale, médico-dentaire et pharmaceutique dans la mesure du nécessaire
 et suffisant pour autant que le traitement médical et médico-dentaire est assuré par le
 service médical de l’armée. En contrepartie, le volontaire est tenu de se conformer aux
 dispositions ci-après:
@@ -35569,9 +35569,9 @@ du domaine de la santé
 Vu l’article 65bis du Code de la sécurité sociale;
 Art. 1er. Le Conseil scientifique se compose de huit membres, désignés par arrêté conjoint des R. 26.10.11
 ministres ayant dans leurs attributions la Santé et la Sécurité sociale comme suit:
-\1) deux représentants de la Direction de la santé;
-\2) deux représentants du Contrôle médical de la sécurité sociale;
-\3) quatre médecins sur proposition du groupement représentatif des médecins et médecinsdentistes.
+1\) deux représentants de la Direction de la santé;
+2\) deux représentants du Contrôle médical de la sécurité sociale;
+3\) quatre médecins sur proposition du groupement représentatif des médecins et médecinsdentistes.
 Les agents affectés ou détachés à la Cellule d’expertise médicale ne peuvent pas être
 membres du Conseil scientifique.
 Si le Conseil scientifique traite de sujets relevant de la médecine dentaire, deux des membres
@@ -35677,30 +35677,30 @@ Chapitre 1er – Dispositions générales
 R. 1.12.11
 
 Art. 1er. Pour l’application de l’article 22ter du Code de la sécurité sociale, on entend par:
-\1) «médicament»: toute substance ou composition présentée comme possédant des
+1\) «médicament»: toute substance ou composition présentée comme possédant des
 propriétés curatives ou préventives à l’égard des maladies humaines ainsi que toute
 substance ou composition pouvant être administrée à l’homme en vue d’établir un
 diagnostic médical ou de restaurer, corriger ou modifier des fonctions physiologiques chez
 l’homme et disposant d’une autorisation de mise sur le marché conformément aux
 dispositions légales en vigueur;
-\2) «présentation»: unité formée par le médicament avec son conditionnement primaire et
+2\) «présentation»: unité formée par le médicament avec son conditionnement primaire et
 l’emballage extérieur;
-\3) «pays de provenance»: le pays ayant attribué un code national à la présentation;
-\4) «code national»: l’identifiant national attribué à la présentation par l’autorité compétente du
+3\) «pays de provenance»: le pays ayant attribué un code national à la présentation;
+4\) «code national»: l’identifiant national attribué à la présentation par l’autorité compétente du
 pays de provenance;
-\5) «numéro national»: le numéro d’identification attribué par le ministre ayant la Santé dans
+5\) «numéro national»: le numéro d’identification attribué par le ministre ayant la Santé dans
 ses attributions à une présentation d’un médicament lors de l’attribution de l’autorisation
 de mise sur le marché;
-\6) «titulaire»: le titulaire de l’autorisation de mise sur le marché d’un médicament ou son
+6\) «titulaire»: le titulaire de l’autorisation de mise sur le marché d’un médicament ou son
 représentant dûment mandaté à cet effet;
-\7) «grossiste»: toute personne en possession d’une autorisation d’exercer l’activité de
+7\) «grossiste»: toute personne en possession d’une autorisation d’exercer l’activité de
 grossiste en médicaments conformément aux dispositions légales en vigueur;
-\8) «prix ex-usine»: le prix de vente hors taxes du titulaire de l’autorisation de mise sur le
+8\) «prix ex-usine»: le prix de vente hors taxes du titulaire de l’autorisation de mise sur le
 marché d’un médicament ou de son représentant dûment mandaté à cet effet;
-\9) «prix d’achat du pharmacien»: le prix de vente hors taxes appliqué par le grossiste aux
+9\) «prix d’achat du pharmacien»: le prix de vente hors taxes appliqué par le grossiste aux
 pharmacies hospitalières ou ouvertes au public;
-\10) «prix au public»: le prix de vente hors taxes en pharmacie ouverte au public;
-\11) «les prix d’une présentation»: le prix ex-usine et le cas échéant, le prix d’achat du
+10\) «prix au public»: le prix de vente hors taxes en pharmacie ouverte au public;
+11\) «les prix d’une présentation»: le prix ex-usine et le cas échéant, le prix d’achat du
 pharmacien et le prix au public relatifs à une seule présentation d’un médicament, identifiée
 par son numéro national.
 Art. 2. Le titulaire est habilité à commercialiser une présentation dès l’approbation de son prix
@@ -35964,19 +35964,19 @@ du 21 avril 1997 en ce qui concerne l’identification et l’enregistrement des
 (2) La marge brute standard totale de l’exploitation est obtenue en ajoutant au résultat
 déterminé conformément au paragraphe 1er les aides à la production suivantes versées au
 cours de l’année précédant l’exercice de cotisation:
-\1) les paiements directs accordés au titre des régimes de soutien relevant de la politique
+1\) les paiements directs accordés au titre des régimes de soutien relevant de la politique
 agricole commune prévus par les dispositions nationales prises en exécution du droit de
 l’Union européenne en vigueur;
-\2) l’aide accordée au titre de l’agriculture biologique prévue par la législation nationale en
+2\) l’aide accordée au titre de l’agriculture biologique prévue par la législation nationale en
 vigueur concernant le soutien au développement rural;
-\3) l’aide à la restructuration et à la reconversion des vignobles prévue par la législation
+3\) l’aide à la restructuration et à la reconversion des vignobles prévue par la législation
 nationale en vigueur concernant le soutien au développement rural.
 Art. 4. (1) Aux fins du calcul du revenu professionnel agricole de l’exploitation sont ajoutées au
 résultat déterminé conformément à l’article qui précède les aides à la production suivantes
 versées au cours de l’année précédant l’exercice de cotisation:
-\1) les aides accordées au titre des paiements agroenvironnementaux et climatiques prévues
+1\) les aides accordées au titre des paiements agroenvironnementaux et climatiques prévues
 par la législation nationale en vigueur concernant le soutien au développement rural;
-\2) la prime à l’entretien du paysage et de l’espace naturel prévue par la législation nationale
+2\) la prime à l’entretien du paysage et de l’espace naturel prévue par la législation nationale
 en vigueur concernant le soutien au développement rural.
 (2) Sont déduits du résultat déterminé conformément au paragraphe qui précède les coûts de
 production fixes déterminés forfaitairement en fonction de l’orientation technico-économique
@@ -35990,20 +35990,20 @@ Les coûts de production fixes correspondent aux pourcentages définis à l’an
 Art. 5. Sont ajoutées au résultat déterminé conformément à l’article qui précède les aides à la
 production et subventions au revenu ci-après versées à l’exploitation agricole au cours de
 l’année précédant l’exercice de cotisation:
-\1) les paiements en faveur des zones soumises à des contraintes naturelles ou à d’autres
+1\) les paiements en faveur des zones soumises à des contraintes naturelles ou à d’autres
 contraintes spécifiques prévues par la législation nationale en vigueur concernant le
 soutien au développement rural;
-\2) les aides pour la sauvegarde de la diversité biologique prévue par la législation nationale
+2\) les aides pour la sauvegarde de la diversité biologique prévue par la législation nationale
 en vigueur concernant le soutien au développement rural.
 Art. 6. Le revenu professionnel agricole de l’exploitation servant d’assiette au calcul des
 cotisations est obtenu en déduisant du résultat déterminé conformément à l’article qui précède
 les charges réelles supportées par l’exploitant agricole au cours de l’année précédant
 l’exercice de cotisation, à savoir:
-\1) le fermage,
-\2) les intérêts découlant de prêts professionnels agricoles,
-\3) les salaires payés à des tiers et déclarés auprès du Centre commun de la sécurité sociale,
+1\) le fermage,
+2\) les intérêts découlant de prêts professionnels agricoles,
+3\) les salaires payés à des tiers et déclarés auprès du Centre commun de la sécurité sociale,
 augmentés des cotisations sociales à charge du chef d’exploitation,
-\4) les salaires payés aux personnes visées à l’article 90, alinéa 3 du Code de la sécurité
+4\) les salaires payés aux personnes visées à l’article 90, alinéa 3 du Code de la sécurité
 sociale, à condition que leur identité résulte du répertoire national des personnes
 physiques ou d’un document officiel, ou que ces salaires aient fait l’objet d’une déclaration
 à l’Administration des contributions directes dans le cadre de l’imposition forfaitaire prévue
@@ -36689,7 +36689,7 @@ Première adoption des statuts suite à la loi du 27 juillet 1992 portant réfor
 l’assurance maladie et du secteur de la santé.
 Statuts adoptés par l’assemblée générale de l’union des caisses de maladie les 30 novembre
 1993, 7 décembre 1993 et 13 janvier 1994 et approuvés par arrêté ministériel du 19 janvier
-1994.
+1994\.
 Modifications des statuts
 
 Modification adoptée par l’assemblée générale en date du 13 juillet 1994 et
@@ -36783,7 +36783,7 @@ par arrêté ministériel du 3 décembre 2007 (entrée en vigueur: 1.1.2008). Re
 
 Modification adoptée par l’assemblée générale du 9 juillet 2008 et approuvée par
 arrêté ministériel du 31 juillet 2008. Les points I) et X) entrent en vigueur le 1er septembre
-\2008. Les points XI) à XVI) prennent effet le jour de l’entrée en vigueur de la loi du 13 mai
+2008\. Les points XI) à XVI) prennent effet le jour de l’entrée en vigueur de la loi du 13 mai
 2008 portant introduction d’un statut unique.
 
 Modification adoptée par l’assemblée générale du 14 novembre 2008 et approuvée par
@@ -37445,24 +37445,24 @@ articles 20 ou 20bis du Code de la sécurité sociale
 Sous-section 1: Situations visées
 Art. 26. (1) Est soumise à l’obtention d’une autorisation préalable délivrée par la Caisse
 nationale de santé, sur avis motivé du Contrôle médical de la sécurité sociale, la prise en charge
-\1) de prestations de soins de santé dispensées dans un État membre de l’Union européenne,
+1\) de prestations de soins de santé dispensées dans un État membre de l’Union européenne,
 en Suisse ou dans un pays de l’Espace économique européen, visées à l’article 20,
 paragraphe 2, alinéa 1 du Code de la sécurité sociale;
-\2) de prestations de soins de santé dispensées en dehors d’une situation d’urgence dans un
+2\) de prestations de soins de santé dispensées en dehors d’une situation d’urgence dans un
 pays autre qu’un État membre de l’Union européenne, que la Suisse, qu’un pays de
 l’Espace économique européen et non lié au Grand-Duché de Luxembourg par un
 instrument bilatéral en matière d’assurance maladie, visées à l’article 20bis du Code de la
 sécurité sociale.
-\3) de frais de transport en vue de l’obtention des seules prestations de soins de santé
+3\) de frais de transport en vue de l’obtention des seules prestations de soins de santé
 transfrontaliers autorisées par la Caisse nationale de santé. La prise en charge se fait
 suivant les conditions et les modalités prévues au chapitre 11 du Titre II de la 1ère partie
 des présents statuts.
 (2) Est soumise à l’obtention d’une autorisation préalable délivrée par la Caisse nationale de
 santé, la prise en charge
-\1) de prestations de soins de santé dispensées dans un État membre de l’Union européenne,
+1\) de prestations de soins de santé dispensées dans un État membre de l’Union européenne,
 en Suisse ou dans un pays de l’Espace économique européen selon le règlement de
 coordination (CE) n° 883/2004 et le règlement d’application (CE) n° 987/2009 ;
-\2) de frais de transport en vue de l’obtention des seules prestations de soins de santé
+2\) de frais de transport en vue de l’obtention des seules prestations de soins de santé
 transfrontaliers autorisées par la Caisse nationale de santé. La prise en charge se fait
 suivant les conditions et les modalités prévues au chapitre 11 du Titre II de la 1ère partie
 des présents statuts.
@@ -37528,14 +37528,14 @@ du volet médical.
 alinéa 1 et 23, alinéa 1 du Code de la sécurité sociale.
 (6) La Caisse nationale de santé disposant de l’information relative à la date de début de
 traitement, ne peut refuser d’accorder l’autorisation de traitement à l’étranger
-\1) si les prestations demandées font partie des prestations prises en charge en vertu de
+1\) si les prestations demandées font partie des prestations prises en charge en vertu de
 l'article 17, alinéa 1 du Code de la sécurité sociale et si selon l'avis du Contrôle médical de
 la sécurité sociale elles ne peuvent être dispensées au Luxembourg à la personne protégée
 dans un délai acceptable sur le plan médical, sur base d’une évaluation médicale objective,
 documentée sur la demande d’autorisation, de l'état pathologique du patient, de ses
 antécédents, de l'évolution probable de sa maladie, du degré de sa douleur ou de la nature
 de son handicap au moment de cette demande.
-\2) si les prestations ne sont pas prévues par la législation luxembourgeoise, mais qu’elles
+2\) si les prestations ne sont pas prévues par la législation luxembourgeoise, mais qu’elles
 sont indispensables selon l’avis du Contrôle médical de la sécurité sociale.
 (7) Si les conditions pour l’autorisation de traitement à l’étranger sont remplies dans le cadre
 du règlement de coordination (CE) n° 883/2004, et sauf demande contraire de la personne
@@ -37573,7 +37573,7 @@ protégée et lui fait part des circonstances suspendant le délai de traitement
 (12) Le cas échéant un titre de prise en charge pour le moyen de transport autorisé est émis.
 Sous-section 4: Modalités de la prise en charge des prestations de soins
 de santé transfrontaliers soumises à autorisation préalable
-\1. Dans le cadre du règlement de coordination (CE) n° 883/2004
+1\. Dans le cadre du règlement de coordination (CE) n° 883/2004
 Art. 29. (1) Les prestations de soins de santé transfrontaliers dont la délivrance à l’étranger est
 dûment autorisée par la Caisse nationale de santé au moyen d’un formulaire S2, sont prises en
 charge en vertu du règlement de coordination (CE) n° 883/2004 conformément à la législation
@@ -37609,7 +37609,7 @@ si leur obtention est soumise à des règles d’exception, la personne protég�
 transfert autorisé a droit à la prise en charge la plus favorable prévue par cette législation. Le
 cas échéant, les prestations afférentes peuvent être prises en charge par la Caisse nationale
 de santé par la voie du tiers payant.
-\2. Dans le cadre de l’article 20 ou de l’article 20bis du Code de la sécurité sociale
+2\. Dans le cadre de l’article 20 ou de l’article 20bis du Code de la sécurité sociale
 Art. 29bis. La prise en charge des prestations de soins de santé transfrontaliers soumises à
 autorisation préalable en vertu de l’article 20 ou de l’article 20bis du Code de la sécurité sociale
 se fait conformément aux dispositions de l’article 23 des présents statuts en ce qui concerne
@@ -37621,7 +37621,7 @@ La prise en charge des prestations de soins de santé transfrontaliers soumises 
 indispensables suivant avis du Contrôle médical de la sécurité sociale et qui ne sont pas
 prévues par la législation luxembourgeoise, est fixée par le Contrôle médical de la sécurité
 sociale en assimilant la prestation à une autre prestation de même importance.
-\3. Frais de séjour
+3\. Frais de séjour
 Art. 29ter. Les frais de séjour d’une personne protégée qui suit à l’étranger un traitement
 ambulatoire autorisé sont pris en charge intégralement aux tarifs applicables aux assurés
 sociaux de l’étranger. A défaut d’un tel tarif, ils sont pris en charge par journée entière jusqu’à
@@ -37632,7 +37632,7 @@ subir un traitement en milieu hospitalier aigu ou une consultation autorisés so
 l’assurance maladie selon les tarifs prévus à l’alinéa précédent sur base d’une demande
 expresse appuyée d’une justification établie par le médecin traitant étranger. Une justification
 spéciale n’est pas requise lorsque le patient est un mineur d’âge.
-\4. Cures à l’étranger
+4\. Cures à l’étranger
 Art. 30. Les cures à l’étranger sont prises en charge par l’assurance maladie dans les
 conditions et suivant les modalités prévues à l’article 28 des présents statuts et à condition :
 
@@ -37764,17 +37764,17 @@ jour au sens de la loi du 8 mars 2018 relative aux établissements hospitaliers 
 hospitalière et que la personne protégée soit âgée de dix-huit (18) ans accomplis au moins à la
 date de la délivrance de l’acte.
 La participation prévue à l’alinéa précédent n’est pas applicable:
-\1. aux traitements par la chimiothérapie, la radiothérapie et l’hémodialyse;
-\2. aux examens à visée préventive et de dépistage (chapitre 6 de la 1ère partie de l’annexe
+1\. aux traitements par la chimiothérapie, la radiothérapie et l’hémodialyse;
+2\. aux examens à visée préventive et de dépistage (chapitre 6 de la 1ère partie de l’annexe
 de la nomenclature des actes et services médicaux);
-\3. aux actes techniques dans le cadre de programmes de médecine préventive (codes 8V53,
+3\. aux actes techniques dans le cadre de programmes de médecine préventive (codes 8V53,
 8V57, 8V58, LDE19, LGE21, LDE21, LGE22, LRE24 et LRE25);
-\4. aux forfaits médicaux pour suivi dans un centre de jour prévus au chapitre 8 de la 1ère
+4\. aux forfaits médicaux pour suivi dans un centre de jour prévus au chapitre 8 de la 1ère
 partie de l’annexe de la nomenclature des actes et services médicaux;
-\5. aux consultations dans le cadre de réunion de concertation pluridisciplinaire en
+5\. aux consultations dans le cadre de réunion de concertation pluridisciplinaire en
 cancérologie (chapitre 10 de la 1ère partie de l’annexe de la nomenclature des actes et
 services médicaux);
-\6. ainsi qu’aux forfaits pour frais d’utilisation d’appareil prévus au règlement grand-ducal
+6\. ainsi qu’aux forfaits pour frais d’utilisation d’appareil prévus au règlement grand-ducal
 modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des médecins
 pris en charge par l’assurance maladie.
 Les frais de déplacement du médecin en cas de visite au domicile de la personne protégée sont
@@ -37797,12 +37797,12 @@ Art. 35bis. L’assurance maladie prend en charge au taux de cent pour cent (100
 pour la coordination des soins et pour le suivi régulier du contenu du dossier de soins partagé
 de la personne protégée prévu au chapitre 9 de la première partie de l’annexe de la
 nomenclature des actes et services médicaux dans les conditions suivantes:
-\1. la personne protégée est atteinte d’une affection de longue durée énumérée à l’article 20
+1\. la personne protégée est atteinte d’une affection de longue durée énumérée à l’article 20
 de la nomenclature des actes et services des médecins;
-\2. la personne protégée a désigné un médecin référent au sens de l’article 19bis du Code de
+2\. la personne protégée a désigné un médecin référent au sens de l’article 19bis du Code de
 la sécurité sociale et en vertu de l’annexe V de la convention conclue entre la Caisse
 nationale de santé et l’Association des médecins et médecins dentistes;
-\3. la personne protégée dispose d’un dossier de soins dûment activé.
+3\. la personne protégée dispose d’un dossier de soins dûment activé.
 Art. 35ter. Dans le cadre de toute mesure édictée par le Ministère de la santé relative à
 l’épidémie de Coronavirus (COVID-19), l’assurance maladie prend en charge au taux de cent
 pour cent (100 %) :
@@ -37932,7 +37932,7 @@ moment de leur délivrance. Le montant-limite prévisé correspond au coefficien
 multiplié par la valeur de la lettre-clé au nombre cent de l'indice pondéré du coût de la vie au
 1er janvier 1948 applicable à la date de prestation.
 La participation prévue à l’alinéa 1 n’est pas applicable
-\1. à l’examen dentaire prévu au tableau des actes et services à la première partie, chapitre 6,
+1\. à l’examen dentaire prévu au tableau des actes et services à la première partie, chapitre 6,
 section 1re du règlement grand-ducal modifié du 21 décembre 1998 arrêtant la
 nomenclature des actes et services des médecins-dentistes pris en charge par l’assurance
 maladie;
@@ -37940,7 +37940,7 @@ maladie;
 Glossaire: par service médical d’urgence il y a lieu d’entendre une intervention des services de secours
 (Mém. A 216 du 3/12/10, p. 3540).
 
-\2. aux actes et services prévus au règlement grand-ducal modifié du 21 décembre 1998
+2\. aux actes et services prévus au règlement grand-ducal modifié du 21 décembre 1998
 arrêtant la nomenclature des actes et services des médecins-dentistes pris en charge par
 l’assurance maladie dispensés aux enfants et jeunes de moins de 18 ans accomplis dans
 le cadre du programme de médecine préventive institué en matière de traitement dentaire
@@ -37969,7 +37969,7 @@ règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature d
 services des médecins-dentistes pris en charge par l’assurance maladie ou sous le suffixe « L
 » visé à l’article 12 dudit règlement que dans les cas de figure et selon les conditions et les
 modalités prévues ci-dessous:
-\1) En cas d’obturations et de désobturations (codes DS14, DS84, DS15, DS85, DS16, DS86,
+1\) En cas d’obturations et de désobturations (codes DS14, DS84, DS15, DS85, DS16, DS86,
 DS41, DS42, DS43, DS44 et DS19), d’extractions dentaires (codes DS61 à DS68) et des
 soins dentaires prévus au tableau des actes et services à la deuxième partie, chapitre 2 du
 règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes
@@ -37981,7 +37981,7 @@ deuxième partie, chapitre 9 du règlement grand-ducal modifié du 21 décembre 
 arrêtant la nomenclature des actes et services des médecins pris en charge par l’assurance
 maladie au niveau du maxillaire inférieur, l’assurance maladie ne prend en charge qu’une
 anesthésie régionale par séance et par hémi maxillaire.
-\2) Au niveau du maxillaire supérieur, l’assurance maladie ne prend en charge qu’une
+2\) Au niveau du maxillaire supérieur, l’assurance maladie ne prend en charge qu’une
 anesthésie locale par séance et
 a. par dent à extraire codes DS61, DS63 à DS68 et DS88 à DS94) et par soin dentaire
 prévu au tableau des actes et services à la deuxième partie, chapitres 2 et 3 du
@@ -38214,9 +38214,9 @@ d’établissement de l’ordonnance,
 pour les actes prescrits dans le cadre d’une intervention chirurgicale sur l’appareil
 locomoteur et ce jusqu’à concurrence de trente-deux (32) séances de traitement, à
 condition:
-\1. que la prescription soit établie dans le délai de quatre (4) mois à compter de la date de
+1\. que la prescription soit établie dans le délai de quatre (4) mois à compter de la date de
 l’intervention,
-\2. que ces actes soient délivrés dans le délai de quatre (4) mois à partir de la date de la
+2\. que ces actes soient délivrés dans le délai de quatre (4) mois à partir de la date de la
 validation de l’ordonnance médicale,
 
 pour les bilans prévus dans la nomenclature des actes et services des masseurskinésithérapeutes.
@@ -38274,7 +38274,7 @@ de quatre (4) mois à partir de la date de la validation de l’ordonnance dans 
 
 Art. 58. En cas de pathologie courante les actes de la nomenclature des masseurskinésithérapeutes sont pris en charge au maximum à raison de 8 séances par ordonnance sauf
 pour les positions ZK16 et ZK17 où le nombre maximum de séances par ordonnance est de
-\24. Par dérogation, le nombre maximal par ordonnance est de 64 séances en cas de pathologie
+24\. Par dérogation, le nombre maximal par ordonnance est de 64 séances en cas de pathologie
 lourde et de 16 séances en cas de rééducation post-chirurgicale.
 
 Section 3. - Soins d'orthophonie
@@ -38695,7 +38695,7 @@ Art. 85. Sans préjudice de l’application des dispositions légales, règlemen
 conventionnelles et statutaires, les prothèses orthopédiques, orthèses et chaussures
 orthopédiques et thérapeutiques ne sont prises en charge par l’assurance maladie que si elles
 sont délivrées par les fournisseurs couverts par la convention visée à l’article 61, alinéa 2, sous
-\7) du Code de la sécurité sociale, et, pour ce qui est de la délivrance de fournitures dans le
+7\) du Code de la sécurité sociale, et, pour ce qui est de la délivrance de fournitures dans le
 cadre du pied diabétique, les fournisseurs qui présentent un certificat attestant qu’ils ont suivi
 une formation spécifique pour la fabrication de semelles et de chaussures pour le pied
 diabétique. Les bas et les collants de contention prévus à la nomenclature des prothèses
@@ -38720,8 +38720,8 @@ Art. 86. Pour être opposables à l’assurance maladie, les ordonnances médica
 les prothèses orthopédiques, orthèses et les chaussures orthopédiques, outre qu’elles doivent
 répondre aux conditions prévues à l’article 14, doivent porter les indications suivantes données
 par le médecin prescripteur:
-\1) le diagnostic médical;
-\2) une description détaillée de la fourniture;
+1\) le diagnostic médical;
+2\) une description détaillée de la fourniture;
 Par dérogation à l’alinéa 1, et sans préjudice des autres conditions de prise en charge, la prise
 en charge par l’assurance maladie des fournitures relatives au pied diabétique telles qu’elles
 sont définies à l’article 85, alinéa final, est soumise à l’établissement par le médecin
@@ -38756,9 +38756,9 @@ que sur autorisation préalable du Contrôle médical de la sécurité sociale a
 d’un devis préalable établi par le fournisseur, et le cas échéant, sur base d’un examen de la
 personne protégée.
 L’autorisation du Contrôle médical de la sécurité sociale et le devis ne sont pas requis:
-\1) lorsque le montant de la fourniture est inférieur à cent vingt-cinq euros,
-\2) pour les bas et les collants de contention à tricotage circulaire,
-\3) à partir de la troisième délivrance de chaussures orthopédiques, à condition que la
+1\) lorsque le montant de la fourniture est inférieur à cent vingt-cinq euros,
+2\) pour les bas et les collants de contention à tricotage circulaire,
+3\) à partir de la troisième délivrance de chaussures orthopédiques, à condition que la
 fourniture à délivrer reste inchangée par rapport à la délivrance précédente.
 Par dérogation à l’alinéa précédent, l’autorisation préalable du Contrôle médical de la sécurité
 sociale et le devis sont requis en cas de fournitures orthopédiques pour le pied diabétique. Pour
@@ -38823,11 +38823,11 @@ chaussures orthopédiques ou thérapeutiques pour le pied diabétique.
 Sans préjudice des autres conditions prévues par les dispositions statutaires, conventionnelles
 et règlementaires, la facture de la fourniture relative au pied diabétique est prise en charge sur
 base:
-\1) d’une ordonnance médicale pour fournitures orthopédiques pour pied diabétique;
-\2) d’un devis préalable établi par le fournisseur;
-\3) d’une documentation par scanner et par podographie avec renseignement de la répartition
+1\) d’une ordonnance médicale pour fournitures orthopédiques pour pied diabétique;
+2\) d’un devis préalable établi par le fournisseur;
+3\) d’une documentation par scanner et par podographie avec renseignement de la répartition
 de la pression plantaire avant réalisation de la fourniture sur mesure;
-\4) d’une documentation par podographie avec renseignement de la répartition de la pression
+4\) d’une documentation par podographie avec renseignement de la répartition de la pression
 plantaire, d’un examen de contrôle des pieds de la personne protégée ainsi que de la
 fourniture en question à la date de délivrance (date prestation).
 Par dérogation à l’alinéa précédent, la prise en charge de la fourniture prévue sous la position
@@ -39044,7 +39044,7 @@ Art. 101. Le taux de remboursement normal est fixé à quatre-vingts pour cent (
 s'applique à tous les médicaments de la liste positive pour lesquels les statuts ne prévoient pas
 un autre taux.
 Art. 102. Le taux de remboursement préférentiel est fixé à cent pour cent (100%).
-\1) Il s’applique aux catégories de médicaments présentant cumulativement les caractéristiques
+1\) Il s’applique aux catégories de médicaments présentant cumulativement les caractéristiques
 suivantes:
 a. avoir une indication thérapeutique précise,
 b. ne contenir qu’un seul principe actif,
@@ -39058,12 +39058,12 @@ actifs au maximum dont l’un au moins, commercialisé seul, est pris en charge 
 préférentiel, et les autres, commercialisés seuls, au moins au taux normal et à condition que
 l’association des principes actifs soit plus économique que les principes actifs pris
 séparément.
-\2) Il peut s’appliquer aux vaccins pris en charge par l’assurance maladie dans le cadre d’une
+2\) Il peut s’appliquer aux vaccins pris en charge par l’assurance maladie dans le cadre d’une
 convention conclue entre l’État et la Caisse nationale de santé conformément à l’article 17,
 alinéa 3 du Code de la sécurité sociale et délivrés en officine ouverte au public.
 Les catégories de médicaments visées au présent article sous les points 1) et 2) sont définies
 à l’annexe D, liste numéro 2 des présents statuts.
-\3) Il s’applique aux médicaments à délivrance exclusivement hospitalière, inscrits dans la liste
+3\) Il s’applique aux médicaments à délivrance exclusivement hospitalière, inscrits dans la liste
 positive.
 Art. 103. Par dérogation aux articles 101 et 104, le taux de prise en charge peut être porté à
 cent pour cent (100%) dans les situations suivantes:
@@ -39102,11 +39102,11 @@ n°6 de l'annexe D.
 
 Art. 107. Ne sont pris en charge que sur autorisation préalable du Contrôle médical de la
 sécurité sociale et sous les conditions définies à l'annexe D dans les listes énumérées ci-après :
-\1. les médicaments soumis à prescription initiale hospitalière figurant à l'annexe D, liste
+1\. les médicaments soumis à prescription initiale hospitalière figurant à l'annexe D, liste
 numéro 7,
-\2. les médicaments soumis à un protocole thérapeutique et figurant à l'annexe D, liste
+2\. les médicaments soumis à un protocole thérapeutique et figurant à l'annexe D, liste
 numéro 8,
-\3. les médicaments à prescription restreinte figurant à l'annexe D, liste numéro 9.
+3\. les médicaments à prescription restreinte figurant à l'annexe D, liste numéro 9.
 Art. 108. La quantité de médicaments prise en charge par l'assurance maladie en une fois ne
 peut dépasser pour chaque médicament un grand emballage, ou deux petits emballages, ou
 deux emballages moyens ou un emballage moyen et un petit emballage, étant entendu que la
@@ -39231,7 +39231,7 @@ g) Les médicaments figurant sur la liste positive qui du fait de l'incorporatio
 préparation magistrale changent de voie d'administration et ne sont plus utilisés dans les
 indications prévues par l'autorisation de mise sur le marché, sauf autorisation préalable du
 Contrôle médical sur ordonnance médicale motivée.
-\2) Règles spécifiques aux préparations magistrales à usage topique
+2\) Règles spécifiques aux préparations magistrales à usage topique
 Par dérogation au paragraphe 1, alinéa 5 sous c) et d) les excipients sous forme de spécialités
 pharmaceutiques ou les principes actifs non encore inscrits au règlement grand-ducal fixant le
 tarif des préparations galéniques, renfermés dans une préparation magistrale à usage topique,
@@ -39245,7 +39245,7 @@ utilisées dans le cadre de mucites iatrogènes suite à une chimiothérapie ou 
 
 prises en charge au taux préférentiel lorsque l’ordonnance justifie une des indications
 précitées.
-\3) Règles pratiques
+3\) Règles pratiques
 Lorsqu'une ordonnance prévoit la dispensation de substances médicamenteuses du type:
 alcool isopropylique, eau oxygénée, glycérine, paraffine, etc… sans indication de la quantité
 exacte, il n'est pris en charge qu'une quantité qui correspond à l'usage normal pour lequel le
@@ -39266,10 +39266,10 @@ CHAPITRE 9.- AIDES VISUELLES
 Ordonnance médicale obligatoire
 Art. 116. Sans préjudice de dispositions statutaires dérogatoires, une ordonnance médicale
 dûment motivée est de rigueur pour:
-\1) les lentilles de contact dans les conditions de leur délivrance prévues aux articles 122 à 124
+1\) les lentilles de contact dans les conditions de leur délivrance prévues aux articles 122 à 124
 des présents statuts ;
-\2) les verres teintés;
-\3) les lunettes pour les enfants âgés de moins de 18 ans.
+2\) les verres teintés;
+3\) les lunettes pour les enfants âgés de moins de 18 ans.
 Par dérogation au point 3) ci-dessus une ordonnance n'est cependant pas requise en cas de
 remplacement des verres endommagés endéans les six premiers mois de la première
 acquisition. Les prises en charge effectuées par l’assurance maladie avant les 18 ans
@@ -39298,45 +39298,45 @@ Art. 120. (article abrogé)
 Suppléments pour verres teintés
 Art. 121. Les suppléments pour verres teintés sont pris en charge par l'assurance maladie dans
 les pathologies suivantes:
-\1) conjonctivites chroniques
-\2) kératites et cicatrices cornéennes étendues
-\3) iritis
-\4) certaines cataractes centrales congénitales y compris l'aphakie
+1\) conjonctivites chroniques
+2\) kératites et cicatrices cornéennes étendues
+3\) iritis
+4\) certaines cataractes centrales congénitales y compris l'aphakie
 
-5)
-6)
-7)
-8)
+5\)
+6\)
+7\)
+8\)
 
 glaucome
 (abrogé)
 névralgies ciliaires
 photophobies secondaires à une affection de la rétine, de la choroïde et du nerf optique ou
 à une affection intracrânienne
-\9) albinisme
-\10) cécité
+9\) albinisme
+10\) cécité
 Pour être opposable à l'assurance maladie la facture en question doit être accompagnée de
 l'ordonnance médicale indiquant le numéro de la pathologie en cause.
 Lentilles de contact
 
 Art. 122. Les lentilles de contact ne sont prises en charge par l'assurance maladie que dans
 les pathologies suivantes:
-\1) amétropie supérieure ou égale à 6 dioptries
-\2) (abrogé)
-\3) astigmatisme irrégulier sous condition que l'amélioration de l'acuité visuelle soit d'au moins
+1\) amétropie supérieure ou égale à 6 dioptries
+2\) (abrogé)
+3\) astigmatisme irrégulier sous condition que l'amélioration de l'acuité visuelle soit d'au moins
 20% par rapport aux verres ordinaires
-\4) kératocône
-\5) aphakie uni- et bilatérale
-\6) aniséiconie
-\7) anisométropie de plus de 3 dioptries
-\8) nystagmus de fixation
-\9) anisocorie
-\10) dystrophie cornéenne
-\11) myopie évolutive génétique
-\12) traumatisme cornéen ou scléral
-\13) En cas des affections suivantes une autorisation du Contrôle médical est nécessaire:
-\14) traumatisme facial ou crânien rendant le port de lunettes pénible
-\15) hypersensibilité cutanée rendant le port de lunettes impossible (allergie à la matière).
+4\) kératocône
+5\) aphakie uni- et bilatérale
+6\) aniséiconie
+7\) anisométropie de plus de 3 dioptries
+8\) nystagmus de fixation
+9\) anisocorie
+10\) dystrophie cornéenne
+11\) myopie évolutive génétique
+12\) traumatisme cornéen ou scléral
+13\) En cas des affections suivantes une autorisation du Contrôle médical est nécessaire:
+14\) traumatisme facial ou crânien rendant le port de lunettes pénible
+15\) hypersensibilité cutanée rendant le port de lunettes impossible (allergie à la matière).
 Pour être opposable à l'assurance maladie la facture en question doit être accompagnée de
 l'ordonnance médicale indiquant le numéro de la pathologie en cause.
 L’article 123, dernier alinéa est applicable.
@@ -39451,11 +39451,11 @@ CHAPITRE 11.- Prestations de transport des malades
 Définition des prestations prises en charge
 Art. 132. (1) Les prestations en matière de transport des malades au Luxembourg et à l’étranger
 prises en charge par l’assurance maladie concernent :
-\1) Le transport non-urgent
+1\) Le transport non-urgent
 a) Le transport en ambulance terrestre
 b) Le transport en taxi en cas de traitements médicaux en série
 c) L’indemnité de voyage
-\2) Le transport urgent
+2\) Le transport urgent
 (2) Sont définis comme non-urgents, les transports en ambulance terrestre ou en taxi
 effectués pour des raisons de soins ou de diagnostic et en dehors d’une situation de détresse
 vitale, d’accidents, d’événements calamiteux, de catastrophes, de sinistres et d’incendies.
@@ -39560,16 +39560,16 @@ durée maximale de six (6) mois à compter de la transplantation d’organe.
 f)
 
 L’indemnité de voyage est due à la personne protégée :
-\1) pour les transports en série si le transport n’est pas effectué par un moyen de transport
+1\) pour les transports en série si le transport n’est pas effectué par un moyen de transport
 pris en charge par l’assurance maladie ;
-\2) pour tout traitement autorisé à l’étranger si le transport n’est pas effectué par un moyen
+2\) pour tout traitement autorisé à l’étranger si le transport n’est pas effectué par un moyen
 de transport pris en charge par l’assurance maladie. Dans ce cas elle est également
 due à la personne accompagnant la personne protégée si les raisons médicales de la
 nécessité de l’accompagnement sont dûment documentées sur une ordonnance
 médicale ou un certificat médical émanant du médecin traitant.
 Aucune ordonnance médicale ou certificat médical n’est requis pour l’accompagnement
 d’un mineur ;
-\3) pour le déplacement auprès du Contrôle médical de la sécurité sociale suite à une
+3\) pour le déplacement auprès du Contrôle médical de la sécurité sociale suite à une
 convocation en vue de la réception d’une prothèse orthopédique, sous réserve que le
 voyage n’ait pas été effectué par un moyen de transport public en commun au
 Luxembourg.
@@ -39825,17 +39825,17 @@ contrôle audioprothétique réalisés dans un local spécialement aménagé à 
 Sans préjudice des autres conditions prévues par les présents statuts, la prise en charge par
 l’assurance maladie d’un dispositif de correction auditive prévu au fichier B3 est subordonnée
 à l’accomplissement des conditions cumulatives suivantes:
-\1) l’audiogramme tonal indique une perte auditive d’au moins 30dB sur au moins deux des
+1\) l’audiogramme tonal indique une perte auditive d’au moins 30dB sur au moins deux des
 fréquences-test suivantes: 500, 1000, 2000 et 3000 Hz
 ou
 le pourcentage d’intelligibilité à l’audiogramme vocal à 65dB diminue d’au moins 20% lors
 de l’adjonction d’une source sonore de 60dB;
-\2) le dispositif de correction auditive apporte un gain auditif d’au moins 10dB à l’indice vocal
+2\) le dispositif de correction auditive apporte un gain auditif d’au moins 10dB à l’indice vocal
 ou un gain de 10% d’intelligibilité lors des tests d’audiométrie vocale sans adjonction d’une
 source sonore. Dans les cas où une audiométrie vocale ne peut pas être réalisée,
 l’audiogramme tonal doit démontrer un gain audioprothétique moyen d’au moins 10dB sur
 les fréquences-test suivantes: 500, 1000, 2000 et 3000 Hz;
-\3) une durée moyenne d’utilisation quotidienne du dispositif de correction auditive d’au moins
+3\) une durée moyenne d’utilisation quotidienne du dispositif de correction auditive d’au moins
 4 heures pendant la phase d’essai.
 (2) A l’exception du renouvellement de l’embout, la prise en charge des dispositifs de
 correction auditive se fait sur base:
@@ -40523,11 +40523,11 @@ de santé son adresse exacte (lieu, rue, numéro, étage …) où elle séjourne
 incapacité de travail.
 Art. 198. (1) Tant que dure l’incapacité de travail et qu’il n’y a pas reprise du travail par la
 personne portée incapable de travailler, il lui est interdit de
-\1. participer à des activités sportives, sauf si celles-ci s’inscrivent dans le cadre d’une
+1\. participer à des activités sportives, sauf si celles-ci s’inscrivent dans le cadre d’une
 prescription médicale précise, servant au rétablissement des causes de l’incapacité de
 travail;
-\2. exercer une activité incompatible avec son état de santé;
-\3. fréquenter un débit de boissons ou un établissement de restauration, sauf pour la prise
+2\. exercer une activité incompatible avec son état de santé;
+3\. fréquenter un débit de boissons ou un établissement de restauration, sauf pour la prise
 d’un repas, sous réserve d’une information préalable de la caisse.
 (2) L’interdiction prévue au point 3. de l’alinéa précédent ne joue pas pour les personnes
 domiciliées dans un tel établissement.
@@ -40548,7 +40548,7 @@ d’accident.
 Art. 200. Par dérogation à l’article précédent, la personne portée incapable de travailler peut
 s’éloigner de son domicile ou du lieu de séjour dans les hypothèses prévues ci-dessous:
 a) à partir du premier jour d’incapacité de travail:
-\1. pour les sorties indispensables pour donner suite aux convocations auprès du Contrôle
+1\. pour les sorties indispensables pour donner suite aux convocations auprès du Contrôle
 médical de la sécurité sociale ou pour l’obtention de soins, d’actes diagnostiques, de
 
 médicaments ou de dispositifs médicaux, à condition que la personne concernée
@@ -40556,7 +40556,7 @@ puisse en justifier sur demande. La preuve de l’obtention des soins, d’actes
 diagnostiques, de médicaments ou de dispositifs médicaux pendant les heures
 d’absence du domicile ou du lieu de séjour au moment du contrôle peut se faire par
 tous les moyens;
-\2. pour les sorties nécessaires pour la prise d’un repas;
+2\. pour les sorties nécessaires pour la prise d’un repas;
 b) à partir du cinquième jour révolu d’une période d’incapacité de travail dépassant au continu
 cinq jours civils:
 pour les sorties non médicalement contre-indiquées d’après le certificat médical
@@ -40585,10 +40585,10 @@ celui où la personne concernée est domiciliée ou affiliée pendant une pério
 travail. Cette autorisation est accordée par la Caisse nationale de santé pour une période ne
 pouvant dépasser une semaine ouvrable, sur avis circonstancié du médecin-traitant dans les
 cas limitativement énoncés ci-après:
-\1. constat d’une maladie consolidée dans le cadre d’une procédure de mise en invalidité;
-\2. décès intervenu à l’étranger d’un parent ou allié du 1er degré ou du partenaire au sens de
+1\. constat d’une maladie consolidée dans le cadre d’une procédure de mise en invalidité;
+2\. décès intervenu à l’étranger d’un parent ou allié du 1er degré ou du partenaire au sens de
 l’article 2 de la loi du 9 juillet 2004 relative aux effets légaux de certains partenariats;
-\3. naissance à l’étranger d’un enfant de la personne portée incapable de travailler.
+3\. naissance à l’étranger d’un enfant de la personne portée incapable de travailler.
 Dans les cas de figure sous 2. et 3., l’autorisation ne peut être sollicitée et accordée qu’au
 moment de l’effet de l’événement, les actes de décès et de naissance faisant foi.
 (3) Par dérogation aux dispositions ci-dessus, l’autorisation préalable pour une période
@@ -40598,9 +40598,9 @@ pathologie ou de maladie graves.
 (4) Par dérogation aux dispositions ci-dessus, l’autorisation préalable de la Caisse nationale de
 santé est réputée acquise si le séjour à l’étranger de la personne portée incapable de travailler
 se limite à la région limitrophe et permet de réunir les conditions suivantes:
-\1. organisation du contrôle administratif;
-\2. organisation du contrôle médical;
-\3. le suivi du traitement médical dans le pays de résidence ou dans le pays compétent, sans
+1\. organisation du contrôle administratif;
+2\. organisation du contrôle médical;
+3\. le suivi du traitement médical dans le pays de résidence ou dans le pays compétent, sans
 émission du document «S2», prévu par la réglementation européenne.
 (5) Par dérogation aux dispositions ci-dessus, la personne pour laquelle un droit aux soins
 palliatifs conformément aux articles 1er de la loi du 16 mars 2009 relative aux soins palliatifs, à
@@ -40706,7 +40706,7 @@ CHAPITRE 11 - SANCTIONS
 Art. 214. (1) Le Président de la Caisse nationale de santé ou son délégué peut prononcer des
 amendes d’ordre en application de l’article 16, alinéa 2 du Code de la sécurité sociale à
 l’encontre des personnes se trouvant en contravention aux dispositions statutaires suivantes:
-\1. Absence au domicile ou au lieu de séjour indiqué, constatée par le service de contrôle,
+1\. Absence au domicile ou au lieu de séjour indiqué, constatée par le service de contrôle,
 lorsque
 a) la notice prévue à l’article 205 (2) contenant les justifications de l’absence
 
@@ -40716,8 +40716,8 @@ a été retournée en dehors du délai indiqué à l’article 205 (2);
 
 b) les motifs indiqués sur la notice ou portés à la connaissance du contrôleur ne constituent
 pas des motifs valables d’absence.
-\2. Manquement aux obligations de l’assuré, prévues aux chapitres 8 et 9 des présents statuts.
-\3. Manquement aux convocations auprès du Contrôle médical de la sécurité sociale imposées
+2\. Manquement aux obligations de l’assuré, prévues aux chapitres 8 et 9 des présents statuts.
+3\. Manquement aux convocations auprès du Contrôle médical de la sécurité sociale imposées
 par les dispositions des statuts lorsque ces manquements ne sont pas sanctionnés par le
 retrait ou le refus de l’indemnité pécuniaire.
 (2) L’amende d’ordre ne peut dépasser 3/30e de la rémunération de base servant d’assiette
@@ -40763,15 +40763,15 @@ Modifications des statuts
 
 Modification adoptée par le comité directeur de la Mutualité des employeurs en date du 27
 octobre 2009 et du 1er décembre 2009 et approuvée par arrêté ministériel du 22 décembre
-\2009. Entrée en vigueur: 1er janvier 2010.
+2009\. Entrée en vigueur: 1er janvier 2010.
 
 Modification adoptée par le comité directeur de la Mutualité des employeurs en date du 11
 novembre 2010 et du 9 décembre 2010 et approuvée par arrêté ministériel du 14 décembre
-\2010. Entrée en vigueur: 1er janvier 2011.
+2010\. Entrée en vigueur: 1er janvier 2011.
 
 Modification adoptée par le comité directeur de la Mutualité des employeurs en date du 14
 mars 2012 et approuvée par arrêté ministériel du 26 mars 2012. Entrée en vigueur: 1er mai
-2012.
+2012\.
 
 Modification adoptée par le comité directeur de la Mutualité des employeurs en date du 5
 décembre 2012 et approuvée par arrêté ministériel du 19 décembre 2012. Entrée en
@@ -40783,7 +40783,7 @@ avril 2017 et approuvée par arrêté ministériel du 26 octobre 2017. Entrée e
 
 Modification adoptée par le comité directeur de la Mutualité des employeurs en date du 21
 mars 2018 et approuvée par arrêté ministériel du 20 avril 2018. Entrée en vigueur: 1er juillet
-2018.
+2018\.
 
 Modification adoptée par le conseil d’administration de la Mutualité des employeurs en
 date du 15 novembre 2019 et approuvée par arrêté ministériel du 13 décembre 2019.
@@ -40806,16 +40806,16 @@ er
 Art. 1 . Sont affiliés obligatoirement à la Mutualité tous les employeurs occupant des salariés
 au sens de l’article L. 121-1 du Code du travail. Sont toutefois exemptés de l’affiliation
 obligatoire:
-\1) l’État, les établissements publics administratifs, les communes, les syndicats de
+1\) l’État, les établissements publics administratifs, les communes, les syndicats de
 communes, les établissements publics placés sous le contrôle des communes et la Société
 nationale des chemins de fer luxembourgeois, pour ceux de leurs salariés qui bénéficient
 de la conservation de la rémunération sans limitation dans le temps en vertu d’une
 disposition légale, réglementaire ou conventionnelle particulière;
-\2) les employeurs qui déclarent au Centre commun de la sécurité sociale les rémunérations
+2\) les employeurs qui déclarent au Centre commun de la sécurité sociale les rémunérations
 nettes convenues, le cas échéant, avec les personnes qu’ils occupent dans le cadre de leur
 vie privée pour des travaux de ménage, pour la garde de leurs enfants ainsi que pour leur
 assurer des aides et des soins nécessaires en raison de leur état de dépendance;
-\3) les entreprises ayant conclu avant le 31 décembre 2008 une police auprès d’une
+3\) les entreprises ayant conclu avant le 31 décembre 2008 une police auprès d’une
 compagnie d’assurance en vue de la couverture du risque du maintien de la rémunération
 ci-dessus.
 Pour bénéficier de l’exemption prévue au point 3) de l’alinéa qui précède, l’entreprise doit avoir
@@ -40924,9 +40924,9 @@ rémunération qu’il est obligé de payer, en vertu de l’article L. 121-6, p
 Code du travail, à ses salariés incapables de travailler jusqu’à la fin du mois de calendrier au
 cours duquel se situe le soixante-dix-septième jour d’incapacité de travail pendant une période
 de référence de dix-huit 1) mois de calendrier successifs est déterminé sur base:
-\1) de l’assiette de cotisation pour l’indemnité pécuniaire du mois de calendrier en question,
-\2) des heures totales correspondant à cette assiette,
-\3) des heures réclamées à titre de remboursement.
+1\) de l’assiette de cotisation pour l’indemnité pécuniaire du mois de calendrier en question,
+2\) des heures totales correspondant à cette assiette,
+3\) des heures réclamées à titre de remboursement.
 Art. 11. Sont considérées comme heures totales au sens de l’article 10, sous 2) des présents
 statuts, les heures de travail payées 2), à l’exclusion des heures supplémentaires. Y sont
 assimilées les heures réclamées à titre de remboursement, les heures correspondant aux
@@ -41515,15 +41515,15 @@ Art. 2. Le point de contact national est directement accessible par:
 
 A. 5.11.14
 
-\1. la ligne téléphonique rattachée au service «Accueil et Information» (2757-1) de la Caisse
+1\. la ligne téléphonique rattachée au service «Accueil et Information» (2757-1) de la Caisse
 nationale de santé qui transfère les communications relatives aux soins de santé
 transfrontaliers en fonction de la nature de la demande, soit au service en charge des
 autorisations pour soins de santé transfrontaliers, soit au service en charge du
 remboursement des coûts de soins de santé transfrontaliers ou à tout autre service
 compétent au sein de la Caisse nationale de santé;
-\2. le site Internet de la Caisse nationale de santé (www.cns.lu) et l’adresse de la messagerie
+2\. le site Internet de la Caisse nationale de santé (www.cns.lu) et l’adresse de la messagerie
 électronique y associée (cns@secu.lu);
-\3. l’ensemble des guichets de l’agence Hollerich de la Caisse nationale de santé qui servent A. 19.6.17
+3\. l’ensemble des guichets de l’agence Hollerich de la Caisse nationale de santé qui servent A. 19.6.17
 dans ce cadre
 a) à réceptionner et à transmettre les demandes d'autorisations de traitement à l'étranger
 au service en charge,
@@ -41532,9 +41532,9 @@ et du paiement, les factures et autres documents portant sur les prestations de 
 de santé transfrontaliers,
 c) à fournir les informations sollicitées en relation avec les traitements à l'étranger et la
 prise en charge des prestations de soins de santé transfrontaliers;
-\4. les guichets du réseau des agences de la Caisse nationale de la santé;
+4\. les guichets du réseau des agences de la Caisse nationale de la santé;
 A. 5.11.14
-\5. l’adresse postale de la Caisse nationale de la santé.
+5\. l’adresse postale de la Caisse nationale de la santé.
 
 II. Missions du point de contact national
 Art. 3. (1) Le point de contact national fournit les renseignements nécessaires pour permettre
@@ -41555,8 +41555,8 @@ qui sont soumises à autorisation préalable et sur les conditions de forme et d
 pour l’obtention de l’autorisation.
 (3) Le point de contact national renseigne sur les prestations de soins de santé transfrontaliers
 pris en charge en dehors d’une autorisation préalable et sur
-\1. les conditions de prise en charge des prestations,
-\2. les taux et les tarifs de remboursement applicables.
+1\. les conditions de prise en charge des prestations,
+2\. les taux et les tarifs de remboursement applicables.
 (4) Le point de contact national rend compte de la possibilité de prétendre à la prise en charge
 des prestations de soins de santé transfrontaliers en vertu du règlement modifié (CE) n° 883/
 2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des
@@ -41564,14 +41564,14 @@ systèmes de sécurité sociale ou en vertu des articles 20 ou 20bis du Code de 
 sociale.
 Le point de contact national insiste sur les différences existant entre les deux systèmes de prise
 en charge, notamment en ce qui concerne
-\1. le droit applicable selon le type de traitement et l’option choisie (État membre de
+1\. le droit applicable selon le type de traitement et l’option choisie (État membre de
 traitement/État membre compétent),
-\2. les conditions d’autorisation et de prise en charge des prestations de soins de santé
+2\. les conditions d’autorisation et de prise en charge des prestations de soins de santé
 transfrontaliers,
 
-\3. les modalités de prise en charge (tiers payant/remboursement),
-\4. la prise en charge des frais connexes (frais de transport/frais de séjour),
-\5. la prise en charge d’éventuels compléments différentiels.
+3\. les modalités de prise en charge (tiers payant/remboursement),
+4\. la prise en charge des frais connexes (frais de transport/frais de séjour),
+5\. la prise en charge d’éventuels compléments différentiels.
 (5) Le point de contact national informe la personne protégée sur les voies de recours si la
 personne estime que ses droits n’ont pas été respectés.
 
@@ -42181,12 +42181,12 @@ personne à laquelle incombe la déclaration avant de prendre une décision.
 Art. 6. En cas de déclaration médicale d’une maladie professionnelle, l’employeur fournit tous R. 5.7.16
 les renseignements concernant l’exposition professionnelle à des risques. Dans la déclaration
 patronale concernant cette exposition, il indique notamment avec précision:
-\1) le ou les postes de travail successivement occupés et les tâches y effectuées;
-\2) les gestes et postures de travail relatifs à chaque poste ainsi que les produits, machines et
+1\) le ou les postes de travail successivement occupés et les tâches y effectuées;
+2\) les gestes et postures de travail relatifs à chaque poste ainsi que les produits, machines et
 outils y utilisés;
-\3) la durée du temps de travail exposant le salarié aux différents gestes et postures de travail
+3\) la durée du temps de travail exposant le salarié aux différents gestes et postures de travail
 ainsi qu’aux produits, machines et outils en cause;
-\4) les mesures de protection prises contre les risques professionnels et les équipements de
+4\) les mesures de protection prises contre les risques professionnels et les équipements de
 protection individuelle mis à disposition.
 Art. 7. Le Contrôle médical de la sécurité sociale se prononce sur l’existence de la maladie R. 5.7.16
 déclarée, sur le diagnostic médical de celle-ci et sur le numéro du tableau des maladies
@@ -42348,11 +42348,11 @@ Art. 1er. La Commission supérieure des maladies professionnelles est présidée
 de l’Association d’assurance accident ou son délégué et se compose en outre du médecindirecteur du Contrôle médical de la sécurité sociale ou de son délégué ainsi que de sept
 membres effectifs ou de leurs suppléants désignés pour une période de cinq ans par arrêté
 conjoint des ministres ayant dans leurs attributions la Santé et la Sécurité sociale, à savoir:
-\1) un représentant du Ministre ayant dans ses attributions la Sécurité sociale;
-\2) deux médecins du travail avec une formation telle que prévue à l’article L. 325-1 du Code
+1\) un représentant du Ministre ayant dans ses attributions la Sécurité sociale;
+2\) deux médecins du travail avec une formation telle que prévue à l’article L. 325-1 du Code
 du travail;
-\3) deux représentants des employeurs;
-\4) deux représentants des salariés.
+3\) deux représentants des employeurs;
+4\) deux représentants des salariés.
 En cas de démission ou de décès d’un membre effectif ou suppléant, il est pourvu à son
 remplacement par la nomination d’un nouveau membre, désigné conformément à l’alinéa 1, qui
 achève le mandat de celui qu’il remplace.
@@ -43165,11 +43165,11 @@ membre effectif ou membre suppléant du conseil d’administration. Un membre su
 conseil d’administration peut toutefois être nommé membre effectif d’une commission et
 inversement.
 Pour que le conseil d’administration puisse nommer une commission, il faut que :
-\1) le point figure à l’ordre du jour de la séance du conseil d’administration ;
-\2) les délégués des employeurs présents du conseil d’administration soient unanimes pour
+1\) le point figure à l’ordre du jour de la séance du conseil d’administration ;
+2\) les délégués des employeurs présents du conseil d’administration soient unanimes pour
 proposer les trois délégués des employeurs effectifs et les trois délégués des employeurs
 suppléants de la commission ;
-\3) les délégués des salariés présents du conseil d’administration soient unanimes pour
+3\) les délégués des salariés présents du conseil d’administration soient unanimes pour
 proposer les trois délégués des salariés effectifs et les trois délégués des salariés
 suppléants de la commission.
 Si les conditions ci-dessus sont remplies, le président proclame nommés les candidats
@@ -43290,19 +43290,19 @@ du Code de la sécurité sociale.
 b) Art.1er. Nonobstant toutes dispositions contractuelles contraires, l’exécution des contrats de travail,
 d’emploi ou de louage de service est censée avoir été suspendue au profit des travailleurs
 luxembourgeois qui, au cours de leur contrat,
-\1) ont été déportés, internés ou emprisonnés par l’occupant pour des raisons patriotiques;
-\2) ont été contraints par lui au travail en Allemagne;
-\3) ont été enrôlés de force dans le RAD, l’armée allemande ou autres services analogues ou qui s’y sont
+1\) ont été déportés, internés ou emprisonnés par l’occupant pour des raisons patriotiques;
+2\) ont été contraints par lui au travail en Allemagne;
+3\) ont été enrôlés de force dans le RAD, l’armée allemande ou autres services analogues ou qui s’y sont
 soustraits par la fuite;
-\4) ont été déportés, internés ou emprisonnés pour des raisons patriotiques dans un pays soumis à
+4\) ont été déportés, internés ou emprisonnés pour des raisons patriotiques dans un pays soumis à
 l’influence ennemie;
-\5) ont été contraints pour des raisons patriotiques de vivre caché pendant l’occupation du territoire
+5\) ont été contraints pour des raisons patriotiques de vivre caché pendant l’occupation du territoire
 national;
-\6) ont été écartés de l’entreprise ou du lieu où ils travaillaient par application des ordonnances de
+6\) ont été écartés de l’entreprise ou du lieu où ils travaillaient par application des ordonnances de
 l’autorité occupante;
-\7) ont été, par suite de mauvais traitements subis pour des raisons politiques, mis dans l’impossibilité
+7\) ont été, par suite de mauvais traitements subis pour des raisons politiques, mis dans l’impossibilité
 d’exercer leurs emplois;
-\8) ont quitté le Grand-Duché pour rejoindre les forces alliées ou pour se mettre à la disposition du
+8\) ont quitté le Grand-Duché pour rejoindre les forces alliées ou pour se mettre à la disposition du
 Gouvernement luxembourgeois ou d’un des Gouvernements des puissances alliées au Grand-Duché.
 
 b) pour le calcul ou le recalcul des rentes suivant la même loi du 10 avril 1951:
@@ -43769,7 +43769,7 @@ Dans les cas visés sous d) il est présumé que l’enfant a été élevé par 
 revenu professionnel le moins élevé, subsidiairement, par le conjoint le plus jeune.
 La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque assuré dans le chef d’un
 des conjoints.
-\2) L’appréciation de l’infirmité éventuelle de l’enfant se fait d’après les règles prévues à l’article
+2\) L’appréciation de l’infirmité éventuelle de l’enfant se fait d’après les règles prévues à l’article
 272 alinéa 4 du Code de la sécurité sociale.1)
 Art. 5. 1) Sont prises en considération comme périodes d’études et de formation
 professionnelle au titre de l’article 172, 2) du Code de la sécurité sociale les périodes où
@@ -43785,7 +43785,7 @@ a) les périodes de vacances annuelles à l’inclusion de celles consécutives 
 b) les interruptions d’études pour des raisons de santé,
 c) à la fin des études, la période se situant entre la fin de l’année scolaire et le 31 octobre
 subséquent.
-\2) L’intéressé doit rapporter la preuve des périodes d’études et de formation, notamment
+2\) L’intéressé doit rapporter la preuve des périodes d’études et de formation, notamment
 moyennant des diplômes, des certificats d’études, des certificats d’apprentissage, pour la
 période se situant entre l’âge de dix-huit ans et la fin de ses études ou de sa formation
 professionnelle.
@@ -44534,7 +44534,7 @@ Par R. 25.6.09, 2 les termes « âgé de moins de quinze ans accomplis » sont r
 « aux articles 348 et 349 du même code ».
 Par R. 25.6.09, 4 les termes « sans toutefois pouvoir rétroagir au-delà d’une année » ont été supprimés.
 
-5)
+5\)
 
 Livre III
 
@@ -45380,7 +45380,7 @@ sociale.
 (2) Les cotisations sont payables à l’échéance des traitements et salaires, sauf dérogation à
 accorder par le conseil d’administration de la Caisse pour l’avenir des enfants.
 
-5)
+5\)
 
 Il y a lieu de lire « règlement grand-ducal du 22 novembre 2019 déterminant le statut, les attributions et
 les règles de l’exercice de la profession de santé de sage-femme. »
@@ -45962,13 +45962,13 @@ Par R. 13.12.17 les termes « formant annexe » sont remplacés par les termes �
 Dans des situations exceptionnelles, la liste peut être complétée au niveau de la division du
 code ISO correspondant.
 Art. 2. Il existe deux 1) modes de prises en charges:
-\1. les aides techniques mises à disposition par voie de location sont déterminées sur la liste
+1\. les aides techniques mises à disposition par voie de location sont déterminées sur la liste
 par la lettre «L»;
-\2. les aides techniques pouvant être acquises à charge de l’assurance dépendance sont
+2\. les aides techniques pouvant être acquises à charge de l’assurance dépendance sont
 déterminées par la lettre «A». Pour tenir compte des besoins spécifiques du bénéficiaire,
 les aides techniques marquées simultanément des lettres «L» et «A» peuvent être prises en
 charge sous l’une ou l’autre forme;
-\3. (supprimé)
+3\. (supprimé)
 
 R. 13.12.17
 
@@ -46029,7 +46029,7 @@ officiel de conformité, l’Administration d’évaluation et de contrôle de l
 en tient compte dans son avis. Les frais qui en résultent pour la première mise en service, sont
 à la charge de l’assurance dépendance.
 
-5)
+5\)
 
 Par R.13.12.17 les termes « trois modes de prises en charges » sont remplacés par les termes « deux
 modes de prises en charges ».
@@ -46169,9 +46169,9 @@ Dans des situations exceptionnelles, l’Administration d’évaluation et de co
 dépendance peut accorder des adaptations à des personnes ne disposant pas encore de
 permis de conduire, à condition que la commission médicale des permis de conduire auprès
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 Par R. 13.12.17 les termes « mises à disposition par acquisition avec rétrocession » sont remplacés par
 ceux de « en location ».
@@ -46370,7 +46370,7 @@ une vérification de la qualité du matériel fourni et des prestations liées.
 
 Art. 32. En toute hypothèse le logement faisant l'objet des adaptations doit être habité par le
 bénéficiaire pendant au moins douze mois à compter du démarrage du chantier visé à l’article
-\35. À ce délai s'ajoute un délai d'un mois supplémentaire pour chaque tranche de 450 euros 3)
+35\. À ce délai s'ajoute un délai d'un mois supplémentaire pour chaque tranche de 450 euros 3)
 accordée. Tout changement de domicile intervenant endéans ce délai doit être déclaré, dans
 un mois, à l'organisme gestionnaire de l'assurance dépendance.
 Art. 33. Si les conditions définies à l’article 32 ne sont pas respectées, le montant pris en R. 22.12.06
@@ -46389,8 +46389,8 @@ adapté ou adaptable, ne peut dépasser 450 euros 6) par mois sans pouvoir dépa
 le plafond fixé à l'article 29. Le coût supplémentaire peut être déterminé sur base d’une
 expertise.
 
-5)
-6)
+5\)
+6\)
 
 R. 24.1.24, 9 : Les termes « 28 000 euros » sont remplacés par les termes « 35 000 euros ».
 Alinéa renuméroté par R. 13.12.17.
@@ -47171,12 +47171,12 @@ d) logement:
 vingt euros (20 e) par mois et par chambre pour toutes les localités du pays;
 e) au cas où les prestations en nature sont accordées aux membres de la famille du salarié,
 les taux sont réduits:
-\1) pour le conjoint à quatre-vingts pour cent,
-\2) pour chaque enfant de moins de six ans à trente pour cent,
+1\) pour le conjoint à quatre-vingts pour cent,
+2\) pour chaque enfant de moins de six ans à trente pour cent,
 
 Livre VI
 
-\3) pour chaque enfant âgé de six ans au moins à quarante pour cent.
+3\) pour chaque enfant âgé de six ans au moins à quarante pour cent.
 Art. 2. Les taux prévus à l’article 1er sont réduits à soixante-dix pour cent en ce qui concerne R. 28.12.90
 les travailleurs agricoles.
 Art. 3.
@@ -47186,16 +47186,16 @@ l’employeur avec les autres membres de ce ménage ou qui obtiennent un entreti
 dans le cadre de l’organisation interne de l’entreprise de l’employeur.
 (2) Pour les salariés qui ne remplissent pas les conditions de l’alinéa 1, la valeur des R. 25.4.94
 rémunérations en nature est fixée:
-\1) en ce qui concerne le repas pris dans une cantine d’entreprise installée par l’employeur à
+1\) en ce qui concerne le repas pris dans une cantine d’entreprise installée par l’employeur à
 deux euros et quatre-vingt cents (2,80 e) par repas principal;
-\2) en ce qui concerne le repas offert au salarié dans un restaurant par l’employeur ne disposant
+2\) en ce qui concerne le repas offert au salarié dans un restaurant par l’employeur ne disposant
 pas d’une cantine d’entreprise, à deux euros et quatre-vingt cents (2,80 e) pour le repas
 principal pris au cours d’une journée de travail. Toutefois, lorsque le prix du repas mis en
 compte par le restaurateur à charge de l’employeur, dépasse, compte tenu du prix déboursé
 par le salarié, le montant de huit euros et quarante cents (8,40 e), la valeur fiscale de la
 rémunération en nature s’établit à deux euros et quatre-vingt cents (2,80 e), augmentés de
 la différence entre ledit prix et le montant de huit euros et quarante cents (8,40 e);
-\3) en ce qui concerne les repas principaux autres que ceux visés sub 1) et 2), respectivement
+3\) en ce qui concerne les repas principaux autres que ceux visés sub 1) et 2), respectivement
 au prix de revient du repas offert par l’employeur ou au prix du repas mis en compte par le
 restaurateur à charge de l’employeur et le prix déboursé par le salarié.
 
@@ -47854,28 +47854,28 @@ produits est interdite sauf dans les cas prévus dans le plan comptable uniforme
 Art. 12. L’annexe comporte, suivant les modalités inscrites au plan comptable uniforme des R. 30.12.10
 institutions de sécurité sociale et les autres instructions de l’Inspection générale de la sécurité
 sociale:
-\1) les éléments ou circonstances qui affectent de manière significative, par rapport à
+1\) les éléments ou circonstances qui affectent de manière significative, par rapport à
 l’exercice précédent, la formation du résultat, la situation financière ou le patrimoine de
 l’institution ainsi que les statistiques concernant le fonctionnement de l’assurance;
-\2) les éléments qui se rattachent à l’exercice sous revue ou à des exercices antérieurs et qui
+2\) les éléments qui se rattachent à l’exercice sous revue ou à des exercices antérieurs et qui
 sont susceptibles d’affecter la situation financière de l’institution et dont il n’a pas pu être
 tenu compte au moment de la clôture des comptes;
-\3) les changements des méthodes et principes comptables, les modifications de la
+3\) les changements des méthodes et principes comptables, les modifications de la
 présentation ainsi que les modes d’évaluation appliqués pour les écritures de fin d’année;
-\4) la liste des redressements comptables opérés à la demande de l’Inspection générale de la
+4\) la liste des redressements comptables opérés à la demande de l’Inspection générale de la
 sécurité sociale dans son avis sur les comptes annuels de l’exercice précédent;
-\5) le relevé des écritures comptables opérées par dérogation aux règles du plan comptable
+5\) le relevé des écritures comptables opérées par dérogation aux règles du plan comptable
 uniforme et les justifications y afférentes;
-\6) le détail des frais d’administration et de gestion du patrimoine de l’exercice sous forme
+6\) le détail des frais d’administration et de gestion du patrimoine de l’exercice sous forme
 d’un tableau reproduisant pour chaque crédit le montant approuvé au budget de
 l’institution, les transferts de crédit, les dépassements de crédits limitatifs, les plus-values
 et moins-values des autres crédits ainsi que le solde final; le tableau est accompagné des
 motifs des dépassements de crédits limitatifs et des autorisations ministérielles de
 dépassement;
-\7) un organigramme du personnel de l’institution en place au 31 décembre;
-\8) un état des titres et valeurs détenus et des prêts accordés suivant le modèle et les règles
+7\) un organigramme du personnel de l’institution en place au 31 décembre;
+8\) un état des titres et valeurs détenus et des prêts accordés suivant le modèle et les règles
 d’évaluation prévus par le plan comptable uniforme;
-\9) un état du patrimoine immobilier et des amortissements suivant le modèle et les règles
+9\) un état du patrimoine immobilier et des amortissements suivant le modèle et les règles
 d’évaluation prévus par le plan comptable uniforme.
 
 Livre VI
@@ -47910,14 +47910,14 @@ l’année en cours ainsi que du budget de l’exercice à venir. La structure d
 dépenses et des recettes du budget est arrêtée par l’Inspection générale de la sécurité sociale
 et s’aligne sur le plan des comptes applicable pour l’institution concernée.
 L’annexe comporte, dans les formes prescrites par l’Inspection générale de la sécurité sociale: R. 30.12.10
-\1) les modalités d’évaluation des crédits et les justifications des crédits avec les statistiques R. 19.12.08
+1\) les modalités d’évaluation des crédits et les justifications des crédits avec les statistiques R. 19.12.08
 concernant le fonctionnement de l’assurance,
-\2) le tableau prospectif du personnel avec la distinction entre effectif autorisé et postes
+2\) le tableau prospectif du personnel avec la distinction entre effectif autorisé et postes
 occupés,
-\3) les dépassements de crédits de l’exercice en cours approuvés par le conseil
+3\) les dépassements de crédits de l’exercice en cours approuvés par le conseil
 d’administration avec le motif des dépassements,
-\4) les transferts de crédits de l’exercice en cours,
-\5) le plan de trésorerie pour les derniers mois de l’exercice en cours et pour l’exercice
+4\) les transferts de crédits de l’exercice en cours,
+5\) le plan de trésorerie pour les derniers mois de l’exercice en cours et pour l’exercice
 budgétaire.
 
 Types de crédits
@@ -47925,10 +47925,10 @@ Art. 17. Les crédits suivants sont limitatifs:
 
 R. 30.12.10
 
-\1) les crédits pour frais d’administration à l’exception des crédits définis comme non limitatifs
+1\) les crédits pour frais d’administration à l’exception des crédits définis comme non limitatifs
 par l’Inspection générale de la sécurité sociale dans les annexes au plan comptable
 uniforme;
-\2) les crédits pour frais de gestion du patrimoine.
+2\) les crédits pour frais de gestion du patrimoine.
 Tous les autres crédits sont non limitatifs.
 Art. 18. Sont susceptibles de transfert à d’autres crédits uniquement les crédits pour frais de
 fonctionnement, à l’exception de ceux définis comme non susceptibles de transfert par
@@ -48187,19 +48187,19 @@ Livre VI
 Pondération et calcul des voix
 Art. 1er. (1) Le nombre de voix pondéré des délégués représentant les assurés et les
 employeurs au sein du conseil d’administration de la Caisse nationale de santé est le suivant:
-\1) pour chacun des 5 délégués représentant les salariés du secteur privé désignés par la
+1\) pour chacun des 5 délégués représentant les salariés du secteur privé désignés par la
 Chambre des salariés à l’exception du groupe des agents du chemin de fer: 17 voix
-\2) pour le délégué des cheminots désigné par le groupe des agents du chemin de fer de la
+2\) pour le délégué des cheminots désigné par le groupe des agents du chemin de fer de la
 Chambre des salariés: 2 voix
-\3) pour le délégué des salariés du secteur public désigné par le groupe des fonctionnaires et
+3\) pour le délégué des salariés du secteur public désigné par le groupe des fonctionnaires et
 employés communaux de la Chambre des fonctionnaires et employés publics: 1 voix
-\4) pour le délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
+4\) pour le délégué des salariés du secteur public désigné par la Chambre des fonctionnaires
 et employés publics à l’exception du groupe des fonctionnaires et employés communaux:
 8 voix
-\5) pour le délégué des non-salariés désigné par la Chambre de commerce: 2 voix
-\6) pour le délégué des non-salariés désigné par la Chambre des métiers: 2 voix
-\7) pour le délégué des non-salariés désigné par la Chambre d’agriculture: 2 voix
-\8) pour chacun des 5 délégués des employeurs désignés par la Chambre de commerce et par
+5\) pour le délégué des non-salariés désigné par la Chambre de commerce: 2 voix
+6\) pour le délégué des non-salariés désigné par la Chambre des métiers: 2 voix
+7\) pour le délégué des non-salariés désigné par la Chambre d’agriculture: 2 voix
+8\) pour chacun des 5 délégués des employeurs désignés par la Chambre de commerce et par
 la Chambre des métiers: 18 voix
 (2) Le président dispose de 96 voix.
 Art. 2. Si le conseil d’administration siège dans la composition prévue à l’article 46, alinéa 4 du
@@ -48216,12 +48216,12 @@ R. 7.1.09
 
 Art. 4. (1) Le nombre de voix pondéré des délégués représentant les assurés et les employeurs
 au sein du conseil d’administration de la Caisse nationale d’assurance pension est le suivant:
-\1) pour chacun des 8 délégués représentant les salariés du secteur privé désignés par la
+1\) pour chacun des 8 délégués représentant les salariés du secteur privé désignés par la
 Chambre des salariés: 6 voix
-\2) pour le délégué des non-salariés désigné par la Chambre de commerce: 1 voix
-\3) pour le délégué des non-salariés désigné par la Chambre des métiers: 1 voix
-\4) pour le délégué des non-salariés désigné par la Chambre d’agriculture: 1 voix
-\5) pour chacun des 5 délégués des employeurs désignés par la Chambre de commerce et par
+2\) pour le délégué des non-salariés désigné par la Chambre de commerce: 1 voix
+3\) pour le délégué des non-salariés désigné par la Chambre des métiers: 1 voix
+4\) pour le délégué des non-salariés désigné par la Chambre d’agriculture: 1 voix
+5\) pour chacun des 5 délégués des employeurs désignés par la Chambre de commerce et par
 la Chambre des métiers: 9 voix
 (2) Le président dispose de 48 voix.
 
@@ -48431,7 +48431,7 @@ de perception des cotisations par la Chambre d’agriculture est abrogé.
 Règlement d’ordre intérieur du Centre commun de la sécurité sociale
 Règlement d’ordre intérieur adopté par le comité directeur du Centre commun de la
 sécurité sociale le 29 septembre 2009 et approuvé par arrêté ministériel du 2 décembre
-2009.
+2009\.
 Modifications :
 2020 - Modification adoptée par le conseil d'administration du Centre commun de la sécurité
 sociale et approuvé par arrêté ministériel du 4 mai 2020 (Entrée en vigueur : 6 mai 2020)
@@ -49510,7 +49510,7 @@ de la loi modifiée du 3 août 1998 et d’un ou de plusieurs autres points du m
 périodes sont mises en compte uniquement au titre des périodes autres que celles prévues au
 point 4.
 Art. 3.
-\1) Pour la mise en compte des périodes prévues à l’article 4, point 4. de la loi modifiée du 3
+1\) Pour la mise en compte des périodes prévues à l’article 4, point 4. de la loi modifiée du 3
 août 1998 il est présumé que la mère a élevé l’enfant. Le père de l’enfant peut rapporter la
 preuve contraire
 a) si la garde de l’enfant lui a été confiée,
@@ -49522,12 +49522,12 @@ Dans les cas visés sous d) il est présumé que l’enfant a été élevé par 
 le revenu professionnel le moins élevé, subsidiairement, par le conjoint le plus jeune.
 La preuve ne peut être rapportée que jusqu’à l’échéance d’un risque assuré dans le
 chef d’un des conjoints.
-\2) L’infirmité éventuelle de l’enfant doit être telle qu’il ne peut subsister sans l’assistance et
+2\) L’infirmité éventuelle de l’enfant doit être telle qu’il ne peut subsister sans l’assistance et
 les soins du parent concerné et doit être constatée par la Commission des pensions prévue
 à l’article 68 de la loi modifiée du 3 août 1998, respectivement par l’organe compétent du
 régime de pension spécial concerné.
 Art. 4.
-\1) Sont prises en considération comme périodes d’études et de formation professionnelle au
+1\) Sont prises en considération comme périodes d’études et de formation professionnelle au
 titre du même article 4, sous point 2. les périodes où l’intéressé
 
 a) a suivi effectivement, sur place, au Grand-Duché ou à l’étranger, dans un établissement
@@ -49542,7 +49542,7 @@ scolaire,
 b) les interruptions d’études pour des raisons de santé,
 c) à la fin des études, la période se situant entre la fin de l’année scolaire et le 31 octobre
 subséquent.
-\2) L’intéressé doit rapporter la preuve des périodes d’études et de formation, notamment
+2\) L’intéressé doit rapporter la preuve des périodes d’études et de formation, notamment
 moyennant des diplômes, des certificats d’études, des certificats d’apprentissage, pour la
 période se situant entre l’âge de dix-huit ans et la fin de ses études ou de sa formation
 professionnelle.
@@ -49608,9 +49608,9 @@ la loi modifiée du 3 août 1998 doit être présentée auprès du régime de pe
 compétent. Ce régime est chargé de l’instruction du dossier.
 Art. 13. La période à couvrir rétroactivement ne peut ni se situer avant l’âge de dix-huit ans ni
 excéder:
-\1) les périodes de mariage,
-\2) les périodes d’éducation d’un enfant mineur,
-\3) les périodes d’aides et de soins assurés à une personne reconnue dépendante
+1\) les périodes de mariage,
+2\) les périodes d’éducation d’un enfant mineur,
+3\) les périodes d’aides et de soins assurés à une personne reconnue dépendante
 conformément aux articles 348 et 349 du Code de la sécurité sociale ou bénéficiant d’une
 allocation de soins prévue par la loi du 22 mai 1989, d’une allocation spéciale pour
 personnes gravement handicapées au titre de la loi modifiée du 16 avril 1979, d’une
@@ -49618,7 +49618,7 @@ majoration de la rente d’accident en vertu de l’article 97, alinéa 10 du Co
 sociale ou d’une majoration du complément du revenu minimum garanti prévu par l’article
 3, alinéa 4 de la loi modifiée du 26 juillet 1986 conformément à l’article VIII de la loi du 19
 juin 1998 portant introduction d’une assurance dépendance,
-\4) les périodes d’affiliation à un régime de pension étranger ou à un régime de pension d’une
+4\) les périodes d’affiliation à un régime de pension étranger ou à un régime de pension d’une
 organisation internationale.
 Le régime de pension spécial compétent peut demander à l’intéressé de fournir les pièces
 justificatives au sujet des périodes ci-dessus.
@@ -49628,7 +49628,7 @@ seule fois conformément à l’article 7 de la loi modifiée du 3 août 1998.
 Art. 14.
 
 Pour un mois d’assurance à couvrir rétroactivement pendant une période visée aux points
-\1) à 3) de l’article 13, il est mis en compte, à la demande de l’intéressé, un revenu
+1\) à 3) de l’article 13, il est mis en compte, à la demande de l’intéressé, un revenu
 correspondant, soit au minimum cotisable défini par le salaire social minimum pour un
 travalleur non qualifié agé de dix-huit ans au moins en vigueur pendant ces périodes, soit
 à des multiples de 1,5, de 2,0 et de 2,5 de ce minimum. En aucun cas, les revenus portés
@@ -49642,7 +49642,7 @@ revalorisée, le cas échéant, par rapport à l’exercice d’une tâche compl
 pendant l’année de calendrier en question, soit le maximum cotisable en vigueur auprès de
 la Caisse nationale d’assurance pension pendant la même année si celui-ci est plus
 favorable.
-\2) Pour les périodes visées à au point 4) de l’article qui précède, l’intéressé est libre de fixer
+2\) Pour les périodes visées à au point 4) de l’article qui précède, l’intéressé est libre de fixer
 le revenu à mettre en compte dans sa carrière d’assurance sans pouvoir être inférieur au
 salaire social minimum ci-avant défini en vigueur pendant l’année de calendrier en
 question, ni dépasser soit la rémunération, définie conformément aux articles 60, 80 ou 85
@@ -49734,9 +49734,9 @@ cinquante pour cent du salaire social minimum horaire revenant à un salarié no
 plus de dix-huit ans.
 Par salaire horaire normal au sens du présent règlement il faut entendre et compter R. 25.6.09,1,2
 séparément:
-\1) le salaire de base la plus élevée qui fait partie de l’assiette appliquée au cours de l’un des
+1\) le salaire de base la plus élevée qui fait partie de l’assiette appliquée au cours de l’un des
 trois mois de calendrier précédant le début de la période de chômage partiel;
-\2) la moyenne des compléments et accessoires de salaire qui font partie des assiettes des
+2\) la moyenne des compléments et accessoires de salaire qui font partie des assiettes des
 douze mois de calendrier précédant le mois antérieur à la survenance du chômage partiel;
 si cette période de référence n’est pas entièrement couverte par une activité soumise à
 l’assurance, la moyenne est calculée sur base des mois de calendrier entièrement
@@ -49790,16 +49790,16 @@ dispositions du présent règlement.
 L’appréciation de l’emploi offert au demandeur d’emploi doit s’effectuer au regard des aides à
 la mobilité et au réemploi auxquelles il peut prétendre, le cas échéant.
 
-\1) Niveau de rémunération
+1\) Niveau de rémunération
 Art. 2. 1. Est réputé approprié, l’emploi offert rémunéré à un niveau au moins égal à celui de
 l’indemnité de chômage complet à laquelle le demandeur d’emploi peut prétendre en vertu de
 la loi.
-\2. Lorsque le demandeur d’emploi classé ou reclassé dans un nouvel emploi est licencié dans
+2\. Lorsque le demandeur d’emploi classé ou reclassé dans un nouvel emploi est licencié dans
 les six mois de son placement pour des motifs autres que la faute grave, doit être considéré
 comme approprié à son égard, l’emploi rémunéré à un niveau égal à celui de l’indemnité de
 chômage à laquelle il pouvait prétendre avant son placement.
 
-\2) Aptitude professionnelle
+2\) Aptitude professionnelle
 Art. 3. Lorsque l’Agence pour le développement de l’emploi ne se trouve pas en mesure
 d’assigner à un demandeur d’emploi qualifié un emploi identique à son emploi antérieur, est
 réputé approprié l’emploi lui offert dans une profession apparentée à sa profession antérieure,
@@ -49814,12 +49814,12 @@ demandeur d’emploi dispose de l’aptitude professionnelle nécessaire et que 
 réinsertion ultérieure dans un emploi à caractère principalement intellectuel ne s’en trouvent
 pas à terme considérablement réduites.
 
-\3) Aptitude physique et psychique
+3\) Aptitude physique et psychique
 Art. 5. L’emploi offert au demandeur d’emploi doit répondre à ses aptitudes physiques et
 psychiques.
 Chômage
 
-\4) Trajet journalier
+4\) Trajet journalier
 Art. 6. Doit être considéré comme approprié, l’emploi comportant pour le demandeur d’emploi
 une durée de déplacement n’excédant pas deux heures et demie par journée de travail. Pour
 le calcul de cette durée de déplacement, il ne peut être computé qu’un seul voyage aller et
@@ -49833,7 +49833,7 @@ Une durée journalière de déplacement inférieure à deux heures et demie peut
 cas particuliers et exceptionnels, être considérée comme excessive en raison de l’âge ou de
 l’état physique du salarié, lorsque l’emploi doit être exercé dans un lieu éloigné de sa résidence.
 
-\5) Situation familiale
+5\) Situation familiale
 Art. 7. Des considérations d’ordre familial, notamment la charge d’un ou de plusieurs enfants,
 ne peuvent être prises en considération pour l’appréciation de l’emploi approprié, sauf si elles
 constituent un empêchement particulièrement grave; dans ce dernier cas, la charge de la
@@ -49842,17 +49842,17 @@ preuve incombe au requérant.
 Il y a lieu de lire « article L. 521-3, point 5 et L. 521-9 paragraphes (1) et (2) du Code du travail. »
 Il y a lieu de lire « article L. 521-3, point 5 du Code du travail. »
 
-\6) Régime de travail
+6\) Régime de travail
 Art. 8. 1. Est réputé approprié, l’emploi offert comportant un régime de travail différent de celui
 sous lequel le demandeur d’emploi a travaillé antérieurement.
 Il n’en est pas ainsi toutefois, lorsque le demandeur d’emploi peut invoquer des circonstances
 particulièrement graves, inhérentes à sa condition physique ou à sa situation familiale, qui
 puissent justifier le refus de l’emploi proposé.
-\2. Le demandeur d’emploi assigné dans un emploi à temps plein ou à temps partiel ne peut,
+2\. Le demandeur d’emploi assigné dans un emploi à temps plein ou à temps partiel ne peut,
 sans motif valable et convaincant, refuser un emploi posté, une occupation comportant
 logement ou comportant régulièrement des prestations de travail pendant les jours de fin de
 semaine.
-\3. Le demandeur d’emploi ayant occupé antérieurement à son reclassement professionnel un
+3\. Le demandeur d’emploi ayant occupé antérieurement à son reclassement professionnel un
 emploi à temps plein peut refuser d’être reclassé dans un emploi à temps partiel avant
 l’expiration d’une durée d’inscription de douze mois comme demandeur d’emploi.
 Le demandeur d’emploi ayant occupé antérieurement à son reclassement professionnel un
@@ -49861,18 +49861,18 @@ temps plein, lorsque cet emploi comporte par journée ou par semaine un nombre d
 sensiblement supérieur à celui du régime sous lequel il a travaillé antérieurement à son
 reclassement professionnel.
 
-\7) Promesse d’embauche
+7\) Promesse d’embauche
 Art. 9. L’emploi assigné par l’Agence pour le développement de l’emploi peut être refusé par
 le demandeur d’emploi, à condition qu’il présente une preuve écrite qu’il sera embauché par
 un autre employeur et que cet embauchage prendra effet dans un délai d’un mois à partir de la
 date de l’assignation de l’Agence pour le développement de l’emploi.
 
-\8) Conditions de travail
+8\) Conditions de travail
 Art. 10. Ne peut être considéré comme approprié, l’emploi exécuté dans des conditions
 contraires aux dispositions légales, réglementaires, administratives ou conventionnelles
 applicables à l’établissement.
 
-\9) Dispense du contrôle
+9\) Dispense du contrôle
 Art. 11. Le bénéficiaire de l’indemnité de chômage peut être dispensé, pour une durée
 maximale de vingt-cinq jours ouvrables par an, de l’observation des dispositions de l’article 20
 de la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage; 2. réglementation
@@ -49888,7 +49888,7 @@ Chômage
 Le droit à l’indemnité de chômage est suspendu pendant la durée de la dispense, laquelle ne
 peut être imputée pour le calcul de la durée d’indemnisation du chômeur.
 
-\10) Dispositions finales
+10\) Dispositions finales
 Art. 12. Chaque année le directeur de l’Agence pour le développement de l’emploi fera rapport
 au Gouvernement et au Comité permanent du Travail et de l’Emploi sur l’application des
 dispositions du présent règlement.
@@ -49906,12 +49906,12 @@ Art. 1er. Est considéré comme chômeur particulièrement difficile à placer a
 dispositions du paragraphe 3. de l’article 22 de la loi modifiée du 30 juin 1976 portant 1.
 création d’un fonds pour l’emploi; 2. réglementation de l’octroi des indemnités de chômage
 complet:1)
-\1) le chômeur atteint d’une incapacité de travail de trente pour cent au moins constatée ou,
+1\) le chômeur atteint d’une incapacité de travail de trente pour cent au moins constatée ou,
 le cas échéant, fixée par le Contrôle médical de la sécurité sociale;
-\2) le chômeur âgé de cinquante ans accomplis au moins et atteint d’une incapacité de travail
+2\) le chômeur âgé de cinquante ans accomplis au moins et atteint d’une incapacité de travail
 de quinze pour cent au moins constatée ou, le cas échéant, fixée par le Contrôle médical
 de la sécurité sociale;
-\3) le chômeur âgé de cinquante-cinq ans accomplis au moins.
+3\) le chômeur âgé de cinquante-cinq ans accomplis au moins.
 
 Règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le
 fonctionnement de la commission spéciale chargée du réexamen des
@@ -49941,12 +49941,12 @@ de cette convocation.
 Tout membre titulaire de la commission empêché d’assister à une session doit en aviser son
 suppléant et lui transmettre le dossier administratif dont il a obtenu communication
 conformément aux dispositions de l’article 2.
-\2. Le secrétaire de la commission fait un exposé de l’affaire.
-\3. Le directeur de l’Agence pour le développement de l’emploi ou son représentant est entendu
+2\. Le secrétaire de la commission fait un exposé de l’affaire.
+3\. Le directeur de l’Agence pour le développement de l’emploi ou son représentant est entendu
 en ses observations et explications.
-\4. Le président peut convoquer des experts ou conseillers techniques.
-\5. Les séances de la commission ne sont pas publiques.
-\6. La commission délibère valablement quand la majorité des membres du groupe des
+4\. Le président peut convoquer des experts ou conseillers techniques.
+5\. Les séances de la commission ne sont pas publiques.
+6\. La commission délibère valablement quand la majorité des membres du groupe des
 employeurs et du groupe des salariés sont présents.
 Les décisions de la commission sont prises à la majorité des voix exprimées.
 En cas d’égalité des voix, le président décide.
@@ -49956,7 +49956,7 @@ Il y a lieu de lire « article L. 527-1, paragraphe 2 du Code du travail. »
 
 Art. 4. 1. Le président peut demander toute mesure d’instruction complémentaire à l’Agence
 pour le développement de l’emploi.
-\2. Le président peut exiger la comparution personnelle du requérant qui pourra se faire assister
+2\. Le président peut exiger la comparution personnelle du requérant qui pourra se faire assister
 d’un conseil.
 Dans ce cas le requérant est invité par lettre recommandée à se présenter devant la
 commission spéciale. Il y aura un délai d’au moins huit jours entre la remise de la convocation
@@ -50057,9 +50057,9 @@ d’après les dispositions des articles 137 et 145 de la loi précitée, à con
 cent 7) et à concurrence de 9 pour cent 7) pour la tranche du revenu imposable ajusté
 dépassant respectivement 150.000 euros en classes 1 et 1a ou 300.000 euros en classe 2.
 
-5)
-6)
-7)
+5\)
+6\)
+7\)
 
 Il y a lieu de lire « article L. 581-7, et L. 586-1 du Code du travail. »
 Il y a lieu de lire « article L. 583-1 du Code du travail. »
@@ -50322,11 +50322,11 @@ Vu l’article 25 de la loi modifiée du 12 septembre 2003 relative aux personne
 Art. 1er. Les montants du revenu minimum garanti prévus à l’article 5, paragraphes 1er, 2 et 3 R. 16.12.16
 de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti sont
 fixés à:
-\1. cent soixante-seize euros trente-cinq cents pour une personne seule visée à l’article 5,
+1\. cent soixante-seize euros trente-cinq cents pour une personne seule visée à l’article 5,
 paragraphe 1 a);
-\2. deux cent soixante-quatre euros cinquante-trois cents pour la communauté domestique
+2\. deux cent soixante-quatre euros cinquante-trois cents pour la communauté domestique
 visée à l’article 5 paragraphe 1 b);
-\3. cinquante euros quarante-six cents pour l’adulte supplémentaire visé à l’article 5,
+3\. cinquante euros quarante-six cents pour l’adulte supplémentaire visé à l’article 5,
 paragraphe 2;
 seize euros trois cents pour l’enfant visé à l’article 5, paragraphe 3.
 
@@ -50363,15 +50363,15 @@ Revis
 Art. 3.
 (1) La demande du requérant donne lieu à l’établissement d’un dossier qui comporte selon le
 cas les pièces justificatives suivantes :
-\1. une copie de la carte d’identité des demandeurs adultes ;
-\2. un relevé d’identité bancaire pour le demandeur principal désigné attributaire du Revis ;
-\3. une copie de l’attestation d’enregistrement si la personne est ressortissant d’un État
+1\. une copie de la carte d’identité des demandeurs adultes ;
+2\. un relevé d’identité bancaire pour le demandeur principal désigné attributaire du Revis ;
+3\. une copie de l’attestation d’enregistrement si la personne est ressortissant d’un État
 membre de l’Union européenne ou d’un État ayant adhéré à l’Accord sur l’Espace
 Économique Européen ou de la Confédération suisse ;
-\4. une preuve attestant du séjour légal au Luxembourg pendant la période de cinq ans prise
+4\. une preuve attestant du séjour légal au Luxembourg pendant la période de cinq ans prise
 en considération, conformément au paragraphe 2 de l’article 2 de la loi, pour le
 ressortissant de pays tiers ;
-\5. la décision du Ministère des Affaires étrangères de la reconnaissance en tant que
+5\. la décision du Ministère des Affaires étrangères de la reconnaissance en tant que
 bénéficiaire de la protection internationale.
 (2) Pour le requérant âgé de moins de vingt-cinq ans, le dossier visé au paragraphe 1er est
 complété par un avis médical établi par un médecin mandaté par le Fonds attestant qu’il remplit
@@ -50388,11 +50388,11 @@ la loi.
 Art. 4.
 Les preuves matérielles visées par l’alinéa 1er du paragraphe 1er de l’article 4 de la loi sont,
 selon le cas :
-\1. les titres de propriété d’un immeuble d’habitation ;
-\2. le contrat de bail ;
-\3. les quittances de loyer ;
-\4. les pièces bancaires ou comptables prouvant le paiement du loyer ;
-\5. les pièces prouvant le paiement des factures d’électricité, de gaz, de l’antenne collective
+1\. les titres de propriété d’un immeuble d’habitation ;
+2\. le contrat de bail ;
+3\. les quittances de loyer ;
+4\. les pièces bancaires ou comptables prouvant le paiement du loyer ;
+5\. les pièces prouvant le paiement des factures d’électricité, de gaz, de l’antenne collective
 ou des taxes communales.
 Ces pièces peuvent être présentées à tout moment au Fonds par toute personne qui estime,
 au moment de la demande en obtention du revenu d’inclusion sociale ou lors d’un contrôle
@@ -50749,14 +50749,14 @@ titulaires de la commission médicale.
 Lorsque le poste de président est devenu vacant par suite d’une démission ou d’un décès du
 membre titulaire, la commission élira un nouveau président parmi ses membres titulaires, qui
 terminera le mandat de son prédécesseur.
-\2. La commission médicale établit un règlement d’ordre intérieur qui détermine notamment les
+2\. La commission médicale établit un règlement d’ordre intérieur qui détermine notamment les
 modalités de convocation, de délibération et de vote de la commission qui sera approuvé par
 règlement grand-ducal.
-\3. La commission médicale se réunit aux jour, heure et lieu fixés par le président dans la
+3\. La commission médicale se réunit aux jour, heure et lieu fixés par le président dans la
 convocation écrite. Les tâches administratives de la commission médicale sont exécutées par
 une cellule administrative au sein du Service des salariés handicapés de l’Agence pour le
 développement de l’emploi.
-\4. Le Président convoque les membres de la commission médicale. Hormis le cas d’urgence,
+4\. Le Président convoque les membres de la commission médicale. Hormis le cas d’urgence,
 les convocations sont envoyées et accompagnées des dossiers avec les pièces justificatives
 tels que définis notamment au point 2 du paragraphe 1 de l’article 5 et au point 2 du paragraphe
 1 de l’article 10 ci-après et ce au moins huit jours avant la date prévue pour la réunion de la
@@ -50764,7 +50764,7 @@ commission.
 Tout membre titulaire de la commission empêché d’assister à une session doit en aviser son
 suppléant et lui transmettre le dossier avec les pièces justificatives, dont il a eu communication
 ensemble avec la convocation.
-\5. Les séances de la commission ne sont pas publiques
+5\. Les séances de la commission ne sont pas publiques
 Art. 2. Les membres de la commission médicale, les experts et le secrétaire de la commission R. 28.10.13
 présents à la réunion à la demande de la commission ont droit à une indemnité spéciale qui est
 fixée comme suit:.
@@ -50808,11 +50808,11 @@ commission médicale.
 
 Divers
 
-\2. Le secrétariat est en charge des notifications des décisions de la commission, des transferts
+2\. Le secrétariat est en charge des notifications des décisions de la commission, des transferts
 de dossiers à effectuer en conformité avec la loi du 12 septembre 2003 relative aux personnes
 handicapées, ci-après appelée «loi» et de l’article 9 ci-après, ainsi que de la réception et du
 dépôt des pièces à effectuer pour le compte de la commission médicale.
-\3. Le secrétariat établit un procès-verbal de chaque réunion. Le procès-verbal est signé par le
+3\. Le secrétariat établit un procès-verbal de chaque réunion. Le procès-verbal est signé par le
 président et par le secrétaire.
 
 Par R. 28.10.13 le terme « travailleur » a été remplacé par le terme « salarié ».
@@ -50915,7 +50915,7 @@ compte de l’existence d’une diminution du potentiel individuel de travail pa
 professionnelle antérieure. Est en outre prise en considération l’importance de la capacité de
 travail résiduelle par rapport aux possibilités d’une remise au travail dans un délai rapproché
 ou la rééducabilité de l’intéressé.
-\2. Les organismes de la sécurité sociale compétents, de même que le Fonds national de
+2\. Les organismes de la sécurité sociale compétents, de même que le Fonds national de
 solidarité sont tenus de fournir à la commission médicale les renseignements qu’ils détiennent
 et qui sont nécessaires à la commission médicale pour se prononcer sur la demande en
 reconnaissance de la qualité de salarié handicapé introduite par le requérant.
@@ -51047,16 +51047,16 @@ par l’abréviation «COR» se réunit aux jour, heure et lieu fixés par le pr
 Par R. 1.10.18,13, la partie de phrase « des articles 26, 27, 28 (2), 28 (3) et 30 » est à remplacer par « des
 articles 28,29,30(2) et 32 de la loi du 28 juillet 2018 relative au revenu d’inclusion sociale ».
 
-\2. La COR établit un règlement d’ordre intérieur qui détermine notamment les modalités de
+2\. La COR établit un règlement d’ordre intérieur qui détermine notamment les modalités de
 convocation, de délibération et de vote de la commission qui sera approuvé par règlement
 grand-ducal.
-\3. Hormis le cas d’urgence, les convocations sont envoyées et accompagnées des dossiers
+3\. Hormis le cas d’urgence, les convocations sont envoyées et accompagnées des dossiers
 avec les pièces justificatives tels que définis à l’article 9 ci-avant et ce au moins huit jours avant
 la date prévue pour la réunion de la commission.
 Tout membre titulaire de la commission empêché d’assister à une session doit en aviser son
 suppléant et lui transmettre le dossier administratif dont il a eu communication ensemble avec
 la convocation.
-\4. Les séances de la commission ne sont pas publiques.
+4\. Les séances de la commission ne sont pas publiques.
 Art. 16. Les membres de la COR, les experts et le secrétaire de la commission présents à la
 réunion à la demande de la commission ont droit à une indemnité spéciale qui est fixée comme
 suit:
@@ -51216,7 +51216,7 @@ son expérience professionnelle reçue à son nouveau poste de travail, un rende
 rendement d’un salarié valide, la participation aux frais de salaire est arrêtée par le directeur de
 l’Agence pour le développement de l’emploi, sur avis motivé de la commission d’orientation et
 de reclassement professionnel.
-\2. Le taux de participation pourra être revu périodiquement par le directeur de l’Agence pour le
+2\. Le taux de participation pourra être revu périodiquement par le directeur de l’Agence pour le
 développement de l’emploi, sur avis conforme et motivé de la commission d’orientation et de
 reclassement professionnel, en fonction de l’évolution du handicap et de l’adaptation du salarié
 handicapé au milieu du travail.
@@ -51230,7 +51230,7 @@ impétrants.
 En cas d’aggravation du handicap, une demande en obtention du relèvement du taux de
 participation pourra être introduite sur base d’une demande émanant de l’employeur,
 accompagnée d’un avis motivé du médecin du travail compétent.
-\3. Sur demande de l’employeur occupant régulièrement un nombre de salariés handicapés
+3\. Sur demande de l’employeur occupant régulièrement un nombre de salariés handicapés
 supérieur aux taux d’emploi obligatoires prévus par les dispositions de la loi du 12 septembre
 2003 relative aux personnes handicapées; le remboursement de la part patronale des charges
 de sécurité sociale sera accordé par le directeur de l’Agence pour le développement de
@@ -51337,10 +51337,10 @@ un représentant des associations gestionnaires des ateliers protégés visés p
 de la loi du 12 septembre 2003 relative aux personnes handicapées.
 
 Il est nommé un membre suppléant pour chacun des membres titulaires susvisés.
-\2. Les membres complétant la commission spéciale de réexamen sont nommés par le ministre
+2\. Les membres complétant la commission spéciale de réexamen sont nommés par le ministre
 ayant le Travail et l’Emploi dans ses attributions, sur proposition du Conseil supérieur des
 personnes handicapées.
-\3. Ils assistent aux délibérations de la commission avec voix consultative.
+3\. Ils assistent aux délibérations de la commission avec voix consultative.
 Art. 34. Pour le fonctionnement de la commission spéciale susvisée, les mêmes règles que
 celles prévues par le règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le
 fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence

@@ -77,14 +77,21 @@ Quand il s’agit d’une infraction au sens des articles 444(2), 453, 454, 455,
 
 (3) S’il apparaît que la personne ne comprend pas la langue de procédure, sont à traduire d’office:
 
-1. la convocation écrite prévue par l’article 46, paragraphe 3, deuxième alinéa ;
-2. le mandat de comparution, d’amener, d’arrêt, d’arrêt européen et de dépôt ;
-3. l’ordonnance de placement sous contrôle judiciaire et de modification du contrôle judiciaire ;
-4. la décision de rejet, pur et simple ou partiel par placement sous contrôle judiciaire, d’une demande de mise en liberté provisoire ou la confirmation d’une telle décision sur appel ;
-5. le réquisitoire du procureur d’Etat ou la requête de la partie civile visés par l’article 127, paragraphes 2 et 3 ;
-6. l’ordonnance de la chambre du conseil visée par l’article 127, paragraphe 9, et l’arrêt rendu sur l’appel formé contre cette ordonnance ;
-7. la citation à comparaître devant la juridiction de jugement ;
-8. la décision statuant sur l’action publique et portant condamnation, y compris l’ordonnance pénale.
+1\. la convocation écrite prévue par l’article 46, paragraphe 3, deuxième alinéa ;
+
+2\. le mandat de comparution, d’amener, d’arrêt, d’arrêt européen et de dépôt ;
+
+3\. l’ordonnance de placement sous contrôle judiciaire et de modification du contrôle judiciaire ;
+
+4\. la décision de rejet, pur et simple ou partiel par placement sous contrôle judiciaire, d’une demande de mise en liberté provisoire ou la confirmation d’une telle décision sur appel ;
+
+5\. le réquisitoire du procureur d’Etat ou la requête de la partie civile visés par l’article 127, paragraphes 2 et 3 ;
+
+6\. l’ordonnance de la chambre du conseil visée par l’article 127, paragraphe 9, et l’arrêt rendu sur l’appel formé contre cette ordonnance ;
+
+7\. la citation à comparaître devant la juridiction de jugement ;
+
+8\. la décision statuant sur l’action publique et portant condamnation, y compris l’ordonnance pénale.
 
 (4) La personne qui ne comprend pas la langue de procédure peut, par demande motivée à présenter auprès des autorités désignées au deuxième alinéa du paragraphe 5, solliciter la traduction de tout autre document auquel elle a droit d’accéder qui est essentiel pour lui permettre d’exercer ses droits de défense et pour garantir le caractère équitable de la procédure. Cette traduction peut également être décidée d’office par ces autorités.
 
@@ -92,11 +99,15 @@ Quand il s’agit d’une infraction au sens des articles 444(2), 453, 454, 455,
 
 La traduction des autres documents essentiels, visés au paragraphe 4, est décidée:
 
-1. au cours de l’enquête et jusqu’à l’ouverture de l’instruction préparatoire ou, à défaut, jusqu’à la citation à comparaître devant la juridiction de fond, par le procureur d’Etat et, en cas de citation à comparaître devant la juridiction de fond émise par la partie civile, sur demande de celle-ci par le procureur d’Etat aux frais de l’Etat ;
-2. au cours de l’instruction préparatoire jusqu’à la décision définitive sur le règlement de la procédure, par le juge d’instruction ;
-3. à partir du renvoi ou, à défaut de renvoi, de la citation à comparaître devant la juridiction de fond jusqu’à ce que la décision rendue sur le fond par celle-ci soit devenue définitive ou ait été frappée d’appel, par la juridiction de fond de première instance ;
-4. à partir de l’appel formé contre la décision rendue sur le fond jusqu’à ce que la décision d’appel soit devenue définitive ou ait été frappée d’un pourvoi en cassation, par la juridiction d’appel ;
-5. à partir du pourvoi jusqu’à la décision rendue sur lui, par la Cour de cassation.
+1\. au cours de l’enquête et jusqu’à l’ouverture de l’instruction préparatoire ou, à défaut, jusqu’à la citation à comparaître devant la juridiction de fond, par le procureur d’Etat et, en cas de citation à comparaître devant la juridiction de fond émise par la partie civile, sur demande de celle-ci par le procureur d’Etat aux frais de l’Etat ;
+
+2\. au cours de l’instruction préparatoire jusqu’à la décision définitive sur le règlement de la procédure, par le juge d’instruction ;
+
+3\. à partir du renvoi ou, à défaut de renvoi, de la citation à comparaître devant la juridiction de fond jusqu’à ce que la décision rendue sur le fond par celle-ci soit devenue définitive ou ait été frappée d’appel, par la juridiction de fond de première instance ;
+
+4\. à partir de l’appel formé contre la décision rendue sur le fond jusqu’à ce que la décision d’appel soit devenue définitive ou ait été frappée d’un pourvoi en cassation, par la juridiction d’appel ;
+
+5\. à partir du pourvoi jusqu’à la décision rendue sur lui, par la Cour de cassation.
 
 (6) La traduction des documents essentiels peut ne porter que sur les passages de ces documents qui sont pertinents pour permettre à la personne d’avoir connaissance des faits qui lui sont reprochés.
 
@@ -136,12 +147,17 @@ La victime a également droit à l’assistance d’un interprète auprès d’u
 
 (3) S’il apparaît que la personne ne comprend pas la langue de procédure, sont à traduire d’office:
 
-1. la copie de la plainte visée par l’article 8, paragraphe 4,
-2. les convocations, citations et courriers qui lui sont adressés par les services de police et les autorités judiciaires,
-3. le mandat d’amener émis contre elle en tant que témoin sur le fondement de l’article 92,
-4. lorsqu’elle s’est constituée partie civile, le réquisitoire du procureur d’Etat visé par l’article 127, paragraphe 2, ainsi que l’ordonnance de la chambre du conseil visée par l’article 127, paragraphe 9, et l’arrêt rendu sur l’appel formé contre cette ordonnance ainsi que,
-5. la décision statuant sur l’action publique,
-6. la décision de classement sans suite et son motif.
+1\. la copie de la plainte visée par l’article 8, paragraphe 4,
+
+2\. les convocations, citations et courriers qui lui sont adressés par les services de police et les autorités judiciaires,
+
+3\. le mandat d’amener émis contre elle en tant que témoin sur le fondement de l’article 92,
+
+4\. lorsqu’elle s’est constituée partie civile, le réquisitoire du procureur d’Etat visé par l’article 127, paragraphe 2, ainsi que l’ordonnance de la chambre du conseil visée par l’article 127, paragraphe 9, et l’arrêt rendu sur l’appel formé contre cette ordonnance ainsi que,
+
+5\. la décision statuant sur l’action publique,
+
+6\. la décision de classement sans suite et son motif.
 
 (4) La personne qui ne comprend pas la langue de procédure peut, par demande motivée à présenter auprès des autorités désignées au deuxième alinéa du paragraphe 5, solliciter la traduction de tout autre document auquel elle a droit d’accéder qui est essentiel à l’exercice de ses droits durant la procédure pénale et pour garantir le caractère équitable de celle-ci. Cette traduction peut également être décidée d’office par ces autorités.
 
@@ -149,11 +165,15 @@ La victime a également droit à l’assistance d’un interprète auprès d’u
 
 La traduction des autres documents essentiels, visés au paragraphe 4, est décidée:
 
-1. au cours de l’enquête et jusqu’à l’ouverture de l’instruction préparatoire ou, à défaut, jusqu’à la citation à comparaître devant la juridiction de fond, par le procureur d’Etat ;
-2. au cours de l’instruction préparatoire jusqu’à la décision définitive sur le règlement de la procédure, par le juge d’instruction ;
-3. à partir du renvoi ou, à défaut de renvoi, de la citation à comparaître devant la juridiction de fond jusqu’à ce que la décision rendue sur le fond par celle-ci soit devenue définitive ou ait été frappée d’appel, par la juridiction de fond de première instance ;
-4. à partir de l’appel formé contre la décision rendue sur le fond jusqu’à ce que la décision d’appel soit devenue définitive ou ait été frappée d’un pourvoi en cassation, par la juridiction d’appel ;
-5. à partir du pourvoi jusqu’à la décision rendue sur lui, par la Cour de cassation.
+1\. au cours de l’enquête et jusqu’à l’ouverture de l’instruction préparatoire ou, à défaut, jusqu’à la citation à comparaître devant la juridiction de fond, par le procureur d’Etat ;
+
+2\. au cours de l’instruction préparatoire jusqu’à la décision définitive sur le règlement de la procédure, par le juge d’instruction ;
+
+3\. à partir du renvoi ou, à défaut de renvoi, de la citation à comparaître devant la juridiction de fond jusqu’à ce que la décision rendue sur le fond par celle-ci soit devenue définitive ou ait été frappée d’appel, par la juridiction de fond de première instance ;
+
+4\. à partir de l’appel formé contre la décision rendue sur le fond jusqu’à ce que la décision d’appel soit devenue définitive ou ait été frappée d’un pourvoi en cassation, par la juridiction d’appel ;
+
+5\. à partir du pourvoi jusqu’à la décision rendue sur lui, par la Cour de cassation.
 
 (6) La traduction des documents essentiels peut ne porter que sur les passages de ces documents qui sont pertinents pour permettre à la victime ou à la partie civile de participer activement à la procédure pénale.
 
@@ -165,23 +185,31 @@ La traduction des autres documents essentiels, visés au paragraphe 4, est déci
 
 (10) La personne peut valablement renoncer de plein gré et sans équivoque au droit à la traduction des documents essentiels prévu par le présent article après avoir été dûment informée sur la teneur de ce droit et sur les conséquences éventuelles d’une renonciation.
 
-### Art. 3-6. [^1-dispositionstemporaires] — ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo))
+### Art. 3-6.[^1-dispositionstemporaires] — ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo))
 
 (1) A droit de se faire assister d’un avocat :
 
-1. la personne qui est retenue conformément à l’article 39 ;
-2. la personne non retenue qui est interrogée au cours de l’enquête de flagrance ;
-3. la personne qui est interrogée au cours de l’enquête préliminaire ;
-4. la personne qui est interrogée conformément à l’article 24-1, paragraphe 3 ;
-5. la personne se trouvant en détention préventive qui est interrogée sur d’autres faits par un officier de police judiciaire sur le fondement de l’article 52, paragraphe 3 ;
-6. la personne, autre qu’un témoin, contre laquelle un mandat d’amener ou d’arrêt est exécuté ;
-7. la personne interrogée par officier de police judiciaire sur commission rogatoire du juge d’instruction au cours de l’instruction préparatoire ;
-8. la personne que le juge d’instruction envisage d’inculper au cours de sa première comparution devant le juge d’instruction ;
-9. l’inculpé ;
-10. le prévenu ;
-11. (
+1\. la personne qui est retenue conformément à l’article 39 ;
 
-   [L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/jo)) toute personne qui prétend avoir droit sur un objet placé sous la main de la justice.
+2\. la personne non retenue qui est interrogée au cours de l’enquête de flagrance ;
+
+3\. la personne qui est interrogée au cours de l’enquête préliminaire ;
+
+4\. la personne qui est interrogée conformément à l’article 24-1, paragraphe 3 ;
+
+5\. la personne se trouvant en détention préventive qui est interrogée sur d’autres faits par un officier de police judiciaire sur le fondement de l’article 52, paragraphe 3 ;
+
+6\. la personne, autre qu’un témoin, contre laquelle un mandat d’amener ou d’arrêt est exécuté ;
+
+7\. la personne interrogée par officier de police judiciaire sur commission rogatoire du juge d’instruction au cours de l’instruction préparatoire ;
+
+8\. la personne que le juge d’instruction envisage d’inculper au cours de sa première comparution devant le juge d’instruction ;
+
+9\. l’inculpé ;
+
+10\. le prévenu ;
+
+11\. ([L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/jo)) toute personne qui prétend avoir droit sur un objet placé sous la main de la justice.
 
 Cette assistance est rendue possible sans retard indu au profit de la personne privée de liberté en cas de rétention sur base de l’article 39 ou d’exécution d’un mandat d’amener ou d’arrêt.
 
@@ -197,15 +225,19 @@ Cette assistance est rendue possible sans retard indu au profit de la personne p
 
 (6) Dans des circonstances exceptionnelles il peut, au cours de l’enquête ou de l’instruction préparatoire, être dérogé temporairement à l’application des droits prévus par les paragraphes 3 à 5 dans la mesure où cela est justifié compte tenu des circonstances particulières du cas d’espèce, sur la base d’un des motifs impérieux suivants :
 
-1. lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
-2. lorsqu’il est impératif que l’officier ou l’agent de police judiciaire ou le juge d’instruction saisi de l’enquête ou de l’instruction préparatoire agissent immédiatement pour éviter de compromettre sérieusement une procédure pénale.
+1\. lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
+
+2\. lorsqu’il est impératif que l’officier ou l’agent de police judiciaire ou le juge d’instruction saisi de l’enquête ou de l’instruction préparatoire agissent immédiatement pour éviter de compromettre sérieusement une procédure pénale.
 
 Cette dérogation temporaire doit :
 
-1. être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
-2. avoir une durée strictement limitée ;
-3. ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée ; et
-4. ne pas porter atteinte à l’équité générale de la procédure.
+a) être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
+
+b) avoir une durée strictement limitée ;
+
+c) ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée ; et
+
+d) ne pas porter atteinte à l’équité générale de la procédure.
 
 La dérogation est décidée, au cours de l’enquête, par l’officier ou l’agent de police judiciaire après accord oral du procureur d’Etat, à confirmer par accord écrit et motivé, et, au cours de l’instruction préparatoire, par ordonnance motivée du juge d’instruction.
 
@@ -221,18 +253,29 @@ La renonciation à ce droit, la révocation de la renonciation ainsi que les cir
 
 (1) La victime est informée sans délai dans une langue qu’elle comprend sauf les cas d’impossibilité matérielle dûment constatée et afin de lui permettre de faire valoir ses droits :
 
-1. du type de soutien qu’elle peut obtenir et auprès de qui elle peut l’obtenir, y compris le cas échéant, des informations de base concernant l’accès à une aide médicale, à toute aide spécialisée, notamment une aide psychologique, et à une solution en matière de logement ;
-2. des procédures de dépôt d’une plainte concernant une infraction pénale et le rôle de la victime dans ces procédures ;
-3. des modalités et des conditions d’obtention d’une protection ;
-4. des modalités et des conditions d’accès à des avocats, et à l’assistance judiciaire aux conditions prévues par la loi et toute autre forme de conseil ;
-5. des modalités et des conditions d’obtention d’une indemnisation ;
-6. des modalités et des conditions d’exercice du droit à l’interprétation et à la traduction ;
-7. des modalités pour exercer ses droits lorsqu’elle réside dans un autre Etat membre de l’Union ;
-8. es procédures disponibles pour faire une réclamation au cas où ses droits ne seraient pas respectés ;
-9. des coordonnées utiles pour l’envoi de communications relatives à son dossier ;
-10. des possibilités de médiation et de justice restaurative ;
-11. des modalités et des conditions dans lesquelles les frais supportés en raison de sa participation à la procédure pénale peuvent être remboursés ;
-12. de son droit à une appréciation individuelle auprès du Service d’aide aux victimes afin de vérifier la nécessité d’un traitement spécifique pour prévenir la victimisation secondaire.
+1\. du type de soutien qu’elle peut obtenir et auprès de qui elle peut l’obtenir, y compris le cas échéant, des informations de base concernant l’accès à une aide médicale, à toute aide spécialisée, notamment une aide psychologique, et à une solution en matière de logement ;
+
+2\. des procédures de dépôt d’une plainte concernant une infraction pénale et le rôle de la victime dans ces procédures ;
+
+3\. des modalités et des conditions d’obtention d’une protection ;
+
+4\. des modalités et des conditions d’accès à des avocats, et à l’assistance judiciaire aux conditions prévues par la loi et toute autre forme de conseil ;
+
+5\. des modalités et des conditions d’obtention d’une indemnisation ;
+
+6\. des modalités et des conditions d’exercice du droit à l’interprétation et à la traduction ;
+
+7\. des modalités pour exercer ses droits lorsqu’elle réside dans un autre Etat membre de l’Union ;
+
+8\. es procédures disponibles pour faire une réclamation au cas où ses droits ne seraient pas respectés ;
+
+9\. des coordonnées utiles pour l’envoi de communications relatives à son dossier ;
+
+10\. des possibilités de médiation et de justice restaurative ;
+
+11\. des modalités et des conditions dans lesquelles les frais supportés en raison de sa participation à la procédure pénale peuvent être remboursés ;
+
+12\. de son droit à une appréciation individuelle auprès du Service d’aide aux victimes afin de vérifier la nécessité d’un traitement spécifique pour prévenir la victimisation secondaire.
 
 En fonction des besoins de la victime, des informations supplémentaires lui seront le cas échéant fournies à chaque stade de la procédure.
 
@@ -258,9 +301,11 @@ La renonciation à l'action civile ne peut arrêter ni suspendre l'exercice de l
 
 La plainte indique:
 
-1. les noms, prénoms, lieu et date de naissance, profession et domicile du plaignant;
-2. le fait générateur du dommage subi par le plaignant;
-3. la nature de ce dommage.
+a) les noms, prénoms, lieu et date de naissance, profession et domicile du plaignant;
+
+b) le fait générateur du dommage subi par le plaignant;
+
+c) la nature de ce dommage.
 
 La plainte est à joindre au dossier.
 
@@ -276,8 +321,9 @@ Elle est informée d’office du classement sans suite et de son motif, et, sur 
 
 ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo)) La victime reçoit également sur demande :
 
-- des informations sur l’état de la procédure pénale sauf si cette notification est de nature à nuire au bon déroulement de l’affaire ;
-- des informations sur toute décision définitive sur l’action publique.
+aash des informations sur l’état de la procédure pénale sauf si cette notification est de nature à nuire au bon déroulement de l’affaire ;
+
+bash des informations sur toute décision définitive sur l’action publique.
 
 (4) ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo)) La victime peut modifier à tout moment sa demande.
 
@@ -407,9 +453,11 @@ A l’occasion de toute procédure pénale et à tous les stades de la procédur
 
 (1) Le procureur général d’État et le procureur d’État peuvent informer par écrit tout employeur du secteur public ou privé des faits attribués à une personne qu’il emploie, des décisions suivantes, pour autant que ces faits puissent être qualifiés de crime ou de délit puni d’une peine d’emprisonnement visés au paragraphe 2, et plus particulièrement :
 
-1. la condamnation, même non définitive ;
-2. la saisine d’une juridiction de jugement par le procureur d’État ou par la chambre du conseil ;
-3. la saisine du juge d’instruction.
+1° la condamnation, même non définitive ;
+
+2° la saisine d’une juridiction de jugement par le procureur d’État ou par la chambre du conseil ;
+
+3° la saisine du juge d’instruction.
 
 Le procureur général d’État et le procureur d’État peuvent également informer, dans les conditions de l’alinéa 1<sup>er</sup>, les administrations, les personnes morales de droit public, les personnes morales de droit privé chargées d’une mission de service public ou les ordres professionnels de tels faits attribués à une personne dont l’activité professionnelle ou sociale est placée sous leur contrôle, sous leur autorité ou pour laquelle ils ont délivré une autorisation, un permis ou un agrément.
 
@@ -417,24 +465,17 @@ Le procureur général d’État et le procureur d’État ne peuvent procéder 
 
 (2) Le présent article est applicable aux procédures concernant les infractions suivantes :
 
-1. infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre et de coups et blessures volontaires prévues aux articles 393 à 409 du
+1° infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre et de coups et blessures volontaires prévues aux articles 393 à 409 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-2. infractions de torture prévues aux articles 260-1 à 260-4 du
+2° infractions de torture prévues aux articles 260-1 à 260-4 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-3. infractions d’atteinte à l’intégrité sexuelle et de viol prévues aux articles 372 à 378 du
+3° infractions d’atteinte à l’intégrité sexuelle et de viol prévues aux articles 372 à 378 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-4. infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants, prévues aux articles 379 et 379
+4° infractions relatives à l’exploitation de la prostitution, au proxénétisme, à la traite des êtres humains et au trafic illicite de migrants, prévues aux articles 379 et 379*bis*, 382-1 et 382-2, 382-4 et 382-5, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   \*bis*, 382-1 et 382-2, 382-4 et 382-5, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-5. infractions prévues aux articles 383 à 385 et 385-2 à 385
+5° infractions prévues aux articles 383 à 385 et 385-2 à 385*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatifs aux outrages publics aux bonnes mœurs et aux dispositions particulières visant à protéger la jeunesse ;
 
-   \*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatifs aux outrages publics aux bonnes mœurs et aux dispositions particulières visant à protéger la jeunesse ;
-6. infractions prévues à l’article 409
-
-   \*bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif à la mutilation d’organes génitaux.
+6° infractions prévues à l’article 409*bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif à la mutilation d’organes génitaux.
 
 (3) Le procureur général d’État ou le procureur d’État informent sans délai la personne concernée de sa décision de transmettre l’information prévue au paragraphe 1<sup>er</sup>. Le procureur général d’État ou le procureur d’État informent la personne qui a reçu l’information conformément au paragraphe 1<sup>er</sup> de l’issue de la procédure pénale.
 
@@ -442,10 +483,13 @@ Le procureur général d’État et le procureur d’État ne peuvent procéder 
 
 (5) L’administration, la personne ou l’ordre visé au paragraphe 1<sup>er</sup>, qui est destinataire des informations et actes de procédure pénale communiqués conformément au présent article, ne peut les communiquer qu’aux personnes compétentes pour les finalités suivantes :
 
-1. la cessation ou la suspension de l’exercice de l’activité de la personne concernée ;
-2. l’exercice de poursuites disciplinaires ;
-3. les mesures de l’autorité de contrôle ;
-4. le retrait de l’agrément, du permis ou de l’autorisation délivrée.
+1° la cessation ou la suspension de l’exercice de l’activité de la personne concernée ;
+
+2° l’exercice de poursuites disciplinaires ;
+
+3° les mesures de l’autorité de contrôle ;
+
+4° le retrait de l’agrément, du permis ou de l’autorisation délivrée.
 
 (6) Hors le cas où une décision prononçant une sanction a été fondée sur l’information transmise par le procureur général d’État ou le procureur d’État, lorsque la procédure pénale s’est terminée par un non-lieu ou une décision d’acquittement, l’administration, la personne ou l’ordre mentionné au paragraphe 1<sup>er</sup> supprime l’information du dossier relatif à l’activité de la personne concernée.
 
@@ -455,10 +499,13 @@ Les informations et actes de procédure pénale communiqués conformément aux a
 
 L’administration, la personne ou l’ordre mentionnés à l’article 8-3, qui est destinataire des informations et actes de procédure pénale communiqués conformément à l’article 8-3, ne peut les communiquer qu’aux personnes compétentes pour les finalités suivantes :
 
-1. la cessation ou la suspension de l’exercice de l’activité de la personne concernée ;
-2. l’exercice de poursuites disciplinaires ;
-3. les mesures de l’autorité de contrôle ;
-4. le retrait de l’agrément ou de l’autorisation délivrée.
+1° la cessation ou la suspension de l’exercice de l’activité de la personne concernée ;
+
+2° l’exercice de poursuites disciplinaires ;
+
+3° les mesures de l’autorité de contrôle ;
+
+4° le retrait de l’agrément ou de l’autorisation délivrée.
 
 #### Chapitre Ier — De la police judiciaire
 
@@ -484,9 +531,11 @@ Abrogé ([L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/
 
 La police judiciaire comprend:
 
-1. Les officiers de police judiciaire;
-2. Les agents de police judiciaire;
-3. Les fonctionnaires et agents auxquels sont attribuées par la loi certaines fonctions de police judiciaire.
+1° Les officiers de police judiciaire;
+
+2° Les agents de police judiciaire;
+
+3° Les fonctionnaires et agents auxquels sont attribuées par la loi certaines fonctions de police judiciaire.
 
 ##### Section II — Des officiers de police judiciaire
 
@@ -524,9 +573,11 @@ Sous réserve des dispositions de l’article 154 du Code de procédure pénale,
 
 (2) Les agents de police judiciaire ont pour mission:
 
-1. De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire;
-2. De constater les crimes, délits et contraventions et d'en dresser procès-verbal;
-3. De recevoir par procès-verbal les déclarations qui leur sont faites par toutes personnes susceptibles de leur fournir des indices, preuves et renseignements sur les auteurs et complices de ces infractions.
+1° De seconder, dans l'exercice de leurs fonctions, les officiers de police judiciaire;
+
+2° De constater les crimes, délits et contraventions et d'en dresser procès-verbal;
+
+3° De recevoir par procès-verbal les déclarations qui leur sont faites par toutes personnes susceptibles de leur fournir des indices, preuves et renseignements sur les auteurs et complices de ces infractions.
 
 ##### Section IV — Des fonctionnaires et agents chargés de certaines fonctions de police judiciaire
 
@@ -734,8 +785,9 @@ Sous réserve des dispositions du paragraphe 3 du présent article, pour toute p
 
 (3) La demande peut être produite:
 
-1. si une instruction préparatoire a été ouverte sur la base de l’acte d’instruction, par l’inculpé devant la chambre du conseil du tribunal d’arrondissement, à peine de forclusion, dans un délai de cinq jours à partir de son inculpation;
-2. si aucune instruction préparatoire n’a été ouverte sur la base de l’acte d’instruction, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
+1\. si une instruction préparatoire a été ouverte sur la base de l’acte d’instruction, par l’inculpé devant la chambre du conseil du tribunal d’arrondissement, à peine de forclusion, dans un délai de cinq jours à partir de son inculpation;
+
+2\. si aucune instruction préparatoire n’a été ouverte sur la base de l’acte d’instruction, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
 
 (4) La demande, si elle émane d’une personne concernée, est communiquée au procureur d’Etat par la voie du greffe. Au cas où la demande est introduite par l’inculpé, conformément aux dispositions du premier point du paragraphe 3 ci-dessus, la demande est communiquée aux autres parties en cause par la voie du greffe.
 
@@ -915,19 +967,17 @@ Le délai de vingt-quatre heures court à partir du moment où la personne est r
 
 Dans le cadre d’une enquête de flagrance portant en tout ou en partie sur un ou plusieurs des faits énumérés ci-après :
 
-1. crimes et délits contre la sûreté de l’État au sens des articles 101 à 123 du
+1° crimes et délits contre la sûreté de l’État au sens des articles 101 à 123 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-2. actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du
-
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
+2° actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
 le juge d’instruction, agissant sur réquisition du procureur d’État peut prendre une ordonnance visant à prolonger ce délai.
 
 La privation de liberté qui résulte de cette ordonnance ne peut, en aucun cas, excéder vingt-quatre heures, à compter de la notification de l’ordonnance. L’ordonnance est motivée et ne peut être prise qu’une seule fois. Elle mentionne les éléments qui justifient l’ouverture d’un nouveau délai, à savoir :
 
-1. les indices graves de culpabilité relatifs à un crime ou à un délit ;
-2. les circonstances particulières de l’espèce.
+1° les indices graves de culpabilité relatifs à un crime ou à un délit ;
+
+2° les circonstances particulières de l’espèce.
 
 Elle est notifiée à la personne retenue dans un délai de vingt-quatre heures. Celui-ci commence à courir à partir du moment où la personne est retenue en fait par la force publique. À défaut de signification régulière dans ce délai, la personne est libérée.
 
@@ -943,15 +993,19 @@ Cette information est faite par la remise, contre récépissé, d’une déclara
 
 L’officier de police peut, après accord oral du procureur d’Etat, à confirmer par accord écrit et motivé, déroger temporairement à l’application de ce droit si cela est justifié, compte tenu des circonstances particulières du cas d’espèce, sur la base d’un des motifs impérieux suivants :
 
-1. lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
-2. lorsqu’il existe une nécessité urgente d’éviter une situation susceptible de compromettre sérieusement une procédure pénale.
+1\. lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
+
+2\. lorsqu’il existe une nécessité urgente d’éviter une situation susceptible de compromettre sérieusement une procédure pénale.
 
 Cette dérogation temporaire doit :
 
-1. être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
-2. avoir une durée strictement limitée ;
-3. ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée ; et
-4. ne pas porter atteinte à l’équité générale de la procédure.
+a) être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
+
+b) avoir une durée strictement limitée ;
+
+c) ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée ; et
+
+d) ne pas porter atteinte à l’équité générale de la procédure.
 
 (5) La personne retenue, qui n’est pas ressortissant luxembourgeois, a le droit de prévenir et de communiquer sans retard indu avec les autorités consulaires de l’Etat dont elle est ressortissante. Elle a également le droit de recevoir leur visite. Lorsque la personne a plus d’une nationalité, elle peut choisir l’autorité consulaire à informer.
 
@@ -1025,10 +1079,13 @@ Les dispositions des alinéas 1 à 3 du présent article sont également applica
 
 (1) Sans préjudice des dispositions légales et réglementaires concernant les pièces d'identité, l'entrée et le séjour des étrangers et les contrôles aux frontières du territoire national, les officiers et agents de police judiciaire peuvent inviter à justifier, par tout moyen, de son identité toute personne à l'égard de laquelle existe un indice faisant présumer
 
-- qu'elle a commis ou tenté de commettre une infraction;
-- ou qu'elle se prépare à commettre un crime ou un délit;
-- ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit;
-- ou qu'elle fait objet de recherches ordonnées par une autorité judiciaire ou administrative.
+aash qu'elle a commis ou tenté de commettre une infraction;
+
+bash ou qu'elle se prépare à commettre un crime ou un délit;
+
+cash ou qu'elle est susceptible de fournir des renseignements utiles à l'enquête en cas de crime ou de délit;
+
+dash ou qu'elle fait objet de recherches ordonnées par une autorité judiciaire ou administrative.
 
 (2) ([L. 3 février 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/02/03/a81/jo)) ([L. 18 décembre 2024](https://legilux.public.lu/eli/etat/leg/loi/2024/12/18/a549/jo)) Si l’intéressé refuse ou se trouve dans l’impossibilité de prouver son identité, ou lorsqu’un doute subsiste quant aux données d’identité fournies, quant à l’authenticité de la pièce d’identité fournie ou quant à l’identité du titulaire de la pièce d’identité, il peut être retenu sur place ou conduit au poste de police aux fins de vérifications de son identité.
 
@@ -1054,11 +1111,15 @@ Les dispositions des alinéas 1 à 3 du présent article sont également applica
 
 (7) La vérification d'identité opérée après rétention fait l'objet d'un procès-verbal dressé par l'officier de police judiciaire qui y a procédé. Ce procès-verbal mentionne notamment:
 
-- les motifs de la vérification,
-- le jour et l'heure du contrôle effectué,
-- le jour et l'heure de sa présentation devant l'officier de police judiciaire,
-- le jour et l'heure de sa remise en liberté,
-- la déclaration de la personne contrôlée qu'elle a été informée de son droit d'avertir les personnes de son choix ainsi que toutes autres déclarations qu'elle désire faire acter.
+aash les motifs de la vérification,
+
+bash le jour et l'heure du contrôle effectué,
+
+cash le jour et l'heure de sa présentation devant l'officier de police judiciaire,
+
+dash le jour et l'heure de sa remise en liberté,
+
+eash la déclaration de la personne contrôlée qu'elle a été informée de son droit d'avertir les personnes de son choix ainsi que toutes autres déclarations qu'elle désire faire acter.
 
 Il est présenté à la signature de la personne contrôlée. Si celle-ci refuse de signer, mention est faite du refus et des motifs de celui-ci.
 
@@ -1076,11 +1137,11 @@ Le procès-verbal est transmis au procureur d'Etat et copie en est remise à l'i
 
 (3) La personne interrogée est informée:
 
-1. de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire,
-2. (
+a) de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire,
 
-   [L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ainsi que
-3. des droits conférés par les articles 3-2, 3-3 et 3-6.
+b) ([L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ainsi que
+
+c) des droits conférés par les articles 3-2, 3-3 et 3-6.
 
 Si l’interrogatoire a lieu sur convocation écrite, ces informations sont notifiées à la personne à interroger ensemble avec la convocation.
 
@@ -1142,10 +1203,9 @@ Sous réserve des dispositions du paragraphe 3 du présent article, pour toute p
 
 (3) La demande peut être produite:
 
-- (
+aash ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo)) Si une instruction préparatoire a été ouverte sur la base de l’enquête, par l’inculpé devant la chambre du conseil du tribunal d’arrondissement, à peine de forclusion, dans un délai de cinq jours ouvrables à partir de son inculpation;
 
-  [L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo)) Si une instruction préparatoire a été ouverte sur la base de l’enquête, par l’inculpé devant la chambre du conseil du tribunal d’arrondissement, à peine de forclusion, dans un délai de cinq jours ouvrables à partir de son inculpation;
-- si aucune instruction préparatoire n’a été ouverte sur la base de l’enquête, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
+bash si aucune instruction préparatoire n’a été ouverte sur la base de l’enquête, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
 
 (4) La demande doit être présentée devant la chambre du conseil de la Cour d’appel au lieu de la chambre du conseil du tribunal d’arrondissement lorsque l’enquête est relative à une procédure relevant de la Cour d’appel.
 
@@ -1187,11 +1247,11 @@ Au cas où la demande est introduite par l’inculpé, conformément aux disposi
 
 (2) Le profil d’ADN ainsi établi peut être comparé:
 
-1. avec les autres profils d’ADN dressés dans le cadre de l’enquête préliminaire ou de l’instruction préparatoire dans laquelle le profil d’ADN en cause a été établi, et
-2. avec les profils d’ADN des personnes dont le profil a été établi en application des articles 48-3 à 48-5 et qui font l’objet du traitement ADN criminalistique visé par la
+1\. avec les autres profils d’ADN dressés dans le cadre de l’enquête préliminaire ou de l’instruction préparatoire dans laquelle le profil d’ADN en cause a été établi, et
 
-   [loi du 25 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/25/n5/jo) relative aux empreintes génétiques en matière pénale, et
-3. avec les profils d’ADN qui font l’objet du traitement ADN condamnés visé par la même loi.
+2\. avec les profils d’ADN des personnes dont le profil a été établi en application des articles 48-3 à 48-5 et qui font l’objet du traitement ADN criminalistique visé par la [loi du 25 août 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/08/25/n5/jo) relative aux empreintes génétiques en matière pénale, et
+
+3\. avec les profils d’ADN qui font l’objet du traitement ADN condamnés visé par la même loi.
 
 (3) Dans l’intérêt de la manifestation de la vérité, les traitements de données consistant dans la consultation et la comparaison des profils d’ADN sont effectués par le procureur d’Etat ou par le juge d’instruction saisis par une enquête préliminaire ou une instruction préparatoire dans le cadre de laquelle l’établissement d’un profil d’ADN paraît justifié ou a été effectué, ainsi que, sous la responsabilité de ces magistrats, par les experts dans l’intérêt des missions leur confiées et par les officiers de police judiciaire agissant sur instruction du procureur d’Etat ou du juge d’instruction.
 
@@ -1201,47 +1261,35 @@ Au cas où la demande est introduite par l’inculpé, conformément aux disposi
 
 (1) Il sera procédé, au besoin sous contrainte physique, à un prélèvement de cellules humaines aux fins d’établissement d’un profil d’ADN sur chaque personne qui a été condamnée par une décision judiciaire coulée en force de chose jugée à une peine d’emprisonnement ou à une peine plus lourde pour :
 
-1. les infractions d’attentats et de complots visant la personne du Grand-Duc, la famille grand-ducale, la forme du Gouvernement ainsi que la sûreté extérieure et intérieure du Grand-Duché de Luxembourg, prévues aux
+1\. les infractions d’attentats et de complots visant la personne du Grand-Duc, la famille grand-ducale, la forme du Gouvernement ainsi que la sûreté extérieure et intérieure du Grand-Duché de Luxembourg, prévues aux [articles 101 à 133 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_101) ;
 
-   [articles 101 à 133 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_101) ;
-2. (
+2\. ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n10/jo)) ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n9/jo)) les infractions de terrorisme prévues aux articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal;
 
-   [L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n10/jo)) ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n9/jo)) les infractions de terrorisme prévues aux articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du Code pénal;
-3. les infractions de torture prévues aux articles 260-1 à 260-4 du Code pénal;
-4. les infractions d’association de malfaiteurs et de participation à une organisation criminelle prévues aux
+3\. les infractions de torture prévues aux articles 260-1 à 260-4 du Code pénal;
 
-   [articles 322 à 325 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_322) ;
-5. les infractions d’enlèvement de mineurs prévues aux
+4\. les infractions d’association de malfaiteurs et de participation à une organisation criminelle prévues aux [articles 322 à 325 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_322) ;
 
-   [articles 364 à 371-1 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_364) ;
-6. les infractions d’attentat à la pudeur et de viol prévues aux
+5\. les infractions d’enlèvement de mineurs prévues aux [articles 364 à 371-1 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_364) ;
 
-   [articles 372 à 378 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_372) ;
-7. (
+6\. les infractions d’attentat à la pudeur et de viol prévues aux [articles 372 à 378 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_372) ;
 
-   [L. 21 juillet 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n3/jo)) les infractions relatives à l’exploitation de la prostitution, au proxénétisme et à la traite des êtres humains et au trafic illicite de migrants prévues aux [articles 379, 379bis, 382-1 et 382-2, 382-4 et 382-5 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_379) ;
-8. l’infraction sexuelle en relation avec des mineurs prévue à l’
+7\. ([L. 21 juillet 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n3/jo)) les infractions relatives à l’exploitation de la prostitution, au proxénétisme et à la traite des êtres humains et au trafic illicite de migrants prévues aux [articles 379, 379bis, 382-1 et 382-2, 382-4 et 382-5 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_379) ;
 
-   [article 384 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_384) ;
-9. les infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre, et de coups et blessures volontaires prévues aux
+8\. l’infraction sexuelle en relation avec des mineurs prévue à l’ [article 384 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_384) ;
 
-   [articles 393 à 409 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_393) ;
-10. les infractions d’attentat à la liberté individuelle prévues aux
+9\. les infractions de meurtre, assassinat, parricide, infanticide, empoisonnement, homicide volontaire non qualifié de meurtre, et de coups et blessures volontaires prévues aux [articles 393 à 409 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_393) ;
 
-   [articles 434 à 438 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_434) ;
-11. l’infraction de prise d’otages prévue à l’article 442-1 du Code pénal;
-12. les infractions de vol et d’extorsion prévues aux
+10\. les infractions d’attentat à la liberté individuelle prévues aux [articles 434 à 438 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_434) ;
 
-   [articles 467 à 476 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_467) ;
-13. les infractions relatives aux incendies volontaires prévues aux
+11\. l’infraction de prise d’otages prévue à l’article 442-1 du Code pénal;
 
-   [articles 510 à 520 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_510) ;
-14. (
+12\. les infractions de vol et d’extorsion prévues aux [articles 467 à 476 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_467) ;
 
-   [L. 27 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/27/n1/jo)) les violations graves du droit international humanitaire prévues aux articles 136bis à 136quinquies du Code pénal;
-15. (
+13\. les infractions relatives aux incendies volontaires prévues aux [articles 510 à 520 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_510) ;
 
-   [L. du 17 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a920/jo)) l’infraction de disparition forcée prévue à l’article 442-1 *bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
+14\. ([L. 27 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/27/n1/jo)) les violations graves du droit international humanitaire prévues aux articles 136bis à 136quinquies du Code pénal;
+
+15\. ([L. du 17 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a920/jo)) l’infraction de disparition forcée prévue à l’article 442-1 *bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal).
 
 (2) La décision de placement prononcée conformément à l’ [article 71 du Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal/art_71) pour une des infractions visées au paragraphe (1) est assimilée, pour les besoins de l’application du présent article, à une condamnation pour cette infraction.
 
@@ -1255,17 +1303,23 @@ Au cas où la demande est introduite par l’inculpé, conformément aux disposi
 
 (1) Lors de chaque prélèvement ou découverte de cellules humaines destinées à faire l’objet de l’établissement d’un profil d’ADN, un procès-verbal doit être dressé indiquant:
 
-1. le lieu, la date et l’heure auxquels ces opérations ont eu lieu;
-2. l’identité et les qualités de la personne qui y a procédé;
-3. Les conditions dans lesquelles le prélèvement ou la découverte ont été effectués;
-4. les conditions dans lesquelles les cellules humaines ont été conservées;
-5. la référence du dossier correspondant de l’enquête préliminaire ou de l’instruction préparatoire en cause.
+1\. le lieu, la date et l’heure auxquels ces opérations ont eu lieu;
+
+2\. l’identité et les qualités de la personne qui y a procédé;
+
+3\. Les conditions dans lesquelles le prélèvement ou la découverte ont été effectués;
+
+4\. les conditions dans lesquelles les cellules humaines ont été conservées;
+
+5\. la référence du dossier correspondant de l’enquête préliminaire ou de l’instruction préparatoire en cause.
 
 (2) ([L. 3 février 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/02/03/a81/jo)) Dans le contexte du prélèvement, le procès-verbal doit en outre fournir des informations concernant:
 
-1. l’accord ou l’absence d’accord de la personne concernée, respectivement de son représentant légal, de s’y soumettre;
-2. les nom, prénoms, date et lieu de naissance et sexe de la personne concernée;
-3. dans le cadre de l’application de l’article 48-7, la référence à la condamnation pénale en cause ainsi qu’à la décision du procureur général d’Etat de procéder au prélèvement.
+1\. l’accord ou l’absence d’accord de la personne concernée, respectivement de son représentant légal, de s’y soumettre;
+
+2\. les nom, prénoms, date et lieu de naissance et sexe de la personne concernée;
+
+3\. dans le cadre de l’application de l’article 48-7, la référence à la condamnation pénale en cause ainsi qu’à la décision du procureur général d’Etat de procéder au prélèvement.
 
 (3) Le procès-verbal en rapport avec une opération de prélèvement ou une découverte de cellules humaines destinées à faire l’objet de l’établissement d’un profil d’ADN est à dresser par un officier de police judiciaire.
 
@@ -1345,9 +1399,11 @@ Les objets, documents et effets saisis seront déposés au greffe du tribunal d�
 
 (8) En cas de fouille intégrale ou de fouille intime, il est établi un procès-verbal mentionnant le nom de l’officier de police judiciaire ou de l’agent de police judiciaire exécutant la fouille intégrale, le nom de la personne fouillée, les motifs qui ont justifié la fouille, le lieu, la date et l’heure du début et de la fin de la fouille et le cas échéant :
 
-- l’absence d’accord de la personne concernée à la fouille intégrale ou à la fouille intime ;
-- le fait que la fouille a été effectuée sur autorisation du procureur d’État ou sur ordre du juge d’instruction ;
-- le nom du médecin ayant exécuté la fouille intime.
+aash l’absence d’accord de la personne concernée à la fouille intégrale ou à la fouille intime ;
+
+bash le fait que la fouille a été effectuée sur autorisation du procureur d’État ou sur ordre du juge d’instruction ;
+
+cash le nom du médecin ayant exécuté la fouille intime.
 
 Un exemplaire du procès-verbal est remis à la personne fouillée et un autre est transmis sans délai au procureur d’État.
 
@@ -1375,12 +1431,17 @@ Un appareil utilisé pour la prise de photographies est considéré comme moyen 
 
 (1) La décision du procureur d’Etat ou du juge d’instruction de procéder à l’observation est écrite et contient, sous peine de nullité, les mentions suivantes:
 
-1. le ou les indices graves de l’infraction visée aux paragraphes (2) ou (3) de l’article 48-13 et qui justifient l’observation;
-2. les motifs spécifiques pour lesquels l’enquête ou l’instruction préparatoire exige une observation;
-3. le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes observées, ainsi que des choses, des lieux ou des événements visés à l’article 48-12, paragraphe (1);
-4. la manière dont l’observation sera exécutée, y compris la permission d’utiliser des moyens techniques dans les cas prévus à l’article 48-13, paragraphes (2) et (3). Dans le cas de l’article 48-13, paragraphe (3), la décision du juge d’instruction mentionne l’adresse ou une localisation aussi précise que possible de l’habitation qui fait l’objet de l’observation;
-5. la période durant laquelle l’observation pourra s’appliquer et laquelle ne peut excéder un mois à compter de la date de la décision;
-6. le nom et la qualité de l’officier de police judiciaire qui dirige l’exécution de l’observation.
+1° le ou les indices graves de l’infraction visée aux paragraphes (2) ou (3) de l’article 48-13 et qui justifient l’observation;
+
+2° les motifs spécifiques pour lesquels l’enquête ou l’instruction préparatoire exige une observation;
+
+3° le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes observées, ainsi que des choses, des lieux ou des événements visés à l’article 48-12, paragraphe (1);
+
+4° la manière dont l’observation sera exécutée, y compris la permission d’utiliser des moyens techniques dans les cas prévus à l’article 48-13, paragraphes (2) et (3). Dans le cas de l’article 48-13, paragraphe (3), la décision du juge d’instruction mentionne l’adresse ou une localisation aussi précise que possible de l’habitation qui fait l’objet de l’observation;
+
+5° la période durant laquelle l’observation pourra s’appliquer et laquelle ne peut excéder un mois à compter de la date de la décision;
+
+6° le nom et la qualité de l’officier de police judiciaire qui dirige l’exécution de l’observation.
 
 (2) En cas d’urgence, la décision d’observation peut être accordée verbalement. Cette décision doit être confirmée dans les plus brefs délais dans la forme prévue au paragraphe (1).
 
@@ -1414,10 +1475,13 @@ L’observation, à l’exception de celle prévue par l’article 48-13, paragr
 
 (1) La décision du procureur d’Etat ou du juge d’instruction de procéder à une opération d’infiltration est écrite et contient, sous peine de nullité, les mentions suivantes:
 
-1. le ou les indices graves des infractions visées au paragraphe (1) de l’article 48-17 et qui justifient l’opération d’infiltration;
-2. les motifs spécifiques pour lesquels l’enquête ou l’instruction exigent une infiltration;
-3. la période durant laquelle l’infiltration pourra s’appliquer et laquelle ne peut excéder quatre mois à compter de la date de la décision;
-4. le nom et la qualité de l’officier de police judiciaire sous la responsabilité duquel se déroule l’opération.
+1° le ou les indices graves des infractions visées au paragraphe (1) de l’article 48-17 et qui justifient l’opération d’infiltration;
+
+2° les motifs spécifiques pour lesquels l’enquête ou l’instruction exigent une infiltration;
+
+3° la période durant laquelle l’infiltration pourra s’appliquer et laquelle ne peut excéder quatre mois à compter de la date de la décision;
+
+4° le nom et la qualité de l’officier de police judiciaire sous la responsabilité duquel se déroule l’opération.
 
 (2) L’opération d’infiltration peut être renouvelée dans les mêmes conditions de forme et de durée. Sous peine de nullité la décision de renouvellement devra contenir outre les mentions visées ci-avant au paragraphe (1) les motifs pour lesquels le renouvellement de l’opération d’infiltration est indispensable à l’enquête ou à l’instruction préparatoire.
 
@@ -1429,8 +1493,9 @@ L’observation, à l’exception de celle prévue par l’article 48-13, paragr
 
 (1) Les officiers de police judiciaire ou les agents étrangers autorisés à procéder à une opération d’infiltration peuvent, sans être pénalement responsables de ces actes:
 
-- Acquérir, détenir, transporter, livrer ou délivrer des substances, biens, produits, documents ou informations tirés de la commission des infractions ou servant à la commission de ces infractions;
-- Utiliser ou mettre à disposition des personnes se livrant à ces infractions des moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d’hébergement, de conservation et de télécommunication.
+aash Acquérir, détenir, transporter, livrer ou délivrer des substances, biens, produits, documents ou informations tirés de la commission des infractions ou servant à la commission de ces infractions;
+
+bash Utiliser ou mettre à disposition des personnes se livrant à ces infractions des moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d’hébergement, de conservation et de télécommunication.
 
 (2) L’exonération de responsabilité prévue au paragraphe (1) est également applicable, pour les actes commis à la seule fin de procéder à l’opération d’infiltration, aux personnes requises par les officiers de police judiciaire ou agents étrangers pour permettre la réalisation de cette opération.
 
@@ -1464,21 +1529,27 @@ Les dispositions du présent article ne sont cependant pas applicables lorsque l
 
 (1) Dans l’exercice de leurs missions, le procureur général d’État, le procureur d’État, les membres de leurs parquets, le membre national auprès de l’agence Eurojust ainsi que son adjoint ont accès direct, par un système informatique, aux traitements de données à caractère personnel suivants :
 
-1. le registre général des personnes physiques et morales créé par la
+1\. le registre général des personnes physiques et morales créé par la [loi du 30 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/jo) organisant l’identification numérique des personnes physiques et morales;
 
-   [loi du 30 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/jo) organisant l’identification numérique des personnes physiques et morales;
-2. le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’
+2\. le fichier relatif aux affiliations des salariés, des indépendants et des employeurs géré par le Centre commun de la sécurité sociale sur base de l’ [article 321 du Code des assurances sociales](https://legilux.public.lu/eli/etat/leg/code/secu), à l’exclusion de toutes données relatives à la santé;
 
-   [article 321 du Code des assurances sociales](https://legilux.public.lu/eli/etat/leg/code/secu), à l’exclusion de toutes données relatives à la santé;
-3. le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions;
-4. le fichier des demandeurs d’asile exploité pour le compte du service des réfugiés du ministre ayant l’Immigration dans ses attributions;
-5. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions;
-6. le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
-7. le fichier des titulaires et demandeurs de permis de conduire exploité pour le compte du ministre ayant les Transports dans ses attributions;
-8. le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministre ayant les Transports dans ses attributions;
-9. le fichier des assujettis à la taxe sur la valeur ajoutée, exploité pour le compte de l’Administration de l’Enregistrement et des Domaines;
-10. le fichier des armes prohibées du ministre ayant la Justice dans ses attributions;
-11. le fichier créé dans le cadre du système de contrôle et de sanction automatisés.
+3\. le fichier des étrangers exploité pour le compte du service des étrangers du ministre ayant l’Immigration dans ses attributions;
+
+4\. le fichier des demandeurs d’asile exploité pour le compte du service des réfugiés du ministre ayant l’Immigration dans ses attributions;
+
+5\. le fichier des demandeurs de visa exploité pour le compte du bureau des passeports, visas et légalisations du ministre ayant les Affaires étrangères dans ses attributions;
+
+6\. le fichier des autorisations d’établissement exploité pour le compte du ministre ayant les Classes moyennes dans ses attributions;
+
+7\. le fichier des titulaires et demandeurs de permis de conduire exploité pour le compte du ministre ayant les Transports dans ses attributions;
+
+8\. le fichier des véhicules routiers et de leurs propriétaires et détenteurs, exploité pour le compte du ministre ayant les Transports dans ses attributions;
+
+9\. le fichier des assujettis à la taxe sur la valeur ajoutée, exploité pour le compte de l’Administration de l’Enregistrement et des Domaines;
+
+10\. le fichier des armes prohibées du ministre ayant la Justice dans ses attributions;
+
+11\. le fichier créé dans le cadre du système de contrôle et de sanction automatisés.
 
 (2) Dans l’exercice de leurs missions, les membres du personnel de l’administration judiciaire, nommément désignés par le Procureur Général d’Etat ou le Procureur d’Etat en fonction de leurs attributions spécifiques, ont accès direct, par un système informatique, aux fichiers visés aux points numéros 1, 2, 3, 4, 5, 6, 7, 8, et 10 du paragraphe (1).
 
@@ -1486,8 +1557,9 @@ Les dispositions du présent article ne sont cependant pas applicables lorsque l
 
 (4) Le système informatique par lequel l’accès direct est opéré doit être aménagé de sorte que:
 
-1. les magistrats et les membres du personnel de l’administration judiciaire ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel, et
-2. que les informations relatives aux magistrats et aux membres du personnel de l’administration judiciaire ayant procédé à la consultation ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai de 3 ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
+(a) les magistrats et les membres du personnel de l’administration judiciaire ne puissent consulter les fichiers auxquels ils ont accès qu’en indiquant leur identifiant numérique personnel, et
+
+(b) que les informations relatives aux magistrats et aux membres du personnel de l’administration judiciaire ayant procédé à la consultation ainsi que les informations consultées, la date et l’heure de la consultation sont enregistrées et conservées pendant un délai de 3 ans, afin que le motif de la consultation puisse être retracé. Les données à caractère personnel consultées doivent avoir un lien direct avec les faits ayant motivé la consultation.
 
 (5) Seules les données à caractère personnel strictement nécessaires, dans le respect du principe de proportionnalité, peuvent être consultées.
 
@@ -1503,10 +1575,13 @@ Lorsqu’il y a des raisons de penser que des données stockées, traitées ou t
 
 (1) ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a516/jo)) Dans le but de constater des crimes et délits punis par une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à deux ans d’emprisonnement, qui sont commis par un moyen de communication électronique, d’en rassembler les preuves et d’en rechercher les auteurs ou d’informer sur ces infractions, le procureur d’État ou le juge d’instruction peut décider que des officiers de police judiciaire visés à l’article 10 spécialement habilités à cette fin par le procureur général d’État, agissant au cours de l’enquête de flagrance ou de l’enquête préliminaire ou au cours de l’instruction préparatoire sur commission rogatoire du juge d’instruction, procèdent aux actes suivants sans en être pénalement responsables :
 
-1. participer aux échanges électroniques sous un pseudonyme qui, sauf accord exprès et éclairé de la personne concernée, ne peut, suivant le résultat des vérifications de noms acté au dossier, pas être l’identité d’une personne existante ;
-2. être, sous un pseudonyme respectant les conditions visées au point 1°, en contact, avec les personnes que des faits déterminés rendent suspectes de commettre ou d’avoir commis l’infraction justifiant la mesure ;
-3. extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d’être les auteurs de ces infractions ;
-4. extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites.
+1° participer aux échanges électroniques sous un pseudonyme qui, sauf accord exprès et éclairé de la personne concernée, ne peut, suivant le résultat des vérifications de noms acté au dossier, pas être l’identité d’une personne existante ;
+
+2° être, sous un pseudonyme respectant les conditions visées au point 1°, en contact, avec les personnes que des faits déterminés rendent suspectes de commettre ou d’avoir commis l’infraction justifiant la mesure ;
+
+3° extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d’être les auteurs de ces infractions ;
+
+4° extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites.
 
 À peine de nullité, ces actes ne peuvent constituer une incitation à commettre ces infractions.
 
@@ -1514,12 +1589,17 @@ Lorsqu’il y a des raisons de penser que des données stockées, traitées ou t
 
 (2) La décision du procureur d’État ou du juge d’instruction de procéder à l’enquête sous pseudonyme est écrite et contient, sous peine de nullité, les mentions suivantes :
 
-1. le ou les indices graves de l’infraction qui justifient l’enquête sous pseudonyme ;
-2. les motifs spécifiques pour lesquels l’enquête ou l’instruction préparatoire exige une telle mesure ;
-3. le nom, ou s’il n’est pas connu, une description aussi précise que possible de la ou des personnes visées par la mesure d’enquête sous pseudonyme, ainsi que des faits déterminés qui les rendent suspectes de commettre ou d’avoir commis l’infraction justifiant la mesure ;
-4. la manière dont la mesure sera exécutée, y compris le pseudonyme employé ou l’accord exprès et éclairé d’une personne de voir utiliser son identité à titre de pseudonyme ;
-5. la période durant laquelle la mesure pourra être exécutée et laquelle ne peut excéder un mois à compter de la date de la décision ;
-6. le nom et la qualité de l’officier de police judiciaire qui procède à l’exécution de l’enquête.
+1° le ou les indices graves de l’infraction qui justifient l’enquête sous pseudonyme ;
+
+2° les motifs spécifiques pour lesquels l’enquête ou l’instruction préparatoire exige une telle mesure ;
+
+3° le nom, ou s’il n’est pas connu, une description aussi précise que possible de la ou des personnes visées par la mesure d’enquête sous pseudonyme, ainsi que des faits déterminés qui les rendent suspectes de commettre ou d’avoir commis l’infraction justifiant la mesure ;
+
+4° la manière dont la mesure sera exécutée, y compris le pseudonyme employé ou l’accord exprès et éclairé d’une personne de voir utiliser son identité à titre de pseudonyme ;
+
+5° la période durant laquelle la mesure pourra être exécutée et laquelle ne peut excéder un mois à compter de la date de la décision ;
+
+6° le nom et la qualité de l’officier de police judiciaire qui procède à l’exécution de l’enquête.
 
 (3) En cas d’urgence, la décision de procéder à l’enquête sous pseudonyme peut être accordée verbalement. Cette décision doit, à peine de nullité, être confirmée dans les vingt-quatre heures dans la forme prévue au paragraphe 2.
 
@@ -1539,9 +1619,11 @@ Le prévenu, l’inculpé, la partie civile ou leurs avocats reçoivent, dans le
 
 (6) Les personnes visées par l’enquête sous pseudonyme qui ne sont ni inculpées ni poursuivies sont informées de la mesure dans les conditions suivantes :
 
-1. si la mesure a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a été classée sans suites, par le procureur d’État au moment du classement sans suites ;
-2. si elle a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a donné lieu à une poursuite sur citation dirigée contre des personnes autres que celles visées par la mesure, par le procureur d’État au moment de la citation ;
-3. si elle a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a été suivie d’une instruction préparatoire dirigée contre des personnes autres que celles visées par la mesure ou sur décision du juge d’instruction dans le cadre d’une instruction préparatoire dirigée contre de telles personnes, au moment de la dernière inculpation inter­venue ou, lorsque l’instruction préparatoire est clôturée par le juge d’instruction sans inculpation, au moment de cette clôture.
+1° si la mesure a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a été classée sans suites, par le procureur d’État au moment du classement sans suites ;
+
+2° si elle a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a donné lieu à une poursuite sur citation dirigée contre des personnes autres que celles visées par la mesure, par le procureur d’État au moment de la citation ;
+
+3° si elle a été exécutée sur décision du procureur d’État prise dans le cadre d’une enquête qui a été suivie d’une instruction préparatoire dirigée contre des personnes autres que celles visées par la mesure ou sur décision du juge d’instruction dans le cadre d’une instruction préparatoire dirigée contre de telles personnes, au moment de la dernière inculpation inter­venue ou, lorsque l’instruction préparatoire est clôturée par le juge d’instruction sans inculpation, au moment de cette clôture.
 
 Dans les cas prévus aux points 1° et 2°, les personnes visées par l’enquête sous pseudonyme ont, par dérogation à l’article 48-2, paragraphe 2, alinéa 3, un délai de cinq jours ouvrables à partir de la réception de l’information pour agir en nullité sur le fondement de l’article 48-2.
 
@@ -1557,8 +1639,9 @@ L’information porte à leur connaissance leurs droits respectifs d’agir en n
 
 (1) Dans le cadre de l’enquête pour crime ou délit ou de l’instruction préparatoire, le procureur d’État ou le juge d’instruction peut, par une décision motivée et écrite, en requérant au besoin le concours d’un opérateur de télécommunications ou d’un fournisseur d’un service de télécommunications, procéder ou faire procéder sur la base de toutes données détenues par lui sur base de l’article 10 *bis* de la [loi modifiée du 30 mai 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/jo) concernant la protection de la vie privée dans le secteur des communications électroniques à :
 
-1. l’identification de l’abonné ou de l’utilisateur habituel d’un service de communication électro­nique ou du moyen de communication électronique utilisé ;
-2. l’identification des services de communications électroniques auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée.
+1° l’identification de l’abonné ou de l’utilisateur habituel d’un service de communication électro­nique ou du moyen de communication électronique utilisé ;
+
+2° l’identification des services de communications électroniques auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée.
 
 La motivation reflète le caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d’enquête ou d’instruction.
 
@@ -1578,33 +1661,27 @@ Toute personne qui refuse de prêter son concours technique aux réquisitions vi
 
 (1) Le procureur d’État est compétent pour rechercher :
 
-1. les personnes visées par un mandat d’arrêt européen ou international émanant d’une autorité judiciaire étrangère ou une demande d’entraide judiciaire n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées ;
-2. les personnes visées par une enquête préliminaire n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées ;
-3. les personnes visées par un mandat de dépôt ou un mandat d’arrêt émis par une juridiction de fond n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées.
+1° les personnes visées par un mandat d’arrêt européen ou international émanant d’une autorité judiciaire étrangère ou une demande d’entraide judiciaire n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées ;
+
+2° les personnes visées par une enquête préliminaire n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées ;
+
+3° les personnes visées par un mandat de dépôt ou un mandat d’arrêt émis par une juridiction de fond n’ayant ni domicile, ni domicile élu, ni résidence, ni lieu de travail connus ou qui n’ont pas pu être trouvées.
 
 (2) Le procureur d’État peut procéder aux :
 
-1. actes de vérification d’identité visés au livre I
+1° actes de vérification d’identité visés au livre I <sup>er</sup> , titre II, chapitre II ;
 
-   <sup>er</sup> , titre II, chapitre II ;
-2. actes de l’enquête préliminaire visés au livre I
+2° actes de l’enquête préliminaire visés au livre I <sup>er</sup> , titre II, chapitre III ;
 
-   <sup>er</sup> , titre II, chapitre III ;
-3. procédures d’identification par empreintes génétiques visées au livre I
+3° procédures d’identification par empreintes génétiques visées au livre I <sup>er</sup> , titre II, chapitre V ;
 
-   <sup>er</sup> , titre II, chapitre V ;
-4. actes de fouille des véhicules visés au livre I
+4° actes de fouille des véhicules visés au livre I <sup>er</sup> , titre II, chapitre VI ;
 
-   <sup>er</sup> , titre II, chapitre VI ;
-5. actes d’observation visés au livre I
+5° actes d’observation visés au livre I <sup>er</sup> , titre II, chapitre VII ;
 
-   <sup>er</sup> , titre II, chapitre VII ;
-6. mesures d’accès à certains traitements de données à caractère personnel mis en œuvre par des personnes morales de droit public visées au livre I
+6° mesures d’accès à certains traitements de données à caractère personnel mis en œuvre par des personnes morales de droit public visées au livre I <sup>er</sup> , titre II, chapitre IX ;
 
-   <sup>er</sup> , titre II, chapitre IX ;
-7. mesures d’identification d’un utilisateur d’un moyen de télécommunication visées au livre I
-
-   <sup>er</sup> , titre II, chapitre XII.
+7° mesures d’identification d’un utilisateur d’un moyen de télécommunication visées au livre I <sup>er</sup> , titre II, chapitre XII.
 
 (3) Les mesures de visite domiciliaire, les mesures de repérage et de localisation visées à l’article 67-1 et les mesures spéciales de surveillance visées au livre I <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section VIII sont ordonnées par le juge d’instruction requis à cet effet par le procureur d’État.
 
@@ -1680,15 +1757,19 @@ Cette information est faite par la remise, contre récépissé, d’une déclara
 
 Il peut être dérogé temporairement à l’application de ce droit si cela est justifié, compte tenu des circonstances particulières du cas d’espèce, sur la base d’un des motifs impérieux suivants :
 
-- lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
-- lorsqu’il existe une nécessité urgente d’éviter une situation susceptible de compromettre sérieusement une procédure pénale.
+aash lorsqu’il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l’intégrité physique d’une personne ;
+
+bash lorsqu’il existe une nécessité urgente d’éviter une situation susceptible de compromettre sérieusement une procédure pénale.
 
 Cette dérogation temporaire doit :
 
-1. être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
-2. avoir une durée strictement limitée ;
-3. ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée et
-4. ne pas porter atteinte à l’équité générale de la procédure.
+a) être proportionnée et ne pas aller au-delà de ce qui est nécessaire ;
+
+b) avoir une durée strictement limitée ;
+
+c) ne pas être fondée exclusivement sur la nature ou sur la gravité de l’infraction alléguée et
+
+d) ne pas porter atteinte à l’équité générale de la procédure.
 
 La dérogation est décidée par l’officier de police judiciaire après accord oral du juge d’instruction, à confirmer par accord écrit et motivé.
 
@@ -1796,7 +1877,7 @@ Dans le cas où le juge d'instruction n'est pas compétent aux termes de l'artic
 
 Si les nécessités de l'information l'exigent, le juge d'instruction peut, après en avoir donné avis au procureur d'Etat de son tribunal, se transporter avec son greffier dans toute l'étendue du territoire national, à l'effet d'y procéder à tous actes d'instruction, à charge par lui d'aviser, au préalable, le procureur d'Etat du tribunal dans le ressort duquel il se transporte. Il mentionne dans son procès-verbal les motifs de son transport.
 
-###### Art. 65. [^1-dispositionstemporaires] — ([L. 16 juin 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/06/16/n1/jo)) ([L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a559/jo))
+###### Art. 65.[^1-dispositionstemporaires] — ([L. 16 juin 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/06/16/n1/jo)) ([L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a559/jo))
 
 (1) ([L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/jo)) Les perquisitions sont effectuées dans tous les lieux où peuvent se trouver des objets dont la découverte serait utile à la manifestation de la vérité ou des biens susceptibles de confiscation ou de restitution.
 
@@ -1804,18 +1885,15 @@ Si les nécessités de l'information l'exigent, le juge d'instruction peut, apr�
 
 (3) Sauf le cas d’infraction flagrante, celui de l’instruction préparatoire portant, en tout ou en partie, sur un ou plusieurs des faits énumérés ci-après :
 
-1. crimes et délits contre la sûreté de l’État au sens des articles 101 à 123 du
+1° crimes et délits contre la sûreté de l’État au sens des articles 101 à 123 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-2. actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du
-
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
+2° actes de terrorisme et de financement de terrorisme au sens des articles 135-1 à 135-6, 135-9 et 135-11 à 135-16 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
 et les autres cas expressément prévus par la loi, les perquisitions ne peuvent, à peine de nullité, être commencées avant six heures et demie ni après vingt-quatre heures.
 
 (4) Les dispositions des articles 33 à 38 sont applicables aux perquisitions effectuées par le juge d’instruction.
 
-###### Art. 66. [^1-dispositionstemporaires] — ([L. 18 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/18/n1/jo))
+###### Art. 66.[^1-dispositionstemporaires] — ([L. 18 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/18/n1/jo))
 
 (1) Le juge d’instruction opère la saisie de tous les objets, documents, effets, données stockées, traitées ou transmises dans un système de traitement ou de transmission automatisé de données et autres choses visés à l’article 31 (3).
 
@@ -1851,19 +1929,17 @@ Le refus de prêter son concours à l’exécution des ordonnances sera puni d�
 
 (1) En cas de saisie conservatoire d’un bien immeuble, l’ordonnance du juge d’instruction contient les mentions suivantes:
 
-1. les circonstances de fait de la cause qui justifient la saisie;
-2. la désignation du bien visé par la saisie et du propriétaire de ce bien. Cette désignation se fait conformément aux dispositions de la
+1\. les circonstances de fait de la cause qui justifient la saisie;
 
-   [loi modifiée du 26 juin 1953](https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/jo) concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques.
+2\. la désignation du bien visé par la saisie et du propriétaire de ce bien. Cette désignation se fait conformément aux dispositions de la [loi modifiée du 26 juin 1953](https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/jo) concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques.
 
 ([L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/jo))(2) L’ordonnance de saisie est communiquée au procureur d’État et au Bureau de gestion des avoirs.
 
 Cette ordonnance est notifiée par le greffier dans les formes prévues pour les notifications en matière répressive :
 
-1. au conservateur des hypothèques du lieu de situation du bien saisi, aux fins de transcription conformément à la
+1\. au conservateur des hypothèques du lieu de situation du bien saisi, aux fins de transcription conformément à la [loi modifiée du 25 septembre 1905](https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/jo) sur la transcription des droits réels immobiliers ;
 
-   [loi modifiée du 25 septembre 1905](https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/jo) sur la transcription des droits réels immobiliers ;
-2. au propriétaire du bien saisi.
+2\. au propriétaire du bien saisi.
 
 Si le propriétaire ne peut pas être trouvé sur le territoire du Grand-Duché de Luxembourg, l’ordonnance fait en outre l’objet d’un affichage sur le bien saisi.
 
@@ -1917,8 +1993,9 @@ Lorsqu’il est utile à la manifestation de la vérité, le juge d’instructio
 
 (1) Lorsque le juge d’instruction estime qu’il existe des circonstances qui rendent le repérage de télécommunications ou la localisation de l’origine ou de la destination de télécommunications nécessaire à la manifestation de la vérité, et si les faits emportent une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à un an d’emprisonnement, il peut faire procéder, en requérant au besoin le concours technique de l’opérateur de télécommunications et/ou du fournisseur d’un service de télécommunications:
 
-1. au repérage des données d’appel de moyens de télécommunication à partir desquels ou vers lesquels des appels sont adressés ou ont été adressés;
-2. à la localisation de l’origine ou de la destination de télécommunications.
+1\. au repérage des données d’appel de moyens de télécommunication à partir desquels ou vers lesquels des appels sont adressés ou ont été adressés;
+
+2\. à la localisation de l’origine ou de la destination de télécommunications.
 
 Dans les cas visés à l’alinéa 1, pour chaque moyen de télécommunication dont les données d’appel sont repérées ou dont l’origine ou la destination de la télécommunication est localisée, le jour, l’heure, la durée et, si nécessaire, le lieu de la télécommunication sont indiqués et consignés dans un procès-verbal.
 
@@ -1942,19 +2019,25 @@ Lorsque les mesures de repérage de télécommunications ordonnées par le juge 
 
 ##### Section IV — Des demandes en restitution d'objets saisis
 
-###### Art. 68. [^1-dispositionstemporaires] — ([L. 16 juin 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/06/16/n1/jo))
+###### Art. 68.[^1-dispositionstemporaires] — ([L. 16 juin 1989](https://legilux.public.lu/eli/etat/leg/loi/1989/06/16/n1/jo))
 
 (1) L'inculpé, le prévenu, la partie civile ou toute autre personne qui prétend avoir droit sur un objet placé sous la main de la justice peut en réclamer la restitution.
 
 (2) La demande en restitution, sous forme de requête, est adressée:
 
-1. à la chambre du conseil du tribunal d'arrondissement, si une instruction est soit en cours soit terminée par une ordonnance de non-lieu non frappée d'un recours, ou si, à défaut d'instruction, aucune juridiction répressive n'est saisie;
-2. à la chambre du conseil de la cour d'appel, si elle est saisie d'un recours contre une ordonnance de renvoi ou de non-lieu;
-3. à la chambre correctionnelle du tribunal d'arrondissement, si elle est saisie soit par une ordonnance de renvoi, soit par une citation directe;
-4. à la chambre correctionnelle de la cour d'appel, si appel a été interjeté sur le fond;
-5. à la chambre criminelle du tribunal d'arrondissement, si elle est saisie par une ordonnance de renvoi;
-6. à la chambre criminelle de la cour d'appel, si appel a été interjeté sur le fond;
-7. à la chambre correctionnelle de la cour d'appel, si un pourvoi en cassation a été formé soit contre une décision d'une juridiction d'instruction soit contre une décision d'une juridiction de jugement.
+1° à la chambre du conseil du tribunal d'arrondissement, si une instruction est soit en cours soit terminée par une ordonnance de non-lieu non frappée d'un recours, ou si, à défaut d'instruction, aucune juridiction répressive n'est saisie;
+
+2° à la chambre du conseil de la cour d'appel, si elle est saisie d'un recours contre une ordonnance de renvoi ou de non-lieu;
+
+3° à la chambre correctionnelle du tribunal d'arrondissement, si elle est saisie soit par une ordonnance de renvoi, soit par une citation directe;
+
+4° à la chambre correctionnelle de la cour d'appel, si appel a été interjeté sur le fond;
+
+5° à la chambre criminelle du tribunal d'arrondissement, si elle est saisie par une ordonnance de renvoi;
+
+6° à la chambre criminelle de la cour d'appel, si appel a été interjeté sur le fond;
+
+7° à la chambre correctionnelle de la cour d'appel, si un pourvoi en cassation a été formé soit contre une décision d'une juridiction d'instruction soit contre une décision d'une juridiction de jugement.
 
 (3) Si la demande émane de l'inculpé, du prévenu ou de la partie civile, elle est communiquée à l'autre partie ainsi qu'au ministère public. Si elle émane d'un tiers, elle est communiquée à l'inculpé, au prévenu et au ministère public.
 
@@ -2106,8 +2189,9 @@ Si, sur l'interpellation qui doit lui être adressée, un témoin requiert taxe,
 
 La consultation du dossier peut être, en tout ou en partie, restreinte, à titre exceptionnel, d’office ou sur réquisitoire du procureur d’Etat, par ordonnance motivée du juge d’instruction susceptible de faire l’objet d’un appel sur le fondement de l’article 133 dans les cas suivants :
 
-1. lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
-2. lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, notamment lorsque la consultation risque de compromettre une enquête ou une instruction préparatoire en cours ou de porter gravement atteinte à la sécurité nationale.
+1\. lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
+
+2\. lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, notamment lorsque la consultation risque de compromettre une enquête ou une instruction préparatoire en cours ou de porter gravement atteinte à la sécurité nationale.
 
 La restriction doit être levée aussitôt qu’elle n’est plus nécessaire. Elle cesse de plein droit le jour de l’ordonnance de clôture de l’instruction. L’inculpé ou la partie civile visée par la restriction peut à tout moment demander au juge d’instruction d’en décider la mainlevée. Le juge d’instruction décide du bien-fondé de cette requête par une ordonnance susceptible de faire l’objet d’un appel sur le fondement de l’article 133.
 
@@ -2185,9 +2269,11 @@ L'ordonnance spécifie le motif d'urgence.
 
 Celle-ci s’effectue au moyen :
 
-1. de la surveillance et du contrôle des télécommunications ainsi que de la correspondance postale ;
-2. de la sonorisation et de la fixation d’images de certains lieux ou véhicules ;
-3. de la captation de données informatiques.
+1° de la surveillance et du contrôle des télécommunications ainsi que de la correspondance postale ;
+
+2° de la sonorisation et de la fixation d’images de certains lieux ou véhicules ;
+
+3° de la captation de données informatiques.
 
 (2) La sonorisation et la fixation d’images de certains lieux ou véhiculés consistent dans la mise en place d’un dispositif technique ayant pour objet, sans le consentement des intéressés, la captation, la fixation, la transmission et l’enregistrement des paroles prononcées par une ou plusieurs personnes à titre privé ou confidentiel, dans un lieu public, un véhicule, un local utilisé à des fins professionnelles ou un domicile ou ses dépendances au sens des articles 479, 480 et 481 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ou, au moyen d’un dispositif technique placé dans un local utilisé à des fins professionnelles, un domicile ou ses dépendances ou un véhicule de l’image d’une ou de plusieurs personnes se trouvant dans ces lieux.
 
@@ -2199,72 +2285,61 @@ Celle-ci s’effectue au moyen :
 
 (2) ([L. 19 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a610/jo)) Elles sont subordonnées aux conditions :
 
-1. que la poursuite pénale a pour objet,
+1° que la poursuite pénale a pour objet,
 
-   1. s’agissant de la surveillance et du contrôle des télécommunications ainsi que de la correspondance postale, en tout ou en partie, un fait d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à deux ans d’emprisonnement ;
-   2. s’agissant de la sonorisation et de la fixation d’images des lieux et véhicules visés à l’article 88-1, paragraphe 2, et de la captation de données informatiques, en tout ou en partie, un fait d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle prévue aux articles suivants :
+a) s’agissant de la surveillance et du contrôle des télécommunications ainsi que de la correspondance postale, en tout ou en partie, un fait d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle dont le maximum est égal ou supérieur à deux ans d’emprisonnement ;
 
-      1. articles 101 à 120
+b) s’agissant de la sonorisation et de la fixation d’images des lieux et véhicules visés à l’article 88-1, paragraphe 2, et de la captation de données informatiques, en tout ou en partie, un fait d’une gravité particulière emportant une peine criminelle ou une peine correctionnelle prévue aux articles suivants :
 
-         \*bis*, 120*sexies* et 121 à 123, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      2. articles 135-1 à 135-17 du
+i) articles 101 à 120*bis*, 120*sexies* et 121 à 123, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      3. article 164 du
+ii) articles 135-1 à 135-17 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      4. articles 248, 310 et 310-1, du
+iii) article 164 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      5. articles 323 à 324
+iv) articles 248, 310 et 310-1, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         \*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      6. articles 327, 328 et 331, du
+v) articles 323 à 324*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      7. articles 368 et 370 du
+vi) articles 327, 328 et 331, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      8. articles 379 et 379
+vii) articles 368 et 370 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         \*bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      9. articles 382-1 à 382-5 du
+viii) articles 379 et 379*bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      10. articles 383 à 383
+ix) articles 382-1 à 382-5 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         \*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      11. article 385-2 du
+x) articles 383 à 383*ter* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      12. articles 434 à 436 du
+xi) article 385-2 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      13. articles 506-1, lorsque l’infraction sous-jacente est punie d’une peine privative de liberté dont le maximum est égal ou supérieur à quatre ans, et 506-6 du
+xii) articles 434 à 436 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-      14. articles 8, 8-1, 9 et 10, de la
+xiii) articles 506-1, lorsque l’infraction sous-jacente est punie d’une peine privative de liberté dont le maximum est égal ou supérieur à quatre ans, et 506-6 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-         [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
-      15. article 59 de la
+xiv) articles 8, 8-1, 9 et 10, de la [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
 
-         [loi du 2 février 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/02/02/a49/jo) sur les armes et munitions ;
-      16. articles 58 à 60 de la
+xv) article 59 de la [loi du 2 février 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/02/02/a49/jo) sur les armes et munitions ;
 
-         [loi du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a603/jo) relative au contrôle des exportations ;
-      17. article 10 de la
+xvi) articles 58 à 60 de la [loi du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a603/jo) relative au contrôle des exportations ;
 
-         [loi modifiée du 19 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1072/jo)relative à la mise en œuvre de mesures restrictives en matière financière ;
-2. que des faits déterminés rendent la personne à surveiller suspecte, soit d’avoir commis l’infraction ou d’y avoir participé, soit de recevoir ou de transmettre des informations destinées à l’inculpé ou au suspect ou qui proviennent de lui ;
-3. que les moyens ordinaires d’investigation s’avèrent inopérants en raison de la nature des faits et des circonstances spéciales de l’espèce.
+xvii) article 10 de la [loi modifiée du 19 décembre 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1072/jo)relative à la mise en œuvre de mesures restrictives en matière financière ;
+
+2° que des faits déterminés rendent la personne à surveiller suspecte, soit d’avoir commis l’infraction ou d’y avoir participé, soit de recevoir ou de transmettre des informations destinées à l’inculpé ou au suspect ou qui proviennent de lui ;
+
+3° que les moyens ordinaires d’investigation s’avèrent inopérants en raison de la nature des faits et des circonstances spéciales de l’espèce.
 
 (3) La décision du juge d’instruction est écrite et contient, sous peine de nullité, les mentions suivantes :
 
-1. la motivation spéciale d’après les éléments de l’espèce et par référence aux conditions indiquées au paragraphe 2 ;
-2. le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes visées par les mesures ordonnées ;
-3. la manière dont les mesures seront exécutées ;
-4. la période durant laquelle les mesures pourront être exécutées au regard des dispositions du paragraphe 4 ;
-5. le nom et la qualité de l’officier de police judiciaire qui procède à l’exécution de l’enquête.
+1° la motivation spéciale d’après les éléments de l’espèce et par référence aux conditions indiquées au paragraphe 2 ;
+
+2° le nom ou, s’il n’est pas connu, une description aussi précise que possible de la ou des personnes visées par les mesures ordonnées ;
+
+3° la manière dont les mesures seront exécutées ;
+
+4° la période durant laquelle les mesures pourront être exécutées au regard des dispositions du paragraphe 4 ;
+
+5° le nom et la qualité de l’officier de police judiciaire qui procède à l’exécution de l’enquête.
 
 (4) Elles doivent être levées dès qu’elles ne sont plus nécessaires. Elles cessent de plein droit un mois à compter de la date de l’ordonnance. Elles peuvent toutefois être prorogées chaque fois pour un mois, sans que la durée totale puisse dépasser un an, par ordonnance motivée du juge d’instruction, approuvée par le président de la chambre du conseil de la cour d’appel qui statue dans les deux jours de la réception de l’ordonnance, le procureur général d’État entendu en ses conclusions.
 
@@ -2298,9 +2373,11 @@ Toute personne qui refuse de prêter son concours technique à l’exécution de
 
 (2) Le juge d’instruction ou l’officier de police judiciaire commis par lui dresse à peine de nullité procès-verbal :
 
-1. en cas de surveillance et de contrôle des télécommunications, de chacune des opérations y relatifs ;
-2. en cas de sonorisation et de fixation d’images de certains lieux ou véhicules, de chacune des opérations de mise en place et de désinstallation du dispositif technique et des opérations de captation, de fixation d’images et d’enregistrement sonore ou audiovisuel ;
-3. en cas de captation de données informatiques, de chacune des opérations de mise en place et de désinstallation du dispositif technique et des opérations de captation des données informatiques.
+1° en cas de surveillance et de contrôle des télécommunications, de chacune des opérations y relatifs ;
+
+2° en cas de sonorisation et de fixation d’images de certains lieux ou véhicules, de chacune des opérations de mise en place et de désinstallation du dispositif technique et des opérations de captation, de fixation d’images et d’enregistrement sonore ou audiovisuel ;
+
+3° en cas de captation de données informatiques, de chacune des opérations de mise en place et de désinstallation du dispositif technique et des opérations de captation des données informatiques.
 
 Ce procès-verbal mentionne à peine de nullité la date et l’heure auxquelles l’opération a commencé et celles auxquelles elle s’est terminée.
 
@@ -2338,9 +2415,11 @@ Ils sont en droit de demander la consultation sans déplacement des séquences r
 
 (1) Lorsqu’au cours d’une instruction, le juge d’instruction constate de sérieux indices de culpabilité chez une personne morale, il peut, si des circonstances particulières le requièrent, ordonner les mesures suivantes:
 
-1. la suspension de la procédure de dissolution ou de liquidation de la personne morale;
-2. l’interdiction de transactions patrimoniales spécifiques susceptibles d’entraîner l’insolvabilité de la personne morale;
-3. le dépôt d’un cautionnement dont il fixe le montant, en vue de garantir le respect des mesures qu’il ordonne.
+1° la suspension de la procédure de dissolution ou de liquidation de la personne morale;
+
+2° l’interdiction de transactions patrimoniales spécifiques susceptibles d’entraîner l’insolvabilité de la personne morale;
+
+3° le dépôt d’un cautionnement dont il fixe le montant, en vue de garantir le respect des mesures qu’il ordonne.
 
 (2) Les articles 126 à 126-2 sont applicables aux mesures ordonnées en vertu du paragraphe (1).
 
@@ -2348,13 +2427,19 @@ Ils sont en droit de demander la consultation sans déplacement des séquences r
 
 (1) La mainlevée de la mesure ordonnée en vertu du paragraphe (1) de l’article 89 peut être demandée en tout état de cause par l’inculpé, le prévenu ou le ministère public, à savoir:
 
-1. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction;
-2. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement;
-3. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
-4. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond;
-5. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
-6. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond;
-7. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+1\. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction;
+
+2\. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement;
+
+3\. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
+
+4\. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond;
+
+5\. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
+
+6\. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond;
+
+7\. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
 
 (2) La requête est déposée au greffe de la juridiction appelée à statuer.
 
@@ -2374,11 +2459,11 @@ Ils sont en droit de demander la consultation sans déplacement des séquences r
 
 Il informe la personne:
 
-1. de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire,
-2. (
+a) de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire,
 
-   [L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ainsi que
-3. des droits conférés par les articles 3-2, 3-3, 3-6 et 85, paragraphe 1.
+b) ([L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ainsi que
+
+c) des droits conférés par les articles 3-2, 3-3, 3-6 et 85, paragraphe 1.
 
 Lorsqu’un mandat de comparution est émis, l’avocat de la personne à interroger et de la partie civile sont, pour autant que le juge d’instruction soit informé de leur mandat, convoqués par lettre au moins huit jours ouvrables avant l’interrogatoire.
 
@@ -2402,8 +2487,9 @@ Alinéa 2 abrogé ([L. 16 juin 1989](https://legilux.public.lu/eli/etat/leg/loi/
 
 ([L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) Elle mentionne les éléments qui justifient l’ouverture d’un nouveau délai, à savoir :
 
-1. les indices graves de culpabilité relatifs à un crime ou à un délit ;
-2. les circonstances particulières de l’espèce, résultant de la complexité spécifique de l’affaire et du nombre de suspects en cause.
+1° les indices graves de culpabilité relatifs à un crime ou à un délit ;
+
+2° les circonstances particulières de l’espèce, résultant de la complexité spécifique de l’affaire et du nombre de suspects en cause.
 
 ([L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) L’ordonnance de prolongation est notifiée à la personne privée de liberté dans un délai de vingt-quatre heures. Celui-ci commence à courir à partir du moment où la personne est privée de liberté. À défaut de signification régulière dans ce délai, la personne est libérée.
 
@@ -2415,9 +2501,11 @@ Après l'interrogatoire de l'inculpé résidant dans le Grand-Duché le juge pou
 
 Outre les conditions prévues à l'alinéa précédent le mandat de dépôt ne peut être décerné que dans un des cas suivants:
 
-1. S'il y a danger de fuite de l'inculpé; le danger de fuite est légalement présumé, lorsque le fait est puni par la loi d'une peine criminelle;
-2. s'il y a danger d'obscurcissement des preuves;
-3. s'il y a lieu de craindre que l'inculpé n'abuse de sa liberté pour commettre de nouvelles infractions.
+1\) S'il y a danger de fuite de l'inculpé; le danger de fuite est légalement présumé, lorsque le fait est puni par la loi d'une peine criminelle;
+
+2\) s'il y a danger d'obscurcissement des preuves;
+
+3\) s'il y a lieu de craindre que l'inculpé n'abuse de sa liberté pour commettre de nouvelles infractions.
 
 Si l'inculpé ne réside pas dans le Grand-Duché, le mandat de dépôt peut être décerné en dehors des conditions fixées aux alinéas 1er et 2 après l'interrogatoire, s'il existe des indices graves de culpabilité et si le fait emporte une peine criminelle ou une peine d'emprisonnement correctionnel.
 
@@ -2529,23 +2617,33 @@ Le contrôle judiciaire peut être ordonné par le juge d’instruction si l’i
 
 Ce contrôle astreint la personne concernée à se soumettre, selon la décision du juge d’instruction, à une ou plusieurs des obligations ci-après énumérées:
 
-1. Ne pas sortir des limites territoriales déterminées par le juge d’instruction;
-2. Ne s’absenter de son domicile ou de la résidence fixée par le juge d’instruction qu’aux conditions et pour les motifs déterminés par ce magistrat;
-3. Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le juge d’instruction;
-4. Informer le juge d’instruction de tout déplacement au-delà de limites déterminées;
-5. Se présenter périodiquement aux services ou autorités désignés par le juge d’instruction qui sont tenus d’observer la plus stricte discrétion sur les faits reprochés à la personne inculpée;
-6. Répondre aux convocations de toute autorité et de tout service désigné par le juge d’instruction, et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu’aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive;
-7. Remettre soit au greffe, soit à un service de police tous documents justificatifs de l’identité et, notamment, le passeport, en échange d’un récépissé valant justification de l’identité.
+1\. Ne pas sortir des limites territoriales déterminées par le juge d’instruction;
 
-   Le modèle du récépissé visé au point 7 de l’article 107 est arrêté par règlement grand-ducal.
-8. S’abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de conduire contre récépissé; toutefois, le juge d’instruction peut décider que la personne inculpée pourra faire usage de son permis de conduire pour l’exercice de son activité professionnelle.
-9. S’abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d’instruction, ainsi que d’entrer en relation avec elles, de quelque façon que ce soit;
-10. Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’
+2\. Ne s’absenter de son domicile ou de la résidence fixée par le juge d’instruction qu’aux conditions et pour les motifs déterminés par ce magistrat;
 
-   [article 24 de la loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;
-11. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d’instruction, compte tenu notamment des ressources et des charges de la personne inculpée;
-12. Ne pas détenir ou porter une arme et, le cas échéant, remettre auprès d’un service de police contre récépissé les armes dont elle est détenteur;
-13. Contribuer aux charges familiales ou acquitter régulièrement les pensions alimentaires.
+3\. Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le juge d’instruction;
+
+4\. Informer le juge d’instruction de tout déplacement au-delà de limites déterminées;
+
+5\. Se présenter périodiquement aux services ou autorités désignés par le juge d’instruction qui sont tenus d’observer la plus stricte discrétion sur les faits reprochés à la personne inculpée;
+
+6\. Répondre aux convocations de toute autorité et de tout service désigné par le juge d’instruction, et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu’aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive;
+
+7\. Remettre soit au greffe, soit à un service de police tous documents justificatifs de l’identité et, notamment, le passeport, en échange d’un récépissé valant justification de l’identité.
+
+Le modèle du récépissé visé au point 7 de l’article 107 est arrêté par règlement grand-ducal.
+
+8\. S’abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de conduire contre récépissé; toutefois, le juge d’instruction peut décider que la personne inculpée pourra faire usage de son permis de conduire pour l’exercice de son activité professionnelle.
+
+9\. S’abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le juge d’instruction, ainsi que d’entrer en relation avec elles, de quelque façon que ce soit;
+
+10\. Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’ [article 24 de la loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;
+
+11\. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le juge d’instruction, compte tenu notamment des ressources et des charges de la personne inculpée;
+
+12\. Ne pas détenir ou porter une arme et, le cas échéant, remettre auprès d’un service de police contre récépissé les armes dont elle est détenteur;
+
+13\. Contribuer aux charges familiales ou acquitter régulièrement les pensions alimentaires.
 
 ([L. du 20 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a627/jo)) Le juge d’instruction peut placer une personne, soumise aux obligations visées à l’alinéa 2, points 1, 2 et 3, sous surveillance électronique au sens de l’article 690.
 
@@ -2581,21 +2679,29 @@ Si par suite du refus volontaire de l’inculpé de se soumettre aux obligations
 
 Les mêmes droits appartiennent, sur demande afférente du ministère public, la personne inculpée ou prévenue entendue ou dûment appelée:
 
-1. à la chambre du conseil du tribunal d’arrondissement, si elle est saisie en vue du règlement de la procédure;
-2. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de règlement de la chambre du conseil du tribunal d’arrondissement;
-3. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
-4. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond;
-5. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
-6. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond;
-7. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+1\. à la chambre du conseil du tribunal d’arrondissement, si elle est saisie en vue du règlement de la procédure;
 
-###### Art. 111. [^1-dispositionstemporaires] — ([L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo))
+2\. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de règlement de la chambre du conseil du tribunal d’arrondissement;
+
+3\. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
+
+4\. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond;
+
+5\. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée;
+
+6\. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond;
+
+7\. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+
+###### Art. 111.[^1-dispositionstemporaires] — ([L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo))
 
 (1) La mainlevée totale ou partielle du contrôle judiciaire peut être demandée en tout état de cause, à savoir:
 
-1. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction;
-2. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement;
-3. aux autres juridictions compétentes selon les distinctions de l’article 110, deuxième alinéa, sous 3 à 7.
+1\. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction;
+
+2\. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement;
+
+3\. aux autres juridictions compétentes selon les distinctions de l’article 110, deuxième alinéa, sous 3 à 7.
 
 (2) La requête est déposée au greffe de la juridiction appelée à statuer.
 
@@ -2641,17 +2747,23 @@ La mise en liberté a lieu sans préjudice du droit que conserve le juge d’ins
 
 Toutefois, si la liberté provisoire a été accordée par la chambre du conseil du tribunal d’arrondissement ou par la chambre du conseil de la Cour d’appel, le juge d’instruction ne peut décerner un nouveau mandat, placer l’inculpé sous contrôle judiciaire ou lui imposer des obligations nouvelles non prévues par la décision de mise en liberté assortie du placement sous contrôle judiciaire, qu’autant que la chambre du conseil du tribunal d’arrondissement ou de la Cour d’appel, sur les réquisitions du ministère public, ont retiré à l’inculpé le bénéfice de leurs décisions respectives.
 
-###### Art. 116. [^1-dispositionstemporaires] — ([L. du 1 <sup>er</sup> août 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a561/jo))
+###### Art. 116.[^1-dispositionstemporaires] — ([L. du 1 <sup>er</sup> août 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a561/jo))
 
 (1) La mise en liberté peut être demandée à tout stade de la procédure, à savoir :
 
-1. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction ;
-2. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement ;
-3. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-4. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-5. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-6. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-7. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+1\. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’instruction ;
+
+2\. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre l’ordonnance de renvoi de la chambre du conseil du tribunal d’arrondissement ;
+
+3\. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+4\. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+5\. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+6\. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+7\. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
 
 (2) La requête est déposée au greffe de la juridiction appelée à statuer.
 
@@ -2729,13 +2841,17 @@ Si, après avoir obtenu sa liberté provisoire, l’inculpé cité ou ajourné n
 
 (1) Lorsque la personne inculpée est astreinte à fournir un cautionnement, ce cautionnement garantit:
 
-1. la représentation de l’inculpé à tous les actes de la procédure et pour l’exécution du jugement.
-2. le payement dans l’ordre suivant:
+1\. la représentation de l’inculpé à tous les actes de la procédure et pour l’exécution du jugement.
 
-   1. de la réparation des dommages causés par l’infraction et des restitutions, ainsi que de la dette alimentaire lorsque la personne inculpée est poursuivie sur la base de l’article 391bis du Code pénal pour le défaut de paiement de cette dette,
-   2. des frais avancés par la partie civile,
-   3. de ceux faits par la partie publique,
-   4. des amendes.
+2\. le payement dans l’ordre suivant:
+
+a) de la réparation des dommages causés par l’infraction et des restitutions, ainsi que de la dette alimentaire lorsque la personne inculpée est poursuivie sur la base de l’article 391bis du Code pénal pour le défaut de paiement de cette dette,
+
+b) des frais avancés par la partie civile,
+
+c) de ceux faits par la partie publique,
+
+d) des amendes.
 
 L’ordonnance de mise sous contrôle judiciaire ou de mise en liberté provisoire détermine la somme affectée à chacune des deux parties du cautionnement.
 
@@ -2785,15 +2901,15 @@ La chambre du conseil du tribunal d’arrondissement est composée de trois juge
 
 Par dérogation à l’alinéa 1 <sup>er</sup> , sont jugées par la chambre du conseil composée d’un juge ayant accompli au moins deux années de service effectif en tant que juge au tribunal d’arrondissement ou en tant que substitut du procureur d’État :
 
-1. les demandes en restitution d’objets saisis prévues aux articles 68 et 136-50 ;
-2. les demandes en révocation du contrôle judiciaire prévues aux articles 110, alinéa 2, point 1 et 136-45 ;
-3. les demandes en mainlevée ou de modification des obligations du contrôle judiciaire prévues aux articles 111 et 136-46, paragraphe 1
+1° les demandes en restitution d’objets saisis prévues aux articles 68 et 136-50 ;
 
-   <sup>er</sup> ;
-4. les demandes de mise en liberté prévues aux articles 116 et 136-56 ;
-5. les demandes en mainlevée de saisie et d’interdiction de conduire provisoire prévues à l’article 14, alinéa 5, de la
+2° les demandes en révocation du contrôle judiciaire prévues aux articles 110, alinéa 2, point 1 et 136-45 ;
 
-   [loi modifiée du 14 février 1955](https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n3/jo) concernant la réglementation de la circulation sur toutes les voies publiques.
+3° les demandes en mainlevée ou de modification des obligations du contrôle judiciaire prévues aux articles 111 et 136-46, paragraphe 1 <sup>er</sup> ;
+
+4° les demandes de mise en liberté prévues aux articles 116 et 136-56 ;
+
+5° les demandes en mainlevée de saisie et d’interdiction de conduire provisoire prévues à l’article 14, alinéa 5, de la [loi modifiée du 14 février 1955](https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n3/jo) concernant la réglementation de la circulation sur toutes les voies publiques.
 
 ##### Section XIII — Des nullités de la procédure d'instruction (L. 6 mars 2006)
 
@@ -2925,7 +3041,7 @@ La chambre du conseil de la Cour d’appel statuera, par une décision qui ne se
 
 ##### Section XVI — De l'appel des ordonnances du juge d'instruction et de la chambre du conseil (L. 6 mars 2006)
 
-###### Art. 133. [^1-dispositionstemporaires] — ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo))
+###### Art. 133.[^1-dispositionstemporaires] — ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo))
 
 (1) Le procureur d'Etat et l'inculpé peuvent, dans tous les cas, relever appel de l'ordonnance du juge d'instruction ou de la chambre du conseil du tribunal.
 
@@ -3231,8 +3347,9 @@ En cas d’ordonnance de prolongation prévue à l’article 93, alinéa 2, cett
 
 La consultation du dossier peut être, en tout ou en partie, restreinte **,** à titre exceptionnel par décision motivée du procureur européen délégué dans les cas suivants :
 
-1. lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
-2. lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, notamment lorsque la consultation risque de compromettre une enquête ou une instruction préparatoire en cours ou de porter gravement atteinte à la sécurité nationale.
+1\. lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
+
+2\. lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, notamment lorsque la consultation risque de compromettre une enquête ou une instruction préparatoire en cours ou de porter gravement atteinte à la sécurité nationale.
 
 La restriction doit être levée aussitôt qu’elle n’est plus nécessaire. Elle cesse de plein droit le jour de la clôture de l’enquête. L’inculpé ou la partie civile visée par la restriction peut à tout moment demander au procureur européen délégué d’en décider la mainlevée.
 
@@ -3338,11 +3455,11 @@ Lorsqu’il est utile à la manifestation de la vérité, le procureur européen
 
 Il informe la personne :
 
-1. de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire ;
-2. de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ;
-3. des droits conférés par les articles 3-2, 3-3, 3-6 et 136-29, paragraphe 1
+a) de la nature et de la date présumée de l’infraction sur laquelle porte l’interrogatoire ;
 
-   <sup>er</sup> .
+b) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même ;
+
+c) des droits conférés par les articles 3-2, 3-3, 3-6 et 136-29, paragraphe 1 <sup>er</sup> .
 
 Lorsqu’un mandat de comparution est émis, l’avocat de la personne à interroger et de la partie civile sont, pour autant que le procureur européen délégué soit informé de leur mandat, convoqués par lettre au moins huit jours ouvrables avant l’interrogatoire.
 
@@ -3372,21 +3489,31 @@ Le contrôle judiciaire peut être ordonné par le procureur européen délégu�
 
 Ce contrôle astreint la personne concernée à se soumettre, selon la décision du procureur européen délégué, à une ou plusieurs des obligations ci-après énumérées :
 
-1. Ne pas sortir des limites territoriales déterminées par le procureur européen délégué ;
-2. Ne s’absenter de son domicile ou de la résidence fixée par le procureur européen délégué qu’aux conditions et pour les motifs déterminés par ce magistrat ;
-3. Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le procureur européen délégué ;
-4. Informer le procureur européen délégué de tout déplacement au-delà de limites déterminées ;
-5. Se présenter périodiquement aux services ou autorités désignés par le procureur européen délégué qui sont tenus d’observer la plus stricte discrétion sur les faits reprochés à la personne inculpée ;
-6. Répondre aux convocations de toute autorité et de tout service désigné par le procureur européen délégué, et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu’aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive ;
-7. Remettre soit au greffe, soit à un service de police tous documents justificatifs de l’identité et, notamment, le passeport, en échange d’un récépissé valant justification de l’identité. Le modèle du récépissé est arrêté par règlement grand-ducal ;
-8. S’abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de conduire contre récépissé ; toutefois, le procureur européen délégué peut décider que la personne inculpée pourra faire usage de son permis de conduire pour l’exercice de son activité professionnelle.
-9. S’abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le procureur européen délégué, ainsi que d’entrer en relation avec elles, de quelque façon que ce soit ;
-10. Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’article 24 de la
+1\. Ne pas sortir des limites territoriales déterminées par le procureur européen délégué ;
 
-   [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
-11. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le procureur européen délégué, compte tenu notamment des ressources et des charges de la personne inculpée ;
-12. Ne pas détenir ou porter une arme et, le cas échéant, remettre auprès d’un service de police contre récépissé les armes dont elle est détenteur ;
-13. Contribuer aux charges familiales ou acquitter régulièrement les pensions alimentaires.
+2\. Ne s’absenter de son domicile ou de la résidence fixée par le procureur européen délégué qu’aux conditions et pour les motifs déterminés par ce magistrat ;
+
+3\. Ne pas se rendre en certains lieux ou ne se rendre que dans les lieux déterminés par le procureur européen délégué ;
+
+4\. Informer le procureur européen délégué de tout déplacement au-delà de limites déterminées ;
+
+5\. Se présenter périodiquement aux services ou autorités désignés par le procureur européen délégué qui sont tenus d’observer la plus stricte discrétion sur les faits reprochés à la personne inculpée ;
+
+6\. Répondre aux convocations de toute autorité et de tout service désigné par le procureur européen délégué, et se soumettre, le cas échéant, aux mesures de contrôle portant sur ses activités professionnelles ou sur son assiduité à un enseignement ainsi qu’aux mesures socio-éducatives destinées à favoriser son insertion sociale et à prévenir la récidive ;
+
+7\. Remettre soit au greffe, soit à un service de police tous documents justificatifs de l’identité et, notamment, le passeport, en échange d’un récépissé valant justification de l’identité. Le modèle du récépissé est arrêté par règlement grand-ducal ;
+
+8\. S’abstenir de conduire tous les véhicules ou certains véhicules et, le cas échéant, remettre au greffe son permis de conduire contre récépissé ; toutefois, le procureur européen délégué peut décider que la personne inculpée pourra faire usage de son permis de conduire pour l’exercice de son activité professionnelle.
+
+9\. S’abstenir de recevoir ou de rencontrer certaines personnes spécialement désignées par le procureur européen délégué, ainsi que d’entrer en relation avec elles, de quelque façon que ce soit ;
+
+10\. Se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l’hospitalisation, notamment aux fins de désintoxication, sous réserve de l’article 24 de la [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie ;
+
+11\. Fournir un cautionnement dont le montant et les délais de versement, en une ou plusieurs fois, sont fixés par le procureur européen délégué, compte tenu notamment des ressources et des charges de la personne inculpée ;
+
+12\. Ne pas détenir ou porter une arme et, le cas échéant, remettre auprès d’un service de police contre récépissé les armes dont elle est détenteur ;
+
+13\. Contribuer aux charges familiales ou acquitter régulièrement les pensions alimentaires.
 
 Sur réquisitions du procureur européen délégué, le juge d’instruction peut placer une personne, soumise aux obligations visées à l’alinéa 2, points 1, 2 et 3, sous surveillance électronique au sens de l’article 690.
 
@@ -3422,12 +3549,17 @@ Jusqu’à cette décision il peut ordonner à tout moment la mainlevée du cont
 
 (2) Les mêmes droits appartiennent, sur demande afférente du procureur européen délégué, la personne inculpée ou prévenue entendue ou dûment appelée :
 
-1. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’enquête menée par le procureur européen délégué et jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen ;
-2. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-3. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-4. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-5. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-6. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+1\. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’enquête menée par le procureur européen délégué et jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen ;
+
+2\. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+3\. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+4\. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+5\. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+6\. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
 
 **Art. 136-46.**
 
@@ -3453,15 +3585,11 @@ Toutefois, si la mainlevée totale ou partielle du contrôle judiciaire a été 
 
 (1) Sans préjudice quant à toute mesure que le procureur européen délégué peut ordonner ou requérir sur le fondement de l’article 136-4, le procureur européen délégué peut, pour toute infraction pour laquelle il a décidé d’exercer sa compétence et par réquisitions écrites et motivées, requérir du juge d’instruction d’ordonner les mesures suivantes :
 
-1. perquisitions et saisies prévues au livre I
+1° perquisitions et saisies prévues au livre I <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section III ;
 
-   <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section III ;
-2. mesures spéciales de surveillance prévues au livre I
+2° mesures spéciales de surveillance prévues au livre I <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section VIII ;
 
-   <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section VIII ;
-3. mesures provisoires à l’égard des personnes morales prévues au livre I
-
-   <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section VIII-1.
+3° mesures provisoires à l’égard des personnes morales prévues au livre I <sup>er</sup> , titre III, chapitre I <sup>er</sup> , section VIII-1.
 
 (2) Sauf si autrement prévu dans le présent chapitre, ces mesures restent soumises aux conditions et modalités qui leur sont propres.
 
@@ -3471,8 +3599,9 @@ La notification et l’exécution des ordonnances sont faites par le procureur e
 
 (4) Le paragraphe 3 ne porte pas préjudice à :
 
-- la compétence que conserve le juge d’instruction, après concertation avec le procureur européen délégué, pour ordonner les mesures accessoires à l’acte d’enquête principal qui s’avèrent nécessaires pour assurer l’exécution utile de l’acte ;
-- la possibilité pour le procureur européen délégué de requérir du juge d’instruction de ne pas lui renvoyer immédiatement le dossier, s’il peut s’avérer prévisible que des actes d’enquête itératifs seront requis dans la suite immédiate de l’exécution de l’acte d’enquête précédent. Dans ce cas, le réquisitoire du procureur européen délégué fait expressément référence au maintien du dossier entre les mains du juge d’instruction conformément au présent paragraphe. À l’issue de la série de mesures qui auront le cas échéant été requises par le procureur européen délégué, le juge d’instruction renvoie le dossier au procureur européen.
+aash la compétence que conserve le juge d’instruction, après concertation avec le procureur européen délégué, pour ordonner les mesures accessoires à l’acte d’enquête principal qui s’avèrent nécessaires pour assurer l’exécution utile de l’acte ;
+
+bash la possibilité pour le procureur européen délégué de requérir du juge d’instruction de ne pas lui renvoyer immédiatement le dossier, s’il peut s’avérer prévisible que des actes d’enquête itératifs seront requis dans la suite immédiate de l’exécution de l’acte d’enquête précédent. Dans ce cas, le réquisitoire du procureur européen délégué fait expressément référence au maintien du dossier entre les mains du juge d’instruction conformément au présent paragraphe. À l’issue de la série de mesures qui auront le cas échéant été requises par le procureur européen délégué, le juge d’instruction renvoie le dossier au procureur européen.
 
 **Art. 136-49.**
 
@@ -3562,8 +3691,9 @@ La privation de liberté qui résulte de cette ordonnance ne peut, en aucun cas,
 
 Elle mentionne les éléments qui justifient l’ouverture d’un nouveau délai, à savoir :
 
-1. les indices graves de culpabilité relatifs à un crime ou à un délit ;
-2. les circonstances particulières de l’espèce, résultant de la complexité spécifique de l’affaire et du nombre de suspects en cause.
+1° les indices graves de culpabilité relatifs à un crime ou à un délit ;
+
+2° les circonstances particulières de l’espèce, résultant de la complexité spécifique de l’affaire et du nombre de suspects en cause.
 
 L’ordonnance de prolongation est notifiée à la personne privée de liberté dans un délai de vingt-quatre heures. Celui-ci commence à courir à partir du moment où la personne est privée de liberté. À défaut de signification régulière dans ce délai, la personne est libérée.
 
@@ -3619,12 +3749,17 @@ Toutefois, si la liberté provisoire a été accordée par la chambre du conseil
 
 (1) La mise en liberté peut être demandée à tout stade de la procédure, à savoir :
 
-1. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’enquête menée par le procureur européen délégué et jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen ;
-2. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-3. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-4. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
-5. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-6. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
+1\. à la chambre du conseil du tribunal d’arrondissement, pendant la période de l’enquête menée par le procureur européen délégué et jusqu’à la notification de la décision proposée par le procureur européen délégué, ensemble, s’il y a lieu, la décision de la chambre permanente compétente du Parquet européen ;
+
+2\. à la chambre correctionnelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+3\. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+4\. à la chambre criminelle du tribunal d’arrondissement, si l’affaire y est renvoyée ;
+
+5\. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+6\. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction, soit contre une décision d’une juridiction de jugement.
 
 (2) La requête est déposée au greffe de la juridiction appelée à statuer.
 
@@ -3704,8 +3839,9 @@ Si, après avoir obtenu sa liberté provisoire, l’inculpé cité ou ajourné n
 
 (2 *bis* ) La demande peut encore être introduite :
 
-1. Si le procureur européen délégué a procédé à l’inculpation de la personne soupçonnée d’avoir participé à l’infraction, par l’inculpé dans un délai de cinq jours ouvrables à partir de son inculpation ;
-2. Si le procureur européen délégué n’a pas procédé à l’inculpation de la personne soupçonnée d’avoir participé à l’infraction, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
+1° Si le procureur européen délégué a procédé à l’inculpation de la personne soupçonnée d’avoir participé à l’infraction, par l’inculpé dans un délai de cinq jours ouvrables à partir de son inculpation ;
+
+2° Si le procureur européen délégué n’a pas procédé à l’inculpation de la personne soupçonnée d’avoir participé à l’infraction, par le prévenu devant la juridiction de jugement, à peine de forclusion, avant toute demande, défense ou exception autre que les exceptions d’incompétence.
 
 (3) En cas de recours en nullité exercé devant la chambre du conseil du tribunal d’arrondissement ou de la Cour d’appel, la demande est communiquée aux autres parties en cause par la voie du greffe. Elle peut aussi être communiquée à des tiers, si ceux-ci peuvent être considérés comme étant intéressés. En cas de contestation, la chambre du conseil détermine quel tiers est, dans une affaire donnée, qualifié d’intéressé.
 
@@ -3879,13 +4015,19 @@ La connaissance des contraventions de police est attribuée au juge de paix, sui
 
 Les juges de paix connaîtront exclusivement,
 
-1. Des contraventions commises dans l'étendue du canton;
-2. ........
-3. Des contraventions à raison desquelles la partie qui réclame conclut, pour ses dommages-intérêts, à une somme indéterminée ou à une somme excédant 1 euro;
-4. Des contraventions forestières poursuivies à la requête des particuliers;
-5. Des injures verbales;
-6. Des affiches, annonces, ventes, distributions ou débits d'ouvrages, écrits ou gravures, contraires aux mœurs;
-7. De l'action contre les gens qui font le métier de deviner et pronostiquer, ou d'expliquer les songes.
+1° Des contraventions commises dans l'étendue du canton;
+
+2° ........
+
+3° Des contraventions à raison desquelles la partie qui réclame conclut, pour ses dommages-intérêts, à une somme indéterminée ou à une somme excédant 1 euro;
+
+4° Des contraventions forestières poursuivies à la requête des particuliers;
+
+5° Des injures verbales;
+
+6° Des affiches, annonces, ventes, distributions ou débits d'ouvrages, écrits ou gravures, contraires aux mœurs;
+
+7° De l'action contre les gens qui font le métier de deviner et pronostiquer, ou d'expliquer les songes.
 
 ##### Art. 140 — ([L. 31 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/31/n7/jo))
 
@@ -3911,8 +4053,9 @@ Le prévenu pourra renoncer d'avance aux délais.
 
 Si les délais prescrits aux alinéas précédents n'ont pas été observés, les règles suivantes seront applicables:
 
-1. Dans les cas où la partie citée ne se présente pas, la citation devra être déclarée nulle par le tribunal.
-2. Dans les cas où la partie citée se présente, la citation ne sera pas nulle mais le tribunal devra, sur demande de la partie citée, ordonner le renvoi à une audience ultérieure.
+1° Dans les cas où la partie citée ne se présente pas, la citation devra être déclarée nulle par le tribunal.
+
+2° Dans les cas où la partie citée se présente, la citation ne sera pas nulle mais le tribunal devra, sur demande de la partie citée, ordonner le renvoi à une audience ultérieure.
 
 Cette demande devra être présentée avant toute défense au fond.
 
@@ -4072,13 +4215,15 @@ Abrogés implicitement (Const., art. 86)
 
 #### Paragraphe III — De l'appel des jugements de police
 
-##### Art. 172. [^1-dispositionstemporaires] — ([L. 31 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/31/n7/jo))
+##### Art. 172.[^1-dispositionstemporaires] — ([L. 31 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/31/n7/jo))
 
 Les jugements rendus par les tribunaux de police seront, dans tous les cas, susceptibles d'appel de la part:
 
-1. du prévenu ou de la partie civilement responsable;
-2. de la partie civile quant à ses intérêts civils seulement;
-3. du procureur d'Etat.
+1\) du prévenu ou de la partie civilement responsable;
+
+2\) de la partie civile quant à ses intérêts civils seulement;
+
+3\) du procureur d'Etat.
 
 L'appel sera porté devant le tribunal correctionnel. Il sera formé, poursuivi et jugé dans la même forme que les appels de jugements rendus en matière correctionnelle.
 
@@ -4126,57 +4271,39 @@ Il en rendra un compte sommaire au procureur général près la cour impériale 
 
 (3) ([L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) Sont jugés dans les conditions énoncées au paragraphe précédent, les délits prévus ou visés :
 
-1. pour violation de l’obligation de travail d’intérêt général prévue à l’article 22 du
+1° pour violation de l’obligation de travail d’intérêt général prévue à l’article 22 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-2. par les articles 269 à 271 du
+2° par les articles 269 à 271 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-3. par les articles 275 à 282 du
+3° par les articles 275 à 282 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-4. par les articles 327 à 330-1 du
+4° par les articles 327 à 330-1 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-5. par l’article 371-1 du
+5° par l’article 371-1 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-6. par l’article 385 du
+6° par l’article 385 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-7. par l’article 391
+7° par l’article 391 *bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   \*bis* du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-8. par les articles 398 et 399 du
+8° par les articles 398 et 399 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-9. par l’article 491, alinéa 2, du
+9° par l’article 491, alinéa 2, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-10. par l’article 507 du
+10° par l’article 507 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-11. par l’article 528 du
+11° par l’article 528 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ;
-12. par la
+12° par la [loi modifiée du 14 février 1955](https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n3/jo) concernant la réglementation de la circulation sur toutes les voies publiques ;
 
-   [loi modifiée du 14 février 1955](https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n3/jo) concernant la réglementation de la circulation sur toutes les voies publiques ;
-13. par les articles 28 à 30 de la
+13° par les articles 28 à 30 de la [loi modifiée du 16 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/jo) relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs ;
 
-   [loi modifiée du 16 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/jo) relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs ;
-14. par l’article 12 de la
+14° par l’article 12 de la [loi modifiée du 25 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/jo) portant création du système de contrôle et de sanction automatisés ;
 
-   [loi modifiée du 25 juillet 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/jo) portant création du système de contrôle et de sanction automatisés ;
-15. par les articles 13 et 18 du
+15° par les articles 13 et 18 du [règlement grand-ducal du 13 janvier 1966](https://legilux.public.lu/eli/etat/leg/rgd/1966/01/13/n1/jo) concernant les transports rémunérés de marchandises par route ;
 
-   [règlement grand-ducal du 13 janvier 1966](https://legilux.public.lu/eli/etat/leg/rgd/1966/01/13/n1/jo) concernant les transports rémunérés de marchandises par route ;
-16. par l’article 13 du
+16° par l’article 13 du [règlement grand-ducal du 16 juin 2011](https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/jo) concernant les modalités et les sanctions relatives à l’installation et l’utilisation des tachygraphes ;
 
-   [règlement grand-ducal du 16 juin 2011](https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/jo) concernant les modalités et les sanctions relatives à l’installation et l’utilisation des tachygraphes ;
-17. par les articles 6 et 7 du
-
-   [règlement grand-ducal du 19 avril 2012](https://legilux.public.lu/eli/etat/leg/rgd/2012/04/19/n4/jo) relatif à l’accès au marché du transport international de marchandises par route.
+17° par les articles 6 et 7 du [règlement grand-ducal du 19 avril 2012](https://legilux.public.lu/eli/etat/leg/rgd/2012/04/19/n4/jo) relatif à l’accès au marché du transport international de marchandises par route.
 
 Sont également jugés dans les conditions énoncées au paragraphe 2, les appels contre les jugements du tribunal de police.
 
@@ -4222,12 +4349,13 @@ La citation sera donnée dans les délais prévus par l'article 146. Si ces dél
 
 ([L. 8 mars 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a346/jo)) La citation informe le prévenu:
 
-1. de la nature, de la qualification juridique et de la date présumée de l’infraction qui lui est reprochée, ainsi que de la nature présumée de sa participation à cette infraction; en cas de saisine de la chambre correctionnelle par renvoi, cette information est faite à suffisance de droit par la notification de la décision de renvoi en vertu de l’article 127, paragraphe 9,
-2. des dispositions des articles 185, 187 et 188,
-3. (
+a) de la nature, de la qualification juridique et de la date présumée de l’infraction qui lui est reprochée, ainsi que de la nature présumée de sa participation à cette infraction; en cas de saisine de la chambre correctionnelle par renvoi, cette information est faite à suffisance de droit par la notification de la décision de renvoi en vertu de l’article 127, paragraphe 9,
 
-   [L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même, ainsi que
-4. des droits conférés par les articles 3-2, 3-3 et 3-6.
+b) des dispositions des articles 185, 187 et 188,
+
+c) ([L. du 10 août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a795/jo)) de son droit de faire des déclarations et de répondre aux questions qui lui sont posées ou de se taire, de son droit de ne pas s’incriminer soi-même, ainsi que
+
+d) des droits conférés par les articles 3-2, 3-3 et 3-6.
 
 #### Art. 185 — ([L. 27 juin 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/06/27/n1/jo))
 
@@ -4433,12 +4561,15 @@ Seront également portés à ladite cour les appels des jugements rendus en poli
 
 Les jugements rendus par les tribunaux correctionnels seront susceptibles d'appel de la part:
 
-1. du prévenu ou de la partie civilement responsable;
-2. de la partie civile quant à ses intérêts civils seulement;
-3. du procureur d'Etat;
-4. du procureur général d'Etat.
+1\) du prévenu ou de la partie civilement responsable;
 
-#### Art. 203. [^1-dispositionstemporaires] — ([L. 31 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/31/n7/jo)) ([L. du 20 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/jo))
+2\) de la partie civile quant à ses intérêts civils seulement;
+
+3\) du procureur d'Etat;
+
+4\) du procureur général d'Etat.
+
+#### Art. 203.[^1-dispositionstemporaires] — ([L. 31 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/31/n7/jo)) ([L. du 20 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/jo))
 
 Le délai d'appel sera de quarante jours. Il sera également de quarante jours pour le procureur général d'Etat.
 
@@ -4460,7 +4591,7 @@ En cas d'appel d'une des parties pendant le délai imparti à l'alinéa 1er, les
 
 Pendant ces délais et pendant l'instance d'appel, il sera sursis à l'exécution du jugement.
 
-#### Art. 204. [^1-dispositionstemporaires]
+#### Art. 204.[^1-dispositionstemporaires]
 
 La requête contenant les moyens d'appel pourra être remise, dans le même délai, au même greffe; elle sera signée de l'appelant, ou d'un avoué, ou de tout autre fondé de pouvoir spécial.
 
@@ -4556,11 +4687,11 @@ Les chambres criminelles des tribunaux d’arrondissement connaissent des crimes
 
 ([L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo)) Les débats ne peuvent être interrompus en raison d’un recours éventuel contre une décision sur incident.
 
-#### Art. 221. [^1-dispositionstemporaires]
+#### Art. 221.[^1-dispositionstemporaires]
 
 ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo)) L'appel des jugements de la chambre criminelle du tribunal est porté devant la chambre criminelle de la cour d'appel.
 
-#### Art. 222. [^1-dispositionstemporaires]
+#### Art. 222.[^1-dispositionstemporaires]
 
 ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo)) Pour le surplus, et dans la mesure où elles ne sont pas contraires aux dispositions des [articles 217 à 221](https://legilux.public.lu/eli/etat/leg/code/procedure_penale/art_217--221), les règles de procédure applicables aux chambres correctionnelles sont communes aux chambres criminelles.
 
@@ -4634,12 +4765,13 @@ Abrogés ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/1
 
 (1) Lorsque la citation ou la notification sont faites par le procureur général d'Etat ou par le procureur d'Etat, la remise d'une copie de l'acte est constatée par un procès-verbal indiquant:
 
-- la date,
-- les noms, prénoms et qualité du magistrat instrumentant,
-- (
+aash la date,
 
-  [L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) les noms, prénoms et adresse du destinataire de l'acte, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège,
-- l'objet de l'acte.
+bash les noms, prénoms et qualité du magistrat instrumentant,
+
+cash ([L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) les noms, prénoms et adresse du destinataire de l'acte, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège,
+
+dash l'objet de l'acte.
 
 (2) ([L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Le procès-verbal est signé par le magistrat et par le destinataire de l’acte, ou, si le destinataire est une personne morale, par son représentant légal, un fondé de pouvoir de ce dernier ou toute autre personne habilitée à cet effet. Si le destinataire ne veut ou ne peut signer, il en est fait mention.
 
@@ -4649,14 +4781,17 @@ Abrogés ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/1
 
 (1) Lorsque la citation ou la notification sont faites par un agent de la force publique, la remise d'une copie de l'acte est constatée par un procès-verbal indiquant:
 
-- la date,
-- l'autorité requérante,
-- les noms, prénoms et grade de l'agent instrumentant,
-- (
+aash la date,
 
-  [L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) les noms, prénoms, profession, domicile ou résidence du destinataire de l’acte, pour autant que le domicile ou la résidence sont connus, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège pour autant que le siège est connu,
-- les nom, prénoms et adresse de la personne à laquelle l'acte a été remis,
-- l'objet de l'acte.
+bash l'autorité requérante,
+
+cash les noms, prénoms et grade de l'agent instrumentant,
+
+dash ([L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) les noms, prénoms, profession, domicile ou résidence du destinataire de l’acte, pour autant que le domicile ou la résidence sont connus, ou, si le destinataire est une personne morale, sa dénomination, sa forme et son siège pour autant que le siège est connu,
+
+eash les nom, prénoms et adresse de la personne à laquelle l'acte a été remis,
+
+fash l'objet de l'acte.
 
 (2) Le procès-verbal est signé par l'agent et par la personne à laquelle l'acte a été remis. Si cette dernière ne veut ou ne peut signer, il en est fait mention.
 
@@ -4664,11 +4799,15 @@ Abrogés ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/1
 
 (1) Lorsque la citation ou la notification sont faites par un membre du personnel de l’administration pénitentiaire, des dépôts de mendicité ou des maisons d'éducation, la remise d'une copie de l'acte est constatée par un procès-verbal indiquant:
 
-- la date,
-- l'autorité requérante,
-- les nom, prénoms et grade de l'agent instrumentant,
-- les nom et prénoms du destinataire de l'acte,
-- l'objet de l'acte.
+aash la date,
+
+bash l'autorité requérante,
+
+cash les nom, prénoms et grade de l'agent instrumentant,
+
+dash les nom et prénoms du destinataire de l'acte,
+
+eash l'objet de l'acte.
 
 (2) Le procès-verbal est signé par l'agent instrumentant et par le destinataire de l'acte. Si celui-ci ne veut ou ne peut signer, il en est fait mention.
 
@@ -4768,29 +4907,29 @@ Toute élection de domicile est valable jusqu’à nouvelle élection de domicil
 
 #### Art. 394 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
-1. (
+a) ([L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) Lorsqu'une infraction est punissable d'une peine correctionnelle ou d'une peine de police et que le procureur d'Etat estime ne devoir requérir qu'une amende, la fixation de la peine peut être faite, sur ses réquisitions écrites et sans débats préalables, par une ordonnance rendue par le tribunal correctionnel statuant en chambre du conseil dans la formation d’un juge unique ou par le juge de police suivant que l'infraction constitue un délit ou une contravention.
 
-   [L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) Lorsqu'une infraction est punissable d'une peine correctionnelle ou d'une peine de police et que le procureur d'Etat estime ne devoir requérir qu'une amende, la fixation de la peine peut être faite, sur ses réquisitions écrites et sans débats préalables, par une ordonnance rendue par le tribunal correctionnel statuant en chambre du conseil dans la formation d’un juge unique ou par le juge de police suivant que l'infraction constitue un délit ou une contravention.
-2. (
+b) ([L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) Lorsque l'infraction constitue un délit, l'amende prononcée par ordonnance pénale ne peut excéder 15.000 euros.
 
-   [L. 9 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/09/a861/jo)) Lorsque l'infraction constitue un délit, l'amende prononcée par ordonnance pénale ne peut excéder 15.000 euros.
-3. (
+c) ([L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo)) En cas d'infraction contre la réglementation de la circulation des véhicules sur la voie publique ou de délits qui se sont joints à ces infractions, une interdiction de conduire peut être prononcée par l'ordonnance pénale.
 
-   [L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo)) En cas d'infraction contre la réglementation de la circulation des véhicules sur la voie publique ou de délits qui se sont joints à ces infractions, une interdiction de conduire peut être prononcée par l'ordonnance pénale.
-4. Sur les réquisitions écrites du procureur d'Etat, le tribunal correctionnel ou le juge de police peuvent ordonner qu'il sera sursis à l'exécution de tout ou partie des peines prononcées par ordonnance pénale. Les articles 626, alinéa 2, 627, 628, alinéas 1er, 4, 5 et 6, 628-2 et 628-3 sont applicables.
-5. L'ordonnance ordonne, s'il y a lieu et même d'office, la confiscation et statue sur la contrainte par corps et les frais, lesquels sont liquidés dans l'ordonnance.
+d) Sur les réquisitions écrites du procureur d'Etat, le tribunal correctionnel ou le juge de police peuvent ordonner qu'il sera sursis à l'exécution de tout ou partie des peines prononcées par ordonnance pénale. Les articles 626, alinéa 2, 627, 628, alinéas 1er, 4, 5 et 6, 628-2 et 628-3 sont applicables.
+
+e) L'ordonnance ordonne, s'il y a lieu et même d'office, la confiscation et statue sur la contrainte par corps et les frais, lesquels sont liquidés dans l'ordonnance.
 
 #### Art. 395 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
 L'ordonnance pénale est exclue:
 
-1. lorsqu'il y a constitution de partie civile;
-2. lorsque le juge d'instruction est saisi;
-3. lorsque le domicile ou la résidence du prévenu sont inconnus;
-4. (
+a) lorsqu'il y a constitution de partie civile;
 
-   [L. 17 mai 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a503/jo)) lorsque le dommage corporel causé à autrui n’est pas réparé;
-5. lorsque les effets qui doivent être restitués ne l'ont pas été.
+b) lorsque le juge d'instruction est saisi;
+
+c) lorsque le domicile ou la résidence du prévenu sont inconnus;
+
+d) ([L. 17 mai 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a503/jo)) lorsque le dommage corporel causé à autrui n’est pas réparé;
+
+e) lorsque les effets qui doivent être restitués ne l'ont pas été.
 
 #### Art. 396 — ([L. 6 mars 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/03/06/n2/jo))
 
@@ -4798,20 +4937,29 @@ L'ordonnance pénale est exclue:
 
 #### Art. 397 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
-1. Le greffier de la juridiction saisie de la requête constate le dépôt de celle-ci sur un registre coté et paraphé respectivement par le président du tribunal d'arrondissement et par le juge de paix directeur ou par l'un des juges qui les remplace.
-2. Ce registre renseigne:
+a) Le greffier de la juridiction saisie de la requête constate le dépôt de celle-ci sur un registre coté et paraphé respectivement par le président du tribunal d'arrondissement et par le juge de paix directeur ou par l'un des juges qui les remplace.
 
-   1. Le numéro d'ordre;
-   2. La date du dépôt de la requête;
-   3. les noms, prénoms, âge, profession, lieu de naissance et domicile des prévenus;
-   4. la nature de l'infraction;
-   5. les peines requises par le procureur d'Etat et prononcées par le juge;
-   6. La date:
+b) Ce registre renseigne:
 
-      1. de l'ordonnance du juge,
-      2. de la notification de cette ordonnance,
-      3. de la transmission de l'extrait du parquet conformément à l'article 216-10 ,
-      4. de l'opposition.
+1\. Le numéro d'ordre;
+
+2\. La date du dépôt de la requête;
+
+3\. les noms, prénoms, âge, profession, lieu de naissance et domicile des prévenus;
+
+4\. la nature de l'infraction;
+
+5\. les peines requises par le procureur d'Etat et prononcées par le juge;
+
+6\. La date:
+
+a) de l'ordonnance du juge,
+
+b) de la notification de cette ordonnance,
+
+c) de la transmission de l'extrait du parquet conformément à l'article 216-10 ,
+
+d) de l'opposition.
 
 #### Art. 398 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
@@ -4821,11 +4969,15 @@ Si la juridiction n'agrée pas ces propositions, l'affaire est portée à l'audi
 
 #### Art. 399 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
-1. L'ordonnance indique, outre les condamnations qu'elle porte, les circonstances constitutives de l'infraction et les dispositions légales qu'elle applique.
-2. Elle mentionne le délai et la forme dans lesquels elle est susceptible d'opposition ainsi que la juridiction devant laquelle l'opposition doit être portée.
-3. Elle mentionne également le délai et la forme dans lesquels elle est susceptible d'appel ainsi que la juridiction devant laquelle l'appel doit être porté.
-4. Elle reproduit le texte des alinéas 1er et 3 de l'article 216-8 .
-5. Dans le cas où le sursis à l'exécution de tout ou partie des peines prononcées a été ordonné, l'ordonnance indique qu'en cas de nouvelle condamnation dans les conditions des articles 627 et 628, la première peine sera d'abord exécutée sans qu'elle puisse se confondre avec la seconde.
+a) L'ordonnance indique, outre les condamnations qu'elle porte, les circonstances constitutives de l'infraction et les dispositions légales qu'elle applique.
+
+b) Elle mentionne le délai et la forme dans lesquels elle est susceptible d'opposition ainsi que la juridiction devant laquelle l'opposition doit être portée.
+
+c) Elle mentionne également le délai et la forme dans lesquels elle est susceptible d'appel ainsi que la juridiction devant laquelle l'appel doit être porté.
+
+d) Elle reproduit le texte des alinéas 1er et 3 de l'article 216-8 .
+
+e) Dans le cas où le sursis à l'exécution de tout ou partie des peines prononcées a été ordonné, l'ordonnance indique qu'en cas de nouvelle condamnation dans les conditions des articles 627 et 628, la première peine sera d'abord exécutée sans qu'elle puisse se confondre avec la seconde.
 
 #### Art. 400 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
@@ -4833,13 +4985,13 @@ Si la juridiction n'agrée pas ces propositions, l'affaire est portée à l'audi
 
 #### Art. 401 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
-1. L'ordonnance est assimilée, dans ses effets, à un jugement par défaut.
-2. ([L. 17 mai 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a503/jo)) Pour les affaires qui sont de la compétence du tribunal de police, l’opposition du prévenu se fait dans les formes et délais de l’article 151. Pour les affaires qui sont de la compétence du tribunal correctionnel, elle se fait dans les formes et délais de l’article 187.
+a) L'ordonnance est assimilée, dans ses effets, à un jugement par défaut.
 
-   Dans la mesure où l’intéressé a accepté la notification de l’ordonnance pénale sous forme électronique sécurisée, la notification de l’opposition peut également être faite par cette voie.
-3. L'ordonnance est susceptible d'appel. Appel doit être interjeté, pour les ordonnances pénales qui sont de la compétence du tribunal de police, dans les formes et délais des
+b) ([L. 17 mai 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a503/jo)) Pour les affaires qui sont de la compétence du tribunal de police, l’opposition du prévenu se fait dans les formes et délais de l’article 151. Pour les affaires qui sont de la compétence du tribunal correctionnel, elle se fait dans les formes et délais de l’article 187.
 
-   [articles 172, 173 et 174 du Code de procédure pénale](https://legilux.public.lu/eli/etat/leg/code/procedure_penale/art_172). Pour les ordonnances pénales qui sont de la compétence du tribunal correctionnel, l'appel se fait dans les formes et délais des articles 199 et suivants.
+Dans la mesure où l’intéressé a accepté la notification de l’ordonnance pénale sous forme électronique sécurisée, la notification de l’opposition peut également être faite par cette voie.
+
+c) L'ordonnance est susceptible d'appel. Appel doit être interjeté, pour les ordonnances pénales qui sont de la compétence du tribunal de police, dans les formes et délais des [articles 172, 173 et 174 du Code de procédure pénale](https://legilux.public.lu/eli/etat/leg/code/procedure_penale/art_172). Pour les ordonnances pénales qui sont de la compétence du tribunal correctionnel, l'appel se fait dans les formes et délais des articles 199 et suivants.
 
 #### Art. 402 — ([L. 7 septembre 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/09/07/n12/jo))
 
@@ -4951,21 +5103,25 @@ Abrogés ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/1
 
 La révision peut être demandée, quelle que soit la juridiction qui ait statué, au bénéfice de toute personne reconnue auteur d'un crime ou d'un délit par une décision définitive rendue en premier ou en dernier ressort.
 
-1. lorsque, après une condamnation pour homicide, des pièces sont représentées propres a faire naître de suffisants indices sur l'existence de la prétendue victime de l'homicide;
-2. lorsque, après une condamnation pour crime ou délit, un nouvel arrêt ou jugement définitif a condamné pour le même fait un autre accusé ou prévenu et que, les deux condamnations ne pouvant se concilier, leur contradiction est la preuve de l'innocence de l'un ou de l'autre condamné;
-3. lorsqu'un des témoins entendus a été, postérieurement à la condamnation, poursuivi et condamné pour faux témoignage contre l'accusé ou le prévenu; le témoin ainsi condamné ne peut pas être entendu dans les nouveaux débats;
-4. lorsque, après une condamnation, un fait vient à se produire ou à se révéler ou lorsque des pièces inconnues lors des débats sont représentées, de nature a établir l'innocence totale ou partielle du condamné;
-5. (
+1° lorsque, après une condamnation pour homicide, des pièces sont représentées propres a faire naître de suffisants indices sur l'existence de la prétendue victime de l'homicide;
 
-   [L. 5 juillet 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/07/05/n1/jo)) lorsqu'il résulte d'un arrêt de la cour européenne des Droits de l'Homme rendu en application de la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales qu'une condamnation pénale a été prononcée en violation de cette Convention.
+2° lorsque, après une condamnation pour crime ou délit, un nouvel arrêt ou jugement définitif a condamné pour le même fait un autre accusé ou prévenu et que, les deux condamnations ne pouvant se concilier, leur contradiction est la preuve de l'innocence de l'un ou de l'autre condamné;
+
+3° lorsqu'un des témoins entendus a été, postérieurement à la condamnation, poursuivi et condamné pour faux témoignage contre l'accusé ou le prévenu; le témoin ainsi condamné ne peut pas être entendu dans les nouveaux débats;
+
+4° lorsque, après une condamnation, un fait vient à se produire ou à se révéler ou lorsque des pièces inconnues lors des débats sont représentées, de nature a établir l'innocence totale ou partielle du condamné;
+
+5° ([L. 5 juillet 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/07/05/n1/jo)) lorsqu'il résulte d'un arrêt de la cour européenne des Droits de l'Homme rendu en application de la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales qu'une condamnation pénale a été prononcée en violation de cette Convention.
 
 ##### Art. 444 — ([L. 30 avril 1981](https://legilux.public.lu/eli/etat/leg/loi/1981/04/30/n3/jo))
 
 Le droit de demander la révision appartient:
 
-1. au ministre de la Justice,
-2. au condamné ou, en cas d'incapacité, à son représentant légal,
-3. après la mort ou l'absence déclarée du condamné à son conjoint, à ses descendants, à ses ascendants, à ses frères et sœurs, à ses légataires universels ou, à titre universel, à ceux qui en ont reçu de lui la mission formelle et écrite
+1° au ministre de la Justice,
+
+2° au condamné ou, en cas d'incapacité, à son représentant légal,
+
+3° après la mort ou l'absence déclarée du condamné à son conjoint, à ses descendants, à ses ascendants, à ses frères et sœurs, à ses légataires universels ou, à titre universel, à ceux qui en ont reçu de lui la mission formelle et écrite
 
 La cour supérieure de justice, siégeant comme cour de cassation, est saisie par le procureur général d'Etat en vertu de l'ordre exprès que le ministre de la Justice a donné soit d'office, soit sur la réclamation des parties.
 
@@ -5399,11 +5555,15 @@ En cas de caducité, toutes les pièces relatives à l’accord sont détruites.
 
 L’accord est conclu par un acte qui énumère d’abord tous les faits visés par l’accord, puis ceux d’entre eux que la personne poursuivie reconnaît avoir commis, et qui opère la saisine de la chambre correctionnelle. Cet acte spécifie:
 
-- la qualification pénale des faits reconnus par la personne poursuivie,
-- les circonstances atténuantes à retenir le cas échéant,
-- les peines principales et accessoires à prononcer, les peines proposées devant être de nature correctionnelle et ne pouvant dépasser en aucun cas une durée d’emprisonnement de cinq ans,
-- la décision à prendre sur les restitutions et les frais de la poursuite pénale,
-- la décision à prendre sur les demandes indemnitaires d’ores et déjà présentées, comportant la condamnation au paiement, dans un délai déterminé, des montants reconnus par la personne poursuivie.
+aash la qualification pénale des faits reconnus par la personne poursuivie,
+
+bash les circonstances atténuantes à retenir le cas échéant,
+
+cash les peines principales et accessoires à prononcer, les peines proposées devant être de nature correctionnelle et ne pouvant dépasser en aucun cas une durée d’emprisonnement de cinq ans,
+
+dash la décision à prendre sur les restitutions et les frais de la poursuite pénale,
+
+eash la décision à prendre sur les demandes indemnitaires d’ores et déjà présentées, comportant la condamnation au paiement, dans un délai déterminé, des montants reconnus par la personne poursuivie.
 
 L’acte d’accord énonce les nom, prénoms, date de naissance et domicile de la personne poursuivie.
 
@@ -5543,13 +5703,19 @@ Si la demande émane de l’inculpé, du prévenu ou de la partie civile, elle e
 
 (2) La requête en aliénation d’un bien saisi est adressée :
 
-1. à la chambre du conseil du tribunal d’arrondissement, si une instruction est soit en cours soit terminée par une ordonnance de non-lieu non frappée d’un recours ou si, à défaut d’instruction, aucune juridiction répressive n’est saisie ;
-2. à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre une ordonnance de renvoi ou de non-lieu ;
-3. à la chambre correctionnelle du tribunal d’arrondissement, si elle est saisie soit par une ordonnance de renvois soit par une citation directe ;
-4. à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-5. à la chambre criminelle du tribunal d’arrondissement, si elle est saisie par une ordonnance de renvoi ;
-6. à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
-7. à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction soit contre une décision d’une juridiction de jugement.
+1° à la chambre du conseil du tribunal d’arrondissement, si une instruction est soit en cours soit terminée par une ordonnance de non-lieu non frappée d’un recours ou si, à défaut d’instruction, aucune juridiction répressive n’est saisie ;
+
+2° à la chambre du conseil de la Cour d’appel, si elle est saisie d’un recours contre une ordonnance de renvoi ou de non-lieu ;
+
+3° à la chambre correctionnelle du tribunal d’arrondissement, si elle est saisie soit par une ordonnance de renvois soit par une citation directe ;
+
+4° à la chambre correctionnelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+5° à la chambre criminelle du tribunal d’arrondissement, si elle est saisie par une ordonnance de renvoi ;
+
+6° à la chambre criminelle de la Cour d’appel, si appel a été interjeté sur le fond ;
+
+7° à la chambre correctionnelle de la Cour d’appel, si un pourvoi en cassation a été formé soit contre une décision d’une juridiction d’instruction soit contre une décision d’une juridiction de jugement.
 
 (3) Si la demande émane de l’inculpé, du prévenu ou de la partie civile, elle est communiquée à l’autre partie ainsi qu’au ministère public. Si elle émane d’un tiers, elle est communiquée à l’inculpé, au prévenu et au ministère public.
 
@@ -5661,8 +5827,9 @@ Tout agent pénitentiaire qui aura refusé, ou de montrer la personne du détenu
 
 La mise à l'épreuve d'un délinquant se réalise:
 
-1. par la suspension du prononcé de la condamnation;
-2. par le sursis à l'exécution des peines.
+1\. par la suspension du prononcé de la condamnation;
+
+2\. par le sursis à l'exécution des peines.
 
 Ces mesures peuvent s'accompagner de conditions particulières; en ce cas, elles s'appellent respectivement «suspension probatoire» et «sursis probatoire»; en l'absence de conditions particulières, elles s'appellent «suspension simple» et «sursis simple».
 
@@ -5864,10 +6031,13 @@ Le procureur général d'Etat est assisté à cet effet par les agents du servic
 
 Les mesures de surveillance imposées au prévenu et au condamné placés respectivement sous le régime de la suspension probatoire et sous celui du sursis probatoire sont les suivantes:
 
-1. répondre aux convocations du procureur général d'Etat ou des agents du service central d'assistance sociale;
-2. recevoir les visites des agents du service central d'assistance sociale et leur communiquer les renseignements ou documents de nature à permettre le contrôle de leurs moyens d'existence;
-3. justifier éventuellement des motifs de leurs changements d'emploi ou de résidence;
-4. prévenir le service central d'assistance sociale des changements de résidence.
+1\) répondre aux convocations du procureur général d'Etat ou des agents du service central d'assistance sociale;
+
+2\) recevoir les visites des agents du service central d'assistance sociale et leur communiquer les renseignements ou documents de nature à permettre le contrôle de leurs moyens d'existence;
+
+3\) justifier éventuellement des motifs de leurs changements d'emploi ou de résidence;
+
+4\) prévenir le service central d'assistance sociale des changements de résidence.
 
 ###### Art. 633-6 — ([L. 26 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n3/jo))
 
@@ -5879,12 +6049,17 @@ Elles s'exercent sous la forme de guidance et, s'il y a lieu, de l'aide matérie
 
 La décision plaçant le prévenu sous le régime de la suspension probatoire ou le condamné sous celui du sursis probatoire peut leur imposer l'observation d'une ou de plusieurs obligations et notamment celles:
 
-1. d'exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle;
-2. d'établir sa résidence en un lieu déterminé;
-3. de se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication;
-4. de contribuer aux charges familiales ou d'acquitter régulièrement les pensions alimentaires;
-5. de réparer les dommages causés par l'infraction;
-6. d'exécuter certains travaux dans l'intérêt de la communauté selon les modalités à fixer par le procureur général d'Etat.
+1\) d'exercer une activité professionnelle ou suivre un enseignement ou une formation professionnelle;
+
+2\) d'établir sa résidence en un lieu déterminé;
+
+3\) de se soumettre à des mesures de contrôle, de traitement ou de soins, même sous le régime de l'hospitalisation, notamment aux fins de désintoxication;
+
+4\) de contribuer aux charges familiales ou d'acquitter régulièrement les pensions alimentaires;
+
+5\) de réparer les dommages causés par l'infraction;
+
+6\) d'exécuter certains travaux dans l'intérêt de la communauté selon les modalités à fixer par le procureur général d'Etat.
 
 ###### Art. 634 — ([L. 12 avril 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/04/12/n8/jo))
 
@@ -5892,9 +6067,11 @@ Les dispositions concernant la suspension simple et le sursis simple sont applic
 
 Celles concernant la suspension probatoire et le sursis probatoire sont applicables à l’étranger n’habitant pas le Grand-Duché de Luxembourg s’il a sa résidence légale habituelle:
 
-- dans un autre Etat membre de l’Union européenne, ou
-- dans un Etat qui a ratifié la Convention européenne pour la surveillance des personnes condamnées ou libérées sous condition, ou
-- dans un Etat lié au Grand-Duché de Luxembourg par une convention relative à l’exécution des peines ou à la suspension probatoire.
+aash dans un autre Etat membre de l’Union européenne, ou
+
+bash dans un Etat qui a ratifié la Convention européenne pour la surveillance des personnes condamnées ou libérées sous condition, ou
+
+cash dans un Etat lié au Grand-Duché de Luxembourg par une convention relative à l’exécution des peines ou à la suspension probatoire.
 
 ###### Art. 634-1 — ([L. 26 juillet 1986](https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n3/jo))
 
@@ -5980,24 +6157,31 @@ La réhabilitation est soit acquise de plein droit, soit accordée sur demande p
 
 (1) Elle est acquise de plein droit à la personne physique condamnée qui n’a, dans les délais ci-après déterminés, dans le pays ou à l’étranger subi aucune condamnation nouvelle à l’emprisonnement ou à une peine plus grave pour crime ou délit, pour des faits prévus par les lois pénales luxembourgeoises :
 
-1. pour toute condamnation à des peines de police, après un délai de cinq ans ;
-2. pour la condamnation unique à une peine d’emprisonnement ne dépassant pas six mois, ou la condamnation à une amende correctionnelle, ou la condamnation à une sanction pénale autre que l’emprisonnement ou l’amende, après un délai de dix ans ;
-3. pour la condamnation unique à une peine d’emprisonnement ne dépassant pas deux ans ou les condamnations multiples dont l’ensemble ne dépasse pas un an, après un délai de quinze ans ;
-4. pour la condamnation unique à une peine privative de liberté supérieure à deux ans ou pour les condamnations multiples dont l’ensemble ne dépasse pas deux ans, après un délai de vingt ans.
+a) pour toute condamnation à des peines de police, après un délai de cinq ans ;
+
+b) pour la condamnation unique à une peine d’emprisonnement ne dépassant pas six mois, ou la condamnation à une amende correctionnelle, ou la condamnation à une sanction pénale autre que l’emprisonnement ou l’amende, après un délai de dix ans ;
+
+c) pour la condamnation unique à une peine d’emprisonnement ne dépassant pas deux ans ou les condamnations multiples dont l’ensemble ne dépasse pas un an, après un délai de quinze ans ;
+
+d) pour la condamnation unique à une peine privative de liberté supérieure à deux ans ou pour les condamnations multiples dont l’ensemble ne dépasse pas deux ans, après un délai de vingt ans.
 
 Les condamnations, ayant donné lieu à une confusion des peines sont, pour l’application des dispositions qui précèdent, considérées comme constituant une condamnation unique. Pour le calcul du délai de réhabilitation, il y a lieu de prendre en considération la dernière condamnation en date.
 
 (2) Elle est acquise de plein droit à la personne morale condamnée qui n’a, dans les délais ci-après déterminés, dans le pays ou à l’étranger subi aucune condamnation nouvelle à une amende correctionnelle ou à une peine plus grave pour crime ou délit, pour des faits prévus par les lois pénales luxembourgeoises :
 
-1. pour la condamnation unique à une amende correctionnelle ne dépassant pas 18.000 euros, ou la condamnation à une sanction pénale autre que l’amende, après un délai de dix ans ;
-2. pour la condamnation unique à une amende correctionnelle ne dépassant pas 72.000 euros ou les condamnations multiples dont l’ensemble ne dépasse pas 36.000 euros, après un délai de quinze ans ;
-3. pour la condamnation unique à une amende criminelle supérieure à 72.000 euros ou pour les condamnations multiples dont l’ensemble ne dépasse pas 72.000 euros, après un délai de vingt ans.
+a) pour la condamnation unique à une amende correctionnelle ne dépassant pas 18.000 euros, ou la condamnation à une sanction pénale autre que l’amende, après un délai de dix ans ;
+
+b) pour la condamnation unique à une amende correctionnelle ne dépassant pas 72.000 euros ou les condamnations multiples dont l’ensemble ne dépasse pas 36.000 euros, après un délai de quinze ans ;
+
+c) pour la condamnation unique à une amende criminelle supérieure à 72.000 euros ou pour les condamnations multiples dont l’ensemble ne dépasse pas 72.000 euros, après un délai de vingt ans.
 
 (3) Les délais commencent à courir :
 
-1. En cas de condamnation à une amende, du jour où la condamnation a acquis force de chose jugée ;
-2. En cas de condamnation à une peine privative de liberté, du jour de l’expiration de la peine subie ou de la prescription accomplie ;
-3. En cas de condamnation à une sanction pénale autre que l’emprisonnement ou l’amende du jour de l’expiration de la peine ou de la sanction subie ou de la prescription accomplie.
+a) En cas de condamnation à une amende, du jour où la condamnation a acquis force de chose jugée ;
+
+b) En cas de condamnation à une peine privative de liberté, du jour de l’expiration de la peine subie ou de la prescription accomplie ;
+
+c) En cas de condamnation à une sanction pénale autre que l’emprisonnement ou l’amende du jour de l’expiration de la peine ou de la sanction subie ou de la prescription accomplie.
 
 La remise totale ou partielle d’une peine par voie de grâce équivaut à son exécution totale ou partielle.
 
@@ -6063,8 +6247,9 @@ Lorsque la personne physique condamnée réside à l’étranger, la demande est
 
 La demande précise:
 
-1. la date de la condamnation;
-2. les lieux où la personne physique condamnée a résidé depuis la condamnation.
+1° la date de la condamnation;
+
+2° les lieux où la personne physique condamnée a résidé depuis la condamnation.
 
 (2) La personne morale condamnée adresse la demande en réhabilitation au procureur d’Etat de l’arrondissement dans lequel elle a son siège.
 
@@ -6072,8 +6257,9 @@ Lorsque la personne morale a son siège à l’étranger, la demande est adress�
 
 La demande précise:
 
-1. la date de la condamnation;
-2. tout transfert du siège de la personne morale intervenu depuis la condamnation.
+1° la date de la condamnation;
+
+2° tout transfert du siège de la personne morale intervenu depuis la condamnation.
 
 ###### Art. 653.
 
@@ -6081,9 +6267,11 @@ Le procureur d'Etat s'entoure de tous renseignements utiles aux différents lieu
 
 Il se fait délivrer:
 
-1. une expédition des jugements de condamnation;
-2. un extrait du registre des punitions et récompenses des lieux de détention où la peine a été subie constatant quelle a été la conduite du condamné;
-3. un relevé intégral des condamnations inscrites au casier judiciaire.
+1° une expédition des jugements de condamnation;
+
+2° un extrait du registre des punitions et récompenses des lieux de détention où la peine a été subie constatant quelle a été la conduite du condamné;
+
+3° un relevé intégral des condamnations inscrites au casier judiciaire.
 
 Il transmet ces pièces avec son avis au procureur général d'Etat.
 
@@ -6129,8 +6317,9 @@ Les frais de la procédure en réhabilitation sont à charge de l'Etat. Ils sont
 
 La réhabilitation fait cesser pour l’avenir, dans la personne du condamné, tous les effets de la condamnation, sans préjudice des droits acquis aux tiers, notamment:
 
-- elle empêche que la condamnation serve de base à la récidive, fasse obstacle à la condamnation conditionnelle, ou soit mentionnée dans les extraits du casier judiciaire;
-- elle fait cesser, dans la personne du condamné, les incapacités résultant de la condamnation; toutefois, lorsque la personne a été condamnée à la peine d’interdiction d’exercer une activité professionnelle ou sociale impliquant un contact habituel avec des mineurs, la réhabilitation ne produit ses effets qu’à la fin de cette mesure.
+aash elle empêche que la condamnation serve de base à la récidive, fasse obstacle à la condamnation conditionnelle, ou soit mentionnée dans les extraits du casier judiciaire;
+
+bash elle fait cesser, dans la personne du condamné, les incapacités résultant de la condamnation; toutefois, lorsque la personne a été condamnée à la peine d’interdiction d’exercer une activité professionnelle ou sociale impliquant un contact habituel avec des mineurs, la réhabilitation ne produit ses effets qu’à la fin de cette mesure.
 
 La réhabilitation ne restitue pas au condamné les titres, grades, fonctions, emplois et offices publics dont il a été destitué;
 
@@ -6150,9 +6339,11 @@ Les inscriptions des condamnations prononcées à l’étranger sont modifiées 
 
 Les dispositions du présent titre sont applicables aux demandes d’exequatur de décisions étrangères de confiscation et de restitution qui émanent:
 
-- d’autorités judiciaires d’Etats requérants qui ne sont pas liés au Grand-Duché de Luxembourg par un accord international en la matière
-- d’autorités judiciaires d’Etats requérants qui sont liés au Grand-Duché de Luxembourg par un accord international en la matière...
-- d’une autorité judiciaire internationale reconnue par le Grand-Duché de Luxembourg.
+aash d’autorités judiciaires d’Etats requérants qui ne sont pas liés au Grand-Duché de Luxembourg par un accord international en la matière
+
+bash d’autorités judiciaires d’Etats requérants qui sont liés au Grand-Duché de Luxembourg par un accord international en la matière...
+
+cash d’une autorité judiciaire internationale reconnue par le Grand-Duché de Luxembourg.
 
 #### Art. 660 — ([L. 1er août 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n2/jo))
 
@@ -6166,50 +6357,61 @@ Contre la décision par laquelle le procureur général d’Etat déclare que ri
 
 #### Art. 662 — ([L. 1er août 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n2/jo))
 
-1. Les demandes d’exequatur doivent contenir, sous peine d’être refusées, les indications suivantes:
+1\) Les demandes d’exequatur doivent contenir, sous peine d’être refusées, les indications suivantes:
 
-   1. l’autorité dont la demande émane et l’autorité judiciaire qui a rendu la décision dont l’exequatur est demandé,
-   2. l’objet et le motif de la demande,
-   3. un exposé sommaire de l’affaire, y compris les faits pertinents tels que la date, le lieu et les circonstances de l’infraction, pour autant que ces données ne se dégagent pas de la décision dont l’exequatur est demandé,
-   4. le texte des dispositions légales sur les infractions et les sanctions y attachées qui ont été appliquées,
-   5. si nécessaire et dans la mesure du possible:
+a) l’autorité dont la demande émane et l’autorité judiciaire qui a rendu la décision dont l’exequatur est demandé,
 
-      1. des précisions relativement à la ou les personne(s) concernée(s), y compris le nom, la date et le lieu de naissance, la nationalité et l’endroit où elle(s) se trouve(nt), et, lorsqu’il s’agit d’une personne morale, son siège, et
-      2. les biens en rapport avec lesquels la coopération est sollicitée, leur emplacement, leurs liens avec la ou les personne(s) en question, tout lien avec l’infraction ainsi que toute information dont on dispose concernant les intérêts d’autrui afférents à ces biens.
-2. La décision, sous peine d’être refusée, doit remplir les critères suivants:
+b) l’objet et le motif de la demande,
 
-   1. la décision de confiscation étrangère doit être fondée ou bien sur un jugement de condamnation ou bien sur une décision judiciaire de caractère pénal constatant qu’une ou plusieurs infractions ont été commises qui sont à l’origine de la décision de confiscation;
-   2. la décision de confiscation étrangère doit être définitive et demeurer exécutoire selon la loi de l’Etat requérant.
+c) un exposé sommaire de l’affaire, y compris les faits pertinents tels que la date, le lieu et les circonstances de l’infraction, pour autant que ces données ne se dégagent pas de la décision dont l’exequatur est demandé,
+
+d) le texte des dispositions légales sur les infractions et les sanctions y attachées qui ont été appliquées,
+
+e) si nécessaire et dans la mesure du possible:
+
+i. des précisions relativement à la ou les personne(s) concernée(s), y compris le nom, la date et le lieu de naissance, la nationalité et l’endroit où elle(s) se trouve(nt), et, lorsqu’il s’agit d’une personne morale, son siège, et
+
+ii. les biens en rapport avec lesquels la coopération est sollicitée, leur emplacement, leurs liens avec la ou les personne(s) en question, tout lien avec l’infraction ainsi que toute information dont on dispose concernant les intérêts d’autrui afférents à ces biens.
+
+2\) La décision, sous peine d’être refusée, doit remplir les critères suivants:
+
+a) la décision de confiscation étrangère doit être fondée ou bien sur un jugement de condamnation ou bien sur une décision judiciaire de caractère pénal constatant qu’une ou plusieurs infractions ont été commises qui sont à l’origine de la décision de confiscation;
+
+b) la décision de confiscation étrangère doit être définitive et demeurer exécutoire selon la loi de l’Etat requérant.
 
 Est exigée une traduction en langue française ou allemande de la demande, de la décision et des autres pièces à produire.
 
 #### Art. 663 — ([L. 1er août 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n2/jo)) ([L. 29 juillet 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/07/29/a429/jo))
 
-1. L’exequatur de la décision étrangère est refusé:
+1\) L’exequatur de la décision étrangère est refusé:
 
-   - si les faits à l’origine de la demande sont susceptibles d’être qualifiés par la loi luxembourgeoise d’infraction(s) politique(s) ou d’infraction(s) connexe(s) à une (des) infraction(s) politique(s);
-   - s’il existe des raisons sérieuses de croire que la demande est fondée sur des considérations de race, de religion, de nationalité ou d’opinion politique;
-   - si les faits à l’origine de la demande ne sont pas constitutifs d’une infraction punissable selon la loi luxembourgeoise d’une peine privative de liberté d’un maximum d’au moins un an.
-2. L’exequatur de la décision étrangère est également refusé:
+aash si les faits à l’origine de la demande sont susceptibles d’être qualifiés par la loi luxembourgeoise d’infraction(s) politique(s) ou d’infraction(s) connexe(s) à une (des) infraction(s) politique(s);
 
-   - s’il y a lieu d’admettre que la procédure à l’étranger ayant abouti à la décision dont l’exequatur est demandée n’est pas conforme aux principes de procédure fixés par la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950;
-   - si les faits sur lesquels porte la demande font l’objet d’une décision définitive contraire au Grand-Duché de Luxembourg.
+bash s’il existe des raisons sérieuses de croire que la demande est fondée sur des considérations de race, de religion, de nationalité ou d’opinion politique;
 
-   Il peut être sursis à l’exequatur de la décision étrangère, si les faits en raison desquels la confiscation ou la restitution a été prononcée font l’objet d’une investigation, d’une poursuite pénale, d’une instruction ou d’une procédure judiciaire sur le territoire luxembourgeois .
-3. L’exequatur de la décision étrangère peut également être refusé si l’importance de l’affaire sur laquelle porte la demande ne justifie pas, sans qu’il puisse à cet égard être procédé à un examen du fond, qu’il soit fait droit à la demande d’exequatur.
+cash si les faits à l’origine de la demande ne sont pas constitutifs d’une infraction punissable selon la loi luxembourgeoise d’une peine privative de liberté d’un maximum d’au moins un an.
+
+2\) L’exequatur de la décision étrangère est également refusé:
+
+aash s’il y a lieu d’admettre que la procédure à l’étranger ayant abouti à la décision dont l’exequatur est demandée n’est pas conforme aux principes de procédure fixés par la Convention européenne de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950;
+
+bash si les faits sur lesquels porte la demande font l’objet d’une décision définitive contraire au Grand-Duché de Luxembourg.
+
+Il peut être sursis à l’exequatur de la décision étrangère, si les faits en raison desquels la confiscation ou la restitution a été prononcée font l’objet d’une investigation, d’une poursuite pénale, d’une instruction ou d’une procédure judiciaire sur le territoire luxembourgeois .
+
+3\) L’exequatur de la décision étrangère peut également être refusé si l’importance de l’affaire sur laquelle porte la demande ne justifie pas, sans qu’il puisse à cet égard être procédé à un examen du fond, qu’il soit fait droit à la demande d’exequatur.
 
 #### Art. 664 — ([L. 1er août 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n2/jo))
 
 En dehors des conditions énoncées à l’article 663 ci-avant l’exequatur de la décision étrangère ne peut être ordonné que
 
-- si la décision n’est contraire ni aux règles constitutionnelles luxembourgeoises, ni aux principes fondamentaux de l’ordre juridique luxembourgeois;
-- si aucune cause légale, en vertu de la loi luxembourgeoise, en particulier la prescription de la peine, ne fait obstacle à l’exécution de la décision.
+aash si la décision n’est contraire ni aux règles constitutionnelles luxembourgeoises, ni aux principes fondamentaux de l’ordre juridique luxembourgeois;
+
+bash si aucune cause légale, en vertu de la loi luxembourgeoise, en particulier la prescription de la peine, ne fait obstacle à l’exécution de la décision.
 
 Les actes interruptifs ou suspensifs de prescription accomplis dans l’Etat requérant selon le droit de cet Etat sont pris en compte pour le calcul du délai de prescription d’après la loi luxembourgeoise;
 
-- (
-
-  [L. du 1er août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a789/jo)) si en cas de décision de confiscation, les biens confisqués par cette décision sont de la nature de ceux visés à l’article 31 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ou à l’article 8-2 de la [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) sur la vente de substances médicamenteuses et la lutte contre la toxicomanie et s’ils ont été confisqués dans des conditions et limites correspondant à celles de la loi luxembourgeoise.
+aash ([L. du 1er août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a789/jo)) si en cas de décision de confiscation, les biens confisqués par cette décision sont de la nature de ceux visés à l’article 31 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ou à l’article 8-2 de la [loi modifiée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo) sur la vente de substances médicamenteuses et la lutte contre la toxicomanie et s’ils ont été confisqués dans des conditions et limites correspondant à celles de la loi luxembourgeoise.
 
 ([L. du 1er août 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a789/jo)) Si la décision de confiscation étrangère, dont l’exequatur est demandé, porte sur des biens visés à l’article 31, paragraphe 2, point 4° du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ou à l’article 8-2 à la fin de l’alinéa 1 <sup>er</sup> de la [loi précitée du 19 février 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/jo), il n’est fait droit à cette demande qu’à la condition que la confiscation ne peut être exécutée sur des biens se trouvant sur le territoire de l’État requérant, sur déclaration de cet État.
 
@@ -6249,10 +6451,13 @@ Le jugement du tribunal déclarant exécutoire la décision de confiscation étr
 
 Toutefois, si cette décision contient des dispositions relatives aux droits des tiers, elle est reconnue par les juridictions luxembourgeoises, sauf
 
-1. si les tiers n’ont pas été mis à même à faire valoir leurs droits devant la juridiction étrangère dans des conditions analogues à celles prévues par la loi luxembourgeoise;
-2. si la décision étrangère est incompatible avec une décision déjà rendue au Luxembourg sur ces droits ou est incompatible avec l’ordre public luxembourgeois;
-3. si la décision étrangère a été rendue contrairement aux dispositions en matière de compétence exclusive prévues par le droit luxembourgeois;
-4. si des tiers étrangers à l’infraction et dont les prétentions ne sont pas garanties par l’Etat requérant ont acquis de bonne foi au Luxembourg des droits sur les biens dont la confiscation a été prononcée par la décision étrangère.
+1\) si les tiers n’ont pas été mis à même à faire valoir leurs droits devant la juridiction étrangère dans des conditions analogues à celles prévues par la loi luxembourgeoise;
+
+2\) si la décision étrangère est incompatible avec une décision déjà rendue au Luxembourg sur ces droits ou est incompatible avec l’ordre public luxembourgeois;
+
+3\) si la décision étrangère a été rendue contrairement aux dispositions en matière de compétence exclusive prévues par le droit luxembourgeois;
+
+4\) si des tiers étrangers à l’infraction et dont les prétentions ne sont pas garanties par l’Etat requérant ont acquis de bonne foi au Luxembourg des droits sur les biens dont la confiscation a été prononcée par la décision étrangère.
 
 #### Art. 668 — ([L. 1er août 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n2/jo))
 
@@ -6398,10 +6603,13 @@ Le congé pénal constitue une autorisation de quitter le centre pénitentiaire,
 
 (1) Un congé pénal peut être octroyé :
 
-1. au condamné à la réclusion à vie, après une détention d’au moins dix ans,
-2. au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est égale ou supérieure à vingt ans, après une détention d’au moins dix ans,
-3. au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est inférieure ou égale à vingt ans, à l’expiration d’une détention de la moitié de cette durée, et
-4. à tous les autres condamnés, à l’expiration de la détention d’un tiers de la peine ou des peines cumulées à subir.
+(a) au condamné à la réclusion à vie, après une détention d’au moins dix ans,
+
+(b) au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est égale ou supérieure à vingt ans, après une détention d’au moins dix ans,
+
+(c) au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est inférieure ou égale à vingt ans, à l’expiration d’une détention de la moitié de cette durée, et
+
+(d) à tous les autres condamnés, à l’expiration de la détention d’un tiers de la peine ou des peines cumulées à subir.
 
 (2) Dans des cas exceptionnels et urgents, des dérogations à ces périodes peuvent être accordées pour des motifs d’ordre administratif, médical, socio-familial ou professionnel.
 
@@ -6425,10 +6633,13 @@ Avant une possible libération conditionnelle ou l’élargissement définitif d
 
 (1) Une libération conditionnelle peut être octroyée :
 
-1. au condamné à la réclusion à vie, après une détention d’au moins quinze ans ;
-2. au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est supérieure à vingt-deux ans et six mois, après une détention de quinze ans ;
-3. au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est inférieure ou égale à vingt-deux ans et six mois, après avoir accompli une détention des deux tiers de cette durée, et
-4. à tous les autres condamnés, après l’expiration de la détention de la moitié de la peine ou des peines cumulées à subir.
+(a) au condamné à la réclusion à vie, après une détention d’au moins quinze ans ;
+
+(b) au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est supérieure à vingt-deux ans et six mois, après une détention de quinze ans ;
+
+(c) au condamné en état de récidive dont la durée de la peine ou des peines cumulées à subir est inférieure ou égale à vingt-deux ans et six mois, après avoir accompli une détention des deux tiers de cette durée, et
+
+(d) à tous les autres condamnés, après l’expiration de la détention de la moitié de la peine ou des peines cumulées à subir.
 
 (2) La décision accordant une libération conditionnelle est assortie d'un temps d'épreuve. Lorsque la peine en cours d'exécution est une peine correctionnelle, le temps d'épreuve ne peut être inférieur à la durée de la partie de la peine non subie ou de la durée cumulée des peines non subies au moment de la libération ; il peut la dépasser pour la période d'un an au plus. Lorsque la peine en cours d'exécution est une peine criminelle, le temps d'épreuve ne peut être inférieur à cinq ans, ni supérieur à dix ans. Si, à l'expiration du temps d'épreuve, la libération conditionnelle n'a pas été révoquée, la peine est considérée comme subie, sauf si une nouvelle infraction a été commise au cours du temps d’épreuve. En cas de révocation, le restant de la peine devient intégralement exécutoire sans autre formalité ou procédure.
 
@@ -6440,9 +6651,11 @@ Avant une possible libération conditionnelle ou l’élargissement définitif d
 
 (1) Peut bénéficier du placement sous surveillance électronique le condamné dont la peine privative de liberté est inférieure ou égale à trois ans, ou dont le restant d’une peine initialement supérieure correspond à cette durée, et qui justifie :
 
-1. de l'exercice d'une activité professionnelle, même temporaire, du suivi d'un stage, d’un enseignement, ou d’une formation professionnelle dans le cadre de son inscription comme demandeur d’emploi auprès de l’administration de l’emploi, ou
-2. de sa participation effective à la vie de sa famille, ou
-3. de la nécessité de suivre un traitement médical ou thérapeutique.
+(a) de l'exercice d'une activité professionnelle, même temporaire, du suivi d'un stage, d’un enseignement, ou d’une formation professionnelle dans le cadre de son inscription comme demandeur d’emploi auprès de l’administration de l’emploi, ou
+
+(b) de sa participation effective à la vie de sa famille, ou
+
+(c) de la nécessité de suivre un traitement médical ou thérapeutique.
 
 (2) Le placement sous surveillance électronique peut être combiné avec les autres modalités d’exécution des peines prévues au présent chapitre. L’application de la mesure est décidée après une enquête sociale, à effectuer par le service central d’assistance sociale, et une enquête technique, à la demande du procureur général d’État. Le placement sous surveillance électronique est compté pour la computation de la durée de la peine.
 
@@ -6508,18 +6721,13 @@ Si la nouvelle condamnation à l’interdiction de conduire qui entraîne la dé
 
 La chambre de l’application des peines est également compétente pour connaître des recours dirigés contre des décisions prises par le procureur général d’État qui concernent :
 
-1. l’émission et l’exécution d’un mandat d’arrêt européen en matière d’exécution des peines, y compris leurs aménagements, en application de la
+1° l’émission et l’exécution d’un mandat d’arrêt européen en matière d’exécution des peines, y compris leurs aménagements, en application de la [loi modifiée du 17 mars 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/jo) relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne ;
 
-   [loi modifiée du 17 mars 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/jo) relative au mandat d’arrêt européen et aux procédures de remise entre États membres de l’Union européenne ;
-2. l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la
+2° l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la [loi du 28 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/28/n1/jo) relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne ;
 
-   [loi du 28 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/28/n1/jo) relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne ;
-3. l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la
+3° l’émission de demandes de reconnaissance et d’exécution de jugements et la reconnaissance et l’exécution de jugements en application de la [loi du 12 avril 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/04/12/n8/jo) relative à l’application du principe de reconnaissance mutuelle aux décisions de probation et aux peines de substitution et modifiant, en vue de favoriser l’application du principe de reconnaissance mutuelle aux décisions rendues en l’absence de la personne concernée, 1) l’article 634 du Code d’instruction criminelle ; 2) la [loi du 23 février 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/jo) relative à l’application du principe de reconnaissance mutuelle aux sanctions pécuniaires ; 3) la [loi modifiée du 17 mars 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/jo) relative au mandat d’arrêt européen,
 
-   [loi du 12 avril 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/04/12/n8/jo) relative à l’application du principe de reconnaissance mutuelle aux décisions de probation et aux peines de substitution et modifiant, en vue de favoriser l’application du principe de reconnaissance mutuelle aux décisions rendues en l’absence de la personne concernée, 1) l’article 634 du Code d’instruction criminelle ; 2) la [loi du 23 février 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/jo) relative à l’application du principe de reconnaissance mutuelle aux sanctions pécuniaires ; 3) la [loi modifiée du 17 mars 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/jo) relative au mandat d’arrêt européen,
-4. l’émission ou l’exécution des demandes de transfèrements de personnes détenues en application de la
-
-   [loi modifiée du 31 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/31/n3/jo) portant approbation de la Convention du 21 mars 1983 sur le transfèrement des personnes condamnées et réglant le transfèrement des personnes condamnées et détenues à l’étranger, de la [loi du 25 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/25/n6/jo) sur le transfèrement des personnes condamnées, de la [loi du 25 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/25/n5/jo) portant approbation 1. du Protocole additionnel à la Convention européenne sur le transfèrement des personnes condamnées du 18 décembre 1997, 2. de l’Accord relatif à l’application, entre les États membres des Communautés européennes, de la Convention du Conseil de l’Europe sur le transfèrement des personnes condamnées du 25 mai 1987 et de la [loi du 28 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/28/n1/jo) relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne.
+4° l’émission ou l’exécution des demandes de transfèrements de personnes détenues en application de la [loi modifiée du 31 juillet 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/07/31/n3/jo) portant approbation de la Convention du 21 mars 1983 sur le transfèrement des personnes condamnées et réglant le transfèrement des personnes condamnées et détenues à l’étranger, de la [loi du 25 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/25/n6/jo) sur le transfèrement des personnes condamnées, de la [loi du 25 avril 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/04/25/n5/jo) portant approbation 1. du Protocole additionnel à la Convention européenne sur le transfèrement des personnes condamnées du 18 décembre 1997, 2. de l’Accord relatif à l’application, entre les États membres des Communautés européennes, de la Convention du Conseil de l’Europe sur le transfèrement des personnes condamnées du 25 mai 1987 et de la [loi du 28 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/28/n1/jo) relative à la reconnaissance de jugements en matière pénale ayant prononcé des peines ou des mesures privatives de liberté aux fins de leur exécution dans un autre État membre de l’Union européenne.
 
 (2) Ni le délai de recours, ni la saisine de la chambre de l'application des peines n’ont d’effet suspensif.
 
@@ -6529,15 +6737,19 @@ La chambre de l’application des peines est également compétente pour connaî
 
 (2) Toutefois, par dérogation au paragraphe 1 <sup>er</sup> , la chambre de l'application des peines siège en composition de juge unique en cas de recours dirigé contre une décision du procureur général d’État en matière de :
 
-1. congé pénal ;
-2. recouvrement des amendes et acceptation des cautions ;
-3. interdiction de conduire visée à l'article 694, paragraphe 5 ;
-4. difficultés relatives à l'exécution de ses propres décisions ou de celles prises par le procureur général d'État, et
-5. recours disciplinaires.
+(a) congé pénal ;
+
+(b) recouvrement des amendes et acceptation des cautions ;
+
+(c) interdiction de conduire visée à l'article 694, paragraphe 5 ;
+
+(d) difficultés relatives à l'exécution de ses propres décisions ou de celles prises par le procureur général d'État, et
+
+(e) recours disciplinaires.
 
 (3) La chambre de l'application des peines peut, dans l'intérêt d'une bonne administration de la justice, joindre plusieurs demandes et statuer par un même arrêt. Dans ce cas elle statue toujours en formation collégiale.
 
-##### Art. 698. [^1-dispositionstemporaires]
+##### Art. 698.[^1-dispositionstemporaires]
 
 (1) Le condamné ou son avocat déclare son recours au greffe de la chambre de l'application des peines avec indication des noms et prénoms du condamné, de l'acte attaqué, ainsi que d’un exposé sommaire des moyens invoqués. Le recours est consigné sur un registre tenu à cet effet au greffe de la chambre de l'application des peines.
 
@@ -6597,8 +6809,9 @@ Sous réserve des dérogations découlant en droit interne des engagements inter
 
 (2) La consultation du dossier peut être restreinte en tout ou en partie et à titre exceptionnel par décision motivée du procureur général d’État susceptible de faire l’objet d’un appel en application du paragraphe 5 dans les cas suivants :
 
-1. lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
-2. lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, lorsque la consultation risque de compromettre l’enquête de patrimoine postsentencielle en cours ou de porter gravement atteinte à la sécurité nationale.
+1° lorsqu’elle peut constituer une menace grave pour la vie ou les droits fondamentaux d’un tiers, ou
+
+2° lorsque son refus est strictement nécessaire en vue de préserver un intérêt public important, lorsque la consultation risque de compromettre l’enquête de patrimoine postsentencielle en cours ou de porter gravement atteinte à la sécurité nationale.
 
 La restriction doit être levée aussitôt qu’elle n’est plus nécessaire.
 
@@ -6666,8 +6879,9 @@ Il confie au Bureau de gestion des avoirs la gestion de tous les autres biens et
 
 (1) Il est mis fin à l’enquête de patrimoine postsentencielle si :
 
-1. le condamné a satisfait à son obligation de paiement ;
-2. la condamnation est éteinte.
+1° le condamné a satisfait à son obligation de paiement ;
+
+2° la condamnation est éteinte.
 
 ##### Art. 711 — ([L. 23 janvier 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/01/23/a21/jo))
 

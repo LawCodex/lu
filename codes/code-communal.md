@@ -104,7 +104,7 @@ des jugements tenant lieu de conventions ou d’actes assujettis à la transcrip
 (Loi 13 décembre 2007)
 «8. des décisions judiciaires ordonnant, en matière pénale, la saisie conservatoire d’un bien immeuble, la restitution du bien
 immeuble saisi, la mainlevée de la saisie ou la nullité de celle-ci.
-9.
+9\.
 
 des décisions judiciaires définitives ordonnant la confiscation d’un bien immeuble, qui sont coulées en force de chose
 jugée.
@@ -794,15 +794,15 @@ virus par l’animal vacciné. Ces vaccins doivent produire par un challenge tes
 un an au moins pour les chiens et pour les chats âgés de plus de trois mois.
 Toutefois, en ce qui concerne les chiens et les chats élevés au Grand-Duché de Luxembourg, seul l’emploi d’un vaccin antirabique inactivé à base de virus multiplié sur cultures cellulaires et adjuvé est autorisé.
 Art. 10.
-\1. Le certificat visé à l’article 8, 1er alinéa, n’est valable que si la vaccination a eu lieu 30 jours avant le passage de la frontière.
+1\. Le certificat visé à l’article 8, 1er alinéa, n’est valable que si la vaccination a eu lieu 30 jours avant le passage de la frontière.
 En cas de revaccination, la validité du certificat prend cours à la date de la revaccination si celle-ci a été effectuée pendant le délai
 de validité de la précédente vaccination.
-\2. Pour les chiens et les chats vaccinés avant l’âge de trois mois, la durée de validité du certificat est de trois mois; pour les
+2\. Pour les chiens et les chats vaccinés avant l’âge de trois mois, la durée de validité du certificat est de trois mois; pour les
 chiens et les chats vaccinés après l’âge de trois mois, la durée de validité du certificat est d’un an.
-\3. Par dérogation aux dispositions de l’alinéa 2 la durée de validité du certificat des animaux vaccinés dans le Benelux avec des
+3\. Par dérogation aux dispositions de l’alinéa 2 la durée de validité du certificat des animaux vaccinés dans le Benelux avec des
 vaccins autorisés, est alignée sur celle figurant dans cette autorisation, à condition qu’il y ait un accord sur ce point entre les pays
 du Benelux.
-\4. Les certificats visés au présent règlement et leur durée de validité sont exigés exclusivement au passage des frontières extérieures du Benelux.
+4\. Les certificats visés au présent règlement et leur durée de validité sont exigés exclusivement au passage des frontières extérieures du Benelux.
 Art. 11.
 Les certificats de vaccination antirabique délivrés en vertu des dispositions légales d’un des pays du Benelux dans un de ces
 pays avant l’entrée en vigueur du présent règlement gardent leur validité pendant la période indiquée sur ces certificats.
@@ -1679,48 +1679,48 @@ définies à l’annexe B du présent règlement.
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
 ANNEXE A
-\1) carte de priorité
+1\) carte de priorité
 
 \- 51 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\2) carte de priorité pour mutilés et invalides de guerre
+2\) carte de priorité pour mutilés et invalides de guerre
 
 \- 52 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\3) carte d’invalidité de la première catégorie
+3\) carte d’invalidité de la première catégorie
 
 \- 53 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\4) carte d’invalidité de la première catégorie pour mutilés et invalides de guerre
+4\) carte d’invalidité de la première catégorie pour mutilés et invalides de guerre
 
 \- 54 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\5) carte d’invalidité de la deuxième catégorie
+5\) carte d’invalidité de la deuxième catégorie
 
 \- 55 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\6) carte d’invalidité de la deuxième catégorie pour mutilés et invalides de guerre
+6\) carte d’invalidité de la deuxième catégorie pour mutilés et invalides de guerre
 
 \- 56 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\7) carte d’invalidité de la troisième catégorie
+7\) carte d’invalidité de la troisième catégorie
 
 \- 57 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\8) carte d’invalidité de la troisième catégorie pour mutilés et invalides de guerre
+8\) carte d’invalidité de la troisième catégorie pour mutilés et invalides de guerre
 
 \- 58 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
 ANNEXE B
-\1) première page
+1\) première page
 
 GRAND-DUCHE DE LUXEMBOURG
 MINISTERE DE L´INTERIEUR
@@ -1760,7 +1760,7 @@ en cas de tutelle.
 \- 59 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\2) deuxième page
+2\) deuxième page
 
 CERTIFICAT DE LA COMMUNE DU DOMICILE DU REQUERANT
 (à remplir seulement pour les personnes résidant au Grand-Duché)
@@ -1801,7 +1801,7 @@ Fait à ..................................., le ................................
 \- 60 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\3) troisième page
+3\) troisième page
 
 Soit la présente demande transmise à
 M. le Médecin-Directeur de la Santé Publique
@@ -1839,7 +1839,7 @@ accompagnatrice ?
 \- 61 -
 
 CODE COMMUNAL − Cartes de priorité et d’invalidité
-\4) quatrième page
+4\) quatrième page
 
 g) Le requérant, bien que ne touchant pas de rente de la part de l´Office des Dommages de Guerre,
 rentre-t-il dans une des catégories énumérées par l´article 13, dernier alinéa, sous a) à d) de la loi
@@ -2090,22 +2090,22 @@ Prénom: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Rue et numéro: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Code postal et ville: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 II. Description du chien
-\1. Nom: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\2. Race ou type: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1\. Nom: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2\. Race ou type: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 femelle
 
-\3. Sexe: mâle
+3\. Sexe: mâle
 
-\4. Date de naissance: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\5. Robe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\6. Chien susceptible d’être dangereux tel que prévu à l’article 10 de la loi du 9 mai 2008 précitée
+4\. Date de naissance: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5\. Robe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6\. Chien susceptible d’être dangereux tel que prévu à l’article 10 de la loi du 9 mai 2008 précitée
 non
 oui
 III. Identification du chien
-\1. Numéro de la puce électronique:
+1\. Numéro de la puce électronique:
 
 
-\2. Date de l’identification électronique: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2\. Date de l’identification électronique: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 IV. Vaccination antirabique
 Fabricant et désignation du vaccin: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Numéro de lot: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -2453,28 +2453,28 @@ La délibération du conseil communal concernant la construction, l’agrandisse
 soumise à l’approbation du ministre de l’Intérieur.
 Cette délibération contenant l’évaluation de la dépense envisagée et indiquant les voies et moyens destinés au financement des
 travaux, devra être étayée des pièces suivantes:
-1.
+1\.
 
 une étude sur le développement de la population durant les prochaines années;
 
-2.
+2\.
 
 le plan de situation orienté, indiquant l’emplacement et les abords de la nouvelle construction;
 
-3.
+3\.
 
 des avis quant aux problèmes de la voirie et de la circulation, émis par le service technique communal et par l’administration
 des ponts et chaussées;
 
-4.
+4\.
 
 l’avis du médecin-inspecteur de la circonscription sanitaire;
 
-5.
+5\.
 
 l’avis de l’ingénieur-géologue de l’Etat;
 
-6.
+6\.
 
 une information de commodo et incommodo selon les formes et prescriptions des articles 4 et 5 de l’arrêté royal grand-ducal
 du 17 juin 1872 concernant le régime de certains établissements réputés dangereux, insalubres ou incommodes1.
@@ -2594,15 +2594,15 @@ dans leur commune.
 Deux ou plusieurs communes peuvent former un syndicat en vue de la création et de la gestion d’un four crématoire.
 Art. 18.
 Un règlement grand-ducal déterminera les conditions applicables:
-1.
+1\.
 
 à la création et au fonctionnement d’un four crématoire;
 
-2.
+2\.
 
 à l’incinération dans une commune autre que celle du décès;
 
-3.
+3\.
 
 au transport des cendres dans une commune autre que celle de l’incinération.
 
@@ -2615,11 +2615,11 @@ Les contestations relatives aux conditions visées à l’alinéa qui précède 
 En cas de décès à l’étranger, le juge des référés compétent pour connaître de ces contestations est celui du lieu du ­crématoire.
 Art. 20.
 L’autorisation prévue à l’article qui précède sera accordée après production des pièces suivantes:
-1.
+1\.
 
 un certificat médical duquel il résulte qu’il n’existe ni signes ni indices de mort violente; ce certificat sera délivré par le médecin traitant ou, à son défaut, par tout autre médecin mandé à ces fins par la famille du défunt ou les autorités publiques;
 
-2.
+2\.
 
 l’accord du procureur d’Etat du lieu du décès, en cas de mort violente ou de mort dont la cause est inconnue ou ­suspecte.
 Cet accord peut être subordonné à une autopsie préalable.
@@ -2631,12 +2631,12 @@ par celui du siège du crématoire.
 Art. 21.
 L’officier de l’état civil saisit le procureur d’Etat chaque fois qu’il croit devoir refuser l’autorisation.
 Il le fait obligatoirement:
-1.
+1\.
 
 lorsqu’il ne résulte pas du certificat médical prévu par le premier alinéa sub 1 de l’article qui précède qu’il n’y a ni signes ni
 indices de mort violente;
 
-2.
+2\.
 
 lorsqu’il existe des circonstances qui permettent de soupçonner qu’il y a eu mort violente.
 \- 82 -
@@ -2697,22 +2697,22 @@ décès est dû à une maladie transmissible, lorsque des mesures appropriées s
 Sont convenus de ce qui suit:
 
 Article 1
-\1. Les Parties Contractantes appliqueront, dans les relations entre elles, les dispositions du présent Accord.
-\2. Aux fins du présent Accord, on entend par transfert de corps le transport international de corps de personnes décédées
+1\. Les Parties Contractantes appliqueront, dans les relations entre elles, les dispositions du présent Accord.
+2\. Aux fins du présent Accord, on entend par transfert de corps le transport international de corps de personnes décédées
 de l’Etat de départ vers l’Etat de destination; l’Etat de départ est celui où le transfert a commencé ou, dans le cas d’un corps
 exhumé, celui où a eu lieu l’inhumation; l’Etat de destination est celui où le corps devra être inhumé ou incinéré après le transport.
-\3. Le présent Accord ne s’applique pas au transport international de cendres.
+3\. Le présent Accord ne s’applique pas au transport international de cendres.
 
 Article 2
-\1. Les dispositions du présent Accord constituent les conditions maximales exigibles pour l’expédition du corps d’une personne
+1\. Les dispositions du présent Accord constituent les conditions maximales exigibles pour l’expédition du corps d’une personne
 décédée ainsi que pour le transit ou l’admission de celui-ci sur le territoire d’une des Parties Contractantes.
-\2. Les Parties Contractantes restent libres d’accorder des facilités plus grandes par application soit d’accords bilatéraux, soit
+2\. Les Parties Contractantes restent libres d’accorder des facilités plus grandes par application soit d’accords bilatéraux, soit
 de décisions prises d’un commun accord dans des cas d’espèce, notamment lorsqu’il s’agit de transfert entre régions frontalières.
 Pour l’application de tels accords et décisions dans des cas d’espèce, le consentement de tous les Etats intéressés sera requis.
 
 Article 3
-\1. Tout corps d’une personne décédée doit être accompagné, au cours du transfert international, d’un document spécial dénommé «laissez-passer mortuaire», délivré par l’autorité compétente de l’Etat de départ.
-\2. Le laissez-passer doit reproduire au moins les données figurant dans le modèle annexé au présent Accord; il doit être libellé
+1\. Tout corps d’une personne décédée doit être accompagné, au cours du transfert international, d’un document spécial dénommé «laissez-passer mortuaire», délivré par l’autorité compétente de l’Etat de départ.
+2\. Le laissez-passer doit reproduire au moins les données figurant dans le modèle annexé au présent Accord; il doit être libellé
 dans la langue officielle ou dans l’une des langues officielles de l’Etat dans lequel il est délivré et dans l’une des langues officielles
 du Conseil de l’Europe.
 
@@ -2732,7 +2732,7 @@ Accord;
 être inhumés ou incinérés avec le corps.
 
 Article 6
-\1. Le cercueil doit être étanche; il doit également contenir une matière absorbante. Si les autorités compétentes de l’Etat de
+1\. Le cercueil doit être étanche; il doit également contenir une matière absorbante. Si les autorités compétentes de l’Etat de
 départ l’estiment nécessaire, le cercueil doit être muni d’un appareil épurateur destiné à égaliser la pression i­ntérieure et extérieure.
 Il doit être constitué:
 (i)
@@ -2745,8 +2745,8 @@ en zinc soigneusement soudé ou en toute autre matière autodestructible;
 CODE COMMUNAL − Cimetières
 (ii) soit d’un seul cercueil en bois dont l’épaisseur des parois ne doit pas être inférieure à 30 mm, doublé intérieurement d’une
 feuille de zinc ou de toute autre matière autodestructible.
-\2. Si le décès est dû à une maladie contagieuse, le corps lui-même sera enveloppé dans un linceul imbibé d’une solution antiseptique.
-\3. Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, le cercueil doit comporter, lorsque le transfert est
+2\. Si le décès est dû à une maladie contagieuse, le corps lui-même sera enveloppé dans un linceul imbibé d’une solution antiseptique.
+3\. Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, le cercueil doit comporter, lorsque le transfert est
 effectué par la voie aérienne, un appareil épurateur ou, à défaut, présenter des garanties de résistance reconnues comme suffisantes pour l’autorité compétente de l’Etat de départ.
 
 Article 7
@@ -2762,35 +2762,35 @@ Etat Contractant au présent Accord peut demander à un autre Etat Contractant d
 au premier de ces Etats Contractants de satisfaire à ses obligations aux termes de l’Arrangement de Berlin.
 
 Article 10
-\1. Le présent Accord est ouvert à la signature des Etats membres du Conseil de l’Europe qui peuvent y devenir Parties par:
+1\. Le présent Accord est ouvert à la signature des Etats membres du Conseil de l’Europe qui peuvent y devenir Parties par:
 (a) la signature sans réserve de ratification ou d’acceptation;
 (b) la signature sous réserve de ratification ou d’acceptation, suivie de ratification ou d’acceptation.
-\2. Les instruments de ratification ou d’acceptation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+2\. Les instruments de ratification ou d’acceptation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 Article 11
-\1. Le présent Accord entrera en vigueur un mois après la date à laquelle trois Etats membres du Conseil seront devenus Parties
+1\. Le présent Accord entrera en vigueur un mois après la date à laquelle trois Etats membres du Conseil seront devenus Parties
 à l’Accord conformément aux dispositions de l’article 10.
-\2. Pour tout Etat membre qui le signera ultérieurement sans réserve de ratification ou d’acceptation ou le ratifiera ou l’acceptera,
+2\. Pour tout Etat membre qui le signera ultérieurement sans réserve de ratification ou d’acceptation ou le ratifiera ou l’acceptera,
 l’Accord entrera en vigueur un mois après la date de la signature ou du dépôt de l’instrument de ratification ou d’acceptation.
 
 Article 12
-\1. Après l’entrée en vigueur du présent Accord, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non
+1\. Après l’entrée en vigueur du présent Accord, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non
 membre du Conseil à adhérer au présent Accord.
-\2. L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet un mois après la date de son dépôt.
+2\. L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet un mois après la date de son dépôt.
 
 Article 13
-\1. Toute Partie Contractante peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera le présent Accord.
-\2. Toute Partie Contractante peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, ou à tout
+1\. Toute Partie Contractante peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera le présent Accord.
+2\. Toute Partie Contractante peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, ou à tout
 autre moment par la suite, étendre l’application du présent Accord par déclaration adressée au Secrétaire Général du Conseil de
 l’Europe, à tout autre territoire désigné dans la déclaration et dont elle assure les relations internationales ou pour lequel elle est
 habilitée à stipuler.
-\3. Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans
+3\. Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans
 cette déclaration, aux conditions prévues par l’article 14 du présent Accord.
 
 Article 14
-\1. Le présent Accord demeurera en vigueur sans limitation de durée.
-\2. Toute Partie Contractante pourra, en ce qui la concerne, dénoncer le présent Accord en adressant une notification au Secrétaire Général du Conseil de l’Europe.
-\3. La dénonciation prendra effet six mois après la date de la réception de la notification par le Secrétaire Général.
+1\. Le présent Accord demeurera en vigueur sans limitation de durée.
+2\. Toute Partie Contractante pourra, en ce qui la concerne, dénoncer le présent Accord en adressant une notification au Secrétaire Général du Conseil de l’Europe.
+3\. La dénonciation prendra effet six mois après la date de la réception de la notification par le Secrétaire Général.
 
 Article 15
 Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil et à tout Etat ayant adhéré au présent
@@ -3089,12 +3089,12 @@ Le prix des emprises nécessaires pour les redressements de tous les chemins rep
 de l’assise sera supporté moitié par l’Etat et moitié par les communes intéressées.
 Art. 5.
 Seront déclassés:
-1)
+1\)
 
 en chemins repris:
 les tronçons de route énumérés au tableau IV annexé à la présente loi;
 
-2)
+2\)
 
 en chemins vicinaux.
 a) les tronçons de routes énumérés au tableau V annexé à la présente loi;
@@ -3102,11 +3102,11 @@ b) les chemins repris énumérés au tableau VI annexé à la présente loi.
 
 Art. 6.
 Seront classés les chemins étatiques actuellement sans statut:
-1)
+1\)
 
 En chemins repris: les tronçons de voirie énumérés au tableau VII annexé à la présente loi;
 
-2)
+2\)
 
 En routes nationales: les tronçons de voirie énumérés au tableau VIII annexé à la présente loi.
 
@@ -6020,14 +6020,14 @@ domaine international, contribuera à la réalisation de cet objectif,
 SONT CONVENUS de ce qui suit:
 
 Article 1er
-\1. La présente Convention s’applique à la computation des délais en matière civile, commerciale et administrative, y compris la
+1\. La présente Convention s’applique à la computation des délais en matière civile, commerciale et administrative, y compris la
 procédure relative à ces matières, lorsque ces délais sont fixés:
 (a) par la loi ou par une autorité judiciaire ou administrative;
 (b) par une juridiction arbitrale, lorsque cette juridiction n’a pas précisé la méthode à retenir pour la computation du délai; ou
 (c) par les parties, lorsque la méthode de computation n’a pas été convenue entre elles de façon explicite ou implicite et ne
 résulte pas non plus de l’usage ou de pratiques reconnues par les parties.
 Toutefois, la Convention ne s’applique pas aux délais qui sont calculés rétroactivement.
-\2. Nonobstant les dispositions du paragraphe 1, toute Partie Contractante peut, par notification adressée au Secrétaire Général
+2\. Nonobstant les dispositions du paragraphe 1, toute Partie Contractante peut, par notification adressée au Secrétaire Général
 du Conseil de l’Europe, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, ou à tout autre moment
 par la suite, déclarer exclure l’application de toutes ou certaines des dispositions de la Convention pour tous ou certains délais en
 matière administrative. Toute Partie Contractante peut, à tout moment, retirer en tout ou en partie la ­déclaration faite par Elle au
@@ -6039,20 +6039,20 @@ Aux fins de la présente Convention, les mots dies a quo désignent le jour à p
 dies ad quem le jour où le délai expire.
 
 Article 3
-\1. Les délais exprimés en jours, semaines, mois ou années, courent à partir du dies a quo, minuit, jusqu’au dies ad quem, minuit.
-\2. Toutefois, les dispositions du paragraphe précédent ne s’opposent pas à ce qu’un acte, qui doit être accompli avant l­’expiration
+1\. Les délais exprimés en jours, semaines, mois ou années, courent à partir du dies a quo, minuit, jusqu’au dies ad quem, minuit.
+2\. Toutefois, les dispositions du paragraphe précédent ne s’opposent pas à ce qu’un acte, qui doit être accompli avant l­’expiration
 d’un délai, ne puisse l’être le dies ad quem que pendant les heures normales d’ouverture des bureaux.
 
 Article 4
-\1. Lorsqu’un délai est exprimé en semaines, le dies ad quem est le jour de la dernière semaine dont le nom correspond à celui
+1\. Lorsqu’un délai est exprimé en semaines, le dies ad quem est le jour de la dernière semaine dont le nom correspond à celui
 du dies a quo.
-\2. Lorsqu’un délai est exprimé en mois ou en années, le dies ad quem est le jour du dernier mois ou de la dernière année dont
+2\. Lorsqu’un délai est exprimé en mois ou en années, le dies ad quem est le jour du dernier mois ou de la dernière année dont
 la date correspond à celle du dies a quo ou, faute d’une date correspondante, le dernier jour du dernier mois.
 
 \- 121 -
 
 CODE COMMUNAL − Computation des délais
-\3. Lorsqu’un délai est exprimé en mois et en jours, ou en fractions de mois, on compte d’abord les mois entiers, puis les jours ou
+3\. Lorsqu’un délai est exprimé en mois et en jours, ou en fractions de mois, on compte d’abord les mois entiers, puis les jours ou
 les fractions de mois; pour calculer les fractions de mois, on considère qu’un mois est composé de 30 jours.
 
 Article 5
@@ -6070,10 +6070,10 @@ matière faisant l’objet de la présente Convention.
 CLAUSES FINALES
 
 Article 8
-\1. La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera ratifiée ou acceptée.
+1\. La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera ratifiée ou acceptée.
 Les instruments de ratification ou d’acceptation seront déposés près le Secrétaire Général du Conseil de l’Europe.
-\2. La Convention entrera en vigueur trois mois après la date du dépôt du troisième instrument de ratification ou ­d’acceptation.
-\3. Elle entrera en vigueur à l’égard de tout Etat signataire qui la ratifiera ou l’acceptera ultérieurement trois mois après la date du
+2\. La Convention entrera en vigueur trois mois après la date du dépôt du troisième instrument de ratification ou ­d’acceptation.
+3\. Elle entrera en vigueur à l’égard de tout Etat signataire qui la ratifiera ou l’acceptera ultérieurement trois mois après la date du
 dépôt de son instrument de ratification ou d’acceptation.
 
 Article 9
@@ -6081,9 +6081,9 @@ Toute Partie Contractante peut prendre les mesures qu’Elle estime appropriées
 Convention aux délais en cours au moment de l’entrée en vigueur de la Convention à son égard.
 
 Article 10
-\1. Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat
+1\. Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat
 non membre du Conseil à adhérer à la présente Convention.
-\2. L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet trois mois après la date de son dépôt.
+2\. L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet trois mois après la date de son dépôt.
 
 Article 11
 Toute Partie Contractante doit, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, par notification adressée au Secrétaire Général du Conseil de l’Europe, spécifier aux fins de l’Article 5 de la présente Convention, quels sont
@@ -6091,19 +6091,19 @@ sur tout ou partie de son territoire, les jours fériés légaux ou considérés
 contenues dans cette notification seront également notifiés au Secrétaire Général du Conseil de l’Europe.
 
 Article 12
-\1. Toute Partie Contractante peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
-\2. Toute Partie Contractante peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, ou à
+1\. Toute Partie Contractante peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+2\. Toute Partie Contractante peut, au moment du dépôt de son instrument de ratification, d’acceptation ou d’adhésion, ou à
 tout autre moment par la suite, étendre l’application de la présente Convention, par déclaration adressée au Secrétaire Général
 du Conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont Elle assure les relations internationales ou pour
 lequel Elle est habilitée à stipuler.
-\3. Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans
+3\. Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans
 cette déclaration, aux conditions prévues par l’article 13 de la présente Convention.
 
 Article 13
-\1. La présente Convention demeurera en vigueur sans limitation de durée.
-\2. Toute Partie Contractante pourra, en ce qui la concerne, dénoncer la présente Convention en adressant une notification au
+1\. La présente Convention demeurera en vigueur sans limitation de durée.
+2\. Toute Partie Contractante pourra, en ce qui la concerne, dénoncer la présente Convention en adressant une notification au
 Secrétaire Général du Conseil de l’Europe.
-\3. La dénonciation prendra effet six mois après la date de la réception de la notification par le Secrétaire Général.
+3\. La dénonciation prendra effet six mois après la date de la réception de la notification par le Secrétaire Général.
 
 Article 14
 Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil et à tout Etat ayant adhéré à la ­présente
@@ -6533,27 +6533,27 @@ date d’application du présent règlement, les groupements constitués peuvent
 a arrêté le présent règlement:
 
 Article 1er
-\1. Les groupements européens d’intérêt économique sont constitués dans les conditions, selon les modalités et avec les effets
+1\. Les groupements européens d’intérêt économique sont constitués dans les conditions, selon les modalités et avec les effets
 prévus par le présent règlement.
 A cette fin, ceux qui entendent constituer un groupement doivent conclure un contrat et faire procéder à l’immatriculation prévue
 à l’article 6.
-\2. Le groupement ainsi constitué a la capacité, en son propre nom, d’être titulaire de droits et d’obligations de toute nature, de
+2\. Le groupement ainsi constitué a la capacité, en son propre nom, d’être titulaire de droits et d’obligations de toute nature, de
 passer des contrats ou d’accomplir d’autres actes juridiques et d’ester en justice, à dater de l’immatriculation prévue à l’article 6.
-\3. Les Etats membres déterminent si les groupements immatriculés à leurs registres en vertu de l’article 6 ont ou non la personnalité juridique.
+3\. Les Etats membres déterminent si les groupements immatriculés à leurs registres en vertu de l’article 6 ont ou non la personnalité juridique.
 
 Article 2
-\1. Sous réserve des dispositions du présent règlement, la loi applicable, d’une part au contrat de groupement, sauf pour les
+1\. Sous réserve des dispositions du présent règlement, la loi applicable, d’une part au contrat de groupement, sauf pour les
 questions relatives à l’état et à la capacité des personnes physiques et à la capacité des personnes morales, d’autre part au fonctionnement interne du groupement, est la loi interne de l’Etat du siège fixé par le contrat de groupement.
-\2. Lorsqu’un Etat comprend plusieurs unités territoriales dont chacune a ses propres règles applicables aux matières visées
+2\. Lorsqu’un Etat comprend plusieurs unités territoriales dont chacune a ses propres règles applicables aux matières visées
 au paragraphe 1, chaque unité territoriale est considérée comme un Etat aux fins de la détermination de la loi applicable selon le
 présent article.
 
 Article 3
-\1. Le but du groupement est de faciliter ou de développer l’activité économique de ses membres, d’améliorer ou d’accroître les
+1\. Le but du groupement est de faciliter ou de développer l’activité économique de ses membres, d’améliorer ou d’accroître les
 résultats de cette activité; il n’est pas de réaliser des bénéfices pour lui-même.
 Son activité doit se rattacher à l’activité économique de ses membres et ne peut avoir qu’un caractère auxiliaire par rapport à
 celle-ci.
-\2. En conséquence, le groupement ne peut:
+2\. En conséquence, le groupement ne peut:
 a)
 
 exercer, directement ou indirectement, le pouvoir de direction ou de contrôle des activités propres de ses membres ou des
@@ -6582,7 +6582,7 @@ e)
 être membre d’un autre groupement européen d’intérêt économique.
 
 Article 4
-\1) Peuvent seules être membres d’un groupement:
+1\) Peuvent seules être membres d’un groupement:
 a)
 
 les sociétés, au sens de l’article 58, deuxième alinéa du traité, ainsi que les autres entités juridiques de droit public ou privé,
@@ -6598,7 +6598,7 @@ b)
 les personnes physiques exerçant une activité industrielle, commerciale, artisanale, agricole, de profession libérale ou
 d’autres services dans la Communauté.
 
-\2. Un groupement doit être composé au moins:
+2\. Un groupement doit être composé au moins:
 a)
 
 de deux sociétés ou autres entités juridiques, au sens du paragraphe 1, ayant leur administration centrale dans des Etats
@@ -6614,11 +6614,11 @@ c)
 au sens du paragraphe 1, d’une société ou d’une autre entité juridique et d’une personne physique, dont la première a son
 administration centrale dans un Etat membre et la seconde exerce son activité à titre principal dans un Etat membre différent.
 
-\3. Un Etat membre peut prévoir que les groupements immatriculés à ses registres conformément à l’article 6 ne peuvent avoir
+3\. Un Etat membre peut prévoir que les groupements immatriculés à ses registres conformément à l’article 6 ne peuvent avoir
 plus de vingt membres. A cette fin, cet Etat membre peut prévoir que, conformément à sa législation, chaque membre d’une entité
 juridique, constituée en conformité avec sa législation, autre qu’une société immatriculée, soit traité comme membre individuel du
 groupement.
-\4. Tout Etat membre est autorisé à exlure ou restreindre, pour des raisons tenant à son intérêt public, la participation de certaines
+4\. Tout Etat membre est autorisé à exlure ou restreindre, pour des raisons tenant à son intérêt public, la participation de certaines
 catégories de personnes physiques, de sociétés ou d’autres entités juridiques à tout groupement.
 
 Article 5
@@ -6720,11 +6720,11 @@ législation nationale applicable.
 CODE COMMUNAL − Coopération transfrontalière
 
 Article 9
-\1. Les actes et indications soumis à publication par le présent règlement sont opposables aux tiers par le groupement dans
+1\. Les actes et indications soumis à publication par le présent règlement sont opposables aux tiers par le groupement dans
 les conditions prévues par le droit national applicable, conformément à l’article 3 paragraphes 5 et 7 de la directive 68/151/CEE
 du Conseil, du 9 mars 1968, tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées, dans les Etats
 membres, des sociétés au sens de l’article 58 deuxième alinéa du traité pour protéger les intérêts tant des associés que des tiers1.
-\2. Si des actes ont été accomplis au nom d’un groupement avant son immatriculation conformément à l’article 6 et si le
+2\. Si des actes ont été accomplis au nom d’un groupement avant son immatriculation conformément à l’article 6 et si le
 ­groupement ne reprend pas après son immatriculation les engagements résultant de tels actes, les personnes physiques, sociétés
 ou autres entités juridiques qui les ont accomplis en sont solidairement et indéfiniment responsables.
 
@@ -6757,26 +6757,26 @@ Lorsque ce transfert n’a pas pour conséquence un changement de la loi applica
 est prise dans les conditions prévues au contrat de groupement.
 
 Article 14
-\1. Lorsque le transfert du siège a pour conséquence un changement de la loi applicable en vertu de l’article 2, un projet de transfert doit être établi et faire l’objet d’un dépôt et d’une publication dans les conditions prévues aux articles 7 et 8.
+1\. Lorsque le transfert du siège a pour conséquence un changement de la loi applicable en vertu de l’article 2, un projet de transfert doit être établi et faire l’objet d’un dépôt et d’une publication dans les conditions prévues aux articles 7 et 8.
 La décision de transfert ne peut intervenir que deux mois après la publication dudit projet. Elle doit être prise à l’unanimité des
 membres du groupement. Le transfert prend effet à la date à laquelle le groupement est immatriculé, conformément à l’article 6, au
 registre du nouveau siège. Cette immatriculation ne peut s’effectuer que sur preuve de la publication du projet de transfert du siège.
-\2. La radiation de l’immatriculation du groupement au registre du précédent siège ne peut s’effectuer que sur preuve de l’immatriculation du groupement au registre du nouveau siège.
-\3. La publication de la nouvelle immatriculation du groupement rend le nouveau siège opposable aux tiers dans les conditions
+2\. La radiation de l’immatriculation du groupement au registre du précédent siège ne peut s’effectuer que sur preuve de l’immatriculation du groupement au registre du nouveau siège.
+3\. La publication de la nouvelle immatriculation du groupement rend le nouveau siège opposable aux tiers dans les conditions
 visées à l’article 9 paragraphe 1; toutefois tant que la publication de la radiation de l’immatriculation au registre du ­précédent siège
 n’a pas eu lieu, les tiers peuvent continuer de se prévaloir de l’ancien siège, à moins que le groupement ne prouve que les tiers
 avaient connaissance du nouveau siège.
-\4. La législation d’un Etat membre peut prévoir, en ce qui concerne les groupements immatriculés dans ce dernier ­conformément
+4\. La législation d’un Etat membre peut prévoir, en ce qui concerne les groupements immatriculés dans ce dernier ­conformément
 à l’article 6, qu’un transfert du siège, dont résulterait un changement de la loi applicable, ne prend pas effet si, dans le délai de deux
 mois visé au paragraphe 1, une autorité compétente de cet Etat s’y oppose. Cette opposition ne peut avoir lieu que pour des raisons
 d’intérêt public. Elle doit être susceptible de recours devant une autorité judiciaire.
 
 Article 15
-\1. Lorsque la loi applicable au groupement en vertu de l’article 2 prévoit la nullité du groupement, cette nullité doit être ­constatée
+1\. Lorsque la loi applicable au groupement en vertu de l’article 2 prévoit la nullité du groupement, cette nullité doit être ­constatée
 ou prononcée par décision judiciaire. Toutefois, le tribunal saisi doit, lorsqu’une régularisation de la situation du ­groupement est
 possible, accorder un délai permettant de procéder à cette régularisation.
-\2. La nullité du groupement entraîne la liquidation de celui-ci dans les conditions prévues à l’article 35.
-\3. La décision constatant ou prononçant la nullité du groupement est opposable aux tiers dans les conditions visées à l’article
+2\. La nullité du groupement entraîne la liquidation de celui-ci dans les conditions prévues à l’article 35.
+3\. La décision constatant ou prononçant la nullité du groupement est opposable aux tiers dans les conditions visées à l’article
 9 paragraphe 1.
 Cette décision ne porte pas atteinte par elle-même à la validité des obligations nées à la charge ou au profit du groupement
 antérieurement à la date à laquelle elle devient opposable aux tiers dans les conditions visées à l’alinéa précédent.
@@ -6788,15 +6788,15 @@ JO n° L 65 du 14.3.1968, p. 8.
 CODE COMMUNAL − Coopération transfrontalière
 
 Article 16
-\1. Les organes du groupement sont les membres agissant collégialement et le ou les gérants.
+1\. Les organes du groupement sont les membres agissant collégialement et le ou les gérants.
 Le contrat de groupement peut prévoir d’autres organes; il en détermine alors les pouvoirs.
-\2. Les membres du groupement, agissant en tant qu’organe, peuvent prendre toute décision en vue de la réalisation de l’objet
+2\. Les membres du groupement, agissant en tant qu’organe, peuvent prendre toute décision en vue de la réalisation de l’objet
 du groupement.
 
 Article 17
-\1. Chaque membre dispose d’une voix. Le contrat de groupement peut toutefois attribuer plusieurs voix à certains membres, à
+1\. Chaque membre dispose d’une voix. Le contrat de groupement peut toutefois attribuer plusieurs voix à certains membres, à
 condition qu’aucun d’eux ne détienne la majorité des voix.
-\2. Les membres ne peuvent décider qu’à l’unanimité de:
+2\. Les membres ne peuvent décider qu’à l’unanimité de:
 a)
 
 modifier l’objet du groupement;
@@ -6826,9 +6826,9 @@ g)
 procéder à toute modification du contrat de groupement non visée au présent paragraphe, à moins que ce contrat n’en
 dispose autrement.
 
-\3. Dans tous les cas où le présent règlement ne prévoit pas que les décisions doivent être prises à l’unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions, ou certaines d’entre elles, seront
+3\. Dans tous les cas où le présent règlement ne prévoit pas que les décisions doivent être prises à l’unanimité, le contrat de groupement peut déterminer les conditions de quorum et de majorité dans lesquelles les décisions, ou certaines d’entre elles, seront
 prises. Dans le silence du contrat, les décisions sont prises à l’unanimité.
-\4. A l’initiative d’un gérant ou à la demande d’un membre, le ou les gérants doivent organiser une consultation des membres afin
+4\. A l’initiative d’un gérant ou à la demande d’un membre, le ou les gérants doivent organiser une consultation des membres afin
 que ces derniers prennent une décision.
 
 Article 18
@@ -6836,7 +6836,7 @@ Chaque membre a le droit d’obtenir des gérants des renseignements sur les aff
 des livres et documents d’affaires.
 
 Article 19
-\1. Le groupement est géré par une ou plusieurs personnes physiques nommées dans le contrat de groupement ou par une
+1\. Le groupement est géré par une ou plusieurs personnes physiques nommées dans le contrat de groupement ou par une
 décision des membres.
 Ne peuvent être gérants d’un groupement les personnes qui:
 –
@@ -6855,47 +6855,47 @@ ou
 
 ne peuvent faire partie de l’organe d’administration ou de direction d’une société, ne peuvent gérer une entreprise ou ne peuvent
 agir en qualité de gérant d’un groupement européen d’intérêt économique.
-\2. Un Etat membre peut prévoir, pour les groupements immatriculés à ses registres en vertu de l’article 6, qu’une personne
+2\. Un Etat membre peut prévoir, pour les groupements immatriculés à ses registres en vertu de l’article 6, qu’une personne
 morale peut être gérant, à condition qu’elle désigne un ou des représentants, personnes physiques, qui doivent faire l’objet de la
 mention prévue à l’article 7, point d).
 Si un Etat membre exerce cette option, il doit prévoir que ce ou ces représentants encourent la même responsabilité que s’ils
 étaient eux-mêmes gérants du groupement.
 Les interdictions prévues au paragraphe 1 s’appliquent également à ces représentants.
-\3. Le contrat de groupement ou, à défaut, une décision unanime des membres détermine les conditions de nomination et de
+3\. Le contrat de groupement ou, à défaut, une décision unanime des membres détermine les conditions de nomination et de
 révocation du ou des gérants et fixe leurs pouvoirs.
 
 Article 20
-\1. A l’égard des tiers, seul le gérant ou, s’ils sont plusieurs, chacun des gérants représente le groupement.
+1\. A l’égard des tiers, seul le gérant ou, s’ils sont plusieurs, chacun des gérants représente le groupement.
 Chacun des gérants engage le groupement envers les tiers lorsqu’il agit au nom du groupement, même si ses actes ne relèvent
 pas de l’objet de celui-ci, à moins que le groupement ne prouve que le tiers savait que l’acte dépassait les limites de l’objet du groupement ou ne pouvait l’ignorer, compte tenu des circonstances, étant exclu que la seule publication de la mention visée à l’article 5
 point c) suffise à constituer cette preuve.
 Toute limitation, apportée par le contrat de groupement ou par une décision des membres, aux pouvoirs du ou des gérants est
 inopposable aux tiers, même si elle est publiée.
-\2. Le contrat de groupement peut prévoir que le groupement n’est valablement engagé que par deux ou plusieurs gérants agissant conjointement. Cette clause n’est opposable aux tiers, dans les conditions visées à l’article 9 paragraphe 1, que si elle est
+2\. Le contrat de groupement peut prévoir que le groupement n’est valablement engagé que par deux ou plusieurs gérants agissant conjointement. Cette clause n’est opposable aux tiers, dans les conditions visées à l’article 9 paragraphe 1, que si elle est
 publiée conformément à l’article 8.
 \- 135 -
 
 CODE COMMUNAL − Coopération transfrontalière
 
 Article 21
-\1. Les bénéfices provenant des activités du groupement sont considérés comme bénéfices des membres et répartis entre eux
+1\. Les bénéfices provenant des activités du groupement sont considérés comme bénéfices des membres et répartis entre eux
 dans la proportion prévue au contrat de groupement ou à défaut par parts égales.
-\2. Les membres du groupement contribuent au règlement de l’excédent des dépenses sur les recettes dans la proportion prévue
+2\. Les membres du groupement contribuent au règlement de l’excédent des dépenses sur les recettes dans la proportion prévue
 au contrat de groupement ou, à défaut, par parts égales.
 
 Article 22
-\1. Tout membre du groupement peut céder sa participation dans le groupement, ou une fraction de celle-ci, soit à un autre
+1\. Tout membre du groupement peut céder sa participation dans le groupement, ou une fraction de celle-ci, soit à un autre
 membre, soit à un tiers; l’effet de la cession est subordonné à une autorisation donnée à l’unanimité par les autres membres.
-\2. Un membre du groupement ne peut constituer une sûreté sur sa participation dans le groupement qu’après autorisation donnée à l’unanimité par les autres membres, à moins que le contrat de groupement n’en dispose autrement. Le titulaire de la sûreté
+2\. Un membre du groupement ne peut constituer une sûreté sur sa participation dans le groupement qu’après autorisation donnée à l’unanimité par les autres membres, à moins que le contrat de groupement n’en dispose autrement. Le titulaire de la sûreté
 ne peut, à aucun moment, devenir membre du groupement du fait de cette sûreté.
 
 Article 23
 Le groupement ne peut faire publiquement appel à l’épargne.
 
 Article 24
-\1. Les membres du groupement répondent indéfiniment et solidairement des dettes de toute nature de celui-ci. La loi ­nationale
+1\. Les membres du groupement répondent indéfiniment et solidairement des dettes de toute nature de celui-ci. La loi ­nationale
 détermine les conséquences de cette responsabilité.
-\2. Jusqu’à la clôture de la liquidation du groupement, les créanciers du groupement ne peuvent poursuivre le paiement des
+2\. Jusqu’à la clôture de la liquidation du groupement, les créanciers du groupement ne peuvent poursuivre le paiement des
 dettes contre un membre, dans les conditions prévues au paragraphe 1, qu’après avoir demandé au groupement de payer et que
 si le paiement n’a pas été effectué dans un délai suffisant.
 
@@ -6928,27 +6928,27 @@ ci-dessus, accompagnées de celles relatives à sa propre immatriculation, sur l
 article qui émanent de cet établissement.
 
 Article 26
-\1. La décision d’admettre de nouveaux membres est prise à l’unanimité des membres du groupement.
-\2. Tout nouveau membre répond, dans les conditions prévues à l’article 24, des dettes du groupement, y compris celles découlant de l’activité du groupement antérieure à son entrée.
+1\. La décision d’admettre de nouveaux membres est prise à l’unanimité des membres du groupement.
+2\. Tout nouveau membre répond, dans les conditions prévues à l’article 24, des dettes du groupement, y compris celles découlant de l’activité du groupement antérieure à son entrée.
 Il peut toutefois être exonéré, par une clause du contrat de groupement ou de l’acte d’admission, du paiement des dettes nées
 antérieurement à son entrée. Cette clause n’est opposable aux tiers, dans les conditions visées à l’article 9 paragraphe 1, que si
 elle est publiée conformément à l’article 8.
 
 Article 27
-\1. La démission d’un membre du groupement est possible dans les conditions prévues au contrat de groupement ou, à défaut,
+1\. La démission d’un membre du groupement est possible dans les conditions prévues au contrat de groupement ou, à défaut,
 avec l’accord unanime des autres membres.
 Tout membre du groupement peut, en outre, démissionner pour juste motif.
-\2. Tout membre du groupement peut être exclu pour des motifs énumérés dans le contrat de groupement et, en tout cas, lorsqu’il
+2\. Tout membre du groupement peut être exclu pour des motifs énumérés dans le contrat de groupement et, en tout cas, lorsqu’il
 contrevient gravement à ses obligations ou lorsqu’il cause ou menace de causer des troubles graves dans le fonctionnement du
 groupement.
 Cette exclusion ne peut avoir lieu que sur décision du tribunal prise à la demande conjointe de la majorité des autres membres,
 à moins que le contrat de groupement n’en dispose autrement.
 
 Article 28
-\1. Tout membre du groupement cesse d’en faire partie au moment de son décès ou au moment où il ne répond plus aux conditions fixées à l’article 4 paragraphe 1.
+1\. Tout membre du groupement cesse d’en faire partie au moment de son décès ou au moment où il ne répond plus aux conditions fixées à l’article 4 paragraphe 1.
 En outre, un Etat membre peut prévoir, pour les besoins de sa législation en matière de liquidation, de dissolution, d’insolvabilité
 ou de cessation des paiements qu’un membre d’un groupement cesse d’en faire partie au moment fixé par ladite législation.
-\2. En cas de décès d’une personne physique membre du groupement, nul ne peut prendre sa place dans le groupement si ce
+2\. En cas de décès d’une personne physique membre du groupement, nul ne peut prendre sa place dans le groupement si ce
 n’est dans les conditions prévues au contrat de groupement ou, à défaut, avec l’accord unanime des membres restants.
 \- 136 -
 
@@ -6966,9 +6966,9 @@ d’en faire partie, dans les conditions prévues par le contrat de groupement o
 considérés.
 
 Article 31
-\1. Le groupement peut être dissous par une décision de ses membres prononçant cette dissolution. Cette décision est prise à
+1\. Le groupement peut être dissous par une décision de ses membres prononçant cette dissolution. Cette décision est prise à
 l’unanimité, à moins que le contrat de groupement n’en dispose autrement.
-\2. Le groupement doit être dissous par une décision de ses membres
+2\. Le groupement doit être dissous par une décision de ses membres
 a)
 
 constatant l’arrivée du terme fixé dans le contrat de groupement ou de toute autre cause de dissolution prévue par ce
@@ -6980,17 +6980,17 @@ b)
 constatant la réalisation de l’objet du groupement ou l’impossibilité de le poursuivre.
 
 Si, trois mois après la survenance d’une des situations visées à l’alinéa précédent, la décision des membres constatant la dissolution du groupement n’a pas été prise, tout membre peut demander au tribunal de prononcer cette dissolution.
-\3. Le groupement doit également être dissous par une décision de ses membres ou du membre restant lorsque les ­conditions
+3\. Le groupement doit également être dissous par une décision de ses membres ou du membre restant lorsque les ­conditions
 de l’article 4 paragraphe 2 ne sont plus remplies.
-\4. Après dissolution du groupement par une décision de ses membres, le ou les gérants doivent mettre en oeuvre les ­obligations
+4\. Après dissolution du groupement par une décision de ses membres, le ou les gérants doivent mettre en oeuvre les ­obligations
 appropriées énoncées aux articles 7 et 8. En outre, tout intéressé peut mettre en oeuvre lesdites obligations.
 
 Article 32
-\1. A la demande de tout intéressé ou d’une autorité compétente, le tribunal doit prononcer la dissolution du groupement en cas
+1\. A la demande de tout intéressé ou d’une autorité compétente, le tribunal doit prononcer la dissolution du groupement en cas
 de violation des articles 3 ou 12 ou de l’article 31 paragraphe 3, à moins qu’une régularisation de la situation du groupement ne soit
 possible et n’intervienne avant qu’il ait été statué sur le fond.
-\2. Sur demande d’un membre, le tribunal peut prononcer la dissolution du groupement pour juste motif.
-\3. Un Etat membre peut prévoir que le tribunal peut, sur demande d’une autorité compétente, prononcer la dissolution d’un groupement ayant son siège dans l’Etat dont relève cette autorité dans tous les cas où le groupement, par son activité, ­contrevient à
+2\. Sur demande d’un membre, le tribunal peut prononcer la dissolution du groupement pour juste motif.
+3\. Un Etat membre peut prévoir que le tribunal peut, sur demande d’une autorité compétente, prononcer la dissolution d’un groupement ayant son siège dans l’Etat dont relève cette autorité dans tous les cas où le groupement, par son activité, ­contrevient à
 l’intérêt public de cet Etat, si une telle possibilité existe dans la législation de ce dernier pour des sociétés immatriculées ou d’autres
 entités juridiques soumises à cette législation.
 
@@ -7005,24 +7005,24 @@ Sans préjudice de l’article 37, paragraphe 1, tout membre qui cesse de faire 
 prévues à l’article 24, des dettes découlant de l’activité du groupement antérieure à la cessation de sa qualité de membre.
 
 Article 35
-\1. La dissolution du groupement entraîne sa liquidation.
-\2. La liquidation du groupement et la clôture de cette liquidation sont régies par le droit national.
-\3. La capacité du groupement, au sens de l’article 1er paragraphe 2, subsiste jusqu’à la clôture de la liquidation.
-\4. Le ou les liquidateurs mettent en oeuvre les obligations appropriées énoncées aux articles 7 et 8.
+1\. La dissolution du groupement entraîne sa liquidation.
+2\. La liquidation du groupement et la clôture de cette liquidation sont régies par le droit national.
+3\. La capacité du groupement, au sens de l’article 1er paragraphe 2, subsiste jusqu’à la clôture de la liquidation.
+4\. Le ou les liquidateurs mettent en oeuvre les obligations appropriées énoncées aux articles 7 et 8.
 
 Article 36
 Les groupements européens d’intérêt économique sont soumis aux dispositions du droit national régissant l’insolvabilité et la
 cessation des paiements. L’ouverture d’une procédure à l’encontre d’un groupement en raison de son insolvabilité ou de sa cessation des paiements n’entraîne pas d’elle-même l’ouverture d’une telle procédure à l’encontre des membres de ce ­groupement.
 
 Article 37
-\1. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans
+1\. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans
 à compter de la publication, conformément à l’article 8, du départ d’un membre du groupement pour les actions contre ce membre
 relatives aux dettes qui découlent de l’activité du groupement antérieure à la cessation de sa qualité de membre.
 
 \- 137 -
 
 CODE COMMUNAL − Coopération transfrontalière
-\2. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans
+2\. Est substitué à tout délai plus long éventuellement prévu par le droit national applicable, le délai de prescription de cinq ans
 à compter de la publication, conformément à l’article 8,de la clôture de la liquidation du groupement pour les actions contre un
 membre du groupement relatives aux dettes qui découlent de l’activité de ce groupement.
 
@@ -7032,7 +7032,7 @@ compétente de celui-ci peut interdire cette activité. La décision de l’auto
 autorité judiciaire.
 
 Article 39
-\1. Les Etats membres désignent le ou les registres compétents pour procéder à l’immatriculation visée aux articles 6 et 10 et
+1\. Les Etats membres désignent le ou les registres compétents pour procéder à l’immatriculation visée aux articles 6 et 10 et
 déterminent les règles applicables à celle-ci. Ils fixent les conditions dans lesquelles s’effectue le dépôt des documents visés aux
 articles 7 et 10. Ils s’assurent que les actes et indications visés à l’article 8 sont publiés dans le bulletin officiel approprié de l’Etat
 membre où le groupement a son siège, et prévoient éventuellement les modes de publication des actes et indications visés à
@@ -7041,22 +7041,22 @@ En outre, les Etats membres s’assurent que chacun peut prendre connaissance, a
 ou, le cas échéant, de l’article 10, des documents visés à l’article 7 et en obtenir, même par la poste, copie intégrale ou partielle.
 Les Etats membres peuvent prévoir le paiement des frais afférents aux opérations visées aux alinéas précédents, sans que le
 montant de ces frais puisse être supérieur au coût administratif.
-\2. Les Etats membres s’assurent que les indications qui doivent être publiées au Journal officiel des Communautés ­européennes
+2\. Les Etats membres s’assurent que les indications qui doivent être publiées au Journal officiel des Communautés ­européennes
 en vertu de l’article 11 sont communiquées à l’office des publications officielles des Communautés européennes dans le mois suivant la publication au bulletin officiel visé au paragraphe 1.
-\3. Les Etats membres prévoient les sanctions appropriées en cas de manquement aux dispositions des articles 7, 8 et 10 en
+3\. Les Etats membres prévoient les sanctions appropriées en cas de manquement aux dispositions des articles 7, 8 et 10 en
 matière de publicité et en cas de manquement aux dispositions de l’article 25.
 
 Article 40
 Le résultat provenant de l’activité du groupement n’est imposable qu’au niveau de ses membres.
 
 Article 41
-\1. Les Etats membres prennent les mesures requises en vertu de l’article 39 avant le 1er juillet 1989. Ils les communiquent immédiatement à la Commission.
-\2. A titre d’information, les Etats membres communiquent à la Commission les catégories de personnes physiques, de ­sociétés et
+1\. Les Etats membres prennent les mesures requises en vertu de l’article 39 avant le 1er juillet 1989. Ils les communiquent immédiatement à la Commission.
+2\. A titre d’information, les Etats membres communiquent à la Commission les catégories de personnes physiques, de ­sociétés et
 d’autres entités juridiques qu’ils excluent de la participation à un groupement conformément à l’article 4 paragraphe 4.
 La Commission en informe les autres Etats membres.
 
 Article 42
-\1. Il est institué auprès de la Commission, dès l’adoption du présent règlement, un comité de contact ayant pour mission:
+1\. Il est institué auprès de la Commission, dès l’adoption du présent règlement, un comité de contact ayant pour mission:
 a)
 
 de faciliter,sans préjudice des articles 169 et 170 du traité, la mise en oeuvre du présent règlement par une concertation
@@ -7066,10 +7066,10 @@ b)
 
 de conseiller, si nécessaire, la Commission au sujet des compléments ou amendements à apporter au présent ­règlement.
 
-\2. Le comité de contact est composé de représentants des Etats membres ainsi que de représentants de la Commission.
+2\. Le comité de contact est composé de représentants des Etats membres ainsi que de représentants de la Commission.
 La présidence est assurée par un représentant de la Commission.
 Le secrétariat est assuré par les services de la Commission.
-\3. Le comité de contact est convoqué par son président, soit à l’initiative de celui-ci, soit à la demande d’un de ses membres.
+3\. Le comité de contact est convoqué par son président, soit à l’initiative de celui-ci, soit à la demande d’un de ses membres.
 
 Article 43
 Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel des Communautés
@@ -7200,18 +7200,18 @@ d’un pays tiers ou des accords entre États membres et pays tiers le permetten
 ONT ARRÊTÉ LE PRÉSENT RÈGLEMENT:
 
 Article premier. Nature du GECT
-\1. Le groupement européen de coopération territoriale, ci-après dénommé «GECT», peut être constitué sur le territoire de la
+1\. Le groupement européen de coopération territoriale, ci-après dénommé «GECT», peut être constitué sur le territoire de la
 Communauté, dans les conditions et selon les modalités prévues par le présent règlement.
-\2. Le GECT a pour objet de faciliter et de promouvoir la coopération transfrontalière, transnationale et/ou interrégionale, ci-après
+2\. Le GECT a pour objet de faciliter et de promouvoir la coopération transfrontalière, transnationale et/ou interrégionale, ci-après
 dénommée «coopération territoriale», entre ses membres tels que visés à l’article 3, paragraphe 1, dans le but exclusif de renforcer
 la cohésion économique et sociale.
-\3. Le GECT a la personnalité juridique.
-\4. Le GECT possède dans chacun des États membres la capacité juridique la plus large reconnue aux personnes morales par
+3\. Le GECT a la personnalité juridique.
+4\. Le GECT possède dans chacun des États membres la capacité juridique la plus large reconnue aux personnes morales par
 la législation nationale de l’État membre. Il peut notamment acquérir ou aliéner des biens mobiliers et immobiliers, employer du
 personnel et ester en justice.
 
 Article 2. Droit applicable
-\1. Le GECT est régi par ce qui suit:
+1\. Le GECT est régi par ce qui suit:
 a)
 
 le présent règlement;
@@ -7227,11 +7227,11 @@ le GECT a son siège.
 
 Lorsqu’il est nécessaire, en vertu du droit communautaire ou du droit international privé, de définir le droit qui régit les actes d’un
 GECT, le GECT est traité comme une entité de l’État membre où il a son siège.
-\2. Lorsqu’un État membre comprend plusieurs entités territoriales ayant leurs propres règles de droit applicable, le droit applicable au titre du paragraphe l, point c), comprend le droit de ces entités, compte tenu de la structure constitutionnelle de l’État
+2\. Lorsqu’un État membre comprend plusieurs entités territoriales ayant leurs propres règles de droit applicable, le droit applicable au titre du paragraphe l, point c), comprend le droit de ces entités, compte tenu de la structure constitutionnelle de l’État
 membre concerné.
 
 Article 3. Composition du GECT
-\1. Le GECT est composé de membres, dans les limites de leurs compétences en vertu du droit national, appartenant à une ou
+1\. Le GECT est composé de membres, dans les limites de leurs compétences en vertu du droit national, appartenant à une ou
 plusieurs des catégories suivantes:
 a)
 
@@ -7252,11 +7252,11 @@ européen et du Conseil du 31 mars 2004 relative à la coordination des procédu
 travaux, de fournitures et de services1.
 
 Les associations composées d’organismes appartenant à une ou à plusieurs de ces catégories peuvent également être membres.
-\2. Les membres d’un GECT sont situés sur le territoire d’au moins deux États membres.
+2\. Les membres d’un GECT sont situés sur le territoire d’au moins deux États membres.
 
 Article 4. Constitution du GECT
-\1. La décision de constituer un GECT est prise à l’initiative de ses membres potentiels.
-\2. Chaque membre potentiel:
+1\. La décision de constituer un GECT est prise à l’initiative de ses membres potentiels.
+2\. Chaque membre potentiel:
 a)
 
 notifie à l’État membre selon le droit duquel il a été créé son intention de participer à un GECT; et
@@ -7265,7 +7265,7 @@ b)
 
 transmet à cet État membre une copie du projet de convention et des statuts visés aux articles 8 et 9 du présent ­règlement.
 
-\3. A la suite de la notification par un membre potentiel, telle que prévue au paragraphe 2, l’État membre concerné marque son
+3\. A la suite de la notification par un membre potentiel, telle que prévue au paragraphe 2, l’État membre concerné marque son
 accord, en tenant compte de sa structure constitutionnelle, sur la participation du membre potentiel au GECT, sauf s’il considère
 qu’une telle participation ne respecte pas le présent règlement ou le droit national, y compris les pouvoirs et les devoirs du membre
 potentiel, ou qu’elle n’est pas motivée ni par l’intérêt général ni au nom de l’ordre public de cet État membre. Dans ce cas, l’État
@@ -7279,54 +7279,54 @@ JO L 134 du 30.4.2004, p. 114. Directive modifiée en dernier lieu par le règle
 
 CODE COMMUNAL − Coopération transfrontalière
 Lorsqu’ils prennent une décision concernant la participation du membre potentiel au GECT, les États membres peuvent appliquer les règles nationales.
-\4. Les États membres désignent les autorités compétentes pour la réception des notifications et des documents prévus au
+4\. Les États membres désignent les autorités compétentes pour la réception des notifications et des documents prévus au
 paragraphe 2.
-\5. Les membres approuvent la convention visée à l’article 8 et les statuts visés à l’article 9, en veillant à la cohérence avec
+5\. Les membres approuvent la convention visée à l’article 8 et les statuts visés à l’article 9, en veillant à la cohérence avec
 l’accord donné par les États membres conformément au paragraphe 3 du présent article.
-\6. Toute modification de la convention et toute modification substantielle des statuts doivent être approuvées par les États
+6\. Toute modification de la convention et toute modification substantielle des statuts doivent être approuvées par les États
 membres conformément à la procédure prévue dans le présent article. Les modifications substantielles des statuts sont celles qui
 entraînent, directement ou indirectement, une modification de la convention.
 
 Article 5. Acquisition de la personnalité juridique et publication au Journal officiel
-\1. Les statuts visés à l’article 9 et toute modification ultérieure de ceux-ci sont enregistrés et/ou publiés conformément au droit
+1\. Les statuts visés à l’article 9 et toute modification ultérieure de ceux-ci sont enregistrés et/ou publiés conformément au droit
 national applicable dans l’État membre où le GECT a son siège. Le GECT acquiert la personnalité juridique le jour de l’enregistrement ou de la publication, selon ce qui se produit en premier. Les membres informent les États membres concernés et le Comité
 des régions de la convention ainsi que de l’enregistrement et/ou de la publication des statuts.
-\2. Le GECT s’assure que, dans un délai de dix jours ouvrables à compter de l’enregistrement et/ou de la publication des statuts,
+2\. Le GECT s’assure que, dans un délai de dix jours ouvrables à compter de l’enregistrement et/ou de la publication des statuts,
 une demande de publication d’un avis au Journal officiel de l’Union européenne annonçant la constitution du GECT, et comportant
 son nom, ses objectifs et la liste de ses membres ainsi que le lieu de son siège, est transmise à l’Office des publications officielles
 des Communautés européennes.
 
 Article 6. Contrôle de la gestion des fonds publics
-\1. Le contrôle de la gestion des fonds publics par un GECT est assuré par les autorités compétentes de l’État membre où le
+1\. Le contrôle de la gestion des fonds publics par un GECT est assuré par les autorités compétentes de l’État membre où le
 GECT a son siège. L’État membre où le GECT a son siège désigne l’autorité compétente pour cette tâche avant d’approuver la
 participation au GECT en vertu de l’article 4.
-\2. Lorsque la législation nationale des autres États membres concernés le prévoit, les autorités de l’État membre où le GECT a
+2\. Lorsque la législation nationale des autres États membres concernés le prévoit, les autorités de l’État membre où le GECT a
 son siège prennent des dispositions pour que les autorités compétentes dans les autres États membres concernés contrôlent sur
 leur territoire les actes exécutés par le GECT dans ces États membres et échangent toutes les informations appropriées.
-\3. Tous les contrôles sont effectués conformément aux normes d’audit reconnues sur le plan international.
-\4. Nonobstant les paragraphes 1, 2 et 3, lorsque la mission d’un GECT visée à l’article 7, paragraphe 3, premier et deuxième
+3\. Tous les contrôles sont effectués conformément aux normes d’audit reconnues sur le plan international.
+4\. Nonobstant les paragraphes 1, 2 et 3, lorsque la mission d’un GECT visée à l’article 7, paragraphe 3, premier et deuxième
 alinéas, couvre des actions cofinancées par la Communauté, la législation pertinente en matière de contrôle des fonds communautaires est applicable.
-\5. L’État membre où le GECT a son siège informe les autres États membres concernés des difficultés éventuelles auxquelles il
+5\. L’État membre où le GECT a son siège informe les autres États membres concernés des difficultés éventuelles auxquelles il
 s’est heurté pendant les contrôles.
 
 Article 7. Missions
-\1. Le GECT exécute les missions qui lui ont été confiées par ses membres conformément au présent règlement. Elles sont définies par la convention conclue par ses membres, conformément aux articles 4 et 8.
-\2. Le GECT agit dans le cadre des missions qui lui sont confiées, qui se limitent à faciliter et à promouvoir la coopération territoriale afin de renforcer la cohésion économique et sociale, et qui sont déterminées par ses membres, étant entendu qu’elles doivent
+1\. Le GECT exécute les missions qui lui ont été confiées par ses membres conformément au présent règlement. Elles sont définies par la convention conclue par ses membres, conformément aux articles 4 et 8.
+2\. Le GECT agit dans le cadre des missions qui lui sont confiées, qui se limitent à faciliter et à promouvoir la coopération territoriale afin de renforcer la cohésion économique et sociale, et qui sont déterminées par ses membres, étant entendu qu’elles doivent
 toutes relever de la compétence de chacun d’entre eux en vertu de son droit national.
-\3. Plus particulièrement, les missions du GECT se limitent principalement à la mise en œuvre des programmes ou des projets
+3\. Plus particulièrement, les missions du GECT se limitent principalement à la mise en œuvre des programmes ou des projets
 de coopération territoriale cofinancés par la Communauté, au titre du Fonds européen de développement régional, du Fonds social
 européen et/ou du Fonds de cohésion.
 Les GECT peuvent réaliser d’autres actions spécifiques de coopération territoriale entre leurs membres et dans le cadre de
 l’objectif visé à l’article 1er, paragraphe 2, avec ou sans contribution financière communautaire.
 Les États membres peuvent limiter la mission que les GECT peuvent réaliser sans contribution financière communautaire. Toutefois, cette mission couvre au moins les actions de coopération énumérées à l’article 6 du règlement (CE) no 1080/2006.
-\4. La mission confiée à un GECT par ses membres ne concerne pas l’exercice de pouvoirs conférés par le droit public ni de
+4\. La mission confiée à un GECT par ses membres ne concerne pas l’exercice de pouvoirs conférés par le droit public ni de
 fonctions dont l’objet est la sauvegarde des intérêts généraux de l’État ou d’autres collectivités publiques, comme les pouvoirs de
 police et de réglementation, la justice et la politique étrangère.
-\5. Les membres d’un GECT peuvent décider à l’unanimité de déléguer l’exécution de sa mission à l’un d’entre eux.
+5\. Les membres d’un GECT peuvent décider à l’unanimité de déléguer l’exécution de sa mission à l’un d’entre eux.
 
 Article 8. Convention
-\1. Le GECT fait l’objet d’une convention conclue à l’unanimité par ses membres conformément à l’article 4.
-\2. La convention précise:
+1\. Le GECT fait l’objet d’une convention conclue à l’unanimité par ses membres conformément à l’article 4.
+2\. La convention précise:
 a)
 
 le nom du GECT et le lieu de son siège, qui se trouve dans un État membre selon les lois duquel au moins un des membres
@@ -7359,8 +7359,8 @@ g)
 les procédures de modification de la convention, dans le respect des obligations énoncées aux articles 4 et 5.
 
 Article 9. Statuts
-\1. Les statuts d’un GECT sont adoptés, sur la base de la convention, par ses membres statuant à l’unanimité.
-\2. Les statuts d’un GECT contiennent, au minimum, toutes les dispositions de la convention ainsi que les éléments suivants:
+1\. Les statuts d’un GECT sont adoptés, sur la base de la convention, par ses membres statuant à l’unanimité.
+2\. Les statuts d’un GECT contiennent, au minimum, toutes les dispositions de la convention ainsi que les éléments suivants:
 a)
 
 les modalités de fonctionnement des organes de direction du GECT et leurs compétences, ainsi que le nombre de représentants des membres dans les organes de direction concernés;
@@ -7395,7 +7395,7 @@ h)
 les procédures de modification des statuts, dans le respect des obligations énoncées aux articles 4 et 5.
 
 Article 10. Organisation du GECT
-\1. Un GECT dispose au moins des organes suivants:
+1\. Un GECT dispose au moins des organes suivants:
 a)
 
 une assemblée constituée par les représentants de ses membres;
@@ -7404,20 +7404,20 @@ b)
 
 un directeur, qui représente le GECT et agit au nom et pour le compte de celui-ci.
 
-\2. Les statuts peuvent prévoir des organes de direction supplémentaires dotés de pouvoirs clairement définis.
-\3. Un GECT est responsable des actes de ses organes de direction vis-à-vis des tiers, même lorsque de tels actes ne relèvent
+2\. Les statuts peuvent prévoir des organes de direction supplémentaires dotés de pouvoirs clairement définis.
+3\. Un GECT est responsable des actes de ses organes de direction vis-à-vis des tiers, même lorsque de tels actes ne relèvent
 pas des tâches du GECT.
 
 Article 11. Budget
-\1. Un GECT établit un budget annuel, à adopter par l’assemblée, comportant en particulier un volet de fonctionnement et, le cas
+1\. Un GECT établit un budget annuel, à adopter par l’assemblée, comportant en particulier un volet de fonctionnement et, le cas
 échéant, un volet opérationnel.
-\2. L’établissement des comptes du GECT, et, le cas échéant, du rapport annuel les accompagnant, ainsi que le contrôle et la
+2\. L’établissement des comptes du GECT, et, le cas échéant, du rapport annuel les accompagnant, ainsi que le contrôle et la
 publication de ces comptes sont régis comme prévu à l’article 2, paragraphe 1, point c).
 
 Article 12. Liquidation, insolvabilité, cessation de paiement et responsabilité
-\1. En ce qui concerne la liquidation, l’insolvabilité, la cessation des paiements et autres procédures analogues, le GECT est
+1\. En ce qui concerne la liquidation, l’insolvabilité, la cessation des paiements et autres procédures analogues, le GECT est
 soumis à la législation de l’État membre dans lequel il a son siège, sauf disposition contraire prévue aux paragraphes 2 et 3.
-\2. Le GECT est responsable de ses dettes, de quelque nature qu’elles soient.
+2\. Le GECT est responsable de ses dettes, de quelque nature qu’elles soient.
 Dans la mesure où les avoirs d’un GECT sont insuffisants pour honorer ses engagements, ses membres sont ­responsables des
 dettes de celui-ci, de quelque nature qu’elles soient, la part de chaque membre étant fixée proportionnellement à sa ­contribution,
 sauf si le droit national présidant à la constitution du membre exclut ou limite la responsabilité de celui-ci. Les modalités des contributions sont fixées dans les statuts.
@@ -7430,7 +7430,7 @@ Les exigences de publicité de la convention, des statuts et des comptes d’un 
 limitée, sont au moins égales à celles exigées de tout autre type d’entité juridique dont les membres ont une responsabilité limitée
 constituée en vertu des lois de l’État membre dans lequel ce GECT a son siège.
 Un État membre peut interdire l’enregistrement sur son territoire d’un GECT dont les membres ont une responsabilité limitée.
-\3. Sans préjudice de la responsabilité financière des États membres à l’égard d’un éventuel financement des fonds ­structurels
+3\. Sans préjudice de la responsabilité financière des États membres à l’égard d’un éventuel financement des fonds ­structurels
 et/ou de cohésion confiés à un GECT, le présent règlement ne saurait engager la responsabilité financière des États membres visà-vis d’un GECT dont ils ne sont pas membres.
 
 Article 13. Intérêt public
@@ -7445,21 +7445,21 @@ De telles interdictions ne constituent pas un moyen de restreindre de façon arb
 les membres du GECT. Une autorité judiciaire peut réexaminer la décision de l’organisme compétent.
 
 Article 14. Dissolution
-\1. Nonobstant les dispositions sur la dissolution figurant dans la convention, sur demande d’une autorité compétente ayant un
+1\. Nonobstant les dispositions sur la dissolution figurant dans la convention, sur demande d’une autorité compétente ayant un
 intérêt légitime, la juridiction ou l’autorité compétente de l’État membre où le GECT a son siège ordonne la dissolution du GECT
 lorsqu’elle constate que le GECT ne respecte plus les exigences prévues à l’article 1er, paragraphe 2, ou à l’article 7, ou, en particulier, que le GECT agit en dehors des tâches définies à l’article 7. La juridiction ou l’autorité compétente informe de toute demande
 de dissolution d’un GECT tous les États membres selon le droit desquels les membres ont été constitués.
-\2. La juridiction ou l’autorité compétente peut accorder un délai au GECT pour rectifier la situation. Si le GECT échoue dans le
+2\. La juridiction ou l’autorité compétente peut accorder un délai au GECT pour rectifier la situation. Si le GECT échoue dans le
 délai imparti, la juridiction ou l’autorité compétente ordonne sa dissolution.
 
 Article 15. Compétence juridictionnelle
-\1. Les tiers qui s’estiment lésés par les actes ou omissions d’un GECT peuvent faire valoir leurs droits par voie juridictionnelle.
-\2. Sauf disposition contraire du présent règlement, le droit communautaire concernant la compétence juridictionnelle s’applique
+1\. Les tiers qui s’estiment lésés par les actes ou omissions d’un GECT peuvent faire valoir leurs droits par voie juridictionnelle.
+2\. Sauf disposition contraire du présent règlement, le droit communautaire concernant la compétence juridictionnelle s’applique
 aux différends auxquels est partie un GECT. Dans tous les cas qui ne sont pas prévus par ce droit communautaire, les juridictions
 compétentes pour le règlement des différends sont les juridictions de l’État membre où le GECT a son siège.
 Les juridictions compétentes pour le règlement des différends au titre de l’article 4, paragraphes 3 ou 6, ou de l’article 13, sont
 les juridictions de l’État membre dont la décision est contestée.
-\3. Aucune disposition du présent règlement ne prive les citoyens de l’exercice de leurs droits de recours constitutionnels nationaux contre les organismes publics qui sont membres d’un GECT en ce qui concerne:
+3\. Aucune disposition du présent règlement ne prive les citoyens de l’exercice de leurs droits de recours constitutionnels nationaux contre les organismes publics qui sont membres d’un GECT en ce qui concerne:
 a)
 
 des décisions administratives relatives aux activités qui sont menées par le GECT;
@@ -7475,12 +7475,12 @@ l’accès à l’information.
 Dans ces cas, les juridictions compétentes sont celles de l’État membre dont la constitution prévoit ledit droit de recours.
 
 Article 16. Dispositions finales
-\1. Les États membres prennent les dispositions appropriées pour garantir l’application effective du présent règlement.
+1\. Les États membres prennent les dispositions appropriées pour garantir l’application effective du présent règlement.
 Lorsque son droit national le prévoit, un État membre peut établir une liste détaillée des missions que les membres d’un GECT,
 au sens de l’article 3, paragraphe 1, constitués en vertu de sa législation, exécutent déjà, en ce qui concerne la coopération territoriale dans ledit État membre.
 L’État membre informe en conséquence la Commission et les autres États membres de toutes dispositions adoptées en vertu
 du présent article.
-\2. Les États membres peuvent prévoir le paiement de redevances pour l’enregistrement de la convention et des statuts. Ces
+2\. Les États membres peuvent prévoir le paiement de redevances pour l’enregistrement de la convention et des statuts. Ces
 redevances ne peuvent, toutefois, pas être supérieures au coût administratif de ces documents.
 
 Article 17. Rapport et clause de réexamen
@@ -7650,53 +7650,53 @@ En sa qualité d’Autorité de gestion et en application des termes de la conve
 la gestion, au suivi du programme et au contrôle des dépenses, il a pour mission, conformément à l’article 60 du Règlement (CE)
 n° 1083/2006 et aux dispositions du «Programme Opérationnel transfrontalier de Coopération Territoriale européenne INTERREG
 IV A Grande Région 2007-2013»:
-1.
+1\.
 
 de veiller à ce que les opérations soient sélectionnées en vue d’un financement selon les critères applicables au Programme
 Opérationnel et qu’elles soient conformes, pendant toute la durée de leur exécution, aux règles communautaires et nationales applicables;
 
-2.
+2\.
 
 de s’assurer que les dépenses de chaque bénéficiaire participant à une opération ont été validées par le contrôleur chargé
 de vérifier la légalité et la régularité des dépenses déclarées;
 
-3.
+3\.
 
 de s’assurer qu’il existe un système d’enregistrement et de stockage sous forme informatisée des pièces comptables pour
 chaque opération au titre du Programme Opérationnel et que les données relatives à la mise en œuvre nécessaires à la
 gestion financière, au suivi, aux vérifications, aux audits et à l’évaluation sont collectées;
 
-4.
+4\.
 
 de s’assurer que les bénéficiaires et les autres organismes participant à la mise en œuvre des opérations appliquent soit
 un système de comptabilité séparé, soit une codification comptable adéquate pour toutes les transactions relatives à l’opération, sans préjudice des règles comptables nationales;
 
-5.
+5\.
 
 de s’assurer que les évaluations du Programme Opérationnel soient effectuées par des experts ou organismes sous la
 responsabilité de l’Etat membre ou de la Commission;
 
-6.
+6\.
 
 d’établir des procédures pour que tous les documents relatifs aux dépenses et aux audits requis pour garantir une piste
 d’audit suffisante soient conservés sous la forme d’originaux ou de versions certifiées conformes avec les originaux sur des
 supports de données généralement acceptés;
 
-7.
+7\.
 
 de s’assurer que l’autorité de certification reçoive toutes les informations nécessaires sur les procédures suivies et les vérifications effectuées en rapport avec les dépenses aux fins de la certification;
 
-8.
+8\.
 
 d’orienter les travaux du Comité de Suivi et de lui transmettre les documents permettant un suivi qualitatif de la mise en
 œuvre du Programme Opérationnel au regard de ses objectifs spécifiques;
 
-9.
+9\.
 
 d’établir et, après approbation par le Comité de Suivi, de présenter à la Commission le rapport annuel et le rapport final
 d’exécution;
 
-\10. de veiller au respect des obligations en matière d’information et de publicité dans le but de mettre en valeur le rôle de la
+10\. de veiller au respect des obligations en matière d’information et de publicité dans le but de mettre en valeur le rôle de la
 Communauté et d’assurer la transparence quant à l’intervention des Fonds.
 \- 146 -
 
@@ -8231,53 +8231,53 @@ En sa qualité d’Autorité de gestion et en application des termes de la conve
 la gestion, au suivi du programme et au contrôle des dépenses, il a pour mission, conformément à l’article 60 du Règlement (CE)
 n° 1083/2006 et aux dispositions du «Programme Opérationnel transfrontalier de Coopération Territoriale européenne INTERREG
 IV A Grande Région 2007-2013»:
-1.
+1\.
 
 de veiller à ce que les opérations soient sélectionnées en vue d’un financement selon les critères applicables au ­Programme
 Opérationnel et qu’elles soient conformes, pendant toute la durée de leur exécution, aux règles ­communautaires et nationales applicables;
 
-2.
+2\.
 
 de s’assurer que les dépenses de chaque bénéficiaire participant à une opération ont été validées par le contrôleur chargé
 de vérifier la légalité et la régularité des dépenses déclarées;
 
-3.
+3\.
 
 de s’assurer qu’il existe un système d’enregistrement et de stockage sous forme informatisée des pièces comptables pour
 chaque opération au titre du Programme Opérationnel et que les données relatives à la mise en œuvre nécessaires à la
 gestion financière, au suivi, aux vérifications, aux audits et à l’évaluation sont collectées;
 
-4.
+4\.
 
 de s’assurer que les bénéficiaires et les autres organismes participant à la mise en œuvre des opérations appliquent soit
 un système de comptabilité séparé, soit une codification comptable adéquate pour toutes les transactions relatives à l’opération, sans préjudice des règles comptables nationales;
 
-5.
+5\.
 
 de s’assurer que les évaluations du Programme Opérationnel soient effectuées par des experts ou organismes sous la
 responsabilité de l’Etat membre ou de la Commission;
 
-6.
+6\.
 
 d’établir des procédures pour que tous les documents relatifs aux dépenses et aux audits requis pour garantir une piste
 d’audit suffisante soient conservés sous la forme d’originaux ou de versions certifiées conformes avec les originaux sur des
 supports de données généralement acceptés;
 
-7.
+7\.
 
 de s’assurer que l’autorité de certification reçoive toutes les informations nécessaires sur les procédures suivies et les vérifications effectuées en rapport avec les dépenses aux fins de la certification;
 
-8.
+8\.
 
 d’orienter les travaux du Comité de Suivi et de lui transmettre les documents permettant un suivi qualitatif de la mise en
 œuvre du Programme Opérationnel au regard de ses objectifs spécifiques;
 
-9.
+9\.
 
 d’établir et, après approbation par le Comité de Suivi, de présenter à la Commission le rapport annuel et le rapport final
 d’exécution;
 
-\10. de veiller au respect des obligations en matière d’information et de publicité dans le but de mettre en valeur le rôle de la
+10\. de veiller au respect des obligations en matière d’information et de publicité dans le but de mettre en valeur le rôle de la
 Communauté et d’assurer la transparence quant à l’intervention des Fonds.
 \- 152 -
 
@@ -8323,11 +8323,11 @@ Le GECT est habilité à recevoir les crédits d’assistance technique nécessa
 spécifique ouvert à son nom auprès du Trésor Public ainsi que des dons et toute autre ressource qui ne soit pas contraire aux règles
 en vigueur.
 Les contributions des membres aux activités et aux charges du groupement peuvent également comprendre:
-1.
+1\.
 
 des apports en nature, sous forme de biens meubles et immeubles, par ex.: locaux, matériels, etc.;
 
-2.
+2\.
 
 des apports intellectuels - d’autres formes de contribution au fonctionnement du groupement - notamment la mise à disposition des personnels en prenant en compte le cofinancement communautaire.
 
@@ -8393,24 +8393,24 @@ Art. 15.1 – Mise à disposition de personnel
 Les personnels mis à disposition du groupement par ses membres conservent leur statut d’origine. Leur employeur d’origine
 garde à sa charge leurs rémunérations et prestations annexes, leurs assurances professionnelles et la responsabilité de leur avancement. Ils sont placés sous l’autorité du Directeur du groupement.
 Ces personnels sont remis à la disposition de leur organisme d’origine:
-1.
+1\.
 
 à leur demande;
 
-2.
+2\.
 
 par décision du Conseil d’Administration, et sur proposition du Directeur, notamment en cas de faute grave et pour ­raison
 disciplinaire;
 
-3.
+3\.
 
 à la demande de l’organisme d’origine, sous réserve d’avoir respecté un préavis de quatre mois minimum;
 
-4.
+4\.
 
 dans le cas où cet organisme se retire du groupement, sous réserve d’avoir respecté un préavis de quatre mois ­minimum;
 
-5.
+5\.
 
 en cas de liquidation, dissolution ou absorption de cet organisme.
 
@@ -8444,43 +8444,43 @@ Dans les rapports avec les tiers, le Président engage le groupement pour tout a
 Le Président assure le fonctionnement du groupement en lien avec le Conseil d’Administration.
 La vice-présidence du GECT est assurée de manière tournante par un représentant des autres autorités partenaires du programme.
 Le mandat du vice-président est exercé par les autres membres du GECT par période de 6 mois à compter de la date de publication de l’arrêté constitutif, selon l’ordre suivant:
-1.
+1\.
 
 le Land de Sarre;
 
-2.
+2\.
 
 la Communauté germanophone de Belgique;
 
-3.
+3\.
 
 le Conseil Général de la Moselle;
 
-4.
+4\.
 
 le Land de Rhénanie-Palatinat;
 
-5.
+5\.
 
 le Conseil Général de Meurthe et Moselle;
 
-6.
+6\.
 
 le Grand-Duché de Luxembourg;
 
-7.
+7\.
 
 le Conseil Général de la Meuse;
 
-8.
+8\.
 
 la Communauté française de Belgique;
 
-9.
+9\.
 
 le Conseil Régional de Lorraine;
 
-\10. la Région wallonne.
+10\. la Région wallonne.
 Art. 17 – Directeur du GECT
 Le GECT est doté d’un directeur qui assure les fonctions de gestion administrative quotidienne de l’Autorité de gestion.
 Art. 18 – Assemblée Générale
@@ -8501,45 +8501,45 @@ La Présidence de l’Assemblée Générale est assurée par le Président du GE
 La vice-présidence de l’Assemblée Générale est assurée de manière tournante par un représentant des autres autorités partenaires du programme.
 Le mandat du vice-président est exercé par les autres membres du GECT selon l’ordre suivant, par période de 6 mois à compter
 de la date de publication de l’arrêté constitutif:
-1.
+1\.
 
 le Land de Sarre;
 
-2.
+2\.
 
 la Communauté germanophone de Belgique;
 
-3.
+3\.
 
 le Conseil Général de la Moselle;
 \- 155 -
 
 CODE COMMUNAL − Coopération transfrontalière
-4.
+4\.
 
 le Land de Rhénanie-Palatinat;
 
-5.
+5\.
 
 le Conseil Général de Meurthe et Moselle;
 
-6.
+6\.
 
 le Grand-Duché de Luxembourg;
 
-7.
+7\.
 
 le Conseil Général de la Meuse;
 
-8.
+8\.
 
 la Communauté française de Belgique;
 
-9.
+9\.
 
 le Conseil Régional de Lorraine;
 
-\10. la Région wallonne.
+10\. la Région wallonne.
 Art. 18.3 – Convocation et tenue des réunions
 L’Assemblée Générale se réunit sur convocation du Président du GECT au moins une fois par an aux mêmes dates que les
 réunions du Comité de suivi du programme.
@@ -8556,41 +8556,41 @@ Générale obligent tous les membres du groupement.
 Le responsable du Secrétariat Technique Conjoint assiste à l’Assemblée Générale et en assure le secrétariat.
 Art. 18.4 – Compétences
 L’Assemblée Générale a notamment pour compétences:
-1.
+1\.
 
 d’approuver le règlement intérieur qui précise les modalités de fonctionnement du GECT;
 
-2.
+2\.
 
 de délibérer sur les rapports relatifs à la gestion du Conseil d’Administration;
 
-3.
+3\.
 
 de valider sur proposition du Conseil d’Administration le programme annuel d’activités et le budget annuel de l­’Assistance
 Technique du programme pour présentation au Comité de suivi du programme;
 
-4.
+4\.
 
 d’évaluer le fonctionnement du GECT;
 
-5.
+5\.
 
 de se prononcer sur l’adhésion ou l’exclusion de membres du GECT;
 
-6.
+6\.
 
 d’approuver, sur proposition du Conseil d’Administration, les modalités financières et autres de l’exclusion ou du retrait d’un
 membre du groupement;
 
-7.
+7\.
 
 de se prononcer sur la dissolution du groupement et de prendre les mesures nécessaires à sa liquidation;
 
-8.
+8\.
 
 de décider sur proposition du Conseil d’Administration de toute modification des statuts;
 
-9.
+9\.
 
 de prendre toutes autres décisions dont les présents Statuts attribuent expressément la compétence à l’Assemblée Générale.
 
@@ -8609,45 +8609,45 @@ La vice-présidence du Conseil d’Administration est assurée de manière tourn
 partenaires du programme.
 Le mandat du vice-président est exercé par les autres membres du GECT selon l’ordre suivant, par période de 6 mois à compter
 de la date de publication de l’arrêté constitutif:
-1.
+1\.
 
 le Land de Sarre;
 
-2.
+2\.
 
 la Communauté germanophone de Belgique;
 
-3.
+3\.
 
 le Conseil Général de la Moselle;
 \- 156 -
 
 CODE COMMUNAL − Coopération transfrontalière
-4.
+4\.
 
 le Land de Rhénanie-Palatinat;
 
-5.
+5\.
 
 le Conseil Général de Meurthe et Moselle;
 
-6.
+6\.
 
 le Grand-Duché de Luxembourg;
 
-7.
+7\.
 
 le Conseil Général de la Meuse;
 
-8.
+8\.
 
 la Communauté française de Belgique;
 
-9.
+9\.
 
 le Conseil Régional de Lorraine;
 
-\10. la Région wallonne.
+10\. la Région wallonne.
 Art. 19.3 – Convocation et tenue des réunions
 Le Président convoque le Conseil d’Administration aussi souvent que l’intérêt du groupement l’exige et au moins deux fois par
 an. Il préside les séances du Conseil.
@@ -8663,35 +8663,35 @@ d’Administration obligent tous les membres du groupement.
 Le responsable du Secrétariat Technique Conjoint assiste au Conseil d’Administration et en assure le secrétariat.
 Art. 19.4 – Compétences
 Le Conseil d’Administration délibère sur:
-1.
+1\.
 
 les créations et les suppressions d’emplois permanents propres au GECT;
 
-2.
+2\.
 
 l’acceptation des dons et des legs;
 
-3.
+3\.
 
 les actions en justice et les conditions dans lesquelles certaines d’entre elles peuvent être engagées ;
 
-4.
+4\.
 
 les suites à donner aux observations consécutives aux contrôles ou évaluations dont le groupement a fait l’objet tant dans
 sa gestion propre qu’en tant qu’Autorité de gestion.
 
 Le Conseil d’Administration a également pour objet:
-1.
+1\.
 
 de préparer et mettre en œuvre les décisions de l’Assemblée Générale, notamment le règlement intérieur et le budget
 annuel de l’assistance technique, et lui rendre compte de sa gestion au moins une fois par an, et autant de fois qu’il est
 nécessaire;
 
-2.
+2\.
 
 d’organiser l’activité du groupement, dans le cadre fixé par les statuts;
 
-3.
+3\.
 
 d’examiner toute question relative au fonctionnement du groupement.
 
@@ -8814,18 +8814,18 @@ Convention of the European Grouping of Territorial Cooperation
 Grouping of Territorial Cooperation (EGTC) as amended,
 Preamble
 Considering
-\1. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL No 1082/2006 on the European Grouping for
+1\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL No 1082/2006 on the European Grouping for
 Territorial Cooperation as amended by Regulation (EU) No 1302/2013 (hereinafter referred as Regulation (EU) - EGTC),
-\2. The legal base for the EGTC in Luxembourg, the Loi du 19 mai 2009 portant diverses mesures d’application du règlement (CE)
+2\. The legal base for the EGTC in Luxembourg, the Loi du 19 mai 2009 portant diverses mesures d’application du règlement (CE)
 n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un groupement européen de coopération territoriale
 (GECT),
-\3. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1301/2013 of 17 December 2013 on
+3\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1301/2013 of 17 December 2013 on
 specific provisions concerning the European Regional Development Fund and the Investment for growth and jobs goal on the European Regional Development Fund and repealing Regulation (EC) No 1080/2006 (hereinafter referred as Regulation (EU) - ERDF),
-\4. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1303/2013 of 17 December 2013 laying
+4\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1303/2013 of 17 December 2013 laying
 down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund covered by the Common Strategic
 Framework and laying down general provisions on the European Regional Development Fund, the European Social Fund and the
 Cohesion Fund and repealing Regulation (EC) No 1083/2006 (hereinafter referred as Regulation (EU) - General),
-\5. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1299/2013 of 17 December 2013 on
+5\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1299/2013 of 17 December 2013 on
 specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal
 (hereinafter referred as Regulation (EU) - ETC),
 Considering further that
@@ -9400,12 +9400,12 @@ IV. FINANCIAL PROVISIONS AND LIABILITIES
 ARTICLE 17 - FINANCES
 17.1. Sources of finance of the ESPON EGTC
 Two kinds of sources of finance are considered for financing the ESPON EGTC.
-1.
+1\.
 
 The direct contributions of the members of the Assembly are made available to ensure the existence and basic set up of the
 ESPON EGTC. The budget related to these tasks is called EGTC Structure Budget.
 
-2.
+2\.
 
 Contracted external sources of financial such as the ESPON 2020 Cooperation Programme are used to finance the realisation of the objectives of the EGTC and related staffing, activities and tasks. The budget related to each of these contracted
 sources is called EGTC Activity Budget.
@@ -9482,18 +9482,18 @@ Statutes of the European Grouping of Territorial Cooperation
 Grouping of Territorial Cooperation (EGTC) as amended,
 Preamble
 Considering
-\1. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL No 1082/2006 on the European Grouping for
+1\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL No 1082/2006 on the European Grouping for
 Territorial Cooperation as amended by Regulation (EU) No 1302/2013 (hereinafter referred as Regulation (EU) - EGTC),
-\2. The legal base for the EGTC in Luxembourg, the Loi du 19 mai 2009 portant diverses mesures d’application du règlement (CE)
+2\. The legal base for the EGTC in Luxembourg, the Loi du 19 mai 2009 portant diverses mesures d’application du règlement (CE)
 n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un groupement européen de coopération territoriale
 (GECT),
-\3. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1301/2013 of 17 December 2013 on
+3\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1301/2013 of 17 December 2013 on
 specific provisions concerning the European Regional Development Fund and the Investment for growth and jobs goal on the European Regional Development Fund and repealing Regulation (EC) No 1080/2006 (hereinafter referred as Regulation (EU) - ERDF),
-\4. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1303/2013 of 17 December 2013 laying
+4\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1303/2013 of 17 December 2013 laying
 down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund covered by the Common Strategic
 Framework and laying down general provisions on the European Regional Development Fund, the European Social Fund and the
 Cohesion Fund and repealing Regulation (EC) No 1083/2006 (hereinafter referred as Regulation (EU) - General),
-\5. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1299/2013 of 17 December 2013 on
+5\. REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (EU) No 1299/2013 of 17 December 2013 on
 specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal
 (hereinafter referred as Regulation (EU) - ETC),
 Considering further that
@@ -10064,12 +10064,12 @@ IV. FINANCIAL PROVISIONS AND LIABILITIES
 ARTICLE 17 - FINANCES
 17.1. Sources of finance of the ESPON EGTC
 Two kinds of sources of finance are considered for financing the ESPON EGTC.
-1.
+1\.
 
 The direct contributions of the members of the Assembly are made available to ensure the existence and basic set up of the
 ESPON EGTC. The budget related to these tasks is called EGTC Structure Budget.
 
-2.
+2\.
 
 Contracted external sources of financial such as the ESPON 2020 Cooperation Programme are used to finance the realisation of the objectives of the EGTC and related staffing, activities and tasks. The budget related to each of these contracted
 sources is called EGTC Activity Budget.
@@ -10377,8 +10377,8 @@ D É V E L O PP E ME N T É C ON O MIQUE
 voir:
 Code de l’environnement - Divers:
 Loi du 27 juillet 1993 ayant pour objet
-\1. le développement et la diversification économiques
-\2. l’amélioration de la structure générale et de l’équilibre régional de l’économie (Art. 13)
+1\. le développement et la diversification économiques
+2\. l’amélioration de la structure générale et de l’équilibre régional de l’économie (Art. 13)
 
 \- 186 -
 
@@ -10447,11 +10447,11 @@ CODE COMMUNAL − Égalité hommes-femmes
 
 Loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, Art. 1bis à 1quater, 12 et 43bis
 Loi du 21 décembre 2007 portant
-\1. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de
+1\. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de
 ­l’égalité de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de
 biens et services;
-\2. modification du Code pénal;
-\3. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance (telle qu’elle a été modifiée) . . .
+2\. modification du Code pénal;
+3\. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance (telle qu’elle a été modifiée) . . .
 Règlement grand-ducal du 11 septembre 2006 fixant les modalités de désignation, les droits et les devoirs des
 ­délégués à l’égalité entre femmes et hommes au sein des communes, syndicats de communes et établissements
 publics placés sous la surveillance des communes
@@ -10466,11 +10466,11 @@ Loi du 13 mai 2008 relative à l’égalité de traitement entre hommes et femme
 
 CODE COMMUNAL − Égalité hommes-femmes
 Loi du 21 décembre 2007 portant
-\1. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l’égalité
+1\. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l’égalité
 de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de biens et
 services;
-\2. modification du Code pénal;
-\3. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance,
+2\. modification du Code pénal;
+3\. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance,
 (Mém. A - 232 du 21 décembre 2007, p. 3930; doc. parl. 5739; dir. 2004/113/CE)
 modifiée par:
 Loi du 19 juin 2012 (Mém. A - 137 du 5 juillet 2012, p. 1738; doc. parl. 6127; Texte coordonné: Mém. A - 137 du 5 juillet 2012, p. 1739)
@@ -10625,26 +10625,26 @@ les partenaires sociaux.
 
 Art. 12.
 Le Centre pour l’égalité de traitement visé au chapitre 3 de la loi du 28 novembre 2006 portant
-1.
+1\.
 
 transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en oeuvre du principe de l’égalité de
 traitement entre les personnes sans distinction de race ou d’origine ethnique;
 
-2.
+2\.
 
 transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d’un cadre général en faveur de
 l’égalité de traitement en matière d’emploi et de travail;
 
-3.
+3\.
 
 modification du Code du travail et portant introduction dans le livre II d’un nouveau titre V relatif à l’égalité de traitement en
 matière d’emploi et de travail;
 
-4.
+4\.
 
 modification des articles 454 et 455 du Code pénal;
 
-5.
+5\.
 
 modification de la loi du 12 septembre 2003 relative aux personnes handicapées;
 
@@ -10699,9 +10699,9 @@ Règlement grand-ducal du 6 décembre 1989 concernant le congé politique des bo
 communaux . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Règlement grand-ducal du 13 février 2009 arrêtant les maxima des indemnités des bourgmestres et des échevins
 Loi du 14 décembre 2015 relative aux sondages d’opinion politique et portant modification
-\1. de la loi électorale modifiée du 18 février 2003
-\2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques
-\3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national
+1\. de la loi électorale modifiée du 18 février 2003
+2\. de la loi modifiée du 27 juillet 1991 sur les médias électroniques
+3\. de la loi modifiée du 4 février 2005 relative au référendum au niveau national
 voir:
 Constitution:
 Art. 2, 9, 10, 63 à 66, 73, 80 et 122
@@ -10759,9 +10759,9 @@ Règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à
 ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l­’Éducation nationale dans ses
 attributions ainsi que les modalités de leur transmission
 Règlement grand-ducal du 28 mai 2009 ayant pour objet de déterminer
-\1) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire ­communale;
-\2) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
-\3) l’organisation et le fonctionnement de la commission scolaire communale
+1\) les modalités d’élection des représentants des parents d’élèves à l’école et à la commission scolaire ­communale;
+2\) les modalités d’élection des représentants du personnel des écoles à la commission scolaire communale;
+3\) l’organisation et le fonctionnement de la commission scolaire communale
 Règlement grand-ducal modifié du 6 octobre 2009 déterminant la composition et le fonctionnement de la commission
 d’experts prévue par l’article 29 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental
 Règlement grand-ducal du 2 septembre 2011 fixant les modalités et le calendrier de la reprise par l’État des employés
@@ -10831,19 +10831,19 @@ d’une école de musique pour une tâche complète ou partielle, dans une des i
 sur le contrat de travail.
 Peuvent être engagés en qualité de chargé de cours de l’enseignement musical ou comme chargé de direction d’une école de
 musique dans le secteur communal sous le statut de l’employé communal les candidats qui remplissent les conditions ­suivantes:
-1.
+1\.
 
 être ressortissant d’un pays de l’Union Européenne,
 
-2.
+2\.
 
 jouir des droits civils et politiques,
 
-3.
+3\.
 
 offrir les garanties de moralité requises,
 
-4.
+4\.
 
 avoir fait preuve d’une connaissance «adaptée au niveau de carrière»2 des trois langues administratives telles que ­définies
 par la loi du 24 février 1984 sur le régime des langues, conformément aux dispositions du règlement grand-ducal du 1er juillet
@@ -10853,7 +10853,7 @@ raisons dûment motivées tenant à l’intérêt du service et aux nécessités
 du contrôle de la connaissance d’une de ces langues au maximum pourront être accordées par décision du Ministre de
 l’Intérieur.
 
-5.
+5\.
 
 bénéficier d’une tâche hebdomadaire égale ou supérieure à la moitié d’une tâche hebdomadaire de référence, telle qu’elle
 est définie à l’article 7 du présent règlement grand-ducal.
@@ -11122,64 +11122,64 @@ Extraits: Art. 8 et 14
 Art. 8. Information et participation du public
 (1) Afin d’assurer la participation effective du public aux processus d’évaluation, l’autorité compétente informe le public par un
 avis inséré dans au moins quatre journaux quotidiens publiés au Grand-Duché sur les données suivantes :
-1.
+1\.
 
 le fait qu’un projet est soumis à une procédure d’évaluation des incidences sur l’environnement et que, le cas échéant,
 l’article 9 est applicable ;
 
-2.
+2\.
 
 la date de la publication du rapport sur les incidences, la durée de la publication et les délais à respecter pour la transmission d’observations ou des questions à l’autorité compétente ou l’autorité désignée à cet effet ;
 
-3.
+3\.
 
 le site internet et le ou les lieux où les données peuvent être consultées.
 
 Les frais de cette publication sont à charge du maître d’ouvrage.
 (2) Dès que les informations énumérées au présent paragraphe sont disponibles, elles sont communiquées au public sur le site
 internet visé au paragraphe 1er, point 3 :
-1.
+1\.
 
 le fait que le projet fait l’objet d’une procédure d’évaluation des incidences sur l’environnement et que, le cas échéant,
 l’article 9 est applicable ;
 
-2.
+2\.
 
 les coordonnées des autorités compétentes pour accorder les autorisations, de celles auprès desquelles peuvent être obtenus des renseignements pertinents, de celles auxquelles des observations peuvent être adressées ainsi que des précisions
 sur les délais de transmission des observations ou des questions ;
 
-3.
+3\.
 
 la nature des décisions possibles ou, lorsqu’ils existent, les projets d’autorisations ;
 
-4.
+4\.
 
 une indication concernant la disponibilité des informations recueillies en vertu de l’article 6 ;
 
-5.
+5\.
 
 une indication de la date à laquelle et du lieu où les renseignements pertinents seront mis à la disposition du public et des
 moyens par lesquels ils le seront ;
 
-6.
+6\.
 
 les modalités précises de la participation du public au processus décisionnel des autorisations ;
 
-7.
+7\.
 
 les principaux rapports et avis adressés à l’autorité compétente au moment où le public concerné est informé conformément
 au paragraphe 1er du présent article ;
 
-8.
+8\.
 
 conformément à la loi modifiée du 25 novembre 2005 concernant l’accès du public à l’information en matière d’environnement, les informations autres que celles visées au paragraphe 2 du présent article qui sont pertinentes pour toute décision
 relative à un projet tombant sous la présente loi ;
 
-9.
+9\.
 
 le rapport d’évaluation des incidences sur l’environnement ;
 
-\10. les demandes d’autorisation ;
+10\. les demandes d’autorisation ;
 Ces informations peuvent également être consultées auprès de l’autorité compétente et, auprès de la ou des autorités communales dont le territoire est concerné par le projet. Elles seront transmises à cette fin par l’autorité compétente aux communes
 concernées pour les mettre à disposition au moment de la date visée au paragraphe 1er, point 2.
 (3) Tous les intéressés peuvent émettre leurs observations et suggestions par le biais dudit support électronique ou transmettre
@@ -12150,9 +12150,9 @@ dans les mêmes circonstances, aux étrangers en général.
 
 Article 22.
 Education publique.
-\1. Les Etats contractants accorderont aux apatrides le même traitement qu’aux nationaux en ce qui concerne l’enseignement
+1\. Les Etats contractants accorderont aux apatrides le même traitement qu’aux nationaux en ce qui concerne l’enseignement
 primaire.
-\2. Les Etats contractants accorderont aux apatrides un traitement aussi favorable que possible et, de toute façon, un ­traitement
+2\. Les Etats contractants accorderont aux apatrides un traitement aussi favorable que possible et, de toute façon, un ­traitement
 qui ne soit pas moins favorable que celui qui est accordé aux étrangers en général, dans les mêmes circonstances, quant aux catégories d’enseignement autres que l’enseignement primaire et, notamment, en ce qui concerne l’accès aux études, la reconnaissance de certificats d’études, de diplômes et de titres universitaires délivrés à l’étranger, la remise des droits et taxes et l’attribution
 de bourses d’études.
 
@@ -12543,7 +12543,7 @@ Angaben über die Eltern des Kindes
 Notizie sui genitori
 Gegevens betreffende de ouders van het kind
 Çocugun ana babasi ile ilgili bilgiler
-1.
+1\.
 
 Lieu et date du mariage
 
@@ -12553,7 +12553,7 @@ Luogo e data del matrimonio
 Plaats en datum van het huwelijk
 Evlenme yeri ve tarihi
 
-2.
+2\.
 
 Père
 
@@ -12582,7 +12582,7 @@ Cognome
 Familienaam
 Soyadi
 
-3.
+3\.
 
 Prénoms
 Vornamen
@@ -12598,7 +12598,7 @@ Meisjesnaam
 
 CODE COMMUNAL − État civil
 
-4.
+4\.
 
 Nationalité
 
@@ -12609,7 +12609,7 @@ Cittadinanza
 
 Nationaliteit
 
-5.
+5\.
 
 Eventuellement lieu et date du précédent mariage
 Gegebenenfalls Ort und Tag der
@@ -12678,7 +12678,7 @@ Gegevens betreffende het kind
 
 Çocuga ait bilgiler
 
-7.
+7\.
 
 Nom de famille
 Familienname
@@ -12689,7 +12689,7 @@ Cognome
 Familienaam
 Soyadi
 
-8.
+8\.
 
 Prénoms
 Vornamen
@@ -12697,7 +12697,7 @@ Nome
 Voornamen
 Adi
 
-9.
+9\.
 
 Lieu et date de naissance
 Geburtsort und -tag
@@ -12719,7 +12719,7 @@ ana , babanin evlenmesinden önc e
 CODE 1021
 COMMUNAL − État civil
 
-10.
+10\.
 
 Nationalité
 Staatsangehörigkeit
@@ -12727,7 +12727,7 @@ Cittadinanza
 
 Nationaliteit
 
-11.
+11\.
 
 Père
 Vater
@@ -12773,7 +12773,7 @@ CODE COMMUNAL − État civil
 
 IV
 
-\14. Observations
+14\. Observations
 
 Bemerkungen
 
@@ -13347,12 +13347,12 @@ F I N A N C ES C O MMU N A L E S
 
 A. FONDS DE DOTATION GLOBALE DES COMMUNES
 Loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes et modifiant
-\1. la loi modifiée du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs;
-\2. la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage; 2. réglementation de l’octroi des
+1\. la loi modifiée du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs;
+2\. la loi modifiée du 30 juin 1976 portant 1. création d’un fonds de chômage; 2. réglementation de l’octroi des
 indemnités de chômage complet;
-\3. la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’État pour
+3\. la loi modifiée du 22 décembre 1987 concernant le budget des recettes et des dépenses de l’État pour
 l’exercice 1988;
-\4. la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental
+4\. la loi modifiée du 6 février 2009 portant organisation de l’enseignement fondamental
 B. FONDS POUR LA RÉFORME COMMUNALE
 Loi du 23 décembre 1972 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1973
 (Extrait: Art. 21) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -13369,7 +13369,7 @@ E. IMPÔTS, TAXES ET REDEVANCES
 Loi communale du 13 décembre 1988, art. 29, 105, 106, 135, 148 à 160
 Loi du 9 mai 2008 relative aux chiens (Art. 6, 7 et 8) voir sous rubrique Chiens
 Loi du 22 octobre 2008 portant promotion de l’habitat et création d’un pacte logement avec les communes (Art. 15 à
-\28) sous rubique Logement
+28\) sous rubique Logement
 Loi du 1er décembre 1936 sur l’impôt foncier (telle qu’elle a été modifiée)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Verordnung zur Durchführung des Grundsteuergesetzes für den ersten Hauptveranlagungszeitraum (GrStDVO)
@@ -13536,27 +13536,27 @@ näheren Bestimmungen über die Erhebung der Steuer.
 §2
 Grundbesitz
 Grundbesitz ist:
-1.
+1\.
 
 das land- und forstwirtschaftliche Vermögen (§§ 28 bis 49 des Bewertungsgesetzes),
 
-2.
+2\.
 
 das Grundvermögen (§§ 50 bis 53 des Bewertungsgesetzes),
 
-3.
+3\.
 
 das Betriebsvermögen, soweit es in Betriebsgrundstücken besteht (§ 57 des Bewertungsgesetzes).
 §3
 Steuergegenstand
 
 Steuergegenstände sind, soweit sie sich auf das Inland erstrecken:
-1.
+1\.
 
 die land- und forstwirtschaftlichen Betriebe (§§ 29, 45, 47, 48, 49 des Bewertungsgesetzes). Den land- und forstwirtschaftlichen Betrieben stehen im Sinn dieses Gesetzes die im § 57 Absatz 1 Ziffer 2 des Bewertungsgesetzes bezeichneten
 Betriebsgrundstücke gleich;
 
-2.
+2\.
 
 die Grundstücke (§ 50 des Bewertungsgesetzes). Den Grundstücken stehen im Sinn dieses Gesetzes die im § 57 Absatz 1
 Ziffer 1 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
@@ -13564,7 +13564,7 @@ Ziffer 1 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 Befreiungen
 
 Von der Grundsteuer sind befreit:
-1.
+1\.
 
 Grundbesitz
 a) des Staates, einer Gemeinde oder eines Gemeindeverbands, wenn der Grundbesitz von dem Eigentümer für ­einen
@@ -13580,7 +13580,7 @@ c) .......................................
 \- 263 -
 
 CODE COMMUNAL − Finances communales
-2.
+2\.
 
 Grundbesitz
 a) .......................................
@@ -13604,7 +13604,7 @@ j)
 
 k)	des Roten Kreuzes,
 wenn der Grundbesitz von dem Eigentümer für seine Aufgaben benutzt wird;
-3.
+3\.
 
 Grundbesitz
 a) des Staates, einer Gemeinde oder eines Gemeindeverbands,
@@ -13612,12 +13612,12 @@ b)	einer (. . .)1 Körperschaft, Personenvereinigung oder Vermögensmasse, die 
 Verfassung und nach ihrer tatsächlichen Geschäftsführung ausschliesslich und unmittelbar mildtätigen Zwecken dient,
 wenn der Grundbesitz von dem Eigentümer für mildtätige Zwecke benutzt wird;
 
-4.
+4\.
 
 Grundbesitz eines anerkannten Sportvereins, der von ihm für sportliche Zwecke benutzt wird, unter den Bedingungen, die
 der Finanzminister und der Innenminister bestimmen;
 
-5.
+5\.
 
 a) Grundbesitz, der dem Gottesdienst einer öffentlich-rechtlichen Religionsgesellschaft gewidmet ist;
 b) Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts,
@@ -13625,13 +13625,13 @@ der von der Religionsgesellschaft für Zwecke der religiösen Unterweisung benut
 c) Grundbesitz einer öffentlich-rechtlichen Religionsgesellschaft oder einer anderen Körperschaft des öffentlichen Rechts,
 der von der Religionsgesellschaft für ihre Verwaltungszwecke benutzt wird;
 
-6.
+6\.
 
 Grundbesitz einer der unter den Ziffern 1 bis 5a genannten Körperschaften, Personenvereinigungen, ­Vermögensmassen
 oder Verbände, der von einer anderen derartigen Körperschaft, Personenvereinigung, Vermögensmasse oder einem anderen derartigen Verband für ihre nach den Ziffern 1 bis 5 begünstigten Zwecke benutzt wird; (Loi du 10 août 1992) «cette
 disposition ne s’applique pas à l’entreprise des postes et télécommunications.»
 
-7.
+7\.
 
 Grundbesitz, der für Zwecke der Wissenschaft, der Erziehung und des Unterrichts benutzt wird und nicht bereits nach den
 vorstehenden Vorschriften befreit ist, wenn anerkannt ist, dass der Benutzungszweck im Rahmen der staatlichen Aufgaben
@@ -13640,12 +13640,12 @@ Der Anerkennung bedarf es nicht bei Hochschulen und bei solchen Schulen oder ­E
 eine Gemeinde oder ein Gemeindeverband ist. Wird der Grundbesitz nicht von dem Eigentümer für die bezeichneten Zwecke
 benutzt, so tritt Befreiung nur ein, wenn der Eigentümer eine Körperschaft des öffentlichen Rechts ist;
 
-8.
+8\.
 
 Grundbesitz, der für die Zwecke einer Krankenanstalt benutzt wird und nicht bereits nach den vorstehenden ­Vorschriften
 befreit ist soweit die Anstalt Kranke zu Bedingungen aufnimmt, die der Finanzminister, der Innenminister und der Arbeitsminister bestimmen. Ziffer 7 Schlussatz gilt entsprechend;
 
-9.
+9\.
 
 a) die dem öffentlichen Verkehr dienenden Strassen, Wege, Plätze, Brücken, künstlichen Wasserläufe, .......... und Schienenwege;
 b) das Rollfeld der Verkehrsflughäfen;
@@ -13656,14 +13656,14 @@ d) die im Interesse der Ordnung und Verbesserung der Wasser- und Bodenverhältni
 Privatdeiche;
 e) die Bestattungsplätze;
 
-\10. Grundbesitz eines fremden Staats, der für Zwecke von Botschaften, Gesandtschaften oder Konsulaten dieses Staats benutzt
+10\. Grundbesitz eines fremden Staats, der für Zwecke von Botschaften, Gesandtschaften oder Konsulaten dieses Staats benutzt
 wird, wenn Gegenseitigkeit gewährt wird.
 §5
 Steuerpflicht bei Benutzung zu Wohnzwecken
 Grundbesitz, der Wohnzwecken dient, ist nicht als für einen der nach § 4 Ziffern 1 bis 8 begünstigten Zwecke benutzt anzusehen;
 das gilt auch für die zugehörigen Hofräume und Hausgärten. Den begünstigten Zwecken dienen jedoch und sind deshalb unter den
 weiteren Voraussetzungen des § 4 befreit:
-1.
+1\.
 
 die Kasernen und Lagerunterkünfte
 a) der Armee, der Polizei, der Gendarmerie, des Wasserschutzes, des sonstigen Schutzdienstes des Staates,
@@ -13674,14 +13674,14 @@ Terme supprimé par la loi du 23 décembre 2016.
 
 CODE COMMUNAL − Finances communales
 b) ................................
-2.
+2\.
 
 die gemeinschaftlichen Wohnräume
 a) .............................................. in Jugendherbergen,
 b) .............................................. in Erziehungsanstalten,
 c) in Prediger- und Priesterseminaren;
 
-3.
+3\.
 
 die Wohnräume
 a) in den Heimen des Roten Kreuzes, die für die Aufnahme erholungsbedürftiger oder hilfsbedürftiger Personen ­bestimmt
@@ -13689,7 +13689,7 @@ sind,
 b) der hilfsbedürftigen Personen in den Gebäuden, die wegen Benutzung für mildtätige Zwecke befreit sind (§ 4 Ziffern 3
 und 6);
 
-4.
+4\.
 
 Räume, in denen sich Personen für die Erfüllung der begünstigten Zwecke ständig bereit halten müssen (Bereitschaftsräume),
 wenn sie nicht zugleich die Wohnung des Inhabers darstellen.
@@ -13705,16 +13705,16 @@ befreit, wenn die steuerbegünstigten Zwecke überwiegen.
 §7
 Steuerschuldner
 (1) Schuldner der Grundsteuer ist:
-1.
+1\.
 
 der Eigentümer oder, wenn der Steuergegenstand ein grundstücksgleiches Recht ist, der Berechtigte,
 
-2.
+2\.
 
 wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs (§ 3 Ziffer 1) einem anderen als dem
 Eigentümer des Grund und Bodens gehören, der Eigentümer des Grund und Bodens für den gesamten Betrieb,
 
-3.
+3\.
 
 ............................................
 
@@ -13725,11 +13725,11 @@ so ist der andere an Stelle des Eigentümers (Berechtigten) Steuerschuldner im S
 §8
 Persönliche Haftung
 Neben dem Steuerschuldner haften als Gesamtschuldner:
-1.
+1\.
 
 der Nutzniesser und der Niessbraucher,
 
-2.
+2\.
 
 wenn die Betriebsmittel oder Gebäude eines land- und forstwirtschaftlichen Betriebs einem anderen als dem ­Eigentümer des
 Grund und Bodens gehören, der Eigentümer der Betriebsmittel oder Gebäude für den auf diese entfallenden ­Steuerbetrag.
@@ -13977,20 +13977,20 @@ Zu § 4 Ziffer 1a des Gesetzes
 Gemeindeverbände
 (1) Gemeindeverbände sind die innerhalb des Landes ausser den Gemeinden bestehenden Gebietskörperschaften.
 (2) Andere Verbände werden für die Grundsteuer den Gemeindeverbänden unter den folgenden Voraussetzungen gleichgestellt:
-1.
+1\.
 
 An dem Verband dürfen nur Gemeinden, gemeindefreie Grundstücke (Gutsbezirke), Gemeindeverbände im Sinn des Absatzes 1 beteiligt sein. Ob ausserdem der Staat oder ein anderer Verband, auf den die Voraussetzungen des ­Absatzes 2
 zutreffen, an dem Verband beteiligt ist, ist unerheblich.
 
-2.
+2\.
 
 Der Zusammenschluss der Beteiligten muss auf öffentlich-rechtlicher Grundlage beruhen.
 
-3.
+3\.
 
 Der Verband muss eigene Rechtspersönlichkeit besitzen.
 
-4.
+4\.
 
 Der Zweck des Verbands muss ganz oder teilweise in der Erfüllung von Aufgaben liegen, die unter den Begriff des öffentlichen Diensts oder Gebrauchs (§4 Ziffer 1a des Gesetzes) oder der Mildtätigkeit (§ 4 Ziffer 3 des Gesetzes) fallen.
 §4
@@ -14022,11 +14022,11 @@ Sportvereine
 Begünstigte Sportvereine
 (1) Als begünstigte Sportvereine kommen nur die Sportvereine in Betracht, die das Sportamt anerkannt hat.
 (2) Nicht steuerbegünstigt sind:
-1.
+1\.
 
 Sportvereine, deren Aufwendungen erheblich über das zur Durchführung ihrer sportlichen Zwecke erforderliche Mass hinausgehen;
 
-2.
+2\.
 
 Vereine, die den Sport gewerbsmässig betreiben (Berufsport).
 §8
@@ -14077,12 +14077,12 @@ Sonstige nach § 4 Ziffern 1 bis 4 des Gesetzes Steuerbegünstigte
 Wird Grundbesitz von einer der im § 4 Ziffern 1 bis 4 des Gesetzes genannten Körperschaften usw. die nicht unter § 11 dieser
 Verordnung fällt, für Zwecke der Wissenschaft, der Erziehung und des Unterrichts benutzt, so ist er von der Grundsteuer befreit,
 wenn die beiden folgenden Voraussetzungen erfüllt sind:
-1.
+1\.
 
 Die Benutzung muss im Rahmen der besonderen Aufgaben oder Zwecke des Steuerbegünstigten liegen. Liegt die Benutzung ausserhalb dieses Rahmens, so müssen der Finanzminister, der Innenminister und der für das Fachgebiet zuständige
 Minister anerkannt haben, dass der Benutzungszweck im Rahmen der staatlichen Aufgaben liegt.
 
-2.
+2\.
 
 Der Grundbesitz muss gehören:
 a) demjenigen, der den Grundbesitz benutzt, oder
@@ -14109,7 +14109,7 @@ Sonstige Schulen usw.
 
 Grundbesitz, der für Zwecke der Wissenschaft, der Erziehung und des Unterrichts benutzt wird und nicht unter die vorstehenden
 Vorschriften fällt, ist von der Grundsteuer befreit, wenn die beiden folgenden Voraussetzungen erfüllt sind:
-1.
+1\.
 
 Der Finanzminister, der Innenminister und der für das Fachgebiet zuständige Minister müssen anerkannt haben, dass der
 Benutzungszweck im Rahmen der staatlichen Aufgaben liegt. Der Anerkennung bedarf es nicht für:
@@ -14120,7 +14120,7 @@ d) .........................
 e) .........................
 f)
 
-2.
+2\.
 
 ...........................
 
@@ -14135,19 +14135,19 @@ Schülerheime
 der entsprechenden Aufgaben notwendig ist. Soweit sich nicht aus Absatz 2 eine Ausnahme ergibt, bedarf es der besonderen Anerkennung ohne Rücksicht darauf, ob für die Anstalt, zu der die gemeinschaftlichen Wohnräume gehören, selbst eine Anerkennung
 nach §§ 11, 12 und 14 notwendig ist oder nicht.
 (2) Einer Anerkennung bedarf es nicht für die gemeinschaftlichen Wohnräume in:
-1.
+1\.
 
 Schülerheimen des Staates
 
-2.
+2\.
 
 ..........................
 
-3.
+3\.
 
 ..........................
 
-4.
+4\.
 
 ..........................
 
@@ -14164,15 +14164,15 @@ Krankenanstalten
 Allgemeines
 (1) Krankenanstalten, deren Befreiung sich nicht bereits aus § 4 Ziffern 1, 2, 3 und 6 des Gesetzes ergibt, sind befreit, wenn die
 folgenden Voraussetzungen erfüllt sind (§ 4 Ziffer 8 des Gesetzes):
-1.
+1\.
 
 Die Krankenanstalt muss in besonderem Mass der minderbemittelten Bevölkerung dienen (§ 17).
 
-2.
+2\.
 
 Der Grundbesitz muss demjenigen, der die Krankenanstalt betreibt, oder einer Körperschaft des öffentlichen Rechts gehören, (§ 4 Ziffer 8 Schlussatz des Gesetzes).
 
-3.
+3\.
 
 Soweit es sich um Privatkrankenanstalten handelt, müssen sie eine Konzession besitzen.
 
@@ -14181,12 +14181,12 @@ Soweit es sich um Privatkrankenanstalten handelt, müssen sie eine Konzession be
 Minderbemittelte Bevölkerung
 (1) Eine Krankenanstalt dient in besonderem Mass der minderbemittelten Bevölkerung, wenn in dem Kalenderjahr, das dem
 Stichtag (§ 1) vorangeht, die folgenden Voraussetzungen erfüllt sind:
-1.
+1\.
 
 Die Pflegesätze in allen Verpflegungsklassen dürfen die Beträge nicht überschreiten, die der Steuerdirektor als Höchstsatz
 bezeichnet hat.
 
-2.
+2\.
 
 Mindestens 40 vom Hundert der jährlichen Verpflegungstage müssen auf Kranke der Sozialversicherung und der öffentlichen Fürsorge oder auf solche Selbstzahler entfallen, die nicht mehr als den niedrigsten Pflegesatz im Sinn der Ziffer 1
 entrichtet und bei denen die ärztlichen Gebühren nachweislich die Mindestsätze der staatlichen ­Gebührenordnung nicht
@@ -14201,15 +14201,15 @@ gelegt werden.
 (4) Die Höchstsätze können für bestimmte Gruppen von Krankenanstalten und für bestimmte Gebietsteile verschieden festgesetzt werden. Sind die Pflegesätze einer Gemeindekrankenanstalt höher als die vom Steuerdirektor bestimmten Höchstsätze, so
 gelten für diesen Gemeindebezirk die Pflegesätze der örtlichen Gemeindekrankenanstalt als Höchstsätze.
 (5) Vor Festsetzung der Höchstsätze hat der Steuerdirektor zu hören:
-1.
+1\.
 
 die zuständige oberste Staatsbehörde,
 
-2.
+2\.
 
 die zuständige Ärztekammer,
 
-3.
+3\.
 
 die Inspektion der Sozialen Versicherungen.
 Zu § 4 Ziffer 9a des Gesetzes
@@ -14220,38 +14220,38 @@ Zu den Strassen und Wegen gehören auch Seitengräben, Böschungen, Schutzstreif
 § 19
 Schienenwege
 (1) Zu den Schienenwegen gehören:
-1.
+1\.
 
 Die Grundflächen des eigentlichen Bahnkörpers und die Grundflächen der zugehörigen Seitengräben, Böschungen,
 Schutzstreifen, Schneedämme und der zwischen den Gleisen gelegenen Geländestreifen;
 
-2.
+2\.
 
 die mit Schienen einschliesslich der Rangier-, Neben-, Aufstell- und Ladegleise bedeckten Grundflächen der Bahnhöfe,
 auch wenn sie durch Bahnsteighallen überdeckt sind;
 
-3.
+3\.
 
 Stellwerksgebäude, Blockbuden und Bahnwärterhäuser, soweit sie nicht Wohnzwecken dienen (§ 5 des Gesetzes).
 
 (2) Den Schienenwegen sind nicht zuzurechnen:
-1.
+1\.
 
 Grundflächen solcher Gleise, die zur Abstellung von dauernd aus dem Verkehr gezogenen Wagen (z. B. in und neben
 Wagenhallen, in Strassenbahndepots) bestimmt sind;
 
-2.
+2\.
 
 Grundflächen solcher Gleise, die im übrigen zu einer besonderen, von dem Verkehrsbetrieb getrennten Veranstaltung (z. B.
 Instandsetzung) gehören;
 \- 273 -
 
 CODE COMMUNAL − Finances communales
-3.
+3\.
 
 Bahnsteige, Bahnsteighallen;
 
-4.
+4\.
 
 Ladestrassen und -rampen.
 Zu § 4 Ziffer 9c des Gesetzes
@@ -14264,11 +14264,11 @@ Fremde Vertretungen
 § 21
 Konsulate
 Konsulate im Sinn des § 4 Ziffer 10 des Gesetzes sind:
-1.
+1\.
 
 die Berufskonsulate;
 
-2.
+2\.
 
 die Wahlkonsulate, wenn der Konsulatsleiter die Staatsangehörigkeit des Entsendestaats besitzt, sein Gehalt aus der fremden Staatskasse bezieht und eine andere als die konsularische Tätigkeit nicht ausübt.
 § 22
@@ -14280,11 +14280,11 @@ Zu § 5 des Gesetzes
 § 23
 Benutzung zu Wohnzwecken
 (1) Den Kasernenunterkünften der Armee (§ 5 Ziffer 1 des Gesetzes) werden zugerechnet:
-1.
+1\.
 
 die Wohnungen, die den kasernenbenutzungspflichtigen, verheirateten Soldaten zugewiesen sind (Kasernenwohnungen)
 
-2.
+2\.
 
 die auf dem Kasernengrundstück selbst befindlichen Wohnungen, die Personen im Dienst der Armee zugewiesen sind.
 
@@ -14304,13 +14304,13 @@ Land- und forstwirtschaftlich genutzter Grundbesitz, Werkstätten
 bezeichneten Zwecke unmittelbar dient.
 (2)1 Die Einschränkung der Steuerbefreiung nach Absatz 1 gilt nicht:
 
-1.
+1\.
 
 für land- und forstwirtschaftlich genutzten Grundbesitz, der Lehr- oder Versuchszwecken dient und dessen Fläche 10 Hektar
 nicht übersteigt. Auch wenn diese Grenze überschritten wird, gilt die Einschränkung des Absatzes 1 nicht für Gebäude- und
 Betriebsmittel, die über den zur Bewirtschaftung erforderlichen Bestand hinaus vorhanden sind und unmittelbar für die Lehroder Versuchszwecke benutzt werden;
 
-2.
+2\.
 
 für Übungsplätze der Armee, die unter § 4 Ziffer la des Gesetzes fallen;
 
@@ -14320,7 +14320,7 @@ März 1938 (RGBl. I S. 360, RStBl. S. 385). Erstmalige Anwendung: Rechnungsjahr 
 \- 274 -
 
 CODE COMMUNAL − Finances communales
-3.
+3\.
 
 für Grundbesitz, der unter § 4 Ziffer 9 des Gesetzes fällt.
 
@@ -14336,11 +14336,11 @@ Steuermesszahlen
 a) Land- und forstwirtschaftliche Betriebe
 § 28
 Bei land- und forstwirtschaftlichen Betrieben betragen die Steuermesszahlen:
-1.
+1\.
 
 für die ersten angefangenen oder vollen 10.000 RM (100.000 Fr.) des Einheitswerts 8 vom Tausend,
 
-2.
+2\.
 
 für den Rest des Einheitswerts 10 vom Tausend.
 b) Bebaute Grundstücke
@@ -14506,19 +14506,19 @@ des Grundstücks erhöhen.
 § 66
 Änderungen der Durchführungsbestimmungen
 Die Durchführungsbestimmungen zum Bewertungsgesetz vom 2. Februar 1935 (Rgesetzbl. I S. 81) werden wie folgt geändert:
-1.
+1\.
 
 § 14 Absatz 2 erhält die folgende Fassung: «Teile des landwirtschaftlichen Betriebs, die unter die Vorschrift im § 4 Ziffer 9
 des Grundsteuergesetzes fallen, sind nicht zu bewerten.»
 
-2.
+2\.
 
 Die §§ 41 und 45 werden gestrichen.
 Anwendung der Durchführungsverordnung
 § 67
 
 .....
-\1. Juli 1937.
+1\. Juli 1937.
 
 \- 278 -
 
@@ -14533,11 +14533,11 @@ Entrichtung der Grundsteuer
 Fälligkeit
 (1) Die Grundsteuer wird am 15. Mai, 15. August, 15. November und 15. Februar zu je einem Viertel ihres Jahresbetrags fällig.
 (2) Abweichend von Absatz 1 wird die Steuer fällig:
-1.
+1\.
 
 am 15. November mit ihrem Jahresbetrag, wenn dieser zwanzig Reichsmark nicht übersteigt,
 
-2.
+2\.
 
 am 15. Mai und 15. November zu je einer Hälfte ihres Jahresbetrags, wenn dieser vierzig Reichsmark nicht übersteigt.»
 §2
@@ -14609,11 +14609,11 @@ soweit für ihn im Inland oder auf einem in einem inländischen Schiffsregister 
 unterhalten wird.
 (Loi du 21 décembre 2001)
 «(2) Est toujours considérée comme entreprise commerciale pour l’ensemble de ses activités, l’activité:
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 des sociétés en nom collectif, des sociétés en commandite simple «, des sociétés en commandite spéciale»1, des
 ­groupements d’intérêt économique, des groupements européens d’intérêt économique «, des sociétés commerciales
@@ -14645,32 +14645,32 @@ simple ou de société en commandite spéciale.»
 §3
 Befreiungen.
 Von der Gewerbesteuer sind befreit:
-1.
+1\.
 
 die Monopolverwaltungen des Staates und die staatlichen Lotterieunternehmen;7
 
 ........
 
-3.
+3\.
 
 Staatsbanken, soweit sie Aufgaben staatswirtschaftlicher Art erfüllen;
 
-4.
+4\.
 
 (...) (Abrogé par la loi du 14 juin 1983)
 
-5.
+5\.
 
 Hauberg-, Wald-, Forst- und Laubgenossenschaften und ähnliche Realgemeinden. Unterhalten sie einen ­Gewerbebetrieb,
 der über den Rahmen eines Nebenbetriebs hinausgeht, so sind sie insoweit steuerpflichtig;
 
-6.
+6\.
 
 (...) (Abrogé par la loi du 18 décembre 1986 telle que modifiée par la loi du 1er décembre 1992)
 
 .........
 
-8.
+8\.
 
 Vereinigungen, die die gemeinschaftliche Benutzung land- und forstwirtschaftlicher Betriebseinrichtungen oder
 Betriebsgegenstände oder die Bearbeitung oder Verwertung der von den Mitgliedern selbst gewonnenen land- und
@@ -14743,33 +14743,33 @@ Hinzurechnungen.
 Dem Gewinn aus Gewerbebetrieb (§ 7) werden folgende Beträge wieder hinzugerechnet, soweit sie bei der Ermittlung des
 Gewinns abgesetzt sind:
 
-1.
+1\.
 
 (...) (Abrogé par la loi du 6 décembre 1990)
 
-2.
+2\.
 
 (...) (Abrogé par la loi du 6 décembre 1990)
 
-3.
+3\.
 
 (...) (Abrogé par la loi du 21 décembre 2001)
 
-4.
+4\.
 
 die Gewinnanteile, die an persönlich haftende Gesellschafter einer Kommanditgesellschaft auf Aktien auf ihre nicht auf das
 Grundkapital gemachten Einlagen oder als Vergütung (Tantieme) für die Geschäftsführung verteilt worden sind, (...) (abrogé
 par la loi du 21 décembre 2001);
 
-5.
+5\.
 
 (…) (Abrogé par la loi du 12 février 1999)
 
-6.
+6\.
 
 (…) (Abrogé par la loi du 12 février 1999)
 
-7.
+7\.
 
 (...) (Abrogé par la loi du 21 décembre 2001)
 
@@ -14779,11 +14779,11 @@ Abrogé par la loi du 24 décembre 1996.
 \- 282 -
 
 CODE COMMUNAL − Finances communales
-8.
+8\.
 
 (...) (Abrogé par la loi du 6 décembre 1990)
 
-9.
+9\.
 
 die Anteile am Verlust einer offenen Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen ­Gesellschaft, bei
 der die Gesellschafter als Unternehmer (Mitunternehmer) des Gewerbebetriebs anzusehen sind «;»1
@@ -14794,11 +14794,11 @@ l’article 164ter, alinéa 4, numéros 6 et 7 de la loi modifiée du 4 décembr
 §9
 Kürzungen.
 Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um:
-1.
+1\.
 
 (...) (Abrogé par la loi du 21 décembre 2001)
 
-2.
+2\.
 
 die Anteile am Gewinn einer offenen Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen ­Gesellschaft, bei
 der die Gesellschafter als Unternehmer (Mitunternehmer) des Gewerbebetriebs anzusehen sind «, wenn die ­Gewinnanteile
@@ -14824,7 +14824,7 @@ considérer comme détention directe proportionnellement à la fraction détenue
 (Loi du 15 juin 2004)
 «2b. des parts de bénéfice ajoutées en vertu du paragraphe 8 No 4 au bénéfice d’exploitation d’une société en ­commandite par
 actions, pour autant qu’elles sont comprises dans le bénéfice d’exploitation déterminé suivant le paragraphe 7.»
-3.
+3\.
 
 den Teil des Gewerbeertrags eines inländischen Unternehmens, der auf eine nicht im Inland belegene Betriebstätte entfällt
 «, soweit er die Ermittlung des Gewinns beeinträchtigt hat;»2
@@ -14926,11 +14926,11 @@ gleiche sein.
 Fälligkeit.
 (1) Die Steuer ist mit je einem Viertel ihres Jahresbetrags am 15. Mai, 15. August, 15. November und 15. Februar fällig.
 (2) Abweichend vom Absatz 1 ist die Steuer fällig:
-1.
+1\.
 
 am 15. Mai mit ihrem Jahresbetrag, wenn dieser «1,24 euros»1 nicht übersteigt,
 
-2.
+2\.
 
 am 15. Mai und 15. November zu je einer Hälfte ihres Jahresbetrags, wenn dieser (10 RM) «2,48 euros»1 nicht übersteigt.
 § 19
@@ -14985,18 +14985,18 @@ die Verhältnisse zu Beginn des Monats massgebend, der auf den Eintritt in die S
 § 29
 Zerlegungsmasstab.
 (1) Zerlegungsmasstab ist:
-1.
+1\.
 
 bei Versicherungs-, Bank- und Kreditunternehmen:
 das Verhältnis, in dem die Summe der in allen inländischen Betriebstätten erzielten Betriebseinnahmen zu den in den
 Betriebstätten der einzelnen Gemeinden erzielten Betriebseinnahmen steht;
 
-2.
+2\.
 
 in den übrigen Fällen, vorbehaltlich der Ziffer 3:
 das Verhältnis, in dem die Summe der Arbeitslöhne, die an die bei allen inländischen Betriebstätten beschäftigten Arbeitnehmer gezahlt worden sind, zu den Arbeitslöhnen steht, die an die bei den Betriebstätten der einzelnen Gemeinden beschäftigten Arbeitnehmer gezahlt worden sind;
 
-3.
+3\.
 
 bei Wareneinzelhandelsunternehmen:
 zur Hälfte das in Ziffer 1 und zur Hälfte das in Ziffer 2 bezeichnete Verhältnis.
@@ -15018,17 +15018,17 @@ CODE COMMUNAL − Finances communales
 § 31
 Begriff der Arbeitslöhne für die Zerlegung.
 Arbeitslöhne sind die Vergütungen im Sinn des § 24 Absätze 2 bis 5 mit folgenden Abweichungen:
-1.
+1\.
 
 nach dem Gewinn berechnete einmalige Vergütungen (z. B. Tantiemen, Gratifikationen) sind nicht anzusetzen. Das gleiche
 gilt für sonstige Vergütungen, soweit sie bei dem einzelnen Arbeitnehmer «9.915,74 euros»1 übersteigen;
 
-2.
+2\.
 
 bei Unternehmen, die nicht von einer juristischen Person betrieben werden, sind für die im Betrieb tätigen Unternehmer
 (Mitunternehmer) insgesamt «1.487,36 euros»1 jährlich anzusetzen;
 
-3.
+3\.
 
 bei Eisenbahnunternehmen sind die Vergütungen, die an die in der Werkstättenverwaltung und im Fahrdienst ­beschäftigten
 Arbeitnehmer gezahlt worden sind, mit dem um ein Drittel erhöhten Betrag anzusetzen.
@@ -15097,7 +15097,7 @@ b)
 
 bei einer Änderung des einheitlichen Steuermessbetrags oder des Zerlegungsanteils, wenn die Änderung vor dem 1. April
 1943 durchgeführt worden ist. Die Gemeindebehörde hat den Steuerbescheid, der der Änderung entspricht, spätestens am
-\15. Mai 1943 dem Steuerschuldner bekanntzugeben.
+15\. Mai 1943 dem Steuerschuldner bekanntzugeben.
 §2
 
 (1) Der einheitliche Steuermessbetrag (§ 14 des Gewerbesteuergesetzes) wird ab dem Kalenderjahr 1943 jeweils für ein Kalenderjahr (Erhebungszeitraum) nach dessen Ablauf festgesetzt. Fällt die Steuerpflicht im Laufe des Kalenderjahres weg, so kann der
@@ -15240,7 +15240,7 @@ erhoben, wenn sie mindestens «10 Euro»1 beträgt.
 (2) Bei Wandergewerbebetrieben setzt die Steuerverwaltung die Vorauszahlungen fest. Die Vorauszahlungen bemessen sich
 nach der Steuer, die sich für das Kalenderjahr 1943 voraussichtlich ergeben wird.
 § 15 (. . .) (abrogé par la loi du 11 décembre 1967)
-\31. März 1943.
+31\. März 1943.
 
 Zweite Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form vom 16. November 1943
 Seconde ordonnance de simplification de l’impôt commercial du 16 novembre 1943,
@@ -15280,7 +15280,7 @@ der Festsetzung des einheitlichen Steuermessbetrags für das Kalenderjahr 1943 a
 (2) Die Vorschriften im § 4 sind erstmals auf den Steuermessbetrag nach der Lohnsumme für das vierte Kalendervierteljahr
 1943 anzuwenden.
 (3) (. . .) (abrogé par la loi du 11 décembre 1967)
-\16. November 1943.
+16\. November 1943.
 
 Dritte Verordnung zur Durchführung des Gewerbesteuergesetzes vom 31. Januar 1940 in der Fassung des § 21 Absatz 2
 der Verordnung zur Durchführung der §§ 17 bis 19 des Steueranpassungsgesetzes vom 16. Dezember 1941
@@ -15484,29 +15484,29 @@ Zu den §§ 14 und 27 des Gesetzes.
 Gewerbesteuererklärung.
 (1) Eine Gewerbesteuererklärjung zur Festsetzung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital ist
 abzugeben:
-1.
+1\.
 
 für alle gewerbesteuerpflichtigen Unternehmen, deren Gewerbeertrag im Wirtschaftsjahr den Betrag von (4.000 RM) 40.000
 Franken oder deren Gewerbekapital an dem massgebenden Feststellungszeitpunkt den Betrag von (20.000 RM) 200.000
 Franken überstiegen hat;
 
-2.
+2\.
 
 für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschränkter Haftung);
 
-3.
+3\.
 
 für Erwerbs- und Wirtschaftsgenossenschaften und für Versicherungsvereine auf Gegenseitigkeit.
 Für sonstige juristische Personen des privaten Rechts und für nichtrechtsfähige Vereine ist eine ­Gewerbesteuererklärung nur
 abzugeben, soweit diese Unternehmen einen wirtschaftlichen Geschäftsbetrieb (ausgenommen Land- und Fortswirtschaft)
 unterhalten, der über den Rahmen einer Vermögensverwaltung hinausgeht;
 
-4.
+4\.
 
 ohne Rücksicht auf die Höhe des Gewerbeertrags oder die Höhe des Gewerbekapitals für alle gewerbesteuerpflichtigen
 Unternehmen, bei denen der Gewinn auf Grund eines Buchabschlusses zu ermitteln ist oder ermittelt wird;
 
-5.
+5\.
 
 für alle gewerbesteuerpflichtigen Unternehmen, für die von der Steuerverwaltung eine Gewerbesteuererklärung besonders
 verlangt wird.
@@ -15583,21 +15583,21 @@ zum Umsatzsteuergesetz vom 23. Dezember 1938 bezeichneten Lieferungen mit Ausnah
 § 37
 Wohnungs- und Siedlungsunternehmen.
 Von der Gewerbesteuer sind befreit:
-1.
+1\.
 
 Wohnungsunternehmen, solange sie auf Grund der Gemeinnützigkeitsverordnung vom 1. Dezember 1930 und der sie
 ergänzenden Bestimmungen als gemeinnützig anerkannt sind.
 
-2.
+2\.
 
 Unternehmen, solange sie als Organe der staatlichen Wohnungspolitik (§ 28 der Gemeinnützigkeitsverordnung) anerkannt
 sind.
 
-3.
+3\.
 
 ..........................
 
-4.
+4\.
 
 die von den obersten Landesbehörden zur Ausgabe von Heimstätten zugelassenen gemeinnützigen Unternehmen im sinn
 des Heimstättengesetzes.
@@ -15618,7 +15618,7 @@ Inkrafttreten.
 zur Durchführung des Gewerbesteuergesetzes vom 20. Februar 1938.
 (2) Die Bestimmungen der §§ 4, 17 Absatz 2, 19, 31, 32 und 36 sind bereits für das Rechnungsjahr 1939 anzuwenden. Rechtskräftige Festsetzungen des einheitlichen Steuermessbetrags für das Rechnungsjahr 1939 werden dadurch nicht berührt.
 (3) Die Bestimmungen des § 37 gelten für die Rechnungsjahre 1939 und 1940.
-\31. Januar 1940.
+31\. Januar 1940.
 
 \- 298 -
 
@@ -15884,12 +15884,12 @@ Ri (rendement inférieur de bases calculées)
 avec
 Ri = (1 - i) x Rp où i est le facteur qui définit la limite inférieure de la plage par rapport au Rp; et
 Rs = (1 + s) x Rp où s est le facteur qui définit la limite supérieure de la plage par rapport au Rp.
-\2) Description du schéma
+2\) Description du schéma
 A partir du Rp qui exprime les potentialités fiscales par habitant du pays (comme si le pays ne formait qu’une seule ­commune)
 il est déterminé un intervalle défini par Ri (limite inférieure) et Rs (limite supérieure) à l’intérieur duquel le taux de contribution varie
 de son minimum (Tmin) à son maximum (Tmax) proportionnellement au rendement effectif des bases calculées par ­commune. A
 l’extérieur de l’intervalle ainsi défini le taux de contribution applicable est, soit le Tmin soit le Tmax.
-\3) Formules de détermination du taux de contribution
+3\) Formules de détermination du taux de contribution
 si Ri ≥ Rc
 
 alors Tc = Tmin
@@ -15906,7 +15906,7 @@ alors
 Tc = Tmin + (Rc – Ri) x –––––––––––––
 (Rs – Ri)
 
-\4) Exemples de détermination du taux de contribution
+4\) Exemples de détermination du taux de contribution
 Hypothèses
 –
 
@@ -15990,14 +15990,14 @@ CODE COMMUNAL − Finances communales
 Circulaire du directeur des contributions
 ICC no. 36 du 19 mai 2000
 Ventilation de la base d’assiette globale et attribution de l’impôt commercial communal aux communes
-\1. Introduction
+1\. Introduction
 La présente circulaire reprend les directives de la circulaire I.C.C. n° 5 du 28 février 1953, tout en tenant compte des ­dispositions
 législatives intervenues au cours des dernières années.
 Rappelons que la loi concernant l’impôt commercial communal (I.C.C.) a été introduite au Grand-Duché de Luxembourg par l’occupant allemand. Les ordonnances de simplification prévoyaient entre autres que l’impôt commercial était à répartir forfaitairement
 entre les différentes communes suivant une clé de répartition fixe. C’est sous cette forme que la loi allemande a été validée en 1944.
 Les articles 6 à 8 de la loi du 1er mars 1952 ont réintroduit dans la loi I.C.C. l’attribution de l’I.C.C. à la commune de situation tout
 en prévoyant l’alimentation d’un fonds de participation ainsi que la répartition de ce fonds.
-\2. Attribution de l’I.C.C.
+2\. Attribution de l’I.C.C.
 L’article 6 modifié de la loi du 1er mars 1952 règle dans son alinéa 2 une première attribution de l’I.C.C., c’est-à-dire sans tenir
 compte de la contribution des communes au fonds de participation et de la répartition du fonds entre les communes:
 «2° Sans préjudice de la participation des communes de résidence des salariés et des communes de résidence de la ­population,
@@ -16038,7 +16038,7 @@ entre les communes intéressées relèvent de la compétence des bureaux d’imp
 articles 2 à 6bis du règlement grand-ducal modifié du 20 avril 1962 (Titre II) et sont exposées ci-après sub 4.1.
 La participation au fonds en fonction de la population et des salariés résidant dans les communes est réglée par les articles 7 à
 10 du règlement précité (Titre III) et sera plus amplement commentée ci-après sub 4.2.
-\3. Procédure
+3\. Procédure
 L’article 7 de la loi modifiée du 1er mars 1952 prévoit que la base d’assiette est à ventiler entre les communes intéressées suivant
 la procédure des §§ 382 et suivants de la loi générale des impôts (AO). Le § 388 AO ne sort cependant pas ses effets, étant donné
 que l’article 7 précité stipule qu’en matière de ventilation, le recours est porté directement devant le tribunal.
@@ -16058,7 +16058,7 @@ le tribunal administratif .
 \- 306 -
 
 CODE COMMUNAL − Finances communales
-\4. Règlement grand-ducal modifié du 20 avril 1962
+4\. Règlement grand-ducal modifié du 20 avril 1962
 Le règlement grand-ducal du 20 avril 1962, pris sur la base de l’article 6 de la loi modifiée du 1.3.1952, règle les ventilations de
 l’I.C.C. (titre II) et la participation des communes de résidence des salariés et des communes de résidence de la population dans
 le produit de l’I.C.C. (titre III).
@@ -16232,9 +16232,9 @@ pour les assurances: les recettes brutes réalisées dans les différents établ
 b)
 
 pour les banques et autres instituts de crédit:
-\1. les dépôts et comptes-courants de la clientèle, banquiers non compris;
-\2. les avances à la clientèle, banquiers non compris;
-\3. les salaires.
+1\. les dépôts et comptes-courants de la clientèle, banquiers non compris;
+2\. les avances à la clientèle, banquiers non compris;
+3\. les salaires.
 
 La notion de «dépôts et comptes-courants de la clientèle, banquiers non compris» porte sur les dépôts d’épargne et les comptescourants.
 Quant aux termes «avances à la clientèle, banquiers non compris», ils se rapportent aux débiteurs divers, gagés et non gagés.
@@ -16266,12 +16266,12 @@ Cette référence à l’impôt sur le total des salaires, impôt aboli à parti
 notamment pour rassembler toutes les indications en vue de la ventilation de l’I.C.C.
 A toutes fins utiles, je signale que le texte du § 24 modifié GewStG (impôt sur le total des salaires) est reproduit en note infrapaginale au code fiscal, volume 4, titre 3, sous les §§ 28-34.
 De façon générale, il convient de considérer les rémunérations au sens de l’article 95 L.I.R., à l’exception:
-1.
+1\.
 
 des salaires exemptés de l’impôt sur le revenu en vertu des numéros 3 et 13 de l’article 115 de la loi concernant l’impôt sur
 le revenu;
 
-2.
+2\.
 
 des indemnités pécuniaires de maladie et prestations analogues versées avec ou sans liquidation par les employeurs, dès
 lors qu’elles donnent lieu à remboursement brut ou net par la caisse de maladie, c’est-à-dire les prestations faisant l’objet
@@ -16279,7 +16279,7 @@ de l’art. 95a LIR;
 \- 309 -
 
 CODE COMMUNAL − Finances communales
-3.
+3\.
 
 des rémunérations qui, conformément au paragraphe 8, numéros 3 à 6, étaient à ajouter au bénéfice pour la détermination
 du bénéfice d’exploitation jusqu’en 1998.
@@ -16436,15 +16436,15 @@ L’article 5 renferme une mesure de simplification qui ne comporte pas d’expl
 L’article 6 dispose que l’impôt commercial qui revient à une commune du chef de sa participation à une ventilation, s’obtient en
 multipliant sa quote-part dans la base d’assiette globale par son taux communal.
 Suite au traitement de la ventilation par voie informatique, trois bulletins distincts seront dorénavant expédiés au contribuable:
-1)
+1\)
 
 le bulletin qui détermine la base d’assiette globale;
 
-2)
+2\)
 
 le bulletin de ventilation de la base d’assiette globale;
 
-3)
+3\)
 
 le bulletin de l’impôt commercial communal.
 
@@ -16531,24 +16531,24 @@ Extrait: Art. 9
 
 Article 9
 Les ressources financières des collectivités locales
-\1. Les collectivités locales ont droit, dans le cadre de la politique économique nationale, à des ressources propres suffisantes
+1\. Les collectivités locales ont droit, dans le cadre de la politique économique nationale, à des ressources propres suffisantes
 dont elles peuvent disposer librement dans l’exercice de leurs compétences.
-\2. Les ressources financières des collectivités locales doivent être proportionnées aux compétences prévues par la ­Constitution
+2\. Les ressources financières des collectivités locales doivent être proportionnées aux compétences prévues par la ­Constitution
 ou la loi.
-\3. Une partie au moins des ressources financières des collectivités locales doit provenir de redevances et d’impôts locaux dont
+3\. Une partie au moins des ressources financières des collectivités locales doit provenir de redevances et d’impôts locaux dont
 elles ont le pouvoir de fixer le taux, dans les limites de la loi.
-\4. Les systèmes financiers sur lesquels reposent les ressources dont disposent les collectivités locales doivent être de nature
+4\. Les systèmes financiers sur lesquels reposent les ressources dont disposent les collectivités locales doivent être de nature
 suffisamment diversifiée et évolutive pour leur permettre de suivre, autant que possible dans la pratique, l’évolution réelle des coûts
 de l’exercice de leurs compétences.
-\5. La protection des collectivités locales financièrement plus faibles appelle la mise en place de procédures de ­péréquation
+5\. La protection des collectivités locales financièrement plus faibles appelle la mise en place de procédures de ­péréquation
 financière ou des mesures équivalentes destinées à corriger les effets de la répartition inégale des sources potentielles de financement ainsi que des charges qui leur incombent. De telles procédures ou mesures ne doivent pas réduire la liberté d’option des
 collectivités locales dans leur propre domaine de responsabilité.
-\6. Les collectivités locales doivent être consultées, d’une manière appropriée, sur les modalités de l’attribution à celles-ci des
+6\. Les collectivités locales doivent être consultées, d’une manière appropriée, sur les modalités de l’attribution à celles-ci des
 ressources redistribuées.
-\7. Dans la mesure du possible, les subventions accordées aux collectivités locales ne doivent pas être destinées au ­financement
+7\. Dans la mesure du possible, les subventions accordées aux collectivités locales ne doivent pas être destinées au ­financement
 de projets spécifiques. L’octroi de subventions ne doit pas porter atteinte à la liberté fondamentale de la politique des collectivités
 locales dans leur propre domaine de compétence.
-\8. Afin de financer leurs dépenses d’investissement, les collectivités locales doivent avoir accès, conformément à la loi, au marché national des capitaux.
+8\. Afin de financer leurs dépenses d’investissement, les collectivités locales doivent avoir accès, conformément à la loi, au marché national des capitaux.
 
 \- 315 -
 
@@ -17023,7 +17023,7 @@ Cuvelier, donatrice. Tant que ce droit existe, nul n’est admis au nom de la fo
 de quitter le refuge aussitôt que le bénéfice du dit droit serait réclamé.
 Les revenus de la fondation Cuvelier-Würth contribueront jusqu’à l’ouverture du refuge J.-P. Pescatore à la création du fonds de
 construction de ce refuge, sauf un prélèvement de 10 pCt. à attribuer à la réserve de la fondation Cuvelier-Würth à partir de l’année
-1880.
+1880\.
 
 Modifié implicitement par la loi du 1er août 2001 relative au basculement en euro (Mém. A - 117 du 18 septembre 2001, p. 2440).
 
@@ -17336,7 +17336,7 @@ DER BUNDESREPUBLIK DEUTSCHLAND
 
 Herr Minister,
 bezugnehmend auf den Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Grenzfragen, der heute unterzeichnet worden ist, beehre ich mich, Ihnen folgendes mitzuteilen:
-1.
+1\.
 
 Die zuständigen Behörden beider Vertragsstaaten regeln die mit der Feststellung der Zugehörigkeit bestimmter Flächen
 zur Bundesrepublik Deutschland, zum Großherzogtum Luxemburg oder zum gemeinschaftlichen Hoheitsgebiet zusammenhängenden Verwaltungsfragen. Die erforderlichen Maßnahmen werden im gegenseitigen Einvernehmen durchgeführt.
@@ -17354,7 +17354,7 @@ Die Rechtsverhältnisse an einem im gemeinschaftlichen Hoheitsgebiet gelegenen G
 des Vertragsstaats, in dem das Grundstück zum Zwecke der Verlautbarung der zivilrechtlichen Rechtsverhältnisse registriert ist. Eine soche Registrierung kann auch nach Inkrafttreten des Vertrags auf Antrag eines Eigentümers oder eines
 Gläubigers, der die Zwangsvollstreckung in das Grundstück betreiben kann, vorgenommen werden, wenn eine Bescheinigung der zuständigen Behörde des anderen Vertragsstaats vorgelegt wird, daß dort eine Registrierung von entsprechenden
 Rechtsverhältnissen an dem Grundstück nicht besteht.
-2.
+2\.
 
 Die in Artikel 9 des Vertrags genannten Bediensteten und sonstigen Personen müssen einen Paß oder einen mit Lichtbild
 versehenen amtlichen Personalausweis mit sich führen. Soweit sie nicht die Staatsangehörigkeit eines Mitgliedstaats der
@@ -17370,7 +17370,7 @@ einem Grundstück gemäß Artikel 9 Absatz 2 richten sich nach dem Recht des Ver
 die Grundstücke und baulichen Anlagen liegen. Entschädigungsansprüche gegen den anderen Vertragsstaat sind ausgeschlossen. Die Kosten für die gemäß Artikel 6 zu treffenden Maßnahmen und Entschädigungen gemäß Artikel 9 Absatz 2
 werden von beiden Vertragsstaaten zu gleichen Teilen getragen.
 
-3.
+3\.
 
 Das Schiedsgericht gemäß Artikel 10 Absatz 2 des Vertrags wird von Fall zu Fall in der Weise gebildet, daß jeder Vertragsstaat einen Schiedsrichter bestellt. Die beiden bestellten Schiedsrichter ernennen einen Obmann, der weder Deutscher noch
 Luxemburger ist.
@@ -17409,7 +17409,7 @@ LUXEMBOURG
 Monsieur l’Ambassadeur,
 J’ai l’honneur d’accuser réception de votre lettre en date de ce jour conçue dans les termes suivants:
 “Bezug nehmend auf den Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Grenzfragen, der heute unterzeichnet worden ist, beehre ich mich, Ihnen folgendes mitzuteilen:
-1.
+1\.
 
 Die zuständigen Behörden beider Vertragsstaaten regeln die mit der Feststellung der Zugehörigkeit bestimmter Flächen
 zur Bundesrepublik Deutschland, zum Großherzogtum Luxemburg oder zum gemeinschaftlichen Hoheitsgebiet zusammenhängenden Verwaltungsfragen. Die erforderlichen Maßnahmen werden im gegenseitigen Einvernehmen durchgeführt.
@@ -17423,7 +17423,7 @@ des Vertragsstaats, in dem das Grundstück zum Zwecke der Verlautbarung der zivi
 Gläubigers, der die Zwangsvollstreckung in das Grundstück betreiben kann, vorgenommen werden, wenn eine Bescheinigung der zuständigen Behörde des anderen Vertragsstaats vorgelegt wird, daß dort eine Registrierung von entsprechenden
 Rechtsverhältnissen an dem Grundstück nicht besteht.
 
-2.
+2\.
 
 Die in Artikel 9 des Vertrags genannten Bediensteten und sonstigen Personen müssen einen oder einen mit Lichtbild
 versehenen amtlichen Personalausweis mit sich führen. Soweit sie nicht die Staatsangehörigkeit eines Mitgliedstaats der
@@ -17439,7 +17439,7 @@ einem Grundstück gemäß Artikel 9 Absatz 2 richten sich nach dem Recht des Ver
 die Grundstücke und baulichen Anlagen liegen. Entschädigungsansprüche gegen den anderen Vertragsstaat sind ausgeschlossen. Die Kosten für die gemäß Artikel 6 zu treffenden Maßnahmen und Entschädigungen gemäß Artikel 9 Absatz 2
 werden von beiden Vertragsstaaten zu gleichen Teilen getragen.
 
-3.
+3\.
 
 Das Schiedsgericht gemäß Artikel 10 Absatz 2 des Vertrags wird von Fall zu Fall in der Weise gebildet, daß jeder Vertragsstaat einen Schiedsrichter bestellt. Die beiden bestellten Schiedsrichter ernennen einen Obmann, der weder Deutscher noch
 Luxemburger ist.
@@ -18120,7 +18120,7 @@ CODE COMMUNAL − Frontières
 et de Alzinger, jusqu’au bout de celle de la veuve Schmit, où elle reprend l’ancienne délimitation des territoires de Clemency et de
 Sélange. A ce point il sera planté une borne (N° 51).
 Par la démarcation décrite dans les deux derniers paragraphes, tout le terrain compris (depuis la borne N° 49 jusqu’à celle N°
-\51) entre la nouvelle limite et l’ancien terrain appelé Weydersberg, cesse d’appartenir au territoire de Clemency (Grand-Duché de
+51\) entre la nouvelle limite et l’ancien terrain appelé Weydersberg, cesse d’appartenir au territoire de Clemency (Grand-Duché de
 Luxembourg) pour faire partie de celui de Sélange (Belgique).
 § 6. De ce point, la limite, après avoir repris l’ancienne délimitation entre Sélange et Clemency, est formée, vers le sud-est, par
 la ligne de séparation des deux pièces de terre de la veuve Schmitt, sur Clemency, et Jean-Baptiste Schuweiler, sur Sélange, et
@@ -18403,7 +18403,7 @@ sur Heckbous, où elle retrouve aussi l’ancienne délimitation entre Eischen e
 
 CODE COMMUNAL − Frontières
 de trois territoires: d’Eischen (Grand-Duché de Luxembourg), de Walzing et de Heckbous (Belgique), il sera planté une borne (N°
-\100) et une petite au bord du ruisseau.
+100\) et une petite au bord du ruisseau.
 Par la démarcation tracée dans cet article, et dont la ligne est fixée à travers presque tout le territoire d’Eischen (Grand-Duché
 de Luxembourg), la ferme de Lingenthal, et toute la portion de ce territoire qui se trouve à l’ouest de cette ligne (depuis la borne N°
 89 jusqu’à la borne N° 100), cessent d’en faire partie pour être réunies au territoire de Clairefontaine (Belgique).
@@ -19493,7 +19493,7 @@ Art. 65.
 Limite entre le territoire de Hachiville (Grand-Duché de Luxembourg), et celui de Limerlé (Belgique).
 § 1 . Du point fixé près du chemin de Steinbach à Hachiville (N° 267), la limite est formée, dans la direction de l’Est, par l’axe
 dudit chemin, jusqu’à la séparation des parcelles sartables de Schmitz, Nicolas, et de Felten, François. Il sera planté une borne (N°
-\268) à leur point de contact avec le chemin précité de Steinbach à Hachiville.
+268\) à leur point de contact avec le chemin précité de Steinbach à Hachiville.
 er
 
 § 2. De là, quittant le chemin, la limite est formée, dans la direction du nord-Est, par une ligne droite qui monte à travers des
@@ -20410,15 +20410,15 @@ Pour l’établissement, l’entretien et l’exploitation des canalisations et 
 ces canalisations, la société peut utiliser le domaine public et privé de l’Etat et des communes. L’usage du domaine de l’Etat et des
 communes sera gratuit, sauf le rétablissement des lieux en leur état antérieur, aux frais de la société.
 La société aura le droit:
-1)
+1\)
 
 d’installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs (...)2;
 
-2)
+2\)
 
 d’assurer la surveillance des canalisations;
 
-3)
+3\)
 
 de procéder aux travaux d’entretien et de réfection de ces canalisations.
 
@@ -20497,16 +20497,16 @@ ces canalisations, la société peut utiliser le domaine public et privé de l�
 communes sera gratuit, sauf le rétablissement des lieux en leur état antérieur, aux frais de la société.
 Est applicable l’article 9 de la loi du 11 août 1982 concernant la protection de la nature et des ressources naturelles.
 La société aura le droit:
-1)
+1\)
 
 d’installer des canalisations de gaz dans les terrains privés, non bâtis, qui ne sont pas entourés de murs ou d’autres clôtures
 équivalentes;
 
-2)
+2\)
 
 d’assurer la surveillance des canalisations;
 
-3)
+3\)
 
 de procéder aux travaux d’entretien et de réfection de ces canalisations.
 
@@ -20624,12 +20624,12 @@ I M M I G R ATION
 
 Loi du 29 août 2008 portant sur la libre circulation des personnes et l’immigration, Art. 4, 8, 15, 36 et 40
 Loi du 18 décembre 2015
-\1. relative à la protection internationale et à la protection temporaire;
-\2. modifiant
+1\. relative à la protection internationale et à la protection temporaire;
+2\. modifiant
 – la loi modifiée du 10 août 1991 sur la profession d’avocat,
 – la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration,
 – la loi du 28 mai 2009 concernant le Centre de rétention;
-\3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de
+3\. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de
 protection, Art. 12(3) et 72)
 Loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire,
 et modifiant la loi modifiée du 10 août 1991 sur la profession d’avocat (Extrait: Art. 9)  . . . . . . . . . . . . . . . . . . . .
@@ -20681,20 +20681,20 @@ Pour la délivrance de l’attestation d’enregistrement visée à l’article 
 ressortissant d’un des autres Etats parties à l’Accord sur l’Espace économique européen ou de la Confédération suisse, ci-après
 nommés «pays assimilés», se présente à l’administration communale où il entend établir sa résidence muni de sa carte d’identité
 nationale ou son passeport en cours de validité et produit, selon le cas:
-1.
+1\.
 
 un contrat de travail, une promesse d’embauche délivrée par l’employeur, ou la preuve attestant d’une activité indépendante
 s’il entend exercer en tant que travailleur une activité salariée ou une activité indépendante, conformément à l’article 6,
 paragraphe (1), point 1 de la loi;
 
-2.
+2\.
 
 la preuve qu’il dispose pour lui et les membres de sa famille de ressources suffisantes telles que définies à l’article 2 du
 règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29
 août 2008 sur la libre circulation des personnes et l’immigration et d’une assurance maladie s’il entend séjourner sur le
 territoire en tant que non-actif, conformément à l’article 6, paragraphe (1), point 2 de la loi;
 
-3.
+3\.
 
 la preuve de son inscription dans un établissement public ou privé agréé, une déclaration ou tout autre élément équivalent de son choix pour justifier qu’il dispose de ressources suffisantes pour lui-même et pour les membres de sa famille,
 telles que définies à l’article 2 du règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de
@@ -20707,27 +20707,27 @@ Pour la délivrance de l’attestation d’enregistrement prévue à l’article
 à l’article 2 qui sont eux-mêmes citoyens de l’Union ou ressortissants d’un des pays assimilés, se présentent à l’administration communale du lieu de leur résidence, munis de leur carte d’identité nationale ou de leur passeport en cours de validité et produisent,
 selon le cas:
 
-1.
+1\.
 
 un document attestant de l’existence du mariage, du partenariat enregistré ou du lien de parenté;
 
-2.
+2\.
 
 une copie de l’attestation d’enregistrement du citoyen de l’Union ou du ressortissant d’un des pays assimilés qu’ils
 accompagnent ou rejoignent;
 
-3.
+3\.
 
 dans les cas visés à l’article 12, paragraphe (1), point c) «et point d)»1 de la loi, les pièces justificatives attestant que les
 conditions énoncées dans cette disposition sont remplies;
 
-4.
+4\.
 
 dans les cas visés à l’article 12, (...)2 paragraphe (2), point 1 de la loi, un document délivré par l’autorité compétente du
 pays de provenance attestant qu’ils sont à la charge ou font partie du ménage du citoyen de l’Union ou du ressortissant
 d’un des pays assimilés;
 
-5.
+5\.
 
 dans les cas visés à l’article 12, paragraphe (2), point 2 de la loi, la confirmation que le ministre autorise le membre de la
 famille concerné au séjour;
@@ -20741,7 +20741,7 @@ CODE COMMUNAL − Immigration
 (Règl. g.-d. du 25 janvier 2012)
 «5bis. dans les cas visés à l’article 12, paragraphe (2), point 3 de la loi, la preuve de l’existence d’une relation durable avec le
 citoyen de l’Union dûment constatée par le ministre;»
-6.
+6\.
 
 dans les cas visés à l’article 12, paragraphe (3) de la loi, un document attestant de l’existence du mariage, du partenariat
 enregistré ou du lien de parenté ainsi qu’un certificat de résidence du citoyen luxembourgeois qu’ils accompagnent ou
@@ -20798,8 +20798,8 @@ CODE COMMUNAL − Indigénat
 I N D I G É N AT
 
 Loi du 8 mars 2017 sur la nationalité luxembourgeoise et portant abrogation de:
-\1. la loi du 23 octobre 2008 sur la nationalité luxembourgeoise;
-\2. la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent
+1\. la loi du 23 octobre 2008 sur la nationalité luxembourgeoise;
+2\. la loi du 7 juin 1989 relative à la transposition des noms et prénoms des personnes qui acquièrent ou recouvrent
 la nationalité luxembourgeoise
 
 \- 403 -
@@ -21389,27 +21389,27 @@ démission comme bourgmestre ou échevin par l’autorité de nomination.»
 «Section 2. – Des incompatibilités
 Art. 11ter.
 (1) Ne peuvent faire partie d’un conseil communal:
-1.
+1\.
 
 les ministres et les secrétaires d’Etat;
 
-2.
+2\.
 
 les fonctionnaires et employés affectés au département de l’Intérieur ainsi qu’à ses administrations;
 
-3.
+3\.
 
 (. . .)2
 
-4.
+4\.
 
 les membres civils et militaires de la direction et du personnel de la Police grand-ducale, hormis ceux des agents qui n’assument pas des fonctions de police;
 
-5.
+5\.
 
 les ministres des cultes liés à l’Etat par voie de convention au sens de l’article 22 de la Constitution et visés par ces conventions;
 
-6.
+6\.
 
 les membres des juridictions de l’ordre administratif et de l’ordre judiciaire ainsi que de leurs parquets.»
 
@@ -21418,26 +21418,26 @@ les membres des juridictions de l’ordre administratif et de l’ordre judiciai
 de la sécurité civile.»
 (Loi du 13 février 2011)
 «(2) Ne peuvent faire partie du conseil communal d’une commune déterminée:
-1.
+1\.
 
 toute personne qui reçoit une rémunération, fixe ou variable, de la commune ou d’un établissement subordonné à
 l­’administration de la commune ou d’un syndicat intercommunal dont la commune fait partie ainsi que de toute autre personne morale de droit public ou de droit privé dans laquelle la commune est associée;
 
-2.
+2\.
 
 toute personne intervenant dans l’enseignement et l’encadrement des élèves, y compris les chargés de cours de ­religion et
 de formation morale et sociale dans l’enseignement fondamental de la commune.
 
 Art. 11quater.
 Ne peuvent être ni bourgmestre, ni échevin, ni en exercer temporairement les fonctions:
-1.
+1\.
 
 les fonctionnaires et employés de l’Administration des ponts et chaussées, de l’Administration des services techniques
 de l’agriculture, de l’Administration des bâtiments publics, de l’Administration de l’environnement, de l’Administration de la
 nature et des forêts, de l’Inspection sanitaire, de l’Inspection du travail et des mines et des administrations fiscales de l’Etat,
 si la commune de leur domicile fait partie du ressort territorial de leur activité;
 
-2.
+2\.
 
 les ministres d’un culte.»
 
@@ -23301,26 +23301,26 @@ de deux ans, ce montant est de 20 (vingt) euros.»
 Art. 22.
 Le règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l’obtention d’un titre de voyage pour étrangers, est complété par l’article 1 bis libellé comme suit:
 «Article 1bis. Descriptif du Titre de Voyage
-\1. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 1, le couvercle est de couleur verte portant l’inscription: Titre de Voyage pour étrangers, Grand-Duché de Luxembourg. La version anglaise de ces inscriptions y figure également.
-\2. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 4, figurent au recto de la carte en plastique dans
+1\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 1, le couvercle est de couleur verte portant l’inscription: Titre de Voyage pour étrangers, Grand-Duché de Luxembourg. La version anglaise de ces inscriptions y figure également.
+2\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 4, figurent au recto de la carte en plastique dans
 l’ordre les mentions suivantes:
 
 Titre de Voyage pour étrangers,
 ainsi qu’un texte reprenant les conditions à respecter en cas de délivrance de ce document. Ces mentions sont rédigées en
 langues française et anglaise.
-\3. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 6, figurent au verso de la carte en plastique ­dotée
+3\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 6, figurent au verso de la carte en plastique ­dotée
 d’une zone de lecture optique, en langues française et anglaise la mention suivante: Grand-Duché de ­Luxembourg. Y figurent également en langues française et anglaise les mentions suivantes: Titre de Voyage, type, code du pays, numéro de passeport, nom,
 \- 458 -
 
 CODE COMMUNAL − Passeports
 prénoms, taille, nationalité, date de naissance, sexe, lieu de naissance, autorité, date de délivrance, date d’expiration et la signature
 du titulaire. La photo numérisée de ce dernier est engravée sur cette page.
-\4. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 8, figurent à la deuxième page numérotée, en langues française et anglaise, les mentions suivantes:
+4\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 8, figurent à la deuxième page numérotée, en langues française et anglaise, les mentions suivantes:
 Page réservée aux autorités compétentes pour délivrer le titre de voyage,
 Numéro de registre ...
-\5. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 9, les troisième et quatrième pages ­numérotées sont
+5\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 9, les troisième et quatrième pages ­numérotées sont
 réservées à l’apposition de visas.
-\6. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 11, figurent à la dernière page numérotée, en langues française et anglaise, des informations utiles en relation avec le passeport.
+6\. Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 11, figurent à la dernière page numérotée, en langues française et anglaise, des informations utiles en relation avec le passeport.
 La même page comporte en bas, en langues française et anglaise, l’inscription suivante:
 Ce passeport contient 32 pages.»
 
@@ -23522,9 +23522,9 @@ spéciale et de l’examen de fin de formation spéciale des fonctionnaires comm
 voir également:
 Code de la fonction publique - Formations à l’I.N.A.P.:
 Règlement grand-ducal du 27 octobre 2000 portant
-\1. organisation à l’Institut national d’administration publique de la division de la formation pendant le service
+1\. organisation à l’Institut national d’administration publique de la division de la formation pendant le service
 provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes;
-\2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission
+2\. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission
 et d’examen des fonctionnaires communaux
 ÉDUCATEUR
 Règlement ministériel du 7 janvier 1991 fixant le programme détaillé pour l’examen d’admission définitive dans
@@ -23658,25 +23658,25 @@ Chapitre 1er.- Conditions générales
 «Art. 2.
 Les candidats à une fonction communale sont tenus de remettre leur demande accompagnée des pièces suivantes dans le délai
 requis à l’administration intéressée :
-1)
+1\)
 
 (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
 
-2)
+2\)
 
 une copie de leur carte d’identité ou de leur passeport ;
 
-3)
+3\)
 
 un extrait du casier judiciaire datant de moins de deux mois à la date de la présentation de la demande ;
 
-4)
+4\)
 
 un certificat établi par le ministre de l’Intérieur et/ou une communication du président de la commission d’examen, desquels
 il résulte que le candidat a réussi à l’examen d’admissibilité prévu pour le groupe ou sous-groupe de traitement brigué. Les
 documents visés ne sont pas requis dans le chef d’un candidat à une fonction pour laquelle le présent règlement grandducal ne prévoit pas d’examen d’admissibilité ;
 
-5)
+5\)
 
 une copie du (des) diplôme(s), certificat(s) et/ ou attestation(s) requis pour la formation exigée ;»
 
@@ -23761,7 +23761,7 @@ des études reconnues équivalentes «ou une copie de la décision de reconnaiss
 «Pour accéder au groupe de traitement C1, le candidat doit être détenteur d’un diplôme au moins au niveau 3 du cadre luxembourgeois des qualifications tel que prévu à l’article 69 de la loi précitée du 28 octobre 2016.»
 (Règl. g.-d. du 15 juin 2018)
 «Art. 14.
-\1. Les candidats aux emplois des sous-groupes administratif, technique, éducatif et psycho-social et à attributions particulières
+1\. Les candidats aux emplois des sous-groupes administratif, technique, éducatif et psycho-social et à attributions particulières
 autres que ceux concernant les fonctions de secrétaire et de secrétaire-rédacteur du groupe B1 de la catégorie B de la rubrique
 «Administration générale» doivent être détenteurs soit du diplôme luxembourgeois de fin d’études secondaires, soit du diplôme
 
@@ -23792,7 +23792,7 @@ reconnaissance des qualifications professionnelles.»
 cadre luxembourgeois des qualifications tel que prévu à l’article 69 de la loi précitée du 28 octobre 2016.»
 (Règl. g.-d. du 15 juin 2018)
 «Art. 16.
-\1. Les candidats aux emplois des sous-groupes administratif, scientifique et technique, éducatif et psycho-social et à attributions
+1\. Les candidats aux emplois des sous-groupes administratif, scientifique et technique, éducatif et psycho-social et à attributions
 particulières autres que ceux concernant les fonctions de médecin, médecin scolaire, médecin-dentiste, médecin vétérinaire, directeur vétérinaire et directeur vétérinaire adjoint de l’abattoir du groupe A1 de la catégorie A de la rubrique « Administration générale
 » doivent être titulaires d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de
 l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.
@@ -23894,16 +23894,16 @@ de direction d’une école de musique du secteur communal.»
 (Règl. g.-d. du 1er juillet 1996)
 «3. Afin de vérifier la connaissance adéquate des trois langues administratives, le ministre de l’Intérieur organise des épreuves
 préliminaires à l’examen d’admissibilité.
-\4. Les épreuves préliminaires ont pour objet d’apprécier, sous forme d’épreuve orale, les connaissances du candidat dans les
+4\. Les épreuves préliminaires ont pour objet d’apprécier, sous forme d’épreuve orale, les connaissances du candidat dans les
 trois langues administratives.
-\5. L’admissibilité à l’examen est subordonnée à la réussite aux épreuves préliminaires.
+5\. L’admissibilité à l’examen est subordonnée à la réussite aux épreuves préliminaires.
 Les résultats obtenus par les candidats lors des épreuves préliminaires ne sont pas pris en compte pour déterminer les résultats
 et le classement lors de l’examen d’admissibilité ou lors du concours d’admission au service provisoire.
-\6. Les épreuves ont lieu devant une commission de contrôle de la connaissance des langues administratives, dénommée par
+6\. Les épreuves ont lieu devant une commission de contrôle de la connaissance des langues administratives, dénommée par
 la suite commission de contrôle, à instituer par le ministre de l’Intérieur et composée de trois membres effectifs au moins ainsi
 que selon les besoins, d’un ou plusieurs membres suppléants. L’arrêté de nomination désigne le président et le secrétaire de la
 commission.
-\7. Les dispenses suivantes sont applicables:
+7\. Les dispenses suivantes sont applicables:
 Le candidat ayant obtenu dans un pays ou une région de langue française ou allemande un certificat d’études ou ayant accompli
 la dernière année d’études lui permettant d’accéder à la carrière briguée, est dispensé des épreuves préliminaires respectivement
 de français ou d’allemand.
@@ -23915,11 +23915,11 @@ ou d’allemand.
 Le candidat ayant obtenu dans un pays ou une région de langue française ou de langue allemande le diplôme lui y ­permettant
 l’accès à des études d’enseignement supérieur est dispensé des épreuves préliminaires respectivement de français ou ­d’allemand.
 Le candidat ayant obtenu ce diplôme dans l’enseignement public luxembourgeois est dispensé des épreuves préliminaires.
-\8. Le candidat ayant déjà réussi aux épreuves préliminaires à l’occasion d’un examen d’admissibilité ou d’un examen-concours
+8\. Le candidat ayant déjà réussi aux épreuves préliminaires à l’occasion d’un examen d’admissibilité ou d’un examen-concours
 pour l’admission au stage auprès d’une commune, d’un syndicat de communes, de l’Etat ou d’un établissement public en est
 dispensé, s’il se présente une nouvelle fois à un examen d’admissibilité ou un examen-concours. Sont également dispensés des
 épreuves préliminaires les candidats dispensés de l’examen d’admissibilité.
-\9. Les modalités pratiques des épreuves sont fixées comme suit:
+9\. Les modalités pratiques des épreuves sont fixées comme suit:
 a) Le président de la commission d’examen compétente transmet au président de la commission de contrôle le relevé des
 candidats devant se soumettre aux épreuves préliminaires ainsi que le relevé des candidats qui en sont dispensés. Les candidats sont informés par le président de la commission de contrôle de la date et des modalités des épreuves préliminaires.
 b) Les épreuves préliminaires ont en principe lieu dans le mois précédant la date de l’examen d’admissibilité.
@@ -24225,21 +24225,21 @@ Le total des points obtenus dans les épreuves sur les matières secondaires com
 
 Fonctionnaires communaux - Stage
 A) ÉPREUVES SUR LES MATIÈRES GÉNÉRALES.
-1.
+1\.
 
 Épreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève
 débutant (ou à un groupe d’élèves débutants)
 
 60 points
 
-2.
+2\.
 
 Épreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève avancé
 (ou à un groupe d’élèves avancés)
 
 60 points
 
-3.
+3\.
 
 Épreuve orale portant sur le plan d’études de la spécialité du candidat
 
@@ -24252,22 +24252,22 @@ débutant (ou à un groupe d’élèves débutants)
 (Règl. g.-d. du 4 novembre 2022)
 «B) ÉPREUVES SUR LES MATIÈRES SPÉCIALES.
 I. Professeur de conservatoire dans une « branche instrumentale »
-\1. Trois œuvres d’époques et de styles différents au choix du candidat
+1\. Trois œuvres d’époques et de styles différents au choix du candidat
 
 60 points
 
-\2. Une œuvre imposée par la commission
+2\. Une œuvre imposée par la commission
 À remettre au candidat un mois avant le début des épreuves
 
 60 points
 
-\3. Lecture à vue et transposition
+3\. Lecture à vue et transposition
 Pour la percussion, la lecture à vue doit s’étendre sur plusieurs instruments, y compris les claviers.
 La transposition ne concerne pas les instruments à cordes, les claviers, ni la percussion.
 
 30 points
 
-\4. Épreuve orale portant sur l’histoire de l’instrument
+4\. Épreuve orale portant sur l’histoire de l’instrument
 
 30 points
 
@@ -24276,23 +24276,23 @@ Total
 180 points
 II. Professeur de conservatoire dans une « branche vocale » :
 
-\1. Trois airs d’époques et de styles différents extraits de messes, d’oratorios ou airs de concert
+1\. Trois airs d’époques et de styles différents extraits de messes, d’oratorios ou airs de concert
 
 30 points
 
-\2. Trois airs d’opéras de différentes époques
+2\. Trois airs d’opéras de différentes époques
 
 30 points
 
-\3. Cinq mélodies de différents styles
+3\. Cinq mélodies de différents styles
 
 60 points
 
-\4. Lecture à vue d’une mélodie avec paroles
+4\. Lecture à vue d’une mélodie avec paroles
 
 30 points
 
-\5. Épreuve orale sur la morphologie et la physiologie de la voix
+5\. Épreuve orale sur la morphologie et la physiologie de la voix
 
 30 points
 
@@ -24301,19 +24301,19 @@ Total
 180 points
 III. Professeur de conservatoire dans la branche « musique de chambre » :
 
-\1. Trois œuvres d’époques et de styles différents au choix du candidat d’une durée d’au moins 30 minutes
+1\. Trois œuvres d’époques et de styles différents au choix du candidat d’une durée d’au moins 30 minutes
 
 60 points
 
-\2. Une œuvre imposée par la commission
+2\. Une œuvre imposée par la commission
 
 60 points
 
-\3. Lecture à vue
+3\. Lecture à vue
 
 30 points
 
-\4. Épreuve orale sur l’évolution de la musique de chambre
+4\. Épreuve orale sur l’évolution de la musique de chambre
 
 30 points
 
@@ -24322,7 +24322,7 @@ Total
 180 points
 IV. Professeur de conservatoire en matière « formation musicale » :
 
-\1. Épreuve orale :
+1\. Épreuve orale :
 a) Présentation de quatre exercices de formation musicale à changements de sept clés imposés un mois avant
 le début des épreuves
 
@@ -24332,7 +24332,7 @@ b) Lecture à vue à changements de sept clés
 
 30 points
 
-\2. Épreuve écrite
+2\. Épreuve écrite
 a) Dictées musicales à une et plusieurs voix
 
 30 points
@@ -24341,33 +24341,33 @@ b) Épreuve théorique
 
 30 points
 
-\3. Accompagnement
+3\. Accompagnement
 
 30 points
 
 a) de deux leçons de formation musicale imposées du niveau de la division moyenne spécialisée à communiquer
 au candidat vingt-quatre heures avant le début de l’épreuve en question
 b) à vue de deux leçons de formation musicale de différents niveaux
-\4. Épreuve orale portant sur l’évolution de la formation musicale et de la théorie musicale
+4\. Épreuve orale portant sur l’évolution de la formation musicale et de la théorie musicale
 Total
 
 30 points
 180 points
 
 V. Professeur de conservatoire en matière « éveil musical » :
-\1. Élaboration et réalisation de divers thèmes donnés dans le domaine de la voix
+1\. Élaboration et réalisation de divers thèmes donnés dans le domaine de la voix
 
 30 points
 
-\2. Élaboration et réalisation de divers thèmes donnés dans le domaine du jeu instrumental
+2\. Élaboration et réalisation de divers thèmes donnés dans le domaine du jeu instrumental
 
 30 points
 
-\3. Élaboration et réalisation de divers thèmes donnés dans le domaine du mouvement
+3\. Élaboration et réalisation de divers thèmes donnés dans le domaine du mouvement
 
 30 points
 
-\4. Présentation d’un projet de cours sur un thème donné à communiquer au candidat vingt-quatre heures avant le
+4\. Présentation d’un projet de cours sur un thème donné à communiquer au candidat vingt-quatre heures avant le
 début de l’épreuve en question
 
 60 points
@@ -24375,30 +24375,30 @@ début de l’épreuve en question
 \- 477 -
 
 Fonctionnaires communaux - Stage
-\5. Épreuve orale portant sur l’évolution de l’éveil musical
+5\. Épreuve orale portant sur l’évolution de l’éveil musical
 Total
 
 30 points
 180 points
 
 VI. Professeur de conservatoire en matière « écritures » :
-\1. Harmonie (en loge)
+1\. Harmonie (en loge)
 
 60 points
 
 a) réalisation d’un chant donné - quatre clés
 b) réalisation d’une basse donnée en style d’imitation - quatre clés
-\2. Contrepoint (en loge)
+2\. Contrepoint (en loge)
 
 60 points
 
 a) grand mélange et fleuri à quatre voix
 b) choral figuré à quatre voix
-\3. Réalisation au clavier d’une basse continue chiffrée ou non chiffrée
+3\. Réalisation au clavier d’une basse continue chiffrée ou non chiffrée
 
 30 points
 
-\4. Épreuve orale portant sur l’évolution de l’écriture musicale, sur les esthétiques et les styles musicaux des différentes époques
+4\. Épreuve orale portant sur l’évolution de l’écriture musicale, sur les esthétiques et les styles musicaux des différentes époques
 
 30 points
 
@@ -24407,35 +24407,35 @@ Total
 180 points
 VII. Professeur de conservatoire en matière « direction » :
 
-\1. Répétition et exécution de deux œuvres au choix du candidat
+1\. Répétition et exécution de deux œuvres au choix du candidat
 
 60 points
 
-\2. Répétition et exécution d’une œuvre préparée vingt-quatre heures avant le début de l’épreuve par le candidat mais
+2\. Répétition et exécution d’une œuvre préparée vingt-quatre heures avant le début de l’épreuve par le candidat mais
 non préparée par l’ensemble
 
 60 points
 
-\3. Épreuve au clavier
+3\. Épreuve au clavier
 
 30 points
 
 a) Pour la direction chorale : lecture au clavier d’extraits d’œuvres de chant choral
 b) Pour la direction d’orchestre : jeu de partition
-\4. Épreuve orale portant sur l’évolution de l’écriture musicale, sur les esthétiques et les styles musicaux des différentes époques
+4\. Épreuve orale portant sur l’évolution de l’écriture musicale, sur les esthétiques et les styles musicaux des différentes époques
 Total
 
 30 points
 180 points
 
 VIII. Professeur de conservatoire en matière « jazz » :
-\1. Interprétation
+1\. Interprétation
 
 60 points
 
 a) d’une œuvre en solo au choix du candidat
 b) de trois morceaux de style différents (binaire, ternaire, latin) avec improvisation
-\2. Arrangement et exécution
+2\. Arrangement et exécution
 
 60 points
 
@@ -24443,11 +24443,11 @@ a) de six morceaux représentatifs pour les différentes époques de l’histoir
 accompagnement (piano, guitare, contrebasse, batterie et un instrument à vent)
 b) d’une œuvre imposée par la commission (à remettre au candidat un mois avant le début des épreuves avec
 accompagnement de piano, guitare, contrebasse batterie et un instrument à vent)
-\3. Lecture à vue d’une œuvre
+3\. Lecture à vue d’une œuvre
 
 30 points
 
-\4. Épreuve orale portant sur l’histoire de la spécialité du candidat dans le contexte du jazz
+4\. Épreuve orale portant sur l’histoire de la spécialité du candidat dans le contexte du jazz
 
 30 points
 
@@ -24456,22 +24456,22 @@ Total
 180 points
 IX. Professeur de conservatoire en matière « écritures jazz » :
 
-\1. Harmonie jazz - en loge
+1\. Harmonie jazz - en loge
 Réalisation à 5 voix d’un thème donné et réalisation d’une réduction pour piano du même thème
 
 60 points
 
-\2. Composition et arrangement jazz - en loge
+2\. Composition et arrangement jazz - en loge
 Réalisation d’un arrangement d’un thème donné pour bigband et arrangement d’une partition de piano donnée
 pour orchestre de chambre
 
 60 points
 
-\3. Élaboration et réalisation d’un texte pédagogique d’écriture musicale sur un sujet donné
+3\. Élaboration et réalisation d’un texte pédagogique d’écriture musicale sur un sujet donné
 
 30 points
 
-\4. Épreuve orale portant sur l’évolution de l’écriture musicale jazz, sur les esthétiques et les styles musicaux des
+4\. Épreuve orale portant sur l’évolution de l’écriture musicale jazz, sur les esthétiques et les styles musicaux des
 différentes époques
 
 30 points
@@ -24481,12 +24481,12 @@ Total
 180 points
 X. Professeur de conservatoire en matière « diction » :
 
-\1. Un programme de proses d’époques différentes (dont une imposée par la commission un mois avant le début des
+1\. Un programme de proses d’époques différentes (dont une imposée par la commission un mois avant le début des
 épreuves) d’une durée d’au moins 30 minutes
 
 60 points
 
-\2. Un programme de poésies d’époques différentes (dont une imposée par la commission un mois avant le début des
+2\. Un programme de poésies d’époques différentes (dont une imposée par la commission un mois avant le début des
 épreuves) parmi au moins deux fables (pour la langue française) ou ballades (pour la langue allemande), d’une
 durée d’au moins 30 minutes
 
@@ -24495,30 +24495,30 @@ durée d’au moins 30 minutes
 \- 478 -
 
 Fonctionnaires communaux - Stage
-\3. Lecture à vue
+3\. Lecture à vue
 
 30 points
 
-\4. Épreuve orale portant sur l’histoire de la littérature
+4\. Épreuve orale portant sur l’histoire de la littérature
 Total
 
 30 points
 180 points
 
 XI. Professeur de conservatoire en matière « art dramatique » :
-\1. Un programme de scènes d’époques différentes d’une durée d’au moins 30 minutes
+1\. Un programme de scènes d’époques différentes d’une durée d’au moins 30 minutes
 
 60 points
 
-\2. Une scène imposée par la commission un mois avant le début des épreuves
+2\. Une scène imposée par la commission un mois avant le début des épreuves
 
 60 points
 
-\3. Lecture à vue
+3\. Lecture à vue
 
 30 points
 
-\4. Épreuve orale portant sur l’histoire du théâtre
+4\. Épreuve orale portant sur l’histoire du théâtre
 
 30 points
 
@@ -24527,19 +24527,19 @@ Total
 180 points
 XII. Professeur de conservatoire en matière « danse » :
 
-\1. Trois variations au choix dont une chorégraphie personnelle
+1\. Trois variations au choix dont une chorégraphie personnelle
 
 60 points
 
-\2. Improvisation chorégraphique
+2\. Improvisation chorégraphique
 
 30 points
 
-\3. Variation imposée
+3\. Variation imposée
 
 60 points
 
-\4. Épreuve orale portant sur l’histoire de la danse
+4\. Épreuve orale portant sur l’histoire de la danse
 
 30 points
 
@@ -24549,31 +24549,31 @@ Total
 
 (Règl. g.-d. du 15 juin 2018)
 «C) ÉPREUVES DES BRANCHES SECONDAIRES
-1)
+1\)
 
 Éveil musical :
-\1. Improvisations sur divers thèmes donnés dans les domaines du mouvement, de la voix et du jeu
+1\. Improvisations sur divers thèmes donnés dans les domaines du mouvement, de la voix et du jeu
 instrumental (à l’instrument principal du candidat, ou bien vocalement dans le cas où la voix serait
 son instrument principal, ainsi qu’aux instruments Orff).
-\2. Épreuve pédagogique comprenant une leçon sur un thème donné pour une classe d’éveil musical
+2\. Épreuve pédagogique comprenant une leçon sur un thème donné pour une classe d’éveil musical
 
 60 points
 60 points
 
 (Les données pour les deux épreuves sont communiquées au candidat vingt-quatre heures avant le
 début des épreuves)
-2)
+2\)
 
-5)
+5\)
 
 Formation musicale-solfège :
-\1. a) Dictée combinée
+1\. a) Dictée combinée
 
 30 points
 
 b) Lecture de solfège à sept clés à communiquer au candidat vingt-quatre heures avant le début de
 l’épreuve en question et accompagnée au piano par le candidat-même
-\2. Épreuve pédagogique comprenant une leçon sur un thème donné à une classe de formation
+2\. Épreuve pédagogique comprenant une leçon sur un thème donné à une classe de formation
 musicale-solfège
 
 60 points
@@ -24584,9 +24584,9 @@ musicale-solfège
 
 120 points)
 
-\3) Harmonie:
-\1. Réalisation d’une mélodie et d’une basse donnée en style d’imitation (en loge)
-\2. Épreuve pédagogique comprenant une leçon à donner à des élèves en division inférieure
+3\) Harmonie:
+1\. Réalisation d’une mélodie et d’une basse donnée en style d’imitation (en loge)
+2\. Épreuve pédagogique comprenant une leçon à donner à des élèves en division inférieure
 
 60 points
 60 points
@@ -24595,9 +24595,9 @@ musicale-solfège
 
 120 points)
 
-\4) Analyse musicale :
-\1. Analyse d’une œuvre imposée
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
+4\) Analyse musicale :
+1\. Analyse d’une œuvre imposée
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
 
 60 points
 60 points
@@ -24607,9 +24607,9 @@ musicale-solfège
 120 points)
 
 Enseignement d’un instrument :
-\1. Exécution d’une œuvre imposée (à remettre au candidat un mois avant le début des épreuves) et
+1\. Exécution d’une œuvre imposée (à remettre au candidat un mois avant le début des épreuves) et
 d’une œuvre au choix du candidat
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
@@ -24618,10 +24618,10 @@ d’une œuvre au choix du candidat
 
 120 points)
 
-\6) Musique de chambre :
-\1. Exécution d’une œuvre en groupe de musique de chambre remise au candidat un mois avant le
+6\) Musique de chambre :
+1\. Exécution d’une œuvre en groupe de musique de chambre remise au candidat un mois avant le
 début des épreuves
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe de musique de chambre
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe de musique de chambre
 
 60 points
 60 points
@@ -24633,9 +24633,9 @@ début des épreuves
 \- 479 -
 
 Fonctionnaires communaux - Stage
-\7) Enseignement du chant :
-\1. Deux airs et deux mélodies au choix du candidat
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+7\) Enseignement du chant :
+1\. Deux airs et deux mélodies au choix du candidat
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
@@ -24644,9 +24644,9 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\8) Art Lyrique :
-\1. Deux scènes d’opéra d’époques et de styles différents
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
+8\) Art Lyrique :
+1\. Deux scènes d’opéra d’époques et de styles différents
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
 
 60 points
 60 points
@@ -24655,10 +24655,10 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\9) Direction instrumentale :
-\1. Analyse et répétition d’une œuvre imposée (à remettre au candidat un mois avant le début des
+9\) Direction instrumentale :
+1\. Analyse et répétition d’une œuvre imposée (à remettre au candidat un mois avant le début des
 épreuves)
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
@@ -24667,10 +24667,10 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\10) Direction chorale :
-\1. Analyse et répétition d’une œuvre imposée (à remettre au candidat un mois avant le début des
+10\) Direction chorale :
+1\. Analyse et répétition d’une œuvre imposée (à remettre au candidat un mois avant le début des
 épreuves)
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
@@ -24679,17 +24679,17 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\11) Déchiffrage transposition :
-\1. Écriture en loge d’une lecture pour débutants et d’une lecture pour avancés
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+11\) Déchiffrage transposition :
+1\. Écriture en loge d’une lecture pour débutants et d’une lecture pour avancés
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
 
 (Total
 120 points)
-\12) Improvisation et harmonisation :
-\1. a) Improvisation sur un thème donné à partir de ses composantes mélodiques, rythmiques, harmoniques
+12\) Improvisation et harmonisation :
+1\. a) Improvisation sur un thème donné à partir de ses composantes mélodiques, rythmiques, harmoniques
 et expressives, et en incluant une harmonisation du thème dans un langage au choix
 30 points
 b) Improvisation cadrée par des consignes données au préalable et portant sur des paramètres précisés
@@ -24698,21 +24698,21 @@ b) Improvisation cadrée par des consignes données au préalable et portant sur
 30 points
 (Les données pour les deux épreuves sont à communiquer au candidat vingt-quatre heures avant
 le début de l’épreuve)
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève ou à un groupe d’élèves
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève ou à un groupe d’élèves
 60 points
 (Total
 
 120 points)
 
-\13) Musique sacrée
-\1. a) Chant grégorien – présentation de trois chants remis au candidat une semaine avant le début
+13\) Musique sacrée
+1\. a) Chant grégorien – présentation de trois chants remis au candidat une semaine avant le début
 des épreuves
 b) Épreuve orale sur l’histoire de la musique sacrée
 
 30 points
 30 points
 
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 
@@ -24720,9 +24720,9 @@ b) Épreuve orale sur l’histoire de la musique sacrée
 
 120 points)
 
-\14) Formation musicale « Jazz »
-\1. Dictée combinée
-\2. Épreuve pédagogique comprenant une leçon à donner à une classe de formation musicale-jazz
+14\) Formation musicale « Jazz »
+1\. Dictée combinée
+2\. Épreuve pédagogique comprenant une leçon à donner à une classe de formation musicale-jazz
 
 60 points
 60 points
@@ -24731,10 +24731,10 @@ b) Épreuve orale sur l’histoire de la musique sacrée
 
 120 points)
 
-\15) Écritures « Jazz »
-\1. a) Harmonisation d’un thème à quatre voix et exercice de réharmonisation (en loge)
+15\) Écritures « Jazz »
+1\. a) Harmonisation d’un thème à quatre voix et exercice de réharmonisation (en loge)
 b) Analyse d’une œuvre imposée (en loge)
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 30 points
 30 points
@@ -24744,18 +24744,18 @@ b) Analyse d’une œuvre imposée (en loge)
 
 120 points)
 
-\16) Diction française :
-\1. Un texte en prose, deux poésies (d’époques et de styles différents) ainsi qu’une fable
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+16\) Diction française :
+1\. Un texte en prose, deux poésies (d’époques et de styles différents) ainsi qu’une fable
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 (Total
 
 60 points
 60 points
 120 points)
 
-\17) Diction allemande :
-\1. Un texte en prose, deux poésies (d’époques et de styles différents) ainsi qu’une ballade
-\2. Épreuve pédagogique comprenant une leçon à donner à un élève
+17\) Diction allemande :
+1\. Un texte en prose, deux poésies (d’époques et de styles différents) ainsi qu’une ballade
+2\. Épreuve pédagogique comprenant une leçon à donner à un élève
 
 60 points
 60 points
@@ -24767,9 +24767,9 @@ b) Analyse d’une œuvre imposée (en loge)
 \- 480 -
 
 Fonctionnaires communaux - Stage
-\18) Art dramatique :
-\1. Deux scènes dont une classique et une moderne
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
+18\) Art dramatique :
+1\. Deux scènes dont une classique et une moderne
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
 
 60 points
 60 points
@@ -24778,9 +24778,9 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\19) Danse (classique, moderne ou jazz) :
-\1. Deux variations au choix du candidat
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
+19\) Danse (classique, moderne ou jazz) :
+1\. Deux variations au choix du candidat
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
 
 60 points
 60 points
@@ -24789,9 +24789,9 @@ Fonctionnaires communaux - Stage
 
 120 points)
 
-\20) Formation musicale pour danseurs :
-\1. Lecture à vue, analyse et dictée de rythmes en rapport avec les mouvements de danse
-\2. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
+20\) Formation musicale pour danseurs :
+1\. Lecture à vue, analyse et dictée de rythmes en rapport avec les mouvements de danse
+2\. Épreuve pédagogique comprenant une leçon à donner à un groupe d’élèves
 
 60 points
 60 points
@@ -24838,31 +24838,31 @@ Sont admissibles à l’examen d’admission définitive de la carrière du secr
 bénéficiant d’une nomination provisoire aux fonctions visées ainsi que les fonctionnaires de la carrière du rédacteur remplissant les
 conditions de nomination prévues à l’article 17, alinéa deux du présent règlement et qui disposent de certificats de perfectionnement établis par l’Institut national d’administration publique, desquels il résulte que le candidat a suivi un cycle de perfectionnement
 en matière de gestion administrative communale portant sur les matières suivantes:
-1.
+1\.
 
 Les fonctions légales, les missions, le rôle et la responsabilité du secrétaire communal
 
 24 heures
 
-2.
+2\.
 
 Confection de décisions des corps communaux
 
 12 heures
 
-3.
+3\.
 
 Méthodes modernes de gestion publique
 
 12 heures
 
-4.
+4\.
 
 Gestion du personnel de l’administration communale
 
 6 heures
 
-5.
+5\.
 
 Forum européen
 
@@ -24889,30 +24889,30 @@ Chapitre 4.- Programmes
 Art. 51.
 Les programmes des examens d’admission définitive aux différentes fonctions et carrières visées par l’article 40 du présent
 règlement sont fixés comme suit:
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Pour les fonctions des carrières du concierge et de l’huissier:
-\1. Dictée en langue française..............................................................................................................
+1\. Dictée en langue française..............................................................................................................
 
 15 points
 
-\2. Dictée en langue allemande............................................................................................................
+2\. Dictée en langue allemande............................................................................................................
 
 15 points
 
-\3. Rapport de service en langue française ou allemande (au choix du candidat). .............................
+3\. Rapport de service en langue française ou allemande (au choix du candidat). .............................
 
 30 points
 
-\4. Statut des fonctionnaires communaux............................................................................................
+4\. Statut des fonctionnaires communaux............................................................................................
 
 30 points
 
-\5. Pratique professionnelle et rapports avec le public (questions écrites ou orales au choix de la.
+5\. Pratique professionnelle et rapports avec le public (questions écrites ou orales au choix de la.
 commission d’examen). ..................................................................................................................
 
 60 points
@@ -24922,11 +24922,11 @@ Total...........................................................................
 150 points
 
 Pour la carrière de l’aide-soignant:
-\1. Hygiène hospitalière et observation de base du malade. ...............................................................
+1\. Hygiène hospitalière et observation de base du malade. ...............................................................
 
 240 points
 
-\2. Statut des fonctionnaires communaux, législation professionnelle.................................................
+2\. Statut des fonctionnaires communaux, législation professionnelle.................................................
 
 120 points
 
@@ -24935,32 +24935,32 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière de l’agent municipal:
-\1. Dictée en langue française..............................................................................................................
+1\. Dictée en langue française..............................................................................................................
 
 15 points
 
-\2. Dictée en langue allemande............................................................................................................
+2\. Dictée en langue allemande............................................................................................................
 
 15 points
 
-\3. Rapport de service en langue française ou allemande (au choix du candidat). .............................
+3\. Rapport de service en langue française ou allemande (au choix du candidat). .............................
 
 30 points
 
-\4. Code la route, notions générales. ...................................................................................................
+4\. Code la route, notions générales. ...................................................................................................
 
 30 points
 
 (Pour les titulaires occupés de façon prépondérante dans l’emploi de garde champêtre, le code
 de la route est remplacé par «législation sur l’environnement»)
 
-4.
+4\.
 
-\5. Statut des fonctionnaires communaux............................................................................................
+5\. Statut des fonctionnaires communaux............................................................................................
 
 30 points
 
-\6. Pratique professionnelle et rapports avec le public (questions orales ou écrites selon le choix
+6\. Pratique professionnelle et rapports avec le public (questions orales ou écrites selon le choix
 de la commission d’examen)...........................................................................................................
 Total.......................................................................................................................................................
 
@@ -24968,23 +24968,23 @@ Total...........................................................................
 180 points
 
 Pour les fonctions de la carrière du cantonnier:
-\1. Dictées simples en langue française et allemande.........................................................................
+1\. Dictées simples en langue française et allemande.........................................................................
 
-5.
+5\.
 
-6.
+6\.
 
 20 points
 
-\2. Arithmétique: questions approfondies sur le programme de l’examen d’admissibilité. ...................
+2\. Arithmétique: questions approfondies sur le programme de l’examen d’admissibilité. ...................
 
 40 points
 
-\3. Eléments principaux du statut des fonctionnaires communaux. .....................................................
+3\. Eléments principaux du statut des fonctionnaires communaux. .....................................................
 
 20 points
 
-\4. Législation sur la circulation routière: règles concernant la circulation et la signalisation...............
+4\. Législation sur la circulation routière: règles concernant la circulation et la signalisation...............
 
 20 points
 
@@ -24993,23 +24993,23 @@ Total...........................................................................
 100 points
 
 Pour les fonctions de la carrière de l’agent de transport:
-\1. Arithmétique: questions approfondies sur le programme de l’examen d’admissibilité. ...................
+1\. Arithmétique: questions approfondies sur le programme de l’examen d’admissibilité. ...................
 
 20 points
 
-\2. Notions générales sur le statut des fonctionnaires communaux.....................................................
+2\. Notions générales sur le statut des fonctionnaires communaux.....................................................
 
 20 points
 
-\3. Réglementation sur la circulation routière (questions approfondies). .............................................
+3\. Réglementation sur la circulation routière (questions approfondies). .............................................
 
 20 points
 
-\4. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
+4\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
 
 20 points
 
-\5. Connaissances pratiques: fonctionnement du matériel et des équipements, mesures de sécurité,
+5\. Connaissances pratiques: fonctionnement du matériel et des équipements, mesures de sécurité,
 règlements et instructions de service..............................................................................................
 
 20 points
@@ -25019,7 +25019,7 @@ Total...........................................................................
 100 points
 
 Pour les fonctions de la carrière de l’agent pompier:
-\1. Langues:
+1\. Langues:
 a) dictée d’un texte français de nature technique...........................................................................
 
 10 points
@@ -25028,12 +25028,12 @@ b) traduction d’un texte français en langue allemande. ......................
 
 10 points
 
-\2. Règlements et instructions de service; règlements communaux relatifs à des matières intéressant
+2\. Règlements et instructions de service; règlements communaux relatifs à des matières intéressant
 le service d’incendie (eau, gaz, électricité etc.); mesures et réglementation relatives à la prévention des accidents. ..........................................................................................................................
 
 15 points
 
-\3. Théorie professionnelle:
+3\. Théorie professionnelle:
 a) connaissances générales sur la partie «incendie et sauvetage»...............................................
 
 15 points
@@ -25045,7 +25045,7 @@ b) connaissances approfondies sur la partie «secourisme». ....................
 \- 483 -
 
 Fonctionnaires communaux - Stage
-\4. Pratique professionnelle:
+4\. Pratique professionnelle:
 a) connaissances générales sur la manœuvre des véhicules, des engins et des équipements
 servant à la lutte contre l’incendie et au sauvetage. ..................................................................
 
@@ -25055,7 +25055,7 @@ b) connaissances approfondies sur la mise en œuvre des équipements sanitaires 
 
 15 points
 
-\5. Statut des fonctionnaires communaux. .............................................................................................
+5\. Statut des fonctionnaires communaux. .............................................................................................
 
 5 points
 
@@ -25065,23 +25065,23 @@ Total...........................................................................
 
 (Remarque: les branches regroupées sous un même numéro sont cotées ensemble comme une
 seule et unique branche.)
-7.
+7\.
 
 Pour les fonctions de la carrière de l’artisan:
-\1. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
+1\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
 
 25 points
 
-\2. Notions générales sur le statut des fonctionnaires communaux.....................................................
+2\. Notions générales sur le statut des fonctionnaires communaux.....................................................
 
 10 points
 
-\3. Pratique professionnelle: exécution d’un travail se rapportant au métier du candidat; questions
+3\. Pratique professionnelle: exécution d’un travail se rapportant au métier du candidat; questions
 lsur es branches se rapportant au métier du candidat....................................................................
 
 40 points
 
-\4. Technologie professionnelle se rapportant au métier du candidat: questions théoriques sur la
+4\. Technologie professionnelle se rapportant au métier du candidat: questions théoriques sur la
 nature et le travail des matériaux, les techniques usuelles, l’outillage et les machines..................
 
 25 points
@@ -25093,22 +25093,22 @@ Total...........................................................................
 (Remarque: les questions se rapportant à la branche sous 4. sont formulées d’après les manuels en usage
 dans l’enseignement professionnel; à défaut de manuel la commission d’examen détermine la matière et en
 informe les candidats préalablement à l’examen.)
-8.
+8\.
 
 Pour la carrière de l’éducateur:
-\1. Législation sur le statut et les traitements des fonctionnaires communaux. ...................................
+1\. Législation sur le statut et les traitements des fonctionnaires communaux. ...................................
 
 10 points
 
-\2. Législation professionnelle..............................................................................................................
+2\. Législation professionnelle..............................................................................................................
 
 25 points
 
-\3. Techniques professionnelles...........................................................................................................
+3\. Techniques professionnelles...........................................................................................................
 
 25 points
 
-\4. Exposé oral et discussion sur un sujet concernant la pratique professionnelle..............................
+4\. Exposé oral et discussion sur un sujet concernant la pratique professionnelle..............................
 
 40 points
 
@@ -25118,39 +25118,39 @@ Total...........................................................................
 
 Le programme détaillé est fixé par règlement du ministre de l’Intérieur en tenant compte des besoins
 des administrations.
-9.
+9\.
 
 (abrogé par le règl. g.-d. du 27 octobre 2000)
 
-10.
+10\.
 
 Pour les fonctions de la carrière de l’expéditionnaire technique:
-\1. Langues française et allemande: rédaction d’un rapport administratif ou technique dans chaque
+1\. Langues française et allemande: rédaction d’un rapport administratif ou technique dans chaque
 langue . ...........................................................................................................................................
 
 30 points
 
-\2. Droit public luxembourgeois............................................................................................................
+2\. Droit public luxembourgeois............................................................................................................
 
 15 points
 
-\3. Législation professionnelle..............................................................................................................
+3\. Législation professionnelle..............................................................................................................
 
 15 points
 
-\4. Géométrie et planimétrie.................................................................................................................
+4\. Géométrie et planimétrie.................................................................................................................
 
 45 points
 
-\5. Technologie professionnelle............................................................................................................
+5\. Technologie professionnelle............................................................................................................
 
 60 points
 
-\6. Dessin professionnel.......................................................................................................................
+6\. Dessin professionnel.......................................................................................................................
 
 60 points
 
-\7. Législation sur les traitements et le statut des fonctionnaires communaux. ...................................
+7\. Législation sur les traitements et le statut des fonctionnaires communaux. ...................................
 
 15 points
 
@@ -25161,19 +25161,19 @@ Total...........................................................................
 (Remarque: les langues sont cotées comme une seule branche)
 Le programme détaillé de l’examen est établi par règlement du ministre de l’Intérieur en tenant compte des
 besoins des administrations.
-11.
+11\.
 
 Pour les fonctions de la carrière de l’expéditionnaire informaticien:
 A) Examen d’opérateur:
-\1. Eléments constitutifs d’un ordinateur. ........................................................................................
+1\. Eléments constitutifs d’un ordinateur. ........................................................................................
 
 60 points
 
-\2. Fondements de la programmation..............................................................................................
+2\. Fondements de la programmation..............................................................................................
 
 60 points
 
-\3. Notions d’un système d’exploitation...........................................................................................
+3\. Notions d’un système d’exploitation...........................................................................................
 
 120 points
 
@@ -25182,17 +25182,17 @@ Total...........................................................................
 240 points
 
 B) Examen d’admission définitive:
-\1. Rédaction française....................................................................................................................
+1\. Rédaction française....................................................................................................................
 
-12.
+12\.
 
 60 points
 
-\2. Législation sur le statut et les traitements des fonctionnaires communaux................................
+2\. Législation sur le statut et les traitements des fonctionnaires communaux................................
 
 30 points
 
-\3. Pratique professionnelle (opérations en salle machine).............................................................
+3\. Pratique professionnelle (opérations en salle machine).............................................................
 
 150 points
 
@@ -25201,11 +25201,11 @@ Total...........................................................................
 240 points
 
 Pour les fonctions de la carrière de l’infirmier:
-\1. Hygiène hospitalière et techniques récentes en pathologie interne et externe...............................
+1\. Hygiène hospitalière et techniques récentes en pathologie interne et externe...............................
 
 240 points
 
-\2. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
+2\. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
 
 120 points
 
@@ -25216,16 +25216,16 @@ Total...........................................................................
 \- 484 -
 
 Fonctionnaires communaux - Stage
-13.
+13\.
 
 Pour les fonctions de la carrière de l’agent sanitaire:
-\1. Techniques professionnelles...........................................................................................................
+1\. Techniques professionnelles...........................................................................................................
 
-14.
+14\.
 
 240 points
 
-\2. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
+2\. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
 
 120 points
 
@@ -25234,7 +25234,7 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière de l’assistant technique médical:
-\1. Techniques professionnelles...........................................................................................................
+1\. Techniques professionnelles...........................................................................................................
 
 240 points
 
@@ -25243,9 +25243,9 @@ ionsantes;
 b) pour la branche «chirurgie»: déroulement des opérations chirurgicales du point de vue instrumentation;
 c) pour la branche «laboratoire»: méthodes d’analyse en biologie clinique, microbiologie, anatomie pathologique, chimie médicale ou transfusion sanguine;
 
-15.
+15\.
 
-\2. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
+2\. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
 
 120 points
 
@@ -25254,13 +25254,13 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière de l’infirmier anesthésiste:
-\1. Techniques d’anesthésie et de réanimation....................................................................................
+1\. Techniques d’anesthésie et de réanimation....................................................................................
 
 240 points
 
-\2. Lois et règlements:
+2\. Lois et règlements:
 
-16.
+16\.
 
 statut des fonctionnaires communaux, législation professionnelle..................................................
 
@@ -25272,13 +25272,13 @@ Total...........................................................................
 
 Pour les fonctions de la carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation
 physique:
-\1. Techniques d’ergothérapie et d’éducation physique médicale........................................................
+1\. Techniques d’ergothérapie et d’éducation physique médicale........................................................
 
 240 points
 
-\2. Lois et règlements:
+2\. Lois et règlements:
 
-17.
+17\.
 
 statut des fonctionnaires communaux, législation professionnelle..................................................
 
@@ -25289,15 +25289,15 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière de l’infirmier psychiatrique:
-\1. Techniques récentes de psychiatrie................................................................................................
+1\. Techniques récentes de psychiatrie................................................................................................
 
-18.
+18\.
 
-19.
+19\.
 
-20.
+20\.
 
-\2. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
+2\. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
 
 120 points
 
@@ -25306,11 +25306,11 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière du masseur:
-\1. Les applications de l’électrothérapie et de la physiothérapie..........................................................
+1\. Les applications de l’électrothérapie et de la physiothérapie..........................................................
 
 240 points
 
-\2. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
+2\. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
 
 120 points
 
@@ -25319,11 +25319,11 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière du puériculteur:
-\1. Techniques professionnelles récentes en pathologie du nourrisson et de l’enfant. ........................
+1\. Techniques professionnelles récentes en pathologie du nourrisson et de l’enfant. ........................
 
 240 points
 
-\2. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
+2\. Lois et règlements: statut des fonctionnaires communaux, législation professionnelle. .................
 
 120 points
 
@@ -25332,15 +25332,15 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de la carrière de la sage-femme:
-\1. Techniques obstétricales et soins au nouveau-né. .........................................................................
+1\. Techniques obstétricales et soins au nouveau-né. .........................................................................
 
-21.
-
-240 points
+21\.
 
 240 points
 
-\2. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
+240 points
+
+2\. Lois et règlements: statut des fonctionnaires communaux; législation professionnelle...................
 
 120 points
 
@@ -25350,11 +25350,11 @@ Total...........................................................................
 
 Pour les fonctions de la carrière de l’informaticien diplômé:
 A) Examen de programmeur d’application:
-\1. Connaissance d’un langage de programmation de haut niveau . ..............................................
+1\. Connaissance d’un langage de programmation de haut niveau . ..............................................
 
 160 points
 
-\2. Notions d’un système d’exploitation ..........................................................................................
+2\. Notions d’un système d’exploitation ..........................................................................................
 
 80 points
 
@@ -25364,21 +25364,21 @@ Total...........................................................................
 
 B) Examen d’admission définitive:
 
-22.
+22\.
 
-\1. Rapport administratif en langue française..................................................................................
-
-60 points
-
-\2. Rapport administratif en langue allemande................................................................................
+1\. Rapport administratif en langue française..................................................................................
 
 60 points
 
-\3. Statut et traitements des fonctionnaires communaux.................................................................
+2\. Rapport administratif en langue allemande................................................................................
+
+60 points
+
+3\. Statut et traitements des fonctionnaires communaux.................................................................
 
 30 points
 
-\4. Pratique professionnelle (écriture de programmes dans un langage de haut niveau). ..............
+4\. Pratique professionnelle (écriture de programmes dans un langage de haut niveau). ..............
 
 150 points
 
@@ -25391,26 +25391,26 @@ Total...........................................................................
 \- 485 -
 
 Fonctionnaires communaux - Stage
-23.
+23\.
 
 Pour les fonctions de la carrière du technicien diplômé:
-\1. Connaissances techniques se rapportant à la branche dans laquelle le candidat est occupé.......
+1\. Connaissances techniques se rapportant à la branche dans laquelle le candidat est occupé.......
 
-24.
+24\.
 
-25.
+25\.
 
 90 points
 
-\2. Législation et réglementation se rapportant à la branche dans laquelle le candidat est occupé....
+2\. Législation et réglementation se rapportant à la branche dans laquelle le candidat est occupé....
 
 50 points
 
-\3. Droit public, organisation des communes, traitements et statut des fonctionnaires communaux. ..
+3\. Droit public, organisation des communes, traitements et statut des fonctionnaires communaux. ..
 
 50 points
 
-\4. Projet avec mémoire explicatif se rapportant à la branche dans laquelle le candidat est occupé. .
+4\. Projet avec mémoire explicatif se rapportant à la branche dans laquelle le candidat est occupé. .
 
 110 points
 
@@ -25419,23 +25419,23 @@ Total...........................................................................
 300 points
 
 Pour les fonctions d’éducateur gradué et d’éducateur sanitaire:
-\1. Notions générales sur la législation scolaire et sur la réglementation y relative.............................
+1\. Notions générales sur la législation scolaire et sur la réglementation y relative.............................
 
 40 points
 
-\2. Législation sur le statut et les traitements des fonctionnaires communaux. ...................................
+2\. Législation sur le statut et les traitements des fonctionnaires communaux. ...................................
 
 30 points
 
-\3. Notions générales sur l’organisation communale. ..........................................................................
+3\. Notions générales sur l’organisation communale. ..........................................................................
 
 30 points
 
-\4. Rédaction française sur une question d’intérêt professionnel.........................................................
+4\. Rédaction française sur une question d’intérêt professionnel.........................................................
 
 50 points
 
-\5. Epreuve pratique se situant dans le cadre du travail habituel du candidat. ....................................
+5\. Epreuve pratique se situant dans le cadre du travail habituel du candidat. ....................................
 
 50 points
 
@@ -25453,22 +25453,22 @@ Elaboration et défense devant la commission d’examen d’un mémoire portant 
 avec la formation définie à l’article 42bis du présent règlement. Le sujet du mémoire est fixé par la
 commission d’examen...........................................................................................................................
 
-27.
+27\.
 
 (abrogé par le règl. g.-d. du 27 octobre 2000)
 
-28.
+28\.
 
 Pour la fonction d’assistant d’hygiène sociale:
-\1. Médecine préventive et éducation sanitaire....................................................................................
+1\. Médecine préventive et éducation sanitaire....................................................................................
 
 100 points.»
 
 120 points
 
-\2. Législation sur les traitements et le statut des fonctionnaires communaux; législation communale;
+2\. Législation sur les traitements et le statut des fonctionnaires communaux; législation communale;
 
-29.
+29\.
 
 législation professionnelle et sanitaire. ...........................................................................................
 
@@ -25479,19 +25479,19 @@ Total...........................................................................
 360 points
 
 Pour les fonctions d’assistant social:
-\1. Planification du travail social. ..........................................................................................................
+1\. Planification du travail social. ..........................................................................................................
 
 120 points
 
-\2. Législation sur les traitements et le statut des fonctionnaires communaux; législation communale;
+2\. Législation sur les traitements et le statut des fonctionnaires communaux; législation communale;
 
-30.
+30\.
 
-31.
+31\.
 
-32.
+32\.
 
-33.
+33\.
 
 législation professionnelle et sanitaire. ...........................................................................................
 
@@ -25502,11 +25502,11 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de chimiste:
-\1. Théorie et pratique professionnelles...............................................................................................
+1\. Théorie et pratique professionnelles...............................................................................................
 
 120 points
 
-\2. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
+2\. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
 
 240 points
 
@@ -25515,11 +25515,11 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de diététicien:
-\1. Théorie et pratique professionnelles...............................................................................................
+1\. Théorie et pratique professionnelles...............................................................................................
 
 120 points
 
-\2. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
+2\. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
 
 240 points
 
@@ -25528,11 +25528,11 @@ Total...........................................................................
 360 points
 
 Pour les fonctions d’infirmier hospitalier gradué:
-\1. Planification des soins et de l’enseignement clinique. ....................................................................
+1\. Planification des soins et de l’enseignement clinique. ....................................................................
 
 120 points
 
-\2. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
+2\. Législation sur les traitements et le statut des fonctionnaires communaux; législation professionnelle
 et sanitaire.......................................................................................................................................
 
 240 points
@@ -25542,17 +25542,17 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de laborantin:
-\1. Méthodes d’analyse en biologie clinique, en chimie sanitaire, en microbiologie, en anatomie
+1\. Méthodes d’analyse en biologie clinique, en chimie sanitaire, en microbiologie, en anatomie
 pathlogique, en chimie médicale ou en transfusion sanguine ........................................................
 
 120 points
 
 (les questions tiennent compte de l’occupation du candidat);
-\2. Organisation du travail, initiation et contrôle du personnel auxiliaire . ............................................
+2\. Organisation du travail, initiation et contrôle du personnel auxiliaire . ............................................
 
 120 points
 
-\3. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+3\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
 120 points
@@ -25564,22 +25564,22 @@ Total...........................................................................
 \- 486 -
 
 Fonctionnaires communaux - Stage
-34.
+34\.
 
-35.
+35\.
 
-36.
+36\.
 
 Pour les fonctions de masseur-kinésithérapeute:
-\1. Techniques récentes de rééducation et d’électrothérapie...............................................................
+1\. Techniques récentes de rééducation et d’électrothérapie...............................................................
 
 120 points
 
-\2. Etablissement de différents plans de traitement. ............................................................................
+2\. Etablissement de différents plans de traitement. ............................................................................
 
 120 points
 
-\3. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+3\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
 120 points
@@ -25589,15 +25589,15 @@ Total...........................................................................
 360 points
 
 Pour les fonctions d’orthophoniste:
-\1. Techniques récentes de rééducation et de traitement. ...................................................................
+1\. Techniques récentes de rééducation et de traitement. ...................................................................
 
 120 points
 
-\2. Etablissement de différents plans de traitement. ............................................................................
+2\. Etablissement de différents plans de traitement. ............................................................................
 
 120 points
 
-\3. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+3\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
 120 points
@@ -25607,15 +25607,15 @@ Total...........................................................................
 360 points
 
 Pour les fonctions d’orthoptiste:
-\1. Techniques récentes de rééducation et de traitement. ...................................................................
+1\. Techniques récentes de rééducation et de traitement. ...................................................................
 
 120 points
 
-\2. Etablissement de différents plans de traitement. ............................................................................
+2\. Etablissement de différents plans de traitement. ............................................................................
 
 120 points
 
-\3. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+3\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
 120 points
@@ -25628,12 +25628,12 @@ Total...........................................................................
 «37.
 
 Pour les fonctions de pédagogue curatif:
-\1. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+1\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
-38.
+38\.
 
-39.
+39\.
 
 120 points
 
@@ -25642,15 +25642,15 @@ Total...........................................................................
 180 points»
 
 Pour les fonctions de psychorééducateur:
-\1. Techniques récentes de rééducation et de traitement. ...................................................................
+1\. Techniques récentes de rééducation et de traitement. ...................................................................
 
 120 points
 
-\2. Etablissement de différents plans de traitement. ............................................................................
+2\. Etablissement de différents plans de traitement. ............................................................................
 
 120 points
 
-\3. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
+3\. Législation sur les traitements et le statut des fonctionnaires communaux, législation professionnelle
 et sanitaire.......................................................................................................................................
 
 120 points
@@ -25660,18 +25660,18 @@ Total...........................................................................
 360 points
 
 Pour les fonctions de psychologue:
-\1. Législation professionnelle, statut et traitements des fonctionnaires communaux..........................
+1\. Législation professionnelle, statut et traitements des fonctionnaires communaux..........................
 
-40.
+40\.
 
 60 points
 
-\2. Mémoire sur une question relevant de la pratique du candidat, défense de ce mémoire devant la
+2\. Mémoire sur une question relevant de la pratique du candidat, défense de ce mémoire devant la
 commission d’examen.....................................................................................................................
 
 60 points
 
-\2. Mémoire sur une question relevant de la pratique du candidat, défense de ce mémoire devant la
+2\. Mémoire sur une question relevant de la pratique du candidat, défense de ce mémoire devant la
 commission d’examen.....................................................................................................................
 
 120 points
@@ -25681,7 +25681,7 @@ Total...........................................................................
 180 points
 
 Pour les fonctions de la carrière de l’architecte:
-\1. Droit civil: de la distinction des biens, de la propriété, de l’usufruit, de l’usage, de l’habitation, des
+1\. Droit civil: de la distinction des biens, de la propriété, de l’usufruit, de l’usage, de l’habitation, des
 servitudes ou services fonciers; droit public: la Constitution, les éléments constitutifs de l’Etat,
 les organes des pouvoirs publics, le Grand-Duc, le Gouvernement, le Conseil d’Etat, la Chambre
 des Députés, les Cours et Tribunaux; législation sur les marchés publics et le cahier général des
@@ -25690,7 +25690,7 @@ spécifique à déterminer pour chaque candidat par la commission d’examen....
 
 60 points
 
-\2. Projet ou mémoire dans la spécialité du candidat, défense de ce mémoire devant la commission
+2\. Projet ou mémoire dans la spécialité du candidat, défense de ce mémoire devant la commission
 d’examen.........................................................................................................................................
 
 120 points
@@ -25699,14 +25699,14 @@ Total...........................................................................
 
 180 points
 
-41.
+41\.
 
 (abrogé par le règl. g.-d. du 27 octobre 2000)
 
-42.
+42\.
 
 Pour les fonctions de la carrière de l’ingénieur:
-\1. Droit civil: de la distinction des biens, de la propriété, de l’usufruit, de l’usage, de l’habitation, des
+1\. Droit civil: de la distinction des biens, de la propriété, de l’usufruit, de l’usage, de l’habitation, des
 servitudes ou services fonciers; droit public: la Constitution, les éléments constitutifs de l’Etat, les
 organes des pouvoirs publics, le Grand-Duc, le Gouvernement, le Conseil d’Etat, la Chambre des
 Députés, les Cours et Tribunaux; législation sur les marchés publics et le cahier général des
@@ -25715,7 +25715,7 @@ spécifique à déterminer pour chaque candidat par la commission d’examen....
 
 60 points
 
-\2. Projet ou mémoire dans la spécialité du candidat, défense de ce mémoire devant la commission
+2\. Projet ou mémoire dans la spécialité du candidat, défense de ce mémoire devant la commission
 d’examen.........................................................................................................................................
 
 120 points
@@ -25731,26 +25731,26 @@ Fonctionnaires communaux - Stage
 «43.
 
 Pour les fonctions de professeur de conservatoire:
-\1. Epreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève
+1\. Epreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève
 débutant (ou à un groupe d’élèves débutants)................................................................................
 
 60 points
 
-\2. Epreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève.
+2\. Epreuve pédagogique dans la spécialité du candidat comprenant une leçon à donner à un élève.
 avancé (ou à un groupe d’élèves avancés).....................................................................................
 
 60 points
 
-\3. Interrogation orale sur la pédagogie générale et sur la méthodologie de l’enseignement de la
+3\. Interrogation orale sur la pédagogie générale et sur la méthodologie de l’enseignement de la
 spécialité du candidat......................................................................................................................
 
 30 points
 
-\4. Présentation et soutenance d’un mémoire sur un sujet concernant la spécialité du candidat........
+4\. Présentation et soutenance d’un mémoire sur un sujet concernant la spécialité du candidat........
 
 90 points
 
-\5. Epreuve écrite sur le droit communal, le statut des fonctionnaires communaux et la réglementation
+5\. Epreuve écrite sur le droit communal, le statut des fonctionnaires communaux et la réglementation
 de l’établissement auprès duquel le candidat est occupé...............................................................
 
 60 points
@@ -25826,25 +25826,25 @@ Chapitre 4.- Programmes
 Art. 58.
 Les programmes des examens de promotion des différentes carrières visées par l’article 52 du présent règlement sont fixés
 comme suit:
-1.
+1\.
 
 Pour la carrière du garçon de bureau:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de garçon de bureau principal)
-\1. Règlements de service. ..................................................................................................................
+1\. Règlements de service. ..................................................................................................................
 
-2.
-
-30 points
-
-\2. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
+2\.
 
 30 points
 
-\3. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
+2\. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
 
 30 points
 
-\4. Pratique professionnelle; rapports avec le public............................................................................
+3\. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
+
+30 points
+
+4\. Pratique professionnelle; rapports avec le public............................................................................
 
 30 points
 
@@ -25854,17 +25854,17 @@ Total...........................................................................
 
 Pour la carrière de l’aide soignant:
 (L’examen est requis pour l’avancement en traitement au grade 4)
-\1. Observation d’un malade et discussion des faits observés. ...........................................................
+1\. Observation d’un malade et discussion des faits observés. ...........................................................
 
-3.
-
-120 points
-
-\2. Rapport de service en langue française ou allemande (au choix du candidat). .............................
+3\.
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+2\. Rapport de service en langue française ou allemande (au choix du candidat). .............................
+
+120 points
+
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -25874,23 +25874,23 @@ Total...........................................................................
 
 Pour la carrière de l’agent municipal:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de garde municipal1 de première classe)
-\1. Règlements de service et règlement communal sur la circulation..................................................
+1\. Règlements de service et règlement communal sur la circulation..................................................
 
 30 points
 
-\2. Code de la route: questions approfondies.......................................................................................
+2\. Code de la route: questions approfondies.......................................................................................
 
 30 points
 
-\3. Rapport de service (en langue française ou allemande, au choix du candidat). ............................
+3\. Rapport de service (en langue française ou allemande, au choix du candidat). ............................
 
 30 points
 
-\4. Droit public: notions élémentaires. ..................................................................................................
+4\. Droit public: notions élémentaires. ..................................................................................................
 
 30 points
 
-\5. Pratique professionnelle, rapports avec le public............................................................................
+5\. Pratique professionnelle, rapports avec le public............................................................................
 
 60 points
 
@@ -25899,26 +25899,26 @@ Total...........................................................................
 180 points
 
 (Pour les titulaires occupés de façon prépondérante dans l’emploi de garde champêtre la matière sous
-\2. ci-dessus est remplacée par «Législation sur l’environnement, questions approfondies»)
-4.
+2\. ci-dessus est remplacée par «Législation sur l’environnement, questions approfondies»)
+4\.
 
 Pour la carrière de l’huissier:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de huissier-chef)
-\1. Règlements de service. ..................................................................................................................
+1\. Règlements de service. ..................................................................................................................
 
-5.
-
-30 points
-
-\2. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
+5\.
 
 30 points
 
-\3. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
+2\. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
 
 30 points
 
-\4. Pratique professionnelle et rapports avec le public.........................................................................
+3\. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
+
+30 points
+
+4\. Pratique professionnelle et rapports avec le public.........................................................................
 
 30 points
 
@@ -25929,11 +25929,11 @@ Total...........................................................................
 Pour la carrière du concierge:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de concierge)
 
-\1. Règlements de service. ..................................................................................................................
+1\. Règlements de service. ..................................................................................................................
 
 30 points
 
-\2. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
+2\. Rapport de service (en langue française ou en langue allemande, au choix du candidat).............
 
 30 points
 
@@ -25943,13 +25943,13 @@ Lire: «d’agent municipal de première classe»
 
 Fonctionnaires communaux - Stage
 
-6.
+6\.
 
-\3. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
+3\. Organisation communale; traitements et statut des fonctionnaires communaux. ...........................
 
 30 points
 
-\4. Pratique professionnelle et rapports avec le public.........................................................................
+4\. Pratique professionnelle et rapports avec le public.........................................................................
 
 30 points
 
@@ -25960,28 +25960,28 @@ Total...........................................................................
 Pour la carrière du cantonnier:
 a) Premier examen de promotion:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de chef-cantonnier)
-\1. Rapport de service en français ou en allemand (au choix du candidat). ...................................
+1\. Rapport de service en français ou en allemand (au choix du candidat). ...................................
 
 15 points
 
-\2. Arithmétique: questions approfondies sur le programme de l’examen d’admission définitive;
+2\. Arithmétique: questions approfondies sur le programme de l’examen d’admission définitive;
 problèmes relatifs au travail du candidat....................................................................................
 
 25 points
 
-\3. Statut des fonctionnaires communaux. ......................................................................................
+3\. Statut des fonctionnaires communaux. ......................................................................................
 
 10 points
 
-\4. Organisation communale: notions élémentaires. .......................................................................
+4\. Organisation communale: notions élémentaires. .......................................................................
 
 10 points
 
-\5. Code de la route: questions approfondies sur le programme de l’examen d’admission définitive.
+5\. Code de la route: questions approfondies sur le programme de l’examen d’admission définitive.
 
 10 points
 
-\6. Pratique professionnelle: notions sur le régime des marchés publics; éléments de base et
+6\. Pratique professionnelle: notions sur le régime des marchés publics; éléments de base et
 principe de la construction d’une route, d’une canalisation ou d’une conduite d’eau; surveillance
 des chantiers; métré et réception; éléments de levé, de nivellement et d’arpentage. ................
 
@@ -25994,26 +25994,26 @@ Total...........................................................................
 b) Deuxième examen de promotion:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de chef de brigade)
 
-7.
+7\.
 
-\1. Rapport explicatif, en français et en allemand, sur l’organisation d’un chantier ou de travaux
+1\. Rapport explicatif, en français et en allemand, sur l’organisation d’un chantier ou de travaux
 communaux (langue au choix du candidat)................................................................................
 
 15 points
 
-\2. Arithmétique: problèmes relatifs au travail du candidat..............................................................
+2\. Arithmétique: problèmes relatifs au travail du candidat..............................................................
 
 20 points
 
-\3. Organisation communale: notions..............................................................................................
+3\. Organisation communale: notions..............................................................................................
 
 10 points
 
-\4. Code de la route: questions approfondies..................................................................................
+4\. Code de la route: questions approfondies..................................................................................
 
 10 points
 
-\5. Pratique professionnelle: application pratique des matières du premier examen de promotion;
+5\. Pratique professionnelle: application pratique des matières du premier examen de promotion;
 exposés et commentaires sur le terrain......................................................................................
 
 45 points
@@ -26026,13 +26026,13 @@ Pour la carrière de l’agent pompier:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’agent pompier de
 première classe.)
 
-8.
+8\.
 
-\1. Rapport de service en langue française ou en langue allemande (au choix du candidat)..............
+1\. Rapport de service en langue française ou en langue allemande (au choix du candidat)..............
 
 10 points
 
-\2. Notions de mécanique (caractéristiques des différents types de pompes, de véhicules, d’engins et
+2\. Notions de mécanique (caractéristiques des différents types de pompes, de véhicules, d’engins et
 de matériel de sauvetage et de lutte contre les incendies, des ascenseurs et des équipements comparables, principes et systèmes de levage, de traction, d’étayage, de coupage et de déblayage);
 notions d’hydraulique (principes et calculs élémentaires concernant les pompes, les points d’eau,
 les distributions d’eau, les manoeuvres en relais etc.); notions d’électricité (principes élémentaires,
@@ -26041,17 +26041,17 @@ distributions de courant).......................................................
 
 15 points
 
-\3. Théorie professionnelle: connaissances approfondies des branches «incendie», «sauvetage» et
+3\. Théorie professionnelle: connaissances approfondies des branches «incendie», «sauvetage» et
 «tech­niques de secourisme, de soins d’urgence et de soins intensifs»..........................................
 
 25 points
 
-\4. Pratique professionnelle: connaissances approfondies des véhicules, des engins et des équipements de sauvetage et de lutte contre les incendies; exercices pratiques concernant l’occupation
+4\. Pratique professionnelle: connaissances approfondies des véhicules, des engins et des équipements de sauvetage et de lutte contre les incendies; exercices pratiques concernant l’occupation
 du candidat......................................................................................................................................
 
 25 points
 
-\5. Notions élémentaires de la construction de bâtiments, des installations sanitaires, des installations
+5\. Notions élémentaires de la construction de bâtiments, des installations sanitaires, des installations
 de chauffage, de la prévention des incendies et des installations y relatives. ................................
 
 25 points
@@ -26062,23 +26062,23 @@ Total...........................................................................
 
 Pour la carrière de l’artisan:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de premier artisan)
-\1. Rapports de service en langues française et allemande. ...............................................................
+1\. Rapports de service en langues française et allemande. ...............................................................
 
 15 points
 
-\2. Notions élémentaires de droit administratif et de l’organisation des communes. ...........................
+2\. Notions élémentaires de droit administratif et de l’organisation des communes. ...........................
 
 10 points
 
-\3. Mesures préventives contre les accidents concernant spécialement l’occupation du candidat......
+3\. Mesures préventives contre les accidents concernant spécialement l’occupation du candidat......
 
 15 points
 
-\4. Pratique professionnelle: questions approfondies concernant l’occupation du candidat. ...............
+4\. Pratique professionnelle: questions approfondies concernant l’occupation du candidat. ...............
 
 35 points
 
-\5. Technologie professionnelle concernant l’occupation du candidat: questions approfondies sur la
+5\. Technologie professionnelle concernant l’occupation du candidat: questions approfondies sur la
 nature et le travail des matériaux, les techniques usuelles, l’outillage et les machines..................
 
 25 points
@@ -26092,7 +26092,7 @@ Total...........................................................................
 \- 490 -
 
 Fonctionnaires communaux - Stage
-9.
+9\.
 
 Pour la carrière de l’agent de transport:
 
@@ -26100,23 +26100,23 @@ Pour la carrière de l’agent de transport:
 «a) Premier examen de promotion.»
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de premier chauffeur
 d’autobus et de premier receveur d’autobus)
-\1. Notions de l’organisation communale. .......................................................................................
+1\. Notions de l’organisation communale. .......................................................................................
 
 20 points
 
-\2. Connaissance de l’exploitation des réseaux: horaires, itinéraires, correspondances, tarifs.......
+2\. Connaissance de l’exploitation des réseaux: horaires, itinéraires, correspondances, tarifs.......
 
 20 points
 
-\3. Connaissances approfondies du code de la route. ....................................................................
+3\. Connaissances approfondies du code de la route. ....................................................................
 
 20 points
 
-\4. Connaissances approfondies des règlements et des instructions de service............................
+4\. Connaissances approfondies des règlements et des instructions de service............................
 
 20 points
 
-\5. Mesures de sécurité et de prévention des accidents; notions élémentaires de premiers secours.
+5\. Mesures de sécurité et de prévention des accidents; notions élémentaires de premiers secours.
 
 20 points
 
@@ -26129,20 +26129,20 @@ Total...........................................................................
 à celles de chauffeur d’autobus en chef)
 I) Test d’aptitude psychologique.
 II) Partie théorique.
-\1. Connaissances approfondies du code de la route. ...............................................................
+1\. Connaissances approfondies du code de la route. ...............................................................
 
 60 points
 
-\2. Connaissances approfondies des règlements et des instructions de service ainsi que de
+2\. Connaissances approfondies des règlements et des instructions de service ainsi que de
 de l’exploitation des réseaux de transport public : horaires, itinéraires, tarifs........................
 
 60 points
 
-\3. Statut des fonctionnaires communaux...................................................................................
+3\. Statut des fonctionnaires communaux...................................................................................
 
 30 points
 
-\4. Rapport de service portant sur la résolution d’un problème pratique en langue française
+4\. Rapport de service portant sur la résolution d’un problème pratique en langue française
 ou allemande ( au choix du candidat )...................................................................................
 
 30 points
@@ -26151,21 +26151,21 @@ Total...........................................................................
 
 180 points»
 
-\10. Pour la carrière de l’éducateur:
+10\. Pour la carrière de l’éducateur:
 (L’examen est requis pour l’avancement en traitement au grade 7)
-\1. Psychologie de l’enfant et de l’adolescent. .....................................................................................
+1\. Psychologie de l’enfant et de l’adolescent. .....................................................................................
 
 20 points
 
-\2. Législation professionnelle..............................................................................................................
+2\. Législation professionnelle..............................................................................................................
 
 20 points
 
-\3. Pratique professionnelle..................................................................................................................
+3\. Pratique professionnelle..................................................................................................................
 
 20 points
 
-\4. Exposé et discussion sur un sujet concernant le travail du candidat..............................................
+4\. Exposé et discussion sur un sujet concernant le travail du candidat..............................................
 
 40 points
 
@@ -26173,25 +26173,25 @@ Total...........................................................................
 
 100 points
 
-\11. (abrogé par le règl. g.-d. du 27 octobre 2006)
-\12. Pour la carrière de l’expéditionnaire informaticien:
+11\. (abrogé par le règl. g.-d. du 27 octobre 2006)
+12\. Pour la carrière de l’expéditionnaire informaticien:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de commis informaticien
 adjoint)
-\1. Rapport administratif en langue française. .....................................................................................
+1\. Rapport administratif en langue française. .....................................................................................
 
 60 points
 
-\2. Notions de droit public (La Constitution; les organes des pouvoirs publics: le Grand-Duc, le Gouvernement,le Conseil d’Etat, la Chambre des Députés, les Cours et Tribunaux; organisation des
+2\. Notions de droit public (La Constitution; les organes des pouvoirs publics: le Grand-Duc, le Gouvernement,le Conseil d’Etat, la Chambre des Députés, les Cours et Tribunaux; organisation des
 communes). ....................................................................................................................................
 
 20 points
 
-\3. Programmation (ordinogrammes, connaissances élémentaires d’un langage de programmation
+3\. Programmation (ordinogrammes, connaissances élémentaires d’un langage de programmation
 de haut niveau). ..............................................................................................................................
 
 60 points
 
-\4. Pratique professionnelle (connaissance d’un système d’exploitation, emploi des programmes
+4\. Pratique professionnelle (connaissance d’un système d’exploitation, emploi des programmes
 utilitaires, gestion de la machine)....................................................................................................
 
 100 points
@@ -26200,32 +26200,32 @@ Total...........................................................................
 
 240 points
 
-\13. Pour la carrière de l’expéditionnaire technique:
+13\. Pour la carrière de l’expéditionnaire technique:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de commis technique adjoint)
-\1. Langues française et allemande: rédaction dans chaque langue d’un rapport technique concernant
+1\. Langues française et allemande: rédaction dans chaque langue d’un rapport technique concernant
 le travail du candidat. ......................................................................................................................
 
 30 points
 
 (Pour la branche chimie le rapport technique est remplacé par une interprétation d’analyse et un
 rapport y relatif)
-\2. Connaissances techniques approfondies dans la branche du candidat. ........................................
+2\. Connaissances techniques approfondies dans la branche du candidat. ........................................
 
 75 points
 
-\3. Réglementation et mesures techniques concernant plus spécialement l’emploi du candidat. .......
+3\. Réglementation et mesures techniques concernant plus spécialement l’emploi du candidat. .......
 
 20 points
 
-\4. Notions de législation sur les marchés publics. ..............................................................................
+4\. Notions de législation sur les marchés publics. ..............................................................................
 
 20 points
 
-\5. Notions du code de la route. ...........................................................................................................
+5\. Notions du code de la route. ...........................................................................................................
 
 20 points
 
-\6. Elaboration d’un projet sur calque concernant la branche du candidat (pour la branche chimie:
+6\. Elaboration d’un projet sur calque concernant la branche du candidat (pour la branche chimie:
 élaboration d’un projet dans la spécialité du candidat, rédaction d’un mémoire explicatif).............
 
 75 points
@@ -26240,18 +26240,18 @@ Total...........................................................................
 Fonctionnaires communaux - Stage
 Le programme détaillé des épreuves est fixé par règlement du ministre de l’Intérieur en tenant compte
 des besoins des administrations.
-\14. Pour la carrière de l’agent sanitaire:
+14\. Pour la carrière de l’agent sanitaire:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’agent sanitaire principal)
-\1. Rapport sur une enquête épidémiologique, discussion du rapport.................................................
+1\. Rapport sur une enquête épidémiologique, discussion du rapport.................................................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat)
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat)
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26259,18 +26259,18 @@ Total...........................................................................
 
 360 points
 
-\15. Pour la carrière de l’infirmier:
+15\. Pour la carrière de l’infirmier:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’infirmier principal)
-\1. Observation d’un malade avec établissement d’un plan de soins, discussion du plan...................
+1\. Observation d’un malade avec établissement d’un plan de soins, discussion du plan...................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26278,9 +26278,9 @@ Total...........................................................................
 
 360 points
 
-\16. Pour la carrière de l’assistant technique médical:
+16\. Pour la carrière de l’assistant technique médical:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’assistant technique médical principal)
-\1. a) Branche radiologie:
+1\. a) Branche radiologie:
 – observation et description de l’évolution d’un traitement radiologique effectué dans le service,
 discussion;
 b) branche chirurgie:
@@ -26290,12 +26290,12 @@ c) branche laboratoire
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26303,19 +26303,19 @@ Total...........................................................................
 
 360 points
 
-\17. Pour la carrière de l’infirmier anesthésiste:
+17\. Pour la carrière de l’infirmier anesthésiste:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’infirmier anesthésiste
 principal)
-\1. Observation et soins d’un malade en réanimation, discussion. ......................................................
+1\. Observation et soins d’un malade en réanimation, discussion. ......................................................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion. ......................................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26323,19 +26323,19 @@ Total...........................................................................
 
 360 points
 
-\18. Pour la carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique:
+18\. Pour la carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’infirmier principal chargé
 des services d’ergothérapie ou d’éducation physique)
-\1. Observation d’un malade avec établissement d’un plan de traitement, discussion. .......................
+1\. Observation d’un malade avec établissement d’un plan de traitement, discussion. .......................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26343,20 +26343,20 @@ Total...........................................................................
 
 360 points
 
-\19. Pour la carrière de l’infirmier psychiatrique:
+19\. Pour la carrière de l’infirmier psychiatrique:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’infirmier psychiatrique
 principal)
-\1. Observation et description de l’évolution d’un traitement neuro-psychiatrique effectué dans le service,
+1\. Observation et description de l’évolution d’un traitement neuro-psychiatrique effectué dans le service,
 discussion. ......................................................................................................................................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26367,18 +26367,18 @@ Total...........................................................................
 \- 492 -
 
 Fonctionnaires communaux - Stage
-\20. Pour la carrière du masseur:
+20\. Pour la carrière du masseur:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de masseur principal)
-\1. Observation et description de l’évolution d’un traitement effectué dans le service, discussion. .....
+1\. Observation et description de l’évolution d’un traitement effectué dans le service, discussion. .....
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26386,18 +26386,18 @@ Total...........................................................................
 
 360 points
 
-\21. Pour la carrière du puériculteur:
+21\. Pour la carrière du puériculteur:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de puériculteur principal)
-\1. Observation d’un nourrisson ou d’un malade avec établissement d’un plan de soins, discussion.
+1\. Observation d’un nourrisson ou d’un malade avec établissement d’un plan de soins, discussion.
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat),
 discussion du rapport......................................................................................................................
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26405,17 +26405,17 @@ Total...........................................................................
 
 360 points
 
-\22. Pour la carrière de la sage-femme:
+22\. Pour la carrière de la sage-femme:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de sage-femme)
-\1. Observation et soins appliqués d’une parturiente et de son nouveau-né (avant et après l’accouchement). ........................................................................................................................................
+1\. Observation et soins appliqués d’une parturiente et de son nouveau-né (avant et après l’accouchement). ........................................................................................................................................
 
 120 points
 
-\2. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
+2\. Rédaction d’un rapport de service en langue française ou allemande (au choix du candidat).......
 
 120 points
 
-\3. Législation sanitaire, sociale et professionnelle..............................................................................
+3\. Législation sanitaire, sociale et professionnelle..............................................................................
 
 120 points
 
@@ -26423,21 +26423,21 @@ Total...........................................................................
 
 360 points
 
-\23. Pour la carrière de l’informaticien diplômé:
+23\. Pour la carrière de l’informaticien diplômé:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles d’informaticien principal)
-\1. Rapport administratif en langue française. .....................................................................................
+1\. Rapport administratif en langue française. .....................................................................................
 
 60 points
 
-\2. Comptabilité des communes...........................................................................................................
+2\. Comptabilité des communes...........................................................................................................
 
 30 points
 
-\3. Droit public et administratif..............................................................................................................
+3\. Droit public et administratif..............................................................................................................
 
 30 points
 
-\4. Pratique professionnelle (notions des méthodes d’analyse, connaissance approfondie d’un langage
+4\. Pratique professionnelle (notions des méthodes d’analyse, connaissance approfondie d’un langage
 de haut niveau, emploi des programmes utilitaires et d’autres programmes-produits utilisés).......
 
 180 points
@@ -26446,26 +26446,26 @@ Total...........................................................................
 
 300 points
 
-\25. (abrogé par le règl. g.-d. du 27 octobre 2006)
-\26. Pour la carrière du technicien diplômé:
+25\. (abrogé par le règl. g.-d. du 27 octobre 2006)
+26\. Pour la carrière du technicien diplômé:
 (L’examen est requis pour la promotion aux fonctions supérieures à celles de technicien principal)
-\1. Rapport technique...........................................................................................................................
+1\. Rapport technique...........................................................................................................................
 
 60 points
 
-\2. Législation et réglementation professionnelles. ..............................................................................
+2\. Législation et réglementation professionnelles. ..............................................................................
 
 60 points
 
-\3. Prescriptions de sécurité.................................................................................................................
+3\. Prescriptions de sécurité.................................................................................................................
 
 20 points
 
-\4. Connaissances techniques. ............................................................................................................
+4\. Connaissances techniques. ............................................................................................................
 
 60 points
 
-\5. Projet avec mémoire explicatif. .......................................................................................................
+5\. Projet avec mémoire explicatif. .......................................................................................................
 
 100 points
 
@@ -26475,7 +26475,7 @@ Total...........................................................................
 
 Le programme détaillé est déterminé par règlement du ministre de l’Intérieur en tenant compte de
 la branche dans laquelle le candidat est occupé.
-\27. (abrogé par le règl. g.-d. du 27 octobre 2006)
+27\. (abrogé par le règl. g.-d. du 27 octobre 2006)
 
 Titre VII – Commissions et procédure
 «Section A. – Examens pour les groupes de traitement de la rubrique « Administration générale »1
@@ -26533,13 +26533,13 @@ Art. 68.
 «1. Pour chaque commission d’examen, le ministre de l’Intérieur nomme un observateur sur proposition de la Chambre des
 Fonctionnaires et Employés Publics.
 L’observateur participe aux travaux de la commission avec voix consultative.
-\2. L’observateur est convoqué aux réunions et séances de la commission d’examen dans les mêmes formes et dans les mêmes
+2\. L’observateur est convoqué aux réunions et séances de la commission d’examen dans les mêmes formes et dans les mêmes
 délais que les autres membres de la commission.
 Les décisions de la commission sont valablement prises et ses actes régulièrement posés même si l’observateur dûment convoqué n’a pas pris part aux délibérations, pour quelque motif que ce soit.
 L’observateur doit obtenir la parole s’il le demande pour présenter des remarques en relation avec l’organisation de l’examen.
 Toutefois, il ne peut d’aucune façon s’immiscer dans le choix des questions ou sujets à poser, ni dans la pondération des points
 à attribuer aux épreuves ou parties d’épreuves ni dans l’appréciation des réponses par les membres de la commission.
-\3. Pendant les épreuves de l’examen, l’observateur ne peut communiquer d’aucune manière avec les candidats.
+3\. Pendant les épreuves de l’examen, l’observateur ne peut communiquer d’aucune manière avec les candidats.
 Lors des interruptions qui séparent les différentes épreuves, l’observateur peut recueillir les remarques et les doléances éventuelles des candidats.
 Au cas où l’observateur croit avoir constaté une insuffisance ou une irrégularité dans l’organisation matérielle des épreuves, il
 doit incessamment en informer le président de la commission, en lui parlant seul à seul. L’observateur a le droit de faire acter au
@@ -26550,7 +26550,7 @@ Inséré par le règl. g.-d. du 17 janvier 2020.
 
 Fonctionnaires communaux - Stage
 procès-verbal de la commission ses remarques relatives à l’organisation de l’examen et au déroulement des épreuves. S’il ne présente pas de remarques particulières, le procès-verbal en fait mention.
-\4. L’observateur peut également informer directement le ministre de l’Intérieur par une note écrite s’il a constaté un fait grave
+4\. L’observateur peut également informer directement le ministre de l’Intérieur par une note écrite s’il a constaté un fait grave
 pouvant mettre en cause la validité de l’examen.»
 Art. 69.
 La commission dresse un procès-verbal des opérations pour chaque examen; le président en transmet copie au ministre de
@@ -26612,20 +26612,20 @@ le résultat obtenu lors de l’épreuve d’aptitude générale, duquel il rés
 f)
 
 une notice biographique renseignant les informations suivantes au sujet du candidat :
-\1. ses nom et prénom(s) ;
-\2. son numéro d’identification ;
-\3. sa nationalité ;
-\4. son adresse électronique ;
-\5. la liste des établissements d’enseignement fréquentés et leur pays d’implantation ;
-\6. ses diplômes ;
+1\. ses nom et prénom(s) ;
+2\. son numéro d’identification ;
+3\. sa nationalité ;
+4\. son adresse électronique ;
+5\. la liste des établissements d’enseignement fréquentés et leur pays d’implantation ;
+6\. ses diplômes ;
 
 Remplacé par le règl. g.-d. du 15 juin 2018.
 
 \- 495 -
 
 Fonctionnaires communaux - Stage
-\7. son expérience professionnelle et
-\8. ses connaissances en langues parlées et écrites.
+7\. son expérience professionnelle et
+8\. ses connaissances en langues parlées et écrites.
 Les informations fournies doivent être complètes et véritables.»
 (Règl. g.-d. du 24 février 2015)
 «6. Le candidat qui a sciemment fait une fausse déclaration dans son curriculum vitae ou présenté de faux documents à l’appui
@@ -26644,28 +26644,28 @@ en cas de changements majeurs dans la composition de la commission ou dans les m
 d’admissibilité.
 
 Si la commission n’est pas convoquée au préalable, les membres de la commission et l’observateur sont informés par le président des modalités pratiques relatives à l’examen d’admissibilité.
-\2. Le programme de l’examen d’admissibilité est communiqué à chaque candidat inscrit.
-\3. Le président arrête les mesures utiles pour garder l’anonymat du candidat.
-\4. Les examinateurs présentent au président, sous pli fermé et avant une date limite antérieurement fixée, un sujet ou une série
+2\. Le programme de l’examen d’admissibilité est communiqué à chaque candidat inscrit.
+3\. Le président arrête les mesures utiles pour garder l’anonymat du candidat.
+4\. Les examinateurs présentent au président, sous pli fermé et avant une date limite antérieurement fixée, un sujet ou une série
 de questions pour l’épreuve qu’ils sont appelés à apprécier.
-\5. Le secret relatif aux sujets et questions présentés doit être observé.
-\6. Les sujets et les questions des épreuves sont choisis par le président parmi les sujets et les questions qui lui ont été soumis;
+5\. Le secret relatif aux sujets et questions présentés doit être observé.
+6\. Les sujets et les questions des épreuves sont choisis par le président parmi les sujets et les questions qui lui ont été soumis;
 les sujets et les questions choisis sont gardés sous plis cachetés séparément pour chaque épreuve. Les plis ne sont ouverts qu’en
 présence des candidats et au moment même où les sujets ou les questions leur sont communiqués.
-\7. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
-\8. Au début des différentes épreuves, il peut être procédé à un contrôle d’identité des candidats.
-\9. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
-\10. La commission d’examen organise la surveillance appropriée des candidats pendant les épreuves.
-\11. Au cours des épreuves, toute communication entre les candidats et avec l’extérieur, de même que toute utilisation de
+7\. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
+8\. Au début des différentes épreuves, il peut être procédé à un contrôle d’identité des candidats.
+9\. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
+10\. La commission d’examen organise la surveillance appropriée des candidats pendant les épreuves.
+11\. Au cours des épreuves, toute communication entre les candidats et avec l’extérieur, de même que toute utilisation de
 tout support autre que ceux qui ont été autorisés préalablement par le président, sont interdites. Le candidat fautif est exclu des
 épreuves. Cette exclusion équivaut à un échec.
-\12. Dès l’ouverture de l’examen d’admissibilité, le candidat est prévenu des suites que toute fraude comportera.
-\13. Le président remet les copies à apprécier aux correcteurs. Sauf exception dûment justifiée, les délais de correction ne dépasseront pas les 15 jours.
+12\. Dès l’ouverture de l’examen d’admissibilité, le candidat est prévenu des suites que toute fraude comportera.
+13\. Le président remet les copies à apprécier aux correcteurs. Sauf exception dûment justifiée, les délais de correction ne dépasseront pas les 15 jours.
 (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)
-\14. La commission prend ses décisions à la majorité des voix, l’abstention n’étant pas permise. En cas de partage des voix, celle
+14\. La commission prend ses décisions à la majorité des voix, l’abstention n’étant pas permise. En cas de partage des voix, celle
 du président est prépondérante.
-\15. Les membres de la commission ainsi que l’observateur sont obligés de garder le secret des délibérations.
-\16. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)»
+15\. Les membres de la commission ainsi que l’observateur sont obligés de garder le secret des délibérations.
+16\. (. . .) (supprimé par le règl. g.-d. du 17 janvier 2020)»
 Art. 73.
 (Règl. g.-d. du 17 janvier 2020)
 «La commission arrête le résultat de l’épreuve.
@@ -26977,16 +26977,16 @@ Les fonctionnaires des carrières du concierge et de l’huissier détenteurs d�
 plus de trois ans à la date d’entrée en vigueur du présent règlement sont dispensés de l’examen de promotion prévu par ce même
 règlement.
 Art. 112.
-\1. Le fonctionnaire de la carrière du maître d’éducation physique, détenteur d’un brevet de maîtrise d’électro-mécanicien, en
+1\. Le fonctionnaire de la carrière du maître d’éducation physique, détenteur d’un brevet de maîtrise d’électro-mécanicien, en
 service auprès de la ville d’Esch-sur-Alzette à la date du premier novembre 1989 et détaché, lors de l’entrée en vigueur du présent
 règlement, dans l’enseignement complémentaire, peut bénéficier, avec effet au premier janvier 1990, de l’application de l’article
 IV, paragraphe k), du règlement grand-ducal du 7 septembre 1987 portant modification de la législation sur les traitements, sur les
 pensions et sur les conditions d’admission aux emplois des fonctionnaires communaux.
-\2. Les fonctionnaires disposant au moment de l’entrée en vigueur du présent règlement depuis plus de six ans d’une nomination
+2\. Les fonctionnaires disposant au moment de l’entrée en vigueur du présent règlement depuis plus de six ans d’une nomination
 définitive aux fonctions de garde champêtre avec occupation exclusive dans cet emploi, sont intégrés dans la carrière de l’agent
 municipal avec dispense des conditions de formation et d’examen prévues pour cette carrière. A cet effet ils sont nommés à des
 postes hors-cadre correspondant aux grades auxquels les intéressés sont actuellement classés; ces postes hors-cadre disparaîtront avec la cessation de service des titulaires.
-\3. (...) (abrogé par le règl. g.-d. du 8 juin 1999)
+3\. (...) (abrogé par le règl. g.-d. du 8 juin 1999)
 
 Chapitre 3.- Disposition abrogatoire
 Art. 113.
@@ -27017,14 +27017,14 @@ Fonctionnaires communaux - Stage
 «ANNEXE
 I. Examens du groupe de traitement A1
 A. Pour le sous-groupe administratif, le sous-groupe à attributions particulières du secrétaire et du receveur
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Dissertation française
 
@@ -27045,11 +27045,11 @@ Orientation résultat
 Orientation client
 
 B. Pour le sous-groupe scientifique et technique
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27077,14 +27077,14 @@ Orientation résultat
 Orientation client
 
 C. Pour le sous-groupe éducatif et psycho-social
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Raisonnement verbal (complexe)
 
@@ -27106,14 +27106,14 @@ Orientation client
 
 II. Examens du groupe de traitement A2
 A. Pour le sous-groupe administratif, le sous-groupe à attributions particulières du secrétaire et du receveur.
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Dissertation française
 
@@ -27134,9 +27134,9 @@ Orientation résultat
 Orientation client
 
 B. Pour le sous-groupe scientifique et technique
-1.
+1\.
 
-2.
+2\.
 
 Compétences techniques
 \-
@@ -27156,7 +27156,7 @@ Résolution de problèmes
 \- 503 -
 
 Fonctionnaires communaux - Stage
-3.
+3\.
 
 Prise de décision
 
@@ -27168,14 +27168,14 @@ Orientation résultat
 Orientation client
 
 C. Pour le sous-groupe éducatif et psycho-social
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Raisonnement verbal (complexe)
 
@@ -27197,14 +27197,14 @@ Orientation client
 
 III. Examens du groupe de traitement B1
 A. Pour le sous-groupe administratif et le sous-groupe à attributions particulières du receveur
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Dissertation française
 
@@ -27225,11 +27225,11 @@ Orientation résultat
 Orientation client
 
 B. Pour le sous-groupe technique
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27255,14 +27255,14 @@ Orientation résultat
 Orientation client
 
 C. Pour le sous-groupe éducatif et psycho-social
-1.
+1\.
 
 Compétences techniques
 \-
 
-2.
+2\.
 
-3.
+3\.
 
 Raisonnement verbal
 
@@ -27284,9 +27284,9 @@ Orientation client
 
 IV. Examens du groupe de traitement C1
 A. Pour le sous-groupe administratif
-1.
+1\.
 
-2.
+2\.
 
 Compétences techniques
 \-
@@ -27304,7 +27304,7 @@ Capacité multi-tâches
 \- 504 -
 
 Fonctionnaires communaux - Stage
-3.
+3\.
 
 Mémoire de travail
 
@@ -27316,11 +27316,11 @@ Orientation résultat
 Orientation client
 
 B. Pour le sous-groupe technique
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27347,11 +27347,11 @@ Orientation client
 
 V. Examens du groupe de traitement D1
 Pour le sous-groupe à attributions particulières de l’artisan « , de l’agent municipal »1 et de l’agent de transport
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27380,11 +27380,11 @@ Orientation client
 
 VI. Examens du groupe de traitement D2
 Pour le sous-groupe administratif « et le sous-groupe technique »2
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27409,11 +27409,11 @@ Orientation client
 
 VII. Examen du groupe de traitement D3
 Pour le sous-groupe administratif
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Compétences techniques
 \-
@@ -27462,10 +27462,10 @@ Luxembourgeois
 Examen d’admissibilité aux fonctions de:
 Nom du candidat: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 Date de l’épreuve . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .
-\1. Lecture:
+1\. Lecture:
 articulation: prononcer correctement les phonèmes français/allemands/luxembourgeois dans la chaîne parlée, et fluidité: découpage en groupes rythmiques
 
-\2. Entretien:
+2\. Entretien:
 a) capacité de développement (quantité de discours, flux verbal)
 
 b) qualité du discours:
@@ -27525,9 +27525,9 @@ candidat à évaluer.
 L’Institut informe le candidat de la date et des modalités des épreuves.»
 Art. 3.
 I. Les épreuves (. . .)3 ont pour objet d’apprécier, sous forme d’épreuves de compréhension et d’expression orale, les connaissances du candidat dans les trois langues administratives selon des niveaux de compétences fixés conformément au Cadre européen commun de référence pour les langues.
-1.
+1\.
 
-2.
+2\.
 
 En ce qui concerne les épreuves préliminaires organisées pour « la catégorie de traitement et d’indemnité A »4, les niveaux
 de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale sont fixés comme suit:
@@ -27566,7 +27566,7 @@ Remplacé par le règl. g.-d. du 6 décembre 2019.
 \- 507 -
 
 Fonctionnaires communaux - Stage
-3.
+3\.
 
 En ce qui concerne les épreuves préliminaires organisées pour « les catégories de traitement et d’indemnité C et D »1, les
 niveaux de compétences à atteindre tant pour la compréhension de l’oral que pour l’expression orale dans les trois langues
@@ -27590,9 +27590,9 @@ Le candidat qui, conformément à l’article 6 du présent règlement, a obtenu
 langues est considéré être dispensé dans sa première langue. Il choisira pour les deux langues qui entrent en considération pour
 les épreuves (. . .)2 entre le niveau de compétences de la deuxième et le niveau de compétences de la troisième langue.
 Art. 4.
-\1. Les épreuves (. . .)2 tiennent compte des niveaux de compétences à atteindre prévus à l’article 3 et comprennent pour chacune
+1\. Les épreuves (. . .)2 tiennent compte des niveaux de compétences à atteindre prévus à l’article 3 et comprennent pour chacune
 des trois langues une épreuve de compréhension orale et une épreuve d’expression orale.
-\2. L’épreuve de compréhension orale se compose pour chacune des trois langues de l’écoute de documents enregistrés et de
+2\. L’épreuve de compréhension orale se compose pour chacune des trois langues de l’écoute de documents enregistrés et de
 questionnaires portant sur ces documents.
 Les questionnaires peuvent comprendre les trois types de questions suivants:
 –
@@ -27610,7 +27610,7 @@ des questions d’appariement.
 (Règl. g.-d. du 6 décembre 2019)
 «Le candidat est évalué par deux correcteurs suivant une grille de correction.
 L’épreuve porte sur un maximum de 25 points.»
-\3. L’épreuve d’expression orale peut comprendre pour chacune des trois langues:
+3\. L’épreuve d’expression orale peut comprendre pour chacune des trois langues:
 –
 
 un entretien entre l’examinateur et le candidat sur un thème donné;
@@ -27632,14 +27632,14 @@ l’entretien et donne une note globale, et le deuxième est l’assesseur qui d
 (. . .)3
 L’épreuve d’expression orale se fait séparément pour chaque candidat et fait l’objet d’un enregistrement en vue de l­’évaluation
 ultérieure.
-\4. Les notes obtenues à l’épreuve de compréhension orale et à l’épreuve d’expression orale sont additionnées et calculées sur
+4\. Les notes obtenues à l’épreuve de compréhension orale et à l’épreuve d’expression orale sont additionnées et calculées sur
 un maximum de 50 points pour chacune des trois langues.
 Si le résultat ainsi obtenu est égal ou supérieur aux 3/5 du maximum des points pouvant être obtenus, le candidat a fait preuve
 d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve (. . .)3.
 Si le résultat obtenu est inférieur aux 3/5 du maximum des points pouvant être obtenus, le candidat n’a pas fait preuve d’une
 connaissance adéquate de la langue dans laquelle il a passé l’épreuve (. . .)2 et partant n’est pas admissible à «un emploi communal
 sous le statut du fonctionnaire communal»4.
-\5. Les décisions concernant chaque candidat sont prises par les membres du comité d’évaluation qui ont évalué les épreuves
+5\. Les décisions concernant chaque candidat sont prises par les membres du comité d’évaluation qui ont évalué les épreuves
 du candidat « et documentées sous forme de procès-verbal »1.
 (. . .)3
 (Règl. g.-d. du 12 juin 2020)
@@ -27708,58 +27708,58 @@ Version consolidée applicable au 1er juillet 2023
 Sont désignés comme emplois dans les administrations communales, syndicats de communes et établissements publics placés
 sous la surveillance des communes comportant une participation, directe ou indirecte, à l’exercice de la puissance publique et aux
 fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public:
-1.
+1\.
 
 les fonctions de secrétaire général adjoint, de secrétaire général et de secrétaire-administrateur général;
 
-2.
+2\.
 
 les fonctions de receveur général;
 
-3.
+3\.
 
 les fonctions de secrétaire communal et de secrétaire-rédacteur;
 
-4.
+4\.
 
 les fonctions de receveur communal;
 
-5.
+5\.
 
 les fonctions de garde champêtre.
 
 (Règl. g.-d. du 25 mai 2023)
 « 6. les fonctions d’agent municipal qui constate les infractions qui peuvent faire l’objet de sanctions administratives communales et les fonctions d’agent municipal qui remplit les conditions de l’article 15-1bis du Code de procédure pénale. »
 Le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux est modifié comme suit:
-1.
+1\.
 
 A l’article 2, alinéa 1er, les termes «à durée indéterminée et pour une tâche égale ou supérieure à 25 pour cent d’une tâche
 complète», sont remplacés par les termes «pour une tâche complète ou partielle et à durée déterminée ou i­ndéterminée».
 
-2.
+2\.
 
 A l’article 3, alinéa 1er, le point a) est remplacé comme suit:
 «a) être ressortissant d’un Etat membre de l’Union Européenne;».
 
-3.
+3\.
 
 A l’article 3, alinéa 1er, au point e) le terme «adéquate» est remplacé par les termes «adaptée au niveau de carrière».
 
-4.
+4\.
 
 Le deuxième alinéa de l’article 3 est abrogé.
 
-5.
+5\.
 
 A l’article 6, au paragraphe 1., le point a) est remplacé comme suit:
 «a) de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».
 
-6.
+6\.
 
 Au deuxième alinéa du paragraphe 2. de l’article 6, le mot «luxembourgeoise» est remplacé par les termes «de l’un des
 Etats membres de l’Union Européenne».
 
-7.
+7\.
 
 L’alinéa 1er du premier paragraphe de l’article 8 est remplacé comme suit:
 «1. Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de
@@ -27768,17 +27768,17 @@ de pension des fonctionnaires communaux s’il remplit une des conditions suivan
 a) s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée;
 b) à partir de l’âge de cinquante-cinq ans.»
 
-8.
+8\.
 
 A l’article 9, au paragraphe 1. sous le point c), le mot «luxembourgeoise» est remplacé par les termes «de l’un des Etats
 membres de l’Union Européenne».
 
-9.
+9\.
 
 A l’article 9, au paragraphe 1. sous le point d), le mot «luxembourgeoise» est remplacé par les termes «de l’un des Etats
 membres de l’Union Européenne».
 
-\10. A l’article 9, au paragraphe 1., il est ajouté un nouvel point e), libellé comme suit:
+10\. A l’article 9, au paragraphe 1., il est ajouté un nouvel point e), libellé comme suit:
 «e) les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces ­périodes
 se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou
 de l’Etat, lorsqu’il y a reprise de service ultérieure.»
@@ -27923,8 +27923,8 @@ par jour et à vingt heures par semaine, et en cas de service à temps partiel �
 heures par semaine.
 Toutefois, en cas de «service à temps partiel à durée déterminée» ou de service à temps partiel presté conformément à l’article
 34 ­paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, toute autre répartition pourra être convenue avec le collège échevinal.
-\2. Si les nécessités du service l’exigent, le collège des bourgmestre et échevins, après consultation de la délégation du personnel, pourra fixer autrement la répartition du temps de travail.
-\3. Le collège des bourgmestre et échevins, après consultation de la délégation du personnel, peut autoriser les f­onctionnaires
+2\. Si les nécessités du service l’exigent, le collège des bourgmestre et échevins, après consultation de la délégation du personnel, pourra fixer autrement la répartition du temps de travail.
+3\. Le collège des bourgmestre et échevins, après consultation de la délégation du personnel, peut autoriser les f­onctionnaires
 à travailler selon un horaire mobile.
 Le cas échéant, les dispositions visées au présent paragraphe sont applicables, par analogie et en tenant compte de leur durée
 normale de travail, aux agents bénéficiant d’un «service à temps partiel à durée déterminée» de même qu’aux agents bénéficiant
@@ -27942,10 +27942,10 @@ en question et de trente-cinq jours ouvrables pour l’agent qui atteint l’âg
 A partir du 1er janvier 2009, la durée du congé est de trente-deux jours ouvrables par année de congé. Toutefois, elle est de
 trente-quatre jours ouvrables à partir du 1er janvier de l’année au cours de laquelle le fonctionnaire atteint l’âge de cinquante ans
 et de trente-six jours ouvrables à partir du 1er janvier de l’année au cours de laquelle l’agent atteint l’âge de cinquante-cinq ans.»
-\2. Sont jours ouvrables tous les jours de la semaine, à l’exception du dimanche et du samedi.
+2\. Sont jours ouvrables tous les jours de la semaine, à l’exception du dimanche et du samedi.
 Pour le fonctionnaire occupé à temps complet la semaine de congé est mise en compte, quelle que soit la répartition du travail
 hebdomadaire, à raison de cinq jours ouvrables.
-\3. Pour les fonctionnaires occupés à temps partiel les durées visées au paragraphe premier ci-dessus sont réduites en ­proportion
+3\. Pour les fonctionnaires occupés à temps partiel les durées visées au paragraphe premier ci-dessus sont réduites en ­proportion
 du degré d’occupation.
 Les fractions de jour inférieures à une demi-journée sont comptées pour une demi-journée, les fractions de jour supérieures à
 une demi-journée sont comptées pour une journée entière.
@@ -28033,7 +28033,7 @@ hiérarchique et solliciter un congé pour raisons de santé. Ce congé est acco
 période de trois jours consécutifs au plus.
 Pour toute incapacité de travail dépassant trois jours le fonctionnaire doit présenter un certificat mentionnant la durée de l’incapacité de travail, le lieu de traitement (domicile ou hôpital) et, le cas échéant, les heures de sortie.
 Le certificat médical prend cours le jour de sa délivrance.
-\2. Le premier certificat médical ne doit en principe pas dépasser une durée de cinq jours, à moins que, soit la nature de la maladie, soit une hospitalisation, ne nécessitent la prescription d’une durée plus longue.
+2\. Le premier certificat médical ne doit en principe pas dépasser une durée de cinq jours, à moins que, soit la nature de la maladie, soit une hospitalisation, ne nécessitent la prescription d’une durée plus longue.
 En cas de prolongation de l’incapacité de travail au-delà de cinq jours, une nouvelle consultation médicale est de rigueur.
 Art. 17.
 Si le fonctionnaire s’absente pendant plus de trois jours consécutifs sans présenter le certificat médical requis, toute l­’absence
@@ -28100,7 +28100,7 @@ d’accueil, d’une dispense de travail pour femmes enceintes ou allaitantes, d
 (6) Dans les cas où le congé pour raisons de santé se prolonge au-delà d’une période de six semaines consécutives, le médecin
 de contrôle peut, à partir du quarante-troisième jour, sur demande écrite du fonctionnaire et avec l’accord du collège des bourgmestre et échevins, dispenser d’une ou de plusieurs restrictions de sortie prévues au présent article.»
 Art. 23.
-\1. Est passible d’une peine disciplinaire le fonctionnaire convaincu:
+1\. Est passible d’une peine disciplinaire le fonctionnaire convaincu:
 –
 
 d’avoir simulé une incapacité de travail ou d’avoir fait prolonger son congé pour raisons de santé alors que sa santé était
@@ -28118,7 +28118,7 @@ de s’être soustrait, à dessein, au contrôle ordonné conformément à l’a
 
 d’avoir enfreint les prescriptions de l’article 22 ci-dessus.
 
-\2. L’article 14, n° 3 de la loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est applicable aux cas
+2\. L’article 14, n° 3 de la loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux est applicable aux cas
 visés au paragraphe premier du présent article.
 Art. 24.
 Le fonctionnaire qui est éloigné de son service et confiné, soit dans sa demeure, soit dans un autre endroit, par mesure prophylactique et sur décision de l’inspection sanitaire à raison d’un risque de contagion, est considéré comme étant en congé pour
@@ -28132,11 +28132,11 @@ congé de récréation.»
 
 Chapitre VI.- Congé de compensation
 Art. 26.
-\1. Un congé supplémentaire, dit de compensation, est accordé au fonctionnaire qui est appelé à être de service pendant les
+1\. Un congé supplémentaire, dit de compensation, est accordé au fonctionnaire qui est appelé à être de service pendant les
 heures de chômage général. Il en est de même dans les cas visés à l’article 15 ci-dessus sous 3°, 4° et 5°.
-\2. De même un congé de compensation est accordé au fonctionnaire qui a été appelé à fournir des heures supplémentaires,
+2\. De même un congé de compensation est accordé au fonctionnaire qui a été appelé à fournir des heures supplémentaires,
 conformément à l’article 21 de la loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.
-\3. Le congé de compensation est accordé au fonctionnaire sur demande à adresser au collège des bourgmestre et échevins ou
+3\. Le congé de compensation est accordé au fonctionnaire sur demande à adresser au collège des bourgmestre et échevins ou
 au chef de service délégué à cet effet.
 La durée du congé de compensation est fixée en proportion des heures supplémentaires effectuées ou des heures de ­service
 prestées pendant les heures de chômage général.
@@ -28144,7 +28144,7 @@ Les heures pour lesquelles le fonctionnaire a touché ou touche une indemnité s
 \- 517 -
 
 Fonctionnaires communaux − Durée de travail - Congés - CET
-\4. Le collège des bourgmestre et échevins peut fixer des jours de congé de compensation collectifs, en précisant les ­catégories
+4\. Le collège des bourgmestre et échevins peut fixer des jours de congé de compensation collectifs, en précisant les ­catégories
 de fonctionnaires auxquelles elles s’appliquent.
 Art. 27.
 Si un jour férié légal ou de rechange coïncide avec un jour de la semaine pendant lequel le fonctionnaire n’aurait pas été obligé
@@ -28202,9 +28202,9 @@ Les congés extraordinaires sont considérés comme temps de travail.»
 \- 518 -
 
 Fonctionnaires communaux − Durée de travail - Congés - CET
-\2. Un congé exceptionnel d’une demi-journée est accordé au fonctionnaire chaque fois qu’il est appelé par la Croix Rouge
+2\. Un congé exceptionnel d’une demi-journée est accordé au fonctionnaire chaque fois qu’il est appelé par la Croix Rouge
 Luxembourgeoise à donner son sang.
-\3. Dans des cas exceptionnels non spécialement prévus par le présent règlement, le collège des bourgmestre et ­échevins, le chef
+3\. Dans des cas exceptionnels non spécialement prévus par le présent règlement, le collège des bourgmestre et ­échevins, le chef
 du service ou celui qui le remplace peuvent accorder, si l’intérêt du service le permet, au fonctionnaire un congé de ­convenances
 personnelles. Si la durée de ce congé est supérieure à quatre heures, il est imputé sur le congé annuel de ­récréation.
 (Règl. g.-d. du 31 août 2018)
@@ -28241,7 +28241,7 @@ la période pour laquelle il est désiré. La demande relative à ce congé doit
 l’expiration du congé de maternité, du congé d’accueil ou du congé parental.
 Entre le congé de maternité, le congé d’accueil ou le congé parental, d’une part, et le congé sans traitement visé par le présent
 paragraphe d’autre part, ne peut être intercalée aucune période d’activité de service, à l’exception d’un congé de récréation.
-\2. Le congé sans traitement visé à l’article 31, paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des
+2\. Le congé sans traitement visé à l’article 31, paragraphe 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des
 fonctionnaires communaux est demandé et accordé par années entières ou par mois entiers, et en une seule fois pour toute la
 période pour laquelle il est désiré. La demande relative au congé sans traitement visé par le présent paragraphe doit parvenir au
 collège échevinal au moins deux mois avant la date à partir de laquelle il est sollicité.
@@ -28264,14 +28264,14 @@ le fonctionnaire.»2 La durée de la formation que le fonctionnaire est tenu de 
 jours minimum. La détermination de la durée effective de la période de formation, qui varie en fonction de la durée du congé sans
 traitement dont bénéficie le fonctionnaire ainsi que des fonctions qu’il se propose de réintégrer, de même que le choix des cours
 auxquels il doit participer, incombe au collège échevinal.
-\3. Les congés sans traitement visés par le présent article peuvent prendre fin avant leur terme ou être renouvelés, une fois au
+3\. Les congés sans traitement visés par le présent article peuvent prendre fin avant leur terme ou être renouvelés, une fois au
 maximum, à la demande du fonctionnaire et si l’intérêt du service le permet. La demande relative au renouvellement ­respectivement
 à la fin anticipée du congé sans traitement doit parvenir au collège échevinal au moins un mois avant la date initialement prévue
 pour la fin du congé respectivement avant la date souhaitée de l’interruption.
 Pour les fonctionnaires de l’enseignement, les congés sans traitement visés par le présent article sont accordés de façon à ce
 qu’ils coïncident avec le début d’un trimestre scolaire, le cas échéant par prorogation au-delà de la limite fixée aux alinéas 1ers des
 paragraphes 1 et 2 ci-dessus.
-\4. Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des congés sans traitement sont prises par le collège
+4\. Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des congés sans traitement sont prises par le collège
 des bourgmestre et échevins.»
 
 «Chapitre XI.- «Services à temps partiel à durée déterminée»1
@@ -28283,7 +28283,7 @@ seule fois pour toute la période pour laquelle il est désiré. La demande rela
 un mois avant l’expiration du congé de maternité, du congé d’accueil, du congé sans traitement ou du congé parental.
 Entre le congé de maternité, le congé d’accueil ou le congé parental d’une part, et le «service à temps partiel à durée déterminée» visé par le présent paragraphe d’autre part, ne peut être intercalée aucune période d’activité de service, à l’exception d’un
 congé de ­récréation.
-\2. Le «service à temps partiel à durée déterminée» visé par l’article 32, paragraphe 2 de la loi modifiée du 24 décembre 1985
+2\. Le «service à temps partiel à durée déterminée» visé par l’article 32, paragraphe 2 de la loi modifiée du 24 décembre 1985
 fixant le statut général des fonctionnaires communaux est demandé et accordé par années entières ou par mois entiers, et en une
 seule fois pour toute la période pour laquelle il est désiré.
 La demande relative au «service à temps partiel à durée déterminée» visé par le présent paragraphe doit parvenir au collège
@@ -28292,7 +28292,7 @@ La décision relative à l’octroi du congé doit être notifiée au fonctionna
 délégué(e) à l’égalité entre femmes et hommes au plus tard deux semaines avant la date à partir de laquelle le congé est sollicité.
 En cas de rejet total ou partiel de la demande, la décision doit être motivée, le fonctionnaire ayant le droit d’être entendu en ses
 explications.
-\3. Le «service à temps partiel à durée déterminée» ne peut en aucun cas être accordé jusqu’à la date de la mise à la retraite
+3\. Le «service à temps partiel à durée déterminée» ne peut en aucun cas être accordé jusqu’à la date de la mise à la retraite
 du fonctionnaire.
 Les «services à temps partiel à durée déterminée»1 visés par le présent article peuvent prendre fin avant leur terme ou être
 renouvelés, une fois au maximum, à la demande du fonctionnaire et si l’intérêt du service le permet. La demande relative au renouvellement respectivement à la fin anticipée du «service à temps partiel à durée déterminée» doit parvenir au collège échevinal au
@@ -28300,11 +28300,11 @@ moins un mois avant la date initialement prévue pour la fin du congé respectiv
 les fonctionnaires de l’enseignement, les «services à temps partiel à durée déterminée»1 visés par le présent article sont accordés
 de façon à ce que leur fin coïncide avec le début d’un trimestre scolaire, le cas échéant par prorogation au-delà de la limite fixée
 aux alinéas 1ers des paragraphes 1 et 2 ci-dessus.
-\4. Le fonctionnaire bénéficiaire d’un «service à temps partiel à durée déterminée» est tenu d’accomplir, conformément à un
+4\. Le fonctionnaire bénéficiaire d’un «service à temps partiel à durée déterminée» est tenu d’accomplir, conformément à un
 horaire arrêté par le collège échevinal, l’intéressé entendu en ses observations, des prestations d’une durée égale à la moitié de
 la durée de travail normale. Il touche la moitié du traitement normal. Sont calculés sur cette moitié les prélèvements et cotisations
 sociales obligatoires.
-\5. Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des «services à temps partiel à durée déterminée»1
+5\. Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des «services à temps partiel à durée déterminée»1
 sont prises par le collège des bourgmestre et échevins.»
 
 Remplacé par le règl. g.-d. du 12 septembre 2019.
@@ -28338,11 +28338,11 @@ Les membres de la commission de conciliation et du conseil de discipline, prévu
 conditions de dispenses de service et d’un congé syndical spécial de quatre heures par affaire, jusqu’à concurrence de six jours
 par an.
 Art. 37.
-\1. Les rémunérations relatives aux congés syndicaux et dispenses de service visés par les articles 33 et 36 du présent ­règlement
+1\. Les rémunérations relatives aux congés syndicaux et dispenses de service visés par les articles 33 et 36 du présent ­règlement
 sont remboursés aux administrations intéressées, à charge du fonds des dépenses communales.
 Les montants sont calculés sur la base de la rémunération horaire moyenne du fonctionnaire intéressé pendant l’année qui
 précède l’année des congés.
-\2. Les congés et dispenses de service prévus par les articles 33, 35 et 37 du présent règlement et dont le fonctionnaire n’a pas
+2\. Les congés et dispenses de service prévus par les articles 33, 35 et 37 du présent règlement et dont le fonctionnaire n’a pas
 profité au cours de l’année civile à laquelle ils se rapportent, ne peuvent pas être reportés sur une période postérieure.
 
 Chapitre XIII.- Congé sportif
@@ -28378,7 +28378,7 @@ portant institution d’un congé «coopération au développement».»
 (Règl. g.-d. du 19 juin 2009)
 «Chapitre XVII.- Congé individuel de formation
 Art. 42.
-\1. Le congé individuel de formation visé à l’article 29, paragraphe 1er, sous le point q) de la loi modifiée du 24 décembre 1985
+1\. Le congé individuel de formation visé à l’article 29, paragraphe 1er, sous le point q) de la loi modifiée du 24 décembre 1985
 fixant le statut général des fonctionnaires communaux et appelé par la suite «congé-formation» est destiné à permettre à l’agent
 de parfaire ses compétences personnelles dans des domaines en relation avec ses attributions et ses missions au sein de son
 administration ou dans d’autres domaines susceptibles de promouvoir son développement professionnel. A cet effet l’agent peut
@@ -28391,7 +28391,7 @@ communes, à ceux des fonctionnaires de l’Etat et aux articles 17, 20 et 23 du
 concernant la rémunération des employés communaux.
 Ne sont pas à considérer comme faisant partie du congé-formation les périodes de formation à accomplir par l’agent pendant
 son service provisoire préparant à un examen d’admission définitive ainsi que les jours de formation préparant à l’examen de promotion ou à d’autres examens de carrière conformément aux dispositions légales et réglementaires en vigueur.
-\2. Sont éligibles pour l’obtention du congé-formation, les formations dispensées ou organisées soit au Grand-Duché de Luxembourg, soit à l’étranger:
+2\. Sont éligibles pour l’obtention du congé-formation, les formations dispensées ou organisées soit au Grand-Duché de Luxembourg, soit à l’étranger:
 –
 
 par le Ministère de l’Education nationale et de la Formation professionnelle, l’Institut national d’administration publique et
@@ -28407,7 +28407,7 @@ certificats reconnus par ces mêmes autorités;
 
 par les chambres professionnelles.
 
-\3. La durée totale du congé-formation est fixée à quatre-vingt jours pour chaque bénéficiaire au cours de sa carrière ­professionnelle.
+3\. La durée totale du congé-formation est fixée à quatre-vingt jours pour chaque bénéficiaire au cours de sa carrière ­professionnelle.
 Le nombre maximal de jours de congé-formation attribuable est de vingt jours sur une période de deux ans, chaque période biannuelle commençant avec l’année de la première prise de congé. Le congé peut être fractionné, la durée minimale du
 ­congé-formation étant de 0,5 jour.
 Pour les agents occupés à temps partiel ou bénéficiant d’un «service à temps partiel à durée déterminée», les jours de congé
@@ -28418,7 +28418,7 @@ Le nombre total de jours de congé-formation auquel peut prétendre le bénéfic
 dans la formation. Ce nombre d’heures est soit défini par l’organisme de formation, soit déterminé sur base des horaires de cours
 des écoles et instituts de formation. Le nombre d’heures investies est converti en nombre de journées de travail en ­divisant le
 nombre de ces heures par huit.
-\4. Le congé-formation est sollicité par l’agent concerné et accordé par le collège des bourgmestre et échevins. Toutefois le collège des bourgmestre et échevins peut exiger la participation d’un agent à une formation à chaque fois qu’il estime que celle-ci est
+4\. Le congé-formation est sollicité par l’agent concerné et accordé par le collège des bourgmestre et échevins. Toutefois le collège des bourgmestre et échevins peut exiger la participation d’un agent à une formation à chaque fois qu’il estime que celle-ci est
 en relation étroite avec les missions de l’administration ou avec les attributions de l’agent.
 La demande en obtention du congé est à établir par l’agent et doit parvenir au collège des bourgmestre et échevins au moins six
 semaines avant la date à partir de laquelle il est sollicité.
@@ -28467,18 +28467,18 @@ En cas de rejet de la demande par le collège des bourgmestre et échevins, la d
 la réception de la demande.
 En cas de rejet de la demande par le ministre de l’Intérieur, la décision doit être motivée par écrit et communiquée à l’agent visé,
 l’intéressé ayant le droit d’être entendu en ses explications.
-\5. Par dérogation au paragraphe 3 ci-dessus, et dans des cas exceptionnels dûment motivés, notamment dans des cas de formation de longue durée à effectuer dans l’intérêt de service, la durée totale du congé-formation peut être prolongée au-delà des
+5\. Par dérogation au paragraphe 3 ci-dessus, et dans des cas exceptionnels dûment motivés, notamment dans des cas de formation de longue durée à effectuer dans l’intérêt de service, la durée totale du congé-formation peut être prolongée au-delà des
 quatre-vingt jours prévus par une décision du collège des bourgmestre et échevins qui fixe la durée exacte du ­congé-formation à
 mettre en compte.
-\6. A la fin de la formation, l’agent est tenu de fournir au collège des bourgmestre et échevins la preuve qu’il a bien utilisé le congé
+6\. A la fin de la formation, l’agent est tenu de fournir au collège des bourgmestre et échevins la preuve qu’il a bien utilisé le congé
 à la finalité pour laquelle il a été sollicité en présentant notamment une certification établie par l’institution ayant assuré la formation
 dont il ressort que l’agent a effectivement suivi pendant sa période de congé-formation l’intégralité de la formation prévue et qu’il
 s’est soumis à toutes les conditions de formation et, le cas échéant, de contrôles des connaissances prescrites.
-\7. L’agent qui bénéficie d’un congé-formation et qui pour des raisons personnelles ou indépendantes de sa volonté décide de
+7\. L’agent qui bénéficie d’un congé-formation et qui pour des raisons personnelles ou indépendantes de sa volonté décide de
 mettre un terme à ce congé avant même le délai d’expiration normal est tenu d’en informer immédiatement le collège des bourgmestre et échevins en lui fournissant les motifs à la base de sa décision.
 Dans ce cas, seul le nombre de journées de travail effectivement presté dans le cadre du congé-formation initialement accordé
 est imputé sur les quatre-vingts jours de congé-formation tels qu’ils sont définis au paragraphe 3 ci-dessus.
-\8. L’agent qui bénéficie d’un congé-formation ne touche pas d’allocation de frais de route et de séjour du chef de sa participation
+8\. L’agent qui bénéficie d’un congé-formation ne touche pas d’allocation de frais de route et de séjour du chef de sa participation
 à des formations nécessitant des déplacements de sa part et ceci pour toute la durée du congé visé.
 Toutefois si le congé individuel concerne une formation qui est suivie dans l’intérêt du service et que le déplacement hors du lieu
 de résidence officielle de l’agent a été ordonné par le collège des bourgmestre et échevins, les frais de route et de séjour sont dus
@@ -28487,10 +28487,10 @@ des fonctionnaires des communes, syndicats de communes et établissements public
 à ceux des fonctionnaires de l’Etat.»
 «Chapitre XVIII»1.- Dispositions finales
 «Art. 43».1
-\1. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
-\2. Tous les congés prévus par le présent règlement sont accordés par le collège des bourgmestre et échevins.
+1\. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
+2\. Tous les congés prévus par le présent règlement sont accordés par le collège des bourgmestre et échevins.
 Ce dernier peut déléguer tout ou partie de ce pouvoir à un ou à plusieurs chefs de service.
-\3. Lorsque l’intérêt du service l’exige, les dispositions du présent règlement peuvent être complétées par des instructions plus
+3\. Lorsque l’intérêt du service l’exige, les dispositions du présent règlement peuvent être complétées par des instructions plus
 détaillées du collège des bourgmestre et échevins.
 Ces instructions sont soumises à l’avis de la délégation du personnel (. . .)2.
 «Art. 44».1
@@ -28537,7 +28537,7 @@ Par dérogation à l’alinéa qui précède ne sont pas à considérer comme he
 de travail résultant de déplacements de service et faisant l’objet d’une rémunération sur la base de la réglementation sur les frais
 de route et de séjour.
 Art. 3.
-\1. Par cas d’urgence au sens du paragraphe premier, alinéa premier, de l’article 21 de la loi modifiée du 24 décembre 1985 fixant
+1\. Par cas d’urgence au sens du paragraphe premier, alinéa premier, de l’article 21 de la loi modifiée du 24 décembre 1985 fixant
 le statut général des fonctionnaires communaux on comprend:
 a)
 
@@ -28552,21 +28552,21 @@ c)
 
 Les travaux qui s’imposent dans l’intérêt public à la suite d’événements exceptionnels et imprévisibles.
 
-\2. Par surcroît exceptionnel de travail au sens du paragraphe premier, alinéa premier, précité, il faut comprendre des travaux
+2\. Par surcroît exceptionnel de travail au sens du paragraphe premier, alinéa premier, précité, il faut comprendre des travaux
 extraordinaires prévisibles.
 
 Chapitre III.- Modalités
 Art. 4.
-\1. Dans les cas prévus au paragraphe premier de l’article 3 du présent règlement l’autorisation d’effectuer les heures
+1\. Dans les cas prévus au paragraphe premier de l’article 3 du présent règlement l’autorisation d’effectuer les heures
 ­supplémentaires est accordée par le bourgmestre ou par celui qui le remplace.
-\2. Dans les cas prévus par le paragraphe 2 de l’article 3 du présent règlement l’autorisation est accordée par le collège des
+2\. Dans les cas prévus par le paragraphe 2 de l’article 3 du présent règlement l’autorisation est accordée par le collège des
 bourgmestre et échevins pour une durée renouvelable de six mois.
-\3. Toutefois pour les fonctionnaires classés aux grades 10 et supérieurs l’autorisation est accordée dans tous les cas par le
+3\. Toutefois pour les fonctionnaires classés aux grades 10 et supérieurs l’autorisation est accordée dans tous les cas par le
 collège des bourgmestre et échevins.
 
 Chapitre IV.- Indemnisation des heures supplémentaires
 Art. 5.
-\1. Les heures supplémentaires sont indemnisées sur la base d’un taux horaire égal à un cent soixante treizième du t­raitement
+1\. Les heures supplémentaires sont indemnisées sur la base d’un taux horaire égal à un cent soixante treizième du t­raitement
 mensuel brut du fonctionnaire.
 Pour les heures supplémentaires prestées le dimanche il est versé un supplément de quarante pour-cent.
 Pour les heures supplémentaires prestées un jour férié légal ou un jour férié de rechange, le supplément est fixé à soixante-dix
@@ -28578,11 +28578,11 @@ Base légale: Loi modifiée du 24 décembre 1985 fixant le statut général des 
 
 Fonctionnaires communaux − Heures supplémentaires - Astreintes à domicile
 Si les heures supplémentaires sont prestées entre vingt-deux heures et six heures, les taux prévus aux trois alinéas qui précèdent sont augmentés de vingt pour-cent.
-\2. Pour le fonctionnaire ayant accompli sa tâche hebdomadaire de travail et astreint à fournir des heures supplémentaires le
+2\. Pour le fonctionnaire ayant accompli sa tâche hebdomadaire de travail et astreint à fournir des heures supplémentaires le
 samedi le supplément est celui prévu pour le dimanche.
-\3. Si des heures supplémentaires sont compensées par un congé de compensation, seuls les suppléments éventuellement dus
+3\. Si des heures supplémentaires sont compensées par un congé de compensation, seuls les suppléments éventuellement dus
 sont payés.
-\4. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
+4\. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
 
 Chapitre V.- Astreinte à domicile
 Art. 6.
@@ -28590,20 +28590,20 @@ Le fonctionnaire soumis à astreinte à domicile bénéficie d’un congé de co
 ou de nuit indépendamment du fait qu’il y ait eu intervention ou non.
 Si, pour des raisons de service, une compensation s’avère impossible, il est accordé une indemnité fixée comme suit:
 A) Astreintes de nuit (entre dix-neuf et sept heures):
-1)
+1\)
 
 Les jours ouvrables: «0,62 euros»1 au nombre-indice cent par astreinte;
 
-2)
+2\)
 
 Les samedis, les dimanches et les jours fériés: «1,24 euros»1 au nombre indice cent par astreinte.
 B) Astreintes de jour (de sept à dix-neuf heures):
 
-1)
+1\)
 
 Les jours ouvrables: «0,62 euros»1 au nombre-indice cent par astreinte;
 
-2)
+2\)
 
 Les samedis, les dimanches et les jours fériés: «1,24 euros»1 au nombre-indice cent par astreinte.
 
@@ -28640,47 +28640,47 @@ Il est constitué pour chaque fonctionnaire un dossier personnel au bureau du pe
 personnel le dossier est constitué au secrétariat communal.
 Le dossier personnel doit contenir, pour autant qu’ils existent, les documents énumérés ci-après ou une copie conforme de ces
 documents:
-1.
+1\.
 
 l’extrait de l’acte de naissance;
 
-2.
+2\.
 
 les certificats d’études et les diplômes se rapportant à la carrière de l’intéressé;
 
-3.
+3\.
 
 le certificat de nationalité;
 
-4.
+4\.
 
 l’extrait du casier judiciaire;
 
-5.
+5\.
 
 le certificat médical;
 
-6.
+6\.
 
 les résultats des examens auxquels l’intéressé s’est présenté au cours de sa carrière;
 
-7.
+7\.
 
 les délibérations, les décisions et la correspondance concernant la carrière de l’intéressé;
 
-8.
+8\.
 
 les certificats relatifs aux cours et stages spéciaux;
 
-9.
+9\.
 
 les décisions relatives à la validation des périodes de service antérieures;
 
-\10. les pièces relatives à la situation de famille de l’agent;
-\11. les fiches de traitement;
-\12. la correspondance relative aux congés pour raisons de santé;
-\13. la décision concernant la démission ou, le cas échéant, l’acte de décès;
-\14. la décision accordant la pension.
+10\. les pièces relatives à la situation de famille de l’agent;
+11\. les fiches de traitement;
+12\. la correspondance relative aux congés pour raisons de santé;
+13\. la décision concernant la démission ou, le cas échéant, l’acte de décès;
+14\. la décision accordant la pension.
 Art. 3.
 (Règl. g.-d. du 11 septembre 2006)
 «Sont à insérer de même dans le dossier personnel tous les documents relatifs à des ordres de justification, à des décisions
@@ -28886,18 +28886,18 @@ Avant d’ouvrir les bulletins le président les entremêle.
 Les deux assesseurs font séparément le recensement des suffrages et en tiennent note, chacun séparément.
 (5) Les bulletins nuls n’entrent point en ligne de compte pour fixer le nombre des voix.
 Sont nuls:
-1.
+1\.
 
 tous les bulletins autres que ceux qui ont été remis aux électeurs par le président du bureau électoral;
 \- 533 -
 
 Fonctionnaires communaux - Délégations du personnel
-2.
+2\.
 
 les bulletins qui expriment plus de suffrages qu’il n’y a de délégués à élire et ceux qui ne contiennent l’expression d’aucun
 suffrage;
 
-3.
+3\.
 
 les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconques.
 
@@ -29052,16 +29052,16 @@ Le suffrage exprimé dans la case figurant en tête d’une liste compte pour au
 Les deux assesseurs font séparément le recensement des suffrages et en tiennent note, chacun séparément.
 (6) Les bulletins nuls n’entrent point en ligne de compte pour fixer le nombre des voix.
 Sont nuls:
-1.
+1\.
 
 tous les bulletins autres que ceux qui ont été remis aux électeurs par le président du bureau électoral;
 
-2.
+2\.
 
 les bulletins qui expriment plus de suffrages qu’il n’y a de délégués à élire et ceux qui ne contiennent l’expression d’aucun
 suffrage;
 
-3.
+3\.
 
 les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
 
@@ -29191,25 +29191,25 @@ installations de l’administration communale, après accord du collège des bou
 de cette utilisation.»
 (Règl. g.-d. du 11 septembre 2006)
 «Art. 32. Organisation des travaux de la délégation.
-\1. Pour les matières où l’avis de la délégation du personnel est obligatoire en vertu de l’article 47, paragraphe 1, alinéa 2,
+1\. Pour les matières où l’avis de la délégation du personnel est obligatoire en vertu de l’article 47, paragraphe 1, alinéa 2,
 quatrième tiret de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, la délégation doit
 être consultée dès le stade de l’élaboration du texte. Elle doit recevoir la documentation complète pour autant qu’elle n’ait pas un
 caractère secret, à juger par le collège échevinal et elle doit disposer d’un délai approprié pour l’examen approfondi de la matière.
-\2. Un calendrier des entretiens réguliers entre la délégation du personnel et le collège des bourgmestre et échevins est établi
+2\. Un calendrier des entretiens réguliers entre la délégation du personnel et le collège des bourgmestre et échevins est établi
 annuellement, et au plus tard pour le 15 décembre de l’année précédant celle qu’il concerne. Ce calendrier fixe au moins deux
 dates d’entretiens par an.
 Le collège des bourgmestre et échevins ou son délégué reçoit en outre et dans la mesure du possible, les représentants du
 personnel chaque fois que ceux-ci lui en adressent une demande motivée.
-\3. La délégation du personnel et le collège des bourgmestre et échevins sont tenus de rechercher dans tous les cas des solutions susceptibles de tenir compte tant des intérêts du personnel que des intérêts du service et du public.
-\4. Dans l’hypothèse où après une deuxième prise de position de chaque partie, il existe des questions pour lesquelles une solution de compromis n’est pas possible, celles-ci sont soumises par la partie la plus diligente au ministre de l’Intérieur qui décidera
+3\. La délégation du personnel et le collège des bourgmestre et échevins sont tenus de rechercher dans tous les cas des solutions susceptibles de tenir compte tant des intérêts du personnel que des intérêts du service et du public.
+4\. Dans l’hypothèse où après une deuxième prise de position de chaque partie, il existe des questions pour lesquelles une solution de compromis n’est pas possible, celles-ci sont soumises par la partie la plus diligente au ministre de l’Intérieur qui décidera
 définitivement et sans recours.
-\5. Les attributions de la délégation du personnel en matière d’égalité de traitement entre les agents du sexe féminin et ceux du
+5\. Les attributions de la délégation du personnel en matière d’égalité de traitement entre les agents du sexe féminin et ceux du
 sexe masculin sont fixées par les dispositions du règlement grand-ducal fixant les modalités de désignation, les droits et les devoirs
 des délégués à l’égalité entre femmes et hommes au sein des communes, syndicats de communes et établissements publics placés sous la surveillance des communes.
-\6. En vue de l’accomplissement des missions confiées à la délégation par l’article 47 du statut général des fonctionnaires communaux, à l’exception de celle figurant au présent article, sub 1., le collège des bourgmestre et échevins lui fournit, à la première
+6\. En vue de l’accomplissement des missions confiées à la délégation par l’article 47 du statut général des fonctionnaires communaux, à l’exception de celle figurant au présent article, sub 1., le collège des bourgmestre et échevins lui fournit, à la première
 demande, la documentation existante et complète pour autant qu’elle n’ait pas un caractère confidentiel ou secret, à juger par le
 collège échevinal.
-\7. Le collège des bourgmestre et échevins tient compte, dans la mesure du possible, des propositions écrites que la ­délégation
+7\. Le collège des bourgmestre et échevins tient compte, dans la mesure du possible, des propositions écrites que la ­délégation
 du personnel lui soumet. Le cas échéant, la disposition figurant au point 4 ci-dessus est applicable.»
 «Art. 33.»1 Délégations de service.
 Sur requête de la délégation du personnel, requête à présenter dans les deux mois de son installation, le collège des ­bourgmestre
@@ -29353,7 +29353,7 @@ régime de pension des fonctionnaires communaux.
 Pour les indemnités des employés communaux ne bénéficiant pas encore du régime de pension des fonctionnaires ­communaux
 la valeur du point indiciaire est fixée identiquement à celle prévue pour les employés de l’Etat ne bénéficiant pas encore du régime
 de pension des fonctionnaires de l’Etat.
-\2. Les éléments pensionnables des traitements des fonctionnaires et des indemnités des employés communaux qui ­bénéficient
+2\. Les éléments pensionnables des traitements des fonctionnaires et des indemnités des employés communaux qui ­bénéficient
 du régime de pension des fonctionnaires communaux font l’objet d’une retenue pour pension dont le taux est fixé comme suit:
 –
 
@@ -29379,7 +29379,7 @@ Les retenues opérées sur les éléments pensionnables des traitements et indem
 (Règl. g.-d. du 31 octobre 1969)
 «3. Pour des prestations identiques le traitement du fonctionnaire de sexe féminin est égal à celui du fonctionnaire du sexe
 masculin.»
-\4. (supprimé par le règl. g.-d. du 16 juin 1973)
+4\. (supprimé par le règl. g.-d. du 16 juin 1973)
 Art. 3.
 (Règl. g.-d. du 12 octobre 2001)
 «Sans préjudice de l’application des dispositions des articles 4 et 7 et sous réserve de celles de l’article 17, section IX ci-après,
@@ -29411,19 +29411,19 @@ majoration de l’indice. Cette majoration est équivalente à la moitié arrond
 règlement.»
 (…) (Abrogé par le règl. g.-d. du 23 décembre 2014)
 Art. 5.
-\1. Sous réserve des dispositions de l’article 8, section I, paragraphe 1, alinéa 3 ci-après, le fonctionnaire qui bénéficie d’une
+1\. Sous réserve des dispositions de l’article 8, section I, paragraphe 1, alinéa 3 ci-après, le fonctionnaire qui bénéficie d’une
 promotion a droit, dans son nouveau grade, à l’échelon de traitement qui est immédiatement supérieur à son traitement ­augmenté
 d’une biennale de son ancien grade avant l’avancement.
 Si, dans son ancien grade, le fonctionnaire avait atteint le maximum, il aura droit, dans son nouveau grade, à l’échelon de traitement qui suit l’échelon immédiatement supérieur à son traitement avant l’avancement.
 (Règl. g.-d. du 12 octobre 2001)
 «Toutefois, si l’ancien traitement avant la promotion correspond à un indice majoré sur base de l’article 4.1. ci-dessus, le fonctionnaire bénéficie d’une promotion calculée en application des dispositions qui précèdent, majorée de l’indice calculé sur base de
 l’article 4.1 ci-dessus.»
-\2. Par promotion il faut entendre la nomination du fonctionnaire à une autre fonction qui est classée à un grade ­hiérarchiquement
+2\. Par promotion il faut entendre la nomination du fonctionnaire à une autre fonction qui est classée à un grade ­hiérarchiquement
 supérieur; pour l’application de cette disposition, la hiérarchie des grades est déterminée par les indices minima du tableau indiciaire de l’annexe B du présent règlement.
 (Règl. g.-d. du 15 mars 1974)
 «3. Dans l’hypothèse du paragraphe 1er ci-dessus, le temps que le fonctionnaire était resté dans son ancien échelon, est reporté
 dans l’échelon du nouveau grade, si toutefois l’ancien échelon n’était pas le dernier du grade.»
-\4. Sans préjudice du droit du fonctionnaire d’opter pour l’application des dispositions du paragraphe 1er ci-dessus, la ­nomination
+4\. Sans préjudice du droit du fonctionnaire d’opter pour l’application des dispositions du paragraphe 1er ci-dessus, la ­nomination
 du fonctionnaire dans une carrière, considérée comme sa carrière normale en raison de ses études ou de sa f­ormation professionnelle, est considérée comme première nomination dans sa carrière, même si le fonctionnaire avait accepté une nomination de
 fonctionnaire dans une autre carrière avant la nomination dans sa carrière normale; dans cette hypothèse les restrictions prévues
 à l’article 7, paragraphe 6 ci-après ne s’appliquent pas à la nomination dans la carrière normale.
@@ -29462,7 +29462,7 @@ un pour cent en 1998.»
 (Règl. g.-d. du 12 février 1971)
 «2. Le supplément personnel visé au paragraphe 1er ci-dessus diminue au fur et à mesure que le traitement augmente par
 l’accomplissement des conditions de stage, d’examen et d’années de service.»
-\3. (supprimé par le règl. g.-d. du 7 septembre 1987)
+3\. (supprimé par le règl. g.-d. du 7 septembre 1987)
 (Règl. g.-d. du 31 juillet 1986)
 «4. L’employé ou l’ouvrier visé au paragraphe 1 de la présente section et qui a été nommé à un grade supérieur au grade de
 début de sa nouvelle carrière, bénéficie en vue de ses avancements ultérieurs dans le cadre ouvert, prévu à l’article 15 du présent
@@ -29514,7 +29514,7 @@ par règlement grand-ducal, à prendre sur avis obligatoire du Conseil d’Etat.
 Ce règlement pourra déroger aux conditions d’études et de formation professionnelle prévues même par des lois existantes.»1
 (Règl. g.-d. du 19 juin 2009)
 «Art. 6quinquies.
-\1. Le fonctionnaire ainsi que l’employé communal qui réintègre le service dans l’une de ces qualités énumérées après l’avoir
+1\. Le fonctionnaire ainsi que l’employé communal qui réintègre le service dans l’une de ces qualités énumérées après l’avoir
 quitté pour des raisons autres que la mise à la retraite, peut obtenir un supplément personnel tenant compte de la différence entre
 son traitement ou indemnité barémiques dont il jouissait avant son départ et son traitement ou indemnité barémiques alloués au
 moment de sa réintégration.
@@ -29523,8 +29523,8 @@ des tableaux indiciaires de l’annexe B et des articles 4 paragraphe 1er, 16qua
 3, dernier alinéa) 17-VII, 17-VIII, 17-IX, 17-X, 17-XI, 17-XII et 19ter du présent règlement grand-ducal.
 Par indemnité barémique au sens du présent article il y a lieu d’entendre l’indemnité telle qu’elle résulte de l’application des
 tableaux indiciaires de l’annexe B du présent règlement grand-ducal et des articles 14, 16, 17, 19, 20, 22 et 23 du règlement grandducal modifié du 15 novembre 2001 concernant la rémunération des employés communaux.
-\2. Le supplément personnel visé au paragraphe 1er ci-dessus diminue au fur et à mesure que le traitement ou l’indemnité augmente par l’accomplissement des conditions de service provisoire, d’examen et d’années de service.
-\3. Les décisions pour l’application des paragraphes 1er et 2 ci-dessus sont prises sur demande de l’agent réintégré par le conseil
+2\. Le supplément personnel visé au paragraphe 1er ci-dessus diminue au fur et à mesure que le traitement ou l’indemnité augmente par l’accomplissement des conditions de service provisoire, d’examen et d’années de service.
+3\. Les décisions pour l’application des paragraphes 1er et 2 ci-dessus sont prises sur demande de l’agent réintégré par le conseil
 communal sous l’approbation du Ministre de l’Intérieur.»
 Bonification d’ancienneté de service pour la fixation du traitement initial
 Art. 7.
@@ -29532,7 +29532,7 @@ Art. 7.
 «1. L’âge de vingt et un ans est considéré comme âge fictif de début de carrière pour les fonctionnaires des carrières inférieures
 et moyennes, l’âge de vingt-cinq ans comme âge fictif de début de carrière pour les fonctionnaires des carrières supérieures. Toutefois l’âge fictif de début de carrière est fixé à dix-neuf ans pour les fonctionnaires des grades 1, 2, 3 et 4 de la rubrique I, administration générale, de l’annexe B du présent règlement.
 Pour la détermination des carrières inférieures, moyennes et supérieures il est renvoyé à l’annexe C du présent règlement.»
-\2. Lorsqu’un fonctionnaire obtient, après l’âge fictif de début de carrière, une nomination définitive au grade de début de sa carrière, il est tenu compte, pour le calcul de son traitement initial, de la différence entre son âge réel au moment de la nomination et
+2\. Lorsqu’un fonctionnaire obtient, après l’âge fictif de début de carrière, une nomination définitive au grade de début de sa carrière, il est tenu compte, pour le calcul de son traitement initial, de la différence entre son âge réel au moment de la nomination et
 l’âge fictif de début de sa carrière.
 Cette différence lui est bonifiée comme ancienneté de service:
 a)
@@ -29561,9 +29561,9 @@ Voir rubrique «Changement de carrière 606».
 \- 546 -
 
 Fonctionnaires communaux - Traitements
-\3. Pour la détermination de l’âge fictif de début de carrière et de l’âge réel, l’anniversaire de la naissance qui tombe à une date
+3\. Pour la détermination de l’âge fictif de début de carrière et de l’âge réel, l’anniversaire de la naissance qui tombe à une date
 autre que le premier du mois est reporté au premier du mois suivant. Il en est de même des autres dates qui sont prises en considération pour calculer la bonification d’ancienneté.
-\4. Lorsqu’un fonctionnaire obtient sa première nomination dans sa carrière à un grade qui n’est pas considéré comme étant
+4\. Lorsqu’un fonctionnaire obtient sa première nomination dans sa carrière à un grade qui n’est pas considéré comme étant
 le grade normal de début de carrière, la bonification d’ancienneté est accordée dans le grade normal de début de carrière. La
 nomination est considérée comme promotion au sens des dispositions de l’article 5 ci-dessus, sans préjudice de l’application des
 dispositions de l’article 8, section I, paragraphe 2, alinéa 2 ci-après.
@@ -29574,7 +29574,7 @@ règlement, rubrique grade de computation de la bonification d’ancienneté.
 à sa carrière normale, faute de remplir les conditions d’admission pour la carrière normale, est bonifié dans sa totalité comme
 ancienneté de service.
 Les restrictions prévues au paragraphe 6 ci-après ne s’appliquent pas.»
-\6. La bonification d’ancienneté visée au présent article ne peut dépasser douze ans.
+6\. La bonification d’ancienneté visée au présent article ne peut dépasser douze ans.
 Aucune bonification n’est accordée au fonctionnaire qui obtient sa première nomination de fonctionnaire après l’âge de cinquante-cinq ans.
 (Règl. g.-d. du 18 septembre 1967)
 «Art. 7bis.
@@ -29595,7 +29595,7 @@ et 17. L’avancement en traitement est considéré comme promotion au sens des 
 (Règl. g.-d. du 14 août 1978)
 «La promotion ultérieure du fonctionnaire à une fonction classée au même grade que celui auquel l’avancement en ­traitement a
 eu lieu, reste sans effet sur le traitement.»
-\2. Lorsque le fonctionnaire dont la carrière normale s’étend sur deux ou plusieurs grades, obtient sa première nomination de
+2\. Lorsque le fonctionnaire dont la carrière normale s’étend sur deux ou plusieurs grades, obtient sa première nomination de
 fonctionnaire à une fonction classée à un grade de début de carrière et nouvellement créé après son entrée au service de la commune, le temps de service à tâche complète auprès de la commune, déduction faite d’une période de trois ans, est ­considérée également comme temps passé au grade normal de début de carrière pour l’application des dispositions du ­paragraphe 1er ci-dessus.
 Ces dispositions s’appliquent également à la reconstitution de carrière du fonctionnaire qui n’a pas commencé sa carrière à son
 grade normal de début de carrière, parce que la fonction classée à ce grade a été créée postérieurement à sa première nomination
@@ -29716,7 +29716,7 @@ réduite au prorata du degré de la tâche de chacun des deux conjoints ou parte
 quant à l’allocation de famille et notamment ceux de la Couronne, de la Chambre des députés, du Conseil d’Etat, du Conseil
 économique et social, des établissements publics placés sous la surveillance du gouvernement ainsi que les agents de la société
 nationale des chemins de fer luxembourgeois.»
-\5. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
+5\. (. . .) (abrogé par le règl. g.-d. du 12 septembre 2019)
 (Règl. g.-d. du 17 août 1983)
 «6. Pour le fonctionnaire cumulant un emploi partiel dans le secteur communal avec un emploi dans le secteur privé du chef duquel il a droit à une allocation identique ou analogue à l’allocation de famille, cette allocation est portée en déduction de l­’allocation
 de famille qui revient au fonctionnaire de la part de la commune. Dans les cas visés par l’alinéa 2 du paragraphe 2 du présent article,
@@ -29747,7 +29747,7 @@ applicables aux traitements des fonctionnaires de l’Etat.
 
 Fonctionnaires communaux - Traitements
 Les dispositions qui précèdent s’appliquent également aux pensions, ainsi qu’aux allocations et indemnités prévues par le présent règlement.»
-\2. (Règl. g.-d. du 1er août 2001) «Les chiffres qui résultent de l’application du présent règlement sont établis en euros à deux
+2\. (Règl. g.-d. du 1er août 2001) «Les chiffres qui résultent de l’application du présent règlement sont établis en euros à deux
 décimales près, l’arrondi étant pratiqué conformément aux règles prévues à l’article 5 du règlement (CE) N° 1103/97 du Conseil du
 17 juin 1997 fixant certaines dispositions relatives à l’introduction de l’euro.»
 Echéances
@@ -29756,25 +29756,25 @@ Art. 12.
 «1. Sans préjudice de l’application de l’article 9, paragraphe «8»1 ci-dessus, le traitement est dû à partir du premier du mois qui
 suit l’entrée en fonctions du fonctionnaire.
 Toutefois si l’entrée en service a eu lieu le premier jour ouvrable du mois, le traitement est dû pour le mois entier.
-\2. Les dispositions du paragraphe 1er ci-dessus s’appliquent également en cas de promotion, d’avancement en traitement ou
+2\. Les dispositions du paragraphe 1er ci-dessus s’appliquent également en cas de promotion, d’avancement en traitement ou
 d’avancement d’échelon. Il en est de même en cas de changement de degré d’occupation.
-\3. (Règl. g.-d. du 16 avril 2015) «Le traitement cesse le jour de la cessation des fonctions. Toutefois, en cas de décès du fonctionnaire en activité de service, le traitement cesse avec le mois au cours duquel le décès a eu lieu.»
+3\. (Règl. g.-d. du 16 avril 2015) «Le traitement cesse le jour de la cessation des fonctions. Toutefois, en cas de décès du fonctionnaire en activité de service, le traitement cesse avec le mois au cours duquel le décès a eu lieu.»
 Si le fonctionnaire décède avant l’effet de sa nomination ou d’une promotion, il est censé avoir été en jouissance du nouveau
 traitement, pour le calcul du trimestre de faveur et de la pension, à partir du jour où la décision de nomination ou de promotion sort
 ses effets. Il en est de même en cas de changement de degré d’occupation.»
 Dispositions spéciales
 Art. 13.
-\1. (abrogé par la loi du 24 décembre 1985)
-\2. La nouvelle nomenclature de l’annexe A du présent règlement remplace les anciennes désignations dans les législations
+1\. (abrogé par la loi du 24 décembre 1985)
+2\. La nouvelle nomenclature de l’annexe A du présent règlement remplace les anciennes désignations dans les législations
 portant fixation des traitements des fonctionnaires communaux et dans les décisions des conseils communaux portant création de
 fonctions communales.
 Néanmoins, sous l’approbation du Ministre de l’Intérieur, le conseil communal peut, pour les besoins internes du service, conserver à certaines fonctions leur ancienne dénomination, sans que le maintien de cette dénomination modifie le rang et le traitement
 des fonctionnaires intéressés.
-\3. (abrogé implicitement par les formulations nouvelles successives des articles 15 et 16)
-\4. (abrogé implicitement par la loi du 24 décembre 1985)
+3\. (abrogé implicitement par les formulations nouvelles successives des articles 15 et 16)
+4\. (abrogé implicitement par la loi du 24 décembre 1985)
 Art. 13bis. (introduit par le règl. g.-d. du 28 juillet 1972, abrogé par celui du 31 juillet 1986)
 Art. 14.
-\1. Les frais de route et de séjour des fonctionnaires et autres personnes qui exécutent des voyages de service, seront fixés par
+1\. Les frais de route et de séjour des fonctionnaires et autres personnes qui exécutent des voyages de service, seront fixés par
 règlement du Ministre de l’Intérieur par assimilation à ceux des fonctionnaires de l’Etat.
 Chaque déplacement donnant lieu à indemnisation devra être autorisé, au préalable, par le bourgmestre. Les déplacements à
 l’étranger sont soumis à l’autorisation préalable du collège des bourgmestre et échevins qui pourra demander un rapport écrit sur
@@ -29783,7 +29783,7 @@ Les dépenses pour frais de route et de séjour sont à proportionner aux dépen
 Des sommes fixes pour les fonctionnaires, dont les voyages forment un élément constitutif de leurs fonctions, ne sont pas
 ­allouées. Mais ces fonctionnaires peuvent être dispensés, par le bourgmestre, de demander pour chaque voyage une ­autorisation
 préalable, à charge de rendre périodiquement compte de la mission générale qui leur est confiée.
-\2. Le conseil communal, sous l’approbation du Ministre de l’Intérieur, désignera les fonctionnaires qui jouiront d’indemnités
+2\. Le conseil communal, sous l’approbation du Ministre de l’Intérieur, désignera les fonctionnaires qui jouiront d’indemnités
 aversionnelles pour frais de bureau et fixera le taux de ces allocations suivant la nature et l’importance des dépenses qu’elles sont
 destinées à défrayer.
 Art. 15.
@@ -29811,13 +29811,13 @@ cours dans le premier grade de promotion et six jours de cours dans le deuxième
 Pour les carrières dont le cadre ouvert comprend trois grades de promotion, le fonctionnaire doit avoir accompli quatre jours de
 cours dans le premier grade de promotion, quatre jours de cours dans le deuxième grade de promotion et quatre jours de cours
 dans le troisième grade de promotion.
-\2) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert,
+2\) Nul ne peut être nommé à une fonction du cadre fermé s’il n’a pas bénéficié de tous les avancements prévus au cadre ouvert,
 s’il ne peut faire valoir comme années de carrière le nombre d’années prévu pour l’accès à la fonction la plus élevée du cadre
 ouvert et s’il n’a pas accompli au moins douze jours de cours de perfectionnement à moins d’en avoir été dispensé pour des raisons
 dûment motivées par le Ministre de l’Intérieur, sans préjudice des dispositions applicables aux fonctionnaires ayant changé de
 carrière conformément au règlement grand-ducal du 17 mars 1982 fixant les conditions et modalités de l’accès du fonctionnaire à
 une carrière supérieure à la sienne.
-\3) Par dérogation aux dispositions du point 2 qui précède, le fonctionnaire appartenant à l’une des carrières visées à l’article 15
+3\) Par dérogation aux dispositions du point 2 qui précède, le fonctionnaire appartenant à l’une des carrières visées à l’article 15
 sub XIV, XIV bis.1. et XIV bis 2. du présent règlement grand-ducal ne peut être nommé à une fonction du cadre fermé s’il n’a pas
 bénéficié de tous les avancements prévus au cadre ouvert, s’il ne peut faire valoir comme années de carrière le nombre d’années
 prévu pour l’accès à la fonction la plus élevée du cadre ouvert et s’il ne peut présenter un certificat de qualification attestant qu’il a
@@ -29943,7 +29943,7 @@ ministre de l’Intérieur, peut augmenter le nombre des postes classés aux gra
 dépasser soixante-dix pour-cent de l’effectif total de la carrière.»
 (Règl. g.-d. du 2 octobre 1992)
 «XIVbis.
-\1. Pour les carrières de l’ingénieur, de l’architecte et du chargé d’études informaticien il est créé un cadre ouvert comprenant les
+1\. Pour les carrières de l’ingénieur, de l’architecte et du chargé d’études informaticien il est créé un cadre ouvert comprenant les
 grades 12, 13 et 14 et un cadre fermé comprenant les grades 15 et 16.
 Pour le cadre ouvert le nombre des emplois dans les différents grades n’est pas fixé limitativement et la promotion aux grades
 13 et 14 se fait respectivement trois et six ans après la nomination définitive.
@@ -29951,7 +29951,7 @@ Pour le cadre fermé le nombre des emplois dans les différents grades est fixé
 la carrière:
 32% pour les fonctions classées au grade 15,
 27% pour les fonctions classées au grade 16.
-\2. Pour la carrière de l’ingénieur-conducteur la promotion aux grades 13 et 14 se fait respectivement trois et six années après la
+2\. Pour la carrière de l’ingénieur-conducteur la promotion aux grades 13 et 14 se fait respectivement trois et six années après la
 nomination définitive, sans préjudice de l’application de l’article 17, XI, 2) du présent règlement.»
 (Règl. g.-d. du 31 juillet 1986)
 «XV. Pour l’application des dispositions du présent article, les différents carrières et grades énumérés sont ceux figurant aux
@@ -29961,14 +29961,14 @@ XVI. Dans «l’effectif total» des carrières visées au présent article il f
 «1. Les fonctionnaires de la carrière en activité de service dans l’administration dont leur cadre relève, y non compris les fonctionnaires mis hors cadre par dépassement des effectifs, à moins qu’ils n’aient pas été remplacés dans leur cadre d’origine.
 Toutefois, les agents bénéficiant d’un service à temps partiel sont pris en compte dans l’effectif total à raison de leur degré
 d’occupation.
-\2. Les fonctionnaires en service provisoire de cette carrière.»
+2\. Les fonctionnaires en service provisoire de cette carrière.»
 (Règl. g.-d. du 31 juillet 1986)
 «3. Les fonctionnaires détachés auprès d’autres administrations tant que leur administration d’origine n’a pas procédé à un
 nouvel engagement dans leur carrière.
-\4. Les fonctionnaires de cette carrière en congé sans traitement, en congé pour travail à mi-temps, ainsi que les f­onctionnaires
+4\. Les fonctionnaires de cette carrière en congé sans traitement, en congé pour travail à mi-temps, ainsi que les f­onctionnaires
 ayant cessé provisoirement leurs fonctions1 et, ou, autorisés à travailler à mi-temps, tant que leur administration n’a pas procédé à
 un nouvel engagement dans leur carrière.
-\5. Les vacances de poste résultant du départ de fonctionnaires ou de stagiaires de cette carrière tant qu’elles ne sont pas
+5\. Les vacances de poste résultant du départ de fonctionnaires ou de stagiaires de cette carrière tant qu’elles ne sont pas
 pourvues de nouveaux titulaires de cette carrière.» (Règl. g.-d. du 30 novembre 2007) «Toutefois ces vacances de postes ne sont
 plus prises en considération lorsqu’il s’est écoulé un délai de 2 années depuis le départ du titulaire sans que le poste visé n’ait été
 occupé par un nouveau fonctionnaire.»
@@ -30021,7 +30021,7 @@ e)
 
 premier commis principal.
 
-\2. La carrière de l’expéditionnaire-informaticien comprend les fonctions suivantes:
+2\. La carrière de l’expéditionnaire-informaticien comprend les fonctions suivantes:
 a)
 
 expéditionnaire-informaticien,
@@ -30042,7 +30042,7 @@ e)
 
 premier commis-informaticien principal.
 
-\3. La carrière de l’expéditionnaire technique comprend les fonctions suivantes:
+3\. La carrière de l’expéditionnaire technique comprend les fonctions suivantes:
 a)
 
 expéditionnaire technique,
@@ -30063,7 +30063,7 @@ e)
 
 premier commis technique principal.
 
-\4. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes premier, 2 et 3 ci-dessus, ainsi
+4\. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes premier, 2 et 3 ci-dessus, ainsi
 que les modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles de commis-adjoint,
 de commis-informaticien adjoint et de commis technique adjoint, seront déterminées par règlement grand-ducal, sans préjudice de
 l’application des règles générales relatives au statut des fonctionnaires.»
@@ -30089,14 +30089,14 @@ e)
 
 artisan dirigeant.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’artisan visée ci-dessus, ainsi que les modalités
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’artisan visée ci-dessus, ainsi que les modalités
 de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celle de premier artisan seront déterminées par
 règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 
 \- 554 -
 
 Fonctionnaires communaux - Traitements
-\3. L’artisan principal, le premier artisan principal et l’artisan dirigeant, classés respectivement aux grades 6, 7 et 7bis de l’annexe
+3\. L’artisan principal, le premier artisan principal et l’artisan dirigeant, classés respectivement aux grades 6, 7 et 7bis de l’annexe
 A du présent règlement, peuvent être nommés aux fonctions de commis technique, de commis technique principal et de premier
 commis technique principal de la carrière de l’expéditionnaire technique à condition qu’ils réussissent à l’examen de promotion de
 cette carrière, le tout dans le cadre des dispositions prévues sous I, 4 du présent article.»
@@ -30126,7 +30126,7 @@ f)
 
 chef de brigade dirigeant.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière du cantonnier visée ci-dessus seront déterminées par
+2\. Les conditions et la forme des nominations aux emplois de la carrière du cantonnier visée ci-dessus seront déterminées par
 règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
 La promotion aux fonctions supérieures à celles de surveillant principal, de chef cantonnier, de chef chaîneur et de chef d’équipe
 est subordonnée à un examen de promotion, la promotion aux fonctions de chef de brigade principal et de chef de brigade dirigeant
@@ -30135,7 +30135,7 @@ seront également fixées par règlement grand-ducal.»
 (Règl. g.-d. du 31 juillet 1986)
 «IV. – 1. La carrière de l’aide-soignant comprend la fonction suivante:
 aide-soignant.
-\2. La carrière de l’agent sanitaire comprend les fonctions suivantes:
+2\. La carrière de l’agent sanitaire comprend les fonctions suivantes:
 a)
 
 agent sanitaire,
@@ -30156,7 +30156,7 @@ e)
 
 agent sanitaire dirigeant.
 
-\3. La carrière de l’infirmier comprend les fonctions suivantes:
+3\. La carrière de l’infirmier comprend les fonctions suivantes:
 a)
 
 infirmier,
@@ -30177,7 +30177,7 @@ e)
 
 infirmier dirigeant.
 
-\4. La carrière de l’infirmier psychiatrique comprend les fonctions suivantes:
+4\. La carrière de l’infirmier psychiatrique comprend les fonctions suivantes:
 a)
 
 infirmier psychiatrique,
@@ -30198,7 +30198,7 @@ e)
 
 infirmier psychiatrique dirigeant.
 
-\5. La carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique comprend les fonctions suivantes:
+5\. La carrière de l’infirmier chargé des services d’ergothérapie ou d’éducation physique comprend les fonctions suivantes:
 a)
 
 infirmier chargé des services d’ergothérapie ou d’éducation physique,
@@ -30219,7 +30219,7 @@ e)
 
 infirmier dirigeant chargé des services d’ergothérapie ou d’éducation physique.
 
-\6. La carrière de l’infirmier anesthésiste comprend les fonctions suivantes:
+6\. La carrière de l’infirmier anesthésiste comprend les fonctions suivantes:
 a)
 
 infirmier anesthésiste,
@@ -30240,7 +30240,7 @@ e)
 
 infirmier anesthésiste dirigeant.
 
-\7. La carrière du puériculteur comprend les fonctions suivantes:
+7\. La carrière du puériculteur comprend les fonctions suivantes:
 a)
 
 puériculteur,
@@ -30263,7 +30263,7 @@ e)
 
 puériculteur dirigeant.
 
-\8. La carrière de l’assistant technique médical comprend les fonctions suivantes:
+8\. La carrière de l’assistant technique médical comprend les fonctions suivantes:
 a)
 
 assistant technique médical,
@@ -30284,7 +30284,7 @@ e)
 
 assistant technique médical dirigeant.
 
-\9. La carrière du masseur comprend les fonctions suivantes:
+9\. La carrière du masseur comprend les fonctions suivantes:
 a)
 
 masseur,
@@ -30305,7 +30305,7 @@ e)
 
 masseur dirigeant.
 
-\10. La carrière de la sage-femme comprend les fonctions suivantes:
+10\. La carrière de la sage-femme comprend les fonctions suivantes:
 a)
 
 sage-femme,
@@ -30318,11 +30318,11 @@ c)
 
 sage-femme dirigeante.
 
-\11. La carrière du laborantin, du masseur-kinésithérapeute, de l’infirmier hospitalier gradué, de l’assistant social, de l­’assistant
+11\. La carrière du laborantin, du masseur-kinésithérapeute, de l’infirmier hospitalier gradué, de l’assistant social, de l­’assistant
 d’hygiène sociale, de l’orthophoniste, de l’ergothérapeute et de l’orthoptiste comprend les fonctions suivantes: l­aborantin,
 ­masseur-kinésithérapeute, infirmier hospitalier gradué, assistant social, assistant d’hygiène sociale, orthophoniste, ­ergothérapeute,
 orthoptiste.
-\12. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 à 11 ci-dessus, ­ainsi que les
+12\. Les conditions et la forme des nominations aux emplois des carrières visées aux paragraphes 1 à 11 ci-dessus, ­ainsi que les
 modalités des examens auxquels sera subordonnée la promotion aux fonctions supérieures à celles d’infirmier ­principal, d’infirmier
 psychiatrique principal, d’infirmier principal chargé des services d’ergothérapie ou d’éducation physique, d’agent ­sanitaire principal,
 de puériculteur principal, d’assistant technique médical principal, de masseur principal, d’infirmier ­anesthésiste principal et de sagefemme, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des
@@ -30357,7 +30357,7 @@ g)
 
 contrôleur en chef, chef de mouvement.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’agent de transport ci-dessus, ainsi que les ­modalités
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’agent de transport ci-dessus, ainsi que les ­modalités
 de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles de premier chauffeur ­d’autobus et de premier
 receveur d’autobus, sont déterminées par règlement grand-ducal, sans préjudice de l’application des règles ­générales relatives au
 statut des fonctionnaires.»
@@ -30387,7 +30387,7 @@ f)
 
 adjudant-chef pompier.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’agent pompier ci-dessus, ainsi que les modalités de
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’agent pompier ci-dessus, ainsi que les modalités de
 l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles d’agent pompier de première classe, sont déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des ­fonctionnaires.»
 
 \- 556 -
@@ -30469,7 +30469,7 @@ c)
 
 concierge surveillant principal.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière du concierge visée ci-dessus, ainsi que les ­modalités
+2\. Les conditions et la forme des nominations aux emplois de la carrière du concierge visée ci-dessus, ainsi que les ­modalités
 de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles de concierge, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.»
 (Règl. g.-d. du 7 septembre 1987)
 «X. – 1. La carrière du technicien comprend les fonctions suivantes:
@@ -30501,7 +30501,7 @@ g)
 
 technicien inspecteur.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière du technicien ainsi que les modalités de l’examen
+2\. Les conditions et la forme des nominations aux emplois de la carrière du technicien ainsi que les modalités de l’examen
 auquel sera subordonnée la promotion aux fonctions supérieures à celles de technicien principal seront déterminées par ­règlement
 grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.»
 (Règl. g.-d. du 7 septembre 1987)
@@ -30532,7 +30532,7 @@ e)
 
 ingénieur-technicien inspecteur principal premier en rang1.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’ingénieur-technicien visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles d’«ingénieur-technicien principal»2 seront
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’ingénieur-technicien visée ci-dessus, ainsi que les modalités de l’examen auquel sera subordonnée la promotion aux fonctions supérieures à celles d’«ingénieur-technicien principal»2 seront
 déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.»
 (Règl. g.-d. du 7 septembre 1987)
 «XII. – 1. La carrière de l’ingénieur-conducteur comprend les fonctions suivantes:
@@ -30548,13 +30548,13 @@ c)
 
 ingénieur-conducteur principal.
 
-\2. Les candidats aux fonctions d’ingénieur-conducteur doivent être détenteurs d’un diplôme de fin d’études secondaires luxembourgeois, d’un diplôme d’ingénieur-technicien délivré par l’Institut Supérieur de Technologie de Luxembourg (anciennement école
+2\. Les candidats aux fonctions d’ingénieur-conducteur doivent être détenteurs d’un diplôme de fin d’études secondaires luxembourgeois, d’un diplôme d’ingénieur-technicien délivré par l’Institut Supérieur de Technologie de Luxembourg (anciennement école
 technique) ou d’un certificat d’études équivalentes dûment homologué par le ministre de l’Education Nationale, et d’un diplôme
 d’ingénieur des travaux urbains, ou d’un diplôme d’ingénieur dont l’équivalence est établie par arrêté grand-ducal, délivré par une
 université après un cycle d’études sur place d’au moins quatre années.
 Le diplôme d’ingénieur doit être inscrit au registre des diplômes prévu par l’article premier de la loi du 17 juin 1967 ayant pour
 objet de protéger les titres d’enseignement supérieur.
-\3. L’occupation des postes dans la carrière de l’ingénieur-conducteur se fera au fur et à mesure des vacances qui se produiront
+3\. L’occupation des postes dans la carrière de l’ingénieur-conducteur se fera au fur et à mesure des vacances qui se produiront
 dans la carrière du conducteur.»
 (Règl. g.-d. du 7 septembre 1987)
 «XIII. – 1. La carrière de l’architecte comprend les fonctions suivantes:
@@ -30578,9 +30578,9 @@ e)
 
 architecte première classe.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’architecte ci-dessus, ainsi que les modalités de
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’architecte ci-dessus, ainsi que les modalités de
 l’examen auquel sera soumise la nomination définitive, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.
-\3. Le diplôme d’architecte doit être inscrit au registre des diplômes prévu par l’article premier de la loi du 17 juin 1967 ayant pour
+3\. Le diplôme d’architecte doit être inscrit au registre des diplômes prévu par l’article premier de la loi du 17 juin 1967 ayant pour
 objet de protéger les titres d’enseignement supérieur.»
 (Règl. g.-d. du 7 septembre 1987)
 «XIV. – 1. La carrière de l’attaché administratif comprend les fonctions suivantes:
@@ -30626,7 +30626,7 @@ e)
 
 conseiller informaticien première classe.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière du chargé d’études-informaticien ci-dessus, ainsi que
+2\. Les conditions et la forme des nominations aux emplois de la carrière du chargé d’études-informaticien ci-dessus, ainsi que
 les modalités de l’examen auquel sera soumise la nomination définitive, seront déterminées par règlement grand-ducal, sans préjudice de l’application des règles générales relatives au statut des fonctionnaires.»
 (Règl. g.-d. du 7 septembre 1987)
 «XVI. – 1. La carrière de l’ingénieur comprend les fonctions suivantes:
@@ -30658,9 +30658,9 @@ e)
 
 ingénieur première classe.
 
-\2. Les conditions et la forme des nominations aux emplois de la carrière de l’ingénieur ci-dessus, ainsi que les modalités de l’examen auquel sera soumise la nomination définitive, seront déterminées par règlement grand-ducal, sans préjudice de l’application
+2\. Les conditions et la forme des nominations aux emplois de la carrière de l’ingénieur ci-dessus, ainsi que les modalités de l’examen auquel sera soumise la nomination définitive, seront déterminées par règlement grand-ducal, sans préjudice de l’application
 des règles générales relatives au statut des fonctionnaires.
-\3. Le diplôme d’ingénieur doit être inscrit au registre des diplômes prévu par l’article premier de la loi du 17 juin 1967 ayant pour
+3\. Le diplôme d’ingénieur doit être inscrit au registre des diplômes prévu par l’article premier de la loi du 17 juin 1967 ayant pour
 objet de protéger les titres d’enseignement supérieur.»
 Art. 16bis.
 (Règl. g.-d. du 31 juillet 1986)
@@ -30696,7 +30696,7 @@ L’artisan, détenteur d’un brevet de maîtrise, ou qui obtient ce brevet en 
 mois qui suit celui pendant lequel a eu lieu son obtention, d’une prime annuelle correspondant à dix points indiciaires.»
 (Règl. g.-d. du 7 septembre 1987)3
 «Art. 16quater.
-\1. Le fonctionnaire classé à un grade des rubriques I «administration générale» et II «enseignement» de l’annexe B du ­présent
+1\. Le fonctionnaire classé à un grade des rubriques I «administration générale» et II «enseignement» de l’annexe B du ­présent
 règlement, classé à l’avant-dernier grade de sa carrière, bénéficie à partir du premier jour du mois qui suit son ­cinquante-cinquième
 anniversaire d’un supplément de traitement personnel égal à la différence entre le dernier échelon ­barémique du grade de fin de
 carrière et son traitement effectif.
@@ -30715,11 +30715,11 @@ S’il est classé à l’antépénultième grade de sa carrière, le supplémen
 (Règl. g.-d. du 12 octobre 2001)
 «Le supplément de traitement diminue au fur et à mesure que le traitement augmente par l’effet d’avancement en échelon, de
 majorations de l’indice ou d’avancement en grade.»
-\2. Toutefois pour les sapeurs-pompiers professionnels, le supplément de traitement est dû à partir du premier jour du mois qui
+2\. Toutefois pour les sapeurs-pompiers professionnels, le supplément de traitement est dû à partir du premier jour du mois qui
 suit leur cinquantième anniversaire.
-\3. Au sens du présent article ne sont pas à considérer comme grades de fin de carrière les grades 18, 17, E8 et E7ter.
+3\. Au sens du présent article ne sont pas à considérer comme grades de fin de carrière les grades 18, 17, E8 et E7ter.
 Il en est de même des grades de substitution prévus à l’article 17, section XII, du présent règlement.
-\4. Par grade de fin de carrière il y a lieu d’entendre le grade de la carrière accessible au fonctionnaire compte tenu des ­condi­tions
+4\. Par grade de fin de carrière il y a lieu d’entendre le grade de la carrière accessible au fonctionnaire compte tenu des ­condi­tions
 d’examen prévues pour sa carrière.
 Toutefois, et à moins que la loi ne prévoie pas d’examen de promotion ou qu’il en ait été dispensé en vertu d’une disposition
 légale ou réglementaire, le bénéfice du supplément de traitement personnel est réservé au fonctionnaire ayant passé avec succès
@@ -30734,19 +30734,19 @@ et doivent remplir les conditions de formation, d’admissibilité, de service p
 Art. 17.
 (Règl. g.-d. du 15 mars 1974)
 «I. Par dérogation à l’article 8, section I:
-\1. L’artisan (grade 3), l’agent pompier (grade 3) ainsi que les agents de transport classés au grade 3, bénéficient d’un premier
+1\. L’artisan (grade 3), l’agent pompier (grade 3) ainsi que les agents de transport classés au grade 3, bénéficient d’un premier
 avancement en traitement au grade 5.»
 (Règl. g.-d. du 14 août 1978)
 «2. L’expéditionnaire1 bénéficie d’un premier avancement en traitement au grade 6.
-\3. L’infirmier et l’agent sanitaire (grade 5) bénéficient d’un premier avancement en traitement au grade 7.
-\4. La sage-femme (grade 7) bénéficie d’un premier avancement en traitement au grade 7bis.»
+3\. L’infirmier et l’agent sanitaire (grade 5) bénéficient d’un premier avancement en traitement au grade 7.
+4\. La sage-femme (grade 7) bénéficie d’un premier avancement en traitement au grade 7bis.»
 (Règl. g.-d. du 31 juillet 1986)
 «II. Conformément à l’article 8, section II:
-\1. Le garçon de bureau, le garçon de salle, (...)2, le fossoyeur, le surveillant des bains et le téléphoniste (grade 1) bénéficient d’un
+1\. Le garçon de bureau, le garçon de salle, (...)2, le fossoyeur, le surveillant des bains et le téléphoniste (grade 1) bénéficient d’un
 premier avancement en traitement au grade 2 après trois années de grade et d’un second avancement en traitement au grade 3
 après six années de grade et après avoir passé avec succès un examen de promotion.
-\2. L’aide soignant (grade 2) bénéficie d’un premier avancement en traitement au grade 3 après trois années de grade et d’un second avancement en traitement au grade 4 après six années de grade et après avoir passé avec succès un examen de promotion.
-\3. L’éducateur3 (grade 4) bénéficie d’un avancement en traitement au grade 6 après trois années de grade et d’un second avancement en traitement au grade 7 après six années de grade et après avoir passé avec succès un examen de promotion qui pourra
+2\. L’aide soignant (grade 2) bénéficie d’un premier avancement en traitement au grade 3 après trois années de grade et d’un second avancement en traitement au grade 4 après six années de grade et après avoir passé avec succès un examen de promotion.
+3\. L’éducateur3 (grade 4) bénéficie d’un avancement en traitement au grade 6 après trois années de grade et d’un second avancement en traitement au grade 7 après six années de grade et après avoir passé avec succès un examen de promotion qui pourra
 avoir la forme d’un examen de spécialisation.»
 (Règl. g.-d. du 7 septembre 1987)
 «L’éducateur3 (avancé au grade 7) bénéficie d’un avancement en traitement au grade 8bis trois années après avoir atteint le
@@ -30781,7 +30781,7 @@ Il est interdit aux médecins, médecins dentistes et médecins vétérinaires c
 6), l’infirmier chargé des services d’ergothérapie ou d’éducation physique (grade 6), l’infirmier anesthésiste (grade 6), le puériculteur (grade 6), l’assistant technique médical (grade 6) et le masseur (grade 6) bénéficient d’un deuxième avancement au grade 7bis
 après six années de grade, à condition d’avoir subi avec succès un examen de promotion qui pourra avoir la forme d’un examen
 de spécialisation.»
-\8. (supprimé par le règl. g.-d. du 7 septembre 1987)
+8\. (supprimé par le règl. g.-d. du 7 septembre 1987)
 (Règl. g.-d. du 7 septembre 1987)
 «9. Le directeur administratif du syndicat des T.I.C.E., l’ingénieur-directeur du S.E.B.E.S., l’ingénieur-directeur du ­syndicat des
 eaux du Sud (S.E.S.) et l’ingénieur-directeur des services industriels (classe de population B), classés au grade 16, ­bénéficient d’un
@@ -30810,22 +30810,22 @@ DE), le secrétaire-receveur de la clinique municipale (classe de population C),
 civil (classe de population DE), ainsi que les secrétaires-trésoriers et les secrétaires-trésoriers-économes des syndicats de
 communes.
 
-\2. Les secrétaires des communes de la classe de population G qui ne remplissent pas les conditions d’études pour accéder à
+2\. Les secrétaires des communes de la classe de population G qui ne remplissent pas les conditions d’études pour accéder à
 la carrière du rédacteur sont classés au grade 7 (grade de computation 7), ils avancent au grade 8 trois ans après la nomination
 définitive, ils avancent au grade 9 trois ans après avoir atteint le grade 8, ils avancent au grade 10 trois ans après avoir atteint le
 grade 9 et ils avancent au grade 11 trois ans après avoir atteint le grade 10. Pour ces fonctionnaires le grade 11 est allongé par les
 échelons 391 et 400.
-\3. Les receveurs des communes de la classe de population F qui ne remplissent pas les conditions d’études pour accéder à la
+3\. Les receveurs des communes de la classe de population F qui ne remplissent pas les conditions d’études pour accéder à la
 carrière du rédacteur, ainsi que les receveurs des communes de la classe de population G qui ne remplissent pas les ­conditions
 d’études pour accéder à la carrière du rédacteur mais qui remplissent celles pour accéder à la carrière de l­’expéditionnaire sont
 classés au grade 5 (grade de computation 4), ils avancent au grade 6 trois ans après la nomination définitive, ils avancent au grade
 7 trois ans après avoir atteint le grade 6, ils avancent au grade 8 trois ans après avoir atteint le grade 7 et ils avancent au grade 8bis
 trois ans après avoir atteint le grade 8. Pour ces fonctionnaires le grade 8bis est allongé par les échelons 332 et 339 et le grade
 8ter est substitué au grade 8bis.
-\4. Les receveurs des communes de la classe de population G qui ne remplissent ni les conditions d’études pour accéder à la carrière du rédacteur ni celles pour accéder à celle de l’expéditionnaire, sont classés au grade 5 (grade de computation 4), ils avancent
+4\. Les receveurs des communes de la classe de population G qui ne remplissent ni les conditions d’études pour accéder à la carrière du rédacteur ni celles pour accéder à celle de l’expéditionnaire, sont classés au grade 5 (grade de computation 4), ils avancent
 au grade 6 trois ans après la nomination définitive, ils avancent au grade 7 trois ans après avoir atteint le grade 6, ils avancent au
 grade 8 trois ans après avoir atteint le grade 7, et ils avancent au grade 8bis trois ans après avoir atteint le grade 8. Pour ces titulaires le grade 8bis est allongé par les échelons 332 et 339.
-\5. Pour les secrétaires et les receveurs de la classe de population G qui remplissent les conditions d’études pour accéder à
+5\. Pour les secrétaires et les receveurs de la classe de population G qui remplissent les conditions d’études pour accéder à
 la carrière du rédacteur et qui cumulent leurs fonctions avec celles de secrétaire ou de receveur dans une ou plusieurs autres
 communes, le traitement de base total leur revenant du chef de l’ensemble de leurs fonctions ne peut être supérieur à quatre cent
 quatre-vingt-six points indiciaires.
@@ -30845,7 +30845,7 @@ Pour les receveurs de la classe de population G qui ne remplissent pas les condi
 du rédacteur, ni à celle de l’expéditionnaire et qui cumulent leurs fonctions avec celles de receveur dans une ou plusieurs autres
 communes, le traitement de base total leur revenant du chef de l’ensemble de leurs fonctions ne peut être supérieur à trois cent
 trente-neuf points indiciaires.
-\6. Dès que le traitement de base total des fonctionnaires visés au paragraphe 5 de la présente section atteint ou dépasse les
+6\. Dès que le traitement de base total des fonctionnaires visés au paragraphe 5 de la présente section atteint ou dépasse les
 maxima fixés audit paragraphe 5, le traitement total est arrêté à ce maximum, qui est réparti sur les différentes communes au prorata des degrés d’occupation dont bénéficie l’intéressé dans les communes respectives.»
 (Règl. g.-d. du 7 septembre 1987)
 «IV. – 1. Les bibliothécaires, conservateurs de musée, préposés du musée et des archives ainsi que les directeurs du théâtre
@@ -30855,7 +30855,7 @@ Le conseil communal, sous l’approbation du ministre de l’Intérieur, fixe le
 Les titulaires des fonctions visées ci-dessus ne remplissant pas les conditions pour accéder à la carrière supérieure, tout en
 pouvant se prévaloir d’au moins trois années d’études post-secondaires sanctionnées par un diplôme dans la spécialité de leur
 emploi, sont classés conformément aux dispositions des articles 17. II. 4, 17. XI. 13° et 17. XII. a) alinéa 6 du présent règlement.
-\2. (devenu sans objet)»
+2\. (devenu sans objet)»
 V. – 1° (supprimé par le règl. g.-d. du 7 septembre 1987)
 (Règl. g.-d. du 31 juillet 1986)
 «2° Les maîtres et maîtresses d’éducation physique (grade 4), bénéficient d’un avancement en traitement au grade 5, trois ans
@@ -30938,7 +30938,7 @@ VII. 1. (abrogé par le règl. g.-d. du 14 août 1978)
 au grade 5.
 La substitution est obtenue en remplaçant l’indice du grade 5 du tableau indiciaire I «Administration générale» de l’annexe B par
 l’indice du grade 6 correspondant au même numéro d’échelon.
-\3. Pour le chauffeur d’autobus-receveur et le chauffeur d’autobus-mécanicien le grade 4 est substitué au grade 3.
+3\. Pour le chauffeur d’autobus-receveur et le chauffeur d’autobus-mécanicien le grade 4 est substitué au grade 3.
 La substitution est obtenue en remplaçant l’indice du grade 3 du tableau indiciaire I «Administration générale» de l’annexe B par
 l’indice du grade 4 correspondant au même numéro d’échelon.»
 
@@ -30979,20 +30979,20 @@ IX.
 (Règl. g.-d. du 20 décembre 1990 - Traitements)
 «1. Pour l’artisan détenteur d’un certificat d’aptitude technique et professionnelle (CATP) et pour l’agent pompier l’indice 153
 constitue le premier échelon du grade 3.
-\2. L’ingénieur-technicien détenteur du diplôme d’ingénieur-technicien délivré par l’institut supérieur de technologie est classé au
+2\. L’ingénieur-technicien détenteur du diplôme d’ingénieur-technicien délivré par l’institut supérieur de technologie est classé au
 grade 9 avec computation de la bonification d’ancienneté de service à l’échelon 203 du grade 7.
 Pour le technicien diplômé détenteur du diplôme d’ingénieur-technicien délivré par l’Ecole technique l’indice 212 constitue le
 premier échelon du grade 7.
-\3. Pour l’expéditionnaire technique (grade 4) détenteur d’un diplôme luxembourgeois de technicien ou d’un certificat d’études
+3\. Pour l’expéditionnaire technique (grade 4) détenteur d’un diplôme luxembourgeois de technicien ou d’un certificat d’études
 étranger reconnu équivalent par le ministre de l’Education Nationale, l’indice 168 constitue le premier échelon du grade 4 et le grade
 8bis est allongé d’un treizième échelon ayant l’indice 326.»
 (Règl. g.-d. du 7 septembre 1987)
 «4. Pour l’adjudant pompier le grade 7 est allongé par les échelons 266 et 275.
-\5. Pour le chauffeur d’autobus en chef et le receveur d’autobus en chef le grade 7 est allongé par les échelons 266, 275, 284,
+5\. Pour le chauffeur d’autobus en chef et le receveur d’autobus en chef le grade 7 est allongé par les échelons 266, 275, 284,
 293 et 304.
-\6. Pour le contrôleur le grade 7bis est allongé par les échelons 287, 299, 311 et 320.
-\7. Pour le contrôleur principal le grade 8 est allongé par les échelons 311, 320 et 332.
-\8. Pour le contrôleur en chef et le chef de mouvement le grade 8bis est allongé par les échelons 332, 339, 347 et 354.»
+6\. Pour le contrôleur le grade 7bis est allongé par les échelons 287, 299, 311 et 320.
+7\. Pour le contrôleur principal le grade 8 est allongé par les échelons 311, 320 et 332.
+8\. Pour le contrôleur en chef et le chef de mouvement le grade 8bis est allongé par les échelons 332, 339, 347 et 354.»
 (Règl. g.-d. du 11 janvier 1990)
 «9. Pour les fonctionnaires classés au grade E7 et E7bis ces grades sont allongés d’un dix-huitième échelon ayant ­respectivement
 les indices 560 et 585.»
@@ -31056,7 +31056,7 @@ respectivement les indices 485 et 498.
 allongé d’un onzième échelon ayant l’indice 530.
 16° Pour les carrières de l’architecte, du chargé d’études informaticien et de l’ingénieur le grade 16 est allongé d’un ­douzième
 et d’un treizième échelon ayant respectivement les indices 575 et 594.
-\2. Sans préjudice de l’application des dispositions légales et réglementaires existantes concernant la promotion des ­fonctionnaires,
+2\. Sans préjudice de l’application des dispositions légales et réglementaires existantes concernant la promotion des ­fonctionnaires,
 les fonctionnaires remplissant les conditions visées au paragraphe 1), alinéa premier, de la présente section peuvent bénéficier des
 promotions suivantes:
 
@@ -31130,20 +31130,20 @@ titulaires entrés en service avant le 1er janvier 1991.
 Fonctionnaires communaux - Traitements
 Art. 18.
 I. Logement de service
-\1. Tout fonctionnaire est tenu d’habiter le logement qui lui est assigné par l’autorité communale pour des raisons de ­service.
-\2. Aucun fonctionnaire ne peut prétendre à l’attribution d’un logement de service ni, si cette attribution lui est retirée, à un dédommagement.
-\3. Le fonctionnaire qui occupe un logement de service, est astreint au paiement d’un loyer normal. Lors de la fixation de ce loyer,
+1\. Tout fonctionnaire est tenu d’habiter le logement qui lui est assigné par l’autorité communale pour des raisons de ­service.
+2\. Aucun fonctionnaire ne peut prétendre à l’attribution d’un logement de service ni, si cette attribution lui est retirée, à un dédommagement.
+3\. Le fonctionnaire qui occupe un logement de service, est astreint au paiement d’un loyer normal. Lors de la fixation de ce loyer,
 il est tenu compte du prix des loyers dans la localité, ainsi que des avantages et des inconvénients que présente le l­ogement. Le
 loyer ne peut être inférieur aux taux prévus par les dispositions légales et réglementaires en matière de baux à loyer; toutefois, il ne
 peut dépasser vingt pour-cent du traitement du fonctionnaire.
-\4. Le fonctionnaire qui occupe un logement de service, est également astreint au paiement des frais accessoires du logement,
+4\. Le fonctionnaire qui occupe un logement de service, est également astreint au paiement des frais accessoires du logement,
 tels les frais d’électricité, de gaz, de chauffage et d’eau (Règl. g.-d. du 16 avril 2015) «, sauf les taxes incombant normalement au
 propriétaire d’un logement». Ces frais lui sont facturés d’après la consommation effective, ou à défaut, par fixation forfaitaire. (Règl.
 g.-d. du 16 avril 2015) (…)
-\5. Les décisions relatives à la fixation du loyer et des frais accessoires de logement sont prises par le conseil communal sous
+5\. Les décisions relatives à la fixation du loyer et des frais accessoires de logement sont prises par le conseil communal sous
 l’approbation du ministre de l’Intérieur.
 (…) (Abrogé par le règl. g.-d. du 16 avril 2015)
-\6. Lorsque le fonctionnaire qui occupe un logement de service fournit, pour le compte de la commune, des prestations
+6\. Lorsque le fonctionnaire qui occupe un logement de service fournit, pour le compte de la commune, des prestations
 ­extraordinaires qui se situent en dehors des obligations inhérentes à sa fonction, ces prestations donnent lieu à rémunération.
 Cette rémunération est fixée par le conseil communal sous l’approbation du ministre de l’Intérieur.
 II. Logement locatif
@@ -31151,20 +31151,20 @@ Lorsque la commune met à la disposition du fonctionnaire un logement autre qu�
 règles du droit commun.
 (Règl. g.-d. du 2 octobre 1992)
 «Art. 19.
-\1. Une prime d’astreinte est allouée aux sapeurs-pompiers professionnels, aux agents de transport et aux gardes ­champêtres.
+1\. Une prime d’astreinte est allouée aux sapeurs-pompiers professionnels, aux agents de transport et aux gardes ­champêtres.
 Elle est fixée à vingt-deux points indiciaires.
 La prime est fixée à douze points indiciaires pour les fonctionnaires de la carrière du cantonnier. Si ces derniers cumulent leurs
 fonctions avec celles de garde champêtre, ils touchent la prime fixée pour ces derniers à l’alinéa qui précède.
 La prime prévue au présent paragraphe n’est due que pour autant que les bénéficiaires ne touchent pas de prime plus élevée
 en vertu des paragraphes 2 et 3 ci-après.
 Pour les titulaires occupés à temps partiel la prime fixée au présent paragraphe est réduite en fonction du degré d’occupation.
-\2. Pour le fonctionnaire, dont le service implique en permanence du travail alternant par équipes successives, le travail, presté
+2\. Pour le fonctionnaire, dont le service implique en permanence du travail alternant par équipes successives, le travail, presté
 pendant les périodes définies au paragraphe 3. ci-dessous, donne lieu à une prime d’astreinte dont la valeur horaire est fixée à
 0,05 point indiciaire.
 Pour le fonctionnaire périodiquement ou occasionnellement astreint à du service pendant les mêmes périodes, les heures de
 travail effectivement prestées donnent lieu à une prime d’astreinte dont la valeur horaire est fixée à 0,04 point indiciaire.
 Les modalités d’application et de calcul de la prime prévue au présent paragraphe sont fixées par règlement séparé.
-\3. Bénéficient également d’une prime d’astreinte, d’un montant inférieur à celui prévu au paragraphe 2, ci-dessus, les
+3\. Bénéficient également d’une prime d’astreinte, d’un montant inférieur à celui prévu au paragraphe 2, ci-dessus, les
 f­onctionnaires dont le service, de par sa nature et de son organisation, comporte, soit périodiquement soit à intervalles ­réguliers,
 du travail exécuté:
 –
@@ -31177,7 +31177,7 @@ les samedis, dimanches ou jours fériés légaux ou réglementaires, entre six e
 
 Le règlement visé au paragraphe 2. ci-dessus détermine le montant et les modalités d’application et de calcul de la prime ainsi
 que les catégories de fonctionnaires pouvant en bénéficier.
-\4. Une prime d’astreinte peut être allouée par le conseil communal, sous l’approbation du ministre de l’Intérieur, aux ­fonctionnaires
+4\. Une prime d’astreinte peut être allouée par le conseil communal, sous l’approbation du ministre de l’Intérieur, aux ­fonctionnaires
 des sept grades inférieurs chargés du service de concierge, impliquant la surveillance dans les bâtiments ­communaux. Le montant
 de cette prime ne peut dépasser vingt-deux points indiciaires, sauf si les heures de service sont ­prestées par équipes successives,
 auquel cas le paragraphe 2. du présent article est applicable.»
@@ -31225,7 +31225,7 @@ Les fonctionnaires classés aux grades E7 et E7bis bénéficient d’une prime s
 quinze ans après leur nomination définitive dans le grade E7.»
 (Règl. g.-d. du 20 décembre 1990 - Traitements)
 «Art. 19septies.
-\1. Le fonctionnaire en service, nommé provisoirement ou définitivement, bénéficie d’une allocation de fin d’année, non
+1\. Le fonctionnaire en service, nommé provisoirement ou définitivement, bénéficie d’une allocation de fin d’année, non
 ­pensionnable, payable avec le traitement du mois de décembre.»
 (Règl. g.-d. du 21 février 1996)
 «L’allocation est fixée
@@ -31253,7 +31253,7 @@ quinze ans après leur nomination définitive dans le grade E7.»
 «Par traitement de base au sens du présent article il y a lieu d’entendre le traitement tel qu’il résulte de l’application des tableaux
 indiciaires de l’annexe B du présent règlement, ainsi que de l’application des articles 4, 6bis, 6ter, 16quater, 17-III, 17-V (à l’exception de la prime prévue au n° 3, dernier alinéa) 17-VII, 17-VIII, 17-IX, 17-X, 17-XI, 17-XII et 19ter du présent règlement, augmenté
 de l’allocation de famille éventuellement due.»
-\2. (Règl. g.-d. du 21 février 1996)
+2\. (Règl. g.-d. du 21 février 1996)
 «Le fonctionnaire entré en service au cours de l’année a droit pour chaque mois de travail presté à un douzième de l­’allocation
 calculée, conformément au paragraphe 1. ci-dessus, sur la base du traitement de base dû pour le mois de décembre.
 Le fonctionnaire qui quitte le service au cours de l’année pour des raisons autres que celles prévues aux articles 51.1 b) et 58,11
@@ -31345,9 +31345,9 @@ Ce supplément est intégré dans le traitement de base. Toutefois le dernier é
 classée, ne peut être dépassé.»
 Art. 24. (devenu sans objet)
 Art. 25.
-\1. Lorsqu’une carrière est allongée par l’adjonction d’un grade, le fonctionnaire qui est classé à un grade supérieur à ce nouveau
+1\. Lorsqu’une carrière est allongée par l’adjonction d’un grade, le fonctionnaire qui est classé à un grade supérieur à ce nouveau
 grade bénéficie d’une reconstitution de carrière, par la prise en considération du grade intercalaire.
-\2. (devenu sans objet)
+2\. (devenu sans objet)
 (Règl. g.-d. du 20 décembre 1990 - Traitements)
 «Art. 25bis.
 Si les éléments du calcul du traitement se modifient par suite d’une erreur matérielle de l’administration, le traitement est recalculé et les montants versés en trop sont récupérés ou déduits du traitement.»
@@ -32168,8 +32168,8 @@ E1
 Fonctionnaires communaux - Traitements
 ANNEXE C1
 Détermination
-\1. des carrières inférieures, moyennes et supérieures;
-\2. du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial.
+1\. des carrières inférieures, moyennes et supérieures;
+2\. du grade de computation de la bonification d’ancienneté de service pour la fixation du traitement initial.
 Remarque: ...2)
 La classification en carrières inférieures, moyennes et supérieures ne sort ses effets que pour l’application des dispositions de
 l’article 7, paragraphe 1er «et»3 de l’article 8, section II, 1° du présent règlement.
@@ -32380,7 +32380,7 @@ secrétaire-administrateur général (classe de population A);
 
 directeur du conservatoire (art. 17. V. 9°, alinéa premier);
 directeur du conservatoire (art. 17. V. 9°, alinéa 2); directeur adjoint du conservatoire (art.
-\17. V. 9°, alinéa 3);
+17\. V. 9°, alinéa 3);
 directeur adjoint du conservatoire (art. 17. V. 9°, alinéa 4); professeur du conservatoire
 (art. 17. V. 7°, alinéa premier);
 
@@ -32437,7 +32437,7 @@ Fonctionnaires communaux - Traitements
 Dispositions spéciales à portée générale du règlement grand-ducal du 7 septembre 1987.
 Art. III.
 ……
-\3. Les fonctions de «secrétaire-administrateur général» et celles de «secrétaire général» ne peuvent pas être occupées simultanément.
+3\. Les fonctions de «secrétaire-administrateur général» et celles de «secrétaire général» ne peuvent pas être occupées simultanément.
 ……
 Art. IV.
 ……
@@ -32462,9 +32462,9 @@ avec succès à un examen de qualification dont les modalités seront fixées pa
 avec effet au premier du mois qui suit la date à laquelle les deux conditions ci-dessus sont remplies, confor­mément aux dispositions
 de l’article 17, section V, numéro 7°, du règlement grand-ducal du 4 avril 1964 visé à l’alinéa qui précède.
 Art. V.
-\1. Les dispositions de l’article IV du présent règlement ne peuvent pas faire double emploi avec celles de l’article 16quater du
+1\. Les dispositions de l’article IV du présent règlement ne peuvent pas faire double emploi avec celles de l’article 16quater du
 règlement modifié du 4 avril 1964.
-\2. a)........
+2\. a)........
 Les dispositions de la section XII nouvelle de l’article 17 dudit règlement s’appliquent uniquement aux fonctionnaires en activité
 de service au moment de l’entrée en vigueur du présent règlement, ainsi qu’à ceux nommés après cette date.
 Il en est de même des substitutions prévues par l’article 17, section III, paragraphes premier et 3 du règlement précité du
@@ -32474,7 +32474,7 @@ qui, à la date du premier novembre 1986, étaient classés aux grades 11, 12 ou
 paragraphe sous a) est remplacée par une application de l’article 6ter du règlement grand-ducal précité du 4 avril 1964, si cette
 façon de procéder est plus favorable.
 ……
-\3. Les articles 3 et 7, paragraphe 1., du règlement susvisé du 4 avril 1964, tels qu’ils ont été modifiés par le présent ­règlement,
+3\. Les articles 3 et 7, paragraphe 1., du règlement susvisé du 4 avril 1964, tels qu’ils ont été modifiés par le présent ­règlement,
 s’appliquent aux seuls fonctionnaires nommés définitivement après l’entrée en vigueur du présent règlement, sans que le bénéfice
 n’en puisse jouer plus d’une fois par carrière.
 Pour les fonctionnaires nommés définitivement à la date de l’entrée en vigueur du présent règlement, les anciennes ­dispositions
@@ -32497,9 +32497,9 @@ Modifié par le règl. g.-d. du 13 juillet 1972.
 Fonctionnaires communaux - Traitements
 Dispositions transitoires du règlement grand-ducal du 7 septembre 1987
 Art. II.
-\1. La carrière de l’artisan détenteur d’un certificat d’aptitude professionnelle (CAP) est reconstituée par la prise en considération
+1\. La carrière de l’artisan détenteur d’un certificat d’aptitude professionnelle (CAP) est reconstituée par la prise en considération
 de l’indice 146 comme premier échelon du grade 3.
-\2. Les fonctionnaires de la carrière du technicien diplômé détenteurs soit d’un diplôme d’ingénieur-technicien - ancien régime
+2\. Les fonctionnaires de la carrière du technicien diplômé détenteurs soit d’un diplôme d’ingénieur-technicien - ancien régime
 – décerné par l’Institut Supérieur de Technologie créé en vertu de la loi du 21 mai 1979, soit d’un diplôme d’ingénieur-technicien
 de l’Ecole technique de Luxembourg, soit du diplôme luxembourgeois des cours universitaires, section sciences mathématiques
 et physiques ou section chimie-biologie, soit d’un certificat d’études étranger reconnu équivalent par le ministre de l’Education
@@ -32549,7 +32549,7 @@ carrière recalculé suivant ces mêmes dispositions, augmenté de la contrevale
 Les techniciens diplômés stagiaires détenteurs d’un diplôme d’ingénieur-technicien – nouveau régime – décerné par l’Institut
 Supérieur de Technologie, en service au moment de la publication du présent règlement, pourront être admis au stage d’ingénieurtechnicien. Ils bénéficient pour le nouveau temps de stage d’une bonification égale à la période de stage passée dans la carrière
 du technicien diplômé.
-\3. Pour le conducteur détenteur d’un certificat de fin d’études secondaires luxembourgeois ou d’un certificat étranger équivalent
+3\. Pour le conducteur détenteur d’un certificat de fin d’études secondaires luxembourgeois ou d’un certificat étranger équivalent
 dûment homologué par le ministre de l’Education Nationale, et d’un diplôme de conducteur civil délivré par une université ou une
 école technique supérieure après un cycle d’études sur place de trois années, diplôme devant être inscrit au registre des diplômes
 prévu par l’article premier de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur, la carrière est
@@ -32563,7 +32563,7 @@ provisoire ou définitive à ce poste à la date du premier novembre 1986.
 ……
 Art. V.
 ……
-\2. a) La carrière du fonctionnaire en activité de service ou pensionné auquel le nouveau régime de traitements est applicable est
+2\. a) La carrière du fonctionnaire en activité de service ou pensionné auquel le nouveau régime de traitements est applicable est
 reconstituée par application des dispositions du présent règlement.
 \- 585 -
 
@@ -32572,7 +32572,7 @@ Pour l’application de ces dispositions le fonctionnaire pensionné est censé 
 Les dispositions de la section XII nouvelle de l’article 17 dudit règlement s’appliquent uniquement aux fonctionnaires en activité
 de service au moment de l’entrée en vigueur du présent règlement, ainsi qu’à ceux nommés après cette date.
 Il en est de même des substitutions prévues par l’article 17, section III, paragraphes premier et 3 du règlement précité du 4 avril
-1964.
+1964\.
 ……
 c) Les fonctionnaires en activité de service à la date du premier novembre 1986 peuvent conserver le traitement attaché à leur
 fonction, calculé suivant l’ancienne législation en vigueur à cette date, aussi longtemps que ce traitement reste supérieur à celui
@@ -32584,13 +32584,13 @@ tout moment ultérieur pour le nouveau régime. Ceux qui n’auraient pas opté 
 censés avoir opté pour le nouveau régime. L’option, expresse ou tacite, pour le nouveau régime est irrévocable.
 Les options prévues à l’alinéa qui précède doivent être effectuées par écrit et adressées au bourgmestre de la commune, au président du syndicat ou au président de l’établissement public. Copie doit en être adressée en même temps au ministre de l’Intérieur.
 ……
-\4. Lorsqu’un grade est allongé, en vertu du présent règlement, par deux ou plusieurs échelons supplémentaires, le dernier échelon viendra à échoir au plus tôt deux ans après l’entrée en vigueur du présent règlement. Cette disposition s’applique ­également
+4\. Lorsqu’un grade est allongé, en vertu du présent règlement, par deux ou plusieurs échelons supplémentaires, le dernier échelon viendra à échoir au plus tôt deux ans après l’entrée en vigueur du présent règlement. Cette disposition s’applique ­également
 aux pensionnés et aux bénéficiaires d’une pension de survie.
 Toutefois les limitations prévues par l’alinéa premier du présent paragraphe ne s’appliquent pas aux allongements prévus par
 l’article 17, section V, 13°, alinéa premier du règlement grand-ducal modifié du 4 avril 1964.
 Dispositions spéciales à portée générale du règlement grand-ducal du 23 septembre 1988.
 (Entrée en vigueur: 1er janvier 1989)
-\1. Les fonctionnaires nommés définitivement et en activité de service à la date du premier janvier 1989 accèdent à cette date
+1\. Les fonctionnaires nommés définitivement et en activité de service à la date du premier janvier 1989 accèdent à cette date
 à l’échelon suivant de leur grade, avec conservation de l’ancienneté acquise et sans préjudice de l’application des dispositions
 prévues aux articles 7, 8 et 17, section XI, du règlement grand-ducal du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux
 des fonctionnaires de l’Etat.
@@ -32607,9 +32607,9 @@ toutes les conditions d’examen prévues pour sa carrière. Ne sont toutefois p
 grades 18, 17, E8 et E7ter, ni les grades de substitution prévus par l’article 17, section XII du règlement grand-ducal du 4 avril 1964
 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés
 sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
-\2. Les fonctionnaires en service provisoire à la date du premier janvier 1989 qui obtiennent leur nomination définitive à une date
+2\. Les fonctionnaires en service provisoire à la date du premier janvier 1989 qui obtiennent leur nomination définitive à une date
 ultérieure, bénéficieront des dispositions du présent article lors de leur nomination définitive.
-\3. Les fonctionnaires en service à la date du premier janvier 1989 et dont la carrière sera reconstituée à une date ultérieure
+3\. Les fonctionnaires en service à la date du premier janvier 1989 et dont la carrière sera reconstituée à une date ultérieure
 bénéficieront de la mesure lors de cette reconstitution.
 
 \- 586 -
@@ -32617,16 +32617,16 @@ bénéficieront de la mesure lors de cette reconstitution.
 Fonctionnaires communaux - Traitements
 Dispositions spéciales du règlement grand-ducal du 20 décembre 1990.
 Art. 112.
-\1. Le fonctionnaire de la carrière du maître d’éducation physique, détenteur d’un brevet de maîtrise d’électro-mécanicien, en
+1\. Le fonctionnaire de la carrière du maître d’éducation physique, détenteur d’un brevet de maîtrise d’électro-mécanicien, en
 service auprès de la ville d’Esch-sur-Alzette à la date du premier novembre 1989 et détaché, lors de l’entrée en vigueur du présent
 règlement, dans l’enseignement complémentaire, peut bénéficier, avec effet au premier janvier 1990, de l’application de l’article
 IV, paragraphe k), du règlement grand-ducal du 7 septembre 1987 portant modification de la législation sur les traitements, sur les
 pensions et sur les conditions d’admission aux emplois des fonctionnaires communaux.
-\2. Les fonctionnaires disposant au moment de l’entrée en vigueur du présent règlement depuis plus de six ans d’une nomination
+2\. Les fonctionnaires disposant au moment de l’entrée en vigueur du présent règlement depuis plus de six ans d’une nomination
 définitive aux fonctions de garde champêtre avec occupation exclusive dans cet emploi, sont intégrés dans la carrière de l’agent
 municipal avec dispense des conditions de formation et d’examen prévues pour cette carrière. A cet effet ils sont nommés à des
 postes hors-cadre correspondant aux grades auxquels les intéressés sont actuellement classés; ces postes hors-cadre disparaîtront avec la cessation de service des titulaires.
-\3. Si le directeur de conservatoire en activité de service au moment de l’entrée en vigueur du présent règlement et qui ne remplit
+3\. Si le directeur de conservatoire en activité de service au moment de l’entrée en vigueur du présent règlement et qui ne remplit
 pas les conditions prévues au premier alinéa de l’article 17, section V, numéro 8 du règlement grand-ducal modifié du 4 avril 1964
 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés
 sous la surveillance des communes à ceux des fonctionnaires de l’Etat se soumet avec succès à l’examen de qualification prévu par
@@ -32935,12 +32935,12 @@ Version consolidée applicable au 15 septembre 1956
 Note préliminaire
 Les termes «Directeur général du ressort» et «Directeur général du service » figurant au texte original ont été remplacés par le
 terme «Ministre de l’Intérieur» par application
-1.
+1\.
 
 de l’arrêté royal grand-ducal modifié du 9 juillet 1857 portant organisation du Gouvernement grand-ducal (Mém. 1857, I,
 p. 285),
 
-2.
+2\.
 
 de l’arrêté grand-ducal du 7 août 2004 portant constitution des Ministères (Mém. A - 147 du 11 août 2004, p. 2060).
 
@@ -33401,11 +33401,11 @@ modifiée par:
 Loi du 28 juillet 2017 (Mém. A - 679 du 31 juillet 2017; doc. parl. 6932).
 
 Version consolidée applicable au 1er septembre 2017
-\1. Les dispositions de la présente loi s’appliquent au personnel des communes, des syndicats de communes et des ­établissements
+1\. Les dispositions de la présente loi s’appliquent au personnel des communes, des syndicats de communes et des ­établissements
 publics placés sous la surveillance des communes, toutes ces collectivités étant dénommées ci-après par le terme de «communes».
 Par personnel au sens de la présente loi, il faut entendre les fonctionnaires nommés à titre définitif ou provisoire, les ­employés
 communaux contractuels et les auxiliaires, désignés par la suite par le terme «fonctionnaires».
-\2. Il est interdit de se mettre en grève au personnel médical et paramédical des services de garde, aux agents de sécurité et au
+2\. Il est interdit de se mettre en grève au personnel médical et paramédical des services de garde, aux agents de sécurité et au
 personnel chargé de la sécurité dans les services.
 (Loi du 28 juillet 2017)
 «1. Les litiges collectifs font l’objet d’une procédure de conciliation obligatoire devant une commission de conciliation. Au sens de
@@ -33442,10 +33442,10 @@ membres fonctionnaires.
 
 (Loi du 28 juillet 2017)
 «Le mandat de président ou président-suppléant est incompatible avec les fonctions de Président de la Cour supérieure de justice.»
-\2. Est considérée comme organisation syndicale au sens de la présente loi tout groupement professionnel pourvu d’une organisation interne, qui a pour but la défense des intérêts professionnels et qui représente du personnel des communes.
+2\. Est considérée comme organisation syndicale au sens de la présente loi tout groupement professionnel pourvu d’une organisation interne, qui a pour but la défense des intérêts professionnels et qui représente du personnel des communes.
 Est considérée comme organisation syndicale la plus représentative sur le plan national celle qui se signale par le nombre
 important de ses affiliés, par ses activités et par son indépendance.
-\3. Si le conflit se limite à une seule commune, deux représentants des communes à la commission de conciliation seront des
+3\. Si le conflit se limite à une seule commune, deux représentants des communes à la commission de conciliation seront des
 représentants de la commune concernée; un changement dans la composition de la commission interviendra donc, le cas échéant,
 pour le litige en question.
 
@@ -33469,13 +33469,13 @@ l’Intérieur et aux communes concernées dix jours avant le déclenchement de 
 du début ainsi que la durée, éventuellement indéterminée, de la grève envisagée. Il ne peut pas se cumuler avec un autre préavis
 de grève.
 Art. 6.
-\1. En cas de cessation concertée de travail du personnel visé par l’article 1er, l’heure de cessation et celle de reprise du travail
+1\. En cas de cessation concertée de travail du personnel visé par l’article 1er, l’heure de cessation et celle de reprise du travail
 ne peuvent être différentes pour les diverses catégories ou pour les divers membres du personnel intéressé.
-\2. Des arrêts de travail affectant par échelonnement successif ou par roulement concerté les divers secteurs ou les diverses catégories professionnelles d’un même service ou établissement ou les différents services ou établissements d’un même ­organisme
+2\. Des arrêts de travail affectant par échelonnement successif ou par roulement concerté les divers secteurs ou les diverses catégories professionnelles d’un même service ou établissement ou les différents services ou établissements d’un même ­organisme
 ne peuvent avoir lieu.
-\3. Des cessations concertées de travail qui n’ont pas pour objet exclusif la défense des intérêts professionnels, économiques ou
+3\. Des cessations concertées de travail qui n’ont pas pour objet exclusif la défense des intérêts professionnels, économiques ou
 sociaux sont interdites.
-\4. Les cessations de travail qui sont accompagnées, soit d’actes de violence contre les personnes, soit d’actes portant atteinte
+4\. Les cessations de travail qui sont accompagnées, soit d’actes de violence contre les personnes, soit d’actes portant atteinte
 directe aux biens, soit d’entraves à la liberté du travail, sont illégales dans le chef des auteurs de ces actes.
 Art. 7.
 Le bourgmestre ou le président d’un syndicat de communes peuvent respectivement procéder à la réquisition du personnel
@@ -33545,12 +33545,12 @@ communaux
 voir:
 Code de la fonction publique - Formations à l’I.N.A.P.:
 Règlement grand-ducal du 27 octobre 2000 portant
-\1. organisation à l’Institut national d’administration publique de la division de la formation continue du personnel
+1\. organisation à l’Institut national d’administration publique de la division de la formation continue du personnel
 des communes, des syndicats de communes et des établissements publics des communes,
-\2. modification du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires
+2\. modification du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires
 des communes, syndicats de communes et établissements publics placés sous la surveillance des communes
 à ceux des fonctionnaires de l’Etat et
-\3. modification du règlement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des
+3\. modification du règlement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des
 fonctionnaires communaux (
 
 \- 607 -
@@ -33614,7 +33614,7 @@ de l’application des dispositions de l’article 7 ci-dessous.»
 Pour le bénéficiaire ou la communauté domestique bénéficiaire d’un taux inférieur au (Règl. g.-d. du 28 juillet 2014) «taux de
 deux pour cent, appelé taux de référence», résultant d’un prêt contracté soit auprès d’institutions publiques, soit auprès d’entreprises privées, y non comprises les caisses d’épargne-logement, le taux de la subvention, calculé suivant l’article 5 ci-dessous, est
 diminué de la différence existant entre le «taux de référence»2 et le taux effectif du ou des prêts contractés. (Règl. g.-d. du 19 juin
-\2009) «En cas de plusieurs prêts à taux différents, la diminution éventuelle s’applique au taux moyen calculé suivant les facteurs
+2009\) «En cas de plusieurs prêts à taux différents, la diminution éventuelle s’applique au taux moyen calculé suivant les facteurs
 visés à l’article 4, alinéa 3 ci-dessous.»
 Calcul de la subvention
 Art. 4.
@@ -33896,7 +33896,7 @@ des bourgmestre et échevins ou le bureau du syndicat de communes ou le préside
 Art. 5.
 La résiliation du contrat est prononcée par le conseil communal sous l’approbation du ministre de l’Intérieur.
 Art. 6.
-\1. La résiliation du contrat résulte de plein droit:
+1\. La résiliation du contrat résulte de plein droit:
 (Règl. g.-d. du 27 février 2011)
 «a) de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».
 b)
@@ -33911,17 +33911,17 @@ Modifié par le règl. g.-d. du 27 février 2011.
 \- 614 -
 
 Employés communaux - Régime
-\2. Dans l’hypothèse du paragraphe premier sous a), l’agent peut être maintenu en service en qualité d’employé privé telle qu’elle
+2\. Dans l’hypothèse du paragraphe premier sous a), l’agent peut être maintenu en service en qualité d’employé privé telle qu’elle
 est prévue à l’article premier, paragraphe 6, de la loi modifiée du 24 décembre 1985 fixant le statut général des f­onctionnaires
 communaux.
 La décision est prise par le conseil communal sous l’approbation du ministre de l’Intérieur. Un nouveau contrat attribuant le statut
 de l’employé communal est conclu à partir du premier du mois qui suit le recouvrement de la nationalité «de l’un des Etats membres
 de l’Union Européenne»1, à condition que l’agent en question ait été sans interruption au service de la commune.
 Art. 7.
-\1. Sans préjudice de l’application des articles 6 et 9 du présent règlement, le contrat à durée indéterminée devient non résiliable,
+1\. Sans préjudice de l’application des articles 6 et 9 du présent règlement, le contrat à durée indéterminée devient non résiliable,
 sauf à titre de mesure disciplinaire, lorsqu’il est en vigueur depuis dix ans et que l’employé communal est âgé de trente-cinq ans
 au moins.
-\2. La résiliation du contrat par mesure disciplinaire est prononcée par le conseil communal dans la forme et suivant la ­procédure
+2\. La résiliation du contrat par mesure disciplinaire est prononcée par le conseil communal dans la forme et suivant la ­procédure
 prévues par le chapitre 15 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires ­communaux.
 Art. 8.
 (Règl. g.-d. du 27 février 2011)
@@ -33944,19 +33944,19 @@ conditions prescrites. A partir de la même date les contributions et les cotisa
 des fonctionnaires communaux sont perçues par la caisse de prévoyance des fonctionnaires communaux.
 Les communes transmettent à la caisse de prévoyance des fonctionnaires communaux, dans le mois de l’entrée en vigueur,
 copies des contrats d’engagement d’employés communaux ainsi que des décisions de résiliation.
-\2. Les dispositions des articles 12 et 16 de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance
+2\. Les dispositions des articles 12 et 16 de la loi modifiée du 7 août 1912 concernant la création d’une caisse de prévoyance
 pour les fonctionnaires et employés des communes et établissements publics, lesquelles concernent le rachat, sont applicables aux
 employés communaux en cas de changement de régime de pension.
-\3. La pension revenant à un employé communal par application du paragraphe qui précède ne pourra pas être calculée sur la
+3\. La pension revenant à un employé communal par application du paragraphe qui précède ne pourra pas être calculée sur la
 base d’une rémunération supérieure à la rémunération maximale prévue pour la carrière de l’intéressé par le règlement grand-ducal
 fixant la rémunération des employés communaux. Cette rémunération est augmentée le cas échéant par l’allocation de famille, la
 prime d’astreinte et les autres éléments pensionnables légalement dus.
-\4. Pour l’application du présent article la terminologie en rapport avec les employés communaux se substitue à celle en ­rapport
+4\. Pour l’application du présent article la terminologie en rapport avec les employés communaux se substitue à celle en ­rapport
 avec les fonctionnaires communaux de la législation sur les pensions des fonctionnaires communaux.
-\5. Pour l’application du présent article, les dates à considérer qui ne coïncident pas avec le premier d’un mois sont reportées au
+5\. Pour l’application du présent article, les dates à considérer qui ne coïncident pas avec le premier d’un mois sont reportées au
 premier du mois qui suit.
 Art. 9.
-\1. Seront mises en compte pour l’application des délais prévus aux articles 7 et 8 du présent règlement:
+1\. Seront mises en compte pour l’application des délais prévus aux articles 7 et 8 du présent règlement:
 
 a)
 
@@ -33991,53 +33991,53 @@ Employés communaux - Régime
 «e) les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se
 succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de
 l’Etat, lorsqu’il y a reprise de service ultérieure.»
-\2. Pour que les dispositions de l’article 7 soient applicables dans le cas du rengagement en qualité d’employé privé, il faut que le
+2\. Pour que les dispositions de l’article 7 soient applicables dans le cas du rengagement en qualité d’employé privé, il faut que le
 contrat sous le statut de l’employé communal nouvellement conclu soit en vigueur depuis trois ans au moins. Cette ­restriction n’est
 pas applicable dans l’hypothèse visée par l’article 6, paragraphe 2 du présent règlement.
-\3. Si, par application des articles 31.1 et 32.1 de la loi modifiée du 24 décembre 1985 fixant le statut général des ­fonctionnaires
+3\. Si, par application des articles 31.1 et 32.1 de la loi modifiée du 24 décembre 1985 fixant le statut général des ­fonctionnaires
 communaux, l’employé, qui ne remplit pas encore les conditions prévues à l’article 8.1 du présent règlement, bénéficie d’un congé
 sans traitement ou d’un «service à temps partiel à durée déterminée», la commune prend à charge, pendant les deux années
 ­consécutives au congé de maternité ou au congé d’accueil, les cotisations correspondant à l’indemnité intégrale qui aurait été due
 pendant ces périodes, en vue de la continuation de l’assurance conformément à l’article 173 de la loi du 27 juillet 1987 concernant
 l’assurance pension en cas de vieillesse, d’invalidité et de survie.
 Art. 10.
-\1. Les contestations relatives au contrat d’emploi des employés communaux, à leur rémunération et aux sanctions et mesures
+1\. Les contestations relatives au contrat d’emploi des employés communaux, à leur rémunération et aux sanctions et mesures
 disciplinaires qui leur sont appliquées sont de la compétence des juridictions de l’ordre administratif en exécution de la loi modifiée
 du 7 novembre 1996 portant organisation des juridictions de l’ordre administratif.
-\2. Sans préjudice de l’application des dispositions de l’article 8 du présent règlement, les employés communaux sont soumis au
+2\. Sans préjudice de l’application des dispositions de l’article 8 du présent règlement, les employés communaux sont soumis au
 régime de l’assurance pension des employés privés.
 Art. 11.
-\1. Les employés communaux mis à la retraite entre le premier février 1972 et le 30 juin 1975, ainsi que les survivants des employés communaux décédés entre les dates précitées bénéficient d’un supplément de pension s’ils se trouvaient au moment de la
+1\. Les employés communaux mis à la retraite entre le premier février 1972 et le 30 juin 1975, ainsi que les survivants des employés communaux décédés entre les dates précitées bénéficient d’un supplément de pension s’ils se trouvaient au moment de la
 mise à la retraite ou du décès dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément
 à l’article 8, paragraphe 1er du présent règlement.
 Sans préjudice du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions payées par les
 régimes contributifs et le montant de la pension à laquelle ils auraient eu droit en cas d’application de la législation sur les pensions
 des fonctionnaires communaux.
-\2. Les employés communaux mis à la retraite avant le premier février 1972 ainsi que les survivants des employés ­communaux
+2\. Les employés communaux mis à la retraite avant le premier février 1972 ainsi que les survivants des employés ­communaux
 décédés avant cette date bénéficient d’un supplément de pension s’ils se trouvaient, au moment de la mise à la retraite ou du
 décès, dans les conditions ouvrant droit au régime de pension des fonctionnaires communaux conformément à l’article 8, paragraphe 1er du présent règlement.
 Sans préjudice des dispositions du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions
 servies par les régimes contributifs et le montant correspondant à quatre-vingt-treize pour cent de la pension à laquelle ils auraient
 eu droit en cas d’application de la législation sur les pensions des fonctionnaires communaux.
-\3. Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, les employés communaux mis à la retraite sans
+3\. Sans préjudice des dispositions des paragraphes 1 et 2 du présent article, les employés communaux mis à la retraite sans
 avoir rempli les conditions prévues à l’article 8, paragraphe 1er du présent règlement, ainsi que les survivants des employés communaux décédés sans avoir rempli les conditions de l’article 8, paragraphe 1er susvisé, ont également droit à un supplément de
 pension, pourvu qu’ils aient rempli les conditions de l’article 9 de la loi modifiée du 7 août 1912 concernant la création d’une caisse
 de prévoyance pour les fonctionnaires et employés des communes et établissements publics placés sous la surveillance des communes.
 Sans préjudice des dispositions du paragraphe 4 du présent article, ce supplément est fixé à la différence entre les pensions
 payées par les régimes contributifs et le montant correspondant à quatre-vingt-dix pour cent de la pension à laquelle ils auraient eu
 droit conformément à la législation sur les pensions des fonctionnaires communaux.
-\4. Les suppléments fixés aux paragraphes 1er, 2, et 3 du présent article sont réversibles aux survivants, aux conditions et suivant
+4\. Les suppléments fixés aux paragraphes 1er, 2, et 3 du présent article sont réversibles aux survivants, aux conditions et suivant
 les taux de réversion prévus par la législation sur les pensions des fonctionnaires communaux.
-\5. Les suppléments sont calculés par la caisse de prévoyance des fonctionnaires et employés communaux. Leur paiement aura
+5\. Les suppléments sont calculés par la caisse de prévoyance des fonctionnaires et employés communaux. Leur paiement aura
 lieu, à charge de ladite caisse de prévoyance, par la caisse de pension des employés privés ensemble avec la pension du régime
 contributif correspondant aux mois pour lesquels les suppléments sont dûs.
-\6. Les suppléments de pension sont sujets à retenue à titre d’impôts et de cotisation pour compte de la caisse de maladie des
+6\. Les suppléments de pension sont sujets à retenue à titre d’impôts et de cotisation pour compte de la caisse de maladie des
 employés privés. Les retenues sont opérées par les soins de la caisse de pension des employés privés.
-\7. Les suppléments sont servis pendant toute la période pendant laquelle les ayants droit sont en jouissance effective d’une
+7\. Les suppléments sont servis pendant toute la période pendant laquelle les ayants droit sont en jouissance effective d’une
 pension de la part de la caisse de pension des employés privés.
-\8. Les suppléments suivent les fluctuations des valeurs du point indiciaire et de l’indice du coût de la vie par application des
+8\. Les suppléments suivent les fluctuations des valeurs du point indiciaire et de l’indice du coût de la vie par application des
 dispositions valables en matière de pension.
-\9. Le total du supplément, des prestations d’autres régimes de pension luxembourgeois et étrangers ne pourra pas ­dépasser
+9\. Le total du supplément, des prestations d’autres régimes de pension luxembourgeois et étrangers ne pourra pas ­dépasser
 la pension qui serait due si l’ensemble des périodes d’assurance accomplies par l’intéressé sous les régimes luxembourgeois et
 
 \- 616 -
@@ -34045,7 +34045,7 @@ la pension qui serait due si l’ensemble des périodes d’assurance accomplies
 Employés communaux - Régime
 étrangers était pris en considération pour la fixation de la pension conformément à la législation sur les pensions des ­fonctionnaires
 communaux.
-\10. Le supplément alloué pour une pension d’invalidité ou de vieillesse est sujet à réduction en cas de cumul avec une ­pension
+10\. Le supplément alloué pour une pension d’invalidité ou de vieillesse est sujet à réduction en cas de cumul avec une ­pension
 de survie.
 La réduction est égale à la différence entre le montant résultant de la prise en compte et le montant de la non-prise en compte
 du supplément à titre de revenus, en vertu de l’application respectivement des articles 229 du code des assurances sociales ou
@@ -34095,12 +34095,12 @@ Version applicable à partir du 27 mars 2011
 Chapitre Ier. Généralités
 Le présent règlement détermine les modalités de rémunération des employés communaux visés par l’article 1er, paragraphe 5,
 et par l’article 22, deuxième alinéa, de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires ­communaux.
-\1. Dans les dispositions du présent règlement l’expression «le règlement du 4 avril 1964» désigne le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et
+1\. Dans les dispositions du présent règlement l’expression «le règlement du 4 avril 1964» désigne le règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et
 ­établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat.
-\2. Les termes de «conseil communal», «collège des bourgmestre et échevins» et «bourgmestre», tels qu’il sont utilisés par la
+2\. Les termes de «conseil communal», «collège des bourgmestre et échevins» et «bourgmestre», tels qu’il sont utilisés par la
 suite, désignent les organes définis à l’article 1er de la loi modifiée du 24 décembre 1985 fixant le statut général des ­fonctionnaires
 communaux.
-\3. Les termes «employé» et «employés» désignent dans le corps du présent règlement, les employés communaux tels qu’ils
+3\. Les termes «employé» et «employés» désignent dans le corps du présent règlement, les employés communaux tels qu’ils
 sont visés à l’article premier ci-avant.
 Art. 3.
 Les rémunérations des employés communaux sont payables par mois et par anticipation.
@@ -34112,18 +34112,18 @@ les articles 5, 6, 9, 9bis, 10, 11, 12, 14, 16ter, 18 et 19;
 l’article 19bis;
 les articles 19ter, 19septies, 25bis et 25ter.
 Art. 5.
-\1. La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de
+1\. La rémunération revenant à un employé communal en début de carrière est calculée conformément aux dispositions de
 l’article 3, alinéa 1er et de l’article 7, paragraphes 2, 3, 4, 5 et 6 du règlement du 4 avril 1964, sans préjudice du paragraphe 2. du
 présent article.
-\2. a) L’expression «début de carrière» se substitue à celle de «nomination définitive» et le grade fixé comme grade de début de
+2\. a) L’expression «début de carrière» se substitue à celle de «nomination définitive» et le grade fixé comme grade de début de
 carrière est considéré comme grade normal de début de carrière et grade de computation de la bonification ­d’ancienneté
 de service.
 b) Le second alinéa du paragraphe 6 de l’article 7 du règlement du 4 avril 1964 n’est pas applicable.
 (Règl. g.-d. du 11 septembre 2006)
 «Toutefois pour l’employé communal de la carrière E, le grade 7 constitue le grade de computation d’ancienneté de service.»
-\3. La rémunération de l’employé communal n’appartenant pas à l’une des carrières définies à l’article 27 du présent ­règlement,
+3\. La rémunération de l’employé communal n’appartenant pas à l’une des carrières définies à l’article 27 du présent ­règlement,
 est fixée par le conseil communal sous l’approbation du Ministre de l’Intérieur.
-\4. L’indemnité de l’employé communal occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à plein
+4\. L’indemnité de l’employé communal occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à plein
 temps.
 
 Base légale: Loi du 24 décembre 1985 fixant le statut général des fonctionnaires communaux, notamment l’article 22.
@@ -34203,27 +34203,27 @@ Art. 15.
 Pour la détermination des grades de début de carrière, il est renvoyé aux tableaux des carrières du chapitre VI du présent règlement.
 Art. 16.
 Pour les employés des carrières déterminées au chapitre VI du présent règlement les dispositions suivantes sont applicables:
-1)
+1\)
 
 Pour les employés de la carrière A qui ont réussi à l’examen de carrière, le grade 3 est allongé d’un échelon ­supplémentaire
 ayant l’indice 209.
 
-2)
+2\)
 
 Pour les employés de la carrière B1 le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266.
 
-3)
+3\)
 
 Pour les employés de la carrière C qui n’ont pas réussi à l’examen de carrière le grade 7 est allongé d’un échelon
 ­supplémentaire ayant l’indice 266.
 
-4)
+4\)
 
 Pour les employés de la carrière D qui n’ont pas réussi à l’examen de carrière le grade 9 est allongé de trois échelons supplémentaires ayant les indices 326, 338 et 350.
 
 (Règl. g.-d. du 11 septembre 2006)
 «5) Pour les employés de la carrière E, qui n’ont pas réussi à l’examen de carrière, le grade 11 est allongé d’un échelon supplémentaire ayant l’indice 395.»
-6)
+6\)
 
 Pour les employés de la carrière S le grade 14 est allongé d’un échelon supplémentaire ayant l’indice 485.
 
@@ -34232,26 +34232,26 @@ Sur demande de l’employé communal et à condition que ce dernier ait accompli
 de formation continue attestées par des certificats de perfectionnement établis par l’Institut National d’Administration Publique, ou
 d’en avoir été dispensé pour des raisons dûment motivées par le Ministre de l’Intérieur, le collège des bourgmestre et échevins peut,
 sous l’approbation du Ministre de l’Intérieur, accorder le bénéfice des allongements de grade ci-après:
-1)
+1\)
 
 Pour les employés de la carrière A le grade 3 peut être allongé par deux échelons ayant les indices 216 et 222.
 
-2)
+2\)
 
 Pour les employés de la carrière B le grade 6 peut être allongé par deux échelons ayant les indices 251 et 259.
 
-3)
+3\)
 
 Pour les employés de la carrière B1 le grade 7 peut être allongé de deux échelons ayant les indices 275 et 282.
 
-4)
+4\)
 
 Pour les employés de la carrière C le grade 8 peut être allongé par deux échelons ayant les indices 308 et 317.
 
 (Règl. g.-d. du 11 septembre 2006)
 «5) Pour les employés des carrières D et E, le grade 12 peut être allongé de deux échelons supplémentaires ayant les indices
 425 et 435.»
-6)
+6\)
 
 Pour les employés de la carrière S le grade 14 allongé peut être allongé par l’échelon ayant l’indice 500. Les employés de
 cette carrière remplissant les conditions prévues au présent article et classés au grade 14 peuvent bénéficier d’un avancement au grade 15. Les décisions y relatives sont prises par le conseil communal sous l’approbation du Ministre de l’Intérieur.
@@ -34428,14 +34428,14 @@ Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s
 Avancement au grade 3 après onze années de service et au plus tôt à l’âge de cinquante ans.
 
 Dispositions spéciales:
-1.
+1\.
 
 Les employés exerçant les fonctions de concierge sont classés dans cette carrière. Pour ces employés les grades 1, 2 et 3
 sont remplacés respectivement par les grades 3, 4 et 5, sans que les délais d’attente entre les avancements soient modifiés.
 Pour ces employés le grade 5 peut être allongé par les échelons 244 et 249, conformément aux dispositions de l’article 17
 du présent règlement.
 
-2.
+2\.
 
 Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de ­rémunération
 de dix points indiciaires.
@@ -34451,8 +34451,8 @@ Développement ultérieur de la carrière:
 A)
 
 Si l’employé a réussi à l’examen de carrière:
-\1. Avancement au grade 4 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
-\2. Avancement au grade 6 après vingt-deux années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
+1\. Avancement au grade 4 après neuf années de service depuis l’engagement et au plus tôt à l’âge de vingt-huit ans.
+2\. Avancement au grade 6 après vingt-deux années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
 
 B)
 
@@ -34460,12 +34460,12 @@ Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s
 Avancement au grade 4 après onze années de service depuis l’engagement et au plus tôt à l’âge de cinquante ans.
 
 Dispositions spéciales:
-1.
+1\.
 
 Les employés de cette carrière desservant un central de télécommunication bénéficient d’un supplément de ­rémunération
 de dix points indiciaires.
 
-2.
+2\.
 
 Les employés de cette carrière exerçant les fonctions de secrétaire de direction bénéficient d’un supplément de ­rémunération
 de dix points indiciaires.
@@ -34480,8 +34480,8 @@ Développement ultérieur de la carrière:
 A)
 
 Si l’employé a réussi à l’examen de carrière:
-\1. Avancement au grade 6 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
-\2. Avancement au grade 7 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+1\. Avancement au grade 6 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
+2\. Avancement au grade 7 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
 \- 625 -
 
@@ -34535,9 +34535,9 @@ Développement ultérieur de la carrière:
 A)
 
 Si l’employé a réussi à l’examen de carrière:
-\1) Avancement au grade 9 dix ans après l’engagement et au plus tôt à l’âge de trente et un ans.
-\2) Avancement au grade 10 quatorze ans après l’engagement et au plus tôt à l’âge de trente-cinq ans.
-\3) Avancement au grade 11 vingt-deux ans après l’engagement et au plus tôt à l’âge de quarante-six ans.
+1\) Avancement au grade 9 dix ans après l’engagement et au plus tôt à l’âge de trente et un ans.
+2\) Avancement au grade 10 quatorze ans après l’engagement et au plus tôt à l’âge de trente-cinq ans.
+3\) Avancement au grade 11 vingt-deux ans après l’engagement et au plus tôt à l’âge de quarante-six ans.
 
 B)
 
@@ -34684,8 +34684,8 @@ Développement ultérieur de la carrière:
 A)
 
 Si l’employé a subi avec succès l’examen de carrière:
-\1. Avancement au grade 7 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
-\2. Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
+1\. Avancement au grade 7 neuf ans après l’engagement et au plus tôt à l’âge de vingt-huit ans.
+2\. Avancement au grade 8 vingt-deux ans après l’engagement et au plus tôt à l’âge de cinquante ans.
 
 B)
 
@@ -34716,7 +34716,7 @@ Chapitre VII. Examens de carrière
 Art. 28.
 Les examens de carrière des employés communaux sont réglés comme suit:
 A) Employés administratifs et techniques
-\1. Carrière A
+1\. Carrière A
 a) Epreuve portant sur un sujet en relation avec l’occupation quotidienne du candidat . . . . . . . . . . . . . . . . . . .
 
 60 points
@@ -34734,7 +34734,7 @@ Le candidat peut choisir entre les langues allemande et française.
 Pour l’employé garçon de bureau les travaux pratiques sont remplacés par une épreuve orale. Le candidat doit pouvoir s’exprimer en luxembourgeois, en français et en allemand en donnant les renseignements qui lui sont demandés.
 Lorsque le candidat est empêché par un défaut physique de s’exprimer par écrit, la commission peut décider de l’examiner
 oralement dans toutes les branches.
-\2. Carrière B
+2\. Carrière B
 a) Reproduction après lecture d’un texte français . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 60 points
@@ -34758,7 +34758,7 @@ e) Principes élémentaires de droit public luxembourgeois . . . . . . . . . . .
 30 points
 
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270 points
-\3. Carrière B1
+3\. Carrière B1
 a) Reproduction après lecture d’un texte français . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 60 points
@@ -34782,7 +34782,7 @@ e) Principes élémentaires de droit public luxembourgeois . . . . . . . . . . .
 30 points
 
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270 points
-\4. Carrière C
+4\. Carrière C
 A. Examen de carrière
 a) Rédaction d’un rapport en langue française sur un sujet administratif ou technique . . . . . . . . . . . . . . . . . . .
 
@@ -34813,7 +34813,7 @@ B. Epreuve de qualification
 a) Questions en rapport avec la pratique professionnelle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 b) Rapport d’activité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200 points
-\5. Carrière D
+5\. Carrière D
 A) Examen de carrière
 a) Elaboration d’un mémoire en langue française  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120 points
 b) Correspondance de service en langue française . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -34861,7 +34861,7 @@ II. Epreuve de qualification:
 a) Questions en rapport avec la pratique professionnelle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 b) Rapport d’activité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points»
 B) Employés exerçant une profession de santé
-\1. Carrière de l’aide soignant
+1\. Carrière de l’aide soignant
 a) Hygiène hospitalière . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -34883,7 +34883,7 @@ d) Rédaction d’un rapport de service en langues française et allemande  . . 
 50 points
 
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250 points
-\2. Carrière de l’infirmier
+2\. Carrière de l’infirmier
 a) Hygiène hospitalière et pharmacologie  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -34904,7 +34904,7 @@ iii) Législation sanitaire
 (Le programme détaillé de ces branches est fixé par la commission d’examen)
 d) Rédaction d’un rapport de service en langues française et allemande  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 points
-\3. Carrière de l’infirmier en pédiatrie
+3\. Carrière de l’infirmier en pédiatrie
 a) Pharmacologie et diététique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -34923,12 +34923,12 @@ iii) Législation sanitaire;
 (Le programme détaillé de ces branches est fixé par la commission d’examen)
 d) Rédaction d’un rapport de service en langues allemande et française  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 points
-\4. Carrière de l’assistant technique médical
+4\. Carrière de l’assistant technique médical
 a) 1. pour l’ATM de radiologie:
 applications diagnostiques et thérapeutiques des radiations ionisantes;
-\2. pour l’ATM de chirurgie:
+2\. pour l’ATM de chirurgie:
 déroulement des opérations chirurgicales;
-\3. pour l’ATM de laboratoire:
+3\. pour l’ATM de laboratoire:
 méthodes d’analyses en biologie clinique, en microbiologie, en anatomie pathologique, en chimie médicale,
 en transfusion sanguine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -34948,7 +34948,7 @@ iii) Législation sanitaire;
 (Le programme détaillé de ces branches est fixé par la commission d’examen)
 d) Rédaction d’un rapport de service en langues allemande et française  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 points
-\5. Carrière du masseur
+5\. Carrière du masseur
 a) Techniques des massages généraux . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -34967,7 +34967,7 @@ iii) Législation sanitaire;
 (Le programme détaillé de ces branches est fixé par la commission d’examen)
 d) Rédaction d’un rapport de service en langues allemande et française  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 points
-\6. Carrière de l’infirmier spécialisé
+6\. Carrière de l’infirmier spécialisé
 a) Techniques et moyens relevant de la spécialité du candidat  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -34990,7 +34990,7 @@ Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 \- 631 -
 
 Employés communaux - Rémunération
-\7. Carrière de la sage-femme
+7\. Carrière de la sage-femme
 a) Pathologie d’accouchement et des suites des couches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 50 points
@@ -35010,7 +35010,7 @@ iii) Législation sanitaire;
 d) Rédaction d’un rapport de service en langues allemande et française  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 points
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 300 points
 C) Employés exerçant un emploi éducatif ou social
-\1. Carrières de l’éducateur et de l’éducateur-instructeur
+1\. Carrières de l’éducateur et de l’éducateur-instructeur
 a) Rédaction d’un rapport en langue française sur un sujet administratif ou technique . . . . . . . . . . . . . . . . . . .
 
 60 points
@@ -35035,7 +35035,7 @@ e) Principes élémentaires de droit public luxembourgeois . . . . . . . . . . .
 
 Total: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 270 points
 Le degré de difficulté général de l’examen est arrêté par la commission en tenant compte des carrières.
-\2. Carrières de l’éducateur gradué et de l’éducateur sanitaire
+2\. Carrières de l’éducateur gradué et de l’éducateur sanitaire
 Le programme est identique à celui prévu sous la lettre A) du présent article pour la carrière D, à l’exception de l’épreuve «Correspondance de service en langue allemande» qui est remplacée par une épreuve théorique spécifiquement technique portant sur
 soixante points (total 380 points).
 Art. 29.
@@ -35205,13 +35205,13 @@ Loi du 24 juillet 2001 portant création d’un établissement public nommé «C
 Neumünster», Art. 9
 Loi du 26 mai 2004 portant création d’un établissement public nommé «Centre de Musiques Amplifiées», Art. 8
 Loi du 30 mai 2005 portant:
-\1) organisation de l’Institut Luxembourgeois de Régulation (…), Art. 4
+1\) organisation de l’Institut Luxembourgeois de Régulation (…), Art. 4
 Loi du 22 mai 2009 relative à l’Œuvre Nationale de Secours Grande-Duchesse Charlotte et à la Loterie Nationale, Art. 8)
 Loi du 16 décembre 2011 portant réorganisation de l’établissement public nommé «Salle de concerts Grande-Duchesse
 Joséphine-Charlotte» et de la Fondation Henri Pensis, Art. 8
 Loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle, Art. 23
 Loi du 3 décembre 2014
-\1. ayant pour objet l’organisation des centres de recherche publics (…), Art. 25
+1\. ayant pour objet l’organisation des centres de recherche publics (…), Art. 25
 Loi du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg, Art. 58
 Code de la santé:
 Loi du 10 décembre 1975 relative au Centre hospitalier de Luxembourg, Art. 22
@@ -35224,7 +35224,7 @@ Code de l’éducation nationale:
 Loi du 4 septembre 1990 portant réforme de l’enseignement secondaire technique et de la formation professionnelle
 continue, Art. 44
 Loi du 1er décembre 1992 portant
-\1. création d’un établissement public pour le développement de la formation professionnelle continue (…), Art. 9
+1\. création d’un établissement public pour le développement de la formation professionnelle continue (…), Art. 9
 
 \- 639 -
 
@@ -35321,12 +35321,12 @@ des logements et des bâtiments du Grand-Duché au 1er février 2011.1
 Un recensement de la population, combiné avec un recensement des ménages, des logements et des bâtiments d’habitation est
 réalisé le 1er février 2011 dans toutes les communes du pays.
 Cette opération a pour but de constater:
-1.
+1\.
 
 l’effectif de la population de résidence habituelle, ainsi que le lieu de résidence des personnes la composant à la date du 1er
 février 2011;
 
-2.
+2\.
 
 le nom et le prénom, le sexe, le mois, l’année et le pays de naissance, l’année d’entrée la plus récente au Grand-Duché
 pour les personnes nées à l’étranger et pour les personnes ayant résidé pendant au moins un an à l’étranger, le pays de
@@ -35338,20 +35338,20 @@ niveau d’instruction atteint et le pays d’obtention du diplôme; pour les é
 pour les personnes exerçant une profession ou suivant un enseignement, le nombre hebdomadaire de trajets, le temps du
 trajet et le moyen de transport; pour toutes les femmes ayant eu des enfants, le nombre d’enfants nés vivants.
 
-3.
+3\.
 
 le nombre et la composition des ménages;
 
-4.
+4\.
 
 les conditions de logement, à savoir l’année depuis laquelle le ménage occupe le logement, le statut d’occupation du logement, le nombre de pièces et la superficie du logement, l’équipement du logement, le mode de chauffage et le ­principal
 combustible pour chauffer le logement, l’équipement du ménage;
 
-5.
+5\.
 
 le nombre de bâtiments d’habitation et de logements habités et non habités;
 
-6.
+6\.
 
 la nature des bâtiments d’habitation à savoir le type d’immeuble, le nombre de logements habités, le nombre de l­ogements
 inhabités, l’année d’achèvement de l’immeuble, la dernière année de rénovation substantielle, l’existence d’un passeport
@@ -35359,29 +35359,29 @@ inhabités, l’année d’achèvement de l’immeuble, la dernière année de r
 
 Art. 3.
 Le recensement se fait au moyen des imprimés énumérés ci-après:
-1.
+1\.
 
 Le bordereau de maison (Modèle I) à utiliser pour recenser toute construction si elle comprend au moins un logement utilisé
 à des fins d’habitation.
 
-2.
+2\.
 
 La feuille de ménage et de logement (Modèle II) destinée à recevoir les inscriptions concernant l’ensemble des individus
 présents dans le ménage privé ainsi que les conditions de logement du ménage.
 
-3.
+3\.
 
 La feuille de ménage collectif (Modèle III).
 
-4.
+4\.
 
 La liste de contrôle (Modèle IV), à remplir par l’agent recenseur.
 
-5.
+5\.
 
 L’état récapitulatif Quartiers de recensement «QR» (Modèle V), à remplir par l’administration communale.
 
-6.
+6\.
 
 L’état récapitulatif Sections électorales «SE» (Modèle VI), à remplir par l’administration communale dans les communes où
 les sections électorales subsistent.
@@ -41326,7 +41326,7 @@ Falls JA, wieviele
 
 CODE COMMUNAL − Recensements
 
-\35. RÉSIDENCE HABITUELLE au GRAND-DUCHÉ / GEWÖHNLICHER WOHNSITZ in LUXEMBURG
+35\. RÉSIDENCE HABITUELLE au GRAND-DUCHÉ / GEWÖHNLICHER WOHNSITZ in LUXEMBURG
 Uniquement pour ceux ayant répondu NON à la question 16 / Ausschließlich für diejenigen die NEIN auf die Frage 16 geantwortet haben
 Personne /
 Person
@@ -41606,16 +41606,16 @@ Version consolidée applicable au 27 mai 2014
 Art. 1er. Généralités
 Le référendum est organisé soit à la suite d’une décision du conseil communal, soit sur la demande d’un certain nombre d’électeurs conformément aux dispositions de l’article 35 de la loi communale du 13 décembre 1988.
 Art. 2. De l’organisation du référendum
-\1. Lorsque le conseil communal décide d’organiser un référendum, il formule en même temps une ou plusieurs questions à
+1\. Lorsque le conseil communal décide d’organiser un référendum, il formule en même temps une ou plusieurs questions à
 soumettre aux électeurs et fixe la date du référendum qui aura lieu au plus tôt après un délai de 30 jours.
-\2. Lorsque les électeurs désirent provoquer un référendum ils présentent une demande afférente au conseil communal.
+2\. Lorsque les électeurs désirent provoquer un référendum ils présentent une demande afférente au conseil communal.
 Dans leur demande ils formulent une ou plusieurs questions à soumettre aux électeurs. Chaque électeur qui appuie la demande
 d’organiser un référendum doit y indiquer de sa main et lisiblement ses nom, prénom, date de naissance et adresse exacte et
 apposer sa signature derrière les indications relatant son identité.
 Chaque électeur ne peut signer qu’une seule fois la même demande de référendum. Une signature au nom d’un tiers est interdite.
-\3. Toute question soumise au référendum doit être formulée de manière que l’électeur ne soit pas influencé et qu’il puisse y
+3\. Toute question soumise au référendum doit être formulée de manière que l’électeur ne soit pas influencé et qu’il puisse y
 répondre par oui ou par non.
-\4. Une fois déposées en une seule fois auprès du conseil communal, les listes de signatures ne peuvent être ni restituées ni
+4\. Une fois déposées en une seule fois auprès du conseil communal, les listes de signatures ne peuvent être ni restituées ni
 consultées.
 (Règl. g.-d. du 19 mai 2014)
 «Art. 3. Des modalités du vote
@@ -41625,17 +41625,17 @@ modalités prévues par la loi électorale pour les élections communales.
 conformément aux dispositions de la loi électorale. Les dispositions de cette loi relatives aux listes électorales pour les élections
 communales, notamment les articles 7 à 50 inclus, sont d’application.»
 Art. 4. De la formation des collèges électoraux
-\1. Les électeurs votent au chef-lieu de la commune ou dans les localités de vote déterminées conformément à la loi ­électorale.
-\2. Les collèges électoraux sont formés conformément à la loi électorale.
+1\. Les électeurs votent au chef-lieu de la commune ou dans les localités de vote déterminées conformément à la loi ­électorale.
+2\. Les collèges électoraux sont formés conformément à la loi électorale.
 
 \- 687 -
 
 CODE COMMUNAL − Référendum communal
 Art. 5. De la composition des bureaux
-\1. Chaque bureau électoral se compose du président, de quatre assesseurs et d’un secrétaire.
-\2. Le président du bureau principal est nommé par le président du tribunal d’arrondissement parmi les électeurs de la ­commune,
+1\. Chaque bureau électoral se compose du président, de quatre assesseurs et d’un secrétaire.
+2\. Le président du bureau principal est nommé par le président du tribunal d’arrondissement parmi les électeurs de la ­commune,
 et les présidents des bureaux sectionnaires sont nommés, parmi ces électeurs, par le président du bureau principal.
-\3. Quinze jours au moins avant le référendum le président de chaque bureau désigne 4 assesseurs et 4 assesseurs ­suppléants
+3\. Quinze jours au moins avant le référendum le président de chaque bureau désigne 4 assesseurs et 4 assesseurs ­suppléants
 parmi les électeurs inscrits sur la liste de son bureau.
 Dans les quarante-huit heures de la désignation des assesseurs et des assesseurs suppléants, le président de chaque bureau
 les informe par lettre recommandée et les invite à remplir leurs fonctions aux jours fixés; en cas d’empêchement, ils doivent aviser le
@@ -41644,73 +41644,73 @@ de son bureau.
 Le huitième jour qui précède le référendum, les présidents des bureaux sectionnaires sont tenus de notifier au président du
 bureau principal de la commune la composition de leur bureau. Ils dresseront à cet effet un tableau renseignant les noms, prénoms,
 professions et domiciles des présidents, assesseurs et secrétaires; les assesseurs y figureront selon l’ordre de leur désignation.
-\4. La composition des bureaux est rendue publique par le président du bureau principal de la commune la veille au plus tard du
+4\. La composition des bureaux est rendue publique par le président du bureau principal de la commune la veille au plus tard du
 référendum par voie d’affiches à apposer à la maison communale et à l’entrée de chaque bureau. Si, à l’heure fixée pour le commencement du scrutin, les assesseurs et les assesseurs suppléants font défaut ou si au cours des opérations un assesseur est
 empêché, le président complète d’office le bureau par des électeurs présents.
 En cas d’empêchement ou d’absence du président du bureau de vote au commencement ou pendant le cours des ­opérations,
 le premier assesseur ou l’un des assesseurs suivants selon l’ordre de leur inscription au tableau prévisé est appelé à le ­remplacer.
 Mention en est faite au procès-verbal.
-\5. Le secrétaire est choisi par le président. Il n’a pas voix délibérative.
-\6. Les membres et secrétaires des bureaux reçoivent des jetons de présence dont le nombre et le montant sont identiques à
+5\. Le secrétaire est choisi par le président. Il n’a pas voix délibérative.
+6\. Les membres et secrétaires des bureaux reçoivent des jetons de présence dont le nombre et le montant sont identiques à
 ceux fixés pour les élections communales.
-\7. Les membres des bureaux sont tenus de recenser fidèlement les suffrages.
+7\. Les membres des bureaux sont tenus de recenser fidèlement les suffrages.
 Les membres des bureaux et les secrétaires sont tenus de garder le secret des votes.
 Il sera donné lecture de cette disposition et mention en est faite au procès-verbal.
-\8. Nul ne peut être président ou assesseur, s’il n’est électeur de la commune.
+8\. Nul ne peut être président ou assesseur, s’il n’est électeur de la commune.
 Art. 6. De la confection des bulletins de vote
 Les bulletins de vote sont imprimés par les soins de l’administration communale conformément au modèle annexé au ­présent
 règlement grand-ducal. Ils indiquent le nom de la commune et la date du référendum. La ou les questions y sont ­reproduites en
 langues luxembourgeoise, française et allemande. Une case figurera à droite et à gauche de chaque question; celle à droite est
 destinée à recevoir les votes affirmatifs, celle à gauche les votes négatifs.
 Art. 7. De la convocation des électeurs
-\1. Les collèges des bourgmestre et échevins envoient sous récépissé, au moins cinq jours d’avance, aux électeurs des lettres
+1\. Les collèges des bourgmestre et échevins envoient sous récépissé, au moins cinq jours d’avance, aux électeurs des lettres
 de convocation indiquant le jour, les heures d’ouverture et de fermeture du scrutin, le local où le référendum a lieu, et, s’il y a plusieurs bureaux, la désignation de celui où l’électeur est appelé à voter. La convocation des électeurs est, en outre, publiée selon
 les formes usitées.
 L’instruction annexée au présent règlement grand-ducal ainsi que la question posée sont reproduites sur les lettres de ­convocation
 en langues luxembourgeoise, française et allemande.
-\2. Les électeurs ne peuvent se faire remplacer. Le vote est obligatoire.
+2\. Les électeurs ne peuvent se faire remplacer. Le vote est obligatoire.
 Art. 8. De l’installation des bureaux
-\1. Le bureau et les compartiments dans lesquels les électeurs expriment leur vote sont établis conformément au ­dessin-modèle
+1\. Le bureau et les compartiments dans lesquels les électeurs expriment leur vote sont établis conformément au ­dessin-modèle
 annexé à la loi électorale. Toutefois les dimensions et le dispositif peuvent être modifiés selon que l’exige l’état des locaux.
-\2. Il y a un compartiment ou pupitre isolé pour deux cents électeurs.
-\3. L’instruction annexée au présent règlement grand-ducal est placardée dans la salle d’attente de chaque bureau électoral.
+2\. Il y a un compartiment ou pupitre isolé pour deux cents électeurs.
+3\. L’instruction annexée au présent règlement grand-ducal est placardée dans la salle d’attente de chaque bureau électoral.
 Art. 9. De l’admission des électeurs au vote
-\1. Les électeurs sont admis au vote de huit heures du matin à deux heures de l’après-midi. A l’ouverture du scrutin ou au cours
+1\. Les électeurs sont admis au vote de huit heures du matin à deux heures de l’après-midi. A l’ouverture du scrutin ou au cours
 des opérations, le président peut, s’il le juge utile, faire procéder à un appel des électeurs dans l’ordre où ils sont inscrits sur la liste
 électorale.
 Tout électeur se trouvant avant deux heures dans le local est encore admis à voter.
-\2. A mesure que les électeurs se présentent munis de leurs lettres de convocation, le secrétaire pointe leur nom sur la liste électorale; un assesseur désigné par le président en agit de même sur la seconde liste des électeurs du bureau.
-\3. L’électeur qui n’est pas muni de sa lettre de convocation peut être admis au vote si son identité et sa qualité sont reconnues
+2\. A mesure que les électeurs se présentent munis de leurs lettres de convocation, le secrétaire pointe leur nom sur la liste électorale; un assesseur désigné par le président en agit de même sur la seconde liste des électeurs du bureau.
+3\. L’électeur qui n’est pas muni de sa lettre de convocation peut être admis au vote si son identité et sa qualité sont reconnues
 par le bureau.
 
 \- 688 -
 
 CODE COMMUNAL − Référendum communal
 En cas de réclamation du chef d’erreur dans les listes d’un bureau, celui-ci décide, après constatation sur la liste officielle déposée au bureau principal de la commune par les soins du commissaire de district.
-\4. Nul ne peut être admis à voter, s’il n’est inscrit sur la liste officielle de la commune.
+4\. Nul ne peut être admis à voter, s’il n’est inscrit sur la liste officielle de la commune.
 A défaut d’inscription sur cette liste, nul n’est admis à voter s’il ne se présente muni d’une décision de l’autorité compétente
 constatant qu’il a le droit de vote dans la commune.
-\5. Malgré l’inscription sur la liste, ne sont pas convoqués ni admis au vote ceux qui sont privés du droit de vote par l’art. 4 de la
+5\. Malgré l’inscription sur la liste, ne sont pas convoqués ni admis au vote ceux qui sont privés du droit de vote par l’art. 4 de la
 loi électorale ou par une décision de l’autorité judiciaire dûment produite.
 Les membres du bureau et le secrétaire, s’il est électeur, votent dans le bureau où ils siègent. Mention en est faite à la suite des
 listes de pointage.
-\6. L’électeur reçoit des mains du président un bulletin de vote, plié en quatre à angle droit, et qui est estampillé au verso d’un
+6\. L’électeur reçoit des mains du président un bulletin de vote, plié en quatre à angle droit, et qui est estampillé au verso d’un
 timbre portant l’indication de la commune et le numéro du bureau.
 Il se rend directement dans l’un des compartiments; il y formule son vote, montre au président son bulletin replié ­régulièrement
 en quatre, le timbre à l’extérieur, et le dépose dans l’urne.
 Il lui est interdit de déplier son bulletin en sortant du compartiment-isoloir, de manière à faire connaître le vote qu’il a émis. S’il le
 fait, le président lui reprend le bulletin déplié, qui est aussitôt annulé et détruit, et invite l’électeur à recommencer son vote. Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il peut en demander un autre au président, en lui rendant le premier,
 qui est aussitôt détruit. – Il en est fait mention au procès-verbal.
-\7. Lorsqu’il est constaté qu’un électeur est aveugle ou infirme, le président l’autorise à se faire accompagner d’un guide ou d’un
+7\. Lorsqu’il est constaté qu’un électeur est aveugle ou infirme, le président l’autorise à se faire accompagner d’un guide ou d’un
 soutien et même à faire formuler par celui-ci le vote qu’il se trouverait dans l’impossibilité de formuler lui-même.
 Les noms de l’électeur et de son guide ou soutien ainsi que la nature de l’infirmité invoquée doivent être inscrits au procès-verbal.
-\8. L’électeur ne peut s’arrêter dans le compartiment que pendant le temps nécessaire pour former son bulletin de vote.
-\9. A mesure qu’un électeur sort du local du vote, le bureau admet un autre, de manière que les électeurs se succèdent sans
+8\. L’électeur ne peut s’arrêter dans le compartiment que pendant le temps nécessaire pour former son bulletin de vote.
+9\. A mesure qu’un électeur sort du local du vote, le bureau admet un autre, de manière que les électeurs se succèdent sans
 interruption dans les compartiments isolés.
-\10. Nul n’est tenu de révéler le secret de son vote, à quelque réquisition que ce soit, même dans une instruction ou contestation
+10\. Nul n’est tenu de révéler le secret de son vote, à quelque réquisition que ce soit, même dans une instruction ou contestation
 judiciaire ou dans une enquête parlementaire.
 Art. 10. De la police des bureaux électoraux
-\1. Le président du bureau a seul la police du local où se fait le référendum. Il peut déléguer ce droit à l’un des membres du bureau
+1\. Le président du bureau a seul la police du local où se fait le référendum. Il peut déléguer ce droit à l’un des membres du bureau
 pour maintenir l’ordre dans la salle d’attente.
 Sauf les exceptions prévues par le présent règlement et par la loi électorale, les électeurs du bureau sont seuls admis dans
 cette salle.
@@ -41720,35 +41720,35 @@ Ils ne peuvent se présenter en armes.
 Nulle force armée ne peut être placée sans la réquisition du président, dans la salle des séances ni aux abords du lieu où se
 fait le référendum.
 Les autorités civiles et les commandants militaires sont tenus d’obtempérer aux réquisitions écrites du président.
-\2. Le président du bureau est chargé de prendre les mesures nécessaires pour assurer l’ordre et la tranquillité aux abords et
+2\. Le président du bureau est chargé de prendre les mesures nécessaires pour assurer l’ordre et la tranquillité aux abords et
 dans l’intérieur de l’édifice où se fait le référendum.
-\3. Quiconque, au mépris du paragraphe 1 ci-dessus entrera pendant les opérations électorales, dans le local où siège le bureau,
+3\. Quiconque, au mépris du paragraphe 1 ci-dessus entrera pendant les opérations électorales, dans le local où siège le bureau,
 est expulsé par l’ordre du président ou de son délégué. S’il résiste ou s’il rentre, l’incident est consigné au procès-verbal.
-\4. Le président ou son délégué rappelle à l’ordre ceux qui, dans le local où se fait le référendum, donnent des signes publics soit
+4\. Le président ou son délégué rappelle à l’ordre ceux qui, dans le local où se fait le référendum, donnent des signes publics soit
 d’approbation, soit d’improbation, causent du tumulte ou excitent au désordre, de quelque manière que ce soit. S’ils ­continuent, le
 président ou son délégué peut les faire expulser, sauf à leur permettre de déposer leur vote, s’il y a lieu.
 L’ordre d’expulsion sera consigné au procès-verbal.
-\5. Un exemplaire au moins du présent règlement grand-ducal et de la loi électorale sont déposés au bureau à la disposition des
+5\. Un exemplaire au moins du présent règlement grand-ducal et de la loi électorale sont déposés au bureau à la disposition des
 électeurs.
 Art. 11. Des dépenses relatives à l’organisation du référendum
 Les dépenses relatives à l’organisation du référendum sont à charge de la commune où le référendum a lieu.
 Art. 12. Du vote
-\1. Chaque électeur dispose d’une voix par question posée.
-\2. L’électeur exprime son vote soit en remplissant le carré d’une des deux cases figurant sur le bulletin de vote à côté de chaque
+1\. Chaque électeur dispose d’une voix par question posée.
+2\. L’électeur exprime son vote soit en remplissant le carré d’une des deux cases figurant sur le bulletin de vote à côté de chaque
 question, soit en inscrivant une croix (+ ou x) dans l’une des deux cases à côté de chaque question.
-\3. Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il
+3\. Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il
 est fait mention du nombre de ces bulletins au procès-verbal.
 
 \- 689 -
 
 CODE COMMUNAL − Référendum communal
 Art. 13. Du dépouillement du scrutin et de la proclamation du résultat du référendum
-\1. Chaque bureau électoral compte, sans les déplier, les bulletins contenus dans l’urne.
+1\. Chaque bureau électoral compte, sans les déplier, les bulletins contenus dans l’urne.
 Le nombre des votants et celui des bulletins sont inscrits au procès-verbal.
 Le président, avant d’ouvrir aucun bulletin, mêle tous ceux que le bureau est chargé de dépouiller.
-\2. L’un des assesseurs déplie les bulletins et les remet au président, qui énonce les suffrages obtenus par chaque question.
+2\. L’un des assesseurs déplie les bulletins et les remet au président, qui énonce les suffrages obtenus par chaque question.
 Deux assesseurs font le recensement des votes affirmatifs et des votes négatifs et en tiennent note, chacun séparément.
-\3. Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
+3\. Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
 Sont nuls:
 1°
 
@@ -41762,33 +41762,33 @@ les bulletins qui expriment plus d’un suffrage par question posée et ceux qui
 
 les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient, à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisée par la loi.
 
-\4. Lorsque tous les bulletins ont été dépouillés, les autres membres du bureau les examinent et soumettent au bureau leurs
+4\. Lorsque tous les bulletins ont été dépouillés, les autres membres du bureau les examinent et soumettent au bureau leurs
 observations ou réclamations.
 Les bulletins qui ont fait l’objet de réclamations sont ajoutés aux bulletins valables au cas où ils ont été admis comme tels par
 décision du bureau.
 Les bulletins annulés ou contestés, autres que les blancs, sont paraphés par deux membres du bureau.
 Les réclamations sont actées au procès-verbal ainsi que les décisions du bureau.
-\5. Le bureau dresse, d’après les listes tenues par un assesseur et le secrétaire, le relevé des électeurs figurant sur la liste
+5\. Le bureau dresse, d’après les listes tenues par un assesseur et le secrétaire, le relevé des électeurs figurant sur la liste
 électorale du bureau de vote et qui n’ont pas pris part au référendum. Ce relevé, signé par le président et le secrétaire du bureau
 sectionnaire est transmis par son président, dans les trois jours, au président du bureau principal.
 Le président du bureau sectionnaire consigne sur ce relevé les observations présentées et y annexe les pièces qui peuvent lui
 avoir été transmises par les absents aux fins de justification.
 Le président du bureau principal, après avoir recueilli tous ces relevés, les adresses, avec les pièces y annexées, au juge de
 paix du canton.
-\6. Les bulletins de vote sont groupés par «bulletins valables» et «bulletins nuls» et placés, à l’exclusion de toutes autres pièces,
+6\. Les bulletins de vote sont groupés par «bulletins valables» et «bulletins nuls» et placés, à l’exclusion de toutes autres pièces,
 dans deux enveloppes fermées, dont l’une contiendra les bulletins valables et l’autre les bulletins nuls.
 La suscription de chacune de ces enveloppes porte l’indication du lieu et de la date du référendum, du numéro du bureau de
 dépouillement et du nombre des bulletins qu’elle renferme.
 Ces deux enveloppes sont réunies en un seul paquet qui est cacheté du sceau communal ou de celui d’un membre du bureau
 et muni des signatures du président et d’un assesseur et dont la suscription porte les mêmes indications.
-\7. Le bureau arrête le nombre des votants, celui des bulletins blancs ou nuls et des bulletins valables, ainsi que le nombre des
+7\. Le bureau arrête le nombre des votants, celui des bulletins blancs ou nuls et des bulletins valables, ainsi que le nombre des
 votes affirmatifs et des votes négatifs.
 Il les fait inscrire au procès-verbal.
-\8. Le procès-verbal dont question aux paragraphes précédents et qui renseigne les opérations faites par le bureau, est dressé en
+8\. Le procès-verbal dont question aux paragraphes précédents et qui renseigne les opérations faites par le bureau, est dressé en
 double exemplaire et signé séance tenante par les membres du bureau et le secrétaire. Il est immédiatement porté par le président
 du bureau sectionnaire au bureau principal en même temps que les bulletins de vote et toutes les pièces tenues par le bureau.
-\9. Le bureau principal, après avoir recueilli les procès-verbaux des bureaux sectionnaires de la commune et procédé au recensement général des votes, proclame le ou les résultats du référendum.
-\10. Le procès-verbal du référendum, dressé par le bureau principal et signé par le président, les assesseurs et le secrétaire,
+9\. Le bureau principal, après avoir recueilli les procès-verbaux des bureaux sectionnaires de la commune et procédé au recensement général des votes, proclame le ou les résultats du référendum.
+10\. Le procès-verbal du référendum, dressé par le bureau principal et signé par le président, les assesseurs et le secrétaire,
 est immédiatement envoyé, sous pli recommandé, avec les procès-verbaux des bureaux sectionnaires et toutes autres pièces à
 l’appui, à l’exclusion des bulletins de vote, au commissaire de district qui transmet le tout au Gouvernement avec ses observations
 éventuelles.
@@ -41802,36 +41802,36 @@ Bulletins de vote.»
 Les bulletins ainsi réunis, sont expédiés directement, par envoi recommandé, au Ministre du service par les soins du président
 du bureau principal.
 Les bulletins sont détruits lorsqu’il a été définitivement statué sur le référendum.
-\11. La liste originale des électeurs déposée au bureau principal est renvoyée par le président de ce bureau au commissaire de
+11\. La liste originale des électeurs déposée au bureau principal est renvoyée par le président de ce bureau au commissaire de
 district sous pli recommandé à la poste.
 
 \- 690 -
 
 CODE COMMUNAL − Référendum communal
 Art. 14. Des recours contre les opérations de vote
-\1. Tout électeur de la commune a le droit de réclamer contre le référendum. La réclamation doit être formulée par écrit, énoncer
+1\. Tout électeur de la commune a le droit de réclamer contre le référendum. La réclamation doit être formulée par écrit, énoncer
 tous les moyens de réclamation, et être remise au bourgmestre, dans les cinq jours de la date de la proclamation du résultat, le
 tout à peine de forclusion.
 Le bourgmestre la transmettra immédiatement, avec ses observations, au commissaire de district, qui la fait parvenir au plus tôt,
 avec son avis, au Gouvernement.
-\2. Dans les trente jours qui suivront la date du référendum, le Gouvernement statuera sur la validité de celui-ci; ce délai est de
+2\. Dans les trente jours qui suivront la date du référendum, le Gouvernement statuera sur la validité de celui-ci; ce délai est de
 quarante jours si le référendum est contesté ou si le Gouvernement a ordonné une instruction spéciale.
 Si aucune décision n’est intervenue dans les trente respectivement quarante jours le référendum est tenu pour régulier.
 La décision sera, dans les trois jours de la notification à l’administration communale, rendue publique par voie d’affiche dans
 chaque section de commune intéressée.
-\3. Dans les cinq jours de l’affiche de la décision ou de l’expiration des deux délais dont mention au paragraphe qui précède, le
+3\. Dans les cinq jours de l’affiche de la décision ou de l’expiration des deux délais dont mention au paragraphe qui précède, le
 réclamant peut prendre son recours au «tribunal administratif»1, qui statue d’urgence et en tout cas dans le mois.
 Ce recours sera suspensif.
 Le Ministre du service en informe la commune par l’intermédiaire du commissaire de district.
-\4. Lorsqu’un référendum est définitivement déclaré nul, le Gouvernement fixera jour dans la huitaine à l’effet de procéder à un
+4\. Lorsqu’un référendum est définitivement déclaré nul, le Gouvernement fixera jour dans la huitaine à l’effet de procéder à un
 nouveau scrutin dans les quarante-cinq jours.
 
 ANNEXES
 Instructions pour l’électeur
 Référendum
-\1. Les opérations électorales pour le référendum commencent à huit heures. Les électeurs sont admis à voter s’ils se ­présentent
+1\. Les opérations électorales pour le référendum commencent à huit heures. Les électeurs sont admis à voter s’ils se ­présentent
 avant quatorze heures. Ensuite le scrutin est clos.
-\2. Chaque électeur dispose d’une voix par question posée.
+2\. Chaque électeur dispose d’une voix par question posée.
 L’électeur vote:
 –
 
@@ -41841,16 +41841,16 @@ soit en remplissant le carré d’une des deux cases figurant sur le bulletin de
 
 soit en inscrivant une croix (+ ou x) dans l’une des deux cases à côté de chaque question.
 
-\3. Après avoir exprimé son vote, l’électeur montre au président son bulletin plié en quatre à angle droit, le timbre à l’extérieur et
+3\. Après avoir exprimé son vote, l’électeur montre au président son bulletin plié en quatre à angle droit, le timbre à l’extérieur et
 il le dépose dans l’urne qui est destinée à le recevoir.
-\4. L’électeur ne peut s’arrêter dans le compartiment que pendant le temps nécessaire pour préparer son bulletin de vote en vue
+4\. L’électeur ne peut s’arrêter dans le compartiment que pendant le temps nécessaire pour préparer son bulletin de vote en vue
 de son dépôt dans l’urne.
-\5. Sont nuls:
-1.
+5\. Sont nuls:
+1\.
 
 tous les bulletins autres que celui qui a été remis à l’électeur par le président au moment du vote;
 
-2.
+2\.
 
 le bulletin même:
 a) si l’électeur a émis plus d’un suffrage par question posée;
@@ -42073,7 +42073,7 @@ L’administration communale peut délivrer sous la responsabilité du bourgmest
 règlement établis en fonction des données figurant au registre communal des personnes physiques.
 Art. 9.
 Le règlement grand-ducal modifié du 18 juin 2014 relatif à la carte d’identité est modifié comme suit:
-1.
+1\.
 
 L’article premier est remplacé comme suit:
 «Art. 1er. Les Luxembourgeois résidant au Grand-Duché de Luxembourg introduisent leur demande en obtention d’une carte
@@ -42083,7 +42083,7 @@ Les personnes qui disposent d’une photographie récente et conforme aux normes
 civile internationale (OACI) peuvent effectuer leur demande auprès du Centre.
 La délivrance de la carte d’identité sera effectuée au lieu de l’introduction de la demande.»
 
-2.
+2\.
 
 Le paragraphe 2 de l’article 3 est remplacé comme suit:
 «(2) Les Luxembourgeois résidant au Grand-Duché de Luxembourg peuvent introduire cette demande soit auprès de
@@ -44588,15 +44588,15 @@ ces canalisations, la société peut utiliser le domaine public et privé de l�
 communes sera gratuit, sauf le rétablissement des lieux en leur état antérieur, aux frais de la société.
 La société aura le droit:
 
-1)
+1\)
 
 d’installer les canalisations de gaz dans des terrains privés, non bâtis, qui ne sont pas entourés de murs (...)2;
 
-2)
+2\)
 
 d’assurer la surveillance des canalisations;
 
-3)
+3\)
 
 de procéder aux travaux d’entretien et de réfection de ces canalisations.
 
@@ -44674,16 +44674,16 @@ ces canalisations, la société peut utiliser le domaine public et privé de l�
 communes sera gratuit, sauf le rétablissement des lieux en leur état antérieur, aux frais de la société.
 Est applicable l’article 9 de la loi du 11 août 1982 concernant la protection de la nature et des ressources naturelles.
 La société aura le droit:
-1)
+1\)
 
 d’installer des canalisations de gaz dans les terrains privés, non bâtis, qui ne sont pas entourés de murs ou d’autres clôtures
 équivalentes;
 
-2)
+2\)
 
 d’assurer la surveillance des canalisations;
 
-3)
+3\)
 
 de procéder aux travaux d’entretien et de réfection de ces canalisations.
 
@@ -45056,39 +45056,39 @@ des besoins que les accès autorisés sont censés satisfaire.
 Ces conditions déterminent les critères d’aménagement de ces accès qui doivent dûment prendre en considération les ­exigences
 de sécurité et de commodité des usagers de la route et des riverains.
 (2) Par ordre d’importance croissante, on distingue les catégories d’accès suivantes:
-1.
+1\.
 
 l’accès individuel vers une prairie, un champ, une forêt,
 
-2.
+2\.
 
 le raccordement d’un chemin rural, forestier ou syndical,
 
-3.
+3\.
 
 l’accès individuel vers une maison unifamiliale ou bifamiliale,
 
-4.
+4\.
 
 l’accès individuel vers un immeuble comportant plus de deux habitations,
 
-5.
+5\.
 
 l’accès individuel vers un complexe industriel, commercial ou agricole,
 
-6.
+6\.
 
 l’accès individuel vers une station de service ou le ou les locaux exploités par le prestataire d’un service public,
 
-7.
+7\.
 
 l’accès collectif vers un lotissement ou un parking public,
 
-8.
+8\.
 
 l’accès collectif vers une zone commerciale, artisanale ou industrielle,
 
-9.
+9\.
 
 le raccordement d’un chemin communal.
 

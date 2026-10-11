@@ -123,6 +123,8 @@ def main():
             rows = acts(rtype, year)
             n = 0
             for a in rows:
+                if "/eli/etat/adm/" in a["s"]:
+                    continue  # Mémorial B (administrative notices) mis-typed as LOI/RGD
                 if a.get("m") in code_members:
                     continue  # the text is published as a code under codes/
                 out.append(entry(kind, a, cons_by_member.get(a.get("m"))))

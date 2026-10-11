@@ -21,12 +21,14 @@ from common import CACHE, CATALOG, RAW, REPO
 from fetch import source
 
 TODAY = dt.date.today().isoformat()
+MAX_IMAGE = 500_000  # larger embedded images (scanned maps, plans…) are not copied into the repo
 DIRS = {"constitution": "constitution", "code": "codes", "loi": "lois", "rgd": "reglements-grand-ducaux"}
 TYPES = {"constitution": "constitution", "code": "code", "loi": "act", "rgd": "regulation"}
 MONTHS = "janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre"
 
 
 def slugify(s: str, maxlen: int = 80) -> str:
+    s = re.sub(r"[’‘`´]", "-", s)
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     s = re.sub(r"[^a-zA-Z0-9]+", "-", s.lower()).strip("-")
     if len(s) > maxlen:
@@ -107,6 +109,7 @@ def tidy(md: str) -> str:
     md = re.sub(r"\( \[", "([", md)
     md = re.sub(r"(\]\([^)\s]+\)) \)", r"\1)", md)
     md = re.sub(r"[ \t]+\n", "\n", md)
+    md = re.sub(r"[ \t]+(\[\^)", r"\1", md)
     return md
 
 
@@ -193,6 +196,12 @@ def convert_one(e: dict) -> tuple[str, str, int, int]:
         rel = os.path.relpath(REPO / "images", out.parent) + "/"
         body, images, _ = convert(data, image_prefix=rel)
         for name, blob in images:
+            if len(blob) > MAX_IMAGE:
+                link = f"![image]({rel}{name[:2]}/{name})"
+                note = (f"*[image omitted ({len(blob) / 1e6:.1f} MB) — see the official version: "
+                        f"{public_url(e['cons_eli'] if e.get('consolidated') else e['eli'])}]*")
+                body = body.replace(link, note)
+                continue
             ip = REPO / "images" / name[:2] / name
             if not ip.exists():
                 ip.parent.mkdir(parents=True, exist_ok=True)

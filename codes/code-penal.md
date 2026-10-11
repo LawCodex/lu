@@ -55,16 +55,21 @@ Les cours et les tribunaux continueront d'appliquer les lois et règlements part
 
 ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/13/n2/jo) ; [L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Les peines criminelles encourues par les personnes physiques sont:
 
-1. la réclusion à vie ou à temps;
-2. l'amende;
-3. la confiscation spéciale;
-4. la destitution des titres, grades, fonctions, emplois et offices publics;
-5. l'interdiction de certains droits civils et politiques;
-6. la fermeture d'entreprise et d'établissement;
-7. la publication ou l'affichage, aux frais du condamné, de la décision ou d'un extrait de la décision de condamnation;
-8. (
+1\) la réclusion à vie ou à temps;
 
-   [L. 6 octobre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/10/06/n1/jo)) l'interdiction d'exercer certaines activités professionnelles ou sociales.
+2\) l'amende;
+
+3\) la confiscation spéciale;
+
+4\) la destitution des titres, grades, fonctions, emplois et offices publics;
+
+5\) l'interdiction de certains droits civils et politiques;
+
+6\) la fermeture d'entreprise et d'établissement;
+
+7\) la publication ou l'affichage, aux frais du condamné, de la décision ou d'un extrait de la décision de condamnation;
+
+8\) ([L. 6 octobre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/10/06/n1/jo)) l'interdiction d'exercer certaines activités professionnelles ou sociales.
 
 ##### Art. 8.
 
@@ -84,13 +89,19 @@ La durée d'une année de réclusion est de trois cent soixante jours.
 
 Toute décision de condamnation à la réclusion de plus de dix ans prononce contre le condamné l’interdiction à vie du droit :
 
-1. de remplir des fonctions, emplois ou offices publics ;
-2. de vote, d’élection, d’éligibilité ;
-3. de porter aucune décoration ;
-4. d’être expert, témoin instrumentaire ou certificateur dans les actes ; de déposer en justice autrement que pour y donner de simples renseignements ;
-5. de faire partie d’aucun conseil de famille, de remplir aucune fonction dans un régime de protection des incapables mineurs ou majeurs, si ce n’est à l’égard de leurs enfants et sur avis conforme du juge aux affaires familiales, s’il en existe ;
-6. de port ou de détention d’armes ;
-7. de tenir école ou d’enseigner ou d’être employé dans un établissement d’enseignement.
+1\) de remplir des fonctions, emplois ou offices publics ;
+
+2\) de vote, d’élection, d’éligibilité ;
+
+3\) de porter aucune décoration ;
+
+4\) d’être expert, témoin instrumentaire ou certificateur dans les actes ; de déposer en justice autrement que pour y donner de simples renseignements ;
+
+5\) de faire partie d’aucun conseil de famille, de remplir aucune fonction dans un régime de protection des incapables mineurs ou majeurs, si ce n’est à l’égard de leurs enfants et sur avis conforme du juge aux affaires familiales, s’il en existe ;
+
+6\) de port ou de détention d’armes ;
+
+7\) de tenir école ou d’enseigner ou d’être employé dans un établissement d’enseignement.
 
 ##### Art. 12.
 
@@ -108,17 +119,23 @@ L'interdiction produit, en outre, ses effets à compter du jour où la condamnat
 
 ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/13/n2/jo) ; [L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Sans préjudice d'autres peines prévues par des lois spéciales, les peines correctionnelles encourues par les personnes physiques sont:
 
-1. l'emprisonnement;
-2. l'amende;
-3. la confiscation spéciale;
-4. l'interdiction de certains droits civils et politiques;
-5. la fermeture d'entreprise et d'établissement;
-6. la publication ou l'affichage, aux frais du condamné, de la décision ou d'un extrait de la décision de condamnation;
-7. (
+1\) l'emprisonnement;
 
-   [L. 6 octobre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/10/06/n1/jo)) l'interdiction d'exercer certaines activités professionnelles ou sociales;
-8. l'interdiction de conduire certains véhicules;
-9. les peines de substitution prévues aux articles 21 et 22.
+2\) l'amende;
+
+3\) la confiscation spéciale;
+
+4\) l'interdiction de certains droits civils et politiques;
+
+5\) la fermeture d'entreprise et d'établissement;
+
+6\) la publication ou l'affichage, aux frais du condamné, de la décision ou d'un extrait de la décision de condamnation;
+
+7\) ([L. 6 octobre 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/10/06/n1/jo)) l'interdiction d'exercer certaines activités professionnelles ou sociales;
+
+8\) l'interdiction de conduire certains véhicules;
+
+9\) les peines de substitution prévues aux articles 21 et 22.
 
 ##### Art. 15.
 
@@ -160,29 +177,37 @@ Si l'emprisonnement est porté seul, le tribunal peut y substituer une amende qu
 
 ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/13/n2/jo)) Lorsqu'un délit est puni de l'emprisonnement, le tribunal peut prononcer à titre de peine principale, une ou plusieurs des peines suivantes:
 
-1. interdiction de conduire certains véhicules pendant une durée de cinq ans au plus, ou limitation du droit de conduire pendant la même durée au plus;
-2. confiscation d'un ou de plusieurs véhicules dont le prévenu est propriétaire;
-3. interdiction de détenir ou de porter, pendant une durée de cinq ans au plus, une arme soumise à autorisation;
-4. interdiction du droit d'exercer la chasse pendant une durée de cinq ans au plus;
-5. confiscation d'une ou de plusieurs armes dont le prévenu est propriétaire.
+1\) interdiction de conduire certains véhicules pendant une durée de cinq ans au plus, ou limitation du droit de conduire pendant la même durée au plus;
+
+2\) confiscation d'un ou de plusieurs véhicules dont le prévenu est propriétaire;
+
+3\) interdiction de détenir ou de porter, pendant une durée de cinq ans au plus, une arme soumise à autorisation;
+
+4\) interdiction du droit d'exercer la chasse pendant une durée de cinq ans au plus;
+
+5\) confiscation d'une ou de plusieurs armes dont le prévenu est propriétaire.
 
 ##### Art. 22.
 
 ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/13/n2/jo))
 
-1. Si de l'appréciation du tribunal, le délit ne comporte pas une peine privative de liberté supérieure à six mois, il peut prescrire, à titre de peine principale, que le condamné accomplira, au profit d'une collectivité publique ou d'un établissement public ou d'une association ou d'une institution hospitalière ou philanthropique, un travail d'intérêt général non rémunéré et d'une durée qui ne peut être inférieure à quarante heures ni supérieure à deux cent quarante heures.
-2. Il ne peut être fait application du présent article que lorsque le prévenu est présent. Le président du tribunal, avant le prononcé du jugement, informe le prévenu du droit de refuser l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
-3. (
+1\) Si de l'appréciation du tribunal, le délit ne comporte pas une peine privative de liberté supérieure à six mois, il peut prescrire, à titre de peine principale, que le condamné accomplira, au profit d'une collectivité publique ou d'un établissement public ou d'une association ou d'une institution hospitalière ou philanthropique, un travail d'intérêt général non rémunéré et d'une durée qui ne peut être inférieure à quarante heures ni supérieure à deux cent quarante heures.
 
-   [L. 23 juillet 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n17/jo)) L'exécution du travail d'intérêt général doit être commencée dans les six mois à partir du jour où la décision pénale a acquis force de chose jugée.
+2\) Il ne peut être fait application du présent article que lorsque le prévenu est présent. Le président du tribunal, avant le prononcé du jugement, informe le prévenu du droit de refuser l'accomplissement d'un travail d'intérêt général et reçoit sa réponse.
 
-   Ce délai peut être suspendu en cas de motif grave d’ordre médical, familial, professionnel ou social.
+3\) ([L. 23 juillet 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n17/jo)) L'exécution du travail d'intérêt général doit être commencée dans les six mois à partir du jour où la décision pénale a acquis force de chose jugée.
 
-   Le travail d’intérêt général doit être exécuté dans les 24 mois à partir du jour où la décision pénale a acquis force de chose jugée.
-4. Les modalités d'exécution du travail d'intérêt général sont décidées par le procureur général d'Etat. Celui-ci peut notamment suspendre provisoirement pour motif grave d'ordre médical, familial, professionnel ou social, le délai pendant lequel le travail doit être accompli.
-5. Un règlement grand-ducal détermine la nature des travaux proposés.
-6. Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail.
-7. Les prescriptions légales et réglementaires relatives au travail de nuit, à l'hygiène, à la sécurité, ainsi qu'au travail des femmes et des jeunes travailleurs sont applicables au travail d'intérêt général.
+Ce délai peut être suspendu en cas de motif grave d’ordre médical, familial, professionnel ou social.
+
+Le travail d’intérêt général doit être exécuté dans les 24 mois à partir du jour où la décision pénale a acquis force de chose jugée.
+
+4\) Les modalités d'exécution du travail d'intérêt général sont décidées par le procureur général d'Etat. Celui-ci peut notamment suspendre provisoirement pour motif grave d'ordre médical, familial, professionnel ou social, le délai pendant lequel le travail doit être accompli.
+
+5\) Un règlement grand-ducal détermine la nature des travaux proposés.
+
+6\) Le travail d'intérêt général peut, pour les condamnés salariés, se cumuler avec la durée légale du travail.
+
+7\) Les prescriptions légales et réglementaires relatives au travail de nuit, à l'hygiène, à la sécurité, ainsi qu'au travail des femmes et des jeunes travailleurs sont applicables au travail d'intérêt général.
 
 ##### Art. 23.
 
@@ -198,9 +223,11 @@ Si l'emprisonnement est porté seul, le tribunal peut y substituer une amende qu
 
 ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/loi/1994/06/13/n2/jo) ; [L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Sans préjudice des peines autres que privatives de liberté prévues par des lois spéciales, les peines de police encourues par les personnes physiques sont:
 
-1. l'amende;
-2. la confiscation spéciale;
-3. l'interdiction de conduire certains véhicules.
+1\) l'amende;
+
+2\) la confiscation spéciale;
+
+3\) l'interdiction de conduire certains véhicules.
 
 ##### Art. 26.
 
@@ -246,11 +273,15 @@ Elle n’est prononcée pour contravention que dans les cas déterminés par la 
 
 (2) La confiscation spéciale s’applique :
 
-1. aux biens comprenant les actifs de toute nature, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi que les documents ou instruments juridiques, sous quelque forme que ce soit, y compris électronique ou numérique, attestant la propriété de ces actifs ou de droits y afférents biens formant l’objet ou le produit, direct ou indirect d’une infraction ou constituant un avantage patrimonial quelconque tiré de l’infraction, y compris les revenus de ces biens ;
-2. aux biens qui ont servi ou qui ont été destinés à commettre l’infraction, quand la propriété en appartient au condamné ou dont il a la libre disposition, sous réserve des droits du propriétaire de bonne foi ;
-3. aux biens qui ont été substitués à ceux visés au point 1°, y compris les revenus des biens substitués ;
-4. aux biens dont la propriété appartient au condamné et dont la valeur monétaire correspond à celle des biens visés au point 1°, si ceux-ci ne peuvent être trouvés aux fins de confiscation ;
-5. aux actifs de toute nature, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi qu’aux documents ou instruments juridiques, sous quelque forme que ce soit, y compris électronique ou numérique, attestant la propriété de ces actifs ou de droits y afférents, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, lorsque ni le condamné, ni le propriétaire, mis en mesure de s’expliquer sur les biens dont la confiscation est envisagée, n’ont pu en justifier l’origine, s’il s’agit d’un crime ou d’un délit puni d’au moins quatre ans d’emprisonnement et ayant procuré un profit direct ou indirect.
+1° aux biens comprenant les actifs de toute nature, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi que les documents ou instruments juridiques, sous quelque forme que ce soit, y compris électronique ou numérique, attestant la propriété de ces actifs ou de droits y afférents biens formant l’objet ou le produit, direct ou indirect d’une infraction ou constituant un avantage patrimonial quelconque tiré de l’infraction, y compris les revenus de ces biens ;
+
+2° aux biens qui ont servi ou qui ont été destinés à commettre l’infraction, quand la propriété en appartient au condamné ou dont il a la libre disposition, sous réserve des droits du propriétaire de bonne foi ;
+
+3° aux biens qui ont été substitués à ceux visés au point 1°, y compris les revenus des biens substitués ;
+
+4° aux biens dont la propriété appartient au condamné et dont la valeur monétaire correspond à celle des biens visés au point 1°, si ceux-ci ne peuvent être trouvés aux fins de confiscation ;
+
+5° aux actifs de toute nature, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi qu’aux documents ou instruments juridiques, sous quelque forme que ce soit, y compris électronique ou numérique, attestant la propriété de ces actifs ou de droits y afférents, appartenant au condamné ou, sous réserve des droits du propriétaire de bonne foi, dont il a la libre disposition, lorsque ni le condamné, ni le propriétaire, mis en mesure de s’expliquer sur les biens dont la confiscation est envisagée, n’ont pu en justifier l’origine, s’il s’agit d’un crime ou d’un délit puni d’au moins quatre ans d’emprisonnement et ayant procuré un profit direct ou indirect.
 
 (3) En cas d’infraction visée aux articles 112-1, 135-1 à 135-6, 135-9, 135-11 à 135-16 et 506-1 à 506-8, la confiscation spéciale des biens visés au paragraphe 2 est prononcée, même en cas d’acquittement, d’exemption de peine, d’extinction ou de prescription de l’action publique. Elle s’applique aux biens qui ont servi ou qui ont été destinés à commettre l’infraction, même si la propriété n’appartient pas au condamné.
 
@@ -310,12 +341,13 @@ Les alinéas précédents ne sont pas applicables à l’État et aux communes.
 
 ([L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Les peines criminelles ou correctionnelles encourues par les personnes morales sont:
 
-1. l’amende, dans les conditions et suivant les modalités prévues par l’article 36;
-2. la confiscation spéciale;
-3. (
+1\) l’amende, dans les conditions et suivant les modalités prévues par l’article 36;
 
-   [L. du 3 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/03/a560/jo)) l'exclusion de la participation à des procédures d’attribution de marchés publics et de contrats de concession;
-4. la dissolution, dans les conditions et suivant les modalités prévues par l’article 38.
+2\) la confiscation spéciale;
+
+3\) ([L. du 3 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/03/a560/jo)) l'exclusion de la participation à des procédures d’attribution de marchés publics et de contrats de concession;
+
+4\) la dissolution, dans les conditions et suivant les modalités prévues par l’article 38.
 
 #### Art. 36.
 
@@ -329,20 +361,25 @@ En matière correctionnelle, le taux maximum de l’amende applicable aux person
 
 ([L. 3 mars 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/03/03/n1/jo)) Le taux maximum de l’amende encourue selon les dispositions de l’article 36 est quintuplé lorsque la responsabilité pénale de la personne morale est engagée pour une des infractions suivantes:
 
-- crimes et délits contre la sûreté de l’Etat
-- actes de terrorisme et de financement de terrorisme
-- (
+aash crimes et délits contre la sûreté de l’Etat
 
-  [L. 17 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a920/jo)) disparition forcée au sens de l’article 442-1 *bis*
-- infractions aux lois relatives aux armes prohibées en relation avec une association de malfaiteurs ou une organisation criminelle
-- traite des êtres humains et proxénétisme
-- trafic de stupéfiants en relation avec une association de malfaiteurs ou une organisation criminelle
-- blanchiment et recel
-- concussion, prise illégale d’intérêts, corruption active et passive, corruption privée
-- aide à l’entrée et au séjour irréguliers en relation avec une association de malfaiteurs ou une organisation criminelle
-- (
+bash actes de terrorisme et de financement de terrorisme
 
-  [L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) emploi illégal de ressortissants de pays tiers en séjour irrégulier en relation avec une association de malfaiteurs ou une organisation criminelle.
+cash ([L. 17 décembre 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a920/jo)) disparition forcée au sens de l’article 442-1 *bis*
+
+dash infractions aux lois relatives aux armes prohibées en relation avec une association de malfaiteurs ou une organisation criminelle
+
+eash traite des êtres humains et proxénétisme
+
+fash trafic de stupéfiants en relation avec une association de malfaiteurs ou une organisation criminelle
+
+gash blanchiment et recel
+
+hash concussion, prise illégale d’intérêts, corruption active et passive, corruption privée
+
+iash aide à l’entrée et au séjour irréguliers en relation avec une association de malfaiteurs ou une organisation criminelle
+
+jash ([L. 21 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/21/n9/jo)) emploi illégal de ressortissants de pays tiers en séjour irrégulier en relation avec une association de malfaiteurs ou une organisation criminelle.
 
 #### Art. 38.
 
@@ -414,11 +451,15 @@ Il y a tentative punissable, lorsque la résolution de commettre un crime ou un 
 
 Est considérée comme immédiatement inférieure:
 
-1. A la peine de la réclusion à vie, celle de la réclusion de vingt à trente ans;
-2. A la peine de la réclusion de vingt à trente ans, celle de la réclusion de quinze à vingt ans;
-3. A la peine de la réclusion de quinze à vingt ans, celle de la réclusion de dix à quinze ans;
-4. A la peine de la réclusion de dix à quinze ans, celle de la réclusion de cinq à dix ans;
-5. A la peine de la réclusion de cinq à dix ans, celle d’un emprisonnement de trois mois au moins.
+a) A la peine de la réclusion à vie, celle de la réclusion de vingt à trente ans;
+
+b) A la peine de la réclusion de vingt à trente ans, celle de la réclusion de quinze à vingt ans;
+
+c) A la peine de la réclusion de quinze à vingt ans, celle de la réclusion de dix à quinze ans;
+
+d) A la peine de la réclusion de dix à quinze ans, celle de la réclusion de cinq à dix ans;
+
+e) A la peine de la réclusion de cinq à dix ans, celle d’un emprisonnement de trois mois au moins.
 
 #### Art. 53.
 
@@ -456,17 +497,15 @@ Si, pour ce fait, une peine portée par les lois militaires a été prononcée, 
 
 ([L. 29 février 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/02/29/n1/jo))
 
-1. Quiconque, ayant été condamné à une peine privative de liberté de plus de cinq ans, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 166 et 169, points 2 et 3., aura commis à nouveau un de ces faits, pourra être condamné à la réclusion de dix ans à quinze ans, si ce fait est un crime emportant la réclusion de cinq ans à dix ans. ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
+1\. Quiconque, ayant été condamné à une peine privative de liberté de plus de cinq ans, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 166 et 169, points 2 et 3., aura commis à nouveau un de ces faits, pourra être condamné à la réclusion de dix ans à quinze ans, si ce fait est un crime emportant la réclusion de cinq ans à dix ans. ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
 
-   Si ce fait est un crime emportant la réclusion de dix ans à quinze ans, il pourra être condamné à la réclusion de quinze ans à vingt ans.
+Si ce fait est un crime emportant la réclusion de dix ans à quinze ans, il pourra être condamné à la réclusion de quinze ans à vingt ans.
 
-   Il sera condamné à la réclusion de dix-sept ans au moins, si ce fait est un crime emportant la réclusion de quinze ans à vingt ans.
-2. Quiconque, ayant été condamné à une peine privative de liberté de plus de cinq ans, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 164, 165, 166, 169, points 2 et 3, 178 et 179, aura commis à nouveau un de ces faits, pourra être condamné à une peine double du maximum porté par la loi contre ce fait, si ce fait est un délit. (
+Il sera condamné à la réclusion de dix-sept ans au moins, si ce fait est un crime emportant la réclusion de quinze ans à vingt ans.
 
-   [L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
-3. Quiconque, ayant été condamné à une peine privative de liberté d’un an au moins, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 164, 165, 166, 169, points 2 et 3, 178 et 179, aura, avant l’expiration de cinq ans depuis qu’il a subi ou prescrit sa peine, commis à nouveau un de ces faits, pourra être condamné à une peine double du maximum porté par la loi contre ce fait, si ce fait est un délit. (
+2\. Quiconque, ayant été condamné à une peine privative de liberté de plus de cinq ans, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 164, 165, 166, 169, points 2 et 3, 178 et 179, aura commis à nouveau un de ces faits, pourra être condamné à une peine double du maximum porté par la loi contre ce fait, si ce fait est un délit. ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
 
-   [L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
+3\. Quiconque, ayant été condamné à une peine privative de liberté d’un an au moins, par une juridiction d’un Etat membre de l’Union européenne pour des faits visés aux articles 161, 162, 163, 164, 165, 166, 169, points 2 et 3, 178 et 179, aura, avant l’expiration de cinq ans depuis qu’il a subi ou prescrit sa peine, commis à nouveau un de ces faits, pourra être condamné à une peine double du maximum porté par la loi contre ce fait, si ce fait est un délit. ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo))
 
 #### Art. 57-2.
 
@@ -572,9 +611,11 @@ La peine prononcée contre les complices d'un délit n'excédera pas les deux ti
 
 En cas d’infraction prévue par l’article 136quater et 136quinquies, le paragraphe (1) s’applique si les trois conditions suivantes sont remplies dans le chef de l’auteur ou du complice de l’infraction:
 
-- la personne avait l’obligation légale d’obéir aux ordres du gouvernement ou de son supérieur, militaire ou civil,
-- la personne ignorait que l’ordre était illégal,
-- l’ordre n’était pas manifestement illégal.
+aash la personne avait l’obligation légale d’obéir aux ordres du gouvernement ou de son supérieur, militaire ou civil,
+
+bash la personne ignorait que l’ordre était illégal,
+
+cash l’ordre n’était pas manifestement illégal.
 
 #### Art. 71.
 
@@ -808,8 +849,9 @@ Quiconque aura formé seul la résolution de commettre un attentat contre la vie
 
 (3) Sont réputées personnes jouissant d’une protection internationale pour l’application des paragraphes (1) et (2) :
 
-- tout chef d’Etat, y compris chaque membre d’un organe collégial remplissant en vertu de la Constitution de l’Etat considéré les fonctions de chef d’Etat ; tout chef de gouvernement ou tout ministre des affaires étrangères, lorsqu’une telle personne se trouve dans un Etat étranger, ainsi que les membres de sa famille qui l’accompagnent ;
-- tout représentant, fonctionnaire ou personnalité officielle d’un Etat et tout fonctionnaire, personnalité officielle ou autre agent d’une organisation intergouvernementale, qui, à la date et au lieu où une infraction est commise contre sa personne, ses locaux officiels, son logement privé ou ses moyens de transport, a droit conformément au droit international à une protection spéciale contre toute atteinte à sa personne, sa liberté ou sa dignité, ainsi que les membres de sa famille qui font partie de son ménage.
+aash tout chef d’Etat, y compris chaque membre d’un organe collégial remplissant en vertu de la Constitution de l’Etat considéré les fonctions de chef d’Etat ; tout chef de gouvernement ou tout ministre des affaires étrangères, lorsqu’une telle personne se trouve dans un Etat étranger, ainsi que les membres de sa famille qui l’accompagnent ;
+
+bash tout représentant, fonctionnaire ou personnalité officielle d’un Etat et tout fonctionnaire, personnalité officielle ou autre agent d’une organisation intergouvernementale, qui, à la date et au lieu où une infraction est commise contre sa personne, ses locaux officiels, son logement privé ou ses moyens de transport, a droit conformément au droit international à une protection spéciale contre toute atteinte à sa personne, sa liberté ou sa dignité, ainsi que les membres de sa famille qui font partie de son ménage.
 
 #### Chapitre II — Des crimes et des délits contre la sûreté extérieure de l'Etat
 
@@ -883,16 +925,19 @@ Sera puni des mêmes peines quiconque, sans autorisation de l'autorité compéte
 
 ([Arr. g.-d. 14 juillet 1943](https://legilux.public.lu/eli/etat/leg/agd/1943/07/14/n1/jo)) Sera puni d'un emprisonnement de six mois à cinq ans et d'une amende de 251 euros à 125.000 euros:
 
-1. Quiconque, sous un déguisement ou en dissimulant son identité, sa profession, sa qualité ou sa nationalité, ou à l'aide d'une manœuvre ayant pour but de tromper les agents préposés à la garde ou de déjouer leur surveillance, se sera introduit soit dans un ouvrage quelconque de défense, un poste, un établissement militaire ou aéronautique, un dépôt, un magasin ou parc militaires, soit dans un atelier, un chantier ou un laboratoire où s'exécutent pour l'Etat des travaux intéressant la défense du territoire;
-2. Quiconque, par l'un des moyens prévus à l'alinéa précédent, aura levé un plan, reconnu des voies de communication, des moyens de correspondance ou de transmission à distance ou recueilli des renseignements intéressant la défense du territoire ou la sûreté extérieure de l'Etat;
-3. Quiconque en vue de recueillir ou de transmettre des renseignements intéressant la défense du territoire ou la sûreté extérieure de l'Etat et sans avoir qualité à cet effet, aura organisé ou employé un moyen quelconque de correspondance ou de transmission à distance.
+1\. Quiconque, sous un déguisement ou en dissimulant son identité, sa profession, sa qualité ou sa nationalité, ou à l'aide d'une manœuvre ayant pour but de tromper les agents préposés à la garde ou de déjouer leur surveillance, se sera introduit soit dans un ouvrage quelconque de défense, un poste, un établissement militaire ou aéronautique, un dépôt, un magasin ou parc militaires, soit dans un atelier, un chantier ou un laboratoire où s'exécutent pour l'Etat des travaux intéressant la défense du territoire;
+
+2\. Quiconque, par l'un des moyens prévus à l'alinéa précédent, aura levé un plan, reconnu des voies de communication, des moyens de correspondance ou de transmission à distance ou recueilli des renseignements intéressant la défense du territoire ou la sûreté extérieure de l'Etat;
+
+3\. Quiconque en vue de recueillir ou de transmettre des renseignements intéressant la défense du territoire ou la sûreté extérieure de l'Etat et sans avoir qualité à cet effet, aura organisé ou employé un moyen quelconque de correspondance ou de transmission à distance.
 
 ##### Art. 120ter.
 
 ([Arr. g.-d. 14 juillet 1943](https://legilux.public.lu/eli/etat/leg/agd/1943/07/14/n1/jo)) Sera puni d'un emprisonnement de huit jours à trois mois et d'une amende de 251 euros à 125.000 euros:
 
-1. Quiconque, sans autorisation de l'autorité militaire ou aéronautique, aura exécuté par un procédé quelconque les levés ou opérations de topographie dans un rayon d'un myriamètre ou dans tout autre rayon qui sera ultérieurement fixé par le Gouvernement, autour d'un ouvrage de défense, d'un poste, d'un établissement militaire, d'un établissement aéronautique autre qu'un aérodrome ou aérogare, d'un dépôt, magasin ou parc militaires, à partir des ouvrages avancés, ou aura pris des photographies d'un de ces lieux, ouvrages ou établissements, édité, exposé, vendu ou distribué des reproductions de ces vues;
-2. Quiconque, sans autorisation, aura escaladé ou franchi soit les revêtements ou les talus des fortifications, soit les murs, barrières, grilles, palissades, haies ou autres clôtures, établis sur un terrain militaire ou aura pénétré dans l'un des autres établissements visés par l'article 120bis.
+1\. Quiconque, sans autorisation de l'autorité militaire ou aéronautique, aura exécuté par un procédé quelconque les levés ou opérations de topographie dans un rayon d'un myriamètre ou dans tout autre rayon qui sera ultérieurement fixé par le Gouvernement, autour d'un ouvrage de défense, d'un poste, d'un établissement militaire, d'un établissement aéronautique autre qu'un aérodrome ou aérogare, d'un dépôt, magasin ou parc militaires, à partir des ouvrages avancés, ou aura pris des photographies d'un de ces lieux, ouvrages ou établissements, édité, exposé, vendu ou distribué des reproductions de ces vues;
+
+2\. Quiconque, sans autorisation, aura escaladé ou franchi soit les revêtements ou les talus des fortifications, soit les murs, barrières, grilles, palissades, haies ou autres clôtures, établis sur un terrain militaire ou aura pénétré dans l'un des autres établissements visés par l'article 120bis.
 
 ##### Art. 120quater.
 
@@ -956,8 +1001,9 @@ La tentative d'incendie ou de destruction sera considérée comme le crime même
 
 ([Arr. g.-d. 14 juillet 1943](https://legilux.public.lu/eli/etat/leg/agd/1943/07/14/n1/jo)) Sans préjudice de l'application du Chapitre VII du Livre 1er du présent code, seront punies d'un emprisonnement de huit jours à deux ans et d'une amende de 251 euros à 125.000 euros:
 
-1. L'offre ou la proposition de commettre l'une des infractions prévues par les articles 113 à 120bis, 121 à 123;
-2. L'acceptation de cette offre ou de cette proposition.
+1\. L'offre ou la proposition de commettre l'une des infractions prévues par les articles 113 à 120bis, 121 à 123;
+
+2\. L'acceptation de cette offre ou de cette proposition.
 
 ##### Art. 123ter.
 
@@ -1063,9 +1109,11 @@ Sont compris dans le mot armes, toutes machines, tous instruments, ustensiles ou
 
 (1) ([L. 12 août 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n14/jo)) ([L. du 3 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/03/a117/jo)) Constitue un acte de terrorisme tout crime et délit punissable d’un emprisonnement d’un maximum d’au moins trois ans ou d’une peine plus grave qui, par sa nature ou son contexte, peut porter gravement atteinte à un pays, une organisation ou un organisme international et a été commis intentionnellement dans le but de:
 
-- gravement intimider une population,
-- contraindre indûment des pouvoirs publics, une organisation ou un organisme international à accomplir ou à s’abstenir d’accomplir un acte quelconque, ou
-- gravement déstabiliser ou détruire les structures fondamentales politiques, constitutionnelles, économiques ou sociales d’un pays, d’une organisation ou d’un organisme international.
+aash gravement intimider une population,
+
+bash contraindre indûment des pouvoirs publics, une organisation ou un organisme international à accomplir ou à s’abstenir d’accomplir un acte quelconque, ou
+
+cash gravement déstabiliser ou détruire les structures fondamentales politiques, constitutionnelles, économiques ou sociales d’un pays, d’une organisation ou d’un organisme international.
 
 (2) Constituent également des actes de terrorisme les infractions aux articles 509-1, 514, 533 et 534 du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) ainsi qu’à l’article 61, paragraphe 1 <sup>er</sup> , lettre a), de la [loi modifiée du 19 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/jo) relative à l’eau, si elles ont été commises dans les circonstances prévues au paragraphe 1 <sup>er</sup> .
 
@@ -1085,16 +1133,13 @@ Celui qui a menacé de commettre un acte de terrorisme prévu à l’article 135
 
 (2) Sont visées à l’alinéa (1) du présent article les infractions prévues:
 
-- aux articles 112-1, 135-1, 135-2, 135-5, 135-6, 135-9, 135-11 à 135-16 et 442-1;
-- aux articles 31 et 31-1 de la
+aash aux articles 112-1, 135-1, 135-2, 135-5, 135-6, 135-9, 135-11 à 135-16 et 442-1;
 
-  loi modifiée du 31 janvier 1948 relative à la réglementation de la navigation aérienne;
-- à l’article 2 de la
+bash aux articles 31 et 31-1 de la loi modifiée du 31 janvier 1948 relative à la réglementation de la navigation aérienne;
 
-  loi modifiée du 11 avril 1985 portant approbation de la Convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et à New York en date du 3 mars 1980;
-- à l’article 65-1 de la
+cash à l’article 2 de la loi modifiée du 11 avril 1985 portant approbation de la Convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et à New York en date du 3 mars 1980;
 
-  loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine.
+dash à l’article 65-1 de la loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine.
 
 ###### Art. 135-4 — ([L. 12 août 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n14/jo))
 
@@ -1114,16 +1159,13 @@ Celui qui a menacé de commettre un acte de terrorisme prévu à l’article 135
 
 (2) Sont visées à l’alinéa (1) du présent article les infractions prévues:
 
-- aux articles 112-1, 135-1 à 135-4, 135-9, 135-11 à 135-16 et 442-1;
-- aux articles 31 et 31-1 de la
+aash aux articles 112-1, 135-1 à 135-4, 135-9, 135-11 à 135-16 et 442-1;
 
-  loi modifiée du 31 janvier 1948 relative à la réglementation de la navigation aérienne;
-- à l’article 2 de la
+bash aux articles 31 et 31-1 de la loi modifiée du 31 janvier 1948 relative à la réglementation de la navigation aérienne;
 
-  loi modifiée du 11 avril 1985 portant approbation de la Convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et à New York en date du 3 mars 1980;
-- à l’article 65-1 de la
+cash à l’article 2 de la loi modifiée du 11 avril 1985 portant approbation de la Convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et à New York en date du 3 mars 1980;
 
-  loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine.
+dash à l’article 65-1 de la loi modifiée du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine.
 
 (3) Constitue également un acte de financement du terrorisme le fait de fournir ou de réunir par quelque moyen que ce soit, directement ou indirectement, illicitement et délibérément, des fonds, des valeurs ou des biens de toute nature, dans l’intention de les voir utilisés ou en sachant qu’ils seront utilisés, en tout ou en partie, par un terroriste ou par un groupe terroriste, y compris en l’absence de lien avec un ou plusieurs actes terroristes spécifiques, même s’ils n’ont pas été effectivement utilisés par le terroriste ou le groupe terroriste.
 
@@ -1151,15 +1193,17 @@ Dans les mêmes cas, les peines de réclusion criminelle sont réduites dans la 
 
 (1) Sans préjudice de l’article 520, celui qui illicitement et intentionnellement livre, pose, ou fait exploser ou détonner un engin explosif ou un autre engin meurtrier dans ou contre un lieu public, une installation gouvernementale ou une autre installation publique, un système de transport public ou une infrastructure:
 
-1. dans l’intention de provoquer la mort ou des dommages corporels graves; ou
-2. dans l’intention de causer des destructions massives de ce lieu, cette installation, ce système ou cette infrastructure, lorsque ces destructions entraînent ou risquent d’entraîner des pertes économiques considérables sera puni de la réclusion de cinq à dix ans.
+1\) dans l’intention de provoquer la mort ou des dommages corporels graves; ou
+
+2\) dans l’intention de causer des destructions massives de ce lieu, cette installation, ce système ou cette infrastructure, lorsque ces destructions entraînent ou risquent d’entraîner des pertes économiques considérables sera puni de la réclusion de cinq à dix ans.
 
 (2) La peine sera celle de la réclusion de dix à quinze ans si l’infraction prévue au paragraphe (1) a causé des lésions corporelles ou une maladie.
 
 (3) La peine sera celle de la réclusion de quinze à vingt ans:
 
-1. si l’infraction prévue au paragraphe (1) a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
-2. si l’infraction prévue au paragraphe (1) a eu pour conséquence directe la destruction d’un lieu public, d’une installation gouvernementale ou d’une autre installation publique, d’un système de transport public ou d’une infrastructure, ou son endommagement grave.
+1\) si l’infraction prévue au paragraphe (1) a causé soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave;
+
+2\) si l’infraction prévue au paragraphe (1) a eu pour conséquence directe la destruction d’un lieu public, d’une installation gouvernementale ou d’une autre installation publique, d’un système de transport public ou d’une infrastructure, ou son endommagement grave.
 
 (4) La peine sera celle de la réclusion à vie si l’infraction prévue au paragraphe (1) a entraîné la mort d’une personne.
 
@@ -1167,14 +1211,19 @@ Dans les mêmes cas, les peines de réclusion criminelle sont réduites dans la 
 
 ([L. 27 octobre 2010](https://legilux.public.lu/eli/etat/leg/loi/2010/10/27/n1/jo)) Pour l’application de l’article 135-9 :
 
-- «L’installation gouvernementale ou une autre installation publique » vise tout équipement ou tout moyen de transport de caractère permanent ou temporaire qui est utilisé ou occupé par des représentants d’un Etat, des membres du Gouvernement, du Parlement ou de la Magistrature, ou des agents ou personnels d’un Etat ou de toute autre autorité ou entité publique, ou par des agents ou personnels d’une organisation intergouvernementale, dans le cadre de leurs fonctions officielles.
-- « L’infrastructure » vise tout équipement public ou privé fournissant des services d’utilité publique, tels l’adduction d’eau, l’évacuation des eaux usées, l’énergie, le combustible ou les communications.
-- « L’engin explosif ou autre engin meurtrier » vise :
+aash «L’installation gouvernementale ou une autre installation publique » vise tout équipement ou tout moyen de transport de caractère permanent ou temporaire qui est utilisé ou occupé par des représentants d’un Etat, des membres du Gouvernement, du Parlement ou de la Magistrature, ou des agents ou personnels d’un Etat ou de toute autre autorité ou entité publique, ou par des agents ou personnels d’une organisation intergouvernementale, dans le cadre de leurs fonctions officielles.
 
-  1. toute arme ou tout engin explosif ou incendiaire qui est conçu pour provoquer la mort, des dommages corporels graves ou d’importants dégâts matériels, ou qui en a la capacité; ou
-  2. toute arme ou tout engin qui est conçu pour provoquer la mort, des dommages corporels graves ou d’importants dégâts matériels, ou qui en a la capacité, par l’émission, la dissémination ou l’impact de produits chimiques toxiques, d’agents biologiques, toxines ou substances analogues ou de rayonnements ou de matières radioactives.
-- Le « lieu public » vise des parties de tout bâtiment, terrain, voie publique, cours d’eau, et autre endroit qui sont accessibles ou ouvertes au public, de façon continue, périodique ou occasionnelle, et comprend tout lieu à usage commercial, culturel, historique, éducatif, religieux, officiel, ludique, récréatif ou autre qui est ainsi accessible ou ouvert au public.
-- Le « système de transport public » vise tous les équipements, véhicules et moyens, publics ou privés, qui sont utilisés dans le cadre de services de transport de personnes ou de marchandises accessibles au public.
+bash « L’infrastructure » vise tout équipement public ou privé fournissant des services d’utilité publique, tels l’adduction d’eau, l’évacuation des eaux usées, l’énergie, le combustible ou les communications.
+
+cash « L’engin explosif ou autre engin meurtrier » vise :
+
+1\) toute arme ou tout engin explosif ou incendiaire qui est conçu pour provoquer la mort, des dommages corporels graves ou d’importants dégâts matériels, ou qui en a la capacité; ou
+
+2\) toute arme ou tout engin qui est conçu pour provoquer la mort, des dommages corporels graves ou d’importants dégâts matériels, ou qui en a la capacité, par l’émission, la dissémination ou l’impact de produits chimiques toxiques, d’agents biologiques, toxines ou substances analogues ou de rayonnements ou de matières radioactives.
+
+dash Le « lieu public » vise des parties de tout bâtiment, terrain, voie publique, cours d’eau, et autre endroit qui sont accessibles ou ouvertes au public, de façon continue, périodique ou occasionnelle, et comprend tout lieu à usage commercial, culturel, historique, éducatif, religieux, officiel, ludique, récréatif ou autre qui est ainsi accessible ou ouvert au public.
+
+eash Le « système de transport public » vise tous les équipements, véhicules et moyens, publics ou privés, qui sont utilisés dans le cadre de services de transport de personnes ou de marchandises accessibles au public.
 
 ###### Art. 135-10 *bis* — ([L. 17 février 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/02/17/a77/jo))
 
@@ -1194,8 +1243,9 @@ La peine est celle de la réclusion à vie si l’infraction prévue à l’alin
 
 (1) ([L. 26 décembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n10/jo)) Commet un acte de recrutement au terrorisme toute personne qui sollicite ou qui tente de solliciter une autre personne:
 
-1. pour commettre ou participer à la commission d’une des infractions visées au présent chapitre ou
-2. pour créer ou rejoindre un groupe terroriste au sens de l’article 135-3.
+a) pour commettre ou participer à la commission d’une des infractions visées au présent chapitre ou
+
+b) pour créer ou rejoindre un groupe terroriste au sens de l’article 135-3.
 
 (2) ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n9/jo)) Commet également un acte de recrutement au terrorisme toute personne qui, sciemment, se fait recruter pour commettre ou participer à la commission d’une des infractions terroristes visées au présent chapitre.
 
@@ -1213,10 +1263,13 @@ La peine est celle de la réclusion à vie si l’infraction prévue à l’alin
 
 (2) au moins l’un des autres faits matériels suivants:
 
-1. Recueillir des renseignements sur des lieux ou des personnes afin de mener une action terroriste dans ces lieux ou contre ces personnes ou exercer une surveillance sur ces lieux ou ces personnes;
-2. S’entraîner au maniement d’explosifs, d’armes à feu ou d’autres armes ou substances nocives ou dangereuses ou d’autres méthodes et techniques spécifiques ou à toute forme de combat ou au pilotage d’aéronefs ou à la conduite de trains ou de navires;
-3. Consulter habituellement un ou plusieurs services de communications électroniques ou fréquenter habituellement des cercles au sens de l’article 135-11 (2), ou détenir des objets ou des documents qui provoquent à la commission d’actes de terrorisme;
-4. Avoir séjourné à l’étranger sur un théâtre d’opérations de groupes terroristes.
+1\. Recueillir des renseignements sur des lieux ou des personnes afin de mener une action terroriste dans ces lieux ou contre ces personnes ou exercer une surveillance sur ces lieux ou ces personnes;
+
+2\. S’entraîner au maniement d’explosifs, d’armes à feu ou d’autres armes ou substances nocives ou dangereuses ou d’autres méthodes et techniques spécifiques ou à toute forme de combat ou au pilotage d’aéronefs ou à la conduite de trains ou de navires;
+
+3\. Consulter habituellement un ou plusieurs services de communications électroniques ou fréquenter habituellement des cercles au sens de l’article 135-11 (2), ou détenir des objets ou des documents qui provoquent à la commission d’actes de terrorisme;
+
+4\. Avoir séjourné à l’étranger sur un théâtre d’opérations de groupes terroristes.
 
 ###### Art. 135-14 *bis* — ([L. 17 février 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/02/17/a77/jo))
 
@@ -1232,8 +1285,9 @@ Est puni des peines prévues à l’article 135-17 le fait, par quiconque, de fa
 
 ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n9/jo)) Est puni des peines prévues à l’article 135-17 tout Luxembourgeois qui:
 
-1. quitte le territoire national en violation de l’interdiction de sortie du territoire ordonnée ou prononcée à son égard, ou
-2. qui se soustrait à l’obligation de remettre son ou ses passeports et sa carte d’identité nationale, ou un de ces documents seulement, aux autorités compétentes.
+1\. quitte le territoire national en violation de l’interdiction de sortie du territoire ordonnée ou prononcée à son égard, ou
+
+2\. qui se soustrait à l’obligation de remettre son ou ses passeports et sa carte d’identité nationale, ou un de ces documents seulement, aux autorités compétentes.
 
 ###### Art. 135-17 — ([L. 18 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n9/jo))
 
@@ -1255,11 +1309,15 @@ Seront exemptés des peines portées contre les complots réprimés par le prés
 
 ([L. 27 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/27/n1/jo)) Est qualifié de crime de génocide l’un des actes suivants commis dans l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux, comme tel:
 
-1. meurtre de membres du groupe;
-2. atteinte grave à l’intégrité physique ou mentale de membres du groupe;
-3. soumission intentionnelle du groupe à des conditions d’existence devant entraîner sa destruction physique totale ou partielle;
-4. mesures visant à entraver les naissances au sein du groupe;
-5. transfert forcé d’enfants du groupe à un autre groupe.
+1\. meurtre de membres du groupe;
+
+2\. atteinte grave à l’intégrité physique ou mentale de membres du groupe;
+
+3\. soumission intentionnelle du groupe à des conditions d’existence devant entraîner sa destruction physique totale ou partielle;
+
+4\. mesures visant à entraver les naissances au sein du groupe;
+
+5\. transfert forcé d’enfants du groupe à un autre groupe.
 
 Le crime de génocide est puni de la réclusion à vie.
 
@@ -1267,17 +1325,27 @@ Le crime de génocide est puni de la réclusion à vie.
 
 ([L. 27 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/27/n1/jo)) Est qualifié de crime contre l’humanité l’un des actes suivants lorsqu’il est commis dans le cadre d’une attaque généralisée ou systématique lancée contre toute population civile et en connaissance de cette attaque:
 
-1. meurtre;
-2. extermination;
-3. réduction en esclavage;
-4. déportation ou transfert forcé de population;
-5. emprisonnement ou autre forme de privation grave de liberté physique en violation des dispositions fondamentales du droit international;
-6. torture;
-7. viol, esclavage sexuel, prostitution forcée, grossesse forcée, stérilisation forcée ou toute autre forme de violence sexuelle de gravité comparable;
-8. persécution de tout groupe ou de toute collectivité identifiable pour des motifs d’ordre politique, racial, national, ethnique, culturel, religieux ou sexiste, ou en fonction d’autres critères universellement reconnus comme inadmissibles en droit international, en corrélation avec tout acte visé dans les articles 136bis, 136ter et 136quater;
-9. disparitions forcées de personnes;
-10. crime d’apartheid;
-11. autres actes inhumains de caractère analogue causant intentionnellement de grandes souffrances ou des atteintes graves à l’intégrité physique ou à la santé physique ou mentale.
+1\. meurtre;
+
+2\. extermination;
+
+3\. réduction en esclavage;
+
+4\. déportation ou transfert forcé de population;
+
+5\. emprisonnement ou autre forme de privation grave de liberté physique en violation des dispositions fondamentales du droit international;
+
+6\. torture;
+
+7\. viol, esclavage sexuel, prostitution forcée, grossesse forcée, stérilisation forcée ou toute autre forme de violence sexuelle de gravité comparable;
+
+8\. persécution de tout groupe ou de toute collectivité identifiable pour des motifs d’ordre politique, racial, national, ethnique, culturel, religieux ou sexiste, ou en fonction d’autres critères universellement reconnus comme inadmissibles en droit international, en corrélation avec tout acte visé dans les articles 136bis, 136ter et 136quater;
+
+9\. disparitions forcées de personnes;
+
+10\. crime d’apartheid;
+
+11\. autres actes inhumains de caractère analogue causant intentionnellement de grandes souffrances ou des atteintes graves à l’intégrité physique ou à la santé physique ou mentale.
 
 Le crime contre l’humanité est puni de la réclusion à vie.
 
@@ -1285,105 +1353,159 @@ Le crime contre l’humanité est puni de la réclusion à vie.
 
 (1) Est qualifié de crime de guerre:
 
-1. l’un des actes prévus par les Conventions internationales de Genève du 12 août 1949, telles qu’approuvées par la
+1\. l’un des actes prévus par les Conventions internationales de Genève du 12 août 1949, telles qu’approuvées par la [loi du 23 mai 1953](https://legilux.public.lu/eli/etat/leg/loi/1953/05/23/n1/jo) :
 
-   [loi du 23 mai 1953](https://legilux.public.lu/eli/etat/leg/loi/1953/05/23/n1/jo) :
+a) l’homicide intentionnel;
 
-   1. l’homicide intentionnel;
-   2. la torture ou les traitements inhumains, y compris les expériences biologiques;
-   3. le fait de causer intentionnellement de grandes souffrances ou de porter des atteintes graves à l’intégrité physique ou à la santé;
-   4. le fait de contraindre un prisonnier de guerre ou une personne protégée à servir dans les forces armées de la puissance ennemie;
-   5. le fait de priver intentionnellement un prisonnier de guerre ou une personne protégée de son droit d’être jugée régulièrement et impartialement;
-   6. la déportation ou le transfert illégal ou la détention illégale;
-   7. la prise d’otages;
-   8. la destruction ou l’appropriation de biens, non justifiées par des nécessités militaires et exécutées sur une grande échelle de façon illicite et arbitraire.
-2. l’un des actes suivants, constituant des violations graves des lois et coutumes applicables aux conflits armés internationaux dans le cadre établi du droit international:
+b) la torture ou les traitements inhumains, y compris les expériences biologiques;
 
-   1. le fait de diriger intentionnellement des attaques contre la population civile en tant que telle ou contre des civils qui ne participent pas directement aux hostilités;
-   2. le fait de diriger intentionnellement des attaques contre des biens de caractère civil, c’est-à-dire des biens qui ne sont pas des objectifs militaires;
-   3. le fait de diriger intentionnellement des attaques contre le personnel, les installations, le matériel, les unités ou les véhicules employés dans le cadre d’une mission d’aide humanitaire ou de maintien de la paix conformément à la Charte des Nations Unies, pour autant qu’ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens de caractère civil;
-   4. le fait de diriger intentionnellement une attaque en sachant qu’elle causera incidemment des pertes en vies humaines dans la population civile, des blessures aux personnes civiles, des dommages aux biens de caractère civil ou des dommages étendus, durables et graves à l’environnement naturel qui seraient manifestement excessifs par rapport à l’ensemble de l’avantage militaire concret et direct attendu;
-   5. le fait d’attaquer ou de bombarder, par quelque moyen que ce soit, des villes, villages, habitations ou bâtiments qui ne sont pas défendus et qui ne sont pas des objectifs militaires;
-   6. le fait de tuer ou de blesser un combattant qui, ayant déposé les armes ou n’ayant plus de moyens de se défendre, s’est rendu à discrétion;
-   7. le fait d’utiliser indûment le pavillon parlementaire, le drapeau ou les insignes militaires et l’uniforme de l’ennemi ou de l’Organisation des Nations Unies, ainsi que les signes distinctifs prévus par les Conventions de Genève, et, ce faisant, de causer la perte de vies humaines ou des blessures graves;
-   8. le transfert, direct ou indirect, par une puissance occupante d’une partie de sa population civile, dans le territoire qu’elle occupe, ou la déportation ou le transfert à l’intérieur ou hors du territoire occupé de la totalité ou d’une partie de la population de ce territoire;
-   9. le fait de diriger intentionnellement des attaques contre des bâtiments consacrés à la religion, à l’enseignement, à l’art, à la science ou à l’action caritative, des monuments historiques, des hôpitaux et des lieux où des malades ou des blessés sont rassemblés, à condition qu’ils ne soient pas des objectifs militaires;
-   10. le fait de soumettre des personnes d’une partie adverse tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles-ci ou mettent sérieusement en danger leur santé;
-   11. le fait de tuer ou de blesser par traîtrise des individus appartenant à la nation ou à l’armée ennemie;
-   12. le fait de déclarer qu’il ne sera pas fait de quartier;
-   13. le fait de détruire ou de saisir les biens de l’ennemi, sauf dans les cas où ces destructions ou saisies seraient impérieusement commandées par les nécessités de la guerre;
-   14. le fait de déclarer éteints, suspendus ou non recevables en justice les droits et actions des nationaux de la partie adverse;
-   15. le fait pour un belligérant de contraindre les nationaux de la partie adverse à prendre part aux opérations de guerre dirigées contre leur pays, même s’ils étaient au service de ce belligérant avant le commencement de la guerre;
-   16. le pillage d’une ville ou d’une localité, même prise d’assaut;
-   17. le fait d’employer du poison ou des armes empoisonnées;
-   18. le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
-   19. le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain;
-   20. le fait d’employer les armes, projectiles, matières et méthodes de guerre de nature à causer des maux superflus ou des souffrances inutiles ou à frapper sans discrimination en violation du droit international des conflits armés, à condition que ces armes, projectiles, matières et méthodes de guerre fassent l’objet d’une interdiction générale et qu’ils soient inscrits dans une annexe au Statut de Rome;
-   21. les atteintes à la dignité de la personne, notamment les traitements humiliants et dégradants;
-   22. le viol, l’esclavage sexuel, la prostitution forcée, la grossesse forcée, la stérilisation forcée ou toute autre forme de violence sexuelle constituant une infraction grave aux Conventions de Genève;
-   23. le fait d’utiliser la présence d’un civil ou d’une autre personne protégée pour éviter que certains points, zones ou forces militaires ne soient la cible d’opérations militaires;
-   24. le fait de diriger intentionnellement des attaques contre les bâtiments, le matériel, les unités et les moyens de transport sanitaires, et le personnel utilisant, conformément au droit international, les signes distinctifs prévus par les Conventions de Genève;
-   25. le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours prévus par les Conventions de Genève;
-   26. le fait de procéder à la conscription ou à l’enrôlement d’enfants de moins de 15 ans dans les forces armées nationales ou de les faire participer activement à des hostilités;
-   27. (
+c) le fait de causer intentionnellement de grandes souffrances ou de porter des atteintes graves à l’intégrité physique ou à la santé;
 
-      [L. 29 mars 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/03/29/a207/jo)) le fait d’utiliser des armes qui utilisent des agents microbiens ou d’autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
-   28. le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
-   29. le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que seule leur fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de la correction de la vue.
-3. en cas de conflit armé ne présentant pas un caractère international, les violations graves de l’article 3 commun aux quatre Conventions de Genève du 12 août 1949, à savoir l’un des actes suivants, commis à l’encontre de personnes qui ne participent pas directement aux hostilités, y compris les membres de forces armées qui ont déposé les armes et les personnes qui ont été mises hors de combat par maladie, blessure, détention ou par toute autre cause:
+d) le fait de contraindre un prisonnier de guerre ou une personne protégée à servir dans les forces armées de la puissance ennemie;
 
-   1. les atteintes à la vie et à l’intégrité corporelle, notamment le meurtre sous toutes ses formes, les mutilations, les traitements cruels et la torture;
-   2. les atteintes à la dignité de la personne, notamment les traitements humiliants et dégradants;
-   3. les prises d’otages;
-   4. les condamnations prononcées et les exécutions effectuées sans un jugement préalable, rendu par un tribunal régulièrement constitué, assorti des garanties judiciaires généralement reconnues comme indispensables.
-4. les autres violations graves des lois et coutumes applicables aux conflits armés ne présentant pas un caractère international, dans le cadre établi du droit international, à savoir l’un des actes suivants:
+e) le fait de priver intentionnellement un prisonnier de guerre ou une personne protégée de son droit d’être jugée régulièrement et impartialement;
 
-   1. le fait de diriger intentionnellement des attaques contre la population civile en tant que telle ou contre des personnes civiles qui ne participent pas directement aux hostilités;
-   2. le fait de diriger intentionnellement des attaques contre les bâtiments, le matériel, les unités et les moyens de transport sanitaires, et le personnel utilisant, conformément au droit international, les signes distinctifs des Conventions de Genève;
-   3. le fait de diriger intentionnellement des attaques contre le personnel, les installations, le matériel, les unités ou les véhicules employés dans le cadre d’une mission d’aide humanitaire ou de maintien de la paix conformément à la Charte des Nations Unies, pour autant qu’ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens de caractère civil;
-   4. le fait de diriger intentionnellement des attaques contre des bâtiments consacrés à la religion, à l’enseignement, à l’art, à la science ou à l’action caritative, des monuments historiques, des hôpitaux et des lieux où des malades et des blessés sont rassemblés, pour autant que ces bâtiments ne soient pas des objectifs militaires;
-   5. le pillage d’une ville ou d’une localité, même prise d’assaut;
-   6. le viol, l’esclavage sexuel, la prostitution forcée, la grossesse forcée, la stérilisation forcée, ou toute autre forme de violence sexuelle constituant une violation grave de l’article 3 commun aux Conventions de Genève;
-   7. le fait de procéder à la conscription ou à l’enrôlement d’enfants de moins de 15 ans dans les forces armées ou dans des groupes armés ou de les faire participer activement à des hostilités;
-   8. le fait d’ordonner le déplacement de la population civile pour des raisons ayant trait au conflit, sauf dans les cas où la sécurité des civils ou des impératifs militaires l’exigent;
-   9. le fait de tuer ou de blesser par traîtrise un adversaire combattant;
-   10. le fait de déclarer qu’il ne sera pas fait de quartier;
-   11. le fait de soumettre des personnes d’une autre partie au conflit tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles-ci ou mettent sérieusement en danger leur santé;
-   12. le fait de détruire ou de saisir les biens d’un adversaire, sauf si ces destructions ou saisies sont impérieusement commandées par les nécessités du conflit;
-   13. le fait d’employer du poison ou des armes empoisonnées;
-   14. le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
-   15. le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain;
-   16. (
+f) la déportation ou le transfert illégal ou la détention illégale;
 
-      [L. 29 mars 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/03/29/a207/jo)) le fait d’utiliser des armes qui utilisent des agents microbiens ou d’autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
-   17. le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
-   18. le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que seule leur fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de la correction de la vue.
-   19. (
+g) la prise d’otages;
 
-      [L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a318/jo)) le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours.
+h) la destruction ou l’appropriation de biens, non justifiées par des nécessités militaires et exécutées sur une grande échelle de façon illicite et arbitraire.
 
-(2) 1. Les infractions énumérées aux a), b) et c) du point 1. du paragraphe (1) sont punies de la réclusion à vie.
+2\. l’un des actes suivants, constituant des violations graves des lois et coutumes applicables aux conflits armés internationaux dans le cadre établi du droit international:
 
-   Les infractions énumérées aux d), e), f), g) et h) du même point du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+a) le fait de diriger intentionnellement des attaques contre la population civile en tant que telle ou contre des civils qui ne participent pas directement aux hostilités;
 
-   L’infraction prévue au i) du même alinéa est punie de la réclusion de dix à quinze ans. Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
-2. Les infractions énumérées aux a), c), d), e), f), h), j), k), l), v), x) et y) du point 2. du paragraphe (1) sont punies de la réclusion à vie.
+b) le fait de diriger intentionnellement des attaques contre des biens de caractère civil, c’est-à-dire des biens qui ne sont pas des objectifs militaires;
 
-   Les infractions énumérées aux g), i), o), p), q), r), s), t), u), w) et z) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+c) le fait de diriger intentionnellement des attaques contre le personnel, les installations, le matériel, les unités ou les véhicules employés dans le cadre d’une mission d’aide humanitaire ou de maintien de la paix conformément à la Charte des Nations Unies, pour autant qu’ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens de caractère civil;
 
-   Les infractions prévues aux b), m) et n) du même point sont punies de la réclusion de dix à quinze ans. Elles sont punies de la réclusion de quinze à vingt ans lorsqu’elles ont entraîné des conséquences graves pour la santé publique.
-3. L’infraction énumérée au a) du point 3. du paragraphe (1) est punie de la réclusion à vie.
+d) le fait de diriger intentionnellement une attaque en sachant qu’elle causera incidemment des pertes en vies humaines dans la population civile, des blessures aux personnes civiles, des dommages aux biens de caractère civil ou des dommages étendus, durables et graves à l’environnement naturel qui seraient manifestement excessifs par rapport à l’ensemble de l’avantage militaire concret et direct attendu;
 
-   Les infractions énumérées aux b) et d) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+e) le fait d’attaquer ou de bombarder, par quelque moyen que ce soit, des villes, villages, habitations ou bâtiments qui ne sont pas défendus et qui ne sont pas des objectifs militaires;
 
-   L’infraction prévue au c) du même point est punie de la réclusion de dix à quinze ans. Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
-4. Les infractions énumérées aux a), b), c), f), i), j) et k) du point 4. du paragraphe (1) sont punies de la réclusion à vie.
+f) le fait de tuer ou de blesser un combattant qui, ayant déposé les armes ou n’ayant plus de moyens de se défendre, s’est rendu à discrétion;
 
-   Les infractions énumérées aux d), e), g), h), l), m), n) et o) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+g) le fait d’utiliser indûment le pavillon parlementaire, le drapeau ou les insignes militaires et l’uniforme de l’ennemi ou de l’Organisation des Nations Unies, ainsi que les signes distinctifs prévus par les Conventions de Genève, et, ce faisant, de causer la perte de vies humaines ou des blessures graves;
 
-   L’infraction prévue au l) du même point est punie de la réclusion de dix à quinze ans.
+h) le transfert, direct ou indirect, par une puissance occupante d’une partie de sa population civile, dans le territoire qu’elle occupe, ou la déportation ou le transfert à l’intérieur ou hors du territoire occupé de la totalité ou d’une partie de la population de ce territoire;
 
-   Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
+i) le fait de diriger intentionnellement des attaques contre des bâtiments consacrés à la religion, à l’enseignement, à l’art, à la science ou à l’action caritative, des monuments historiques, des hôpitaux et des lieux où des malades ou des blessés sont rassemblés, à condition qu’ils ne soient pas des objectifs militaires;
+
+j) le fait de soumettre des personnes d’une partie adverse tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles-ci ou mettent sérieusement en danger leur santé;
+
+k) le fait de tuer ou de blesser par traîtrise des individus appartenant à la nation ou à l’armée ennemie;
+
+l) le fait de déclarer qu’il ne sera pas fait de quartier;
+
+m) le fait de détruire ou de saisir les biens de l’ennemi, sauf dans les cas où ces destructions ou saisies seraient impérieusement commandées par les nécessités de la guerre;
+
+n) le fait de déclarer éteints, suspendus ou non recevables en justice les droits et actions des nationaux de la partie adverse;
+
+o) le fait pour un belligérant de contraindre les nationaux de la partie adverse à prendre part aux opérations de guerre dirigées contre leur pays, même s’ils étaient au service de ce belligérant avant le commencement de la guerre;
+
+p) le pillage d’une ville ou d’une localité, même prise d’assaut;
+
+q) le fait d’employer du poison ou des armes empoisonnées;
+
+r) le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
+
+s) le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain;
+
+t) le fait d’employer les armes, projectiles, matières et méthodes de guerre de nature à causer des maux superflus ou des souffrances inutiles ou à frapper sans discrimination en violation du droit international des conflits armés, à condition que ces armes, projectiles, matières et méthodes de guerre fassent l’objet d’une interdiction générale et qu’ils soient inscrits dans une annexe au Statut de Rome;
+
+u) les atteintes à la dignité de la personne, notamment les traitements humiliants et dégradants;
+
+v) le viol, l’esclavage sexuel, la prostitution forcée, la grossesse forcée, la stérilisation forcée ou toute autre forme de violence sexuelle constituant une infraction grave aux Conventions de Genève;
+
+w) le fait d’utiliser la présence d’un civil ou d’une autre personne protégée pour éviter que certains points, zones ou forces militaires ne soient la cible d’opérations militaires;
+
+x) le fait de diriger intentionnellement des attaques contre les bâtiments, le matériel, les unités et les moyens de transport sanitaires, et le personnel utilisant, conformément au droit international, les signes distinctifs prévus par les Conventions de Genève;
+
+y) le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours prévus par les Conventions de Genève;
+
+z) le fait de procéder à la conscription ou à l’enrôlement d’enfants de moins de 15 ans dans les forces armées nationales ou de les faire participer activement à des hostilités;
+
+aa) ([L. 29 mars 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/03/29/a207/jo)) le fait d’utiliser des armes qui utilisent des agents microbiens ou d’autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
+
+bb) le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
+
+cc) le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que seule leur fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de la correction de la vue.
+
+3\. en cas de conflit armé ne présentant pas un caractère international, les violations graves de l’article 3 commun aux quatre Conventions de Genève du 12 août 1949, à savoir l’un des actes suivants, commis à l’encontre de personnes qui ne participent pas directement aux hostilités, y compris les membres de forces armées qui ont déposé les armes et les personnes qui ont été mises hors de combat par maladie, blessure, détention ou par toute autre cause:
+
+a) les atteintes à la vie et à l’intégrité corporelle, notamment le meurtre sous toutes ses formes, les mutilations, les traitements cruels et la torture;
+
+b) les atteintes à la dignité de la personne, notamment les traitements humiliants et dégradants;
+
+c) les prises d’otages;
+
+d) les condamnations prononcées et les exécutions effectuées sans un jugement préalable, rendu par un tribunal régulièrement constitué, assorti des garanties judiciaires généralement reconnues comme indispensables.
+
+4\. les autres violations graves des lois et coutumes applicables aux conflits armés ne présentant pas un caractère international, dans le cadre établi du droit international, à savoir l’un des actes suivants:
+
+a) le fait de diriger intentionnellement des attaques contre la population civile en tant que telle ou contre des personnes civiles qui ne participent pas directement aux hostilités;
+
+b) le fait de diriger intentionnellement des attaques contre les bâtiments, le matériel, les unités et les moyens de transport sanitaires, et le personnel utilisant, conformément au droit international, les signes distinctifs des Conventions de Genève;
+
+c) le fait de diriger intentionnellement des attaques contre le personnel, les installations, le matériel, les unités ou les véhicules employés dans le cadre d’une mission d’aide humanitaire ou de maintien de la paix conformément à la Charte des Nations Unies, pour autant qu’ils aient droit à la protection que le droit international des conflits armés garantit aux civils et aux biens de caractère civil;
+
+d) le fait de diriger intentionnellement des attaques contre des bâtiments consacrés à la religion, à l’enseignement, à l’art, à la science ou à l’action caritative, des monuments historiques, des hôpitaux et des lieux où des malades et des blessés sont rassemblés, pour autant que ces bâtiments ne soient pas des objectifs militaires;
+
+e) le pillage d’une ville ou d’une localité, même prise d’assaut;
+
+f) le viol, l’esclavage sexuel, la prostitution forcée, la grossesse forcée, la stérilisation forcée, ou toute autre forme de violence sexuelle constituant une violation grave de l’article 3 commun aux Conventions de Genève;
+
+g) le fait de procéder à la conscription ou à l’enrôlement d’enfants de moins de 15 ans dans les forces armées ou dans des groupes armés ou de les faire participer activement à des hostilités;
+
+h) le fait d’ordonner le déplacement de la population civile pour des raisons ayant trait au conflit, sauf dans les cas où la sécurité des civils ou des impératifs militaires l’exigent;
+
+i) le fait de tuer ou de blesser par traîtrise un adversaire combattant;
+
+j) le fait de déclarer qu’il ne sera pas fait de quartier;
+
+k) le fait de soumettre des personnes d’une autre partie au conflit tombées en son pouvoir à des mutilations ou à des expériences médicales ou scientifiques quelles qu’elles soient qui ne sont ni motivées par un traitement médical, dentaire ou hospitalier, ni effectuées dans l’intérêt de ces personnes, et qui entraînent la mort de celles-ci ou mettent sérieusement en danger leur santé;
+
+l) le fait de détruire ou de saisir les biens d’un adversaire, sauf si ces destructions ou saisies sont impérieusement commandées par les nécessités du conflit;
+
+m) le fait d’employer du poison ou des armes empoisonnées;
+
+n) le fait d’employer des gaz asphyxiants, toxiques ou similaires, ainsi que tous liquides, matières ou procédés analogues;
+
+o) le fait d’utiliser des balles qui s’épanouissent ou s’aplatissent facilement dans le corps humain;
+
+p) ([L. 29 mars 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/03/29/a207/jo)) le fait d’utiliser des armes qui utilisent des agents microbiens ou d’autres agents biologiques, ainsi que des toxines, quels qu’en soient l’origine ou le mode de production;
+
+q) le fait d’utiliser des armes ayant comme principal effet de blesser par des éclats qui ne sont pas localisables par rayons X dans le corps humain;
+
+r) le fait d’utiliser des armes à laser spécifiquement conçues de telle façon que seule leur fonction de combat ou une de leurs fonctions de combat fût de provoquer la cécité permanente chez des personnes dont la vision est non améliorée, c’est-à-dire qui regardent à l’œil nu ou qui portent des dispositifs de la correction de la vue.
+
+s) ([L. 22 juin 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a318/jo)) le fait d’affamer délibérément des civils comme méthode de guerre, en les privant de biens indispensables à leur survie, y compris en empêchant intentionnellement l’envoi des secours.
+
+(2) 1\. Les infractions énumérées aux a), b) et c) du point 1. du paragraphe (1) sont punies de la réclusion à vie.
+
+Les infractions énumérées aux d), e), f), g) et h) du même point du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+
+L’infraction prévue au i) du même alinéa est punie de la réclusion de dix à quinze ans. Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
+
+2\. Les infractions énumérées aux a), c), d), e), f), h), j), k), l), v), x) et y) du point 2. du paragraphe (1) sont punies de la réclusion à vie.
+
+Les infractions énumérées aux g), i), o), p), q), r), s), t), u), w) et z) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+
+Les infractions prévues aux b), m) et n) du même point sont punies de la réclusion de dix à quinze ans. Elles sont punies de la réclusion de quinze à vingt ans lorsqu’elles ont entraîné des conséquences graves pour la santé publique.
+
+3\. L’infraction énumérée au a) du point 3. du paragraphe (1) est punie de la réclusion à vie.
+
+Les infractions énumérées aux b) et d) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+
+L’infraction prévue au c) du même point est punie de la réclusion de dix à quinze ans. Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
+
+4\. Les infractions énumérées aux a), b), c), f), i), j) et k) du point 4. du paragraphe (1) sont punies de la réclusion à vie.
+
+Les infractions énumérées aux d), e), g), h), l), m), n) et o) du même point sont punies de la réclusion de quinze à vingt ans. Elles sont punies de la réclusion à vie si elles ont eu pour conséquence soit la mort d’une ou de plusieurs personnes, soit une maladie paraissant incurable, soit une incapacité permanente de travail personnel, soit la perte de l’usage absolu d’un organe, soit une mutilation grave.
+
+L’infraction prévue au l) du même point est punie de la réclusion de dix à quinze ans.
+
+Elle est punie de la réclusion de quinze à vingt ans lorsqu’elle a entraîné des conséquences graves pour la santé publique.
 
 (3) Le point 3. du paragraphe (1) s’applique aux conflits armés ne présentant pas un caractère international et ne s’applique donc pas aux situations de troubles et tensions internes telles que les émeutes, les actes isolés et sporadiques de violence ou les actes de nature similaire.
 
@@ -1397,13 +1519,19 @@ Aux fins de l’alinéa 1er, on entend par «acte d’agression» l’emploi par
 
 Il s’agit des actes suivants:
 
-1. l’invasion ou l’attaque par les forces armées d’un Etat du territoire d’un autre Etat ou l’occupation militaire, même temporaire, résultant d’une telle invasion ou d’une telle attaque, ou l’annexion par la force de la totalité ou d’une partie du territoire d’un autre Etat;
-2. le bombardement par les forces armées d’un Etat du territoire d’un autre Etat, ou l’utilisation d’une arme quelconque par un Etat contre le territoire d’un autre Etat;
-3. le blocus des ports ou des côtes d’un Etat par les forces armées d’un autre Etat;
-4. l’attaque par les forces armées d’un Etat des forces terrestres, maritimes ou aériennes, ou des flottes aériennes et maritimes d’un autre Etat;
-5. l’emploi des forces armées d’un Etat qui se trouvent dans le territoire d’un autre Etat avec l’agrément de celui-ci en contravention avec les conditions fixées dans l’accord pertinent, ou la prolongation de la présence de ces forces sur ce territoire après l’échéance de l’accord pertinent;
-6. le fait pour un Etat de permettre que son territoire, qu’il a mis à la disposition d’un autre Etat, serve à la commission par cet autre Etat d’un acte d’agression contre un Etat tiers;
-7. l’envoi par un Etat ou au nom d’un Etat de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre Etat des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
+a) l’invasion ou l’attaque par les forces armées d’un Etat du territoire d’un autre Etat ou l’occupation militaire, même temporaire, résultant d’une telle invasion ou d’une telle attaque, ou l’annexion par la force de la totalité ou d’une partie du territoire d’un autre Etat;
+
+b) le bombardement par les forces armées d’un Etat du territoire d’un autre Etat, ou l’utilisation d’une arme quelconque par un Etat contre le territoire d’un autre Etat;
+
+c) le blocus des ports ou des côtes d’un Etat par les forces armées d’un autre Etat;
+
+d) l’attaque par les forces armées d’un Etat des forces terrestres, maritimes ou aériennes, ou des flottes aériennes et maritimes d’un autre Etat;
+
+e) l’emploi des forces armées d’un Etat qui se trouvent dans le territoire d’un autre Etat avec l’agrément de celui-ci en contravention avec les conditions fixées dans l’accord pertinent, ou la prolongation de la présence de ces forces sur ce territoire après l’échéance de l’accord pertinent;
+
+f) le fait pour un Etat de permettre que son territoire, qu’il a mis à la disposition d’un autre Etat, serve à la commission par cet autre Etat d’un acte d’agression contre un Etat tiers;
+
+g) l’envoi par un Etat ou au nom d’un Etat de bandes, groupes, troupes irrégulières ou mercenaires armés qui exécutent contre un autre Etat des actes assimilables à ceux de forces armées d’une gravité égale à celle des actes énumérés ci-dessus, ou qui apportent un concours substantiel à de tels actes.
 
 (2) Les infractions énumérées au paragraphe (1) sont punies de la réclusion de dix à quinze ans.
 
@@ -1429,21 +1557,23 @@ Sera puni d'un emprisonnement de trois mois à deux ans et d'une amende de 251 e
 
 ([L. 10 juillet 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n2/jo))
 
-1. Le fait, pour quiconque ayant connaissance d’un crime dont il est encore possible de prévenir ou de limiter les effets, ou dont les auteurs sont susceptibles de commettre de nouveaux crimes qui pourraient être empêchés, de ne pas en informer les autorités judiciaires ou administratives est puni d’une peine d’emprisonnement de un à trois ans et d’une amende de 251 à 45.000 euros.
-2. Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs:
+1\. Le fait, pour quiconque ayant connaissance d’un crime dont il est encore possible de prévenir ou de limiter les effets, ou dont les auteurs sont susceptibles de commettre de nouveaux crimes qui pourraient être empêchés, de ne pas en informer les autorités judiciaires ou administratives est puni d’une peine d’emprisonnement de un à trois ans et d’une amende de 251 à 45.000 euros.
 
-   - les parents en ligne directe et leurs conjoints, ainsi que les frères et sœurs et leurs conjoints, de l’auteur ou du complice du crime;
-   - le conjoint de l’auteur ou du complice du crime, ou le partenaire au sens de la
+2\. Sont exceptés des dispositions qui précèdent, sauf en ce qui concerne les crimes commis sur les mineurs:
 
-     [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats;
-   - les personnes astreintes au secret professionnel et visées par l’article 458 du Code pénal.
+aash les parents en ligne directe et leurs conjoints, ainsi que les frères et sœurs et leurs conjoints, de l’auteur ou du complice du crime;
+
+bash le conjoint de l’auteur ou du complice du crime, ou le partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats;
+
+cash les personnes astreintes au secret professionnel et visées par l’article 458 du Code pénal.
 
 ##### Art. 141.
 
 ([L. 10 juillet 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n2/jo)) Est puni d’un emprisonnement de un mois à deux ans et d’une amende de 251 à 45.000 euros le fait, en vue de faire sciemment obstacle à la manifestation de la vérité:
 
-1. de modifier l’état des lieux d’un crime ou d’un délit soit par l’altération, la falsification ou l’effacement des traces ou indices, soit par l’apport, le déplacement ou la suppression d’objets quelconques;
-2. de détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d’un crime ou d’un délit, la recherche des preuves ou la condamnation des coupables.
+1\. de modifier l’état des lieux d’un crime ou d’un délit soit par l’altération, la falsification ou l’effacement des traces ou indices, soit par l’apport, le déplacement ou la suppression d’objets quelconques;
+
+2\. de détruire, soustraire, receler ou altérer un document public ou privé ou un objet de nature à faciliter la découverte d’un crime ou d’un délit, la recherche des preuves ou la condamnation des coupables.
 
 Lorsque les faits prévus au présent article sont commis par une personne qui, par ses fonctions, est appelée à concourir à la manifestation de la vérité, la peine est portée à cinq ans d’emprisonnement et à 75.000 euros d’amende.
 
@@ -1591,9 +1721,11 @@ La monnaie, les instruments de paiement corporels et les titres, contrefaits, al
 
 Est puni d’une amende de 1.250 euros à 125.000 euros tout commerçant participant au traitement et à la délivrance au public de billets et pièces de monnaie au moyen d’automates de délivrance de billets et pièces qui, dans la limite de ces activités, a manqué à l’obligation :
 
-1. de s’assurer de l’authenticité des billets et pièces en euros qu’il reçoit et entend remettre en circulation et de veiller à la détection des contrefaçons ;
-2. de retirer de la circulation tous les billets et pièces en euros qu’il a reçus et dont il sait ou au sujet desquels il a des raisons suffisantes de penser qu’ils sont faux ;
-3. de remettre les signes monétaires sous forme de billets et pièces en euros visés au point 2 aux autorités compétentes.
+1\. de s’assurer de l’authenticité des billets et pièces en euros qu’il reçoit et entend remettre en circulation et de veiller à la détection des contrefaçons ;
+
+2\. de retirer de la circulation tous les billets et pièces en euros qu’il a reçus et dont il sait ou au sujet desquels il a des raisons suffisantes de penser qu’ils sont faux ;
+
+3\. de remettre les signes monétaires sous forme de billets et pièces en euros visés au point 2 aux autorités compétentes.
 
 ##### Art. 166.
 
@@ -1617,9 +1749,11 @@ Les objets et dispositifs mentionnés ci-dessus sont confisqués, alors même qu
 
 ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo)) Est puni de la réclusion de cinq à dix ans
 
-1. Le fait de contrefaire, d’altérer ou de falsifier des timbres ou des poinçons servant à marquer les matières d’or ou d’argent, ou de faire usage de ces timbres ou poinçons contrefaits, altérés ou falsifiés;
-2. Le fait de fabriquer, de recevoir, de posséder, de se procurer, de vendre ou de céder à un tiers des instruments, des objets, des programmes ou des données d’ordinateur, ou tout autre procédé, devant servir à la contrefaçon, à l’altération ou à la falsification de timbres, s’il a été commis dans le but de contrefaire, de falsifier ou d’altérer des timbres;
-3. Le fait de fabriquer, de falsifier, de recevoir, de posséder, de se procurer, de vendre ou de céder à un tiers des dispositifs de sécurité servant à protéger les timbres contre la contrefaçon, l’altération ou la falsification, s’il a été commis dans le but de contrefaire, de falsifier ou d’altérer des timbres.
+1\. Le fait de contrefaire, d’altérer ou de falsifier des timbres ou des poinçons servant à marquer les matières d’or ou d’argent, ou de faire usage de ces timbres ou poinçons contrefaits, altérés ou falsifiés;
+
+2\. Le fait de fabriquer, de recevoir, de posséder, de se procurer, de vendre ou de céder à un tiers des instruments, des objets, des programmes ou des données d’ordinateur, ou tout autre procédé, devant servir à la contrefaçon, à l’altération ou à la falsification de timbres, s’il a été commis dans le but de contrefaire, de falsifier ou d’altérer des timbres;
+
+3\. Le fait de fabriquer, de falsifier, de recevoir, de posséder, de se procurer, de vendre ou de céder à un tiers des dispositifs de sécurité servant à protéger les timbres contre la contrefaçon, l’altération ou la falsification, s’il a été commis dans le but de contrefaire, de falsifier ou d’altérer des timbres.
 
 ##### Art. 170.
 
@@ -1637,8 +1771,9 @@ Les objets et dispositifs mentionnés ci-dessus sont confisqués, alors même qu
 
 ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo)) Est puni d'un emprisonnement de trois mois à cinq ans et d’une amende de 500 euros à 75.000 euros, et pourra être puni de l'interdiction conformément à l'article 24
 
-1. Le fait de contrefaire, d’altérer ou de falsifier des sceaux, timbres, poinçons ou marques ou de faire usage de ces sceaux, timbres, poinçons ou marques contrefaits, altérés ou falsifiés;
-2. Le fait de se procurer indûment les vrais sceaux, timbres, poinçons ou marques ayant l'une des destinations visées aux articles 167 et 169, et d’en faire une application ou un usage préjudiciable aux droits et aux intérêts soit de l'Etat luxembourgeois, d'une autorité quelconque luxembourgeoise, d'une personne morale de droit public ou de droit privé luxembourgeois, sous quelque dénomination que ce soit, ou même d'une personne physique, soit d’un Etat étranger, d’une organisation internationale, d’une autorité étrangère quelconque ou d’une personne morale de droit public ou privé d’un Etat étranger, sous quelque dénomination que ce soit, ou d’une personne physique.
+1\. Le fait de contrefaire, d’altérer ou de falsifier des sceaux, timbres, poinçons ou marques ou de faire usage de ces sceaux, timbres, poinçons ou marques contrefaits, altérés ou falsifiés;
+
+2\. Le fait de se procurer indûment les vrais sceaux, timbres, poinçons ou marques ayant l'une des destinations visées aux articles 167 et 169, et d’en faire une application ou un usage préjudiciable aux droits et aux intérêts soit de l'Etat luxembourgeois, d'une autorité quelconque luxembourgeoise, d'une personne morale de droit public ou de droit privé luxembourgeois, sous quelque dénomination que ce soit, ou même d'une personne physique, soit d’un Etat étranger, d’une organisation internationale, d’une autorité étrangère quelconque ou d’une personne morale de droit public ou privé d’un Etat étranger, sous quelque dénomination que ce soit, ou d’une personne physique.
 
 La tentative de l’un de ces délits est punie d'un emprisonnement de trois mois à deux ans et d’une amende de 500 euros à 25.000 euros.
 
@@ -1652,8 +1787,9 @@ La tentative de l’un des délits prévus à l’alinéa précédent est punie 
 
 ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo)) Est puni d'une amende de 500 euros à 25.000 euros
 
-1. Le fait de se procurer des timbres-poste ou autres timbres adhésifs contrefaits, altérés ou falsifiés, et d’en faire usage ;
-2. Le fait de faire disparaître, soit d'un timbre-poste ou autre timbre adhésif, soit d'un coupon pour le transport des personnes ou des choses, la marque indiquant qu'ils ont déjà servi, ou de faire usage d’un tel timbre-poste ou autre timbre adhésif ou d’un tel coupon.
+1\. Le fait de se procurer des timbres-poste ou autres timbres adhésifs contrefaits, altérés ou falsifiés, et d’en faire usage ;
+
+2\. Le fait de faire disparaître, soit d'un timbre-poste ou autre timbre adhésif, soit d'un coupon pour le transport des personnes ou des choses, la marque indiquant qu'ils ont déjà servi, ou de faire usage d’un tel timbre-poste ou autre timbre adhésif ou d’un tel coupon.
 
 ##### Art. 176.
 
@@ -1805,9 +1941,11 @@ Si les témoins se sont laissés corrompre par dons ou promesses, ils seront pun
 
 ([L. 27 juillet 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/07/27/a400/jo)) Sera puni d'un emprisonnement de deux mois à trois ans quiconque
 
-1. aura établi une attestation faisant état de faits matériellement inexacts et destinée à être utilisée, soit devant une juridiction civile ou administrative ou le fonctionnaire sanctionnateur pour établir des faits dont la preuve par témoins est admise, soit devant une juridiction répressive;
-2. aura falsifié ou modifié d'une façon quelconque une telle attestation originairement sincère;
-3. aura fait usage d'une telle attestation inexacte ou falsifiée.
+1\. aura établi une attestation faisant état de faits matériellement inexacts et destinée à être utilisée, soit devant une juridiction civile ou administrative ou le fonctionnaire sanctionnateur pour établir des faits dont la preuve par témoins est admise, soit devant une juridiction répressive;
+
+2\. aura falsifié ou modifié d'une façon quelconque une telle attestation originairement sincère;
+
+3\. aura fait usage d'une telle attestation inexacte ou falsifiée.
 
 ###### Art. 210.
 
@@ -1915,8 +2053,9 @@ Toute personne qui aura porté publiquement un costume, un uniforme, une décora
 
 ([L. 14 novembre 1967](https://legilux.public.lu/eli/etat/leg/loi/1967/11/14/n1/jo)) Sera puni de la même peine:
 
-1. Quiconque, sans droit, aura publiquement porté un insigne créée ou reconnu par une loi ou un règlement;
-2. Quiconque aura fait usage d'un mot, d'une expression ou d'un signe distinctif qui, contrairement à la réalité, indique ou fait croire que son activité ou celle d'une ou plusieurs autres personnes est instituée, patronnée ou reconnue, en tout ou en partie, par une autorité quelconque nationale ou étrangère, ou par une organisation entre Etats.
+1\. Quiconque, sans droit, aura publiquement porté un insigne créée ou reconnu par une loi ou un règlement;
+
+2\. Quiconque aura fait usage d'un mot, d'une expression ou d'un signe distinctif qui, contrairement à la réalité, indique ou fait croire que son activité ou celle d'une ou plusieurs autres personnes est instituée, patronnée ou reconnue, en tout ou en partie, par une autorité quelconque nationale ou étrangère, ou par une organisation entre Etats.
 
 ##### Art. 229.
 
@@ -1946,8 +2085,9 @@ Tout fonctionnaire, tout officier public qui, dans ses actes, attribuera aux per
 
 Il y a usage non autorisé des armoiries et symboles visés notamment lorsqu'il est fait:
 
-1. à des fins frauduleuses,
-2. à des fins commerciales, industrielles, professionnelles ou publicitaires, sauf dans les cas prévus par les lois et règlements, ou autorisés par le Gouvernement.
+a) à des fins frauduleuses,
+
+b) à des fins commerciales, industrielles, professionnelles ou publicitaires, sauf dans les cas prévus par les lois et règlements, ou autorisés par le Gouvernement.
 
 ### Titre IV — Des crimes et des délits contre l'ordre public, commis par des fonctionnaires dans l'exercice de leurs fonctions ou par des ministres des cultes dans l'exercice de leur ministère
 
@@ -2047,15 +2187,17 @@ La disposition qui précède ne sera pas applicable à celui qui ne pouvait, en 
 
 ([L. 13 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/13/n2/jo)) ([L. du 12 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/12/a153/jo)) Sera puni de la réclusion de cinq à dix ans et d’une amende de 500 euros à 187.500 euros, le fait, par une personne, dépositaire ou agent de l’autorité ou de la force publiques, ou chargée d’une mission de service public, ou investie d’un mandat électif public, de solliciter ou de recevoir, directement ou indirectement, pour elle-même ou pour autrui, des offres, des promesses, des dons, des présents ou des avantages quelconques ou d’en accepter l’offre ou la promesse:
 
-1. Soit pour accomplir ou s’abstenir d’accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat;
-2. Soit pour abuser de son influence réelle ou supposée en vue de faire obtenir d’une autorité ou d’une administration publiques des distinctions, des emplois, des marchés ou toute autre décision favorable.
+1° Soit pour accomplir ou s’abstenir d’accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat;
+
+2° Soit pour abuser de son influence réelle ou supposée en vue de faire obtenir d’une autorité ou d’une administration publiques des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 ###### Art. 247.
 
 ([L. 13 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/13/n2/jo)) ([L. du 12 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/12/a153/jo)) Sera puni de la réclusion de cinq à dix ans et d’une amende de 500 euros à 187.500 euros, le fait de proposer ou de donner, directement ou indirectement, à une personne, dépositaire ou agent de l’autorité ou de la force publiques, ou chargée d’une mission de service public, ou investie d’un mandat électif public, pour elle-même ou pour un tiers, des offres, des promesses, des dons, des présents ou des avantages quelconques, ou d’en faire l’offre ou la promesse, pour obtenir d’elle:
 
-1. Soit qu’elle accomplisse ou s’abstienne d’accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat;
-2. Soit qu’elle abuse de son influence réelle ou supposée en vue de faire obtenir d’une autorité ou d’une administration publiques des distinctions, des emplois, des marchés ou toute autre décision favorable.
+1° Soit qu’elle accomplisse ou s’abstienne d’accomplir un acte de sa fonction, de sa mission ou de son mandat ou facilité par sa fonction, sa mission ou son mandat;
+
+2° Soit qu’elle abuse de son influence réelle ou supposée en vue de faire obtenir d’une autorité ou d’une administration publiques des distinctions, des emplois, des marchés ou toute autre décision favorable.
 
 ###### Art. 248.
 
@@ -2091,18 +2233,21 @@ Sera puni des mêmes peines, quiconque, dans les conditions de l’alinéa 1er, 
 
 ([L. 15 janvier 2001](https://legilux.public.lu/eli/etat/leg/loi/2001/01/15/n1/jo)) ([L. du 12 mars 2020](https://legilux.public.lu/eli/etat/leg/loi/2020/03/12/a153/jo))
 
-1. (
+1\) ([L. 23 mai 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/05/23/n1/jo)) Les dispositions des articles 240 et 245 à 251-1 du présent code s’appliquent aussi aux infractions impliquant
 
-   [L. 23 mai 2005](https://legilux.public.lu/eli/etat/leg/loi/2005/05/23/n1/jo)) Les dispositions des articles 240 et 245 à 251-1 du présent code s’appliquent aussi aux infractions impliquant
+aash des personnes, dépositaires ou agents de l’autorité ou de la force publiques, ou investies d’un mandat électif public ou chargées d’une mission de service public d’un autre État ;
 
-   - des personnes, dépositaires ou agents de l’autorité ou de la force publiques, ou investies d’un mandat électif public ou chargées d’une mission de service public d’un autre État ;
-   - des personnes siégeant dans une formation juridictionnelle d’un autre État, même en tant que membre non professionnel d’un organe collégial chargé de se prononcer sur l’issue d’un litige, ou exerçant une fonction d’arbitre soumis à la réglementation sur l’arbitrage d’un autre État ou d’une organisation internationale publique ;
-   - des fonctionnaires européens et des membres de la Commission de l’Union européenne, du Parlement européen, de la Cour de justice de l’Union européenne et de la Cour des comptes de l’Union européenne, dans le plein respect des dispositions pertinentes des traités instituant l’Union européenne, du protocole sur les privilèges et immunités de l’Union européenne, des statuts de la Cour de justice de l’Union européenne, ainsi que des textes pris pour leur application, en ce qui concerne la levée des immunités ;
-   - des fonctionnaires et agents d’une autre organisation internationale publique, des personnes membres d’une assemblée parlementaire d’une organisation internationale publique et des personnes qui exercent des fonctions judiciaires ou de greffe au sein d’une autre juridiction internationale dont la compétence est acceptée par le Grand-Duché de Luxembourg, dans le plein respect des dispositions pertinentes des statuts de ces organisations internationales publiques, assemblées parlementaires d’organisations internationales publiques ou juridictions internationales ainsi que des textes pris pour leur application, en ce qui concerne la levée des immunités.
-2. L’expression « fonctionnaire européen » employée au paragraphe précédent désigne :
+bash des personnes siégeant dans une formation juridictionnelle d’un autre État, même en tant que membre non professionnel d’un organe collégial chargé de se prononcer sur l’issue d’un litige, ou exerçant une fonction d’arbitre soumis à la réglementation sur l’arbitrage d’un autre État ou d’une organisation internationale publique ;
 
-   - toute personne qui a la qualité de fonctionnaire ou d’agent engagé par contrat au sens du Statut des fonctionnaires de l’Union européenne ou du régime applicable aux autres agents de l’Union européenne ;
-   - toute personne mise à la disposition de l’Union européenne par les États membres ou par tout organisme public ou privé, qui exerce des fonctions équivalentes à celles qu’exercent les fonctionnaires ou autres agents de l’Union européenne.
+cash des fonctionnaires européens et des membres de la Commission de l’Union européenne, du Parlement européen, de la Cour de justice de l’Union européenne et de la Cour des comptes de l’Union européenne, dans le plein respect des dispositions pertinentes des traités instituant l’Union européenne, du protocole sur les privilèges et immunités de l’Union européenne, des statuts de la Cour de justice de l’Union européenne, ainsi que des textes pris pour leur application, en ce qui concerne la levée des immunités ;
+
+dash des fonctionnaires et agents d’une autre organisation internationale publique, des personnes membres d’une assemblée parlementaire d’une organisation internationale publique et des personnes qui exercent des fonctions judiciaires ou de greffe au sein d’une autre juridiction internationale dont la compétence est acceptée par le Grand-Duché de Luxembourg, dans le plein respect des dispositions pertinentes des statuts de ces organisations internationales publiques, assemblées parlementaires d’organisations internationales publiques ou juridictions internationales ainsi que des textes pris pour leur application, en ce qui concerne la levée des immunités.
+
+2\) L’expression « fonctionnaire européen » employée au paragraphe précédent désigne :
+
+aash toute personne qui a la qualité de fonctionnaire ou d’agent engagé par contrat au sens du Statut des fonctionnaires de l’Union européenne ou du régime applicable aux autres agents de l’Union européenne ;
+
+bash toute personne mise à la disposition de l’Union européenne par les États membres ou par tout organisme public ou privé, qui exerce des fonctions équivalentes à celles qu’exercent les fonctionnaires ou autres agents de l’Union européenne.
 
 Les membres des organismes créés en application des traités instituant l’Union européenne et le personnel de ces organismes sont assimilés aux fonctionnaires européens lorsque le Statut des fonctionnaires de l’Union européenne ou le régime applicable aux autres agents de l’Union européenne ne leur sont pas applicables.
 
@@ -2110,8 +2255,9 @@ Les membres des organismes créés en application des traités instituant l’Un
 
 ([L. 13 février 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/02/13/n2/jo))
 
-1. Si les faits qualifiés crimes au présent chapitre sont reconnus de nature à n’être punis que de peines correctionnelles, la personne condamnée pourra, en outre, être condamnée à l’interdiction en tout ou en partie de l’exercice des droits énumérés à l’article 11, dans les conditions prévues à l’article 24.
-2. Pour les faits qualifiés délits au sens du présent chapitre et pour les faits prévus aux articles 310 et 310-1, l’article 24 du Code pénal s’applique.
+1\. Si les faits qualifiés crimes au présent chapitre sont reconnus de nature à n’être punis que de peines correctionnelles, la personne condamnée pourra, en outre, être condamnée à l’interdiction en tout ou en partie de l’exercice des droits énumérés à l’article 11, dans les conditions prévues à l’article 24.
+
+2\. Pour les faits qualifiés délits au sens du présent chapitre et pour les faits prévus aux articles 310 et 310-1, l’article 24 du Code pénal s’applique.
 
 #### Chapitre IV — Des abus d'autorité
 
@@ -2253,9 +2399,11 @@ Les chefs de la rébellion et ceux qui l'auront provoquée pourront, de plus, ê
 
 ([L. 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo)) Seront punis d'une amende de 251 à 12.500 euros et d'un emprisonnement de huit jours à six mois, sans préjudice aux peines plus graves qui pourraient être encourues:
 
-1. tous cris séditieux proférés publiquement;
-2. toute communication au public par la voie d’un média de textes séditieux;
-3. l'exposition publique, la distribution, la vente, la mise en vente ou le port public de tous signes ou symboles propres à provoquer la rébellion ou à troubler la paix publique.
+1° tous cris séditieux proférés publiquement;
+
+2° toute communication au public par la voie d’un média de textes séditieux;
+
+3° l'exposition publique, la distribution, la vente, la mise en vente ou le port public de tous signes ou symboles propres à provoquer la rébellion ou à troubler la paix publique.
 
 #### Chapitre II — Des outrages et des violences envers les ministres, les membres de la Chambre des députés, les dépositaires de l'autorité ou de la force publique
 
@@ -2415,8 +2563,9 @@ Lorsqu'un immeuble a été mis en loterie, la confiscation ne sera pas prononcé
 
 Seront punis d'un emprisonnement de huit jours à un mois et d'une amende de 251 euros à 10.000 euros, ou d'une de ces peines seulement:
 
-- Ceux qui auront placé, colporté ou distribué des billets de loteries non autorisées légalement;
-- Ceux qui, par des avis, annonces, affiches ou par tout autre moyen de publication, auront fait connaître l'existence de ces loteries ou facilité l'émission de leurs billets.
+aone Ceux qui auront placé, colporté ou distribué des billets de loteries non autorisées légalement;
+
+bone Ceux qui, par des avis, annonces, affiches ou par tout autre moyen de publication, auront fait connaître l'existence de ces loteries ou facilité l'émission de leurs billets.
 
 Dans tous les cas, les billets, ainsi que les avis, annonces ou affiches, seront saisis et anéantis.
 
@@ -2590,11 +2739,11 @@ Quiconque aura diffusé ou répandu, de quelque manière que ce soit, des substa
 
 Lorsque les faits sont commis à l’égard
 
-1. d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
-2. d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
-3. d’un journaliste professionnel, au sens de l’article 3, point 6, de la
+1° d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
 
-   [loi modifiée du 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo) sur la liberté d’expression dans les médias ;
+2° d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
+
+3° d’un journaliste professionnel, au sens de l’article 3, point 6, de la [loi modifiée du 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo) sur la liberté d’expression dans les médias ;
 
 la peine sera de six mois à trois ans d’emprisonnement et d’une amende de 500 euros à 5.000 euros.
 
@@ -2612,13 +2761,19 @@ La menace par gestes ou emblèmes d’un attentat contre les personnes, punissab
 
 ([L. 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo)) Le minimum des peines portées par les articles 327, 329 et 330 sera élevé conformément à l’article 266, si le coupable a commis la menace d’attentat à l’égard
 
-1. du conjoint ou conjoint divorcé, de la personne avec laquelle il vit ou a vécu habituellement;
-2. d’un ascendant légitime ou naturel ou de l’un de ses parents adoptifs;
-3. d’un descendant légitime, naturel ou adoptif;
-4. d’un frère ou d’une sœur;
-5. d’un ascendant légitime ou naturel, de l’un des parents adoptifs, d’un descendant, d’un frère ou d’une sœur d’une personne visée sub 1°;
-6. d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
-7. d’une personne qui est tenue à son égard par des liens de subordination.
+1° du conjoint ou conjoint divorcé, de la personne avec laquelle il vit ou a vécu habituellement;
+
+2° d’un ascendant légitime ou naturel ou de l’un de ses parents adoptifs;
+
+3° d’un descendant légitime, naturel ou adoptif;
+
+4° d’un frère ou d’une sœur;
+
+5° d’un ascendant légitime ou naturel, de l’un des parents adoptifs, d’un descendant, d’un frère ou d’une sœur d’une personne visée sub 1°;
+
+6° d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
+
+7° d’une personne qui est tenue à son égard par des liens de subordination.
 
 ##### Art. 331.
 
@@ -2852,9 +3007,11 @@ Seront punis d'un emprisonnement de huit jours à un an et d'une amende de 251 e
 
 ([L. 20 mars 1990](https://legilux.public.lu/eli/etat/leg/loi/1990/03/20/n3/jo)) Sera puni d’un emprisonnement de huit jours à un an et d’une amende de 251 euros à 10.000 euros:
 
-1. Quiconque aura, dans un esprit de lucre, provoqué les parents ou l’un d’eux à abandonner leur enfant né ou à naître;
-2. Toute personne qui aura fait souscrire ou tenté de faire souscrire, par les futurs parents ou l’un d’eux, un acte aux termes duquel ils s’engagent à abandonner l’enfant à naître, qui aura détenu un tel acte, en aura fait usage ou tenté d’en faire usage;
-3. Quiconque aura, dans un esprit de lucre, apporté ou tenté d’apporter son entremise pour faire recueillir ou adopter un enfant.
+1° Quiconque aura, dans un esprit de lucre, provoqué les parents ou l’un d’eux à abandonner leur enfant né ou à naître;
+
+2° Toute personne qui aura fait souscrire ou tenté de faire souscrire, par les futurs parents ou l’un d’eux, un acte aux termes duquel ils s’engagent à abandonner l’enfant à naître, qui aura détenu un tel acte, en aura fait usage ou tenté d’en faire usage;
+
+3° Quiconque aura, dans un esprit de lucre, apporté ou tenté d’apporter son entremise pour faire recueillir ou adopter un enfant.
 
 ##### Art. 367-2.
 
@@ -2970,18 +3127,27 @@ La peine portée par l’alinéa précédent sera appliquée, lors même que la 
 
 Le minimum des peines portées par les articles 372 à 376 sera élevé conformément à l’article 266 et le maximum pourra être doublé :
 
-1. dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis par un ascendant légitime, naturel ou adoptif, par toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré ou par toute autre personne ayant autorité sur la victime âgée de plus de seize ans ou à l’aide de celle-ci ;
-2. dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis sur la victime âgée de plus de seize ans ou à l’aide de celle-ci par une personne avec laquelle l’ascendant légitime, naturel ou adoptif, toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré vit ou a vécu habituellement ;
-3. dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commise sur la victime âgée de plus de seize ans ou à l’aide de celle-ci par une personne qui abuse de l’autorité que lui confèrent ses fonctions ;
-4. lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis par plusieurs personnes agissant en qualité d’auteur ou de complice ou dans le cadre d’une organisation criminelle ;
-5. lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis avec usage ou menace d’une arme, ou est accompagné d’actes de torture ou a causé un préjudice grave à la victime ;
-6. lorsque la victime est
+1° dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis par un ascendant légitime, naturel ou adoptif, par toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré ou par toute autre personne ayant autorité sur la victime âgée de plus de seize ans ou à l’aide de celle-ci ;
 
-   1. une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l’auteur ;
-   2. le conjoint ou le conjoint divorcé, la personne avec laquelle l’auteur vit ou a vécu habituellement ;
-   3. un ascendant légitime, naturel ou adoptif de l’auteur ;
-   4. un frère ou une sœur ;
-   5. un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, ou toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré, d’une personne visée au point a).
+2° dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis sur la victime âgée de plus de seize ans ou à l’aide de celle-ci par une personne avec laquelle l’ascendant légitime, naturel ou adoptif, toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré vit ou a vécu habituellement ;
+
+3° dans les cas prévus aux articles 372 et 375, lorsque le viol ou l’atteinte à l’intégrité sexuelle est commise sur la victime âgée de plus de seize ans ou à l’aide de celle-ci par une personne qui abuse de l’autorité que lui confèrent ses fonctions ;
+
+4° lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis par plusieurs personnes agissant en qualité d’auteur ou de complice ou dans le cadre d’une organisation criminelle ;
+
+5° lorsque le viol ou l’atteinte à l’intégrité sexuelle est commis avec usage ou menace d’une arme, ou est accompagné d’actes de torture ou a causé un préjudice grave à la victime ;
+
+6° lorsque la victime est
+
+a) une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l’auteur ;
+
+b) le conjoint ou le conjoint divorcé, la personne avec laquelle l’auteur vit ou a vécu habituellement ;
+
+c) un ascendant légitime, naturel ou adoptif de l’auteur ;
+
+d) un frère ou une sœur ;
+
+e) un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, ou toute personne en ligne collatérale jusqu’au troisième degré ou tout allié jusqu’au troisième degré, d’une personne visée au point a).
 
 ##### Art. 378.
 
@@ -3017,10 +3183,13 @@ Lorsque le certificat concerne un mineur, l’infraction sera punie d’un empri
 
 ([L. 21 février 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/02/21/n2/jo)) Sera puni d’un emprisonnement d’un à cinq ans et d’une amende de 251 à 50.000 euros:
 
-1. quiconque aura excité, facilité ou favorisé la débauche, la corruption ou la prostitution d’un mineur âgé de moins de dix-huit ans;
-2. quiconque aura recruté, exploité, contraint, forcé, menacé ou eu recours à un mineur âgé de moins de dix-huit ans à des fins de prostitution, aux fins de la production de spectacles ou de matériel à caractère pornographique ou aux fins de participation à de tels spectacles, aura favorisé une telle action ou en aura tiré profit;
-3. quiconque aura assisté à des spectacles pornographiques impliquant la participation d’un mineur âgé de moins de dix-huit ans;
-4. quiconque aura contraint ou forcé un mineur âgé de moins de dix-huit ans à se livrer à des activités sexuelles avec un tiers ou de le menacer à de telles fins.
+1° quiconque aura excité, facilité ou favorisé la débauche, la corruption ou la prostitution d’un mineur âgé de moins de dix-huit ans;
+
+2° quiconque aura recruté, exploité, contraint, forcé, menacé ou eu recours à un mineur âgé de moins de dix-huit ans à des fins de prostitution, aux fins de la production de spectacles ou de matériel à caractère pornographique ou aux fins de participation à de tels spectacles, aura favorisé une telle action ou en aura tiré profit;
+
+3° quiconque aura assisté à des spectacles pornographiques impliquant la participation d’un mineur âgé de moins de dix-huit ans;
+
+4° quiconque aura contraint ou forcé un mineur âgé de moins de dix-huit ans à se livrer à des activités sexuelles avec un tiers ou de le menacer à de telles fins.
 
 La tentative sera punie d’un emprisonnement de six mois à trois ans.
 
@@ -3032,25 +3201,25 @@ La tentative sera punie d’un emprisonnement de six mois à quatre ans, si le f
 
 ([L. 16 juillet 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/07/16/n2/jo)) Sera puni d'un emprisonnement d’un à cinq ans et d'une amende de 251 euros à 50.000 euros:
 
-1. et 2° abrogés (
+1° et 2° abrogés ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n2/jo))
 
-   [L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n2/jo))
+3° ([L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Quiconque détient, directement ou par personne interposée, qui gère, dirige ou fait fonctionner une maison de débauche ou de prostitution.
 
-1. (
+4° ([L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Tout propriétaire, hôtelier, logeur, cabaretier, en général toute personne qui cède, loue ou met à la disposition d'autrui ou tolère l'utilisation de tout ou partie d'un immeuble, sachant que les lieux cédés, loués ou mis à la disposition servent à l'exploitation de la prostitution d'autrui.
 
-   [L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Quiconque détient, directement ou par personne interposée, qui gère, dirige ou fait fonctionner une maison de débauche ou de prostitution.
-2. (
-
-   [L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Tout propriétaire, hôtelier, logeur, cabaretier, en général toute personne qui cède, loue ou met à la disposition d'autrui ou tolère l'utilisation de tout ou partie d'un immeuble, sachant que les lieux cédés, loués ou mis à la disposition servent à l'exploitation de la prostitution d'autrui.
-3. [(L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Le proxénète.
+5° [(L. 31 mai 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/jo)) Le proxénète.
 
 Est proxénète celui ou celle
 
-1. qui d'une manière quelconque aide, assiste ou protège sciemment la prostitution d'autrui ou le racolage en vue de la prostitution;
-2. qui, sous forme quelconque, partage les produits de la prostitution d'autrui ou reçoit des subsides d'une personne se livrant à la prostitution;
-3. qui embauche, entraîne ou entretient, même avec son consentement, une personne même majeure en vue de la prostitution ou la livre à la prostitution ou à la débauche;
-4. qui fait office d'intermédiaire, à un titre quelconque, entre les personnes se livrant à la prostitution ou à la débauche et les individus qui exploitent ou rémunèrent la prostitution ou la débauche d'autrui;
-5. qui, par menace, pression, manœuvre ou par tout autre moyen entrave l'action de prévention de contrôle, d'assistance ou de rééducation entreprise par les organismes qualifiés en faveur de personnes se livrant à la prostitution.
+a) qui d'une manière quelconque aide, assiste ou protège sciemment la prostitution d'autrui ou le racolage en vue de la prostitution;
+
+b) qui, sous forme quelconque, partage les produits de la prostitution d'autrui ou reçoit des subsides d'une personne se livrant à la prostitution;
+
+c) qui embauche, entraîne ou entretient, même avec son consentement, une personne même majeure en vue de la prostitution ou la livre à la prostitution ou à la débauche;
+
+d) qui fait office d'intermédiaire, à un titre quelconque, entre les personnes se livrant à la prostitution ou à la débauche et les individus qui exploitent ou rémunèrent la prostitution ou la débauche d'autrui;
+
+e) qui, par menace, pression, manœuvre ou par tout autre moyen entrave l'action de prévention de contrôle, d'assistance ou de rééducation entreprise par les organismes qualifiés en faveur de personnes se livrant à la prostitution.
 
 ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n2/jo))La tentative des faits énoncés au numéro 5° sera punie d'un emprisonnement de trois mois à deux ans.
 
@@ -3068,13 +3237,15 @@ Cette fermeture pourra, quelle qu'en ait été la durée, faire l'objet de renou
 
 ([L. 10 novembre 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/11/10/n1/jo)) La mainlevée de l'ordonnance de fermeture pourra être demandée en tout état de cause par l'inculpé ou par le ministère public, à savoir:
 
-1. à la chambre du conseil pendant la période de l'instruction;
-2. Abrogé implicitement (
+1\) à la chambre du conseil pendant la période de l'instruction;
 
-   [L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo))
-3. au tribunal correctionnel siégeant en chambre du conseil si l'affaire y a été renvoyée;
-4. à la cour d'appel chambre des appels correctionnels siégeant en chambre du conseil, si appel a été interjeté ou s'il a été formé un pourvoi en cassation;
-5. à la chambre criminelle du tribunal d’arrondissement.
+2\) Abrogé implicitement ([L. 17 juin 1987](https://legilux.public.lu/eli/etat/leg/loi/1987/06/17/n2/jo))
+
+3\) au tribunal correctionnel siégeant en chambre du conseil si l'affaire y a été renvoyée;
+
+4\) à la cour d'appel chambre des appels correctionnels siégeant en chambre du conseil, si appel a été interjeté ou s'il a été formé un pourvoi en cassation;
+
+5\) à la chambre criminelle du tribunal d’arrondissement.
 
 ##### Art. 379quinquies.
 
@@ -3088,9 +3259,11 @@ Sans préjudice des droits du procureur général d'Etat et du procureur d'Etat,
 
 ([L. 10 novembre 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/11/10/n1/jo)) Lorsqu'une juridiction de jugement est saisie après la clôture de l'information, la fermeture d'un établissement ou lieu quelconque ouvert au public ou utilisé par le public ordonnée par le juge d'instruction pourra faire l'objet de renouvellements pour une durée de trois mois au plus chacun, qui seront prononcés:
 
-1. par le tribunal correctionnel, siégeant en chambre du conseil, si l'affaire y a été renvoyée;
-2. par la cour d'appel, chambre des appels correctionnels siégeant en chambre du conseil, si appel a été interjeté ou s'il a été formé un pourvoi en cassation;
-3. par la chambre criminelle du tribunal d’arrondissement.
+1\) par le tribunal correctionnel, siégeant en chambre du conseil, si l'affaire y a été renvoyée;
+
+2\) par la cour d'appel, chambre des appels correctionnels siégeant en chambre du conseil, si appel a été interjeté ou s'il a été formé un pourvoi en cassation;
+
+3\) par la chambre criminelle du tribunal d’arrondissement.
 
 La mainlevée de la décision de fermeture pourra, dans ces cas être demandée auprès de la juridiction ayant ordonné le renouvellement. Il y sera statué conformément aux dispositions des alinéas 1er et 2 de l'article 379quinquies.
 
@@ -3108,12 +3281,17 @@ Dans le cas visé à l'alinéa précédent, la décision de fermeture produira, 
 
 ([L. 16 juillet 2011](https://legilux.public.lu/eli/etat/leg/loi/2011/07/16/n2/jo)) Le minimum des peines portées par les articles 379 et 379bis sera élevé conformément à l’article 266 et le maximum pourra être doublé si: ([L. 21 février 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/02/21/n2/jo))
 
-1. l’infraction a délibérément ou par négligence grave mis la vie de la victime en danger; ou
-2. l’infraction a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne, notamment en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale; ou
-3. l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie; ou
-4. l’infraction a été commise par offre ou acceptation de paiements ou d’avantages pour obtenir le consentement d’une personne ayant autorité sur la victime; ou
-5. l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime ou par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions; ou
-6. l’infraction a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions.
+1\) l’infraction a délibérément ou par négligence grave mis la vie de la victime en danger; ou
+
+2\) l’infraction a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne, notamment en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale; ou
+
+3\) l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie; ou
+
+4\) l’infraction a été commise par offre ou acceptation de paiements ou d’avantages pour obtenir le consentement d’une personne ayant autorité sur la victime; ou
+
+5\) l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime ou par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions; ou
+
+6\) l’infraction a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions.
 
 ##### Art. 381.
 
@@ -3135,11 +3313,15 @@ Si, dans les cas visés à l'alinéa 1er, l'infraction a été commise par l’u
 
 (1) Constitue l’infraction de traite des êtres humains le fait de recruter, de transporter, de transférer, d’héberger, d’accueillir une personne, de passer ou de transférer le contrôle sur elle, en vue:
 
-1. de la commission contre cette personne des infractions de proxénétisme, d’agression ou d’atteintes sexuelles;
-2. de l’exploitation du travail ou des services de cette personne sous la forme de travail ou de services forcés ou obligatoires, de servitude, d’esclavage ou de pratiques analogues et en général dans des conditions contraires à la dignité humaine;
-3. de la livrer à la mendicité, d’exploiter sa mendicité ou de la mettre à la disposition d’un mendiant afin qu’il s’en serve pour susciter la commisération publique;
-4. du prélèvement d’organes ou de tissus en violation de la législation en la matière;
-5. de faire commettre par cette personne un crime ou un délit, contre son gré.
+1\) de la commission contre cette personne des infractions de proxénétisme, d’agression ou d’atteintes sexuelles;
+
+2\) de l’exploitation du travail ou des services de cette personne sous la forme de travail ou de services forcés ou obligatoires, de servitude, d’esclavage ou de pratiques analogues et en général dans des conditions contraires à la dignité humaine;
+
+3\) de la livrer à la mendicité, d’exploiter sa mendicité ou de la mettre à la disposition d’un mendiant afin qu’il s’en serve pour susciter la commisération publique;
+
+4\) du prélèvement d’organes ou de tissus en violation de la législation en la matière;
+
+5\) de faire commettre par cette personne un crime ou un délit, contre son gré.
 
 (2) L’infraction prévue au paragraphe 1er est punie d’une peine d’emprisonnement de trois ans à cinq ans et d’une amende de 10.000 à 50.000 euros.
 
@@ -3153,22 +3335,29 @@ Les peines prévues à l’article 382-2 (2) s’appliquent.
 
 (1) L’infraction prévue à l’article 382-1, paragraphe 1er, est punie de la réclusion de cinq ans à dix ans et d’une amende de 50.000 à 100.000 euros dans les cas suivants:
 
-1. l’infraction a délibérément ou par négligence grave mis la vie de la victime en danger; ou
-2. l’infraction a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne, notamment en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale; ou
-3. l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie; ou
-4. l’infraction a été commise par offre ou acceptation de paiements ou d’avantages pour obtenir le consentement d’une personne ayant autorité sur la victime; ou
-5. l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime ou par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions; ou
-6. l’infraction a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions.
+1\) l’infraction a délibérément ou par négligence grave mis la vie de la victime en danger; ou
+
+2\) l’infraction a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne, notamment en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale; ou
+
+3\) l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie; ou
+
+4\) l’infraction a été commise par offre ou acceptation de paiements ou d’avantages pour obtenir le consentement d’une personne ayant autorité sur la victime; ou
+
+5\) l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime ou par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions; ou
+
+6\) l’infraction a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions.
 
 (2) L’infraction prévue à l’article 382-1, paragraphe 1er, est punie de la réclusion de dix ans à quinze ans et d’une amende de 100.000 à 150.000 euros dans les cas suivants:
 
-1. l’infraction a été commise par recours à des violences; ou
-2. l’infraction a été commise dans le cadre d’une association de malfaiteurs ou d’une organisation criminelle au sens des
+1\) l’infraction a été commise par recours à des violences; ou
 
-   articles 322 à 326 du Code pénal ; ou
-3. l’infraction a été commise envers un mineur; ou
-4. l’infraction a été commise en recourant à des tortures; ou
-5. l’infraction a causé la mort de la victime sans intention de la donner.
+2\) l’infraction a été commise dans le cadre d’une association de malfaiteurs ou d’une organisation criminelle au sens des articles 322 à 326 du Code pénal ; ou
+
+3\) l’infraction a été commise envers un mineur; ou
+
+4\) l’infraction a été commise en recourant à des tortures; ou
+
+5\) l’infraction a causé la mort de la victime sans intention de la donner.
 
 (3) Le consentement d’une victime de la traite des êtres humains n’exonère pas l’auteur ou le complice de la responsabilité pénale dans l’un des cas d’infraction ou de tentative d’infraction visés aux articles 382-1 et 382-2.
 
@@ -3188,15 +3377,23 @@ Les peines prévues à l’article 382-2 (2) s’appliquent.
 
 ([L. 21 juillet 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n3/jo)) L’infraction prévue à l’article 382-4 est punie de la réclusion de cinq à dix ans et d’une amende de 50.000 à 100.000 euros dans les cas suivants:
 
-1. lorsqu’elle a été commise par une personne qui a autorité sur la victime, ou par une personne qui a abusé de l’autorité ou des facilités que lui confèrent ses fonctions;
-2. lorsqu’elle a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions;
-3. lorsqu’elle a été commise envers un mineur;
-4. lorsqu’elle a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale, de manière telle que la personne n’a en fait pas d’autre choix véritable et acceptable que de se soumettre à cet abus;
-5. lorsqu’elle a été commise en faisant usage, de façon directe ou indirecte, de manoeuvres frauduleuses, de violences, de menaces ou d’une forme quelconque de contrainte;
-6. lorsque la vie de la victime a été mise en danger délibérément ou par négligence grave;
-7. lorsque l’infraction a causé une maladie paraissant incurable, une incapacité permanente physique ou psychique, la perte complète d’un organe ou de l’usage d’un organe, ou une mutilation grave;
-8. lorsque l’activité concernée constitue une activité habituelle;
-9. lorsqu’elle constitue un acte de participation à l’activité principale ou accessoire d’une association, et ce, que le coupable ait ou non la qualité de dirigeant.
+1° lorsqu’elle a été commise par une personne qui a autorité sur la victime, ou par une personne qui a abusé de l’autorité ou des facilités que lui confèrent ses fonctions;
+
+2° lorsqu’elle a été commise par un officier ou un fonctionnaire public, un dépositaire ou un agent de la force publique agissant à l’occasion de l’exercice de ses fonctions;
+
+3° lorsqu’elle a été commise envers un mineur;
+
+4° lorsqu’elle a été commise en abusant de la situation particulièrement vulnérable dans laquelle se trouve une personne en raison de sa situation administrative illégale ou précaire, de sa situation sociale précaire, d’un état de grossesse, d’une maladie, d’une infirmité ou d’une déficience physique ou mentale, de manière telle que la personne n’a en fait pas d’autre choix véritable et acceptable que de se soumettre à cet abus;
+
+5° lorsqu’elle a été commise en faisant usage, de façon directe ou indirecte, de manoeuvres frauduleuses, de violences, de menaces ou d’une forme quelconque de contrainte;
+
+6° lorsque la vie de la victime a été mise en danger délibérément ou par négligence grave;
+
+7° lorsque l’infraction a causé une maladie paraissant incurable, une incapacité permanente physique ou psychique, la perte complète d’un organe ou de l’usage d’un organe, ou une mutilation grave;
+
+8° lorsque l’activité concernée constitue une activité habituelle;
+
+9° lorsqu’elle constitue un acte de participation à l’activité principale ou accessoire d’une association, et ce, que le coupable ait ou non la qualité de dirigeant.
 
 #### Chapitre VI-III — Du recours à la prostitution ([L. 28 février 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/02/28/a170/jo))
 
@@ -3270,12 +3467,17 @@ La confiscation des écrits, figures ou objets indécents exposés, mis en vente
 
 Les faits mentionnés au premier alinéa sont punis d’un d’emprisonnement de six mois à deux ans et d’une amende de 251 à 30 000 euros :
 
-1. lorsqu’ils sont commis par une personne qui abuse de l’autorité que lui confèrent ses fonctions ;
-2. lorsqu’ils sont commis sur un mineur ;
-3. lorsqu’ils sont commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
-4. lorsqu’ils sont commis par plusieurs personnes agissant en qualité d’auteur ou de complice ;
-5. lorsqu’ils sont commis dans un moyen collectif de transport de personnes ou dans un lieu destiné à l’accès à un tel moyen collectif de transport de personnes ;
-6. lorsque des images ont été fixées, enregistrées, diffusées ou transmises.
+1° lorsqu’ils sont commis par une personne qui abuse de l’autorité que lui confèrent ses fonctions ;
+
+2° lorsqu’ils sont commis sur un mineur ;
+
+3° lorsqu’ils sont commis sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+4° lorsqu’ils sont commis par plusieurs personnes agissant en qualité d’auteur ou de complice ;
+
+5° lorsqu’ils sont commis dans un moyen collectif de transport de personnes ou dans un lieu destiné à l’accès à un tel moyen collectif de transport de personnes ;
+
+6° lorsque des images ont été fixées, enregistrées, diffusées ou transmises.
 
 ##### Art. 386.
 
@@ -3447,13 +3649,19 @@ Si le fait a causé la mort d'une personne, le coupable sera puni de la réclusi
 
 ([L. 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo)) Sera puni d’un emprisonnement de six mois à cinq ans et d’une amende de 251 euros à 5.000 euros, quiconque aura volontairement fait des blessures ou porté des coups
 
-1. au conjoint ou conjoint divorcé, à la personne avec laquelle il vit ou a vécu habituellement;
-2. à un ascendant légitime ou naturel ou à l’un de ses parents adoptifs;
-3. à un descendant légitime, naturel ou adoptif de quatorze ans ou plus;
-4. à un frère ou une sœur;
-5. à un ascendant légitime ou naturel, à l’un des parents adoptifs, à un descendant de quatorze ans accomplis, à un frère ou à une sœur d’une personne visée sub 1°;
-6. à une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
-7. à une personne qui est tenue à son égard par des liens de subordination.
+1° au conjoint ou conjoint divorcé, à la personne avec laquelle il vit ou a vécu habituellement;
+
+2° à un ascendant légitime ou naturel ou à l’un de ses parents adoptifs;
+
+3° à un descendant légitime, naturel ou adoptif de quatorze ans ou plus;
+
+4° à un frère ou une sœur;
+
+5° à un ascendant légitime ou naturel, à l’un des parents adoptifs, à un descendant de quatorze ans accomplis, à un frère ou à une sœur d’une personne visée sub 1°;
+
+6° à une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
+
+7° à une personne qui est tenue à son égard par des liens de subordination.
 
 Lorsque les coups ou blessures ont été prémédités, les peines seront un emprisonnement de un an à cinq ans et une amende de 501 euros à 5.000 euros.
 
@@ -3465,9 +3673,11 @@ Si les coups ou blessures volontaires visés à l’alinéa 1er ont causé la mo
 
 Si les coups ou blessures volontaires visés au présent article ont été commis à l’encontre d’une personne avec laquelle le coupable cohabite, le tribunal pourra en outre prononcer contre le condamné l’ensemble ou une partie des interdictions suivantes:
 
-- l’interdiction de s’approcher du logement de la victime de plus d’une distance à déterminer;
-- l’interdiction de prendre contact avec la victime;
-- l’interdiction de s’approcher de la victime de plus d’une distance à déterminer.
+aash l’interdiction de s’approcher du logement de la victime de plus d’une distance à déterminer;
+
+bash l’interdiction de prendre contact avec la victime;
+
+cash l’interdiction de s’approcher de la victime de plus d’une distance à déterminer.
 
 ###### Art. 409 *bis* — ([L. du 20 juillet 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a631/jo))
 
@@ -3481,9 +3691,11 @@ Si la mutilation des organes génitaux d’une personne de sexe féminin a été
 
 (4) L’infraction prévue au paragraphe 1 <sup>er</sup> est punie de la réclusion de dix à quinze ans et d’une amende de 1 000 euros à 25 000 euros :
 
-1. si l’infraction a été commise envers un mineur ;
-2. si l’infraction a été commise envers une personne dont la particulière vulnérabilité, due à sa situation administrative illégale ou précaire, à sa situation sociale précaire, à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l’auteur ;
-3. si l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie.
+1\. si l’infraction a été commise envers un mineur ;
+
+2\. si l’infraction a été commise envers une personne dont la particulière vulnérabilité, due à sa situation administrative illégale ou précaire, à sa situation sociale précaire, à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de l’auteur ;
+
+3\. si l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie.
 
 (5) Les infractions visées au paragraphe 4 sont punies de la réclusion de quinze à vingt ans et d’une amende de 3 000 euros à 50 000 euros si elles ont entraîné une maladie paraissant incurable ou une incapacité permanente de travail personnel. Elles sont punies de la réclusion à vie et d’une amende de 5 000 euros à 75 000 euros si l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime, par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions, ou si l’infraction a causé la mort, même sans intention de la donner.
 
@@ -3499,9 +3711,11 @@ Si l’hyménoplastie a été commise par un ascendant légitime, naturel ou ado
 
 (4) L’infraction prévue au paragraphe 1 <sup>er</sup> est punie de la réclusion de cinq à dix ans et d’une amende de 1 000 euros à 25 000 euros :
 
-1. si l’infraction a été commise envers un mineur ;
-2. si l’infraction a été commise envers une personne dont la particulière vulnérabilité, due à sa situation administrative illégale ou précaire, à sa situation sociale précaire, à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique, est apparente ou connue de l’auteur ;
-3. si l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie.
+1\. si l’infraction a été commise envers un mineur ;
+
+2\. si l’infraction a été commise envers une personne dont la particulière vulnérabilité, due à sa situation administrative illégale ou précaire, à sa situation sociale précaire, à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique, est apparente ou connue de l’auteur ;
+
+3\. si l’infraction a été commise par la menace de recours ou le recours à la force ou d’autres formes de contrainte, par enlèvement, fraude, tromperie.
 
 (5) Les infractions visées au paragraphe 4 sont punies de la réclusion de quinze à vingt ans et d’une amende de 3 000 euros à 50 000 euros si elles ont entraîné une maladie paraissant incurable ou une incapacité permanente de travail personnel. Elles sont punies de la réclusion à vie et d’une amende de 5 000 euros à 75 000 euros si l’infraction a été commise par un ascendant légitime, naturel ou adoptif de la victime, par une personne qui a autorité sur elle ou abuse de l’autorité que lui confèrent ses fonctions, ou si l’infraction a causé la mort, même sans intention de la donner.
 
@@ -3563,8 +3777,9 @@ Il n'y a ni crime, ni délit, lorsque l'homicide, les blessures et les coups ét
 
 Sont compris dans les cas de nécessité actuelle de la défense, les deux cas suivants:
 
-- Si l'homicide a été commis, si les blessures ont été faites, si les coups ont été portés en repoussant, pendant la nuit, l'escalade ou l'effraction des clôtures, murs ou entrées d'une maison ou d'un appartement habités ou de leurs dépendances, à moins qu'il soit établi que l'agent n'a pas pu croire à un attentat contre les personnes, soit comme but direct de celui qui tente l'escalade ou l'effraction, soit comme conséquence de la résistance que rencontreraient les desseins de celui-ci;
-- Si le fait a eu lieu en se défendant contre les auteurs de vol ou de pillage, exécutés avec violence envers les personnes.
+aone Si l'homicide a été commis, si les blessures ont été faites, si les coups ont été portés en repoussant, pendant la nuit, l'escalade ou l'effraction des clôtures, murs ou entrées d'une maison ou d'un appartement habités ou de leurs dépendances, à moins qu'il soit établi que l'agent n'a pas pu croire à un attentat contre les personnes, soit comme but direct de celui qui tente l'escalade ou l'effraction, soit comme conséquence de la résistance que rencontreraient les desseins de celui-ci;
+
+bone Si le fait a eu lieu en se défendant contre les auteurs de vol ou de pillage, exécutés avec violence envers les personnes.
 
 #### Chapitre II — De l'homicide et des lésions corporelles involontaires
 
@@ -3676,13 +3891,19 @@ Si les tortures ont causé la mort, le coupable sera condamné à la réclusion 
 
 ([L. 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo)) Dans les cas mentionnés aux articles 434 à 438, le minimum des peines portées par ces articles sera élevé conformément à l’article 266, lorsque le coupable a commis le crime ou le délit envers
 
-1. son conjoint ou conjoint divorcé, la personne avec laquelle il vit ou a vécu habituellement;
-2. un ascendant légitime ou naturel ou l’un de ses parents adoptifs;
-3. un descendant légitime, naturel ou adoptif;
-4. un frère ou une sœur;
-5. un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, un frère ou une sœur d’une personne visée sub 1°;
-6. une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
-7. une personne qui est tenue à son égard par des liens de subordination.
+1° son conjoint ou conjoint divorcé, la personne avec laquelle il vit ou a vécu habituellement;
+
+2° un ascendant légitime ou naturel ou l’un de ses parents adoptifs;
+
+3° un descendant légitime, naturel ou adoptif;
+
+4° un frère ou une sœur;
+
+5° un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, un frère ou une sœur d’une personne visée sub 1°;
+
+6° une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
+
+7° une personne qui est tenue à son égard par des liens de subordination.
 
 ##### Art. 439.
 
@@ -3758,16 +3979,21 @@ Celui qui, dans les cas ci-après indiqués, a méchamment imputé à une person
 
 ([L. 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo)) La personne responsable au sens de l’article 21 de la loi du 8 juin 2004 sur la liberté d’expression dans les médias n’est pas non plus coupable de calomnie ou de diffamation
 
-1. lorsque, dans les cas où la loi admet la preuve légale du fait, cette preuve n’est pas rapportée, mais que la personne responsable au sens de l’article 21 précité, sous réserve d’avoir accompli les diligences nécessaires, prouve par toutes voies de droit qu’elle avait des raisons suffisantes pour conclure à la véracité des faits rapportés ainsi que l’existence d’un intérêt prépondérant du public à connaître l’information litigieuse;
-2. lorsqu’il s’agit d’une communication au public en direct à condition:
+1\) lorsque, dans les cas où la loi admet la preuve légale du fait, cette preuve n’est pas rapportée, mais que la personne responsable au sens de l’article 21 précité, sous réserve d’avoir accompli les diligences nécessaires, prouve par toutes voies de droit qu’elle avait des raisons suffisantes pour conclure à la véracité des faits rapportés ainsi que l’existence d’un intérêt prépondérant du public à connaître l’information litigieuse;
 
-   1. que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la réputation ou à l’honneur, et
-   2. que l’indication de l'identité de l'auteur des propos cités accompagne l'information communiquée;
-3. lorsqu’il s’agit de la citation fidèle d’un tiers à condition:
+2\) lorsqu’il s’agit d’une communication au public en direct à condition:
 
-   1. que la citation soit clairement identifiée comme telle, et
-   2. que l’indication de l'identité de l'auteur des propos cités accompagne l'information communiquée, et
-   3. que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.
+a) que toutes les diligences aient été faites et toutes les précautions prises afin d’éviter une atteinte à la réputation ou à l’honneur, et
+
+b) que l’indication de l'identité de l'auteur des propos cités accompagne l'information communiquée;
+
+3\) lorsqu’il s’agit de la citation fidèle d’un tiers à condition:
+
+a) que la citation soit clairement identifiée comme telle, et
+
+b) que l’indication de l'identité de l'auteur des propos cités accompagne l'information communiquée, et
+
+c) que la communication au public de cette citation soit justifiée par l’existence d’un intérêt prépondérant du public à connaître les propos cités.
 
 ##### Art. 444.
 
@@ -3813,13 +4039,19 @@ Les délits contre les corps constitués seront poursuivis d'office.
 
 ([L. 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo)) Lorsque le coupable a commis le délit envers
 
-1. son conjoint ou conjoint divorcé ou la personne avec laquelle il vit ou a vécu habituellement;
-2. un ascendant légitime ou naturel ou l’un de ses parents adoptifs;
-3. un descendant légitime, naturel ou adoptif;
-4. un frère ou une sœur;
-5. un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, un frère ou une sœur d’une personne visée sub 1°;
-6. une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
-7. une personne qui est tenue à son égard par des liens de subordination
+1° son conjoint ou conjoint divorcé ou la personne avec laquelle il vit ou a vécu habituellement;
+
+2° un ascendant légitime ou naturel ou l’un de ses parents adoptifs;
+
+3° un descendant légitime, naturel ou adoptif;
+
+4° un frère ou une sœur;
+
+5° un ascendant légitime ou naturel, l’un des parents adoptifs, un descendant, un frère ou une sœur d’une personne visée sub 1°;
+
+6° une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur;
+
+7° une personne qui est tenue à son égard par des liens de subordination
 
 le minimum des peines portées par le premier alinéa sera élevé conformément à l’article 266.
 
@@ -3871,48 +4103,51 @@ La peine est portée à trois ans d'emprisonnement et à 37.500 euros d'amende l
 
 ([L. 19 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/19/n1/jo)) Une discrimination visée à l'article 454, commise à l'égard d'une personne physique ou morale, d'un groupe ou d'une communauté de personnes, est punie d'un emprisonnement de huit jours à deux ans et d'une amende de 251 euros à 25.000 euros ou de l'une de ces peines seulement, lorsqu'elle consiste:
 
-1. (
+1\) ([L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à refuser la fourniture ou la jouissance d'un bien et/ou l’accès à un bien;
 
-   [L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à refuser la fourniture ou la jouissance d'un bien et/ou l’accès à un bien;
-2. (
+2\) ([L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à refuser la fourniture d'un service et/ou l’accès à un service;
 
-   [L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à refuser la fourniture d'un service et/ou l’accès à un service;
-3. (
+3\) ([L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à subordonner la fourniture d'un bien ou d'un service et/ou l’accès à un bien ou à un service à une condition fondée sur l'un des éléments visés à l'article 454 ou à faire toute autre discrimination lors de cette fourniture, en se fondant sur l'un des éléments visés à l'article 454;
 
-   [L. 21 décembre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/jo)) à subordonner la fourniture d'un bien ou d'un service et/ou l’accès à un bien ou à un service à une condition fondée sur l'un des éléments visés à l'article 454 ou à faire toute autre discrimination lors de cette fourniture, en se fondant sur l'un des éléments visés à l'article 454;
-4. à indiquer dans une publicité l'intention de refuser un bien ou un service ou de pratiquer une discrimination lors de la fourniture d'un bien ou d'un service, en se fondant sur l'un des éléments visés à l'article 454;
-5. à entraver l'exercice normal d'une activité économique quelconque,
-6. à refuser d'embaucher, à sanctionner ou à licencier une personne;
-7. (
+4\) à indiquer dans une publicité l'intention de refuser un bien ou un service ou de pratiquer une discrimination lors de la fourniture d'un bien ou d'un service, en se fondant sur l'un des éléments visés à l'article 454;
 
-   [L. 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo)) à subordonner l’accès au travail, tous les types de formation professionnelle, ainsi que les conditions de travail, l’affiliation et l’engagement dans une organisation de travailleurs ou d’employeurs à l’un des éléments visés à l’ article 454 du Code pénal .
+5\) à entraver l'exercice normal d'une activité économique quelconque,
+
+6\) à refuser d'embaucher, à sanctionner ou à licencier une personne;
+
+7\) ([L. 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo)) à subordonner l’accès au travail, tous les types de formation professionnelle, ainsi que les conditions de travail, l’affiliation et l’engagement dans une organisation de travailleurs ou d’employeurs à l’un des éléments visés à l’ article 454 du Code pénal .
 
 ##### Art. 456.
 
 ([L. 19 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/19/n1/jo)) Une discrimination visée à l'article 454, commise à l'égard d'une personne physique ou morale, d'un groupe ou d'une communauté de personnes par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions ou de sa mission, est punie d'un emprisonnement d'un mois à trois ans et d'une amende de 251 euros à 37.500 euros ou de l'une de ces peines seulement, lorsqu'elle consiste:
 
-1. à refuser le bénéfice d'un droit accordé par la loi;
-2. à entraver l'exercice normal d'une activité économique quelconque.
+1\) à refuser le bénéfice d'un droit accordé par la loi;
+
+2\) à entraver l'exercice normal d'une activité économique quelconque.
 
 ##### Art. 457.
 
 ([L. 19 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/19/n1/jo)) Les dispositions des articles 455 et 456 ne sont pas applicables:
 
-1. aux différenciations de traitement fondées sur l'état de santé, lorsqu'elles consistent en des opérations ayant pour objet la prévention et la couverture du risque décès, des risques portant atteinte à l'intégrité physique de la personne ou des risques d'incapacité de travail ou d'invalidité;
-2. aux différenciations de traitement fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un licenciement fondé sur l'inaptitude médicalement constatée de l'intéressé;
-3. aux différenciations de traitement fondées, en matière d'embauche, sur la nationalité, lorsque l'appartenance à une nationalité déterminée constitue, conformément aux dispositions statutaires relatives à la fonction publique, aux réglementations relatives à l'exercice de certaines professions et aux dispositions en matière de droit du travail, la condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle;
-4. aux différenciations de traitement fondées, en matière d'entrée, de séjour et de droit de vote au pays, sur la nationalité, lorsque l'appartenance à une nationalité déterminée constitue, conformément aux dispositions légales et réglementaires relatives à l'entrée, au séjour et au droit de vote au pays, la condition déterminante de l'entrée, du séjour et de l'exercice du droit de vote au pays;
-5. abrogé (
+1\) aux différenciations de traitement fondées sur l'état de santé, lorsqu'elles consistent en des opérations ayant pour objet la prévention et la couverture du risque décès, des risques portant atteinte à l'intégrité physique de la personne ou des risques d'incapacité de travail ou d'invalidité;
 
-   [L. 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo))
+2\) aux différenciations de traitement fondées sur l'état de santé ou le handicap, lorsqu'elles consistent en un refus d'embauche ou un licenciement fondé sur l'inaptitude médicalement constatée de l'intéressé;
+
+3\) aux différenciations de traitement fondées, en matière d'embauche, sur la nationalité, lorsque l'appartenance à une nationalité déterminée constitue, conformément aux dispositions statutaires relatives à la fonction publique, aux réglementations relatives à l'exercice de certaines professions et aux dispositions en matière de droit du travail, la condition déterminante de l'exercice d'un emploi ou d'une activité professionnelle;
+
+4\) aux différenciations de traitement fondées, en matière d'entrée, de séjour et de droit de vote au pays, sur la nationalité, lorsque l'appartenance à une nationalité déterminée constitue, conformément aux dispositions légales et réglementaires relatives à l'entrée, au séjour et au droit de vote au pays, la condition déterminante de l'entrée, du séjour et de l'exercice du droit de vote au pays;
+
+5\) abrogé ([L. 28 novembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/jo))
 
 ##### Art. 457-1.
 
 ([L. 19 juillet 1997](https://legilux.public.lu/eli/etat/leg/loi/1997/07/19/n1/jo)) Est puni d'un emprisonnement de huit jours à deux ans et d'une amende de 251 euros à 25.000 euros ou de l'une de ces peines seulement:
 
-1. quiconque, soit par des discours, cris ou menaces proférés dans des lieux ou réunions publics, soit par des écrits, imprimés, dessins, gravures, peintures, emblèmes, images ou tout autre support de l'écrit, de la parole ou de l'image vendus ou distribués, mis en vente ou exposés dans des lieux ou réunions publics, soit par des placards ou des affiches exposés au regard du public, soit par tout moyen de communication audiovisuelle, incite aux actes prévus à l'article 455, à la haine ou à la violence à l'égard d'une personne, physique ou morale, d'un groupe ou d'une communauté en se fondant sur l'un des éléments visés à l'article 454;
-2. quiconque appartient à une organisation dont les objectifs ou les activités consistent à commettre l'un des actes prévus au paragraphe 1) du présent article;
-3. quiconque imprime ou fait imprimer, fabrique, détient, transporte, importe, exporte, fait fabriquer, importer, exporter ou transporter, met en circulation sur le territoire luxembourgeois, envoie à partir du territoire luxembourgeois, remet à la poste ou à un autre professionnel chargé de la distribution du courrier sur le territoire luxembourgeois, fait transiter par le territoire luxembourgeois, des écrits, imprimés, dessins, gravures, peintures, affiches, photographies, films cinématographiques, emblèmes, images ou tout autre support de l'écrit, de la parole ou de l'image, de nature à inciter aux actes prévus à l'article 455, à la haine ou à la violence à l'égard d'une personne, physique ou morale, d'un groupe ou d'une communauté, en se fondant sur l'un des éléments visés à l'article 454.
+1\) quiconque, soit par des discours, cris ou menaces proférés dans des lieux ou réunions publics, soit par des écrits, imprimés, dessins, gravures, peintures, emblèmes, images ou tout autre support de l'écrit, de la parole ou de l'image vendus ou distribués, mis en vente ou exposés dans des lieux ou réunions publics, soit par des placards ou des affiches exposés au regard du public, soit par tout moyen de communication audiovisuelle, incite aux actes prévus à l'article 455, à la haine ou à la violence à l'égard d'une personne, physique ou morale, d'un groupe ou d'une communauté en se fondant sur l'un des éléments visés à l'article 454;
+
+2\) quiconque appartient à une organisation dont les objectifs ou les activités consistent à commettre l'un des actes prévus au paragraphe 1) du présent article;
+
+3\) quiconque imprime ou fait imprimer, fabrique, détient, transporte, importe, exporte, fait fabriquer, importer, exporter ou transporter, met en circulation sur le territoire luxembourgeois, envoie à partir du territoire luxembourgeois, remet à la poste ou à un autre professionnel chargé de la distribution du courrier sur le territoire luxembourgeois, fait transiter par le territoire luxembourgeois, des écrits, imprimés, dessins, gravures, peintures, affiches, photographies, films cinématographiques, emblèmes, images ou tout autre support de l'écrit, de la parole ou de l'image, de nature à inciter aux actes prévus à l'article 455, à la haine ou à la violence à l'égard d'une personne, physique ou morale, d'un groupe ou d'une communauté, en se fondant sur l'un des éléments visés à l'article 454.
 
 La confiscation des objets énumérés ci-avant sera prononcée dans tous les cas.
 
@@ -3952,18 +4187,25 @@ Si cette révélation a causé la mort de ces personnes ou de tiers, les peines 
 
 (2) Lorsque les faits sont commis à l’égard
 
-1. d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
-2. d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
-3. d’un journaliste professionnel, au sens de l’article 3, point 6, de la
+1° d’un député, d’un membre du Gouvernement ou d’un magistrat de l’ordre administratif ou judiciaire ou d’un officier ministériel ;
 
-   [loi modifiée du 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo) sur la liberté d’expression dans les médias ;
-4. d’un conjoint ou conjoint divorcé, d’une personne avec laquelle l’auteur vit ou a vécu habituellement ;
-5. d’un ascendant légitime ou naturel ou un des parents adoptifs de l’auteur ;
-6. d’un descendant légitime, naturel ou adoptif de quatorze ans ou plus de l’auteur ;
-7. d’un frère ou d’une sœur de l’auteur ;
-8. d’un ascendant légitime ou naturel, d’un des parents adoptifs, d’un descendant de quatorze ans accomplis, d’un frère ou d’une sœur d’une personne visée au 1° ;
-9. d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
-10. d’une personne qui est tenue à son égard par des liens de subordination ;
+2° d’un agent dépositaire de l’autorité ou de la force publique, ou de toute personne ayant un caractère public ;
+
+3° d’un journaliste professionnel, au sens de l’article 3, point 6, de la [loi modifiée du 8 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/jo) sur la liberté d’expression dans les médias ;
+
+4° d’un conjoint ou conjoint divorcé, d’une personne avec laquelle l’auteur vit ou a vécu habituellement ;
+
+5° d’un ascendant légitime ou naturel ou un des parents adoptifs de l’auteur ;
+
+6° d’un descendant légitime, naturel ou adoptif de quatorze ans ou plus de l’auteur ;
+
+7° d’un frère ou d’une sœur de l’auteur ;
+
+8° d’un ascendant légitime ou naturel, d’un des parents adoptifs, d’un descendant de quatorze ans accomplis, d’un frère ou d’une sœur d’une personne visée au 1° ;
+
+9° d’une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de leur auteur ;
+
+10° d’une personne qui est tenue à son égard par des liens de subordination ;
 
 la peine sera de trois mois à deux ans d’emprisonnement et de 500 euros à 10.000 euros d’amende.
 
@@ -4119,8 +4361,9 @@ L'effraction consiste à forcer, rompre, dégrader, démolir ou enlever toute es
 
 Sont assimilés au vol avec effraction:
 
-- L'enlèvement des meubles dont il est parlé à l'article précédent;
-- Le vol commis à l'aide d'un bris de scellés.
+aone L'enlèvement des meubles dont il est parlé à l'article précédent;
+
+bone Le vol commis à l'aide d'un bris de scellés.
 
 ###### Art. 486.
 
@@ -4154,11 +4397,15 @@ Toutefois, l'emploi de fausses clefs ne constituera une circonstance aggravante 
 
 ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/jo)) Est déclaré banqueroutier simple et puni d’une peine d’emprisonnement d’un mois à deux ans et d’une amende de 251 à 25 000 euros, tout commerçant failli ou dirigeant de droit ou de fait d’une société commerciale en état de faillite qui se trouve dans l’un des cas suivants :
 
-1. si les dépenses personnelles ou les dépenses de sa maison sont jugées excessives ;
-2. s’il a consommé de fortes sommes au jeu, à des opérations de pur hasard, ou à des opérations fictives de bourse ou sur marchandises ;
-3. si, dans l’intention de retarder sa faillite, il a fait des achats pour revendre au-dessous du cours; si, dans la même intention, il s’est livré à des emprunts, circulation d’effets, et autres moyens ruineux de se procurer des fonds ;
-4. s’il a supposé des dépenses ou des pertes ou s’il ne justifie pas de l’existence ou de l’emploi de l’actif de son dernier inventaire ou bilan et des deniers, valeurs, meubles et effets, de quelque nature qu’ils soient, qui lui seraient avenus postérieurement ;
-5. dans l’intention de retarder la déclaration de faillite, il a payé ou favorisé un créancier au préjudice de la masse.
+1° si les dépenses personnelles ou les dépenses de sa maison sont jugées excessives ;
+
+2° s’il a consommé de fortes sommes au jeu, à des opérations de pur hasard, ou à des opérations fictives de bourse ou sur marchandises ;
+
+3° si, dans l’intention de retarder sa faillite, il a fait des achats pour revendre au-dessous du cours; si, dans la même intention, il s’est livré à des emprunts, circulation d’effets, et autres moyens ruineux de se procurer des fonds ;
+
+4° s’il a supposé des dépenses ou des pertes ou s’il ne justifie pas de l’existence ou de l’emploi de l’actif de son dernier inventaire ou bilan et des deniers, valeurs, meubles et effets, de quelque nature qu’ils soient, qui lui seraient avenus postérieurement ;
+
+5° dans l’intention de retarder la déclaration de faillite, il a payé ou favorisé un créancier au préjudice de la masse.
 
 Les banqueroutiers simples pourront, de plus, être condamnés à l’interdiction conformément à l’article 24.
 
@@ -4166,26 +4413,27 @@ Les banqueroutiers simples pourront, de plus, être condamnés à l’interdicti
 
 ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/jo)) Est encore déclaré banqueroutier simple et puni des peines prévues à l’article 489, tout commerçant failli ou dirigeant de droit ou de fait d’une société commerciale qui se trouve dans l’un des cas suivants :
 
-1. s’il a contracté pour le compte d’autrui, sans recevoir des valeurs en échange, des engagements jugés trop considérables, eu égard à sa situation lorsqu’il les a contractés ;
-2. si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s’est pas conformé à l’article 69 du
+1° s’il a contracté pour le compte d’autrui, sans recevoir des valeurs en échange, des engagements jugés trop considérables, eu égard à sa situation lorsqu’il les a contractés ;
 
-   [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ;
-3. si, dans l’intention de retarder sa faillite,s’il n’a pas fait l’aveu de la cessation de ses paiements dans le délai prescrit par l’article 440 du
+2° si, ayant dérogé par contrat aux dispositions du régime matrimonial légal, il ne s’est pas conformé à l’article 69 du [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ;
 
-   [code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ; si cet aveu ne contient pas les noms de tous les associés solidaires ; si, en le faisant, il n’a pas fourni les renseignements et éclaircissements exigés par l’article 441 du [même code](https://legilux.public.lu/eli/etat/leg/code/commerce), ou si ces renseignements ou éclaircissements sont inexacts ;
-4. s’il s’est absenté sans l’autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s’est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs ;
-5. s’il n’a pas tenu les livres prescrits par l’article 9 du
+3° si, dans l’intention de retarder sa faillite,s’il n’a pas fait l’aveu de la cessation de ses paiements dans le délai prescrit par l’article 440 du [code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ; si cet aveu ne contient pas les noms de tous les associés solidaires ; si, en le faisant, il n’a pas fourni les renseignements et éclaircissements exigés par l’article 441 du [même code](https://legilux.public.lu/eli/etat/leg/code/commerce), ou si ces renseignements ou éclaircissements sont inexacts ;
 
-   [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ; s’il n’a pas fait l’inventaire exigé par l’article 15 du [même code](https://legilux.public.lu/eli/etat/leg/code/commerce) ; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s’ils n’offrent pas sa véritable situation active et passive, sans néanmoins qu’il y ait fraude.
+4° s’il s’est absenté sans l’autorisation du juge-commissaire ou si, sans empêchement légitime, il ne s’est pas rendu en personne aux convocations qui lui ont été faites par le juge-commissaire ou par les curateurs ;
+
+5° s’il n’a pas tenu les livres prescrits par l’article 9 du [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce) ; s’il n’a pas fait l’inventaire exigé par l’article 15 du [même code](https://legilux.public.lu/eli/etat/leg/code/commerce) ; si ses livres et inventaires sont incomplets ou irrégulièrement tenus, ou s’ils n’offrent pas sa véritable situation active et passive, sans néanmoins qu’il y ait fraude.
 
 ###### Art. 490-1 — ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/jo))
 
 Sont condamnés aux peines prévues à l’article 489 :
 
-1. ceux qui, dans l’intérêt du failli, ont soustrait, dissimulé ou recelé tout ou partie de ses biens meubles ou immeubles ;
-2. ceux qui ont frauduleusement présenté dans la faillite et affirmé, soit en leur nom, soit par interposition de personne, des créances supposées ou exagérées ;
-3. le créancier qui a stipulé, soit avec le failli, soit avec toutes autres personnes, des avantages particuliers à raison de son vote dans les délibérations de la faillite, ou qui a fait un traité particulier duquel résulterait, en sa faveur, un avantage à la charge de l’actif du failli ;
-4. le curateur qui s’est rendu coupable de malversation dans sa gestion.
+1° ceux qui, dans l’intérêt du failli, ont soustrait, dissimulé ou recelé tout ou partie de ses biens meubles ou immeubles ;
+
+2° ceux qui ont frauduleusement présenté dans la faillite et affirmé, soit en leur nom, soit par interposition de personne, des créances supposées ou exagérées ;
+
+3° le créancier qui a stipulé, soit avec le failli, soit avec toutes autres personnes, des avantages particuliers à raison de son vote dans les délibérations de la faillite, ou qui a fait un traité particulier duquel résulterait, en sa faveur, un avantage à la charge de l’actif du failli ;
+
+4° le curateur qui s’est rendu coupable de malversation dans sa gestion.
 
 Les coupables sont, en outre, condamnés à une amende égale à la valeur des avantages illégalement stipulés ou aux restitutions et dommages et intérêts dus à la masse des créanciers.
 
@@ -4199,18 +4447,19 @@ Il en est de même de ceux qui, sans empêchement légitime, ne se sont pas rend
 
 Est déclaré banqueroutier frauduleux et condamné à un emprisonnement de six mois à cinq ans et d’une amende de 500 à 50 000 euros, tout commerçant failli ou dirigeant de droit ou de fait d’une société commerciale en état de faillite qui se trouvera dans l’un des cas suivants :
 
-1. s’il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du
+1° s’il a soustrait en tout ou en partie les livres ou documents comptables visés aux articles 9, 14 et 15 du [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce), ou s’il en a frauduleusement enlevé, effacé ou altéré le contenu ;
 
-   [Code de commerce](https://legilux.public.lu/eli/etat/leg/code/commerce), ou s’il en a frauduleusement enlevé, effacé ou altéré le contenu ;
-2. s’il a détourné ou dissimulé une partie de son actif ;
-3. si, dans ses écritures, soit par des actes publics ou des engagements sous signature privée, soit par son bilan, il s’est frauduleusement reconnu débiteur de sommes qu’il ne devait pas.
+2° s’il a détourné ou dissimulé une partie de son actif ;
+
+3° si, dans ses écritures, soit par des actes publics ou des engagements sous signature privée, soit par son bilan, il s’est frauduleusement reconnu débiteur de sommes qu’il ne devait pas.
 
 ###### Art. 490-4 — ([L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/jo))
 
 Dans les cas prévus par les articles 490-1 et 490-3, le tribunal saisi statue d’office, lors même qu’il y aurait acquittement :
 
-1. sur la réintégration à la masse des créanciers de tous biens, droits ou actions frauduleusement soustraits ;
-2. sur les dommages-intérêts qui seraient demandés et que le jugement ou l’arrêt arbitrera.
+1° sur la réintégration à la masse des créanciers de tous biens, droits ou actions frauduleusement soustraits ;
+
+2° sur les dommages-intérêts qui seraient demandés et que le jugement ou l’arrêt arbitrera.
 
 Les conventions seront, en outre, déclarées nulles à l’égard de toutes personnes et même à l’égard du failli.
 
@@ -4368,10 +4617,13 @@ Dans le cas où la peine applicable aux auteurs du crime sera celle de la réclu
 
 Sont punis d’un emprisonnement d’un à cinq ans et d’une amende de 1.250 euros à 1.250.000 euros, ou de l’une de ces peines seulement :
 
-1. ceux qui ont sciemment facilité, par tout moyen, la justification mensongère de la nature, de l’origine, de l’emplacement, de la disposition, du mouvement ou de la propriété des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, d’un crime ou d’un délit ;
-2. ceux qui ont sciemment apporté leur concours à une opération de placement, de dissimulation, de déguisement, de transfert ou de conversion des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, ou constituant un avantage patrimonial quelconque tiré d’un crime ou d’un délit ;
-3. ceux qui ont acquis, détenu ou utilisé des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, ou constituant un avantage patrimonial quelconque tiré d’un crime ou d’un délit, sachant, au moment où ils les recevaient, qu’ils provenaient d’un crime ou d’un délit ou de la participation à un crime ou à un délit.
-4. La tentative des infractions prévues aux points 1) à 3) ci-avant est punie des mêmes peines.
+1\) ceux qui ont sciemment facilité, par tout moyen, la justification mensongère de la nature, de l’origine, de l’emplacement, de la disposition, du mouvement ou de la propriété des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, d’un crime ou d’un délit ;
+
+2\) ceux qui ont sciemment apporté leur concours à une opération de placement, de dissimulation, de déguisement, de transfert ou de conversion des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, ou constituant un avantage patrimonial quelconque tiré d’un crime ou d’un délit ;
+
+3\) ceux qui ont acquis, détenu ou utilisé des biens visés à l’article 31, paragraphe 2, point 1°, formant l’objet ou le produit, direct ou indirect, ou constituant un avantage patrimonial quelconque tiré d’un crime ou d’un délit, sachant, au moment où ils les recevaient, qu’ils provenaient d’un crime ou d’un délit ou de la participation à un crime ou à un délit.
+
+4\) La tentative des infractions prévues aux points 1) à 3) ci-avant est punie des mêmes peines.
 
 ###### Art. 506-2.
 
@@ -4391,7 +4643,7 @@ Toutefois, à l'exception des infractions pour lesquelles la loi permet la pours
 
 ([L. 11 août 1998](https://legilux.public.lu/eli/etat/leg/loi/1998/08/11/n1/jo)) 1. Les infractions visées à l’article 506-1 sont punies d’un emprisonnement de trois à cinq ans et d’une amende de 1.250 euros à 1.250.000 euros ou de l’une de ces peines seulement, si elles ont été commises, dans l’exercice de son activité professionnelle, par un professionnel visé à l’article 2 de la [loi modifiée du 12 novembre 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/jo) relative à la lutte contre le blanchiment et contre le financement du terrorisme.
 
-\2. Les infractions visées à l’article 506-1 sont punies d’un emprisonnement de quinze à vingt ans et d’une amende de 1.250 euros à 1.250.000 euros ou de l’une de ces peines seulement, si elles constituent des actes de participation à l’activité principale ou accessoire d’une association ou organisation.
+2\. Les infractions visées à l’article 506-1 sont punies d’un emprisonnement de quinze à vingt ans et d’une amende de 1.250 euros à 1.250.000 euros ou de l’une de ces peines seulement, si elles constituent des actes de participation à l’activité principale ou accessoire d’une association ou organisation.
 
 ###### Art. 506-6.
 
@@ -4425,8 +4677,9 @@ Le tout sans préjudice à l'application des dispositions contenues aux chapitre
 
 Seront punis d'un emprisonnement de huit jours à deux ans et d'une amende de 500 euros à 5.000 euros:
 
-- Ceux qui, ayant trouvé une chose mobilière appartenant à autrui ou en ayant obtenu par hasard la possession, l'auront frauduleusement celée ou livrée à des tiers;
-- Ceux qui, ayant découvert un trésor, se le seront approprié au préjudice des personnes auxquelles la loi en attribue une partie.
+aone Ceux qui, ayant trouvé une chose mobilière appartenant à autrui ou en ayant obtenu par hasard la possession, l'auront frauduleusement celée ou livrée à des tiers;
+
+bone Ceux qui, ayant découvert un trésor, se le seront approprié au préjudice des personnes auxquelles la loi en attribue une partie.
 
 ###### Art. 509.
 
@@ -4466,10 +4719,9 @@ Alinéa abrogé ([L. 18 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi
 
 ([L. 18 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/18/n1/jo)) Sera puni de 4 mois à cinq ans d’emprisonnement et d’une amende de 1.250 euros à 30.000 euros quiconque aura, dans une intention frauduleuse, produit, vendu, obtenu, détenu, importé, diffusé ou mis à disposition,
 
-- (
+aash ([L. 1 avril 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/04/01/a164/jo)) un dispositif informatique destiné à commettre l’une des infractions visées aux articles 509-1 à 509-4 ou à l’article 509-5 *bis* ; ou
 
-  [L. 1 avril 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/04/01/a164/jo)) un dispositif informatique destiné à commettre l’une des infractions visées aux articles 509-1 à 509-4 ou à l’article 509-5 *bis* ; ou
-- toute clef électronique permettant d’accéder, au mépris des droits d’autrui, à tout ou à partie d’un système de traitement ou de transmission automatisé de données.
+bash toute clef électronique permettant d’accéder, au mépris des droits d’autrui, à tout ou à partie d’un système de traitement ou de transmission automatisé de données.
 
 ###### Art. 509-5 *bis.*
 
@@ -4517,8 +4769,9 @@ Si les bois abattus n'ont pas été réunis, la peine sera un emprisonnement d'u
 
 Si ces récoltes ou ces bois appartiennent exclusivement à ceux qui les ont incendiés et que le feu ait été mis dans une intention méchante ou frauduleuse, les peines seront:
 
-- Dans le premier cas prévu par le présent article, un emprisonnement de six mois à trois ans et une amende de 500 euros à 5.000 euros.
-- Dans le second cas, un emprisonnement de trois mois à deux ans et une amende de 251 euros à 2.000 euros.
+aone Dans le premier cas prévu par le présent article, un emprisonnement de six mois à trois ans et une amende de 500 euros à 5.000 euros.
+
+bone Dans le second cas, un emprisonnement de trois mois à deux ans et une amende de 251 euros à 2.000 euros.
 
 ###### Art. 513.
 
@@ -4750,35 +5003,43 @@ S'il est résulté de ces faits quelques dégradations, la peine sera, outre l'a
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Ceux qui auront négligé d'entretenir, de réparer ou de nettoyer les fours, cheminées ou usines où l'on fait usage de feu;
-2. Ceux qui, obligés à l'éclairage, l'auront négligé;
-3. Ceux qui auront négligé de nettoyer les rues ou passages, dans les communes où ce soin est mis à la charge des habitants;
-4. Ceux qui, en contravention aux lois et règlements, auront négligé d'éclairer les matériaux, les échafaudages ou les autres objets quelconques qu'ils ont déposés ou laissés dans les rues, places ou autres parties de la voie publique, ou les excavations qu'ils y ont creusées;
-5. Ceux qui auront négligé ou refusé d'exécuter les lois, arrêtés ou règlements concernant la petite voirie;
-6. Ceux qui auront négligé ou refusé d'obéir à la sommation faite par l'autorité administrative de réparer ou de démolir des édifices menaçant ruine.
+1\. Ceux qui auront négligé d'entretenir, de réparer ou de nettoyer les fours, cheminées ou usines où l'on fait usage de feu;
+
+2\. Ceux qui, obligés à l'éclairage, l'auront négligé;
+
+3\. Ceux qui auront négligé de nettoyer les rues ou passages, dans les communes où ce soin est mis à la charge des habitants;
+
+5\. Ceux qui, en contravention aux lois et règlements, auront négligé d'éclairer les matériaux, les échafaudages ou les autres objets quelconques qu'ils ont déposés ou laissés dans les rues, places ou autres parties de la voie publique, ou les excavations qu'ils y ont creusées;
+
+6\. Ceux qui auront négligé ou refusé d'exécuter les lois, arrêtés ou règlements concernant la petite voirie;
+
+7\. Ceux qui auront négligé ou refusé d'obéir à la sommation faite par l'autorité administrative de réparer ou de démolir des édifices menaçant ruine.
 
 ##### Art. 552.
 
 Seront aussi punis d'une amende de 25 euros à 250 euros:
 
-1. Ceux qui auront jeté, exposé ou abandonné sur la voie publique des choses de nature à nuire par leur chute ou par des exhalaisons insalubres;
-2. Ceux qui auront laissé dans les rues, chemins, places, lieux publics ou dans les champs, des coutres de charrue, pinces, barres, barreaux, échelles ou autres machines, instruments ou armes dont puissent abuser les voleurs ou autres malfaiteurs. Seront, en outre, saisis et confisqués les objets ci-dessus mentionnés;
-3. Abrogé (
+1° Ceux qui auront jeté, exposé ou abandonné sur la voie publique des choses de nature à nuire par leur chute ou par des exhalaisons insalubres;
 
-   [L. 15 mars 1892](https://legilux.public.lu/eli/etat/leg/loi/1892/03/15/n3/jo))
-4. Ceux qui, sans autre circonstance prévue par les lois, auront cueilli et mangé, sur le lieu même, des fruits appartenant à autrui;
-5. Ceux qui, imprudemment, auront jeté sur une personne une chose quelconque pouvant l'incommoder ou la souiller;
-6. Ceux qui, sans en avoir le droit, seront entrés ou auront passé ou fait passer des animaux sur le terrain d'autrui, s'il est préparé ou ensemencé;
-7. Ceux qui auront laissé passer leurs bestiaux ou leurs bêtes de trait, de charge ou de monture sur les prairies ou le terrain d'autrui, avant l'enlèvement de la récolte.
+2° Ceux qui auront laissé dans les rues, chemins, places, lieux publics ou dans les champs, des coutres de charrue, pinces, barres, barreaux, échelles ou autres machines, instruments ou armes dont puissent abuser les voleurs ou autres malfaiteurs. Seront, en outre, saisis et confisqués les objets ci-dessus mentionnés;
+
+3° Abrogé ([L. 15 mars 1892](https://legilux.public.lu/eli/etat/leg/loi/1892/03/15/n3/jo))
+
+4° Ceux qui, sans autre circonstance prévue par les lois, auront cueilli et mangé, sur le lieu même, des fruits appartenant à autrui;
+
+5° Ceux qui, imprudemment, auront jeté sur une personne une chose quelconque pouvant l'incommoder ou la souiller;
+
+6° Ceux qui, sans en avoir le droit, seront entrés ou auront passé ou fait passer des animaux sur le terrain d'autrui, s'il est préparé ou ensemencé;
+
+7° Ceux qui auront laissé passer leurs bestiaux ou leurs bêtes de trait, de charge ou de monture sur les prairies ou le terrain d'autrui, avant l'enlèvement de la récolte.
 
 ##### Art. 553.
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Abrogé (
+1° Abrogé ([L. 2 février 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/02/02/a49/jo))
 
-   [L. 2 février 2022](https://legilux.public.lu/eli/etat/leg/loi/2022/02/02/a49/jo))
-2. Ceux qui, sans autre circonstance prévue par les lois, auront glané, râtelé ou grapillé dans les champs non encore entièrement dépouillés et vidés de leurs récoltes, ou avant le moment du lever ou après celui du coucher du soleil.
+2° Ceux qui, sans autre circonstance prévue par les lois, auront glané, râtelé ou grapillé dans les champs non encore entièrement dépouillés et vidés de leurs récoltes, ou avant le moment du lever ou après celui du coucher du soleil.
 
 ##### Art. 554.
 
@@ -4794,31 +5055,39 @@ Abrogé ([L. 28 mai 1968](https://legilux.public.lu/eli/etat/leg/loi/1968/05/28/
 
 Seront aussi punis d'une amende de 25 euros à 250 euros:
 
-1. Ceux qui auront fait ou laissé courir les chevaux, bêtes de trait, de charge ou de monture dans l'intérieur d'un lieu habité;
-2. Ceux qui auront laissé divaguer des fous ou des furieux étant sous leur garde, ou des animaux malfaisants ou féroces;
-3. Ceux qui auront excité ou n'auront pas retenu leurs chiens, lorsqu'ils attaquent ou poursuivent les passants, quand même il n'en serait résulté aucun mal ou dommage;
-4. (
+1° Ceux qui auront fait ou laissé courir les chevaux, bêtes de trait, de charge ou de monture dans l'intérieur d'un lieu habité;
 
-   [L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo)) Ceux qui, à défaut de convention contraire, auront refusé de recevoir de la monnaie non fausse ni altérée, selon la valeur pour laquelle elle a cours légal dans le Grand-Duché;
-5. Abrogé (
+2° Ceux qui auront laissé divaguer des fous ou des furieux étant sous leur garde, ou des animaux malfaisants ou féroces;
 
-   [L. 13 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/13/n6/jo))
-6. Ceux qui, sans en avoir le droit, seront entrés sur le terrain d'autrui ou y auront passé ou fait passer des animaux dans le temps où ce terrain était chargé de grains en tuyaux, de raisins ou autres produits mûrs ou voisins de la maturité;
-7. Ceux qui auront fait ou laissé passer des bestiaux, animaux de trait, de charge ou de monture, sur le terrain d'autrui, dans le temps où ce terrain était chargé de récoltes;
-8. Ceux qui auront contrevenu aux bans de vendanges.
+3° Ceux qui auront excité ou n'auront pas retenu leurs chiens, lorsqu'ils attaquent ou poursuivent les passants, quand même il n'en serait résulté aucun mal ou dommage;
+
+4° ([L. 28 juillet 2017](https://legilux.public.lu/eli/etat/leg/loi/2017/07/28/a777/jo)) Ceux qui, à défaut de convention contraire, auront refusé de recevoir de la monnaie non fausse ni altérée, selon la valeur pour laquelle elle a cours légal dans le Grand-Duché;
+
+5° Abrogé ([L. 13 décembre 1985](https://legilux.public.lu/eli/etat/leg/loi/1985/12/13/n6/jo))
+
+6° Ceux qui, sans en avoir le droit, seront entrés sur le terrain d'autrui ou y auront passé ou fait passer des animaux dans le temps où ce terrain était chargé de grains en tuyaux, de raisins ou autres produits mûrs ou voisins de la maturité;
+
+7° Ceux qui auront fait ou laissé passer des bestiaux, animaux de trait, de charge ou de monture, sur le terrain d'autrui, dans le temps où ce terrain était chargé de récoltes;
+
+8° Ceux qui auront contrevenu aux bans de vendanges.
 
 ##### Art. 557.
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Les conducteurs de voitures quelconques ou de bêtes de charge qui ne se tiendront pas constamment à portée de leurs chevaux, bêtes de trait ou de charge ou de leurs voitures, et en état de les guider ou conduire; qui occuperont le milieu des rues, chemins ou voies publics, quand d'autres voitures ou bêtes de charge y chemineront près d'eux; qui négligeront de se détourner ou ranger devant toutes autres voitures ou bêtes de charge et à leur approche, et de leur laisser libre au moins la moitié de la voie, ou qui contreviendraient aux règlements sur ces objets;
-2. Ceux qui auront contrevenu aux règlements ayant pour objet, soit la rapidité, la mauvaise direction ou le chargement des voitures ou des animaux, soit la solidité des voitures publiques, le mode de leur chargement, le nombre et la sûreté des voyageurs.
-3. Ceux qui auront établi ou tenu dans les rues, chemins, places ou lieux publics, des jeux de loterie ou d'autres jeux de hasard.
+1° Les conducteurs de voitures quelconques ou de bêtes de charge qui ne se tiendront pas constamment à portée de leurs chevaux, bêtes de trait ou de charge ou de leurs voitures, et en état de les guider ou conduire; qui occuperont le milieu des rues, chemins ou voies publics, quand d'autres voitures ou bêtes de charge y chemineront près d'eux; qui négligeront de se détourner ou ranger devant toutes autres voitures ou bêtes de charge et à leur approche, et de leur laisser libre au moins la moitié de la voie, ou qui contreviendraient aux règlements sur ces objets;
 
-   Seront en outre, saisis et confisqués, les tables, instruments, appareils des jeux ou des loteries, ainsi que les enjeux, les fonds, denrées, objets ou lots proposés aux joueurs;
-4. Ceux qui auront jeté des pierres ou d'autres corps durs, ou d'autres objets pouvant souiller ou dégrader, contre les voitures suspendues, les maisons, édifices et clôtures d'autrui, ou dans les jardins et enclos.
-5. Ceux qui, dans les lieux dont ils sont propriétaires, locataires, colons, fermiers, usufruitiers ou usagers, auront méchamment tué ou gravement blessé, au préjudice d'autrui, un animal domestique autre que ceux mentionnés à l'article 538;
-6. Ceux qui auront dérobé des récoltes ou autres productions utiles de la terre, qui n'étaient pas encore détachées du sol.
+2° Ceux qui auront contrevenu aux règlements ayant pour objet, soit la rapidité, la mauvaise direction ou le chargement des voitures ou des animaux, soit la solidité des voitures publiques, le mode de leur chargement, le nombre et la sûreté des voyageurs.
+
+3° Ceux qui auront établi ou tenu dans les rues, chemins, places ou lieux publics, des jeux de loterie ou d'autres jeux de hasard.
+
+Seront en outre, saisis et confisqués, les tables, instruments, appareils des jeux ou des loteries, ainsi que les enjeux, les fonds, denrées, objets ou lots proposés aux joueurs;
+
+4° Ceux qui auront jeté des pierres ou d'autres corps durs, ou d'autres objets pouvant souiller ou dégrader, contre les voitures suspendues, les maisons, édifices et clôtures d'autrui, ou dans les jardins et enclos.
+
+5° Ceux qui, dans les lieux dont ils sont propriétaires, locataires, colons, fermiers, usufruitiers ou usagers, auront méchamment tué ou gravement blessé, au préjudice d'autrui, un animal domestique autre que ceux mentionnés à l'article 538;
+
+6° Ceux qui auront dérobé des récoltes ou autres productions utiles de la terre, qui n'étaient pas encore détachées du sol.
 
 Si le fait a été commis soit pendant la nuit, soit à l'aide d'escalade ou d'effraction, soit à l'aide de voitures ou d'animaux de charge, soit enfin par deux ou plusieurs personnes, les coupables seront punis conformément à l'article 463.
 
@@ -4832,41 +5101,45 @@ Abrogé implicitement ([L. 13 juin 1994](https://legilux.public.lu/eli/etat/leg/
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Abrogé (
+1° Abrogé ([L. 15 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/15/n2/jo))
 
-   [L. 15 juillet 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/07/15/n2/jo))
-2. Ceux qui auront causé la mort ou la blessure grave des animaux ou bestiaux appartenant à autrui, par l'effet de la divagation des fous ou furieux, d'animaux malfaisants ou féroces, ou par la rapidité, la mauvaise direction ou le chargement excessif des voitures, chevaux, bêtes de trait, de charge ou de monture;
-3. Ceux qui, par imprévoyance ou défaut de précaution, auront involontairement causé les mêmes dommages par l'emploi ou l'usage d'armes, ou par le jet de corps durs ou de substances quelconques;
-4. Ceux qui auront causé les mêmes accidents, par la vétusté, la dégradation, le défaut de réparation ou d'entretien des maisons ou édifices, ou par l'encombrement ou l'excavation, ou telles autres oeuvres dans ou près des rues, chemins, places ou voies publiques, sans les précautions ou signaux ordonnés ou d'usage.
+2° Ceux qui auront causé la mort ou la blessure grave des animaux ou bestiaux appartenant à autrui, par l'effet de la divagation des fous ou furieux, d'animaux malfaisants ou féroces, ou par la rapidité, la mauvaise direction ou le chargement excessif des voitures, chevaux, bêtes de trait, de charge ou de monture;
+
+3° Ceux qui, par imprévoyance ou défaut de précaution, auront involontairement causé les mêmes dommages par l'emploi ou l'usage d'armes, ou par le jet de corps durs ou de substances quelconques;
+
+4° Ceux qui auront causé les mêmes accidents, par la vétusté, la dégradation, le défaut de réparation ou d'entretien des maisons ou édifices, ou par l'encombrement ou l'excavation, ou telles autres oeuvres dans ou près des rues, chemins, places ou voies publiques, sans les précautions ou signaux ordonnés ou d'usage.
 
 ##### Art. 560.
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Ceux qui auront méchamment enlevé ou déchiré les affiches légitimement apposées;
-2. Ceux qui, dans les lieux appartenant au domaine public de l'Etat ou des communes, auront enlevé des gazons, terres, pierres ou matériaux, sans y être dûment autorisés;
-3. Ceux qui mèneront sur le terrain d'autrui des bestiaux, de quelque espèce qu'ils soient, et à quelque époque que ce soit, dans les prairies naturelles ou artificielles, dans les vignes, roseraies, houblonnières, et dans les plants ou pépinières d'arbres fruitiers ou autres, faits de mains d'homme;
-4. Ceux qui auront répandu des terres, pierres ou décombres sur le terrain d'autrui.
+1° Ceux qui auront méchamment enlevé ou déchiré les affiches légitimement apposées;
+
+2° Ceux qui, dans les lieux appartenant au domaine public de l'Etat ou des communes, auront enlevé des gazons, terres, pierres ou matériaux, sans y être dûment autorisés;
+
+3° Ceux qui mèneront sur le terrain d'autrui des bestiaux, de quelque espèce qu'ils soient, et à quelque époque que ce soit, dans les prairies naturelles ou artificielles, dans les vignes, roseraies, houblonnières, et dans les plants ou pépinières d'arbres fruitiers ou autres, faits de mains d'homme;
+
+4° Ceux qui auront répandu des terres, pierres ou décombres sur le terrain d'autrui.
 
 ##### Art. 561.
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. 1° Ceux qui se seront rendus coupables de bruits ou tapages nocturnes de nature à troubler la tranquillité des habitants;
-2. 2° Abrogé (
+aone 1° Ceux qui se seront rendus coupables de bruits ou tapages nocturnes de nature à troubler la tranquillité des habitants;
 
-   [L. 6 avril 1881](https://legilux.public.lu/eli/etat/leg/loi/1881/04/06/n3/jo))
-3. 3° Abrogé (
+bone 2° Abrogé ([L. 6 avril 1881](https://legilux.public.lu/eli/etat/leg/loi/1881/04/06/n3/jo))
 
-   [L. 6 avril 1881](https://legilux.public.lu/eli/etat/leg/loi/1881/04/06/n3/jo))
-4. 4° Ceux qui auront de faux poids, de fausses mesures ou de faux instruments de pesage dans leurs magasins, boutiques ou ateliers, ou dans les halles, foires ou marchés.
+cone 3° Abrogé ([L. 6 avril 1881](https://legilux.public.lu/eli/etat/leg/loi/1881/04/06/n3/jo))
 
-   Les poids, les mesures et les instruments faux seront confisqués;
-5. 5° et 6° Abrogés (
+done 4° Ceux qui auront de faux poids, de fausses mesures ou de faux instruments de pesage dans leurs magasins, boutiques ou ateliers, ou dans les halles, foires ou marchés.
 
-   [L. 26 février 1965](https://legilux.public.lu/eli/etat/leg/loi/1965/02/26/n3/jo) et [L. 15 mars 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n1/jo))
-6. 7° Ceux qui auront dirigé, contre des corps constitués ou des particuliers, des injures autres que celles prévues au Titre VIII Chapitre V du Livre II du présent code;
-7. 8° Ceux qui emploieront des poids ou des mesures différents de ceux qui sont établis par les lois en vigueur.
+Les poids, les mesures et les instruments faux seront confisqués;
+
+eone 5° et 6° Abrogés ([L. 26 février 1965](https://legilux.public.lu/eli/etat/leg/loi/1965/02/26/n3/jo) et [L. 15 mars 1983](https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n1/jo))
+
+fone 7° Ceux qui auront dirigé, contre des corps constitués ou des particuliers, des injures autres que celles prévues au Titre VIII Chapitre V du Livre II du présent code;
+
+gone 8° Ceux qui emploieront des poids ou des mesures différents de ceux qui sont établis par les lois en vigueur.
 
 Les poids et mesures seront confisqués.
 
@@ -4880,22 +5153,29 @@ Alinéa 1er abrogé implicitement ([L. 13 juin 1994](https://legilux.public.lu/e
 
 Seront punis d'une amende de 25 euros à 250 euros:
 
-1. Les gens qui font métier de deviner et de pronostiquer ou d'expliquer les songes. Seront saisis et confisqués les instruments, ustensiles et costumes servant et destinés à l'exercice du métier de devin, pronostiqueur ou interprète des songes;
-2. Ceux qui auront volontairement dégradé des clôtures urbaines ou rurales, de quelques matériaux qu'elles soient faites;
-3. Les auteurs de voies de fait ou violences légères, pourvu qu'ils n'aient blessé ni frappé personne, et que les voies de fait n'entrent pas dans la classe des injures; particulièrement ceux qui auront volontairement, mais sans intention de l'injurier, lancé sur une personne un objet quelconque de nature à l'incommoder ou à la souiller;
-4. Celui qui aura volontairement et sans nécessité tué ou gravement blessé, soit un animal domestique autre que ceux mentionnés à l'article 538, soit un animal apprivoisé, dans un lieu autre que celui dont le maître de l'animal ou le coupable est propriétaire, locataire, fermier, usufruitier ou usager;
-5. Ceux qui, par défaut de précaution, auront involontairement détruit ou dégradé des fils, poteaux ou appareils télégraphiques;
-6. [^note_0_0] Les vagabonds et ceux qui auront été trouvés mendiants.
+1° Les gens qui font métier de deviner et de pronostiquer ou d'expliquer les songes. Seront saisis et confisqués les instruments, ustensiles et costumes servant et destinés à l'exercice du métier de devin, pronostiqueur ou interprète des songes;
 
-   Alinéa abrogé ([L. 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo))
-7. Ceux qui auront sans droit exécuté des ouvrages d'art, de culture ou autres sur le terrain d'autrui.
-8. Ceux qui sans droit s'introduisent dans une maison, un appartement, une chambre ou un logement, habités par autrui, ou leurs dépendances, et y restent malgré l'invitation ou l'ordre de s'en éloigner.
-9. (
+2° Ceux qui auront volontairement dégradé des clôtures urbaines ou rurales, de quelques matériaux qu'elles soient faites;
 
-   [L. 1 <sup>er</sup> avril 1968](https://legilux.public.lu/eli/etat/leg/loi/1968/04/01/n2/jo)) Ceux dont l'attitude sur la voie publique est de nature à provoquer à la débauche.
-10. ([L. du 23 mai 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/05/23/a413/jo)) Ceux qui dans tout moyen collectif de transport de personnes, à l’intérieur des établissements scolaires de tous les types d’enseignement ainsi que dans leur enceinte, dans les locaux destinés à accueillir ou à héberger des mineurs âgés de moins de seize ans accomplis, à l’intérieur et dans l’enceinte des établissements hospitaliers, dans les locaux à usage collectif des institutions accueillant des personnes âgées à des fins d’hébergement, y compris dans les ascenseurs et corridors, dans les bâtiments relevant des autorités judiciaires, dans les locaux des administrations publiques accessibles au public, dissimulent tout ou partie du visage, de manière telle qu’ils ne soient pas identifiables.
+3° Les auteurs de voies de fait ou violences légères, pourvu qu'ils n'aient blessé ni frappé personne, et que les voies de fait n'entrent pas dans la classe des injures; particulièrement ceux qui auront volontairement, mais sans intention de l'injurier, lancé sur une personne un objet quelconque de nature à l'incommoder ou à la souiller;
 
-   L’interdiction prévue à l’alinéa 1 <sup>er</sup> ne s’applique pas si la dissimulation de tout ou partie du visage est prescrite ou autorisée par des dispositions législatives, si elle est justifiée pour des raisons de santé dûment attestées par un certificat médical ou des motifs professionnels et limitée au but poursuivi, ou si elle s’inscrit dans le cadre de pratiques sportives, de fêtes ou de manifestations artistiques ou traditionnelles où il est d’usage que l’on dissimule tout ou partie du visage.
+4° Celui qui aura volontairement et sans nécessité tué ou gravement blessé, soit un animal domestique autre que ceux mentionnés à l'article 538, soit un animal apprivoisé, dans un lieu autre que celui dont le maître de l'animal ou le coupable est propriétaire, locataire, fermier, usufruitier ou usager;
+
+5° Ceux qui, par défaut de précaution, auront involontairement détruit ou dégradé des fils, poteaux ou appareils télégraphiques;
+
+6°[^note_0_0] Les vagabonds et ceux qui auront été trouvés mendiants.
+
+Alinéa abrogé ([L. 29 août 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo))
+
+7° Ceux qui auront sans droit exécuté des ouvrages d'art, de culture ou autres sur le terrain d'autrui.
+
+8° Ceux qui sans droit s'introduisent dans une maison, un appartement, une chambre ou un logement, habités par autrui, ou leurs dépendances, et y restent malgré l'invitation ou l'ordre de s'en éloigner.
+
+9° ([L. 1 <sup>er</sup> avril 1968](https://legilux.public.lu/eli/etat/leg/loi/1968/04/01/n2/jo)) Ceux dont l'attitude sur la voie publique est de nature à provoquer à la débauche.
+
+10° ([L. du 23 mai 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/05/23/a413/jo)) Ceux qui dans tout moyen collectif de transport de personnes, à l’intérieur des établissements scolaires de tous les types d’enseignement ainsi que dans leur enceinte, dans les locaux destinés à accueillir ou à héberger des mineurs âgés de moins de seize ans accomplis, à l’intérieur et dans l’enceinte des établissements hospitaliers, dans les locaux à usage collectif des institutions accueillant des personnes âgées à des fins d’hébergement, y compris dans les ascenseurs et corridors, dans les bâtiments relevant des autorités judiciaires, dans les locaux des administrations publiques accessibles au public, dissimulent tout ou partie du visage, de manière telle qu’ils ne soient pas identifiables.
+
+L’interdiction prévue à l’alinéa 1 <sup>er</sup> ne s’applique pas si la dissimulation de tout ou partie du visage est prescrite ou autorisée par des dispositions législatives, si elle est justifiée pour des raisons de santé dûment attestées par un certificat médical ou des motifs professionnels et limitée au but poursuivi, ou si elle s’inscrit dans le cadre de pratiques sportives, de fêtes ou de manifestations artistiques ou traditionnelles où il est d’usage que l’on dissimule tout ou partie du visage.
 
 ##### Art. 564.
 

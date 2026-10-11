@@ -17,6 +17,8 @@ HIER = {
     "book", "part", "subpart", "title", "subtitle", "chapter", "subchapter", "section",
     "subsection", "division", "subdivision", "tome", "level", "hcontainer", "container",
 }
+BLOCKY = {"embeddedStructure", "quotedStructure", "table", "ol", "ul", "blockList", "list",
+          "article", "chapter", "section", "title", "part", "book", "paragraph", "alinea"}
 BLOCK_SKIP = {"meta", "eop", "notes", "toc"}
 INLINE_TAGS = {
     "b", "i", "u", "sup", "sub", "span", "ref", "noteRef", "br", "mod", "del", "ins",
@@ -55,9 +57,50 @@ MD_START = re.compile(r"^(\d+[.)]\s|[-+*>#|]|=+\s*$|`{3})")
 
 
 def esc_start(s: str) -> str:
+    m = re.match(r"^(\d+)([.)])(\s|$)", s)
+    if m:
+        return m.group(1) + "\\" + s[len(m.group(1)):]
     if MD_START.match(s):
         return "\\" + s
     return s
+
+
+def to_roman(n: int) -> str:
+    vals = [(1000, "m"), (900, "cm"), (500, "d"), (400, "cd"), (100, "c"), (90, "xc"), (50, "l"),
+            (40, "xl"), (10, "x"), (9, "ix"), (5, "v"), (4, "iv"), (1, "i")]
+    out = ""
+    for v, r in vals:
+        while n >= v:
+            out += r
+            n -= v
+    return out
+
+
+def to_letters(n: int) -> str:
+    s = ""
+    while n > 0:
+        n, r = divmod(n - 1, 26)
+        s = chr(97 + r) + s
+    return s
+
+
+def list_marker(sym: str, i: int) -> str:
+    """Instantiate a Legilux list symbol template ("1°", "a)", "i.", "A.", "–") for item i."""
+    m = re.search(r"\d+|[ivxlcdm]+|[IVXLCDM]+|[a-z]|[A-Z]", sym)
+    if not m:
+        return sym
+    tok = m.group(0)
+    if tok.isdigit():
+        rep = str(i)
+    elif re.fullmatch(r"[ivxlcdm]+", tok) and tok in ("i", "ii", "iii", "iv", "v", "x"):
+        rep = to_roman(i)
+    elif re.fullmatch(r"[IVXLCDM]+", tok) and tok in ("I", "II", "III", "IV", "V", "X"):
+        rep = to_roman(i).upper()
+    elif tok.islower():
+        rep = to_letters(i)
+    else:
+        rep = to_letters(i).upper()
+    return sym[:m.start()] + rep + sym[m.end():]
 
 
 @dataclass
@@ -102,7 +145,11 @@ class Converter:
             return self.math(c)
         inner = lambda: self.inline(c)  # noqa: E731
         if t == "signature":
-            return " <br>" + inner() + " <br>"
+            parts = [clean_inline(c.text or "")]
+            for k in c:
+                parts.append(clean_inline(self.inline_el(k)))
+                parts.append(clean_inline(k.tail or ""))
+            return " <br>" + " <br> ".join(p for p in parts if p) + " <br>"
         if t == "br":
             return "<br>"
         if t in ("b", "strong"):
@@ -184,10 +231,7 @@ class Converter:
     def blocks(self, e, level: int, quoted=False) -> list[str]:
         """Render children of e as a list of markdown blocks."""
         out: list[str] = []
-        lead = clean_inline(e.text or "")
-        if lead:
-            out.append(esc_start(lead))
-        pending_inline = []
+        pending_inline = [e.text or ""]
 
         def flush():
             if pending_inline:
@@ -210,9 +254,7 @@ class Converter:
                 continue
             flush()
             out.extend(self.block(c, level, quoted))
-            tail = clean_inline(c.tail or "")
-            if tail:
-                out.append(esc_start(tail))
+            pending_inline.append(c.tail or "")
         flush()
         return out
 
@@ -242,6 +284,10 @@ class Converter:
             return []
         if t in ("num", "heading", "subheading"):
             return []  # consumed by the parent
+        if t in HIER and quoted:
+            n, h = self.num_heading(c)
+            title = " ".join(x for x in (n, h) if x)
+            return ([f"**{title}**"] if title else []) + self.blocks(c, level, quoted)
         if t in HIER and not quoted:
             n, h = self.num_heading(c)
             title = " — ".join(x for x in (n.rstrip(" .") if h else n, h) if x) or ""
@@ -262,7 +308,7 @@ class Converter:
             return [self.table(c)]
         if t in ("embeddedStructure", "quotedStructure"):
             inner = self.blocks(c, level, quoted=True)
-            return [blockquote(b) for b in inner]
+            return ["\n>\n".join(blockquote(b) for b in inner)] if inner else []
         if t in ("paragraph", "subparagraph", "point", "indent", "clause", "alinea", "item",
                  "subclause", "subpoint", "subsubpoint", "level"):
             n, h = self.num_heading(c)
@@ -275,6 +321,9 @@ class Converter:
                     inner.insert(0, esc_start(prefix))
             return inner
         if t == "p":
+            if any(isinstance(k.tag, str) and lname(k) in BLOCKY for k in c.iter()) and \
+                    not self.ctx.in_table:
+                return self.blocks(c, level, quoted)
             s = self.text(c)
             return [esc_start(s)] if s else []
         if t in ("attachments", "components"):
@@ -300,39 +349,35 @@ class Converter:
 
     def list_block(self, c, level, quoted, ordered) -> list[str]:
         out = []
-        items = [k for k in c if isinstance(k.tag, str) and lname(k) in ("li", "item", "point")]
-        others_first = []
+        sym = c.get("{%s}symbol" % SCL) or ("1." if ordered else "–")
+        try:
+            start = int(c.get("{%s}start" % SCL) or 1)
+        except ValueError:
+            start = 1
+        for k in c:
+            if isinstance(k.tag, str) and ns(k) != SCL and lname(k) in ("listIntroduction", "intro"):
+                out += self.blocks(k, level, quoted)
+        idx = start
         for k in c:
             if not isinstance(k.tag, str) or ns(k) == SCL:
                 continue
-            if lname(k) in ("listIntroduction", "intro"):
-                others_first += self.blocks(k, level, quoted)
-        out += others_first
-        for i, li in enumerate(items, 1):
-            inner = self.blocks(li, level, quoted)
+            if lname(k) not in ("li", "item", "point"):
+                continue
+            li_sym = k.get("{%s}symbol" % SCL)
+            marker = li_sym if li_sym else list_marker(sym, idx)
+            idx += 1
+            inner = self.blocks(k, level, quoted)
             if not inner:
                 continue
-            marker = f"{i}. " if ordered and not li.get("value") else "- "
-            body = "\n\n".join(inner)
-            body = body.replace("\n", "\n  " + (" " if marker.startswith(tuple("0123456789")) else ""))
             first = inner[0]
-            out.append(marker + body.lstrip("\\") if not first.startswith("\\") else marker + body[1:])
+            if first.startswith("\\"):
+                first = first[1:]
+            inner[0] = esc_start(f"{marker} {first}" if marker else first)
+            out.extend(inner)
         for k in c:
             if isinstance(k.tag, str) and lname(k) in ("listWrapUp", "wrapUp"):
                 out += self.blocks(k, level, quoted)
-        # join consecutive list items into one block (tight list)
-        merged, cur = [], []
-        for b in out:
-            if b.startswith(("- ",)) or re.match(r"^\d+\. ", b):
-                cur.append(b)
-            else:
-                if cur:
-                    merged.append("\n".join(cur))
-                    cur = []
-                merged.append(b)
-        if cur:
-            merged.append("\n".join(cur))
-        return merged
+        return out
 
     def table(self, tbl) -> str:
         rows = [r for r in tbl.iter("{*}tr")]
@@ -369,7 +414,7 @@ class Converter:
                     for a in ("colspan", "rowspan"):
                         if c.get(a) not in (None, "1"):
                             attrs += f' {a}="{c.get(a)}"'
-                    parts.append(f"<{tag}{attrs}>{self.cell_text(c, html=True)}</{tag}>")
+                    parts.append(f"<{tag}{attrs}>{md_to_html(self.cell_text(c, html=True))}</{tag}>")
                 parts.append("</tr>")
             parts.append("</table>")
             return "\n".join(parts)
@@ -399,6 +444,15 @@ class Converter:
         if lead:
             paras.insert(0, lead)
         return "<br>".join(p.replace("\n", "<br>") for p in paras)
+
+
+def md_to_html(s: str) -> str:
+    """Inline markdown produced by this module -> HTML (for cells of HTML tables)."""
+    s = re.sub(r"!\[image\]\(([^)\s]+)\)", r'<img src="\1" alt="image">', s)
+    s = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", r'<a href="\2">\1</a>', s)
+    s = re.sub(r"\*\*(\S(?:.*?\S)?)\*\*", r"<b>\1</b>", s)
+    s = re.sub(r"(?<![\w*])\*(\S(?:.*?\S)?)\*(?![\w*])", r"<i>\1</i>", s)
+    return s
 
 
 def wrap(s: str, mark: str) -> str:

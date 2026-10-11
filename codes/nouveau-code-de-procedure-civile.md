@@ -45,27 +45,29 @@ Le taux de compétence est déterminé par la seule valeur du montant principal,
 
 ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Par dérogation à l’article précédent, il connaît en dernier ressort jusqu’à la valeur de 2 000 euros et à charge d’appel à quelque valeur que la demande puisse s’élever :
 
-1. des actions pour dommages faits, soit par les hommes, soit par les animaux, aux champs, fruits et récoltes ; des actions relatives à l’élagage des arbres et haies, et au curage soit des fossés, soit des canaux servant à l’irrigation des propriétés ou au mouvement des usines ;
-2. des actions concernant les vices rédhibitoires des animaux domestiques ;
-3. de toutes les contestations entre bailleurs et preneurs relatives à l’existence et à l’exécution des baux d’immeubles, ainsi que des demandes en paiement d’indemnités d’occupation et en expulsion de lieux occupés sans droit, qu’elles soient ou non la suite d’une convention ;
-4. des contestations relatives à la réparation des dommages causés à la propriété superficiaire par l’exploitation des mines, minières et carrières.
+1° des actions pour dommages faits, soit par les hommes, soit par les animaux, aux champs, fruits et récoltes ; des actions relatives à l’élagage des arbres et haies, et au curage soit des fossés, soit des canaux servant à l’irrigation des propriétés ou au mouvement des usines ;
+
+2° des actions concernant les vices rédhibitoires des animaux domestiques ;
+
+3° de toutes les contestations entre bailleurs et preneurs relatives à l’existence et à l’exécution des baux d’immeubles, ainsi que des demandes en paiement d’indemnités d’occupation et en expulsion de lieux occupés sans droit, qu’elles soient ou non la suite d’une convention ;
+
+4° des contestations relatives à la réparation des dommages causés à la propriété superficiaire par l’exploitation des mines, minières et carrières.
 
 **Art. 4.**
 
 Il connaît toujours à charge d'appel, à quelque valeur que la demande puisse s'élever:
 
-1. Abrogé (
+1° Abrogé ([L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a589/jo))
 
-   [L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a589/jo))
-2. des actions en bornage et de celles relatives à la distance prescrite par les lois, les règlements particuliers et l'usage des lieux, pour les plantations d'arbres ou de haies;
-3. des entreprises commises dans l'année sur les cours d'eau servant à l'irrigation des propriétés et au mouvement des usines et moulins, sans préjudice des attributions de l'autorité administrative, dans les cas déterminés par les lois et règlements;
-4. des actions possessoires en complainte, dénonciation de nouvel oeuvre et réintégrande, sous réserve que le possessoire et le pétitoire ne seront point cumulés;
-5. (
+2° des actions en bornage et de celles relatives à la distance prescrite par les lois, les règlements particuliers et l'usage des lieux, pour les plantations d'arbres ou de haies;
 
-   [L. 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n4/jo)) de toutes autres contestations relatives à l'application des [articles 637 à 710 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
-6. abrogé (
+3° des entreprises commises dans l'année sur les cours d'eau servant à l'irrigation des propriétés et au mouvement des usines et moulins, sans préjudice des attributions de l'autorité administrative, dans les cas déterminés par les lois et règlements;
 
-   [L. 8 janvier 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/01/08/n1/jo)).
+4° des actions possessoires en complainte, dénonciation de nouvel oeuvre et réintégrande, sous réserve que le possessoire et le pétitoire ne seront point cumulés;
+
+5° ([L. 9 août 1993](https://legilux.public.lu/eli/etat/leg/loi/1993/08/09/n4/jo)) de toutes autres contestations relatives à l'application des [articles 637 à 710 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
+
+6° abrogé ([L. 8 janvier 2013](https://legilux.public.lu/eli/etat/leg/loi/2013/01/08/n1/jo)).
 
 **Art. 5.**
 
@@ -289,9 +291,11 @@ Il ne peut être dérogé aux dispositions du présent article que par des conve
 
 En matière de succession, sont portées devant la juridiction du lieu où la succession s'est ouverte:
 
-1. les demandes entre héritiers jusqu'au partage définitif;
-2. les demandes intentées par les créanciers du défunt avant le partage;
-3. les demandes relatives à l'exécution des dispositions à cause de mort jusqu'au partage définitif.
+1° les demandes entre héritiers jusqu'au partage définitif;
+
+2° les demandes intentées par les créanciers du défunt avant le partage;
+
+3° les demandes relatives à l'exécution des dispositions à cause de mort jusqu'au partage définitif.
 
 **Art. 40.**
 
@@ -353,9 +357,11 @@ Lorsque le lieu de travail s'étend sur tout le territoire du Grand-Duché, est 
 
 ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Sont compétents pour statuer sur une demande d’injonction de payer européenne, visée à l’article 7 du règlement (CE) N° 1896/2006 du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d’injonction de payer:
 
-1. Le président du tribunal d’arrondissement, ou le juge qui le remplace, lorsque la demande dépasse la valeur de 15 000 euros ;
-2. Le juge de paix, lorsque la demande est d’une valeur jusqu’à 15 000 euros ;
-3. Le président du tribunal du travail, ou le juge qui le remplace, indépendamment du montant de la demande, pour les contestations visées à l’article 25.
+1\. Le président du tribunal d’arrondissement, ou le juge qui le remplace, lorsque la demande dépasse la valeur de 15 000 euros ;
+
+2\. Le juge de paix, lorsque la demande est d’une valeur jusqu’à 15 000 euros ;
+
+3\. Le président du tribunal du travail, ou le juge qui le remplace, indépendamment du montant de la demande, pour les contestations visées à l’article 25.
 
 ###### Art. 49-1 — ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n1/jo))
 
@@ -367,9 +373,11 @@ Lorsque le lieu de travail s'étend sur tout le territoire du Grand-Duché, est 
 
 ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n1/jo)) Sont compétents pour statuer sur l’opposition et la demande en réexamen:
 
-1. le tribunal d’arrondissement, lorsque l’injonction de payer européenne a été délivrée par le président du tribunal d’arrondissement, ou par le juge qui le remplace;
-2. le juge de paix directeur, ou le juge qui le remplace, lorsque l’injonction de payer européenne a été délivrée par un juge de paix;
-3. le tribunal du travail, lorsque l’injonction de payer européenne a été délivrée par le président du tribunal du travail, ou par le juge qui le remplace.
+1\. le tribunal d’arrondissement, lorsque l’injonction de payer européenne a été délivrée par le président du tribunal d’arrondissement, ou par le juge qui le remplace;
+
+2\. le juge de paix directeur, ou le juge qui le remplace, lorsque l’injonction de payer européenne a été délivrée par un juge de paix;
+
+3\. le tribunal du travail, lorsque l’injonction de payer européenne a été délivrée par le président du tribunal du travail, ou par le juge qui le remplace.
 
 ###### Art. 49-3 — ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n1/jo))
 
@@ -677,11 +685,15 @@ Lorsque la procédure est orale, les prétentions des parties ou la référence 
 
 Le greffier de la formation de jugement tient un registre où sont portés, pour chaque audience:
 
-- la date de l’audience,
-- le nom des juges et du greffier,
-- le nom des parties et la nature de l’affaire,
-- l’indication des parties qui comparaissent elles-mêmes dans les matières où la représentation n’est pas obligatoire,
-- le nom des personnes qui représentent ou assistent les parties à l’audience.
+aash la date de l’audience,
+
+bash le nom des juges et du greffier,
+
+cash le nom des parties et la nature de l’affaire,
+
+dash l’indication des parties qui comparaissent elles-mêmes dans les matières où la représentation n’est pas obligatoire,
+
+eash le nom des personnes qui représentent ou assistent les parties à l’audience.
 
 Le greffier y mentionne également le caractère public ou non de l’audience, les incidents d’audience et les décisions prises sur ces incidents.
 
@@ -695,10 +707,13 @@ L’indication des jugements prononcés est portée sur le registre qui est sign
 
 ([L. 11 août 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/08/11/n1/jo)) La citation contient, à peine de nullité, outre les mentions prescrites à l’article 153:
 
-1. les lieu, jour et heure de l’audience à laquelle l’affaire paraîtra,
-2. l’objet et un exposé sommaire des moyens,
-3. l’indication pour le défendeur cité à personne que, faute de comparaître, le jugement à intervenir est réputé contradictoire et n’est plus susceptible d’opposition,
-4. si le demandeur réside à l’étranger, les nom, prénoms et adresse de la personne auprès de laquelle il élit domicile.
+1° les lieu, jour et heure de l’audience à laquelle l’affaire paraîtra,
+
+2° l’objet et un exposé sommaire des moyens,
+
+3° l’indication pour le défendeur cité à personne que, faute de comparaître, le jugement à intervenir est réputé contradictoire et n’est plus susceptible d’opposition,
+
+4° si le demandeur réside à l’étranger, les nom, prénoms et adresse de la personne auprès de laquelle il élit domicile.
 
 L’acte introductif d’instance mentionne en outre les conditions dans lesquelles le défendeur peut se faire assister ou représenter, ainsi que, s’il y a lieu, le nom du représentant du demandeur.
 
@@ -748,13 +763,15 @@ Ils pourront donner audience chez eux, en tenant les portes ouvertes.
 
 (2) Les parties peuvent se faire assister ou représenter par:
 
-- un avocat,
-- (
+– un avocat,
 
-  [L. 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo)) leur conjoint ou leur partenaire au sens de la [loi du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats,
-- leurs parents ou alliés en ligne directe,
-- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus,
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
+– ([L. 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo)) leur conjoint ou leur partenaire au sens de la [loi du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats,
+
+– leurs parents ou alliés en ligne directe,
+
+– leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus,
+
+– les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
 
 Le représentant s'il n'est avocat doit justifier d'un pouvoir spécial.
 
@@ -852,11 +869,15 @@ Les mesures d'instruction sont ordonnées et effectuées conformément aux dispo
 
 Les juges de paix pourront être récusés:
 
-1. quand ils auront intérêt personnel à la contestation;
-2. quand ils seront parents ou alliés d'une des parties, jusqu'au degré de cousin germain inclusivement;
-3. si, dans l'année qui a précédé la récusation, il y a eu procès criminel entre eux et l'une des parties ou son conjoint, ou ses parents et alliés en ligne directe;
-4. s'il y a procès civil existant entre eux et l'une des parties, ou son conjoint;
-5. s'ils ont donné un avis écrit dans l'affaire.
+1° quand ils auront intérêt personnel à la contestation;
+
+2° quand ils seront parents ou alliés d'une des parties, jusqu'au degré de cousin germain inclusivement;
+
+3° si, dans l'année qui a précédé la récusation, il y a eu procès criminel entre eux et l'une des parties ou son conjoint, ou ses parents et alliés en ligne directe;
+
+4° s'il y a procès civil existant entre eux et l'une des parties, ou son conjoint;
+
+5° s'ils ont donné un avis écrit dans l'affaire.
 
 ##### Art. 126.
 
@@ -886,9 +907,11 @@ La demande sera formée au greffe, par une simple déclaration verbale ou écrit
 
 La déclaration contiendra, sous peine de nullité:
 
-1. les noms, prénoms, professions et domiciles ou résidences des parties demanderesse et défenderesse;
-2. les causes et le montant de la créance;
-3. la demande en obtention d'une ordonnance conditionnelle de paiement.
+1° les noms, prénoms, professions et domiciles ou résidences des parties demanderesse et défenderesse;
+
+2° les causes et le montant de la créance;
+
+3° la demande en obtention d'une ordonnance conditionnelle de paiement.
 
 A l'appui de la demande il sera joint tous documents de nature à justifier de l'existence et du montant de la créance et à en établir le bien-fondé.
 
@@ -902,8 +925,9 @@ L'ordonnance de rejet sera inscrite dans le registre à la suite de la demande.
 
 ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) S'il est fait droit à la demande, l'ordonnance conditionnelle contiendra:
 
-1. les indications prévues à l'article 131 ci-dessus ;
-2. l'ordre de payer entre les mains du créancier, dans les trente jours de la notification de l'ordonnance, le principal, les intérêts et les frais, sinon de former contredit dans le même délai au greffe, sous peine de voir ordonner l'exécution de ladite ordonnance.
+1° les indications prévues à l'article 131 ci-dessus ;
+
+2° l'ordre de payer entre les mains du créancier, dans les trente jours de la notification de l'ordonnance, le principal, les intérêts et les frais, sinon de former contredit dans le même délai au greffe, sous peine de voir ordonner l'exécution de ladite ordonnance.
 
 Cette ordonnance sera délivrée sur papier libre et notifiée au débiteur avec la copie de la demande.
 
@@ -977,10 +1001,13 @@ L'ordonnance rendue exécutoire sera enregistrée au droit de condamnation; elle
 
 ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Pour l’exécution des dispositions qui précèdent, il sera tenu au greffe de chaque justice de paix un registre, sur papier non timbré et sur lequel seront inscrits :
 
-1. les déclarations faites par les parties ou leurs mandataires, conformément aux articles 131 et 135 ;
-2. l’ordonnance visée aux articles 132 et 133, ainsi qu’à l’alinéa 4 de l’article 139 ;
-3. les jugements visés à l’article 138 ;
-4. la mention des lettres recommandées envoyées par le greffier aux parties relatives aux notifications et avis que comporte la procédure.
+1° les déclarations faites par les parties ou leurs mandataires, conformément aux articles 131 et 135 ;
+
+2° l’ordonnance visée aux articles 132 et 133, ainsi qu’à l’alinéa 4 de l’article 139 ;
+
+3° les jugements visés à l’article 138 ;
+
+4° la mention des lettres recommandées envoyées par le greffier aux parties relatives aux notifications et avis que comporte la procédure.
 
 Toutefois, en ce qui concerne les déclarations et mentions autres que celles visées à l'article 131, la tenue du registre pourra être remplacée par celle d'un fichier à feuilles mobiles.
 
@@ -1084,29 +1111,35 @@ En toutes instances, y compris celle de cassation, les lettres recommandées bé
 
 ([L. 11 août 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/08/11/n1/jo)) Tout acte d’huissier de justice indique à peine de nullité, indépendamment des mentions prescrites par ailleurs:
 
-1. sa date;
-2. 1. si le requérant est une personne physique: ses nom, prénoms, profession et domicile,
-   2. si le requérant est une personne morale: sa forme, sa dénomination et son siège social.
+1\) sa date;
 
-      Au cas où le requérant est inscrit au registre de commerce, l’indication du numéro sous lequel il est inscrit lorsque l’action trouve sa cause dans un acte de commerce;
-3. les nom, prénoms, demeure et signature de l’huissier de justice;
-4. les nom, prénoms, profession et domicile du destinataire;
-5. les formalités de la signification de l’acte.
+2\) a) si le requérant est une personne physique: ses nom, prénoms, profession et domicile,
+
+b) si le requérant est une personne morale: sa forme, sa dénomination et son siège social. <br> Au cas où le requérant est inscrit au registre de commerce, l’indication du numéro sous lequel il est inscrit lorsque l’action trouve sa cause dans un acte de commerce;
+
+3\) les nom, prénoms, demeure et signature de l’huissier de justice;
+
+4\) les nom, prénoms, profession et domicile du destinataire;
+
+5\) les formalités de la signification de l’acte.
 
 ##### Art. 154.
 
 ([L. 11 août 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/08/11/n1/jo)) Outre les mentions de l’article 153, l’assignation doit contenir:
 
-1. l’objet et un exposé sommaire des moyens,
-2. l’indication de la juridiction qui doit connaître de la demande et du délai pour comparaître,
-3. les mentions prescrites par les articles 80, 193 et 585
+1\) l’objet et un exposé sommaire des moyens,
+
+2\) l’indication de la juridiction qui doit connaître de la demande et du délai pour comparaître,
+
+3\) les mentions prescrites par les articles 80, 193 et 585
 
 le tout à peine de nullité.
 
 Elle comprend aussi:
 
-- en matière immobilière le numéro cadastral ou à défaut les indications utiles à la désignation des immeubles,
-- l’indication des pièces sur lesquelles la demande est fondée.
+aash en matière immobilière le numéro cadastral ou à défaut les indications utiles à la désignation des immeubles,
+
+bash l’indication des pièces sur lesquelles la demande est fondée.
 
 L’assignation vaut conclusions.
 
@@ -1144,14 +1177,17 @@ La signification est réputée faite le jour de ce dépôt. Le même jour ou au 
 
 (3) Lorsqu'un acte introductif d'instance ou un acte équivalent a dû être transmis à l'étranger aux fins de signification et que le défendeur ne comparaît pas, le juge est tenu de surseoir à statuer aussi longtemps qu'il n'est pas établi:
 
-1. ou bien que l'acte a été signifié selon les formes prescrites par la législation de l'Etat requis pour la signification des actes dressés dans ce pays et qui sont destinés aux personnes se trouvant sur son territoire,
-2. ou bien que l'acte a été effectivement remis au défendeur et que dans chacune de ces éventualités, soit la signification, soit la remise a eu lieu en temps utile pour que le défendeur ait pu se défendre.
+a) ou bien que l'acte a été signifié selon les formes prescrites par la législation de l'Etat requis pour la signification des actes dressés dans ce pays et qui sont destinés aux personnes se trouvant sur son territoire,
+
+b) ou bien que l'acte a été effectivement remis au défendeur et que dans chacune de ces éventualités, soit la signification, soit la remise a eu lieu en temps utile pour que le défendeur ait pu se défendre.
 
 (4) Nonobstant les dispositions du paragraphe qui précède, le juge peut statuer si les conditions suivantes sont réunies, bien qu'aucune attestation constatant soit la signification, soit la remise n'ait été reçue:
 
-1. l'acte a été transmis selon un des modes prévus par une convention internationale ou selon un des modes prévus au paragraphe (1 ) du présent article;
-2. un délai que le juge apprécie dans chaque cas particulier s'est écoulé depuis la date d'envoi de l'acte ;
-3. nonobstant les diligences utiles auprès des autorités ou services compétents de l'Etat requis, aucune attestation n'a pu être obtenue.
+a) l'acte a été transmis selon un des modes prévus par une convention internationale ou selon un des modes prévus au paragraphe (1 ) du présent article;
+
+b) un délai que le juge apprécie dans chaque cas particulier s'est écoulé depuis la date d'envoi de l'acte ;
+
+c) nonobstant les diligences utiles auprès des autorités ou services compétents de l'Etat requis, aucune attestation n'a pu être obtenue.
 
 (5) Les dispositions contenues dans les deux paragraphes qui précèdent ne font pas obstacle à ce qu'en cas d'urgence, le juge ordonne toutes mesures provisoires ou conservatoires et qu'il prononce, conformément aux articles afférents, l'exécution provisoire avec ou sans caution de ces mesures.
 
@@ -1199,19 +1235,25 @@ Les dispositions qui précèdent sont applicables au cas où un acte a été sig
 
 ([Règl. g.-d. 15 mai 1991](https://legilux.public.lu/eli/etat/leg/rgd/1991/05/15/n1/jo)) Sont assignés:
 
-1. l'Etat, en la personne du Ministre d'Etat;
-2. les établissements publics, en la personne ou l'organe qualifié pour les représenter en justice;
-3. les communes, en la personne du bourgmestre;
-4. les sociétés, associations sans but lucratif et établissements d'utilité publique, en la personne ou l'organe qualifié pour les représenter en justice.
+1° l'Etat, en la personne du Ministre d'Etat;
+
+2° les établissements publics, en la personne ou l'organe qualifié pour les représenter en justice;
+
+3° les communes, en la personne du bourgmestre;
+
+4° les sociétés, associations sans but lucratif et établissements d'utilité publique, en la personne ou l'organe qualifié pour les représenter en justice.
 
 ##### Art. 164.
 
 ([Règl. g.-d. 15 mai 1991](https://legilux.public.lu/eli/etat/leg/rgd/1991/05/15/n1/jo)) Les significations sont faites:
 
-1. à l'Etat, au siège du Ministère d'Etat;
-2. aux établissements publics, au lieu de leur siège;
-3. aux communes, à la maison communale;
-4. aux sociétés, associations sans but lucratif et établissements d'utilité publique, soit à leur siège social, soit à la personne qui assure la gestion.
+1° à l'Etat, au siège du Ministère d'Etat;
+
+2° aux établissements publics, au lieu de leur siège;
+
+3° aux communes, à la maison communale;
+
+4° aux sociétés, associations sans but lucratif et établissements d'utilité publique, soit à leur siège social, soit à la personne qui assure la gestion.
 
 ##### Art. 165.
 
@@ -1225,12 +1267,15 @@ Si un exploit est déclaré nul par le fait de l'huissier, il pourra être conda
 
 ([L. 25 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n8/jo)) ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n1/jo)) Si celui qui est assigné demeure hors du Grand-Duché, le délai est augmenté de:
 
-1. quinze jours pour ceux qui demeurent:
+1° quinze jours pour ceux qui demeurent:
 
-   - dans un territoire, situé en Europe, d'un pays membre de l'Union européenne ou de l'Association européenne de libre échange;
-   - à Andorre, à Gibraltar, à Monaco, à Saint-Marin, dans l'Etat de la Cité du Vatican, aux îles Aland, aux îles Anglo-Normandes, aux îles Féroé ou à l'île de Man,
-2. vingt-cinq jours pour ceux qui demeurent dans un autre pays d'Europe, y non compris la Turquie et la Russie;
-3. trente-cinq jours pour ceux qui demeurent dans un autre pays ou territoire du monde.
+aash dans un territoire, situé en Europe, d'un pays membre de l'Union européenne ou de l'Association européenne de libre échange;
+
+bash à Andorre, à Gibraltar, à Monaco, à Saint-Marin, dans l'Etat de la Cité du Vatican, aux îles Aland, aux îles Anglo-Normandes, aux îles Féroé ou à l'île de Man,
+
+2° vingt-cinq jours pour ceux qui demeurent dans un autre pays d'Europe, y non compris la Turquie et la Russie;
+
+3° trente-cinq jours pour ceux qui demeurent dans un autre pays ou territoire du monde.
 
 ##### Art. 168.
 
@@ -1268,8 +1313,9 @@ La constitution de l‘avocat par le défendeur ou par toute personne qui devien
 
 Cet acte indique:
 
-1. si le défendeur est une personne physique, ses nom, prénoms, profession et domicile;
-2. si le défendeur est une personne morale, sa forme, sa dénomination et son siège social.
+a) si le défendeur est une personne physique, ses nom, prénoms, profession et domicile;
+
+b) si le défendeur est une personne morale, sa forme, sa dénomination et son siège social.
 
 ##### Art. 172.
 
@@ -1341,11 +1387,15 @@ Les injonctions doivent toujours donner lieu à la délivrance d’un bulletin.
 
 ([L. 25 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n8/jo)) Seront communiquées au procureur d’Etat les causes suivantes:
 
-1. celles qui concernent l'ordre public;
-2. celles qui concernent l'état des personnes, à l'exception des causes de divorce et de séparation de corps, et celles qui sont relatives à l'organisation de la tutelle des mineurs, à l'ouverture, à la modification ou à la mainlevée des tutelles ou curatelles des majeurs ainsi qu'à la sauvegarde de justice;
-3. les règlements de juge, les récusations et renvois;
-4. les prises à partie;
-5. les causes concernant ou intéressant les personnes présumées absentes.
+1\) celles qui concernent l'ordre public;
+
+2\) celles qui concernent l'état des personnes, à l'exception des causes de divorce et de séparation de corps, et celles qui sont relatives à l'organisation de la tutelle des mineurs, à l'ouverture, à la modification ou à la mainlevée des tutelles ou curatelles des majeurs ainsi qu'à la sauvegarde de justice;
+
+3\) les règlements de juge, les récusations et renvois;
+
+4\) les prises à partie;
+
+5\) les causes concernant ou intéressant les personnes présumées absentes.
 
 Le procureur d'Etat pourra néanmoins prendre communication de toutes les autres causes dans lesquelles il croira son ministère nécessaire; le tribunal pourra même l'ordonner d'office. Si la cause est communiquée, le procureur d'Etat fait connaître ses conclusions soit oralement à l'audience soit par écrit au tribunal, les conclusions écrites étant communiquées aux parties avant l'ordonnance de clôture visée par les articles 223 et suivants.
 
@@ -1399,8 +1449,9 @@ Les parties sont, sauf disposition contraire, tenues de constituer avocat. Cette
 
 Outre les mentions prescrites à l’article 153 et à l’article 154, l’assignation contient à peine de nullité:
 
-1. la constitution de l’avocat du demandeur,
-2. le délai dans lequel le défendeur est tenu de constituer avocat.
+1\) la constitution de l’avocat du demandeur,
+
+2\) le délai dans lequel le défendeur est tenu de constituer avocat.
 
 ###### Art. 194.
 
@@ -1518,8 +1569,9 @@ Le juge de la mise en état exerce tous les pouvoirs nécessaires à la communic
 
 ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu’à son dessaisissement, seul compétent, à l’exclusion de toute autre formation du tribunal, pour :
 
-1. statuer sur les moyens d’incompétence, de nullité et les exceptions dilatoires ; à l’exception des moyens d’ordre public, les parties soulèvent ces moyens dès leurs premières conclusions ou dès leur révélation s'ils devaient se révéler postérieurement à leurs premières conclusions. Après présentation d’un tel moyen, chacune des parties à l’instance prend position deux fois au plus sur ce moyen, la présentation du moyen valant conclusions, avant que le juge de la mise en état ne statue,
-2. ordonner, même d’office, toute mesure d’instruction.
+a) statuer sur les moyens d’incompétence, de nullité et les exceptions dilatoires ; à l’exception des moyens d’ordre public, les parties soulèvent ces moyens dès leurs premières conclusions ou dès leur révélation s'ils devaient se révéler postérieurement à leurs premières conclusions. Après présentation d’un tel moyen, chacune des parties à l’instance prend position deux fois au plus sur ce moyen, la présentation du moyen valant conclusions, avant que le juge de la mise en état ne statue,
+
+b) ordonner, même d’office, toute mesure d’instruction.
 
 Toutefois, dans les cas prévus aux alinéas qui précèdent, le juge de la mise en état peut, dans l’intérêt de l’instruction de l’affaire, ordonner d’office ou sur demande motivée d’une des parties, la production de conclusions supplémentaires sur les moyens qu’il précise. Dans ce cas, il fixe dans son ordonnance les délais respectifs impartis à chaque partie. Cette ordonnance motivée n’est pas susceptible de recours.
 
@@ -1777,9 +1829,11 @@ Le défendeur peut requérir que caution soit fournie, même pour la première f
 
 (2) Aucune caution pour le paiement des frais et dommages-intérêts résultant d’un procès ne peut être exigée des personnes, physiques ou morales, qui ont leur domicile ou leur résidence sur le territoire:
 
-- d’un Etat membre de l’Union européenne,
-- d’un Etat membre du Conseil de l’Europe, ou
-- d’un Etat avec lequel le Luxembourg est lié par une convention internationale qui stipule la dispense d’une telle caution.
+– d’un Etat membre de l’Union européenne,
+
+– d’un Etat membre du Conseil de l’Europe, ou
+
+– d’un Etat avec lequel le Luxembourg est lié par une convention internationale qui stipule la dispense d’une telle caution.
 
 ###### Art. 258 — ([L. 13 mars 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/03/13/n1/jo))
 
@@ -1789,11 +1843,11 @@ Il peut aussi remplacer la caution par toute autre sûreté.
 
 (2) Le demandeur est dispensé de fournir la caution:
 
-- s’il consigne la somme fixée,
-- s’il justifie que ses immeubles, situés au Luxembourg, sont suffisants pour assurer le paiement des frais et dommages-intérêts résultant du procès, ou
-- s’il fournit un gage conformément à l’
+– s’il consigne la somme fixée,
 
-  [article 2041 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
+– s’il justifie que ses immeubles, situés au Luxembourg, sont suffisants pour assurer le paiement des frais et dommages-intérêts résultant du procès, ou
+
+– s’il fournit un gage conformément à l’ [article 2041 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil).
 
 (3) Au cours de l’instance, à la demande d’une partie, le tribunal peut modifier l’importance de la somme ou la nature de la sûreté fournie.
 
@@ -1985,8 +2039,9 @@ Au jour indiqué par l'ordonnance du juge-commissaire, et sur la sommation de la
 
 Si les parties ne s'accordent pas sur les pièces de comparaison, le juge ne pourra recevoir comme telles:
 
-1. que les signatures apposées aux actes par devant notaires, ou celles apposées aux actes judiciaires, en présence du juge et du greffier, ou enfin les pièces écrites et signées par celui dont il s'agit de comparer l'écriture, en qualité de juge, greffier, notaire, avoué, huissier, ou comme faisant, à tout autre titre, fonction de personne publique;
-2. les écritures et signatures privées, reconnues par celui à qui est attribuée la pièce à vérifier mais non celles déniées ou non reconnues par lui, encore qu'elles eussent été précédemment vérifiées et reconnues être de lui.
+1° que les signatures apposées aux actes par devant notaires, ou celles apposées aux actes judiciaires, en présence du juge et du greffier, ou enfin les pièces écrites et signées par celui dont il s'agit de comparer l'écriture, en qualité de juge, greffier, notaire, avoué, huissier, ou comme faisant, à tout autre titre, fonction de personne publique;
+
+2° les écritures et signatures privées, reconnues par celui à qui est attribuée la pièce à vérifier mais non celles déniées ou non reconnues par lui, encore qu'elles eussent été précédemment vérifiées et reconnues être de lui.
 
 Si la dénégation ou méconnaissance ne porte que sur partie de la pièce à vérifier, le juge pourra ordonner que le surplus de ladite pièce servira de pièce de comparaison.
 
@@ -2148,13 +2203,13 @@ Si les témoins représentent quelques pièces lors de leur déposition, elles y
 
 La preuve par expert se fera en la forme suivante:
 
-1. Les pièces de comparaison seront convenues entre les parties ou indiquées par le juge, ainsi qu'il est dit à l'
+1° Les pièces de comparaison seront convenues entre les parties ou indiquées par le juge, ainsi qu'il est dit à l' [article 296](https://legilux.public.lu/eli/etat/leg/code/procedure_civile/art_296).
 
-   [article 296](https://legilux.public.lu/eli/etat/leg/code/procedure_civile/art_296).
-2. Seront remis aux experts, le jugement qui aura admis l'inscription du faux; les pièces prétendues fausses; le procès-verbal de l'état d'icelles; le jugement qui aura admis les moyens de faux et ordonné le rapport d'experts; les pièces de comparaison, lorsqu'il en aura été fourni; le procès-verbal de présentation d'icelles, et le jugement par lequel elles auront été reçues: les experts mentionneront dans leur rapport la remise de toutes les pièces susdites, et l'examen auquel ils auront procédé, sans pouvoir en dresser aucun procès-verbal; ils parapheront les pièces prétendues fausses.
+2° Seront remis aux experts, le jugement qui aura admis l'inscription du faux; les pièces prétendues fausses; le procès-verbal de l'état d'icelles; le jugement qui aura admis les moyens de faux et ordonné le rapport d'experts; les pièces de comparaison, lorsqu'il en aura été fourni; le procès-verbal de présentation d'icelles, et le jugement par lequel elles auront été reçues: les experts mentionneront dans leur rapport la remise de toutes les pièces susdites, et l'examen auquel ils auront procédé, sans pouvoir en dresser aucun procès-verbal; ils parapheront les pièces prétendues fausses.
 
-   Dans le cas où les témoins auraient joint des pièces à leur déposition, la partie pourra requérir et le juge-commissaire ordonner qu'elles seront représentées aux experts.
-3. Seront, au surplus, observées audit rapport les règles prescrites au titre «De la vérification des écritures».
+Dans le cas où les témoins auraient joint des pièces à leur déposition, la partie pourra requérir et le juge-commissaire ordonner qu'elles seront représentées aux experts.
+
+3° Seront, au surplus, observées audit rapport les règles prescrites au titre «De la vérification des écritures».
 
 ##### Art. 333.
 
@@ -2874,10 +2929,13 @@ Il n'est désigné qu'une seule personne à titre d'expert à moins que le juge 
 
 La décision qui ordonne l'expertise:
 
-- Expose les circonstances qui rendent nécessaire l'expertise et, s'il y a lieu, la nomination de plusieurs experts;
-- Nomme l'expert ou les experts;
-- Enonce les chefs de la mission de l'expert;
-- Impartit le délai dans lequel l'expert devra donner son avis.
+– Expose les circonstances qui rendent nécessaire l'expertise et, s'il y a lieu, la nomination de plusieurs experts;
+
+– Nomme l'expert ou les experts;
+
+– Enonce les chefs de la mission de l'expert;
+
+– Impartit le délai dans lequel l'expert devra donner son avis.
 
 **Art. 464.**
 
@@ -3139,9 +3197,11 @@ Le renvoi sera proposé par acte au greffe, lequel contiendra les moyens, et ser
 
 Sur l'expédition dudit acte, présentée avec les pièces justificatives, il sera rendu jugement qui ordonnera:
 
-1. la communication aux juges à raison desquels le renvoi est demandé, pour faire, dans un délai fixe, leur déclaration au bas de l'expédition du jugement;
-2. la communication au ministère public;
-3. le rapport, à jour indiqué, par l'un des juges nommé par ledit jugement.
+1° la communication aux juges à raison desquels le renvoi est demandé, pour faire, dans un délai fixe, leur déclaration au bas de l'expédition du jugement;
+
+2° la communication au ministère public;
+
+3° le rapport, à jour indiqué, par l'un des juges nommé par ledit jugement.
 
 ##### Art. 515.
 
@@ -3173,17 +3233,25 @@ Sont applicables audit appel, les dispositions des articles 535, 536, 537 et 538
 
 ([L. 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n1/jo)) Tout juge peut être récusé pour les causes ci-après:
 
-1. s’il est parent ou allié des parties, ou de l’une d’elles, jusqu’au degré de cousin issu de germain inclusivement;
-2. si le conjoint ou le partenaire, au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats, du juge est parent ou allié de l’une des parties, ou si le juge est parent ou allié du conjoint ou du partenaire d’une des parties, au degré ci-dessus, lorsque le conjoint ou le partenaire est vivant, ou qu’étant décédé, il en existe des enfants; s’il est décédé et qu’il n’y ait point d’enfants, ni les beaux-parents, ni le gendre, ni la bru, ni les beaux-frères ni les belles-sœurs pourront être juges;
+1° s’il est parent ou allié des parties, ou de l’une d’elles, jusqu’au degré de cousin issu de germain inclusivement;
 
-   La disposition relative au conjoint ou au partenaire décédé s’applique au conjoint divorcé ou au partenaire en cas de fin de partenariat, s’il existe des enfants du mariage dissous ou du partenariat ayant pris fin;
-3. si le juge, son conjoint, leurs ascendants et descendants ou alliés dans la même ligne, ont un différend sur pareille question que celle dont il s’agit entre les parties;
-4. s’ils ont un procès en leur nom dans un tribunal où l’une des parties sera juge; s’ils sont créanciers ou débiteurs d’une des parties;
-5. si, dans les cinq ans qui ont précédé la récusation, il y a eu procès criminel entre eux et l’une des parties, ou son conjoint ou ses parents ou alliés en ligne directe;
-6. s’il y a procès civil entre le juge, son conjoint, leurs ascendants et descendants, ou alliés dans la même ligne, et l’une des parties, et que ce procès, s’il a été intenté par la partie, l’ait été avant l’instance dans laquelle la récusation est proposée; si ce procès étant terminé, il ne l’a été que dans les six mois précédant la récusation;
-7. si le juge est tuteur, subrogé-tuteur ou curateur, héritier présomptif, ou donataire, maître ou commensal de l’une des parties; s’il est administrateur de quelque établissement, société ou direction, partie dans la cause; si l’une des parties est sa présomptive héritière;
-8. si le juge a donné conseil, plaidé ou écrit sur le différend; s’il en a précédemment connu comme juge ou comme arbitre; s’il a sollicité, recommandé ou fourni aux frais du procès; s’il a déposé comme témoin; si depuis le commencement du procès il a bu ou mangé avec l’une ou l’autre des parties dans leur maison, ou reçu d’elle des présents;
-9. s’il y a inimité capitale entre lui et l’une des parties; s’il y a eu, de sa part, agressions, injures ou menaces, verbalement ou par écrit, depuis l’instance ou dans les six mois précédant la récusation proposée.
+2° si le conjoint ou le partenaire, au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats, du juge est parent ou allié de l’une des parties, ou si le juge est parent ou allié du conjoint ou du partenaire d’une des parties, au degré ci-dessus, lorsque le conjoint ou le partenaire est vivant, ou qu’étant décédé, il en existe des enfants; s’il est décédé et qu’il n’y ait point d’enfants, ni les beaux-parents, ni le gendre, ni la bru, ni les beaux-frères ni les belles-sœurs pourront être juges;
+
+La disposition relative au conjoint ou au partenaire décédé s’applique au conjoint divorcé ou au partenaire en cas de fin de partenariat, s’il existe des enfants du mariage dissous ou du partenariat ayant pris fin;
+
+3° si le juge, son conjoint, leurs ascendants et descendants ou alliés dans la même ligne, ont un différend sur pareille question que celle dont il s’agit entre les parties;
+
+4° s’ils ont un procès en leur nom dans un tribunal où l’une des parties sera juge; s’ils sont créanciers ou débiteurs d’une des parties;
+
+5° si, dans les cinq ans qui ont précédé la récusation, il y a eu procès criminel entre eux et l’une des parties, ou son conjoint ou ses parents ou alliés en ligne directe;
+
+6° s’il y a procès civil entre le juge, son conjoint, leurs ascendants et descendants, ou alliés dans la même ligne, et l’une des parties, et que ce procès, s’il a été intenté par la partie, l’ait été avant l’instance dans laquelle la récusation est proposée; si ce procès étant terminé, il ne l’a été que dans les six mois précédant la récusation;
+
+7° si le juge est tuteur, subrogé-tuteur ou curateur, héritier présomptif, ou donataire, maître ou commensal de l’une des parties; s’il est administrateur de quelque établissement, société ou direction, partie dans la cause; si l’une des parties est sa présomptive héritière;
+
+8° si le juge a donné conseil, plaidé ou écrit sur le différend; s’il en a précédemment connu comme juge ou comme arbitre; s’il a sollicité, recommandé ou fourni aux frais du procès; s’il a déposé comme témoin; si depuis le commencement du procès il a bu ou mangé avec l’une ou l’autre des parties dans leur maison, ou reçu d’elle des présents;
+
+9° s’il y a inimité capitale entre lui et l’une des parties; s’il y a eu, de sa part, agressions, injures ou menaces, verbalement ou par écrit, depuis l’instance ou dans les six mois précédant la récusation proposée.
 
 ##### Art. 522.
 
@@ -3205,9 +3273,11 @@ Les causes de récusation relatives aux juges sont applicables au ministère pub
 
 ([Règl. g.-d. 9 décembre 1983](https://legilux.public.lu/eli/etat/leg/rgd/1983/12/09/n1/jo)) La récusation contre les juges commis aux descentes, enquêtes et autres opérations, ne pourra être proposée que dans les trois jours qui courront:
 
-1. si le jugement est contradictoire, du jour du jugement;
-2. si le jugement est par défaut et qu'il n'y ait pas d'opposition, du jour de l'expiration des quinze jours de l'opposition;
-3. si le jugement a été rendu par défaut et qu'il y ait eu opposition, du jour du débouté d'opposition, même par défaut.
+1° si le jugement est contradictoire, du jour du jugement;
+
+2° si le jugement est par défaut et qu'il n'y ait pas d'opposition, du jour de l'expiration des quinze jours de l'opposition;
+
+3° si le jugement a été rendu par défaut et qu'il y ait eu opposition, du jour du débouté d'opposition, même par défaut.
 
 ##### Art. 527.
 
@@ -3217,8 +3287,9 @@ La récusation sera proposée par un acte au greffe, qui en contiendra les moyen
 
 Sur l'expédition de l'acte de récusation, remise dans les vingt-quatre heures par le greffier au président du tribunal, il sera, sur le rapport du président et les conclusions du ministère public, rendu jugement qui, si la récusation est inadmissible, la rejettera; et si elle est admissible, ordonnera:
 
-1. la communication au juge récusé, pour s'expliquer en termes précis sur les faits dans le délai qui sera fixé par le jugement;
-2. la communication au ministère public, et indiquera le jour où le rapport sera fait par l'un des juges nommé par ledit jugement.
+1° la communication au juge récusé, pour s'expliquer en termes précis sur les faits dans le délai qui sera fixé par le jugement;
+
+2° la communication au ministère public, et indiquera le jour où le rapport sera fait par l'un des juges nommé par ledit jugement.
 
 ##### Art. 529.
 
@@ -3338,12 +3409,17 @@ Toutes assignations données à bord à la personne assignée seront valables.
 
 (2) ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Les parties peuvent se faire assister ou représenter par :
 
-- un avocat ;
-- leur conjoint ou leur partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
-- leurs parents ou alliés en ligne directe ;
-- leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus ;
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
-- Le représentant s’il n’est avocat doit justifier d’un pouvoir spécial.
+aone un avocat ;
+
+bone leur conjoint ou leur partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats ;
+
+cone leurs parents ou alliés en ligne directe ;
+
+done leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus ;
+
+eone les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
+
+fone Le représentant s’il n’est avocat doit justifier d’un pouvoir spécial.
 
 (3) ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Les greffiers et les huissiers ne pourront ni assister, ni représenter les parties, à peine d’une amende de 63 euros à 125 euros, qui sera prononcée, sans appel, par le juge de paix. Ces dispositions ne leur seront pas applicables dans les cas prévus par l’article 102, alinéa 2, de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire.
 
@@ -3507,9 +3583,11 @@ Les appels des jugements susceptibles d'opposition ne seront point recevables pe
 
 ([L. 11 août 1996](https://legilux.public.lu/eli/etat/leg/loi/1996/08/11/n1/jo)) Outre les mentions prescrites à l’article 153 et à l’article 154 l’appel contient à peine de nullité:
 
-1. la constitution de l’avocat de l’appelant,
-2. le délai de 15 jours dans lequel l’intimé est tenu de constituer avocat,
-3. l’indication du jugement ainsi que, le cas échéant, les chefs du jugement auxquels l’appel est limité.
+1\) la constitution de l’avocat de l’appelant,
+
+2\) le délai de 15 jours dans lequel l’intimé est tenu de constituer avocat,
+
+3\) l’indication du jugement ainsi que, le cas échéant, les chefs du jugement auxquels l’appel est limité.
 
 ###### Art. 586.
 
@@ -3699,18 +3777,25 @@ Dans les autres cas, les juges pourront, suivant les circonstances suspendre l'e
 
 Les jugements contradictoires rendus en dernier ressort par les tribunaux de première instance et d'appel, et les jugements par défaut rendus aussi en dernier ressort, et qui ne sont plus susceptibles d'opposition, pourront être rétractés sur la requête de ceux qui y auront été parties ou dûment appelés, pour les causes ci-après:
 
-1. s'il y a eu dol personnel;
-2. si les formes prescrites à peine de nullité ont été violées, soit avant, soit lors des jugements, pourvu que la nullité n'ait pas été couverte par les parties;
-3. s'il a été prononcé sur choses non demandées;
-4. s'il a été adjugé plus qu'il n'a été demandé;
-5. s'il a été omis de prononcer sur l'un des chefs de demande;
-6. s'il y a contrariété de jugement en dernier ressort, entre les mêmes parties et sur les mêmes moyens, dans les mêmes cours ou tribunaux;
-7. abrogé (
+1° s'il y a eu dol personnel;
 
-   [L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo))
-8. si, dans les cas où la loi exige la communication au ministère public, cette communication n'a pas eu lieu, et que le jugement ait été contre celui pour qui elle était ordonnée;
-9. si l'on a jugé sur pièces reconnues ou déclarées fausses depuis le jugement;
-10. si, depuis le jugement, il a été recouvré des pièces décisives, et qui avaient été retenues par le fait de la partie.
+2° si les formes prescrites à peine de nullité ont été violées, soit avant, soit lors des jugements, pourvu que la nullité n'ait pas été couverte par les parties;
+
+3° s'il a été prononcé sur choses non demandées;
+
+4° s'il a été adjugé plus qu'il n'a été demandé;
+
+5° s'il a été omis de prononcer sur l'un des chefs de demande;
+
+6° s'il y a contrariété de jugement en dernier ressort, entre les mêmes parties et sur les mêmes moyens, dans les mêmes cours ou tribunaux;
+
+7° abrogé ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo))
+
+8° si, dans les cas où la loi exige la communication au ministère public, cette communication n'a pas eu lieu, et que le jugement ait été contre celui pour qui elle était ordonnée;
+
+9° si l'on a jugé sur pièces reconnues ou déclarées fausses depuis le jugement;
+
+10° si, depuis le jugement, il a été recouvré des pièces décisives, et qui avaient été retenues par le fait de la partie.
 
 ###### Art. 618.
 
@@ -3834,10 +3919,13 @@ Les demandes visées aux articles 638-1 et 638-2 sont portées à l'audience par
 
 Les juges peuvent être pris à partie dans les cas suivants:
 
-1. s'il y a dol, fraude ou concussion, qu'on prétendrait avoir été commis, soit dans le cours de l'instruction, soit lors des jugements;
-2. si la prise à partie est expressément prononcée par la loi;
-3. si la loi déclare les juges responsables, à peine de dommages et intérêts;
-4. s'il y a déni de justice.
+1° s'il y a dol, fraude ou concussion, qu'on prétendrait avoir été commis, soit dans le cours de l'instruction, soit lors des jugements;
+
+2° si la prise à partie est expressément prononcée par la loi;
+
+3° si la loi déclare les juges responsables, à peine de dommages et intérêts;
+
+4° s'il y a déni de justice.
 
 ##### Art. 640.
 
@@ -4035,16 +4123,17 @@ Si l'oyant est défaillant, le commissaire fera son rapport au jour par lui indi
 
 ([L. 16 décembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/12/16/n1/jo)) Les décisions judiciaires en matière civile et commerciale rendues dans un Etat étranger qui y sont exécutoires et qui aux termes notamment
 
-- de la Convention de Bruxelles du 27 septembre 1968 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale telle que modifiée par les conventions relatives à l'adhésion des nouveaux Etats membres à cette convention,
-- de la Convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale,
-- de la Convention du 29 juillet 1971 entre le Grand-Duché de Luxembourg et la République d'Autriche sur la reconnaissance et l'exécution des décisions judiciaires et des actes authentiques en matière civile et commerciale,
-- du Traité du 24 novembre 1961 entre la Belgique, les Pays-Bas et le Luxembourg sur la compétence judiciaire, sur la faillite, sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques pour autant qu'il soit en vigueur,
-- (
+aash de la Convention de Bruxelles du 27 septembre 1968 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale telle que modifiée par les conventions relatives à l'adhésion des nouveaux Etats membres à cette convention,
 
-  [L. 12 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/12/a557/jo)) de la Convention de La Haye du 2 octobre 1973 sur la reconnaissance et l'exécution des décisions relatives aux obligations alimentaires,
-- (
+bash de la Convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale,
 
-  [L. 12 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/12/a557/jo)) ou de la Convention de La Haye du 2 juillet 2019 sur la reconnaissance et l’exécution des jugements étrangers en matière civile ou commerciale,
+cash de la Convention du 29 juillet 1971 entre le Grand-Duché de Luxembourg et la République d'Autriche sur la reconnaissance et l'exécution des décisions judiciaires et des actes authentiques en matière civile et commerciale,
+
+dash du Traité du 24 novembre 1961 entre la Belgique, les Pays-Bas et le Luxembourg sur la compétence judiciaire, sur la faillite, sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques pour autant qu'il soit en vigueur,
+
+eash ([L. 12 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/12/a557/jo)) de la Convention de La Haye du 2 octobre 1973 sur la reconnaissance et l'exécution des décisions relatives aux obligations alimentaires,
+
+fash ([L. 12 décembre 2025](https://legilux.public.lu/eli/etat/leg/loi/2025/12/12/a557/jo)) ou de la Convention de La Haye du 2 juillet 2019 sur la reconnaissance et l’exécution des jugements étrangers en matière civile ou commerciale,
 
 remplissent les conditions pour être reconnues et exécutées au Luxembourg, sont rendues exécutoires dans les formes prévues par les dispositions des articles 680 à 685.
 
@@ -4322,10 +4411,13 @@ Les traitements et pensions dus par l'Etat ne pourront être saisis que pour la 
 
 Seront insaisissables:
 
-1. les choses déclarées insaisissables par la loi;
-2. les provisions alimentaires adjugées par justice;
-3. les sommes et objets disponibles déclarés insaisissables par le testateur ou donateur;
-4. les sommes et pensions pour aliments, encore que le testament ou l'acte de donation ne les déclare pas insaisissables.
+1° les choses déclarées insaisissables par la loi;
+
+2° les provisions alimentaires adjugées par justice;
+
+3° les sommes et objets disponibles déclarés insaisissables par le testateur ou donateur;
+
+4° les sommes et pensions pour aliments, encore que le testament ou l'acte de donation ne les déclare pas insaisissables.
 
 ##### Art. 718.
 
@@ -4337,11 +4429,15 @@ Les provisions alimentaires ne pourront être saisies que pour cause d'aliments:
 
 (1) Le créancier qui obtient un titre exécutoire constatant l’existence de sa créance pour le recouvrement de laquelle il a obtenu une ordonnance européenne de saisie conservatoire des comptes bancaires au sens du [règlement (UE) n° 655/2014](https://legilux.public.lu/eli/reg_ue/2014/655/jo) signifie au tiers saisi un acte de conversion qui contient à peine de nullité :
 
-1. une copie de la partie A de l’ordonnance européenne de saisie conservatoire des comptes bancaires ;
-2. les cas échéant copie de toute décision ayant modifié l’ordonnance ;
-3. une copie du titre exécutoire ;
-4. le décompte des sommes dues en vertu du titre exécutoire qui comprennent le montant principal, les frais, les intérêts échus avec l’indication du taux applicable ainsi que les accessoires éventuels dans les limites déterminées dans l’ordonnance européenne de saisie conservatoire ;
-5. une demande de paiement des sommes indiquées au point précédent.
+1° une copie de la partie A de l’ordonnance européenne de saisie conservatoire des comptes bancaires ;
+
+2° les cas échéant copie de toute décision ayant modifié l’ordonnance ;
+
+3° une copie du titre exécutoire ;
+
+4° le décompte des sommes dues en vertu du titre exécutoire qui comprennent le montant principal, les frais, les intérêts échus avec l’indication du taux applicable ainsi que les accessoires éventuels dans les limites déterminées dans l’ordonnance européenne de saisie conservatoire ;
+
+5° une demande de paiement des sommes indiquées au point précédent.
 
 L’acte informe le tiers saisi que, dans cette limite, la demande entraîne attribution immédiate de la créance saisie au profit du créancier.
 
@@ -4351,13 +4447,11 @@ L’acte informe le tiers saisi que, dans cette limite, la demande entraîne att
 
 La contestation peut être basée sur l’un des motifs suivants :
 
-1. l’inexactitude du décompte visé au point 4° du paragraphe 1
+1° l’inexactitude du décompte visé au point 4° du paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> ;
-2. la disparition ou la modification du titre exécutoire à l’origine de la procédure de conversion visé au point 3° du paragraphe 1
+2° la disparition ou la modification du titre exécutoire à l’origine de la procédure de conversion visé au point 3° du paragraphe 1 <sup>er</sup> ;
 
-   <sup>er</sup> ;
-3. la modification ou la révocation de l’ordonnance de saisie conservatoire, ainsi que la modification, la limitation ou la fin de l’exécution de l’ordonnance de saisie conservatoire, pour autant que la demande ayant pour objet une telle mesure ait été introduite avant la signification de l’acte de conversion ;
+3° la modification ou la révocation de l’ordonnance de saisie conservatoire, ainsi que la modification, la limitation ou la fin de l’exécution de l’ordonnance de saisie conservatoire, pour autant que la demande ayant pour objet une telle mesure ait été introduite avant la signification de l’acte de conversion ;
 
 Sous peine d’irrecevabilité, la contestation est dénoncée par le même exploit à l’huissier de justice qui a signifié l’acte de conversion ainsi qu’au tiers saisi.
 
@@ -4415,13 +4509,19 @@ Si le saisi est absent et qu'il y ait refus d'ouvrir aucune pièce ou meuble, l'
 
 (1) Ne peuvent être saisis, outre les choses déclarées insaisissables par des lois particulières:
 
-1. Les objets que la loi déclare immeubles par destination;
-2. le coucher nécessaire du saisi et de sa famille, les vêtements et le linge indispensable à leur propre usage, ainsi que les meubles nécessaires pour les ranger, une machine à laver le linge et un fer à repasser, les appareils nécessaires au chauffage du logement familial, les tables et chaises permettant à la famille de prendre les repas en commun ainsi que la vaisselle et les ustensiles de ménage indispensables à la famille, un meuble pour ranger la vaisselle et les ustensiles de ménage, un appareil pour la préparation des repas chauds, un appareil pour la conservation des aliments, un appareil d'éclairage par chambre habitée, les objets nécessaires aux membres handicapés de la famille, les objets affectés à l'usage des enfants à charge qui habitent sous le même toit, les animaux de compagnie, les objets et produits nécessaires aux soins corporels et à l'entretien des locaux, les outils nécessaires à l'entretien du jardin, le tout à l'exclusion des meubles et objets de luxe;
-3. les livres et autres objets nécessaires à la poursuite des études ou à la formation professionnelle du saisi ou des enfants à charge qui habitent sous le même toit;
-4. si ce n'est pour le paiement de leurs prix, les biens indispensables à la profession du saisi, jusqu'à la valeur de 2478,94 euros au moment de la saisie, et au choix du saisi;
-5. les objets servant à l'exercice du culte;
-6. les aliments et combustibles nécessaires au saisi et à sa famille pendant un mois;
-7. une vache, ou douze brebis ou chèvres au choix du saisi, ainsi qu'un porc et vingt‑quatre animaux de basse-cour avec la paille, le fourrage et le grain nécessaires pour la litière et la nourriture desdits animaux pendant un mois.
+1\) Les objets que la loi déclare immeubles par destination;
+
+2\) le coucher nécessaire du saisi et de sa famille, les vêtements et le linge indispensable à leur propre usage, ainsi que les meubles nécessaires pour les ranger, une machine à laver le linge et un fer à repasser, les appareils nécessaires au chauffage du logement familial, les tables et chaises permettant à la famille de prendre les repas en commun ainsi que la vaisselle et les ustensiles de ménage indispensables à la famille, un meuble pour ranger la vaisselle et les ustensiles de ménage, un appareil pour la préparation des repas chauds, un appareil pour la conservation des aliments, un appareil d'éclairage par chambre habitée, les objets nécessaires aux membres handicapés de la famille, les objets affectés à l'usage des enfants à charge qui habitent sous le même toit, les animaux de compagnie, les objets et produits nécessaires aux soins corporels et à l'entretien des locaux, les outils nécessaires à l'entretien du jardin, le tout à l'exclusion des meubles et objets de luxe;
+
+3\) les livres et autres objets nécessaires à la poursuite des études ou à la formation professionnelle du saisi ou des enfants à charge qui habitent sous le même toit;
+
+4\) si ce n'est pour le paiement de leurs prix, les biens indispensables à la profession du saisi, jusqu'à la valeur de 2478,94 euros au moment de la saisie, et au choix du saisi;
+
+5\) les objets servant à l'exercice du culte;
+
+6\) les aliments et combustibles nécessaires au saisi et à sa famille pendant un mois;
+
+7\) une vache, ou douze brebis ou chèvres au choix du saisi, ainsi qu'un porc et vingt‑quatre animaux de basse-cour avec la paille, le fourrage et le grain nécessaires pour la litière et la nourriture desdits animaux pendant un mois.
 
 (2) Les objets visés au point 2 paragraphe (1) restent saisissables s'ils se trouvent dans un lieu autre que celui où le saisi demeure ou travaille habituellement.
 
@@ -4655,10 +4755,13 @@ Extrait du cahier des charges, contenant les renseignements ci-dessus, sera remi
 
 Huitaine avant la remise du cahier des charges au greffe pareil extrait sera placardé,
 
-1. à la porte de la maison de la partie saisie,
-2. à celle du débiteur de la rente,
-3. à la principale porte du tribunal,
-4. et à la principale place du lieu où se poursuit la vente.
+1° à la porte de la maison de la partie saisie,
+
+2° à celle du débiteur de la rente,
+
+3° à la principale porte du tribunal,
+
+4° et à la principale place du lieu où se poursuit la vente.
 
 ##### Art. 782.
 
@@ -4790,11 +4893,15 @@ Si le créancier laisse écouler plus de cent quatre-vingts jours entre le jour 
 
 L'exploit par lequel le créancier notifie au débiteur qu'il saisit les immeubles, contiendra, outre les formalités ordinaires des exploits:
 
-1. l'énonciation du titre en vertu duquel la saisie est faite;
-2. l'indication des biens saisis, savoir: si c'est une maison, l'arrondissement, la commune, la rue où elle est située, et deux au moins des tenants ou aboutissants; si ce sont des biens ruraux, la désignation des bâtiments, la nature et la contenance approximative de chaque pièce, deux au moins des tenants et aboutissants, l'arrondissement et la commune où les biens sont situés;
-3. la copie littéraire de la matrice du rôle de la contribution foncière pour les articles saisis;
-4. l'indication du tribunal où la saisie sera portée;
-5. constitution d'avoué chez lequel le domicile du poursuivant sera élu de droit et où le débiteur pourra faire toutes les significations, même d'offres réelles et d'appel.
+1° l'énonciation du titre en vertu duquel la saisie est faite;
+
+2° l'indication des biens saisis, savoir: si c'est une maison, l'arrondissement, la commune, la rue où elle est située, et deux au moins des tenants ou aboutissants; si ce sont des biens ruraux, la désignation des bâtiments, la nature et la contenance approximative de chaque pièce, deux au moins des tenants et aboutissants, l'arrondissement et la commune où les biens sont situés;
+
+3° la copie littéraire de la matrice du rôle de la contribution foncière pour les articles saisis;
+
+4° l'indication du tribunal où la saisie sera portée;
+
+5° constitution d'avoué chez lequel le domicile du poursuivant sera élu de droit et où le débiteur pourra faire toutes les significations, même d'offres réelles et d'appel.
 
 ##### Art. 813.
 
@@ -4866,8 +4973,9 @@ Un cahier des charges général renfermant les clauses et conditions de la vente
 
 Dans les quinze jours au plus tard, après la transcription, le poursuivant déposera au greffe du tribunal une requête contenant:
 
-1. l'énonciation du titre en vertu duquel la saisie a été faite, du commandement, de l'exploit de saisie, ainsi que des autres actes et jugements intervenus postérieurement;
-2. la demande en maintien intégral ou les propositions de changements à faire au cahier des charges.
+1° l'énonciation du titre en vertu duquel la saisie a été faite, du commandement, de l'exploit de saisie, ainsi que des autres actes et jugements intervenus postérieurement;
+
+2° la demande en maintien intégral ou les propositions de changements à faire au cahier des charges.
 
 L'original de l'exploit de saisie sera joint à la requête.
 
@@ -4881,11 +4989,11 @@ Cette sommation indiquera les jour, lieu et heure de la publication.
 
 Pareille sommation sera faite, dans les huit jours:
 
-1. Aux créanciers inscrits sur les biens saisis, aux domiciles élus dans les inscriptions.
+1° Aux créanciers inscrits sur les biens saisis, aux domiciles élus dans les inscriptions.
 
 Si parmi les créanciers inscrits se trouve le vendeur de l'immeuble saisi ou le donateur, la sommation à ceux-ci sera faite, à défaut de domicile élu par eux, à leur domicile réel, pourvu qu'ils soient fixés dans le Grand-Duché ou dans les pays limitrophes, et portera qu'à défaut de former leur demande en résolution et de la notifier au greffe avant le jugement de publication, ils seront définitivement déchus, à l'égard de l'adjudicataire, du droit de la faire prononcer.
 
-1. Au conjoint du saisi, aux conjoints des précédents propriétaires, au subrogé-tuteur des mineurs ou interdits, ou aux mineurs devenus majeurs, si dans l'un et l'autre cas les mariage et tutelle sont connus du poursuivant d'après son titre. Cette sommation contiendra en outre l'avertissement que pour conserver les hypothèques légales sur l'immeuble exproprié, il sera nécessaire de les faire inscrire avant la transcription de l'adjudication.
+2° Au conjoint du saisi, aux conjoints des précédents propriétaires, au subrogé-tuteur des mineurs ou interdits, ou aux mineurs devenus majeurs, si dans l'un et l'autre cas les mariage et tutelle sont connus du poursuivant d'après son titre. Cette sommation contiendra en outre l'avertissement que pour conserver les hypothèques légales sur l'immeuble exproprié, il sera nécessaire de les faire inscrire avant la transcription de l'adjudication.
 
 La sommation pourra être faite collectivement aux héritiers au domicile du défunt conformément à l' [article 574 du Nouveau Code de procédure civile](https://legilux.public.lu/eli/etat/leg/code/procedure_civile/art_574).
 
@@ -4937,12 +5045,13 @@ En cas d'empêchement du notaire, le président du tribunal pourvoira à son rem
 
 Quinze jours au moins avant l'adjudication, le notaire commis fera insérer dans un journal publié dans le Grand-Duché un extrait, français ou allemand, signé de lui et contenant:
 
-1. la date de la saisie et de sa transcription;
-2. les noms, professions et demeures du saisi, du saisissant et de l'avoué de ce dernier;
-3. la désignation des immeubles, et leur situation avec le numéro et la contenance cadastrale;
-4. (
+1° la date de la saisie et de sa transcription;
 
-   [L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) l'indication du tribunal où la saisie se poursuit, du notaire commis et des jour, lieu et heure auxquels l'adjudication aura lieu.
+2° les noms, professions et demeures du saisi, du saisissant et de l'avoué de ce dernier;
+
+3° la désignation des immeubles, et leur situation avec le numéro et la contenance cadastrale;
+
+4° ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) l'indication du tribunal où la saisie se poursuit, du notaire commis et des jour, lieu et heure auxquels l'adjudication aura lieu.
 
 Il sera en outre déclaré dans l'extrait que tous ceux du chef desquels il pourrait être pris inscription pour raison d'hypothèque légale, devront requérir cette inscription avant la transcription du procès-verbal d'adjudication.
 
@@ -4958,8 +5067,9 @@ A la demande du poursuivant, du saisi ou d'un créancier inscrit, le notaire peu
 
 Des placards contenant l'annonce de la vente et la désignation des immeubles, comme à l'article 833, seront affichés dans le même délai:
 
-1. aux lieux destinés à recevoir les affiches publiques dans la commune où le saisi est domicilié, et dans celle de la situation des biens;
-2. à la porte et dans la salle d'audience de la justice de paix du canton où se fera l'adjudication, et à la porte du notaire chargé de la vente.
+1° aux lieux destinés à recevoir les affiches publiques dans la commune où le saisi est domicilié, et dans celle de la situation des biens;
+
+2° à la porte et dans la salle d'audience de la justice de paix du canton où se fera l'adjudication, et à la porte du notaire chargé de la vente.
 
 ##### Art. 836.
 
@@ -5171,12 +5281,13 @@ Aucun jugement par défaut en matière de saisie immobilière ne sera susceptibl
 
 Ne pourront être attaqués par la voie de l'appel:
 
-1. les jugements qui statueront sur la demande en subrogation contre le poursuivant, à moins qu'elle n'ait été intentée pour collusion ou fraude;
-2. ceux qui, sans statuer sur des incidents, donneront acte de la publication de la requête;
-3. ceux qui statueront sur des nullités postérieures à la publication de la requête, et
-4. (
+1° les jugements qui statueront sur la demande en subrogation contre le poursuivant, à moins qu'elle n'ait été intentée pour collusion ou fraude;
 
-   [L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) les décisions des notaires qui, en prononçant l'adjudication, ordonneront le délaissement des biens.
+2° ceux qui, sans statuer sur des incidents, donneront acte de la publication de la requête;
+
+3° ceux qui statueront sur des nullités postérieures à la publication de la requête, et
+
+4° ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) les décisions des notaires qui, en prononçant l'adjudication, ordonneront le délaissement des biens.
 
 ##### Art. 868.
 
@@ -5586,8 +5697,9 @@ La demande est formée au greffe par requête faite par le créancier ou par son
 
 La déclaration contient, sous peine de nullité:
 
-1. les noms, prénoms, professions et domiciles ou résidences des parties demanderesse et défenderesse;
-2. l'objet de la demande et l'exposé des moyens.
+1° les noms, prénoms, professions et domiciles ou résidences des parties demanderesse et défenderesse;
+
+2° l'objet de la demande et l'exposé des moyens.
 
 A l'appui de la demande il est joint tous documents de nature à justifier de l'existence et du montant de la provision et à en établir le bien-fondé.
 
@@ -5685,9 +5797,11 @@ L'assignation est dispensée des droits de timbre et d'enregistrement et de la f
 
 (2) ([L. 15 juillet 2021](https://legilux.public.lu/eli/etat/leg/loi/2021/07/15/a541/jo)) Les parties peuvent se faire assister ou représenter par :
 
-- un avocat, leur conjoint ou leur partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats,
-- leurs parents ou alliés en ligne directe, leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
+aone un avocat, leur conjoint ou leur partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats,
+
+bone leurs parents ou alliés en ligne directe, leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
+
+cone les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
 
 Le représentant s'il n'est avocat doit justifier d'un pouvoir spécial.
 
@@ -5923,13 +6037,19 @@ Dans le cas de l'article précédent, le nouveau propriétaire n'est pas tenu de
 
 Pour parvenir à la revente sur enchère prévue par l' [article 2187 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil), le poursuivant fera imprimer des placards qui contiendront:
 
-1. la date et la nature de l'acte d'aliénation sur lequel la surenchère a été faite, le nom du notaire qui l'aura reçu, ou de toute autorité appelée à sa confection;
-2. le prix énoncé dans l'acte, s'il s'agit d'une vente, ou l'évaluation donnée aux immeubles dans la notification aux créanciers inscrits, s'il s'agit d'un échange ou d'une donation;
-3. le montant de la surenchère;
-4. les noms, profession et domicile du précédent propriétaire, de l'acquéreur ou donataire, du surenchérisseur, ainsi que du créancier qui lui est subrogé dans le cas de l'article 970;
-5. l'indication sommaire de la nature et de la situation des biens aliénés;
-6. le nom et la demeure de l'avoué constitué par le poursuivant;
-7. l'indication du tribunal où la surenchère se poursuit, ainsi que des jour, lieu et heure de l'adjudication.
+1° la date et la nature de l'acte d'aliénation sur lequel la surenchère a été faite, le nom du notaire qui l'aura reçu, ou de toute autorité appelée à sa confection;
+
+2° le prix énoncé dans l'acte, s'il s'agit d'une vente, ou l'évaluation donnée aux immeubles dans la notification aux créanciers inscrits, s'il s'agit d'un échange ou d'une donation;
+
+3° le montant de la surenchère;
+
+4° les noms, profession et domicile du précédent propriétaire, de l'acquéreur ou donataire, du surenchérisseur, ainsi que du créancier qui lui est subrogé dans le cas de l'article 970;
+
+5° l'indication sommaire de la nature et de la situation des biens aliénés;
+
+6° le nom et la demeure de l'avoué constitué par le poursuivant;
+
+7° l'indication du tribunal où la surenchère se poursuit, ainsi que des jour, lieu et heure de l'adjudication.
 
 Ces placards seront apposés quinze jours au moins et trente jours au plus avant l'adjudication, aux lieux désignés par l'article 835.
 
@@ -6131,26 +6251,35 @@ Quand une décision déclarant une absence ou annulant une telle décision est p
 
 Le juge aux affaires familiales connaît :
 
-1. des demandes en autorisation de mariage des mineurs, demandes en nullité de mariage, des demandes de mainlevée du sursis à la célébration du mariage, du renouvellement du sursis, de l’opposition au mariage et de mainlevée du sursis ;
-2. des demandes ayant trait aux contrats de mariage et aux régimes matrimoniaux et des demandes en séparation de biens ;
-3. des demandes concernant les droits et devoirs respectifs des conjoints et la contribution aux charges du mariage et du partenariat enregistré ;
-4. du divorce et de la séparation de corps et de leurs conséquences ainsi que des mesures provisoires pendant la procédure de divorce et en cas de cessation du partenariat enregistré ;
-5. des demandes en matière de pension alimentaire ;
-6. des demandes relatives à l’exercice du droit de visite, à l’hébergement et à la contribution à l’entretien et à l’éducation des enfants ;
-7. des demandes relatives à l’exercice de l’autorité parentale à l’exclusion de celles relatives au retrait de l’autorité parentale ;
-8. des décisions en matière d’administration légale des biens des mineurs et de celles relatives à la tutelle des mineurs ;
-9. des demandes d’interdiction de retour au domicile des personnes expulsées de leur domicile en vertu de l’article 1
+1° des demandes en autorisation de mariage des mineurs, demandes en nullité de mariage, des demandes de mainlevée du sursis à la célébration du mariage, du renouvellement du sursis, de l’opposition au mariage et de mainlevée du sursis ;
 
-   <sup>er</sup> , paragraphe 1 <sup>er</sup> , de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique et de prolongation des interdictions que comporte cette expulsion en vertu de l’article 1 <sup>er</sup> , paragraphe 2, de cette loi ainsi que des recours formés contre ces mesures ;
-10. des demandes d’entraide judiciaire en matière de droit de garde et de droit de visite des enfants.
+2° des demandes ayant trait aux contrats de mariage et aux régimes matrimoniaux et des demandes en séparation de biens ;
+
+3° des demandes concernant les droits et devoirs respectifs des conjoints et la contribution aux charges du mariage et du partenariat enregistré ;
+
+4° du divorce et de la séparation de corps et de leurs conséquences ainsi que des mesures provisoires pendant la procédure de divorce et en cas de cessation du partenariat enregistré ;
+
+5° des demandes en matière de pension alimentaire ;
+
+6° des demandes relatives à l’exercice du droit de visite, à l’hébergement et à la contribution à l’entretien et à l’éducation des enfants ;
+
+7° des demandes relatives à l’exercice de l’autorité parentale à l’exclusion de celles relatives au retrait de l’autorité parentale ;
+
+8° des décisions en matière d’administration légale des biens des mineurs et de celles relatives à la tutelle des mineurs ;
+
+9° des demandes d’interdiction de retour au domicile des personnes expulsées de leur domicile en vertu de l’article 1 <sup>er</sup> , paragraphe 1 <sup>er</sup> , de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique et de prolongation des interdictions que comporte cette expulsion en vertu de l’article 1 <sup>er</sup> , paragraphe 2, de cette loi ainsi que des recours formés contre ces mesures ;
+
+10° des demandes d’entraide judiciaire en matière de droit de garde et de droit de visite des enfants.
 
 ###### Art. 1007-2.
 
 Sauf dispositions particulières contraires, le tribunal d’arrondissement territorialement compétent est :
 
-1. le tribunal du lieu où se trouve le domicile de la famille ;
-2. si les parents vivent séparément, le tribunal du lieu du domicile du parent avec lequel résident habituellement les enfants mineurs en cas d’exercice commun de l’autorité parentale, ou du lieu du domicile du parent qui exerce seul cette autorité ;
-3. dans les autres cas, le tribunal du lieu où réside celui qui n’a pas pris l’initiative de la procédure.
+1° le tribunal du lieu où se trouve le domicile de la famille ;
+
+2° si les parents vivent séparément, le tribunal du lieu du domicile du parent avec lequel résident habituellement les enfants mineurs en cas d’exercice commun de l’autorité parentale, ou du lieu du domicile du parent qui exerce seul cette autorité ;
+
+3° dans les autres cas, le tribunal du lieu où réside celui qui n’a pas pris l’initiative de la procédure.
 
 En cas de demande conjointe, le tribunal compétent est, selon le choix des parties, celui du lieu où est domiciliée l’une ou l’autre.
 
@@ -6164,11 +6293,15 @@ La compétence territoriale est déterminée par le domicile au jour de la deman
 
 La requête contient :
 
-1. sa date ;
-2. les noms, prénoms et domiciles des parties ;
-3. les dates et lieux de naissance des parties ;
-4. l’objet de la demande ;
-5. l’exposé sommaire des faits et moyens invoqués.
+1° sa date ;
+
+2° les noms, prénoms et domiciles des parties ;
+
+3° les dates et lieux de naissance des parties ;
+
+4° l’objet de la demande ;
+
+5° l’exposé sommaire des faits et moyens invoqués.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6208,13 +6341,11 @@ Si la cause est communiquée, le procureur d’État présente ses conclusions s
 
 (2 *bis* ) [L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a519/jo) Pour l’élaboration de ses conclusions, le procureur d’État ne tient compte que des faits pénaux :
 
-1. incriminés en tant que crime ou délit par la loi ;
-2. visés à l’article 563, point 3°, du
+1° incriminés en tant que crime ou délit par la loi ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif aux voies de fait et violences légères ;
-3. ayant motivé une procédure d’expulsion sur base de l’article I
+2° visés à l’article 563, point 3°, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif aux voies de fait et violences légères ;
 
-   <sup>er</sup> de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique.
+3° ayant motivé une procédure d’expulsion sur base de l’article I <sup>er</sup> de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique.
 
 L’alinéa 1 <sup>er</sup> ne s’applique pas aux faits qui, bien que relevant des points 1° et 2°, ont fait l’objet d’un acquittement ou sont prescrits.
 
@@ -6244,14 +6375,21 @@ La décision de renvoi d’une requête devant une chambre collégiale n’est p
 
 La requête contient :
 
-1. sa date ;
-2. les noms, prénoms et domiciles des parties ;
-3. les dates et lieux de naissance des parties ;
-4. le cas échéant, la mention de l’identité des enfants communs ;
-5. copie de l’ordonnance ou du jugement contre lequel l’appel est dirigé ;
-6. les prétentions de l’appelant ;
-7. l’exposé sommaire des faits et moyens invoqués ;
-8. les pièces dont l’appelant entend se servir.
+1° sa date ;
+
+2° les noms, prénoms et domiciles des parties ;
+
+3° les dates et lieux de naissance des parties ;
+
+4° le cas échéant, la mention de l’identité des enfants communs ;
+
+5° copie de l’ordonnance ou du jugement contre lequel l’appel est dirigé ;
+
+6° les prétentions de l’appelant ;
+
+7° l’exposé sommaire des faits et moyens invoqués ;
+
+8° les pièces dont l’appelant entend se servir.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6325,23 +6463,31 @@ La compétence est déterminée par le domicile au jour où la requête est dép
 
 (2) La requête contient :
 
-1. sa date ;
-2. les noms, prénoms, professions et domicile(s) des conjoints ;
-3. les dates et lieux de naissance des conjoints ;
-4. le cas échéant, la mention de l'identité des enfants communs ;
-5. l’objet de la demande ;
-6. l’exposé sommaire des faits et moyens invoqués.
+1° sa date ;
+
+2° les noms, prénoms, professions et domicile(s) des conjoints ;
+
+3° les dates et lieux de naissance des conjoints ;
+
+4° le cas échéant, la mention de l'identité des enfants communs ;
+
+5° l’objet de la demande ;
+
+6° l’exposé sommaire des faits et moyens invoqués.
 
 (3) Les conjoints joignent à la requête, outre la convention mentionnée à l’article 230 du [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil), les pièces suivantes :
 
-1. un extrait de l'acte de mariage ;
-2. un extrait des actes de naissance des conjoints ;
-3. un extrait des actes de naissance des enfants communs ;
-4. une pièce attestant de la nationalité des conjoints ;
-5. le cas échéant, la convention de désignation de la loi applicable au divorce des conjoints en application de l’article 5 du
+1° un extrait de l'acte de mariage ;
 
-   [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) du Conseil du 20 décembre 2010 mettant en œuvre une coopération renforcée dans le domaine de la loi applicable au divorce et à la séparation de corps et selon les formes prévues par ledit Règlement. Les conjoints pourront aussi désigner la loi applicable au divorce en application de l’article 5 du [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) et selon les formes prévues par ledit règlement dans la convention de divorce par consentement mutuel ;
-6. toute autre pièce dont les requérants entendent se servir.
+2° un extrait des actes de naissance des conjoints ;
+
+3° un extrait des actes de naissance des enfants communs ;
+
+4° une pièce attestant de la nationalité des conjoints ;
+
+5° le cas échéant, la convention de désignation de la loi applicable au divorce des conjoints en application de l’article 5 du [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) du Conseil du 20 décembre 2010 mettant en œuvre une coopération renforcée dans le domaine de la loi applicable au divorce et à la séparation de corps et selon les formes prévues par ledit Règlement. Les conjoints pourront aussi désigner la loi applicable au divorce en application de l’article 5 du [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) et selon les formes prévues par ledit règlement dans la convention de divorce par consentement mutuel ;
+
+6° toute autre pièce dont les requérants entendent se servir.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6395,14 +6541,21 @@ La requête est déposée au greffe de la Cour d’appel.
 
 (3) La requête contient :
 
-1. sa date ;
-2. les noms, prénoms, professions et domicile(s) des conjoints ;
-3. les dates et lieux de naissance des conjoints ;
-4. le cas échéant, la mention de l'identité des enfants communs ;
-5. copie du jugement contre lequel l’appel est dirigé ;
-6. les prétentions des appelants ;
-7. l’exposé sommaire des faits et moyens invoqués ;
-8. l’indication des pièces dont les appelants entendent se servir.
+1° sa date ;
+
+2° les noms, prénoms, professions et domicile(s) des conjoints ;
+
+3° les dates et lieux de naissance des conjoints ;
+
+4° le cas échéant, la mention de l'identité des enfants communs ;
+
+5° copie du jugement contre lequel l’appel est dirigé ;
+
+6° les prétentions des appelants ;
+
+7° l’exposé sommaire des faits et moyens invoqués ;
+
+8° l’indication des pièces dont les appelants entendent se servir.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6446,27 +6599,35 @@ Les demandes de modification des modalités d’exercice de l’autorité parent
 
 (2) La requête contient :
 
-1. sa date ;
-2. les noms, prénoms, professions et domicile(s) des conjoints ;
-3. les dates et lieux de naissance des conjoints ;
-4. le cas échéant, la mention de l'identité des enfants communs ;
-5. l’objet de la demande ;
-6. l’exposé sommaire des faits et moyens invoqués.
+1° sa date ;
+
+2° les noms, prénoms, professions et domicile(s) des conjoints ;
+
+3° les dates et lieux de naissance des conjoints ;
+
+4° le cas échéant, la mention de l'identité des enfants communs ;
+
+5° l’objet de la demande ;
+
+6° l’exposé sommaire des faits et moyens invoqués.
 
 (3) Sont joints à la requête les pièces suivantes :
 
-1. un extrait de l'acte de mariage ;
-2. un extrait des actes de naissance des conjoints respectivement du requérant ;
-3. un extrait des actes de naissance des enfants communs ;
-4. une pièce attestant de la nationalité des conjoints respectivement du requérant ;
-5. le cas échéant, la convention de désignation de la loi applicable au divorce des conjoints en application de l’article 5 du
+1° un extrait de l'acte de mariage ;
 
-   [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) du Conseil du 20 décembre 2010 mettant en œuvre une coopération renforcée dans le domaine de la loi applicable au divorce et à la séparation de corps et selon les formes prévues par ledit Règlement ;
-6. le cas échéant un projet de règlement des effets du divorce sur lesquels il y a accord entre les conjoints ;
-7. le cas échéant une copie de la décision de condamnation d’un conjoint pour un fait visé aux articles 250 et 251 du
+2° un extrait des actes de naissance des conjoints respectivement du requérant ;
 
-   [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil) ;
-8. toute autre pièce dont le ou les requérant(s) entend(ent) se servir.
+3° un extrait des actes de naissance des enfants communs ;
+
+4° une pièce attestant de la nationalité des conjoints respectivement du requérant ;
+
+5° le cas échéant, la convention de désignation de la loi applicable au divorce des conjoints en application de l’article 5 du [Règlement (UE) n° 1259/2010](https://legilux.public.lu/eli/reg_ue/2010/1259/jo) du Conseil du 20 décembre 2010 mettant en œuvre une coopération renforcée dans le domaine de la loi applicable au divorce et à la séparation de corps et selon les formes prévues par ledit Règlement ;
+
+6° le cas échéant un projet de règlement des effets du divorce sur lesquels il y a accord entre les conjoints ;
+
+7° le cas échéant une copie de la décision de condamnation d’un conjoint pour un fait visé aux articles 250 et 251 du [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil) ;
+
+8° toute autre pièce dont le ou les requérant(s) entend(ent) se servir.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6602,16 +6763,21 @@ S’il s’agit d’un jugement rendu par défaut, le délai ne commence à cour
 
 (3) La requête contient :
 
-1. sa date ;
-2. les noms, prénoms, professions et domicile(s) des conjoints ;
-3. les dates et lieux de naissance des conjoints ;
-4. le cas échéant, la mention de l'identité des enfants communs ;
-5. copie du jugement contre lequel l’appel est dirigé ;
-6. les prétentions de l’appelant
+1° sa date ;
 
-   \*;*
-7. l’exposé sommaire des faits et moyens invoqués ;
-8. l’indication des pièces dont l’appelant entend se servir.
+2° les noms, prénoms, professions et domicile(s) des conjoints ;
+
+3° les dates et lieux de naissance des conjoints ;
+
+4° le cas échéant, la mention de l'identité des enfants communs ;
+
+5° copie du jugement contre lequel l’appel est dirigé ;
+
+6° les prétentions de l’appelant *;*
+
+7° l’exposé sommaire des faits et moyens invoqués ;
+
+8° l’indication des pièces dont l’appelant entend se servir.
 
 Les actes et documents versés avec la requête dont les parties entendent se servir lorsqu’ils émanent d’une autorité publique étrangère doivent être légalisés le cas échéant.
 
@@ -6721,11 +6887,15 @@ En cas d’accord des parents sur les modalités de l’exercice de l’autorit�
 
 Lorsqu’il se prononce sur les modalités d’exercice de l’autorité parentale, le juge aux affaires familiales peut prendre en considération :
 
-1. la pratique que les parents avaient précédemment suivie ou les accords qu’ils avaient pu antérieurement conclure ;
-2. les sentiments exprimés par l’enfant mineur lorsqu’ils sont exprimés dans les conditions prévues à l’article 388-1 ;
-3. l’aptitude de chacun des parents à assumer ses devoirs et respecter les droits de l’autre ;
-4. le résultat des expertises éventuellement effectuées, tenant compte de l’âge de l’enfant ;
-5. les renseignements qui ont été recueillis dans les éventuelles enquêtes sociales prévues à l’article 1007-51.
+1° la pratique que les parents avaient précédemment suivie ou les accords qu’ils avaient pu antérieurement conclure ;
+
+2° les sentiments exprimés par l’enfant mineur lorsqu’ils sont exprimés dans les conditions prévues à l’article 388-1 ;
+
+3° l’aptitude de chacun des parents à assumer ses devoirs et respecter les droits de l’autre ;
+
+4° le résultat des expertises éventuellement effectuées, tenant compte de l’âge de l’enfant ;
+
+5° les renseignements qui ont été recueillis dans les éventuelles enquêtes sociales prévues à l’article 1007-51.
 
 ###### Art. 1007-55.
 
@@ -6761,12 +6931,17 @@ Le président du tribunal d’arrondissement, ou le juge qui le remplace, du lie
 
 (2) Les demandes en mainlevée sont formées par requête, sur papier libre, à signer soit par le requérant, même mineur, soit par un avocat. La requête contient, à peine de nullité:
 
-- sa date,
-- les noms, prénoms et domicile du requérant,
-- la désignation de la décision ou de l’acte, contre lequel la demande est dirigée,
-- l’exposé sommaire des faits et moyens invoqués,
-- l’objet de la demande, et
-- le relevé et les pièces dont le requérant entend se servir.
+aash sa date,
+
+bash les noms, prénoms et domicile du requérant,
+
+cash la désignation de la décision ou de l’acte, contre lequel la demande est dirigée,
+
+dash l’exposé sommaire des faits et moyens invoqués,
+
+eash l’objet de la demande, et
+
+fash le relevé et les pièces dont le requérant entend se servir.
 
 La requête et les pièces sont déposées au greffe du tribunal d’arrondissement, en autant d’exemplaires qu’il y a de parties en cause. La décision ou l’acte critiqué doit figurer parmi les pièces versées.
 
@@ -6790,12 +6965,17 @@ Le greffier notifie aux parties une copie, certifiée conforme, de l’ordonnanc
 
 (3) L’appel est formé par requête, sur papier libre, à signer soit par l’appelant, même mineur, soit par un avocat. La requête contient, à peine de nullité:
 
-- sa date,
-- les noms, prénoms et domicile de l’appelant,
-- l’indication de l’ordonnance contre laquelle l’appel est interjeté,
-- l’exposé sommaire des faits et moyens invoqués,
-- les prétentions de l’appelant, et
-- le relevé des pièces dont l’appelant entend se servir.
+aash sa date,
+
+bash les noms, prénoms et domicile de l’appelant,
+
+cash l’indication de l’ordonnance contre laquelle l’appel est interjeté,
+
+dash l’exposé sommaire des faits et moyens invoqués,
+
+eash les prétentions de l’appelant, et
+
+fash le relevé des pièces dont l’appelant entend se servir.
 
 La requête et les pièces sont déposées au greffe de la cour d’appel, en autant d’exemplaires qu’il y a de parties en cause.
 
@@ -6939,11 +7119,11 @@ Elle est formée au greffe par l’intéressé ou par son mandataire et consign�
 
 La déclaration contient, sous peine de nullité :
 
-1. les noms, prénoms, professions des parties demanderesse et défenderesse ;
-2. le domicile dont question, ainsi que l’adresse que la partie défenderesse a communiqué à la police en application de l’article I
+1° les noms, prénoms, professions des parties demanderesse et défenderesse ;
 
-   <sup>er</sup> paragraphe 3, alinéa 2 de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique, à moins qu’elle n’ait omis de le faire, auquel cas la mention du domicile suffit ;
-3. l’objet de la demande et l’exposé des moyens.
+2° le domicile dont question, ainsi que l’adresse que la partie défenderesse a communiqué à la police en application de l’article I <sup>er</sup> paragraphe 3, alinéa 2 de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique, à moins qu’elle n’ait omis de le faire, auquel cas la mention du domicile suffit ;
+
+3° l’objet de la demande et l’exposé des moyens.
 
 À la requête est jointe la copie du procès-verbal dressé au moment de l’expulsion.
 
@@ -6977,12 +7157,17 @@ L’arrêt rendu sur l’appel n’est pas susceptible d’opposition.
 
 (2) Les parties peuvent se faire assister ou représenter par:
 
-- un avocat,
-- leur conjoint ou la personne avec laquelle elles vivent habituellement,
-- leurs parents ou alliés en ligne directe,
-- leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise,
-- un collaborateur d’un service d’assistance aux victimes de violence domestique.
+– un avocat,
+
+– leur conjoint ou la personne avec laquelle elles vivent habituellement,
+
+– leurs parents ou alliés en ligne directe,
+
+– leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
+
+– les personnes exclusivement attachées à leur service personnel ou à leur entreprise,
+
+– un collaborateur d’un service d’assistance aux victimes de violence domestique.
 
 Le représentant s’il n’est avocat doit justifier d’un pouvoir spécial.
 
@@ -7008,14 +7193,21 @@ Le juge aux affaires familiales peut, à la demande de la partie requérante, pr
 
 ([L. du 1 <sup>er</sup> août 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a561/jo)) Lorsqu’une personne agresse ou menace d’agresser une personne avec laquelle elle cohabite ou a cohabité dans un cadre familial, lorsqu’elle a à son encontre un comportement qui porte gravement atteinte à sa santé psychique et lui rend ainsi intolérable toute rencontre avec elle, le juge aux affaires familiales prononce, sur la demande de la personne concernée, tout ou partie des injonctions ou interdictions énumérées ci-après, à condition qu’elles n’aillent pas à l’encontre d’intérêts fondamentaux et légitimes de la partie défenderesse :
 
-- l’interdiction de prendre contact avec la partie demanderesse;
-- l’interdiction d’envoyer des messages à la partie demanderesse;
-- l’interdiction de s’approcher de la partie demanderesse ;
-- l’interdiction de s’approcher du service d’hébergement et annexes, de la structure de garde pour enfants et de l’école;
-- l’interdiction d’établir son domicile dans le même quartier que la partie demanderesse ;
-- l’interdiction de fréquenter certains endroits;
-- l’interdiction d’emprunter certains itinéraires;
-- l’injonction de laisser la partie demanderesse entrer au domicile commun pour enlever ses affaires personnelles.
+aash l’interdiction de prendre contact avec la partie demanderesse;
+
+bash l’interdiction d’envoyer des messages à la partie demanderesse;
+
+cash l’interdiction de s’approcher de la partie demanderesse ;
+
+dash l’interdiction de s’approcher du service d’hébergement et annexes, de la structure de garde pour enfants et de l’école;
+
+eash l’interdiction d’établir son domicile dans le même quartier que la partie demanderesse ;
+
+fash l’interdiction de fréquenter certains endroits;
+
+gash l’interdiction d’emprunter certains itinéraires;
+
+hash l’injonction de laisser la partie demanderesse entrer au domicile commun pour enlever ses affaires personnelles.
 
 ###### Art. 1017-9 — ([L. du 27 juin 2018](https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a589/jo))
 
@@ -7031,12 +7223,17 @@ L’assignation est dispensée des droits de timbre et d’enregistrement et de 
 
 (2) Les parties peuvent se faire assister ou représenter par:
 
-- un avocat,
-- leur conjoint ou la personne avec laquelle elles vivent habituellement,
-- leurs parents ou alliés en ligne directe,
-- leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise,
-- un collaborateur d’un service d’assistance aux victimes de violence domestique.
+– un avocat,
+
+– leur conjoint ou la personne avec laquelle elles vivent habituellement,
+
+– leurs parents ou alliés en ligne directe,
+
+– leurs parents ou alliés en ligne collatérale jusqu’au troisième degré inclus,
+
+– les personnes exclusivement attachées à leur service personnel ou à leur entreprise,
+
+– un collaborateur d’un service d’assistance aux victimes de violence domestique.
 
 Le représentant s’il n’est avocat doit justifier d’un pouvoir spécial.
 
@@ -7058,9 +7255,11 @@ Sont applicables les dispositions des articles 938 à 940.
 
 ([L. 8 mai 2009](https://legilux.public.lu/eli/etat/leg/loi/2009/05/08/n1/jo)) Lorsqu’une personne tente d’intimider une victime de la traite des êtres humains, un témoin, un collaborateur d’un service d’assistance ou d’une association visée à l’article 1 <sup>er</sup> de la loi sur l’assistance, la protection et la sécurité des victimes de la traite des êtres humains, un membre de la famille ou une connaissance des personnes désignées ci-avant ou lorsqu’elle se prépare à commettre un acte de représailles contre l’une de ces personnes, le président du tribunal d’arrondissement prononce à son encontre, à la requête de la personne concernée, l’une ou plusieurs des interdictions et injonction suivantes:
 
-- l’interdiction de se rendre en certains lieux;
-- l’interdiction de prendre contact, de quelque façon que ce soit, avec la personne à protéger;
-- l’interdiction de détenir ou de porter une arme et l’injonction de remettre contre récépissé les armes éventuelles auprès d’un service de police désigné.
+aash l’interdiction de se rendre en certains lieux;
+
+bash l’interdiction de prendre contact, de quelque façon que ce soit, avec la personne à protéger;
+
+cash l’interdiction de détenir ou de porter une arme et l’injonction de remettre contre récépissé les armes éventuelles auprès d’un service de police désigné.
 
 ##### Art. 1017-14.
 
@@ -7198,11 +7397,11 @@ Dans les quinze jours du prononcé du jugement, le greffier notifie, par lettre 
 
 (2) Le tribunal compétent est:
 
-- le tribunal du lieu de résidence du requérant lorsque celui-ci réside au Grand-Duché;
-- le tribunal du lieu de résidence de la personne dont l'adoption est demandée lorsque le requérant réside à l'étranger;
-- alinéa abrogé (
+aash le tribunal du lieu de résidence du requérant lorsque celui-ci réside au Grand-Duché;
 
-  [L. 14 avril 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/04/14/n1/jo)).
+bash le tribunal du lieu de résidence de la personne dont l'adoption est demandée lorsque le requérant réside à l'étranger;
+
+cash alinéa abrogé ([L. 14 avril 2002](https://legilux.public.lu/eli/etat/leg/loi/2002/04/14/n1/jo)).
 
 (3) Le tribunal est saisi de la demande par une requête d'avoué contresignée par l'adoptant, l'adopté s'il est âgé de plus de quinze ans et les personnes dont le consentement est nécessaire à l'adoption. Si l'une ou plusieurs d'entre elles ne savent ou ne peuvent signer, l'avoué atteste, par une mention spéciale portée sur la requête, qu'elles ont donné leur consentement à l'adoption.
 
@@ -7222,13 +7421,11 @@ Dans les quinze jours du prononcé du jugement, le greffier notifie, par lettre 
 
 (1 *ter* ) [L. 7 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a519/jo) Pour l’élaboration de ses conclusions, le procureur d’État ne tient compte que des faits pénaux :
 
-1. incriminés en tant que crime ou délit par la loi ;
-2. visés à l’article 563, point 3°, du
+1° incriminés en tant que crime ou délit par la loi ;
 
-   [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif aux voies de fait et violences légères ;
-3. ayant motivé une procédure d’expulsion sur base de l’article I
+2° visés à l’article 563, point 3°, du [Code pénal](https://legilux.public.lu/eli/etat/leg/code/penal) relatif aux voies de fait et violences légères ;
 
-   <sup>er</sup> de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique.
+3° ayant motivé une procédure d’expulsion sur base de l’article I <sup>er</sup> de la [loi modifiée du 8 septembre 2003](https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/jo) sur la violence domestique.
 
 L’alinéa 1 <sup>er</sup> ne s’applique pas aux faits qui, bien que relevant des points 1° et 2°, ont fait l’objet d’un acquittement ou sont prescrits.
 
@@ -7700,10 +7897,9 @@ Les déclarations en renouvellement et les décisions de renouvellement sont por
 
 Outre les autorités judiciaires, peuvent seuls obtenir communication, par extrait, d'une déclaration ou décision de sauvegarde de justice:
 
-1. Les personnes qui auraient qualité, selon l'
+1° Les personnes qui auraient qualité, selon l' [article 493 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil), pour demander l'ouverture d'une tutelle ainsi que le tuteur, le directeur de l'établissement de traitement et celui qui héberge à son domicile la personne sous sauvegarde.
 
-   [article 493 du Code civil](https://legilux.public.lu/eli/etat/leg/code/civil), pour demander l'ouverture d'une tutelle ainsi que le tuteur, le directeur de l'établissement de traitement et celui qui héberge à son domicile la personne sous sauvegarde.
-2. Sur demande motivée, les avocats, avoués et notaires justifiant de l'utilisation de la communication pour un acte de leurs fonctions.
+2° Sur demande motivée, les avocats, avoués et notaires justifiant de l'utilisation de la communication pour un acte de leurs fonctions.
 
 ###### Art. 1101.
 
@@ -7747,13 +7943,15 @@ Le juge des tutelles peut, dans tous les cas où il doit entendre ou estimer uti
 
 Les dispositions du présent titre s'appliquent aux demandes introduites sur la base des conventions suivantes:
 
-1. Convention européenne sur la reconnaissance et l'exécution des décisions en matière de garde des enfants et le rétablissement de la garde des enfants, signée à Luxembourg le 20 mai 1980;
-2. Convention sur les aspects civils de l'enlèvement international d'enfants, signée à La Haye le 25 octobre 1980;
-3. Convention entre le Grand-Duché de Luxembourg et le Royaume de Belgique relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Bruxelles le 4 avril 1987;
-4. Convention entre le Grand-Duché de Luxembourg et la France relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Bruxelles le 4 avril 1987.
-5. (
+1\) Convention européenne sur la reconnaissance et l'exécution des décisions en matière de garde des enfants et le rétablissement de la garde des enfants, signée à Luxembourg le 20 mai 1980;
 
-   [L. 18 mars 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/03/18/n1/jo)) Convention entre le Grand-Duché de Luxembourg et la République Portugaise relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Lisbonne, le 12 juin 1992.
+2\) Convention sur les aspects civils de l'enlèvement international d'enfants, signée à La Haye le 25 octobre 1980;
+
+3\) Convention entre le Grand-Duché de Luxembourg et le Royaume de Belgique relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Bruxelles le 4 avril 1987;
+
+4\) Convention entre le Grand-Duché de Luxembourg et la France relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Bruxelles le 4 avril 1987.
+
+5\) ([L. 18 mars 1995](https://legilux.public.lu/eli/etat/leg/loi/1995/03/18/n1/jo)) Convention entre le Grand-Duché de Luxembourg et la République Portugaise relative à l'entraide judiciaire en matière de droit de garde et de visite, signée à Lisbonne, le 12 juin 1992.
 
 ##### Art. 1109.
 
@@ -7891,11 +8089,11 @@ Lorsque l'inscription concerne une personne née à l'étranger ou un ressortiss
 
 L'apposition des scellés pourra être requise:
 
-1. par tous ceux qui prétendront droit dans la succession ou dans la communauté;
-2. (
+1° par tous ceux qui prétendront droit dans la succession ou dans la communauté;
 
-   [L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) par tous créanciers fondés en titre exécutoire, ou autorisés par une permission soit du président du tribunal de première instance, soit du juge de paix dans le ressort duquel le scellé doit être apposé;
-3. et en cas d'absence, soit du conjoint, soit des héritiers ou de l'un d'eux, par les personnes qui demeuraient avec le défunt, et par ses serviteurs et domestiques.
+2° ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) par tous créanciers fondés en titre exécutoire, ou autorisés par une permission soit du président du tribunal de première instance, soit du juge de paix dans le ressort duquel le scellé doit être apposé;
+
+3° et en cas d'absence, soit du conjoint, soit des héritiers ou de l'un d'eux, par les personnes qui demeuraient avec le défunt, et par ses serviteurs et domestiques.
 
 ##### Art. 1134.
 
@@ -7905,9 +8103,11 @@ L'apposition des scellés pourra être requise:
 
 ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) Le scellé sera apposé, soit à la diligence du ministère public, soit sur la déclaration du bourgmestre ou échevin de la commune, et même d'office par décision du juge de paix:
 
-1. si le mineur est sans tuteur, et que le scellé ne soit pas requis par un parent;
-2. si le conjoint, ou si les héritiers ou l'un d'eux, sont absents;
-3. si le défunt était dépositaire public; dans ce cas le scellé ne sera apposé que pour raison de ce dépôt et sur les objets qui le composent.
+1° si le mineur est sans tuteur, et que le scellé ne soit pas requis par un parent;
+
+2° si le conjoint, ou si les héritiers ou l'un d'eux, sont absents;
+
+3° si le défunt était dépositaire public; dans ce cas le scellé ne sera apposé que pour raison de ce dépôt et sur les objets qui le composent.
 
 ##### Art. 1136.
 
@@ -7921,18 +8121,25 @@ L'apposition des scellés pourra être requise:
 
 Le procès-verbal d'apposition contiendra:
 
-1. la date des an, mois, jour et heure;
-2. les motifs de l'apposition;
-3. les noms, profession et demeure du requérant, s'il y en a, et son élection de domicile dans la commune où le scellé est apposé, s'il n'y demeure;
-4. s'il n'y a pas de partie requérante, le procès-verbal énoncera que le scellé a été apposé d'office ou sur le réquisitoire ou sur la déclaration de l'un des fonctionnaires dénommés dans l'article 1135;
-5. l'ordonnance qui permet le scellé, s'il en a été rendu;
-6. les comparutions et dires des parties;
-7. la désignation des lieux, bureaux, coffres, armoires, sur les ouvertures desquels le scellé a été apposé;
-8. une description sommaire des effets qui ne sont pas mis sous les scellés;
-9. le serment, lors de la clôture de l'apposition, par ceux qui demeurent dans le lieu, qu'ils n'ont rien détourné, vu ni su qu'il ait été rien détourné directement ni indirectement;
-10. (
+1° la date des an, mois, jour et heure;
 
-   [L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) l'établissement du gardien présenté, s'il a les qualités requises; sauf, s'il ne les a pas, ou s'il n'en est pas présenté, à en établir un d'office par le greffier.
+2° les motifs de l'apposition;
+
+3° les noms, profession et demeure du requérant, s'il y en a, et son élection de domicile dans la commune où le scellé est apposé, s'il n'y demeure;
+
+4° s'il n'y a pas de partie requérante, le procès-verbal énoncera que le scellé a été apposé d'office ou sur le réquisitoire ou sur la déclaration de l'un des fonctionnaires dénommés dans l'article 1135;
+
+5° l'ordonnance qui permet le scellé, s'il en a été rendu;
+
+6° les comparutions et dires des parties;
+
+7° la désignation des lieux, bureaux, coffres, armoires, sur les ouvertures desquels le scellé a été apposé;
+
+8° une description sommaire des effets qui ne sont pas mis sous les scellés;
+
+9° le serment, lors de la clôture de l'apposition, par ceux qui demeurent dans le lieu, qu'ils n'ont rien détourné, vu ni su qu'il ait été rien détourné directement ni indirectement;
+
+10° ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) l'établissement du gardien présenté, s'il a les qualités requises; sauf, s'il ne les a pas, ou s'il n'en est pas présenté, à en établir un d'office par le greffier.
 
 ##### Art. 1139.
 
@@ -7984,9 +8191,11 @@ S'il y a des effets mobiliers qui soient nécessaires à l'usage des personnes q
 
 ([L. 29 mars 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/03/29/n3/jo)) Il sera tenu, au greffe de chaque justice de paix, un registre d'ordre pour les scellés, sur lequel seront inscrits, dans les vingt-quatre heures, par le greffier qui a procédé à l'apposition:
 
-1. les noms et demeures des personnes sur les effets desquelles le scellé aura été apposé;
-2. le nom et la demeure du greffier qui a fait l'apposition;
-3. le jour où elle a été faite.
+1° les noms et demeures des personnes sur les effets desquelles le scellé aura été apposé;
+
+2° le nom et la demeure du greffier qui a fait l'apposition;
+
+3° le jour où elle a été faite.
 
 #### TITRE II — Des oppositions aux scellés
 
@@ -7998,8 +8207,9 @@ Les oppositions aux scellés pourront être faites, soit par une déclaration su
 
 Toutes oppositions à scellé contiendront, à peine de nullité, outre les formalités communes à tout exploit:
 
-1. élection de domicile dans la commune ou dans l'arrondissement de la justice de paix où le scellé est apposé, si l'opposant n'y demeure pas;
-2. l'énonciation précise de la cause de l'opposition.
+1° élection de domicile dans la commune ou dans l'arrondissement de la justice de paix où le scellé est apposé, si l'opposant n'y demeure pas;
+
+2° l'énonciation précise de la cause de l'opposition.
 
 #### TITRE III — De la levée du scellé
 
@@ -8019,9 +8229,11 @@ Tous ceux qui ont droit de faire apposer les scellés, pourront en requérir la 
 
 ([Règl. g.-d. 9 décembre 1983](https://legilux.public.lu/eli/etat/leg/rgd/1983/12/09/n1/jo)) Les formalités pour parvenir à la levée des scellés seront:
 
-1. une réquisition à cet effet, consignée sur le procès-verbal du greffier;
-2. une ordonnance du juge de paix directeur ou, à son défaut, d'un juge de paix ou d'un juge de paix suppléant, déléguant un greffier de la justice de paix et indiquant les jour et heure où la levée sera faite;
-3. une sommation d'assister à cette levée, faite au conjoint survivant, aux présomptifs héritiers, à l'exécuteur testamentaire, aux légataires universels et à titre universel s'ils sont connus, et aux opposants.
+1° une réquisition à cet effet, consignée sur le procès-verbal du greffier;
+
+2° une ordonnance du juge de paix directeur ou, à son défaut, d'un juge de paix ou d'un juge de paix suppléant, déléguant un greffier de la justice de paix et indiquant les jour et heure où la levée sera faite;
+
+3° une sommation d'assister à cette levée, faite au conjoint survivant, aux présomptifs héritiers, à l'exécuteur testamentaire, aux légataires universels et à titre universel s'ils sont connus, et aux opposants.
 
 Il ne sera pas besoin d'appeler les intéressés demeurant hors du Grand-Duché; mais on appellera pour eux, à la levée et à l'inventaire, un notaire nommé d'office par le président du tribunal d'arrondissement.
 
@@ -8051,14 +8263,21 @@ Le conjoint commun en biens, les héritiers, l'exécuteur testamentaire et les l
 
 Le procès-verbal de levée contiendra:
 
-1. la date;
-2. les noms, profession, demeure et élection de domicile du requérant;
-3. l'énonciation de l'ordonnance délivrée pour la levée;
-4. l'énonciation de la sommation prescrite par l'article 1155 ci-dessus;
-5. les comparutions et dires des parties;
-6. la nomination des notaires, commissaires-priseurs et experts qui doivent opérer;
-7. la reconnaissance des scellés s'ils sont sains et entiers; s'ils ne le sont pas, l'état des altérations; sauf à se pourvoir ainsi qu'il appartiendra pour raison desdites altérations;
-8. les réquisitions à fin de perquisitions, le résultat desdites perquisitions et toutes autres demandes sur lesquelles il y aura lieu de statuer.
+1° la date;
+
+2° les noms, profession, demeure et élection de domicile du requérant;
+
+3° l'énonciation de l'ordonnance délivrée pour la levée;
+
+4° l'énonciation de la sommation prescrite par l'article 1155 ci-dessus;
+
+5° les comparutions et dires des parties;
+
+6° la nomination des notaires, commissaires-priseurs et experts qui doivent opérer;
+
+7° la reconnaissance des scellés s'ils sont sains et entiers; s'ils ne le sont pas, l'état des altérations; sauf à se pourvoir ainsi qu'il appartiendra pour raison desdites altérations;
+
+8° les réquisitions à fin de perquisitions, le résultat desdites perquisitions et toutes autres demandes sur lesquelles il y aura lieu de statuer.
 
 ##### Art. 1161.
 
@@ -8086,24 +8305,35 @@ L'inventaire peut être requis par ceux qui ont droit de requérir la levée du 
 
 ([Règl. g.-d. 9 décembre 1983](https://legilux.public.lu/eli/etat/leg/rgd/1983/12/09/n1/jo)) Il doit être fait en présence:
 
-1. du conjoint survivant;
-2. des héritiers présomptifs;
-3. de l'exécuteur testamentaire si le testament est connu;
-4. des donataires et légataires universels ou à titre universel, soit en propriété, soit en usufruit, ou eux dûment appelés, s'ils demeurent dans le Grand-Duché et s'ils demeurent à l'étranger, il sera appelé pour tous les absents un seul notaire, nommé par le président du tribunal d'arrondissement, pour représenter les parties appelées et défaillantes.
+1° du conjoint survivant;
+
+2° des héritiers présomptifs;
+
+3° de l'exécuteur testamentaire si le testament est connu;
+
+4° des donataires et légataires universels ou à titre universel, soit en propriété, soit en usufruit, ou eux dûment appelés, s'ils demeurent dans le Grand-Duché et s'ils demeurent à l'étranger, il sera appelé pour tous les absents un seul notaire, nommé par le président du tribunal d'arrondissement, pour représenter les parties appelées et défaillantes.
 
 ##### Art. 1167.
 
 Outre les formalités communes à tous les actes devant notaires, l'inventaire contiendra:
 
-1. les noms, professions et demeures des requérants, des comparants, des défaillants et des absents, s'ils sont connus, du notaire appelé pour les représenter, des commissaires-priseurs et experts; et la mention de l'ordonnance qui commet le notaire pour les absents et défaillants;
-2. l'indication des lieux où l'inventaire est fait;
-3. la description et estimation des effets, laquelle sera faite à juste valeur et sans crue;
-4. la désignation des qualités, poids et titre de l'argenterie;
-5. la désignation des espèces en numéraire;
-6. les papiers seront cotés par première et dernière; ils seront paraphés de la main d'un des notaires; s'il y a des livres et registres de commerce, l'état en sera constaté, les feuillets en seront pareillement cotés et paraphés s'ils ne le sont; s'il y a des blancs dans les pages écrites, ils seront bâtonnés;
-7. la déclaration des titres actifs et passifs;
-8. la mention du serment prêté, lors de la clôture de l'inventaire, par ceux qui ont été en possession des objets avant l'inventaire ou qui ont habité la maison dans laquelle sont lesdits objets, qu'ils n'en ont détourné, vu détourner ni su qu'il en ait été détourné aucun;
-9. la remise des effets et papiers, s'il y a lieu, entre les mains de la personne dont on conviendra, ou qui à défaut sera nommée par le président du tribunal.
+1° les noms, professions et demeures des requérants, des comparants, des défaillants et des absents, s'ils sont connus, du notaire appelé pour les représenter, des commissaires-priseurs et experts; et la mention de l'ordonnance qui commet le notaire pour les absents et défaillants;
+
+2° l'indication des lieux où l'inventaire est fait;
+
+3° la description et estimation des effets, laquelle sera faite à juste valeur et sans crue;
+
+4° la désignation des qualités, poids et titre de l'argenterie;
+
+5° la désignation des espèces en numéraire;
+
+6° les papiers seront cotés par première et dernière; ils seront paraphés de la main d'un des notaires; s'il y a des livres et registres de commerce, l'état en sera constaté, les feuillets en seront pareillement cotés et paraphés s'ils ne le sont; s'il y a des blancs dans les pages écrites, ils seront bâtonnés;
+
+7° la déclaration des titres actifs et passifs;
+
+8° la mention du serment prêté, lors de la clôture de l'inventaire, par ceux qui ont été en possession des objets avant l'inventaire ou qui ont habité la maison dans laquelle sont lesdits objets, qu'ils n'en ont détourné, vu détourner ni su qu'il en ait été détourné aucun;
+
+9° la remise des effets et papiers, s'il y a lieu, entre les mains de la personne dont on conviendra, ou qui à défaut sera nommée par le président du tribunal.
 
 ##### Art. 1168.
 
@@ -8417,9 +8647,11 @@ Les formalités prescrites pour l'héritier bénéficiaire s'appliqueront égale
 
 Ne peuvent être soumis à l’arbitrage :
 
-1. les litiges entre professionnels et consommateurs ;
-2. les litiges entre employeurs et salariés ;
-3. les litiges en matière de bail d’habitation.
+1° les litiges entre professionnels et consommateurs ;
+
+2° les litiges entre employeurs et salariés ;
+
+3° les litiges en matière de bail d’habitation.
 
 Cette interdiction reste applicable même après la fin des relations contractuelles visées ci-dessus.
 
@@ -8497,10 +8729,13 @@ Tout différend lié à la constitution du tribunal arbitral est réglé, faute 
 
 En l’absence d’accord des parties sur les modalités de désignation d’un arbitre, il est procédé comme suit :
 
-1. en cas d’arbitrage par un arbitre unique, si les parties ne s’accordent pas sur le choix de l’arbitre, celui-ci est désigné par la personne chargée d’organiser l’arbitrage ou, à défaut, par le juge d’appui ;
-2. en cas d’arbitrage par trois arbitres, chaque partie en choisit un et les deux arbitres ainsi choisis désignent le troisième ; si une partie ne choisit pas d’arbitre dans un délai d’un mois à compter de la réception de la demande qui lui en est faite par l’autre partie ou si les deux arbitres ne s’accordent pas sur le choix du troisième dans un délai d’un mois à compter de l’acceptation par le dernier en date de sa désignation, la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui procède à cette désignation ;
-3. lorsque le litige oppose plus de deux parties et que celles-ci ne s’accordent pas sur les modalités de constitution du tribunal arbitral, la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui, désigne les arbitres ;
-4. tous les autres désaccords relatifs à la désignation des arbitres sont pareillement réglés par la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui.
+1° en cas d’arbitrage par un arbitre unique, si les parties ne s’accordent pas sur le choix de l’arbitre, celui-ci est désigné par la personne chargée d’organiser l’arbitrage ou, à défaut, par le juge d’appui ;
+
+2° en cas d’arbitrage par trois arbitres, chaque partie en choisit un et les deux arbitres ainsi choisis désignent le troisième ; si une partie ne choisit pas d’arbitre dans un délai d’un mois à compter de la réception de la demande qui lui en est faite par l’autre partie ou si les deux arbitres ne s’accordent pas sur le choix du troisième dans un délai d’un mois à compter de l’acceptation par le dernier en date de sa désignation, la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui procède à cette désignation ;
+
+3° lorsque le litige oppose plus de deux parties et que celles-ci ne s’accordent pas sur les modalités de constitution du tribunal arbitral, la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui, désigne les arbitres ;
+
+4° tous les autres désaccords relatifs à la désignation des arbitres sont pareillement réglés par la personne chargée d’organiser l’arbitrage ou, à défaut, le juge d’appui.
 
 ###### Art. 1228-5.
 
@@ -8536,8 +8771,9 @@ Le nouvel arbitre est désigné suivant les modalités convenues entre les parti
 
 Le juge d’appui de la procédure arbitrale est le juge luxembourgeois lorsque le siège de l’arbitrage a été fixé au Grand-Duché de Luxembourg, ou, à défaut de fixation du siège, lorsque :
 
-1. les parties ont convenu de soumettre l’arbitrage à la loi de procédure luxembourgeoise ; ou
-2. les parties ont expressément donné compétence aux juridictions étatiques luxembourgeoises pour connaître des différends relatifs à la procédure arbitrale ; 3° il existe un lien significatif entre le litige et le Grand-Duché de Luxembourg.
+1° les parties ont convenu de soumettre l’arbitrage à la loi de procédure luxembourgeoise ; ou
+
+2° les parties ont expressément donné compétence aux juridictions étatiques luxembourgeoises pour connaître des différends relatifs à la procédure arbitrale ; 3° il existe un lien significatif entre le litige et le Grand-Duché de Luxembourg.
 
 Le juge d’appui luxembourgeois est toujours compétent si l’une des parties est exposée à un risque de déni de justice.
 
@@ -8643,9 +8879,11 @@ La reconnaissance ou la déclaration de la force exécutoire d’une mesure prov
 
 Sauf convention contraire des parties, si, sans invoquer d’empêchement légitime,
 
-1. le demandeur ne développe pas sa demande, le tribunal arbitral met fin à la procédure arbitrale, sans préjudice du traitement des demandes d’une autre partie ;
-2. le défendeur ne développe pas sa défense, le tribunal arbitral poursuit la procédure arbitrale sans pouvoir considérer cette carence en soi comme une acceptation des allégations du demandeur ;
-3. l’une des parties ne participe pas à la procédure orale ou ne produit pas de documents, le tribunal arbitral poursuit la procédure et statue sur la base des éléments dont il dispose.
+1° le demandeur ne développe pas sa demande, le tribunal arbitral met fin à la procédure arbitrale, sans préjudice du traitement des demandes d’une autre partie ;
+
+2° le défendeur ne développe pas sa défense, le tribunal arbitral poursuit la procédure arbitrale sans pouvoir considérer cette carence en soi comme une acceptation des allégations du demandeur ;
+
+3° l’une des parties ne participe pas à la procédure orale ou ne produit pas de documents, le tribunal arbitral poursuit la procédure et statue sur la base des éléments dont il dispose.
 
 ###### Art. 1231-11.
 
@@ -8771,12 +9009,17 @@ Le recours en annulation de la sentence emporte de plein droit, dans les limites
 
 Le recours en annulation n’est ouvert que si :
 
-1. le tribunal arbitral s’est déclaré à tort compétent ou incompétent ; ou
-2. le tribunal arbitral a été irrégulièrement constitué ; ou
-3. le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ; ou
-4. la sentence est contraire à l’ordre public ; ou
-5. la sentence n’est pas motivée, à moins que les parties n’aient dispensé les arbitres de toute motivation ; ou
-6. il y a eu violation des droits de la défense.
+1° le tribunal arbitral s’est déclaré à tort compétent ou incompétent ; ou
+
+2° le tribunal arbitral a été irrégulièrement constitué ; ou
+
+3° le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ; ou
+
+4° la sentence est contraire à l’ordre public ; ou
+
+5° la sentence n’est pas motivée, à moins que les parties n’aient dispensé les arbitres de toute motivation ; ou
+
+6° il y a eu violation des droits de la défense.
 
 **Art. 1239.**
 
@@ -8802,10 +9045,13 @@ Le rejet du recours en annulation confère l’exequatur à la sentence arbitral
 
 (1) Un recours en révision, qui tend à la rétractation de la sentence pour qu’il soit à nouveau statué en fait et en droit, est ouvert contre la sentence arbitrale dans les cas suivants :
 
-1. s’il se révèle, après que la sentence a été rendue, qu’elle a été surprise par la fraude de la partie au profit de laquelle elle a été rendue ;
-2. si, depuis le prononcé de la sentence, il a été recouvré des pièces décisives qui avaient été retenues par le fait d’une autre partie ;
-3. s’il a été jugé sur des pièces reconnues ou judiciairement déclarées fausses depuis la sentence ;
-4. s’il a été jugé sur des attestations, témoignages ou serments reconnus ou judiciairement déclarés faux depuis la sentence.
+1° s’il se révèle, après que la sentence a été rendue, qu’elle a été surprise par la fraude de la partie au profit de laquelle elle a été rendue ;
+
+2° si, depuis le prononcé de la sentence, il a été recouvré des pièces décisives qui avaient été retenues par le fait d’une autre partie ;
+
+3° s’il a été jugé sur des pièces reconnues ou judiciairement déclarées fausses depuis la sentence ;
+
+4° s’il a été jugé sur des attestations, témoignages ou serments reconnus ou judiciairement déclarés faux depuis la sentence.
 
 (2) La révision ne peut être demandée que par les personnes qui ont été parties ou représentées à la sentence.
 
@@ -8847,16 +9093,25 @@ L’appel est formé dans le délai d’un mois à compter de la signification d
 
 Sous réserve des dispositions de conventions internationales, la Cour d’appel ne peut refuser l’exequatur de la sentence arbitrale que dans l’un des cas suivants :
 
-1. le tribunal arbitral s’est déclaré à tort compétent ou incompétent ;
-2. le tribunal arbitral a été irrégulièrement constitué ;
-3. le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ;
-4. la sentence est contraire à l’ordre public ;
-5. la sentence n’est pas motivée, à moins que les parties n’aient dispensé les arbitres de toute motivation ;
-6. s’il y a eu violation des droits de la défense ;
-7. s’il se révèle, après que la sentence a été rendue, qu’elle a été surprise par la fraude de la partie au profit de laquelle elle a été rendue ;
-8. s’il a été recouvré des pièces décisives qui avaient été retenues par le fait d’une autre parti ;
-9. s’il a été jugé sur des pièces reconnues ou judiciairement déclarées fausses depuis la sentence ;
-10. s’il a été jugé sur des attestations, témoignages ou serments reconnus ou judiciairement déclarés faux depuis la sentence.
+1° le tribunal arbitral s’est déclaré à tort compétent ou incompétent ;
+
+2° le tribunal arbitral a été irrégulièrement constitué ;
+
+3° le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ;
+
+4° la sentence est contraire à l’ordre public ;
+
+5° la sentence n’est pas motivée, à moins que les parties n’aient dispensé les arbitres de toute motivation ;
+
+6° s’il y a eu violation des droits de la défense ;
+
+7° s’il se révèle, après que la sentence a été rendue, qu’elle a été surprise par la fraude de la partie au profit de laquelle elle a été rendue ;
+
+8° s’il a été recouvré des pièces décisives qui avaient été retenues par le fait d’une autre parti ;
+
+9° s’il a été jugé sur des pièces reconnues ou judiciairement déclarées fausses depuis la sentence ;
+
+10° s’il a été jugé sur des attestations, témoignages ou serments reconnus ou judiciairement déclarés faux depuis la sentence.
 
 **Art. 1247.**
 
@@ -8908,20 +9163,27 @@ On entend par «médiateur agréé», une personne physique agréée à cette fi
 
 Est dispensé de l’agrément, le prestataire de services de médiation qui remplit des exigences équivalentes ou essentiellement comparables dans un autre Etat membre de l’Union européenne.
 
-(2) 1. La personne physique qui désire être agréée comme médiateur en fait la demande au ministre de la Justice qui statue sur la demande, après avoir demandé l’avis du Procureur général d’Etat. L’agrément est accordé pour une durée indéterminée.
-2. Pour pouvoir obtenir l’agrément, la personne doit remplir les conditions suivantes:
+(2) 1\. La personne physique qui désire être agréée comme médiateur en fait la demande au ministre de la Justice qui statue sur la demande, après avoir demandé l’avis du Procureur général d’Etat. L’agrément est accordé pour une durée indéterminée.
 
-   1. présenter des garanties d’honorabilité, de compétence, de formation, d’indépendance et d’impartialité;
-   2. produire un extrait du casier judiciaire luxembourgeois ou un document similaire délivré par les autorités compétentes du pays de résidence dans lequel le demandeur a résidé les derniers cinq ans;
-   3. avoir la jouissance des droits civils et l’exercice des droits politiques; et
-   4. disposer d’une formation spécifique en médiation.
+2\. Pour pouvoir obtenir l’agrément, la personne doit remplir les conditions suivantes:
 
-   On entend par «formation spécifique en médiation» au sens du point 2., lettre d) du paragraphe (2) du présent article,
+a) présenter des garanties d’honorabilité, de compétence, de formation, d’indépendance et d’impartialité;
 
-   - un diplôme de master en médiation délivré par l’Université du Luxembourg ou par une université, un établissement d’enseignement supérieur ou un autre établissement du même niveau de formation, désigné conformément aux dispositions législatives, réglementaires ou administratives d’un Etat membre de l’Union européenne; ou
-   - une expérience professionnelle de trois ans, complétée d’une formation spécifique en médiation dont le programme est fixé par règlement grand-ducal; ou
-   - une formation en médiation reconnue dans un Etat membre de l’Union européenne pour être désigné comme médiateur en matière civile et commerciale dans cet Etat membre.
-3. Les conditions sont vérifiées par le ministre de la Justice sur base des antécédents judiciaires et de tous les éléments fournis par une éventuelle enquête administrative.
+b) produire un extrait du casier judiciaire luxembourgeois ou un document similaire délivré par les autorités compétentes du pays de résidence dans lequel le demandeur a résidé les derniers cinq ans;
+
+c) avoir la jouissance des droits civils et l’exercice des droits politiques; et
+
+d) disposer d’une formation spécifique en médiation.
+
+On entend par «formation spécifique en médiation» au sens du point 2., lettre d) du paragraphe (2) du présent article,
+
+aash un diplôme de master en médiation délivré par l’Université du Luxembourg ou par une université, un établissement d’enseignement supérieur ou un autre établissement du même niveau de formation, désigné conformément aux dispositions législatives, réglementaires ou administratives d’un Etat membre de l’Union européenne; ou
+
+bash une expérience professionnelle de trois ans, complétée d’une formation spécifique en médiation dont le programme est fixé par règlement grand-ducal; ou
+
+cash une formation en médiation reconnue dans un Etat membre de l’Union européenne pour être désigné comme médiateur en matière civile et commerciale dans cet Etat membre.
+
+3\. Les conditions sont vérifiées par le ministre de la Justice sur base des antécédents judiciaires et de tous les éléments fournis par une éventuelle enquête administrative.
 
 Si la personne ne remplit plus les conditions prévues au paragraphe (2), point 2. du présent article, le ministre de la Justice lui retire son agrément. Un règlement grand-ducal fixe la procédure d’agrément et de retrait d’agrément, ainsi que le mode de rémunération du médiateur judiciaire et familial.
 
@@ -8929,10 +9191,13 @@ Si la personne ne remplit plus les conditions prévues au paragraphe (2), point 
 
 ([L. 24 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/24/n1/jo)) Au sens du présent titre, on entend par «litige transfrontalier», tout litige dans lequel une des parties au moins est domiciliée ou a sa résidence habituelle dans un Etat membre autre que l’Etat membre de toute autre partie à la date à laquelle:
 
-1. les parties conviennent de recourir à la médiation après la naissance du litige;
-2. la médiation est ordonnée par une juridiction;
-3. une obligation de recourir à la médiation prend naissance en vertu du droit national; ou
-4. les parties sont invitées par une juridiction saisie d’une affaire à recourir à la médiation.
+a) les parties conviennent de recourir à la médiation après la naissance du litige;
+
+b) la médiation est ordonnée par une juridiction;
+
+c) une obligation de recourir à la médiation prend naissance en vertu du droit national; ou
+
+d) les parties sont invitées par une juridiction saisie d’une affaire à recourir à la médiation.
 
 ###### Art. 1251-5 — ([L. 24 février 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/02/24/n1/jo))
 
@@ -8948,8 +9213,9 @@ Si la personne ne remplit plus les conditions prévues au paragraphe (2), point 
 
 (2) L’obligation de confidentialité peut être levée
 
-- pour permettre la divulgation du contenu de l’accord de médiation en vue de la mise en œuvre ou l’exécution dudit accord; et
-- pour des raisons impérieuses d’ordre public, notamment pour assurer l’intérêt des enfants ou empêcher toute atteinte à l’intégrité physique ou psychique d’une personne.
+aash pour permettre la divulgation du contenu de l’accord de médiation en vue de la mise en œuvre ou l’exécution dudit accord; et
+
+bash pour des raisons impérieuses d’ordre public, notamment pour assurer l’intérêt des enfants ou empêcher toute atteinte à l’intégrité physique ou psychique d’une personne.
 
 (3) En cas de violation de cette obligation de confidentialité par une des parties ou par une personne participant à l’administration du processus de médiation, le juge ou l’arbitre se prononce sur l’octroi éventuel de dommages-intérêts. Les documents confidentiels qui sont malgré tout communiqués ou sur lesquels une partie se base en violation de l’obligation de confidentialité sont d’office écartés des débats.
 
@@ -8969,15 +9235,23 @@ Si la personne ne remplit plus les conditions prévues au paragraphe (2), point 
 
 (2) L’accord en vue de la médiation contient:
 
-1. l’accord des parties de recourir à la médiation;
-2. le nom et l’adresse des parties et de leurs conseils;
-3. le nom, la qualité et l’adresse du médiateur, et le cas échéant, la mention que le médiateur est agréé par le ministre de la Justice;
-4. un exposé succinct du différend;
-5. les modalités d’organisation et la durée du processus;
-6. le rappel du principe de la confidentialité des communications et pièces échangées dans le cours de la médiation;
-7. le mode de fixation et le taux des honoraires du médiateur, ainsi que les modalités de leur paiement;
-8. la date et le lieu de signature; et
-9. la signature des parties et du médiateur.
+1\. l’accord des parties de recourir à la médiation;
+
+2\. le nom et l’adresse des parties et de leurs conseils;
+
+3\. le nom, la qualité et l’adresse du médiateur, et le cas échéant, la mention que le médiateur est agréé par le ministre de la Justice;
+
+4\. un exposé succinct du différend;
+
+5\. les modalités d’organisation et la durée du processus;
+
+6\. le rappel du principe de la confidentialité des communications et pièces échangées dans le cours de la médiation;
+
+7\. le mode de fixation et le taux des honoraires du médiateur, ainsi que les modalités de leur paiement;
+
+8\. la date et le lieu de signature; et
+
+9\. la signature des parties et du médiateur.
 
 (3) La signature de l’accord en vue de la médiation suspend le cours de la prescription durant la médiation.
 
@@ -9095,10 +9369,13 @@ Les modalités de cette information sont fixées par règlement grand-ducal.
 
 Le juge refuse l’homologation de cet accord de médiation:
 
-- si celui-ci est contraire à l’ordre public;
-- si celui-ci est contraire à l’intérêt des enfants;
-- si en vertu d’une disposition spécifique il n’est pas possible de le rendre exécutoire; ou
-- si le litige n’est pas susceptible d’être réglé par voie de médiation.
+aash si celui-ci est contraire à l’ordre public;
+
+bash si celui-ci est contraire à l’intérêt des enfants;
+
+cash si en vertu d’une disposition spécifique il n’est pas possible de le rendre exécutoire; ou
+
+dash si le litige n’est pas susceptible d’être réglé par voie de médiation.
 
 ###### Art. 1251-23.
 
@@ -9110,10 +9387,13 @@ Le juge refuse l’homologation de cet accord de médiation:
 
 Le juge refuse l’homologation de cet accord de médiation:
 
-- si celui-ci est contraire à l’ordre public;
-- si celui-ci est contraire à l’intérêt des enfants;
-- si en vertu d’une disposition spécifique il n’est pas possible de le rendre exécutoire au Luxembourg;ou
-- si le litige n’est pas susceptible d’être réglé par voie de médiation.
+aash si celui-ci est contraire à l’ordre public;
+
+bash si celui-ci est contraire à l’intérêt des enfants;
+
+cash si en vertu d’une disposition spécifique il n’est pas possible de le rendre exécutoire au Luxembourg;ou
+
+dash si le litige n’est pas susceptible d’être réglé par voie de médiation.
 
 Le juge refuse également l’homologation de l’accord de médiation conclu en matières fiscale, douanière ou administrative, de la responsabilité de l’Etat pour des actes et des omissions commis dans l’exercice de la puissance publique, ainsi que de l’accord de médiation conclu en matière de droit de la famille si cet accord de médiation n’est pas exécutoire dans l’Etat dans lequel il a été conclu et la demande visant à le rendre exécutoire est formulée
 

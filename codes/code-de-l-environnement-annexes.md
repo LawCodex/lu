@@ -27,7 +27,7 @@ Table des annexes
 Table des annexes
 
 AMÉNAGEMENT DU TERRITOIRE
-\1. Dispositions générales
+1\. Dispositions générales
 Règlement grand-ducal du 25 janvier 2006 déclarant obligatoire le plan directeur sectoriel «stations de base pour réseaux
 publics de communications mobiles» (Annexe 1 de 2006)
 Règlement grand-ducal du 26 février 2016 déclarant obligatoire le plan d’occupation du sol «Structure provisoire d’accueil d’urgence pour demandeurs de protection internationale, déboutés de la procédure de protection internationale et bénéficiaires
@@ -43,7 +43,7 @@ Règlement grand-ducal du 28 juillet 2017 déclarant obligatoire la modification
 Règlement grand-ducal du 10 août 2018 rendant obligatoire une deuxième modification du plan d’occupation du sol « Aéroport
 et environs »
 Règlement grand-ducal du 21 mai 2019 rendant obligatoire le plan d’occupation du sol « Härebierg »
-\2. Plans d’aménagement et directives
+2\. Plans d’aménagement et directives
 Eau
 Décision du Gouvernement en Conseil du 13 juin 1994 concernant l’élaboration d’un plan d’aménagement partiel «Centrale
 hydro-électrique de Vianden»
@@ -59,7 +59,7 @@ portant création de zones industrielles à caractère national dans le sud du p
 industrielles à caractère national dans le sud du pays
 
 ATMOSPHÈRE
-\1. Dispositions générales
+1\. Dispositions générales
 A. Lutte contre la pollution atmosphérique
 Règlement grand-ducal du 16 octobre 1996 relatif à la lutte contre les émissions de composés organiques volatils résultants
 du stockage de l’essence, de la distribution de l’essence des terminaux aux stations-service et du ravitaillement en essence
@@ -92,7 +92,7 @@ biocarburants et modifiant le règlement grand-ducal du 21 février 2000 concern
 Règlement grand-ducal du 27 août 2012 fixant, en matière de stockage géologique du dioxyde de carbone,
 a) les critères de caractérisation et d’évaluation du complexe de stockage potentiel et des environs
 b) les critères pour l’établissement et la mise à jour du plan de surveillance et pour la surveillance postfermeture
-\2. Normes de rejets et objectifs de qualité
+2\. Normes de rejets et objectifs de qualité
 Règlement grand-ducal du 30 juin 1989 portant application de la directive 87/217/CEE du Conseil du 19 mars 1987 concernant
 la prévention et la réduction de la pollution de l’environnement par l’amiante
 Règlement grand-ducal du 30 mai 2005 portant application de la directive 2004/107/CE du Parlement européen et du Conseil
@@ -100,7 +100,7 @@ du 15 décembre 2004 concernant l’arsenic, le cadmium, le mercure, le nickel e
 Règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil
 du 21 mai 2008 concernant la qualité de l’air ambiant et un air pur pour l’Europe
 Règlement grand-ducal du 27 juin 2018 concernant la réduction des émissions nationales de certains polluants atmosphériques
-\3. Conventions internationales
+3\. Conventions internationales
 Pollution à longue distance
 Loi du 24 juin 1987 portant approbation du Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à
 longue distance, de 1979, relatif au financement à long terme du programme concerté de surveillance continue et d’évaluation du transport à longue distance des polluants atmosphériques en Europe (EMEP), fait à Genève, le 28 septembre 1984
@@ -153,7 +153,7 @@ d’ozone, fait à Montréal, le 16 septembre 1987, adoptés par Décision XXX/2
 susmentionné, tenue à Quito, Équateur, du 5 au 9 novembre 2018 et entrés en vigueur le 21 juin 2019
 
 BRUIT
-\2. Règlements d’exécution
+2\. Règlements d’exécution
 Règlement grand-ducal du 13 février 1979 concernant le niveau de bruit dans les alentours immédiats des établissements et
 des chantiers
 Règlement grand-ducal du 21 décembre 2001 portant application de la directive 2000/14/CE du Parlement européen et du
@@ -167,29 +167,29 @@ Règlement grand-ducal du 2 août 2006 portant application de la directive 2002/
 
 Table des annexes
 CHANGEMENTS CLIMATIQUES
-\1. Législation
+1\. Législation
 Loi du 15 décembre 2020 relative au climat et modifiant la loi modifiée du 31 mai 1999 portant institution d’un fonds pour la
 protection de l’environnement (telle qu’elle a été modifiée)
-\2. Conventions internationales
+2\. Conventions internationales
 Loi du 4 mars 1994 portant approbation de la Convention-cadre des Nations Unies sur les changements climatiques, faite à
 New York, le 9 mai 1992
 Loi du 29 novembre 2001 portant approbation du Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements
 climatiques, fait à Kyoto, le 11 décembre 1997 (telle qu’elle a été modifiée)
 
 CHASSE
-\1. Exercice et amodiation de la chasse
+1\. Exercice et amodiation de la chasse
 Loi du 25 mai 2011 relative à la chasse
-\2. Permis - marquages - plan - gibier - armes de chasse
+2\. Permis - marquages - plan - gibier - armes de chasse
 Règlement grand-ducal du 7 mars 2015 concernant les conditions et modalités de l’examen d’aptitude pour la délivrance du
 premier permis de chasser
 DÉCHETS
-\1. Dispositions générales
+1\. Dispositions générales
 Loi du 21 mars 2012 relative à la gestion des déchets, et modifiant
-\1. la loi du 31 mai 1999 portant institution d’un fonds pour la protection de l’environnement;
-\2. la loi du 25 mars 2005 relative au fonctionnement et au financement de l’action SuperDrecksKëscht;
-\3. la loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateurs b)
+1\. la loi du 31 mai 1999 portant institution d’un fonds pour la protection de l’environnement;
+2\. la loi du 25 mars 2005 relative au fonctionnement et au financement de l’action SuperDrecksKëscht;
+3\. la loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateurs b)
 modifiant la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
-\4. la loi du 24 mai 2011 relative aux services dans le marché intérieur (telle qu’elle a été modifiée)
+4\. la loi du 24 mai 2011 relative aux services dans le marché intérieur (telle qu’elle a été modifiée)
 Règlement grand-ducal du 24 février 1998
 – concernant l’élimination des polychlorobiphényles et des polychloroterphényles (PCB et PCT);
 – portant septième modification de l’annexe 1 de la loi modifiée du 11 mars 1981 portant réglementation de la mise sur le
@@ -212,18 +212,18 @@ Loi du 21 mars 2017 relative aux emballages et aux déchets d’emballages (tell
 \-5-
 
 Table des annexes
-\2. Déchets ménagers
+2\. Déchets ménagers
 Règlement grand-ducal du 1er décembre 1993 relatif à l’aménagement et à la gestion des parcs à conteneurs destinés à la
 collecte sélective de différentes fractions des déchets ménagers, encombrants ou assimilés
-\3. Déchets dangereux (et leurs transferts)
+3\. Déchets dangereux (et leurs transferts)
 Loi du 31 août 2016 concernant les taxes à percevoir sur les documents de notification des transferts de déchets nationaux et
 internationaux
-\4. Conventions internationales
+4\. Conventions internationales
 Loi du 9 décembre 1993 portant approbation et exécution de la Convention de Bâle sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination, signée à Bâle, le 22 mars 1989
 Amendement approuvé par la loi du 29 juin 1997
 
 EAUX
-\1. Pollution, protection et gestion de l’eau
+1\. Pollution, protection et gestion de l’eau
 Généralité
 Règlement grand-ducal du 13 mai 1994 relatif au traitement des eaux urbaines résiduaires,» (tel qu’il a été modifié)
 Règlement grand-ducal du 24 novembre 2000 concernant l’utilisation de fertilisants azotés dans l’agriculture,» (tel qu’il a été
@@ -237,9 +237,9 @@ parties de masses d’eau souterraine servant de ressource à la production d’
 b) modifiant le règlement grand-ducal modifié du 24 novembre 2000 concernant l’utilisation de fertilisants azotés dans l’agriculture (tel qu’il a été modifié)
 Règlement grand-ducal du 15 janvier 2016 relatif à l’évaluation de l’état des masses d’eau de surface (tel qu’il a été modifié)
 Règlement grand-ducal du 12 décembre 2016
-\1. relatif à la protection des eaux souterraines contre la pollution et la détérioration;
-\2. modifiant l’article 9 du règlement grand-ducal du 15 janvier 2016 relatif à l’évaluation de l’état des masses d’eau de surface;
-\3. abrogeant le règlement grand-ducal du 8 juillet 2010 relatif à la protection des eaux souterraines contre la pollution et la
+1\. relatif à la protection des eaux souterraines contre la pollution et la détérioration;
+2\. modifiant l’article 9 du règlement grand-ducal du 15 janvier 2016 relatif à l’évaluation de l’état des masses d’eau de surface;
+3\. abrogeant le règlement grand-ducal du 8 juillet 2010 relatif à la protection des eaux souterraines contre la pollution et la
 détérioration
 Zones de protection
 Règlement grand-ducal du 28 juillet 2017 portant création des zones de protection autour des captages d’eau souterraine
@@ -261,11 +261,11 @@ Table des annexes
 Règlement grand-ducal du 28 juillet 2017 portant création de zones de protection autour du site de captage d’eau souterraine
 Meelerbur et situées sur le territoire de la commune de Berdorf
 
-\2. Distribution d’eau - Eau potable
+2\. Distribution d’eau - Eau potable
 Règlement grand-ducal du 12 juin 1981 concernant la qualité des eaux superficielles destinées à la production d’eau alimentaire
 Règlement grand-ducal du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine,» (tel qu’il a été
 modifié)
-\4. Conventions internationales
+4\. Conventions internationales
 Dispositions générales et diverses
 Loi du 29 décembre 1956 portant approbation de la Convention entre le Grand-Duché de Luxembourg, la République fédérale
 d’Allemagne et la République française au sujet de la canalisation de la Moselle et du Protocole franco-luxem­bourgeois
@@ -313,18 +313,18 @@ Loi du 8 septembre 1997 portant approbation
 Protection de la Meuse
 Loi du 24 juillet 2006 portant approbation de l’Accord International sur la Meuse, signé à Gand, le 3 décembre 2002
 ÉNERGIE
-\1. Dispositions générales
+1\. Dispositions générales
 Loi du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits
 consommateurs d’énergie
 Règlement grand-ducal du 7 août 2015 relatif au fonctionnement du mécanisme d’obligations
 en matière d’efficacité énergétique (tel qu’il a été modifié)
-\2. Règlements d’exécution
+2\. Règlements d’exécution
 Règlement grand-ducal du 11 août 1996 concernant la réalisation d’audits énergétiques dans les bâtiments du secteur résidentiel et tertiaire, ainsi que dans les entreprises (tel qu’il a été modifié)
 Règlement grand-ducal du 26 décembre 2012 relatif à la production d’électricité basée sur la cogénération à haut rendement
 (tel qu’il a été modifié)
 Règlement grand-ducal du 9 juin 2021 concernant la performance énergétique des bâtiments
 ÉTABLISSEMENTS CLASSÉS
-\1. Dispositions générales
+1\. Dispositions générales
 Loi du 9 mai 2014
 a) relative aux émissions industrielles
 b) modifiant la loi modifiée du 10 juin 1999 relative aux établissements classés
@@ -332,7 +332,7 @@ c) modifiant la loi modifiée du 20 avril 2009 relative à la responsabilité en
 et la réparation des dommages environnementaux
 Loi du 28 avril 2017 concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses
 et portant modification de la loi modifiée du 10 juin 1999 relative aux établissements classés
-\2. Règlements d’exécution
+2\. Règlements d’exécution
 Règlement grand-ducal du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés et modifiant
 – le règlement grand-ducal modifié du 14 septembre 2000 concernant les études des risques et les rapports de sécurité;
 – le règlement grand-ducal modifié du 7 mars 2003 concernant l’évaluation des incidences de certains projets publics et
@@ -361,7 +361,7 @@ Règlement grand-ducal du 9 août 1973 concernant le mesurage et le classement d
 Déboisement – Défrichement – Coupes excessives
 Loi du 18 mai 2010 portant approbation de l’Accord international de 2006 sur les bois tropicaux, fait à Genève, le 27 janvier 2006
 INCIDENCES SUR L’ENVIRONNEMENT
-\1. Dispositions générales
+1\. Dispositions générales
 Règlement grand-ducal du 14 septembre 2000 concernant les études des risques et les rapports de sécurité (tel qu’il a été
 modifié)
 Loi du 16 novembre 2001 relative à la construction d’une liaison routière avec la Sarre
@@ -383,7 +383,7 @@ la gestion des déchets;
 b) les conditions d’aménagement et d’exploitation relatives à la sécurité du public et du voisinage en général ainsi qu’à la
 sécurité et l’hygiène sur le lieu de travail, la salubrité et l’ergonomie;
 concernant le Parking P&R Belval-Usines
-\2. Conventions internationales
+2\. Conventions internationales
 Loi du 29 juillet 1993 portant approbation de la Convention sur l’évaluation de l’impact sur l’environnement dans un contexte
 transfrontière, faite à Espoo (Finlande), le 25 février 1991
 Amendement approuvé par la loi du 7 mars 2003
@@ -396,23 +396,23 @@ Loi du 3 juin 1994 portant approbation de la Convention sur les effets transfron
 
 Table des annexes
 PARCS NATURELS
-\1. Dispositions générales
+1\. Dispositions générales
 Décision du Gouvernement en Conseil du 24 avril 1981 relative au plan d’aménagement partiel concernant l’environnement
 naturel et ayant trait à sa 1ère partie intitulée «Déclaration d’intention générale» (Extrait)
-\2. Création de parcs naturels
+2\. Création de parcs naturels
 Arrêté du Gouvernement en Conseil du 13 décembre 1985 concernant le plan d’aménagement global à élaborer pour le Parc
 Naturel de la Haute-Sûre
 Règlement grand-ducal du 6 avril 1999 portant déclaration du Parc Naturel de la Haute-Sûre (tel qu’il a été modifié)
 Règlement grand-ducal du 9 juin 2005 portant déclaration du Parc Naturel de l’Our (tel qu’il a été modifié)
 Règlement grand-ducal du 17 mars 2016 portant déclaration du Parc Naturel du «Mëllerdall»
 PÊCHE
-\6. Eaux frontalières avec l’Allemagne
+6\. Eaux frontalières avec l’Allemagne
 Règlement grand-ducal du 31 août 1986 fixant le montant de la taxe et les modalités d’application de l’avertissement taxé, en
 matière de pêche dans les eaux frontalières relevant de la souveraineté commune du Grand-Duché de Luxembourg, d’une
 part, et des Länder de Rhénanie-Palatinat et de la Sarre de la République Fédérale d’Allemagne, d’autre part,» (tel qu’il a
 été modifié)
 PROTECTION DE LA NATURE
-\1. Dispositions générales
+1\. Dispositions générales
 Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles et modifiant (telle qu’elle a été modifiée)
 Règlement grand-ducal du 9 janvier 2006 fixant les mesures de protection contre l’introduction et la propagation d’organismes
 nuisibles aux végétaux ou aux produits végétaux (tel qu’il a été modifié)
@@ -433,7 +433,7 @@ Règlement grand-ducal du 30 septembre 2019 concernant les aides pour l’améli
 \- 10 -
 
 Table des annexes
-\2. Zones protégées
+2\. Zones protégées
 Règlement grand-ducal du 18 février 1987 déclarant zone protégée la zone humide «FENSTERDALL» englobant des fonds sis
 sur le territoire de la commune de Boevange-sur-Attert
 Règlement grand-ducal du 18 février 1987 déclarant zone protégée la lande «TELPESCHHOLZ» englobant des fonds sis sur
@@ -570,7 +570,7 @@ Règlement grand-ducal du 11 mars 2020 déclarant zone protégée d’intérêt 
 Règlement grand-ducal du 16 mars 2020 déclarant zone protégée d’intérêt national sous forme de réserve naturelle la zone
 « Mandelbaach/Reckenerwald » sise sur les territoires des communes de Helperknapp et de Mersch
 
-\3. Conventions internationales
+3\. Conventions internationales
 Loi du 21 avril 1989
 – portant approbation des Amendements de Bonn du 22 juin 1979 et de Gaborone du 30 avril 1983 à la Convention sur
 le commerce international des espèces de faune et de flore sauvages menacées d’extinction, signée à Washing­ton, le
@@ -597,19 +597,19 @@ des avantages découlant de leur utilisation relatif à la Convention sur la div
 Loi du 28 juillet 2017 portant approbation du Protocole portant amendement à la Convention européenne sur les paysages,
 fait à Strasbourg le 15 juin 2016
 SUBSTANCES DANGEREUSES
-\1. Législation
+1\. Législation
 Règlement grand-ducal du 4 septembre 2015 déterminant les redevances de traitement en matière de produits biocides.
-\2. Réglementation
+2\. Réglementation
 Règlement grand-ducal du 5 juillet 2004 concernant l’inspection et la vérification des bonnes pratiques de laboratoire
 Règlement grand-ducal du 5 juillet 2004 relatif à l’application des principes de bonnes pratiques de laboratoire et au contrôle de
 leur application pour les essais sur les substances chimiques
-\3. Conventions internationales
+3\. Conventions internationales
 Loi du 6 mai 2000 portant approbation de la Convention de Rotterdam sur la procédure de consentement préalable en connaissance de cause applicable à certains produits chimiques et pesticides dangereux qui font l’objet d’un commerce international, faite à Rotterdam, le 10 septembre 1998
 Loi du 8 janvier 2003 portant approbation de la Convention de Stockholm sur les polluants organiques persistants, faite à
 Stockholm, le 22 mai 2001
 Loi du 28 juillet 2017 portant approbation de la Convention de Minamata sur le mercure, adoptée à Genève le 19 janvier 2013
 DIVERS
-\1. Généralités
+1\. Généralités
 Loi du 20 avril 2009 relative à la responsabilité environnementale en ce qui concerne la prévention et la réparation des
 dommages environnementaux (telle qu’elle a été modifiée)
 Règlement grand-ducal du 12 février 2015 déterminant le barème tarifaire et les modalités de paiement des redevances associées au label écologique
@@ -640,7 +640,7 @@ la santé humaine et l’environnement lors des demandes d’autorisation de pro
 projets de mise sur le marché d’organismes génétiquement
 Marchés publics
 Loi du 25 juin 2009 sur les marchés publics (telle qu’elle a été modifiée)
-\2. Instruments économiques et financiers
+2\. Instruments économiques et financiers
 Aides en faveur de l’économie
 Loi du 18 février 2010 relative à un régime d’aides à la protection de l’environnement et à l’utilisation rationnelle des ressources
 naturelles (telle qu’elle a été modifiée)
@@ -664,17 +664,17 @@ la mise en valeur des énergies renouvelables (tel qu’il a été modifié)
 
 Table des annexes
 Règlement grand-ducal du 16 décembre 2011
-\1) portant introduction d’une aide financière aux personnes physiques et aux personnes morales de droit privé pour la promotion des voitures à personnes à faibles émissions de CO2
-\2) modifiant le règlement grand-ducal modifié du 19 décembre 2008
+1\) portant introduction d’une aide financière aux personnes physiques et aux personnes morales de droit privé pour la promotion des voitures à personnes à faibles émissions de CO2
+2\) modifiant le règlement grand-ducal modifié du 19 décembre 2008
 a) modifiant le règlement grand-ducal du 5 décembre 2007 concernant l’octroi d’une aide financière aux personnes physiques pour la promotion des voitures à personnes à faibles émissions de CO2
 b) portant introduction d’une aide financière pour la promotion des appareils électroménagers réfrigérants à basse
 consommation d’énergie (A++)
-\3) portant introduction d’une aide financière pour la promotion des quadricycles électriques
+3\) portant introduction d’une aide financière pour la promotion des quadricycles électriques
 Règlement grand-ducal du 12 décembre 2012 instituant un régime d’aides pour la promotion de l’utilisation rationnelle de l’énergie et la mise en valeur des énergies renouvelables dans le domaine du logement,» (tel qu’il a été modifié)
 Règlement grand-ducal du 7 avril 2022 déterminant les mesures d’exécution de la loi du 23 décembre 2016 instituant un
 régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans
 le domaine du logement
-\4. Conventions internationales
+4\. Conventions internationales
 Loi du 11 décembre 1996 portant approbation de la Convention des Nations Unies sur la lutte contre la désertification dans
 les pays gravement touchés par la sécheresse et/ou la désertification, en particulier en Afrique, faite à Paris, le 17 juin 1994
 Loi du 29 mai 2002 portant approbation du Protocole de Cartagena sur la prévention des risques biotechnologiques relatif à la
@@ -1128,20 +1128,20 @@ Version applicable à partir du 26 janvier 2004
 ANNEXE I
 Description de l’étiquette relative à la consommation de carburant et aux émissions de CO2
 Au minimum toutes les étiquettes de consommation de carburant:
-1)
+1\)
 
 sont conformes à un modèle de présentation standardisé de manière à être plus facilement reconnaissables par les
 consommateurs;
 
-2)
+2\)
 
 mesurent 297 mm x 210 mm (format A4);
 
-3)
+3\)
 
 comportent une indication du modèle et du type de carburant du véhicule sur lequel elles sont apposées;
 
-4)
+4\)
 
 contiennent la valeur numérique de la consommation de carburant officielle et des émissions spécifiques de CO2 officielles. La valeur de la consommation de carburant officielle est exprimée soit en litres par 100 kilomètres (l/100 km),
 soit en kilomètres par litre (km/l), soit en une combinaison appropriée de ces formules, et est indiquée avec une précision d’une décimale. Les émissions spécifiques de CO2 officielles sont exprimées en grammes par kilomètre (g/km) et
@@ -1151,14 +1151,14 @@ avec les dispositions de la directive du règlement grand-ducal modifié du 14 o
 directive 80/181/CEE du 20 décembre 1979 concernant le rapprochement des législations des États membres relatives
 aux unités de mesure;
 
-5)
+5\)
 
 contiennent le texte suivant concernant la disponibilité du guide de la consommation de carburant et des émissions de
 CO2.
 «Un guide de la consommation de carburant et des émissions de CO2 contenant des données pour tous les modèles de
 voitures particulières neuves peut être obtenu gratuitement dans tous les points de vente»;
 
-6)
+6\)
 
 contiennent le texte suivant:
 «La consommation de carburant et les émissions de CO2 d’un véhicule sont fonction non seulement de son rendement
@@ -1168,14 +1168,14 @@ gaz à effet de serre responsable du réchauffement planétaire.»
 ANNEXE II
 Description du guide de la consommation de carburant et des émissions de CO2
 Le guide de la consommation de carburant et des émissions de CO2 contient, au minimum, les informations suivantes:
-1)
+1\)
 
 une liste, établie annuellement, de tous les modèles de voitures particulières neuves disponibles à l’achat dans les États
 membres regroupées par marque et suivant l’ordre alphabétique. Si le guide est mis à jour plus d’une fois par an, il doit
 contenir une liste de tous les modèles de voitures particulières neuves disponibles à la date de la publication de cette
 mise à jour;
 
-2)
+2\)
 
 pour chaque modèle figurant dans le guide, le type de carburant, la valeur numérique de la consommation de carburant officielle et des émissions spécifiques de CO2 officielles. La valeur de la consommation de carburant officielle est
 exprimée soit en litres par 100 kilomètres (l/100 km), soit en kilomètres par litre (km/l), soit en combinaison appropriée
@@ -1188,30 +1188,30 @@ unités de mesure;
 \- 34 -
 
 ATMOSPHÈRE – 1. Dispositions générales
-3)
+3\)
 
 une liste, bien en évidence, des dix modèles de voitures particulières neuves les plus performants en terme de rendement énergétique, classés par ordre progressif d’émissions de CO2, pour chaque type de carburant. La liste indique
 le modèle, la valeur chiffrée de la consommation de carburant officielle, ainsi que les émissions spécifiques de CO2
 officielles;
 
-4)
+4\)
 
 des conseils à l’intention des automobilistes précisant que la bonne utilisation et l’entretien régulier du véhicule ainsi
 qu’un certain comportement au volant, par exemple, éviter toute conduite agressive, rouler à vitesse modérée, anticiper
 le freinage, vérifier que les pneumatiques sont correctement gonflés, réduire les périodes de ralenti, éviter de transporter des charges excessives, améliorent la consommation de carburant et réduisent les émissions de CO2, de leur voiture
 particulière;
 
-5)
+5\)
 
 une explication des effets des émissions de gaz à effet de serre, du changement climatique potentiel et du rôle des
 véhicules à moteur, ainsi qu’une référence aux différents carburants proposés au consommateur et à leurs incidences
 sur l’environnement, sur la base des données scientifiques et des exigences légales les plus récentes;
 
-6)
+6\)
 
 une référence à l’objectif fixé par la Communauté Européenne pour les émissions moyennes de CO2 des voitures particulières neuves et à la date à laquelle cet objectif doit être atteint;
 
-7)
+7\)
 
 une référence au guide de la consommation de carburant et des émissions de CO2 de la Commission européenne sur
 Internet, lorsque ce guide sera disponible.
@@ -1220,27 +1220,27 @@ Internet, lorsque ce guide sera disponible.
 «ANNEXE III
 Description de l’affiche et de tout autre mode d’affichage à installer dans le point de vente
 L’affiche – ou l’autre mode d’affichage – répond, au minimum, aux exigences suivantes:
-1)
+1\)
 
 L’affiche – ou l’autre mode d’affichage – doit mesurer au moins 70 cm x 50 cm;
 
-2)
+2\)
 
 Les informations doivent être facilement lisibles;
 
-3)
+3\)
 
 Lorsque les informations sont affichées sur un écran électronique, celui-ci doit avoir au moins une grandeur de 25 cm x
 32 cm (écran 17 pouces). Les informations peuvent être affichées en les faisant défiler sur l’écran;
 
-4)
+4\)
 
 Les modèles de voitures particulières neuves doivent être groupés et indiqués séparément suivant le type de carburant
 qu’ils utilisent (par exemple, essence ou diesel, etc.). Pour chaque type de carburant, les modèles doivent être classés
 par ordre progressif d’émission de CO2, le modèle dont la consommation officielle de carburant est la plus faible figurant
 en tête de liste;
 
-5)
+5\)
 
 Pour chaque modèle de voiture particulière de la liste, la valeur numérique correspondant à la consommation de carburant officielle et aux émissions spécifiques de CO2 officielles sont indiquées. La valeur correspondant à la consommation
 de carburant officielle est exprimée avec une précision décimale, soit en litres par 100 kilomètres (l/100 km), soit en
@@ -1269,7 +1269,7 @@ Diesel
 
 …
 
-6)
+6\)
 
 L’affiche – ou l’autre mode d’affichage – doit comporter le texte suivant concernant la disponibilité du guide de la
 consommation de carburant et des émissions de CO2: «Un guide de la consommation de carburant et des émissions de
@@ -1279,19 +1279,19 @@ tous les points de vente»; en cas d’affichage électronique ce texte doit êt
 \- 35 -
 
 ATMOSPHÈRE – 1. Dispositions générales
-7)
+7\)
 
 L’affiche – ou l’autre mode d’affichage – doit comporter le texte suivant: «La consommation de carburant et les émissions
 de CO2 sont fonction non seulement de son rendement énergétique, mais également du comportement au volant et
 d’autres facteurs non techniques. Le CO2 est le principal gaz à effet de serre responsable du réchauffement planétaire».
 En cas d’affichage électronique ce texte doit être affiché en permanence;
 
-8)
+8\)
 
 L’affiche – ou l’autre mode d’affichage – doit être entièrement mise à jour au moins tous les six mois. En cas d’affichage
 électronique, la mise à jour se fait au moins tous les trois mois;
 
-9)
+9\)
 
 Les modes d’affichage traditionnels peuvent être remplacés totalement et de façon permanente par un affichage sur
 écran électronique. Dans ce cas, l’écran électronique doit être disposé d’une manière à attirer au moins autant l’attention
@@ -1303,16 +1303,16 @@ dans la documentation promotionnelle
 L’ensemble de la documentation promotionnelle contient les données concernant la consommation de carburant officielle et
 les émissions de CO2 officielles des véhicules auxquels elle se rapporte. Ces informations doivent, au minimum, répondre aux
 exigences suivantes:
-1)
+1\)
 
 les informations doivent être facilement lisibles et au moins aussi visibles que la partie principale des informations
 figurant dans la documentation promotionnelle;
 
-2)
+2\)
 
 les informations doivent être faciles à comprendre, même si elles sont lues rapidement;
 
-3)
+3\)
 
 des données concernant la consommation de carburant officielle doivent être fournies pour l’ensemble des modèles
 couverts par le matériel promotionnel. Si le matériel promotionnel couvre plus d’un modèle, il est possible d’indiquer
@@ -1453,15 +1453,15 @@ Des calculs distincts sont effectués pour chaque vol et pour chaque carburant.
 Déclaration des émissions
 Chaque exploitant d’aéronef fait figurer les informations ci-après dans la déclaration qu’il communique conformément à
 l’article 15, paragraphe 2 de la loi modifiée du 23 décembre 2004
-1)
+1\)
 
 établissant un système d’échange de quotas d’émission de gaz à effet de serre
 
-2)
+2\)
 
 créant un fonds de financement des mécanismes de Kyoto
 
-3)
+3\)
 
 modifiant l’article 13 bis de la loi modifiée du 10 juin 1999 relative aux établissements classés,
 
@@ -1646,11 +1646,11 @@ Critères de vérification des déclarations
 (Règl. g.-d. du 3 août 2010)
 «Partie A - Vérification des émissions des installations fixes»
 Principes généraux
-1.
+1\.
 
 Les émissions de chaque activité indiquée à l’annexe I font l’objet de vérifications.
 
-2.
+2\.
 
 La procédure de vérification prend en considération la déclaration établie en application de l’Art. 15, paragraphe 2, et la
 surveillance des émissions effectuée au cours de l’année précédente. Elle porte sur la fiabilité, la crédibilité et la précision des systèmes de surveillance et des données déclarées et des informations relatives aux émissions, et notamment:
@@ -1659,7 +1659,7 @@ b) le choix et l’utilisation des facteurs d’émission;
 c) les calculs effectués pour déterminer les émissions globales;
 d) si des mesures sont utilisées, la pertinence du choix et l’emploi des méthodes de mesure.
 
-3.
+3\.
 
 Les émissions déclarées ne peuvent être validées que si des données et des informations fiables et crédibles permettent de déterminer les émissions avec un degré élevé de certitude.
 Pour établir ce degré élevé de certitude, l’exploitant doit démontrer que:
@@ -1667,35 +1667,35 @@ a) les données déclarées sont exemptes d’incohérences;
 b) la collecte des données a été effectuée conformément aux normes scientifiques applicables;
 c) les registres correspondants de l’installation sont complets et cohérents.
 
-4.
+4\.
 
 Le vérificateur a accès à tous les sites et à toutes les informations en rapport avec l’objet des vérifications.
 
-5.
+5\.
 
 Le vérificateur tient compte du fait que l’installation est enregistrée ou non dans l’EMAS (système communautaire de
 management environnemental et d’audit).
 
 Méthodologie
 Analyse stratégique
-6.
+6\.
 
 La vérification est fondée sur une analyse stratégique de toutes les activités exercées dans l’installation. Cela implique
 que le vérificateur ait une vue d’ensemble de toutes les activités et de leur importance par rapport aux émissions.
 
 Analyse des procédés
-7.
+7\.
 
 La vérification des informations soumises est effectuée, en tant que de besoin, sur le site de l’installation. Le vérificateur
 recourt à des contrôles par sondage pour déterminer la fiabilité des données et des informations fournies.
 
 Analyse des risques
-8.
+8\.
 
 Le vérificateur soumet toutes les sources d’émission présentes dans l’installation à une évaluation de la fiabilité des
 données fournies pour chaque source contribuant aux émissions globales de l’installation.
 
-9.
+9\.
 
 Sur la base de cette analyse, le vérificateur met explicitement en évidence les sources dont la détermination des
 émissions présente un risque d’erreur élevé, et d’autres aspects de la procédure de surveillance et de déclaration qui
@@ -1703,20 +1703,20 @@ sont des sources d’erreurs potentielles dans la détermination des émissions 
 facteurs d’émission et des calculs à effectuer pour déterminer les niveaux des émissions des différentes sources d’émission. Une attention particulière est accordée à ces sources dont la détermination des émissions présente un risque
 d’erreur élevé, et aux aspects susmentionnés de la procédure de surveillance.
 
-10.
+10\.
 
 Le vérificateur prend en considération toutes les méthodes de gestion des risques appliquées par l’exploitant en vue de
 réduire au maximum le degré d’incertitude.
 
 Rapport
-11.
+11\.
 
 Le vérificateur prépare un rapport sur la procédure de validation, indiquant si la déclaration faite en application de
 l’article 15, paragraphe 2, est satisfaisante. Ce rapport traite tous les aspects pertinents pour le travail effectué. Le vérificateur peut attester que la déclaration établie en application de l’article 15, paragraphe 2, est satisfaisante si, selon lui,
 les émissions totales déclarées ne sont pas matériellement inexactes.
 
 Compétences minimales exigées du vérificateur
-12.
+12\.
 
 Le vérificateur est indépendant de l’exploitant, exerce ses activités avec un professionnalisme sérieux et objectif, et a
 une bonne connaissance:
@@ -1729,7 +1729,7 @@ c) de l’élaboration de toutes les informations relatives à chaque source d�
 ATMOSPHÈRE – 1. Dispositions générales
 (Règl. g.-d. du 3 août 2010)
 «Partie B - Vérification des émissions des activités aériennes
-13.
+13\.
 
 Les principes généraux et les méthodes définis dans la présente annexe s’appliquent à la vérification des déclarations
 d’émissions des vols relevant d’une activité aérienne visée à l’annexe I de la loi modifiée du 23 décembre 2004 établissant un système d’échange de quotas d’émission de gaz à effet de serre.
@@ -1748,7 +1748,7 @@ aux paragraphes 10 et 12, les références à l’exploitant doivent être lues 
 d’aéronef.
 
 Dispositions complémentaires relatives à la vérification des déclarations d’émissions du secteur de l’aviation
-14.
+14\.
 
 Le vérificateur s’assure notamment que:
 a) tous les vols relevant d’une activité aérienne visée à l’annexe I de la loi modifiée du 23 décembre 2004 établissant
@@ -1761,13 +1761,13 @@ d’une autre manière à l’aéronef effectuant l’activité aérienne sont c
 Dispositions complémentaires relatives à la vérification des données de tonnes-kilomètres soumises aux fins des articles
 5quater et 5quinquies de la loi modifiée du 23 décembre 2004 établissant un système d’échange de quotas d’émission de gaz
 à effet de serre
-15.
+15\.
 
 Les principes généraux et les méthodes applicables lors de la vérification des déclarations d’émissions conformément à
 l’article 15, paragraphe 2, de la loi modifiée du 23 décembre 2004 établissant un système d’échange de quotas d’émission de gaz à effet de serre, énoncés dans la présente annexe, doivent, le cas échéant, être également appliqués lors
 de la vérification des données de tonnes-kilomètres.
 
-16.
+16\.
 
 Le vérificateur doit notamment s’assurer que seuls ont été pris en compte dans la demande introduite par l’exploitant
 d’aéronef en vertu de l’article 5quater, paragraphe 1, et de l’article 5quinquies, paragraphe 2 de la loi modifiée du 23
@@ -1850,15 +1850,15 @@ ANNEXE IV
 RAPPORT D’ÉCHANTILLONNAGES – DÉPÔTS PÉTROLIERS
 
 Le rapport doit contenir au moins les informations suivantes:
-\1. Identification de l’agent procédant au prélèvement de(s) (l’)échantillon(s).
-\2. Dénomination et siège social de l’organisme agréé.
-\3. Coordonnées des dépôts et de l’exploitant.
-\4. Liste des échantillons prélevés selon les méthodes décrites selon la norme EN ISO 3170 avec les données
+1\. Identification de l’agent procédant au prélèvement de(s) (l’)échantillon(s).
+2\. Dénomination et siège social de l’organisme agréé.
+3\. Coordonnées des dépôts et de l’exploitant.
+4\. Liste des échantillons prélevés selon les méthodes décrites selon la norme EN ISO 3170 avec les données
 suivantes: numéro du réservoir, le cas échéant, la position sur le site; le système d’échantillonnage utilisé; le lieu
 de prélèvement; la description du carburant; la quantité représentée par l’échantillon.
-\5. Commentaires de l’agent visé au point 1.
-\6. Date du prélèvement de(s) (l’)échantillon(s).
-\7. Signatures des rapports d’échantillonnages par les personnes visées aux points 1. et 3.
+5\. Commentaires de l’agent visé au point 1.
+6\. Date du prélèvement de(s) (l’)échantillon(s).
+7\. Signatures des rapports d’échantillonnages par les personnes visées aux points 1. et 3.
 
 \- 44 -
 
@@ -1970,15 +1970,15 @@ chaudière et sous un angle de 45 degrés dans la partie supérieure de la condu
 
 ANNEXE III
 Mesurage des émissions des installations à combustible solide
-\1. Les mesures sont à prélever dans le noyau du flux des gaz d’échappement.
-\2. Les mesures sont effectuées à la puissance nominale de l’installation ou, le cas échéant, à la puissance la plus haute
+1\. Les mesures sont à prélever dans le noyau du flux des gaz d’échappement.
+2\. Les mesures sont effectuées à la puissance nominale de l’installation ou, le cas échéant, à la puissance la plus haute
 réglable.
-\3. Pour les installations conçues pour une combustion mixte en combustible solide, les mesures sont effectuées lors de la
+3\. Pour les installations conçues pour une combustion mixte en combustible solide, les mesures sont effectuées lors de la
 combustion du combustible principal.
-\4. La température de la chaudière lors des mesures doit être de 60 °C au moins. Dans le cas d’une installation à chargement
+4\. La température de la chaudière lors des mesures doit être de 60 °C au moins. Dans le cas d’une installation à chargement
 manuel, les mesures sont à commencer cinq minutes après observation d’une incandescence suffisante à une inflammation,
 cédée à la masse de chargement maximale en combustible, indiquée par le constructeur.
-\5. Les mesures des émissions sont à prendre simultanément avec les mesures de la teneur en oxygène dans les gaz
+5\. Les mesures des émissions sont à prendre simultanément avec les mesures de la teneur en oxygène dans les gaz
 d’échappement en valeur moyenne d’un quart d’heure.
 Les émissions mesurées sont à convertir à la teneur en oxygène de référence selon la relation suivante:
 
@@ -2012,7 +2012,7 @@ O2M
 
 teneur volumique du dioxygène dans les gaz d’échappement sec.
 
-\6. Si les mesures sont effectuées à chargement partiel, il est à procéder comme suit:
+6\. Si les mesures sont effectuées à chargement partiel, il est à procéder comme suit:
 6.1 S’il s’agit d’une installation sans ventilation, les mesures sont à prendre pendant cinq minutes à volet d’aération
 ouvert et pendant dix minutes à volet d’aération fermé.
 6.2 S’il s’agit d’une installation ayant une ventilation non-automatisée (on/off), les mesures sont à prendre cinq
@@ -2026,7 +2026,7 @@ diminuée.
 ATMOSPHÈRE – 1. Dispositions générales
 ANNEXE IV
 Rendement de combustion des installations à combustible solide, liquide ou gazeux
-1.
+1\.
 
 La formule pour le calcul du rendement de combustion d’après la méthode de mesurage CO2 est la suivante:
 
@@ -2104,7 +2104,7 @@ B
 
 0,008
 
-\2. La formule pour le calcul du rendement de combustion d’après la méthode de mesurage O2 est la suivante:
+2\. La formule pour le calcul du rendement de combustion d’après la méthode de mesurage O2 est la suivante:
 
 ª
 
@@ -2275,7 +2275,7 @@ B
 
 0,006 9
 
-\1. Modifié par le règlement grand-ducal du 23 juillet 2016.
+1\. Modifié par le règlement grand-ducal du 23 juillet 2016.
 
 \- 47 -
 
@@ -2348,20 +2348,20 @@ ATMOSPHÈRE – 1. Dispositions générales
 «ANNEXE VI
 Détermination de la hauteur minimale des cheminées d’installations à combustible
 solide ou liquide d’une puissance supérieure à 7 kW et inférieure à 1 MW
-\1. Les exigences dont question à l’article 13, paragraphe 1er, points 1 a), b) et c) sont illustrées comme suit:
+1\. Les exigences dont question à l’article 13, paragraphe 1er, points 1 a), b) et c) sont illustrées comme suit:
 
 � 80 cm
 
 toit malléable
 
-\2. Les exigences dont question à l’article 13, paragraphe 1er, point 2 sont illustrées
-\2. Les exigences
+2\. Les exigences dont question à l’article 13, paragraphe 1er, point 2 sont illustrées
+2\. Les exigences
 comme
 suit: dont question à l’article 13, paragraphe 1er, point 2 sont illustrées comme suit:
 
 \- 49 -
 
-\3. exigences
+3\. exigences
 Les exigences
 question
 à l’article
@@ -2369,7 +2369,7 @@ question
 2, illustrées
 sont illustrées
 comme
-\3. Les
+3\. Les
 dont dont
 question
 à l’article
@@ -2380,8 +2380,8 @@ suit : suit :
 
 ATMOSPHÈRE – 1. Dispositions générales
 
-\3. Les exigences dont question à l’article 13, paragraphe 2, sont illustrées comme suit :
-\3. Les exigences dont question à l’article 13, paragraphe 2, sont illustrées comme suit:
+3\. Les exigences dont question à l’article 13, paragraphe 2, sont illustrées comme suit :
+3\. Les exigences dont question à l’article 13, paragraphe 2, sont illustrées comme suit:
 
 »
 »
@@ -2427,9 +2427,9 @@ commerce, industrie autre
 E)
 
 Installation
-\1) type d’installation
-\2) année de construction, puissance en kW ou en MW, marque et type de chaudière et de brûleur
-\3) Volume du réservoir tampon en l
+1\) type d’installation
+2\) année de construction, puissance en kW ou en MW, marque et type de chaudière et de brûleur
+3\) Volume du réservoir tampon en l
 
 F)
 
@@ -2483,7 +2483,7 @@ année de construction de la chaudière et du brûleur,
 année de la mise en service de la chaudière et du brûleur,
 volume du réservoir tampon en l.
 C) Résultats des mesures et de l’inspection visuelle:
-\1. Installations à combustible solide
+1\. Installations à combustible solide
 poussière en mg/m3:
 la valeur qui figure dans le certificat constructeur ou la valeur mesurée lors de la réception,
 monoxyde de carbone en mg/m3,
@@ -2498,8 +2498,8 @@ monoxyde de carbone,
 contrôle du conduit de fumées
 résultat global (conforme, non conforme).
 
-\3. Éléments à surveiller
-\4. Contrôle du bon fonctionnement des parties accessibles
+3\. Éléments à surveiller
+4\. Contrôle du bon fonctionnement des parties accessibles
 D) (…) (Abrogé par le règl. g.-d. du 23 juillet 2016)
 E) Contrôleur
 Nom, adresse complète et code de l’entreprise,
@@ -2608,7 +2608,7 @@ Valeurs de combustion
 Combust. liq.
 (Art. 10)
 
-1.
+1\.
 
 Cheminées
 
@@ -2622,7 +2622,7 @@ Inspection périodique
 Évaluation de la performance
 énergétique (Art.18)1
 
-2.
+2\.
 
 Évaluation du
 dimensionnement3
@@ -2728,42 +2728,42 @@ de la ratification, acceptation, approbation ou adhésion.
 ANNEXE II
 Catégories de sources fixes
 I. Introduction
-\1. La présente annexe ne vise pas les installations ou parties d’installations utilisées pour la recherche-développement ou la
+1\. La présente annexe ne vise pas les installations ou parties d’installations utilisées pour la recherche-développement ou la
 mise à l’essai de produits ou procédés nouveaux.
-\2. Les valeurs limites indiquées ci-après se rapportent généralement aux capacités de production ou à la production effective. Lorsqu’un exploitant se livre à plusieurs activités relevant de la même sous-rubrique dans la même installation ou sur le
+2\. Les valeurs limites indiquées ci-après se rapportent généralement aux capacités de production ou à la production effective. Lorsqu’un exploitant se livre à plusieurs activités relevant de la même sous-rubrique dans la même installation ou sur le
 même site, les capacités correspondant à ces activités sont additionnées.
 II. Liste des catégories
 Catégorie
 
 Description de la catégorie
 
-1.
+1\.
 
 Installations de combustion exigeant un apport thermique nominal net supérieur à 50 MW.
 
-2.
+2\.
 
 Installations de grillage ou d’agglomération de minerais (y compris de minerais sulfurés) ou de
 concentrés d’une capacité supérieure à 150 tonnes/jour d’aggloméré pour le minerai de fer ou
 le concentré et 30 tonnes/jour d’aggloméré en cas de grillage de cuivre, de plomb ou de zinc
 ou pour tout traitement de minerais d’or et de mercure.
 
-3.
+3\.
 
 Fonderies et aciéries (première ou deuxième fusion, notamment dans des fours à arc), y compris en coulée continue, d’une capacité supérieure à 2,5 tonnes/heure.
 
-4.
+4\.
 
 Fonderies de métaux ferreux ayant une capacité de production supérieure à 20 tonnes/jour.
 
-5.
+5\.
 
 Installations de production de cuivre, (Loi du 12 avril 2015) «de plomb, de zinc et d’alliages de
 silico- et ferro-manganèse» à partir de minerais, de concentrés ou de matières premières de
 récupération par des procédés métallurgiques, d’une capacité supérieure à 30 tonnes/jour de
 métal dans le cas d’installations de production primaire et à 15 tonnes/jour dans le cas d’installations de production secondaire ou de toute installation de production primaire de mercure.
 
-6.
+6\.
 
 Installations de fusion (affinage, moulages de fonderie, etc.), notamment pour les alliages du
 cuivre, du plomb et du zinc, y compris les produits de récupération, d’une capacité supérieure
@@ -2772,27 +2772,27 @@ cuivre, du plomb et du zinc, y compris les produits de récupération, d’une c
 \- 55 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-7.
+7\.
 
 Installations de production de clinker de ciment dans des fours rotatifs d’une capacité de production supérieure à 500 tonnes/jour ou dans d’autres fours d’une capacité de production
 supérieure à 50 tonnes/jour.
 
-8.
+8\.
 
 Fabriques de verre au plomb, y compris de fibre de verre, d’une capacité de fusion supérieure
 à 20 tonnes/jour.
 
-9.
+9\.
 
 Installations de production de chlore et de soude caustique par électrolyse utilisant le procédé
 à cathode de mercure.
 
-10.
+10\.
 
 Installations d’incinération de déchets dangereux ou de déchets médicaux d’une capacité
 supérieure à 1 tonne/heure ou installations de co-incinération de déchets dangereux ou médicaux spécifiés conformément à la législation nationale.
 
-11.
+11\.
 
 Installations d’incinération de déchets urbains d’une capacité supérieure à 3 tonnes/heure
 ou installations de co-incinération de déchets urbains spécifiés conformément à la législation
@@ -2801,8 +2801,8 @@ nationale.
 ANNEXE III
 Meilleures techniques disponibles pour lutter contre les émissions de métaux lourds et de leurs composés provenant des catégories de sources énumérées à l’Annexe II
 I. Introduction
-\1. La présente annexe vise à donner aux Parties des indications pour déterminer les meilleures techniques disponibles applicables aux sources fixes afin de leur permettre de s’acquitter des obligations découlant du Protocole.
-\2. On entend par «meilleures techniques disponibles» (MTD) le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer, en principe, la base
+1\. La présente annexe vise à donner aux Parties des indications pour déterminer les meilleures techniques disponibles applicables aux sources fixes afin de leur permettre de s’acquitter des obligations découlant du Protocole.
+2\. On entend par «meilleures techniques disponibles» (MTD) le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer, en principe, la base
 des valeurs limites d’émission visant à éviter et, lorsque cela s’avère impossible, à réduire de manière générale les émissions
 et leur impact sur l’environnement dans son ensemble:
 –
@@ -2877,27 +2877,27 @@ tenir compte des caractéristiques techniques de l’installation concernée, de
 \- 56 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-\3. Les informations concernant l’efficacité et le coût des mesures de lutte contre les émissions sont fondées sur la documentation officielle de l’Organe exécutif et de ses organes subsidiaires, notamment sur les documents reçus et examinés par
+3\. Les informations concernant l’efficacité et le coût des mesures de lutte contre les émissions sont fondées sur la documentation officielle de l’Organe exécutif et de ses organes subsidiaires, notamment sur les documents reçus et examinés par
 l’Equipe spéciale sur les métaux lourds et le Groupe de travail préparatoire spécial sur les métaux lourds. Il a été tenu compte,
 en outre, d’autres informations internationales sur les meilleures techniques disponibles pour lutter contre les émissions (par
 exemple, les notes techniques de la Communauté européenne sur les MTD, les recommandations de PARCOM concernant les
 MTD et les informations communiquées directement par des experts).
-\4. L’expérience que l’on a des installations et des produits nouveaux qui font appel à des techniques peu polluantes, ainsi
+4\. L’expérience que l’on a des installations et des produits nouveaux qui font appel à des techniques peu polluantes, ainsi
 que de la mise à niveau des installations existantes, s’accroît sans cesse, de sorte que la présente annexe devra peut-être être
 modifiée et actualisée.
-\5. On trouvera ci-après la description d’un certain nombre de mesures dont le coût et l’efficience sont très variables. Le choix
+5\. On trouvera ci-après la description d’un certain nombre de mesures dont le coût et l’efficience sont très variables. Le choix
 des mesures applicables dans chaque cas dépend de plusieurs facteurs, qui peuvent être limitatifs, dont la situation économique, l’infrastructure technologique, les dispositifs anti-émissions déjà en place, la sécurité, la consommation d’énergie et le
 fait que la source est nouvelle ou existe déjà.
-\6. Il est tenu compte, dans la présente annexe, des émissions de cadmium, de plomb et de mercure et de leurs composés
+6\. Il est tenu compte, dans la présente annexe, des émissions de cadmium, de plomb et de mercure et de leurs composés
 se présentant sous forme solide (par liaison avec des particules) et/ou gazeuse. Les formes chimiques de ces composés ne
 sont généralement pas envisagées ici. Cependant, l’efficacité des dispositifs anti-émissions suivant les propriétés physiques du
 métal lourd concerné a été prise en considération, notamment dans le cas du mercure.
-\7. Les valeurs d’émission, exprimées en mg/m3, se rapportent aux conditions normales (volume à 273,15 K, 101,3 kPa, gaz
+7\. Les valeurs d’émission, exprimées en mg/m3, se rapportent aux conditions normales (volume à 273,15 K, 101,3 kPa, gaz
 secs) non corrigées de la concentration d’oxygène, sauf indication contraire, et sont calculées suivant les techniques projetées
 par le CEN (Comité européen de normalisation) et, dans certains cas, suivant les techniques nationales d’échantillonnage et
 de surveillance.
 II. Options générales envisageables pour réduire les hissions de métaux lourds et de leurs composés
-\8. Il existe plusieurs façons de combattre ou de prévenir les émissions de métaux lourds. Parmi les mesures de réduction des
+8\. Il existe plusieurs façons de combattre ou de prévenir les émissions de métaux lourds. Parmi les mesures de réduction des
 émissions l’application de technologies additionnelles et la modification des procédés (y compris du contrôle des opérations et
 de l’entretien) tiennent une large place. On peut recourir aux mesures ci-après, dont l’application peut être modulée en fonction
 des conditions techniques ou de la situation économique générales:
@@ -2925,7 +2925,7 @@ e)
 Application de techniques de gestion écologiquement appropriées pour l’utilisation et l’élimination de certains produits
 contenant du cadmium, du plomb et/ou du mercure.
 
-\9. Il est nécessaire de contrôler la mise en oeuvre des procédures anti-émissions afin de veiller à ce que les mesures et
+9\. Il est nécessaire de contrôler la mise en oeuvre des procédures anti-émissions afin de veiller à ce que les mesures et
 les méthodes appropriées soient correctement appliquées et permettent une réduction effective des émissions. Ce contrôle
 consistera à:
 a)
@@ -2945,23 +2945,23 @@ d)
 
 Faire en sorte que les organismes de réglementation effectuent un audit périodique des mesures de réduction appliquées afin de veiller à leur bon fonctionnement dans la durée.
 
-\10. Les mesures de réduction des émissions devraient être d’un bon rapport coût-efficacité. Le rapport coût-efficacité devrait
+10\. Les mesures de réduction des émissions devraient être d’un bon rapport coût-efficacité. Le rapport coût-efficacité devrait
 être déterminé en fonction du montant total annuel des coûts unitaires de réduction (dépenses d’équipement et coûts d’exploitation compris). Les coûts de réduction des émissions devraient être également envisagés dans le contexte du procédé considéré
 dans son ensemble.
 III. Techniques anti-émissions
-\11. Les principales catégories de techniques anti-émissions de Cd, Pb et Hg disponibles sont les suivantes: mesures primaires telles que remplacement des matières premières ou des combustibles, technologies de production peu polluantes, et
+11\. Les principales catégories de techniques anti-émissions de Cd, Pb et Hg disponibles sont les suivantes: mesures primaires telles que remplacement des matières premières ou des combustibles, technologies de production peu polluantes, et
 mesures secondaires telles que réduction des émissions fugaces et épuration des effluents gazeux. Les techniques propres
 aux différents secteurs sont indiquées au chapitre IV.
 
 \- 57 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-\12. Les données relatives à l’efficacité, qui sont le fruit de l’expérience pratique, sont censées traduire les capacités des
+12\. Les données relatives à l’efficacité, qui sont le fruit de l’expérience pratique, sont censées traduire les capacités des
 installations actuellement en service. L’efficacité globale des réductions de gaz de combustion et d’émissions fugaces dépend,
 dans une large mesure, de la performance des séparateurs de gaz et des dépoussiéreurs (des hottes aspirantes, par exemple).
 On a démontré des efficacités de captage et de collecte supérieures à 99% et l’expérience a prouvé que, dans certains cas,
 des mesures de lutte pouvaient réduire d’au moins 90% les émissions globales.
-\13. Dans le cas des émissions de cadmium, de plomb et de mercure fixés sur des particules, les métaux peuvent être captés par des dépoussiéreurs. Le tableau I indique les concentrations caractéristiques de poussières après épuration des gaz
+13\. Dans le cas des émissions de cadmium, de plomb et de mercure fixés sur des particules, les métaux peuvent être captés par des dépoussiéreurs. Le tableau I indique les concentrations caractéristiques de poussières après épuration des gaz
 au moyen de certaines techniques. La plupart de ces mesures ont été généralement appliquées dans différents secteurs. Le
 tableau 2 donne des informations concernant l’efficacité minimale théorique de certaines techniques de captage du mercure
 gazeux. L’application de ces mesures dépend de chaque procédé particulier; leur utilité est optimale lorsque les concentrations
@@ -3025,22 +3025,22 @@ Procédé Bolker (thiosulfate)
 
 < 0,1
 
-\14. Il faudrait veiller à ce que l’application de ces mesures de lutte contre les émissions ne crée pas d’autres problèmes
+14\. Il faudrait veiller à ce que l’application de ces mesures de lutte contre les émissions ne crée pas d’autres problèmes
 environnementaux. Un procédé à faible taux d’émission dans l’atmosphère ne doit pas être utilisé s’il accentue l’impact total
 sur l’environnement du rejet de métaux lourds en raison, notamment, d’une pollution accrue de l’eau causée par des effluents
 liquides. On prendra aussi en considération la destination finale des poussières captées grâce au procédé d’épuration amélioré
 des gaz. La manipulation de ces résidus peut avoir un effet négatif sur l’environnement qui réduira le bénéfice d’une baisse du
 rejet dans l’atmosphère de poussières et de fumées industrielles.
-\15. Les mesures de réduction des émissions peuvent être axées aussi bien sur les techniques de production que sur l’épuration des effluents gazeux. Ces deux applications ne sont pas indépendantes l’une de l’autre, le choix d’un procédé donné
+15\. Les mesures de réduction des émissions peuvent être axées aussi bien sur les techniques de production que sur l’épuration des effluents gazeux. Ces deux applications ne sont pas indépendantes l’une de l’autre, le choix d’un procédé donné
 pouvant exclure certaines méthodes d’épuration des gaz.
-\16. Le choix d’une technique donnée dépendra de paramètres tels que: la concentration des polluants et/ou les formes
+16\. Le choix d’une technique donnée dépendra de paramètres tels que: la concentration des polluants et/ou les formes
 chimiques sous lesquelles ils sont présents dans le gaz brut, le débit volumique du gaz, la température du gaz ou d’autres facteurs, si bien que les domaines d’application peuvent très bien se chevaucher; en pareil cas, les conditions spécifiques dicteront
 le choix de la technique la plus appropriée.
 
 \- 58 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-\17. On trouvera ci-après une description des mesures propres à réduire les émissions de gaz de cheminée dans différents
+17\. On trouvera ci-après une description des mesures propres à réduire les émissions de gaz de cheminée dans différents
 secteurs. Les émissions fugaces doivent être prises en compte. Les moyens utilisés pour réduire les émissions de poussières
 occasionnées par le déchargement, la manipulation et le stockage des matières premières ou des sous-produits, qui certes ne
 relèvent pas du transport à longue distance, peuvent néanmoins avoir des retombées sur l’environnement local. On peut les
@@ -3048,40 +3048,40 @@ réduire en transférant les activités concernées dans des bâtiments clos de 
 de ventilation et de dépoussiérage, de circuits d’aspersion ou d’autres dispositifs appropriés.
 En cas de stockage à ciel ouvert, la surface des matières doit être protégée de l’effet d’entraînement par le vent. On veillera
 à ce que les sites de stockage et les voies d’accès restent constamment propres.
-\18. Les chiffres relatifs aux investissements et aux coûts qui sont donnés dans les tableaux ont été puisés dans diverses
+18\. Les chiffres relatifs aux investissements et aux coûts qui sont donnés dans les tableaux ont été puisés dans diverses
 sources et correspondent à des cas très particuliers. Ils sont exprimés en dollars E.-U. de 1990 (1 dollar E.-U. (1990) = 0,8 ECU
 (1990)) et dépendent de facteurs tels que la capacité des installations, le pouvoir épurateur et la concentration de gaz bruts, le
 type de technologie et le choix d’installations nouvelles par opposition à la mise à niveau des installations existantes.
 IV. Secteurs
-\19. Le présent chapitre donne, sous la forme d’un tableau par secteur, les principales sources d’émission, les mesures
+19\. Le présent chapitre donne, sous la forme d’un tableau par secteur, les principales sources d’émission, les mesures
 anti-émissions basées sur les meilleures techniques disponibles, le taux de réduction qu’elles autorisent et les coûts correspondants, lorsqu’ils sont connus. Sauf indication contraire, les taux de réduction donnés dans les tableaux se rapportent aux
 émissions directes de gaz de cheminée.
 Combustion de combustibles fossiles dans les chaudières de centrales électriques et de chauffage
 et les chaudières industrielles (annexe II, catégorie 1)
-\20. La combustion de charbon dans les chaudières de centrales et de chauffage et dans les chaudières industrielles est
+20\. La combustion de charbon dans les chaudières de centrales et de chauffage et dans les chaudières industrielles est
 l’une des principales sources d’émissions anthropiques de mercure. La teneur du charbon en métaux lourds est en général très
 largement supérieure à celle du pétrole ou du gaz naturel.
-\21. L’amélioration du rendement de conversion et les mesures d’économie d’énergie se traduiront par une diminution des
+21\. L’amélioration du rendement de conversion et les mesures d’économie d’énergie se traduiront par une diminution des
 émissions de métaux lourds du fait qu’il faudra moins de combustible. La combustion de gaz naturel ou de combustibles de
 remplacement ayant une faible teneur en métaux lourds à la place du charbon se traduirait aussi par une réduction sensible
 des émissions de métaux lourds comme le mercure. La technologie des centrales électriques à gazéification intégrée en cycle
 combiné (GICC) est un nouveau procédé qui n’engendre que de faibles émissions.
-\22. Les métaux lourds, à l’exception du mercure, sont émis sous forme solide en association avec des particules de cendres
+22\. Les métaux lourds, à l’exception du mercure, sont émis sous forme solide en association avec des particules de cendres
 volantes. La quantité de cendres volantes produite dépend des différentes techniques de combustion du charbon: 20% à 40%
 des cendres sont des cendres volantes lorsque la combustion est réalisée dans des chaudières à grille; cette proportion est de
 15% dans les chaudières à lit fluidisé et de 70% à 100% dans les chaudières à cendres pulvérulentes (combustion de charbon
 pulvérisé). L’on a constaté que la teneur en métaux lourds était plus importante clans la fraction des cendres volantes composée
 de particules fines.
-\23. La préparation du charbon, par exemple le «lavage», le «traitement biologique», réduit la concentration de métaux lourds
+23\. La préparation du charbon, par exemple le «lavage», le «traitement biologique», réduit la concentration de métaux lourds
 imputable à la présence de matière inorganique dans le charbon. Toutefois, le degré d’élimination des métaux lourds par cette
 technologie est extrêmement variable.
-\24. Un dépoussiérage de plus de 99,5% peut être obtenu au moyen de dépoussiéreurs électriques (DPE) ou de filtres en
+24\. Un dépoussiérage de plus de 99,5% peut être obtenu au moyen de dépoussiéreurs électriques (DPE) ou de filtres en
 tissu (FT), abaissant la concentration des poussières à environ 20 mg/m3 dans beaucoup de cas. Les émissions de métaux
 lourds, à l’exception du mercure, peuvent être réduites d’au moins 90% à 99%, le chiffre le plus bas correspondant aux éléments les plus volatils. La réduction de la teneur des fumées en mercure gazeux est favorisée par des températures de filtrage
 peu élevées.
-\25. L’utilisation de techniques visant à réduire les émissions d’oxydes d’azote, de dioxyde de soufre et de particules provenant des gaz de combustion peut également permettre d’éliminer les métaux lourds. Un traitement approprié des eaux usées
+25\. L’utilisation de techniques visant à réduire les émissions d’oxydes d’azote, de dioxyde de soufre et de particules provenant des gaz de combustion peut également permettre d’éliminer les métaux lourds. Un traitement approprié des eaux usées
 devrait permettre d’éviter tout impact inter-milieux.
-\26. Avec les techniques mentionnées ci-dessus, le taux d’élimination du mercure varie considérablement d’une installation
+26\. Avec les techniques mentionnées ci-dessus, le taux d’élimination du mercure varie considérablement d’une installation
 à l’autre, comme le montre le tableau 3. Des recherches sont en cours pour mettre au point des techniques d’élimination du
 mercure, mais en attendant qu’elles soient disponibles à l’échelle industrielle il n’existe pas de meilleure technique disponible
 expressément conçue pour éliminer le mercure.
@@ -3160,13 +3160,13 @@ Il s’agit essentiellement de la réduction de SO2. La réduction des émission
 Sidérurgie primaire
 (annexe II, catégorie 2)
 
-\27. La présente section traite des émissions provenant des installations d’agglomération, des ateliers de boulettage, des
+27\. La présente section traite des émissions provenant des installations d’agglomération, des ateliers de boulettage, des
 hauts fourneaux et des aciéries utilisant des convertisseurs basiques à oxygène (CBO). Les émissions de Cd, Pb et Hg se
 produisent en association avec des particules. La concentration des métaux en question dans les poussières rejetées dépend
 de la composition des matières premières et des types de métaux d’alliage utilisés en sidérurgie. Les mesures de réduction des
 émissions les plus importantes sont présentées dans le tableau 4. Des filtres en tissu doivent être utilisés autant que possible.
 A défaut, on peut utiliser des dépoussiéreurs électriques et/ou des épurateurs-laveurs très performants.
-\28. L’utilisation de la meilleure technique disponible dans la sidérurgie primaire permet de ramener le total des émissions de
+28\. L’utilisation de la meilleure technique disponible dans la sidérurgie primaire permet de ramener le total des émissions de
 poussières directement liées au procédé aux valeurs suivantes:
 Installations d’agglomération
 
@@ -3184,7 +3184,7 @@ Convertisseurs à oxygène
 
 35-70 g/Mg
 
-\29. L’épuration des gaz au moyen de filtres en tissu ramène la quantité de poussières à moins de 20 mg/m3, contre 50 mg/
+29\. L’épuration des gaz au moyen de filtres en tissu ramène la quantité de poussières à moins de 20 mg/m3, contre 50 mg/
 m3 pour les dépoussiéreurs électriques ou les épurateurs-laveurs (en moyenne horaire). Toutefois, de nombreuses utilisations
 des filtres en tissu dans la sidérurgie primaire permettent d’obtenir des valeurs très inférieures.
 
@@ -3289,11 +3289,11 @@ et nettoyage des routes
 
 Emissions fugaces
 
-\30. La réduction et la fusion directes sont en cours de développement et pourraient réduire dans l’avenir l’utilisation des installations d’agglomération et des hauts fourneaux. L’application de ces technologies dépend des propriétés du minerai et exige
+30\. La réduction et la fusion directes sont en cours de développement et pourraient réduire dans l’avenir l’utilisation des installations d’agglomération et des hauts fourneaux. L’application de ces technologies dépend des propriétés du minerai et exige
 que le produit qui en résulte soit élaboré dans un four à arc muni de dispositifs de commande appropriés.
 Sidérurgie secondaire
 (annexe II, catégorie 3)
-\31. Il est très important de capter toutes les émissions aussi efficacement que possible. L’on y parvient en installant des
+31\. Il est très important de capter toutes les émissions aussi efficacement que possible. L’on y parvient en installant des
 niches ou des hottes amovibles ou en assurant l’évacuation complète du bâtiment. Les émissions captées doivent être épurées.
 Pour l’ensemble des procédés générateurs de poussières utilisés dans la sidérurgie secondaire, le dépoussiérage au moyen de
 filtres en tissu, qui permet de ramener la teneur en poussières à moins de 20 mg/m3, sera considéré comme la MTD. Lorsque
@@ -3301,9 +3301,9 @@ la MTD est aussi utilisée pour réduire au minimum les émissions fugaces, les 
 compris les émissions fugaces directement liées au procédé) seront comprises dans un intervalle de 0,1 à 0,35 kg/Mg acier.
 Dans bien des cas, l’utilisation de filtres en tissu permet de ramener 1a teneur des gaz épurés en poussières à moins de 10 mg/
 m3. Les quantités spécifiques de poussières émises sont alors normalement inférieures à 0,1 kg/Mg.
-\32. Deux types de four sont utilisés pour la fusion de la ferraille: les fours Martin - qui vont être progressivement éliminés - et
+32\. Deux types de four sont utilisés pour la fusion de la ferraille: les fours Martin - qui vont être progressivement éliminés - et
 les fours à arc (FA).
-\33. La concentration des métaux lourds considérés dans les poussières rejetées dépend de la composition des ferrailles et
+33\. La concentration des métaux lourds considérés dans les poussières rejetées dépend de la composition des ferrailles et
 des types de métaux d’alliage entrant dans la fabrication de l’acier. D’après des mesures effectuées dans des fours à arc, les
 émissions de métaux lourds se présentent sous forme de vapeur à raison de 95% pour le mercure et de 25% pour le cadmium.
 Les mesures anti-émissions les plus importantes sont présentées dans le tableau 5.
@@ -3343,7 +3343,7 @@ FT: 24/Mg acier
 
 Fonderies
 (annexe II, catégorie 4)
-\34. Il est très important de capter toutes les émissions aussi efficacement que possible. L’on y parvient en installant des
+34\. Il est très important de capter toutes les émissions aussi efficacement que possible. L’on y parvient en installant des
 niches ou des hottes amovibles ou en assurant l’évacuation complète du bâtiment. Les émissions captées doivent être épurées.
 Des cubilots, des fours à arc et des fours à induction sont exploités dans les fonderies. Les émissions directes de métaux lourds
 sous forme de particules et de gaz sont particulièrement associées à la fusion, mais aussi, quoique dans une faible mesure, à la
@@ -3425,7 +3425,7 @@ Cubilots à air chaud
 
 à
 
-\35. L’industrie de la fonderie comprend une vaste gamme d’installations de production. Pour les petites installations existantes, les mesures indiquées ne correspondent pas toujours aux meilleures techniques disponibles si elles ne sont pas viables
+35\. L’industrie de la fonderie comprend une vaste gamme d’installations de production. Pour les petites installations existantes, les mesures indiquées ne correspondent pas toujours aux meilleures techniques disponibles si elles ne sont pas viables
 au plan économique.
 
 \- 62 -
@@ -3433,17 +3433,17 @@ au plan économique.
 ATMOSPHÈRE – 3. Conventions internationales
 Industrie des métaux non ferreux de première et deuxième fusion
 (annexe II, catégories 5 et 6)
-\36. La présente section traite des émissions de Cd, de Pb et de Hg et de la réduction de ces émissions dans la production
+36\. La présente section traite des émissions de Cd, de Pb et de Hg et de la réduction de ces émissions dans la production
 primaire et secondaire de métaux non ferreux tels que le plomb, le cuivre, le zinc, l’étain et le nickel. Etant donné la diversité
 des matières premières utilisées et des procédés appliqués, pratiquement tous les types de métaux lourds et de composés de
 métaux lourds peuvent être rejetés par ce secteur. Vu les métaux lourds considérés clans la présente annexe, la production de
 cuivre, de plomb et de zinc présente un intérêt tout particulier.
-\37. Les minerais et les concentrés de mercure sont, dans un premier temps, traités par concassage et parfois par criblage.
+37\. Les minerais et les concentrés de mercure sont, dans un premier temps, traités par concassage et parfois par criblage.
 Les techniques d’enrichissement du minerai ne sont pas très répandues, même si le procédé de la flottation a été utilisé dans
 certaines installations traitant du minerai de faible teneur. Le minerai concassé est ensuite chauffé soit dans des cornues, s’il
 s’agit de petites opérations, soit dans des fours, dans le cas d’opérations importantes, et porté aux températures auxquelles
 s’opère la sublimation du sulfure de mercure. La vapeur de mercure qui en résulte est condensée dans un système de refroidissement et recueillie sous forme de mercure métallique. La suie qui se forme dans les condensateurs et les bassins de décantation devrait être enlevée, traitée avec de la chaux et remise dans la cornue ou le four.
-\38. Plusieurs techniques peuvent être utilisées pour une récupération optimale du mercure. On peut:
+38\. Plusieurs techniques peuvent être utilisées pour une récupération optimale du mercure. On peut:
 –
 
 Prendre des mesures visant à réduire la formation de poussières durant les opérations d’extraction et de stockage,
@@ -3473,27 +3473,27 @@ Faire passer les gaz de réaction dans un dispositif d’épuration après conde
 Le chauffage indirect, le traitement séparé des catégories de minerai à grain fin et le contrôle de la teneur en eau du minerai
 peuvent permettre de limiter la formation de poussières. Les poussières devraient être éliminées des gaz de réaction chauds
 avant leur entrée dans le dispositif de condensation du mercure au moyen de cyclones et/ou de dépoussiéreurs électriques.
-\39. Pour produire de l’or par fusion, il est possible de recourir à des stratégies analogues à celles qui sont utilisées pour le
+39\. Pour produire de l’or par fusion, il est possible de recourir à des stratégies analogues à celles qui sont utilisées pour le
 mercure. L’or est également produit au moyen de techniques autres que la fusion et ce sont ces techniques qui sont jugées
 préférables pour les installations nouvelles.
-\40. Les métaux non ferreux sont: essentiellement produits à partir de minerais sulfurés. Pour des raisons techniques et de
+40\. Les métaux non ferreux sont: essentiellement produits à partir de minerais sulfurés. Pour des raisons techniques et de
 qualité du produit, les effluents gazeux doivent subir un dépoussiérage poussé (< 3 mg/m3) et devront peut-être aussi être
 débarrassés de leur mercure avant d’être dirigés vers une installation de fabrication de SO3 par le procédé de contact, ce qui
 aura également pour effet de réduire au minimum les émissions de métaux lourds.
-\41. Il faudrait, lorsqu’il y a lieu, utiliser des filtres en tissu qui permettent de ramener à moins de 10 mg/m3 la teneur en poussières. Les poussières provenant de l’ensemble des opérations de production par pyrométallurgie devraient être recyclées sur
+41\. Il faudrait, lorsqu’il y a lieu, utiliser des filtres en tissu qui permettent de ramener à moins de 10 mg/m3 la teneur en poussières. Les poussières provenant de l’ensemble des opérations de production par pyrométallurgie devraient être recyclées sur
 place ou ailleurs et des mesures devraient être prises pour protéger la santé des travailleurs.
-\42. Les premières expériences concernant la production de plomb primaire montrent qu’il existe des techniques nouvelles,
+42\. Les premières expériences concernant la production de plomb primaire montrent qu’il existe des techniques nouvelles,
 et intéressantes, de réduction par fusion directe sans agglomération de concentrés. Ces procédés sont caractéristiques d’une
 nouvelle génération de techniques autogènes de fusion directe du plomb qui polluent moins et consomment moins d’énergie.
-\43. Le plomb de deuxième fusion provient surtout des batteries usagées de voitures et de camions, lesquelles sont démontées avant d’être acheminées directement vers le four. La MTD doit comporter une opération de fusion dans un four rotatif
+43\. Le plomb de deuxième fusion provient surtout des batteries usagées de voitures et de camions, lesquelles sont démontées avant d’être acheminées directement vers le four. La MTD doit comporter une opération de fusion dans un four rotatif
 bas ou dans un four vertical. Des brûleurs oxycombustibles permettent de réduire de 60% le volume de déchets gazeux et la
 production de poussières de cheminée. L’épuration des gaz de combustion au moyen de filtres en tissu permet d’atteindre des
 niveaux de concentration de poussières de 5 mg/m3.
-\44. La production de zinc primaire est assurée par électrolyse (grillage-lixiviation). On peut remplacer le grillage par la lixiviation sous pression qui peut être considérée comme la MTD pour les installations nouvelles, selon les propriétés du concentré.
+44\. La production de zinc primaire est assurée par électrolyse (grillage-lixiviation). On peut remplacer le grillage par la lixiviation sous pression qui peut être considérée comme la MTD pour les installations nouvelles, selon les propriétés du concentré.
 Les émissions provenant de la production de zinc par pyro métallurgie dans les fours à procédé «Imperial Smelting» (hauts
 fourneaux à zinc) peuvent être réduites grâce à l’utilisation de gueulards à double cloche et d’épurateurs-laveurs très performants ou de systèmes efficaces d’évacuation et d’épuration de gaz provenant du laitier et des coulées de plomb, et à l’épuration
 poussée (< 10mg/m3) des effluents gazeux riches en monoxyde de carbone qui émanent des fours.
-\45. Pour récupérer le zinc des résidus oxydés, ceux-ci sont traités dans un four «Imperial Smelting». Les résidus très pauvres
+45\. Pour récupérer le zinc des résidus oxydés, ceux-ci sont traités dans un four «Imperial Smelting». Les résidus très pauvres
 et les poussières de cheminée (de la sidérurgie, par exemple) sont préalablement traités dans des fours rotatifs (fours Waelz) où
 est produit un oxyde à forte teneur en zinc. Les matériaux métalliques sont recyclés par fusion soit dans des fours à induction
 soit dans des fours à chaleur directe ou indirecte obtenue à partir de gaz naturel ou de combustibles liquides, ou encore dans
@@ -3502,7 +3502,7 @@ des cornues verticales «New Jersey», dans lesquelles divers matériaux de réc
 \- 63 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-\46. En règle générale, les procédés doivent comporter un dispositif efficace de récupération des poussières à la fois pour
+46\. En règle générale, les procédés doivent comporter un dispositif efficace de récupération des poussières à la fois pour
 les gaz primaires et pour les émissions fugaces. Les mesures de réduction des émissions les plus importantes sont présentées
 dans les tableaux 7 a) et b). L’utilisation de filtres en tissu a permis, dans certains cas, de ramener la concentration de poussières à moins de 5 mg/m3.
 Tableau 7 a)
@@ -3646,32 +3646,32 @@ Production de zinc
 
 Industrie du ciment
 (annexe II, catégorie 7)
-\47. Les fours à ciment peuvent utiliser des huiles usées ou des pneumatiques usagés comme combustibles d’appoint.
+47\. Les fours à ciment peuvent utiliser des huiles usées ou des pneumatiques usagés comme combustibles d’appoint.
 Lorsqu’il y a combustion de résidus, les prescriptions relatives aux émissions des procédés d’incinération des déchets peuvent
 s’appliquer et, dans le cas de déchets dangereux, selon la quantité traitée dans l’installation, les prescriptions relatives aux
 émissions des procédés d’incinération des déchets dangereux pourraient être applicables. Mais il ne sera question, dans la
 présente section, que des fours à combustibles fossiles.
-\48. Des particules sont émises à tous les stades de la production du ciment, depuis la manipulation des matériaux jusqu’à
+48\. Des particules sont émises à tous les stades de la production du ciment, depuis la manipulation des matériaux jusqu’à
 la préparation du ciment, en passant par le traitement des matières premières (dans des concasseurs et des dessiccateurs)
 et la production de clinker. Les métaux lourds sont associés aux matières premières, aux combustibles fossiles et aux déchets
 servant de combustible chargés dans le four à ciment.
-\49. La production de clinker se fait à l’aide des types de fours suivants: four rotatif haut par voie humide, four rotatif haut
+49\. La production de clinker se fait à l’aide des types de fours suivants: four rotatif haut par voie humide, four rotatif haut
 par voie sèche, four rotatif avec dispositif de préchauffage à cyclone, four rotatif avec dispositif de préchauffage à grille et four
 vertical. Les fours rotatifs avec dispositif de préchauffage à cyclone consomment moins d’énergie et offrent davantage de possibilités de réduction des émissions.
-\50. Pour récupérer la chaleur, on fait passer les gaz résiduels des fours rotatifs par le système de préchauffage et les
+50\. Pour récupérer la chaleur, on fait passer les gaz résiduels des fours rotatifs par le système de préchauffage et les
 sécheurs broyeurs (lorsqu’un tel matériel est installé) avant de les dépoussiérer. Les poussières ainsi recueillies sont renvoyées
 vers le circuit d’alimentation.
-\51. Moins de 0,5% du plomb et du cadmium entrant dans le four est rejeté avec les gaz de combustion. La forte teneur en
+51\. Moins de 0,5% du plomb et du cadmium entrant dans le four est rejeté avec les gaz de combustion. La forte teneur en
 substances alcalines et l’épuration qui a lieu dans le four favorisent la rétention des métaux dans le clinker ou dans la poussière
 du four.
-\52. Il est possible de réduire les émissions de métaux lourds dans l’atmosphère, par exemple, en prélevant le flux d’échappement et en stockant les poussières recueillies au lieu de les renvoyer vers le circuit d’alimentation. Toutefois il convient,
+52\. Il est possible de réduire les émissions de métaux lourds dans l’atmosphère, par exemple, en prélevant le flux d’échappement et en stockant les poussières recueillies au lieu de les renvoyer vers le circuit d’alimentation. Toutefois il convient,
 dans chaque cas, de mettre en balance les avantages que présente cette solution et les conséquences d’un rejet des métaux
 lourds dans le stock de déchets. La dérivation du métal chaud calciné, lequel est en partie déchargé face à l’entrée du four et
 acheminé vers l’installation de préparation du ciment, constitue une autre solution. On peut aussi amalgamer les poussières au
 clinker. Il importe également de veiller au fonctionnement régulier du four afin d’éviter les arrêts d’urgence des dépoussiéreurs
 électriques pouvant résulter de concentrations excessives de CO. Ces arrêts d’urgence risquent en effet d’entraîner de fortes
 pointes d’émission de métaux lourds.
-\53. Les mesures de réduction des émissions les plus importantes sont présentées dans le tableau 8. Pour réduire les
+53\. Les mesures de réduction des émissions les plus importantes sont présentées dans le tableau 8. Pour réduire les
 émissions directes de poussières au niveau des concasseurs, broyeurs et sécheurs, on emploie surtout des filtres en tissu,
 tandis que les gaz résiduaires du dispositif de refroidissement du clinker et du four sont traités au moyen de dépoussiéreurs
 électriques. Avec des DPE, les poussières peuvent être ramenées à des concentrations inférieures à 50 mg/m3, Avec des FT,
@@ -3717,23 +3717,23 @@ Adsorption sur charbon actif
 Industrie du verre
 (annexe II, catégorie 8)
 
-\54. Dans l’industrie du verre, les émissions de plomb sont loin d’être négligeables, étant donné les différentes sortes de
+54\. Dans l’industrie du verre, les émissions de plomb sont loin d’être négligeables, étant donné les différentes sortes de
 verre qui contiennent du plomb (par exemple le cristal ou les tubes cathodiques). Dans le cas du verre creux sodo-calcique, les
 émissions de plomb dépendent de la qualité du verre recyclé utilisé. La teneur en plomb des poussières provenant de la fusion
 du cristal se situe généralement entre 20% et 60%.
-\55. Les émissions de poussières se produisent essentiellement lors du malaxage du mélange vitrifiable, dans les fours, du
+55\. Les émissions de poussières se produisent essentiellement lors du malaxage du mélange vitrifiable, dans les fours, du
 fait des fuites diffuses à l’ouverture des fours et au moment de la finition et du soufflage des produits. Elles dépendent dans une
 large mesure du type de combustible brûlé, du type de four et du type de verre produit. Des brûleurs oxycombustibles peuvent
 réduire de 60% le volume de déchets gazeux et l’émission de poussières de cheminée. Les émissions de plomb provenant du
 chauffage électrique sont très inférieures à celles du chauffage au fioul ou au gaz.
-\56. Le mélange est fondu dans des cuves à alimentation continue, des fours à pots ou des creusets. Avec les fours à alimentation discontinue, les émissions de poussières fluctuent énormément pendant le cercle de fusion. Les cuves à cristal émettent
+56\. Le mélange est fondu dans des cuves à alimentation continue, des fours à pots ou des creusets. Avec les fours à alimentation discontinue, les émissions de poussières fluctuent énormément pendant le cercle de fusion. Les cuves à cristal émettent
 davantage de poussières (< 5 Kg/Mg de verre fondu) que les autres cuves (< 1 Kg/Mg de verre obtenu par fusion de carbonate
 de sodium ou de potassium).
-\57. Parmi les mesures permettant de réduire les émissions directes de poussières métalliques, on peut citer la granulation
+57\. Parmi les mesures permettant de réduire les émissions directes de poussières métalliques, on peut citer la granulation
 du mélange vitrifiable, le remplacement des systèmes de chauffe au fioul ou au gaz par des systèmes électriques, l’incorporation d’une quantité plus importante de retours de verre dans le mélange et l’utilisation d’une meilleure gamme de matières
 premières (répartition granulométrique) et de verres recyclés (en évitant les fractions contenant du plomb). Les gaz d’échappement peuvent être épurés dans des filtres en tissu, ce qui ramène les émissions à moins de 10 mg/m3. Avec des dépoussiéreurs
 électriques, on peut les réduire à 30 mg/m3. Les taux de réduction des émissions correspondants sont donnés dans le tableau 9.
-\58. Des procédés de fabrication du cristal sans composés de plomb sont en développement.
+58\. Des procédés de fabrication du cristal sans composés de plomb sont en développement.
 Tableau 9
 Sources des hissions, mesures anti-émissions, toux de dépoussiérage et coûts pour le secteur de l’industrie du verre
 Source des
@@ -3763,7 +3763,7 @@ DPE
 
 Industrie du chlore et de la soude caustique
 (annexe II, catégorie 9)
-\59. Dans l’industrie du chlore et de la soude caustique, C12, les hydroxydes alcalins et l’hydrogène sont obtenus par électrolyse d’une solution saline. Les installations existantes utilisent couramment le procédé à cathode de mercure et le procédé
+59\. Dans l’industrie du chlore et de la soude caustique, C12, les hydroxydes alcalins et l’hydrogène sont obtenus par électrolyse d’une solution saline. Les installations existantes utilisent couramment le procédé à cathode de mercure et le procédé
 à diaphragme, qui exigent tous deux le recours à de bonnes pratiques afin d’éviter des problèmes écologiques. Le procédé à
 membrane n’entraîne aucune émission directe de mercure. En outre, il consomme moins d’énergie électrolytique et davantage
 de chaleur pour la concentration d’hydroxydes alcalins (le bilan énergétique global donnant un léger avantage, de l’ordre de
@@ -3775,17 +3775,17 @@ option pour les installations nouvelles. Dans sa décision 90/3 du 14 juin 1990,
 ATMOSPHÈRE – 3. Conventions internationales
 pollution marine d’origine tellurique (PARCOM) a recommandé d’éliminer progressivement dès que possible, les installations à
 cathode de mercure pour la fabrication du chlore et de la soude, afin qu’elles aient totalement disparu en 2010.
-\60. Selon les informations disponibles, l’investissement spécifique nécessaire pour remplacer le procédé à cathode de
+60\. Selon les informations disponibles, l’investissement spécifique nécessaire pour remplacer le procédé à cathode de
 mercure par le procédé à membrane serait de l’ordre de 700 à 1.000 dollars E.-U./Mg de capacité de C12. En dépit d’une possible augmentation des dépenses d’eau, électricité, etc., et du coût de l’épuration de la solution saline notamment, les coûts
 d’exploitation diminueront dans la plupart des cas, en raison d’économies dues principalement à une plus faible consommation
 d’énergie et à la diminution du coût du traitement des eaux usées et de l’élimination des déchets.
-\61. Les sources des émissions de mercure dans l’environnement provenant du procédé à cathode de mercure sont: la
+61\. Les sources des émissions de mercure dans l’environnement provenant du procédé à cathode de mercure sont: la
 ventilation de la salle des cuves, les effluents gazeux, les produits fabriqués, notamment l’hydrogène, et les eaux usées. Parmi
 les rejets dans l’atmosphère, le mercure émis sous forme diffuse depuis les cuves dans l’ensemble du local occupe une place
 importante. Les mesures de prévention et de surveillance sont essentielles et devraient se voir accorder un rang de priorité lié
 à l’importance relative de chaque source au sein d’une installation particulière. Dans tous les cas, des mesures de surveillance
 spéciales sont nécessaires lorsque le mercure est récupéré dans les boues résultant des opérations de fabrication.
-\62. On peut appliquer les mesures ci-après pour réduire les émissions de mercure provenant des installations existantes:
+62\. On peut appliquer les mesures ci-après pour réduire les émissions de mercure provenant des installations existantes:
 –
 
 Mesures de contrôle du procédé et mesures techniques destinées optimiser l’opération en cuves, entretien et méthodes
@@ -3803,7 +3803,7 @@ Nettoyage des salles de cuves et mesures facilitant leur maintien dans un état 
 
 Épuration d’une quantité limitée de flux gazeux (certains flux d’air contaminés et gaz hydrogène).
 
-\63. Ces mesures permettent de ramener la concentration des émissions de mercure à des valeurs bien inférieures à 2,0
+63\. Ces mesures permettent de ramener la concentration des émissions de mercure à des valeurs bien inférieures à 2,0
 g/Mg de capacité de production de C12, exprimées en moyenne annuelle. Certaines installations parviennent à des niveaux
 d’émission très inférieurs à 1,0 g/Mg de capacité de production de C12. A la suite de la décision 90/3 de PARCOM, les installations existantes utilisant le procédé à cathode de mercure pour la production de chlore et de la soude ont dû avant le 31
 décembre 1996 ramener à un niveau de 2 g de Hg/Mg de C12 leurs émissions des substances visées par la Convention pour la
@@ -3811,21 +3811,21 @@ prévention de la pollution marine d’origine tellurique. Comme les émissions 
 de bonnes pratiques d’exploitation, le calcul des moyennes devrait être fondé sur des périodes d’entretien d’un an ou moins.
 Incinération des déchets urbains, des déchets médicaux et des déchets dangereux
 (annexe II, catégories 10 et 11)
-\64. L’incinération des déchets urbains, des déchets médicaux et des déchets dangereux donne lieu à des émissions de
+64\. L’incinération des déchets urbains, des déchets médicaux et des déchets dangereux donne lieu à des émissions de
 cadmium, de plomb et de mercure. Le mercure, une bonne partie du cadmium et une faible proportion du plomb sont volatilisés.
 Des mesures particulières devraient être prises, tant avant qu’après l’incinération, pour réduire ces émissions.
-\65. On considère qu’en matière de dépoussiérage, la meilleure technique disponible est le filtre en tissu, associé à des
+65\. On considère qu’en matière de dépoussiérage, la meilleure technique disponible est le filtre en tissu, associé à des
 méthodes de réduction des substances volatiles par voie sèche ou humide. On peut également concevoir des dépoussiéreurs
 électriques, utilisés avec des dispositifs par voie humide, pour réduire au minimum les émissions de poussières, mais ce matériel offre moins de possibilités que les filtres en tissu, notamment dans le cas d’un revêtement préalable en vue de l’absorption
 des polluants volatils.
-\66. Lorsque la MTD est utilisée pour épurer les gaz de combustion, la concentration de poussières est ramenée à des
+66\. Lorsque la MTD est utilisée pour épurer les gaz de combustion, la concentration de poussières est ramenée à des
 valeurs comprises entre 10 et 20 mg/m3; mais on obtient en pratique des concentrations inférieures et dans certains cas des
 concentrations de moins de 1 mg/m3 ont été signalées. La concentration de mercure peut être abaissée à des valeurs comprises
 entre 0,05 et 0,10 mg/m3 (normalisation à 11 % de O2).
-\67. Les mesures secondaires de réduction des émissions les plus importantes sont présentées dans le tableau 10. Il est
+67\. Les mesures secondaires de réduction des émissions les plus importantes sont présentées dans le tableau 10. Il est
 difficile de fournir des données d’une validité générale car les coûts relatifs en dollars E.-U./tonne dépendent d’une gamme très
 étendue de variables propres à chaque site, telles que la composition des déchets.
-\68. L’on trouve des métaux lourds dans toutes les fractions des déchets urbains (par exemple, produits, papier, matières
+68\. L’on trouve des métaux lourds dans toutes les fractions des déchets urbains (par exemple, produits, papier, matières
 organiques). En réduisant le volume de ces déchets qui sont incinérés, il est donc possible de réduire les émissions de métaux
 lourds. L’on y parvient en appliquant diverses stratégies de gestion des déchets, notamment les programmes de recyclage et
 la transformation des matières organiques en compost. Certains pays de la CEE/ONU autorisent aussi la mise en décharge
@@ -3919,13 +3919,13 @@ Pour les sources fixes existantes: (Loi du 12 avril 2015) «deux» ans après la
 qui devient Partie au présent Protocole entre le 1er janvier 2014 et le 31 décembre 2019, peut déclarer lors de sa ratification,
 acceptation ou, approbation du présent Protocole ou de son adhésion à cet instrument, qu’elle prorogera les délais d’application des valeurs limites énoncées à l’alinéa d du paragraphe 2 de l’article 3 jusqu’à quinze ans après la date d’entrée en
 vigueur du présent Protocole pour la Partie en question;
-\3. Une Partie qui a procédé à un choix conformément à l’article 3bis du présent Protocole en ce qui concerne une catégorie
+3\. Une Partie qui a procédé à un choix conformément à l’article 3bis du présent Protocole en ce qui concerne une catégorie
 particulière de source fixe ne peut faire aussi une déclaration au titre de l’article 2 concernant la même catégorie de source.»
 (Loi du 12 avril 2015)
 
 «ANNEXE V
 Valeurs limites aux fins de la lutte contre les émissions provenant de grandes sources fixes
-\1. Deux types de valeur limite sont importants aux fins de la lutte contre les émissions de métaux lourds:
+1\. Deux types de valeur limite sont importants aux fins de la lutte contre les émissions de métaux lourds:
 a)
 
 Les valeurs applicables à des métaux lourds ou groupes de métaux lourds particuliers; et
@@ -3934,7 +3934,7 @@ b)
 
 Les valeurs applicables aux émissions de particules en général.
 
-\2. En principe, les valeurs limites pour les particules ne sauraient remplacer les valeurs limites spécifiques pour le cadmium,
+2\. En principe, les valeurs limites pour les particules ne sauraient remplacer les valeurs limites spécifiques pour le cadmium,
 le plomb et le mercure car la quantité de métaux associés aux émissions de particules varie d’un procédé à l’autre. Cependant,
 le respect de ces limites contribue sensiblement à réduire les émissions de métaux lourds en général. En outre, la surveillance
 des émissions de particules est généralement moins coûteuse que celle de telle ou telle substance, et en général la surveillance continue des métaux lourds pris séparément n’est matériellement pas possible. En conséquence, les valeurs limites pour
@@ -3946,20 +3946,20 @@ Numérotation introduite par la loi du 12 avril 2015.
 
 ATMOSPHÈRE – 3. Conventions internationales
 compléter les valeurs limites spécifiques applicables au cadmium, au plomb ou au mercure.
-\3. La section A s’applique aux Parties autres que les Etats-Unis d’Amérique. La partie B s’applique aux Etats-Unis d‘Amérique.
+3\. La section A s’applique aux Parties autres que les Etats-Unis d’Amérique. La partie B s’applique aux Etats-Unis d‘Amérique.
 A. Parties autres que les Etats-Unis d’Amérique
-\4. Dans la présente section uniquement, on entend par «poussières» la masse des particules, de quelque forme, structure
+4\. Dans la présente section uniquement, on entend par «poussières» la masse des particules, de quelque forme, structure
 ou densité que ce soit, dispersées dans la phase gazeuse au point d’échantillonnage qui peuvent être recueillies par filtration
 dans certaines conditions après échantillonnage représentatif du gaz à analyser et restent en amont du filtre et sur le filtre après
 séchage dans certaines conditions.
-\5. Aux fins de la présente section, on entend par «valeur limite d’émission» (VLE) ou «valeur limite» la quantité de poussières
+5\. Aux fins de la présente section, on entend par «valeur limite d’émission» (VLE) ou «valeur limite» la quantité de poussières
 et de certains métaux lourds visés par le présent Protocole contenue dans les gaz résiduaires d’une installation, qui ne doit pas
 être dépassée. Sauf indication contraire, elle est calculée en masse de polluant par volume de gaz résiduaires (et exprimée en
 mg/m3), en supposant des conditions normales de température et de pression pour des gaz secs (volume à 273,15 K, 101,3
 kPa). En ce qui concerne la teneur en oxygène des gaz résiduaires, on retient les valeurs données pour des catégories choisies
 de grandes sources fixes. La dilution effectuée dans le but de diminuer les concentrations de polluants dans les gaz résiduaires
 n’est pas autorisée. Les phases de démarrage et d’arrêt et les opérations d’entretien du matériel sont exclues.
-\6. Les émissions sont surveillées dans tous les cas au moyen de mesures ou de calculs présentant au moins le même degré
+6\. Les émissions sont surveillées dans tous les cas au moyen de mesures ou de calculs présentant au moins le même degré
 de précision. Le respect des valeurs limites est vérifié au moyen de mesures en continu ou intermittentes, ou de toute autre
 méthode techniquement valable, y compris des méthodes de calcul vérifiées. Des mesures des métaux lourds en cause sont
 réalisées au moins une fois tous les trois ans pour chaque source industrielle. Il est tenu compte des documents d’orientation
@@ -3971,13 +3971,13 @@ ne dépasse pas la valeur de la norme d’émission. L’imprécision des métho
 de vérification. Une surveillance indirecte des substances est également possible à l’aide de paramètres de somme/cumulatifs
 (par exemple la poussière comme paramètre de somme pour les métaux lourds). Dans certains cas, le recours à une technique
 donnée de traitement des émissions permet de maintenir ou d’atteindre une valeur/valeur limite.
-\7. La surveillance des substances polluantes pertinentes et les mesures des paramètres de fonctionnement, ainsi que
+7\. La surveillance des substances polluantes pertinentes et les mesures des paramètres de fonctionnement, ainsi que
 l’assurance qualité des systèmes automatisés de mesure et les mesures de référence pour l’étalonnage de ces systèmes, sont
 conformes aux normes fixées par le Comité européen de normalisation (CEN). A défaut de celles-ci, ce sont les normes de
 l’Organisation internationale de normalisation (ISO) ou des normes nationales ou internationales garantissant la communication de données d’une qualité scientifique équivalente qui s’appliquent.
 Installations de combustion (chaudières et récupérateurs de chaleur industrielle) d’une puissance thermique nominale
 supérieure à 50 MWth1 (annexe II, catégorie 1)
-\8. Valeurs limites pour les émissions de poussières provenant de la combustion de combustibles solides et liquides, autres
+8\. Valeurs limites pour les émissions de poussières provenant de la combustion de combustibles solides et liquides, autres
 que la biomasse et la tourbe2:
 
 La puissance thermique nominale de l’installation de combustion est la somme de la puissance délivrée par toutes les unités rattachées à une cheminée commune. Les unités isolées de moins de 15 MWth ne sont pas prises en considération pour le calcul de la puissance thermique nominale totale.
@@ -4063,7 +4063,7 @@ combustibles liquides.
 \- 70 -
 
 ATMOSPHÈRE – 3. Conventions internationales
-\9. Dispositions particulières pour les installations de combustion visées au paragraphe 8:
+9\. Dispositions particulières pour les installations de combustion visées au paragraphe 8:
 a)
 
 Une Partie peut dispenser l’installation de satisfaire aux VLE prévues au paragraphe 8 dans les cas suivants:
@@ -4093,7 +4093,7 @@ sur la base de la puissance thermique fournie par chacun d’eux.
 Sidérurgie primaire et secondaire
 (annexe II, catégories 2 et 3)
 
-\10. Valeurs limites pour les émissions de poussières:
+10\. Valeurs limites pour les émissions de poussières:
 Tableau 2
 Activité
 
@@ -4117,7 +4117,7 @@ Aciérie électrique et moulage - affinage
 Fonderies
 (annexe II, catégorie 4)
 
-\11. Valeurs limites pour les émissions de poussières provenant des fonderies:
+11\. Valeurs limites pour les émissions de poussières provenant des fonderies:
 Tableau 3
 Activité
 
@@ -4138,7 +4138,7 @@ ATMOSPHÈRE – 3. Conventions internationales
 Production et transformation du cuivre, du zinc et des alliages de silico- et ferro-manganèse, y compris
 dans les fours «Imperial Smelting»
 (annexe II, catégories 5 et 6)
-\12. Valeur limite pour les émissions de poussières provenant de la production et la transformation du cuivre, du zinc et des
+12\. Valeur limite pour les émissions de poussières provenant de la production et la transformation du cuivre, du zinc et des
 alliages de silico- et ferro-manganèse:
 Tableau 4
 Activité
@@ -4149,7 +4149,7 @@ Production et transformation de métaux non ferreux
 
 Production et transformation du plomb
 (annexe II, catégories 5 et 6)
-\13. Valeur limite pour les émissions de poussières provenant de la production et la transformation du plomb:
+13\. Valeur limite pour les émissions de poussières provenant de la production et la transformation du plomb:
 Tableau 5
 Activité
 
@@ -4160,7 +4160,7 @@ Production et transformation du plomb
 Industrie du ciment
 (annexe 11, catégorie 7)
 
-\14. Valeurs limites pour les émissions de poussières provenant de l’industrie du ciment:
+14\. Valeurs limites pour les émissions de poussières provenant de l’industrie du ciment:
 Tableau 6
 Activité
 
@@ -4175,7 +4175,7 @@ Les valeurs limites se rapportent à une teneur en oxygène de 10%.
 
 Industrie du verre
 (annexe II, catégorie 8)
-\15. Valeurs limites pour les émissions de poussières provenant de l’industrie du verre:
+15\. Valeurs limites pour les émissions de poussières provenant de l’industrie du verre:
 Tableau 7
 VLE pour les poussières (mg/m3)a
 Installations nouvelles
@@ -4187,21 +4187,21 @@ a
 Les valeurs limites se rapportent à une teneur en oxygène de 8% pour la fusion continue et de 13%, pour la fusion
 discontinue.
 
-\16. Valeur limite pour les émissions de plomb dans la fabrication du verre: 5 mg/m3.
+16\. Valeur limite pour les émissions de plomb dans la fabrication du verre: 5 mg/m3.
 
 \- 72 -
 
 ATMOSPHÈRE – 3. Conventions internationales
 Industrie du chlore et de la soude caustique
 (annexe II, catégorie 9)
-\17. Les installations existantes produisant du chlore et de la soude caustique au moyen du procédé à cathode de mercure
+17\. Les installations existantes produisant du chlore et de la soude caustique au moyen du procédé à cathode de mercure
 doivent être converties de façon à utiliser une technologie sans mercure ou fermer d’ici au 31 décembre 2020; pendant la
 période précédant cette conversion, la limite applicable pour les émissions de mercure dans l’air d’une installation est de 1 g
 par Mg1 de chlore produit.
-\18. Les installations nouvelles produisant du chlore et de la soude caustique n’utilisent pas de mercure.
+18\. Les installations nouvelles produisant du chlore et de la soude caustique n’utilisent pas de mercure.
 Incinération des déchets
 (annexe II, catégories 10 et 11)
-\19. Valeur limite pour les émissions de poussières provenant de l’incinération des déchets:
+19\. Valeur limite pour les émissions de poussières provenant de l’incinération des déchets:
 Tableau 8
 Activité
 
@@ -4213,11 +4213,11 @@ a
 
 La valeur limite se rapporte à une teneur en oxygène de 11%.
 
-\20. Valeur limite pour les émissions de mercure produites par l’incinération des déchets: 0,05 mg/m3.
-\21. Valeur limite pour les émissions de mercure produites par la coïncinération des déchets dans les catégories de sources
+20\. Valeur limite pour les émissions de mercure produites par l’incinération des déchets: 0,05 mg/m3.
+21\. Valeur limite pour les émissions de mercure produites par la coïncinération des déchets dans les catégories de sources
 1 et 7: 0,05 mg/m3.
 B. Etats-Unis d’Amérique
-\22. Les valeurs limites aux fins de la lutte contre les émissions de particules et/ou de certains métaux lourds provenant de
+22\. Les valeurs limites aux fins de la lutte contre les émissions de particules et/ou de certains métaux lourds provenant de
 sources fixes appartenant aux catégories de sources fixes ci-après, ainsi que les sources auxquelles elles s’appliquent, sont
 spécifiées dans les documents suivants:
 a)
@@ -4355,16 +4355,16 @@ kk) Normes de rendement des installations commerciales et industrielles d’inci
 
 ANNEXE VI
 Mesures de réglementation des produits
-\1. (Loi du 12 avril 2015) (…) (Loi du 12 avril 2015) «Au plus tard à la date» d’entrée en vigueur du présent Protocole (Loi du
+1\. (Loi du 12 avril 2015) (…) (Loi du 12 avril 2015) «Au plus tard à la date» d’entrée en vigueur du présent Protocole (Loi du
 12 avril 2015) «pour une Partie», la teneur en plomb de l’essence commercialisée destinée aux véhicules routiers ne devra pas
 dépasser 0,013 g/l. Les Parties qui commercialisent de l’essence sans plomb contenant moins de 0,013 g/l de ce métal devront
 s’efforcer de maintenir cette teneur ou de l’abaisser.
-\2. Chaque Partie tâchera de faire en sorte que le passage à des carburants dont la teneur en plomb est celle spécifiée au
+2\. Chaque Partie tâchera de faire en sorte que le passage à des carburants dont la teneur en plomb est celle spécifiée au
 paragraphe 1 ci-dessus se traduise par une réduction globale des effets nocifs sur la santé et l’environnement.
-\3. (Loi du 12 avril 2015) (…)
-\4. (Loi du 12 avril 2015) «Nonobstant le paragraphe 1, les» Parties sont autorisées à commercialiser de petites quantités
+3\. (Loi du 12 avril 2015) (…)
+4\. (Loi du 12 avril 2015) «Nonobstant le paragraphe 1, les» Parties sont autorisées à commercialiser de petites quantités
 d’essence au plomb, dont la teneur en plomb ne dépasse pas 0,15 g/1, étant entendu que ces quantités, destinées aux véhicules routiers anciens, ne doivent pas représenter plus de 0,5% du total de leurs ventes.
-\5. (Loi du 12 avril 2015) «Chaque Partie, au plus tard à la date d’entrée en vigueur du présent Protocole pour cette Partie,
+5\. (Loi du 12 avril 2015) «Chaque Partie, au plus tard à la date d’entrée en vigueur du présent Protocole pour cette Partie,
 parvient à des concentrations qui ne dépassent pas:»
 a)
 
@@ -4386,8 +4386,8 @@ de cette obligation.
 ATMOSPHÈRE – 3. Conventions internationales
 ANNEXE VII
 Mesures de gestion des produits
-\1. La présente annexe vise à donner des indications eux Parties quant aux mesures de gestion des produits.
-\2. Les Parties peuvent envisager des mesures appropriées de gestion des produits telles que celles qui sont énumérées ciaprès, lorsqu’elles se justifient du fait du risque potentiel d’effets nocifs sur la santé ou l’environnement découlant d’émissions
+1\. La présente annexe vise à donner des indications eux Parties quant aux mesures de gestion des produits.
+2\. Les Parties peuvent envisager des mesures appropriées de gestion des produits telles que celles qui sont énumérées ciaprès, lorsqu’elles se justifient du fait du risque potentiel d’effets nocifs sur la santé ou l’environnement découlant d’émissions
 d’un ou de plusieurs des métaux lourds énumérés à l’annexe I, compte tenu de tous les risques et avantages afférents à de
 telles mesures, en vue de veiller à ce que toute modification apportée aux produits se traduise par une réduction globale des
 effets nocifs sur la santé et l’environnement:
@@ -4415,7 +4415,7 @@ e)
 
 L’élaboration et l’application de programmes visant à collecter, recycler ou éliminer les produits contenant l’un quelconque des métaux lourds énumérés à l’annexe I, et ce d’une manière écologiquement rationnelle.
 
-\3. Chaque produit ou groupe de produits visé ci-après contient un ou plusieurs des métaux lourds énumérés à l’annexe I et
+3\. Chaque produit ou groupe de produits visé ci-après contient un ou plusieurs des métaux lourds énumérés à l’annexe I et
 a donné lieu à l’adoption par au moins une Partie à la Convention de mesures réglementaires ou volontaires tenant dans une
 large mesure au fait que ce produit contribue aux émissions d’un ou plusieurs des métaux lourds énumérés à l’annexe I. Cependant, on ne dispose pas encore d’informations suffisantes permettant de confirmer que ces produits constituent une source
 importante pour toutes les Parties, ce qui justifierait leur inclusion à l’annexe VI. Chaque Partie est encouragée à examiner les
@@ -4656,12 +4656,12 @@ Aucune.
 Aucune, sauf pour l’isomère gamma du HCH (lindane), utilisé comme insecticide topique à des fins de santé publique. Les utilisations de cette nature feront
 l’objet d’une réévaluation dans le cadre du Protocole en 2012 ou une année
 après l’entrée en vigueur de l’amendement, si cette seconde date est postérieure à la première.
-\1. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont
+1\. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont
 susceptibles de contenir l’une ou l’autre de ces substances, ainsi que l’utilisation et l’élimination finale d’articles fabriqués à partir de matériaux recyclés qui contiennent ou sont susceptibles de contenir l’une ou l’autre de
 ces substances, à condition que le recyclage et l’élimination finale soient
 effectués de manière écologiquement rationnelle et n’aboutissent pas à la
 récupération de l’une ou l’autre de ces substances en vue de leur réutilisation.
-\2. A partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers
+2\. A partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers
 la réalisation de leur objectif ultime d’élimination de ces substances contenues dans des articles et déterminera s’il est nécessaire de maintenir cette
 condition, qui en tout état de cause expirera au plus tard en 2030.»
 
@@ -4689,7 +4689,7 @@ L’utilisation
 
 Aucune.
 Aucune. En ce qui concerne les PCB utilisés à la date en vigueur, les Parties:
-\1. Font des efforts résolus dans le but de parvenir:
+1\. Font des efforts résolus dans le but de parvenir:
 a) A mettre fin à l’utilisation des PCB identifiables dans les appareils (transformateurs, condensateurs ou récipients analogues renfermant des
 stocks de liquides résiduels) qui contiennent un volume supérieur à 5
 dm3 de liquide dont la teneur en PCB est égale ou supérieure à 0,05%
@@ -4714,7 +4714,7 @@ Régime d’application
 Mettre fin à
 
 Conditions
-\2. Les Parties s’efforcent:
+2\. Les Parties s’efforcent:
 a) D’identifier et de retirer de la circulation les appareils (par exemple les
 transformateurs, condensateurs ou récipients analogues renfermant des
 stocks de liquides) qui contiennent un volume supérieur à 0,05 dm3 de
@@ -4722,10 +4722,10 @@ liquide dont la teneur en PCB est supérieure à 0,005% dans les meilleurs déla
 b) D’inventorier les autres articles dont la teneur en PCB dépasse 0,005%
 (par exemple gaines de câbles, matériaux de calfatage et objets peints)
 et à les gérer conformément aux dispositions du paragraphe 3 de l’article
-3.
-\3. Font en sorte que les appareils décrits aux alinéas a des paragraphes 1 et
+3\.
+3\. Font en sorte que les appareils décrits aux alinéas a des paragraphes 1 et
 2 ne soient ni exportés ni importés, sauf en vue d’une gestion écologiquement rationnelle des déchets.
-\4. Privilégient les mesures ci-après visant à réduire l’exposition et les risques
+4\. Privilégient les mesures ci-après visant à réduire l’exposition et les risques
 en vue de réglementer l’emploi des PCB:
 a) Utilisation uniquement dans des équipements intacts et qui ne fuient pas
 et seulement dans des lieux où les risques de rejet dans l’environnement
@@ -4800,14 +4800,14 @@ l’utilisation
 
 Aucune.
 
-\1. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont
+1\. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont
 susceptibles de contenir l’une quelconque de ces substances, ainsi que
 l’utilisation et l’élimination finale d’articles fabriqués à partir de matériaux
 recyclés qui contiennent ou sont susceptibles de contenir l’une quelconque
 de ces substances, à condition que le recyclage et l’élimination finale soient
 effectués de manière écologiquement rationnelle et n’aboutissent pas à la
 récupération de l’une ou l’autre de ces substances en vue de leur réutilisation.
-\2. A partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers
+2\. A partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers
 la réalisation de leur objectif ultime d’élimination de ces substances contenues dans des articles et déterminera s’il est nécessaire de maintenir cette
 condition, qui en tout état de cause expirera au plus tard en 2030.»
 
@@ -4937,11 +4937,11 @@ ATMOSPHÈRE – 3. Conventions internationales
 ANNEXE IV
 Valeurs limites pour les PCDD/PCDF provenant de grandes sources fixes
 I. Introduction
-1.
+1\.
 
 Une définition des dioxines et des furannes (PCDD/PCDF) est fournie à l’annexe III du présent Protocole.
 
-2.
+2\.
 
 Les valeurs limites exprimées en ng/m3 ou mg/m3 se rapportent aux conditions normales (273,15 K, 101,3 kPa (…)(1)
 gaz secs) «pour une teneur en oxygène donnée»(2).
@@ -4949,13 +4949,13 @@ gaz secs) «pour une teneur en oxygène donnée»(2).
 (Loi du 10 juillet 2011)
 «3. Les valeurs limites correspondent au fonctionnement en service normal. Lors d’une opération par lots les valeurs limites
 correspondent à l’ensemble du procédé - y compris par exemple le préchauffage, le chauffage et le refroidissement.»
-4.
+4\.
 
 Le prélèvement et l’analyse d’échantillons de tous les polluants devront être effectués selon les normes «applicables»(2)
 fixées «par exemple»(2) par le Comité européen de normalisation (CEN) ou par l’Organisation internationale de normalisation (ISO) ou conformément aux méthodes de référence correspondantes du Canada ou des Etats-Unis. En attendant
 la mise au point des normes CEN ou ISO, il y aura lieu d’appliquer les normes nationales.
 
-5.
+5\.
 
 Aux fins de vérification, l’interprétation des résultats des mesures par rapport à la valeur limite doit tenir compte également de l’imprécision de la méthode de mesure. On considère qu’une valeur limite est respectée si le résultat de la
 mesure, corrigé de l’imprécision de la méthode appliquée, ne dépasse pas cette valeur.
@@ -4991,7 +4991,7 @@ La valeur limite suivante, correspondant à une concentration de O2 de 16% dans 
 ateliers d’agglomération:
 0,5 ng EQT/m3.
 
-9.
+9\.
 
 La valeur limite suivante, correspondant à la concentration de O2 réelle dans les gaz de combustion, s’applique à la
 source suivante:
@@ -5026,7 +5026,7 @@ description plus complète de ces meilleures techniques disponibles, ainsi que d
 dans un document d’orientation adopté par les Parties à une session de l’Organe exécutif et peuvent être actualisés
 selon que de besoin par consensus par les Parties réunies au sein de l’Organe exécutif.»
 
-2.
+2\.
 
 On entend par «meilleures techniques disponibles» (MTD) le stade de développement le plus efficace et avancé des
 activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer, en
@@ -5103,7 +5103,7 @@ La nécessité de prévenir les accidents et de réduire au minimum leurs consé
 La notion de meilleure technique disponible ne vise pas à prescrire une technique ou une technologie particulière mais
 à tenir compte des caractéristiques techniques de l’installation concernée, de sa situation géographique et de l’état de
 l’environnement au niveau local.
-3.
+3\.
 
 Les informations concernant l’efficacité et le coût des mesures de lutte contre les émissions sont tirées des documents
 reçus et examinés par l’Équipe spéciale et le Groupe de travail préparatoire sur les POP. Sauf indication contraire, les
@@ -5127,7 +5127,7 @@ On trouvera dans le document d’orientation visé au paragraphe 1 ci-dessus la 
 mesures de lutte contre les émissions dont le coût et l’efficience sont variables. Le choix des mesures applicables dans
 chaque cas dépendra d’un certain nombre de facteurs, dont la situation économique, l’infrastructure et la capacité technologiques et, éventuellement, les mesures de lutte contre la pollution atmosphérique déjà en vigueur.»
 
-6.
+6\.
 
 Les plus importants POP émis par des sources fixes sont:
 a) Les polychlorodibenzo-p-dioxines/furannes (PCDD/PCDF);
@@ -5136,7 +5136,7 @@ c) Les hydrocarbures aromatiques polycycliques (HAP).
 Les définitions correspondantes sont fournies à l’annexe III du présent Protocole.
 II. Grandes sources fixes d’émissions de POP
 
-7.
+7\.
 
 Les émissions de PCDD/PCDF ont pour origine des procédés thermiques faisant intervenir des matières organiques
 et du chlore; elles résultent d’une combustion incomplète ou de certaines réactions chimiques. Les principales sources
@@ -5148,7 +5148,7 @@ c) Les installations de combustion produisant de l’énergie;
 d) La combustion dans les foyers domestiques;
 e) Certains procédés de production chimique émettant des produits intermédiaires et des sous-produits.
 
-8.
+8\.
 
 Les grandes sources fixes d’émissions de HAP sont les suivantes:
 a) Le chauffage domestique au bois ou au charbon;
@@ -5157,7 +5157,7 @@ c) La cokéfaction et la fabrication d’anodes;
 d) La production d’aluminium (par le procédé Soederberg);
 e) Les installations de préservation du bois, sauf pour les Parties où cette catégorie ne contribue pas de manière substantielle aux émissions totales de HAP (tels qu’ils sont définis à l’annexe III).
 
-9.
+9\.
 
 Les émissions de HCB ont pour origine les mêmes procédés thermiques et chimiques que les émissions de PCDD/
 PCDF et le mécanisme de formation est analogue. Les grandes sources d’émissions de HCB sont les suivantes:
@@ -5283,7 +5283,7 @@ alinéa 2, de la directive 2003/87/CE précitée, les émissions issues de la co
 établis conformément aux actes d’exécution de la Commission européenne adoptés conformément à l’article 14, paragraphe
 1er, de la directive 2003/87/CE précitée contribuent à plus de 95 pour cent en moyenne aux émissions totales moyennes de gaz
 à effet de serre, ne sont pas visées par la présente loi. »
-\2. Les valeurs seuils citées ci-dessous se rapportent généralement à des capacités de production ou à des rendements. Si
+2\. Les valeurs seuils citées ci-dessous se rapportent généralement à des capacités de production ou à des rendements. Si
 une même installation met en œuvre plusieurs activités relevant de la même catégorie, les capacités de ces activités s’additionnent.
 (Loi du 29 mai 2024)
 « 3. Pour calculer la puissance calorifique totale de combustion d’une installation afin de décider de son inclusion dans le
@@ -5291,12 +5291,12 @@ SEQE de l’UE, on procède par addition des puissances calorifiques de combusti
 les types de chaudières, brûleurs, turbines, appareils de chauffage, hauts-fourneaux, incinérateurs, calcinateurs, fours, étuves,
 sécheurs, moteurs, piles à combustible, unités de combustion en boucle chimique, torchères, ainsi que les unités de postcombustion thermique ou catalytique. Les unités dont la puissance calorifique de combustion est inférieure à 3 mégawatts ne sont
 pas prises en considération dans ce calcul. »
-\4. Si une unité met en œuvre une activité dont le seuil n’est pas exprimé en puissance calorifique totale de combustion, c’est
+4\. Si une unité met en œuvre une activité dont le seuil n’est pas exprimé en puissance calorifique totale de combustion, c’est
 le seuil utilisé pour cette activité qui détermine l’inclusion dans le système communautaire.
-\5. Lorsqu’une installation dépasse le seuil de capacité défini pour une activité dans la présente annexe, toutes les unités
+5\. Lorsqu’une installation dépasse le seuil de capacité défini pour une activité dans la présente annexe, toutes les unités
 de combustion de carburants, autres que les unités d’incinération de déchets dangereux ou municipaux, sont incluses dans le
 permis d’émission de gaz à effet de serre.
-\6. Tous les vols à l’arrivée ou au départ d’un aérodrome situé sur le territoire d’un État membre soumis aux dispositions du
+6\. Tous les vols à l’arrivée ou au départ d’un aérodrome situé sur le territoire d’un État membre soumis aux dispositions du
 traité sont couverts.
 
 \- 87 -
@@ -5971,7 +5971,7 @@ obligation internationale au titre du Protocole de Kyoto, en sus de la liste ind
 Add.1 et Add.2.
 3 L’engagement chiffré de limitation et de réduction des émissions de l’Australie pour la deuxième période d’engagement au titre du
 Protocole de Kyoto est conforme à l’objectif inconditionnel pour 2020 de l’Australie d’une réduction de 5% par rapport au niveau de
-\2000. L’Australie conserve la possibilité de relever ultérieurement son objectif de réduction pour 2020 de 5% à 15%, voire 25% par
+2000\. L’Australie conserve la possibilité de relever ultérieurement son objectif de réduction pour 2020 de 5% à 15%, voire 25% par
 rapport au niveau de 2000, à condition que certaines conditions soient remplies. Ce niveau de référence maintient le statu quo quant
 aux annonces faites au titre des accords de Cancun et ne relève pas d’une nouvelle obligation internationale au titre du présent
 Protocole ou des règles et modalités connexes.
@@ -6033,7 +6033,7 @@ Règlement grand-ducal du 24 février 2003 concernant la mise en décharge des d
 (Mém. A - 34 du 7 mars 2003, p. 546; dir. 1999/31/CE)
 modifié par:
 Règlement grand-ducal du 17 février 2006 (Mém. A - 36 du 2 mars 2006, p. 696; rectificatif: Mém. A - 51 du 20 mars 2006, p.
-1124)
+1124\)
 Règlement grand-ducal du 22 mai 2008 (Mém. A - 82 du 11 juin 2008, p. 1158)
 Règlement grand-ducal du 28 juin 2012 (Mém. A - 138 du 9 juillet 2012, p. 1744 ; dir. 2011/97)
 Règlement grand-ducal du 25 janvier 2017 (Mém. A - 191 du 10 février 2017)
@@ -6043,7 +6043,7 @@ Texte coordonné au 10 juin 2022
 Version applicable à partir du 14 juin 2022
 ANNEXE I
 Exigences générales pour toutes les catégories de décharges
-1.
+1\.
 
 Emplacement
 1.1. La détermination du site d’une décharge doit tenir compte d’exigences concernant:
@@ -6056,7 +6056,7 @@ e) la protection du patrimoine naturel ou culturel de la zone.
 1.2. La décharge ne peut être autorisée que si, vu les caractéristiques du site au regard des exigences mentionnées
 ci-dessus ou les mesures correctives envisagées, la décharge ne présente pas de risque grave pour l’environnement.
 
-2.
+2\.
 
 Maîtrise des eaux et gestion des lixiviats
 Compte tenu des caractéristiques de la décharge et des conditions météorologiques, des mesures appropriées sont
@@ -6079,7 +6079,7 @@ de traiter les eaux contaminées et les lixiviats recueillis dans la décharge a
 pouvoir être rejetés.
 
 Les dispositions ci-dessus ne sont pas obligatoires pour les décharges de déchets inertes.
-3.
+3\.
 
 Protection du sol et des eaux
 3.1. Généralités
@@ -6223,7 +6223,7 @@ désaffectation telle que fixée par l’acte autorisant l’implantation et l�
 «Pour le cas où ce recouvrement doit se faire moyennant une couche de terres, celles-ci doivent satisfaire
 aux valeurs limites reprises sous le point 2.1.2.3 de l’annexe II.»
 
-4.
+4\.
 
 Maîtrise des gaz
 4.1. Des mesures appropriées sont prises afin de limiter l’accumulation et la migration des gaz de décharge (annexe III).
@@ -6233,7 +6233,7 @@ torches.
 4.3. La collecte, le traitement et l’utilisation des gaz de décharge au titre du point 4.2. sont réalisés de manière à réduire
 au maximum les dommages ou les dégradations causés à l’environnement et les risques pour la santé humaine.
 
-5.
+5\.
 
 Nuisances et dangers
 Des mesures sont prises afin de réduire les nuisances et les dangers pouvant résulter de la décharge:
@@ -6263,14 +6263,14 @@ incendies.
 
 La décharge doit être aménagée et gérée de telle sorte que les matières (p. ex. détritus) provenant du site ne puissent
 se disperser sur les voies publique et les zones environnantes ou souiller celles-ci.
-6.
+6\.
 
 Stabilité
 Il convient de disposer les déchets sur le site de manière à assurer la stabilité de la masse des déchets et des structures
 associées, et en particulier à éviter les glissements. Si une barrière artificielle est établie, il faut s’assurer que le substrat géologique, compte tenu de la morphologie de la décharge, est suffisamment stable pour empêcher un tassement
 risquant d’endommager la barrière.
 
-7.
+7\.
 
 Clôtures
 La décharge doit être protégée pour empêcher le libre accès au site. Les grilles doivent être fermées à clef en dehors
@@ -6327,7 +6327,7 @@ Sans préjudice de la législation en vigueur, les critères et procédures déf
 déchets résultant de la prospection, de l’extraction, du traitement et du stockage de ressources minérales et de l’exploitation de
 carrières si ces déchets sont stockés sur site. En l’absence de réglementation spécifique, les critères et procédures définis, le
 cas échéant, au niveau national sont applicables.
-1.
+1\.
 
 Procédure d’admission des déchets dans les décharges
 1.1. Caractérisation de base
@@ -6496,7 +6496,7 @@ Les exigences détaillées relatives aux essais de vérification sur place, et l
 d’essai rapides sont fixés par les autorisations.
 Lors de la livraison, des échantillons sont prélevés périodiquement. Les échantillons prélevés sont conservés
 après l’admission des déchets pendant une période d’au moins un an.
-2.
+2\.
 
 Critères d’admission des déchets
 Le présent point définit les critères d’admission des déchets dans chaque catégorie de décharge, y compris les critères
@@ -7717,7 +7717,7 @@ toute observation particulière.
 
 Les certificats doivent être délivrés par le producteur des déchets ou à défaut par la personne responsable de
 leur gestion.»
-3.
+3\.
 
 Méthodes d’échantillonnage et d’essai
 En règle générale, les échantillonnages et les essais pour la caractérisation de base et la vérification de la conformité
@@ -7802,7 +7802,7 @@ Les méthodes appliquées aux essais et aux analyses pour lesquels les méthodes
 DÉCHETS – 1. Dispositions générales
 ANNEXE III
 Procédures de contrôle et de surveillance pendant les phases d’exploitation et d’entretien du site désaffecté
-1.
+1\.
 
 Introduction
 L’objectif de la présente annexe est d’indiquer les procédures minimales de contrôle à mettre en œuvre pour vérifier que:
@@ -7824,7 +7824,7 @@ les systèmes de protection de l’environnement fonctionnent pleinement comme p
 les conditions de l’autorisation accordée pour la décharge sont remplies.
 
 Les exigences détaillées sont fixées de façon spécifique dans les autorisations respectives conformément aux dispositions de l’article 10 du présent règlement.
-2.
+2\.
 
 Données météorologiques
 La collecte des données météorologiques se fait par le réseau météorologique national. Il doit être fait référence à la
@@ -7869,7 +7869,7 @@ Moyenne mensuelle
 
 (1) Ou par d’autres méthodes appropriées.
 
-3.
+3\.
 
 Données relatives aux rejets: contrôle des eaux, des lixiviats et des gaz
 Des échantillons des lixiviats et des eaux de surface doivent être recueillis à des endroits représentatifs. Le prélèvement des échantillons et les mesures (volume et composition) des lixiviats doivent être réalisés séparément au moins
@@ -7924,7 +7924,7 @@ propriétés de ces derniers en matière de lixiviation.
 
 DÉCHETS – 1. Dispositions générales
 Les points 3.1. et 3.2. ne s’appliquent que dans le cas où les lixiviats sont recueillis (annexe I point 2).
-4.
+4\.
 
 Protection des eaux souterraines
 4.1. Prélèvement d’échantillons
@@ -7976,7 +7976,7 @@ compte des formations hydrogéologiques spécifiques sur le site de la décharge
 Les observations doivent être évaluées au moyen de tableaux de contrôle comportant des règles et des niveaux
 de contrôle bien définis pour chaque puits situé en contrebas. Les niveaux de contrôle doivent être déterminés en
 fonction des variations locales de la qualité des eaux souterraines.
-5.
+5\.
 
 Topographie du site: données relatives à la masse des déchets mis en décharge
 Exploitation
@@ -8034,7 +8034,7 @@ DÉCHETS – 1. Dispositions générales
 (Règl. g.-d. du 17 février 2006)
 «ANNEXE V
 Évaluation de la sécurité en matière de stockage souterrain
-1.
+1\.
 
 Principes de sécurité pour le stockage souterrain: Tous types de stockage
 1.1. Importance de la barrière géologique
@@ -8061,14 +8061,14 @@ artificielles et la formation géologique encaissante.
 L’évaluation spécifique des risques liés au site de l’installation doit être effectuée à la fois pour les phases d’exploitation et de post exploitation. Sur la base de ces évaluations, les mesures de contrôle et de sécurité qui s’imposent
 ainsi que les critères d’admission sont définis.
 Une analyse intégrée de l’évaluation de la performance est préparée; cette analyse comprend notamment:
-\1) une évaluation géologique;
-\2) une évaluation géomécanique;
-\3) une évaluation hydrogéologique;
-\4) une évaluation géochimique;
-\5) une évaluation des incidences sur la biosphère;
-\6) une évaluation de la phase d’exploitation;
-\7) une évaluation à long terme;
-\8) une évaluation de l’incidence de toutes les installations situées à la surface du site.
+1\) une évaluation géologique;
+2\) une évaluation géomécanique;
+3\) une évaluation hydrogéologique;
+4\) une évaluation géochimique;
+5\) une évaluation des incidences sur la biosphère;
+6\) une évaluation de la phase d’exploitation;
+7\) une évaluation à long terme;
+8\) une évaluation de l’incidence de toutes les installations situées à la surface du site.
 1.2.1.
 
 Évaluation géologique
@@ -8086,16 +8086,16 @@ La stabilité des cavités doit être démontrée par des études et des évalua
 stockés sont pris en compte dans cette évaluation. Il convient systématiquement d’analyser les processus
 et d’étayer cette analyse par une documentation.
 La démonstration devrait porter sur les points suivants:
-\1) pendant et après la formation des cavités, aucune déformation importante susceptible d’altérer la mise
+1\) pendant et après la formation des cavités, aucune déformation importante susceptible d’altérer la mise
 en œuvre du stockage souterrain ou d’ouvrir une voie vers la biosphère ne devrait se produire dans la
 cavité elle-même ou à la surface de la terre;
-\2) la résistance à la déformation de la cavité est suffisante pour empêcher son effondrement pendant
+2\) la résistance à la déformation de la cavité est suffisante pour empêcher son effondrement pendant
 l’exploitation;
 
 \- 116 -
 
 DÉCHETS – 1. Dispositions générales
-\3) les matériaux entreposés doivent avoir la stabilité nécessaire compatible avec les propriétés géomécaniques de la roche hôte.
+3\) les matériaux entreposés doivent avoir la stabilité nécessaire compatible avec les propriétés géomécaniques de la roche hôte.
 1.2.3.
 
 Évaluation hydrogéologique
@@ -8121,9 +8121,9 @@ dans le milieu naturel local.
 
 Évaluation de la phase d’exploitation
 Pour la phase d’exploitation, l’analyse doit démontrer les points suivants:
-\1) la stabilité des cavités, déjà visée au point 1.2.2.;
-\2) l’absence de risque inacceptable d’ouverture d’une voie de transfert entre les déchets et la biosphère;
-\3) l’absence de risque inacceptable susceptible d’affecter le fonctionnement de l’installation.
+1\) la stabilité des cavités, déjà visée au point 1.2.2.;
+2\) l’absence de risque inacceptable d’ouverture d’une voie de transfert entre les déchets et la biosphère;
+3\) l’absence de risque inacceptable susceptible d’affecter le fonctionnement de l’installation.
 Lors de la démonstration de la sécurité pendant la phase d’exploitation, une analyse systématique du
 fonctionnement de l’installation doit être menée sur la base de données spécifiques relatives à l’inventaire
 des déchets, à la gestion de l’installation et au programme d’activités. Il convient de démontrer que les
@@ -8179,7 +8179,7 @@ que si ce site est séparé de manière sûre des activités minières. Les déc
 s’ils contiennent ou risquent de produire des substances dangereuses susceptibles de porter atteinte à la
 santé des personnes, par exemple des germes pathogènes de maladies transmissibles.
 
-2.
+2\.
 
 Critères d’admission en stockage souterrain applicables à tous les types de stockage souterrains
 2.1. Déchets exclus
@@ -8225,7 +8225,7 @@ de compatibilité; les différents groupes de compatibilité doivent être physi
 \- 118 -
 
 DÉCHETS – 1. Dispositions générales
-3.
+3\.
 
 Remarques complémentaires: Mines de sel
 3.1. Importance de la barrière géologique
@@ -8264,7 +8264,7 @@ des roches de recouvrement ou les autres défauts envisageables à long terme ne
 être démontré que ces transformations n’entraîneront pas de failles, que l’intégrité de la barrière sera maintenue
 et qu’aucune voie susceptible d’entraîner un contact entre l’eau et les déchets ou une migration des déchets ou de
 leurs composants vers la biosphère ne se formera.
-4.
+4\.
 
 Remarques complémentaires: Roches dures
 Par «stockage profond dans des roches dures», on entend un stockage souterrain à plusieurs centaines de mètres de
@@ -8388,19 +8388,19 @@ ANNEXE II
 ANNEXE III
 Accord environnemental
 Les accords environnementaux prévus au présent règlement sont soumis aux règles suivantes:
-1.
+1\.
 
 a) les accords doivent préciser leurs objectifs et leur durée;
 b) les accords et les résultats atteints par leur application sont à la disposition du public et communiqués à la Commission européenne;
 c) l’application des accords fait l’objet d’un contrôle régulier de la part de l’administration;
 d) les accords contiennent des mesures et sanctions en cas de non respect de leurs dispositions.
 
-2.
+2\.
 
 Les accords sont conclus pour une période déterminée qui ne peut excéder cinq ans. Ils ne sont pas renouvelables par
 tacite reconduction.
 
-3.
+3\.
 
 Les accords prennent fin soit à l’échéance du terme pour lequel ils ont été conclus, soit à la réalisation de leurs objectifs,
 soit d’un commun accord des parties.
@@ -8422,7 +8422,7 @@ Numéro:
 
 /
 
-\1. Entreprise délivrant le certificat de destruction1
+1\. Entreprise délivrant le certificat de destruction1
 Nom
 Numéro
 Rue
@@ -8434,7 +8434,7 @@ Numéro télécopieur
 Adresse électronique
 Numéro autorisation loi commodo/incommodo
 Numéro autorisation loi déchets
-\2. Données du véhicule
+2\. Données du véhicule
 
 Marque
 Modèle
@@ -8449,7 +8449,7 @@ et détruit selon la législation environnementale en vigueur.
 \- 123 -
 
 DÉCHETS – 1. Dispositions générales
-\3. Données du dernier détenteur/propriétaire(1)
+3\. Données du dernier détenteur/propriétaire(1)
 Nom, prénom
 Numéro
 Rue
@@ -8609,17 +8609,17 @@ ANNEXE III
 Détail des obligations de traitement et de recyclage
 
 PARTIE A: TRAITEMENT
-1.
+1\.
 
 Le traitement consistera, au minimum, en l’extraction de tous les fluides et acides.
 
-2.
+2\.
 
 Le traitement et tout stockage, y compris temporaire, dans les installations de traitement a lieu sur des sites offrant des
 surfaces imperméables et un recouvrement résistant aux intempéries ou dans des conteneurs appropriés.
 
 PARTIE B: RECYCLAGE
-3.
+3\.
 
 Les processus de recyclage atteignent les rendements minimaux de recyclage suivants:
 a) un recyclage d’au moins 65 % du poids moyen des piles et des accumulateurs plomb-acide, y compris un recyclage
@@ -8634,10 +8634,10 @@ ANNEXE IV (abrogée par la loi du 9 juin 2022)
 
 DÉCHETS – 1. Dispositions générales
 Loi du 21 mars 2012 relative à la gestion des déchets, et modifiant
-\1. la loi du 31 mai 1999 portant institution d’un fonds pour la protection de l’environnement;
-\2. la loi du 25 mars 2005 relative au fonctionnement et au financement de l’action SuperDrecksKëscht;
-\3. la loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateurs b) modifiant la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
-\4. la loi du 24 mai 2011 relative aux services dans le marché intérieur,
+1\. la loi du 31 mai 1999 portant institution d’un fonds pour la protection de l’environnement;
+2\. la loi du 25 mars 2005 relative au fonctionnement et au financement de l’action SuperDrecksKëscht;
+3\. la loi du 19 décembre 2008 a) relative aux piles et accumulateurs ainsi qu’aux déchets de piles et d’accumulateurs b) modifiant la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets;
+4\. la loi du 24 mai 2011 relative aux services dans le marché intérieur,
 (Mém. A – 60 du 28 mars 2012, p. 670; doc. parl. 6288; dir. 2008/98)
 modifiée par:
 Loi du 3 décembre 2014
@@ -8806,7 +8806,7 @@ Cette formule est appliquée conformément au document de référence sur les me
 d’incinération de déchets (BREF Incinération).
 La valeur donnée par la formule relative à l’efficacité énergétique sera multipliée par un facteur de correction climatique
 (FCC), comme suit :
-1)
+1\)
 
 FCC pour les installations en exploitation et autorisées, conformément à la législation de l’Union européenne en vigueur,
 avant le 1er septembre 2015
@@ -8814,7 +8814,7 @@ FCC = 1 si DJC ≥ 3 350
 FCC = 1,25 si DJC ≤ 2 150
 FCC = – (0,25/1 200) × DJC + 1,698 si 2 150 < DJC < 3 350
 
-2)
+2\)
 
 FCC pour les installations autorisées après le 31 août 2015 et pour les installations visées au point 1° après le 31
 décembre 2029
@@ -8846,7 +8846,7 @@ ANNEXE III (abrogée par la loi du 9 juin 2022)
 «ANNEXE IV
 Délais d’instructions
 (1) Pour les demandes introduites en vertu des dispositions des articles 7, 9 et 30, lettres a), b), c), et f)
-1.
+1\.
 
 L’administration compétente décide dans les quinze jours suivant l’avis de réception relatif à la demande si elle est recevable.
 La demande est irrecevable si, de l’appréciation de l’administration compétente, elle est à considérer comme étant
@@ -8861,12 +8861,12 @@ suites. La décision de l’irrecevabilité est motivée. Le silence de l’Admi
 Les contestations relatives à la recevabilité d’un dossier de demande sont instruites selon la procédure prévue à l’article
 50, paragraphe 1er.
 
-2.
+2\.
 
 Pour les demandes déclarées recevables, l’administration compétente dispose d’un délai de trois mois pour informer le
 requérant si son dossier de demande est complet.
 
-3.
+3\.
 
 Lorsque le dossier n’est pas complet ou lorsque l’administration compétente nécessite sur base des éléments du dossier des informations supplémentaires pour pouvoir juger si l’activité projetée est conforme aux dispositions des articles
 9 et 10, elle invite le requérant en une seule fois dans le délai précité à compléter son dossier ou à fournir les informations supplémentaires.
@@ -8876,7 +8876,7 @@ Sur demande écrite et motivée du requérant, ce délai peut être prolongé un
 À défaut d’une réponse dans les délais précités, la demande est considérée comme nulle et non avenue. Le requérant
 en est informé par l’administration compétente.
 
-4.
+4\.
 
 Pour le cas où le dossier de demande a été déclaré complet conformément au point 2° ou les renseignements supplémentaires demandés ont été transmis à l’administration compétente dans les délais mentionnés au point 3°, le ministre
 dispose d’un délai de 3 mois pour prendre la décision.
@@ -9419,53 +9419,53 @@ Produits visés à l’article 12, paragraphe 3
 i.
 
 Produits à usage unique en plastique interdits à partir du 1er janvier 2023 sur les fêtes et évènements ouverts au public
-\1. Barquettes et autres récipients pour aliments
-\2. Assiettes
-\3. Couverts (fourchettes, couteaux, cuillères, baguettes)
-\4. Touillettes
-\5. Pailles
-\6. Mini-pics
-\7. Récipients pour boisson : gobelets, tasses, verres
-\8. Bouteilles
+1\. Barquettes et autres récipients pour aliments
+2\. Assiettes
+3\. Couverts (fourchettes, couteaux, cuillères, baguettes)
+4\. Touillettes
+5\. Pailles
+6\. Mini-pics
+7\. Récipients pour boisson : gobelets, tasses, verres
+8\. Bouteilles
 
 ii.
 
 Produits à usage unique interdits à partir du 1er janvier 2025 sur les fêtes et évènements ouverts au public
-\1. Assiettes
-\2. Touillettes
-\3. Pailles
-\4. Mini-pics
-\5. Récipients pour boisson : gobelets, tasses, verres
-\6. Bouteilles (à l’exception des bouteilles en verre)
-\7. Canettes à boisson
-\8. Cartons à boisson
+1\. Assiettes
+2\. Touillettes
+3\. Pailles
+4\. Mini-pics
+5\. Récipients pour boisson : gobelets, tasses, verres
+6\. Bouteilles (à l’exception des bouteilles en verre)
+7\. Canettes à boisson
+8\. Cartons à boisson
 
 ANNEXE VII
 
 Exemples d’instruments économiques et autres mesures pour inciter à l’application de la hiérarchie des déchets visée à
 l’article 9
 
-1.
+1\.
 
 Redevances et restrictions pour la mise en décharge et l’incinération des déchets qui encouragent la prévention des
 déchets et le recyclage, tout en maintenant la mise en décharge comme l’option de gestion des déchets la moins souhaitable ;
 
-2.
+2\.
 
 Systèmes de tarification en fonction du volume de déchets qui font payer les producteurs de déchets sur la base de la
 quantité réelle de déchets produits et offrent des incitations au tri à la source de déchets recyclables et à la réduction
 des déchets en mélange ;
 
-3.
+3\.
 
 Incitations fiscales en faveur des dons de produits, en particulier de denrées alimentaires ;
 
-4.
+4\.
 
 Régimes de responsabilité élargie des producteurs relatifs à différents types de déchets et mesures visant à accroître
 leur efficacité, leur rapport coût/efficacité et leur gestion ;
 
-5.
+5\.
 
 Systèmes de consigne et autres mesures visant à encourager la collecte efficace des produits et matériaux usagés ;
 
@@ -9475,32 +9475,32 @@ Règlement (CE) n° 440/2008 du Conseil du 30 mai 2008 établissant des méthode
 \- 135 -
 
 DÉCHETS – 1. Dispositions générales
-6.
+6\.
 
 Planification solide des investissements dans les infrastructures de gestion des déchets, par les fonds de l’Union européenne ;
 
-7.
+7\.
 
 Marchés publics durables visant à encourager une meilleure gestion des déchets et l’utilisation de produits et de matériaux recyclés ;
 
-8.
+8\.
 
 Suppression progressive des subventions contraires à la hiérarchie des déchets ;
 
-9.
+9\.
 
 Recours à des mesures fiscales ou à d’autres moyens pour promouvoir l’utilisation de produits et de matériaux préparés
 en vue du réemploi ou recyclés ;
 
-\10. Soutien à la recherche et à l’innovation en matière de technologies de recyclage avancées et de refabrication ;
-\11. Utilisation des meilleures techniques disponibles en matière de traitement des déchets ;
-\12. Mesures d’incitation économiques pour les autorités locales et régionales, pour promouvoir la prévention des déchets
+10\. Soutien à la recherche et à l’innovation en matière de technologies de recyclage avancées et de refabrication ;
+11\. Utilisation des meilleures techniques disponibles en matière de traitement des déchets ;
+12\. Mesures d’incitation économiques pour les autorités locales et régionales, pour promouvoir la prévention des déchets
 et intensifier les systèmes de collecte séparée, tout en évitant de soutenir la mise en décharge et l’incinération ;
-\13. Campagnes de sensibilisation de la population, en particulier sur la collecte séparée, la prévention des déchets et la
+13\. Campagnes de sensibilisation de la population, en particulier sur la collecte séparée, la prévention des déchets et la
 réduction des déchets sauvages, et intégration de ces questions dans l’enseignement et la formation ;
-\14. Systèmes de coordination, y compris par des moyens numériques, entre toutes les autorités publiques compétentes
+14\. Systèmes de coordination, y compris par des moyens numériques, entre toutes les autorités publiques compétentes
 intervenant dans la gestion des déchets ;
-\15. Promotion d’un dialogue et d’une coopération permanents entre toutes les parties prenantes dans la gestion des déchets, ainsi que d’accords volontaires et de rapports d’entreprises en matière de déchets.
+15\. Promotion d’un dialogue et d’une coopération permanents entre toutes les parties prenantes dans la gestion des déchets, ainsi que d’accords volontaires et de rapports d’entreprises en matière de déchets.
 
 \- 136 -
 
@@ -9531,44 +9531,44 @@ Texte coordonné au 4 mai 2020
 Version applicable à partir du 8 mai 2020
 ANNEXE I
 Catégories d’EEE couvertes par le présent règlement
-1.
+1\.
 
 Gros appareils ménagers
 
-2.
+2\.
 
 Petits appareils ménagers
 
-3.
+3\.
 
 Équipements informatiques et de télécommunications
 
-4.
+4\.
 
 Matériel grand public
 
-5.
+5\.
 
 Matériel d’éclairage
 
-6.
+6\.
 
 Outils électriques et électroniques
 
-7.
+7\.
 
 Jouets, équipements de loisir et de sport
 
-8.
+8\.
 
 Dispositifs médicaux
 
-9.
+9\.
 
 Instruments de contrôle et de surveillance, y compris instruments de contrôle et de surveillance industriels
 
-\10. Distributeurs automatiques
-\11. Autres EEE n’entrant pas dans les catégories ci-dessus
+10\. Distributeurs automatiques
+11\. Autres EEE n’entrant pas dans les catégories ci-dessus
 
 \- 137 -
 
@@ -9601,33 +9601,33 @@ ANNEXE IV (abrogée par l e règl. g.-d. du 24 avril 2020)
 
 ANNEXE V
 Déclaration UE de conformité
-1.
+1\.
 
 N° … (identification unique de l’EEE):
 
-2.
+2\.
 
 Nom et adresse du fabricant ou de son mandataire:
 
-3.
+3\.
 
 La présente déclaration de conformité est établie sous la seule responsabilité du fabricant (ou de l’installateur):
 
-4.
+4\.
 
 Objet de la déclaration (identification de l’EEE permettant sa traçabilité; au besoin, une photo peut être jointe):
 
-5.
+5\.
 
 L’objet de la déclaration décrit ci-dessus est conforme à la directive 2011/65/UE du Parlement européen et du Conseil du
 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques
 et électroniques.
 
-6.
+6\.
 
 Le cas échéant, références des normes harmonisées pertinentes appliquées ou des spécifications techniques par rapport auxquelles la conformité est déclarée:
 
-7.
+7\.
 
 Informations supplémentaires:
 
@@ -9651,21 +9651,21 @@ ANNEXE I
 Catégories d’EEE couvertes par le présent règlement pendant la période transitoire,
 en vertu de l’article 3, paragraphe (1), point a)
 
-\1. Gros appareils ménagers
-\2. Petits appareils ménagers
-\3. Equipements informatiques et de télécommunications
-\4. Matériel grand public et panneaux photovoltaïques
-\5. Matériel d’éclairage
-\6. Outils électriques et électroniques (à l’exception des gros outils industriels fixes)
-\7. Jouets, équipements de loisir et de sport
-\8. Dispositifs médicaux (à l’exception de tous les produits implantés ou infectés)
-\9. Instruments de surveillance et de contrôle
-\10. Distributeurs automatiques
+1\. Gros appareils ménagers
+2\. Petits appareils ménagers
+3\. Equipements informatiques et de télécommunications
+4\. Matériel grand public et panneaux photovoltaïques
+5\. Matériel d’éclairage
+6\. Outils électriques et électroniques (à l’exception des gros outils industriels fixes)
+7\. Jouets, équipements de loisir et de sport
+8\. Dispositifs médicaux (à l’exception de tous les produits implantés ou infectés)
+9\. Instruments de surveillance et de contrôle
+10\. Distributeurs automatiques
 
 ANNEXE II
 Liste indicative des EEE relevant des catégories énumérées à l’annexe I
 
-\1. GROS APPAREILS MENAGERS
+1\. GROS APPAREILS MENAGERS
 Gros appareils frigorifiques
 Réfrigérateurs
 Congélateurs
@@ -9688,7 +9688,7 @@ Autres gros appareils pour chauffer les pièces, les lits et les sièges
 Ventilateurs électriques
 Appareils de conditionnement d’air
 Autres équipements pour la ventilation, la ventilation d’extraction et la climatisation
-\2. PETITS APPAREILS MENAGERS
+2\. PETITS APPAREILS MENAGERS
 Aspirateurs
 Aspirateurs-balais
 Autres appareils pour nettoyer
@@ -9702,7 +9702,7 @@ Appareils pour couper les cheveux, sèche-cheveux, brosses à dents, rasoirs, ap
 soins corporels
 Réveils, montres et autres équipements destinés à mesurer, indiquer ou enregistrer le temps
 Balances
-\3. EQUIPEMENTS INFORMATIQUES ET DE TELECOMMUNICATIONS
+3\. EQUIPEMENTS INFORMATIQUES ET DE TELECOMMUNICATIONS
 Traitement centralisé des données:
 Unités centrales
 Mini-ordinateurs
@@ -9731,7 +9731,7 @@ et autres produits ou équipements pour transmettre des sons, des images ou d’
 \- 140 -
 
 DÉCHETS – 1. Dispositions générales
-\4. MATERIEL GRAND PUBLIC ET PANNEAUX PHOTOVOLTAÏQUES
+4\. MATERIEL GRAND PUBLIC ET PANNEAUX PHOTOVOLTAÏQUES
 Postes de radio
 Postes de télévision
 Caméscopes
@@ -9742,7 +9742,7 @@ Instruments de musique
 et autres produits ou équipements destinés à enregistrer ou à reproduire des sons ou des images, y compris des signaux
 ou d’autres technologies permettant de distribuer le son et l’image autrement que par télécommunication
 Panneaux photovoltaïques
-\5. MATERIEL D’ECLAIRAGE
+5\. MATERIEL D’ECLAIRAGE
 Appareils d’éclairage pour tubes fluorescents, à l’exception des appareils d’éclairage domestiques
 Tubes fluorescents rectilignes
 Lampes fluorescentes compactes
@@ -9750,7 +9750,7 @@ Lampes à décharge à haute intensité, y compris les lampes à vapeur de sodiu
 Lampes à vapeur de sodium basse pression
 Autres matériels d’éclairage ou équipements destinés à diffuser ou à contrôler la lumière, à l’exception des ampoules à
 filament
-\6. OUTILS ELECTRIQUES ET ELECTRONIQUES (A L’EXCEPTION DES GROS OUTILS INDUSTRIELS FIXES)
+6\. OUTILS ELECTRIQUES ET ELECTRONIQUES (A L’EXCEPTION DES GROS OUTILS INDUSTRIELS FIXES)
 Foreuses
 Scies et tronçonneuses
 Machines à coudre
@@ -9762,14 +9762,14 @@ Outils pour souder, braser ou pour des utilisations similaires
 Equipements pour la pulvérisation, l’étendage, la dispersion ou d’autres traitements de substances liquides ou gazeuses
 par d’autres moyens
 Outils pour tondre ou pour d’autres activités de jardinage
-\7. JOUETS, EQUIPEMENTS DE LOISIR ET DE SPORT
+7\. JOUETS, EQUIPEMENTS DE LOISIR ET DE SPORT
 Trains ou voitures de course miniatures
 Consoles de jeux vidéo portables
 Jeux vidéo
 Ordinateurs pour le cyclisme, la plongée sous-marine, la course, l’aviron, etc.
 Equipements de sport comportant des composants électriques ou électroniques
 Machines à sous
-\8. DISPOSITIFS MEDICAUX (A L’EXCEPTION DE TOUS LES PRODUITS IMPLANTES OU INFECTES)
+8\. DISPOSITIFS MEDICAUX (A L’EXCEPTION DE TOUS LES PRODUITS IMPLANTES OU INFECTES)
 Matériel de radiothérapie
 Matériel de cardiologie
 Dialyseurs
@@ -9784,14 +9784,14 @@ Analyseurs
 Appareils frigorifiques
 Tests de fécondation
 Autres appareils pour détecter, prévenir, surveiller, traiter, soulager les maladies, les blessures ou les incapacités
-\9. INSTRUMENTS DE SURVEILLANCE ET DE CONTROLE
+9\. INSTRUMENTS DE SURVEILLANCE ET DE CONTROLE
 Détecteurs de fumée
 Régulateurs de chaleur
 Thermostats
 Appareils de mesure, de pesée ou de réglage pour les ménages ou utilisés comme équipement de laboratoire
 Autres instruments de surveillance et de contrôle utilisés dans des installations industrielles (par exemple, dans les
 panneaux de contrôle)
-\10. DISTRIBUTEURS AUTOMATIQUES
+10\. DISTRIBUTEURS AUTOMATIQUES
 Distributeurs automatiques de boissons chaudes
 Distributeurs automatiques de bouteilles ou canettes, chaudes ou froides
 Distributeurs automatiques de produits solides
@@ -9800,40 +9800,40 @@ Tous les appareils qui fournissent automatiquement toutes sortes de produits
 
 ANNEXE III
 Catégories d’EEE couvertes par le présent règlement
-\1. Equipements d’échange thermique
-\2. Ecrans, moniteurs et équipements comprenant des écrans d’une surface supérieure à 100 cm2
-\3. Lampes
-\4. Gros équipements (dont l’une des dimensions extérieures au moins est supérieure à 50 cm), à savoir, entre autres:
+1\. Equipements d’échange thermique
+2\. Ecrans, moniteurs et équipements comprenant des écrans d’une surface supérieure à 100 cm2
+3\. Lampes
+4\. Gros équipements (dont l’une des dimensions extérieures au moins est supérieure à 50 cm), à savoir, entre autres:
 appareils ménagers; équipements informatiques et de télécommunications; matériel grand public; luminaires;
 équipements destinés à reproduire des sons ou des images, équipements musicaux; outils électriques et électroniques;
 jouets, équipements de loisir et de sport; dispositifs médicaux; instruments de surveillance et de contrôle; distributeurs
 automatiques; équipements pour la production de courants électriques. Cette catégorie ne comprend pas les équipements inclus dans les catégories 1 à 3.
-\5. Petits équipements (dont toutes les dimensions extérieures sont inférieures ou égales à 50 cm), à savoir, entre autres:
+5\. Petits équipements (dont toutes les dimensions extérieures sont inférieures ou égales à 50 cm), à savoir, entre autres:
 appareils ménagers; matériel grand public; luminaires; équipements destinés à reproduire des sons ou des images, équipements musicaux; outils électriques et électroniques; jouets, équipements de loisir et de sport;
 dispositifs médicaux; instruments de surveillance et de contrôle; distributeurs automatiques; équipements pour la production de courants électriques. Cette catégorie ne comprend pas les équipements inclus dans les catégories 1 à 3 et 6.
-\6. Petits équipements informatiques et de télécommunications (dont toutes les dimensions extérieures sont inférieuresou
+6\. Petits équipements informatiques et de télécommunications (dont toutes les dimensions extérieures sont inférieuresou
 égales à 50 cm)
 
 ANNEXE IV
 Liste non exhaustive d’EEE relevant des catégories énumérées à l’annexe III
-\1. Equipements d’échange thermique
+1\. Equipements d’échange thermique
 Réfrigérateurs, congélateurs, distributeurs automatiques de produits froids, appareils de conditionnement d’air, déshumidificateurs, pompes à chaleur, radiateurs à bain d’huile et autres équipements d’échange thermique fonctionnant avec
 des fluides autres que l’eau pour l’échange thermique.
-\2. Ecrans, moniteurs et équipements comprenant des écrans d’une surface supérieure à 100 cm2.
+2\. Ecrans, moniteurs et équipements comprenant des écrans d’une surface supérieure à 100 cm2.
 Ecrans, télévisions, cadres photo LCD, moniteurs, ordinateurs portables, petits ordinateurs portables.
 
 \- 142 -
 
 DÉCHETS – 1. Dispositions générales
-\3. Lampes
+3\. Lampes
 Tubes fluorescents rectilignes, lampes fluorescentes compactes, lampes fluorescentes, lampes à décharge à haute intensité, y compris les lampes à vapeur de sodium haute pression et les lampes à halogénures métalliques, lampes à vapeur
 de sodium basse pression, DEL.
-\4. Gros équipements
+4\. Gros équipements
 Lave-linge, séchoirs, lave-vaisselle, cuisinières, réchauds électriques, plaques chauffantes électriques, luminaires, équipements destinés à reproduire des sons ou des images, équipements musicaux (à l’exclusion des orgues d’église),
 appareils pour le tricot et le tissage, grosses unités centrales, grosses imprimantes, photocopieuses, grosses machines
 à sous, gros dispositifs médicaux, gros instruments de surveillance et de contrôle, gros distributeurs automatiques de
 produits et d’argent, panneaux photovoltaïques.
-\5. Petits équipements
+5\. Petits équipements
 Aspirateurs, aspirateurs-balais, appareils pour la couture, luminaires, fours à micro-ondes, ventilateurs, fers à repasser,
 grille-pain, couteaux électriques, bouilloires électriques, réveils et montres, rasoirs électriques, balances, appareils pour
 les soins des cheveux et du corps, calculatrices, postes de radio, caméscopes, magnétoscopes, chaînes haute-fidélité,
@@ -9842,7 +9842,7 @@ instruments de musique, équipements destinés à reproduire des sons ou des ima
 de fumée, régulateurs de chaleur, thermostats, petits outils électriques et électroniques, petits dispositifs médicaux, petits
 instruments de surveillance et de contrôle, petits distributeurs automatiques de produits, petits équipements avec cellules
 photovoltaïques intégrées.
-\6. Petits équipements informatiques et de télécommunications (dont toutes les dimensions extérieures sont inférieures ou
+6\. Petits équipements informatiques et de télécommunications (dont toutes les dimensions extérieures sont inférieures ou
 égales à 50 cm)
 Téléphones portables, GPS, calculatrices de poche, routeurs, ordinateurs individuels, imprimantes, téléphones.
 
@@ -9989,12 +9989,12 @@ espectueux de l’environnement de composants ou d’appareils entiers.
 DÉCHETS – 1. Dispositions générales
 ANNEXE VIII
 Exigences techniques visées à l’article 7, paragraphe (3)
-\1. Sites de stockage (y compris le stockage temporaire) des DEEE avant leur traitement, sans préjudice des exigences du
+1\. Sites de stockage (y compris le stockage temporaire) des DEEE avant leur traitement, sans préjudice des exigences du
 règlement grand-ducal modifié du 24 février 2003 concernant la mise en décharge des déchets:
 – surfaces imperméables pour les aires appropriées avec dispositifs de collecte des fuites
 – et, le cas échéant, décanteurs et épurateurs-dégraisseurs,
 – recouvrement résistant aux intempéries pour les aires appropriées.
-\2. Sites de traitement des DEEE:
+2\. Sites de traitement des DEEE:
 – balances pour déterminer le poids des déchets traités,
 – surfaces imperméables et recouvrement résistant aux intempéries pour les aires appropriées avec dispositifs de collecte
 des fuites et, le cas échéant, décanteurs et épurateurs-dégraisseurs,
@@ -10012,27 +10012,27 @@ ANNEXE X
 Informations aux fins de l’enregistrement et de la déclaration visés à l’article 16
 (Règl. g. - d. du 7 novembre 2017)
 « A. Informations à fournir lors de l’enregistrement :
-\1. nom et adresse du producteur ou nom et adresse du mandataire lorsqu’il est désigné en vertu de l’article 17 (code
+1\. nom et adresse du producteur ou nom et adresse du mandataire lorsqu’il est désigné en vertu de l’article 17 (code
 postal et localité, rue et numéro, pays, numéros de téléphone et de télécopieur, adresse de courrier électronique, ainsi
 que personne de contact). Dans le cas d’un mandataire, tel que défini à l’article 17, également les coordonnées du
 producteur qu’il représente ;
-\2. numéro d’identification national du producteur, y compris numéro d’identification fiscal européen ou national ;
-\3. catégorie de l’EEE visée à l’annexe I ou III, selon le cas ;
-\4. type d’EEE (destiné aux ménages ou destinés à des utilisateurs autres que les ménages) ;
-\5. dénomination commerciale de l’EEE ;
-\6. informations relatives à la manière dont le producteur assume ses responsabilités: dans le cadre d’un système individuel ou collectif, y compris informations sur les garanties financières ;
-\7. méthode de vente utilisée (par exemple, vente à distance) ;
-\8. déclaration certifiant que les informations fournies sont conformes à la réalité. »
+2\. numéro d’identification national du producteur, y compris numéro d’identification fiscal européen ou national ;
+3\. catégorie de l’EEE visée à l’annexe I ou III, selon le cas ;
+4\. type d’EEE (destiné aux ménages ou destinés à des utilisateurs autres que les ménages) ;
+5\. dénomination commerciale de l’EEE ;
+6\. informations relatives à la manière dont le producteur assume ses responsabilités: dans le cadre d’un système individuel ou collectif, y compris informations sur les garanties financières ;
+7\. méthode de vente utilisée (par exemple, vente à distance) ;
+8\. déclaration certifiant que les informations fournies sont conformes à la réalité. »
 B. Informations à fournir lors de la déclaration:
-\1. numéro d’identification national du producteur;
-\2. période couverte par le rapport;
-\3. catégorie de l’EEE visée à l’annexe I ou III, selon le cas;
-\4. quantité d’EEE mis sur le marché national, exprimée en poids;
+1\. numéro d’identification national du producteur;
+2\. période couverte par le rapport;
+3\. catégorie de l’EEE visée à l’annexe I ou III, selon le cas;
+4\. quantité d’EEE mis sur le marché national, exprimée en poids;
 
 \- 146 -
 
 DÉCHETS – 1. Dispositions générales
-\5. quantité, exprimée en poids, de DEEE collectés séparément, recyclés (y compris préparés en vue du réemploi), valorisés
+5\. quantité, exprimée en poids, de DEEE collectés séparément, recyclés (y compris préparés en vue du réemploi), valorisés
 et éliminés dans l’Etat membre concerné ou transférés à l’intérieur ou hors du territoire de l’Union.
 Remarque: les informations visées aux points 4 et 5 doivent être fournies par catégorie d’EEE.
 
@@ -10067,7 +10067,7 @@ ANNEXE I
 Exigences essentielles portant sur la composition et le caractère réutilisable et valorisable
 (notamment recyclable) des emballages
 
-\1) Exigences portant sur la fabrication et la composition de l’emballage
+1\) Exigences portant sur la fabrication et la composition de l’emballage
 
 a) L’emballage sera fabriqué de manière à limiter son volume et son poids au minimum nécessaire pour assurer le niveau
 requis de sécurité, d’hygiène et d’acceptabilité aussi bien pour le produit emballé que pour le consommateur.
@@ -10078,7 +10078,7 @@ de l’élimination des déchets d’emballages ou ses résidus d’opérations 
 c) L’emballage sera fabriqué en veillant à réduire au minimum la teneur en substances et matières nuisibles et autres substances dangereuses du matériau d’emballage et de ses éléments, en ce qui concerne leur présence dans les émissions,
 les cendres ou le lixiviat qui résultent de l’incinération ou de la mise en décharge des emballages ou des résidus d’opérations de gestion des déchets d’emballages.
 
-\2) Exigences portant sur le caractère réutilisable d’un emballage
+2\) Exigences portant sur le caractère réutilisable d’un emballage
 
 L’emballage doit répondre simultanément aux exigences suivantes :
 a) ses propriétés physiques et ses caractéristiques lui permettent de supporter plusieurs trajets ou rotations dans les conditions d’utilisation normalement prévisibles,
@@ -10086,7 +10086,7 @@ b) il est possible de traiter l’emballage utilisé pour satisfaire aux exigenc
 c) les exigences propres à l’emballage valorisable au moment où l’emballage cesse d’être réutilisé, devenant ainsi un
 déchet, sont respectées.
 
-\3) Exigences portant sur le caractère valorisable d’un emballage
+3\) Exigences portant sur le caractère valorisable d’un emballage
 
 a) Emballage valorisable par recyclage de matériaux
 L’emballage doit être fabriqué de manière à permettre qu’un certain pourcentage en poids des matériaux utilisés soit
@@ -10112,14 +10112,14 @@ ANNEXE II
 Accord environnemental
 
 Les accords environnementaux prévus à la présente loi sont soumis aux règles suivantes :
-\1) Les accords doivent préciser leurs objectifs et leur durée.
-\2) Les accords et les résultats atteints par leur application sont à la disposition du public et communiqués à la Commission
+1\) Les accords doivent préciser leurs objectifs et leur durée.
+2\) Les accords et les résultats atteints par leur application sont à la disposition du public et communiqués à la Commission
 européenne par le ministre.
-\3) L’application des accords fait l’objet d’un contrôle régulier de la part de l’administration.
-\4) Les accords contiennent des mesures et sanctions en cas de non-respect de leurs dispositions.
-\5) Les accords sont conclus pour une période déterminée qui ne peut excéder cinq ans. Ils ne sont pas renouvelables par
+3\) L’application des accords fait l’objet d’un contrôle régulier de la part de l’administration.
+4\) Les accords contiennent des mesures et sanctions en cas de non-respect de leurs dispositions.
+5\) Les accords sont conclus pour une période déterminée qui ne peut excéder cinq ans. Ils ne sont pas renouvelables par
 tacite reconduction.
-\6) Les accords prennent fin soit à l’échéance du terme pour lequel ils ont été conclus, soit à la réalisation de leurs objectifs,
+6\) Les accords prennent fin soit à l’échéance du terme pour lequel ils ont été conclus, soit à la réalisation de leurs objectifs,
 soit d’un commun accord des parties.
 
 \- 149 -
@@ -10372,7 +10372,7 @@ ANNEXE III
 Liste des caractéristiques de danger
 Classe ONU( ) Code Caractéristiques
 
-1.
+1\.
 
 H1
 
@@ -10382,7 +10382,7 @@ Une matière ou un déchet explosif est une matière (ou un mélange de matière
 elle-même, par réaction chimique, émettre des gaz à une température et une pression et à une vitesse telle
 qu’il en résulte des dégâts dans la zone environnement.
 
-3.
+3\.
 
 Matières inflammables
 
@@ -10460,7 +10460,7 @@ H6.2
 Matières ou déchets contenant des micro-organismes viables ou leurs toxines, dont on sait, ou dont on a de
 bonnes raisons de croire, qu’ils causent la maladie chez les animaux ou chez l’homme.
 
-8.
+8\.
 
 Matières corrosives
 
@@ -10470,7 +10470,7 @@ Matières ou déchets qui, par action chimique, causent des dommages graves aux 
 touchent, ou qui peuvent en cas de fuite endommager sérieusement, voire détruire, les autres marchandises
 transportées ou les engins de transport et qui peuvent aussi comporter d’autres risques.
 
-9.
+9\.
 
 Matières libérant des gaz toxiques au contact de l’air ou de l’eau
 
@@ -10479,7 +10479,7 @@ H10
 Matières ou déchets qui, par réaction avec l’air ou l’eau, sont susceptibles d’émettre des gaz toxiques en
 quantités dangereuses.
 
-9.
+9\.
 
 Matières toxiques (effets différés ou chroniques)
 
@@ -10493,7 +10493,7 @@ marchandises dangereuses (ST/SG/AC. 10/1/rev.5, Nations Unies, New York, 1988).
 \- 152 -
 
 DÉCHETS – 4. Conventions internationales
-9.
+9\.
 
 H12
 
@@ -10502,7 +10502,7 @@ Matières écotoxiques
 Matières ou déchets qui, s’ils sont rejetés, provoquent ou risquent de provoquer, par bio-accumulation et/ou
 effets toxiques sur les systèmes biologiques, des impacts nocifs immédiats ou différés sur l’environnement.
 
-9.
+9\.
 
 Matières susceptibles après élimination de donner lieu, par quelque moyen que ce soit, à une autre substance, par exemple un produit de lixiviation, qui possède l’une des caractéristiques énumérées ci-dessus.
 
@@ -10651,97 +10651,97 @@ Mise en réserve de matériaux en vue de les soumettre à l’une des opération
 DÉCHETS – 4. Conventions internationales
 ANNEXE V - A
 Informations à fournir lors de la notification
-1.
+1\.
 
 Motif de l’exportation de déchets
 
-2.
+2\.
 
 Exportateur des déchets 1/
 
-3.
+3\.
 
 Producteur(s) des déchets et lieu de production 1/
 
-4.
+4\.
 
 Éliminateur des déchets et lieu effectif d’élimination 1/
 
-5.
+5\.
 
 Transporteur(s) prévu(s) des déchets ou leurs agents, lorsqu’ils sont connus 1/
 
-6.
+6\.
 
 Pays d’exportation des déchets
 Autorité compétente 2/
 
-7.
+7\.
 
 Pays de transit prévus
 Autorité compétente 2/
 
-8.
+8\.
 
 Pays d’importation des déchets
 Autorité compétente 2/
 
-9.
+9\.
 
 Notification générale ou notification unique
 
-10.
+10\.
 
 Date(s) prévue(s) du(des) transfert(s), durée de l’exportation des déchets et itinéraire prévu (notamment points d’entrée
 et de sortie) 3/
 
-11.
+11\.
 
 Moyen(s) de transport prévu(s) (route, rail, mer, air, voie de navigation intérieure, etc.)
 
-12.
+12\.
 
 Informations relatives à l’assurance 4/
 
-13.
+13\.
 
 Dénomination et description physique des déchets, y compris numéro Y et numéro ONU, composition de ceux-ci 5/ et
 renseignements sur toute disposition particulière relative à la manipulation, notamment mesures d’urgence à prendre
 en cas d’accident
 
-14.
+14\.
 
 Type de conditionnement prévu (par exemple vrac, fûts, citernes)
 
-15.
+15\.
 
 Quantité estimée en poids/volume 6/
 
-16.
+16\.
 
 Processus dont proviennent les déchets 7/
 
-17.
+17\.
 
 Pour les déchets énumérés à l’Annexe I, classification de l’Annexe III: caractéristique de danger, numéro H, classe de
 l’ONU
 
-18.
+18\.
 
 Mode d’élimination selon l’Annexe IV
 
-19.
+19\.
 
 Déclaration du producteur et de l’exportateur certifiant l’exactitude des informations
 
-20.
+20\.
 
 Informations (y compris la description technique de l’installation) communiquées à l’exportateur ou au producteur par
 l’éliminateur des déchets et sur lesquelles ce dernier s’est fondé pour estimer qu’il n’y aucune raison de croire que les
 déchets ne seront pas gérés selon des méthodes écologiquement rationnelles conformément aux lois et règlements du
 pays importateur
 
-21.
+21\.
 
 Renseignements concernant le contrat conclu entre l’exportateur et l’éliminateur
 Notes
@@ -10785,63 +10785,63 @@ d’élimination proposée.
 DÉCHETS – 4. Conventions internationales
 ANNEXE V - B
 Informations à fournir dans le document de mouvement
-1.
+1\.
 
 Exportateur des déchets 1/
 
-2.
+2\.
 
 Producteur(s) des déchets et lieu de production 1/
 
-3.
+3\.
 
 Éliminateur des déchets et lieu effectif d’élimination 1/
 
-4.
+4\.
 
 Transporteur(s) des déchets 1/ ou son(ses) agent(s)
 
-5.
+5\.
 
 Sujet à notification générale ou à notification unique
 
-6.
+6\.
 
 Date de début du mouvement transfrontière et date(s) et signature de la réception par chaque personne qui prend en
 charge les déchets
 
-7.
+7\.
 
 Moyen de transport (route, rail, voie de navigation intérieure, mer, air) y compris pays d’exportation, de transit et d’importation ainsi que points d’entrée et de sortie lorsque ceux-ci sont connus
 
-8.
+8\.
 
 Description générale des déchets (état physique, appellation exacte et classe d’expédition ONU, numéro ONU, numéro
 Y et numéro H le cas échéant)
 
-9.
+9\.
 
 Renseignements sur les dispositions particulières relatives à la manipulation y compris mesures d’intervention en cas
 d’accident
 
-10.
+10\.
 
 Type et nombre de colis
 
-11.
+11\.
 
 Quantité en poids/volume
 
-12.
+12\.
 
 Déclaration du producteur ou de l’exportateur certifiant l’exactitude des informations
 
-13.
+13\.
 
 Déclaration du producteur ou de l’exportateur certifiant l’absence d’objections de la part des autorités compétentes de
 tous les États concernés qui sont Parties
 
-14.
+14\.
 
 Attestation de l’éliminateur de la réception à l’installation d’élimination désignée et indication de la méthode d’élimination
 et de la date approximative d’élimination
@@ -10873,22 +10873,22 @@ ainsi nommés désignent d’un commun accord le troisième arbitre, qui assume 
 être ressortissant de l’une des Parties au différend ni avoir sa résidence habituelle sur le territoire de l’une de ces Parties, ni se
 trouver au service de l’une d’elles, ni s’être déjà occupé de l’affaire à aucun titre.
 Art. 4.
-\1. Si, dans un délai de deux mois après la nomination du deuxième arbitre, le Président du tribunal arbitral n’est pas désigné,
+1\. Si, dans un délai de deux mois après la nomination du deuxième arbitre, le Président du tribunal arbitral n’est pas désigné,
 le Secrétaire général de l’Organisation des Nations Unies procède, à la requête de l’une des deux Parties, à sa désignation
 dans un nouveau délai de deux mois.
-\2. Si, dans un délai de deux mois après la réception de la requête, l’une des Parties au différend ne procède pas à la nomination d’un arbitre, l’autre Partie peut saisir le Secrétaire général de l’Organisation des Nations Unies, qui désigne le Président du
+2\. Si, dans un délai de deux mois après la réception de la requête, l’une des Parties au différend ne procède pas à la nomination d’un arbitre, l’autre Partie peut saisir le Secrétaire général de l’Organisation des Nations Unies, qui désigne le Président du
 tribunal arbitral dans un nouveau délai de deux mois. Dès sa désignation le Président du tribunal arbitral demande à la Partie qui
 n’a pas nommé d’arbitre de le faire dans un délai de deux mois. Passé ce délai, il saisit le Secrétaire général de l’Organisation
 des Nations Unies, qui procède à cette nomination dans un nouveau délai de deux mois.
 Art. 5.
-\1. Le tribunal rend sa sentence conformément au droit international et aux dispositions de la présente Convention.
-\2. Tout tribunal arbitral constitué aux termes de la présente annexe établit ses propres règles de procédure.
+1\. Le tribunal rend sa sentence conformément au droit international et aux dispositions de la présente Convention.
+2\. Tout tribunal arbitral constitué aux termes de la présente annexe établit ses propres règles de procédure.
 Art. 6.
-\1. Les décisions du tribunal arbitral, tant sur la procédure que sur le fond, sont prises à la majorité des voix de ses membres.
-\2. Le tribunal peut prendre toutes mesures appropriées pour établir les faits. Il peut, à la demande de l’une des parties,
+1\. Les décisions du tribunal arbitral, tant sur la procédure que sur le fond, sont prises à la majorité des voix de ses membres.
+2\. Le tribunal peut prendre toutes mesures appropriées pour établir les faits. Il peut, à la demande de l’une des parties,
 recommander les mesures conservatoires indispensables.
-\3. Les Parties au différend fourniront toutes facilités nécessaires pour la bonne conduite de la procédure.
-\4. L’absence ou le défaut d’une Partie au différend ne fait pas obstacle à la procédure.
+3\. Les Parties au différend fourniront toutes facilités nécessaires pour la bonne conduite de la procédure.
+4\. L’absence ou le défaut d’une Partie au différend ne fait pas obstacle à la procédure.
 Art. 7.
 Le tribunal peut connaître et décider des demandes reconventionnelles directement liées à l’objet du différend.
 Art. 8.
@@ -10898,10 +10898,10 @@ tribunal tient un relevé de toutes ses dépenses et en fournit un état final a
 Art. 9.
 Toute Partie ayant, en ce qui concerne l’objet du différend, un intérêt d’ordre juridique susceptible d’être affecté par la décision peut intervenir dans la procédure, avec le consentement du tribunal.
 Art. 10.
-\1. Le tribunal prononce la sentence dans un délai de cinq mois à partir de la date à laquelle il est créé, à moins qu’il n’estime
+1\. Le tribunal prononce la sentence dans un délai de cinq mois à partir de la date à laquelle il est créé, à moins qu’il n’estime
 nécessaire de prolonger ce délai pour une période qui ne devrait pas excéder cinq mois.
-\2. La sentence du tribunal arbitral est motivée. Elle est définitive et obligatoire pour les Parties au différend.
-\3. Tout différend qui pourrait surgir entre les Parties concernant l’interprétation ou l’exécution de la sentence peut être soumis
+2\. La sentence du tribunal arbitral est motivée. Elle est définitive et obligatoire pour les Parties au différend.
+3\. Tout différend qui pourrait surgir entre les Parties concernant l’interprétation ou l’exécution de la sentence peut être soumis
 par l’une des deux Parties au tribunal arbitral qui l’a rendue, ou, si ce dernier ne peut en être saisi, à un autre tribunal arbitral
 constitué à cet effet de la même manière que le premier.
 
@@ -10915,7 +10915,7 @@ ANNEXE VII
 Parties et autres États qui sont membres de l’OCDE, CE, Liechtenstein.»
 
 (1) L’annexe VII fait partie intégrante de l’amendement contenu dans la décision III/1 adoptée par la troisième réunion de la Conférence des Parties en
-\1995. L’amendement n’est pas encore entré en vigueur. L’Annexe VII se lira comme suit:
+1995\. L’amendement n’est pas encore entré en vigueur. L’Annexe VII se lira comme suit:
 
 \- 158 -
 
@@ -12213,9 +12213,9 @@ la prévention des fuites,
 la limitation de la pollution des eaux réceptrices résultant des surcharges dues aux pluies d’orage.
 
 Rejets provenant des stations d’épuration des eaux urbaines résiduaires dans les eaux réceptrices.(*)
-\1. Les stations d’épuration des eaux usées sont conçues ou modifiées de manière que des échantillons représentatifs
+1\. Les stations d’épuration des eaux usées sont conçues ou modifiées de manière que des échantillons représentatifs
 des eaux usées entrantes et des effluents traités puissent être obtenus avant rejet dans les eaux réceptrices.
-\2. Les rejets provenant des stations d’épuration des eaux urbaines, résiduaires, traités conformément de l’article 5
+2\. Les rejets provenant des stations d’épuration des eaux urbaines, résiduaires, traités conformément de l’article 5
 points 1 b) et 1 c) du présent règlement, répondent aux prescriptions figurant au tableau 1.
 Tableau 1: Prescriptions relatives aux rejets provenant des stations d’épuration des eaux urbaines résiduaires et
 soumises aux dispositions de l’article 5 points 1 b) et 1 c) du présent règlement. On appliquera la valeur
@@ -12277,7 +12277,7 @@ sec ou indiquer un nombre acceptable de surcharges chaque année.
 \- 170 -
 
 EAUX – 1. Pollution, protection et gestion de l’eau
-\3. Les rejets des stations d’épuration des eaux résiduaires répondent à l’article 5 point 1 c) du présent règlement et
+3\. Les rejets des stations d’épuration des eaux résiduaires répondent à l’article 5 point 1 c) du présent règlement et
 répondent en outre aux prescriptions figurant au tableau 2 de la présente annexe.
 (Règl. g.-d. du 5 octobre 1998)
 «Tableau 2: Prescriptions relatives aux rejets provenant des stations d’épuration des eaux résiduaires soumises
@@ -12329,9 +12329,9 @@ Dans ce cas, la moyenne journalière ne peut pas dépasser 20 mg/l d’azote tot
 le réacteur biologique est supérieur ou égale â 12 °C. La condition concernant la température pourrait être remplacée par une limitation du temps de
 fonctionnement tenant compte des conditions climatiques régionales.»
 
-\4. Des prescriptions plus rigoureuses que celles qui figurent aux tableaux 1 et/ou 2 sont, au besoin, appliquées pour
+4\. Des prescriptions plus rigoureuses que celles qui figurent aux tableaux 1 et/ou 2 sont, au besoin, appliquées pour
 garantir que les eaux réceptrices satisfont à toute autre réglementation en la matière.
-\5. Les points d’évacuation des eaux urbaines résiduaires sont choisis, dans toute la mesure du possible, de manière à
+5\. Les points d’évacuation des eaux urbaines résiduaires sont choisis, dans toute la mesure du possible, de manière à
 réduire au minimum les effets sur les eaux réceptrices.
 C.
 
@@ -12373,17 +12373,17 @@ EAUX – 1. Pollution, protection et gestion de l’eau
 D.
 
 Méthodes de référence pour le suivi et l’évaluation des résultats.
-\1. Les exploitants ou organismes agréés dont question à l’article 10 point 1 veillent à appliquer une méthode de surveillance qui correspondent au moins aux exigences décrites ci-dessous.
+1\. Les exploitants ou organismes agréés dont question à l’article 10 point 1 veillent à appliquer une méthode de surveillance qui correspondent au moins aux exigences décrites ci-dessous.
 Des méthodes autres que celles prévues aux points 2, 3 et 4 peuvent être utilisés, à condition qu’il puisse être
 prouvé qu’elles permettent d’obtenir des résultats équivalents.
 Les exploitants ou organismes agréés fournissent à l’Administration de l’Environnement toutes les informations
 pertinentes concernant les méthodes appliquées.
-\2. Des échantillons sont prélevés sur une période de 24 heures, proportionnellement au débit ou à intervalles réguliers
+2\. Des échantillons sont prélevés sur une période de 24 heures, proportionnellement au débit ou à intervalles réguliers
 en un point bien déterminé à la sortie et, en cas de nécessité, à l’entrée de la station d’épuration, afin de vérifier si
 les prescriptions du présent règlement en matière de rejets d’eaux usées sont respectées.
 De saines pratiques internationales de laboratoire seront appliquées pour que la dégradation des échantillons soit
 la plus faible possible entre le moment de la collecte et celui de l’analyse.
-\3. Le nombre minimum d’échantillons à prélever à intervalles réguliers au cours d’une année entière est fixé en fonction
+3\. Le nombre minimum d’échantillons à prélever à intervalles réguliers au cours d’une année entière est fixé en fonction
 de la taille de la station d’épuration:
 – EH compris entre 2.000 et 9.999:
 
@@ -12403,7 +12403,7 @@ sont prélevés l’année suivante.
 
 24 échantillons.
 
-\4. On considère que les eaux usées traitées respectent les valeurs fixées pour les différents paramètres si, pour
+4\. On considère que les eaux usées traitées respectent les valeurs fixées pour les différents paramètres si, pour
 chaque paramètre considéré individuellement, les échantillons prélevés montrent que les valeurs correspondantes
 sont respectées en fonction des dispositions suivantes:
 a) pour les paramètres figurant au tableau 1 à l’article 2 point 7. Le nombre maximal d’échantillons qui peuvent ne
@@ -12484,51 +12484,51 @@ prélevés dans des conditions d’exploitation normales ne doivent pas s’éca
 peut aller jusqu’à 150%;
 c) pour les paramètres figurant au tableau 2, la moyenne annuelle des échantillons doit, pour chaque paramètre,
 respecter les valeurs correspondantes.
-\5. Pour la qualité d’eau considérée, il n’est pas tenu compte des valeurs extrêmes si elles sont dues à des circonstances exceptionnelles, telles que de fortes précipitations.
+5\. Pour la qualité d’eau considérée, il n’est pas tenu compte des valeurs extrêmes si elles sont dues à des circonstances exceptionnelles, telles que de fortes précipitations.
 
 ANNEXE II
 Secteurs industriels
-1.
+1\.
 
 Transformation du lait.
 
-2.
+2\.
 
 Fabrication de produits à base de fruits et légumes.
 
-3.
+3\.
 
 Fabrication et mise en bouteille de boissons non alcoolisées.
 
-4.
+4\.
 
 Transformation des pommes de terre.
 
-5.
+5\.
 
 Industrie de la viande.
 
-6.
+6\.
 
 Brasseries.
 
-7.
+7\.
 
 Production d’alcool et boissons alcoolisées.
 
-8.
+8\.
 
 Fabrication d’aliments pour animaux à partir de produits végétaux.
 
-9.
+9\.
 
 Fabrication de gélatine et de colle à partir de peaux et d’os.
 
-10.
+10\.
 
 Malteries.
 
-11.
+11\.
 
 Industrie transformatrice du poisson.
 
@@ -13252,23 +13252,23 @@ o-PO43- /mg/l-
 
 EAUX – 1. Pollution, protection et gestion de l’eau
 Loi du 19 décembre 2008 relative à l’eau modifiant
-\1. la loi modifiée du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du GrandDuché de Luxembourg à partir du réservoir d’Esch-sur-Sûre;
-\2. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État;
-\3. la loi modifiée du 28 juin 1976 portant réglementation de la pêche dans les eaux intérieures;
-\4. la loi modifiée du 10 juin 1999 relative aux établissements classés;
-\5. la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles;
-\6. la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain;
-\7. la loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’État et la restructuration de
+1\. la loi modifiée du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du GrandDuché de Luxembourg à partir du réservoir d’Esch-sur-Sûre;
+2\. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’État;
+3\. la loi modifiée du 28 juin 1976 portant réglementation de la pêche dans les eaux intérieures;
+4\. la loi modifiée du 10 juin 1999 relative aux établissements classés;
+5\. la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles;
+6\. la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain;
+7\. la loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’État et la restructuration de
 la démarche scientifique en matière de protection de la nature et des ressources naturelles
 et abrogeant
-\1. les articles 7, 14 et 40 à 44 de l’édit du 13 août 1669 de Louis XIV portant règlement général pour les eaux et les
+1\. les articles 7, 14 et 40 à 44 de l’édit du 13 août 1669 de Louis XIV portant règlement général pour les eaux et les
 forêts;
-\2. l’arrêté du 9 mars 1798 (19 ventôse an VI) du Directoire exécutif, contenant des mesures pour assurer le libre
+2\. l’arrêté du 9 mars 1798 (19 ventôse an VI) du Directoire exécutif, contenant des mesures pour assurer le libre
 cours des rivières et canaux navigables et flottables;
-\3. la loi modifiée du 16 mai 1929 concernant le curage, l’entretien et l’amélioration des cours d’eau;
-\4. la loi modifiée du 29 juillet 1993 concernant la protection et la gestion de l’eau;
-\5. la loi du 27 mai 1961 concernant les mesures de protection du barrage d’Esch-sur-Sûre;
-\6. l’article 41 de la loi du 24 décembre 1999 concernant le budget des recettes et des dépenses de l’État pour
+3\. la loi modifiée du 16 mai 1929 concernant le curage, l’entretien et l’amélioration des cours d’eau;
+4\. la loi modifiée du 29 juillet 1993 concernant la protection et la gestion de l’eau;
+5\. la loi du 27 mai 1961 concernant les mesures de protection du barrage d’Esch-sur-Sûre;
+6\. l’article 41 de la loi du 24 décembre 1999 concernant le budget des recettes et des dépenses de l’État pour
 l’exercice 2000,
 (Mém. A - 217 du 30 décembre 2008, p. 3206; doc. parl. 5695; dir. 2000/60/CE, 2003/35/CE ET 2007/60/CE)
 modifiée par:
@@ -13349,7 +13349,7 @@ autres mesures pertinentes.
 
 ANNEXE III: PLANS DE GESTION DE DISTRICT HYDROGRAPHIQUE
 A. Les plans de gestion de district hydrographique portent sur les éléments suivants:
-\1. Une description générale des caractéristiques des parties de district hydrographique requises par l’article 19, à savoir:
+1\. Une description générale des caractéristiques des parties de district hydrographique requises par l’article 19, à savoir:
 1.1.
 
 pour les eaux de surface:
@@ -13363,17 +13363,17 @@ hydrographique;
 pour les eaux souterraines:
 – une carte indiquant l’emplacement et les limites des masses d’eau.
 
-\2. Un résumé des pressions et incidences importantes de l’activité humaine sur l’état des eaux de surface et des eaux souterraines, notamment:
+2\. Un résumé des pressions et incidences importantes de l’activité humaine sur l’état des eaux de surface et des eaux souterraines, notamment:
 – une estimation de la pollution ponctuelle;
 – une estimation de la pollution diffuse, y compris un résumé de l’utilisation des sols;
 – une estimation des pressions sur l’état quantitatif des eaux, y compris des prélèvements;
 – une analyse des autres incidences de l’activité humaine sur l’état des eaux.
-\3. L’identification et la représentation cartographique des zones protégées visées à l’article 20.
+3\. L’identification et la représentation cartographique des zones protégées visées à l’article 20.
 
 \- 181 -
 
 EAUX – 1. Pollution, protection et gestion de l’eau
-\4. Une carte des réseaux de surveillance établis aux fins de l’article 21 ainsi qu’une représentation cartographique des
+4\. Une carte des réseaux de surveillance établis aux fins de l’article 21 ainsi qu’une représentation cartographique des
 résultats des programmes de surveillance mis en œuvre au titre desdites dispositions pour l’état
 4.1.
 
@@ -13387,11 +13387,11 @@ des eaux souterraines (état chimique et état quantitatif) et
 
 des zones protégées.
 
-\5. Une liste des objectifs environnementaux fixés au titre des articles 5, 6 et 7 pour respectivement les eaux de surface,
+5\. Une liste des objectifs environnementaux fixés au titre des articles 5, 6 et 7 pour respectivement les eaux de surface,
 les eaux souterraines et les zones protégées, y compris, en particulier, l’identification des cas où il a été fait usage des
 articles 8 à 11, et les informations associées requises par lesdits articles.
-\6. Un résumé de l’analyse économique de l’utilisation de l’eau, requis par l’article 33.
-\7. Un résumé des programmes de mesures adoptés au titre de l’article 28, notamment la manière dont ils sont
+6\. Un résumé de l’analyse économique de l’utilisation de l’eau, requis par l’article 33.
+7\. Un résumé des programmes de mesures adoptés au titre de l’article 28, notamment la manière dont ils sont
 censés réaliser les objectifs fixés en vertu des articles 5 à 11 et comprenant
 7.1.
 
@@ -13437,20 +13437,20 @@ les objectifs fixés aux articles 5 à 11;
 établis;
 7.11. les détails des mesures prises pour éviter d’accroître la pollution des eaux marines en application des
 accords internationaux applicables conformément à l’article 1er.
-\8. Un registre d’éventuels autres programmes et plans de gestion plus détaillés adoptés pour les parties de district hydrographique, portant sur des sous-bassins, secteurs, problèmes ou types d’eau particuliers, ainsi qu’un résumé de leur
+8\. Un registre d’éventuels autres programmes et plans de gestion plus détaillés adoptés pour les parties de district hydrographique, portant sur des sous-bassins, secteurs, problèmes ou types d’eau particuliers, ainsi qu’un résumé de leur
 contenu.
-\9. Un résumé des mesures prises pour l’information et la consultation du public, les résultats de ces mesures et les modifications apportées en conséquence au plan.
-\10. Une liste des autorités compétentes conformément aux articles 3 et 4.
-\11. Les points de contact et les procédures permettant d’obtenir les documents de référence et les informations
+9\. Un résumé des mesures prises pour l’information et la consultation du public, les résultats de ces mesures et les modifications apportées en conséquence au plan.
+10\. Une liste des autorités compétentes conformément aux articles 3 et 4.
+11\. Les points de contact et les procédures permettant d’obtenir les documents de référence et les informations
 visés à l’article 56, notamment les détails sur les mesures de contrôle adoptées conformément à l’article 29,
 paragraphe (5), et les données réelles de contrôle réunies conformément à l’article 21.
 B. Les mises à jour des plans de gestion de district hydrographique doivent comprendre:
-\1. Une présentation succincte de toute modification ou mise à jour intervenue depuis la publication de la version précédente
+1\. Une présentation succincte de toute modification ou mise à jour intervenue depuis la publication de la version précédente
 des plans, y compris un résumé des révisions à entreprendre au titre des articles 9 à 11.
-\2. Une évaluation des progrès accomplis dans la réalisation des objectifs environnementaux, y compris une représentation cartographique des résultats de la surveillance pour la période des plans précédents, assortie d’explications
+2\. Une évaluation des progrès accomplis dans la réalisation des objectifs environnementaux, y compris une représentation cartographique des résultats de la surveillance pour la période des plans précédents, assortie d’explications
 pour tout objectif qui n’a pas été atteint.
-\3. Une présentation succincte et motivée de toute mesure prévue dans des versions antérieures des plans qui n’a finalement pas été mise en œuvre.
-\4. Une présentation succincte de toute mesure transitoire adoptée en application de l’article 31 depuis la publication
+3\. Une présentation succincte et motivée de toute mesure prévue dans des versions antérieures des plans qui n’a finalement pas été mise en œuvre.
+4\. Une présentation succincte de toute mesure transitoire adoptée en application de l’article 31 depuis la publication
 des versions antérieures des plans.
 
 \- 182 -
@@ -13463,12 +13463,12 @@ ET MORALES DE DROIT PRIVÉ
 Conformément à l’article 65, paragraphe 1er, les personnes physiques et morales de droit privé sont éligibles, d’après les
 critères suivants pour les prises en charge prévues aux lettres f) et j) à l) du paragraphe 1er, à l’exception des frais relatifs à
 l’acquisition de terrains nécessaires à la réalisation des mesures y visées:
-\1. sur base de l’article 65, paragraphe 1er, lettre f) ils sont éligibles pour une prise en charge de 33 pour cent pour autant que
+1\. sur base de l’article 65, paragraphe 1er, lettre f) ils sont éligibles pour une prise en charge de 33 pour cent pour autant que
 les infrastructures y visées, se trouvant à l’intérieur d´un plan d´aménagement général, soient réalisées sur le domaine
 public ou cédées à la commune dans le cadre de la réalisation d’un projet d’aménagement particulier conformément aux
 dispositions de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain. Cette
 prise en charge est majorée, en ce qui concerne les études, de 10 pour cent du montant des travaux éligibles ;
-\2. sur base de l’article 65, paragraphe 1er, lettre j) :
+2\. sur base de l’article 65, paragraphe 1er, lettre j) :
 a) ils sont éligibles pour une prise en charge de 100 pour cent pour les mesures de franchissabilité piscicole effectuées
 aux fins de la réalisation des objectifs environnementaux pour les eaux de surface au sens de l’article 5 ;
 b) ils sont éligibles pour une prise en charge de 100 pour cent pour les projets de restauration et de renaturation des
@@ -13476,9 +13476,9 @@ cours d’eau effectués dans les zones protégées d’intérêt communautaire 
 sens des chapitres 5 et 6 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources
 naturelles et pour une prise en charge de 90 pour cent pour tous les autres projets de restauration et de renaturation
 des cours d’eau ;
-\3. sur base de l’article 65, paragraphe 1er, lettre k) ils sont éligibles pour une prise en charge de 90 pour cent du coût des
+3\. sur base de l’article 65, paragraphe 1er, lettre k) ils sont éligibles pour une prise en charge de 90 pour cent du coût des
 mesures anti-crues et de 100 pour cent pour les frais d’études y relatives ;
-\4. sur base de l’article 65, paragraphe 1er, lettre l) ils sont éligibles pour une prise en charge de 75 pour cent du coût des
+4\. sur base de l’article 65, paragraphe 1er, lettre l) ils sont éligibles pour une prise en charge de 75 pour cent du coût des
 travaux d’aménagement effectués sur les cours d’eau et de 50 pour cent pour les travaux d’entretien sur les cours d’eau.»
 
 \- 183 -
@@ -13500,19 +13500,19 @@ effectués selon le calendrier suivant:
 Le premier échantillon est à prélever dans les deux semaines précédant le début de la saison balnéaire. Pendant la saison
 balnéaire, les échantillons sont à prélever au moins une fois par mois sans qu’une période de 30 jours ne soit dépassée entre
 deux échantillons consécutifs, y compris l’échantillon prélevé avant le début de la saison balnéaire.»
-\2. Le calendrier peut être suspendu en cas de situations anormales.
+2\. Le calendrier peut être suspendu en cas de situations anormales.
 (Règl. g.-d. du 23 août 2012)
 «Après la fin de la situation anormale, le calendrier de surveillance est rétabli dès que possible et de nouveaux échantillons
 sont prélevés afin de remplacer les échantillons qui n’ont pu être prélevés pendant la situation anormale.»
 Une situation anormale est un événement affectant la qualité de l’eau de baignade qui ne se produit généralement pas plus
 qu’une fois tous les quatre ans.
-\3. (Règl. g.-d. du 23 août 2012) «En cas de pollution à court terme, un échantillon supplémentaire est prélevé afin de confirmer la fin de l’incident. Cet échantillon n’est pas utilisé pour l’évaluation de la qualité des eaux de baignade.
+3\. (Règl. g.-d. du 23 août 2012) «En cas de pollution à court terme, un échantillon supplémentaire est prélevé afin de confirmer la fin de l’incident. Cet échantillon n’est pas utilisé pour l’évaluation de la qualité des eaux de baignade.
 En outre, un échantillon prélevé pendant la durée de la pollution à court terme peut être écarté; dans ce cas il sera remplacé
 par un échantillon supplémentaire prélevé sept jours après la fin de la pollution à court terme.
 Une pollution à court terme est une contamination microbiologique portant sur les paramètres Escherichia coli ou entérocoques intestinaux qui a des causes aisément identifiables et qui ne devrait normalement pas affecter la qualité des eaux
 de baignade pendant plus de soixante-douze heures environ à partir du moment où la qualité des eaux a commencé à être
 affectée.»
-\4. Sont à contrôler les paramètres suivants:
+4\. Sont à contrôler les paramètres suivants:
 –
 
 entérocoques intestinaux (UFC/100 ml);
@@ -13521,7 +13521,7 @@ entérocoques intestinaux (UFC/100 ml);
 
 escherichia coli (UFC/100 ml).
 
-\5. Les échantillons sont prélevés:
+5\. Les échantillons sont prélevés:
 –
 
 à l’endroit le plus représentatif ou à l’endroit le plus sensible à la pollution;
@@ -13531,8 +13531,8 @@ escherichia coli (UFC/100 ml).
 de préférence à 30 centimètres en dessous de la surface de l’eau à un endroit où l’eau a une profondeur minimale de
 100 centimètres.
 
-\6. La quantité minimale à prélever est de 250 ml au moins.
-\7. Les récipients destinés à recevoir les échantillons doivent soit:
+6\. La quantité minimale à prélever est de 250 ml au moins.
+7\. Les récipients destinés à recevoir les échantillons doivent soit:
 –
 
 subir une stérilisation en autoclave à 121 °C pendant au moins quinze minutes;
@@ -13545,18 +13545,18 @@ subir une stérilisation sèche à 160 - 170 °C pendant au moins une heure;
 
 être des récipients d’échantillonnage irradiés provenant directement du fabricant.
 
-\8. Ils doivent être de verre, de polyéthylène ou de polypropylène, transparents et incolores.
-\9. Les conditions de stérilité doivent être assurées tout au long du processus de prélèvement.
-\10. Les échantillons doivent être identifiés à l’encre indélébile sur le récipient et sur le formulaire d’échantillonnage.
+8\. Ils doivent être de verre, de polyéthylène ou de polypropylène, transparents et incolores.
+9\. Les conditions de stérilité doivent être assurées tout au long du processus de prélèvement.
+10\. Les échantillons doivent être identifiés à l’encre indélébile sur le récipient et sur le formulaire d’échantillonnage.
 
 \- 184 -
 
 EAUX – 1. Pollution, protection et gestion de l’eau
-\11. Jusqu’à l’arrivée au laboratoire, les échantillons ne doivent pas être exposés au soleil et être conservés à une température d’environ 4 °C.
-\12. Il ne doit pas s’écouler plus de 24 heures entre le prélèvement et le début de l’analyse.
+11\. Jusqu’à l’arrivée au laboratoire, les échantillons ne doivent pas être exposés au soleil et être conservés à une température d’environ 4 °C.
+12\. Il ne doit pas s’écouler plus de 24 heures entre le prélèvement et le début de l’analyse.
 
 ANNEXE II
-\1. Les eaux de baignade sont classées comme étant soit d’excellente qualité, soit de bonne qualité, soit de qualité suffisante,
+1\. Les eaux de baignade sont classées comme étant soit d’excellente qualité, soit de bonne qualité, soit de qualité suffisante,
 soit de qualité insuffisante, selon les critères ci-après:
 a)
 
@@ -13633,7 +13633,7 @@ La valeur au 95e percentile supérieur de la fonction de densité de probabilit�
 95 percentile supérieur = antilog (μ + 1,65 σ).
 e
 
-\2. La classification d’une eau dans l’une des catégories a), b) ou c) du point 1 n’est pas affectée par le fait que l’eau présente
+2\. La classification d’une eau dans l’une des catégories a), b) ou c) du point 1 n’est pas affectée par le fait que l’eau présente
 une pollution à court terme à condition que:
 –
 
@@ -13750,7 +13750,7 @@ Zone II
 
 Zone III
 
-\1. Industrie et commerce
+1\. Industrie et commerce
 1.1
 
 Désignation de nouvelles zones industrielles
@@ -13820,7 +13820,7 @@ a3
 
 a3
 
-\2. Elimination des eaux usées et installation de traitement des
+2\. Elimination des eaux usées et installation de traitement des
 eaux usées
 2.1
 
@@ -13885,7 +13885,7 @@ Zone II
 
 Zone III
 
-\3. Elimination de déchets
+3\. Elimination de déchets
 3.1
 
 Dépôt et incorporation dans des matériaux de constructions de déchets pouvant altérer la qualité de l’eau
@@ -13932,7 +13932,7 @@ Zone II
 
 Zone III
 
-\4. Urbanisation et trafic
+4\. Urbanisation et trafic
 4.1
 
 Désignation de nouvelles zones à bâtir
@@ -14060,7 +14060,7 @@ Zone II
 
 Zone III
 
-\5. Interventions dans le sous-sol
+5\. Interventions dans le sous-sol
 5.1
 
 Extraction de matériaux et autres excavations dans et audessus la nappe phréatique
@@ -14117,7 +14117,7 @@ Zone II
 
 Zone III
 
-\6. Exploitations agricoles, sylvicoles, horticoles
+6\. Exploitations agricoles, sylvicoles, horticoles
 6.1
 
 6.2
@@ -14564,8 +14564,8 @@ activités, agrandissant une installation ou un dépôt qui sont susceptibles de
 hydrique ou à son débit exploitable.
 
 L’extension substantielle, la transformation substantielle et l’exploitation de stations d’épuration collectives et industrielles, ainsi que de fosses septiques étanches peuvent être autorisées dans les cas suivants:
-\1) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
-\2) La faisabilité technique et économique d’une autre solution n’est pas donnée.
+1\) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
+2\) La faisabilité technique et économique d’une autre solution n’est pas donnée.
 Les eaux de rejets en provenance de stations d’épuration sont à déverser en dehors des zones de protection. Si la
 faisabilité technique et économique de cette mesure n’est pas donnée, la station d’épuration doit être équipée d’un
 traitement permettant d’hygiéniser les eaux traitées. L’infiltration dans le sous-sol d’eaux de rejets en provenance de
@@ -14573,8 +14573,8 @@ stations d’épuration est interdite.
 
 La construction, l’extension substantielle, la transformation substantielle et l’exploitation de bassins et de déversoirs
 d’orages peuvent être autorisées dans les cas suivants:
-\1) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
-\2) La faisabilité technique et économique d’une autre solution n’est pas donnée.
+1\) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
+2\) La faisabilité technique et économique d’une autre solution n’est pas donnée.
 Les eaux de rejets en provenance de bassins d’orages devront transiter par un ouvrage d’infiltration. Cet ouvrage devra comporter plusieurs couches de sol présentant la granulométrie requise pour garantir une épuration de ces rejets.
 
 \- 191 -
@@ -14582,8 +14582,8 @@ Les eaux de rejets en provenance de bassins d’orages devront transiter par un 
 EAUX – 1. Pollution, protection et gestion de l’eau
 
 La pose de conduites d’eaux usées peut être autorisée dans les cas suivants:
-\1) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
-\2) La faisabilité technique et économique d’une autre solution n’est pas donnée.
+1\) La construction constitue une amélioration de la situation existante en ce qui concerne la ressource d’eau souterraine servant à la production d’eau destinée à la consommation humaine à protéger.
+2\) La faisabilité technique et économique d’une autre solution n’est pas donnée.
 L’étanchéité des conduites existantes doit être contrôlée tous les cinq ans. Les raccordements privés et toutes les
 autres installations doivent être contrôlés tous les dix ans. Le premier contrôle doit se dérouler dans un délai de
 deux ans après l’entrée en vigueur du règlement grand-ducal portant création de zone de protection. Au besoin les
@@ -14711,7 +14711,7 @@ Les cultures pures de légumineuses ne peuvent être emblavées qu’une fois to
 
 EAUX – 1. Pollution, protection et gestion de l’eau
 ANNEXE II
-1)
+1\)
 
 Liste des substances actives dont l’utilisation est interdite dans les zones de protection rapprochée et éloignée:
 –
@@ -14737,7 +14737,7 @@ métazachlore»
 
 (Règl. g.-d. du 6 avril 2023)
 «–
-2)
+2\)
 
 glyphosate»
 
@@ -14790,17 +14790,17 @@ kgN/*dt/ha
 
 Céréales
 
-2)
+2\)
 
 2,5
 
-4)
+4\)
 
 130/170
 
 Colza
 
-302)
+302\)
 
 5,0
 
@@ -14808,24 +14808,24 @@ Colza
 
 Cultures pures de légumineuses à grains (pois, haricots, lupin, soja, fèves, lentilles, ... )
 
-2)
+2\)
 
-1)
+1\)
 
-301)
+301\)
 
 Cultures pures de légumineuses fourragères (trèfle,
 luzerne, vesce,... )
 
-802)
+802\)
 
-851)
+851\)
 
-301)
+301\)
 
 Pommes de terre
 
-3502)
+3502\)
 
 4,0
 
@@ -14833,7 +14833,7 @@ Pommes de terre
 
 Betteraves fourragères
 
-2)
+2\)
 
 3,0
 
@@ -14841,17 +14841,17 @@ Betteraves fourragères
 
 Maïs
 
-3)
+3\)
 
 1,4
 
-4)
+4\)
 
 130/170
 
 Prairies et pâturages permanents
 
-903)
+903\)
 
 2,7
 
@@ -14863,22 +14863,22 @@ Prairies et pâturages temporaires
 
 130/170
 
-3)
+3\)
 
 = démarrage de culture
 = matière fraîche
-3)
+3\)
 = matière sèche
-4)
+4\)
 = voir remarques 19 et 20, annexe I
-1)
-2)
+1\)
+2\)
 
 \- 194 -
 
-4)
+4\)
 
-4)
+4\)
 
 EAUX – 1. Pollution, protection et gestion de l’eau
 ANNEXE IV
@@ -15252,8 +15252,8 @@ Lors de la mise en oeuvre des mesures destinées à atteindre cette valeur, les 
 
 Note 5:
 
-\1) [nitrates]/50 + [nitrites]/0.5 ≤ 1 ([nitrates],[nitrites]=concentrations en nitrates respectivement en nitrites exprimées en mg/l )
-\2) au départ des installations de production la teneur en nitrites ne doit pas dépasser 0,1 mg/l.
+1\) [nitrates]/50 + [nitrites]/0.5 ≤ 1 ([nitrates],[nitrites]=concentrations en nitrates respectivement en nitrites exprimées en mg/l )
+2\) au départ des installations de production la teneur en nitrites ne doit pas dépasser 0,1 mg/l.
 
 Note 6:
 
@@ -15510,29 +15510,29 @@ est nécessaire.»
 PARTIE A
 Objectifs généraux et programmes de contrôle des eaux destinées à la consommation humaine
 
-\1. Les programmes de contrôle de la qualité de l’eau destinée à la consommation humaine doivent permettre:
+1\. Les programmes de contrôle de la qualité de l’eau destinée à la consommation humaine doivent permettre:
 a) de vérifier que les mesures en place pour maîtriser les risques pour la santé humaine tout au long de la chaîne d’approvisionnement, depuis la zone de captage jusqu’à la distribution en passant par le prélèvement, le traitement et le stockage,
 sont efficaces et que l’eau disponible au point de conformité est propre et salubre;
 b) de fournir des informations sur la qualité de l’eau destinée à la consommation humaine afin de démontrer que les obligations définies à l’article 7 et les valeurs paramétriques fixées dans l’annexe I sont respectées;
 c) de déterminer les moyens les plus appropriés d’atténuer les risques pour la santé humaine.
-\2. Conformément à l’article 9, les organes techniques compétents mettent en place des programmes de contrôle qui respectent les paramètres et les fréquences fixés à la partie B de la présente annexe et qui peuvent consister:
+2\. Conformément à l’article 9, les organes techniques compétents mettent en place des programmes de contrôle qui respectent les paramètres et les fréquences fixés à la partie B de la présente annexe et qui peuvent consister:
 a) en la collecte et l’analyse en laboratoire d’échantillons discrets d’eau; ou
 b) en des mesures enregistrées de manière continue.
 En outre, les programmes de contrôle peuvent prendre la forme:
 a) d’inspections des données concernant l’état de fonctionnement et d’entretien de l’équipement; et/ou
 b) d’inspections de la zone de captage et des infrastructures de prélèvement, de traitement, de stockage et de distribution
 de l’eau.
-\3. Les programmes de contrôle se fondent sur une évaluation des risques, comme indiqué dans la partie C.
-\4. Les organes techniques compétents veillent à ce que les programmes de contrôle soient évalués de manière continue et
+3\. Les programmes de contrôle se fondent sur une évaluation des risques, comme indiqué dans la partie C.
+4\. Les organes techniques compétents veillent à ce que les programmes de contrôle soient évalués de manière continue et
 mis à jour ou reconduits au moins tous les cinq ans.
 
 PARTIE B
 
 Paramètres et fréquences
-\1. Cadre général
+1\. Cadre général
 Un programme de contrôle doit prendre en compte les paramètres visés à l’article 7, y compris les paramètres importants
 pour évaluer l’impact des systèmes de distribution domestiques sur la qualité de l’eau au point de conformité visés à l’article
-\8. La sélection des paramètres appropriés pour la surveillance doit tenir compte des conditions locales de chaque système de
+8\. La sélection des paramètres appropriés pour la surveillance doit tenir compte des conditions locales de chaque système de
 distribution d’eau.
 Les organes techniques compétents veillent à ce que les paramètres énumérés au point 2 soient contrôlés aux fréquences
 d’échantillonnage pertinentes établies au point 3.
@@ -15540,7 +15540,7 @@ d’échantillonnage pertinentes établies au point 3.
 \- 200 -
 
 EAUX – 2. Normes de rejets
-\2. Liste des paramètres
+2\. Liste des paramètres
 Paramètres du groupe A
 Les paramètres suivants (groupe A) font l’objet d’un contrôle aux fréquences indiquées dans le tableau 1 du point 3:
 a) Escherichia coli (E. coli), bactéries coliformes, teneur en colonies à 22 °C, couleur, turbidité, saveur, odeur, pH, conductivité;
@@ -15551,7 +15551,7 @@ a) l’ammonium et les nitrites, en cas d’utilisation de chloramination;
 b) l’aluminium et le fer, lorsqu’ils sont utilisés pour le traitement chimique de l’eau.
 Paramètres du groupe B
 La conformité de tous les autres paramètres qui ne sont pas analysés dans le cadre du groupe A et qui sont établis conformément à l’article 7 font l’objet d’un contrôle au minimum aux fréquences indiquées dans le tableau 1 du point 3.
-\3. Fréquences d’échantillonnage
+3\. Fréquences d’échantillonnage
 Tableau 1
 Fréquence minimale d’échantillonnage et d’analyse en vue du contrôle de conformité
 
@@ -15619,22 +15619,22 @@ EAUX – 2. Normes de rejets
 PARTIE C
 Évaluation des risques
 
-\1. Sur demande explicite du fournisseur, les organes techniques compétents peuvent permettre à ce dernier de déroger aux
+1\. Sur demande explicite du fournisseur, les organes techniques compétents peuvent permettre à ce dernier de déroger aux
 paramètres et fréquences d’échantillonnage prévus dans la partie B, à condition qu’une évaluation des risques soit réalisée
 conformément à l’article 14 et à la présente partie C.
-\2. L’évaluation des risques visée au point 1 se fonde sur les principes généraux de l’évaluation des risques définis en lien
+2\. L’évaluation des risques visée au point 1 se fonde sur les principes généraux de l’évaluation des risques définis en lien
 avec les normes internationales telles que EN 15975-2 concernant la sécurité de l’alimentation en eau potable et les lignes
 directrices pour la gestion des risques et des crises.
-\3. L’évaluation des risques tient compte des résultats des programmes de surveillance établis conformément à l’article 21 de
+3\. L’évaluation des risques tient compte des résultats des programmes de surveillance établis conformément à l’article 21 de
 la loi modifiée du 19 décembre 2008 relative à l’eau.
-\4. Sur la base des résultats de l’évaluation des risques, la liste de paramètres fixée au point 2 de la partie B est élargie et/
+4\. Sur la base des résultats de l’évaluation des risques, la liste de paramètres fixée au point 2 de la partie B est élargie et/
 ou les fréquences d’échantillonnage établies au point 3 de la partie B sont augmentées lorsqu’une des conditions suivantes
 est remplie:
 a) la liste de paramètres ou les fréquences établies dans la présente annexe sont insuffisantes pour remplir les obligations
 imposées en vertu de l’article 9;
 b) un contrôle supplémentaire est requis aux fins de l’article 9, paragraphe 6;
 c) il est nécessaire de fournir les assurances visées au point 1 a) de la partie A.
-\5. Sur la base des résultats de l’évaluation des risques, la liste de paramètres fixée au point 2 de la partie B et les fréquences
+5\. Sur la base des résultats de l’évaluation des risques, la liste de paramètres fixée au point 2 de la partie B et les fréquences
 d’échantillonnage établies au point 3 de la partie B peuvent être réduites, à condition que les conditions suivantes soient réunies:
 a) la fréquence d’échantillonnage concernant E. coli ainsi que les autres paramètres microbiologiques ne peut en aucun cas
 être réduite en dessous de celle fixée au point 3 de la partie B;
@@ -15647,19 +15647,19 @@ paramétrique considérée;
 iii) la fréquence d’échantillonnage ne peut être réduite comme indiqué aux points ii) que si l’évaluation des risques
 confirme qu’il est improbable qu’un facteur pouvant être raisonnablement anticipé entraîne la détérioration de la qualité
 de l’eau destinée à la consommation humaine.
-\6. Les évaluations des risques doivent être approuvées par les organes techniques compétents qui veillent à ce que les
+6\. Les évaluations des risques doivent être approuvées par les organes techniques compétents qui veillent à ce que les
 informations indiquant qu’une évaluation des risques a été effectuée, de même qu’un résumé des résultats de cette évaluation
 soient disponibles selon les modalités fixées par eux.
 
 PARTIE D
 Méthodes d’échantillonnage et points d’échantillonnage
 
-\1. Les points d’échantillonnage sont déterminés par les organes techniques compétents de manière à assurer la conformité
+1\. Les points d’échantillonnage sont déterminés par les organes techniques compétents de manière à assurer la conformité
 aux points de conformité définis à l’article 8, paragraphe 1). Dans le cas d’un réseau de distribution, des échantillons peuvent
 être prélevés dans la zone de distribution ou dans des installations de traitement pour contrôler des paramètres particuliers
 s’il peut être démontré qu’il n’y a pas de changement défavorable dans la valeur mesurée des paramètres concernés. Dans la
 mesure du possible, le nombre d’échantillons est réparti de manière égale dans le temps et l’espace.
-\2. L’échantillonnage au point de conformité satisfait aux exigences suivantes:
+2\. L’échantillonnage au point de conformité satisfait aux exigences suivantes:
 a) les échantillons de conformité de certains paramètres chimiques (en particulier le cuivre, le plomb et le nickel) sont prélevés au robinet du consommateur sans faire couler l’eau au préalable. Un échantillon d’un volume d’un litre est prélevé de
 manière aléatoire durant la journée. D’autres méthodes d’échantillonnage impliquant une durée de stagnation spécifique,
 qui sont plus représentatives de leur situation nationale peuvent être utilisées, à condition que ces méthodes n’aboutissent pas, au niveau de la zone de distribution, à un nombre de cas de non-conformité inférieur au nombre obtenu par
@@ -15668,7 +15668,7 @@ b) les échantillons concernant les paramètres microbiologiques au point de con
 \- 202 -
 
 EAUX – 2. Normes de rejets
-\3. L’échantillonnage au niveau du réseau de distribution, excepté aux robinets des consommateurs, est conforme à la norme
+3\. L’échantillonnage au niveau du réseau de distribution, excepté aux robinets des consommateurs, est conforme à la norme
 ISO 5667-5. En ce qui concerne les paramètres microbiologiques, les échantillons sont prélevés et manipulés conformément à
 la norme EN ISO 19458, méthode d’échantillonnage A.
 
@@ -15748,7 +15748,7 @@ f) Clostridium perfringens, y compris les spores (EN ISO 14189).
 PARTIE B
 Paramètres chimiques et indicateurs pour lesquels des caractéristiquesde performance sont spécifiées
 
-\1. Paramètres chimiques et indicateurs
+1\. Paramètres chimiques et indicateurs
 En ce qui concerne les paramètres établis au tableau1, les caractéristiques de performance indiquées sont telles que la
 méthode d’analyseutilisée doit, au minimum, permettre de mesurer des concentrations égales à la valeurparamétrique, avec
 une limite de quantification, dont question au règlement grand-ducal du 1er mars 2012 établissant des spécifications techniques
@@ -16006,7 +16006,7 @@ pour le produit.
 \- 206 -
 
 EAUX – 2. Normes de rejets
-\2. Notes concernant les tableaux 1 et 2
+2\. Notes concernant les tableaux 1 et 2
 
 Note 1
 
@@ -16406,19 +16406,19 @@ ci-dessus.
 EAUX – 4. Conventions internationales
 ANNEXE B
 Arbitrage
-1.
+1\.
 
 À moins que les parties du différend n’en disposent autrement, la procédure d’arbitrage est conduite conformément aux
 dispositions de la présente annexe.
 
-2.
+2\.
 
 Le tribunal arbitral est composé de trois membres – chacune des parties au différend nomme un arbitre, les deux
 arbitres ainsi nommés désignent d’un commun accord le troisième arbitre qui assume la présidence du tribunal.
 Si, au terme d’un délai de deux mois à compter de la désignation du deuxième arbitre, le Président du tribunal n’a pas
 été désigné, le Président de la Cour Européenne des Droits de l’Homme procède, à la requête de la partie la plus diligente dans un nouveau délai de deux mois, à sa désignation.
 
-3.
+3\.
 
 Si, dans un délai de deux mois après la réception de la requête prévue à l’article 13 de la Convention, l’une des parties
 au différend n’a pas procédé à la désignation qui lui incombe d’un membre du tribunal, l’autre partie peut saisir le Président de la Cour Européenne des Droits de l’Homme qui désigne le Président du tribunal arbitral dans un nouveau délai
@@ -16426,23 +16426,23 @@ de deux mois. Dès sa désignation le Président du tribunal arbitral demande à
 le faire dans un délai de deux mois. Passé ce délai, il saisit le Président de la Cour Européenne des Droits de l’Homme
 qui procède à cette nomination dans un nouveau délai de deux mois.
 
-4.
+4\.
 
 Si, dans les cas visés aux paragraphes précédents, le Président de la Cour Européenne des Droits de l’Homme se
 trouve empêché ou s’il est le ressortissant de l’une des parties au différend, la désignation du Président du tribunal
 arbitral ou la nomination de l’arbitre incombe au vice-président de la Cour, ou au membre le plus ancien de la Cour qui
 ne se trouve pas empêché et qui n’est pas le ressortissant de l’une des parties au différend.
 
-5.
+5\.
 
 Les dispositions qui précèdent s’appliquent, selon le cas, pour pourvoir aux sièges devenus vacants.
 
-6.
+6\.
 
 Le tribunal arbitral décide selon les régles du droit international et, en particulier, selon les dispositions de la présente
 Convention.
 
-7.
+7\.
 
 Les décisions du tribunal arbitral, tant sur la procédure que sur le fond, sont prises à la majorité des voix de ses
 membres, l’absence ou l’abstention d’un des membres du tribunal désignés par les parties n’empêchant pas le tribunal
@@ -16456,35 +16456,35 @@ L’injection des saumures résiduaires dans le sous-sol est réalisée dans un 
 «Grande Oolithe», à une profondeur de 1.500 à 2.000 m, au sud-ouest de Mulhouse.
 Compte tenu des études et essais déjà effectués, l’injection est réalisée à l’aide d’une installation conforme à la description
 suivante:
-1.
+1\.
 
 un atelier de fabrication de saumure concentrée situé à l’intérieur du périmètre des installations de surface de la Mine
 «Amélie» et capable de fournir un volume de saumure correspondant à 20 kg/s d’ions-chlore (moyenne annuelle);
 
-2.
+2\.
 
 des bassins de stockage étanches pour la saumure concentrées et les eaux de gisement soutirées;
 
-3.
+3\.
 
 un réseau de conduites pour le transport de saumure depuis le bassin jusqu’aux puits d’injection, sur une distance de 10
 km environ, avec la station de pompage correspondante, située en aval du bassin de stockage de saumure;
 
-4.
+4\.
 
 deux nouveaux puits d’injection qui, avec celui de Schweighouse, seront équipés d’un système double permettant
 l’injection de saumure soit par simple gravité, soit avec l’appoint d’une pompe;
 
-5.
+5\.
 
 trois puits de soutirage équipés de pompes immergées à grande profondeur pour l’extraction des eaux de gisement;
 
-6.
+6\.
 
 un réseau de conduites d’eaux de gisement soutirées, sur une distance de 22 km environ, à partir des puits de soutirage
 jusqu’au bassin de stockage de ces eaux;
 
-7.
+7\.
 
 un réseau de télécommande et télécontrôle, nécessaire pour la conduite et la surveillance de l’exploitation.
 
@@ -16647,7 +16647,7 @@ sur la prévention et la suppression de la pollution provenant de sources tellur
 Art. 1 .
 er
 
-\1. Lors de l’adoption de programmes et mesures aux fins de la présente annexe, les Parties contractantes exigent, individuellement ou conjointement, le recours:
+1\. Lors de l’adoption de programmes et mesures aux fins de la présente annexe, les Parties contractantes exigent, individuellement ou conjointement, le recours:
 –
 
 aux meilleures techniques disponibles pour les sources ponctuelles
@@ -16657,10 +16657,10 @@ aux meilleures techniques disponibles pour les sources ponctuelles
 à la meilleure pratique environnementale pour les sources ponctuelles et diffuses y compris, en tant que de besoin, aux
 techniques propres.
 
-\2. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que les calendriers correspondants, les Parties contractantes appliquent les critères visés à l’appendice 2.
-\3. Les Parties contractantes prennent des mesures de prévention afin de réduire les risques de pollution causés par les
+2\. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que les calendriers correspondants, les Parties contractantes appliquent les critères visés à l’appendice 2.
+3\. Les Parties contractantes prennent des mesures de prévention afin de réduire les risques de pollution causés par les
 accidents.
-\4. Lors de l’adoption de programmes et mesures pour les substances radioactives, y compris les déchets, les Parties
+4\. Lors de l’adoption de programmes et mesures pour les substances radioactives, y compris les déchets, les Parties
 contractantes tiennent également compte:
 (a) des recommandations des autres organisations et institutions internationales compétentes;
 (b) des procédures de surveillance recommandées par ces organisations et institutions internationales.
@@ -16671,10 +16671,10 @@ contractantes tiennent également compte:
 
 EAUX – 4. Conventions internationales
 Art. 2.
-\1. Les rejets ponctuels dans la zone maritime, et les émissions dans l’eau ou dans l’air, qui atteignent la zone maritime et
+1\. Les rejets ponctuels dans la zone maritime, et les émissions dans l’eau ou dans l’air, qui atteignent la zone maritime et
 peuvent lui porter atteinte, sont strictement soumis à autorisation ou à réglementation par les autorités compétentes des Parties
 contractantes. Ces autorisations ou réglementations mettent en œuvre, notamment, les décisions pertinentes de la Commission qui lient la Partie contractante concernée.
-\2. Les Parties contractantes mettent en place un dispositif de surveillance et de contrôle réguliers permettant à leurs autorités compétentes d’évaluer le respect des autorisations et des réglementations relatives aux émissions dans l’eau ou dans l’air.
+2\. Les Parties contractantes mettent en place un dispositif de surveillance et de contrôle réguliers permettant à leurs autorités compétentes d’évaluer le respect des autorisations et des réglementations relatives aux émissions dans l’eau ou dans l’air.
 Art. 3.
 Aux fins de la présente annexe, la Commission a notamment pour mission d’élaborer:
 (a) des plans en vue de la réduction et de la cessation de l’emploi des substances persistantes, toxiques, et susceptibles
@@ -16694,9 +16694,9 @@ La présente annexe ne s’applique pas:
 Art. 2.
 L’incinération est interdite.
 Art. 3.
-\1. L’immersion de tous les déchets ou autres matières est interdite, à l’exception des déchets ou autres matières énumérés
+1\. L’immersion de tous les déchets ou autres matières est interdite, à l’exception des déchets ou autres matières énumérés
 aux paragraphes 2 et 3 du présent article.
-\2. La liste visée au paragraphe 1 du présent article est la suivante:
+2\. La liste visée au paragraphe 1 du présent article est la suivante:
 (a) matériaux de dragage;
 (b) matières inertes d’origine naturelle, constituées par du matériau géologique-solide n’ayant pas subi de traitement
 chimique, et dont les constituants chimiques ne risquent pas d’être libérés dans le milieu marin;
@@ -16706,7 +16706,7 @@ chimique, et dont les constituants chimiques ne risquent pas d’être libérés
 (amendements de 2007)
 «(f)
 
-3.
+3\.
 
 les flux de dioxyde de carbone résultant des processus de capture du dioxyde de carbone en vue de son stockage, dans
 la mesure où:
@@ -16745,7 +16745,7 @@ ne nuiraient pas aux ressources biologiques et aux écosystèmes marins, ne port
 d’agrément et ne gêneraient pas d’autres utilisations légitimes de la mer.
 
 Art. 4.
-\1. Les Parties contractantes font en sorte:
+1\. Les Parties contractantes font en sorte:
 (a) qu’aucun déchet ou autre matière mentionné au paragraphe 2 de l’article 3 de la présente annexe ne soit immergé sans
 autorisation de leurs autorités compétentes ou sans réglementation;
 (b) que cette autorisation ou cette réglementation soit conforme aux critères, lignes directrices et procédures pertinents et
@@ -16756,10 +16756,10 @@ autorisation ou d’appliquer une réglementation.
 \- 216 -
 
 EAUX – 4. Conventions internationales
-\2. Toute autorisation ou réglementation visée au paragraphe 1 du présent article ne permet pas l’immersion de navires ou
+2\. Toute autorisation ou réglementation visée au paragraphe 1 du présent article ne permet pas l’immersion de navires ou
 d’aéronefs contenant des substances qui créent ou sont susceptibles de créer des risques pour la santé de l’homme, des dommages aux ressources vivantes et aux écosystèmes marins, des atteintes aux valeurs d’agrément, ou des entraves aux autres
 utilisations légitimes de la mer.
-\3. Chaque Partie contractante tient un relevé de la nature et des quantités de déchets et autres matières immergés dans les
+3\. Chaque Partie contractante tient un relevé de la nature et des quantités de déchets et autres matières immergés dans les
 conditions prévues au paragraphe 1 du présent article ainsi que des dates, lieux et méthodes d’immersion, et le communique
 à la Commission.
 Art. 5.
@@ -16785,20 +16785,20 @@ En cas de situation critique, si une Partie contractante estime que des déchets
 interdite par la présente annexe ne peuvent être éliminés à terre sans risque ou préjudice inacceptables, celle-ci consulte immédiatement d’autres Parties contractantes en vue de trouver les méthodes de stockage ou les moyens de destruction ou d’élimination les plus satisfaisants selon les circonstances. La Partie contractante informe la Commission des mesures adoptées à la
 suite de cette consultation. Les Parties contractantes s’engagent à se prêter mutuellement assistance dans de telles situations.
 Art. 10.
-\1. Chaque Partie contractante fait respecter les dispositions de la présente annexe:
+1\. Chaque Partie contractante fait respecter les dispositions de la présente annexe:
 (a) par les navires ou aéronefs immatriculés sur son propre territoire;
 (b) par les navires ou aéronefs chargeant sur son territoire des déchets ou autres matières devant être immergés ou incinérés;
 (c) par les navires ou aéronefs supposés se livrer à des opérations d’immersion ou d’incinération dans ses eaux intérieures
 ou dans sa mer territoriale ou dans la partie de la mer située au-delà de sa mer territoriale et en position adjacente à
 celle-ci et placée, dans la mesure reconnue par le droit international, sous la juridiction de l’État côtier.
-\2. Chaque Partie contractante donne instruction aux navires et aéronefs de son inspection maritime ainsi qu’aux autres
+2\. Chaque Partie contractante donne instruction aux navires et aéronefs de son inspection maritime ainsi qu’aux autres
 services compétents de signaler à ses autorités tous les incidents ou situations survenant dans la zone maritime qui donnent à
 penser qu’une immersion a été effectuée ou est sur le point de l’être en violation des dispositions de la présente annexe. Toute
 
 Partie contractante dont les autorités reçoivent un tel rapport informe en conséquence, si elle le juge approprié, toute autre
 
 Partie contractante concernée.
-\3. Rien dans la présente annexe ne portera atteinte à l’immunité souveraine dont jouissent certains navires en application
+3\. Rien dans la présente annexe ne portera atteinte à l’immunité souveraine dont jouissent certains navires en application
 du droit international.
 
 \- 217 -
@@ -16807,18 +16807,18 @@ EAUX – 4. Conventions internationales
 ANNEXE III
 sur la prévention et la suppression de la pollution provenant de sources offshore
 Art. 1er.
-\1. La présente annexe ne s’applique pas:
+1\. La présente annexe ne s’applique pas:
 (a) au déversement délibéré dans la zone maritime des déchets ou autres matières provenant des navires ou aéronefs;
 (b) au sabordage dans la zone maritime des navires ou aéronefs.
 Art. 2.
-\1. Lors de l’adoption de programmes et mesures aux fins de la présente annexe, les Parties contractantes exigent, soit individuellement soit conjointement, le recours:
+1\. Lors de l’adoption de programmes et mesures aux fins de la présente annexe, les Parties contractantes exigent, soit individuellement soit conjointement, le recours:
 (a) aux meilleures techniques disponibles
 (b) à la meilleure pratique environnementale
 y compris, en tant que de besoin, aux techniques propres.
-\2. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que les calendriers correspondants, les Parties contractantes appliquent les critères visés à l’appendice 2.
+2\. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que les calendriers correspondants, les Parties contractantes appliquent les critères visés à l’appendice 2.
 Art. 3.
-\1. Toute immersion de déchets ou autres matières à partir des installations offshore est interdite.
-\2. Cette interdiction ne s’applique pas aux rejets ou émissions à partir des sources offshore.
+1\. Toute immersion de déchets ou autres matières à partir des installations offshore est interdite.
+2\. Cette interdiction ne s’applique pas aux rejets ou émissions à partir des sources offshore.
 (Amendements de 2007)
 «3. L’interdiction à laquelle il est fait référence au paragraphe 1 du présent article ne s’applique pas aux flux de dioxyde de
 carbone résultant des processus de capture du dioxyde de carbone en vue de son stockage, dans la mesure où
@@ -16839,33 +16839,33 @@ d.
 ils sont destinés à être confinés de manière permanente dans ces structures et n’entraîneront pas d’effets contraires
 pour le milieu marin, la santé de l’homme et les autres utilisations légitimes de la zone maritime.
 
-\4. Les Parties contractantes s’assureront qu’aucun flux, auxquels il est fait référence au paragraphe 3, ne sera éliminé dans
+4\. Les Parties contractantes s’assureront qu’aucun flux, auxquels il est fait référence au paragraphe 3, ne sera éliminé dans
 des structures géologiques situées dans le sous-sol sans autorisation ou réglementation de la part des autorités compétentes.
 Ces autorisations ou réglementations mettent notamment en œuvre les décisions, recommandations et autres accords pertinents et applicables, qui auront été adoptés en vertu de la Convention.»
 Art. 4.
-\1. L’utilisation, le rejet ou l’émission par des sources offshore de substances qui peuvent atteindre et affecter la zone maritime
+1\. L’utilisation, le rejet ou l’émission par des sources offshore de substances qui peuvent atteindre et affecter la zone maritime
 est rigoureusement soumis à autorisation ou à réglementation par les autorités compétentes des Parties contractantes. Ces
 autorisations ou réglementations mettent notamment en œuvre les décisions, recommandations et autres accords pertinents et
 applicables, qui auront été adoptés en vertu de la Convention.
-\2. Les autorités compétentes des Parties contractantes mettent en place un système de surveillance et de contrôle afin
+2\. Les autorités compétentes des Parties contractantes mettent en place un système de surveillance et de contrôle afin
 d’évaluer le respect des autorisations ou des réglementations prévues au paragraphe 1 de l’article 4 de la présente annexe.
 Art. 5.
-\1. Aucune installation offshore désaffectée ou aucun pipeline offshore désaffecté n’est immergé et aucune installation offshore désaffectée n’est laissée en place en totalité ou en partie dans la zone maritime sans un permis émanant au cas par
+1\. Aucune installation offshore désaffectée ou aucun pipeline offshore désaffecté n’est immergé et aucune installation offshore désaffectée n’est laissée en place en totalité ou en partie dans la zone maritime sans un permis émanant au cas par
 cas à cet effet de l’autorité compétente de la Partie contractante concernée. Les Parties contractantes font en sorte que leurs.
 autorités, en accordant ces permis, mettent en œuvre les décisions, recommandations et tous autres accords pertinents et
 applicables adoptés en vertu de la Convention.
-\2. Aucun permis de ce type n’est délivré si les installations offshore désaffectées ou les pipelines offshore désaffectés
+2\. Aucun permis de ce type n’est délivré si les installations offshore désaffectées ou les pipelines offshore désaffectés
 contiennent des substances qui créent ou sont susceptibles de créer des risques pour la santé de l’homme, des dommages aux
 ressources vivantes et aux écosystèmes marins, des atteintes aux valeurs d’agrément ou une entrave aux autres utilisations
 légitimes de la mer.
-\3. Toute Partie contractante qui a l’intention de prendre la décision d’émettre un permis d’immersion d’une installation désaffectée offshore, ou d’un pipeline désaffecté offshore qui aura été mis en place dans la zone maritime après le Ier janvier 1998,
+3\. Toute Partie contractante qui a l’intention de prendre la décision d’émettre un permis d’immersion d’une installation désaffectée offshore, ou d’un pipeline désaffecté offshore qui aura été mis en place dans la zone maritime après le Ier janvier 1998,
 fait connaître aux autres Parties contractantes, par l’intermédiaire de la Commission, les raisons pour lesquelles elle accepte
 cette immersion, de manière à permettre une consultation.
 
 \- 218 -
 
 EAUX – 4. Conventions internationales
-\4. Chaque Partie contractante tient un relevé des installations offshore désaffectées et des pipelines offshore désaffectés
+4\. Chaque Partie contractante tient un relevé des installations offshore désaffectées et des pipelines offshore désaffectés
 qui auront été immergés ainsi que des installations offshore désaffectées qui auront été laissés en place conformément aux
 dispositions du présent article, de même que des dates, lieux et méthodes d’immersion, et le communique à la Commission.
 Art. 6.
@@ -16885,12 +16885,12 @@ et procédures pertinents et applicables adoptés par la Commission conformémen
 annexe. La présente disposition ne peut être interprétée comme autorisant l’immersion d’installations offshore désaffectées ou
 de pipelines offshore désaffectés en violation des dispositions de la présente annexe.
 Art. 9.
-\1. Chaque Partie contractante donne instruction aux navires et aéronefs de son inspection maritime ainsi qu’aux autres
+1\. Chaque Partie contractante donne instruction aux navires et aéronefs de son inspection maritime ainsi qu’aux autres
 services compétents, de signaler à ses autorités tous les incidents ou situations survenant dans la zone maritime, qui donnent
 à penser qu’une infraction aux dispositions de la présente annexe a été commise ou est sur le point de l’être. Toute Partie
 contractante dont les autorités reçoivent un tel rapport informe en conséquence, si elle le juge approprié, toute autre Partie
 contractante concernée.
-\2. Rien dans la présente annexe ne porte atteinte à l’immunité souveraine dont jouissent certains navires en application du
+2\. Rien dans la présente annexe ne porte atteinte à l’immunité souveraine dont jouissent certains navires en application du
 droit international.
 Art. 10.
 Aux fins de la présente annexe, la Commission a notamment pour mission:
@@ -16909,11 +16909,11 @@ EAUX – 4. Conventions internationales
 ANNEXE IV
 sur l’évaluation de la qualité du milieu marin
 Art. 1er.
-\1. Aux fins de la présente annexe l’expression «surveillance continue» désigne la mesure répétée:
+1\. Aux fins de la présente annexe l’expression «surveillance continue» désigne la mesure répétée:
 (a) de la qualité du milieu marin et de chacune de ses composantes, à savoir l’eau, les sédiments et la biote;
 (b) des activités ou des apports naturels et anthropogènes qui peuvent porter atteinte à la qualité du milieu marin;
 (c) des effets de ces activités et apports.
-\2. La surveillance continue peut être entreprise soit afin de se conformer aux engagements pris en vertu de la Convention,
+2\. La surveillance continue peut être entreprise soit afin de se conformer aux engagements pris en vertu de la Convention,
 afin de définir des profils et des tendances, soit à des fins de recherche.
 Art. 2.
 Aux fins de la présente annexe, les Parties contractantes:
@@ -16963,7 +16963,7 @@ b.
 à ces fins, coopèrent en vue de l’adoption de programmes et mesures de nature à régir les activités humaines déterminées en appliquant les critères visés en appendice 3.
 
 Art. 3.
-\1. Aux fins de la présente Annexe, la Commission a notamment pour mission:
+1\. Aux fins de la présente Annexe, la Commission a notamment pour mission:
 a.
 
 d’élaborer des programmes et mesures ayant pour but de régir les activités humaines déterminées en appliquant les
@@ -16992,15 +16992,15 @@ c.
 
 ce faisant aussi, de tenir compte des programmes et mesures adoptés par les Parties contractantes en vue de la protection et de la conservation des écosystèmes dans les eaux relevant de leur souveraineté ou de leur juridiction.
 
-\2. Lors de l’adoption desdits programmes et mesures, la question de l’application de tel programme ou mesure soit à la
+2\. Lors de l’adoption desdits programmes et mesures, la question de l’application de tel programme ou mesure soit à la
 totalité, soit à une certaine partie de la zone maritime, sera dûment examinée.
 Art. 4.
-\1. Conformément à l’avant-dernier alinéa des considérants de la Convention, aucun programme ni aucune mesure ayant trait
+1\. Conformément à l’avant-dernier alinéa des considérants de la Convention, aucun programme ni aucune mesure ayant trait
 à la gestion des pêcheries ne pourra être adopté en vertu de la présente Annexe. Cependant si la Commission considère qu’il
 est souhaitable qu’une action soit engagée sur un point ayant rapport avec ce domaine, elle attire l’attention de l’autorité ou de
 l’organisme international ayant compétence en la matière. Lorsqu’il est souhaitable que la Commission prenne des mesures
 complétant ou renforçant celles d’autres autorités ou organismes, la Commission s’efforce de coopérer avec ceux-ci.
-\2. Si la Commission considère qu’en vertu de la présente Annexe, il y a lieu d’intervenir dans un domaine touchant au
+2\. Si la Commission considère qu’en vertu de la présente Annexe, il y a lieu d’intervenir dans un domaine touchant au
 transport maritime, elle attire l’attention de l’Organisation Maritime Internationale sur cette question. Les Parties contractantes
 membres de l’Organisation Maritime Internationale s’efforcent de coopérer au sein de cette organisation afin d’obtenir la réaction voulue, y compris, s’il y a lieu, l’accord de cette organisation en vue d’une action régionale ou locale, ceci en tenant compte
 des lignes directrices éventuellement élaborées par ladite organisation quant à la désignation des zones spéciales, à la détermination des zones particulièrement vulnérables ou à toutes autres questions.»
@@ -17012,9 +17012,9 @@ APPENDICES
 APPENDICE 1
 Critères de définition des pratiques et techniques visées au paragraphe 3(b)(i) de l’article 2 de la Convention
 Meilleures techniques disponibles
-\1. Dans le recours aux meilleures techniques disponibles, l’accent est mis sur l’utilisation de technologies non productrices
+1\. Dans le recours aux meilleures techniques disponibles, l’accent est mis sur l’utilisation de technologies non productrices
 de déchets, si elles sont disponibles.
-\2. L’expression «meilleures techniques disponibles» désigne les tout derniers progrès (état de la technique) dans les procédés, les installations ou les méthodes d’exploitation, permettant de savoir si une mesure donnée de limitation des rejets,
+2\. L’expression «meilleures techniques disponibles» désigne les tout derniers progrès (état de la technique) dans les procédés, les installations ou les méthodes d’exploitation, permettant de savoir si une mesure donnée de limitation des rejets,
 des émissions et des déchets est appropriée sur un plan pratique. Pour savoir si une série de procédés, d’installations et de
 méthodes d’exploitation constitue les meilleures techniques disponibles en général ou dans un cas particulier, une attention
 particulière est accordée:
@@ -17024,15 +17024,15 @@ résultats;
 (c) à la faisabilité économique de ces techniques;
 (d) aux dates limites de mise en service aussi bien dans les installations nouvelles que dans les installations existantes;
 (e) à la nature et au volume des rejets et des émissions en question.
-\3. Il s’ensuit donc que ce qui constitue «la meilleure technique disponible» dans le cas d’un procédé donné évoluera dans le
+3\. Il s’ensuit donc que ce qui constitue «la meilleure technique disponible» dans le cas d’un procédé donné évoluera dans le
 temps en fonction des progrès techniques, des facteurs économiques et sociaux, ainsi que de l’évolution des connaissances et
 de la compréhension scientifiques.
-\4. Si la réduction des rejets et des émissions qui résulte de l’application des meilleures techniques disponibles ne conduit pas
+4\. Si la réduction des rejets et des émissions qui résulte de l’application des meilleures techniques disponibles ne conduit pas
 à des résultats acceptables sur le plan de l’environnement, des mesures compléemtaires doivent être mise en œuvre.
-\5. Le terme «techniques» désigne aussi bien la technique appliquée que le mode de conception. de construction, d’entretien,
+5\. Le terme «techniques» désigne aussi bien la technique appliquée que le mode de conception. de construction, d’entretien,
 d’ exploitation et de démontage de l’installation.
 Meilleure pratique environnementale
-\6. L’expression «meilleure pratique environnementale» désigne la mise en œuvre de la combinaison la mieux adaptée de
+6\. L’expression «meilleure pratique environnementale» désigne la mise en œuvre de la combinaison la mieux adaptée de
 mesures et de stratégies de lutte environnementales. Dans la sélection à opérer dans chacun des cas, l’éventail de mesures
 progressives énumérées ci-après sera au moins examiné:
 (a) l’information et Education du grand public et des utilisateurs sur les conséquences pour l’environnement, du choix de
@@ -17053,7 +17053,7 @@ la limitation de l’utilisation des substances ou des produits dangereux, et de
 
 la mise en place d’un système d’autorisation comprenant un éventail de contraintes ou une interdiction.
 
-\7. Pour déterminer la combinaison de mesures qui constitue la meilleure pratique environnementale en général ou dans des
+7\. Pour déterminer la combinaison de mesures qui constitue la meilleure pratique environnementale en général ou dans des
 cas particuliers, une attention particulière sera accordée:
 (a) au risque pour l’environnement causé par le produit et sa fabrication, son utilisation et son élimination finale;
 (b) au remplacement par des activités ou des substances moins polluantes;
@@ -17069,16 +17069,16 @@ aux délais de mise en œuvre;
 \- 222 -
 
 EAUX – 4. Conventions internationales
-\8. Il s’ensuit donc que dans le cas d’une source donnée, la meilleure pratique environnementale évoluera dans le temps
+8\. Il s’ensuit donc que dans le cas d’une source donnée, la meilleure pratique environnementale évoluera dans le temps
 en fonction des progrès techniques, des facteurs économiques et sociaux, ainsi que de l’évolution des connaissances et de la
 compréhension scientifiques.
-\9. Si la réduction des apports qui résulte du recours à la meilleure pratique environnementale ne conduit pas à des résultats
+9\. Si la réduction des apports qui résulte du recours à la meilleure pratique environnementale ne conduit pas à des résultats
 acceptables sur le plan de l’environnement, des mesures complémentaires doivent être appliquées et la meilleure pratique
 environnementale doit être redéfinie.
 
 APPENDICE 2
 Critères visés au paragraphe 2 de l’article 1 de l’Annexe I et au paragraphe 2 de l’article 2 de l’Annexe III
-\1. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que ls calendriers correspondants, les Parties contractantes appliquent les critères énumérés ci-dessous:
+1\. Pour fixer les priorités et évaluer la nature et l’ampleur des programmes et des mesures, ainsi que ls calendriers correspondants, les Parties contractantes appliquent les critères énumérés ci-dessous:
 (a) persistance;
 (b) toxicité ou autres propriétés nocives;
 (c) tendance à la bioaccumulation;
@@ -17105,9 +17105,9 @@ couleur, la transparence ou d’autres caractéristiques de l’eau de mer;
 
 non-réalisation des objectifs de qualité environnementale.
 
-\2. Dans l’étude d’une substance ou d’un groupe de substances donné, ces critères ne sont pas nécessairement d’égale
+2\. Dans l’étude d’une substance ou d’un groupe de substances donné, ces critères ne sont pas nécessairement d’égale
 importance.
-\3. Les critères mentionnés ci-dessus indiquent que les substances qui feront l’objet de programmes et mesures englobent:
+3\. Les critères mentionnés ci-dessus indiquent que les substances qui feront l’objet de programmes et mesures englobent:
 (a) les métaux lourds et leurs composés;
 (b) les composés organohalogénés (et les substances qui peuvent donner naissance à de tels composés dans le milieu
 marin);
@@ -17126,7 +17126,7 @@ les composés d’azote et de phosphore;
 (Loi du 24 décembre 1999)
 «APPENDICE 3
 Critères de détermination des activités humaines aux fins de l’Annexe V
-\1. Les critères ci-dessous énumérés sont fixés pour la détermination des activités humaines aux fins de l’Annexe V, les différences régionales devant cependant être prises en compte:
+1\. Les critères ci-dessous énumérés sont fixés pour la détermination des activités humaines aux fins de l’Annexe V, les différences régionales devant cependant être prises en compte:
 a.
 
 ampleur, intensité et durée de l’activité humaine considérée;
@@ -17143,7 +17143,7 @@ d.
 
 irréversibilité ou durabilité de ces effets.
 
-\2. Lors de l’examen d’une activité donnée, ces critères ne seront pas nécessairement limitatifs, ni d’égale importance.»
+2\. Lors de l’examen d’une activité donnée, ces critères ne seront pas nécessairement limitatifs, ni d’égale importance.»
 
 \- 223 -
 
@@ -17311,449 +17311,449 @@ APPENDICE
 Mesures OSCOM et PARCOM qui ne sont plus applicables dans le cadre de la Convention OSPAR
 
 PARTIE A - Décisions et recommandations adoptées en vertu de l’ancienne Convention d’Oslo et l’ancienne Convention de Paris
-1.
+1\.
 
 Recommandation PARCOM sur l’abandon de l’aldrine, de la dieldrine et de l’endrine, 1978
 
-2.
+2\.
 
 Décision PARCOM sur une ligne d’approche double pour réduire les émissions de mercure (approches OQE et NUE)
 (valable pour une période de 5 ans), 1978
 
-3.
+3\.
 
 Recommandation PARCOM sur les matières synthétiques, persistantes et flottantes, 1980
 
-4.
+4\.
 
 Recommandation PARCOM sur les déversements des plates-formes résultant des opérations de prospection, 1980
 
-5.
+5\.
 
 Décision OSCOM de demander à la Norvège de convoquer une Conférence diplomatique dans le but d’amender la
 Convention en y faisant figurer les Règles sur l’incinération dans une nouvelle Annexe IV, 1981
 
-6.
+6\.
 
 Recommandation PARCOM sur l’abandon des PCB et PCT, 1983
 
-7.
+7\.
 
 Décision PARCOM sur l’utilisation des boues à base huileuse, 1984
 
-8.
+8\.
 
 Recommandation PARCOM sur les déversements radioactifs provenant des installations de retraitement nucléaire
 (Oslo, 1984)
 
-9.
+9\.
 
 Décision OSCOM 85/1 concernant les annexes I et II de la Convention
 
-10.
+10\.
 
 Décision OSCOM 85/2 sur le contrôle des opérations de nettoyage effectuées à bord des installations marines d’incinération en mer
 
-11.
+11\.
 
 Décision PARCOM sur l’abandon de l’emploi de l’aldrine, de la dieldrine et de l’endrine, 1985
 
-12.
+12\.
 
 Décision PARCOM demandant à la France de convoquer une conférence diplomatique en vue d’amender la Convention en étendant son champ d’application de façon à y inclure la pollution de la zone maritime par l’atmosphère, 1985
 
-13.
+13\.
 
 Recommandation PARCOM sur les rejets radioactifs émanant de toutes les industries nucléaires, dans le milieu marin
 (Bruxelles, 1985)
 
-14.
+14\.
 
 Décision PARCOM 860 sur les rejets résultant des opérations de prospection
 
-15.
+15\.
 
 Décision PARCOM 86/2 sur l’utilisation des boues au mazout
 
-16.
+16\.
 
 Recommandation PARCOM 87/3 du 3 juin 1987 sur la construction de nouvelles usines de retraitement nucléaire
 
-17.
+17\.
 
 Recommandation PARCOM 87/4 du 3 juin 1987 sur les rejets radioactifs
 
-18.
+18\.
 
 Décision OSCOM 88/1 sur la cessation de l’incinération en mer
 
-19.
+19\.
 
 Décision OSCOM de demander aux États riverains de la mer du Nord d’appliquer les principes sur la réduction et la
 cessation de l’immersion de matières polluantes, tels que stipulés dans la Conférence sur la mer du Nord, 1988
 
-20.
+20\.
 
 Décision PARCOM 88/1 sur l’emploi des boues à base d’huile
 
-21.
+21\.
 
 Recommandation PARCOM 88/3 comme approche initiale sur l’utilisation de la meilleure technologie disponible
 
 (1) Note du Secrétariat: Conformément à l’article 13 de la Convention OSPAR 1992, cette décision entrera en vigueur et deviendra obligatoire le 9 février
-\1999. Jusque-là toutes les mesures énumérées à l’appendice sont encore applicables.
+1999\. Jusque-là toutes les mesures énumérées à l’appendice sont encore applicables.
 
 \- 227 -
 
 EAUX – 4. Conventions internationales
-22.
+22\.
 
 Recommandation PARCOM 88/5 du 17 juin 1988 sur les rejets radioactifs
 
-23.
+23\.
 
 Décision de demander à la Norvège de convoquer une Conférence diplomatique dans le but d’amender la Convention
 et d’y inclure l’immersion dans les eaux territoriales, 1989
 
-24.
+24\.
 
 Décision OSCOM 890 sur la réduction et la cessation des immersions de déchets industriels en mer
 
-25.
+25\.
 
 Recommandation PARCOM 89/1 sur le Principe de Précaution
 
-26.
+26\.
 
 Recommandation PARCOM 89/2 sur l’utilisation de la meilleure technologie disponible
 
-27.
+27\.
 
 Décision OSCOM 900 sur la cessation des immersions des boues des égouts en mer
 
-28.
+28\.
 
 Décision OSCOM 90/2 sur la cessation de l’incinération en mer
 
-29.
+29\.
 
 Décision PARCOM 90/1 sur la réduction des rejets de substances organiques chlorées provenant de la fabrication de
 la pâte à papier kraft blanchie et de la pâte au bisulfite
 
-30.
+30\.
 
 Décision PARCOM 90/4 sur l’abandon des PCB
 
-31.
+31\.
 
 Recommandation PARCOM 90/2 sur l’Information et la Consultation
 
-32.
+32\.
 
 Recommandation PARCOM 90/3 du 14 juin 1990 sur la notification des progrès réalisés dans l’application de la meilleure technologie disponible aux rejets radioactifs de toutes les industries nucléaires
 
-33.
+33\.
 
 Recommandation OSCOM 91/1 sur la gestion des matériaux de dragage
 
-34.
+34\.
 
 Recommandation PARCOM 91/1 sur la définition de la meilleure pratique environnementale
 
-35.
+35\.
 
 Décision PARCOM 92/4 sur l’abandon de l’utilisation de l’hexachloroéthane (HCE) dans l’industrie de l’aluminium de
 deuxième fusion et dans l’industrie de l’aluminium de première fusion avec fonderies intégrées
 
-36.
+36\.
 
 Décision PARCOM 93/1 sur l’abandon de l’utilisation de l’hexachloréthane (HCE) dans l’industrie des métaux nonferreux
 
-37.
+37\.
 
 Recommandation PARCOM 93/3 sur l’élaboration des plans d’action nationaux et de la meilleure pratique environnementale en vue de la réduction des apports à l’environnement des pesticides employés dans l’agriculture
 
-38.
+38\.
 
 Décision PARCOM 94/1 sur les substances/spécialités utilisées et rejetées en offshore
 
 PARTIE B - Autres accords adoptés en vertu de l’ancienne Convention d’Oslo et l’ancienne Convention de Paris
-39.
+39\.
 
 Interprétation de la Convention - Définition des termes utilisés dans la Convention, 1974
 
-40.
+40\.
 
 Interprétation de la Convention - Immersion de tuyaux, copeaux métalliques et autres débris, 1976
 
-41.
+41\.
 
 Code pratique OSCOM d’immersion en mer des déchets acides provenant de l’industrie du TiO2, 1977
 
-42.
+42\.
 
 Code pratique OSCOM d’incinération des déchets en mer, 1977
 
-43.
+43\.
 
 Code pratique d’immersion en mer des déchets acides provenant de l’industrie du TiO2, 1977
 
-44.
+44\.
 
 Formulaire de compte rendu pour la notification des déchets incinérés en mer, 1977
 
-45.
+45\.
 
 Procédure provisoire OSCOM de consultation préalable à l’incinération en mer, 1978
 
-46.
+46\.
 
 Interprétation de la Convention - Révision des Annexes à la Convention, 1978
 
-47.
+47\.
 
 interprétation de la Convention de Paris - «huiles persistantes», 1978
 
-48.
+48\.
 
 Méthodes de surveillance des zones d’immersion des boues des égouts et des matériaux de dragage, 1980
 
-49.
+49\.
 
 Désignation d’un site d’incinération commun, 1980
 
-50.
+50\.
 
 Méthodes de contrôle et de surveillance continue des sites d’immersion de boues d’égout et de déblais de dragage,
 
-51.
+51\.
 
 Méthodes de surveillance des zones maritimes où des déchets de dioxyde de titane sont immergés, 1980
 
-52.
+52\.
 
 Aspects scientifiques et techniques de l’élimination des épaves de navires citernes, 1980
 
-53.
+53\.
 
 Interprétation de la Convention de Paris - Portée de la Convention de Paris et ses implications pour MARPOL 1973/78
 et le déversement des eaux d’écoulement des plates-formes, 1980
 
-54.
+54\.
 
 Contrôle et surveillance continus des zones marines dans lesquelles des déchets de bioxyde de titane sont immergés, 1980 et 1986
 
-55.
+55\.
 
 Interprétation de la Convention de Paris - Déversements en amont de la limite des eaux douces, 1981
 
-56.
+56\.
 
 Code pratique OSCOM sur l’incinération de déchets en mer, comprenant une procédure de consultation préalable
 révisée pour l’incinération, 1982
 
-57.
+57\.
 
 Formulaire de rapport sur la notification de permis délivrés pour l’incinération de déchets en mer, 1982
 
-58.
+58\.
 
 Interprétation de la Convention - Sabordage des navires, 1982
 
-59.
+59\.
 
 Interprétation de la Convention de Paris - Révisions des annexes, 1982
 
-60.
+60\.
 
 Procédures d’essai - Lignes directrices générales pour la mise en œuvre des procédures d’essai dans le cadre de la
 procédure de consultation préalable, 1982 et 1983
 
-61.
+61\.
 
 Procédures d’essai - Directive relative aux tests des produits chimiques et des eaux usées, avec test d’inhibition de la
 croissance des algues marines, 1982 et 1983
 
-62.
+62\.
 
 Procédures d’essai - Principes pour la façon d’effectuer les tests de toxicité, 1982 et 1983
 \- 228 -
 
 EAUX – 4. Conventions internationales
-63.
+63\.
 
 Procédures d’essai - Principes pour la détermination de la biodégradabilité de la fraction organique de déchets
 chimiques, 1982 et 1983
 
-64.
+64\.
 
 Procédures d’essai - Principes pour les essais de biosccumulation de la fraction de l’annexe 1 de déchets chimiques,
 1982 et 1983
 
-65.
+65\.
 
 Code pratique sur l’incinération de déchets en mer, 1982 et 1987
 
-66.
+66\.
 
 Principes de contrôle des réparations à effectuer sur les navires incinérateurs, 1983
 
-67.
+67\.
 
 Procédure révisée de consultation préalable pour l’immersion de déchets en mer, 1983
 
-68.
+68\.
 
 Interprétation de la Convention - Sédiments marins, 1984
 
-69.
+69\.
 
 Déclaration PARCOM sur l’intention d’abandonner les PCB et les PCT dans les nouvelles installations, 1984
 
-70.
+70\.
 
 Confirmation de l’emplacement d’un site commun d’incinération, 1985
 
-71.
+71\.
 
 Lignes directrices à utiliser pour la classification et l’inscription des substances aux annexes de la Convention d’Oslo,
 
-72.
+72\.
 
 Interprétation de la Convention - Composés organostanneux, 1985
 
-73.
+73\.
 
 Interprétation de la Convention - Polydiméthylsiloxanes, 1985
 
-74.
+74\.
 
 Classification et inscription des substances aux annexes de la Convention de Paris, 1985
 
-75.
+75\.
 
 Interprétation de la Convention de Paris - Définition des “Normes uniformes d’émission”, 1985
 
-76.
+76\.
 
 Interprétation de la Convention de Paris - Exportation de la pollution, 1985
 
-77.
+77\.
 
 Interprétation de la Convention de Paris - Composés organosiliciés, 1985
 
-78.
+78\.
 
 Interprétation de la Convention - Article 15 de la Convention, 1986
 
-79.
+79\.
 
 Procédure simplifiée d’adoption de la Directive CEE sur le HCH, 1986
 
-80.
+80\.
 
 Accord PARCOM sur les substances de la “liste grise” faisant l’objet de mesures prioritaires, 1986
 
-81.
+81\.
 
 Surveillance aux fins de l’objectif (a) - L’évaluation des dangers éventuels pour la santé de l’homme, 1986
 
-82.
+82\.
 
 Performance Charts: Fifth Round Intercalibration for Trace Metals in Sea Water 1986(1)
 
-83.
+83\.
 
 Performance Charts: Seventh Intercalibration Exercise on Trace Metals in Biota (Part l), 1986(1)
 
-84.
+84\.
 
 Contrôle et surveillance continus des zones marines dans lesquelles des déchets de dioxyde de titane sont immergés, 1986
 
-85.
+85\.
 
 Interprétation de la Convention - Déchets volumineux: annexe II paragraphe 1 (b), 1987
 
-86.
+86\.
 
 Formulaire de compte rendu sur les émissions atmosphériques d’origine industrielle, 1987
 
-87.
+87\.
 
 Accord avec le CIEM sur le traitement des données du JMP, 1987
 
-88.
+88\.
 
 Accès du CIEM aux comptes rendus des Commissions, 1987
 
-89.
+89\.
 
 Lignes directrices sur l’analyse de tendance dans le temps des données sur les polluants chez le poisson échantillonné aux fins de l’objectif(d) du Programme conjoint de contrôle et de surveillance continus, 1987
 
-90.
+90\.
 
 Accord PARCOM sur le contrôle strict des rejets d’agents antimites, 1988
 
-91.
+91\.
 
 Panorama de la surveillance des effets biologiques, 1988
 
-92.
+92\.
 
 Intercalibration et méthodes d’analyse, 1988
 
-93.
+93\.
 
 Normes d’évaluation des résultats du Programme conjoint, 1988
 
-94.
+94\.
 
 Recommandations relatives à la préparation des rapports d’évaluation dans le cadre du Programme conjoint de
 contrôle et de surveillance continus, 1988
 
-95.
+95\.
 
 Programmes d’assurance de la qualité, 1988
 
-96.
+96\.
 
 Formulaire de compte rendu sur les émissions atmosphériques d’origines industrielles, 1988
 
-97.
+97\.
 
 Mise en place du Groupe d’intervention mer du Nord - Mise en place d’un mécanisme visant à la mise en œuvre des
 dispositions de la Déclaration de la Conférence sur la mer du Nord quant au développement des connaissances et de
 la compréhension scientifiques, 1988
 
-98.
+98\.
 
 Procédures de l’assurance de la qualité, 1989
 
-99.
+99\.
 
 Conseils supplémentaires sur l’assurance de la qualité, 1989
 
-100.
+100\.
 
 Responsabilité de la surveillance des matières nutritives, 1989
 
-101.
+101\.
 
 Procédure graduelle pour la surveillance des phénomènes d’eutrophisation sur le terrain, 1989
 
-102.
+102\.
 
 Procédure de surveillance volontaire des matières nutritives, 1989
 
-103.
+103\.
 
 Commentaires nationaux, 1989
 
-104.
+104\.
 
 Panorama des exercices d’intercalibration/intercomparaison coordonnés par le CIEM, 1989
 
-105.
+105\.
 
 Surveillance des communautés benthiques, 1989
 
@@ -17762,96 +17762,96 @@ Surveillance des communautés benthiques, 1989
 \- 229 -
 
 EAUX – 4. Conventions internationales
-106.
+106\.
 
 Contrôle et surveillance continus aux fins de l’objectif (c), 1989
 
-107.
+107\.
 
 Surveillance aux fins de l’objectif (d) - Évaluation de l’efficacité des mesures prises en vue de la diminution de la pollution marine dans le cadre des Conventions, 1989
 
-108.
+108\.
 
 Interprétation de la Convention - Immersion des plates-formes par des navires, 1989
 
-109.
+109\.
 
 Formulaires de notification relatifs aux rejets de nutriments, 1989
 
-110.
+110\.
 
 Introduction aux lignes directrices du Programme conjoint, 1989
 
-111.
+111\.
 
 Questionnaire pour la notification à la Commission de Paris des rejets de substances prioritaires par le biais des
 produits chimiques utilisés en mer, 1990
 
-112.
+112\.
 
 Formulaire de notification destiné à l’évaluation des données des retombées atmosphériques dans la zone de la
 Convention de Paris, 1990
 
-113.
+113\.
 
 Lignes directrices pour l’échantillonnage et l’analyse des métaux en traces dans l’eau de mer dans le cadre du Programme conjoint de contrôle et de surveillance continus, 1990
 
-114.
+114\.
 
 Subject Specific Compilation of Documents of the Joint Monitoring Group, 1990(1)
 
-115.
+115\.
 
 Procédures d’échantillonnage et méthodes d’analyse, 1990
 
-116.
+116\.
 
 Plan directeur de surveillance de la mer du Nord, 1990
 
-117.
+117\.
 
 Formulaires de notification sur les apports atmosphériques de polluants aux eaux de la Convention, 1990
 
-118.
+118\.
 
 Lignes directrices pour la gestion des déblais de dragage, 1991, 1992 et 1993
 
-119.
+119\.
 
 Récapitulatif des normes et des valeurs indicatives des polluants du poisson, des crustacés et des mollusques en vue
 de l’évaluation des dangers éventuels pour la santé de l’homme (l’objectif (a)), 1992
 
-120.
+120\.
 
 Lignes directrices provisoires sur les zones spécialement préoccupantes, 1993
 
-121.
+121\.
 
 Rapports annuels sur les apports directs et fluviaux vers les eaux de la Convention, 1993
 
-122.
+122\.
 
 Principes de l’étude exhaustive des apports fluviaux, 1993
 
-123.
+123\.
 
 Formats de notification, 1994
 
-124.
+124\.
 
 Lignes directrices sur l’utilisation des sédiments pour la surveillance marine dans le cadre des programmes des Commissions d’Oslo et de Paris, 1994
 
-125.
+125\.
 
 Officiers des organes subsidiaires des Commissions d’Oslo et de Paris chargées de l’évaluation et de la surveillance
 continue du milieu marin, 1994
 
-126.
+126\.
 
 Lignes directrices sur l’échantillonnage et l’analyse des organismes et la notification des résultats dans le contexte du
 Programme conjoint de surveillance, 1994
 
-127.
+127\.
 
 Lignes directrices supplémentaires provisoires pour la notification des données de la surveillance des polluants
 contaminants collationnées dans le contexte du Programme conjoint de surveillance continue, 1994
@@ -17877,7 +17877,7 @@ L’exception, telle que visée à l’alinéa (b) du paragraphe 3 de l’articl
 d’immerger des substances faiblement et moyennement radioactives, figurant à l’alinéa (a) dudit paragraphe cesse d’avoir effet.
 
 (1) Note du Secrétariat: Conformément à l’article 13 de la Convention OSPAR 1992, cette Décision entrera en vigueur et deviendra obligatoire le 9 février
-1999.
+1999\.
 
 \- 231 -
 
@@ -17898,7 +17898,7 @@ installations offshore désaffectées,
 LES PARTIES CONTRACTANTES À LA CONVENTION POUR LA PROTECTION DU MILIEU MARIN DE L’ATLANTIQUE
 DU NORD-EST DÉCIDENT QUE
 Définitions
-\1. Aux fins de la présente décision,
+1\. Aux fins de la présente décision,
 l’expression «installation en béton» désigne une installation offshore désaffectée, intégralement ou essentiellement construite
 en béton;
 l’expression «installation offshore désaffectée» désigne une installation offshore qui n’est utilisée
@@ -17939,9 +17939,9 @@ du ciment dans des conditions analogues à celles des empiètements, telles que 
 (iii) qui sont si étroitement solidaires des parties visées aux alinéas (i) et (ii) de la présente définition que le fait de les en
 séparer pose de gros problèmes techniques.
 Programmes et mesures
-\2. L’immersion, et le maintien en place, en totalité ou en partie, des installations offshore désaffectées sont interdits dans la
+2\. L’immersion, et le maintien en place, en totalité ou en partie, des installations offshore désaffectées sont interdits dans la
 zone maritime.
-\3. Par dérogation aux dispositions du paragraphe 2, si l’autorité compétente de la Partie contractante concernée est convaincue, après qu’une évaluation conforme aux dispositions de l’annexe 2 ait été réalisée, qu’il existe des raisons sérieuses pour
+3\. Par dérogation aux dispositions du paragraphe 2, si l’autorité compétente de la Partie contractante concernée est convaincue, après qu’une évaluation conforme aux dispositions de l’annexe 2 ait été réalisée, qu’il existe des raisons sérieuses pour
 lesquelles une autre option d’élimination, telle que visée ci-après, est préférable à la réutilisation, au recyclage ou à l’élimination
 finale à terre, elle peut accorder un permis pour:
 a.
@@ -17962,22 +17962,22 @@ c.
 l’immersion ou le maintien, en totalité ou en partie, de toute autre installation offshore désaffectée, lorsque des conditions exceptionnelles et imprévues, résultant de dégâts structurels ou d’une détérioration ou d’une quelconque autre
 cause présentant des difficultés équivalentes peuvent être démontrées.
 
-\4. Avant de prendre la décision d’accorder ou non un permis en vertu des dispositions du paragraphe 3, la Partie contractante concernée consulte les autres Parties contractantes dans les conditions stipulées en annexe 3.
-\5. Tout permis d’immersion ou d’abandon permanent en place, en totalité ou en partie, d’une installation offshore désaffectée, sera conforme aux dispositions de l’annexe 4.
-\6. Le 31 décembre 1999 au plus tard, puis tous les deux ans, les Parties contractantes communiqueront à la Commission
+4\. Avant de prendre la décision d’accorder ou non un permis en vertu des dispositions du paragraphe 3, la Partie contractante concernée consulte les autres Parties contractantes dans les conditions stipulées en annexe 3.
+5\. Tout permis d’immersion ou d’abandon permanent en place, en totalité ou en partie, d’une installation offshore désaffectée, sera conforme aux dispositions de l’annexe 4.
+6\. Le 31 décembre 1999 au plus tard, puis tous les deux ans, les Parties contractantes communiqueront à la Commission
 les renseignements pertinents sur les installations offshore dépendant de leur juridiction y compris, en tant que de besoin, des
 renseignements sur leur élimination, de telle sorte que lesdits renseignements puissent figurer dans l’inventaire devant être
 tenu par la Commission.
-\7. À la lumière de l’expérience acquise dans le déclassement des installations offshore, et notamment des installations classées dans les catégories inscrites sur la liste de l’annexe 1, ainsi qu‘à la lumière des recherches pertinentes et de l’échange
+7\. À la lumière de l’expérience acquise dans le déclassement des installations offshore, et notamment des installations classées dans les catégories inscrites sur la liste de l’annexe 1, ainsi qu‘à la lumière des recherches pertinentes et de l’échange
 des informations, la Commission s’efforcera de faire soutenir à l’unanimité les amendements à ladite annexe, ceci de manière
 à réduire les perspectives de dérogations éventuelles visées au paragraphe 3. La préparation de ces amendements sera considérée par la Commission lors de sa réunion de 2003 ainsi qu’à intervalles réguliers après coup.
 Entrée en vigueur
-\8. La présente décision entrera en vigueur le 9 février 1999; elle annulera et remplacera alors la décision 95/l de la Commission d’Oslo sur l’élimination des installations en offshore.
+8\. La présente décision entrera en vigueur le 9 février 1999; elle annulera et remplacera alors la décision 95/l de la Commission d’Oslo sur l’élimination des installations en offshore.
 Rapports de mise en œuvre
-\9. Si l’une quelconque des Parties contractantes décide d’accorder un permis d’immersion ou d’abandon sur place, en
+9\. Si l’une quelconque des Parties contractantes décide d’accorder un permis d’immersion ou d’abandon sur place, en
 totalité ou en partie, dans la zone maritime, d’une installation offshore désaffectée, elle remet à la Commission, au moment de
 l’octroi du permis, un rapport répondant aux dispositions du paragraphe 3 de l’annexe 4.
-\10. Si une installation offshore désaffectée est immergée ou abandonnée en totalité ou en partie en place dans la zone
+10\. Si une installation offshore désaffectée est immergée ou abandonnée en totalité ou en partie en place dans la zone
 maritime, la Partie contractante concernée remet à la Commission, dans un délai de six mois après l’élimination, un rapport
 conforme aux dispositions du paragraphe 4 de l’annexe 4.
 
@@ -18008,11 +18008,11 @@ EAUX – 4. Conventions internationales
 ANNEXE 2
 Schéma d’évaluation des propositions d’élimination en mer d’installations offshore désaffectées
 Dispositions générales
-\1. Le présent schéma s’applique à l‘évaluation, par l‘autorité compétente de la Partie contractante concernée, des propositions pour octroi de permis en vertu des dispositions du paragraphe 3 de la présente décision.
-\2. L’évaluation devra envisager les impacts potentiels sur l’environnement et sur les autres utilisations légitimes de la mer.
+1\. Le présent schéma s’applique à l‘évaluation, par l‘autorité compétente de la Partie contractante concernée, des propositions pour octroi de permis en vertu des dispositions du paragraphe 3 de la présente décision.
+2\. L’évaluation devra envisager les impacts potentiels sur l’environnement et sur les autres utilisations légitimes de la mer.
 Elle devra aussi considérer pour le déclassement de l’installation la disponibilité pratique des options de recyclage, de réutilisation ainsi que d’élimination.
 Renseignements requis
-\3. L’évaluation d’une proposition visant à éliminer en mer une installation offshore désaffectée sera fondée sur les éléments
+3\. L’évaluation d’une proposition visant à éliminer en mer une installation offshore désaffectée sera fondée sur les éléments
 d’information suivants:
 a.
 
@@ -18030,12 +18030,12 @@ c.
 
 méthode proposée pour l’élimination et calendrier prévu à cet effet.
 
-\4. La description de l’installation, du lieu éventuel ainsi que de la méthode correspondante doit être suffisamment complète
+4\. La description de l’installation, du lieu éventuel ainsi que de la méthode correspondante doit être suffisamment complète
 pour que l’on puisse évaluer les impacts de l’élimination envisagée, et de les comparer aux impacts des autres options d’élimination.
 Évaluation de l’élimination
-\5. L’évaluation du projet d’élimination en mer d’une installation offshore désaffectée se fera dans les grandes lignes dans les
+5\. L’évaluation du projet d’élimination en mer d’une installation offshore désaffectée se fera dans les grandes lignes dans les
 conditions ci-après indiquées.
-\6. L’évaluation ne prendra pas seulement en compte le projet d’élimination; elle devra également couvrir la disponibilité pratique et les impacts potentiels des autres options. Les options à considérer seront notamment les suivantes:
+6\. L’évaluation ne prendra pas seulement en compte le projet d’élimination; elle devra également couvrir la disponibilité pratique et les impacts potentiels des autres options. Les options à considérer seront notamment les suivantes:
 a.
 
 réutilisation de toute l’installation ou d’une partie de celle-ci;
@@ -18053,11 +18053,11 @@ d.
 les autres options d’élimination en mer.
 
 Questions à prendre en considération dans l’évaluation des options d’élimination
-\7. Les informations recueillies aux fins de l’évaluation devront être suffisamment complètes pour que l’on puisse porter un
+7\. Les informations recueillies aux fins de l’évaluation devront être suffisamment complètes pour que l’on puisse porter un
 jugement bien fondé sur la faisabilité de chacune des options d’élimination, et autoriser une étude comparative qui fait autorité.
 Notamment, les résultats de l’étude de l’élimination en mer devront prouver comment les critères fixés au paragraphe 3 de la
 présente décision sont satisfaits.
-\8. L’évaluation des options d’élimination tiendra compte, sans pour autant y être limitée:
+8\. L’évaluation des options d’élimination tiendra compte, sans pour autant y être limitée:
 a.
 
 des aspects techniques et ingénierie de l’option d’élimination, y compris la réutilisation et le recyclage, ainsi que les
@@ -18101,18 +18101,18 @@ des aspects économiques.
 \- 234 -
 
 EAUX – 4. Conventions internationales
-\9. Dans l’appréciation de la consommation d’énergie et de matières premières, ainsi que des rejets ou des émissions dans
+9\. Dans l’appréciation de la consommation d’énergie et de matières premières, ainsi que des rejets ou des émissions dans
 les compartiments de l’environnement (air, sol ou eau) dus aux opérations de déclassement, à la réutilisation, au recyclage ou
 à l’élimination finale de l’installation, les techniques élaborées aux fins de l’évaluation du cycle de vie dans l’environnement, sont
 susceptibles d’être utiles, et dans l’affimative, il convient de les appliquer. Ce faisant, les principes convenus au plan international pour les évaluations du cycle de vie dans l’environnement seront observés.
-\10. L’évaluation tiendra compte des incertitudes intrinsèques de chacune des options et sera fondée sur des hypothèses
+10\. L’évaluation tiendra compte des incertitudes intrinsèques de chacune des options et sera fondée sur des hypothèses
 d’impact prudentes. Il sera en outre tenu compte des effets cumulatifs de l’élimination des installations dans la zone maritime
 ainsi que des pressions d’ores et déjà exercées sur le milieu marin par les autres activités de l’homme.
-\11. L’évaluation prendra également en considération les mesures de gestion susceptibles d’être nécessaires pour prévenir
+11\. L’évaluation prendra également en considération les mesures de gestion susceptibles d’être nécessaires pour prévenir
 ou atténuer les conséquences adverses de l’élimination en mer, et précisera la nature ainsi que l’échelle de la surveillance qui
 pourraient s’avérer nécessaires après l’élimination en mer.
 Évaluation générale
-\12. Les résultats de l’étude devront être tels qu’ils permettront à l’autorité compétente de la Partie contractante concernée de
+12\. Les résultats de l’étude devront être tels qu’ils permettront à l’autorité compétente de la Partie contractante concernée de
 tirer des conclusions fondées quant à l’octroi ou au refus du permis en vertu du paragraphe 3 de la présente décision et, dans
 la mesure où l’octroi du permis est considéré comme justifié, de décider des conditions dont il doit être assorti. Ces conclusions
 seront relevées dans un résumé de l’étude, lequel contiendra aussi une analyse concise des faits à l’origine des conclusions, et
@@ -18126,7 +18126,7 @@ indiquée, de même que tous les éléments d’information sur le contrôle qua
 EAUX – 4. Conventions internationales
 ANNEXE 3
 Procédure de consultation
-\1. Une Partie contractante concernée qui envisage d’accorder un permis en vertu du paragraphe 3 de la présente décision
+1\. Une Partie contractante concernée qui envisage d’accorder un permis en vertu du paragraphe 3 de la présente décision
 doit amorcer la présente procédure de consultation au moins 32 semaines avant toute date qui serait prévue pour la prise d’une
 décision sur cette question, ceci en faisant parvenir au Secrétaire exécutif une notification contenant:
 a.
@@ -18143,33 +18143,33 @@ c.
 tous les autres éléments d’information nécessaires aux autres Parties contractantes pour qu’elles puissent considérer
 les impacts et la faisabilité pratique des options de réutilisation, de recyclage et d’élimination.
 
-\2. Le Secrétaire exécutif expédie immédiatement à toutes les Parties contractantes des copies de la notification.
-\3. Si une Partie contractante souhaite faire des objections ou des commentaires sur l’octroi du permis, elle les communique
+2\. Le Secrétaire exécutif expédie immédiatement à toutes les Parties contractantes des copies de la notification.
+3\. Si une Partie contractante souhaite faire des objections ou des commentaires sur l’octroi du permis, elle les communique
 à la Partie contractante qui envisage d’accorder le permis, ceci au plus tard à la fin de la 16ème semaine à compter de la date à
 laquelle le Secrétaire exécutif a diffusé la notification auprès des Parties contractantes, et remet un exemplaire du texte de son
 objection ou de ses commentaires au Secrétaire exécutif. Dans toute objection, la Partie contractante qui objecte explique pourquoi elle considère que l’argumentation avancée ne satisfait pas aux critères du paragraphe 3 de la présente décision. Cette
 explication doit être étayée par des arguments scientifiques et techniques. Le Secrétaire exécutif diffuse le texte de l’objection
 ou des commentaires auprès des autres Parties contractantes.
-\4. Les Parties contractantes s’efforcent de régler, en se consultant réciproquement, les objections éventuellement faites
+4\. Les Parties contractantes s’efforcent de régler, en se consultant réciproquement, les objections éventuellement faites
 conformément au paragraphe précédent. Dès que possible après ces consultations, et en tout état de cause au plus tard 22
 semaines à compter de la date à laquelle le Secrétaire exécutif a diffusé la notification auprès des Parties contractantes, la
 
 Partie contractante qui propose d’accorder le permis avise le Secrétaire exécutif du résultat des consultations. Le Secrétaire
 exécutif communique sans délai à toutes les autres Parties contractantes l’information ainsi communiquée.
-\5. Si ces consultations n’aboutissent pas au règlement du problème, la Partie contractante qui objecte peut, avec le soutien
+5\. Si ces consultations n’aboutissent pas au règlement du problème, la Partie contractante qui objecte peut, avec le soutien
 d’au moins deux autres Parties contractantes, demander au Secrétaire exécutif d’organiser une réunion consultative spéciale
 afin de débattre des objections soulevées. Cette demande doit être faite dans un délai maximum de 24 semaines à compter de
 la date à laquelle le Secrétaire exécutif a diffusé la notification auprès des Parties contractantes.
-\6. Le Secrétaire exécutif organise ladite réunion consultative spéciale, laquelle se tient dans un délai de 6 semaines à compter de la demande ayant été faite à cet effet, ceci à moins que la Partie contractante qui envisage d’accorder le permis n’accepte
+6\. Le Secrétaire exécutif organise ladite réunion consultative spéciale, laquelle se tient dans un délai de 6 semaines à compter de la demande ayant été faite à cet effet, ceci à moins que la Partie contractante qui envisage d’accorder le permis n’accepte
 une prorogation de ce délai. La réunion est ouverte à toutes les Parties contractantes, à l’exploitant de l’installation concernée et
 à tous les observateurs auprès de la Commission. La réunion est axée sur les informations communiquées conformément aux
 paragraphes 1 et 3 ainsi qu’au cours des consultations évoquées au paragraphe 4. Le président de la réunion est le président de
 la Commission ou un mandataire nommé par celui-ci. Tout problème posé par les dispositions relatives à la tenue de la réunion
 est réglé par le président de la réunion.
-\7. Le président de la réunion dresse un rapport faisant état des points de vue exprimés à la réunion ainsi que des conclusions
+7\. Le président de la réunion dresse un rapport faisant état des points de vue exprimés à la réunion ainsi que des conclusions
 éventuellement tirées. Ledit rapport est expédié à toutes les Parties contractantes dans un délai de deux semaines après la
 réunion.
-\8. L’autorité compétente de la Partie contractante concernée peut prendre la décision d’octroyer un permis à tout moment
+8\. L’autorité compétente de la Partie contractante concernée peut prendre la décision d’octroyer un permis à tout moment
 après:
 a.
 
@@ -18190,10 +18190,10 @@ d.
 
 avoir reçu le rapport de la réunion consultative spéciale dressé par le président de ladite réunion.
 
-\9. Avant de prendre une décision sur l’octroi de tout permis en vertu du paragraphe 3 de la présente décision, l’autorité
+9\. Avant de prendre une décision sur l’octroi de tout permis en vertu du paragraphe 3 de la présente décision, l’autorité
 compétente de la Partie contractante concernée considère tant les points de vue relevés dans le rapport de la réunion consultative spéciale ainsi que de toutes les conclusions qui y figurent, que les points de vue éventuellement exprimés par les Parties
 contractantes au cours de la présente procédure.
-\10. Des exemplaires de tous les documents devant être expédiés à toutes les Parties contractantes dans les conditions prévues par la présente procédure sont aussi expédiés aux observateurs auprès de la Commission qui en auront fait la demande
+10\. Des exemplaires de tous les documents devant être expédiés à toutes les Parties contractantes dans les conditions prévues par la présente procédure sont aussi expédiés aux observateurs auprès de la Commission qui en auront fait la demande
 systématique au Secrétaire exécutif.
 
 \- 236 -
@@ -18201,10 +18201,10 @@ systématique au Secrétaire exécutif.
 EAUX – 4. Conventions internationales
 ANNEXE 4
 Conditions du permis et rapports
-\1. Dans tout permis octroyé en vertu du paragraphe 3 de la présente décision il est fait état des conditions dans lesquelles
+1\. Dans tout permis octroyé en vertu du paragraphe 3 de la présente décision il est fait état des conditions dans lesquelles
 l’élimination en mer peut avoir lieu, le permis constituant par ailleurs un schéma permettant d’apprécier la conformité des
 mesures prises et de s’assurer que les conditions sont respectées.
-\2. Notamment, le permis:
+2\. Notamment, le permis:
 a.
 
 spécifiera les méthodes à adopter pour l’élimination de l’installation;
@@ -18243,7 +18243,7 @@ indiquera à qui appartiennent les parties de l’installation qui resteront dan
 lesdites parties de l’installation, ainsi que les modalités par lesquelles ces recours peuvent être exercés à l’encontre de
 la personne responsable.
 
-\3. Dans tout rapport fait conformément aux dispositions du paragraphe 9 de la présente décision, seront indiqués:
+3\. Dans tout rapport fait conformément aux dispositions du paragraphe 9 de la présente décision, seront indiqués:
 a.
 
 les motifs de la décision d’accorder un permis en vertu du paragraphe 3;
@@ -18259,7 +18259,7 @@ c.
 
 le permis accordé.
 
-\4. Dans tout rapport dressé en vertu du paragraphe 10 de la présente décision, il sera fait état:
+4\. Dans tout rapport dressé en vertu du paragraphe 10 de la présente décision, il sera fait état:
 a.
 
 des diverses étapes de l’opération d’élimination en mer;
@@ -18295,14 +18295,14 @@ les lois correspondantes des autres Parties contractantes;
 Reconnaissant que l’industrie (du chlorure de vinyle est susceptible de libérer des quantités significatives d’organohalogénés dans l’environnement;
 Reconnaissant que les émissions d’hydrocarbures chlorés issus de la fabrication du CVM peuvent être minimisées en mettant en œuvre les BAT;
 Les Parties contractantes à la Convention pour la protection du milieu marin de l’Atlantique du Nord-Est décident:
-1.
+1\.
 
 Définitions
 Aux fins de la présente décision:
 
-2.
+2\.
 
-3.
+3\.
 
 «Hydrocarbures chlorés»
 
@@ -18555,7 +18555,7 @@ Hydrocarbures chlorés
 à quantifier par des méthodes appropriées (p.ex., par une technique de dosage des
 gaz en traces)
 
-4.
+4\.
 
 Entrée en vigueur
 4.1
@@ -18567,7 +18567,7 @@ b. aux installations existantes à partir du Ier janvier 2006.
 
 4.2
 
-5.
+5\.
 
 En cas de modification technique d’une installation existante de CVM, les autorités compétentes décideront si
 dans la présente décision les dispositions pour les installations existantes continueront de s’appliquer à l’installation ainsi modifiée.
@@ -18680,14 +18680,14 @@ dans l’environnement;
 Reconnaissant que les émissions d’hydrocarbures chlorés issus de la fabrication du s-PVC peuvent être minimisées en
 mettant en œuvre les BAT et les BEP;
 Les Parties contractantes à la Convention pour la protection du milieu marin de l’Atlantique du Nord-Est décident:
-1.
+1\.
 
 Définitions
 Aux fins de la présente décision:
 
-2.
+2\.
 
-3.
+3\.
 
 «Installation existante»
 
@@ -18888,14 +18888,14 @@ Solides en suspension
 
 à quantifier par des méthodes appropriées (p. ex., par la technique des gaz en traces)
 
-4.
+4\.
 
 Entrée en vigueur
 4.1
 
 4.2
 
-5.
+5\.
 
 La présente décision entre en vigueur le 9 février 1999 dans le cas des nouvelles installations, et le 1er janvier
 2003 dans celui des installations existantes. Les programmes et mesures de cette Décision seront appliqués:
@@ -19162,13 +19162,13 @@ perçues. L’institution nationale ou l’autorité compétente contrôle les c
 l’instance internationale de péréquation et de coordination et doit notamment verser aux dates fixées les montants provisoires
 et définitifs déterminés par cette instance et dus au titre de la péréquation financière à d’autres institutions nationales.
 Art. 3.03. Perception de la rétribution d’élimination
-\1. La rétribution d’élimination s’élève à 7,5 euros (augmentée de la TVA) pour 1000 l de gazole délivré. Le calcul du montant
+1\. La rétribution d’élimination s’élève à 7,5 euros (augmentée de la TVA) pour 1000 l de gazole délivré. Le calcul du montant
 doit être basé sur le volume du gazole correspondant au volume à 15 °C.
-\2. Le débiteur de la rétribution d’élimination est l’exploitant du bateau.
-\3. La rétribution d’élimination est à acquitter lors de l’avitaillement. Le montant de la transaction effectuée au titre de la rétribution d’élimination doit être proportionnel à la quantité de gazole délivrée.
-\4. Le paiement de la rétribution d’élimination est à effectuer au moyen du SPE-CDNI. Les institutions nationales exploitent
+2\. Le débiteur de la rétribution d’élimination est l’exploitant du bateau.
+3\. La rétribution d’élimination est à acquitter lors de l’avitaillement. Le montant de la transaction effectuée au titre de la rétribution d’élimination doit être proportionnel à la quantité de gazole délivrée.
+4\. Le paiement de la rétribution d’élimination est à effectuer au moyen du SPE-CDNI. Les institutions nationales exploitent
 le SPE-CDNI.
-\5. La procédure pour s’acquitter de la rétribution d’élimination à l’aide du SPE-CDNI est fondée sur le principe du versement
+5\. La procédure pour s’acquitter de la rétribution d’élimination à l’aide du SPE-CDNI est fondée sur le principe du versement
 d’un montant adéquat par l’exploitant du bateau à une institution nationale, sur laquelle les rétributions d’éliminations dues
 ultérieurement sont prélevées. La procédure comporte les étapes suivantes:
 a)
@@ -19190,7 +19190,7 @@ d)
 l’acquittement de la rétribution d’élimination, imputée sur le ECO-compte concerné au moyen de l’ECO-carte et le traitement de la transaction qui est effectuée par la station d’avitaillement à l’aide d’un terminal électronique mobile. A cet
 effet, le conducteur remet l’ECO-carte à la station d’avitaillement au moment de l’avitaillement.
 
-\6. Par dérogation au paragraphe 4, la rétribution d’élimination est acquittée par l’application d’une procédure écrite dans les
+6\. Par dérogation au paragraphe 4, la rétribution d’élimination est acquittée par l’application d’une procédure écrite dans les
 cas particuliers suivants:
 a)
 
@@ -19206,59 +19206,59 @@ le solde de l’ECO-compte concerné est insuffisant.
 \- 250 -
 
 EAUX – 4. Conventions internationales
-\7. Dans les cas visés par le paragraphe 6, la station d’avitaillement communique dans un délai ne dépassant pas sept jours
+7\. Dans les cas visés par le paragraphe 6, la station d’avitaillement communique dans un délai ne dépassant pas sept jours
 civils à l’institution nationale les données nécessaires pour acquitter la rétribution d’élimination relative à la livraison de gazole
 concernée. L’institut national prend les dispositions nécessaires pour la perception des rétributions dues. Le cas échéant, elle
 peut remettre le dossier à une des autres institutions nationales.
 (Arrêté grand-ducal du 13 octobre 2015)
 «8. Pour les transactions relevant du paragraphe 6, lettres b) et c), des frais administratifs doivent être acquittés par l’exploitant du bâtiment à l’institution nationale créancière; le montant de ces frais est fixé d’une manière uniforme pour toutes les
 Parties contractantes par l’Instance internationale de péréquation et de coordination.»
-\9. Dans les cas individuels où selon l’institution nationale l’application des procédures prévues aux paragraphes 4 et 5 pour
+9\. Dans les cas individuels où selon l’institution nationale l’application des procédures prévues aux paragraphes 4 et 5 pour
 s’acquitter de la rétribution d’élimination n’est pas adaptée, celle-ci est habilitée à mettre en place des arrangements individuels relatifs à la livraison du gazole et au paiement de la rétribution d’élimination. Ces arrangements, qui doivent être notifiés
 à l’instance internationale de péréquation et de coordination (IIPC), doivent être conformes aux autres dispositions du présent
 chapitre.
-\10. Les modalités de mise en œuvre des procédures mentionnées au présent article sont à déterminer sur le plan national
+10\. Les modalités de mise en œuvre des procédures mentionnées au présent article sont à déterminer sur le plan national
 après coordination au sein de l’instance internationale de péréquation et de coordination.
 Art. 3.04. Contrôle de la perception de la rétribution d’élimination et des coûts de réception et d’élimination
-\1. Un justificatif d’approvisionnement pour le gazole doit être établi par la station d’avitaillement pour chaque avitaillement
+1\. Un justificatif d’approvisionnement pour le gazole doit être établi par la station d’avitaillement pour chaque avitaillement
 en gazole. Il doit comporter au moins les indications suivantes: nom du bâtiment, numéro européen unique d’identification des
 bateaux, ou toute autre indication permettant l’identification du bâtiment, nom de l’exploitant du bateau ou du conducteur, quantité de gazole avitaillée/remise (en litres correspondant au volume à 15 °C arrondie au litre le plus proche), lieu et date, signature
 du conducteur et de la station d’avitaillement.
-\2. Le reçu relatif à la transaction de la rétribution d’élimination effectuée par le biais du SPE-CDNI doit être joint au justificatif
+2\. Le reçu relatif à la transaction de la rétribution d’élimination effectuée par le biais du SPE-CDNI doit être joint au justificatif
 d’approvisionnement de gazole. Une copie du justificatif d’approvisionnement et du reçu est remis au conducteur qui doit le
 conserver à bord pendant douze mois au moins. Une copie du justificatif d’approvisionnement et du reçu sont conservées par
 la station d’avitaillement pendant douze mois au moins.
-\3. Dans le cas de l’application de la procédure écrite visée par l’article 3.03, paragraphe 6, la station d’avitaillement indique
+3\. Dans le cas de l’application de la procédure écrite visée par l’article 3.03, paragraphe 6, la station d’avitaillement indique
 sur le justificatif d’approvisionnement que l’exploitant du bateau ne s’est pas acquitté de la rétribution d’élimination.
-\4. La concordance entre les quantités de gazole avitaillées par les bâtiments et le montant des rétributions d’élimination
+4\. La concordance entre les quantités de gazole avitaillées par les bâtiments et le montant des rétributions d’élimination
 acquittées est contrôlée par l’institution nationale ou l’autorité compétente sur la base des justificatifs d’approvisionnement de
 gazole qui doivent être présentés par les stations d’avitaillement.
-\5. L’autorité compétente peut contrôler à bord des bâtiments le paiement de la rétribution d’élimination ainsi que les quantités
+5\. L’autorité compétente peut contrôler à bord des bâtiments le paiement de la rétribution d’élimination ainsi que les quantités
 éliminées de déchets huileux et graisseux survenant lors de l’exploitation du bâtiment, notamment en comparant les voyages
 effectués inscrits dans les documents de bord appropriés avec les indications figurant dans les justificatifs d’approvisionnement
 de gazole.
-\6. L’institution nationale ou l’autorité compétente peut contrôler auprès des stations de réception les données relatives aux
+6\. L’institution nationale ou l’autorité compétente peut contrôler auprès des stations de réception les données relatives aux
 quantités éliminées ainsi que les coûts d’élimination sur la base des documents appropriés.
-\7. L’institution nationale ou l’autorité compétente est habilitée à contrôler les données relatives aux quantités de gazole délivrées aux bateaux soumis au paiement de la rétribution d’élimination.
-\8. Les modalités des procédures mentionnées au présent article sont à déterminer sur le plan national après coordination au
+7\. L’institution nationale ou l’autorité compétente est habilitée à contrôler les données relatives aux quantités de gazole délivrées aux bateaux soumis au paiement de la rétribution d’élimination.
+8\. Les modalités des procédures mentionnées au présent article sont à déterminer sur le plan national après coordination au
 sein de l’instance internationale de péréquation et de coordination.
 
 Chapitre IV
 Péréquation financière internationale
 Art. 4.01. Instance internationale de péréquation et de coordination
-\1. L’instance internationale de péréquation et de coordination se réunit une fois par an au dernier trimestre afin d’arrêter la
+1\. L’instance internationale de péréquation et de coordination se réunit une fois par an au dernier trimestre afin d’arrêter la
 péréquation financière de l’année précédente et de proposer, le cas échéant, à la Conférence des Parties contractantes une
 modification du montant de la rétribution d’élimination et l’adaptation éventuellement nécessaire du réseau des stations de
 réception en place compte tenu des besoins de la navigation et de l’efficience de l’élimination. Elle peut se réunir à tout moment
 sur proposition du secrétariat ou lorsque les représentants de deux institutions nationales le demandent.
-\2. L’instance internationale de péréquation et de coordination fixe dans son règlement intérieur les procédures et les modalités uniformes de mise en œuvre des péréquations provisoire et annuelle.
-\3. Toutes les opérations financières relatives à la rétribution d’élimination sont exprimées en euros.
+2\. L’instance internationale de péréquation et de coordination fixe dans son règlement intérieur les procédures et les modalités uniformes de mise en œuvre des péréquations provisoire et annuelle.
+3\. Toutes les opérations financières relatives à la rétribution d’élimination sont exprimées en euros.
 
 \- 251 -
 
 EAUX – 4. Conventions internationales
 Art. 4.02. Péréquation financière provisoire
-\1. Les institutions nationales communiquent au secrétariat de l’instance internationale de péréquation et de coordination
+1\. Les institutions nationales communiquent au secrétariat de l’instance internationale de péréquation et de coordination
 trimestriellement, aux 1er février, 1er mai, 1er août et 1er novembre:
 a)
 
@@ -19281,15 +19281,15 @@ e)
 les conséquences financières des mesures visées à l’article 6, paragraphe 1, cinquième phrase de la Convention.
 
 Les modalités de cette procédure sont arrêtées par l’instance internationale de péréquation et de coordination.
-\2. Pour chaque trimestre écoulé, sur la base des chiffres communiqués conformément au paragraphe 1 ci-dessus et en
+2\. Pour chaque trimestre écoulé, sur la base des chiffres communiqués conformément au paragraphe 1 ci-dessus et en
 appliquant la procédure de péréquation prévue à l’article 4.04 ci-après, l’instance internationale de péréquation et de coordination calcule les montants provisoires de la péréquation financière trimestrielle et les transmet aux institutions nationales dans
 un délai de deux semaines après réception de l’ensemble des communications prévues au paragraphe 1.
-\3. Les institutions nationales débitrices au titre de la péréquation financière trimestrielle sont tenues d’effectuer les paiements dus aux institutions nationales créditrices, dans un délai de deux semaines après réception de l’ordre de paiement.
+3\. Les institutions nationales débitrices au titre de la péréquation financière trimestrielle sont tenues d’effectuer les paiements dus aux institutions nationales créditrices, dans un délai de deux semaines après réception de l’ordre de paiement.
 Art. 4.03. Péréquation financière annuelle
-\1. Les institutions nationales présentent au secrétariat de l’instance internationale de péréquation et de coordination leur
+1\. Les institutions nationales présentent au secrétariat de l’instance internationale de péréquation et de coordination leur
 bilan annuel pour l’exercice écoulé, au plus tard le 15 octobre de l’année en cours. Au cours de sa réunion ordinaire, l’instance
 internationale de péréquation et de coordination fixe la péréquation financière de l’année précédente.
-\2. Les institutions nationales sont tenues d’effectuer les paiements dus au titre de la péréquation financière définitive pour
+2\. Les institutions nationales sont tenues d’effectuer les paiements dus au titre de la péréquation financière définitive pour
 l’année précédente conformément à l’article 4.02, paragraphe 3 ci-dessus.»
 
 Partie B
@@ -19730,7 +19730,7 @@ EAUX – 4. Conventions internationales
 
 Page 2 et suivantes
 
-1.
+1\.
 
 Déchets huileux et graisseux survenant lors de l’exploitation du bâtiment acceptés :
 . . . . . . . . . . . . . . . . . . . . . l.
@@ -19766,7 +19766,7 @@ Récipients
 
 .............................. pièces
 
-\2. Notes :
+2\. Notes :
 ...................... .
 
 2.1 Déchets refusés
@@ -19911,30 +19911,30 @@ Nom du bateau
 
 :...........................................
 
-\2. Numéro officiel
+2\. Numéro officiel
 ou numéro de jaugeage
 
 :...........................................
 
-\3. Type dc bateau-citerne
+3\. Type dc bateau-citerne
 
 :........................................
 
-1.
+1\.
 
-\4. Numéro du certificat d’agrément : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-\5. Date de l’essai
+4\. Numéro du certificat d’agrément : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5\. Date de l’essai
 
 : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-\6. Lieu de l’essai
+6\. Lieu de l’essai
 
 : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 :.....................................
 
-\7. Nombre de citernes à cargaison
+7\. Nombre de citernes à cargaison
 
-\8. Les quantités restantes suivantes ont été mesurées à l’essai
+8\. Les quantités restantes suivantes ont été mesurées à l’essai
 Citerne à cargaison 1 :.............. litres
 
 Citerne à cargaison 2 : ............. litres
@@ -19968,11 +19968,11 @@ Système de tuyauterie 2 :
 
 .................. litres
 
-9.
+9\.
 
 Pendant l’essai la contre-pression au dispositif de remise était de .............. kPa.
 
-10.
+10\.
 
 Les citernes à cargaison sont déchargées dans l’ordre suivant :
 citerne ......
@@ -19999,12 +19999,12 @@ citerne ..... .
 
 citerne ..... .
 
-11.
+11\.
 
 Pendant l’essai l’assiette du bateau était de . . . . . . . . . . m et la bande du bateau était de . . . . . . . . . m sur
 tribord / bâbord.
 
-12.
+12\.
 
 La durée totale de l’opération d’assèchement était de . . . . . . . . . . h
 Cachet
@@ -20030,23 +20030,23 @@ de cales ou de citernes qui correspondent aux standards de déchargement défini
 Partie B, les prescriptions relatives au dépôt et à la réception applicables sont précisées dans le tableau ci-après en fonction
 des marchandises chargées et des standards de déchargement requis pour les cales et citernes. Les colonnes du tableau ont
 la signification suivante:
-1.
+1\.
 
 Colonne 1: Indication du numéro de la marchandise selon la nomenclature harmonisée des marchandises pour les
 statistiques des transports (NST).
 
-2.
+2\.
 
 Colonne 2: Catégorie de marchandises. Description selon la NST.
 
-3.
+3\.
 
 Colonne 3: Déversement des eaux de lavage, de précipitation et de ballastage dans la voie d’eau autorisé à condition
 qu’avant le lavage le standard de déchargement requis dans chaque cas ait effectivement été réalisé, à savoir
 A: état balayé ou asséché pour les cales ou citernes à cargaison
 B: état aspiré pour les cales.
 
-4.
+4\.
 
 Colonne 4: Dépôt des eaux de lavage, de précipitation et de ballastage en vue de leur déversement dans le réseau
 d’assainissement par l’intermédiaire des raccordements prévus à cet effet, à condition qu’avant le lavage le standard de
@@ -20054,13 +20054,13 @@ déchargement requis ait effectivement été réalisé, à savoir
 A: état balayé ou asséché pour les cales ou citernes à cargaison
 B: état aspiré pour les cales
 
-5.
+5\.
 
 Colonne 5: Dépôt des eaux de lavage, de précipitation et de ballastage en vue de leur traitement spécial S. La procédure
 de traitement est fonction de la nature de la cargaison, par exemple déversement sur stock à terre, expédition vers une
 station d’épuration, préparation dans une station appropriée de traitement des eaux usées.
 
-6.
+6\.
 
 Colonne 6: Références à des observations présentées dans des notes en bas de page.
 Autres observations concernant l’utilisation du tableau
@@ -20327,21 +20327,21 @@ A
 
 A
 
-1)
+1\)
 
 A
 
 A
 
-1)
+1\)
 
 A, B
 
 A, B
 
-2)
+2\)
 
-2)
+2\)
 
 Autre bois brut
 
@@ -20456,19 +20456,19 @@ A, B
 A
 
 Remarques : 1) garanti non traité
-\2) pour le bois non traité : A
+2\) pour le bois non traité : A
 pour le bois traité (imprégné) : B
 
 S
 
 S
 
-3)
+3\)
 
-13)
+13\)
 
-\3) pour les semences désinfectées : S
-\13) si végétal : A
+3\) pour les semences désinfectées : S
+13\) si végétal : A
 si animal : B
 
 N° de marchandises
@@ -20936,11 +20936,11 @@ acides gras, vernis, acides gras (oléines), acide palmitique, stéarine,
 poix de stéarine, acide stéarique
 
 Remarques : 14) si farine : B
-\16) si déchets : S
+16\) si déchets : S
 
 \- 270 -
 
-14)
+14\)
 
 14), 16)
 
@@ -20997,43 +20997,43 @@ A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 A
 
 S
 
-4)
+4\)
 
 HOUILLES ET BRIQUETTES DE HOUILLE
 
@@ -21054,7 +21054,7 @@ EAUX – 4. Conventions internationales
 
 Remarques :
 
-\4) S : Déversement sur stock à terre
+4\) S : Déversement sur stock à terre
 
 N° de marchandises
 
@@ -21196,9 +21196,9 @@ Produits pétroliers, non spécifiés
 
 Remarques :
 
-4)
+4\)
 
-\4) S : Déversement sur stock à terre
+4\) S : Déversement sur stock à terre
 
 N° de marchandises
 
@@ -21288,7 +21288,7 @@ B
 
 S
 
-5)
+5\)
 
 A, B
 
@@ -21328,7 +21328,7 @@ B
 
 S
 
-5)
+5\)
 
 B
 
@@ -21336,17 +21336,17 @@ B
 
 S
 
-5)
+5\)
 
 S
 
-4)
+4\)
 
 B
 
 S
 
-4)
+4\)
 
 MINERAIS DE FER (à l'exception des cendres de
 pyrites)
@@ -21375,25 +21375,25 @@ A
 
 S
 
-4)
+4\)
 
 Minerais plombifères et concentrés de minerais plombifères
 
 S
 
-4)
+4\)
 
 Minerais de chrome et concentrés de minerais de chrome
 
 S
 
-4)
+4\)
 
 Minerais de zinc (calamine) et concentrés de minerais de zinc
 
 S
 
-4)
+4\)
 
 Minerais de métaux non ferreux et concentrés de minerais de métaux
 non ferreux, non spécifiés, par ex. ilménite (fer titané), minerai de
@@ -21402,11 +21402,11 @@ d'étain, minerai de zirconium, sable de zirconium
 
 S
 
-4)
+4\)
 
 Remarques : 4) S : Déversement sur stock à terre
-\5) S : pour les sels métalliques solubles dans l'eau
-\15) si déchets ou ferrailles : A, sinon B
+5\) S : pour les sels métalliques solubles dans l'eau
+15\) si déchets ou ferrailles : A, sinon B
 
 N° de marchandises
 
@@ -21435,7 +21435,7 @@ Ferrailles de fer et d'acier destinées à la refonte
 
 S
 
-4)
+4\)
 
 Déchets, copeaux, ferrailles, destinés à la refonte, par ex. tôles de fer
 et tôles d'acier, largets, acier profilé
@@ -21446,7 +21446,7 @@ morceaux de fonte de fer, lingots de jet, morceaux de rails, traverses
 
 S
 
-4)
+4\)
 
 Pellets de fer destinés à la refonte
 
@@ -21456,7 +21456,7 @@ A
 
 S
 
-4)
+4\)
 
 Ferrailles de fer et d'acier non destinées à la refonte
 
@@ -21466,7 +21466,7 @@ non destinés à la refonte
 
 S
 
-4)
+4\)
 
 Ferrailles de fer et d'acier non destinées à la refonte, par ex. essieux,
 masses de fer et d'acier, bandages de roues, essieux montés, roues,
@@ -21474,7 +21474,7 @@ rails, traverses, pièces d'acier issues de déchirages, arbres en acier
 
 S
 
-4)
+4\)
 
 Scories et cendres de fer destinées à la refonte
 
@@ -21497,7 +21497,7 @@ S
 
 Remarques :
 
-\4) S : Déversement sur stock à terre
+4\) S : Déversement sur stock à terre
 
 \- 274 -
 
@@ -21541,7 +21541,7 @@ A
 
 S
 
-6)
+6\)
 
 Ferro-manganèse contenant plus de 2 % de carbone, en gueuse, en
 pièces moulées
@@ -21551,13 +21551,13 @@ A
 
 S
 
-6)
+6\)
 
 B
 
 S
 
-6)
+6\)
 
 Eponge de fer, éponge d'acier, fer de scories (masses d'acier,
 masses de fer brut)
@@ -21566,7 +21566,7 @@ A
 
 S
 
-6)
+6\)
 
 Ferro-alliages (à l'exception du ferro-manganèse riche en
 carbone)
@@ -21579,7 +21579,7 @@ A
 
 S
 
-6)
+6\)
 
 A
 
@@ -21587,7 +21587,7 @@ A
 
 S
 
-6)
+6\)
 
 Ferro-manganèse contenant jusqu'à 2% de carbone, alliages de ferromanganèse non spécifiés
 Ferro-silicium (silico-manganèse), ferro-silico-manganèse
@@ -21598,7 +21598,7 @@ A
 
 S
 
-6)
+6\)
 
 Aciers bruts
 
@@ -21611,7 +21611,7 @@ A
 
 S
 
-6)
+6\)
 
 ACIERS CORROYES
 
@@ -21625,7 +21625,7 @@ A
 
 S
 
-6)
+6\)
 
 Feuillards en rouleaux larges (coils)
 
@@ -21635,7 +21635,7 @@ A
 
 S
 
-6)
+6\)
 
 Feuillards en rouleaux larges (coils) destinés au relaminage
 
@@ -21645,7 +21645,7 @@ A
 
 S
 
-6)
+6\)
 
 Autres aciers corroyés
 
@@ -21657,7 +21657,7 @@ A
 
 S
 
-6)
+6\)
 
 ACIERS LAMINES ET PROFILES, FIL,
 SUPERSTRUCTURES DE VOIES FERROVIAIRES
@@ -21673,7 +21673,7 @@ A
 
 S
 
-6)
+6\)
 
 Aciers à palplanches
 
@@ -21683,7 +21683,7 @@ A
 
 S
 
-6)
+6\)
 
 Aciers à béton, par ex. acier à béton armé, acier tore gaufré, acier
 tore
@@ -21694,7 +21694,7 @@ A
 
 S
 
-6)
+6\)
 
 Fil machine
 
@@ -21706,7 +21706,7 @@ A
 
 S
 
-6)
+6\)
 
 Rails et superstructures de voies ferroviaires en acier
 
@@ -21726,9 +21726,9 @@ A
 
 S
 
-6)
+6\)
 
-\6) comportant des traces d'hydrocarbures : S
+6\) comportant des traces d'hydrocarbures : S
 
 N° de marchandises
 
@@ -21821,7 +21821,7 @@ A
 
 S
 
-6)
+6\)
 
 Cuivre (cuivre électrolytique, cuivre raffiné au feu), alliages de cuivre,
 par ex. bronze, laiton
@@ -21832,7 +21832,7 @@ A
 
 S
 
-6)
+6\)
 
 A
 
@@ -21840,7 +21840,7 @@ A
 
 S
 
-6)
+6\)
 
 S
 
@@ -21870,7 +21870,7 @@ B
 
 S
 
-6)
+6\)
 
 Magnésium, alliages de magnésium
 
@@ -21880,7 +21880,7 @@ A
 
 S
 
-6)
+6\)
 
 Nickel, alliages de nickel
 
@@ -21890,7 +21890,7 @@ B
 
 S
 
-6)
+6\)
 
 Etain, alliages d'étain
 
@@ -21900,7 +21900,7 @@ B
 
 S
 
-6)
+6\)
 
 Métaux non ferreux, alliages de métaux non ferreux non spécifiés
 
@@ -21908,7 +21908,7 @@ S
 
 Remarques :
 
-\6) comportant des traces d'hydrocarbures : S
+6\) comportant des traces d'hydrocarbures : S
 
 N° de marchandises
 
@@ -21938,7 +21938,7 @@ A
 
 S
 
-6)
+6\)
 
 Bandes, tôles, plaques, lames en métaux non ferreux et en alliages
 de métaux non ferreux
@@ -21950,7 +21950,7 @@ A
 
 S
 
-6)
+6\)
 
 Feuilles en métaux non ferreux ou en alliages de métaux non ferreux
 
@@ -21960,7 +21960,7 @@ A
 
 S
 
-6)
+6\)
 
 Profilés et barres en métaux non ferreux ou en alliages de métaux
 non ferreux
@@ -21972,7 +21972,7 @@ A
 
 S
 
-6)
+6\)
 
 A
 
@@ -21980,7 +21980,7 @@ A
 
 S
 
-6)
+6\)
 
 \- 277 -
 
@@ -21988,7 +21988,7 @@ EAUX – 4. Conventions internationales
 
 Remarques :
 
-\6) comportant des traces d'hydrocarbures : S
+6\) comportant des traces d'hydrocarbures : S
 
 N° de marchandises
 
@@ -22098,15 +22098,15 @@ S
 
 \- 278 -
 
-6)
+6\)
 
 S
 
-4)
+4\)
 
 S
 
-7)
+7\)
 
 EAUX – 4. Conventions internationales
 
@@ -22117,8 +22117,8 @@ Soufre brut
 A
 
 Remarques : 4) S : déversement sur stock à terre
-\6) comportant des traces d'hydrocarbures : S
-\7) si dénaturées : S
+6\) comportant des traces d'hydrocarbures : S
+7\) si dénaturées : S
 
 N° de marchandises
 
@@ -22250,7 +22250,7 @@ A
 
 \- 279 -
 
-4)
+4\)
 
 EAUX – 4. Conventions internationales
 
@@ -22286,7 +22286,7 @@ Chaux en morceaux, aussi calcinée, hydrate de chaux, chaux éteinte
 
 Remarques :
 
-\4) S : Déversement sur stock à terre
+4\) S : Déversement sur stock à terre
 
 N° de marchandises
 
@@ -22381,11 +22381,11 @@ A
 
 \- 280 -
 
-9)
+9\)
 
-9)
+9\)
 
-10)
+10\)
 
 EAUX – 4. Conventions internationales
 
@@ -22412,7 +22412,7 @@ A
 A
 
 Remarques : 9) au lieu de amiante : fibrociment
-\10) pour masse de xylolithe : B ; pour tous les autres : A
+10\) pour masse de xylolithe : B ; pour tous les autres : A
 
 N° de marchandises
 
@@ -22483,13 +22483,13 @@ B
 
 S
 
-11)
+11\)
 
 B
 
 S
 
-11)
+11\)
 
 « A » ( 1)
 
@@ -22517,7 +22517,7 @@ B
 
 S
 
-11)
+11\)
 
 Phosphate calcine, engrais phosphatés, engrais à base de phosphate
 calcine, phosphates chimiques, produits fertilisants phosphatés non
@@ -22527,7 +22527,7 @@ B
 
 S
 
-11)
+11\)
 
 Engrais potassiques
 
@@ -22639,7 +22639,7 @@ de l'oxyde et de l'hydroxide d'aluminium)
 
 \- 282 -
 
-8)
+8\)
 
 EAUX – 4. Conventions internationales
 
@@ -22702,7 +22702,7 @@ S
 Remarques :
 si lessive : A
 
-\8) si solide : B
+8\) si solide : B
 
 N° de marchandises
 
@@ -22768,7 +22768,7 @@ de pétrole, brais de houille, brais, poix de tourbe, brais de tourbe
 
 S
 
-4)
+4\)
 
 Coke de poix et coke de goudron dérivés du goudron de houille et
 d'autres goudrons minéraux, par ex. coke de goudron dérivé de la
@@ -22777,7 +22777,7 @@ houille, coke de goudron
 
 S
 
-4)
+4\)
 
 S
 
@@ -22845,9 +22845,9 @@ S
 
 Remarques :
 
-4)
+4\)
 
-\4) S : Déversement sur stock à terre
+4\) S : Déversement sur stock à terre
 
 N° de marchandises
 
@@ -22933,9 +22933,9 @@ Autres matières chimiques
 
 Remarques :
 
-17)
+17\)
 
-\17) si produits pharmaceutiques (médicaments) : S
+17\) si produits pharmaceutiques (médicaments) : S
 
 N° de marchandises
 
@@ -22962,7 +22962,7 @@ VEHICULES, MACHINES, AUTRES PRODUITS
 MANUFACTURES ET MARCHANDISES
 SPECIALES
 
-12)
+12\)
 
 VEHICULES ET MATERIELS DE TRANSPORT
 
@@ -23248,7 +23248,7 @@ Cocher uniquement la ou les cases qui conviennent
 
 Partie 1 : Déclaration du destinataire de la cargaison / de l'installation de manutention
 A Nom/entreprise: Adresse:
-1.
+1\.
 Nous
 avons
 déchargé
@@ -23264,25 +23264,25 @@ bateau
 
 (Nom) (ENI) (Cales n°)
 
-\2. .......................... _ t / _ m3 .....................................................................................................................
+2\. .......................... _ t / _ m3 .....................................................................................................................
 
 (Quantité) (Catégorie et n° des marchandises selon l'appendice III du Règlement d'application)
-\3. Annonce le: (Date) ……………….. (Heure) ……………. 4. Déchargement commencé le: (Date) ……………..
+3\. Annonce le: (Date) ……………….. (Heure) ……………. 4. Déchargement commencé le: (Date) ……………..
 (Heure) ………….
-\5. Déchargement terminé le: (Date) …………….. (Heure) ………………
+5\. Déchargement terminé le: (Date) …………….. (Heure) ………………
 
 B Transports exclusifs
-\6. _* Le bateau effectue des transports exclusifs.
+6\. _* Le bateau effectue des transports exclusifs.
 C Nettoyage du bateau
-\7. Les cales n°. ......................................................................................................
+7\. Les cales n°. ......................................................................................................
 a)* _ ont été balayées (standard de déchargement A en vertu de l'appendice III de l’annexe 2) ;
 b)* _ ont été aspirées (standard de déchargement B en vertu de l'appendice III de l'annexe 2) ;
 c)* _ ont été lavées.
 D Résidus de manutention / cargaison restante
-\8. a)* _ résidus de manutention pris en charge;
+8\. a)* _ résidus de manutention pris en charge;
 b)* _ cargaison restante des cales n°........................................................... prise en charge.
 E Eaux de lavage (y compris eaux de ballastage et de précipitation)
-\9. Les eaux de lavage (y compris eaux de ballastage et de précipitation) des cales mentionnées ci-dessus,
+9\. Les eaux de lavage (y compris eaux de ballastage et de précipitation) des cales mentionnées ci-dessus,
 quantité: ………….._ m3 / _ l
 a) _ peuvent être déversées dans l'eau de surface en respectant les dispositions de l'appendice III du Règlement
 d'application;
@@ -23293,7 +23293,7 @@ c)*_ doivent être déposées auprès de la station de réception...............
 mandatée par nous;
 d)*_ doivent être déposées conformément aux stipulations du contrat de transport.
 F Slops
-\10. *_ Les slops ont été pris en charge, quantité ……….._ l / _ kg
+10\. *_ Les slops ont été pris en charge, quantité ……….._ l / _ kg
 G Signature du destinataire de la cargaison / de l’installation de manutention
 ............................. ...................................... .........................................................................
 
@@ -23304,13 +23304,13 @@ G Signature du destinataire de la cargaison / de l’installation de manutention
 EAUX – 4. Conventions internationales
 
 Partie 2 : Déclaration du conducteur
-\11. Les eaux de lavage (y compris les eaux de ballastage et de précipitation) sont entreposées dans:
+11\. Les eaux de lavage (y compris les eaux de ballastage et de précipitation) sont entreposées dans:
 a) _ la citerne pour produits résiduaires / la citerne pour eaux de lavage ; quantité : ……………..………. _ m3 / _ l
 b)* _ la cale ; quantité : ………………………..……... _ m3 / _ l
 c) _ d'autres récipients à résidus (préciser): ....……............................................ quantité: …………….. _ m3 / _ l
-\12. _ Les données figurant sous les numéros 1 à 10 sont confirmées.
-\13. Observations: ..................................................................................................................................
-\14. ................................. ................................................................................................................
+12\. _ Les données figurant sous les numéros 1 à 10 sont confirmées.
+13\. Observations: ..................................................................................................................................
+14\. ................................. ................................................................................................................
 (Lieu) (Cachet / Nom en capitales d'imprimerie et signature)
 
 Partie 3 : Déclaration de la station de réception pour les eaux de lavage (seulement si 9 c) ou 9d) est
@@ -23328,14 +23328,14 @@ Adresse
 
 Attestation de dépôt
 
-\15. _ Le dépôt des eaux de lavage (y compris des eaux de ballastage et de précipitation) conformément aux
+15\. _ Le dépôt des eaux de lavage (y compris des eaux de ballastage et de précipitation) conformément aux
 quantités et au
 code**)……………………………… mentionnés au numéro 9 est attesté. Eaux de lavage, quantité: ……….. _ m3 /
 _l
-16.
+16\.
 Observations:……………………………………………………………………………………………………………………
 ………
-\17. .................................. ..................... .......................................................................................................
+17\. .................................. ..................... .......................................................................................................
 (Lieu) (Date) (Cachet / Nom en capitales d'imprimerie et signature)
 
 Annexe attestation de déchargement cale sèche
@@ -23369,27 +23369,27 @@ Cocher uniquement la ou les cases qui conviennent
 
 Partie 1 : Déclaration du destinataire de la cargaison / de l'installation de manutention
 A Nom/entreprise: Adresse:
-\1. Nous avons déchargé du bateau............................................… .…............................ …………………………..
+1\. Nous avons déchargé du bateau............................................… .…............................ …………………………..
 (Nom) (ENI) (Citernes à cargaison n°)
 
-\2. .......................... _ t / _ m3 .....................................................................................................................
+2\. .......................... _ t / _ m3 .....................................................................................................................
 
 (Quantité) (Catégorie et n° des marchandises selon l'appendice III du Règlement d'application)
-\3. Annonce le: (Date) ……………….. (Heure) …………. 4. Déchargement commencé le: (Date) ………... (Heure)
+3\. Annonce le: (Date) ……………….. (Heure) …………. 4. Déchargement commencé le: (Date) ………... (Heure)
 
 ……….
-\5. Déchargement terminé le: (Date) …………….. (Heure) ………………
+5\. Déchargement terminé le: (Date) …………….. (Heure) ………………
 B Transports exclusifs
-\6. _* Le bateau effectue des transports exclusifs.
+6\. _* Le bateau effectue des transports exclusifs.
 C Nettoyage du bateau
-\7. Les citernes à cargaison n°. ......................................................................................................
+7\. Les citernes à cargaison n°. ......................................................................................................
 a)*_ ont été asséchées (standard de déchargement A en vertu de l'appendice III du Règlement d'application) ;
 b) _ ont été lavées.
 D Résidus de manutention / cargaison restante
-\8. a)* _ résidus de manutention pris en charge;
+8\. a)* _ résidus de manutention pris en charge;
 b)* _ cargaison restante des citernes n°........................................................... prise en charge.
 E Eaux de lavage (y compris eaux de ballastage et de précipitation)
-\9. Les eaux de lavage (y compris eaux de ballastage et de précipitation) des citernes à cargaison mentionnées cidessus, quantité: ………….._ m3 / _ l
+9\. Les eaux de lavage (y compris eaux de ballastage et de précipitation) des citernes à cargaison mentionnées cidessus, quantité: ………….._ m3 / _ l
 a) _ peuvent être déversées dans l'eau de surface en respectant les dispositions de l'appendice III du Règlement
 d'application;
 b) _ ont été prises en charge ;
@@ -23397,23 +23397,23 @@ c)*_ doivent être déposées auprès de la station de réception ..............
 (Nom/entreprise) mandatée par nous;
 d)*_ doivent être déposées conformément aux stipulations du contrat de transport.
 F Slops
-\10. *_ Les slops ont été pris en charge, quantité : ……….._ l / _ kg
+10\. *_ Les slops ont été pris en charge, quantité : ……….._ l / _ kg
 G Signature du destinataire de la cargaison / de l’installation de manutention
 ............................. ...................................... .........................................................................
 (Lieu) (Date et heure) (Cachet / Nom en capitales d'imprimerie et signature)
 
 Partie 2 : Déclaration du conducteur
 
-\11. Les eaux de lavage (y compris les eaux de ballastage et de précipitation) sont entreposées dans:
+11\. Les eaux de lavage (y compris les eaux de ballastage et de précipitation) sont entreposées dans:
 a) _ la citerne pour produits résiduaires / la citerne pour eaux de lavage ; quantité ………….. _ m3 / _ l
 b) _ le GRV; quantité : …...…….................................. _ m3 / _ l
 c)*_ la citerne ; quantité : ………………………..…………... _ m3 / _ l
 d) _ d'autres récipients à résidus (préciser): ....……................................. quantité: …………….. _ m3 / _ l
-\12. _ Les données figurant sous les numéros 1 à 10 sont confirmées.
-13.
+12\. _ Les données figurant sous les numéros 1 à 10 sont confirmées.
+13\.
 Observations:
 ..........................................................................................................................................................
-\14. ................................. ................................................................................................................
+14\. ................................. ................................................................................................................
 (Lieu) (Cachet / Nom en capitales d'imprimerie et signature)
 
 Partie 3 : Déclaration de la station de réception pour les eaux de lavage (seulement si 9 c) ou 9d) est
@@ -23424,11 +23424,11 @@ Nom/entreprise ............................................................. Adr
 
 Attestation de dépôt
 
-\15. _ Le dépôt des eaux de lavage (y compris des eaux de ballastage et de précipitation) conformément aux
+15\. _ Le dépôt des eaux de lavage (y compris des eaux de ballastage et de précipitation) conformément aux
 quantités et
 au code**)……………………… mentionnés au numéro 9 est attesté. Eaux de lavage, quantité: ….... _ m3 / _ l
-\16. Observations:………………………………………………………………………………………………
-\17. .................................. ........................ ..............................................................................................
+16\. Observations:………………………………………………………………………………………………
+17\. .................................. ........................ ..............................................................................................
 (Lieu) (Date) (Cachet / Nom en capitales d'imprimerie et signature)
 \- 19 -
 
@@ -23471,7 +23471,7 @@ Destinataire de la cargaison / Installation de manutention
 .............................................................
 .............................................................
 (Nom/entreprise, adresse)
-\1. Nous avons déchargé du bateau .............................................................................
+1\. Nous avons déchargé du bateau .............................................................................
 Cales/Citernes n°
 
 ……………………...
@@ -23480,23 +23480,23 @@ Cales/Citernes n°
 
 (ENI)
 
-2.
+2\.
 
 ……………………..kg ou …………………………………l.
 (quantité)
 (catégorie et n° des marchandises selon l'appendice III du Règlement
 d'application)
-\3. Annonce le
+3\. Annonce le
 ......................................................................................................................................
 (date)
 
 (heure)
 
-\4. Déchargement commencé le
+4\. Déchargement commencé le
 .................................................................................................................................
 (date)
 (heure)
-\5. Déchargement terminé le
+5\. Déchargement terminé le
 .................................................................................................................................
 (date)
 (heure)
@@ -23508,17 +23508,17 @@ bateau effectue des transports exclusifs;
 6.b n’ont pas été débarrassées des cargaisons restantes liquides au titre des dispositions transitoires prévues à
 l’article 6.02, (paragraphe 1, lettre b) de la Partie B de l’Annexe 2;
 
-\7. ont été débarrassées des cargaisons restantes.
+7\. ont été débarrassées des cargaisons restantes.
 Les cales/citernes n°
 ………………………………………………………………………………
-\8. ont été balayées/asséchées (standard de déchargement A en vertu de l'appendice III du
+8\. ont été balayées/asséchées (standard de déchargement A en vertu de l'appendice III du
 Règlement d'application);
-\9. ont été aspirées (standard de déchargement B en vertu de l'appendice III du Règlement
+9\. ont été aspirées (standard de déchargement B en vertu de l'appendice III du Règlement
 d'application);
-\10. ont été lavées.
-\11. ..……………… m3 d’eaux de lavage et/ou .....................l de slops ont été pris en
+10\. ont été lavées.
+11\. ..……………… m3 d’eaux de lavage et/ou .....................l de slops ont été pris en
 charge.
-\12. Les résidus de manutention ont été pris en charge.
+12\. Les résidus de manutention ont été pris en charge.
 
 (1) Les attestations de déchargement conformes à l’Appendice IV au Règlement d’application dans la teneur en vigueur jusqu’au 31 décembre 2013 pourront être utilisées jusqu’au 31 décembre 2014 inclus et présentées au titre de justificatif au sens de l’article 6.03, paragraphe 1, de l’Annexe 2 jusqu’au
 30 juin 2015 inclus.
@@ -23529,15 +23529,15 @@ EAUX – 4. Conventions internationales
 
 Les eaux de lavage / eaux de ballastage / eaux de précipitations des cales / citernes
 mentionnées ci-dessus
-13.
+13\.
 
 peuvent être déversées dans l'eau en respectant les dispositions de l'appendice III du
 Règlement d'application;
-\14. ont été prises en charges;
-\15. doivent être déposées auprès de la station de réception
+14\. ont été prises en charges;
+15\. doivent être déposées auprès de la station de réception
 ……………………………………(Nom/entreprise) mandatée par nous;
-\16. doivent être déposées conformément aux stipulations du contrat de transport.
-\17. ……………………..
+16\. doivent être déposées conformément aux stipulations du contrat de transport.
+17\. ……………………..
 ..................
 ……………………………………………………………………………………
 (Lieu)
@@ -23549,8 +23549,8 @@ Règlement d'application;
 EAUX – 4. Conventions internationales
 
 Confirmation du conducteur
-18.
-19.
+18\.
+19\.
 
 Les données figurant sous les numéros 1 à 16 sont confirmées.
 Les citernes ont été asséchées (standard de déchargement A en vertu de l’appendice III
@@ -23558,10 +23558,10 @@ du Règlement d’application) et la cargaison restante est entreposée en trans
 a) la citerne à résidus:…………l
 b) le GRV:……………………..l
 c) la citerne mobile: …………...l
-\20. Observations:
+20\. Observations:
 ………………………………………………………………………………………………
 ………………………………………………………………………………………………
-\21. ……………………………………………………………………………………………
+21\. ……………………………………………………………………………………………
 (Date)
 (Nom du conducteur en capitales d'imprimerie et signature)
 
@@ -23573,7 +23573,7 @@ Station de réception
 
 Attestation de dépôt
 (seulement si le numéro 15 ou 16 ci-dessus est marqué d'une croix)
-\22. Le dépôt des déchets liés à la cargaison conformément à la catégorie de marchandises et
+22\. Le dépôt des déchets liés à la cargaison conformément à la catégorie de marchandises et
 au n° de marchandises indiqués au numéro 2 est attesté:
 a) eaux de lavage : …………….…..….. m3
 code : ………………*)
@@ -23583,14 +23583,14 @@ c) eaux de précipitations : ………...…... m3
 code : ………………*)
 d) slops : ………..……... kg ou ………………….. l.
 e) cargaison restante visée au numéro 19
-\23. Observations:
+23\. Observations:
 ………………………………………………………………………………………………..
 …………………………………………………………………………………………………
-24.
+24\.
 
 Une attestation spéciale relative au dépôt a été délivrée au conducteur.
 
-\25. ……………………..
+25\. ……………………..
 ..................
 ……………………………………………………………………………………
 
@@ -23622,7 +23622,7 @@ Appendice V du Règlement d’application
 (Édition 2010)
 Valeurs limites et de contrôle pour les stations
 d’épuration à bord de bateaux à passagers
-\1. Les stations d’épuration à bord de bateaux à passagers doivent respecter les valeurs limites suivantes lors de l’essai de
+1\. Les stations d’épuration à bord de bateaux à passagers doivent respecter les valeurs limites suivantes lors de l’essai de
 type:
 Tableau 1: Valeurs limites devant être respectées à l’évacuation de la station d’épuration de bord
 (installation d’essai) durant l’essai de type
@@ -23688,7 +23688,7 @@ EN 1484 (1997)(1)
 (1) Les États contractants peuvent utiliser des méthodes équivalentes.
 (2) À la place de la demande chimique en oxygène (DCO), il est également possible d’utiliser le carbone organique total (COT) pour l’essai de type.
 
-\2. Les valeurs de contrôle suivantes doivent être respectées durant le fonctionnement:
+2\. Les valeurs de contrôle suivantes doivent être respectées durant le fonctionnement:
 Tableau 2: Valeurs limites à l’évacuation de la station d’épuration de bord durant
 le fonctionnement à bord de bateaux à passagers en navigation intérieure
 Taux d’oxygène
@@ -23738,7 +23738,7 @@ EN 1484 (1997)(1)
 
 La valeur correspondante doit être respectée par l’échantillon. Les autorités compétentes doivent prendre des échantillons
 à intervalles variables.
-\3. Les procédés avec utilisation de produits chlorés ne sont pas admis.
+3\. Les procédés avec utilisation de produits chlorés ne sont pas admis.
 De même, une dilution des eaux usées domestiques visant à en réduire la charge spécifique et à en permettre l’élimination
 n’est pas admise.
 
@@ -30217,38 +30217,38 @@ ANNEXE «II»(1)
 Natures des informations visées à l’article 3, point 3
 Dans le cadre des études des risques et des rapports de sécurité, les informations suivantes doivent au moins être fournies:
 
-1)
+1\)
 
 Une description du projet, comportant des informations relatives au site, au voisinage, aux dimensions et caractéristiques du projet.
 
-2)
+2\)
 
 Une description des caractéristiques des procédés de construction, de fabrication et/ou de stockage, des matériaux,
 produits, substances et préparations mis en œuvre, stockés, transformés ou utilisés avec leurs caractéristiques physiques et/ou chimiques et leur réaction en cas d’un fonctionnement anormal.
 
-3)
+3\)
 
 Les fiches de données de sécurité de ces matériaux, produits, substances et préparations.
 
-4)
+4\)
 
 Les données nécessaires pour identifier, évaluer et analyser les effets que le projet est susceptible d’avoir en cas d’un
 fonctionnement anormal par rapport aux travailleurs, aux lieux de travail, au voisinage et au public.
 
-5)
+5\)
 
 La définition des rayons à risque, en incluant les postes de travail exposés, le voisinage et le public exposé, ainsi que
 les installations pouvant produire un effet domino.
 
-6)
+6\)
 
 La définition de technologies et de produits de substitution ainsi que de méthodes et de mesures envisagés ou à envisager afin d’atténuer les risques et afin de réduire la gravité et la probabilité d’un fonctionnement anormal.
 
-7)
+7\)
 
 Des conclusions scientifiques et/ou techniques.
 
-8)
+8\)
 
 Un résumé succinct non technique des informations reprises sub 1 à 6 ci-dessus ainsi que des conclusions.
 
@@ -30273,19 +30273,19 @@ faite à Espoo (Finlande), le 25 février 1991
 APPENDICE I
 (Deuxième amendement tel qu’approuvé par la loi du 7 mars 2007)
 «Listes d’activités
-1.
+1\.
 
 Raffineries de pétrole (à l’exclusion des entreprises fabriquant uniquement des lubrifiants à partir de pétrole brut) et
 installations pour la gazéification et la liquéfaction d’au moins 500 tonnes de charbon ou de schiste bitumineux par jour.
 
-2.
+2\.
 
 a) Centrales thermiques et autres installations de combustion dont la production thermique est égale ou supérieure à
 300 mégawatts;
 b) Centrales nucléaires et autres réacteurs nucléaires, y compris le démantèlement ou le déclassement de ces centrales ou réacteurs(1) (à l’exception des installations de recherche pour la production et la conversion de matières
 fissiles et de matières fertiles, dont la puissance maximale n’excède pas 1 kilowatt de charge thermique continue).
 
-3.
+3\.
 
 a) Installations pour le retraitement de combustibles nucléaires irradiés;
 b) Installations destinées:
@@ -30296,22 +30296,22 @@ b) Installations destinées:
 – Exclusivement au stockage (prévu pour plus de 10 ans) de combustibles nucléaires irradiés ou de déchets
 radioactifs dans un site différent du site de production.
 
-4.
+4\.
 
 Grandes installations pour l’élaboration primaire de la fonte et de l’acier et pour la production de métaux non ferreux.
 
-5.
+5\.
 
 Installations pour l’extraction d’amiante et pour le traitement et la transformation d’amiante et de produits contenant
 de l’amiante: pour les produits en amiante-ciment, installations produisant plus de 20.000 tonnes de produits finis par
 an; pour les matériaux de friction, installations produisant plus de 50 tonnes de produits finis par an; et pour les autres
 utilisations de l’amiante, installations utilisant plus de 200 tonnes d’amiante par an.
 
-6.
+6\.
 
 Installations chimiques intégrées.
 
-7.
+7\.
 
 a) Construction d’autoroutes, de routes express(2) et de lignes de chemin de fer pour le trafic ferroviaire à longue distance, ainsi que d’aéroports(3) dotés d’une piste principale d’une longueur égale ou supérieure à 2.100 mètres;
 
@@ -30335,54 +30335,54 @@ INCIDENCES SUR L’ENVIRONNEMENT – 2. Conventions internationales
 b) Construction d’une nouvelle route à quatre voies ou plus, ou alignement et/ou élargissement d’une route existante à
 deux voies ou moins pour en faire une route à quatre voies ou plus, lorsque la nouvelle route ou la section de route
 alignée et/ou élargie doit avoir une longueur ininterrompue d’au moins 10 km.
-8.
+8\.
 
 Canalisations de grande section pour le transport de pétrole, de gaz ou de produits chimiques.
 
-9.
+9\.
 
 Ports de commerce ainsi que voies d’eau intérieures et ports fluviaux permettant le passage de bateaux de plus de
 1.350 tonnes.
 
-10.
+10\.
 
 a) Installations d’élimination des déchets toxiques et dangereux par incinération, traitement chimique ou mise en
 décharge;
 b) Installations d’élimination de déchets non dangereux par incinération ou traitement chimique d’une capacité de plus
 de 100 tonnes par jour.
 
-11.
+11\.
 
 Grands barrages et réservoirs.
 
-12.
+12\.
 
 Travaux de captage d’eaux souterraines ou de recharge artificielle des eaux souterraines lorsque le volume annuel
 d’eau à capter ou à recharger atteint ou dépasse 10 millions de mètres cubes.
 
-13.
+13\.
 
 Installations pour la fabrication de papier, de pâte à papier et de carton produisant au moins 200 tonnes séchées à l’air
 par jour.
 
-14.
+14\.
 
 Exploitation de mines et de carrières sur une grande échelle, extraction et traitement sur place de minerais métalliques
 ou de charbon.
 
-15.
+15\.
 
 Production d’hydrocarbures en mer. Extraction de pétrole et de gaz naturel à des fins commerciales, lorsque les quantités extraites dépassent quotidiennement 500 tonnes de pétrole et 500.000 mètres cubes de gaz.
 
-16.
+16\.
 
 Grandes installations de stockage de produits pétroliers, pétrochimiques et chimiques.
 
-17.
+17\.
 
 Déboisement de grandes superficies.
 
-18.
+18\.
 
 a) Ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise
 à prévenir d’éventuelles pénuries d’eau et que le volume annuel des eaux transvasées dépasse 100 millions de
@@ -30392,11 +30392,11 @@ lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvemen
 cubes et que le volume des eaux transvasées dépasse 5% de ce débit. Dans les deux cas, les transvasements d’eau
 potable amenée par canalisation sont exclus.
 
-19.
+19\.
 
 Installations de traitement des eaux résiduaires d’une capacité supérieure à 150.000 équivalents-habitants.
 
-20.
+20\.
 
 Installations destinées à l’élevage intensif de volailles ou de porcs disposant de plus de:
 –
@@ -30415,12 +30415,12 @@ Installations destinées à l’élevage intensif de volailles ou de porcs dispo
 
 900 emplacements pour truies.
 
-21.
+21\.
 
 Construction de lignes aériennes de transport d’énergie électrique d’une tension de 220 kV ou plus et d’une longueur
 de plus de 15 km.
 
-22.
+22\.
 
 Grandes installations destinées à l’exploitation de l’énergie éolienne pour la production d’énergie (parcs d’éoliennes).»
 
@@ -30473,7 +30473,7 @@ Résumé non technique avec, au besoin, une présentation visuelle (cartes, grap
 APPENDICE III
 Critères généraux visant à aider à déterminer l’importance de l’impact sur l’environnement d’activités
 qui ne sont pas inscrites sur la liste figurant à l’Appendice I
-\1. Lorsqu’elles envisagent des activités proposées auxquelles s’applique le paragraphe 5 de l’Article 2, les Parties concernées peuvent chercher à déterminer si l’activité envisagée est susceptible d’avoir un impact transfrontière préjudiciable important, en particulier au regard d’un ou de plusieurs des critères suivants:
+1\. Lorsqu’elles envisagent des activités proposées auxquelles s’applique le paragraphe 5 de l’Article 2, les Parties concernées peuvent chercher à déterminer si l’activité envisagée est susceptible d’avoir un impact transfrontière préjudiciable important, en particulier au regard d’un ou de plusieurs des critères suivants:
 a)
 
 Ampleur: activités qui, vu leur nature, sont de grande ampleur;
@@ -30491,7 +30491,7 @@ Effets: activités proposées dont les effets sont particulièrement complexes e
 activités qui ont de graves effets sur l’homme ou sur les espèces ou organismes auxquels on attache une valeur particulière, les activités qui compromettent la poursuite de l’utilisation ou l’utilisation potentielle d’une zone touchée et les
 activités imposant une charge supplémentaire que le milieu n’a pas la capacité de supporter.
 
-\2. Les Parties concernées procèdent ainsi pour les activités proposées dont le site se trouve à proximité d’une frontière internationale et pour les activités proposées dont le site est plus éloigné et qui pourraient avoir des effets transfrontières importants
+2\. Les Parties concernées procèdent ainsi pour les activités proposées dont le site se trouve à proximité d’une frontière internationale et pour les activités proposées dont le site est plus éloigné et qui pourraient avoir des effets transfrontières importants
 à grande distance.
 
 \- 359 -
@@ -30499,25 +30499,25 @@ activités imposant une charge supplémentaire que le milieu n’a pas la capaci
 INCIDENCES SUR L’ENVIRONNEMENT – 2. Conventions internationales
 APPENDICE IV
 Procédure d’enquête
-\1. La (ou les) Partie(s) requérante(s) notifie(nt) au secrétariat qu’elle(s) soumet(tent) à une commission d’enquête constituée
+1\. La (ou les) Partie(s) requérante(s) notifie(nt) au secrétariat qu’elle(s) soumet(tent) à une commission d’enquête constituée
 conformément aux dispositions du présent Appendice la question de savoir si une activité proposée inscrite sur la liste figurant
 à l’Appendice I est susceptible d’avoir un impact transfrontière préjudiciable important. L’objet de l’enquête est indiqué dans la
 notification. Le secrétariat notifie immédiatement cette demande d’enquête à toutes les Parties à la présente Convention.
-\2. La commission d’enquête est composée de trois membres. La partie requérante et l’autre partie à la procédure d’enquête
+2\. La commission d’enquête est composée de trois membres. La partie requérante et l’autre partie à la procédure d’enquête
 nomment, chacune, un expert scientifique ou technique et les deux experts ainsi nommés désignent d’un commun accord le
 troisième expert qui est le président de la commission d’enquête. Ce dernier ne doit pas être ressortissant de l’une des parties à
 la procédure d’enquête ni avoir sa résidence habituelle sur le territoire de l’une de ces parties, ni être au service de l’une d’elles,
 ni s’être déjà occupé de l’affaire en question à quelque autre titre que ce soit.
-\3. Si, dans les deux mois suivant la nomination du deuxième expert, le président de la commission d’enquête n’a pas été
+3\. Si, dans les deux mois suivant la nomination du deuxième expert, le président de la commission d’enquête n’a pas été
 désigné, le Secrétaire exécutif de la Commission économique pour l’Europe procède, à la demande de l’une des parties, à sa
 désignation dans un nouveau délai de deux mois.
-\4. Si, dans un délai d’un mois à compter de la réception de la notification adressée par le secrétariat, l’une des parties à la
+4\. Si, dans un délai d’un mois à compter de la réception de la notification adressée par le secrétariat, l’une des parties à la
 procédure d’enquête ne nomme pas un expert, l’autre partie peut en informer le Secrétaire exécutif de la Commission économique pour l’Europe, qui désigne le président de la commission d’enquête dans un nouveau délai de deux mois. Dès sa désignation, le président de la commission d’enquête demande à la partie qui n’a pas nommé d’expert de le faire dans un délai d’un
 mois. Lorsque ce délai est écoulé, le président en informe le Secrétaire exécutif de la Commission économique pour l’Europe
 qui procède à cette nomination dans un nouveau délai de deux mois.
-\5. La commission d’enquête arrête elle-même son règlement intérieur.
-\6. La commission d’enquête peut prendre toutes les mesures voulues pour exercer ses fonctions.
-\7. Les parties à la procédure d’enquête facilitent la tâche de la commission d’enquête et, en particulier, par tous les moyens
+5\. La commission d’enquête arrête elle-même son règlement intérieur.
+6\. La commission d’enquête peut prendre toutes les mesures voulues pour exercer ses fonctions.
+7\. Les parties à la procédure d’enquête facilitent la tâche de la commission d’enquête et, en particulier, par tous les moyens
 à leur disposition:
 a)
 
@@ -30527,21 +30527,21 @@ b)
 
 lui permettent, si cela est nécessaire, de citer et d’entendre des témoins ou des experts.
 
-\8. Les parties et les experts protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant les travaux
+8\. Les parties et les experts protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant les travaux
 de la commission d’enquête.
-\9. Si l’une des parties à la procédure d’enquête ne se présente pas devant la commission d’enquête ou s’abstient d’exposer
+9\. Si l’une des parties à la procédure d’enquête ne se présente pas devant la commission d’enquête ou s’abstient d’exposer
 sa position, l’autre partie peut demander à la commission d’enquête de poursuivre la procédure et d’achever ses travaux. Le
 fait pour une partie de ne pas se présenter devant la commission ou de ne pas exposer sa position ne fait pas obstacle à la
 poursuite et à l’achèvement des travaux de la commission d’enquête.
-\10. À moins que la commission d’enquête n’en décide autrement en raison des circonstances particulières de l’affaire, les
+10\. À moins que la commission d’enquête n’en décide autrement en raison des circonstances particulières de l’affaire, les
 frais de ladite commission, y compris la rémunération de ses membres, sont supportés à parts égales par les parties à la procédure d’enquête. La commission d’enquête tient un relevé de tous ses frais et en fournit un état final aux parties.
-\11. Toute Partie ayant, en ce qui concerne l’objet de la procédure d’enquête, un intérêt d’ordre matériel susceptible d’être affecté par l’avis rendu par la commission d’enquête, peut intervenir dans la procédure avec l’accord de la commission d’enquête.
-\12. Les décisions de la commission d’enquête sur les questions de procédure sont prises à la majorité des voix de ses
+11\. Toute Partie ayant, en ce qui concerne l’objet de la procédure d’enquête, un intérêt d’ordre matériel susceptible d’être affecté par l’avis rendu par la commission d’enquête, peut intervenir dans la procédure avec l’accord de la commission d’enquête.
+12\. Les décisions de la commission d’enquête sur les questions de procédure sont prises à la majorité des voix de ses
 membres. L’avis définitif de la commission reflète l’opinion de la majorité de ses membres et est assorti, éventuellement, de
 l’exposé des opinions dissidentes.
-\13. La commission d’enquête rend son avis définitif dans les deux mois suivant la date à laquelle elle a été constituée à
+13\. La commission d’enquête rend son avis définitif dans les deux mois suivant la date à laquelle elle a été constituée à
 moins qu’elle ne juge nécessaire de prolonger ce délai d’une durée qui ne devrait pas excéder deux mois.
-\14. L’avis définitif de la commission d’enquête est fondé sur des principes scientifiques acceptés. La commission d’enquête
+14\. L’avis définitif de la commission d’enquête est fondé sur des principes scientifiques acceptés. La commission d’enquête
 communique son avis définitif aux parties à la procédure d’enquête et au secrétariat.
 
 \- 360 -
@@ -30566,8 +30566,8 @@ entreprises à l’avenir.
 
 APPENDICE VI
 Éléments de la coopération bilatérale et multilatérale
-\1. Les Parties concernées peuvent établir, s’il y a lieu, des arrangements institutionnels ou élargir le champ des arrangements existants dans le cadre d’accords bilatéraux et multilatéraux afin de donner pleinement effet à la présente Convention.
-\2. Les accords bilatéraux ou multilatéraux ou autres arrangements peuvent prévoir:
+1\. Les Parties concernées peuvent établir, s’il y a lieu, des arrangements institutionnels ou élargir le champ des arrangements existants dans le cadre d’accords bilatéraux et multilatéraux afin de donner pleinement effet à la présente Convention.
+2\. Les accords bilatéraux ou multilatéraux ou autres arrangements peuvent prévoir:
 a)
 
 toute mesure supplémentaire aux fins de l’application de la présente Convention, tenant compte de la situation particulière de la sous-région concernée;
@@ -30611,30 +30611,30 @@ vue d’assurer la compatibilité des données et des informations obtenues.
 INCIDENCES SUR L’ENVIRONNEMENT – 2. Conventions internationales
 APPENDICE VII
 Arbitrage
-\1. La (ou les) Partie(s) requérante(s) notifie(nt) au secrétariat que les Parties sont convenues de soumettre le différend à
+1\. La (ou les) Partie(s) requérante(s) notifie(nt) au secrétariat que les Parties sont convenues de soumettre le différend à
 l’arbitrage en vertu du paragraphe 2 de l’Article 15 de la présente Convention. La notification expose l’objet de l’arbitrage et
 indique en particulier les Articles de la présente Convention dont l’interprétation ou l’application est en cause. Le secrétariat
 transmet les informations reçues à toutes les Parties à la présente Convention.
-\2. Le tribunal arbitral est composé de trois membres. La (ou les) Partie(s) requérante(s) et l’autre (ou les autres) Partie(s)
+2\. Le tribunal arbitral est composé de trois membres. La (ou les) Partie(s) requérante(s) et l’autre (ou les autres) Partie(s)
 au différend nomment un arbitre et les deux arbitres ainsi nommés désignent d’un commun accord le troisième arbitre qui est
 le président du tribunal arbitral. Ce dernier ne doit pas être ressortissant de l’une des parties au différend ni avoir sa résidence
 habituelle sur le territoire de l’une de ces parties, ni être au service de l’une d’elles, ni s’être déjà occupé de l’affaire à quelque
 autre titre que ce soit.
-\3. Si, dans les deux mois suivant la nomination du deuxième arbitre, le président du tribunal arbitral n’a pas été désigné, le
+3\. Si, dans les deux mois suivant la nomination du deuxième arbitre, le président du tribunal arbitral n’a pas été désigné, le
 Secrétaire exécutif de la Commission économique pour l’Europe procède, à la demande de l’une des parties au différend, à sa
 désignation dans un nouveau délai de deux mois.
-\4. Si, dans un délai de deux mois à compter de la réception de la demande l’une des parties au différend ne procède pas à
+4\. Si, dans un délai de deux mois à compter de la réception de la demande l’une des parties au différend ne procède pas à
 la nomination d’un arbitre, l’autre partie peut en informer le Secrétaire exécutif de la Commission économique pour l’Europe,
 qui désigne le président du tribunal arbitral dans un nouveau délai de deux mois. Dès sa désignation le président du tribunal
 arbitral demande à la partie qui n’a pas nommé d’arbitre de le faire dans un délai de deux mois. Lorsque ce délai est écoulé, le
 président en informe le Secrétaire exécutif de la Commission économique pour l’Europe, qui procède à cette nomination dans
 un nouveau délai de deux mois.
-\5. Le tribunal rend sa sentence conformément au droit international et aux dispositions de la présente Convention.
-\6. Tout tribunal arbitral constitué en application des présentes dispositions arrête lui-même sa procédure.
-\7. Les décisions du tribunal arbitral, tant sur les questions de procédure que sur le fond, sont prises à la majorité de ses
+5\. Le tribunal rend sa sentence conformément au droit international et aux dispositions de la présente Convention.
+6\. Tout tribunal arbitral constitué en application des présentes dispositions arrête lui-même sa procédure.
+7\. Les décisions du tribunal arbitral, tant sur les questions de procédure que sur le fond, sont prises à la majorité de ses
 membres.
-\8. Le tribunal peut prendre toutes les mesures voulues pour établir les faits.
-\9. Les parties au différend facilitent la tâche du tribunal arbitral et, en particulier, par tous les moyens à leur disposition:
+8\. Le tribunal peut prendre toutes les mesures voulues pour établir les faits.
+9\. Les parties au différend facilitent la tâche du tribunal arbitral et, en particulier, par tous les moyens à leur disposition:
 a)
 
 lui fournissent tous les documents, facilités et renseignements pertinents; et
@@ -30643,23 +30643,23 @@ b)
 
 lui permettent, si cela est nécessaire, de citer et d’entendre des témoins ou des experts.
 
-\10. Les parties et les arbitres protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant la procédure d’arbitrage.
-\11. Le tribunal arbitral peut, à la demande de l’une des parties, recommander des mesures conservatoires.
-\12. Si l’une des parties au différend ne se présente pas devant le tribunal arbitral ou ne fait pas valoir ses moyens, l’autre
+10\. Les parties et les arbitres protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant la procédure d’arbitrage.
+11\. Le tribunal arbitral peut, à la demande de l’une des parties, recommander des mesures conservatoires.
+12\. Si l’une des parties au différend ne se présente pas devant le tribunal arbitral ou ne fait pas valoir ses moyens, l’autre
 partie peut demander au tribunal de poursuivre la procédure et de rendre sa sentence définitive. Le fait pour une partie de ne
 pas se présenter ou de ne pas faire valoir ses moyens ne fait pas obstacle au déroulement de la procédure. Avant de rendre sa
 sentence définitive, le tribunal arbitral doit s’assurer que la demande est fondée en fait et en droit.
-\13. Le tribunal arbitral peut connaître et décider des demandes reconventionnelles directement liées à l’objet du différend.
-\14. À moins que le tribunal d’arbitrage n’en décide autrement en raison des circonstances particulières de l’affaire, les frais
+13\. Le tribunal arbitral peut connaître et décider des demandes reconventionnelles directement liées à l’objet du différend.
+14\. À moins que le tribunal d’arbitrage n’en décide autrement en raison des circonstances particulières de l’affaire, les frais
 du tribunal, y compris la rémunération de ses membres, sont supportés à parts égales par les parties au différend. Le tribunal
 tient un relevé de tous ses frais et en fournit un état final aux parties.
-\15. Toute Partie à la présente Convention ayant, en ce qui concerne l’objet du différend, un intérêt d’ordre juridique susceptible d’être affecté par la décision rendue dans l’affaire peut intervenir dans la procédure, avec l’accord du tribunal.
-\16. Le tribunal arbitral rend sa sentence dans les cinq mois suivant la date à laquelle il a été constitué, à moins qu’il ne juge
+15\. Toute Partie à la présente Convention ayant, en ce qui concerne l’objet du différend, un intérêt d’ordre juridique susceptible d’être affecté par la décision rendue dans l’affaire peut intervenir dans la procédure, avec l’accord du tribunal.
+16\. Le tribunal arbitral rend sa sentence dans les cinq mois suivant la date à laquelle il a été constitué, à moins qu’il ne juge
 nécessaire de prolonger ce délai d’une durée qui ne devrait pas excéder cinq mois.
-\17. La sentence du tribunal arbitral est assortie d’un exposé des motifs. Elle est définitive et obligatoire pour toutes les parties
+17\. La sentence du tribunal arbitral est assortie d’un exposé des motifs. Elle est définitive et obligatoire pour toutes les parties
 au différend. Le tribunal arbitral la communique aux parties au différend et au secrétariat. Ce dernier transmet les informations
 reçues à toutes les Parties à la présente Convention.
-\18. Tout différend entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des
+18\. Tout différend entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des
 parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet
 effet de la même manière que le premier.
 
@@ -31412,7 +31412,7 @@ Organismes nuisibles inconnus dans la Communauté et importants pour toute la Co
 a)
 
 Insectes, acariens et nématodes à tous les stades de leur développement
-1.
+1\.
 
 Acleris spp. (non européen)
 
@@ -31420,32 +31420,32 @@ Acleris spp. (non européen)
 «1.1. Agrilus anxius Gory
 1.2. Agrilus planipennis Fairmaire
 1.3. Anthonomus eugenii Cano»
-2.
+2\.
 
 Amauromyza maculosa (Malloch)
 
-3.
+3\.
 
 Anomala orientalis Waterhouse
 
-4.
+4\.
 
 Anoplophora chinensis (Thomson)
 
 4.1. Anoplophora glabripennis (Motschulsky)
 (Règl. g.-d. du 29 août 2019)
 « 4.2. Aromia bungii (Faldermann) »
-5.
+5\.
 
 (supprimé par le règl. g.-d. du 17 avril 2018)
 
-6.
+6\.
 
 Arrhenodes minutus Drury
 
 (Règl. g.-d. du 17 avril 2018)
 « 6.1. Bactericera cockerelli (Sulc.) »
-7.
+7\.
 
 Bemisia tabaci Genn. (populations non européennes) vecteur de virus tels que:
 a)
@@ -31457,7 +31457,7 @@ b)
 Cowpea mild mottle virus
 \- 390 -
 
-8.
+8\.
 
 c)
 
@@ -31492,11 +31492,11 @@ c)
 
 Graphocephala atropunctata (Signoret)
 
-9.
+9\.
 
 Choristoneura spp. (non européen)
 
-10.
+10\.
 
 Conotrachelus nenuphar (Herbst)
 
@@ -31511,30 +31511,30 @@ Règl. g.-d. du 14 octobre 2014)
 «10.5. Diaphorina citri Kuway»
 (Règl. g.-d. du 29 août 2019)
 « 10.6. Grapholita packardi Zeller »
-11.
+11\.
 
 Heliothis zea (Boddie)
 
 11.1. Hirschmanniella spp., à l’exception de Hirschmanniella gracilis (de Man) Luc & Goodey
 (Règl. g.-d. du 17 avril 2018)
 « 11.2.Keiferia lycopersicella (Walsingham) »
-12.
+12\.
 
 Liriomyza sativae Blanchard
 
-13.
+13\.
 
 Longidorus diadecturus Eveleigh et Allen
 
-14.
+14\.
 
 Monochamus spp. (non européen)
 
-15.
+15\.
 
 Myndus crudus Van Duzee
 
-16.
+16\.
 
 Nacobbus aberrans (Thorne) Thorne et Allen
 
@@ -31542,15 +31542,15 @@ Nacobbus aberrans (Thorne) Thorne et Allen
 (Règl. g.-d. du 29 août 2019)
 « 16.2. Neoleucinodes elegantalis (Guenée)
 16.3. Oemona hirta (Fabricius) »
-17.
+17\.
 
 Premnotrypes spp. (non européen)
 
-18.
+18\.
 
 Pseudopityophthorus minutissimus (Zimmermann)
 
-19.
+19\.
 
 Pseudopityophthorus pruinosus (Eichhoff)
 
@@ -31558,27 +31558,27 @@ Pseudopityophthorus pruinosus (Eichhoff)
 «19.1. Rhynchophorus palmarum (L.)»
 (Règl. g.-d. du 17 avril 2018)
 « 19.2. Saperda candida Fabricius »
-20.
+20\.
 
 Scaphoideus luteolus (Van Duzee)
 
-21.
+21\.
 
 Spodoptera eridania (Cramer)
 
-22.
+22\.
 
 Spodoptera frugiperda (Smith)
 
-23.
+23\.
 
 Spodoptera litura (Fabricus)
 
-24.
+24\.
 
 Thrips palmi Karny
 
-25.
+25\.
 
 Tephritidae (non européens tels que):
 a)
@@ -31673,18 +31673,18 @@ w) Rhagoletis suavis (Loew)
 
 b)
 
-26.
+26\.
 
 Xiphinema americanum Cobb sensu lato (populations non européennes)
 
-27.
+27\.
 
 Xiphinema californicum Lamberti et Bleve-Zacheo
 
 Bactéries
 (Règl. g.-d. du 14 octobre 2014)
 «0.1. Candidatus Liberibacter spp., agent causal de la maladie du huanglongbing des agrumes»
-1.
+1\.
 
 (supprimé par le règl. g.-d. du 17 avril 2018)
 
@@ -31701,15 +31701,15 @@ Xanthomonas citri pv. aurantifolii
 Xanthomonas citri pv. citri »
 
 Champignons
-1.
+1\.
 
 Ceratocystis fagacearum (Bretz) Hunt
 
-2.
+2\.
 
 Chrysomyxa arctostaphyli Dietel
 
-3.
+3\.
 
 Cronartium spp. (non européen)
 
@@ -31723,39 +31723,39 @@ Elsinoë citricola X.L. Fan, R.W. Barreto & Crous.
 
 Elsinoë fawcettii Bitanc. & Jenk »
 
-4.
+4\.
 
 Endocronartium spp. (non européen)
 
-5.
+5\.
 
 Guignardia laricina (Saw.) Yamamoto et Ito
 
-6.
+6\.
 
 Gymnosporangium spp. (non européen)
 
-7.
+7\.
 
 Inonotus weirii (Murril) Kotlaba et Pouzar
 
-8.
+8\.
 
 Melampsora farlowii (Arthur) Davis
 
-9.
+9\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-10.
+10\.
 
 Mycosphaerella larici-leptolepis Ito et al.
 
-11.
+11\.
 
 Mycosphaerella populorum G. E. Thompson
 
-12.
+12\.
 
 Phoma andina Turkensteen
 
@@ -31764,30 +31764,30 @@ Phoma andina Turkensteen
 
 \- 392 -
 
-13.
+13\.
 
 « Phyllosticta solitaria Ellis & Everhart. »1
 
-14.
+14\.
 
 Septoria lycopersici Speg. var. malagutii Ciccarone et Boerema
 
-15.
+15\.
 
 Thecaphora solani Barrus
 
 15.1. Tilletia indica Mitra
-16.
+16\.
 d)
 
 Trechispora brinkmannii (Bresad.) Rogers
 
 Virus et organismes analogues
-1.
+1\.
 
 (supprimé par le règl. g.-d. du 17 avril 2018)
 
-2.
+2\.
 
 Virus et organismes analogues de la pomme de terre:
 a)
@@ -31818,15 +31818,15 @@ g)
 
 Isolats non européens des virus A, M, S, V, X et Y (y compris Yo, Yn et Yc), ainsi que du Potato leafroll virus
 
-3.
+3\.
 
 Tobacco ringspot virus
 
-4.
+4\.
 
 Tomato ringspot virus
 
-5.
+5\.
 
 Virus et organismes analogues de Cydonia Mill., Fragaria L., Malus Mill., Prunus L., Pyrus L., Ribes L., Rubus L.
 et Vitis L. tels que:
@@ -31880,7 +31880,7 @@ Strawberry vein banding virus
 
 m) Strawberry witches’ broom mycoplasm (mycoplasme des balais de sorcière du fraisier)
 n)
-6.
+6\.
 
 e)
 
@@ -31917,7 +31917,7 @@ g)
 Florida tomato virus
 
 Plantes parasites
-1.
+1\.
 
 Arceuthobium spp. (non européenne)
 
@@ -31936,11 +31936,11 @@ Modifié par le règl. g.-d. du 17 avril 2018.
 
 (Règl. g.-d. du 18 juin 2014)
 (…)
-1.
+1\.
 
 Globoderapallida (Stone) Behrens
 
-2.
+2\.
 
 Globodera rostochiensis (Wollenweber) Behrens
 
@@ -31948,18 +31948,18 @@ Globodera rostochiensis (Wollenweber) Behrens
 (…)
 6.1. Meloidogyne chitwoodi Golden et al. (toutes populations)
 6.2. Meloidogyne fallax Karssen
-7.
+7\.
 
 Opogona sacchari (Bojer)
 
 (Règl. g.-d. du 29 août 2019)
 « 7.1. Pityophthorus juglandis Blackman »
-8.
+8\.
 
 « Popillia japonica Newman »1
 
 8.1. Rhizoecus hibisci Kawai et Takagi
-9.
+9\.
 
 Spodoptera littoralis (Boisduval)
 
@@ -31970,11 +31970,11 @@ b)
 Trioza erytreae Del Guercio»
 
 Bactéries
-1.
+1\.
 
 Clavibacter michiganensi (Smith) Davis et al. ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al.
 
-2.
+2\.
 
 (Règl. g.-d. du 14 octobre 2014) «Ralstonia solanacearum (Smith) Yabuuchi et al.»
 
@@ -31998,26 +31998,26 @@ Fusarium circinatum Nirenberg & O’Donnell
 
 Geosmithia morbida Kolarík, Freeland, Utley & Tisserat »
 
-1.
+1\.
 
 Melampsora medusae Thümen
 
-2.
+2\.
 
 Synchytrium endobioticum (Schilbersky) Percival
 
 Virus et organismes analogues
-1.
+1\.
 
 Mycoplasme de la prolifération du pommier (Apple proliferation mycoplasm)
 
-2.
+2\.
 
 Mycoplasme de l’enroulement chlorotique de l’abricotier (Apricot chlorotic leafroll mycoplasm)
 
 (Règl. g.-d. du 17 avril 2018)
 « 2.1. ‘Candidatus Phytoplasma ulmi’ »
-3.
+3\.
 
 Mycoplasme du dépérissement du poirier (Pear decline mycoplasm)
 
@@ -32086,7 +32086,7 @@ S (comtés de Blekinge, Gotland, Halland, Kalmar et Skåne),
 FI (districts de Åland, Häme, Kymi, Pirkanmaa, Satakunta,
 Turku et Uusimaa) »
 
-4.
+4\.
 
 Liriomyza bryoniae (Kaltenbach)
 
@@ -32133,11 +32133,11 @@ Maidenhead ; Woking, Wokingham et Wycombe) »1
 Virus et organismes analogues
 Espèce
 
-1.
+1\.
 
 Virus de la rhizomanie
 
-2.
+2\.
 
 (. . .)3
 
@@ -32166,7 +32166,7 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Aculops fuchsiae Keifer
 
@@ -32177,61 +32177,61 @@ des semences
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-2.
+2\.
 
 « Aleurocanthus spp. »(1)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-3.
+3\.
 
 Anthonomus bisignifer (Schenkling)
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-4.
+4\.
 
 Anthonomus signatus (Say)
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-5.
+5\.
 
 « Aonidiella citrina Coquillet » (1)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-6.
+6\.
 
 Aphelenchoïdes besseyi Christie(2)
 
 Semences de Oryza spp.
 
-7.
+7\.
 
 Aschistonyx eppoi Inouye
 
 Végétaux de Juniperus L., à l’exception des fruits et semences, originaires de pays non européens
 
-8.
+8\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-9.
+9\.
 
 Carposina niponensis Walsingham
 
-10.
+10\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-11.
+11\.
 
 (. . .) (supprimé par le règl. g.-d. du 29 août 2019)
 
-12.
+12\.
 
 Enarmonia prunivora Walsh
 
@@ -32239,25 +32239,25 @@ Végétaux de Crataegus L., Malus Mill., Photinia Ldl., Prunus
 L. et Rosa L., destinés à la plantation, à l’exception des semences, et fruits de Malus Mill. et Prunus L., originaires de
 pays non européens
 
-13.
+13\.
 
 Eotetranychus lewisi McGregor
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-14.
+14\.
 
 Supprimé
 
-15.
+15\.
 
 Grapholita inopinata Heinrich
 
 Végétaux de Cydonia Mill., Malus Mill., Prunus L. et Pyrus L.,
 à l’exception des semences, originaires de pays non européens
 
-16.
+16\.
 
 Hishomonus phycitis
 
@@ -32276,21 +32276,21 @@ Espèce
 
 Objet de la contamination
 
-17.
+17\.
 
 Leucaspis japonica Ckll.
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-18.
+18\.
 
 Listronotus bonariensis (Kuschel)
 
 Semences de Cruciferae, Graminae et Trifolium spp., originaires de l’Argentine, de l’Australie, de la Bolivie, du Chili, de
 la Nouvelle-Zélande et de l’Uruguay
 
-19.
+19\.
 
 Margarodes, espèces non européennes, telles que:
 a) Margarodes vitis (Phillipi)
@@ -32299,19 +32299,19 @@ c) Margarodes prieskaensis Jakubski
 
 Végétaux de Vitis L., à l’exception des fruits et semences
 
-20.
+20\.
 
 Numonia pirivorella (Matsumura)
 
 Végétaux de Pyrus L., à l’exception des semences, originaires de pays non européens
 
-21.
+21\.
 
 Oligonychus perditus Pritchard et Baker
 
 Végétaux de Juniperus L., à l’exception des fruits et semences, originaires de pays non européens
 
-22.
+22\.
 
 Pissodes spp. (non européen)
 
@@ -32320,7 +32320,7 @@ et semences, bois de conifères (coniférales), avec écorce,
 écorce isolée de conifères (coniférales), originaires de pays
 non européens
 
-23.
+23\.
 
 Radopholus citrophilus Huettel Dickson et Kaplan
 
@@ -32330,28 +32330,28 @@ Strelitziaceae, racinés ou avec milieu de culture adhérant ou
 associé
 
 (Règl. g.-d. du 10 juin 2009) «(…)»
-25.
+25\.
 
 Scirtothrips aurantii Faure
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des semences
 
-26.
+26\.
 
 Scirtothrips dorsalis Hood
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-27.
+27\.
 
 Scirtothrips citri (Moultex)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des semences
 
-28.
+28\.
 
 Scolytidae spp. (non européens)
 
@@ -32366,25 +32366,25 @@ Scrobipalpopsis solanivora Povolny
 
 Tubercules de Solanum tuberosum L.»
 
-29.
+29\.
 
 Tachypterellus quadrigibbus Say
 
 Végétaux de Cydonia Mill., Malus Mill., Prunus L. et Pyrus L.,
 à l’exception des semences, originaires de pays non européens
 
-30.
+30\.
 
 Taxoptera citricida Kirk.
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-31.
+31\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-32.
+32\.
 
 Unaspis citri Comstock
 
@@ -32398,18 +32398,18 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-2.
+2\.
 
 Citrus variegated chlorosis
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-3.
+3\.
 
 Erwinia stewartii (Smith) Dye
 
@@ -32423,11 +32423,11 @@ Espèce
 
 Objet de la contamination
 
-4.
+4\.
 
 (. . .) (supprimé par le règl. g.-d. du 17 avril 2018)
 
-5.
+5\.
 
 Xanthomonas campestris pv. oryzae (Ishiyama) Dye Semences d’Oryza spp.
 et pv. oryzicola (Fang. et al.) Dye
@@ -32439,7 +32439,7 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Alternaria alternata (Fr.) Keissler (isolats patho- Végétaux de Cydonia Mill., Malus Mill. et Pyrus L., destinés à
 gènes non européens)
@@ -32453,21 +32453,21 @@ Anisogramma anomala (Peck) E. Müller
 Végétaux de Corylus L., destinés à la plantation, à l’exception des semences, originaires du Canda et des États-Unis
 d’Amérique
 
-2.
+2\.
 
 Apiosporina morbosa (Schwein.) v. Arx
 
 Végétaux de Prunus L., destinés à la plantation, à l’exception
 des semences
 
-3.
+3\.
 
 Atropellis spp.
 
 Végétaux de Pinus L., à l’exception des fruits et semences,
 écorce isolée et bois de Pinus L.
 
-4.
+4\.
 
 Ceratocystis virescens (Davidson) Moreau
 
@@ -32476,51 +32476,51 @@ et semences, originaires des États-Unis d’Amérique et du
 Canada, bois d’Acer saccharum Marsh., y compris celui qui
 n’a pas gardé sa surface ronde naturelle, originaire des ÉtatsUnis et du Canada
 
-5.
+5\.
 
 Cercoseptoria pini-densiflorae (Hori et Nambu) Végétaux de Pinus L., à l’exception des fruits et semences,
 Deighton
 et bois de Pinus L.
 
-6.
+6\.
 
 Cercospora angolensis Carv. et Mendes
 
-7.
+7\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-8.
+8\.
 
 Diaporthe vaccinii Shaer
 
-9.
+9\.
 
 (. . .) (supprimé par le règl. g.-d. du 29 août 2019)
 
-10.
+10\.
 
 Fusarium oxysporum f. sp. albedinis (Kilian et Maire) Végétaux de Phoenix spp., à l’exception des fruits et seGordon
 mences
 
-11.
+11\.
 
 (. . .) (supprimé par le règl. g.-d. du 17 avril 2018)
 
-12.
+12\.
 
 Guignardia piricola (Nosa) Yamamoto
 
 Végétaux de Cydonia Mill., Malus Mill., Prunus L. et Pyrus L.,
 à l’exception des semences, originaires de pays non européens
 
-13.
+13\.
 
 Puccinia pittieriana Hennings
 
 Végétaux de Solanaceae, à l’exception des fruits et semences
 
-14.
+14\.
 
 Scirrhia acicola (Dearn.) Siggers
 
@@ -32536,7 +32536,7 @@ Végétaux de Vaccinium spp., destinés à la plantation, à l’exception des s
 Stegophora ulmea (Schweinitz: Fries) Sydow & Sy- Végétaux d’Ulmus L. et de Zelkova L., destinés à la plantadow
 tion, à l’exception des semences»
 
-15.
+15\.
 
 Venturia nashicola Tanaka et Yamamoto
 
@@ -32552,33 +32552,33 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Beet curly top virus (isolats non européens)
 
 Végétaux de Beta vulgaris L., destinés à la plantation, à l’exception des semences
 
-2.
+2\.
 
 Black raspberry latent virus
 
 Végétaux de Rubus L., destinés à la plantation
 
-3.
+3\.
 
 Blight et analogue
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-4.
+4\.
 
 Viroïde du Cadang-Cadang
 
 Végétaux de Palmae destinés à la plantation, à l’exception
 des semences, originaires de pays non européens
 
-5.
+5\.
 
 Virus de l’enroulement du cerisier(1) (Cherry leafroll Végétaux de Rubus L., destinés à la plantation
 virus)
@@ -32592,27 +32592,27 @@ Végétaux de Dendranthema (DC.) Des Moul. Et (Règl. g.-d.
 du 14 octobre 2014) «Solanum lycopersicum L.», destinés à
 la plantation, à l’exception des semences»
 
-6.
+6\.
 
 Virus de la mosaïque des agrumes (Citrus mosaic Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 virus)
 leurs hybrides, à l’exception des fruits et semences
 
-7.
+7\.
 
 Virus de la tristeza (souches non européennes)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-8.
+8\.
 
 Leprose (Leprosis)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-9.
+9\.
 
 Little cherry pathogen (isolats non européens)
 
@@ -32622,41 +32622,41 @@ Prunus subhirtella Miq., Prunus yedoensis Matsum., ainsi
 que leurs hybrides et cultivars, destinés à la plantation, à
 l’exception des semences
 
-10.
+10\.
 
 Psorosis dispersé naturellement
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-11.
+11\.
 
 Mycoplasme du jaunissement létal du palmier
 
 Végétaux de Palmae, destinés à la plantation, à l’exception
 des semences, originaires de pays non européens
 
-12.
+12\.
 
 Prunus necrotic ringspot virus(2)
 
 Végétaux de Rubus L., destinés à la plantation
 
-13.
+13\.
 
 Virus nanifiant du Satsuma (Satsuma dwarf virus)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-14.
+14\.
 
 Virus de la feuille lascinée (Tatter leaf virus)
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-15.
+15\.
 
 Balai de sorcière (MLO) (Witches’ broom MLO)
 
@@ -32677,19 +32677,19 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Aphelenchoides besseyi Christie
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-2.
+2\.
 
 Daktulosphaira vitifoliae (Fitch)
 
 Végétaux de Vitis L., à l’exception des fruits et semences
 
-3.
+3\.
 
 Ditylenchus destructor Thorne
 
@@ -32700,7 +32700,7 @@ Sweet, Gladiolus nanus hort., Gladiolus ramosus hort., Gladiolus tubergenii hort
 Tulipa L., destinés à la plantation, et tubercules de pommes
 de terre (Solanum tuberosum L.), destinés à la plantation
 
-4.
+4\.
 
 Ditylenchus dipsaci (Kühn) Filipjev
 
@@ -32711,14 +32711,14 @@ flavus Weston «Golden Yellow», Galanthus L., Galtonia candicans (Baker) Decne,
 Scilla L., Tulipa L., destinés à la plantation, et semences de
 Medicago sativa L.
 
-5.
+5\.
 
 Circulifer haematoceps
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-6.
+6\.
 
 Circulifer tenellus
 
@@ -32748,7 +32748,7 @@ Parasaissetia nigra (Nietner)
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences»
 
-7.
+7\.
 
 Radopholus similis (Cobb) Thorne
 
@@ -32756,7 +32756,7 @@ Végétaux de Araceae, Marantaceae, Musaceae, Persea spp.,
 Strelitziaceae, racinés ou avec milieu de culture adhérant ou
 associé
 
-8.
+8\.
 
 Liriomyza huidobrensis (Blanchard)
 
@@ -32769,7 +32769,7 @@ autres que:
 – rhizomes,
 – semences
 
-9.
+9\.
 
 Liriomyza trifolii (Burgess)
 
@@ -32806,60 +32806,60 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Clavibacter michiganensis spp. Insidiosus (McCul- Semences de Medicago sativa L.
 loch) Davis et al.
 
-2.
+2\.
 
 Clavibacter michiganensis
 (Smith) Davis et al.
 
-3.
+3\.
 
 Erwinia amylovora (Burr.) Winsl. et al.
 
-4.
+4\.
 
 Erwinia chrysanthemi pv. dianthicola (Hellmers) Dic- Végétaux de Dianthus L. destinés à la plantation, à l’exception
 key
 des semences
 
-5.
+5\.
 
 Pseudomonas caryophylli (Burkholder) Starr et Végétaux de Dianthus L. destinés à la plantation, à l’exception
 Burkholder
 des semences
 
-6.
+6\.
 
 Pseudomonas syringae pv. persicae (Prunier et al.) Végétaux de Prunus persica (L.) Batsch et Prunus persica
 Young et al.
 var. nectarina (Ait.) Maxim, destinés à la plantation, à l’exception des semence
 
-7.
+7\.
 
 Xanthomonas campestris pv. phaseoli (Smith) Dye
 
-8.
+8\.
 
 (Règl. g.-d. du 17 avril 2018) « Xanthomonas arbori- Végétaux de Prunus L., destinés à la plantation, à l’exception
 cola pv. pruni (Smith) Vauterin et al. »
 des semences
 
-9.
+9\.
 
 Xanthomonas campestris pv. vesicatoria (Doidge) Végétaux de Lycopersicon (Règl. g.-d. du 14 octobre 2014)
 Dye
 «Solanum lycopersicum L.» et Capsicum spp., destinés à la
 plantation
 
-10.
+10\.
 
 Xanthomonas fragariae Kennedy et King
 
-11.
+11\.
 
 Xylophilus ampelinus (Panagopoulos) Willems et al. Végétaux de Vitis L., à l’exception des fruits et semences
 
@@ -32881,44 +32881,44 @@ Végétaux de Fragaria L., destinés à la plantation, à l’exception des seme
 Champignons
 Espèce
 
-1.
+1\.
 
 Objet de la contamination
 
 (. . .) (supprimé par le règl. g.-d. du 29 août 2019)
 
 (Règl. g.-d. du 14 novembre 2008) «(…)»
-3.
+3\.
 
 Cryphonectria parasitica (Murrill) Barr
 
 Végétaux de Castanea Mill. et Quercus L., destinés à la plantation, à l’exception des semences
 
-4.
+4\.
 
 Didymella ligulicola (Baker, Dimock et Davis) v. Arx
 
 Végétaux de Dendranthema (DC.) Des Moul., destinés à la
 plantation, à l’exception des semences
 
-5.
+5\.
 
 Phialophora cinerescens (Wollenweber) van Beyma Végétaux de Dianthus L., destinés à la plantation, à l’exception des semences
 
-6.
+6\.
 
 Phoma tracheiphila (Petri) Kanchaveli et Gikashvili
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des semences
 
-7.
+7\.
 
 Phytophthora fragariae Hickmann var. fragariae
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-8.
+8\.
 
 Plasmopara halstedii (Farlow) Berl. et de Toni
 
@@ -32930,28 +32930,28 @@ Espèce
 
 Objet de la contamination
 
-9.
+9\.
 
 Puccinia horiana Hennings
 
 Végétaux de Dendranthema (DC.) Des Moul., destinés à la
 plantation, à l’exception des semences
 
-10.
+10\.
 
 Scirrhia pini Funk et Parker
 
 Végétaux de Pinus L., destinés à la plantation, à l’exception
 des semences
 
-11.
+11\.
 
 Verticillium albo-atrum Reinke et Berthold
 
 Végétaux de Humulus lupulus L., destinés à la plantation, à
 l’exception des semences
 
-12.
+12\.
 
 Verticillium dahliae Klebahn
 
@@ -32965,40 +32965,40 @@ Espèce
 
 Objet de la contamination
 
-1.
+1\.
 
 Virus de la mosaïque de l’arabatte
 
 Végétaux de Fragaria L. et Rubus L., destinés à la plantation,
 à l’exception des semences
 
-2.
+2\.
 
 Beet leaf curl virus
 
 Végétaux de Beta vulgaris L., destinés à la plantation, à l’exception des semences
 
-3.
+3\.
 
 Viroïde nanifiant du chrysanthème (Chrysanthe- Végétaux de Dendranthema (DC.) Des Moul., destinés à la
 mum stunt viroid)
 plantation, à l’exception des semences
 
-4.
+4\.
 
 Virus de la tristeza (souches européennes)
 
-5.
+5\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-6.
+6\.
 
 Mycoplasme de la flavescence dorée
 
 Végétaux de Vitis L., à l’exception des fruits et semences
 
-7.
+7\.
 
 Virus de la sharka
 
@@ -33018,52 +33018,52 @@ de Solanum lycopersicum L. et ses hybrides, de Capsicum
 annuum L., de Capsicum frutescens L. et des végétaux de
 Solanum tuberosum L. »
 
-8.
+8\.
 
 Mycoplasme du stolbur de la pomme de terre
 
 Végétaux de Solanaceae, destinés à la plantation, à l’exception des semences
 
-9.
+9\.
 
 Raspberry ringspot virus
 
 Végétaux de Fragaria L. et Rubus L., destinés à la plantation,
 à l’exception des semences
 
-10.
+10\.
 
 Spiroplasma citri Saglio et al.
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et
 leurs hybrides, à l’exception des fruits et semences
 
-11.
+11\.
 
 Strawberry crinkle virus
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-12.
+12\.
 
 Strawberry latent ringspot virus
 
 Végétaux de Fragaria L. et Rubus L., destinés à la plantation,
 à l’exception des semences
 
-13.
+13\.
 
 Strawberry mild yellow edge virus
 
 Végétaux de Fragaria L., destinés à la plantation, à l’exception des semences
 
-14.
+14\.
 
 Virus des anneaux noirs de la tomate (Tomato black Végétaux de Fragaria L. et Rubus L., destinés à la plantation,
 ring virus)
 à l’exception des semences
 
-15.
+15\.
 
 Tomato spotted wilt virus
 
@@ -33078,7 +33078,7 @@ destinés à la plantation, à l'exception des semences
 \- 402 -
 
 Espèce
-16.
+16\.
 
 Tomato yellow leaf curl virus
 
@@ -33099,21 +33099,21 @@ Objet de la contamination
 
 Zones protégées
 
-1.
+1\.
 
 Anthonomus grandis (Boh.)
 
 Semences et fruits (capsules) de Gos- EL, E (Andalousie, Catalogne, Estrémasypium spp. et coton non égrené
 dure, Murcie, Valence)
 
-2.
+2\.
 
 Cephalcia lariciphila (Klug)
 
 Végétaux de Larix Mill., destinés à la IRL, UK (Irlande du Nord, île de Man et
 plantation, à l’exception des semences Jersey)
 
-3.
+3\.
 
 Dendroctonus micans Kugelan
 
@@ -33124,7 +33124,7 @@ l’exception des fruits et semences, bois
 de conifères (coniférales) avec écorce,
 écorce isolée de conifères
 
-4.
+4\.
 
 Gilpinia hercyniae (Hartig)
 
@@ -33132,14 +33132,14 @@ Végétaux de Picea A. Dietr., destinés EL, IRL, UK (Irlande du Nord, île de
 à la plantation, à l’exception des se- Man et Jersey)
 mences
 
-5.
+5\.
 
 Gonipterus scutellatus Gyll.
 
 Végétaux d’Eucalyptus l’Hérit., à l’ex- EL, P (Açores)
 ception des fruits et semences
 
-6.
+6\.
 
 a)
 
@@ -33217,15 +33217,15 @@ Sabal Adans., Syagrus Mart., Trachycarpus H. Wendl., Trithrinax Mart., Washingto
 Rhynchophorus ferrugineus
 (Olivier)
 
-7.
+7\.
 
 Supprimé [2002/28]
 
-8.
+8\.
 
 Supprimé [2001/33]
 
-9.
+9\.
 
 Sternochetus mangiferae Fa- Semences de Mangifera spp. originaires E (Grenade et Malaga), P (Alentejo,
 bricius
@@ -33271,7 +33271,7 @@ les fruits et les semences
 Bactéries
 Espèce
 
-1.
+1\.
 
 Objet de la contamination
 
@@ -33404,11 +33404,11 @@ plantation de Castanea Mill. et végétaux
 destinés à la plantation, autres que les
 semences, de Quercus L.
 
-1.
+1\.
 
 Glomerella gossypii Edgerton
 
-2.
+2\.
 
 Gremmeniella abietina (Lag.) Végétaux d’Abies Mill., Larix Mill., Picea IRL, (. . .) (supprimé par le règl. g.-d. du
 Morelet
@@ -33416,7 +33416,7 @@ A. Dietr., Pinus L. et Pseudotsuga Carr., 29 août 2019)
 destinés à la plantation, à l’exception
 des semences
 
-3.
+3\.
 
 Hypoxylon mammatum (Wahl.) Végétaux de Populus L., destinés à la IRL, UK (Irlande du Nord)
 J. Miller
@@ -33442,7 +33442,7 @@ Zones protégées
 Végétaux de Ulmus L., destinés à la UK »
 plantation, autres que les semences
 
-1.
+1\.
 
 Citrus tristeza virus (isolats Fruits de Citrus L., Fortunella Swingle, (Règl. g.-d. du 29 août 2019) « EL (exeuropéens)
 Poncirus Raf., et leurs hybrides, avec cepté les unités régionales d’Argolide,
@@ -33472,48 +33472,48 @@ Description
 
 Pays d’origine
 
-1.
+1\.
 
 Végétaux de Abies Mill., Cedrus Trew, Chamaecy- Pays non européens
 paris Spach, Juniperus L., Larix Mill., Picea A. Dietr.,
 Pinus L., Pseudotsuga Carr. et Tsuga Carr., à l’exception des fruits et semences
 
-2.
+2\.
 
 Végétaux de Castanea Mill. et Quercus L., avec Pays non européens
 feuilles, à l’exception des fruits et semences
 
-3.
+3\.
 
 Végétaux de Populus L., avec feuilles, à l’exception Pays d’Amérique du Nord
 des fruits et semences
 
-4.
+4\.
 
 supprimé
 
-5.
+5\.
 
 Écorce isolée de Castanea Mill.
 
-6.
+6\.
 
 Écorce isolée de Quercus L., à l’exception de Quer- Pays d’Amérique du Nord
 cus suber L.
 
-7.
+7\.
 
 Écorce isolée d’Acer saccharum Marsh.
 
 Pays d’Amérique du Nord
 
-8.
+8\.
 
 Écorce isolée de Populus L.
 
 Pays du continent américain
 
-9.
+9\.
 
 Végétaux de Chaenomeles Lindl., Cydonia Mill., Pays non européens
 Crataegus L., Malus Mill., Prunus L., Pyrus L. et
@@ -33527,18 +33527,18 @@ Végétaux de Photinia Ldl., destinés à la planta- États-Unis d’Amérique, 
 tion, autres que les végétaux dormants exempts de et République populaire démocratique de Corée
 feuilles, de fleurs et de fruits
 
-10.
+10\.
 
 Semences (tubercules) de Solanum tuberosum L.
 
-11.
+11\.
 
 Végétaux des espèces de Solanum à tubercules ou Pays tiers
 à stolons, ou leurs hybrides, destinés à la plantation,
 à l’exception des tubercules de Solanum tuberosum
 L. visés à l’annexe III, partie A, point 10
 
-12.
+12\.
 
 Tubercules d’espèces de Solanum L. et leurs hy- Sans préjudice des exigences particulières applicables aux
 brides, à l’exception de ceux visés aux points 10 et tubercules de pommes de terre visés à la partie A, chapitre I,
@@ -33551,7 +33551,7 @@ ayant respecté des dispositions considérées comme équivalant à celles arrê
 ce même organisme, conformément à la procédure prévue à
 l’article 18, paragraphe 2
 
-13.
+13\.
 
 Végétaux de Solanaceae destinés à la plantation, Pays tiers, à l’exception des pays européens et méditerraà l’exception des semences et des produits visés à néens
 l’annexe III, partie A, points 10, 11 ou 12
@@ -33578,31 +33578,31 @@ Description
 
 Pays d’origine
 
-15.
+15\.
 
 Végétaux de Vitis L., à l’exception des fruits
 
 Pays tiers
 
-16.
+16\.
 
 Végétaux de Citrus L., Fortunella Swingle et Pon- Pays tiers
 cirus Raf., ainsi que leurs hybrides, à l’exception des
 fruits et semences
 
-17.
+17\.
 
 Végétaux de Phoenix spp. à l’exception des fruits et Algérie, Maroc
 semences
 
-18.
+18\.
 
 Végétaux de Cydonia Mill., Malus Mill., Prunus L. Sans préjudice des interdictions applicables aux végétaux
 et Pyrus L., ainsi que leurs hybrides, et Fragaria L., visés au point 9 de la partie A de l’annexe III, si nécessaire,
 destinés à la plantation, à l’exception des semences pays non européens autres que les pays méditerranéens,
 l’Australie, la Nouvelle-Zélande, le Canada et les États continentaux des États-Unis d’Amérique
 
-19.
+19\.
 
 Végétaux de la famille des Gramineae, destinés à la Pays tiers, autres que les pays européens et méditerranéens
 plantation, à l’exception des semences et des végétaux des espèces herbacées ornementales vivaces
@@ -33677,7 +33677,7 @@ de Man et îles Anglo-Normandes) »
 \- 409 -
 
 Description
-2)
+2\)
 
 Zones protégées
 
@@ -34290,7 +34290,7 @@ démocratique de Corée, de Russie et de Taïwan.
 \- 417 -
 
 Végétaux, produits végétaux et autres objets
-3.
+3\.
 
 (Règl. g.-d. du 14 octobre 2014) «Bois de Quercus
 L., à l’exception du bois sous forme de:
@@ -34399,7 +34399,7 @@ copeaux, plaquettes, particules, sciure, déchets
 de bois et chutes, issus en tout ou en partie, de
 Platanus L., originaires d’Albanie, d’Arménie, des
 États-Unis d’Amérique, de Suisse et de Turquie
-6.
+6\.
 
 (Règl. g.-d. du 14 octobre 2014) «Bois de Populus
 L., à l’exception du bois sous forme de:
@@ -34648,7 +34648,7 @@ une température minimale de 56 °C pendant une durée
 d’au moins 30 minutes dans l’ensemble du bois, qui doit
 être attesté sur les certificats visés à l’article 13, paragraphe 1, point ii)). »
 
-8.
+8\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
@@ -34668,7 +34668,7 @@ semences, originaires des pays non européens
 la partie A, chapitre I, de l’annexe IV, le cas échéant, constatation officielle que les végétaux ont été produits dans des
 pépinières et que le lieu de production est exempt de Scolytidae spp. (non européens)
 
-9.
+9\.
 
 Végétaux de Pinus L., destinés à la plantation à Sans préjudice des dispositions applicables aux végétaux
 l’exception des semences
@@ -34678,7 +34678,7 @@ Siggers ou Scirrhia pini Funk et Parker n’a été observé sur le
 lieu de production ou dans ses environs immédiats depuis le
 début de la dernière période complète de végétation
 
-10.
+10\.
 
 Végétaux de Abies Mill., Larix Mill., Picea A. Dietr., Sans préjudice des dispositions applicables aux végétaux
 Pinus L. Pseudotsuga Carr. et Tsuga Carr., des- visés au point 1 de la partie A de l’annexe III et aux points
@@ -34862,7 +34862,7 @@ qu’aucun symptôme de Mycosphaerella populorum G. E.
 Thompson n’a été observé sur le lieu de production ou dans
 ses environs immédiats depuis le début de la dernière période complète de végétation.
 
-14.
+14\.
 
 Végétaux de Ulmus L., destinés à la plantation, à (Règl. g.-d. du 17 avril 2018)
 l’exception des semences, originaires des pays « Sans préjudice des dispositions applicables aux végétaux
@@ -34959,11 +34959,11 @@ iv) immédiatement avant l’exportation, les végétaux ont
 détecter la présence de Grapholita packardi Zeller,
 c) ont été cultivés dans un site faisant l’objet d’une protection physique complète contre l’introduction de Grapholita packardi Zeller ».
 
-15.
+15\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
-16.
+16\.
 
 (…) (Abrogé par le règl. g.-d. du 14 octobre 2014)
 
@@ -35382,7 +35382,7 @@ méthode de traitement ait été communiquée à l’avance
 et par écrit à la Commission par l’organisation nationale
 de protection des végétaux du pays tiers concerné. »
 
-17.
+17\.
 
 Végétaux des genres Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus
 L., Photinia davidiana (Dcne.) Cardot, Pyracantha
@@ -35406,7 +35406,7 @@ amylovora (Burr.) Winsl. et al., dans le champ de production ou dans ses environ
 \- 437 -
 
 Végétaux, produits végétaux et autres objets
-18.
+18\.
 
 Végétaux de Citrus L., Fortunella Swingle, Poncirus Raf., et leurs hybrides, à l’exception des fruits
 et semences et végétaux d’Araceae, de Marantaceae, de Musaceae, de Persea spp. et de Strelitziaceae, racinés ou avec milieu de culture adhérant ou associé
@@ -35605,7 +35605,7 @@ maladie causée par les organismes nuisibles déterminés n’a
 été constaté sur les végétaux du lieu de production depuis le
 début de la dernière période complète de végétation.
 
-20.
+20\.
 
 Végétaux de Cydonia Mill. et Pyrus L., destinés à la
 plantation, à l’exception des semences, originaires
@@ -35888,7 +35888,7 @@ qu’aucun symptôme de maladie causée par les organismes nuisibles déterminé
 végétaux du lieu de production ou sur les végétaux sensibles de ses environs immédiats depuis le début des
 trois dernières périodes complètes de végétation.
 
-24.
+24\.
 
 Végétaux de Rubus L., destinés à la plantation:
 a) originaires de pays dans lesquels l’existence
@@ -36206,7 +36206,7 @@ et
 des informations sur la traçabilité figurent sur les certificats visés à l’article 13, paragraphe 1, point ii)). »
 
 (Règl. g.-d. du 10 juin 2009) «(…)»
-26.
+26\.
 
 Végétaux de Humulus lupulus L., destinés à la Constatation officielle qu’aucun symptôme de Verticillium alplantation, à l’exception des semences
 bo-atrum Reinke et Berthold et de Verticillum dahliae Klebahn
@@ -36270,7 +36270,7 @@ les organismes susmentionnés.»
 \- 451 -
 
 Végétaux, produits végétaux et autres objets
-28.
+28\.
 
 Végétaux de Dendranthema (DC.) Des Moul., des- Sans préjudice des exigences applicables aux végétaux visés
 tinés à la plantation, à l’exception des semences
@@ -36323,7 +36323,7 @@ lieu de production reconnu comme exempt de Chrysanthemum stem necrosis virus et 
 
 Végétaux, produits végétaux et autres objets
 
-29.
+29\.
 
 Végétaux de Dianthus L., destinés à la plantation, Sans préjudice des exigences applicables aux végétaux visés
 à l’exception des semences
@@ -36335,14 +36335,14 @@ caryophylli (Burkholder) Starr et Burkholder et Phialophora cinerescens (Wollenw
 officiellement agréés, effectués au moins une fois pendant les deux dernières années,
 – qu’aucun symptôme des organismes nuisibles susmentionnés n’a été observé sur les végétaux.
 
-30.
+30\.
 
 Bulbes de Tulipa L. et Narcissus L., à l’exception Constatation officielle qu’aucun symptôme de Ditylerichus
 de ceux dont l’emballage ou tout autre élément dipsaci (Kühn) Filipjev n’a été observé sur les végétaux dedoit prouver qu’ils sont destinés à la vente directe puis le début de la dernière période complète de végétation.
 à des consommateurs finals non impliqués dans la
 profession de la fleur coupée
 
-31.
+31\.
 
 Végétaux de Pelargonium l’Hérit. ex Ait., destinés
 à la plantation, à l’exception des semences, originaires de pays où l’existence du Tomato ringspot
@@ -36655,7 +36655,7 @@ sur les certificats visés à l’article 13, paragraphe 1er, point
 ii), de la présente directive,
 b)
 
-37.
+37\.
 
 sont originaires d’un lieu de production du pays d’exportation reconnu exempt d’Anthonomus eugenii Cano par
 l’organisation de la protection des végétaux dudit pays
@@ -36731,7 +36731,7 @@ Unis d’Amérique et du Brésil
 production et que les végétaux ont été inspectés juste avant
 l’exportation et déclarés exempts d’Aculops fuchsiae Keifer.
 
-39.
+39\.
 
 Arbres et arbustes, destinés à la plantation, à l’exception des semences et des végétaux en culture
 tissulaire, originaires de pays tiers autres que ceux
@@ -36759,7 +36759,7 @@ un traitement approprié permettant d’éliminer ces organismes.
 
 Végétaux, produits végétaux et autres objets
 
-40.
+40\.
 
 Arbres et arbustes à feuilles caduques, destinés à
 la plantation, à l’exception des semences et végétaux en culture tissulaire, originaires de pays tiers
@@ -36773,7 +36773,7 @@ points 11.1, 11.2, 11.3, 12, 13.1, 13.2, 14, 15, 17, 18, 19.1,
 45.1 de la partie A, chapitre I, de l’annexe IV, le cas échéant,
 constatation officielle que les végétaux sont en repos végétatif et sans feuilles.
 
-41.
+41\.
 
 Végétaux annuels et bisannuels autres que de la
 famille des Gramineae, destinés à la plantation,
@@ -36795,7 +36795,7 @@ et organismes analogues nuisibles,
 nématodes, d’insectes, d’acariens et de champignons
 nuisibles, ou soumis à un traitement adéquat permettant d’éliminer ces organismes.
 
-42.
+42\.
 
 Végétaux de la famille des Gramineae d’espèces
 pérennes ornementales des sous-familles Bambusoideae, Panicoideae et des genres Buchloe, Bouteloua Lag., Calamagrostis, Cortaderia Stapf., Glyceria R. Br., Hakonechloa Mak. ex Honda, Hystrix,
@@ -36820,7 +36820,7 @@ nuisibles, ou soumis à un traitement approprié permettant d’éliminer ces or
 \- 460 -
 
 Végétaux, produits végétaux et autres objets
-43.
+43\.
 
 Végétaux dont la croissance est inhibée naturellement ou artificiellement, destinés à la plantation, à
 l’exception des semences, originaires de pays non
@@ -36894,7 +36894,7 @@ officiellement scellés et portant le numéro d’enregistrement de la pépiniè
 étant également indiqué, sous la rubrique «déclaration supplémentaire», sur le certificat phytosanitaire
 prévu à l’article 7 de la présente directive, permettant ainsi l’identification des lots.
 
-44.
+44\.
 
 Végétaux herbacés pérennes, destinés à la plantation, à l’exception des semences, des familles Caryophyllaceae (à l’exception du Dianthus L.), Compositae (à l’exception du Dendranthema (DC.) Des
 Moul.), Cruciferae, Leguminosae et Rosaceae (à
@@ -36976,7 +36976,7 @@ Genn. (populations non européennes)
 Végétaux, produits végétaux et autres objets
 45.3.
 
-46.
+46\.
 
 Végétaux de (Règl. g.-d. du 14 octobre 2014) «Solanum lycopersicum L.», destinés à la plantation,
 à l’exception des semences, originaires de pays
@@ -37064,7 +37064,7 @@ in vitro en milieu stérile et dans des conditions stériles
 qui excluent l’éventualité d’une infestation par Bemisia
 tabaci Genn. (populations non européennes); sont transportés en conditions stériles dans des conteneurs transparents.»
 
-47.
+47\.
 
 Semences d’Helianthus annuus L.
 
@@ -37078,7 +37078,7 @@ halstedii (Farlow) Berl. et de Toni présentes sur le lieu de
 production ont été soumises à un traitement approprié
 contre cet organisme.
 
-48.
+48\.
 
 Semences de (Règl. g.-d. du 14 octobre 2014) Constatation officielle que les semences ont été obtenues
 «Solanum lycopersicum L.»
@@ -37157,7 +37157,7 @@ que la culture a été effectuée sur un champ où aucune
 culture de Medicago sativa L. n’a été effectuée pendant
 les trois dernières années précédant l’ensemencement.
 
-50.
+50\.
 
 Semences d’Oryza sativa L.
 
@@ -37168,7 +37168,7 @@ révélées exemptes d’Aphelenchoides besseyi Christie
 b) que les semences ont été soumises à un traitement adéquat à l’eau chaude ou à un autre traitement approprié
 contre l’Aphelenchoides besseyi Christie.
 
-51.
+51\.
 
 Semences de Phaseolus L.
 
@@ -37179,7 +37179,7 @@ indemnes de Xanthomonas campestris pv. Phaseoli
 b) qu’un écchantillon représentatif des semences a été testé et s’est révélé exempt de Xanthomonas campestris pv.
 phaseoli (Smith) Dye.
 
-52.
+52\.
 
 « Semences de Zea mays L. »(1).
 
@@ -37195,7 +37195,7 @@ et s’est révélé exempt de l’Erwinia stewartii (Smith) Dye.
 
 Végétaux, produits végétaux et autres objets
 
-53.
+53\.
 
 Semences des genera Triticum, Secale et X Triticosecale originaires de l’Afghanistan, de l’Inde, de
 l’Irak, de l’Iran, du Mexique, du Népal, du Pakistan,
@@ -37207,7 +37207,7 @@ d’une région où la présence de Tilletia indica Mitra n’est pas
 signalée. Le nom de la région est mentionné dans le certificat
 phytosanitaire.
 
-54.
+54\.
 
 Céréales des genera Triticum, Secale et X Tritico- Constatation officielle:
 secale originaires de l’Afghanistan, de l’Inde, de i) que les céréales sont originaires d’une région où la prél’Irak, de l’Iran, du Mexique, du Népal, du Pakistan,
@@ -37229,7 +37229,7 @@ Tilletia indica Mitra».
 Chapitre II
 Végétaux, produits végétaux et autres objets originaires de la Communauté
 Végétaux, produits végétaux et autres objets
-1.
+1\.
 
 Supprimé
 
@@ -37329,11 +37329,11 @@ l’annexe 2 de la norme internationale susmentionnée, indiquant que le matéri
 été soumis à un traitement phytosanitaire approuvé
 conformément à ladite norme. »
 
-3.
+3\.
 
 Supprimé
 
-4.
+4\.
 
 Végétaux de Pinus L., destinés à la plantation, à Constatation officielle qu’aucun symptôme de Scrirrhia pini
 l’exception des semences
@@ -37341,7 +37341,7 @@ Funk et Parker n’a été observé sur le lieu de production ou
 dans ses environs immédiats depuis le début de la dernière
 période complète de végétation.
 
-5.
+5\.
 
 Végétaux de Abies Mill., Larix Mill., Picea A. Dietr., Sans préjudice des exigences applicables aux végétaux viPinus L., Pseudotsuga Carr. et Tsuga Carr., desti- sés au point 4 de la partie A, chapitre II, de l’annexe IV, le
 nés à la plantation, à l’exception des semences
@@ -37350,14 +37350,14 @@ Melampsora medusae Thümen n’a été observé sur le lieu de
 production ou dans ses environs immédiats depuis le début
 de la dernière période complète de végétation.
 
-6.
+6\.
 
 Végétaux de Populus L., destinés à la plantation, à Constatation officielle qu’aucun symptôme de Melampsora
 l’exception des semences
 medusae Thümen n’a été observé sur le lieu de production
 ou dans ses environs immédiats depuis le début de la dernière période complète de végétation.
 
-7.
+7\.
 
 Végétaux de Castanea Mill. et Quercus L., destinés Constatation officielle:
 à la plantation, à l’exception des semences
@@ -37415,7 +37415,7 @@ autres que les semences
 Phytoplasma ulmi’ n’a été observé sur le lieu de production
 ou dans son voisinage immédiat depuis le début de la dernière période complète de végétation. »
 
-9.
+9\.
 
 Végétaux des genres Amelanchier Med., Chaeno- Constatation officielle:
 meles Lindl., Cotoneaster Ehrh., Crataegus L., Cy- a) que les végétaux proviennent de zones reconnues
@@ -37495,7 +37495,7 @@ réalisées à des moments opportuns et aucun signe de
 Trioza erytreae Del Guercio n’a été observé, tant sur le
 site que dans la zone environnante sur une largeur d’au
 moins 200 m. »
-11.
+11\.
 
 Végétaux de Araceae, Marantaceae, Musaceae, Constatation officielle:
 Persea spp. et Strelitziaceae, racinés ou avec milieu a) qu’aucune contamination par Radopholus similis (Cobb)
@@ -37508,7 +37508,7 @@ végétaux concernés ont été soumis à des tests nématologiques officiels co
 similis (Cobb) Thorne et ont été déclarés exempts de cet
 organisme nuisible à cette occasion.
 
-12.
+12\.
 
 Végétaux de Fragaria L., Prunus L. et Rubus L., des- Constatation officielle:
 tinés à la plantation, à l’exception des semences
@@ -37547,7 +37547,7 @@ al.) Young et al.,
 – virus des anneaux noirs de la tomate (Tomato
 black ring virus)
 
-13.
+13\.
 
 Végétaux de Cydonia Mill, et Pyrus L., destinés à la Sans préjudice des exigences applicables aux végétaux
 plantation, à l’exception des semences
@@ -37559,7 +37559,7 @@ b) que les végétaux du lieu de production ou de ses environs immédiats qui on
 présumer une contamination par le mycoplasme du dépérissement du poirier ont été enlevés au cours des trois
 dernières périodes complètes de végétation.
 
-14.
+14\.
 
 Végétaux de Fragaria L., destinés à la plantation, à Sans préjudice des exigences applicables aux végétaux
 l’exception des semences
@@ -37580,7 +37580,7 @@ officiels suivant des méthodes appropriées à l’issue desquels ils se sont r
 
 Végétaux, produits végétaux et autres objets
 
-15.
+15\.
 
 Végétaux de Malus Mill., destinés à la plantation, à Sans préjudice des exigences applicables aux végétaux
 l’exception des semences
@@ -37606,7 +37606,7 @@ observé sur les végétaux du lieu de production ou
 sur les végétaux sensibles de ses environs immédiats depuis le début des trois dernières périodes
 complètes de végétation.
 
-16.
+16\.
 
 Végétaux des espèces suivantes de Prunus L, destinés à la plantation, à l’exception des semences:
 – Prunus amygdalus Batsch,
@@ -37658,7 +37658,7 @@ Végétaux, produits végétaux et autres objets
 –
 –
 
-17.
+17\.
 
 Prunus triloba Lindl.,
 autres espèces de Prunus L. sensibles au virus
@@ -37849,10 +37849,10 @@ de la dernière période complète de végétation, aucun
 symptôme de maladie causée par les organismes nuisibles visés au point a) n’a été constaté ;
 ii) elles ont été produites sur un site où toutes les mesures
 suivantes ont été prises :
-\1) le site est isolé des autres végétaux de la famille des
+1\) le site est isolé des autres végétaux de la famille des
 solanacées et des autres plantes hôtes du potato
 spindle tuber viroid ;
-\2) le site est protégé des contacts avec les membres
+2\) le site est protégé des contacts avec les membres
 du personnel et les objets, tels qu’outils, engins,
 véhicules, récipients et matériaux d’emballage,
 d’autres sites produisant des végétaux de la famille
@@ -37862,7 +37862,7 @@ personnel et les objets d’autres sites produisant des
 végétaux de la famille des solanacées et d’autres
 plantes hôtes du potato spindle tuber viroid pour
 prévenir l’infection ;
-\3) seule de l’eau exempte de tous les organismes nuisibles visés au présent point est utilisée. »
+3\) seule de l’eau exempte de tous les organismes nuisibles visés au présent point est utilisée. »
 18.4.
 
 Végétaux d’espèces stolonifères ou à tubercules de Toute organisation ou organisme de recherche détenant ce
@@ -37932,7 +37932,7 @@ Yabuuchi et al. n’a été observé sur les végétaux sur le
 lieu de production depuis le début de la dernière période
 complète de végétation.»
 
-19.
+19\.
 
 Végétaux de Humulus lupulus L., destinés à la plan- Constatation officielle qu’aucun symptôme de Verticillium
 tation, à l’exception des semences
@@ -38023,13 +38023,13 @@ officiellement agréés, effectués au moins une fois pendant les deux dernière
 
 Végétaux, produits végétaux et autres objets
 
-22.
+22\.
 
 Bulbes de Tulipa L. et Narcissus L., à l’exception Constatation officielle qu’aucun symptôme de Ditylenchus
 de ceux dont l’emballage ou tout autre élément doit dipsaci (Kühn) Filipjev n’a été observé sur les végétaux deprouver qu’ils sont destinés à la vente directe à des puis le début de la dernière période complète de végétation.
 consommateurs finals non impliqués dans la profession de la fleur coupée
 
-23.
+23\.
 
 Végétaux d’espèces herbacées, destinés à la plantation, autres que:
 – bulbes,
@@ -38077,7 +38077,7 @@ spp., Lilium spp., Narcissus L. et Tulipa L., à l’exception des végétaux, b
 devant être plantés conformément à l’article 4, paragraphe 4, points a) ou c), de la directive 2007/33/
 CE du Conseil
 
-25.
+25\.
 
 Végétaux de Beta vulgaris L., destinés à la planta- Constatation officielle:
 tion, à l’exception des semences
@@ -38096,7 +38096,7 @@ contre Globodera pallida (Stone) Behrens et Globodera rostochiensis (Wollenweber
 
 Végétaux, produits végétaux et autres objets
 
-26.
+26\.
 
 Semences de Helianthus annuus L.
 
@@ -38134,7 +38134,7 @@ de production a été soumis à un traitement et un régime
 de suivi adéquats visant à garantir l’absence de Bernisia
 tabaci Genn
 
-27.
+27\.
 
 Semences de (Règl. g.-d. du 14 octobre 2014) «So- Constatation officielle que les semences ont été obtenues au
 lanum lycopersicum L.»
@@ -38203,7 +38203,7 @@ les deux dernières périodes complètes de végétation,
 – que la culture a été effectuée sur un champ où aucune
 culture de Medicago sativa L. n’a été effectuée pendant les trois années précédant l’ensemencement.
 
-29.
+29\.
 
 Semences de Phaseolus L.
 
@@ -38238,7 +38238,7 @@ de produits végétaux et d’autres objets dans certaines zones protégées
 
 Végétaux, produits végétaux et autres
 objets
-1.
+1\.
 
 Bois de conifères (coniférales)
 
@@ -38271,7 +38271,7 @@ objets
 
 Zones protégées
 
-2.
+2\.
 
 Bois de conifères (coniférales)
 
@@ -38297,7 +38297,7 @@ exprimée en pourcentage de la matière sèche, a été ramenée à moins
 de 20% lors de ce traitement, effectué selon des normes de temps et
 de température appropriées.
 
-3.
+3\.
 
 Bois de conifères (coniférales)
 
@@ -38329,7 +38329,7 @@ objets
 
 Zones protégées
 
-4.
+4\.
 
 Bois de conifères (coniférales)
 
@@ -38355,7 +38355,7 @@ exprimée en pourcentage de la matière sèche, a été ramenée à moins
 de 20% lors de ce traitement, effectué selon des normes de temps et
 de température appropriées.
 
-5.
+5\.
 
 Bois de conifères (coniférales)
 
@@ -38384,7 +38384,7 @@ de température appropriées.
 
 Végétaux, produits végétaux et autres
 objets
-6.
+6\.
 
 Bois de conifères (coniférales)
 
@@ -38486,7 +38486,7 @@ c) que le bois est originaire d’une zone
 protégée énumérée dans la colonne
 de droite»
 
-7.
+7\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., Pinus L.
@@ -38502,7 +38502,7 @@ chapitre I, ou aux points 4 et 5 de la partie A, chapitre II, de l’annexe IV, 
 échéant, constatation officielle que le
 lieu de production est exempt de Dendroctonus micans Kugelan.
 
-8.
+8\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., Pinus L.,
@@ -38519,7 +38519,7 @@ l’annexe IV, le cas échéant, constatation
 officielle que le lieu de production est
 exempt d’Ips duplicatus Sahlberg.
 
-9.
+9\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., Pinus L.
@@ -38545,7 +38545,7 @@ objets
 
 Zones protégées
 
-10.
+10\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., Pinus L.
@@ -38564,7 +38564,7 @@ cas échéant, constatation officielle que
 le lieu de production est exempt d’Ips
 amitinus Eichhof.
 
-11.
+11\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., Pinus L.
@@ -38583,7 +38583,7 @@ IV, le cas échéant, constatation officielle
 que le lieu de production est exempt
 d’Ips cembrae Heer.
 
-12.
+12\.
 
 Végétaux d’Abies Mill. Larix
 Mill., Picea A. Dietr., et Pinus
@@ -38623,7 +38623,7 @@ b) que les végétaux ont été cultivés en
 permanence dans une zone protégée énumérée dans la colonne de
 droite»
 
-13.
+13\.
 
 Supprimé [2001/33]
 
@@ -38734,7 +38734,7 @@ qui préciseront l’ingrédient actif, la
 température minimale de l’écorce,
 le taux (g/m3) et la durée d’exposition (h)
 
-15.
+15\.
 
 Végétaux de Larix Mill., desti- Sans préjudice des dispositions appli- IRL, UK (Irlande du Nord, île de Man
 nés à la plantation, à l’exception cables aux végétaux visés au point 1 et Jersey)
@@ -38749,7 +38749,7 @@ ont été produits dans des pépinières et
 que le lieu de production est exempt de
 Cephalcia lariciphila (Klug.).
 
-16.
+16\.
 
 Végétaux de Pinus L., Picea A.
 Dietr., Larix Mill., Abies Mill. et
@@ -38895,7 +38895,7 @@ m à partir du collet de la racine,
 destinés à la plantation, autres
 que les fruits et les semences
 
-17.
+17\.
 
 (Supprimé par le règl. g.-d. du
 14 novembre 2008)
@@ -38907,7 +38907,7 @@ objets
 
 Zones protégées
 
-18.
+18\.
 
 Végétaux de Picea A. Dietr. des- Sans préjudice des dispositions appli- EL, IRL, UK (Irlande du Nord, île de
 tinés à la plantation, à l’excep- cables aux végétaux visés au point 1 de Man et Jersey)
@@ -38922,7 +38922,7 @@ ont été produits dans des pépinières et
 que le lieu de production est exempt de
 Gilpinia hercyniae (Hartig).
 
-19.
+19\.
 
 Végétaux d’Eucalyptus l’Herit. Constatation officielle que les végétaux: EL, P (Açores)
 à l’exception des fruits et se- a) sont exempts de terre et ont subi
@@ -39445,7 +39445,7 @@ Wendl., Ravenea rivularis Jum.
 & Schult. f., Syagrus romanzoffiana (Cham.) Glassman, Trachycarpus fortunei (Hook.) H.
 Wendl. and Washingtonia Raf.
 
-22.
+22\.
 
 Végétaux de Alliumporrum L., a)
 Apium L., Beta L., autres que
@@ -39505,7 +39505,7 @@ la rhizomanie (BNYVV).
 
 Végétaux, produits végétaux et autres
 objets
-23.
+23\.
 
 Végétaux de Beta vulgaris L., a)
 destinés à la plantation, à l’exception des semences
@@ -39773,7 +39773,7 @@ ont été officiellement inspectés et
 déclarés exempts de Bemisia tabaci
 Genn. (populations européennes)
 immédiatement avant leur départ..
-25.
+25\.
 
 Végétaux de Beta vulgaris L., Constatation officielle que:
 (Règl. g.-d. du 17 octobre 2006)
@@ -39789,7 +39789,7 @@ susvisé
 b) les végétaux ont été produits dans
 une zone où la présence du BNYVV n’est pas connue.
 
-26.
+26\.
 
 Terres et déchets non stérilisés Constatation officielle que les terres et (Règl. g.-d. du 17 octobre 2006)
 provenant de l’utilisation de bet- déchets:
@@ -39875,7 +39875,7 @@ d’une culture dans une région
 connue comme exempte de
 BNYVV
 
-28.
+28\.
 
 Semences de Gossypium spp.
 
@@ -39897,7 +39897,7 @@ Semences de Gossypium spp.
 Constatation officielle que les semences EL, E (Andalousie, Catalogne, Extréont été engrainées par voie acide.
 madure, Murcie, Valence)
 
-29.
+29\.
 
 Semences de Mangifera spp.
 
@@ -39910,7 +39910,7 @@ Fabricius.
 
 Végétaux, produits végétaux et autres
 objets
-30.
+30\.
 
 Machines agricoles d’occasion
 
@@ -39963,7 +39963,7 @@ Laconie), M, P (à l’exception de l’Algarve, de Madère et du comté d’Ode
 
 Végétaux, produits végétaux et autres
 objets
-32.
+32\.
 
 Végétaux de Vitis L., à l’excep- Sans préjudice des dispositions applition des fruits et des semences cables aux végétaux énumérés au point
 15 de l’annexe III, partie A, au point 17
@@ -40055,7 +40055,7 @@ Partie A
 Végétaux, produits végétaux et autres objets originaires de la Communauté
 I. Végétaux, produits végétaux et autres objets qui sont potentiellement porteurs d’organismes nuisibles pour la
 Communauté entière, et qui doivent être accompagnés d’un passeport phytosanitaire
-1.
+1\.
 
 Végétaux et produits végétaux
 
@@ -40149,7 +40149,7 @@ assemblage en bout, d’une épaisseur excédant 6 mm. » ;
 
 \- 514 -
 
-2.
+2\.
 
 Végétaux, produits végétaux et autres objets produits par des producteurs autorisés à produire pour vendre à des
 professionnels de la production végétale, autres que les végétaux, produits végétaux et autres objets qui sont préparés et prêts pour la vente au consommateur final, et pour lesquels les organismes officiels responsables des États
@@ -40200,7 +40200,7 @@ pouvant affecter certaines zones protégées et qui doivent être accompagnées 
 phytosanitaire pour la zone appropriée lors de l’entrée ou de la circulation dans ladite zone
 
 Sans préjudice des végétaux, produits végétaux et autres objets énumérés dans la section I.
-1.
+1\.
 
 Végétaux, produits végétaux et autres objets
 
@@ -40378,7 +40378,7 @@ en bout, d’une épaisseur excédant 6 mm» ;
 
 Écorce isolée de Castanea Mill. et de conifères (Coniférales)
 
-2.
+2\.
 
 Végétaux, produits végétaux et autres objets produits par des producteurs autorisés à produire pour vendre à des
 professionnels de la production végétale, autres que les végétaux, produits végétaux et autres objets qui sont préparés et prêts pour la vente au consommateur final, et pour lesquels les organismes officiels responsables des États
@@ -40397,7 +40397,7 @@ pour la Communauté entière
 (Règl. g.-d. du 14 octobre 2014)
 «1.
 
-2.
+2\.
 
 Végétaux destinés à la plantation, à l’exception des semences mais y compris les semences de:
 –
@@ -40471,7 +40471,7 @@ Afraegle Engl., Atalantia Corrêa, Balsamocitrus Stapf, Burkillanthus Swingle, C
 Clausena Burm. f., Limonia L., Microcitrus Swingle, Murraya J. Koenig ex L., Pamburus Swingle, Severinia Ten.,
 Swinglea Merr., Triphasia Lour. et Vepris Comm.»
 
-3.
+3\.
 
 Fruits de:
 (Règl. g.-d. du 29 août 2019)
@@ -40487,7 +40487,7 @@ Vaccinium L. et Vitis L. »
 (Règl. g.-d. du 17 avril 2018)
 « – Punica granatum L. originaire de pays du continent africain, du Cap Vert, de Sainte-Hélène, de Madagascar, de
 la Réunion, de Maurice et d’Israël .»
-4.
+4\.
 
 Tubercules de Solanum tuberosum L.
 
@@ -40507,7 +40507,7 @@ Acer saccharum Marsh., Populus L. et Quercus L. à l’exception de Quercus sube
 « – Fraxinus L., Juglans L., Ulmus davidiana Planch. et Pterocarya L., originaires du Canada, de Chine, des ÉtatsUnis d’Amérique, du Japon, de Mongolie, de la République de Corée, de la République populaire démocratique
 de Corée, de Russie et de Taïwan »
 –
-6.
+6\.
 
 Betula L. originaire du Canada et des États-Unis d’Amérique
 
@@ -40788,7 +40788,7 @@ ex 8701 91 10
 
 Tracteurs agricoles et forestiers, à roues, d’une puissance de moteur n’excédant pas 18 kW »
 
-8.
+8\.
 
 Céréales des genera Triticum, Secale et X Triticosecale originaires d’Afghanistan, d’Inde, d’Irak, d’Iran, du Mexique,
 du Népal, du Pakistan, d’Afrique du Sud et des États-Unis d’Amérique
@@ -40796,30 +40796,30 @@ II. Végétaux, produits végétaux et autres objets qui sont potentiellement po
 pour certaines zones protégées
 
 Sans préjudice des dispositions applicables aux végétaux, produits végétaux et autres objets énumérés dans la section I
-1.
+1\.
 
 Végétaux de Beta vulgaris L. destinés à la transformation industrielle
 
-2.
+2\.
 
 Terres et déchets non stérilisés provenant de l’utilisation des betteraves (Beta vulgaris L.)
 
-3.
+3\.
 
 Pollen vivant destiné à la pollinisation des genres Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.) Cardot, Pyracantha
 Roem., Pyrus L. et Sorbus L.
 
-4.
+4\.
 
 Parties de végétaux, à l’exception des fruits et semences, des genres Amelanchier Med., Chaenomeles Lindl., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Eriobotrya Lindl., Malus Mill., Mespilus L., Photinia davidiana (Dcne.)
 Cardot, Pyracantha Roem., Pyrus L. et Sorbus L.
 
-5.
+5\.
 
 Semences de (Règl. g.-d. du 14 octobre 2014) «Castanea Mill.,» Dolichos Jacq., Magnifera spp., Beta vulgaris L. et
 Phaseolus vulgaris L.
 
-6.
+6\.
 
 Semences et fruits (boules) de Gossypium spp. et coton égrené
 
@@ -40827,7 +40827,7 @@ Semences et fruits (boules) de Gossypium spp. et coton égrené
 
 Fruits de Vitis L
 
-7.
+7\.
 
 Le bois au sens de l’article 2, paragraphe 2, premier alinéa:
 a)
@@ -40952,11 +40952,11 @@ bois; rehausses de palettes en bois
 Constructions préfabriquées en bois
 »
 
-8.
+8\.
 
 Parties de végétaux d’Eucalyptus l’Hérit
 
-9.
+9\.
 
 Écorce isolée de conifères (Coniférales), originaires de pays tiers européens.
 
@@ -40976,11 +40976,11 @@ a)
 Insectes, acariens et nématodes, à
 tous les stades de développement
 
-1.
+1\.
 
 Anthonomus grandis (Boh.)
 
-2.
+2\.
 
 Bemisia tabaci Genn. (populations (Règl. g.-d. du 17 octobre 2006)
 européennes)
@@ -40991,7 +40991,7 @@ Caldas da Rainha, Lourinhã, Nazaré,
 Obidos, Peniche, et Torres Vedras) et
 Trás-os-Montes», Royaume-Uni
 
-3.
+3\.
 
 Cephalcia lariciphila (Klug.)
 
@@ -41004,14 +41004,14 @@ Daktulosphaira vitifoliae (Fitch)
 
 Chypre
 
-4.
+4\.
 
 Dendroctonus micans Kugelan
 
 Grèce, Irlande, Royaume-Uni (Irlande
 du Nord, Ile de Man et Jersey)
 
-5.
+5\.
 
 Gilpinia hercyniae (Hartig)
 
@@ -41019,39 +41019,39 @@ Grèce, Irlande, Royaume-Uni (Irlande Pour la Lettonie, Slovénie, Slovaquie
 du Nord, l’île de Man et l’île de Jer- jusqu’au 31 mars 2006
 sey)
 
-6.
+6\.
 
 Globodera pallida (Stone) Behrens
 
 Lettonie, Slovénie, Slovaquie et Finlande
 
-7.
+7\.
 
 Gonipterus scutellatus Gyll
 
 Grèce, Portugal (Açores)
 
-8.
+8\.
 
 Ips amitinus Eichhof
 
 Grèce, France
 Royaume-Uni
 
-9.
+9\.
 
 Ips cembrae Heer
 
 Grèce, Irlande, Royaume-Uni (Irlande
 du Nord et Ile de Man)
 
-10.
+10\.
 
 Ips duplicatus Sahlberg
 
 Grèce, Irlande, Royaume-Uni
 
-11.
+11\.
 
 Ips sexdentatus Boerner
 
@@ -41060,13 +41060,13 @@ lande du Nord et Ile de Man)
 Pour Chypre jusqu’au «31 mars
 2008»
 
-12.
+12\.
 
 Ips typographus Heer
 
 Irlande, Royaume-Uni
 
-13.
+13\.
 
 Leptinotarsa decemlineata Say
 
@@ -41078,20 +41078,20 @@ Satakunta, Turku, Uusimaa), Suède
 (Blekinge, Gotland, Halland, Kalmar
 et Skåne), Royaume-Uni
 
-14.
+14\.
 
 Liriomyza bryoniae (Kaltenbach)
 
 Irlande, Royaume-Uni (Irlande du
 Nord)
 
-15.
+15\.
 
 Sternochetus mangiferae Fabricius
 
 Espagne (Grenade et Malaga), Portugal (Alentjo, Algarve et Madère)
 
-16.
+16\.
 
 Thaumetopoea pityocampa (Den. et Espagne (Ibiza)
 Schiff.)
@@ -41100,7 +41100,7 @@ b)
 
 Bactéries
 
-1.
+1\.
 
 Curtobacterium flaccumfaciens pv Grèce, Espagne, Portugal
 flaccumfaciens (Hedges) Col.
@@ -41120,7 +41120,7 @@ Organismes nuisibles
 
 Zones protégées: territoire de
 
-2.
+2\.
 
 Erwinia amylovora (Burr.) Winsl. Et al. (Règl. g.-d. du 17 octobre 2006)
 «– Espagne, Estonie, France (Corse),
@@ -41135,22 +41135,22 @@ c)
 
 Champignons
 
-01.
+01\.
 
 Cryphonectria parasitica (Murrill) Barr République tchèque, (…)(1), Grèce
 (Crète et Lesvos), Irlande, Suède et
 Royaume-Uni (sauf l’île de Man)
 
-1.
+1\.
 
 Glomerella gossypii Edgerton
 
-2.
+2\.
 
 Gremmeniella abietina (Lag.) Morelet Irlande, Royaume-Uni (Irlande du
 Nord)
 
-3.
+3\.
 
 Hypoxylon mammatum (Wahl.) J. Mil- Irlande, Royaume-Uni (Irlande du
 ler
@@ -41204,16 +41204,16 @@ d)
 
 Virus et organismes analogues
 
-1.
+1\.
 
 Virus de la rhizomanie
 
-2.
+2\.
 
 Virus de la maladie bronzée de la Finlande, Suède
 tomate
 
-3.
+3\.
 
 Citrus tristeza virus (isolats euro- Grèce, France (Corse), Malte, Portu- (Règl. g.-d. du 17 octobre 2006)
 péens)
@@ -41238,140 +41238,140 @@ en Italie.
 \- 525 -
 
 ANNEXE VII A
-1.
+1\.
 
 Nom et adresse de l’exportateur
 
 Certificat phytosanitaire
 
-2.
+2\.
 
 Nr. EC/LU/
-3.
+3\.
 
 Nom et adresse déclarés du destinataire
 
-4.
+4\.
 
 Organisation de la protection des végétaux de
 à organisation(s) de la protection des végétaux de
 
-6.
+6\.
 
 Moyen de transport déclaré
 
-7.
+7\.
 
 Point d’entrée déclaré
 
-8.
+8\.
 
 Marques des colis; nombre et nature des colis;
 nom du produit; nom botanique des végétaux
 
-5.
+5\.
 
 Lieu d’origine
 
-9.
+9\.
 
 Quantité déclarée
 
-\10. Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été inspectés et/
+10\. Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été inspectés et/
 ou testés suivant des procédures officielles appropriées et estimés exempts d’organismes de quarantaine comme spécifié par la partie contractante importatrice, et qu’ils sont jugés conformes aux exigences phytosanitaires en vigueur de
 la partie contractante importatrice, y compris à celles concernant les organismes réglementés non de quarantaine. Les
 végétaux sont réputés pratiquement exempts d’autres organismes nuisibles.
-\11. Déclaration supplémentaire
+11\. Déclaration supplémentaire
 
 TRAITEMENT DE DÉSINFESTATION
 ET/OU DE DÉSINFECTION
 
 Lieu de délivrance
 
-\12. Traitement
+12\. Traitement
 Date
-\13. Produit chimique
+13\. Produit chimique
 
-\14. Durée et température
+14\. Durée et température
 
 (ingrédient actif)
-\15. Concentration
+15\. Concentration
 
 Nom et signature du fonctionnaire autorisé
 
-\16. Date
+16\. Date
 
-\17. Informations supplémentaires
+17\. Informations supplémentaires
 
 \- 526 -
 
 ANNEXE VII B
-1.
+1\.
 
 Nom et adresse de l’exportateur
 
-2.
+2\.
 
 Certificat phytosanitaire de réexportation
 Nr. EC/LU/
 
-3.
+3\.
 
 Nom et adresse déclarés du destinataire
 
-4.
+4\.
 
 Organisation de la protection des végétaux de
 à organisation(s) de la protection des végétaux de
 
-6.
+6\.
 
 Moyen de transport déclaré
 
-7.
+7\.
 
 Point d’entrée déclaré
 
-8.
+8\.
 
 Marques des colis; nombre et nature des colis;
 nom du produit; nom botanique des végétaux
 
-5.
+5\.
 
 Lieu d’origine
 
-9.
+9\.
 
 Quantité déclarée
 
-\10. Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus……..ont été importés
+10\. Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus……..ont été importés
 en (partie contractante de réexportation).....................en provenance de.....................(partie contractante d’origine) et
 ont fait l’objet du certificat phytosanitaire n°.., dont l’original () la copie authentifiée () est joint(e) au présent certificat;
 qu’ils sont emballés () remballés () dans les emballages d’origine () dans de nouveaux emballages (); que d’après le
 certificat phytosanitaire original () et une inspection supplémentaire (), ils sont jugés conformes aux exigences phytosanitaires en vigueur de la partie contractante importatrice, et qu’au cours de l’emmagasinage en.....................(partie
 contractante de réexportation), l’envoi n’a pas été exposé au risque d’infestation ou d’infection.
-\11. Déclaration supplémentaire
+11\. Déclaration supplémentaire
 
 TRAITEMENT DE DÉSINFESTATION
 ET/OU DE DÉSINFECTION
 
 Lieu de délivrance
 
-\12. Traitement
-\13. Produit chimique
+12\. Traitement
+13\. Produit chimique
 
 Date
-\14. Durée et température
+14\. Durée et température
 
 Nom et signature du fonctionnaire autorisé
 
 (ingrédient actif)
-\15. Concentration
+15\. Concentration
 
-\16. Date
+16\. Date
 
-\17. Informations supplémentaires
+17\. Informations supplémentaires
 
 \- 527 -
 
@@ -41778,44 +41778,44 @@ CVIII
 
 ANNEXE X
 Informations requises
-1.
+1\.
 
 Passeport phytosanitaire CE.
 
-2.
+2\.
 
 Mention du code de l’État membre de la Communauté.
 
-3.
+3\.
 
 Mention de l’organisme officiel responsable ou de son code particulier.
 
-4.
+4\.
 
 Numéro d’enregistrement.
 
-5.
+5\.
 
 Numéro de série, de semaine ou de lot individuel.
 
-6.
+6\.
 
 Nom botanique.
 
-7.
+7\.
 
 Quantité.
 
-8.
+8\.
 
 La marque distinctive «ZP» indiquant la validité territoriale du passeport et, le cas échéant, le nom des zones dans
 lesquelles le produit est autorisé.
 
-9.
+9\.
 
 La marque distinctive «RP» en cas de remplacement d’un passeport phytosanitaire et, le cas échéant, le code du producteur ou de l’importateur enregistré initialement.
 
-10.
+10\.
 
 Le cas échéant, le nom du pays d’origine ou du pays d’expédition pour des produits provenant de pays tiers.
 
@@ -41825,7 +41825,7 @@ ANNEXE XI
 Conditions minimales pour la réalisation de contrôles phytosanitaires dans la Communauté, aux postes
 d’inspection autres que ceux situés au lieu de destination, de végétaux, produits végétaux et
 autres objets en provenance de pays tiers.
-1.
+1\.
 
 Le service ayant la charge des postes d’inspection:
 –
@@ -41869,9 +41869,9 @@ que ces informations soient pertinentes pour les contrôles phytosanitaires pour
 aux besoins réels, à la lumière de nouveaux risques phytosanitaires ou de toute modification de la quantité/du
 volume de végétaux, produits végétaux et autres objets présentés aux postes d’inspection.
 
-2.
+2\.
 
-3.
+3\.
 
 Les agents du service effectivement chargés de procéder aux inspections aux postes d’inspection ont:
 –
@@ -41925,9 +41925,9 @@ c) en ce qui concerne les installations pour l’échantillonnage des envois:
 ANNEXE XII
 
 Partie A
-1)
+1\)
 
-2)
+2\)
 
 Les conditions générales suivantes sont applicables:
 –
@@ -42006,7 +42006,7 @@ Modèle de lettre officielle d’autorisation, pour l’introduction et/ou la ci
 végétaux, produits végétaux et autres objets pour des travaux à des fins d’essai ou à des fins
 scientifiques ou pour des travaux sur les sélections variétales
 COMMUNAUTE EUROPÉENNE 
-1.
+1\.
 
 LETTRE OFFICIELLE D’AUTORISATION
 
@@ -42022,7 +42022,7 @@ sélections variétales
 (Délivrée conformément à la
 directive 2008/61/CE)
 
-2.
+2\.
 
 Nom et adresse de la personne responsable des activités 3.
 autorisées
@@ -42030,7 +42030,7 @@ autorisées
 Nom de l’organisme officiel responsable de l’État
 membre de délivrance
 
-4.
+4\.
 
 Adresse et description du ou des sites spécifiques de main- 5.
 tien en quarantaine
@@ -42038,27 +42038,27 @@ tien en quarantaine
 Lieu d’origine (avec, jointe, la preuve documentaire
 pour le matériel introduit d’un pays tiers)
 
-7.
+7\.
 
 Point d’entrée déclaré pour le matériel introduit d’un pays tiers 6.
 
 Numéro du passeport phytosanitaire:
 ou numéro de certificat phytosanitaire:
 
-8.
+8\.
 
 Nom(s) scientique(s) du matériel, y compris les organismes 9.
 nuisibles concernés
 
 Quantité de matériel
 
-\10. Type de matériel
-\11. Déclaration supplémentaire
+10\. Type de matériel
+11\. Déclaration supplémentaire
 Ce matériel est importé/en circulation(1) dans la Communauté conformément à la directive 2008/61/CE
 (1) biffer la mention inutile.
 
-\12. Information supplémentaire
-\13. Endossement par l’organisme officiel responsable de l’État 14. Cachet de l’organisation officiel responsable de
+12\. Information supplémentaire
+13\. Endossement par l’organisme officiel responsable de l’État 14. Cachet de l’organisation officiel responsable de
 membre d’origine du matériel
 délivrance
 Lieu d’endossement:
@@ -42085,12 +42085,12 @@ Pour certains végétaux, produits végétaux et autres objets énumérés à l�
 
 Section I: Végétaux de Citrus L, Fortunella Swingle, Poncirus Raf., et leurs hybrides,
 à l’exception des fruits et semences
-1.
+1\.
 
 Le matériel est soumis, les cas échéant, aux procédés thérapeutiques appropriés définis dans le guide technique FAO/
 IPGRI.
 
-2.
+2\.
 
 Après application des procédés thérapeutiques visés au point 1, le matériel végétal est indexé en totalité. Le matériel
 végétal, y compris les végétaux d’indexage, est conservé en totalité dans les installations agréées, dans les conditions
@@ -42098,7 +42098,7 @@ de détention en quarantaine définies à l’annexe I. Le matériel végétal d
 conservé dans des conditions permettant un cycle normal de végétation et soumis durant la période d’indexage à une
 inspection visuelle à l’arrivée puis aux époques appropriées, visant à déceler les traces et symptômes d’organismes.
 
-3.
+3\.
 
 Aux fins du point 2, le matériel végétal est indexé (tests et identification) en vue du dépistage d’organismes nuisibles
 conformément aux méthodes suivantes:
@@ -42157,7 +42157,7 @@ Witches’ broom (MLO)
 m) Xanthomas campestris (Pamnel) Dowson (toutes les souches pathogènes aux Citrus)
 3.2.
 
-4.
+4\.
 
 pour les organismes nuisibles tels que le blight et les organismes analogues, pour lesquels il n’y a pas de méthodes d’indexage à court terme, le matériel végétal doit être soumis dès l’arrivée à un greffage de sommet de
 pousse sur des plantules de semis produites en culture stérile, (méthodes FAO/IPGRI), et les plantes qui en
@@ -42169,12 +42169,12 @@ si possible l’identité des organismes nuisibles en cause.
 Section II: Végétaux de Cydonia Mill, Malus Mill, Prunus L et Pyrus L et leurs hybrides et Fragaria L.
 destinés à être plantés, à l’exception des semences
 
-1.
+1\.
 
 Le matériel végétal est soumis, le cas échéant, aux procédés thérapeutiques appropriés définis dans le guide technique
 FAO/IPGRI.
 
-2.
+2\.
 
 Après application des procédés thérapeutiques visés au point 1, le matériel végétal est indexé en totalité. Le matériel
 végétal, y compris les végétaux d’indexage, est conservé en totalité dans les installations agréées, dans les conditions
@@ -42185,7 +42185,7 @@ nuisibles, y compris tous ceux figurant dans ce règlement grand-ducal.
 
 \- 542 -
 
-3.
+3\.
 
 Aux fins du point 2, le matériel végétal est indexé (tests et identification) en vue du dépistage d’organismes nuisibles
 conformément aux méthodes suivantes:
@@ -42349,7 +42349,7 @@ Xanthomas campestris pv. pruni (Smith) Dye;
 
 3.4.
 
-4.
+4\.
 
 en ce qui concerne Cydonia mill. et Pyrus L., quel que soit le pays d’origine du matériel végétal, les tests sont
 effectués à l’aide de méthodes de laboratoire appropriées, et, le cas échéant, de végétaux indicateurs en vue de
@@ -42367,12 +42367,12 @@ l’identité des organismes nuisibles en cause.
 
 Section III: Végétaux de Vitis L, à l’exception des fruits
 
-1.
+1\.
 
 Le matériel végétal est soumis, le cas échéant, aux procédés thérapeutiques appropriés définis dans le guide technique
 FAO/IPGRI.
 
-2.
+2\.
 
 Après application des procédés thérapeutiques appropriés visés au point 1, le matériel végétal est indexé en totalité.
 Le matériel végétal, y compris les matériaux d’indexage, est conservé en totalité dans les installations agréées, dans
@@ -42381,7 +42381,7 @@ officielle est conservé dans des conditions permettant un cycle normal de vég�
 d’organismes nuisibles, y compris Daktulosphaira vitifoliae (Fitch) et tous les autres organismes nuisibles figurant dans
 ce règlement grand-ducal.
 
-3.
+3\.
 
 Aux fins du point 2, le matériel végétal est indexé (tests et identification) en vue du dépistage d’organismes nuisibles
 conformément aux méthodes suivantes.
@@ -42408,7 +42408,7 @@ Les tests sont effectués à l’aide de végétaux indicateurs approriés, et n
 
 3.2.
 
-4.
+4\.
 
 Quel que soit le pays d’origine du matériel végétal, les tests sont effectués à l’aide de méthodes de laboratoire
 appropriées, le cas échéant, de végétaux indicateurs en vue de dépister au moins les organismes nuisibles suivants:
@@ -42444,12 +42444,12 @@ Le matériel végétal soumis aux inspections visuelles visées au point 2 et su
 si possible l’identité des organismes nuisibles en cause.
 
 Section IV: Végétaux des espèces de Solanum L. à tubercules ou à stolons, ou leurs hybrides, destinés à la plantation
-1.
+1\.
 
 Le matériel végétal est soumis, le cas échéant, aux procédés thérapeutiques appropriés définis dans le guide technique
 FAO/IPGRI.
 
-2.
+2\.
 
 Après application des procédés thérapeutiques visés au point 1, chaque unité du matériel végétal est indexée. Le matériel végétal, y compris les végétaux d’indexage, est conservé en totalité dans les installations agréées, dans les conditions de détention en quarantaine définies à l’annexe I. Le matériel végétal destiné à une mise en circulation officielle
 est conservé dans des conditions permettant un cycle normal de végétation et soumis durant la période d’indexage à
@@ -42459,7 +42459,7 @@ du jaunissement des nervures de la pomme de terre.
 
 \- 544 -
 
-3.
+3\.
 
 L’indexage visé au point 2 suit les dispositions techniques définies au point 5, en vue de dépister au moins les organismes nuisibles suivants:
 –
@@ -42506,9 +42506,9 @@ virus communs de la pomme de terre A, M, S, V, X et Y (y compris y°, yn et yc) 
 
 Cependant, dans le cas de semences de pomme de terre, l’indexage est réalisé afin de dépister au moins les virus
 et organismes analogues énumérés aux points a) à e) ci-dessus.
-4.
+4\.
 
-5.
+5\.
 
 Le matériel végétal soumis aux inspections visuelles visées au point 2 et sur lequel des traces et symptômes d’organismes nuisibles ont été observés est soumis à une recherche comportant si nécessaire, des tests afin de déterminer
 si possible l’identité des organismes nuisibles en cause.
@@ -42516,23 +42516,23 @@ Les dispositions techniques visées au point 3 sont les suivantes:
 –
 
 pour les bactéries:
-1.
+1\.
 
 Pour les tubercules, tester le talon de chaque tubercule. Chaque échantillon comprend normalement environ
 200 tubercules. Cependant, la procédure peut s’appliquer sans inconvénient à des échantillons de moins de
 200 tubercules.
 
-2.
+2\.
 
 Pour les plantules et les boutures, y compris les micro-plants, tester les sections les plus basses de la tige et,
 si nécessaire, les racines, pour chaque unité du matériel végétal.
 
-3.
+3\.
 
 Il est recommandé de tester la descendance des tubercules ou la base des tiges dans le cas d’espèces sans
 tubercules au terme d’un cycle normal de végétation après le test visé aux points 1 et 2.
 
-4.
+4\.
 
 Pour le matériel visé au point l, la méthode permettant de détecter le Clavibacter michiganensis (Smith) Davis
 et al ssp. sepedonicus (Spieckermann et Kotthoff) Davis et al est la méthode définie à l’annexe I de la directive
@@ -42545,19 +42545,19 @@ est possible d’appliquer cette méthode.»
 –
 
 pour les virus et organismes analogues autres que le potato spindle tuber viroid:
-1.
+1\.
 
 Le test du matériel végétal (tubercules, plantules et boutures, y compris les micro-plants) comprend au minimum un test sérologique, effectué à la floraison ou peu avant, pour chacun des organismes nuisibles spécifiés dans la liste des organismes nuisibles autres que le potato spindle tuber viroid, suivi d’un test biologique
 pour les matériels dont le test sérologique s’est révélé négatif. Pour le virus de l’enroulement, il convient de
 réaliser deux tests sérologiques.
 
-2.
+2\.
 
 Le test des semences comprend au minimum un test sérologique ou un test biologique si un test sérologique
 n’est pas possible. Il est fortement recommandé de procéder à un second test sur une certaine proportion des
 échantillons négatifs et d’effectuer un test utilisant une autre méthode en cas de résultats limites.
 
-3.
+3\.
 
 Les tests sérologique et biologique visés aux points I et 2 sont effectués sur des végétaux cultivés en serre,
 sur des échantillons prélevés à au moins deux endroits sur chaque tige, à savoir une jeune foliole pleinement
@@ -42568,13 +42568,13 @@ la méthode utilisée; les folioles prélevées sur chaque tige peuvent cependan
 l’échantillon du végétal. Dans le cas d’un test biologique il est possible de mélanger jusqu’à cinq végétaux au
 maximum avec inoculation d’un minimum de végétaux indicateurs identiques.
 
-4.
+4\.
 
 Les végétaux indicateurs appropriés pour le test biologique visé aux points 1 et 2 sont ceux de la liste établie
 par l’Organisation européenne et méditerranéenne pour la protection des plantes (OEPP) ou tout autre végétal indicateur officiellement agréé, réputé dépister les virus.
 \- 545 -
 
-5.
+5\.
 
 –
 
@@ -42582,26 +42582,26 @@ Seul le matériel végétal qui a été directement testé est mis en circulatio
 pas être mis en circulation à cause des risques liés à une éventuelle infection non systémique.
 
 pour le potato spindle tuber viroid:
-1.
+1\.
 
 Pour tout matériel végétal, les tests portent sur des végétaux cultivés en serre, dès qu’ils sont bien formés,
 mais avant la floraison et la production de pollen. Les tests sur des germes des tubercule/végétaux cultivés
 in vitro/petits plants ne sont considérés que comme des tests préliminaires.
 
-2.
+2\.
 
 Les échantillons sont prélevés sur une foliole pleinement développée au sommet de chaque tige du végétal.
 
-3.
+3\.
 
 Tous les matériels végétaux destinés à être testés sont cultivés à une température qui ne doit pas être inférieure à 18 °C (de préférence supérieure à 20 °C) et bénéficient d’une photopériode d’au moins seize heures.
 
-4.
+4\.
 
 Les tests sont effectués à l’aide de sondes cADN ou ARN radioactives ou non radioactives, par la méthode
 R-PAGE (avec coloration à l’argent), ou par RT-PCR.
 
-5.
+5\.
 
 Le taux de groupage maximal pour les sondes et la méthode R-PAGE est de 5. L’utilisation de ce taux ou de
 taux supérieurs doit être validée.
@@ -42610,14 +42610,14 @@ Chapitre B
 Pour certains végétaux, produits végétaux et autres objets énumérés aux annexes II et IV
 du présent règlement grand-ducal
 
-1.
+1\.
 
 Les mesures officielles de quarantaine incluent les inspections appropriées ou les tests pour les organismes nuisibles
 énumérés aux annexes I et II et sont appliquées le cas échéant, conformément aux exigences particulières de l’annexe
 IV du présent règlement grand-ducal pour des organismes nuisibles spécifiés. En ce qui concerne ces exigences particulières, les méthodes utilisées pour les mesures de quarantaine sont celles fixées à l’annexe IV du présent règlement
 grand-ducal ou toutes les autres mesures équivalentes officiellement agréées.
 
-2.
+2\.
 
 Selon les dispositions du point 1, les végétaux produits végétaux et autres objets doivent être exempts des organismes
 nuisibles les concernant, énumérés aux annexes I, II et IV du présent règlement grand-ducal.
@@ -45755,7 +45755,7 @@ Version applicable à partir du 18 février 2020
 
 Annexe I
 Exigences minimales
-\1) Normes de fertilisation pour la fumure au phosphore:
+1\) Normes de fertilisation pour la fumure au phosphore:
 La fumure au phosphore doit respecter certaines valeurs limites annuelles, qui découlent de l’analyse du sol, selon les
 tableaux A (analyses) et B (valeurs limites) suivants.
 (Règl. g.-d. du 30 mai 2018)
@@ -46158,7 +46158,7 @@ classe E
 
 classe E
 
-\2) Exigences minimales relatives aux produits phytosanitaires:
+2\) Exigences minimales relatives aux produits phytosanitaires:
 –
 
 Contrôle des équipements destinés à l’épandage des produits phytopharmaceutiques: les pulvérisateurs, à l’exception
@@ -46178,11 +46178,11 @@ période minimale de 3 ans.
 Lors d’un contrôle sur place et en l’absence d’un tel certificat pour l’année culturale y afférente, l’utilisateur professionnel
 doit prouver à la satisfaction de l’autorité compétente que les produits et emballages précités se trouvent stockés sur
 l’exploitation de manière inoffensive pour la santé humaine et animale ainsi que pour l’environnement.
-\3) Epandage de purin, de lisier et de boues d’épuration liquides:
+3\) Epandage de purin, de lisier et de boues d’épuration liquides:
 L’épandage de purin, de lisier et de boues d’épuration liquides ne pourra pas se faire sur des terrains situés à moins de 20
 mètres des parties agglomérées d’une localité. D’une manière générale, l’exploitant doit prendre, lors de l’épandage de fertilisants organiques, les précautions nécessaires pour limiter les incommodités pour le voisinage au strict minimum. Il conviendra
 d’enfouir dans les meilleurs délais le purin, le lisier et les boues d’épuration liquides épandus sur les terres labourées.
-\4) Epandage des déjections liquides:
+4\) Epandage des déjections liquides:
 L’épandage des déjections liquides est interdit les dimanches, les jours fériés et les jours de grande chaleur, sauf enfouissement immédiat ou utilisation de techniques d’injection.
 
 \- 708 -
@@ -46605,16 +46605,16 @@ Réductions et exclusions en cas de non-conformité aux exigences minimales
 Spécifications du tableau
 Les pourcentages de réduction à appliquer aux différents cas de non-conformité relatifs aux exigences minimales
 sont déterminés comme suit.
-1.
+1\.
 
 Le tableau ci-dessous attribue à chaque constatation de non-conformité un nombre de points en fonction de la gravité,
 de l’étendue et de la persistance.
 
-2.
+2\.
 
 Si plusieurs cas de non-conformité à l’intérieur d’une même exigence sont constatés, les points sont additionnés.
 
-3.
+3\.
 
 Le pourcentage de réduction est déterminé conformément au tableau de correspondance ci-dessous.
 Nombre de points
@@ -46832,17 +46832,17 @@ Réductions et exclusions en cas de non-conformité
 aux conditions d’allocation
 Les pourcentages de réduction à appliquer aux différents cas de non-conformité des conditions d’allocation sont déterminés
 comme suit.
-1.
+1\.
 
 Le tableau ci-dessous attribue à chaque constatation de non-conformité un nombre de points en fonction de la gravité,
 de l’étendue et de la persistance.
 
-2.
+2\.
 
 Si plusieurs cas de non-conformité à l’intérieur d’une même condition d’allocation sont constatés, les points sont
 additionnés.
 
-3.
+3\.
 
 Le pourcentage de réduction est déterminé conformément au tableau de correspondance ci-dessous.
 Nombre de points
@@ -49325,7 +49325,7 @@ autre mesure impactant les racines (Règl. g.-d. du 8 juillet 2022) « à
 une distance inférieure de deux mètres à la ceinture arbustive ».
 
 Toute coupe dépassant les vingt-cinq ares (Règl. g.-d. du 8 juillet
-\2022) « ou un tiers de leur surface ; »;
+2022\) « ou un tiers de leur surface ; »;
 
 Bosquets composés d’au moins cinquante pour cent d’espèces indigènes
 
@@ -49338,7 +49338,7 @@ mètres du sol ;»
 
 Le labourage ou le retournement dans le système racinaire, ou
 toute autre mesure impactant les racines (Règl. g.-d. du 8 juillet
-\2022) « à une distance inférieure de deux mètres ».
+2022\) « à une distance inférieure de deux mètres ».
 
 \- 748 -
 
@@ -49504,7 +49504,7 @@ BK09
 
 Le labourage ou le retournement dans le système racinaire, ou
 toute autre mesure impactant les racines (Règl. g.-d. du 8 juillet
-\2022) « à une distance inférieure de deux mètres des troncs » ;
+2022\) « à une distance inférieure de deux mètres des troncs » ;
 
 Les mesures non adaptées au maintien de l’état de conservation
 des vergers et qui ont pour effet de nuire directement ou indirectement aux arbres ou de dégrader la structure générale des vergers
@@ -53448,22 +53448,22 @@ Effective: 5th March 2009
 ANNEXE I
 Conservation des espèces migratrices
 Interprétation
-1.
+1\.
 
 Les espèces migratrices figurant à la présente Annexe sont désignées:
 a) par le nom de l’espèce ou de la sous-espèce; ou
 b) par l’ensemble des espèces migratrices appartenant à un taxon supérieur ou à une partie désignée dudit taxon.
 
-2.
+2\.
 
 Les autres références à des taxons supérieurs à l’espèce sont données uniquement à titre d’information ou à des fins
 de classification.
 
-3.
+3\.
 
 L’abréviation «(s.l.)» sert à indiquer que le nom scientifique est utilisé dans son sens large.
 
-4.
+4\.
 
 Un astérisque (*) placé après le nom d’une espèce indique que ladite espèce, ou une population géographiquement
 isolée de ladite espèce, ou un taxon supérieur comprenant ladite espèce est inscrit à l’Annexe II.
@@ -53794,7 +53794,7 @@ Pangasianodon gigas
 ANNEXE II
 Conservation et gestion des espèces migratrices
 Interprétation
-1.
+1\.
 
 Les espèces migratrices figurant à la présente Annexe sont désignées:
 a) par le nom de l’espèce ou de la sous-espèce; ou
@@ -53803,20 +53803,20 @@ Sauf indication contraire, lorsqu’il est fait référence à un taxon supérie
 espèces migratrices appartenant audit taxon sont susceptibles de bénéficier de manière significative de la conclusion
 d’Accords.
 
-2.
+2\.
 
 L’abréviation «spp.» suivant le nom d’une famille ou d’un genre sert à désigner toutes les espèces migratrices appartenant à cette famille ou à ce genre.
 
-3.
+3\.
 
 Les autres références à des taxons supérieurs à l’espèce sont données uniquement à titre d’information ou à des fins
 de classification.
 
-4.
+4\.
 
 L’abréviation «(s.l.)» sert à indiquer que le nom scientifique est utilisé dans son sens large.
 
-5.
+5\.
 
 Un astérisque (*) placé après le nom d’une espèce ou d’un taxon supérieur indique que ladite espèce ou une population
 géographiquement isolée de ladite espèce, ou une ou plusieurs espèces comprises dans ledit taxon supérieur sont
@@ -54368,24 +54368,24 @@ Convention). En revanche, une Partie peut en tout temps inscrire des espèces à
 ANNEXES I, II et III
 valables à compter du 24 juin 2010
 Interprétation
-1.
+1\.
 
 Les espèces figurant aux présentes annexes sont indiquées:
 a) par le nom de l’espèce; ou
 b) par l’ensemble des espèces appartenant à un taxon supérieur ou à une partie désignée dudit taxon.
 
-2.
+2\.
 
 L’abréviation «spp.» sert à désigner toutes les espèces d’un taxon supérieur.
 
-3.
+3\.
 
 Les autres références à des taxons supérieurs à l’espèce sont données uniquement à titre d’information ou à des fins
 de classification. Les noms communs figurant après les noms scientifiques des familles sont donnés pour référence. Ils
 indiquent les espèces de la famille qui sont inscrites aux annexes. Dans la plupart des cas, il ne s’agit pas de toutes les
 espèces de la famille.
 
-4.
+4\.
 
 Les abréviations suivantes sont utilisées pour des taxons végétaux inférieurs à l’espèce:
 a) «ssp.» sert à désigner une sous-espèce; et
@@ -54393,7 +54393,7 @@ b) «var.» sert à désigner une ou des variétés.
 
 (1)
 
-5.
+5\.
 
 Aucune des espèces ou aucun des taxons supérieurs de FLORA inscrits à l’Annexe I n’est annoté de manière que ses
 hybrides soient traités conformément aux dispositions de l’Article III de la Convention. En conséquence, les hybrides
@@ -54403,7 +54403,7 @@ reproduits artificiellement issus d’une ou de plusieurs de ces espèces ou d�
 ou liquide et transportées en conteneurs stériles, provenant de ces hybrides, ne sont pas soumis aux dispositions de
 la Convention.
 
-6.
+6\.
 
 Les noms des pays placés entre parenthèses après les noms des espèces inscrites à l’Annexe III sont ceux des Parties
 qui ont fait inscrire ces espèces à cette annexe.
@@ -54418,7 +54418,7 @@ l’amendement de Gaborone. Plus d’informations sur http://www.cites.org
 
 \- 794 -
 
-7.
+7\.
 
 Lorsqu’une espèce est inscrite à l’une des annexes, tous les parties et produits sont couverts sauf si l’espèce est annotée pour indiquer que seuls des parties et produits spécifiques sont couverts. Le signe # suivi d’un nombre placé après
 le nom d’une espèce ou d’un taxon supérieur inscrit à l’Annexe II ou à l’Annexe III renvoie à une note de bas de page
@@ -57148,7 +57148,7 @@ modifiée par l’arrêté grand-ducal du 10 mars 2023 (Mém. A - 162 du 27 mars
 
 Annexe 3
 PLAN D’ACTION1
-1.
+1\.
 
 Champ d’application
 
@@ -57162,7 +57162,7 @@ annexe (ci-après appelé «le tableau 1»).
 Le tableau 1 constitue une partie intégrante de la présente annexe. Toute référence au Plan d’action constitue aussi
 une référence au tableau 1.
 
-2.
+2\.
 
 Conservation des espèces
 
@@ -57315,7 +57315,7 @@ mesures de prélèvement, pour faire en sorte que, lorsque des espèces non indi
 été introduites dans leur territoire, ces espèces, ou leurs hybrides, ne constituent pas un danger potentiel pour les
 populations figurant au tableau 1.
 
-3.
+3\.
 
 Conservation des habitats
 
@@ -57375,7 +57375,7 @@ souffert de dégradations en résultat des impacts de facteurs tels que le chang
 hydrologique, l’agriculture, la propagation d’espèces aquatiques exotiques envahissantes, la succession naturelle,
 des feux incontrôlés, l’utilisation non durable, l’eutrophisation et la pollution.
 
-4.
+4\.
 
 Gestion des activités humaines
 
@@ -57544,7 +57544,7 @@ et à prendre en compte ces éléments, en notant que le plomb, d’une manière
 l’environnement avec des effets néfastes sur les oiseaux d’eau. Les Parties chercheront selon le cas des
 alternatives aux plombs de pèche, en prenant en compte leur impact sur les oiseaux d’eau et sur la qualité de l’eau.
 
-5.
+5\.
 
 Recherche et surveillance continue
 
@@ -57594,7 +57594,7 @@ au tableau 1 et sur l’importance de ces formes d’utilisation pour l’écono
 Les Parties s’efforcent de coopérer avec les organisations internationales compétentes et d’accorder leur appui à
 des projets de recherche et de surveillance continue.
 
-6.
+6\.
 
 Education et information
 
@@ -57622,7 +57622,7 @@ autres décideurs.
 Les Parties s’efforcent de lancer des campagnes spécifiques de sensibilisation du public pour la conservation des
 populations figurant au tableau 1.
 
-7.
+7\.
 
 Mesures d’application
 
@@ -58066,7 +58066,7 @@ autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényl
 autres tétra- et pentabromodiphényléthers présents dans le pentabromodiphényléther commercial.
 Quatrième partie
 Hexabromodiphényléther et heptabromodiphényléther
-\1. Une Partie peut autoriser le recyclage d’articles contenant ou susceptibles de contenir de l’hexabromodiphényléther ou
+1\. Une Partie peut autoriser le recyclage d’articles contenant ou susceptibles de contenir de l’hexabromodiphényléther ou
 de l’heptabromodiphényléther, ainsi que l’utilisation et l’élimination définitive d’articles fabriqués à partir de matériaux recyclés
 contenant ou susceptibles de contenir de l’hexabromodiphényléther ou de l’heptabromodiphényléther, pourvu que:
 a)
@@ -58082,11 +58082,11 @@ c)
 
 la Partie ait signifié au Secrétariat son intention de recourir à la présente dérogation.
 
-\2. À sa sixième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la Conférence des Parties évaluera
+2\. À sa sixième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la Conférence des Parties évaluera
 les progrès faits par les Parties dans la réalisation de leur objectif ultime d’éliminer l’hexabromodiphényléther et l’heptabromodiphényléther contenus dans les articles et déterminera s’il est nécessaire de maintenir la présente dérogation. Dans tous les
 cas, celle-ci expirera au plus tard en 2030.
 Tétrabromodiphényléther et pentabromodiphényléther
-\1. Une Partie peut autoriser le recyclage d’articles contenant ou susceptibles de contenir du tétrabromodiphényléther ou
+1\. Une Partie peut autoriser le recyclage d’articles contenant ou susceptibles de contenir du tétrabromodiphényléther ou
 du pentabromodiphényléther, ainsi que l’utilisation et l’élimination définitive d’articles fabriqués à partir de matériaux recyclés
 contenant ou susceptibles de contenir du tétrabromodiphényléther ou du pentabromodiphényléther, pourvu que:
 a)
@@ -58102,7 +58102,7 @@ c)
 
 la Partie ait signifié au Secrétariat son intention de recourir à la présente dérogation.
 
-\2. À sa sixième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la Conférence des Parties évaluera
+2\. À sa sixième réunion ordinaire et, par la suite, lors d’une réunion ordinaire sur deux, la Conférence des Parties évaluera
 les progrès faits par les Parties dans la réalisation de leur objectif ultime d’éliminer le tétrabromodiphényléther et le pentabromodiphényléther contenus dans les articles et déterminera s’il est nécessaire de maintenir la présente dérogation. Dans tous
 les cas, celle-ci expirera au plus tard en 2030.»
 
@@ -58256,22 +58256,22 @@ iv) Les Parties les ayant fait enregistrer en ce qui les concerne conformément 
 dérogations spécifiques prévues par la présente annexe.
 DDT (1-1-1-trichloro-2,2bis (4-eblorophényl)éther
 Deuxième partie
-\1. La production et l’utilisation du DDT sont éliminées excepté pour les Parties qui ont notifié au Secrétariat leur intention de
+1\. La production et l’utilisation du DDT sont éliminées excepté pour les Parties qui ont notifié au Secrétariat leur intention de
 produire et/ou d’utiliser du DDT. Un registre DDT accessible au public est établi par les présentes. Le Secrétariat tient le registre
 DDT.
-\2. Chaque Partie qui produit et/ou utilise du DDT limite cette production et/ou cette utilisation à la lutte contre les vecteurs
+2\. Chaque Partie qui produit et/ou utilise du DDT limite cette production et/ou cette utilisation à la lutte contre les vecteurs
 pathogènes conformément aux recommandations et lignes directrices de l’Organisation mondiale de la santé relatives à l’utilisation du DDT et ce, pour autant que la Partie en question ne dispose pas de solutions de rechange locales sûres, efficaces
 et abordables.
-\3. Dans le cas où une Partie ne figurant pas sur le registre DDT détermine qu’elle a besoin de DDT pour la lutte contre les
+3\. Dans le cas où une Partie ne figurant pas sur le registre DDT détermine qu’elle a besoin de DDT pour la lutte contre les
 vecteurs pathogènes, elle le notifie au Secrétariat aussitôt que possible pour être immédiatement inscrite sur le registre DDT.
 Elle le notifie en même temps à l’Organisation mondiale de la santé.
 
 \- 855 -
 
 SUBSTANCES DANGEREUSES – 3. Conventions internationales
-\4. Chaque Partie qui utilise du DDT fournit tous les trois ans au Secrétariat et à l’Organisation mondiale de la santé des informations sur la quantité utilisée, les conditions de cette utilisation et son intérêt pour la stratégie prophylactique de cette Partie,
+4\. Chaque Partie qui utilise du DDT fournit tous les trois ans au Secrétariat et à l’Organisation mondiale de la santé des informations sur la quantité utilisée, les conditions de cette utilisation et son intérêt pour la stratégie prophylactique de cette Partie,
 sous une forme à décider par la Conférence des Parties en consultation avec l’Organisation mondiale de la santé.
-\5. Dans l’objectif de réduire et, à terme, d’éliminer l’utilisation du DDT, la Conférence des Parties encourage:
+5\. Dans l’objectif de réduire et, à terme, d’éliminer l’utilisation du DDT, la Conférence des Parties encourage:
 a)
 
 toute Partie utilisant du DDT à élaborer et exécuter un plan d’action dans le cadre du plan de mise en œuvre visé à
@@ -58293,7 +58293,7 @@ Les facteurs à privilégier pour l’étude des solutions de remplacement ou de
 l’environnement, convenir à la lutte contre la maladie compte tenu de la situation de chaque Partie, et être étayées par
 des données de surveillance.
 
-\6. À partir de sa première réunion, et au moins tous les trois ans par la suite, la Conférence des Parties évalue, en consultation avec l’Organisation mondiale de la santé, si le DDT reste nécessaire pour la lutte contre les vecteurs pathogènes, sur la
+6\. À partir de sa première réunion, et au moins tous les trois ans par la suite, la Conférence des Parties évalue, en consultation avec l’Organisation mondiale de la santé, si le DDT reste nécessaire pour la lutte contre les vecteurs pathogènes, sur la
 base des informations scientifiques, techniques, environnementales et économiques disponibles, notamment:
 a)
 
@@ -58308,24 +58308,24 @@ c)
 les progrès faits dans le renforcement de la capacité des pays à recourir à ces solutions de remplacement en toute
 sécurité.
 
-\7. Une Partie peut à tout moment se retirer du registre DDT, moyennant notification écrite au Secrétariat. Ce retrait prend
+7\. Une Partie peut à tout moment se retirer du registre DDT, moyennant notification écrite au Secrétariat. Ce retrait prend
 effet à la date indiquée dans la notification.
 (amendements de 2010)
 «Troisième partie
 Acide perfluorooctane sulfonique, ses sels et fluorure de perfluorooctane sulfonyle
-\1. La production et l’utilisation d’acide perfluorooctane sulfonique, de ses sels et de fluorure de perfluorooctane sulfonyle sont
+1\. La production et l’utilisation d’acide perfluorooctane sulfonique, de ses sels et de fluorure de perfluorooctane sulfonyle sont
 abandonnées par toutes les Parties, sauf dans les cas prévus dans la première partie de la présente annexe pour les Parties
 qui ont signifié au Secrétariat leur intention de les produire ou les utiliser dans un but acceptable. Il est créé par les présentes
 un Registre des buts acceptables accessible au public. La tenue de ce Registre est assurée par le Secrétariat. Toute Partie non
 inscrite au Registre qui constate qu’elle a besoin de recourir à l’acide perfluorooctane sulfonique, à ses sels ou au fluorure de
 perfluorooctane sulfonyle dans un but acceptable figurant dans la première partie le signale au Secrétariat dès que possible afin
 de pouvoir être immédiatement portée au Registre.
-\2. Les Parties qui produisent ou utilisent ces substances tiennent compte, s’il y a lieu, des orientations fournies dans les
+2\. Les Parties qui produisent ou utilisent ces substances tiennent compte, s’il y a lieu, des orientations fournies dans les
 passages pertinents des directives générales sur les meilleures techniques disponibles et les meilleures pratiques environnementales figurant dans la partie V de l’Annexe C à la Convention.
-\3. Tous les quatre ans, chaque Partie qui utilise ou produit ces substances établit un rapport sur ses progrès dans l’élimination de l’acide perfluorooctane sulfonique, de ses sels et du fluorure de perfluorooctane sulfonyle et soumet des informations
+3\. Tous les quatre ans, chaque Partie qui utilise ou produit ces substances établit un rapport sur ses progrès dans l’élimination de l’acide perfluorooctane sulfonique, de ses sels et du fluorure de perfluorooctane sulfonyle et soumet des informations
 sur ces progrès à la Conférence des Parties dans le cadre de la communication d’informations en vertu de l’article 15 de la
 Convention.
-\4. Dans l’objectif de réduire et, à terme, d’éliminer l’utilisation et la production de ces substances, la Conférence des Parties
+4\. Dans l’objectif de réduire et, à terme, d’éliminer l’utilisation et la production de ces substances, la Conférence des Parties
 encourage:
 a)
 
@@ -58345,7 +58345,7 @@ les Parties à promouvoir, dans la mesure de leurs moyens, la recherche-dévelop
 ou des combinaisons de solutions de remplacement comprennent les risques pour la santé humaine et les incidences
 sur l’environnement de ces solutions de remplacement.
 
-\5. La Conférence des Parties évalue si ces substances restent nécessaires pour les divers buts acceptables et dérogations
+5\. La Conférence des Parties évalue si ces substances restent nécessaires pour les divers buts acceptables et dérogations
 spécifiques précédents, en se basant sur les informations scientifiques, techniques, environnementales et économiques disponibles, notamment:
 a)
 
@@ -58363,13 +58363,13 @@ d)
 
 les informations sur les progrès faits dans le renforcement de la capacité des pays à recourir à ces solutions de remplacement en toute sécurité.
 
-\6. Cet examen a lieu au plus tard en 2015 pour le premier et, par la suite, tous les quatre ans, à l’occasion d’une réunion
+6\. Cet examen a lieu au plus tard en 2015 pour le premier et, par la suite, tous les quatre ans, à l’occasion d’une réunion
 ordinaire de la Conférence des Parties.
-\7. En raison de la complexité de leur utilisation et des nombreux secteurs de la société qu’elles touchent, il pourrait exister
+7\. En raison de la complexité de leur utilisation et des nombreux secteurs de la société qu’elles touchent, il pourrait exister
 d’autres applications de ces substances dont les pays ne sont pas au courant. Les Parties qui ont connaissance de telles utilisations sont encouragées à en informer le Secrétariat dès que possible.
-\8. Toute Partie peut à tout moment se retirer du Registre des buts acceptables sur notification écrite adressée au Secrétariat.
+8\. Toute Partie peut à tout moment se retirer du Registre des buts acceptables sur notification écrite adressée au Secrétariat.
 Le retrait prend effet à la date indiquée dans la notification.
-\9. Les dispositions de la note iii) de la première partie de l’Annexe B ne s’appliquent pas à ces substances.»
+9\. Les dispositions de la note iii) de la première partie de l’Annexe B ne s’appliquent pas à ces substances.»
 
 \- 857 -
 
@@ -58472,7 +58472,7 @@ m) les raffineries d’huiles usées.
 SUBSTANCES DANGEREUSES – 3. Conventions internationales
 
 Partie IV: Définitions
-\1. Aux fins de la présente annexe:
+1\. Aux fins de la présente annexe:
 a)
 
 «Polychlorobiphényles» s’entend des composés aromatiques dont la structure est telle que les atomes d’hydrogène de
@@ -58485,7 +58485,7 @@ b)
 et par un atome d’oxygène et un lien carbone-carbone dans le cas des polychlorodibenzofuranes, et dont les atomes
 d’hydrogène peuvent être remplacés par un nombre d’atomes de chlore allant jusqu’à huit.
 
-\2. Dans la présente annexe, la toxicité des polychlorodibenzo-p-dioxines et dibenzofuranes est exprimée à l’aide de la notion
+2\. Dans la présente annexe, la toxicité des polychlorodibenzo-p-dioxines et dibenzofuranes est exprimée à l’aide de la notion
 d’équivalence toxique, qui définit l’activité toxique relative de type dioxine de différents congénères des polychlorodibenzo-pdioxines et dibenzofuranes et des polychlorobiphényles coplanaires par rapport au 2, 3, 7, 8-tétrachlorodibenzo-p-dioxine. Les
 facteurs d’équivalence toxique à utiliser aux fins de la présente Convention doivent être conformes aux normes internationales
 agréées, à commencer par les facteurs d’équivalence toxique pour les mammifères publiés en 1998 par l’Organisation mondiale pour la santé concernant les polychlorodibenzo-p-dioxines et dibenzofuranes et les polychlorobiphényles coplanaires. Les
@@ -58592,7 +58592,7 @@ La Conférence des Parties pourra établir des directives au sujet des meilleure
 SUBSTANCES DANGEREUSES – 3. Conventions internationales
 ANNEXE D
 Informations requises et critères de sélection
-\1. Une Partie qui soumet une proposition d’inscription d’une substance chimique aux annexes A, B et/ou C identifie cette
+1\. Une Partie qui soumet une proposition d’inscription d’une substance chimique aux annexes A, B et/ou C identifie cette
 substance de la manière décrite à l’alinéa a) et fournit des informations sur cette substance, et le cas échéant sur ses produits
 de transformation, qui ont trait aux critères de sélection énoncés aux alinéas b) à e):
 a)
@@ -58649,10 +58649,10 @@ preuves d’effets nocifs sur la santé humaine ou l’environnement justifiant 
 la présente Convention; ou
 
 ii) données de toxicité ou d’écotoxicité indiquant que la substance peut être nocive pour la santé humaine ou l’environnement.
-\2. La Partie qui soumet la proposition présente un exposé de ses motifs de préoccupation, y compris, si possible, une comparaison des données de toxicité ou d’écotoxicité faisant apparaître les concentrations détectées de la substance chimique
+2\. La Partie qui soumet la proposition présente un exposé de ses motifs de préoccupation, y compris, si possible, une comparaison des données de toxicité ou d’écotoxicité faisant apparaître les concentrations détectées de la substance chimique
 résultant de sa propagation à longue distance dans l’environnement, ou prévues du fait de cette propagation, et une brève
 déclaration faisant ressortir la nécessité d’une réglementation mondiale.
-\3. La Partie qui soumet la proposition, dans la mesure du possible et compte tenu de ses moyens, fournit des informations
+3\. La Partie qui soumet la proposition, dans la mesure du possible et compte tenu de ses moyens, fournit des informations
 supplémentaires à l’appui de l’examen de la proposition visé au paragraphe 6 de l’article 8. Pour élaborer une telle proposition,
 une Partie peut faire appel aux compétences techniques de n’importe quelle source.
 
@@ -58817,7 +58817,7 @@ Critères pour la classification des MGM ou des OGM dans le groupe de risque 1
 Les critères 1) - 3) se réfèrent à des hommes immunocompétents ou à des animaux et à des végétaux sains.
 Un organisme en particulier un micro-organisme génétiquement modifié est classé dans le groupe 1 quand tous les critères
 suivants sont remplis:
-1)
+1\)
 
 Le micro-organisme ou organisme récepteur ou parental n’est pas susceptible de causer une pathologie chez l’homme,
 les animaux ou les végétaux.
@@ -58836,7 +58836,7 @@ d’accorder une attention particulière à tout gène codant pour les toxines, 
 dans les plasmides ou les phages et aux agents adventifs nocifs. Dans ces conditions, il faut procéder à une
 évaluation au cas par cas.
 
-2)
+2\)
 
 Le vecteur et l’insert sont de telle nature qu‘ils ne puissent pas doter le MGM ou l’OGM d’un phénotype susceptible de
 causer une pathologie chez l’homme, les animaux ou les végétaux ou causer des effets négatifs sur l’environnement.
@@ -58856,7 +58856,7 @@ pathologie chez l’homme, les espèces animales ou végétales ou de causer des
 il est important de veiller à ce que le vecteur/l’insert soit bien caractérisé ou que la taille de l’insert soit limitée
 autant que possible aux séquences génétiques nécessaires pour réaliser la fonction voulue.
 
-3)
+3\)
 
 Le MGM OU l’OGM n’est pas susceptible de causer une pathologie chez l’homme, les animaux ou les végétaux, et n’est
 pas susceptible de causer des effets négatifs sur l’environnement.
@@ -59097,9 +59097,9 @@ La présente annexe décrit en termes généraux les éléments à prendre en co
 notes explicatives qui ont été ou qui seront élaborées par la Commission conformément à la procédure prévue à l’article 21 de
 la directive 90/219/CEE modifiée du 23 avril 1990.
 A. Éléments de l’évaluation
-1.
+1\.
 
-2.
+2\.
 
 Les éléments suivants doivent être considérés comme des effets potentiellement nocifs:
 –
@@ -59138,14 +59138,14 @@ c) la gravité des effets potentiellement nocifs;
 DIVERS – 1. Généralités
 d) la possibilité de voir les effets potentiellement nocifs se réaliser.
 B. Procédure
-3.
+3\.
 
 La première étape de la procédure d’évaluation doit consister à identifier les propriétés nocives du microorganisme ou
 organisme récepteur et, le cas échéant, du micro-organisme ou organisme donneur, les propriétés nocives liées au
 vecteur ou au matériel inséré, y compris toute modification des propriétés existantes du microorganisme ou organisme
 récepteur.
 
-4.
+4\.
 
 En général, seuls les MGM ou OGM qui présentent les caractéristiques ci-après seront considérés comme pouvant être
 inclus dans la classe 1 telle que définie à l’article 2 paragraphe 1:
@@ -59159,7 +59159,7 @@ provoquer une maladie chez l’homme, les animaux ou les végétaux ou susceptib
 pour l’environnement;
 iii) le MGM ou l’OGM n’est pas susceptible de provoquer une maladie chez l’homme, les animaux ou les végétaux(1) et
 d’avoir des effets délétères pour l’environnement.
-5.
+5\.
 
 Afin de prendre connaissance des informations nécessaires à la mise en œuvre de cette procédure, l’utilisateur peut
 d’abord prendre en considération la législation communautaire pertinente, en particulier, la directive 90/679/CEE du
@@ -59176,12 +59176,12 @@ des pathogènes végétaux et animaux (qui sont habituellement établies au nive
 ci-dessus ne donnent qu’une indication provisoire de la classe de risque de l’opération et de l’ensemble des mesures de
 confinement et de protection qui lui sont applicables.
 
-6.
+6\.
 
 La procédure d’identification des risques réalisée conformément aux points 3 à 5 doit aboutir à l’identification du niveau
 de risque associé au MGM ou l’OGM.
 
-7.
+7\.
 
 Le choix des mesures de confinement et autres mesures de protection doit ensuite être opéré sur la base du niveau de
 risque associé aux MGM ou aux OGM et compte tenu des éléments suivants:
@@ -59195,12 +59195,12 @@ ii) les caractéristiques de l’opération (par exemple, son échelle, sa natur
 iii) toute opération non standardisée (par exemple, inoculation de MGM ou d’OGM à des animaux, équipement susceptible de générer des aérosols).
 La prise en compte, en vue d’une opération particulière, des éléments visés aux points i) à iii) ci-dessus peut accroître,
 diminuer ou laisser inchangé le niveau de risque associé aux MGM tel que déterminé conformément au paragraphe 6.
-8.
+8\.
 
 L’analyse effectuée dans les conditions décrites ci-dessus conduira finalement à classer l’opération en cause dans l’une
 des classes décrites à l’article 3.
 
-9.
+9\.
 
 La classification définitive de l’utilisation confinée doit être confirmée par un réexamen de l’ensemble de la procédure
 d’évaluation prévue à l’article 2, paragraphe 2.»
@@ -59213,7 +59213,7 @@ DIVERS – 1. Généralités
 ANNEXE III
 Mesures de confinement et autres mesures de protection
 Principes généraux
-\1. Les tableaux ci-après présentent les exigences minimales normales et les mesures nécessaires pour chaque niveau de
+1\. Les tableaux ci-après présentent les exigences minimales normales et les mesures nécessaires pour chaque niveau de
 confinement.
 Le confinement est également garanti par l’utilisation de bonnes pratiques de travail, la formation, un équipement de confinement et une conception particulière des installations. Pour toutes les opérations impliquant des MGM, les principes de bonne
 pratique microbiologique et les principes ci-après de sécurité et d’hygiène sur le lieu de travail sont d’application:
@@ -59248,7 +59248,7 @@ xii) interdire le pipetage à la bouche;
 xiii) fournir les instructions écrites sur les procédures types d’exploitation, le cas échéant, afin de garantir la sécurité;
 xiv) disposer des désinfectants efficaces et de procédures précises de désinfection au cas oil des MGM seraient répandus;
 xv) le cas échéant, prévoir un stockage en toute sécurité des équipements et matériaux de laboratoire contaminés.
-\2. Les titres des tableaux sont indicatifs.
+2\. Les titres des tableaux sont indicatifs.
 Le tableau 1 a présente les exigences minimales pour les opérations de laboratoire.
 Le tableau 1 b indique les ajouts et les modifications par rapport au tableau 1 a pour les opérations effectuées à l’intérieur
 de serres/locaux de cultures impliquant des MGM.
@@ -59260,7 +59260,7 @@ Dans certains cas, les utilisateurs peuvent, avec l’accord de l’autorité co
 à un niveau de confinement particulier ou combiner des spécifications données pour deux niveaux différents.
 Dans ces tableaux, le terme «optionnel» signifie que l’utilisateur peut appliquer ces mesures cas par cas, en fonction de
 l’évaluation prévue à l’article 5, paragraphe 2.
-\3. Lorsqu’ils mettent en application la présente annexe, les États membres incorporent en outre les principes généraux des
+3\. Lorsqu’ils mettent en application la présente annexe, les États membres incorporent en outre les principes généraux des
 paragraphes 1 et 2 dans les tableaux ci-après, pour garantir la clarté des exigences.
 
 \- 871 -
@@ -60242,7 +60242,7 @@ DIVERS – 1. Généralités
 ANNEXE II
 Normes minimales requises dans les domaines de l’environnement, de l’hygiène et
 du bien-être animal et visées à l’article 6
-\1) Environnement
+1\) Environnement
 Les bâtiments de l’exploitation doivent être conformes aux conditions d’établissement et d’exploitation fixées par les autorisations relevant de la législation sur les établissements classés.
 Les prescriptions suivantes sont à respecter dans tous les cas:
 –
@@ -60299,7 +60299,7 @@ Horticulture et arboriculture:
 
 Les tas de compost sont à réaliser et à exploiter conformément aux dispositions applicables en la matière.
 
-\2) Hygiène
+2\) Hygiène
 –
 
 Les chambres à lait doivent être construites de façon à éviter toute communication directe avec les locaux donnant lieu
@@ -60315,7 +60315,7 @@ Les équipements, tels les appareils de traite et les tanks à lait doivent gara
 Les locaux d’abattage et de découpe ainsi que les installations de réfrigération doivent répondre aux prescriptions
 d’hygiène afférentes.
 
-\3) Bien-être des animaux
+3\) Bien-être des animaux
 Les logements pour animaux doivent être conçus et utilisés de manière à garantir leur bien-être, afin que les animaux ne
 subissent ni douleur, ni souffrance et ni dommage inutiles.
 Ils doivent répondre au moins aux dispositions légales et réglementaires existantes en matière de bien-être et de protection
@@ -60326,7 +60326,7 @@ des animaux.
 DIVERS – 1. Généralités
 ANNEXE III
 Liste des investissements visés à l’article 11
-1)
+1\)
 
 Toutes les constructions agricoles, vinicoles, horticoles, apicoles et piscicoles inclusivement les travaux d’infrastructure et les frais généraux (honoraires d’architectes, études, etc.), à savoir notamment:
 –
@@ -60376,7 +60376,7 @@ serres horticoles,
 distilleries (bâtiments et équipements).
 
 Tous ces investissements sont considérés comme des biens immeubles.
-2)
+2\)
 
 Toutes les installations fixes et équipements mobiles, utilisés à l’intérieur des exploitations, à savoir notamment:
 a. biens immeubles
@@ -60435,7 +60435,7 @@ b.3. équipements utilisés dans les exploitations horticoles et arboricoles, pa
 – tous les équipements autres que ceux repris sous a.3., notamment:
 – stérilisateur de terre,
 – pressoir de mottes de terre.
-3)
+3\)
 
 Machines:
 a. Machines agricoles:
@@ -60493,9 +60493,9 @@ toutes les machines, à l’exception des tracteurs de type agricole.
 
 d. Machines sylvicoles:
 
-4)
+4\)
 
-5)
+5\)
 
 –
 
@@ -60639,7 +60639,7 @@ Les investissements figurant à l’annexe III mais qui ne sont pas mentionnés 
 figure la mention «p.m.», sont éligibles aux aides sur la base de leur coût effectif.
 A) Prix unitaires pour les bâtiments
 (Tous les prix s’entendent en EUR hors TVA)
-1.
+1\.
 
 Étable pour vaches laitières
 1.1.
@@ -60656,11 +60656,11 @@ traite, chambre à lait, salle des machines
 195.-/m2
 (mesures extérieures)
 
-2.
+2\.
 
-3.
+3\.
 
-4.
+4\.
 
 1.3.
 
@@ -60778,7 +60778,7 @@ Stockage de cadavres et clôtures
 p.m.»
 
 (Règl. g.-d. du 28 février 2003)
-5.
+5\.
 
 Citerne à purin ou à lisier «(prix par m3 de volume brut)»
 5.1.
@@ -60800,7 +60800,7 @@ Capacité de 51 à 100 m3
 
 DIVERS – 1. Généralités
 
-6.
+6\.
 
 5.1.3.
 
@@ -60843,7 +60843,7 @@ l’aide spéciale pour le volume dépassant une capacité de stockage de 7 mois
 Fosse à fumier
 Fosse ou plate-bande inclusivement collecte des eaux de suintement
 
-7.
+7\.
 
 6.1.
 
@@ -60883,7 +60883,7 @@ Bâtiment ouvert sur au moins une de ses faces longitudinales
 
 (Règl. g.-d. du 28 février 2003)
 «7.4.
-8.
+8\.
 
 Hangars et entrepôts à usage des viticulteurs et horticulteurs
 
@@ -60900,32 +60900,32 @@ Silo-tour
 
 p.m.
 
-9.
+9\.
 
 Tanks à engrais liquides
 
 p.m.
 
-10.
+10\.
 
 Cave à vin et autres constructions vinicoles (à l’exception des hangars à machines)
 
 p.m.
 
-11.
+11\.
 
 Serres horticoles
 
 p.m.
 
-12.
+12\.
 
 Bâtiments et équipements pour la transformation, le conditionnement et le stockage
 à l’exploitation de produits de celle-ci
 
 p.m.
 
-13.
+13\.
 
 Constructions apicoles
 13.1.
@@ -60934,9 +60934,9 @@ Rucher
 13.1.1. Installation d’un rucher fixe
 
 13.2.
-14.
+14\.
 
-15.
+15\.
 
 58.-/m3
 (volume de stockage)
@@ -60991,11 +60991,11 @@ Aire couverte
 
 DIVERS – 1. Généralités
 B) Prix unitaires pour les machines agricoles
-1.
+1\.
 
-2.
+2\.
 
-3.
+3\.
 
 Remorque autochargeuse avec dispositif de coupe
 1.1.
@@ -61078,9 +61078,9 @@ Charge utile de 14,01 à 16 tonnes
 
 (Règl. g.-d. du 28 février 2003)
 
-4.
+4\.
 
-5.
+5\.
 
 «3.5.
 
@@ -61224,17 +61224,17 @@ p.m.
 \- 887 -
 
 DIVERS – 1. Généralités
-6.
+6\.
 
 Faucheuse et faucheuse-conditionneuse
 6.1.
 
 6.2.
 
-7.
-8.
+7\.
+8\.
 
-9.
+9\.
 
 Faucheuse rotative
 6.1.1.
@@ -61313,17 +61313,17 @@ Semoirs équipés pour le semis direct
 
 Fertilisateurs ou microgranulateurs (suppl. aux positions 9.1. et 9.2.)
 
-10.
+10\.
 
 Récolteuse de betteraves
 
-11.
+11\.
 
 Moissonneuse-batteuse
 
-12.
+12\.
 
-14.
+14\.
 
 1.500.-/rang
 p.m.
@@ -61409,7 +61409,7 @@ Bineuse pour plantes sarclées de 5 à 6 rangs
 Herse à dents mobiles (Unkrautstriegel)
 
 12.4.
-13.
+13\.
 
 12.500.-
 
@@ -61472,7 +61472,7 @@ Récolteuse à 2 rangs avec trémie
 \- 888 -
 
 DIVERS – 1. Généralités
-15.
+15\.
 
 Ramasseur/broyeur/andaineur de pierres
 15.1.
@@ -61495,7 +61495,7 @@ Ramasseur-andaineur pour les cultures de pommes de terre
 2.750.-
 
 15.2.
-16.
+16\.
 
 Autres types
 
@@ -61507,17 +61507,17 @@ Pulvérisateur
 Pulvérisateur tracté
 16.1.1. Capacité du réservoir ≤ à 800 l
 
-17.
-18.
+17\.
+18\.
 
-19.
-20.
+19\.
+20\.
 
-21.
+21\.
 
-22.
+22\.
 
-23.
+23\.
 
 4.000.-
 
@@ -61679,12 +61679,12 @@ Barre de coupe (suppl.)
 \- 889 -
 
 DIVERS – 1. Généralités
-24.
+24\.
 
 Machines d’entretien et de récolte des cultures légumières de plein champs
 et des cultures spéciales (p.ex. plantes aromatiques)
 
-25.
+25\.
 
 Équipement de semis direct: montant servant de base au calcul de l’aide: 
 
@@ -61693,7 +61693,7 @@ p.m.
 coût effectif hors TVA – 12.500.-
 
 C) Prix unitaires pour machines et équipements mobiles utilisés à l’intérieur de l’exploitation agricole
-1.
+1\.
 
 Silo à aliments concentrés
 1.1.
@@ -61704,16 +61704,16 @@ Silo d’un contenu de 6 m3 (1 m3 = 0,6 t, 1 t = 1,67 m3)
 
 Supplément par tranche de 2 m3 au-delà de 6 m3
 
-2.
+2\.
 
 Ensileuse pour silo-tour (Silogebläse)
 
-3.
+3\.
 
 Désileuse
 3.1.
 
-4.
+4\.
 
 2.200.250.p.m.
 
@@ -61796,37 +61796,37 @@ p.m.
 p.m.
 «300.-»
 
-5.
+5\.
 
 Machines pour le conditionnement et la distribution de betteraves fourragères
 
 p.m.
 
-6.
+6\.
 
 Équipements pour distilleries
 
 p.m.
 
-7.
+7\.
 
 Installations pour la production de biogaz
 
 p.m.
 
-8.
+8\.
 
 Dispositif de distribution d’eau potable avec système antigaspillage
 
 p.m.
 
-9.
+9\.
 
 Réservoirs et installations de collecte d’eau de pluie
 
 p.m.
 
-10.
+10\.
 
 Évacuateur mécanique de fumier ou de lisier, chargeurs de ferme
 10.1.
@@ -61854,7 +61854,7 @@ p.m.
 
 «(…)»
 10.3.
-11.
+11\.
 
 Chargeur d’étable avec bras téléscopique
 
@@ -61885,11 +61885,11 @@ Autres types de mixeurs et pompes
 \- 890 -
 
 DIVERS – 1. Généralités
-12.
+12\.
 
 Équipement de traite champêtre
 
-13.
+13\.
 
 12.1.
 
@@ -61926,19 +61926,19 @@ Supplément par vache au-delà de 30
 
 15.000.125.-
 
-14.
+14\.
 
 Équipement de manutention de balles de foin et de paille
 
 p.m.
 
-15.
+15\.
 
 Équipement de manutention (soufflerie, élévateur) de conditionnement et de stockage de grains (séchoir, nettoyeur)
 
 p.m.
 
-16.
+16\.
 
 Nettoyeur à haute pression
 16.1.
@@ -61954,7 +61954,7 @@ Nettoyeur à eau chaude
 3.300.-
 
 D) Prix unitaires pour machines et équipements viticoles
-1.
+1\.
 
 Motoculteur interligne à 4 roues motrices
 
@@ -62036,7 +62036,7 @@ Sécateur pneumatique
 
 2( ). Charrue sous-soleuse
 
-3.
+3\.
 
 2.1.
 
@@ -62069,31 +62069,31 @@ Travail entre et sur les lignes
 
 6.250.-
 
-4.
+4\.
 
 Machine à bêcher
 
 p.m.
 
-5.
+5\.
 
 Broyeur de pierres
 
 p.m.
 
-6.
+6\.
 
 Épandeur de compost
 
 p.m.
 
-7.
+7\.
 
 Palisseuse mécanique
 
 8.250.-
 
-8.
+8\.
 
 Rogneuse (Laubschneider)
 8.1.
@@ -62114,7 +62114,7 @@ en ce sens ne figurant dans le modificateur, la numérotation est laissée en l�
 \- 891 -
 
 DIVERS – 1. Généralités
-9.
+9\.
 
 Équipements tractés pour le transport des raisins
 9.1.
@@ -62129,27 +62129,27 @@ Remorque pour le transport de raisins en bacs
 
 2.750.-
 
-10.
+10\.
 
 Machine à écorcer
 
 7.125.-
 
-11.
+11\.
 
 Planteur de pieux inclusivement accessoires
 
 2.875.-
 
-12.
+12\.
 
 Machines à vendanger (automotrices)
 
-13.
+13\.
 
 Récipients vinaires en acier inoxydable (incl. accessoires)
 
-14.
+14\.
 
 125.000.-
 
@@ -62190,34 +62190,34 @@ Capacité ≥ à 3.000 l
 
 37.500.-
 
-15.
+15\.
 
 Matériel d’embouteillage
 
 p.m.
 
-16.
+16\.
 
 Installation pour distilleries
 
 p.m.
 
 E) Prix unitaires pour machines et équipements horticoles
-1.
+1\.
 
 Stérilisateur de terre
 
 p.m.
 
-2.
+2\.
 
 Planteuse-repiqueuse
 
 7.500.-
 
-3.
+3\.
 
-4.
+4\.
 
 Pressoir de mottes de terre
 3.1.
@@ -62251,27 +62251,27 @@ Addition automatique des pots
 
 3.125.-
 
-5.
+5\.
 
 Fraise automotrice
 
-6.
+6\.
 
 Semoir de précision (pr. légumes)
 
-7.
+7\.
 
 Mélangeur d’engrais
 
 1.650.-
 
-8.
+8\.
 
 Tracteur enjambeur
 
 p.m.
 
-9.
+9\.
 
 Équipement pour la récolte et le conditionnement de fruits ou de légumes
 
@@ -62301,44 +62301,44 @@ laveuse de légumes
 
 p.m.
 
-10.
+10\.
 
 Récupérateur de chaleur, avec ou sans pompe à chaleur
 
 p.m.
 
-11.
+11\.
 
 Équipement de chauffage et de réglage du climat et dispositif d’économie et de récupération de l’énergie dans les serres
 
 p.m.
 
-12.
+12\.
 
 Groupe électrogène
 
 p.m.
 
-13.
+13\.
 
 Arracheuse pour plantes
 
 p.m.
 
-14.
+14\.
 
 Tombereau automoteur
 
 10.000.-
 
-15.
+15\.
 
 Installations d’irrigation, de fertigation ou d’aspersion
 
 p.m.
 
 F) Prix unitaires pour machines et équipements sylvicoles
-1.
+1\.
 
 Treuil
 1.1.
@@ -62356,9 +62356,9 @@ Treuil fixe ou treuil mobile d’une puissance > à 5 t
 \- 892 -
 
 DIVERS – 1. Généralités
-2.
+2\.
 
-3.
+3\.
 
 Fendeuse hydraulique
 2.1.
@@ -62392,15 +62392,15 @@ Ecorceuse transportable pour gros bois
 
 42.500.-
 
-4.
+4\.
 
 Scierie mobile
 
-5.
+5\.
 
 Déchiqueteuse
 
-6.
+6\.
 
 p.m.
 
@@ -62421,7 +62421,7 @@ Processeur pour éclaircies
 45.000.-
 
 G) Prix unitaires pour machines et équipements apicoles
-1.
+1\.
 
 Matériel pour la récolte et le conditionnement du miel
 1.1.
@@ -62462,15 +62462,15 @@ Appareil de soutirage
 
 1.125.625.2.250.-
 
-2.
+2\.
 
 Déshumidificateur de l’air
 
-3.
+3\.
 
 Appareillage destiné à la reproduction des abeilles
 
-4.
+4\.
 
 750.-
 
@@ -62514,50 +62514,50 @@ Gaufrier à main
 DIVERS – 1. Généralités
 ANNEXE VI
 Liste des produits agricoles visés à l’article 33, paragraphe 2
-1)
+1\)
 
 Céréales: les investissements réalisés hors des exploitations agricoles et concernant la réception, le stockage et le
 traitement.
 Sont exclus les investissements comportant une extension des capacités de réception, de stockage et de traitement des
 céréales.
 
-2)
+2\)
 
 Viande bovine: les investissements concernant le premier stade de transformation (abattage et première découpe), à
 l’exclusion de toute augmentation des capacités d’abattage.
 
-3)
+3\)
 
 Viande porcine: les investissements concernant le premier stade de transformation (abattage et première découpe), y
 compris ceux ayant trait aux salaisons fumées, mais à l’exclusion de toute augmentation des capacités d’abattage.
 
-4)
+4\)
 
 Viande de volaille et de lapins: les investissements concernant le premier stade de transformation (abattage et première
 découpe), à l’exclusion de toute augmentation des capacités d’abattage sauf pour les volailles élevées à l’intérieur selon
 un système extensif conformément au règlement (CE) n° 1538/91.
 
-5)
+5\)
 
 Œufs: les investissements liés au triage et au conditionnement des œufs.
 
-6)
+6\)
 
 Vin de raisin: les investissements concernant la réception des raisins, le traitement, le stockage et le conditionnement
 des vins tranquilles, des vins mousseux et des crémants. Sont exclus les investissements comportant une augmentation
 des capacités de cuverie, de stockage ou de production.
 
-7)
+7\)
 
 Lait et produits laitiers: les investissements se rapportant à la réception et au traitement du lait cru ainsi qu’à la production de produits frais et de spécialités de fromage.
 Les investissements sont limités aux quantités de référence disponibles auprès des fournisseurs.
 
-8)
+8\)
 
 Pommes de terre et plants de pommes de terre: les investissements liés au stockage, au triage et au conditionnement
 de ces produits, avec possibilité d’une augmentation très limitée des capacités.
 
-9)
+9\)
 
 Fruits et légumes: les investissements liés à la réception, au stockage, au triage et au conditionnement. Sont notamment
 visés:
@@ -62565,7 +62565,7 @@ visés:
 –
 –
 –
-10)
+10\)
 
 les pommes, les poires, les prunes, les cerises et les fraises;
 les choux, les carottes, les laitues, les poireaux, les endives et les céleris,
@@ -62680,7 +62680,7 @@ DIVERS – 1. Généralités
 ANNEXE II
 Réparation des dommages environnementaux
 La présente annexe fixe un cadre commun à appliquer pour choisir les mesures les plus appropriées afin d’assurer la réparation des dommages environnementaux.
-\1. Réparation de dommages affectant les eaux ou les espèces et habitats naturels protégés
+1\. Réparation de dommages affectant les eaux ou les espèces et habitats naturels protégés
 La réparation de dommages environnementaux liés aux eaux ainsi qu’aux espèces ou habitats naturels protégés s’effectue
 par la remise en état initial de l’environnement par une réparation primaire, complémentaire et compensatoire, où:
 a)
@@ -62801,7 +62801,7 @@ au niveau de ceux qui ont été perdus. Ce sera le cas par exemple lorsque des r
 a) les mesures de réparation déjà prises garantissent qu’il ne subsiste aucun risque grave d’incidence négative sur
 la santé humaine, les eaux ou les espèces et habitats naturels protégés, et
 b) que le coût des mesures de réparation à prendre pour rétablir l’état initial ou un niveau équivalent serait disproportionné par rapport aux bénéfices environnementaux escomptés.
-\2. Réparation des dommages affectant les sols
+2\. Réparation des dommages affectant les sols
 Les mesures nécessaires sont prises afin de garantir au minimum la suppression, le contrôle, l’endiguement ou la réduction
 des contaminants concernés, de manière à ce que les sols contaminés, compte tenu de leur utilisation actuelle ou prévue pour
 l’avenir au moment où les dommages sont survenus, ne présentent plus de risque grave d’incidence négative sur la santé
@@ -62831,7 +62831,7 @@ Activités visées à l’article 4, paragraphe 1
 L’exploitation d’installations soumises à la loi du 9 mai 2014 relative aux émissions industrielles, à l’exception des installations ou parties d’installations utilisées pour la recherche, le développement et l’expérimentation de nouveaux produits
 et procédés.»
 
-2.
+2\.
 
 Les opérations de gestion des déchets, notamment le ramassage, le transport, la valorisation et l’élimination des déchets
 et des déchets dangereux, y compris la surveillance de ces opérations et le traitement ultérieur des sites d’élimination,
@@ -62842,28 +62842,28 @@ février 2003 concernant la mise en décharge des déchets et l’exploitation d
 Ces activités n’incluent pas l’épandage, à des fins agricoles, de boues d’épuration provenant de stations d’épuration des
 eaux urbaines résiduaires, traitées conformément à une norme approuvé.
 
-3.
+3\.
 
 Tout rejet effectué dans les eaux intérieures de surface soumis à autorisation préalable au titre de la loi du 19 décembre
 2008 relative à l’eau et conformément à la réglementation concernant les valeurs limites et, le cas échéant, les objectifs
 de qualité pour les rejets de certaines substances dangereuses.
 
-4.
+4\.
 
 Tout rejet de substances dans les eaux souterraines, soumis à autorisation préalable au titre la loi du 19 décembre 2008
 relative à l’eau et conformément au règlement grand-ducal du 16 août 1982 concernant la protection des eaux souterraines contre la pollution par certaines substances dangereuses.
 
-5.
+5\.
 
 Le rejet ou l’introduction de polluants dans les eaux de surface ou souterraines, soumis à autorisation préalable au titre
 de la loi du 19 décembre 2008 relative à l’eau.
 
-6.
+6\.
 
 Le captage et l’endiguement d’eau, soumis à autorisation préalable au titre respectivement de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles et de la loi du 19 décembre 2008 relative à
 l’eau.
 
-7.
+7\.
 
 La fabrication, l’utilisation, le stockage, le traitement, le conditionnement, le rejet dans l’environnement et le transport sur
 le site de:
@@ -62878,7 +62878,7 @@ ii) préparations dangereuses au sens de la loi modifiée du 3 août 2005 relati
 l’étiquetage des préparations dangereuses;
 iii) produits phytopharmaceutiques tels que définis par le règlement grand-ducal modifié du 14 décembre 1994 concernant la mise sur le marché et l’utilisation des produits phytopharmaceutiques;
 iv) produits biocides tels que définis par la loi modifiée du 24 décembre 2002 relative aux produits biocides.
-8.
+8\.
 
 Le transport par route, chemin de fer, voie de navigation intérieure, mer ou air de marchandises dangereuses ou de
 marchandises polluantes au sens du règlement grand-ducal modifié du 31 janvier 2003 sur les transports par route
@@ -62886,21 +62886,21 @@ de marchandises dangereuses ou au sens du règlement grand-ducal modifié du 3 j
 de marchandises dangereuses ou au sens du règlement grand-ducal du 10 septembre 2004 transposant la directive
 2002/59/CE du Parlement européen et du Conseil du 27 juin 2002 relative à la mise en place d’un système communautaire de suivi du trafic des navires et d’information et abrogeant la directive 93/75 du Conseil.
 
-9.
+9\.
 
 Toute utilisation confinée, y compris le transport, de micro-organismes génétiquement modifiés au sens de la loi modifiée du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés.
 
-10.
+10\.
 
 Toute dissémination volontaire dans l’environnement, tout transport ou mise sur le marché d’organismes génétiquement
 modifiés au sens de la loi visée sous le point 10.
 
-11.
+11\.
 
 Le transfert transfrontalier de déchets, soumis à autorisation préalable ou interdit au titre du règlement (CE) No
 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets.
 
-12.
+12\.
 
 La gestion des déchets d’extraction conformément à la loi du 26 novembre 2008 concernant la gestion des déchets de
 l’industrie extractive.
@@ -65551,7 +65551,7 @@ er
 requérant de l’aide financière et / ou de la prime à la casse, et au plus tard le 1 octobre 2012. Pour les
 er
 voitures de location sans chauffeur, ce délai est porté à douze mois. La date limite est le 1 mars 2013.
-\1. L’AIDE FINANCIERE (« prime CAR-e ») est destinée aux personnes ayant acquis une voiture à faibles
+1\. L’AIDE FINANCIERE (« prime CAR-e ») est destinée aux personnes ayant acquis une voiture à faibles
 émissions de CO2
 1.1. L’AIDE FINANCIERE de 750 s’applique aux voitures remplissant les conditions suivantes :
 (a) leur première mise en circulation a lieu entre :
@@ -65596,7 +65596,7 @@ financière, à un contrat de fourniture d’électricité verte issue à 100 % 
 
 DIVERS – 2. Instruments économiques et financiers
 
-\2. LA PRIME A LA CASSE (« prime CAR-e plus ») est destinée aux personnes ayant acquis une voiture à
+2\. LA PRIME A LA CASSE (« prime CAR-e plus ») est destinée aux personnes ayant acquis une voiture à
 faibles émissions de CO2, lorsque cette acquisition s’accompagne simultanément du retrait de la
 circulation, à des fins de destruction (un certificat de destruction est exigé), d’une voiture âgée de plus
 de 10 ans leur ayant appartenu pendant au moins les 12 derniers mois précédant la date de sa remise
@@ -65619,7 +65619,7 @@ sur le contrat de leasing à condition que la voiture soit immatriculée au Gran
 Pour les dispositions détaillées, il y a lieu de se référer au règlement grand-ducal
 Avis important:
 Toute demande incomplète ne pourra être instruite et sera retournée intégralement au requérant
-\1) L’aide financière est sollicitée pour une nouvelle voiture :
+1\) L’aide financière est sollicitée pour une nouvelle voiture :
 Aide financière de 750
 ère
 
@@ -65684,14 +65684,14 @@ Voiture (y compris voiture propulsée exclusivement par un moteur électrique) m
 
 DIVERS – 2. Instruments économiques et financiers
 
-\2) La prime à la casse est sollicitée pour une nouvelle voiture :
+2\) La prime à la casse est sollicitée pour une nouvelle voiture :
 
 Voiture bénéficiant également de l’aide financière (rubriques 11, 14, 15, 16 ou 17)
 
 Voiture ne bénéficiant pas de l’aide financière (rubriques 11, 14, 15, 16 ou 17) et dont les émissions de CO2
 sont inférieures ou égales à 150 g/km
 
-\3) Coordonnées du requérant de l’aide financière / de la prime à la casse
+3\) Coordonnées du requérant de l’aide financière / de la prime à la casse
 Particulier (personne physique)
 
 Personne morale de droit privé (Société, Entreprise, …)
@@ -65754,7 +65754,7 @@ Signature
 
 DIVERS – 2. Instruments économiques et financiers
 
-\5) Caractéristiques et données de la nouvelle voiture
+5\) Caractéristiques et données de la nouvelle voiture
 
 Marque et type :
 
@@ -65784,7 +65784,7 @@ Oui
 S’agit-il d’un véhicule hybride ?
 Non
 
-\6) Caractéristiques et données de la voiture retirée de la circulation à des
+6\) Caractéristiques et données de la voiture retirée de la circulation à des
 f i n s d e d e s t r u c t i o n (à remplir uniquement si la prime à la casse est sollicitée)
 
 Marque et type :
@@ -65800,7 +65800,7 @@ Date de la première immatriculation au nom du requérant de la prime à la cass
 Date de la remise, pour destruction, à un point de reprise ou à une installation de traitement
 habilité à délivrer un certificat de destruction :
 
-\7) Les pièces justificatives requises concernant la nouvelle voiture
+7\) Les pièces justificatives requises concernant la nouvelle voiture
 
 Copie du certificat d’immatriculation (carte grise)
 
@@ -65842,7 +65842,7 @@ Copie du certificat de destruction
 Copie du contrat d'assurance en cours de validité pendant au moins 6 mois durant les 12 mois précédant la
 date de sa remise pour destruction à un point de reprise ou à une installation de traitement autorisé
 
-\8) Engagement du requérant
+8\) Engagement du requérant
 Le (la) soussigné(e), propriétaire/détenteur( 3) de la voiture identifiée aux rubriques 51 à 59, s’engage à respecter
 les dispositions du règlement grand-ducal modifié du 5 décembre 2007 concernant l’octroi d’une aide financière et
 d’une prime à la casse aux personnes physiques et aux personnes morales de droit privé pour la promotion des
@@ -65853,8 +65853,8 @@ Le (la) soussigné(e) déclare avoir été propriétaire/ détenteur (3 ) de la 
 mois / 12 mois pour les voitures de location sans chauffeur(3 ) après la date où la voiture a été immatriculée à son
 nom, et avoir observé tous les éléments pertinents pour pouvoir considérer la demande comme complète, à savoir
 que :
-\1. La fiche présente est dûment remplie ;
-\2. Les pièces justificatives reprises aux rubriques 70 à 79 de la présente fiche sont fournies.
+1\. La fiche présente est dûment remplie ;
+2\. Les pièces justificatives reprises aux rubriques 70 à 79 de la présente fiche sont fournies.
 Le (la) soussigné(e) se dit d’accord que toute demande incomplète lui sera retournée, pour que celle-ci soit
 complétée avec les éléments manquants, avant une nouvelle introduction.
 __________________ le ______________
@@ -65878,9 +65878,9 @@ Texte coordonné au 18 décembre 2012
 Version applicable à partir du 22 décembre 2012
 ANNEXE I.
 Les éléments éligibles
-1.
+1\.
 
-2.
+2\.
 
 En relation avec l’article 4. Nouvelle maison à performance énergétique élevée:
 –
@@ -65909,11 +65909,11 @@ trappe isolante;
 • Dans le cadre des fenêtres et portes; le châssis avec le vitrage double;
 • Dans le cadre des fenêtres et portes; le châssis avec le vitrage triple.
 
-3.
+3\.
 
-4.
+4\.
 
-5.
+5\.
 
 –
 
@@ -65988,13 +65988,13 @@ Les installations périphériques (alimentation, régulation, échangeurs de cha
 
 DIVERS – 2. Instruments économiques et financiers
 
-6.
+6\.
 
-7.
+7\.
 
-8.
+8\.
 
-9.
+9\.
 
 –
 
@@ -66114,18 +66114,18 @@ DIVERS – 2. Instruments économiques et financiers
 ANNEXE II.
 Exigences techniques et autres critères spécifiques
 Concernant l’art. 4. Nouvelle maison à performance énergétique élevée
-1.
+1\.
 
 La performance énergétique des maisons est à déterminer sur base de l’annexe technique du règlement grand-ducal
 modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation.
 
-2.
+2\.
 
 La surface prise en compte pour le calcul des aides financières se rapporte sur la surface de référence énergétique An
 figurant sur le certificat de performance énergétique établi conformément aux critères du règlement grand-ducal précité
 au paragraphe 1 du présent article.
 
-3.
+3\.
 
 Les indices de performance à respecter sont les suivants:
 –
@@ -66140,17 +66140,17 @@ le besoin spécifique de chaleur de chauffage qH [kWh/m2 a];
 
 les émissions spécifiques de CO2 [kg CO2/m2 a].
 
-4.
+4\.
 
 Pour une maison «à basse consommation d’énergie», les indices de performance spécifiés au paragraphe 3 doivent
 tous se situer dans la classe «B» du type de maison concerné (maison individuelle, maison à appartements).
 
-5.
+5\.
 
 Pour une maison «passive», les indices de performance spécifiés au paragraphe 3 doivent tous se situer dans la classe
 «A» du type de maison concerné (maison individuelle, maison à appartements).
 
-6.
+6\.
 
 Une installation de ventilation contrôlée avec système de récupération de chaleur doit faire partie du projet, apte à
 contrôler le renouvellement d’air pendant la période de chauffe. Les critères de l’installation doivent être conformes aux
@@ -66168,17 +66168,17 @@ ces conditions doit rester inférieur à:
 
 Le test d’étanchéité est à réaliser selon les règles de l’art qui s’apprécient par rapport aux normes qui sont actuellement
 en vigueur, plus précisément à la norme DIN EN 13829.
-7.
+7\.
 
 En cas de mise en place d’un échangeur géothermique, celui-ci doit être posé à une profondeur minimale de 1,5 mètres
 dans le sol.
 
-8.
+8\.
 
 Une nouvelle maison n’est pas éligible pour le cas où elle est équipée d’une installation de climatisation fixe pour assurer
 un confort thermique approprié.
 
-9.
+9\.
 
 L’entreprise ou la personne responsable des travaux de construction doit certifier que ceux-ci ont été réalisés conformément aux critères déterminés au niveau des calculs valides de performance énergétique. Il revient au conseiller en
 énergie ou à la personne ayant établi le calcul de la performance énergétique, avec le concours du maître d’ouvrage,
@@ -66194,7 +66194,7 @@ de construction essentiels, l’étanchéité et les ponts thermiques) et les te
 les paramètres de l’installation de chauffage et de la production d’eau chaude sanitaire.
 
 Concernant l’article 5. Assainissement énergétique d’une maison existante
-1.
+1\.
 
 Les éléments assainis ne doivent pas dépasser les coefficients de transmission thermique suivants:
 Elément assaini
@@ -66247,12 +66247,12 @@ Fenêtres de toiture
 
 1,40 (verre et cadre)
 
-2.
+2\.
 
 Pour les fenêtres, l’isolation thermique pour l’ensemble de l’élément est prise en compte, c’est-à-dire le châssis inclus.
 Un certificat du fabricant est à joindre, indiquant les dimensions exactes, ainsi que le coefficient de transmission thermique de la fenêtre.
 
-3.
+3\.
 
 Les éléments assainis doivent être décrits au niveau de la demande d’aide financière en indiquant:
 –
@@ -66266,14 +66266,14 @@ justificative des fabricants des matériaux est à joindre, mentionnant les para
 construction, notamment les éléments existants, où le coefficient de transmission thermique n’est pas démontrable
 par des pièces justificatives du fabricant, l’avis du conseiller est à ce sujet pris en compte.
 
-4.
+4\.
 
 Au cas où le grenier est chauffé, l’assainissement de la toiture doit inclure la substitution des fenêtres de toiture
 lorsqu’elles sont âgées de plus de 15 ans et lorsque leur coefficient de transmission thermique est supérieur à
 1,4 W/m2K. La fenêtre de remplacement doit présenter un coefficient de transmission thermique inférieur ou égal à
 1,4 W/m2K.
 
-5.
+5\.
 
 Afin d’éviter l’humidité produite par la condensation et les problèmes en résultant (moisissures, etc.), l’assainissement
 des fenêtres de la façade doit se faire en principe conjointement soit avec l’isolation thermique des murs de façade soit
@@ -66283,12 +66283,12 @@ conjointe, si le mur de façade ou la toiture du grenier chauffé présente un c
 ou égal à 1,00 W/m2K. Pour les éléments de construction existants où le coefficient de transmission thermique n’est plus
 démontrable par des pièces justificatives du fabricant, l’avis du conseiller est à ce sujet pris en compte.
 
-6.
+6\.
 
 En cas de mise en place d’une installation de ventilation contrôlée sans récupération de chaleur, les critères suivants
 doivent être respectés:
 
-7.
+7\.
 
 –
 
@@ -66304,18 +66304,18 @@ Le test d’étanchéité est à réaliser selon les règles de l’art qui s’
 en vigueur, plus précisément à la norme DIN EN 13829.
 
 Concernant l’art. 7. Installation solaire thermique
-1.
+1\.
 
 L’installation doit obligatoirement être équipée d’un calorimètre servant au comptage de la chaleur générée par le circuit
 solaire.
 
 Concernant l’art. 9. Pompe à chaleur
-1.
+1\.
 
 La pompe à chaleur éligible valorise le sol comme source de chaleur moyennant un registre terrestre horizontal soit des
 sondes profondes ou l’air moyennant aspiration directe;
 
-2.
+2\.
 
 La pompe à chaleur est à dimensionner de façon à alimenter le circuit de chauffage avec une température maximale de
 35 °C.
@@ -66331,7 +66331,7 @@ considéré. Le seuil du coefficient de performance à respecter précité est �
 chaleur.»
 
 Concernant l’art. 10. Chaudière à la biomasse
-1.
+1\.
 
 L’installation à combustion de bois ou l’installation à combustion à la paille doit disposer d’une combustion contrôlée,
 c’est-à-dire les phases de dégazage et d’oxydation doivent se faire régler indépendamment l’une de l’autre. Ainsi,
@@ -66339,7 +66339,7 @@ l’installation doit être équipée d’une régulation de puissance et de com
 chambre de combustion et/ou sonde lambda dans le tuyau d’échappement) par laquelle l’alimentation en combustible
 et en air comburant est contrôlée.
 
-2.
+2\.
 
 L’installation à la paille et l’installation à granulés et de plaquettes de bois doit être équipée d’une alimentation et d’un
 allumage automatiques.
@@ -66347,17 +66347,17 @@ allumage automatiques.
 \- 919 -
 
 DIVERS – 2. Instruments économiques et financiers
-3.
+3\.
 
 Le poêle à granulés de bois doit faire partie du système de chauffage central et le degré de soutirage de la chaleur utile
 au caloporteur doit atteindre au moins 50%.
 
-4.
+4\.
 
 Pour les chaudières à combustion étagée pour bûches de bois, un réservoir tampon ayant une capacité minimale de 55l/
 kW doit être mis en place.
 
-5.
+5\.
 
 Les critères suivants sont à respecter pour toute installation à combustion de biomasse éligible au titre du présent
 article:
@@ -66387,22 +66387,22 @@ mesurant sur site (labo));
 
 L’installateur chauffage-sanitaire doit certifier que les critères précités sont respectés.
 Concernant l’art. 11. Chaudière à condensation et équilibrage hydraulique
-1.
+1\.
 
 L’équilibrage hydraulique doit obligatoirement comprendre tous les radiateurs d’un réseau de chauffage raccordés à une
 même pompe de circulation.
 
-2.
+2\.
 
 Une pompe de circulation automatique à débit variable actionne le caloporteur au niveau dudit circuit.
 
 Concernant l’art. 12. Micro-cogénération domestique
-1.
+1\.
 
 L’installation doit être dimensionnée afin de garantir un rendement global annuel supérieur à 85% et doit présenter une
 durée d’utilisation supérieure à 5.000 heures par an;
 
-2.
+2\.
 
 Le dimensionnement de la centrale de cogénération doit se faire selon les règles de l’art qui s’apprécient par rapport aux
 normes qui sont actuellement en vigueur, plus précisément aux normes VDI 3985 «Grundsätze für Planung, Ausführung
@@ -66411,11 +66411,11 @@ und Abnahme von Kraft - Wärme - Kopplungsanlagen mit Verbrennungskraftmaschinen
 façon à contribuer à la couverture de la charge de base. Dans ce contexte la charge de base ne peut dépasser 30% de
 la puissance thermique maximale déterminée pour l’immeuble;
 
-3.
+3\.
 
 La valorisation conjointe de la chaleur et de l’électricité est obligatoire;
 
-4.
+4\.
 
 La mise en place et l’exploitation d’un refroidisseur de secours n’est pas admise.
 
@@ -66423,18 +66423,18 @@ Concernant l’art. 13. Réseau de chaleur alimenté au moins à 75% par des sou
 Le degré de couverture par des sources d’énergie renouvelables, en termes de besoin annuel de chaleur, doit être supérieur
 à 75% dans la centrale de production.
 Concernant l’art. 14. Conseil en énergie
-1.
+1\.
 
 Pour le conseil en énergie en relation avec les maisons neuves à performance énergétique élevée ou avec les assainissements énergétiques, ainsi que pour le conseil ayant trait aux mesures techniques relatives à la génération d’énergie,
 le conseiller doit avoir au moins la qualification soit d’un architecte, ou d’un ingénieur dans le domaine des technologies
 du bâtiment soit d’un homme de l’art ayant suivi avec succès une formation professionnelle d’une durée minimale de 40
 heures en matière d’efficacité énergétique, ceci auprès d’un institut spécialisé en la matière.
 
-2.
+2\.
 
 D’une manière générale le conseiller doit jouir de l’indépendance morale, technique et financière nécessaire pour l’accomplissement de sa mission.
 
-3.
+3\.
 
 Pour le conseil en énergie à réaliser dans le cadre d’une maison neuve à performance énergétique élevée, celui-ci doit
 comprendre une analyse adéquate du projet de construction aux fins d’atteindre au moins les critères «à basse consommation d’énergie «ou passive». Plus précisément, ladite analyse est complémentaire au certificat de performance énergétique obligatoire et doit couvrir:
@@ -66449,9 +66449,9 @@ Un rapport concluant, reprenant les éléments précités est à établir par le
 \- 920 -
 
 DIVERS – 2. Instruments économiques et financiers
-4.
+4\.
 
-5.
+5\.
 
 Pour le conseil en énergie à réaliser dans le cadre de l’assainissement d’une maison d’habitation existante, celui-ci doit
 comprendre un inventaire global de l’objet en question et dégager un concept d’assainissement intégral, se rapportant
@@ -66464,7 +66464,7 @@ d) la localisation des principaux ponts thermiques;
 e) une appréciation de l’étanchéité de l’enveloppe thermique;
 f)
 
-6.
+6\.
 
 le cas échéant, une analyse des installations techniques fixes, se rapportant sur le chauffage, la ventilation de la
 maison et à la génération de l’eau chaude sanitaire.
@@ -66480,7 +66480,7 @@ e) le cas échéant, une proposition d’assainissement du système de chauffage
 en accordant une importance accrue aux énergies renouvelables, et indication des économies en énergie finale;
 f)
 
-7.
+7\.
 
 des recommandations relatives à l’ordre de la mise en œuvre des mesures recommandées.
 
@@ -66500,7 +66500,7 @@ détermination des paramètres appropriés de l’installation.
 DIVERS – 2. Instruments économiques et financiers
 ANNEXE III.
 Dispositions transitoires
-1.
+1\.
 
 Pour être considéré comme maison dite «à basse énergie» ou comme maison dite «passive», les maisons visées
 doivent respecter les valeurs-limites formulées ci-après, plus précisément en ce qui concerne les valeurs-limites en
@@ -66515,7 +66515,7 @@ Le besoin annuel spécifique en énergie finale pondérée, exprimé par le term
 spécifique pour alimenter l’installation de chauffage, la préparation d’eau chaude sanitaire, l’entraînement électrique de
 l’installation de chauffage, ainsi que de l’installation d’aération et de climatisation.
 
-2.
+2\.
 
 Le besoin annuel spécifique de chaleur pour le chauffage de la maison exprimé par l’indice énergétique IE1 («Nutzheizwärmebedarf»), doit être inférieur ou égal à la valeur limite IE1,max, qui se détermine comme suit:
 a) Pour une maison individuelle neuve tombant dans la catégorie d’une maison dite à basse consommation d’énergie:
@@ -66545,7 +66545,7 @@ les facteurs se trouvent dans la norme SIA 380/1:2001
 SRE [m2] = surface de référence énergétique
 Pour le calcul du besoin annuel spécifique de chaleur pour le chauffage de la maison, l’impact de l’installation de
 ventilation n’y est pas pris en compte (échange d’air pris en compte: 0,45 1/h).
-3.
+3\.
 
 Le besoin annuel spécifique en énergie finale pondérée, exprimé par le terme de l’indice énergétique pondéré IE2 doit
 être inférieur ou égal à:
@@ -66769,18 +66769,18 @@ Explication: TVL: «Vorlauftemperatur»
 Pour le cas où des techniques ne sont pas reprises dans le tableau ci-avant la valeur du rendement annuel est à justifier.
 La production électrique nette de l’installation photovoltaïque sera pondérée avec le facteur 2 et peut être déduite de
 besoin annuel spécifique en électricité d’appoint («Hilfsstrom: EVC»).
-4.
+4\.
 
 Pour le cas d’une maison à appartements, les indices énergétiques IE1 et IE2 se rapportent à l’immeuble global.
 
-5.
+5\.
 
 Le calcul des indices énergétiques IE1 et IE2 doit se faire selon les règles de l’art qui s’apprécient par rapport aux normes
 qui sont actuellement en vigueur, plus précisément aux normes EN ISO 13790, SIA 380/1:2001 et 380/4, en adoptant
 un bilan énergétique annuel dressé sur base mensuelle; les indices IE1 et IE2 se rapportent à la surface de référence
 énergétique.
 
-6.
+6\.
 
 La surface de référence énergétique SRE («Energiebezugsfläche EBF») correspond à la somme de toutes les surfaces
 brutes de plancher habitables chauffées ou climatisées mesurées par l’extérieur des murs avec un facteur de correction
@@ -66790,7 +66790,7 @@ pour hauteurs des locaux.
 Pour un appartement faisant partie d’une maison à appartements, la surface éligible considérée pour l’octroi des aides
 financières correspond à la surface nette d’habitation (parties communes exclues).
 
-7.
+7\.
 
 Les conditions de l’usage standard à adopter pour le calcul des indices énergétiques sont les suivantes: température
 intérieure 20 °C, un échange d’air de 0,45 1/h (dont 0,15 1/h est dû à l’ouverture des portes et fenêtres et aux défauts
@@ -66799,19 +66799,19 @@ d’étanchéité subsistants et ne peuvent être récupérés moyennant une ven
 internes se rapportent à la surface de référence énergétique sans facteur de correction pour hauteur SRE0. Les données
 climatiques sont celles de l’aéroport de Luxembourg sur base d’une moyenne décennale (dix dernières années).
 
-8.
+8\.
 
 Une maison recourant à un chauffage électrique direct des locaux (chauffage central électrique ou radiateurs électriques) n’est pas éligible au titre du présent règlement. Ce critère n’est pas d’application en cas d’une pompe à chaleur
 ou d’un post-chauffage électrique sous forme d’appoint assurant une couverture de moins de 10% du besoin de chauffage.
 
-9.
+9\.
 
 Un assainissement énergétique où on prévoit un chauffage électrique direct des locaux (chauffage central électrique ou
 radiateurs électriques) n’est pas éligible au titre du présent règlement. Ce critère n’est toutefois pas d’application en cas
 d’une pompe à chaleur ou d’un post-chauffage électrique sous forme d’appoint assurant une couverture de moins de
 10% du besoin de chauffage.
 
-10.
+10\.
 
 Pour des nouvelles maisons, une ventilation contrôlée avec système de récupération de chaleur doit faire partie du
 système, apte à contrôler le renouvellement d’air pendant toute l’année. Celle-ci doit répondre aux critères suivants:
@@ -66828,7 +66828,7 @@ connexion à un échangeur géothermique est obligatoire. En cas d’exploitatio
 estival, celui-ci doit se faire sous forme naturelle c’est-à-dire moyennant l’échangeur géothermique (à air, sondes ou
 registre horizontal) sans inversion de la pompe à chaleur en mode climatisation à ces fins.
 
-11.
+11\.
 
 Pour des nouvelles maisons, le test d’étanchéité réalisé pour une différence de pression de 50 Pa doit respecter un
 échange d’air inférieur à:
@@ -66842,7 +66842,7 @@ Pour des nouvelles maisons, le test d’étanchéité réalisé pour une différ
 
 L’étanchéité est à réaliser selon les règles de l’art qui s’apprécient par rapport aux normes qui sont actuellement en
 vigueur, plus précisément à la norme DIN EN 13829.
-12.
+12\.
 
 Pour le cas où une installation ventilation contrôlée serait prévue dans le cadre d’un projet d’assainissement énergétique, la consommation électrique de ces installations ne peut dépasser 0,25 Wh/m3 air pour les ventilations sans système de récupération.
 
@@ -66852,12 +66852,12 @@ DIVERS – 2. Instruments économiques et financiers
 Seulement dans le cas où une ventilation contrôlée serait prévue, la maison doit être rendue étanche de façon à ce
 qu’elle réponde aux règles de l’art qui s’apprécient par rapport aux normes qui sont actuellement en vigueur, plus précisément à la norme DIN EN 13829. Un test d’étanchéité est à réaliser de manière à ce que l’échange d’air reste inférieur à
 2,0 1/h, avec une différence de pression de 50 Pa.
-13.
+13\.
 
 L’énergie finale IE2 rapportée aux émissions CO2 est déterminée moyennant les facteurs de conversion suivants:
 1 kWhth ou 1 kWhél = 1 kWhCO2; 10 kWhCO2 = 2,25 kg CO2.
 
-14.
+14\.
 
 Les structures des concepts énergétiques (y compris les paramètres d’entrée spécifiques) doivent être réalisées selon
 les formulaires mises à disposition.
@@ -66865,20 +66865,20 @@ Dans le cas d’un assainissement la conception énergétique doit mentionner la
 Pour ce qui est de la qualité énergétique avant les transformations, tous les éléments pertinents sont à prendre en
 considération, y compris le chauffage électrique qui fait le cas échéant partie du système de la production de chaleur.
 
-15.
+15\.
 
 Le concept énergétique doit être établi par une personne ayant au moins la qualification d’un architecte ou d’un ingénieur de formation adéquate. Le concept énergétique est à définir d’un commun accord avec le maître d’ouvrage et
 l’architecte et est à arrêter par signature commune avec la personne ayant établi le concept. Le maître d’ouvrage et
 l’architecte s’engagent par écrit, pour chacun en ce qui le concerne, à faire respecter ledit concept par les responsables
 des travaux.
 
-16.
+16\.
 
 Les responsables des travaux doivent certifier que les travaux de construction ou d’assainissement ont été réalisés
 conformément aux critères déterminés dans le concept énergétique. Il revient à la personne qui a réalisé le concept
 énergétique, avec le concours du maître d’ouvrage, de collecter ces certificats couvrant les mesures essentielles (physique du bâtiment et installations techniques) et de les valider quant à leur conformité avec le concept énergétique.
 
-17.
+17\.
 
 En ce qui concerne le point 11 de l’article 15 qui se réfère a l’énergie solaire thermique, les critères techniques suivants
 sont à respecter:
@@ -66905,7 +66905,7 @@ Qsol = l’énergie solaire injectée dans le système par le capteur;
 Acap = surface brute du capteur.
 d. La détermination des exigences doit se faire moyennant un calcul de simulation adéquat.
 e. L’installation doit être équipée d’un calorimètre approprié, déterminant exactement l’apport énergétique de l’installation solaire.
-18.
+18\.
 
 En ce qui concerne le point 13 de l’article 15 qui se réfère à la pompe à chaleur, les critères suivants sont à respecter:
 a. La pompe à chaleur ne peut être utilisée qu’à des fins de chauffage et, le cas échéant, en plus à la production d’eau
@@ -66916,7 +66916,7 @@ sont à déterminer selon les règles de l’art qui s’apprécient par rapport
 plus précisément à la norme VDI 4650 «Berechnung von Wärmepumpen, Kurzfassung zur Berechnung der Jahresaufwandszahl von Wärmepumpenanlagen»;
 d. La détermination des exigences doit se faire moyennant un calcul de simulation adéquat; (le cas échéant) les paramètres d’entrée sont déterminés dans le cadre des formulaires à établir par l’administration de l’Environnement.
 
-19.
+19\.
 
 En ce qui concerne le point 14 de l’article 15 qui se réfère à l’exploitation énergétique du bois, les critères suivants sont
 à respecter:
@@ -66948,9 +66948,9 @@ Texte coordonné au 1er août 2016
 Version applicable à partir du 1er octobre 2016
 ANNEXE I
 Eléments éligibles
-1.
+1\.
 
-2.
+2\.
 
 En relation avec l’article 4. Nouvelle maison à performance énergétique élevée:
 –
@@ -66980,11 +66980,11 @@ Les éléments de construction de l’enveloppe thermique assainis énergétique
 • Dalle inférieure contre cave non chauffée ou sol;
 • Fenêtres et portes-fenêtres.
 
-3.
+3\.
 
-4.
+4\.
 
-5.
+5\.
 
 –
 
@@ -67040,9 +67040,9 @@ solaire thermique n’étant éligible que s’il n’est pas éligible sous l�
 
 DIVERS – 2. Instruments économiques et financiers
 
-6.
+6\.
 
-7.
+7\.
 
 –
 
@@ -67105,12 +67105,12 @@ En relation avec l’article 11. Réseau de chaleur et raccordement
 ANNEXE II
 Exigences techniques et autres critères spécifiques
 Concernant l’art. 4. Nouvelle maison à performance énergétique élevée
-1.
+1\.
 
 Une maison «à basse consommation d’énergie» («Niedrigenergiehaus (NEH)») doit respecter les exigences conformément au règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments
 d’habitation et, le cas échéant, conformément au règlement grand-ducal modifié du 31 août 2010 concernant la performance énergétique des bâtiments fonctionnels.
 
-2.
+2\.
 
 Une maison «passive» («Passivhaus (PH)») doit respecter les exigences conformément au règlement grand-ducal
 modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation et, le cas échéant,
@@ -67123,12 +67123,12 @@ d’aides financières selon la méthodologie en vigueur à la date de la demand
 ne l’est plus suite à l’application de la méthodologie en vigueur à la date de la demande d’aides financières, le certificat
 de performance énergétique établi selon la méthodologie en vigueur à la date de la demande de l’autorisation de bâtir
 peut servir de justificatif.»
-3.
+3\.
 
 Une installation de ventilation mécanique contrôlée avec système de récupération de chaleur doit faire partie du projet, apte à contrôler le renouvellement d’air pendant la période de chauffe. Les critères de l’installation doivent être
 conformes aux exigences du règlement grand-ducal modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation.
 
-4.
+4\.
 
 En cas de mise en place d’un échangeur de chaleur géothermique, celui-ci doit être posé à une profondeur minimale de
 1,5 mètre dans le sol. Dans le cas de gaines terrestres, celles-ci doivent avoir une longueur minimale de 40 mètres. Dans
@@ -67204,7 +67204,7 @@ la protection thermique estivale précité et aux exigences du présent règleme
 Les certificats de conformité précités sont à valider par l’entreprise ou la personne responsable des travaux de construction
 en cause. (…) (Abrogé par le règl. g.-d. du 18 décembre 2015)
 Concernant l’article 5. Assainissement énergétique d’une maison existante
-1.
+1\.
 
 Les exigences à respecter par les éléments de construction assainis sont regroupées dans le tableau suivant en fonction du standard de performance visé:
 Standard de
@@ -67320,12 +67320,12 @@ Pour les fenêtres, le coefficient de transmission thermique doit comprendre le 
 cadre et de la vitre ainsi que le coefficient de transmission thermique linéique de l’intercalaire. La justification du respect
 des exigences doit être fournie pour une fenêtre aux dimensions standardisées, c’est-à-dire d’une largeur de 1,23 m et
 d’une hauteur de 1,48 m.
-2.
+2\.
 
 Indépendamment du standard de performance, l’élément de construction assaini n’est éligible que si l’épaisseur de
 l’isolant thermique équivaut au moins à l’épaisseur minimale exigée dans le cas du standard de performance IV.
 
-3.
+3\.
 
 Afin d’éviter l’humidité produite par la condensation et les problèmes en résultant (moisissures, etc.), le remplacement
 des fenêtres doit se faire en principe conjointement soit avec l’isolation thermique des murs extérieurs soit avec la
@@ -67335,22 +67335,22 @@ transmission thermique inférieur ou égal à 0,90 W/m2K, 0,85 W/m2K, 0,80 W/m2K
 de performance visé. Pour les éléments de construction existants où le coefficient de transmission thermique n’est pas
 démontrable par des pièces justificatives du fabricant, l’avis du conseiller en énergie est pris en compte.
 
-4.
+4\.
 
 Au cas où le grenier est chauffé, l’assainissement de la toiture doit inclure la substitution des fenêtres de toiture
 lorsqu’elles sont âgées de plus de 10 ans et lorsque leur coefficient de transmission thermique est supérieur à 1,4 W/
 m2K. La fenêtre de remplacement doit présenter un coefficient de transmission thermique inférieur ou égal à 1,4 W/m2K.
 
-5.
+5\.
 
 Lors de la mise en place d’une ventilation mécanique contrôlée avec récupération de chaleur, les critères suivants
 doivent être respectés:
 
-6.
+6\.
 
-7.
+7\.
 
-8.
+8\.
 
 –
 
@@ -67438,39 +67438,39 @@ Le certificat du contrôle d’étanchéité dûment signé et conforme au règl
 Les certificats de conformité précités sont à valider par l’entreprise ou la personne responsable des travaux en cause. (…)
 (Abrogé par le règl. g.-d. du 18 décembre 2015)
 Concernant l’art. 7. Installation solaire thermique
-1.
+1\.
 
 Les collecteurs solaires thermiques doivent être certifiés par la marque de certification européenne Solar Keymark.
 
-2.
+2\.
 
 Ne sont pas éligibles les collecteurs solaires thermiques non-vitrés à tuyaux en polyéthylène.
 
-3.
+3\.
 
 L’installation solaire thermique doit obligatoirement être équipée d’un calorimètre servant au comptage de la chaleur
 générée par le circuit solaire.
 
-4.
+4\.
 
 La surface brute des collecteurs solaires thermiques d’une installation avec appoint de chauffage doit être supérieure
 ou égale à 9 m2 dans le cas de collecteurs plans et 7 m2 dans le cas de collecteurs tubulaires sous vide.
 
-5.
+5\.
 
 Lors de la mise en place d’une installation solaire thermique avec appoint du chauffage dans une nouvelle maison,
 l’équilibrage hydraulique du réseau de chauffage doit être effectué. Un protocole de l’équilibrage hydraulique doit être
 fourni comme preuve.
 
-6.
+6\.
 
 L’entreprise ou la personne responsable des travaux doit certifier que les exigences précitées sont respectées, le cas
 échéant sur base de pièce(s) justificative(s) du fabricant.
 
 Concernant l’art. 9. Pompe à chaleur
-1.
+1\.
 
-2.
+2\.
 
 Les pompes à chaleur suivantes sont éligibles:
 –
@@ -67509,13 +67509,13 @@ Pompe à chaleur géothermique à détente directe: COP ≥ 4,3 au régime E4/W3
 
 Pompe à chaleur air/eau (y compris pompe à chaleur air rejeté/eau): COP ≥ 3,1 au régime A2/W35.
 
-3.
+3\.
 
 Le système de chauffage est à dimensionner de façon à pouvoir alimenter le circuit de chauffage avec une température
 de départ maximale de 35°C (W35). Si tel n’est pas le cas, le coefficient de performance de la pompe à chaleur doit
 atteindre au moins le seuil demandé au régime W35 avec la température de départ choisie.
 
-4.
+4\.
 
 L’alimentation électrique de la pompe à chaleur doit obligatoirement être équipée d’un compteur électrique servant au
 comptage de la consommation d’électricité de la pompe à chaleur, y compris des consommateurs périphériques tels
@@ -67524,42 +67524,42 @@ que la pompe de circulation du circuit d’eau glycolée, la résistance électr
 \- 931 -
 
 DIVERS – 2. Instruments économiques et financiers
-5.
+5\.
 
 Lors de la mise en place d’une pompe à chaleur dans une nouvelle maison, l’équilibrage hydraulique du réseau de
 chauffage doit être effectué. Un protocole de l’équilibrage hydraulique doit être fourni comme preuve. La maison est
 considérée comme étant nouvelle, si la pompe à chaleur ne remplace pas une chaudière existante dans la maison.
 
-6.
+6\.
 
 L’entreprise ou la personne responsable des travaux doit certifier que les exigences précitées sont respectées, le cas
 échéant sur base de pièce(s) justificative(s) du fabricant.
 
 Concernant l’art. 10. Chaudière à bois
-1.
+1\.
 
 L’installation à combustion de bois doit disposer d’une combustion contrôlée, c’est-à-dire les phases de dégazage et
 d’oxydation doivent se faire régler indépendamment l’une de l’autre. Ainsi, l’installation doit être équipée d’une régulation
 de puissance et de combustion (capteur de température à la sortie de la chambre de combustion et/ou sonde lambda
 dans le tuyau d’échappement) par laquelle l’alimentation en combustible et en air comburant est contrôlée.
 
-2.
+2\.
 
 La chaudière à granulés de bois et la chaudière à plaquettes de bois doivent être équipées d’une alimentation et d’un
 allumage automatiques. Elles doivent alimenter un circuit de chauffage central.
 
-3.
+3\.
 
 Le poêle à granulés de bois doit être intégré dans un système de chauffage central et le degré de soutirage de la chaleur
 utile au caloporteur doit atteindre au moins 50%.
 
-4.
+4\.
 
 Pour les chaudières à combustion étagée pour bûches de bois et les chaudières combinées bûches de bois - granulés
 de bois, un réservoir tampon ayant une capacité minimale de 55l/kW doit être mis en place. Ces chaudières doivent
 alimenter un circuit de chauffage central.
 
-5.
+5\.
 
 Les critères suivants sont à respecter par les installations à combustion de bois à la puissance thermique nominale et
 à une concentration volumétrique d’oxygène dans les fumées de 13% aux conditions normales de température et de
@@ -67590,46 +67590,46 @@ rendement de production («Kesselwirkungsgrad») de la chaudière ≥ 90%;
 
 rendement de combustion («feuerungstechnischer Wirkungsgrad») du poêle à granulés ≥ 90%;
 
-6.
+6\.
 
 Lors de la mise en place d’une chaudière à bois dans une nouvelle maison, l’équilibrage hydraulique du réseau de
 chauffage doit être effectué. Un protocole de l’équilibrage hydraulique doit être fourni comme preuve. La maison est
 considérée comme étant nouvelle, si la chaudière à bois ne remplace pas une chaudière existante dans la maison.
 
-7.
+7\.
 
 L’entreprise ou la personne responsable des travaux doit certifier que les exigences précitées sont respectées, le cas
 échéant sur base de pièce(s) justificative(s) du fabricant.
 
 Concernant l’art. 11. Réseau de chaleur et raccordement
-1.
+1\.
 
 Le taux de couverture par des sources d’énergie renouvelables, en termes de besoin annuel de chaleur du réseau de
 chaleur, doit être supérieur ou égal à 75%. Le respect de cette exigence doit être justifié par la présentation d’un certificat de l’exploitant du réseau de chaleur.
 
-2.
+2\.
 
 Dans le cadre du présent article on entend par sources d’énergie renouvelables, les sources d’énergie non fossiles,
 notamment l’énergie solaire, l’énergie géothermique, la biomasse, le gaz de décharge, le gaz des stations d’épuration
 d’eaux usées et le biogaz.
 
-3.
+3\.
 
 Le transfert de chaleur entre le réseau de chaleur et la maison d’habitation doit obligatoirement se faire par l’intermédiaire d’une station de transfert de chaleur.
 
 Concernant l’art. 12. Conseil en énergie
-1.
+1\.
 
 Le conseiller doit jouir de l’indépendance morale, technique et financière nécessaire pour l’accomplissement de sa
 mission.
 
-2.
+2\.
 
 Le conseil en énergie à réaliser dans le cadre de l’assainissement énergétique d’une maison existante doit se faire sous
 forme d’un rapport concluant à établir par le conseiller en énergie. Ce rapport doit comprendre un inventaire global de
 l’objet en question et dégager un concept d’assainissement énergétique intégral.
 
-3.
+3\.
 
 L’inventaire global, à réaliser sur base d’une visite des lieux, doit couvrir:
 a) La description de l’objet (type, emplacement, propriétaire) et la date de la visite des lieux;
@@ -67645,7 +67645,7 @@ l’hydraulique et de l’isolation de la distribution de chaleur, du type de tr
 niveau du chauffage et de l’eau chaude sanitaire);
 f)
 
-4.
+4\.
 
 L’évaluation du besoin et de la consommation énergétique avant assainissement par l’intermédiaire du certificat
 de performance énergétique conformément au règlement grand-ducal modifié du 30 novembre 2007 concernant
@@ -67673,7 +67673,7 @@ g) L’indication de l’indice de dépense d’énergie chauffage et de la cat�
 d’énergie primaire et de la catégorie correspondante, ainsi que de l’indice de dépense d’émissions de CO2 et de la
 catégorie correspondante déterminés pour l’objectif d’assainissement visé conformément au règlement grand-ducal
 modifié du 30 novembre 2007 concernant la performance énergétique des bâtiments d’habitation.
-5.
+5\.
 
 Le rapport succinct de l’accompagnement doit inclure:
 a) Une liste des services fournis en vue de garantir la conformité avec le concept d’assainissement énergétique;
@@ -67692,9 +67692,9 @@ Texte coordonné pour information, l’amendement n’étant pas encore entré e
 La convention est, elle, entrée en vigueur le 24 janvier 2006 pour le Luxembourg.
 ANNEXE I
 Liste des activités visées au paragraphe 1 a) de l’article 6
-1.
+1\.
 
-2.
+2\.
 
 Secteur de l’énergie:
 –
@@ -67779,7 +67779,7 @@ fonderies de métaux ferreux d’une capacité de production supérieure à 20 t
 installations:
 
 –
-3.
+3\.
 
 –
 
@@ -67815,7 +67815,7 @@ autres éléments contaminés ont été définitivement retirés du site d’imp
 
 DIVERS – 4. Conventions internationales
 
-4.
+4\.
 
 –
 
@@ -67893,7 +67893,7 @@ installations chimiques destinées à la fabrication d’explosifs;
 
 g) installations chimiques dans lesquelles un traitement chimique ou biologique est utilisé pour produire des additifs
 protéiques aux aliments des animaux, des ferments et d’autres substances protéiques.
-5.
+5\.
 
 Gestion des déchets:
 –
@@ -67913,11 +67913,11 @@ installations pour l’élimination des déchets non dangereux, d’une capacit�
 décharges recevant plus de 10 tonnes par jour ou d’une capacité totale de plus de 25.000 tonnes, à l’exclusion des
 décharges de déchets inertes.
 
-6.
+6\.
 
 Installations de traitement des eaux usées d’une capacité supérieure à 150.000 équivalents-habitants.
 
-7.
+7\.
 
 Installations industrielles destinées à:
 a) la fabrication de pâte à papier à partir de bois ou d’autres matières fibreuses;
@@ -67926,7 +67926,7 @@ b) la fabrication de papier et de carton, d’une capacité de production supér
 \- 936 -
 
 DIVERS – 4. Conventions internationales
-8.
+8\.
 
 a) construction de voies pour le trafic ferroviaire à grande distance ainsi que d’aéroports(1) dotés d’une piste de décollage et d’atterrissage principale d’une longueur d’au moins 2.100 mètres;
 b) construction d’autoroutes et de voies rapides(2);
@@ -67934,18 +67934,18 @@ c) construction d’une nouvelle route à quatre voies ou plus, ou alignement et
 deux voies ou moins pour en faire une route à quatre voies ou plus, lorsque la nouvelle route ou la section de route
 alignée et/ou élargie doit avoir une longueur ininterrompue d’au moins 10 kilomètres.
 
-9.
+9\.
 
 a) voies navigables et ports de navigation intérieure permettant l’accès de bateaux de plus de 1.350 tonnes;
 b) ports de commerce, quais de chargement et de déchargement reliés à la terre et avant-ports (à l’exclusion des quais
 pour transbordeurs) accessibles au bateaux de plus de 1.350 tonnes.
 
-10.
+10\.
 
 Dispositifs de captage ou de recharge artificielle des eaux souterraines lorsque le volume annuel d’eaux à capter ou à
 recharger atteint ou dépasse 10 millions de mètres cubes.
 
-11.
+11\.
 
 a) ouvrages servant au transvasement de ressources hydrauliques entre bassins fluviaux lorsque cette opération vise
 à prévenir d’éventuelles pénuries d’eau et que le volume annuel des eaux transvasées dépasse 100 millions de
@@ -67955,43 +67955,43 @@ lorsque le débit annuel moyen, sur plusieurs années, du bassin de prélèvemen
 cubes et que le volume des eaux transvasées dépasse 5% de ce débit.
 Dans les deux cas, les transvasements d’eau potable amenée par canalisations sont exclus.
 
-12.
+12\.
 
 Extraction de pétrole et de gaz naturel à des fins commerciales, lorsque les quantités extraites dépassent 500 tonnes
 de pétrole et 500.000 mètres cubes de gaz par jour.
 
-13.
+13\.
 
 Barrages et autres installations destinées à retenir les eaux ou à les stocker de façon permanente lorsque le nouveau
 volume d’eau ou un volume supplémentaire d’eau à retenir ou à stocker dépasse 10 millions de mètres cubes.
 
-14.
+14\.
 
 Canalisations pour le transport de gaz, de pétrole ou de produits chimiques, d’un diamètre supérieur à 800 millimètres
 et d’une longueur supérieure à 40 kilomètres.
 
-15.
+15\.
 
 Installations destinées à l’élevage intensif de volailles ou de porcs disposant de plus de:
 a) 40.000 emplacements pour la volaille;
 b) 2.000 emplacements pour porcs de production (de plus de 30 kg); ou
 c) 750 emplacements pour truies.
 
-16.
+16\.
 
 Carrières et exploitations minières à ciel ouvert lorsque la surface du site dépasse 25 hectares ou, pour les tourbières,
 150 hectares.
 
-17.
+17\.
 
 Construction de lignes aériennes de transport d’énergie électrique d’une tension de 220 kilovolts ou plus et d’une longueur supérieure à 15 kilomètres.
 
-18.
+18\.
 
 Installations de stockage de pétrole, de produits pétrochimiques ou de produits chimiques, d’une capacité de 200.000
 tonnes ou plus.
 
-19.
+19\.
 
 Autres activités:
 –
@@ -68047,18 +68047,18 @@ solvant de plus de 150 kilogrammes par heure ou de plus de 200 tonnes par an;
 
 installations destinées à la fabrication de carbone (charbon dur) ou d’électrographite par combustion ou graphitisation.
 
-20.
+20\.
 
 Toute activité non visée aux paragraphes 1 à 19 ci-dessus pour laquelle la participation du public est prévue dans le
 cadre d’une procédure d’évaluation de l’impact sur l’environnement conformément à la législation nationale.
 
-21.
+21\.
 
 Les dispositions du paragraphe 1 a) de l’article 6 de la présente Convention ne s’appliquent à aucune des activités
 mentionnées ci-dessus qui sont entreprises exclusivement ou essentiellement pour rechercher, mettre au point et expérimenter de nouvelles méthodes ou de nouveaux produits et ne doivent pas durer plus de deux ans à moins qu’elles ne
 risquent d’avoir un effet préjudiciable important sur l’environnement ou la santé.
 
-22.
+22\.
 
 Toute modification ou extension des activités qui répond en elle-même aux critères ou aux seuils énoncés dans la
 présente annexe est régie par le paragraphe 1 a) de l’article 6 de la présente Convention. Toute autre modification ou
@@ -68070,13 +68070,13 @@ DIVERS – 4. Conventions internationales
 (Amendement de 2005)
 «ANNEXE Ibis
 Modalités visées à l’article 6bis
-1.
+1\.
 
 Chaque Partie établit, dans son cadre réglementaire, des arrangements prévoyant une information et une participation
 du public effectives pour les décisions soumises aux dispositions de l’article 6bis, y compris un délai raisonnable, afin
 de donner au public des possibilités suffisantes d’exprimer une opinion sur les décisions envisagées.
 
-2.
+2\.
 
 Dans son cadre réglementaire, une Partie peut, s’il y a lieu, prévoir des exceptions à la procédure de participation du
 public prescrite dans la présente annexe:
@@ -68094,9 +68094,9 @@ dans des écosystèmes comparables.
 
 b) dans le cas de la mise sur le marché d’un OGM, si:
 
-3.
+3\.
 
-4.
+4\.
 
 i)
 
@@ -68119,7 +68119,7 @@ b) les méthodes et plans de suivi de l’organisme ou des organismes génétiqu
 méthodes et plans d’intervention d’urgence;
 c) l’évaluation des risques pour l’environnement.
 
-5.
+5\.
 
 Chaque Partie veille à la transparence des procédures de prise de décisions et assure au public l’accès aux informations de procédure pertinentes. Ces informations peuvent concerner par exemple:
 i)
@@ -68131,18 +68131,18 @@ iii) les arrangements pris en matière de participation du public en application
 iv) l’autorité publique à laquelle il est possible de s’adresser pour obtenir des renseignements pertinents;
 v) l’autorité publique à laquelle des observations peuvent être adressées et le délai prévu pour la communication
 d’observations.
-6.
+6\.
 
 Les dispositions adoptées en application du paragraphe 1 prévoient la possibilité pour le public de soumettre, sous toute
 forme appropriée, toutes les observations, informations, analyses ou opinions qu’il estime pertinentes au regard de la
 dissémination volontaire proposée, y compris la mise sur le marché.
 
-7.
+7\.
 
 Chaque Partie s’efforce de faire en sorte que, lorsqu’il est décidé d’autoriser ou non la dissémination volontaire d’OGM
 dans l’environnement, y compris leur mise sur le marché, les résultats de la procédure de participation du public organisée en application du paragraphe 1 sont dûment pris en considération.
 
-8.
+8\.
 
 Les Parties s’assurent que, lorsqu’une décision soumise aux dispositions de la présente annexe a été prise par une
 autorité publique, le texte en est rendu public, de même que les raisons et considérations sur lesquelles elle est fondée.»
@@ -68152,13 +68152,13 @@ autorité publique, le texte en est rendu public, de même que les raisons et co
 DIVERS – 4. Conventions internationales
 ANNEXE II
 Arbitrage
-1.
+1\.
 
 Dans le cas d’un différend soumis à l’arbitrage en vertu du paragraphe 2 de l’article 16 de la présente Convention, une
 partie (ou les parties) notifie(nt) au secrétariat l’objet de l’arbitrage et indique(nt), en particulier, les articles de la présente Convention dont l’interprétation ou l’application est en cause. Le secrétariat transmet les informations reçues à
 toutes les Parties à la présente Convention.
 
-2.
+2\.
 
 Le tribunal arbitral est composé de trois membres. La (ou les) partie(s) requérante(s) et l’autre (ou les autres) partie(s)
 au différend nomment un arbitre et les deux arbitres ainsi nommés désignent d’un commun accord le troisième arbitre
@@ -68166,12 +68166,12 @@ qui est le président du tribunal arbitral. Ce dernier ne doit pas être ressort
 sa résidence habituelle sur le territoire de l’une de ces parties, ni être au service de l’une d’elles, ni s’être déjà occupé
 de l’affaire à quelque autre titre que ce soit.
 
-3.
+3\.
 
 Si, dans les deux mois qui suivent la nomination du deuxième arbitre, le président du tribunal arbitral n’a pas été désigné, le Secrétaire exécutif de la Commission économique pour l’Europe procède, à la demande de l’une des parties au
 différend, à sa désignation dans un nouveau délai de deux mois.
 
-4.
+4\.
 
 Si dans un délai de deux mois à compter de la réception de la demande, l’une des parties au différend ne procède pas
 à la nomination d’un arbitre, l’autre partie peut en informer le Secrétaire exécutif de la Commission économique pour
@@ -68179,68 +68179,68 @@ l’Europe, qui désigne le président du tribunal arbitral dans un nouveau dél
 ne le fait pas dans ce délai, le président en informe le Secrétaire exécutif de la Commission économique pour l’Europe,
 qui procède à cette nomination dans un nouveau délai de deux mois.
 
-5.
+5\.
 
 Le tribunal rend sa sentence conformément au droit international et aux dispositions de la présente Convention.
 
-6.
+6\.
 
 Tout tribunal arbitral constitué en application des dispositions de la présente annexe arrête lui-même sa procédure.
 
-7.
+7\.
 
 Les décisions du tribunal arbitral, tant sur les questions de procédure que sur le fond, sont prises à la majorité de ses
 membres.
 
-8.
+8\.
 
 Le tribunal peut prendre toutes les mesures voulues pour établir les faits.
 
-9.
+9\.
 
 Les parties au différend facilitent la tâche du tribunal arbitral et, en particulier, par tous les moyens à leur disposition:
 a) lui fournissent tous les documents, facilités et renseignements pertinents;
 b) lui permettent, si cela est nécessaire, de citer et d’entendre des témoins ou des experts.
 
-10.
+10\.
 
 Les parties et les arbitres protègent le secret de tout renseignement qu’ils reçoivent à titre confidentiel pendant la procédure d’arbitrage.
 
-11.
+11\.
 
 Le tribunal arbitral peut, à la demande de l’une des parties, recommander des mesures conservatoires.
 
-12.
+12\.
 
 Si l’une des parties au différend ne se présente pas devant le tribunal arbitral ou ne fait pas valoir ses moyens, l’autre
 partie peut demander au tribunal de poursuivre la procédure et de rendre sa sentence définitive. Le fait pour une partie
 de ne pas se présenter ou de ne pas faire valoir ses moyens ne fait pas obstacle au déroulement de la procédure.
 
-13.
+13\.
 
 Le tribunal arbitral peut connaître et décider des demandes reconventionnelles directement liées à l’objet du différend.
 
-14.
+14\.
 
 À moins que le tribunal arbitral n’en décide autrement en raison des circonstances particulières de l’affaire, les frais du
 tribunal, y compris la rémunération de ses membres, sont supportés à parts égales par les parties au différend.
 Le tribunal tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-15.
+15\.
 
 Toute Partie à la présente Convention qui a, en ce qui concerne l’objet du différend, un intérêt d’ordre juridique susceptible d’être affecté par la décision rendue dans l’affaire peut intervenir dans la procédure, avec l’accord du tribunal.
 
-16.
+16\.
 
 Le tribunal arbitral rend sa sentence dans les cinq mois qui suivent la date à laquelle il a été constitué, à moins qu’il ne
 juge nécessaire de prolonger ce délai d’une durée qui ne devrait pas excéder cinq mois.
 
-17.
+17\.
 
 La sentence du tribunal arbitral est assortie d’un exposé des motifs. Elle est définitive et obligatoire pour toutes les parties au différend. Le tribunal arbitral la communique aux parties au différend et au secrétariat. Ce dernier transmet les
 informations reçues à toutes les Parties à la présente Convention.
 
-18.
+18\.
 
 Tout différend entre les parties, au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une
 des parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal

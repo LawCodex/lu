@@ -152,9 +152,9 @@ Règlement grand-ducal du 4 décembre 2008 concernant la réglementation de la c
 Luxembourg-Kirchberg  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
 Règlement grand-ducal du 12 avril 2015
-\1. portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
+1\. portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
 Mertert et
-\2. portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du Port
+2\. portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du Port
 de Mertert et de ses dépendances (tel qu’il a été modifié) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
 Règlement grand-ducal du 5 novembre 2015 portant réglementation de la circulation sur les voies et places ouvertes
@@ -261,16 +261,16 @@ b) modification du Code de la consommation  .  .  .  .  .  .  .  .  .  .  .  .  
 
 Table des matières
 Règlement grand-ducal du 23 juillet 2016
-\1) fixant les modalités d’application de la législation portant organisation des services de taxis;
-\2) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
+1\) fixant les modalités d’application de la législation portant organisation des services de taxis;
+2\) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
 les voies publiques;
-\3) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
+3\) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
 pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en
 fourrière des véhicules et en matière de permis à points;
-\4) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
+4\) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
 voies et places ouvertes à la circulation publique aux abords de la Gare de Luxembourg;
-\5) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
-\6) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis
+5\) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
+6\) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis
 à
 l’Aéroport de Luxembourg . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -561,12 +561,12 @@ obligatoire pour les usagers.»
 (Loi du 21 septembre 2023)
 « Art. 1bis.
 Pour l’application de la présente loi, l’on entend par :
-\1.	 « Propriétaire d’un véhicule routier » : toute personne physique ou morale possédant un véhicule routier acquis légalement
+1\.	 « Propriétaire d’un véhicule routier » : toute personne physique ou morale possédant un véhicule routier acquis légalement
 et pouvant se prévaloir d’un titre constatant un droit de propriété.
-\2.	 « Détenteur d’un véhicule routier » : toute personne physique ou morale pouvant disposer du véhicule routier à un titre juridique autre que celui de propriétaire.
-\3.	 « Titulaire d’un certificat d’immatriculation » : la personne physique ou morale au nom de laquelle un véhicule est immatriculé
+2\.	 « Détenteur d’un véhicule routier » : toute personne physique ou morale pouvant disposer du véhicule routier à un titre juridique autre que celui de propriétaire.
+3\.	 « Titulaire d’un certificat d’immatriculation » : la personne physique ou morale au nom de laquelle un véhicule est immatriculé
 et figurant obligatoirement sur le certificat d’immatriculation.
-\4.	 « Identifiant unique du véhicule » : une chaîne alphanumérique unique associée à chaque véhicule routier par le ministre
+4\.	 « Identifiant unique du véhicule » : une chaîne alphanumérique unique associée à chaque véhicule routier par le ministre
 ayant les Transports dans ses attributions lors de la procédure d’immatriculation du véhicule routier afin de permettre d’identifier correctement chaque véhicule routier. »
 Art. 2.
 (Loi du 9 juillet 1982)
@@ -575,20 +575,20 @@ Art. 2.
 «Le ministre ayant les Transports dans ses attributions, désigné ci-après «le ministre», délivre les permis de conduire civils; il
 peut refuser leur octroi, restreindre leur validité, les suspendre et les retirer, refuser leur restitution, leur renouvellement ou leur
 transcription et même refuser l’admission aux épreuves si l’intéressé:»
-1)
+1\)
 
 présente des signes manifestes d’alcoolisme ou d’autres intoxications;
 
-2)
+2\)
 
 n’offre pas, compte tenu des faits d’inhabileté ou de maladresse suffisamment concluants constatés à sa charge, les
 garanties nécessaires à la sécurité routière;
 
-3)
+3\)
 
 est dépourvu du sens des responsabilités requis, dans l’intérêt de la sécurité routière, pour la conduite d’un véhicule;
 
-4)
+4\)
 
 souffre d’infirmités ou de troubles susceptibles d’entraver ses aptitudes ou capacités de conduire;
 
@@ -677,41 +677,41 @@ Cette affectation intervient dans le cas de la reconnaissance d’un permis de c
 relatives au permis de conduire, au moment de l’établissement par le titulaire de sa résidence normale au Luxembourg. Pour les
 personnes qui n’ont pas leur résidence normale au Luxembourg ou qui, arrivant d’un pays tiers à l’Espace Economique Européen, n’ont pas encore fait transcrire leur permis de conduire depuis l’établissement de leur résidence normale au Luxembourg,
 cette affectation intervient au moment où celles-ci ont fait au Luxembourg l’objet d’une condamnation judiciaire devenue irrévocable ou se sont acquittées dans les 45 jours après un avertissement taxé pour une des infractions énumérées au paragraphe
-\2. Pour les permis de conduire délivrés antérieurement à l’entrée en vigueur des dispositions du présent article cette affectation
+2\. Pour les permis de conduire délivrés antérieurement à l’entrée en vigueur des dispositions du présent article cette affectation
 intervient au moment de la prise d’effets de ces dispositions.
 Paragraphe 2
 (Loi du 21 septembre 2023)
 « Les infractions énumérées ci-après, commises moyennant un véhicule pour la conduite duquel un permis de conduire est
 requis, donnent lieu à la réduction du nombre de points indiqués :
-1)
+1\)
 
 l’homicide involontaire en relation avec une ou plusieurs infractions à la présente loi ou aux dispositions
 réglementaires prises en son exécution
 
 6 points
 
-2)
+2\)
 
 le fait de commettre comme conducteur, propriétaire, détenteur, gardien d’un véhicule ou titulaire du
 certificat d’immatriculation d’un véhicule un des délits prévus à l’article 12
 
 6 points
 
-3)
+3\)
 
 le dépassement de la limitation réglementaire de la vitesse considéré comme délit en vertu de l’article
 11bis
 
 6 points
 
-4)
+4\)
 
 les coups et blessures involontaires en relation avec une ou plusieurs infractions à la présente loi ou aux
 dispositions réglementaires prises en son exécution
 
 4 points
 
-5)
+5\)
 
 a) la conduite d’un véhicule sans être titulaire d’un permis de conduire valable pour la catégorie de
 véhicule en cause ou dans l’une des situations visées à l’article 13, point 12, alinéa 1er
@@ -720,20 +720,20 @@ conduire valable
 
 4 points
 
-6)
+6\)
 
 la mise en circulation ou le fait de tolérer, comme propriétaire, détenteur d’un véhicule ou titulaire du certificat d’immatriculation d’un véhicule, la mise en circulation du véhicule automoteur ou de la remorque,
 sans que la responsabilité civile à laquelle ce véhicule peut donner lieu, soit couverte
 
 4 points
 
-7)
+7\)
 
 le délit de fuite
 
 4 points
 
-8)
+8\)
 
 a) la conduite d’un véhicule ou d’un ensemble de véhicules couplés dont la masse en charge excède de
 plus de 10% la masse maximale autorisée ou le fait de tolérer, comme propriétaire, détenteur d’un
@@ -751,7 +751,7 @@ Modifié par la loi du 9 mars 2018.
 4 points
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-9)
+9\)
 
 le fait de tolérer, comme chargeur ou transporteur, la mise en circulation d’un véhicule ou d’un ensemble
 de véhicules couplés transportant un conteneur ou une caisse mobile et conduit par un tiers, dont la
@@ -759,14 +759,14 @@ masse en charge excède de plus de 10% la masse maximale autorisée
 
 4 points
 
-10)
+10\)
 
 le dépassement de la limitation réglementaire de la vitesse de plus de 50% du maximum réglementaire
 de la vitesse autorisée, la vitesse constatée étant d’au moins 40 km/h supérieure à ce maximum
 
 4 points
 
-11)
+11\)
 
 la conduite ou le fait de tolérer, comme propriétaire, détenteur, gardien d’un véhicule ou titulaire du certificat d’immatriculation d’un véhicule, la conduite du véhicule, par une personne qui a consommé des
 boissons alcooliques en quantité telle que le taux d’alcool est d’au moins 0,8 g d’alcool par litre de sang
@@ -775,7 +775,7 @@ ou 0,55 mg d’alcool par litre d’air expiré
 
 4 points
 
-12)
+12\)
 
 a) le fait pour le conducteur d’un véhicule qui n’est pas en stationnement ou en parcage d’utiliser, de
 tenir en main ou de manipuler un appareil électronique mobile doté d’un écran
@@ -785,13 +785,13 @@ mains libres intégré du véhicule ou d’utiliser les fonctions d’aide à la
 tel appareil qui n’est pas fixé au véhicule dans un support spécialement conçu à cette fin
 4 points
 
-13)
+13\)
 
 le fait pour le conducteur d’utiliser un casque homologué obligatoire où l’équipement de communication
 n’est ni intégré, ni fixé au casque conformément aux prescriptions du fabricant
 4 points
 
-14)
+14\)
 
 la conduite ou le fait de tolérer, comme propriétaire, détenteur, gardien d’un véhicule ou titulaire du
 certificat d’immatriculation d’un véhicule, la conduite du véhicule, par une personne qui a consommé
@@ -813,14 +813,14 @@ litre d’air expiré
 
 2 points
 
-16)
+16\)
 
 le dépassement de la limitation réglementaire de la vitesse considéré comme contravention grave en
 vertu de l’article 7, autre que celle visée au point 10) ci-avant
 
 2 points
 
-17)
+17\)
 
 la conduite d’un véhicule ou d’un ensemble de véhicules couplés muni d’un ou de plusieurs pneumatiques défectueux ou de pneumatiques de structures incompatibles ou le fait de tolérer, comme
 propriétaire, détenteur d’un véhicule ou titulaire du certificat d’immatriculation d’un véhicule, la mise en
@@ -828,7 +828,7 @@ circulation du véhicule ou de l’ensemble de véhicules couplés
 
 2 points
 
-18)
+18\)
 
 l’omission aux intersections de céder le passage aux usagers prioritaires qui viennent de la droite ou qui
 viennent en sens inverse pour continuer en ligne droite ou pour obliquer vers la droite, ou l’inobservation d’un signal B, 1, d’un signal B, 2a ou d’un signal lumineux rouge ou rouge clignotant ou d’un signal
@@ -836,38 +836,38 @@ lumineux blanc ou jaune à barre horizontale
 
 2 points
 
-19)
+19\)
 
 l’omission de céder le passage aux piétons à un endroit où ils ont la priorité
 
 2 points
 
-20)
+20\)
 
 l’inobservation de l’interdiction de dépasser et la tentative de dépassement interdit
 
 2 points
 
-21)
+21\)
 
 l’infraction aux prescriptions spéciales concernant la circulation sur les autoroutes et les routes pour
 véhicules automoteurs
 
 2 points
 
-22)
+22\)
 
 l’inobservation d’un signal C, 1a
 
 2 points
 
-23)
+23\)
 
 l’inobservation en dehors des agglomérations d’une distance par rapport au véhicule qui précède, correspondant à un temps de parcours d’au moins deux secondes
 
 2 points
 
-24)
+24\)
 
 la mise en circulation d’un véhicule automoteur ou d’une remorque ou le fait, comme propriétaire, détenteur d’un véhicule ou titulaire du certificat d’immatriculation d’un véhicule, de tolérer la mise en circulation du véhicule automoteur ou de la remorque qui n’est pas régulièrement immatriculé ou couvert par
 un certificat de contrôle technique valable
@@ -879,20 +879,20 @@ l’administration des douanes et accises qui règlent la circulation
 
 2 points
 
-15)
+15\)
 
-25)
+25\)
 
 \- 16 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-26)
+26\)
 
 le défaut pour le conducteur d’un véhicule automoteur de porter la ceinture de sécurité de façon réglementaire ou le fait, pour le conducteur d’un véhicule automoteur de transporter un mineur qui, selon le
 cas, ne porte pas la ceinture de sécurité de façon réglementaire ou n’est pas placé de façon réglementaire dans un dispositif de retenue homologué
 2 points
 
-27)
+27\)
 
 le défaut pour le conducteur d’un motocycle, d’un cyclomoteur ou d’un véhicule assimilé à l’une de ces
 catégories de véhicules de porter de façon réglementaire un casque de protection homologué ou le fait
@@ -900,7 +900,7 @@ pour le conducteur d’un de ces véhicules de transporter un mineur qui ne port
 
 2 points
 
-28)
+28\)
 
 la conduite d’un véhicule ou d’un ensemble de véhicules couplés, dont la masse maximale autorisée
 dépasse 4.250 kg, chargé ou non, dépassant cette masse dans la limite de 10%, ou le fait de tolérer,
@@ -978,43 +978,43 @@ Paragraphe 61
 (Loi du 22 mai 2015)
 «Art. 3.
 Le ministre peut délivrer des autorisations et en arrêter les conditions dans les domaines suivants:
-1.
+1\.
 
 l’augmentation du nombre de remorques ou de véhicules traînés pouvant être tractés par un véhicule automoteur routier;
 
-2.
+2\.
 
 l’augmentation, pour des cas exceptionnels, des maxima légaux des dimensions ou des masses des véhicules routiers
 « et de leur chargement »2;
 
-3.
+3\.
 
 l’emploi de signaux acoustiques spéciaux sur des véhicules routiers pour des usages ou des services déterminés;
 
-4.
+4\.
 
 le maintien en circulation d’autobus et d’autocars sans l’obligation de respecter, dans des cas déterminés, certaines
 dispositions des règlements grand-ducaux pris en exécution de la présente loi;
 
-5.
+5\.
 
 la dispense pour certains véhicules routiers appartenant à l’Etat de porter le signe d’identité spécial qui pourra être
 prescrit pour ces véhicules;
 
-6.
+6\.
 
 l’usage de signes distinctifs particuliers pour des besoins spéciaux;
 
-7.
+7\.
 
 les compétitions sportives sur les voies publiques;
 
-8.
+8\.
 
 la faculté de frapper, lors du remplacement du moteur ou d’une partie du moteur, du châssis ou d’une partie du châssis
 d’un véhicule routier, dans le nouveau moteur, dans le nouveau châssis ou dans la nouvelle pièce le numéro de fabrication de la pièce remplacée ou un autre numéro;
 
-9.
+9\.
 
 l’immatriculation, dans des cas exceptionnels déterminés par règlement grand-ducal, de véhicules au nom d’un propriétaire ou détenteur qui n’a pas sa résidence normale au Luxembourg.»
 
@@ -1070,7 +1070,7 @@ et qui est délivrée par le Chef de l’Etat-major.
 (Loi du 21 septembre 2023)
 « À condition d’être couvert par une assurance répondant aux prescriptions de la loi modifiée du 16 avril 2003 relative à
 l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs, un véhicule routier soumis à l’immatriculation peut être mis en circulation sur la voie publique sans être immatriculé :
-\1.	 par le propriétaire, le futur détenteur du véhicule routier ou futur titulaire du certificat d’immatriculation du véhicule routier
+1\.	 par le propriétaire, le futur détenteur du véhicule routier ou futur titulaire du certificat d’immatriculation du véhicule routier
 ainsi que par une personne morale autorisée à faire le commerce ou à faire la réparation des véhicules routiers soumis à
 l’immatriculation, sous le couvert de plaques rouges ou sous le couvert de plaques d’immatriculation arborant le numéro qui
 a été réservé ou alloué au futur titulaire du certificat d’immatriculation du véhicule routier en vue de son immatriculation :
@@ -1085,7 +1085,7 @@ c) sur le trajet direct du véhicule routier vers un garage ou un atelier de ré
 \- 19 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\2.	 par une personne physique ou morale autorisée à faire le commerce ou à faire la réparation des véhicules routiers soumis à
+2\.	 par une personne physique ou morale autorisée à faire le commerce ou à faire la réparation des véhicules routiers soumis à
 l’immatriculation, sous le couvert des plaques rouges dont le numéro a été attribué à cette personne physique ou morale :
 a) à l’occasion de la présentation du véhicule routier à un client, dans un rayon de dix kilomètres autour du point de vente ou
 de l’entrepôt du véhicule, sous réserve du respect des conditions d’utilisation prévues à ces fins par un règlement grandducal ;
@@ -1345,7 +1345,7 @@ Par dérogation à l’alinéa 12, en cas de refus exprès du propriétaire du v
 compte du ministre par les organismes de contrôle technique. »
 (Loi du 21 septembre 2023)
 « Sans préjudice des dispositions du paragraphe 3 et en fonction de la catégorie du véhicule, le contrôle technique périodique est réalisé dans les délais visés aux points 1, 2, 3 et 4 :
-\1.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement d’un an à compter
+1\.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement d’un an à compter
 de la première mise en circulation au Luxembourg ou à l’étranger. Chaque contrôle technique périodique donne lieu à la
 délivrance d’un certificat de contrôle technique d’une validité d’un an, si aucune non-conformité majeure ou critique n’est
 constatée, pour les véhicules routiers suivants :
@@ -1354,7 +1354,7 @@ b) les véhicules à moteur immatriculés comme véhicules à usage spécial aut
 c) les véhicules à moteur destinés au transport de personnes et ne comprenant pas plus de 9 places assises, y compris la
 place du conducteur, qui sont immatriculés comme taxis, voiture de location ou ambulances ;
 d) les remorques destinées au transport de personnes.
-\2.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement d’un an à compter de
+2\.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement d’un an à compter de
 la première mise en circulation au Luxembourg ou à l’étranger. Chaque contrôle technique périodique donne lieu à la délivrance d’un certificat de contrôle technique d’une validité d’un an, si aucune non-conformité majeure ou critique n’est constatée et de six mois en cas de constatation d’une défectuosité ou d’une non-conformité mineure, autre que celles n’ayant pas
 d’incidence directe sur la sécurité du véhicule routier ni sur l’environnement et, pour les véhicules suivants :
 a) les autobus et les autocars ;
@@ -1364,7 +1364,7 @@ c) les remorques destinées au transport de choses d’une masse maximale autori
 \- 24 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\3.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement de quatre ans à compter de la première mise en circulation au Luxembourg ou à l’étranger. Chaque contrôle technique périodique donne lieu à
+3\.	 Le premier contrôle technique périodique a lieu au cours des huit semaines avant l’accomplissement de quatre ans à compter de la première mise en circulation au Luxembourg ou à l’étranger. Chaque contrôle technique périodique donne lieu à
 la délivrance d’un certificat de contrôle technique d’une validité de deux ans, si aucune non-conformité majeure ou critique
 n’est constatée, pour les véhicules routiers suivants :
 a) les tracteurs et les machines mobiles dont la vitesse maximale par construction ne dépasse pas 40 km/h, dont la masse
@@ -1372,7 +1372,7 @@ a) les tracteurs et les machines mobiles dont la vitesse maximale par constructi
 b) les véhicules historiques ;
 c) les véhicules routiers qui sont destinés au service d’incendie et à la protection civile et qui sont immatriculés comme tels
 en raison de leur conception et de leur équipement ainsi que de leur affectation aux services d’intervention en question.
-\4.	 Pour les véhicules routiers qui ne sont pas repris sous 1, 2 et 3, le premier contrôle technique périodique a lieu au cours
+4\.	 Pour les véhicules routiers qui ne sont pas repris sous 1, 2 et 3, le premier contrôle technique périodique a lieu au cours
 des huit semaines avant l’accomplissement de quatre ans à compter de la première mise en circulation au Luxembourg ou
 à l’étranger. Si aucune non-conformité majeure ou critique n’est constatée, le premier contrôle technique périodique donne
 lieu à la délivrance d’un certificat de contrôle technique d’une validité de deux ans. Pour chaque contrôle technique ultérieur,
@@ -1391,14 +1391,14 @@ défectuosité majeure ou critique, ne peut être inférieure à celle inscrite 
 (Loi du 21 septembre 2023)
 « Par dérogation aux dispositions de l’alinéa 4, les véhicules routiers suivants ne sont pas soumis au contrôle technique
 périodique :
-\1.	 les véhicules à moteur dont la vitesse maximale par construction ne dépasse pas 25 km/h ;
-\2.	 les remorques qui ne sont pas destinées au transport de personnes et dont la masse maximale autorisée ne dépasse pas
+1\.	 les véhicules à moteur dont la vitesse maximale par construction ne dépasse pas 25 km/h ;
+2\.	 les remorques qui ne sont pas destinées au transport de personnes et dont la masse maximale autorisée ne dépasse pas
 750 kg ;
-\3.	 les cyclomoteurs et les quadricycles légers ;
-\4.	 les tracteurs et les machines mobiles dont la vitesse maximale par construction ne dépasse pas 40 km/h, dont la masse à
+3\.	 les cyclomoteurs et les quadricycles légers ;
+4\.	 les tracteurs et les machines mobiles dont la vitesse maximale par construction ne dépasse pas 40 km/h, dont la masse à
 vide en ordre de marche dépasse 600 kg ;
-\5.	 les véhicules historiques qui ont été mis en circulation pour la première fois avant le 1er janvier 1950 ;
-\6.	 les véhicules spéciaux de la Police grand-ducale. »
+5\.	 les véhicules historiques qui ont été mis en circulation pour la première fois avant le 1er janvier 1950 ;
+6\.	 les véhicules spéciaux de la Police grand-ducale. »
 (2) Le certificat de contrôle technique d’un véhicule routier précédemment immatriculé dans un autre Etat membre de
 l’Espace Economique Européen ou en Suisse, qui a été délivré par les autorités compétentes de cet Etat, reste valable en cas
 d’immatriculation au Luxembourg du véhicule qui en est couvert, sans qu’il soit reconnu à ce certificat une durée de validité
@@ -1406,13 +1406,13 @@ dépassant celle prévue par les dispositions du paragraphe 1er. En cas de doute
 peut être vérifiée avant de le reconnaître.
 (3) Tout véhicule routier soumis à l’immatriculation au Luxembourg fait en outre l’objet d’un contrôle technique dans les cas
 suivants:
-\1.	 après un accident ayant rendu nécessaire une réparation importante d’au moins un des principaux composants de
+1\.	 après un accident ayant rendu nécessaire une réparation importante d’au moins un des principaux composants de
 sécurité du véhicule tels que les roues, les suspensions, les zones de déformation, les systèmes de coussins gonflables,
 la direction ou les freins;
-\2.	 avant sa remise en circulation sur la voie publique, sur instruction de la SNCA, dans le cas d’un contrôle de conformité
+2\.	 avant sa remise en circulation sur la voie publique, sur instruction de la SNCA, dans le cas d’un contrôle de conformité
 du véhicule effectué dans les conditions des paragraphes 3 et 4 de l’article 4 et ayant révélé une défectuosité ou une
 non-conformité de nature à en affecter la sécurité;
-\3.	 sur convocation spéciale du ministre, en cas de défectuosité technique d’un organe pouvant affecter la sécurité du véhicule, à signaler au ministre par la compagnie d’assurance qui a fait constater cette défectuosité par un expert qu’elle a
+3\.	 sur convocation spéciale du ministre, en cas de défectuosité technique d’un organe pouvant affecter la sécurité du véhicule, à signaler au ministre par la compagnie d’assurance qui a fait constater cette défectuosité par un expert qu’elle a
 désigné à la suite d’un accident n’ayant pas donné lieu à l’établissement d’un procès-verbal de la part des fonctionnaires
 de la Police grand-ducale ou en cas d’information communiquée par les autorités compétentes d’un autre pays en cas
 de défectuosité grave ou de non-conformité manifeste constatée sur le territoire national de celles-ci dans le cadre d’un
@@ -1421,7 +1421,7 @@ contrôle technique routier sur leur territoire;
 \- 25 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\4.	 sur convocation spéciale du ministre, en cas de non-conformité manifeste du véhicule aux caractéristiques techniques
+4\.	 sur convocation spéciale du ministre, en cas de non-conformité manifeste du véhicule aux caractéristiques techniques
 figurant au procès-verbal d’agréation ou de défectuosité technique manifeste du véhicule, constatés par les fonctionnaires de la Police grand-ducale ou de l’Administration des douanes et accises.
 L’obligation du contrôle technique visée aux points 2., 3. et 4. de l’alinéa 1er s’applique à l’ensemble des véhicules routiers,
 à l’exception de ceux mus par la seule force musculaire.
@@ -1430,10 +1430,10 @@ le certificat de contrôle technique établi par l’organisme de contrôle tech
 La personne présentant le véhicule routier au contrôle est informée de toutes les défectuosités ou non-conformités identifiées sur le véhicule et devant être corrigées.
 Les défectuosités ou non-conformités constatées lors des contrôles techniques des véhicules routiers sont classées dans
 l’une des catégories suivantes:
-\1.	 Si les défectuosités ou non-conformités critiques constatées sur un véhicule routier constituent un danger direct et
+1\.	 Si les défectuosités ou non-conformités critiques constatées sur un véhicule routier constituent un danger direct et
 immédiat pour la sécurité routière ou ont une incidence négative sur l’environnement, la circulation de ce véhicule est
 interdite jusqu’à la réparation des défectuosités constatées ou jusqu’à la mise en conformité du véhicule et qu’un nouveau certificat de contrôle technique soit délivré, prouvant que le véhicule est en état de circuler;
-\2.	 Les défectuosités ou non-conformités majeures susceptibles de compromettre la sécurité du véhicule routier, d’avoir
+2\.	 Les défectuosités ou non-conformités majeures susceptibles de compromettre la sécurité du véhicule routier, d’avoir
 une incidence négative sur l’environnement ou de mettre en danger les autres usagers de la route, voire d’autres anomalies importantes, sans pour autant comporter un danger immédiat pour la circulation, donnent lieu à l’établissement
 d’un certificat de contrôle technique valable pour 4 semaines. Durant cette période, le certificat permet la mise en circulation du véhicule routier sur la voie publique au Luxembourg:
 a) entre le lieu de contrôle et le lieu où le véhicule sera immobilisé, réparé, mis en conformité ou détruit;
@@ -1444,7 +1444,7 @@ c) entre le siège social ou la résidence normale du propriétaire, du détente
 ou détruit. »
 Après réparation des défectuosités ou redressement des non-conformités, le certificat de contrôle technique est valable
 sans restriction pendant le temps restant de la durée de validité y inscrite.
-\3.	 Les défectuosités ou non-conformités mineures n’ayant aucune incidence notable sur la sécurité du véhicule routier ou
+3\.	 Les défectuosités ou non-conformités mineures n’ayant aucune incidence notable sur la sécurité du véhicule routier ou
 sur l’environnement, ou d’autres anomalies mineures, donnent lieu à l’établissement d’un certificat de contrôle technique valable dans les conditions du paragraphe 1. Elles sont rectifiées et le véhicule routier ne fait pas l’objet d’un
 nouveau contrôle.
 Toutefois, les véhicules routiers dont question à l’alinéa 5 du paragraphe 1 peuvent, en vue de l’établissement d’un nouveau
@@ -1499,10 +1499,10 @@ contrôle technique avant l’expiration de l’ancien certificat annule de plei
 Luxembourg, et qui sont énumérés au présent alinéa, peuvent être immobilisés en vue d’être soumis de manière inopinée à un
 contrôle technique routier dans les limites prévues à cet effet par le droit de l’Union européenne et selon les modalités à fixer
 par règlement grand-ducal:
-\1.	 les autobus et les autocars;
-\2.	 les camions, les tracteurs de remorques et les tracteurs de semi-remorques;
-\3.	 les remorques destinées au transport de choses d’une masse maximale autorisée de plus de 3.500 kg;
-\4.	 les tracteurs dont la vitesse maximale par construction dépasse 40 km/h, dont l’utilisation a lieu essentiellement sur la
+1\.	 les autobus et les autocars;
+2\.	 les camions, les tracteurs de remorques et les tracteurs de semi-remorques;
+3\.	 les remorques destinées au transport de choses d’une masse maximale autorisée de plus de 3.500 kg;
+4\.	 les tracteurs dont la vitesse maximale par construction dépasse 40 km/h, dont l’utilisation a lieu essentiellement sur la
 voie publique pour le transport routier de marchandises à des fins commerciales.
 Les défectuosités ou non-conformités constatées à l’occasion du contrôle technique routier sont classées conformément aux
 dispositions du paragraphe 4.
@@ -1541,17 +1541,17 @@ certificat de contrôle technique en cours de validité dans les hypothèses én
 «Art. 4ter.
 (1) Tout organisme effectuant le contrôle technique de véhicules routiers doit être titulaire d’un agrément délivré par le
 ministre. En vue de l’obtention de l’agrément, l’organisme doit remplir les conditions suivantes:
-1.
+1\.
 
 avoir une personnalité juridique propre;
 
-2.
+2\.
 
 être titulaire d’une autorisation d’établissement répondant aux exigences de la loi du 2 septembre 2011 réglementant
 l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales;
 
-\3.	 effectuer le contrôle technique à titre principal;
-\4.	 disposer d’un centre de contrôle technique qui est:
+3\.	 effectuer le contrôle technique à titre principal;
+4\.	 disposer d’un centre de contrôle technique qui est:
 
 conforme aux exigences relatives au lieu d’exploitation, tel que défini à l’article 5 de la loi précitée du 2 septembre
 2011,
@@ -1559,12 +1559,12 @@ conforme aux exigences relatives au lieu d’exploitation, tel que défini à l�
 aménagé et équipé en vue de permettre l’ensemble des contrôles dont question à l’article 4bis, hormis ceux visés
 au paragraphe 6 de cet article;
 
-\5.	 disposer des installations et équipements permettant d’effectuer lesdits contrôles et répondant aux critères techniques
+5\.	 disposer des installations et équipements permettant d’effectuer lesdits contrôles et répondant aux critères techniques
 ainsi qu’aux conditions d’utilisation et de surveillance déterminés par un règlement grand-ducal, qui règle en outre les
 conditions d’exploitation technique et organisationnelle du contrôle technique;
-\6.	 respecter les exigences des paragraphes 2, 3, 6 et 7 et disposer du personnel remplissant les conditions du paragraphe
+6\.	 respecter les exigences des paragraphes 2, 3, 6 et 7 et disposer du personnel remplissant les conditions du paragraphe
 3, alinéas 2 et 3;
-\7.	 s’abstenir de toute activité incompatible avec l’indépendance de son jugement et de son intégrité en ce qui concerne
+7\.	 s’abstenir de toute activité incompatible avec l’indépendance de son jugement et de son intégrité en ce qui concerne
 ses activités de contrôle technique et veiller aux mêmes garanties d’indépendance de jugement et d’intégrité de la part
 de son personnel.
 (Loi du 9 mars 2018)
@@ -1579,16 +1579,16 @@ agréé, accompagné de tous les documents requis à établir par un ou plusieur
 administratives compétentes.
 Les informations à joindre à la demande et à apprécier dans le rapport du réviseur d’entreprises agréé doivent comporter
 au moins les éléments suivants:
-\1.	 ressources financières disponibles, y compris dépôts en banque, avances consenties en compte courant et prêts;
-\2.	 fonds et éléments d’actifs mobilisables à titre de garantie;
-\3.	 capital d’exploitation;
+1\.	 ressources financières disponibles, y compris dépôts en banque, avances consenties en compte courant et prêts;
+2\.	 fonds et éléments d’actifs mobilisables à titre de garantie;
+3\.	 capital d’exploitation;
 
 \- 28 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\4.	 coûts pertinents, y compris coûts d’acquisition et acomptes sur véhicules, terrains, bâtiments, installations et équipements;
-\5.	 charges pesant sur le patrimoine de l’organisme;
-\6.	 absence d’arriérés d’impôts ou de cotisations sociales.
+4\.	 coûts pertinents, y compris coûts d’acquisition et acomptes sur véhicules, terrains, bâtiments, installations et équipements;
+5\.	 charges pesant sur le patrimoine de l’organisme;
+6\.	 absence d’arriérés d’impôts ou de cotisations sociales.
 Le rapport du réviseur d’entreprises agréé doit en outre établir que l’organisme dispose de moyens financiers suffisants pour
 assurer à tout moment les conséquences de sa responsabilité civile. Il est satisfait à cette obligation soit par la conclusion d’un
 contrat d’assurance couvrant la responsabilité civile de l’organisme, soit par la présentation d’une garantie bancaire suffisante.
@@ -1647,16 +1647,16 @@ l’accès aux installations et aux équipements techniques ainsi qu’aux docum
 vérification en question. Les frais relatifs à cette vérification sont à charge de l’organisme de contrôle technique.
 (7) L’organisme de contrôle technique met à disposition ses inspecteurs à un tiers, qui met à disposition de l’organisme des
 installations et équipements permettant d’effectuer des contrôles techniques et qui remplit les conditions suivantes:
-1.
+1\.
 
 être titulaire d’une autorisation d’établissement délivrée sur base de la loi précitée du 2 septembre 2011;
 
-\2.	 justifier d’une autorisation établie en vertu de la législation sur les établissements classés valable pour le site d’exploitation où le contrôle technique est effectué;
-\3.	 disposer des installations et équipements permettant d’effectuer des contrôles techniques et répondant aux critères
+2\.	 justifier d’une autorisation établie en vertu de la législation sur les établissements classés valable pour le site d’exploitation où le contrôle technique est effectué;
+3\.	 disposer des installations et équipements permettant d’effectuer des contrôles techniques et répondant aux critères
 techniques ainsi qu’aux conditions de fonctionnement et de vérification déterminés par règlement grand- ducal;
-\4.	 avoir conclu un contrat d’assurance couvrant les dommages que peuvent être causés lors des opérations de contrôle
+4\.	 avoir conclu un contrat d’assurance couvrant les dommages que peuvent être causés lors des opérations de contrôle
 technique;
-\5.	 garantir aux inspecteurs de pouvoir effectuer le contrôle technique en toute indépendance.
+5\.	 garantir aux inspecteurs de pouvoir effectuer le contrôle technique en toute indépendance.
 Cette mise à disposition fait l’objet d’une convention, dont un modèle-type peut être arrêté par règlement grand- ducal.
 La tarification de cette mise à disposition a lieu sur base d’un prix forfaitaire arrêté par voie de règlement grand- ducal.
 (8) Le ministre peut retirer un agrément, si le titulaire ne l’a pas utilisé dans les deux ans suivant la délivrance, si le titulaire
@@ -1687,11 +1687,11 @@ sans agrément en cours de validité donne lieu à l’application des dispositi
 «Art. 4quater.
 (1) En vue de l’obtention de l’agrément ministériel en tant qu’inspecteur de contrôle technique dont question à l’article 4ter,
 l’intéressé doit
-\1.	 être détenteur du certificat de qualification d’inspecteur de contrôle technique délivré par le ministre ayant la Formation
+1\.	 être détenteur du certificat de qualification d’inspecteur de contrôle technique délivré par le ministre ayant la Formation
 professionnelle dans ses attributions;
-\2.	 avoir une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur
+2\.	 avoir une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur
 le régime des langues;
-\3.	 posséder les qualités physiques, intellectuelles et morales nécessaires pour effectuer des opérations de contrôle technique.
+3\.	 posséder les qualités physiques, intellectuelles et morales nécessaires pour effectuer des opérations de contrôle technique.
 Les inspecteurs autorisés à effectuer des contrôles techniques avant l’entrée en vigueur de la présente loi sont dispensés
 de l’exigence dont question au point 1 de l’alinéa 1er.
 (2) La qualification en vue de l’obtention de l’agrément ministériel en tant qu’inspecteur de contrôle technique comporte une
@@ -1897,11 +1897,11 @@ concernent la limitation de la vitesse, la limitation de l’accès à la voirie
 être édictés que suite à l’accord préalable du ministre des Travaux Publics et du «ministre»1. Cet accord n’est pas requis dans
 le cas des règlements édictés par le collège des bourgmestre et échevins et dont l’effet n’excède pas soixante-douze heures.
 Dans le cas des règlements d’urgence édictés par le collège des bourgmestre et échevins, cet accord est requis avant la confirmation éventuelle de ces règlements par le conseil communal.»
-\4. Un règlement grand-ducal déterminera un réseau d’itinéraires de rechange servant à dévier le trafic automobile en cas
+4\. Un règlement grand-ducal déterminera un réseau d’itinéraires de rechange servant à dévier le trafic automobile en cas
 de fermeture ou d’existence d’un passage difficile à caractère temporaire sur un ou plusieurs tronçons déterminés de la grande
 voirie. Il déterminera les règles de circulation et de signalisation routières applicables sur l’itinéraire de rechange dès que la
 déviation sera d’application.
-\5. Aux passages à niveau avec les chemins de fer, le gestionnaire de l’infrastructure ferroviaire est chargé de la pose et de
+5\. Aux passages à niveau avec les chemins de fer, le gestionnaire de l’infrastructure ferroviaire est chargé de la pose et de
 l’entretien de la signalisation. Les frais afférents sont supportés par le Fonds du Rail. Les aménagements en question sont soumis à l’autorisation préalable du Ministre des Travaux Publics, s’il s’agit d’un croisement de la voie ferrée avec la voirie de l’Etat,
 et des autorités communales territorialement compétentes s’il s’agit d’un croisement avec la voirie vicinale.»
 Art. 6.
@@ -2102,11 +2102,11 @@ vue de l’établissement de l’autorisation ou lorsqu’il a commis une contra
 la présente loi. »
 (Loi du 2 août 2002)
 «Art. 11bis.
-\1. Il est interdit de conduire un véhicule ou un animal à une vitesse dangereuse selon les circonstances ou de dépasser les
+1\. Il est interdit de conduire un véhicule ou un animal à une vitesse dangereuse selon les circonstances ou de dépasser les
 limitations de vitesse prescrites par les dispositions réglementaires prises en exécution des articles 1er, 3 et 5 de la présente loi.
-\2. Le dépassement des limitations réglementaires de la vitesse peut être constaté au moyen d’appareils dont les critères
+2\. Le dépassement des limitations réglementaires de la vitesse peut être constaté au moyen d’appareils dont les critères
 techniques ainsi que les conditions d’homologation et de contrôle sont fixés par règlement grand-ducal.
-\3. Les infractions au chiffre 1. sont punies conformément aux dispositions de l’article 7 modifié de la présente loi.
+3\. Les infractions au chiffre 1. sont punies conformément aux dispositions de l’article 7 modifié de la présente loi.
 Sera toutefois punie d’une amende de «500 à 10.000 euros»1 et d’une peine d’emprisonnement de 8 jours à un an ou d’une
 de ces peines seulement toute personne qui aura commis de nouveau un dépassement de la limitation réglementaire de la
 vitesse de plus de 50% du maximum réglementaire de la vitesse autorisée, la vitesse constatée étant d’au moins 20 km/h
@@ -2122,12 +2122,12 @@ aptitudes et capacités de conduire ou en n’étant, hors les cas prévus aux p
 générale pas en possession des qualités physiques requises pour ce faire est punie d’un emprisonnement de huit jours à trois
 ans et d’une amende de 500 à 10.000 euros ou d’une de ces peines seulement.
 Paragraphe 2
-\1. Est puni des peines prévues au paragraphe 1 , même en l’absence de signes manifestes d’ivresse, tout conducteur d’un
+1\. Est puni des peines prévues au paragraphe 1 , même en l’absence de signes manifestes d’ivresse, tout conducteur d’un
 véhicule ou d’un animal, ainsi que tout piéton impliqué dans un accident, s’il a consommé des boissons alcooliques en quantité
 telle que le taux d’alcool est d’au moins 1,2 g d’alcool par litre de sang ou d’au moins 0,55 mg d’alcool par litre d’air expiré.
 er
 
-\2. La confiscation spéciale ou l’amende subsidiaire prévue à l’article 14 de la présente loi est toujours prononcée, si le
+2\. La confiscation spéciale ou l’amende subsidiaire prévue à l’article 14 de la présente loi est toujours prononcée, si le
 conducteur du véhicule a commis de nouveau un des délits spécifiés au point 1 du présent paragraphe et au point 1 du paragraphe 4bis avant l’expiration d’un délai de trois ans à partir du jour où une précédente condamnation du chef d’un de ces
 mêmes délits est devenue irrévocable.
 
@@ -2137,11 +2137,11 @@ Modifié par la loi du 2 août 2017.
 \- 37 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\3. Est punie d’une amende de 25 à 500 euros, toute personne qui, même en l’absence de signes manifestes d’influence de
+3\. Est punie d’une amende de 25 à 500 euros, toute personne qui, même en l’absence de signes manifestes d’influence de
 l’alcool, a conduit un véhicule ou un animal, si elle a consommé des boissons alcooliques en quantité telle que le taux d’alcool
 est d’au moins 0,5 g d’alcool par litre de sang ou de 0,25 mg d’alcool par litre d’air expiré sans atteindre respectivement 1,2 g
 d’alcool par litre de sang ou 0,55 mg d’alcool par litre d’air expiré.
-\4. Les taux prévus au point 3 du présent paragraphe et au point 2 du paragraphe 4bis sont ramenés respectivement de 0,5
+4\. Les taux prévus au point 3 du présent paragraphe et au point 2 du paragraphe 4bis sont ramenés respectivement de 0,5
 g à 0,2 g d’alcool par litre de sang et de 0,25 mg à 0,10 mg d’alcool par litre d’air expiré
 
 pour les candidats au permis de conduire, lorsqu’ils conduisent un véhicule correspondant à la catégorie de permis de
@@ -2172,7 +2172,7 @@ pour tout conducteur de véhicules n’ayant pas atteint l’âge de 18 ans acco
 Pour «les volontaires du Corps grand-ducal d’incendie et de secours et des associations et organismes de secours ayant la
 sécurité civile dans leur objet social»1 qui ne sont pas en période de stage, les taux prévus au point 3 du présent paragraphe et
 au point 2 du paragraphe 4bis restent d’application pour la conduite en service urgent.
-\5. Les infractions visées aux points 3 et 4 du présent paragraphe et au point 2 du paragraphe 4bis sont considérées comme
+5\. Les infractions visées aux points 3 et 4 du présent paragraphe et au point 2 du paragraphe 4bis sont considérées comme
 contraventions graves.
 Dans le cas où la personne a consommé des boissons alcooliques en quantité telle que le taux d’alcool est de respectivement
 d’au moins 0,25 mg ou 0,10 mg d’alcool par litre d’air expiré sans atteindre 0,35 mg d’alcool par litre d’air expiré, les membres de la
@@ -2182,7 +2182,7 @@ Est punie des peines prévues au paragraphe 1er toute personne qui a commis une 
 précédente condamnation du chef d’une de ces contraventions ou d’un des délits spécifiés au point 1 du présent paragraphe
 et au point 1 du paragraphe 4bis est devenue irrévocable, ou à partir du jour où la personne s’est acquittée d’un avertissement
 taxé encouru du chef d’une des contraventions spécifiées aux points 3 et 4.
-\6. Le procureur d’Etat peut proposer aux personnes en infraction aux dispositions du point 3 du présent paragraphe et du
+6\. Le procureur d’Etat peut proposer aux personnes en infraction aux dispositions du point 3 du présent paragraphe et du
 point 2 du paragraphe 4bis, hormis les cas de récidive visés au point 5, de suivre des stages alternatifs. Le ministre peut agréer
 des personnes morales ou physiques chargées de l’organisation de ces stages. En vue de son agrément, la personne doit
 présenter les garanties nécessaires d’honorabilité et de qualification professionnelle. Pour les personnes morales, l’honorabilité
@@ -2195,7 +2195,7 @@ qualification professionnelle oblige la personne agréée ou, dans le cas d’un
 de l’agrément est assuré à titre provisoire. Dans les deux mois qui suivent, la personne agréée est tenue de se mettre en conformité avec les exigences de son agrément et d’introduire une demande de modification de ce dernier. En cas de non-respect par
 l’intéressé des conditions de son agrément, le ministre peut procéder au retrait temporaire ou définitif de celui-ci.
 Paragraphe 3
-\1. S’il existe un indice grave faisant présumer qu’une personne qui a conduit un véhicule ou un animal se trouve dans un
+1\. S’il existe un indice grave faisant présumer qu’une personne qui a conduit un véhicule ou un animal se trouve dans un
 des états alcooliques visés aux paragraphes 2 et 4bis, cette personne doit se soumettre à un examen sommaire de l’haleine à
 effectuer par les membres de la police grand-ducale.
 
@@ -2204,25 +2204,25 @@ Remplacé par la loi du 27 mars 2018.
 \- 38 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\2. Si cet examen est concluant, l’imprégnation alcoolique est déterminée par un examen de l’air expiré au moyen des appareils visés au point 1 du paragraphe 7. Le membre de la police grand-ducale en notifie immédiatement le résultat à la personne
+2\. Si cet examen est concluant, l’imprégnation alcoolique est déterminée par un examen de l’air expiré au moyen des appareils visés au point 1 du paragraphe 7. Le membre de la police grand-ducale en notifie immédiatement le résultat à la personne
 faisant l’objet de cette vérification. Il avise la personne qu’elle peut demander à titre de preuve contraire à être soumise à une
 prise de sang. Il est tenu compte d’une élimination adéquate d’alcool par l’organisme entre le moment de l’examen de l’air expiré
 et celui de la prise de sang.
 La demande d’une contre-preuve par prise de sang ne préjudicie pas de l’application de l’article 13, point 13 alinéa 1.
 Si la personne concernée, pour des raisons de santé, demande à être présentée à un médecin ou si la consultation d’un
 médecin s’avère nécessaire, l’imprégnation alcoolique peut également être déterminée par une prise de sang.
-\3. Si la personne concernée n’est pas apte à se soumettre à un examen sommaire de l’haleine ou à un examen de l’air
+3\. Si la personne concernée n’est pas apte à se soumettre à un examen sommaire de l’haleine ou à un examen de l’air
 expiré, elle doit se soumettre à une prise de sang, ou, dans l’impossibilité constatée par un médecin de ce faire, à un examen
 médical à l’effet de constater si elle présente des signes manifestes d’ivresse ou d’influence de l’alcool.
-\4. En l’absence d’un examen sommaire de l’haleine, d’un examen de l’air expiré, d’une prise de sang ou d’un examen médical, l’ivresse ou l’influence de l’alcool peut être établie par tous les autres moyens de preuve prévus en matière pénale.
-\5. Même en l’absence de tout indice grave visé au point 1, toute personne qui a conduit un véhicule ou un animal et est impliquée dans un accident de la circulation qui a causé des dommages corporels est astreinte à subir les vérifications destinées à
+4\. En l’absence d’un examen sommaire de l’haleine, d’un examen de l’air expiré, d’une prise de sang ou d’un examen médical, l’ivresse ou l’influence de l’alcool peut être établie par tous les autres moyens de preuve prévus en matière pénale.
+5\. Même en l’absence de tout indice grave visé au point 1, toute personne qui a conduit un véhicule ou un animal et est impliquée dans un accident de la circulation qui a causé des dommages corporels est astreinte à subir les vérifications destinées à
 établir son état alcoolique.
-\6. Peut également être astreinte à subir les vérifications destinées à établir son état alcoolique toute personne qui, même
+6\. Peut également être astreinte à subir les vérifications destinées à établir son état alcoolique toute personne qui, même
 en l’absence de tout indice grave visé au point 1, a conduit un véhicule ou un animal et est impliquée dans un accident de la
 circulation n’ayant pas causé de dommages corporels.
-\7. Peut aussi être astreint à ces mêmes vérifications le piéton qui, présentant un indice grave visé au point 1, a circulé sur la
+7\. Peut aussi être astreint à ces mêmes vérifications le piéton qui, présentant un indice grave visé au point 1, a circulé sur la
 voie publique et est impliqué dans un accident quelconque de la circulation.
-\8. Le procureur d’Etat peut requérir les membres de la police grand-ducale de soumettre, aux dates et heures et sur les voies
+8\. Le procureur d’Etat peut requérir les membres de la police grand-ducale de soumettre, aux dates et heures et sur les voies
 publiques qu’il détermine, tout conducteur d’un véhicule ou d’un animal à l’examen sommaire visé au point 1, même en l’absence de tout indice grave visé au même point et en l’absence d’accident. Si cet examen est concluant l’imprégnation alcoolique
 est déterminée par un examen de l’air expiré au moyen des appareils visés au point 1 du paragraphe 7. Le membre de la police
 grand-ducale en notifie immédiatement le résultat à la personne faisant l’objet de cette vérification. Il avise la personne qu’elle
@@ -2232,13 +2232,13 @@ pas apte à se soumettre à un examen sommaire de l’haleine ou à un examen de
 sang, ou, dans l’impossibilité constatée par un médecin de ce faire, à un examen médical à l’effet de constater si elle présente
 des signes manifestes d’ivresse ou d’influence de l’alcool. La demande d’une contre-preuve par prise de sang ne préjudicie pas
 de l’application de l’article 13, point 13 alinéa 1.
-\9. L’examen de l’air expiré, la prise de sang et l’examen médical sont ordonnés soit par le juge d’instruction, soit par le
+9\. L’examen de l’air expiré, la prise de sang et l’examen médical sont ordonnés soit par le juge d’instruction, soit par le
 procureur d’Etat, soit par les membres de la police grand-ducale. L’examen de l’air expiré est effectué par les membres de la
 police grand-ducale. L’examen médical ne peut être effectué que par un médecin autorisé à exercer la profession de médecin
 au Grand-Duché de Luxembourg. Un règlement grand-ducal détermine les personnes qui, en dehors de ces médecins, sont
 habilitées à effectuer la prise de sang, ainsi que les conditions sous lesquelles la prise de sang doit intervenir.
 Paragraphe 4
-\1. Est puni des peines prévues au paragraphe 1er, tout conducteur d’un véhicule ou d’un animal, ainsi que tout piéton impliqué dans un accident, dont l’organisme comporte la présence d’une des substances ci-après:
+1\. Est puni des peines prévues au paragraphe 1er, tout conducteur d’un véhicule ou d’un animal, ainsi que tout piéton impliqué dans un accident, dont l’organisme comporte la présence d’une des substances ci-après:
 
 \- 39 -
 
@@ -2268,7 +2268,7 @@ Benzoylecgonine
 L’analyse de sang consiste en une détermination quantitative dans le plasma au moyen de techniques de chromatographie
 liquide ou gazeuse couplées à la spectrométrie de masse avec usage de standards internes deutérés pour une ou plusieurs
 des substances visées ci-dessus.
-\2. S’il existe un indice grave faisant présumer qu’une personne qui a conduit un véhicule ou un animal se trouve sous
+2\. S’il existe un indice grave faisant présumer qu’une personne qui a conduit un véhicule ou un animal se trouve sous
 l’influence d’une des substances prévues au point 1, les membres de la police grand-ducale procèdent à un test qui consiste en:
 
 la constatation, au moyen d’une batterie de tests standardisés, de signes extérieurs confirmant la présomption d’influence d’une des substances fixées au point 1, et
@@ -2289,7 +2289,7 @@ en cas d’accident de circulation qui a causé des dommages corporels;
 
 iii.	 (. . .) (supprimé par la loi du 21 septembre 2023)
 L’exécution et l’application des tests standardisés sont déterminées par règlement grand-ducal.
-\3. Si les tests visés au point 2 s’avèrent être concluants quant à la présence dans l’organisme d’au moins une des substances prévues au point 1, cet état est déterminé par une prise de sang et par une prise d’urine. La quantité de sang doit être
+3\. Si les tests visés au point 2 s’avèrent être concluants quant à la présence dans l’organisme d’au moins une des substances prévues au point 1, cet état est déterminé par une prise de sang et par une prise d’urine. La quantité de sang doit être
 de 15 ml au moins. En cas d’impossibilité de procéder à une prise d’urine, la quantité de sang est augmentée du double. Si la
 personne concernée n’est pas apte à se soumettre aux tests visés au point 2, elle doit se soumettre à une prise de sang ou,
 dans l’impossibilité constatée par un médecin de ce faire, à un examen médical à l’effet de constater si l’organisme comporte
@@ -2309,30 +2309,30 @@ présente des signes manifestes d’influence, d’une ou de plusieurs des subst
 aptitudes et capacités de manière à rendre dangereuse la circulation sur la voie publique,
 
 les membres de la police grand-ducale ne procèdent pas aux tests visés au point 2 et la personne concernée doit se soumettre à une prise de sang et d’urine conformément au point 3.
-\4. Le résultat de la prise de sang fait foi.
-\5. En cas d’impossibilité constatée par un médecin de procéder à une prise de sang, la personne concernée doit se soumettre à un examen médical à l’effet de constater si elle se trouve sous l’emprise d’une des substances prévues au point 1.
-\6. Toutefois, en l’absence d’un examen de la sueur ou de la salive, d’une prise de sang ou d’un examen médical, il peut être
+4\. Le résultat de la prise de sang fait foi.
+5\. En cas d’impossibilité constatée par un médecin de procéder à une prise de sang, la personne concernée doit se soumettre à un examen médical à l’effet de constater si elle se trouve sous l’emprise d’une des substances prévues au point 1.
+6\. Toutefois, en l’absence d’un examen de la sueur ou de la salive, d’une prise de sang ou d’un examen médical, il peut être
 établi par tous les autres moyens de preuve prévus en matière pénale si la personne concernée se trouve sous l’emprise d’une
 des substances prévues au point 1.
-\7. Toute personne qui a conduit un véhicule ou un animal et a été impliquée dans un accident de la circulation qui a causé
+7\. Toute personne qui a conduit un véhicule ou un animal et a été impliquée dans un accident de la circulation qui a causé
 des dommages corporels est astreinte à subir les vérifications destinées à établir la présence dans l’organisme d’une des
 substances prévues au point 1.
-\8. Peut également être astreinte à subir les vérifications destinées à établir la présence dans l’organisme d’une des substances prévues au point 1 toute personne qui a conduit un véhicule ou un animal et est impliquée dans un accident de la circulation n’ayant pas causé des dommages corporels.
+8\. Peut également être astreinte à subir les vérifications destinées à établir la présence dans l’organisme d’une des substances prévues au point 1 toute personne qui a conduit un véhicule ou un animal et est impliquée dans un accident de la circulation n’ayant pas causé des dommages corporels.
 \- 40 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\9. Peut aussi être astreint à ces mêmes vérifications le piéton qui, présentant un des indices graves visés au point 2 du présent paragraphe, a circulé sur la voie publique et a été impliqué dans un accident de la circulation.
-\10. Le procureur d’Etat peut requérir les membres de la police grand-ducale de soumettre, aux dates et heures et sur les
+9\. Peut aussi être astreint à ces mêmes vérifications le piéton qui, présentant un des indices graves visés au point 2 du présent paragraphe, a circulé sur la voie publique et a été impliqué dans un accident de la circulation.
+10\. Le procureur d’Etat peut requérir les membres de la police grand-ducale de soumettre, aux dates et heures et sur les
 voies publiques qu’il détermine, tout conducteur d’un véhicule ou d’un animal aux tests visés au point 2, même en l’absence de
 tout indice grave visé au même point et en l’absence d’accident. Si ces tests laissent présumer la présence dans l’organisme
 d’au moins une des substances prévues au point 1, cet état est déterminé par une prise de sang et une prise d’urine. En cas
 d’impossibilité constatée par un médecin de procéder à une prise de sang, la personne concernée doit se soumettre à un examen médical à l’effet de constater si elle se trouve sous l’emprise d’une des substances prévues au point 1.
-\11. La prise d’urine, la prise de sang et l’examen médical sont ordonnés soit par le juge d’instruction, soit par le procureur
+11\. La prise d’urine, la prise de sang et l’examen médical sont ordonnés soit par le juge d’instruction, soit par le procureur
 d’Etat soit par les membres de la police grand-ducale. L’examen médical ne peut être effectué que par un médecin autorisé à
 exercer sa profession au Luxembourg. Un règlement grand-ducal détermine les personnes qui, en dehors de ces médecins,
 sont habilitées à effectuer la prise de sang et la prise d’urine, ainsi que les conditions sous lesquelles la prise de sang et la prise
 d’urine doivent intervenir.
-\12. Les mêmes peines s’appliquent à tout conducteur d’un véhicule ou d’un animal, ainsi qu’à tout piéton impliqué dans
+12\. Les mêmes peines s’appliquent à tout conducteur d’un véhicule ou d’un animal, ainsi qu’à tout piéton impliqué dans
 un accident, qui a consommé des substances médicamenteuses à caractère toxique, soporifique ou psychotrope, dosées de
 manière à rendre ou à pouvoir rendre dangereuse la circulation sur la voie publique.
 (Loi du 21 septembre 2023)
@@ -2343,15 +2343,15 @@ Le résultat de la prise de sang fait foi.
 En cas d’impossibilité constatée par un médecin de procéder à une prise de sang, la personne concernée est astreinte à
 subir un examen médical à effectuer par un médecin autorisé à exercer la profession de médecin au Grand-Duché de Luxembourg. »
 Paragraphe 4bis
-\1. Si le taux d’alcool est inférieur à 1,2 g d’alcool par litre de sang ou à 0,55 mg d’alcool par litre d’air expiré ou qu’il n’a pas
+1\. Si le taux d’alcool est inférieur à 1,2 g d’alcool par litre de sang ou à 0,55 mg d’alcool par litre d’air expiré ou qu’il n’a pas
 été possible de procéder à la détermination du taux d’alcoolémie dans les conditions du présent article, les peines prévues au
 paragraphe 1er sont applicables à toute personne qui a, en présentant des signes manifestes d’ivresse, conduit un véhicule ou
 un animal sur la voie publique ou qui a, comme piéton, été impliquée dans un accident survenu sur la voie publique.
-\2. Si le taux d’alcool est inférieur à 0,5 « g d’alcool par litre de sang ou à 0,25 mg d’alcool »1 par litre d’air expiré ou qu’il n’a
+2\. Si le taux d’alcool est inférieur à 0,5 « g d’alcool par litre de sang ou à 0,25 mg d’alcool »1 par litre d’air expiré ou qu’il n’a
 pas été possible de procéder à la détermination du taux d’alcoolémie dans les conditions du présent article, les peines prévues
 au point 3 du paragraphe 2 sont applicables à toute personne qui a, en présentant des signes manifestes d’influence d’alcool,
 conduit un véhicule ou un animal sur la voie publique.
-\3. S’il n’a pas été possible de procéder à la détermination de la présence dans l’organisme d’une des substances prévues au
+3\. S’il n’a pas été possible de procéder à la détermination de la présence dans l’organisme d’une des substances prévues au
 point 1 du paragraphe 4 « ni d’aucune autre substance à caractère toxique, soporifique ou psychotrope entravant les aptitudes
 et capacités de manière à rendre dangereuse la circulation sur la voie publique »2, les peines prévues au paragraphe 1er sont
 applicables à toute personne qui a, en présentant des signes manifestes de consommation d’une ou plusieurs des substances
@@ -2363,10 +2363,10 @@ Paragraphe 5
 gardien d’un véhicule routier ou titulaire du certificat d’immatriculation d’un véhicule routier ainsi que tout propriétaire ou gardien
 d’un animal qui a toléré qu’une personne visée par les paragraphes 1er, 2, 4 ou 4bis ait conduit ce véhicule ou cet animal. »
 Paragraphe 6
-\1. Toute personne qui, dans les conditions du présent article, a refusé de se prêter soit à l’examen de la sueur, soit à l’examen
+1\. Toute personne qui, dans les conditions du présent article, a refusé de se prêter soit à l’examen de la sueur, soit à l’examen
 de la salive, soit à la batterie de tests standardisés, soit à l’examen sommaire de l’haleine, soit à l’examen de l’air expiré, soit à
 la prise d’urine, soit à la prise de sang, soit à l’examen médical, est punie des peines prévues au paragraphe 1er.
-\2. Les frais de l’examen de la sueur, de l’examen de la salive, de l’examen sommaire de l’haleine, de l’examen de l’air expiré,
+2\. Les frais de l’examen de la sueur, de l’examen de la salive, de l’examen sommaire de l’haleine, de l’examen de l’air expiré,
 de la prise et de l’analyse d’urine, de la prise et de l’analyse du sang et de l’examen médical ainsi que les frais de déplacement
 et d’établissement de procès-verbaux sont compris dans les frais de justice dont ils suivent le sort.
 
@@ -2377,16 +2377,16 @@ Inséré par la loi du 21 septembre 2023.
 
 CODE DE LA ROUTE – Loi du 14 février 1955
 Paragraphe 7
-\1. Un règlement grand-ducal fixe les critères techniques à remplir par les appareils servant à l’examen sommaire de l’haleine
+1\. Un règlement grand-ducal fixe les critères techniques à remplir par les appareils servant à l’examen sommaire de l’haleine
 et les appareils destinés à déterminer le taux d’alcool par l’analyse de l’air expiré ainsi que les conditions d’homologation de
 ces appareils.
 Il arrête de même les types d’appareil homologués tant pour l’examen sommaire de l’haleine que pour la détermination du
 taux d’alcool par l’analyse de l’air expiré, les conditions d’utilisation, de contrôle et de vérification de ces appareils ainsi que la
 procédure d’homologation de ces appareils. Le ministre dresse et tient à jour une liste des appareils homologués.
-\2. Un règlement grand-ducal détermine les conditions de reconnaissance et d’utilisation des tests de la salive et de la sueur
+2\. Un règlement grand-ducal détermine les conditions de reconnaissance et d’utilisation des tests de la salive et de la sueur
 et les critères de la batterie de tests standardisés servant à déterminer la présence dans l’organisme d’une des substances
 prévues au point 1 du paragraphe 4. Le ministre dresse et tient à jour une liste des tests reconnus.
-\3. Les modalités de la prise de sang, de la prise d’urine et des examens médicaux ainsi que les procès-verbaux à remplir à
+3\. Les modalités de la prise de sang, de la prise d’urine et des examens médicaux ainsi que les procès-verbaux à remplir à
 l’occasion d’une prise de sang, d’une prise d’urine ou d’un examen médical sont arrêtés par règlement grand-ducal.»
 Art. 13.
 (Loi du 18 septembre 2007)
@@ -2446,11 +2446,11 @@ chose jugée.»
 lorsque par l’imputation de l’interdiction provisoire déjà subie, l’interdiction prononcée par la juridiction de jugement sera apurée.
 Si la juridiction de jugement ne prononce pas d’interdiction de conduire, l’effet de l’interdiction provisoire cesse immédiatement
 et nonobstant appel.
-\6. En cas d’interdiction par la juridiction de jugement, la durée de l’interdiction provisoire déjà subie est imputée de plein droit
+6\. En cas d’interdiction par la juridiction de jugement, la durée de l’interdiction provisoire déjà subie est imputée de plein droit
 sur l’interdiction prononcée par jugement ou arrêt.
-\7. Les interdictions de conduire à raison de plusieurs infractions à la présente loi et à la réglementation de la circulation sur
+7\. Les interdictions de conduire à raison de plusieurs infractions à la présente loi et à la réglementation de la circulation sur
 toutes les voies publiques ou de délits ou de crimes qui se sont joints à ces infractions seront toujours cumulées.
-\8. Si par suite de concours d’infraction, les peines privatives de liberté et les amendes prévues par la présente loi ne sont pas
+8\. Si par suite de concours d’infraction, les peines privatives de liberté et les amendes prévues par la présente loi ne sont pas
 prononcées, l’interdiction de conduire l’est néanmoins dans les conditions qui sont déterminées par la présente loi.»
 (Loi du 18 septembre 2007)
 (…)
@@ -2622,10 +2622,10 @@ mains des fonctionnaires préqualifiés la taxe due, soit, lorsque la taxe ne pe
 qu’il s’en acquitte dans le délai lui imparti par sommation. Dans cette deuxième hypothèse le paiement peut notamment se faire
 dans le «bureau de la police grand-ducale»1 ou par versement au compte postal ou bancaire indiqué par la même sommation.
 L’avertissement taxé est remplacé par un procès-verbal ordinaire:
-1)
-2)
-3)
-4)
+1\)
+2\)
+3\)
+4\)
 
 si le contrevenant est âgé de moins de 18 ans;
 si l’infraction est connexe à un délit de lésions corporelles volontaires ou involontaires ou à un homicide volontaire ou
@@ -2656,7 +2656,7 @@ consignation conformément à la loi du 29 avril 1999 sur les consignations aupr
 de l’avertissement taxé. Un règlement grand-ducal en fixe les modalités d’application.»
 (Loi du 25 juillet 2015) «Jusqu’à remise de cette somme, le véhicule conduit par le contrevenant peut être retenu.» (Loi du 26
 août 1993) «Il ne peut toutefois être retenu plus de quarante-huit heures sans l’accord du procureur d’Etat. (Loi du 21 septembre
-\2023) « Le conducteur contrevenant et le propriétaire, le détenteur du véhicule routier ou le titulaire du certificat d’immatriculation du véhicule routier sont solidairement responsables du paiement de ces frais. »
+2023\) « Le conducteur contrevenant et le propriétaire, le détenteur du véhicule routier ou le titulaire du certificat d’immatriculation du véhicule routier sont solidairement responsables du paiement de ces frais. »
 (Loi du 25 juillet 2015)
 «Les dispositions du présent article ne s’appliquent pas aux avertissements taxés décernés en application de la loi du 25
 juillet 2015 portant création du système de contrôle et de sanction automatisés.»
@@ -2666,7 +2666,7 @@ Paragraphe 1er
 Indépendamment de l’action pénale, les «membres de la police grand-ducale»1 sont en droit d’immobiliser un véhicule sur
 la voie publique, soit en enlevant au conducteur les clés de contact, soit en procédant à l’immobilisation du véhicule au moyen
 d’un système mécanique lorsque
-1)
+1\)
 
 le conducteur d’un véhicule qui n’a pas sa résidence normale au Luxembourg et qui est en infraction à la législation
 routière, omet de payer l’avertissement taxé ou, à défaut, de régler la somme à consigner; (Loi du 22 mai 2015) «dans
@@ -2678,7 +2678,7 @@ Modifié par la loi du 2 août 2002.
 \- 46 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-2)
+2\)
 
 le conducteur d’un véhicule qui soit présente un indice grave faisant présumer qu’il se trouve dans un des états alcooliques visés à l’article 12, soit manifeste un comportement caractéristique résultant de l’emploi de produits hallucinogènes ou de drogues ou de la consommation de substances médicamenteuses à caractère toxique, soporifique ou
 psychotrope, dosées à rendre ou à pouvoir rendre dangereuse la circulation sur la voie publique, soit souffre d’infirmités
@@ -2707,7 +2707,7 @@ automatisés n’a pas été payée dans le délai imparti et ne fait pas l’ob
 «Les fonctionnaires de l’administration des douanes et accises sont en droit d’immobiliser un véhicule sur la voie publique,
 soit en enlevant au conducteur les clés de contact, soit en procédant à l’immobilisation du véhicule au moyen d’un système
 mécanique, lorsque
-1)
+1\)
 
 le conducteur d’un véhicule qui n’a pas sa résidence normale au Luxembourg et qui est en infraction à la législation
 routière, pour autant que sont concernés l’aménagement des véhicules et de leurs chargements, les plaques d’immatriculation, les numéros d’identification ou les documents de bord, ou à la législation sur les transports routiers, omet
@@ -2741,7 +2741,7 @@ automatisés n’a pas été payée dans le délai imparti et ne fait pas l’ob
 (Loi du 6 juillet 2004)
 «Paragraphe 2
 Les fonctionnaires de la police grand-ducale peuvent mettre en fourrière un véhicule dans l’une des hypothèses sous 1),
-\3) et 4) du premier alinéa ou dans l’une des hypothèses du second alinéa du paragraphe 1er ainsi que lorsqu’un véhicule est
+3\) et 4) du premier alinéa ou dans l’une des hypothèses du second alinéa du paragraphe 1er ainsi que lorsqu’un véhicule est
 abandonné sur la voie publique ou y est arrêté, stationné ou parqué en contravention aux dispositions légales ou réglementaires
 prises dans l’intérêt de la fluidité de la circulation routière ou de la sécurité publique, notamment quand il constitue une gêne
 
@@ -2854,7 +2854,7 @@ JURISPRUDENCE
 
 Notion de transport
 
-\5. Suspension du permis de conduire – finalité – sécurité des usagers de
+5\. Suspension du permis de conduire – finalité – sécurité des usagers de
 la route - sanction supplémentaire illégale (non) - loi du 14 février 1955, art. 2
 
 Lorsque le déplacement n’est pas l’objet d’obligation de résultat assumée
@@ -2879,7 +2879,7 @@ Faux en écriture – usage de faux – éléments constitutifs de l’infractio
 d’usage de faux – possibilité de préjudice au moment de l’usage de la pièce
 falsifiée – carte internationale d’assurance automobile – exhibition aux agents
 
-\6. Demande de délivrance d’un duplicata – refus – décision équivalant à un
+6\. Demande de délivrance d’un duplicata – refus – décision équivalant à un
 retrait – obligations de l’administration – information préalable de l’administré –
 loi du 14 février 1955, art. 2; arrêté grand-ducal du 23 novembre 1955, art. 90;
 r. g.-d. du 8 juin 1979, art. 9
@@ -2909,7 +2909,7 @@ Conditions du retrait
 
 Article 2
 
-\7. Conditions du retrait – examen du comportement global du titulaire –
+7\. Conditions du retrait – examen du comportement global du titulaire –
 obligation de prise en compte d’éléments récents – loi du 14 février 1955, art. 2
 
 Retrait, suspension ou refus de renouvellement du
@@ -2925,14 +2925,14 @@ TA 26-1-98 (10139); TA 4-2-98 (10070, c. 19-5-98, 10588C); TA 21-10-98
 5-12-07 (22758); TA 10-11-08 (24472, c. 12-3-09, 25204C); TA 8-6-11 (27562);
 TA 11-1- 12 (28555, c. 15-5-12, 29814C)
 
-\1. Permis de conduire – retrait – enquête préalable (nature) – judiciaire
+1\. Permis de conduire – retrait – enquête préalable (nature) – judiciaire
 (non) – administrative (oui) – fausse déclaration – moyens frauduleux - loi du
 14 février 1955, art. 2 point 6)
 Le retrait d’un permis de conduire plus particulièrement sur le fondement
 de l’article 2, point 6) de la loi du 14 février 1955 requiert au préalable une enquête, non pas judiciaire comme le prétend le demandeur, mais administrative.
 En vertu de l’article 2 de la loi du 14 février 1955 (…) le ministre peut
 
-\8. Conditions du retrait – mesures à prendre par le ministre – gradation –
+8\. Conditions du retrait – mesures à prendre par le ministre – gradation –
 obligation de proportionner la mesure à la gravité des faits – loi du 14 février
 1955, art. 2
 
@@ -2951,7 +2951,7 @@ certaines catégories de véhicules.
 TA 21-5-03 (15926); TA 8-6-11 (27562)
 
 TA 16-05-2013 (30683)
-\2. Enquête judiciaire – cas d’ouverture – loi du 14 février 1955, art. 2, al. 1er
+2\. Enquête judiciaire – cas d’ouverture – loi du 14 février 1955, art. 2, al. 1er
 Lorsqu’un incident relaté de manière détaillée dans le rapport de la brigade de police montre que le comportement du titulaire du permis était troublé
 à un point tel qu’il était dépourvu du sens des responsabilités requises pour
 conduire un véhicule automoteur, le ministre est en droit d’ordonner l’ouverture d’une enquête judiciaire au sens du paragraphe 1er de l’article 2 de la loi
@@ -2959,11 +2959,11 @@ modifiée du 14 février 1955 concernant la réglementation de la circulation su
 toutes les voies publiques.
 TA 15-7-97 (9750); TA 21-11-05 (20152)
 
-\9. Conditions du retrait – mesures à prendre par le ministre – gradation –
+9\. Conditions du retrait – mesures à prendre par le ministre – gradation –
 obligation de proportionner la mesure à la gravité des faits – loi du 14 février
 1955, art. 2
 
-\3. Retrait du permis – levé partielle du retrait – avis de la commission médicale – audition préalable du transporteur (non) – loi du 14 février 1955, art. 2;
+3\. Retrait du permis – levé partielle du retrait – avis de la commission médicale – audition préalable du transporteur (non) – loi du 14 février 1955, art. 2;
 code de la route, art. 90 (2)
 
 L’article 2 paragraphe 1er de la loi du 14 février 1955 prévoit une certaine
@@ -2985,11 +2985,11 @@ TA 27-6-01 (12429)
 Période de stage – infractions multiples au code de la
 route – retrait justifié
 
-\10. Conditions du retrait – infirmités et troubles – retrait pur et simple –
+10\. Conditions du retrait – infirmités et troubles – retrait pur et simple –
 décision prise après l’écoulement d’un temps considérable depuis l’événement
 – mesure disproportionnée loi du 14 février 1955, art. 2, par. 1er.
 
-\4. Le ministre procède à bon droit au retrait administratif du permis de
+4\. Le ministre procède à bon droit au retrait administratif du permis de
 conduire à un titulaire qui, se trouvant en période de stage, a commis sept
 infractions au code de la route et, après un avertissement et une prolongation
 
@@ -3010,7 +3010,7 @@ délai rapproché, limitée dans le temps et assortie d’un réexamen à la fin
 période de suspension.
 TA 14-7-99 (10871)
 
-\18. Conditions du retrait – infraction unique à la législation sur la circulation
+18\. Conditions du retrait – infraction unique à la législation sur la circulation
 routière – possession d’une certaine quantité de drogues
 En présence d’une infraction unique aux règles de la circulation, en l’occurrence un dépassement de la vitesse, et du simple constat qu’à un moment donné l’intéressé a été trouvé en possession d’une certaine quantité de drogues
 et qu’il a admis en avoir consommées dans le passé, sans qu’il ne se dégage
@@ -3020,15 +3020,15 @@ pur et simple du permis de conduire sans limitation de temps constitue une
 mesure disproportionnée non justifiée par les éléments concrets de l’affaire.
 TA 2-10-02 (14756)
 
-\11. Conditions du retrait – troubles mentaux
+11\. Conditions du retrait – troubles mentaux
 Des troubles mentaux peuvent justifier le retrait administratif du permis de
 conduire.
 TA 4-2-99 (10694)
-\12. Conditions du retrait – infirmités ou troubles susceptibles d’entraver les
+12\. Conditions du retrait – infirmités ou troubles susceptibles d’entraver les
 aptitudes ou capacités à conduire – consommation d’héroïne – loi du 14 février
 1955, art. 2, par. 2
 
-\19. Finalité du retrait – conditions du retrait – prise en compte du comportement global du titulaire – éléments d’appréciation récents
+19\. Finalité du retrait – conditions du retrait – prise en compte du comportement global du titulaire – éléments d’appréciation récents
 
 Dès lors que le titulaire d’un permis de conduire consomme encore occasionnellement de l’héroïne, même s’il essaye de se débarrasser de cette dépendance, la susceptibilité d’entrave de ses aptitudes ou capacités de conduire
 est établie à suffisance, ceci d’autant plus lorsqu’au cours de l’entretien devant
@@ -3044,7 +3044,7 @@ sur un examen de son comportement global et tabler sur des éléments suffisamme
 actuelle de la personne intéressée.
 CA 12-3-09 (25204C); TA 10-7-12 (29605); CA 15-5-12 (29814C)
 
-\13. Conditions du retrait – infractions au code de la route
+13\. Conditions du retrait – infractions au code de la route
 Des condamnations itératives pour avoir circulé en présentant des signes
 manifestes d’alcoolémie en concours avec le délit d’avoir refusé de se soumettre à la prise de sang, ainsi qu’une récidive malgré la faveur d’une grâce
 grand-ducale sont de nature à justifier légalement la mesure du retrait administratif du permis de conduire CA 19-5-98 (10588C) – Il en est de même du
@@ -3052,7 +3052,7 @@ fait de circuler en présentant un taux d’alcoolémie de 1,69 grammes par litr
 d’avoir commis un délit de fuite et d’avoir commis un excès de vitesse en roulant à 198 km/h sur autoroute.
 TA 18-10-2000 (11502)
 
-\20. Finalité du retrait – conditions du retrait – prise en compte du comportement global du titulaire
+20\. Finalité du retrait – conditions du retrait – prise en compte du comportement global du titulaire
 La finalité primordiale d’une mesure de retrait administratif du permis de
 conduire est celle de protéger pour le futur la sécurité des autres usagers de
 la route contre des personnes représentant un danger potentiel à leur égard
@@ -3070,7 +3070,7 @@ dans le chef du titulaire.
 TA 15-7-97 (9750); TA 15-7-02 (14088); TA 30-9-02 (14794); TA 2-10-02
 (14756); TA 3-7-06 (20650); TA 8-6-11 (27562)
 
-\14. Conditions du retrait – conduite malgré une interdiction de conduire
+14\. Conditions du retrait – conduite malgré une interdiction de conduire
 judiciaire
 La conduite, à deux reprises au moins, d’un véhicule malgré une interdiction de conduire judiciaire en cours, prononcée en raison d’un délit commis
 antérieurement, et une fois sous l’influence d’alcool, outre deux condamnations pour d’autres infractions au code de la route, constituent des éléments
@@ -3078,7 +3078,7 @@ permettant de retenir valablement que le titulaire d’un permis de conduire est
 dépourvu du sens des responsabilités nécessaire pour la conduite d’un véhicule au vu des infractions constatées pour lui retirer purement et simplement le
 permis de conduire sans autre limitation d’ordre temporel.
 TA 16-2-2000 (11601); TA 5-12-07 (22758)
-\15. Conditions du retrait – conduite malgré une interdiction de conduire
+15\. Conditions du retrait – conduite malgré une interdiction de conduire
 – conduite sous influence d’alcool – incidence d’une cure de désintoxication
 (non)
 Même si le titulaire d’un permis s’est soumis à un traitement psychothérapique stationnaire et qu’il a participé à un groupe thérapeutique afin de faire
@@ -3091,7 +3091,7 @@ sont d’une gravité certaine et mettent en exergue le danger que le demandeur
 représente pour les autres usagers de la route.
 TA 15-7-02 (14088)
 
-\21. Renouvellement du permis – conditions - refus – daltonisme – a. g.-d.
+21\. Renouvellement du permis – conditions - refus – daltonisme – a. g.-d.
 du 23 novembre 1955, art. 77 – loi du 14 février 1955, art. 2
 Le daltonisme ne constitue pas per se un motif de refus de délivrer ou de
 restreindre un permis de conduire, mais conditionne l’octroi ou le refus à une
@@ -3100,10 +3100,10 @@ TA 3-3-10 (25798)
 
 Echange du permis étranger en permis
 luxembourgeois
-\22. Permis de conduire – échange de permis étranger en permis national
+22\. Permis de conduire – échange de permis étranger en permis national
 \- fausse déclaration – moyens frauduleux - loi du 14 février 1955, art. 2 point 6)
 
-\16. Conditions du retrait – détention et consommation occasionnelle de
+16\. Conditions du retrait – détention et consommation occasionnelle de
 substances hallucinogènes
 
 Le ministre a valablement pu constater que le demandeur «a fait une
@@ -3122,14 +3122,14 @@ l’aveu d’une consommation occasionnelle de telles substances ne sont suffisa
 hallucinogènes à un tel point que la personne atteinte constitue de ce seul fait
 un risque pour la sécurité routière.
 TA 2-10-02 (14756)
-\17. Conditions du retrait – état de toxicomanie avéré
+17\. Conditions du retrait – état de toxicomanie avéré
 Si le titulaire du permis présente un état de toxicomanie avéré, à savoir
 un réel état de dépendance psychique ou physique de substances hallucinogènes, il constitue un risque pour la sécurité routière dans la mesure où un état
 de dépendance à des substances psychotropes, et notamment à des hallucinogènes qui ont pour effet primordial d’altérer la perception, est incontestablement de nature à constituer un trouble susceptible d’entraver les aptitudes ou
 capacités de conduire.
 TA 17-4-08 (23579)
 
-\23. Échange du permis étranger contre un permis luxembourgeois – conditions – loi du 14 février 1955, art. 2; a. g.-d. du 23 novembre 1955, art. 84
+23\. Échange du permis étranger contre un permis luxembourgeois – conditions – loi du 14 février 1955, art. 2; a. g.-d. du 23 novembre 1955, art. 84
 Le ministre des Transports peut refuser la transcription d’un permis de
 conduire si le titulaire n’offre pas, compte tenu des faits d’inhabilité ou de
 maladresse suffisamment concluant et constatés à sa charge, les garanties
@@ -3149,7 +3149,7 @@ les permis de conduire délivrés par les États membres que ceux délivrés par
 les États tiers.
 TA 18-7-12 (29119)
 
-\2. Permis de conduire - affectation du nombre initial de points - chauffeurs
+2\. Permis de conduire - affectation du nombre initial de points - chauffeurs
 professionnels - dispositions particulières (non) - loi du 14 février 1955, art.
 2bis
 L’article 2bis de la loi du 14 février 1955, réglant la matière des permis à
@@ -3168,7 +3168,7 @@ preuve d’un sens accru des responsabilités.»
 TA 22-05-2013 (31341)
 
 Immatriculation véhicule militaire
-\24. Immatriculation – véhicule militaire – obligation d’immatriculation –
+24\. Immatriculation – véhicule militaire – obligation d’immatriculation –
 code de la route, art. 2, 9° et 15°, art. 92
 Un véhicule militaire n’appartenant pas à l’armée ne saurait être qualifié
 de véhicule spécial de l’armée. Il constitue un véhicule automoteur qui doit être
@@ -3186,7 +3186,7 @@ d’un dispositif de propulsion mécanique ou relié à un conducteur électriqu
 mais non lié à une voie ferrée.
 TA 8-3-04 (16979)
 
-\3. Permis de conduire – réduction de points – conditions d’exécution de
+3\. Permis de conduire – réduction de points – conditions d’exécution de
 plein droit (oui) – information obligatoire et préablable du conducteur (oui) - loi
 du 14 février 1955, art. 2bis
 La réduction de points est une mesure administrative qui intervient de plein
@@ -3201,7 +3201,7 @@ pénal, seul compétent à cet égard, la réalité des faits à l’origine de 
 en cas de contestation.
 
 Article 2bis
-\1. Permis de conduire – affectation du nombre initial de points – résidence
+1\. Permis de conduire – affectation du nombre initial de points – résidence
 normale – transcription d’un permis de conduire étranger - loi du 14 février
 1955, art. 2bis, par. 1er
 
@@ -3228,7 +3228,7 @@ Il se dégage des considérations qui précèdent que lorsque le conducteur a
 de paiement de l’avertissement taxé, le paiement de la somme due est à lui
 seul suffisant pour déclencher la réduction afférente au nombre de points affectés au permis de conduire, cette réduction intervenant en effet de plein droit.
 TA 21-11-2005 (20152)
-\4. Décision susceptible de recours – permis à points – décision de retrait –
+4\. Décision susceptible de recours – permis à points – décision de retrait –
 décision administrative – loi du 14 février 1955, art. 2bis
 La décision du ministre des Transports de retirer le nombre de points prévu
 par la loi s’analyse en une décision administrative entraînant la compétence
@@ -3246,7 +3246,7 @@ Luxembourg, dès le moment où le titulaire d’un permis de conduire étranger 
 fait au Luxembourg l’objet d’une condamnation judiciaire devenue irrévocable
 ou où s’il s’est acquitté dans les 45 jours après un avertissement taxé.
 
-\5. Permis à points – décision de réduction – réduction de plein droit
+5\. Permis à points – décision de réduction – réduction de plein droit
 La réduction de points est une mesure administrative grave qui intervient
 de plein droit, c’est-à-dire elle a lieu automatiquement, le ministre devant infliger le retrait des points chaque fois que les conditions d’application en sont
 réunies – TA 30-6-03 (16018); CA 17-12-09 (25942C) – Lorsque le conducteur
@@ -3254,7 +3254,7 @@ a été informé en bonne et due forme de la réduction de points encourue en ca
 de paiement de l’avertissement taxé, le paiement de la somme due est à lui
 seul suffisant pour déclencher la réduction afférente au nombre de points affectés au permis de conduire, cette réduction intervenant en effet de plein droit.
 TA 18-12-03 (16701); TA 21-10-04 (18318)
-\6. Permis à points – décision de réduction – contestation de l’infraction
+6\. Permis à points – décision de réduction – contestation de l’infraction
 (non) – acte administratif à compétence liée
 
 «[…] de nombreuses personnes titulaires d’un permis étranger vivent
@@ -3281,9 +3281,9 @@ TA 23-11-05 (19831)
 \- 52 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\7. Permis de conduire – réduction de points – libellé des infractions - mi-
+7\. Permis de conduire – réduction de points – libellé des infractions - mi-
 
-\11. Permis à points – décision de réduction – réduction de plein droit – pouvoir d’appréciation du ministre (non) – pouvoir de contrôle du tribunal (non) – loi
+11\. Permis à points – décision de réduction – réduction de plein droit – pouvoir d’appréciation du ministre (non) – pouvoir de contrôle du tribunal (non) – loi
 modifiée du 14 février 1955, art. 2bis, par. 3
 
 nistre des transports - marge d’appréciation (non) - loi du 14 février 1955, art.
@@ -3300,10 +3300,10 @@ Le ministre n’a pas de marge d’appréciation quant au libellé des infractio
 retenues par le juge et à la réduction concomitante de points qui se trouve
 fixée dans la loi.
 TA 24-06-2004 (17342)
-\8. Permis à points – décision de réduction – applicabilité des dispositions
+8\. Permis à points – décision de réduction – applicabilité des dispositions
 de la procédure administrative non contentieuse (non) – loi du 2 août 2002, r.
 
-\12. Permis à points – décision de réduction – conditions – condamnation
+12\. Permis à points – décision de réduction – conditions – condamnation
 judiciaire - loi du 14 février 1955, art. 2bis
 
 g.-d. du 8 juin 1979, art. 9 - loi du 14 février 1955, art. 2bis
@@ -3322,7 +3322,7 @@ devient irrévocable. Il s’agit partant d’une réduction de points qui inter
 dehors de l’initiative de l’administration qui ne dispose d’aucun pouvoir d’appréciation pour prendre la décision nécessaire de retrait de points suite à la
 décision judiciaire. - Il s’ensuit que le non-respect, par le ministre des Trans-
 
-\13. Permis à points – réduction – conduite sans être titulaire d’un permis de
+13\. Permis à points – réduction – conduite sans être titulaire d’un permis de
 conduire – loi du 14 février 1955, art. 2bis et 13
 
 ports, de la disposition de l’article 9 du règlement grand-ducal du 8 juin 1979
@@ -3340,13 +3340,13 @@ CA 10-7-08 (24222C)
 
 du permis de conduire.
 CA 6-3-08(23073C)
-\9. Permis à points – décision de réduction – acte administratif à compétence liée – contrôle exercé par le tribunal – contrôle d’opportunité et de proportionnalité (non) – loi du 14 février 1955, art. 2bis
+9\. Permis à points – décision de réduction – acte administratif à compétence liée – contrôle exercé par le tribunal – contrôle d’opportunité et de proportionnalité (non) – loi du 14 février 1955, art. 2bis
 En matière de retrait de points du permis, le tribunal administratif, saisi
 d’un recours en annulation, a le droit et l’obligation d’examiner l’existence et
 l’exactitude des faits matériels qui sont à la base de la décision attaquée et de
 vérifier si les motifs dûment établis sont de nature à motiver légalement la déci-
 
-\14. Inobservation d’un signal «stop» et refus de céder la priorité – concours
+14\. Inobservation d’un signal «stop» et refus de céder la priorité – concours
 idéal – loi du 14 février 1955, art. 2bis, par. 2., al. 3
 
 sion attaquée, il n’est en revanche pas autorisé à contrôler des considérations
@@ -3368,7 +3368,7 @@ paragraphe 3, de la loi modifiée du 14 février 1955 est une conséquence léga
 du retrait de l’ensemble des points dont le permis de conduire est doté, intervenant de plein droit et liant le ministre, dont l’arrêté afférent ne comporte, d’après
 l’article 2bis paragraphe 3 de la loi du 14 février 1955, que le constat que la
 
-\15. Permis à points – décision de retrait de points – caractère – peine
+15\. Permis à points – décision de retrait de points – caractère – peine
 
 personne visée a perdu l’ensemble des 12 points dont son permis était affecté
 
@@ -3379,7 +3379,7 @@ TA 19-12-07 (228323)
 suite aux différentes décisions de retrait de points intervenues préalablement.
 La question de savoir si la mesure prise est proportionnelle par rapport aux
 
-\16. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – Convention européenne des droits de
+16\. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – Convention européenne des droits de
 l’homme, art. 6; loi du 14 février 1955, art. 2bis
 
 faits établis, découle dès lors en matière de permis de conduire, directement
@@ -3415,7 +3415,7 @@ points a agi à l’issue d’une procédure régulière. – Il en résulte que
 décision ministérielle de retrait, ne sont contraires à l’article 6-1 de la Conven-
 
 (22679 et 22923); TA 3-12-08 (24573); TA 19-5-09 (24841); TA 2-3-11 (27513)
-\10. Permis à points – décision de réduction – réduction de plein droit – pouvoir d’appréciation du ministre (non) – pouvoir de contrôle du tribunal (non) – loi
+10\. Permis à points – décision de réduction – réduction de plein droit – pouvoir d’appréciation du ministre (non) – pouvoir de contrôle du tribunal (non) – loi
 modifiée du 14 février 1955, art. 2bis, par. 2
 La réduction de points intervient de plein droit, à partir du moment où
 l’infraction commise a été constatée ou bien par une condamnation judicaire
@@ -3453,7 +3453,7 @@ TA 24-6-04 (17342, c. 26-10-04, 18266C); TA 3-4-06 (20531); TA 25-9-06
 
 acte soit constitutif de plusieurs infractions n’est donc pas contraire à l’article
 
-\17. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – recours en annulation – recours effectif –
+17\. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – recours en annulation – recours effectif –
 Convention européenne des droits de l’homme, art. 6; loi du 14 février 1955,
 art. 2bis
 
@@ -3470,7 +3470,7 @@ TA 12-2-07 (21859 et 21966)
 
 nécessite une réponse pédagogique appropriée reposant sur des sanctions
 
-\18. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – instance pénale – obligation d’information de
+18\. Permis à points – conformité aux exigences de la Convention européenne des droits de l’homme – instance pénale – obligation d’information de
 la possibilité de la perte de points dès l’instance pénale – Convention européenne des droits de l’homme, art. 6; loi du 14 février 1955, art. 2bis
 
 péenne des droits de l’homme consacrant le principe «non bis in idem» (non)
@@ -3515,7 +3515,7 @@ au cas où le capital de points dont est doté le permis à conduire est épuis�
 l’approche préventive échoue. Le dispositif mis en place par le permis à points
 s’inscrit dans un choix politique de sécurité routière
 TA 13-12-04 (18277); TA 29-1-07 (21828, c. 3-7-07, 22672C)
-\21. Légalité du retrait – décision prise sur base des mêmes faits que ceux
+21\. Légalité du retrait – décision prise sur base des mêmes faits que ceux
 qui ont conduit à des sanctions pénales – contrariété à la Convention euro– Conv. eur. des droits de l’homme, Protocole additionnel n° 7, art. 4
 Les sanctions prononcées d’une part par le tribunal correctionnel et celle
 découlant du retrait du capital de points dont est doté le permis de conduire
@@ -3533,18 +3533,18 @@ répressif, viole le principe non bis in idem inscrit à l’article 4 du Protoc
 libertés fondamentales.
 TA 16-6-05 (19036, c. 24-11-05, 20142C); TA 11-1-12 (28555, c. 15-5-12,
 29814C)
-\22. Permis à points – décision de réduction – décision administrative – loi
+22\. Permis à points – décision de réduction – décision administrative – loi
 du 14 février 1955, art. 2bis
 La décision du ministre des Transports de retirer le nombre de points prévu
 par la loi s’analyse en une décision administrative entraînant la compétence
 du tribunal administratif.
 
-\19. Permis à points – retrait de points – suspension du permis de conduire
+19\. Permis à points – retrait de points – suspension du permis de conduire
 – sanction administrative – applicabilité des principes de non-rétroactivité de
 la loi pénale et de la légalité des délits et des peines (non) – Convention européenne des droits de l’homme, art. 7
 
 TA 30-6-03 (16018); TA 26-5-04 (17382); TA 23-11-05 (19831)
-\23. Permis à points – décision de réduction – décorrectionnalisation de
+23\. Permis à points – décision de réduction – décorrectionnalisation de
 l’infraction – contravention ab initio
 
 Dans la mesure où la perte de la totalité des points et la suspension subséquente du permis de conduire pour une durée de douze mois ne constituent
@@ -3558,11 +3558,11 @@ La décorrectionnalisation d’un délit a pour effet de dénaturer l’infracti
 ab initio, en d’autres termes rétroactivement et dès le départ, de sorte que le
 régime juridique spécifique des contraventions lui est applicable.
 TA 18-2-09 (25415)
-\24. Permis à points – avertissement taxé – décision administrative (non)
+24\. Permis à points – avertissement taxé – décision administrative (non)
 Un avertissement taxé, dans la mesure où il a pour objet de sanctionner
 l’auteur d’une contravention selon une procédure simplifiée, est à considérer
 
-\20. Permis à points – principe non bis in idem – conformité aux exigences
+20\. Permis à points – principe non bis in idem – conformité aux exigences
 de la Convention européenne des droits de l’homme – Convention européenne
 des droits de l’homme, Protocole n° 7, art. 4; loi du 14 février 1955, art. 2bis
 
@@ -3579,7 +3579,7 @@ définitif, mais ne s’oppose pas à ce que des autorités distinctes connaisse
 d’infractions différentes issues d’un même fait pénal. Le simple fait qu’un seul
 
 TA 28-3-07 (21962 et 21963)
-\25. Permis à points – décision de réduction – lettre d’information – décision
+25\. Permis à points – décision de réduction – lettre d’information – décision
 administrative
 La lettre d’information adressée à l’intéressé matérialise en même temps la
 décision de réduction de points du ministre et constitue dès lors une décision
@@ -3589,7 +3589,7 @@ TA 26-3-10 (25714)
 \- 54 -
 
 CODE DE LA ROUTE – Loi du 14 février 1955
-\26. Permis à points – décision de réduction – notification – effet – opposabilité
+26\. Permis à points – décision de réduction – notification – effet – opposabilité
 
 de l’avertissement taxé a pour effet de mettre fin à toute possibilité de voir
 contrôler la réalité des faits à l’origine de l’infraction et les autres éléments
@@ -3620,7 +3620,7 @@ lui-même basé sur la loi du 14 février 1955, article 4, alinéa 1er, point 4,
 anticonstitutionnelle.
 TA 2-12-99 (11153)
 
-\27. Permis à points – décision de réduction – avertissement taxé – information préalable – paiement de la taxe – transaction – loi du 14 février 1955, art.
+27\. Permis à points – décision de réduction – avertissement taxé – information préalable – paiement de la taxe – transaction – loi du 14 février 1955, art.
 2bis, r. g.-d. du 26 août 1993, art. 4bis
 
 Article 9
@@ -3649,7 +3649,7 @@ Article 11
 Circulation routière – pesage des véhicules – surcharge (notion) – loi du
 14 février 1955, art. 11.2
 
-\28. Permis à points – constatation d’une infraction entraînant une réduction
+28\. Permis à points – constatation d’une infraction entraînant une réduction
 de points – information du conducteur – contrôle du ministre
 Il incombe au ministre des Transports de contrôler la régularité formelle de
 la constatation d’une infraction et de l’information par l’agent responsable que
@@ -3662,7 +3662,7 @@ juges d’appel pouvaient sans violer l’article visé au moyen retenir que le 
 successifs des axes avant et arrière du camion.
 Cour de cassation 07-05-2009 (22/2009 et 23/2009)
 
-\29. Permis à points – avertissement taxé – non inscription du nombre de
+29\. Permis à points – avertissement taxé – non inscription du nombre de
 points perdus – nullité de la décision ministérielle
 Si l’inscription du nombre de points perdus sous la rubrique afférente de
 l’avertissement taxé n’est pas respectée, le ministre des Transports ne peut
@@ -3672,7 +3672,7 @@ protéger les intérêts privés.
 TA 30-6-03 (16018)
 
 Article 11bis
-\1. Droit pénal spécial – circulation routière – dépassement de la vitesse de
+1\. Droit pénal spécial – circulation routière – dépassement de la vitesse de
 plus de 50% du maximum autorisé – état de nécessité (oui) - loi du 14 février
 1955, art. 11bis, par. 3, loi du 18 septembre 2007
 La situation dans laquelle X s’est trouvé suite à l’appel émanant du central
@@ -3701,14 +3701,14 @@ un dépassement de vitesse, qui dans d’autres circonstances, mériterait une
 sanction pénale conséquente.
 Cour de cassation, 12-07-2010 (322/10 VI)
 
-\30. Permis à points – contestation de la réalité des faits devant le juge
+30\. Permis à points – contestation de la réalité des faits devant le juge
 administratif (non)
 Le tribunal administratif n’est pas admis à se livrer à un contrôle de la réalité des faits commis, ce contrôle appartenant, le cas échéant, au juge pénal. Il
 appartient à l’administré de refuser de payer l’avertissement taxé s’il conteste
 les faits, ce refus de payement lui permettant de faire contrôler la réalité des
 faits devant le juge pénal.
 TA 10-12-07 (22991)
-\31. Permis à points – avertissement taxé – retrait de points – devoir d’information du titulaire du permis – erreur – conséquence – loi du 14 février 1955,
+31\. Permis à points – avertissement taxé – retrait de points – devoir d’information du titulaire du permis – erreur – conséquence – loi du 14 février 1955,
 art. 2bis, par. 2; r. g.-d. du 26 août 1993, art. 13 et 15
 La finalité des règles en matière d’avertissements taxés et de retrait de
 points consiste dans l’information précise et complète de l’auteur d’une infraction, de la date, du lieu et de la nature exacte de l’infraction, de sorte qu’il ne
@@ -3722,13 +3722,13 @@ consiste dans l’emploi, par l’agent auteur de l’avertissement, d’un code
 la décision de retrait de points.
 CA 14-7-09 (25494C)
 
-\2. Droit pénal – droit pénal spécial – circulation routière – délit de grande
+2\. Droit pénal – droit pénal spécial – circulation routière – délit de grande
 vitesse – éléments constitutifs - dépassement de la vitesse de plus de 50%
 du maximum réglementaire de la vitesse autorisée, la différence devant être
 d’au moins 20 km/h – etat de récidive – notion- nouveau fait devant avoir été
 commis avant l’expiration d’un délai d’un an à partir du jour où une précédente
 
-\32. Permis à points – indication erronée du lieu de l’infraction – incidence
+32\. Permis à points – indication erronée du lieu de l’infraction – incidence
 (non)
 L’éventuelle indication erronée du lieu de l’infraction ne saurait entraîner
 l’annulation de la décision de réduction de points, étant donné que le paiement
@@ -3789,7 +3789,7 @@ Dans la mesure où une loi prévoit son exécution par voie de règlement
 ministériel, elle est contraire à l’article 36 de la Constitution.
 Cour constitutionnelle, 18-12-1998 (4/98 à 6/98)
 
-\4. Confiscation du véhicule - Personnalité des peines - Principe d’égalité
+4\. Confiscation du véhicule - Personnalité des peines - Principe d’égalité
 devant la loi – Différence de traitement objective et proportionnelle - Constitution, art. 10bis - loi du 14 février 1955, art. 12, par. 2, al. 3, et art. 14, al. 3 – Code
 pénal, art. 31
 
@@ -3822,7 +3822,7 @@ avec l’article 31 du Code pénal n’est pas contraire à l’article 10 bis, 
 1er, de la Constitution.
 Cour constitutionnelle, 07-01-2011 (59/11 et 60/11)
 
-\1. Ivresse au volant – Récidive - Confiscation du véhicule (oui) - loi du 14
+1\. Ivresse au volant – Récidive - Confiscation du véhicule (oui) - loi du 14
 février 1955, art. 12, par. 2, al. 3, et art. 14, al. 3
 Pour prononcer la confiscation du véhicule (...) en se référant à l’article 12,
 paragraphe 2, alinéa 3, combiné avec l’article 14, alinéa 3, de la loi modifiée du
@@ -3842,7 +3842,7 @@ cette sanction est réservée aux infractions présentant une certaine gravité 
 constitue un moyen approprié pour atteindre le but d’intérêt général poursuivi
 par le législateur.
 Cour de cassation, 11-07-2013 (47/2013)
-\2. Circulation – ivresse au volant – récidive dans l’année – confiscation
+2\. Circulation – ivresse au volant – récidive dans l’année – confiscation
 spéciale obligatoire du véhicule instrument du délit – véhicule dépendant de la
 communauté de biens existant entre époux – prévenu propriétaire pour partie
 seulement de l’objet ou de l’instrument de l’infraction – confiscation spéciale
@@ -3860,7 +3860,7 @@ Cour d’appel (correctionnel) 23-07-1981 (Pasicrisie luxembourgeoise
 rouge, tome 25, p. 185 et suivantes)
 
 Article 13
-\1. Suspension du permis de conduire – effet sur le permis de conduire
+1\. Suspension du permis de conduire – effet sur le permis de conduire
 international – loi du 14 février 1955, art. 13
 La notion de «permis de conduire international» reprise à l’article 13 de
 la loi du 14 février 1955 ne vise pas un permis de conduire délivré par un
@@ -3872,7 +3872,7 @@ l’obligation de reconnaissance de validité inscrite dans l’article 41 parag
 1er de ladite Convention. Dans la mesure où le permis de conduire international constitue ainsi un document officiel délivré au Luxembourg en faveur d’un
 résident luxembourgeois, le pouvoir du ministre de faire retirer également le
 
-\3. Peines principale et accessoire - Confiscation du véhicule - Principe de
+3\. Peines principale et accessoire - Confiscation du véhicule - Principe de
 la légalité des peines - Constitution, art. 14 - loi du 14 février 1955, art. 12, par.
 2, al. 3, et art. 14, al. 3 – Code pénal, art. 31
 
@@ -3895,7 +3895,7 @@ leur remet pas son permis de conduire périmé.
 Cour d’appel (correctionnel) 19-5-1981 (Pasicrisie luxembourgeoise rouge,
 tome 25, p.183)
 
-\2. Circulation – interdiction de conduire judiciaire – interdiction de conduire
+2\. Circulation – interdiction de conduire judiciaire – interdiction de conduire
 provisoire prononcée par le juge d’instruction – exécution du retrait du permis
 de conduire – objet du retrait de permis de conduire – permis de conduire
 valable – permis de conduire périmé – absence de distinction – obligation de
@@ -4509,7 +4509,7 @@ ou immobilisés. »
 Chapitre II.- Définitions
 Art. 2.
 «Pour l’application du présent arrêté grand-ducal, les termes énumérés ci-dessous ont les significations suivantes:
-1.
+1\.
 
 Voie publique
 
@@ -4540,11 +4540,11 @@ permettre la circulation d’une file de véhicules.
 1.6.
 
 Autoroute: voie publique qui:
-\1) comporte pour les deux sens de la circulation des chaussées distinctes séparées l’une de l’autre par une bande
+1\) comporte pour les deux sens de la circulation des chaussées distinctes séparées l’une de l’autre par une bande
 de terrain non destinée à la circulation;
-\2) ne présente aucune intersection à niveau avec d’autres voies publiques;
-\3) comporte des bretelles d’accès et des bretelles de sortie;
-\4) est indiquée comme autoroute par le signal E,15.
+2\) ne présente aucune intersection à niveau avec d’autres voies publiques;
+3\) comporte des bretelles d’accès et des bretelles de sortie;
+4\) est indiquée comme autoroute par le signal E,15.
 Il peut être dérogé au chiffre 1) en des endroits particuliers ou à titre temporaire. Les bretelles d’accès et les bretelles
 de sortie dérogent au chiffre 2).
 
@@ -4660,7 +4660,7 @@ b) Chantier fixe: chantier dont les limites extérieures ne sont pas déplacées
 journée;
 c) Chantier mobile: chantier dont les limites extérieures sont déplacées sur la voie publique endéans une même
 journée par bonds successifs ou de façon continue, en relation avec l’avancement des travaux.
-2.
+2\.
 
 Véhicules
 
@@ -4971,9 +4971,9 @@ véhicule N1, N2 ou N3. Le terme «tracteur routier» est utilisé avec la même
 remorque».
 (Règl. g.-d. du 26 janvier 2016)
 «2.23.	 Véhicule historique: tout véhicule routier soumis à l’immatriculation qui remplit l’ensemble des conditions suivantes:
-\1.	 il a été construit ou immatriculé pour la première fois il y a au moins 30 ans;
-\2.	 son type particulier, tel que défini par la législation pertinente de l’Union européenne ou nationale, n’est plus produit;
-\3.	 il est préservé sur le plan historique et maintenu dans son état d’origine, et aucune modification essentielle n’a été
+1\.	 il a été construit ou immatriculé pour la première fois il y a au moins 30 ans;
+2\.	 son type particulier, tel que défini par la législation pertinente de l’Union européenne ou nationale, n’est plus produit;
+3\.	 il est préservé sur le plan historique et maintenu dans son état d’origine, et aucune modification essentielle n’a été
 apportée aux caractéristiques techniques de ses composants principaux.»
 2.24.	 Véhicule conditionné: véhicule frigorifique ou calorifique dont les superstructures fixes ou mobiles sont spécialement
 équipées pour le transport de marchandises sous températures dirigées, et dont l’épaisseur de chaque paroi latérale,
@@ -5030,7 +5030,7 @@ de personnes assises et debout. Le tramway n’est pas considéré comme un véh
 le titulaire du certificat d’immatriculation et destiné à l’usage exclusif de celle-ci.
 b) Véhicule spécial de la Police grand-ducale : véhicule routier appartenant à, détenu par, ou dont la Police grandducale est le titulaire du certificat d’immatriculation et qui, en raison de sa construction ou de son équipement, est
 utilisé en mission particulière d’intervention imminente ou de protection rapprochée. »
-3.
+3\.
 
 Caractéristiques et équipements des véhicules
 
@@ -5311,8 +5311,8 @@ véhicules routiers ainsi que des systèmes, des composants et des entités tech
 parcage, l’arrêt et le stationnement.
 b) Immatriculation d’un véhicule routier : l’autorisation administrative accordée suite à une demande d’inscription sur
 un certificat d’immatriculation en vue de la mise en circulation d’un véhicule, comportant
-\1.	 l’attribution au titulaire du certificat d’immatriculation d’un numéro d’immatriculation,
-\2.	 la délivrance pour ce véhicule d’un certificat d’immatriculation ainsi que pour les véhicules routiers non soumis
+1\.	 l’attribution au titulaire du certificat d’immatriculation d’un numéro d’immatriculation,
+2\.	 la délivrance pour ce véhicule d’un certificat d’immatriculation ainsi que pour les véhicules routiers non soumis
 au contrôle technique périodique, d’une vignette de conformité.
 c) Transcription d’un véhicule routier : tout changement sur le certificat d’immatriculation relatif aux données nominatives du propriétaire ou du détenteur d’un véhicule routier immatriculé au Luxembourg. »
 4.4.
@@ -5335,7 +5335,7 @@ janvier 2016 relatif à la réception et l’immatriculation des véhicules rout
 
 (supprimé par le règl. g.-d. du 21 septembre 2023)
 
-5.
+5\.
 
 Divers
 
@@ -5456,9 +5456,9 @@ déchargement de la marchandise pour le trajet terminal,
 soit dans un rayon n’excédant pas 150 kilomètres à vol d’oiseau à partir du port fluvial ou maritime d’embarquement ou de débarquement.
 
 Opération de transport intermodal :
-\1. Une opération de transport combiné définie à la rubrique 5.18. dans le cadre d’un transport d’un ou plusieurs
+1\. Une opération de transport combiné définie à la rubrique 5.18. dans le cadre d’un transport d’un ou plusieurs
 conteneurs ou caisses mobiles jusqu’à une longueur totale maximale de 13,72 m (45 pieds) ; ou
-\2. une opération de transport par voie d’eau dans le cadre d’un transport d’un ou plusieurs conteneurs ou caisses
+2\. une opération de transport par voie d’eau dans le cadre d’un transport d’un ou plusieurs conteneurs ou caisses
 mobiles jusqu’à une longueur totale maximale de 13,72 m (45 pieds), pour autant que le trajet routier initial ou
 terminal ne dépasse pas 150 kilomètres sur le territoire de l’Union européenne. La distance de 150 kilomètres
 visée ci-dessus peut être dépassée en vue d’atteindre le terminal de transport approprié le plus proche pour le
@@ -5478,7 +5478,7 @@ l’entreprise de transport a été conclu.»
 «5.22.	 Véhicule en covoiturage : véhicule routier des catégories M1 ou N1 occupé par plusieurs personnes, tel qu’indiqué par
 le signal F,20c ou le panneau additionnel du modèle 6ac.»
 Dispositions transitoires concernant certains véhicules:
-1)
+1\)
 
 Les véhicules automoteurs immatriculés comme tracteurs agricoles ou comme tracteurs industriels avant le 1er août
 2004 continuent à être considérés comme tels.
@@ -5491,7 +5491,7 @@ maximale par construction égale ou inférieure à 40 km/h, dont la fonction ré
 traction et qui est spécialement conçu pour tirer, pousser, porter ou actionner certains outils, machines ou remorques
 destinés à l’emploi dans l’exploitation industrielle; il peut être aménagé pour transporter des personnes et des choses.
 
-2)
+2\)
 
 Les véhicules automoteurs immatriculés comme véhicules utilitaires avant le 1er août 2004 continuent à être considérés
 comme tels.
@@ -5505,7 +5505,7 @@ Le véhicule utilitaire est considéré comme véhicule automoteur destiné au t
 
 \- 79 -
 
-3)
+3\)
 
 a) Le cycle à moteur auxiliaire est un cycle dont le poids propre n’excède pas 400 kg et qui est pourvu soit d’un moteur
 auxiliaire d’une cylindrée maximum de 50 cm3 et qui, par construction, ne dépasse pas une vitesse de 50 km/h, soit
@@ -5519,7 +5519,7 @@ Il est considéré comme cycle à moteur auxiliaire s’il est pourvu soit d’u
 et qui, par construction, ne dépasse pas 50 km/h, soit d’un moteur électrique et qui, par construction, ne dépasse pas
 50 km/h.
 
-4)
+4\)
 
 Tout cycle à pédalage assisté mis en circulation avant le 1er février 2005 est assimilé au cycle, même si la puissance
 nominale continue de son moteur auxiliaire électrique dépasse 0,25 kW, sans toutefois dépasser 0,30 kW.»
@@ -6453,7 +6453,7 @@ mesures qui s’imposent dans l’intérêt de la sécurité et de la fluidité 
 (Règl. g.-d. du 19 décembre 2020)
 « Art. 7.
 Le ministre (. . .)2 peut, dans des cas exceptionnels, en vue de l’immatriculation d’un véhicule routier, accorder des autorisations individuelles augmentant les maxima prévus aux articles 3 à 6 et en arrêter les conditions. (Règl. g.-d. du 21 septembre
-\2023) « Toutefois, la mise en circulation d’un tel véhicule est uniquement autorisée sous le couvert d’une autorisation spéciale
+2023\) « Toutefois, la mise en circulation d’un tel véhicule est uniquement autorisée sous le couvert d’une autorisation spéciale
 établie conformément aux dispositions du règlement grand-ducal du 6 octobre 2023 relatif aux transports et circulations exceptionnels soumis à des autorisations spéciales sur les voies publiques. »
 En cas d’urgence risquant de porter atteinte à la sécurité et à la santé publiques, le ministre peut dispenser temporairement
 un véhicule de l’autorisation « spéciale »1 visée à l’alinéa 1er.
@@ -6479,7 +6479,7 @@ Les équipements amovibles faisant partie intégrante d’un véhicule routier s
 couverture ou emballage fermés.
 Les dispositions qui précèdent ne s’appliquent pas aux matières qui sont en relation directe avec des activités agricoles ou
 viticoles ou qui sont des produits de telles activités.»
-\3. L’arrimage du chargement d’un véhicule routier doit se faire au moyen soit de sangles, de chaînes ou de câbles fixés au
+3\. L’arrimage du chargement d’un véhicule routier doit se faire au moyen soit de sangles, de chaînes ou de câbles fixés au
 plateau de chargement ou aux parois latérales, soit à l’aide de traverses coulissantes, de supports réglables, de sacs gonflables, soit de tout autre dispositif de verrouillage antiglisse d’une efficacité appropriée et suffisante.
 Tous les dispositifs servant à bloquer, verrouiller ou arrimer ainsi qu’à couvrir ou à protéger le chargement doivent être dimensionnés de façon à pouvoir supporter toutes les forces et tous les couples exercés par le chargement et à serrer étroitement
 celui-ci, de façon à empêcher toute déperdition du contenu, et être fixés solidement de manière à ne pas pouvoir se relâcher
@@ -6491,12 +6491,12 @@ Supprimé par le régl. g.-d. du 21 septembre 2023.
 
 \- 89 -
 
-\4. Les tensions d’arrimage ainsi que le nombre minimal de dispositifs d’arrimage nécessaires doivent être calculés suivant
+4\. Les tensions d’arrimage ainsi que le nombre minimal de dispositifs d’arrimage nécessaires doivent être calculés suivant
 les dispositions de la norme EN 12195-1.
 Les sangles, les chaînes et les câbles utilisés pour l’arrimage du chargement d’un véhicule routier doivent respectivement
 satisfaire aux exigences des normes EN 12195-2, EN 12195-3 et EN 12195-4.
 Les exigences du présent paragraphe ne sont pas applicables aux chargements des véhicules traînés.
-\5. (Règl. g.-d. du 21 septembre 2023) « Le respect des obligations en relation avec le chargement et son arrimage correct et
+5\. (Règl. g.-d. du 21 septembre 2023) « Le respect des obligations en relation avec le chargement et son arrimage correct et
 conforme ainsi qu’avec le matériel de sécurisation de la charge incombe au propriétaire, au détenteur, au titulaire du certificat
 d’immatriculation ou au conducteur du véhicule routier et à la personne ayant procédé au chargement. » Toutefois, si le chargement est repris soit sur une remorque préchargée et scellée par une autorité nationale compétente ou dans un conteneur
 préchargé et scellé par une autorité nationale compétente, le conducteur du véhicule ne peut pas être tenu responsable de ce
@@ -6617,7 +6617,7 @@ Remplacé par le règl. g.-d. du 19 décembre 2020.
 
 \- 91 -
 
-\2. La masse maximale autorisée sur les essieux ne doit pas dépasser les valeurs suivantes:
+2\. La masse maximale autorisée sur les essieux ne doit pas dépasser les valeurs suivantes:
 1°
 
 2°
@@ -6683,7 +6683,7 @@ La charge exercée sur l’essieu le plus chargé d’un essieu tandem ou tridem
 «Les dispositions du présent paragraphe ne s’appliquent pas aux « véhicules routiers traînés »1, pour lesquels la masse
 maximale autorisée par essieu individuel ne doit pas dépasser 10 « tonnes »1. Cette masse peut toutefois être portée
 jusqu’à 12 « tonnes »1 à condition que les véhicules soient traînés à une vitesse ne dépassant pas 25 km/h.»
-\3. La masse maximale autorisée des véhicules et des ensembles de véhicules couplés ne doit pas dépasser les valeurs
+3\. La masse maximale autorisée des véhicules et des ensembles de véhicules couplés ne doit pas dépasser les valeurs
 suivantes:
 1°
 
@@ -6878,7 +6878,7 @@ en circulation sur la voie publique que sous le couvert d’une autorisation sp�
 règlement grand-ducal du 6 octobre 2023 précité. »
 Pour les machines automotrices à grande vitesse et les machines mobiles à grande vitesse immatriculées avant le 1er janvier 2021 les dispositions de l’alinéa précédent ne s’appliquent pas en ce qui concerne la masse maximale par essieux.
 En cas d’urgence risquant de porter atteinte à la sécurité et à la santé publiques, le ministre (. . .)1 peut dispenser temporairement un véhicule de l’autorisation prévue au paragraphe 8.
-\7. Par dérogation aux prescriptions des paragraphes 2 et 3, la masse maximale autorisée des véhicules routiers automoteurs
+7\. Par dérogation aux prescriptions des paragraphes 2 et 3, la masse maximale autorisée des véhicules routiers automoteurs
 à cinq essieux, peut être portée à 50 tonnes à condition que la masse maximale autorisée sur ces essieux ne dépasse pas 11,5
 tonnes, que le véhicule dispose d’un système électronique de pesage de la masse sur « chaque essieu »2 et qu’il soit équipé
 d’au moins 3 essieux hydrauliques orientables.
@@ -7025,36 +7025,36 @@ Les attaches dépassant 2,50 m doivent être signalées par un fanion bien appar
 «Art. 18.
 Les prescriptions du présent article sont applicables aux remorques et semi-remorques qui sont enregistrées pour la première fois après le 1er octobre 1971.
 A. Force verticale au point d’appui
-\1.	 Pour les remorques à un essieu, la force au point d’appui doit être dirigée vers le bas, lorsque la remorque est à l’arrêt
+1\.	 Pour les remorques à un essieu, la force au point d’appui doit être dirigée vers le bas, lorsque la remorque est à l’arrêt
 sur un plan horizontal.
-\2.	 La valeur de cette force ne doit ni être inférieure à 2%, ni supérieure à 10% du poids total maximum autorisé de la
+2\.	 La valeur de cette force ne doit ni être inférieure à 2%, ni supérieure à 10% du poids total maximum autorisé de la
 remorque. L’accouplement utilisé et les dispositifs de fixation aux véhicules doivent être conçus et réalisés à cet effet.
 B. Accouplement
-\1.	 La liaison entre le véhicule tiré et le véhicule tracteur doit être réalisée au moyen d’un seul accouplement suffisamment
+1\.	 La liaison entre le véhicule tiré et le véhicule tracteur doit être réalisée au moyen d’un seul accouplement suffisamment
 rigide et résistant.
 (Règl. g.-d. du 30 avril 1979)
 «2.	 L’accouplement doit être d’un type agréé par un des Etats membres des Communautés européennes.»
-\3.	 L’accouplement doit être pourvu d’un dispositif de fermeture muni d’une sécurité. Ce dispositif doit être conçu et réalisé
+3\.	 L’accouplement doit être pourvu d’un dispositif de fermeture muni d’une sécurité. Ce dispositif doit être conçu et réalisé
 de manière que, pendant la marche, l’accouplement reste enclenché et verrouillé et qu’aucun désaccouplement ne
 puisse se produire. La sécurité ne doit pouvoir être mise en place que lorsque l’accouplement est enclenché. En outre,
 le dispositif de fermeture doit être conçu et réalisé de manière que, pendant la marche, l’accouplement reste enclenché
 en cas de défaillance de la sécurité.
-\4.	 Lorsque le poids total maximum autorisé de la remorque excède 3.500 kg, le dispositif de fermeture visé au point 3. doit
+4\.	 Lorsque le poids total maximum autorisé de la remorque excède 3.500 kg, le dispositif de fermeture visé au point 3. doit
 fonctionner automatiquement lors de l’accrochage.
-\5.	 L’accouplement du côté du véhicule tracteur doit être fixé soit aux longerons ou à ce qui en tient lieu, soit à des traverses
+5\.	 L’accouplement du côté du véhicule tracteur doit être fixé soit aux longerons ou à ce qui en tient lieu, soit à des traverses
 ou autres éléments du châssis, spécialement conçus ou aménagés à cette fin, et reliés solidement aux longerons.
-\6.	 Le centre de l’accouplement de la semi-remorque ne peut se trouver en arrière de l’axe de l’essieu arrière ou de l’axe
+6\.	 Le centre de l’accouplement de la semi-remorque ne peut se trouver en arrière de l’axe de l’essieu arrière ou de l’axe
 médian des essieux arrières du véhicule tracteur. A l’endroit où cet accouplement est fixé au châssis du véhicule tracteur, le châssis doit être renforcé dans le sens transversal.
-\7.	 Les accouplements ne peuvent dépasser de plus de 15 cm le gabarit du véhicule tracteur.
-\8.	 Lors du désaccouplement, aucune partie de l’accouplement ne peut toucher le sol.
+7\.	 Les accouplements ne peuvent dépasser de plus de 15 cm le gabarit du véhicule tracteur.
+8\.	 Lors du désaccouplement, aucune partie de l’accouplement ne peut toucher le sol.
 C. Attache secondaire
-\1.	 Les remorques équipées d’un dispositif assurant le freinage automatique en cas de rupture de l’accouplement, ne
+1\.	 Les remorques équipées d’un dispositif assurant le freinage automatique en cas de rupture de l’accouplement, ne
 peuvent être pourvues d’une attache secondaire.
 (Règl. g.-d. du 6 juillet 2001)
 «2.	 Les remorques dont la masse maximale autorisée n’excède pas 1.500 kg et qui sont équipées d’un système de freinage
 de service, sans être pourvues d’un dispositif assurant le freinage automatique en cas de rupture de l’accouplement,
 doivent être pourvues d’une attache secondaire.»
-\3.	 L’attache secondaire peut être constituée d’un ou de deux câbles ou chaînes, et doit être placée le plus près possible
+3\.	 L’attache secondaire peut être constituée d’un ou de deux câbles ou chaînes, et doit être placée le plus près possible
 du plan longitudinal médian des véhicules. L’attache secondaire doit permettre de maintenir la remorque, chargée à son
 poids total maximum autorisé, accouplée au véhicule tracteur.
 
@@ -7062,23 +7062,23 @@ Remplacé par le règl. g.-d. du 19 décembre 2020.
 
 \- 96 -
 
-\4.	 Pour les remorques équipées d’un frein de service, l’attache secondaire ne peut entraver le fonctionnement du dispositif
+4\.	 Pour les remorques équipées d’un frein de service, l’attache secondaire ne peut entraver le fonctionnement du dispositif
 de freinage.
-\5.	 L’attache secondaire ne peut entrer en action qu’en cas de rupture de l’accouplement.
-\6.	 L’attache secondaire doit être fixée de manière que le timon ne puisse toucher le sol en cas de rupture de l’accouplement.
+5\.	 L’attache secondaire ne peut entrer en action qu’en cas de rupture de l’accouplement.
+6\.	 L’attache secondaire doit être fixée de manière que le timon ne puisse toucher le sol en cas de rupture de l’accouplement.
 D. Timon triangulaire ou central
-\1.	 Le timon triangulaire ou central doit être d’un type agréé, à moins que la remorque n’ait été agréée dans son ensemble.
-\2.	 Le timon triangulaire ou central doit être construit et fixé de façon à pouvoir résister en toutes circonstances sans rupture
+1\.	 Le timon triangulaire ou central doit être d’un type agréé, à moins que la remorque n’ait été agréée dans son ensemble.
+2\.	 Le timon triangulaire ou central doit être construit et fixé de façon à pouvoir résister en toutes circonstances sans rupture
 ou déformation permanente aux efforts auxquels il est soumis.
-\3.	 Toute remorque dont l’essieu avant est pourvu d’une couronne à billes, doit être équipée d’un timon triangulaire.
-\4.	 Le timon triangulaire ne peut être constitué de tubes ou d’éléments formant caisson.
+3\.	 Toute remorque dont l’essieu avant est pourvu d’une couronne à billes, doit être équipée d’un timon triangulaire.
+4\.	 Le timon triangulaire ne peut être constitué de tubes ou d’éléments formant caisson.
 E. Couronne à billes
 La couronne à billes doit être d’un type agréé par un des trois pays Benelux.
 F. Châssis
-\1.	 Au point de vue des matériaux, de la construction et de la finition, le véhicule doit posséder les qualités techniques qu’on
+1\.	 Au point de vue des matériaux, de la construction et de la finition, le véhicule doit posséder les qualités techniques qu’on
 est en droit d’exiger d’une fabrication bonne et soignée.
-\2.	 Aucune des parties portantes du châssis ne peut être en bois.
-\3.	 Aucun trou ne peut être foré dans les longerons et aucune soudure ne peut être effectuée aux ailes des longerons, à
+2\.	 Aucune des parties portantes du châssis ne peut être en bois.
+3\.	 Aucun trou ne peut être foré dans les longerons et aucune soudure ne peut être effectuée aux ailes des longerons, à
 moins de 2,5 cm de leur bord extérieur, par une personne autre que le constructeur.
 Toutefois, ces interdictions ne concernent pas:
 
@@ -7088,16 +7088,16 @@ extérieur des ailes;
 
 les soudures effectuées, en cas d’allongement ou de raccourcissement, sur l’entièreté de la section des longerons.
 
-\4.	 De plus, aucune soudure aux longerons n’est permise dans les cas où le constructeur l’a expressément interdit.
+4\.	 De plus, aucune soudure aux longerons n’est permise dans les cas où le constructeur l’a expressément interdit.
 (…) (Abrogé par le règl. g.-d. du 2 septembre 1992)
 H. Identification
 Chaque remorque ou semi-remorque doit porter l’indication de la marque et une plaque d’identification.
 I. Essieux et groupes d’essieux
-\1.	 Les essieux et groupes d’essieux doivent être d’un type agréé, sauf si l’ensemble de la remorque est d’un type agréé
+1\.	 Les essieux et groupes d’essieux doivent être d’un type agréé, sauf si l’ensemble de la remorque est d’un type agréé
 par un des trois pays Benelux.
-\2.	 Un essieu oscillant doit être construit de manière telle que, pendant la marche du véhicule, le débattement dans le sens
+2\.	 Un essieu oscillant doit être construit de manière telle que, pendant la marche du véhicule, le débattement dans le sens
 vertical ne puisse dépasser 25° par rapport à l’horizontale.
-\3.	 L’angle de braquage des roues avant ou de l’essieu avant doit être d’au moins 45° de chaque côté.
+3\.	 L’angle de braquage des roues avant ou de l’essieu avant doit être d’au moins 45° de chaque côté.
 J. Protection latérale
 (Règl. g.-d. du 6 novembre 1975)
 «Les faces latérales du véhicule ne peuvent présenter de creux dont la longueur est supérieure à deux cents centimètres, la
@@ -7380,15 +7380,15 @@ sont réputés satisfaire aux exigences de l’alinéa 5.»
 Art. 24quater.
 «Sans préjudice des dispositions des articles 24 et 24bis, les prescriptions suivantes sont applicables aux véhicules routiers
 de la catégorie M1, qui ont été immatriculés pour la première fois à partir du 1er octobre 1971:
-\1.	 Châssis ou carrosserie autoportante
+1\.	 Châssis ou carrosserie autoportante
 Aucune des parties portantes du châssis ne peut être en bois. Aucun trou ne peut être foré dans les longerons et aucune
 soudure ne peut y être effectuée par une personne autre que le constructeur du véhicule.
-\2.	 Suspension
+2\.	 Suspension
 Tout véhicule doit être équipé d’une suspension en bon état de fonctionnement. En cas de ressorts à lames, hélicoïdaux
 ou à barres de torsion, le véhicule doit également être pourvu d’amortisseurs en bon état de fonctionnement.
-\3.	 Embrayage
+3\.	 Embrayage
 L’embrayage des véhicules doit être progressif et pouvoir être réglé facilement.
-\4.	 Chauffage
+4\.	 Chauffage
 Les installations de chauffage doivent offrir toutes les garanties de sécurité. Les installations fonctionnant par chaleur
 récupérée directement sur la tubulure d’échappement elle-même, ne sont admises que pour les véhicules équipés d’un
 moteur diesel. Toutefois, des installations fonctionnant par chaleur récupérée sur la tubulure d’échappement par l’intermédiaire d’un échangeur de chaleur peuvent être admises pour un véhicule équipé d’un moteur à essence, à condition
@@ -7398,11 +7398,11 @@ minimale de 2 mm.»
 «Les installations de chauffage qui répondent aux dispositions des annexes de la directive modifiée 2007/46/CE précitée, sont réputées satisfaire aux prescriptions du présent paragraphe.»
 «5.	 Ventilation
 Une aération suffisante de l’habitacle doit pouvoir être assurée.
-\6.	 Aménagement intérieur
+6\.	 Aménagement intérieur
 Les parties du véhicule que les occupants risquent de heurter, lorsqu’ils sont projetés vers l’avant en cas de ralentissement ou d’arrêt brusque, ne peuvent comporter ni aspérité dangereuse, ni arrête vive susceptible d’accroître le risque
 ou la gravité des blessures de ces occupants. Le dispositif de manœuvre du toit ouvrant doit être conçu et réalisé de
 façon à en empêcher le fonctionnement intempestif, notamment en cas de collision.
-\7.	 Aménagement extérieur
+7\.	 Aménagement extérieur
 La partie de la carrosserie située à l’avant du pare-brise, ne doit comporter ni des éléments constitutifs ou accessoires
 dirigés vers l’avant et non indispensables du point de vue technique, ni des ornements:
 
@@ -7417,13 +7417,13 @@ ornements qui soient pointus ou tranchants.
 
 Les dispositions précitées ne sont pas applicables aux parties des véhicules situées à plus de 2 m au-dessus du niveau
 du sol.
-\8.	 Portières
+8\.	 Portières
 Les portières latérales pivotant autour d’un axe vertical, doivent avoir leurs charnières à l’avant.
-\9.	 Garde-boue
+9\.	 Garde-boue
 La construction et l’aménagement du véhicule doivent être tels que toute projection vers l’arrière, due à la rotation des
 roues, soit réduite de façon à ne pas constituer une gêne ou un danger pour la circulation.»
 «Art. 24quinquies.
-\1. Ancrages pour ceintures de sécurité dans les véhicules routiers automoteurs
+1\. Ancrages pour ceintures de sécurité dans les véhicules routiers automoteurs
 
 Sans préjudice des dispositions des alinéas b) et c) du présent paragraphe ainsi que des paragraphes 2., 3. et 4. du
 présent article,
@@ -7452,7 +7452,7 @@ mobilité réduite dans des fauteuils roulants ou sur des sièges spécialement 
 Par dérogation aux dispositions du présent article, il peut être fait usage d’ancrages et de ceintures de sécurité adaptés
 aux conditions résultant des exemptions au port de la ceinture dont question aux lettres b), d), e) et f) de l’article 160ter.
 
-\2. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules routiers des catégories M1 et N1
+2\. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules routiers des catégories M1 et N1
 
 Les véhicules de la catégorie M1 qui ont été immatriculés pour la première fois à partir du 1er octobre 2004 doivent être
 équipés d’ancrages permettant l’installation de ceintures de sécurité à trois points sur toutes les places assises de la
@@ -7477,7 +7477,7 @@ Les véhicules de la catégorie M1 qui ont été immatriculés pour la première
 qui ne font pas partie de la rangée avant et qui sont tournées vers l’avant du véhicule. Ces places doivent en outre être
 munies de ceintures de sécurité sous-abdominales au moins.
 
-\3. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules routiers des catégories « L2e »1, « L5e »1,
+3\. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules routiers des catégories « L2e »1, « L5e »1,
 « L6e »1 et « L7e »1 munis d’une carrosserie
 Les véhicules des catégories « L2e »1, « L5e »1, « L6e »1 et « L7e »1 munis d’une carrosserie, qui ont une masse à vide
 supérieure à 250 kg et qui ont été immatriculés pour la première fois à partir du 1er janvier 2002, doivent être équipés d’ancrages
@@ -7490,7 +7490,7 @@ Remplacé par le règl. g.-d. du 21 septembre 2023.
 vement sur le siège d’une rangée avant à une seule place ainsi que de ceintures de sécurité sous-abdominales sur les autres
 places assises qui sont tournées vers l’avant du véhicule. Ces places doivent en outre être munies respectivement de ceintures
 de sécurité à trois points et de ceintures sous-abdominales.
-\4. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules des catégories M2, M3, N2 et N3 et dans
+4\. Ancrages pour ceintures de sécurité et ceintures de sécurité dans les véhicules des catégories M2, M3, N2 et N3 et dans
 les motor-homes
 
 Les véhicules des catégories M2 et M3, appartenant aux classes B ou III, ainsi que les véhicules des catégories N2 et
@@ -7727,7 +7727,7 @@ Modifié par le règlement grand-ducal du 23 mai 2012.
 
 \- 106 -
 
-\3. Pour les cyclomoteurs, les quadricycles légers, les motocycles, les tricycles, les quadricycles, les tracteurs, les machines
+3\. Pour les cyclomoteurs, les quadricycles légers, les motocycles, les tricycles, les quadricycles, les tracteurs, les machines
 automotrices et les véhicules à usage spécial équipés d’un moteur à allumage commandé (essence) dont les émissions ne sont
 pas contrôlées par un système de régulation perfectionné tel qu’un catalyseur à trois voies géré par sonde lambda, la teneur en
 monoxyde de carbone (CO) au régime du ralenti ne doit pas dépasser 4,5% du volume des gaz émis.
@@ -7737,7 +7737,7 @@ contrôlées par un système de régulation perfectionné tel qu’un catalyseur
 monoxyde de carbone (CO) au régime du ralenti ne doit pas dépasser 0,5% du volume des gaz émis.
 Pour les tracteurs, les machines automotrices et les véhicules à usage spécial équipés d’un moteur à compression (diesel),
 ce moteur tournant à l’état débrayé en accélération libre depuis la vitesse de ralenti jusqu’au régime de coupure de l’alimentation, le coefficient d’absorption des fumées émises ne doit pas dépasser 3,5 m-1.
-\4. Lorsque les valeurs limites indiquées aux paragraphes 2. et 3. ne peuvent pas être respectées, les valeurs mesurées ne
+4\. Lorsque les valeurs limites indiquées aux paragraphes 2. et 3. ne peuvent pas être respectées, les valeurs mesurées ne
 doivent pas dépasser les valeurs limites respectives indiquées par le constructeur et agréés lors de la réception par type du
 véhicule.»
 (Règl. g.-d. du 23 mai 2012)
@@ -7786,7 +7786,7 @@ d)
 
 pour les freins à dépression à double circuit:
 
-5.
+5\.
 
 Ces essais doivent être effectués le moteur arrêté.»
 (Règl. g.-d. du 23 décembre 1966)
@@ -7818,7 +7818,7 @@ d)
 
 pour les freins à dépression à double circuit:
 
-5.
+5\.
 
 Ces essais doivent être effectués le moteur arrêté.»
 Art. 28.
@@ -7863,7 +7863,7 @@ action du frein de service.
 «L’efficacité des freins prémentionnés doit être telle qu’en palier et par temps sec la décélération moyenne de freinage en
 régime obtenu, les freins étant à froid et le moteur débrayé, ne soit pas inférieure aux minima ci-après, quelles que soient les
 conditions de charge et de vitesse du véhicule:»
-1)
+1\)
 
 pour le frein de service:
 a) des autobus et autocars:
@@ -7885,13 +7885,13 @@ choses:
 
 4,4 m/sec2;
 
-2)
+2\)
 
 pour le frein de secours des véhicules visés sub 1):
 
 50% du minimum fixé pour le frein de service;
 
-3)
+3\)
 
 pour le frein de stationnement des véhicules visés sub 1):
 
@@ -8057,10 +8057,10 @@ d’un dispositif de freinage de stationnement conçu et réalisé de manière t
 mécanique, il puisse maintenir la remorque à l’arrêt sur une déclivité.
 B. – Dispositif de freinage automatique
 
-\1. Le freinage automatique de la remorque doit être assuré au moyen du dispositif de freinage de service à moins que la
+1\. Le freinage automatique de la remorque doit être assuré au moyen du dispositif de freinage de service à moins que la
 remorque ne soit pourvue d’un autre dispositif de freinage qui présente des garanties au moins équivalentes et qui entre en
 action en cas de rupture de l’attache avec le véhicule tracteur.
-\2. Pour les remorques munies d’un dispositif de freinage de service du type par inertie, ce freinage automatique peut être
+2\. Pour les remorques munies d’un dispositif de freinage de service du type par inertie, ce freinage automatique peut être
 assuré:
 
 soit au moyen du dispositif de freinage de stationnement;
@@ -8070,39 +8070,39 @@ soit au moyen d’un dispositif de freinage agissant par la chute du timon.
 \- 111 -
 
 C. – Dispositif de freinage de stationnement
-\1. Le dispositif de freinage de stationnement doit pouvoir être actionné aisément de l’extérieur du véhicule au moyen d’une
+1\. Le dispositif de freinage de stationnement doit pouvoir être actionné aisément de l’extérieur du véhicule au moyen d’une
 commande manuelle, et rester bloqué au moyen d’un dispositif à action purement mécanique. Toutefois, la commande manuelle
 n’est pas exigée si le dispositif de freinage de stationnement entre automatiquement en action dès que le dispositif de freinage
 de service ne maintient plus la remorque à l’arrêt.
-\2. Un dispositif de freinage agissant par la chute du timon n’est pas considéré comme un dispositif de freinage de stationnement.
+2\. Un dispositif de freinage agissant par la chute du timon n’est pas considéré comme un dispositif de freinage de stationnement.
 D. – Exceptions relatives aux dispositifs de freinage exigés
 (Règl. g.-d. du 11 octobre 1983)
 «1. Un dispositif de freinage de service et un dispositif de freinage de stationnement ne sont pas exigés des remorques à
 un essieu dont le poids total maximum autorisé ne dépasse pas 750 kg, à condition que le poids en charge de la remorque
 n’excède pas la moitié du poids propre du véhicule tracteur.»
-\2. Un dispositif de freinage automatique n’est pas exigé des remorques à un essieu dont le poids total maximum autorisé ne
+2\. Un dispositif de freinage automatique n’est pas exigé des remorques à un essieu dont le poids total maximum autorisé ne
 dépasse pas 1.500 kg.
 (Règl. g.-d. du 13 janvier 2005)
 «3. Pour les remorques, un frein à inertie est seulement admis comme dispositif de freinage de service, si la masse maximale
 autorisée de la remorque ne dépasse pas 3.500 kg.»
-\4. Pour les remorques dont la somme des poids maxima autorisés admis sous les essieux excède 16.000 kg, le dispositif de
+4\. Pour les remorques dont la somme des poids maxima autorisés admis sous les essieux excède 16.000 kg, le dispositif de
 freinage de service doit être commandé par pression d’air.
-\5. Pour les remorques dont le poids total maximum autorisé n’excède pas 3.500 kg, il n’est pas nécessaire que le frein de
+5\. Pour les remorques dont le poids total maximum autorisé n’excède pas 3.500 kg, il n’est pas nécessaire que le frein de
 service de la remorque fonctionne lorsque le frein de secours du véhicule tracteur est mis en œuvre.
 E. – Caractéristiques générales de construction des dispositifs de freinage
-\1. Les dispositifs de freinage peuvent comporter des parties communes.
-\2. Toutes les parties des dispositifs de freinage doivent être de dimensions largement calculées et aisément accessibles
+1\. Les dispositifs de freinage peuvent comporter des parties communes.
+2\. Toutes les parties des dispositifs de freinage doivent être de dimensions largement calculées et aisément accessibles
 pour l’entretien.
-\3. L’usure des freins doit pouvoir être aisément compensée par un système de réglage manuel ou automatique. En outre, la
+3\. L’usure des freins doit pouvoir être aisément compensée par un système de réglage manuel ou automatique. En outre, la
 commande, les éléments de la transmission et les freins doivent posséder une réserve de course telle que, après échauffement
 des freins ou après un certain degré d’usure des garnitures, l’efficacité du freinage soit assurée sans nécessité d’un réglage
 immédiat.
-\4. Le réglage des freins doit pouvoir se faire pour chaque roue prise séparément.
-\5. Les surfaces freinées doivent être constamment en liaison avec les roues sans possibilité de désaccouplement; elles
+4\. Le réglage des freins doit pouvoir se faire pour chaque roue prise séparément.
+5\. Les surfaces freinées doivent être constamment en liaison avec les roues sans possibilité de désaccouplement; elles
 doivent être fixées aux roues de façon rigide ou par l’intermédiaire de pièces non susceptibles de défaillance.
-\6. L’action de chaque dispositif de freinage doit être judicieusement répartie entre les essieux et les roues.
+6\. L’action de chaque dispositif de freinage doit être judicieusement répartie entre les essieux et les roues.
 F. – Réservoirs des dispositifs de freinage
-\1. Le contenu total des réservoirs des dispositifs de freinage à commande pneumatique doit être égal à n fois le volume des
+1\. Le contenu total des réservoirs des dispositifs de freinage à commande pneumatique doit être égal à n fois le volume des
 conduites, des cylindres et des autres appareils de freinage.
 Le facteur n doit être compris entre les valeurs ci-après:
 
@@ -8134,50 +8134,50 @@ d)
 40 et 80 pour les systèmes de freinage à dépression à double conduit
 (pression nominale: 300 hPa).»
 
-\3. Le réservoir doit être pourvu d’un dispositif permettant d’y raccorder un manomètre.
+3\. Le réservoir doit être pourvu d’un dispositif permettant d’y raccorder un manomètre.
 \- 112 -
 
 G. – Vanne de réglage des forces de freinage
-\1. Pour les remorques dont le poids total maximum autorisé est supérieur à 3.500 kg, le dispositif de freinage de service doit
+1\. Pour les remorques dont le poids total maximum autorisé est supérieur à 3.500 kg, le dispositif de freinage de service doit
 être pourvu d’un appareil permettant d’adapter les forces de freinage aux conditions de charge du véhicule.
-\2. Si cet appareil n’est pas automatique, il doit être placé de telle façon qu’il puisse être actionné aisément et les différentes
+2\. Si cet appareil n’est pas automatique, il doit être placé de telle façon qu’il puisse être actionné aisément et les différentes
 positions d’utilisation doivent être indiquées clairement,
-\3. Cet appareil peut être installé sur le véhicule tracteur uniquement dans le cas où le dispositif de freinage de service de la
+3\. Cet appareil peut être installé sur le véhicule tracteur uniquement dans le cas où le dispositif de freinage de service de la
 remorque ne permet pas d’en équiper cette dernière.
 H. – Caractéristiques particulières de construction des dispositifs de freinage
-\1. Pour les dispositifs de freinage à transmission hydraulique:
+1\. Pour les dispositifs de freinage à transmission hydraulique:
 
 Les orifices de remplissage des réservoirs de liquide doivent être aisément accessibles;
 
 les réservoirs contenant la réserve de liquide doivent être construits et disposés sur le véhicule de manière à permettre
 un contrôle aisé du niveau du liquide sans qu’il soit nécessaire de les ouvrir.
 
-\2. Les réservoirs des dispositifs de freinage à air comprimé doivent être pourvus d’un purgeur.
-\3. Lorsqu’un dispositif de freinage est pourvu d’un appareil permettant la mise hors service de ce dispositif, cet appareil doit
+2\. Les réservoirs des dispositifs de freinage à air comprimé doivent être pourvus d’un purgeur.
+3\. Lorsqu’un dispositif de freinage est pourvu d’un appareil permettant la mise hors service de ce dispositif, cet appareil doit
 se trouver en un endroit bien visible et être aisément accessible pour la manœuvre; les différentes positions d’utilisation de
 l’appareil doivent être indiquées clairement. Ces conditions ne sont pas exigées lorsque l’appareil fonctionne automatiquement,
 de telle façon que lors du raccordement du dispositif de freinage, le fonctionnement de celui-ci est rétabli.
-\4. Les appareils qui ne font pas partie des dispositifs de freinage ne peuvent être alimentés en énergie à partir du réservoir
+4\. Les appareils qui ne font pas partie des dispositifs de freinage ne peuvent être alimentés en énergie à partir du réservoir
 d’énergie de ces dispositifs de freinage que par l’intermédiaire d’une valve de barrage ou de tout autre dispositif automatique
 équivalent.
-\5. La valve ou le dispositif visé sous 4 doit être placé le plus près possible du réservoir d’énergie et être réglé de manière que
+5\. La valve ou le dispositif visé sous 4 doit être placé le plus près possible du réservoir d’énergie et être réglé de manière que
 la pression dans le réservoir ne puisse diminuer dangereusement.
-\6. Le frein à inertie doit être construit de façon à permettre la marche arrière avec la remorque chargée; si, à cet effet, la mise
+6\. Le frein à inertie doit être construit de façon à permettre la marche arrière avec la remorque chargée; si, à cet effet, la mise
 hors service du frein est nécessaire, celle-ci doit prendre automatiquement fin dès que le véhicule reprend sa marche normale.
 I. – Détermination de l’efficacité de freinage
-\1. L’efficacité du dispositif de freinage de service et du dispositif assurant le freinage automatique des véhicules neufs doit
+1\. L’efficacité du dispositif de freinage de service et du dispositif assurant le freinage automatique des véhicules neufs doit
 être telle que, sur route horizontale et sèche, les freins étant à froid et soumis à la pression nominale de fonctionnement quelle
 que soient les conditions de charge et de vitesse, la somme des forces exercées à la périphérie des roues soit au moins égale
 à 45% de la somme des poids totaux maxima autorisés sous les essieux en conditions statiques.
-\2. Le dispositif de freinage de stationnement des véhicules neufs doit pouvoir maintenir à l’arrêt le véhicule en charge sur
+2\. Le dispositif de freinage de stationnement des véhicules neufs doit pouvoir maintenir à l’arrêt le véhicule en charge sur
 une pente ascendante ou descendante de 16%.
 Cette prescription est considérée comme satisfaite si le dispositif de freinage de stationnement permet d’obtenir que, sur
 une route horizontale et sèche, les freins étant à froid, quelles que soient les conditions de charge et avec une vitesse initiale
 de 15 km/h, la somme des forces exercées à la périphérie des roues soit au moins égale à 13% de la somme des poids totaux
 maxima autorisés sous les essieux en conditions statiques.
-\3. Le dispositif de freinage de service de la remorque doit fonctionner pratiquement en même temps que le frein de service
+3\. Le dispositif de freinage de service de la remorque doit fonctionner pratiquement en même temps que le frein de service
 du véhicule tracteur et avoir une efficacité sensiblement égale.
-\4. Lorsqu’il s’agit de remorques munies d’un dispositif de freinage de service du type par inertie, l’efficacité doit pouvoir être
+4\. Lorsqu’il s’agit de remorques munies d’un dispositif de freinage de service du type par inertie, l’efficacité doit pouvoir être
 obtenue sans que la poussée de la remorque sur l’attelage dépasse:
 
 9% du poids total maximum autorisé des remorques à un essieu;
@@ -8186,7 +8186,7 @@ obtenue sans que la poussée de la remorque sur l’attelage dépasse:
 
 Le frein ne peut entrer en action qu’au moment où la poussée sur l’attelage atteint 2% du poids total maximum autorisé de
 la remorque.
-\5. La force exercée sur la commande du dispositif de freinage de stationnement ne peut dépasser
+5\. La force exercée sur la commande du dispositif de freinage de stationnement ne peut dépasser
 
 40 kg pour les remorques dont le poids total maximum autorisé n’excède pas 3.500 kg;
 
@@ -8310,7 +8310,7 @@ les machines conçues par le constructeur sans système de freinage;
 les véhicules tirés ou poussés à bras, pour autant que le conducteur reste maître de son véhicule et demeure capable
 de les diriger et de les arrêter même dans les plus fortes déclivités.
 
-\2. Les véhicules dont le poids total maximum autorisé dépasse 3.500 kg doivent être munis d’au moins une cale pouvant
+2\. Les véhicules dont le poids total maximum autorisé dépasse 3.500 kg doivent être munis d’au moins une cale pouvant
 être placée aisément sous une roue.»
 D. – Marche en arrière
 (Règl. g.-d. du 23 mai 2012)
@@ -8617,7 +8617,7 @@ un plan perpendiculaire à l’axe longitudinal du véhicule. Leur bord supérie
 bord supérieur des feux-croisement. Leur bord extérieur doit se trouver à moins de 400 mm du gabarit du véhicule, lorsque ces
 feux ne sont pas branchés en parallèle avec les feux-position. Les feux-brouillard et le phare mobile doivent être branchés en
 parallèle avec les feux arrière.»
-\2. – A l’arrière:
+2\. – A l’arrière:
 a) De deux feux rouges au moins placés symétriquement de chaque côté et visibles la nuit par atmosphère limpide à
 une distance minimum de 150 m de l’arrière du véhicule. Pour les véhicules de l’Armée, il suffit d’un seul feu rouge
 placé à gauche.
@@ -8656,7 +8656,7 @@ voie publique : »
 
 \- 121 -
 
-\1. – A l’avant:
+1\. – A l’avant:
 (Règl. g.-d. du 20 juillet 1973)
 a) De deux feux-route blancs ou jaunes capables d’éclairer efficacement la chaussée la nuit par atmosphère limpide
 sur une distance minimum de 100 m en avant du véhicule. A cette distance, «l’éclairement» de chaque feu pris
@@ -8693,7 +8693,7 @@ Les véhicules automoteurs visés au présent article peuvent être munis en out
 éblouissants et d’un phare mobile. Les feux-brouillard doivent être au nombre de deux et être aménagés symétriquement dans
 un plan perpendiculaire à l’axe longitudinal du véhicule. Leur bord supérieur doit être plus bas ou à la même hauteur que le
 bord supérieur des feux-croisement et leur bord extérieur doit se trouver à moins de 400 mm du gabarit du véhicule. Les feuxbrouillard et le phare mobile doivent être branchés en parallèle avec les feux arrière.
-\2. – A l’arrière:
+2\. – A l’arrière:
 a) De deux feux rouges placés symétriquement de chaque côté à moins de 400 mm du gabarit extérieur du véhicule,
 visible la nuit par atmosphère limpide à une distance minimum de 150 m de l’arrière du véhicule. La distance entre
 le sol et le bord inférieur de la plage éclairante de ces feux doit être supérieure à 400 mm. La distance entre le sol
@@ -8739,7 +8739,7 @@ sont applicables aux véhicules qui sont immatriculés pour la première fois au
 1979 :
 Tout véhicule automoteur, à l’exception des véhicules spéciaux de l’Armée, des véhicules spéciaux de la Police grand-ducale,
 des machines, des tracteurs et des motocycles avec ou sans side-car, doit être muni tant qu’il se trouve sur la voie publique : »
-\1. – A l’avant:
+1\. – A l’avant:
 a) De deux ou quatre feux-route blancs ou jaunes capables d’éclairer efficacement la chaussée la nuit par atmosphère
 limpide sur une distance minimum de 100 m en avant du véhicule.
 b) De deux feux-croisement blancs ou jaunes capables d’éclairer efficacement la chaussée la nuit par atmosphère
@@ -8771,7 +8771,7 @@ longitudinal du véhicule. Leur bord supérieur doit être plus bas ou à la mê
 et la distance entre le sol et le bord inférieur de la plage éclairante doit être égale ou supérieure à 250 mm. Leur bord extérieur
 doit se trouver à moins de 400 mm du gabarit extérieur du véhicule. Les feux-brouillard et le phare mobile doivent être branchés
 en parallèle avec les feux-arrière.
-\2. – A l’arrière:
+2\. – A l’arrière:
 a) De deux feux rouges placés symétriquement de chaque côté à moins de 400 mm du gabarit extérieur du véhicule,
 visibles de nuit par atmosphère limpide à une distance minimum de 150 m de l’arrière du véhicule. L’écartement
 minimal entre les bords intérieurs des deux plages éclairantes doit être de 600 mm. Cette distance peut être réduite
@@ -8992,7 +8992,7 @@ Tous les véhicules automoteurs peuvent être munis en outre de chaque côté su
 couleur jaune, placés symétriquement et parallèlement au plan longitudinal vertical du véhicule. La distance entre le sol et le
 bord «inférieur» de ces catadioptres doit être supérieure à 350 mm. La distance entre le sol et le bord supérieur de ces catadioptres ne doit pas dépasser 1.200 mm.
 Toute publicité lumineuse ou par surface réfléchissante est interdite sur tous les véhicules.
-\2. Lorsque les feux d’encombrement et les catadioptres prévus «à l’alinéa 4»1 du paragraphe 1 sont montés sur un véhicule
+2\. Lorsque les feux d’encombrement et les catadioptres prévus «à l’alinéa 4»1 du paragraphe 1 sont montés sur un véhicule
 immatriculé pour la première fois au Luxembourg avant le 1er janvier 1967,
 
 ils doivent être de couleur blanche ou jaune;
@@ -9111,7 +9111,7 @@ mesurées parallèlement au pare-brise.
 
 Pour les véhicules d’une masse maximale autorisée supérieure à 3.500 kg ainsi que pour les autobus et les autocars, le
 champ de vision du conducteur vers l’avant est défini par la surface du pare-brise balayée par le ou les essuies glaces.
-\3. Un film en matière plastique peut être apposé sur le pare-brise ou un vitrage latéral à l’avant du véhicule, à condition que
+3\. Un film en matière plastique peut être apposé sur le pare-brise ou un vitrage latéral à l’avant du véhicule, à condition que
 le film soit homologué à cette fin par l’autorité nationale compétente en la matière d’un État membre de l’Espace économique
 européen; sur le pare-brise, ce film ne doit pas dépasser la zone autorisée telle que représentée sous b) du point 2. ou ne doit
 pas déborder dans le champ de vision vers l’avant des véhicules d’une masse maximale autorisée supérieure à 3.500 kg ainsi
@@ -9212,14 +9212,14 @@ la directive modifiée 2007/46/CE précitée, sont réputés satisfaire aux pres
 directive 2007/38/CE concernant le montage a posteriori de rétroviseurs sur les poids lourds immatriculés dans la Communauté
 et ayant été immatriculés pour la première fois à partir du 1er janvier 2000, doivent être équipés, à partir du 1er avril 2009, de
 rétroviseurs répondant aux exigences de la directive 2007/38/CE précitée.
-\3. Les machines automotrices ainsi que les véhicules sans cabine ou à cabine non fermée relevant d’une des catégories « L1e »1,
+3\. Les machines automotrices ainsi que les véhicules sans cabine ou à cabine non fermée relevant d’une des catégories « L1e »1,
 « L2e »1, « L3e »1, « L4e »1, « L5e »1, « L6e »1, « L7e »1, T1, T2, T3 et T4, qui ont été immatriculés pour la première fois à partir
 du 1er mai 1976, doivent être équipés d’au moins un rétroviseur extérieur monté du côté gauche du véhicule et répondant aux
 prescriptions sous a), b), d) et f) du paragraphe 1.
 Tout véhicule visé à l’alinéa précédent qui relève d’une des catégories « L5e »1, « L6e »1 et « L7e »1 doit en outre être équipé
 d’un rétroviseur extérieur monté du côté droit du véhicule, si le champ de vision du rétroviseur placé sur le côté gauche est
 insuffisant.
-\4. Tout véhicule routier automoteur qui n’est pas visé par les dispositions d’un des paragraphes 1., 2. ou 3. du présent article
+4\. Tout véhicule routier automoteur qui n’est pas visé par les dispositions d’un des paragraphes 1., 2. ou 3. du présent article
 doit être équipé d’un rétroviseur de dimensions suffisantes, disposé et fixé de manière à permettre au conducteur de surveiller
 de son siège la chaussée vers l’arrière du véhicule.»
 (Règl. g.-d. du 21 septembre 2023)
@@ -9453,7 +9453,7 @@ Tout tracteur qui est couvert par une réception CE délivrée sur base des pres
 précité, est réputé satisfaire aux prescriptions des alinéas 1er et 2.»
 (Règl. g.-d. du 26 mai 2009)
 «Art. 49ter.
-\1. Tout fauteuil roulant à moteur doit être muni au moins des équipements et systèmes suivants:
+1\. Tout fauteuil roulant à moteur doit être muni au moins des équipements et systèmes suivants:
 
 de pneus appropriés et en bon état, adaptés à ses vitesse et masse maximales;
 
@@ -9461,7 +9461,7 @@ d’un système de freinage à action rapide, adapté à ses vitesse et masse ma
 
 à l’arrière, d’au moins un catadioptre non triangulaire, de couleur rouge.
 
-\2. Un fauteuil roulant à moteur ne doit pas comporter des parties ou éléments pouvant mettre en danger les autres usagers.»
+2\. Un fauteuil roulant à moteur ne doit pas comporter des parties ou éléments pouvant mettre en danger les autres usagers.»
 (Règl. g.-d. du 18 mars 2000)
 «XIe section. – Des dispositions générales concernant les sections I à X»
 Art. 50.
@@ -9488,15 +9488,15 @@ Art. 51.
 « 1. Les dispositions du présent article ne s’appliquent pas aux véhicules spéciaux de l’Armée et aux véhicules spéciaux de
 la Police grand-ducale. »
 «2. Il est interdit de transporter des passagers:
-1)
+1\)
 
 à l’aide d’un véhicule routier soumis à l’immatriculation: autrement que sur les places inscrites sur son certificat d’immatriculation; cette disposition s’applique également au conducteur du véhicule;
 
-2)
+2\)
 
 à l’aide d’un véhicule routier non soumis à l’immatriculation: autrement que sur des places assises;
 
-3)
+3\)
 
 sur les places assises d’un véhicule routier: autrement que sur des sièges appropriés, répondant aux exigences respectivement des articles 52 ou 53; cette disposition s’applique également au conducteur du véhicule.
 
@@ -9550,7 +9550,7 @@ Pour les véhicules routiers de la catégorie M1 qui ont été immatriculés à 
 normale. Pour ces véhicules ainsi que pour les véhicules routiers des catégories N1, N2, N3, M2 et M3 qui ont été immatriculés
 à partir du 21 avril 2006, les sièges et les banquettes coulissants de même que leurs dossiers rabattables doivent pouvoir être
 verrouillés dans toutes les positions prévues.
-\3. Le siège réservé au conducteur d’un véhicule routier doit avoir une largeur d’au moins 55 cm, hormis pour les véhicules
+3\. Le siège réservé au conducteur d’un véhicule routier doit avoir une largeur d’au moins 55 cm, hormis pour les véhicules
 de la catégorie T, les véhicules des catégories « L2e »3, « L5e »3, « L6e »3 et « L7e »3 munis d’une carrosserie ainsi que les
 machines, pour lesquels il suffit à ce titre d’une largeur d’au moins 40 cm. Le plan médian vertical du siège du conducteur doit
 passer par le centre du dispositif de direction. Pour les véhicules de la catégorie T et les machines, un siège en forme de selle,
@@ -9615,7 +9615,7 @@ celui-ci doit être adapté au poids et à la taille de l’enfant transporté e
 carrosserie du véhicule, soit une partie du siège spécial, permettant tant au conducteur du véhicule qu’à toute personne
 transportée d’appuyer ses pieds lorsque le véhicule est en mouvement. »
 
-\2. Les passagers sur les véhicules routiers des catégories « L3e »1 et « L4e »1 ainsi que sur ceux des catégories « L5e »1 et
+2\. Les passagers sur les véhicules routiers des catégories « L3e »1 et « L4e »1 ainsi que sur ceux des catégories « L5e »1 et
 « L7e »1 non munis d’une carrosserie doivent:
 
 être âgés de 12 ans au moins;
@@ -9639,7 +9639,7 @@ Remplacé par le règl. g.-d. du 21 septembre 2023.
 
 \- 140 -
 
-\3. Les passagers sur les cycles, les véhicules routiers assimilés aux cycles, les véhicules routiers des catégories « L1e »1 et
+3\. Les passagers sur les cycles, les véhicules routiers assimilés aux cycles, les véhicules routiers des catégories « L1e »1 et
 « L2e »1 ainsi que ceux de la catégorie L6 non munis d’une carrosserie doivent:
 
 être âgés de 8 ans au moins;
@@ -9680,7 +9680,7 @@ doivent répondre aux dispositions ci-après:
 Le châssis doit être muni d’un pare-chocs avant et d’un pare-chocs arrière.
 Le véhicule doit être muni de butées élastiques protégeant le châssis et la carrosserie contre les détériorations pouvant
 résulter de la flexion des ressorts.»
-\2.	 Moteur.
+2\.	 Moteur.
 Pour un véhicule à direction avancée, le moteur doit être isolé par une enveloppe étanche, de façon que ni les émanations de carburant et de lubrifiant, ni l’air chaud ne puissent s’introduire dans le compartiment des passagers ou dans la
 cabine du conducteur.
 (Règl. g.-d. du 22 décembre 1965)
@@ -9695,7 +9695,7 @@ Les canalisations et le réservoir à carburant doivent être placés à l’ext
 lorsque le réservoir est destiné à contenir de l’essence, et à moins de 25 cm, lorsque le réservoir est destiné à contenir
 du carburant diesel. En aucun cas, l’orifice de remplissage ne doit se trouver dans la partie du véhicule réservée aux
 voyageurs ou au conducteur.»
-\4.	 Echappement.
+4\.	 Echappement.
 L’évacuation des gaz doit être établie de manière à ne pas incommoder les occupants du véhicule et de la remorque, s’il
 y en a.
 Le tuyau d’échappement et le dispositif silencieux doivent être écartés d’au moins 10 centimètres de toute boiserie ou
@@ -9705,24 +9705,24 @@ Remplacé par le règl. g.-d. du 21 septembre 2023.
 
 \- 141 -
 
-\5.	 Dispositif antidérapant.
+5\.	 Dispositif antidérapant.
 Les roues motrices doivent pouvoir être munies d’un dispositif antidérapant.
 L’espace libre entre les pneumatiques et la carrosserie doit être tel qu’il soit possible de garnir les pneumatiques, ou les
 pneus externes seuls, s’ils sont jumelés, d’un dispositif antidérapant approprié.
-\6.	 Organes de transmission
+6\.	 Organes de transmission
 Il doit exister autour de l’arbre de transmission une ou plusieurs gardes destinées à empêcher les tronçons de l’arbre en
 cas de rupture de crever le plancher ou de former béquille en prenant appui sur le sol.
 (Règl. g.-d. du 22 décembre 1965)
 «7.	 Freins.
 La commande hydraulique ou pneumatique des freins de service doit comprendre deux circuits distincts, si le ou les
 autres dispositifs de freinage du véhicule ne réalisent pas une efficacité de freinage de 5 m/sec2 au moins.»
-\8.	 Carrosserie.
+8\.	 Carrosserie.
 La hauteur intérieure des caisses, entre le plancher et le plafond, dans l’axe des véhicules doit être de 1,80 m au minimum pour un autobus.
 La carrosserie doit être parfaitement étanche, de manière à empêcher la pénétration de la poussière et des vapeurs de
 carburants à l’intérieur du véhicule.
 Les fenêtres et les portes doivent fermer hermétiquement et causer le moins de bruit possible pendant la marche du
 véhicule.
-\9.	 Marche-pieds.
+9\.	 Marche-pieds.
 Aux issues à l’usage normal des voyageurs, des marche-pieds facilement accessibles doivent être aménagés, si le
 plancher se trouve à plus de 45 cm au-dessus du sol.
 (Règl. g.-d. du 23 décembre 1971)
@@ -9749,7 +9749,7 @@ doivent être prévus à l’endroit des portières. Des marchepieds facilement 
 les portières à l’usage normal des voyageurs aient une hauteur d’au moins 150 cm.»
 Si un autobus ou autocar servant au transport d’élèves est muni d’une portière dans la face arrière, cette portière ne doit
 s’ouvrir que de l’extérieur, à moins que son ouverture ne soit commandée depuis le siège du conducteur.»
-\11.	 Inscriptions.
+11\.	 Inscriptions.
 Les issues de secours doivent porter à l’intérieur l’inscription «sortie de secours» et à l’extérieur, lorsqu’il s’agit d’une
 portière, l’inscription «entrée interdite».
 (Règl. g.-d. du 10 février 1999)
@@ -9772,7 +9772,7 @@ de la charge, le poids de chaque personne pouvant être transportée, y compris 
 «Jusqu’au 8 mai 2008, les enfants de moins de 12 ans dont la taille n’atteint pas 150 cm sont considérés comme
 occupant 2/3 de place dans le calcul du nombre de personnes admissibles, sans préjudice des dispositions de l’article
 160bis.»
-\13.	 Places assises.
+13\.	 Places assises.
 Les sièges destinés aux voyageurs doivent être fixés de façon à ne pouvoir se déplacer en cours de route. Le siège doit
 avoir une largeur minimum de 40 cm par personne. Les sièges placés dans le même sens doivent avoir leurs dossiers
 écartés l’un de l’autre d’au moins 70 cm. Les sièges disposés vis-à-vis doivent avoir leurs dossiers écartés à la partie
@@ -9786,7 +9786,7 @@ Des places debout ne sont autorisées qu’à des endroits où la hauteur entre 
 Le nombre de places debout est limité au quotient de la surface utile libre de la partie du plancher qui répond à l’exigence de l’alinéa précédent, exprimée en m2, par 0,15, à condition que ni la masse maximale autorisée du véhicule, ni
 celle sur un de ses essieux ne soit dépassée.
 Jusqu’au 8 mai 2008, les enfants de moins de 12 ans dont la taille n’atteint pas 150 cm sont considérés comme occupant 2/3 de place dans le calcul du nombre de personnes admissibles.»
-\15.	 Couloir.
+15\.	 Couloir.
 Le couloir doit avoir une largeur de 30 cm au moins.
 (Règl. g.-d. du 25 juillet 2015)
 «16.	 Aération.
@@ -9826,7 +9826,7 @@ Le siège du conducteur, séparé autant que possible des sièges des voyageurs,
 conduite aisée. Le champ de vision du conducteur doit satisfaire aux exigences du dernier alinéa du paragraphe 2. de
 l’article 46 ainsi qu’à celles du point 32. La cabine doit être munie d’un écran pour que le conducteur ne puisse pas être
 gêné par le soleil.»
-\20.	 Eclairage.
+20\.	 Eclairage.
 L’éclairage intérieur obligatoire en cas d’arrêt doit comprendre:
 1° une lampe à proximité des portières d’entrée et de sortie, éclairant les marchepieds;
 2° un éclairage des compartiments suffisant pour éclairer toutes les places et les couloirs.
@@ -9841,14 +9841,14 @@ paroi parfaitement étanche, présente des ouvertures d’aération vers l’ext
 Un extincteur d’incendie portatif d’une contenance minimum de 6 kg doit être placé à portée du conducteur. Un deuxième extincteur portatif de même contenance doit se trouver à l’arrière du véhicule à un endroit où il est parfaitement
 visible et facilement accessible.
 Ces extincteurs doivent répondre aux exigences du paragraphe M) de l’article 49.
-\23.	 Coffret de secours:
+23\.	 Coffret de secours:
 Chaque véhicule doit être muni d’un coffret de secours, contenant des objets et produits pharmaceutiques nécessaires
 aux premiers soins en cas d’accident.»
-\24.	(…) (Abrogé par le règl. g.-d. du 25 juillet 2015)
-\25.	 Conducteur.
+24\.	(…) (Abrogé par le règl. g.-d. du 25 juillet 2015)
+25\.	 Conducteur.
 Le conducteur doit constamment prêter toute son attention à la conduite du véhicule. Il lui est interdit de s’entretenir avec
 les voyageurs tant que le véhicule est en marche.
-\26.	 Remorque.
+26\.	 Remorque.
 a) L’autorisation de traîner au moyen d’un autobus ou autocar une remorque destinée au transport de personnes n’est
 délivrée que pour les types de véhicules tracteurs dont le châssis a été spécialement calculé et construit dans ce
 but.
@@ -9893,10 +9893,10 @@ véhicules pour garantir la sécurité de la circulation routière. »
 «29.	 Suspension:
 Des dispositifs doivent être prévus pour qu’en cas de bris de la lame maîtresse d’un ressort avant, ni la direction, ni le
 freinage n’en soient affectés.
-\30.	 Réservoirs à air:
+30\.	 Réservoirs à air:
 Les appareils auxiliaires fonctionnant au moyen d’air comprimé doivent être équipés d’un dispositif de fermeture, se
 trouvant le plus près possible de l’entrée du circuit de dérivation vers les appareils auxiliaires.
-\31.	 Boîte de vitesses:
+31\.	 Boîte de vitesses:
 La poignée du levier de changement de vitesse ne doit, dans la position la plus défavorable, se trouver ni à plus de
 65 cm latéralement du centre du volant de direction, ni à plus de 80 cm en arrière de ce centre, étant entendu qu’en
 aucun cas la poignée du levier ne doit se trouver derrière le siège du conducteur.»
@@ -9990,19 +9990,19 @@ Art. 57.
 «Toute personne qui est autorisée à donner en location à des tiers des véhicules automoteurs immatriculés au Grand-Duché
 de Luxembourg ou qui donne en location des véhicules importés temporairement au Grand-Duché de Luxembourg sous immatriculation étrangère est obligée de tenir un livre de location comprenant les colonnes suivantes:
 I.	Locataire:
-\1.	Nom et prénoms.
-\2.	Adresse exacte.
-\3.	Profession.
-\4.	Lieu et date de naissance.
-\5.	Nationalité.
-\6.	Pièces d’identité.
-\7.	Date, numéro et catégorie du permis de conduire.
-\8.	Autorité qui a délivré le permis de conduire.
+1\.	Nom et prénoms.
+2\.	Adresse exacte.
+3\.	Profession.
+4\.	Lieu et date de naissance.
+5\.	Nationalité.
+6\.	Pièces d’identité.
+7\.	Date, numéro et catégorie du permis de conduire.
+8\.	Autorité qui a délivré le permis de conduire.
 II.	Véhicule:
-\9.	Numéro d’immatriculation.
-\10.	Date et heure de sortie.
-\11.	Date et heure de rentrée.
-\12.	Kilomètres parcourus.
+9\.	Numéro d’immatriculation.
+10\.	Date et heure de sortie.
+11\.	Date et heure de rentrée.
+12\.	Kilomètres parcourus.
 Les colonnes 1 à 10 doivent être remplies avant la sortie du véhicule et les colonnes 11 et 12 immédiatement après sa
 rentrée.»
 (Règl. g.-d. du 27 janvier 2001)
@@ -10074,11 +10074,11 @@ pour le conducteur soumis à une période probatoire en application des disposit
 (Règl. g.-d. du 26 janvier 2016)
 «4° a) soit la partie I du certificat d’immatriculation, soit un certificat d’identification, sauf dans les trois cas particuliers
 suivants:
-\1.	 pour un véhicule qui a été mis en circulation sur la voie publique dans les conditions visées à l’article 4, paragraphe 2, alinéa 5 de la loi modifiée du 14 février 1955 précitée, soit le certificat d’identification relatif au numéro
+1\.	 pour un véhicule qui a été mis en circulation sur la voie publique dans les conditions visées à l’article 4, paragraphe 2, alinéa 5 de la loi modifiée du 14 février 1955 précitée, soit le certificat d’identification relatif au numéro
 de plaque rouge concerné, soit la demande en vue de l’immatriculation du véhicule, dûment complétée et signée
 et accompagnée des pièces justificatives requises en vertu des dispositions de l’article 11 du règlement grandducal du 26 janvier 2016 relatif à la réception et l’immatriculation des véhicules routiers;
-\2.	 pour un ensemble de véhicules couplés muni d’une seule paire de plaques rouges, seul le certificat d’identification relatif à cette paire de plaques rouges est requis;
-\3.	 pour un véhicule dont la partie I du certificat d’immatriculation a fait l’objet d’un vol, la partie II du certificat
+2\.	 pour un ensemble de véhicules couplés muni d’une seule paire de plaques rouges, seul le certificat d’identification relatif à cette paire de plaques rouges est requis;
+3\.	 pour un véhicule dont la partie I du certificat d’immatriculation a fait l’objet d’un vol, la partie II du certificat
 d’immatriculation peut tenir lieu de la partie I volée du certificat d’immatriculation pendant le mois suivant la date
 
 Remplacé par le règl. g.-d. du 21 septembre 2023.
@@ -10221,7 +10221,7 @@ sanctions des infractions aux dispositions du règlement (CE) n° 561/2006 du Pa
 l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) n° 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil et du règlement
 (CEE) n° 3821/85 modifié du Conseil des Communautés Européennes concernant l’appareil de contrôle dans le domaine des
 transports par route sont additionnés.»
-\4. Il est interdit aux conducteurs des véhicules automoteurs énumérés au paragraphe 3 ainsi qu’aux conducteurs d’autobus,
+4\. Il est interdit aux conducteurs des véhicules automoteurs énumérés au paragraphe 3 ainsi qu’aux conducteurs d’autobus,
 d’autocars, de camions et de tracteurs de semi-remorques de consommer des boissons alcooliques pendant la durée de leur
 service.
 
@@ -10261,16 +10261,16 @@ aux personnes qui ne sont pas âgées de 16 ans au moins:
 
 (Règl. g.-d. du 25 juillet 2015)
 «1.	 un tracteur dont la vitesse maximale par construction ne dépasse pas 40 km/h,»
-\2.	 une machine automotrice dont la vitesse maximale par construction ne dépasse pas 25 km/h et dont la masse à vide
+2\.	 une machine automotrice dont la vitesse maximale par construction ne dépasse pas 25 km/h et dont la masse à vide
 ne dépasse pas 600 kg;
 B)
 
 aux personnes qui ne sont pas âgées de 18 ans au moins:
-\1.	 un taxi, sans préjudice des dispositions de l’article 56,
-\2.	 un tracteur,
-\3.	 une machine automotrice dont la vitesse maximale par construction dépasse 25 km/h ou dont la masse à vide
+1\.	 un taxi, sans préjudice des dispositions de l’article 56,
+2\.	 un tracteur,
+3\.	 une machine automotrice dont la vitesse maximale par construction dépasse 25 km/h ou dont la masse à vide
 dépasse 600 kg,
-\4.	 un véhicule automoteur ou un ensemble de véhicules couplés destiné au transport de choses dont la masse maximale autorisée ne dépasse pas 7.500 kg;
+4\.	 un véhicule automoteur ou un ensemble de véhicules couplés destiné au transport de choses dont la masse maximale autorisée ne dépasse pas 7.500 kg;
 
 C) aux personnes qui ne sont pas âgées de 21 ans au moins:
 
@@ -10313,7 +10313,7 @@ sa nouvelle résidence normale.»
 «B. – Le permis de conduire et ses subdivisions»
 (Règl. g.-d. du 8 décembre 2011)
 «Art. 75.
-\1. Nul ne peut détenir plus d’un permis de conduire. Tout établissement d’un nouveau permis comporte l’obligation pour
+1\. Nul ne peut détenir plus d’un permis de conduire. Tout établissement d’un nouveau permis comporte l’obligation pour
 l’intéressé de remettre le ou les permis valables ou périmés qu’il détient le cas échéant.
 (Règl. g.-d. du 30 janvier 2024)
 « La déclaration de perte ou de vol du permis de conduire entraîne l’invalidation de ce permis par le ministre. »
@@ -10324,7 +10324,7 @@ les permis présentés à l’échange, à la transcription ou à l’enregistre
 (Règl. g.-d. du 30 janvier 2024)
 « Lors de tout délivrance, renouvellement, échange, duplicata, transcription et extension d’un permis de conduire luxembourgeois, la condition de résidence normale doit être remplie. Afin de vérifier la condition de résidence, la date inscrite au registre
 national des personnes physiques fait foi. »
-\2. Les permis de conduire délivrés à partir du 19 janvier 2013 sont conformes au modèle communautaire défini à l’Annexe
+2\. Les permis de conduire délivrés à partir du 19 janvier 2013 sont conformes au modèle communautaire défini à l’Annexe
 I de la directive 2006/126/CE modifiée du Parlement européen et du Conseil du 20 décembre 2006, relative au permis de
 conduire.
 Le signe distinctif du Grand-Duché de Luxembourg figure dans l’emblème dessiné à la page 1 du modèle communautaire
@@ -10332,16 +10332,16 @@ de permis de conduire.
 Les mentions additionnelles et restrictives éventuelles relatives au droit de conduire sont attestées moyennant l’apposition
 sur le permis de conduire de la personne concernée de codes communautaires harmonisés prévus à l’Annexe I de la directive
 2006/126/CE modifiée précitée, ou de codes nationaux arrêtés par le ministre (. . .)3.
-\3. Les permis de conduire délivrés entre le 1er octobre 1996 et le 18 janvier 2013 sont conformes à l’un des modèles communautaires respectivement définis aux Annexes I et Ibis de la directive 91/439/CEE modifiée du Conseil, du 29 juillet 1991,
+3\. Les permis de conduire délivrés entre le 1er octobre 1996 et le 18 janvier 2013 sont conformes à l’un des modèles communautaires respectivement définis aux Annexes I et Ibis de la directive 91/439/CEE modifiée du Conseil, du 29 juillet 1991,
 relative au permis de conduire.
 Le signe distinctif du Grand-Duché de Luxembourg figure dans l’emblème de la première page du permis.
-\4. Les permis de conduire délivrés entre le 1er janvier 1986 et le 30 septembre 1996 sont conformes au modèle de l’Annexe
+4\. Les permis de conduire délivrés entre le 1er janvier 1986 et le 30 septembre 1996 sont conformes au modèle de l’Annexe
 I de la Première directive 80/1263/CEE du Conseil du 4 décembre 1980 relative à l’instauration d’un permis de conduire communautaire.
-\5. Les permis de conduire qui ont été délivrés avant le 1er janvier 1986 et les permis de conduire correspondant à des catégories qui ne sont pas prévues par les directives communautaires précitées portent un numéro d’ordre, la signature du ministre
+5\. Les permis de conduire qui ont été délivrés avant le 1er janvier 1986 et les permis de conduire correspondant à des catégories qui ne sont pas prévues par les directives communautaires précitées portent un numéro d’ordre, la signature du ministre
 des Transports ou de son délégué ainsi que la signature du titulaire. Ils reproduisent les indications suivantes: nom, prénoms,
 lieu et date de naissance, date de la première délivrance, date de la fin de validité et catégories pour lesquelles il est valable.
 En outre, ils sont munis de la photographie du titulaire et peuvent porter des mentions spéciales.
-\6. A partir du 19 janvier 2033, tous les permis de conduire délivrés ou en circulation doivent être conformes au modèle
+6\. A partir du 19 janvier 2033, tous les permis de conduire délivrés ou en circulation doivent être conformes au modèle
 communautaire défini à l’Annexe I de la directive 2006/126/CE modifiée du Parlement européen et du Conseil du 20 décembre
 2006, relative au permis de conduire.»
 
@@ -10354,18 +10354,18 @@ Supprimé par le règl. g.-d. du 30 janvier 2024.
 (Règl. g.-d. du 8 décembre 2011)
 «Art. 76.
 Sans préjudice des prescriptions des articles 76bis, 76ter, 86 et 176, le permis de conduire comprend les catégories suivantes:
-\1.	 La catégorie AM
+1\.	 La catégorie AM
 La catégorie AM autorise la conduite de cyclomoteurs et de quadricycles légers.
 L’âge minimum pour la conduite d’un véhicule automoteur de la catégorie AM est fixé à 16 ans.
-\2.	 La catégorie A1
+2\.	 La catégorie A1
 La catégorie A1 autorise la conduite de motocycles légers et de tricycles d’une puissance ne dépassant pas 15 kW.
 L’âge minimum pour la conduite d’un véhicule automoteur de la catégorie A1 est fixé à 16 ans.
-\3.	 La catégorie A2
+3\.	 La catégorie A2
 La catégorie A2 autorise la conduite de motocycles d’une puissance maximale de 35 kW qui présentent un rapport
 puissance/poids ne dépassant pas 0,2 kW/kg et qui ne sont pas dérivés d’un véhicule développant plus du double de sa
 puissance.
 L’âge minimum pour la conduite d’un véhicule automoteur de la catégorie A2 est fixé à 18 ans.
-4.
+4\.
 
 La catégorie A
 La catégorie A autorise la conduite de motocycles et de tricycles.
@@ -10373,7 +10373,7 @@ L’âge minimum pour la conduite de motocycles de la catégorie A est fixé à 
 d’expérience préalable de conduite d’un motocycle de la catégorie A2 est requis.
 L’âge minimum pour la conduite de tricycles de la catégorie A est de 21 ans.
 
-\5.	 La catégorie B
+5\.	 La catégorie B
 La catégorie B autorise la conduite de véhicules automoteurs, autres que les motocycles, les tracteurs et les machines
 automotrices, dont la masse maximale autorisée n’excède pas 3.500 kg et conçus et construits pour le transport de huit
 passagers au maximum, outre le conducteur.
@@ -10387,11 +10387,11 @@ cours de formation dont les modalités sont arrêtées par le ministre ayant les
 formation est attestée moyennant l’apposition sur le permis de conduire du code communautaire 96, prévu à l’Annexe I
 de la directive 2006/126/CE modifiée, précitée.
 L’âge minimum pour la conduite d’un véhicule automoteur de la catégorie B est de 18 ans.
-\6.	 La catégorie BE
+6\.	 La catégorie BE
 Sans préjudice des dispositions relatives aux règles d’homologation des véhicules concernés, la catégorie BE autorise la conduite d’ensembles de véhicules couplés composés d’un véhicule tracteur de la catégorie B ainsi que d’une
 remorque ou semi-remorque dont la masse maximale autorisée n’excède pas 3.500 kg.
 L’âge minimum pour la conduite d’un ensemble de véhicules couplés correspondant à la catégorie BE est de 18 ans.
-\7.	 La catégorie C1
+7\.	 La catégorie C1
 La catégorie C1 autorise la conduite de véhicules automoteurs autres que ceux des catégories D1 ou D dont la masse
 maximale autorisée excède 3.500 kg sans dépasser 7.500 kg et qui sont conçus et construits pour le transport de
 huit passagers au maximum, outre le conducteur. Aux véhicules automoteurs de cette catégorie peut être attelée une
@@ -10405,7 +10405,7 @@ qu’aux critères d’agrément pour dispenser cet enseignement.
 relèvent pas du champ d’application du règlement (CEE) n° 3821/85 concernant l’appareil de contrôle dans le domaine
 des transports par route, cette restriction est mentionnée moyennant l’apposition sur le permis de conduire du code
 communautaire 97, prévu à l’Annexe I de la directive 2006/126/CE modifiée, précitée.»
-8.
+8\.
 
 La catégorie C1E
 Sans préjudice des dispositions relatives aux règles d’homologation des véhicules concernés, la catégorie C1 autorise
@@ -10426,7 +10426,7 @@ marchandises ou de voyageurs ainsi qu’aux critères d’agrément pour dispens
 relèvent pas du champ d’application du règlement (CEE) n° 3821/85 concernant l’appareil de contrôle dans le domaine
 des transports par route, cette restriction est mentionnée moyennant l’apposition sur le permis de conduire du code
 communautaire 97, prévu à l’Annexe I de la directive 2006/126/CE modifiée, précitée.»
-9.
+9\.
 
 La catégorie C
 La catégorie C autorise la conduite de véhicules automoteurs autres que ceux des catégories D1 ou D, dont la masse
@@ -10437,7 +10437,7 @@ grand-ducal du 2 octobre 2009 relatif aux matières enseignées dans le cadre de
 continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ainsi
 qu’aux critères d’agrément pour dispenser cet enseignement.
 
-10.
+10\.
 
 La catégorie CE
 Sans préjudice des dispositions relatives aux règles d’homologation des véhicules concernés, la catégorie CE autorise
@@ -10447,7 +10447,7 @@ L’âge minimum pour la conduite d’un ensemble de véhicules couplés corresp
 sans préjudice du règlement grand-ducal du 2 octobre 2009 relatif aux matières enseignées dans le cadre de la qualification initiale et de la formation continue des conducteurs de certains véhicules routiers affectés aux transports de
 marchandises ou de voyageurs ainsi qu’aux critères d’agrément pour dispenser cet enseignement.
 
-11.
+11\.
 
 La catégorie D1
 La catégorie D1 autorise la conduite de véhicules automoteurs conçus et construits pour le transport de 16 passagers
@@ -10458,7 +10458,7 @@ grand-ducal du 2 octobre 2009 relatif aux matières enseignées dans le cadre de
 continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ainsi
 qu’aux critères d’agrément pour dispenser cet enseignement.
 
-12.
+12\.
 
 La catégorie D1E
 Sans préjudice des dispositions relatives aux règles d’homologation des véhicules concernés, la catégorie D1E autorise
@@ -10470,7 +10470,7 @@ marchandises ou de voyageurs ainsi qu’aux critères d’agrément pour dispens
 La remorque d’un ensemble de véhicules couplés correspondant à la catégorie D1E ne peut pas servir au transport de
 personnes.
 
-13.
+13\.
 
 La catégorie D
 La catégorie D autorise la conduite de véhicules automoteurs conçus et construits pour le transport de plus de huit
@@ -10482,14 +10482,14 @@ de la formation continue des conducteurs de certains véhicules routiers affect�
 voyageurs ainsi qu’aux critères d’agrément pour dispenser cet enseignement.
 \- 154 -
 
-\14.	 La catégorie DE
+14\.	 La catégorie DE
 Sans préjudice des dispositions relatives aux règles d’homologation des véhicules concernés, la catégorie DE autorise
 la conduite d’ensembles de véhicules couplés composés d’un véhicule tracteur rentrant dans la catégorie D et d’une
 remorque dont la masse maximale autorisée excède 750 kg.
 L’âge minimum pour la conduite d’un ensemble de véhicules couplés correspondant à la catégorie DE est de 24 ans,
 sans préjudice du règlement grand-ducal du 2 octobre 2009 relatif aux matières enseignées dans le cadre de la qualification initiale et de la formation continue des conducteurs de certains véhicules routiers affectés aux transports de
 marchandises ou de voyageurs ainsi qu’aux critères d’agrément pour dispenser cet enseignement.
-\15.	 La catégorie F
+15\.	 La catégorie F
 La catégorie F autorise la conduite de tracteurs et de machines automotrices d’une masse maximale autorisée inférieure ou égale à 12.000 kg.
 Aux véhicules dont la conduite requiert la détention de la catégorie F ainsi qu’aux machines automotrices d’une masse
 maximale autorisée ne dépassant pas 12.000 kg peuvent être attelés une remorque ou un ou plusieurs véhicules traînés.
@@ -10502,7 +10502,7 @@ d’une masse maximale autorisée supérieure à 12 000 kg à condition que :
 1° le conducteur soit âgé d’au moins 18 ans,
 2° la vitesse maximale autorisée soit limitée à 25 km/h,
 3° la conduite soit limitée aux alentours du chantier pour effectuer des travaux ou transporter du matériel ou de l’équipement requis dans le cadre du chantier.»
-\16.	 Dispositions diverses
+16\.	 Dispositions diverses
 16.1.	 Pour l’obtention des catégories C, C1, D et D1 du permis de conduire, l’intéressé doit justifier avoir réussi aux
 examens requis pour la délivrance de la catégorie B.
 Pour l’obtention des catégories BE, CE, DE, C1E ou D1E du permis de conduire, l’intéressé doit justifier avoir
@@ -10553,7 +10553,7 @@ Elle n’est pas valable pour conduire des tricycles et des quadricycles.
 1.4.	 La sous-catégorie A3 autorise la conduite de cyclomoteurs et de quadricycles légers.
 1.5.	 Aux véhicules correspondant à la catégorie A ou à l’une de ses sous-catégories peut être attaché une remorque
 ou un véhicule traîné d’une masse maximale autorisée, ou à défaut, d’une masse en charge inférieure à 150 kg.
-\2.	 Les catégories B et B+E
+2\.	 Les catégories B et B+E
 2.1.	 La catégorie B autorise la conduite de véhicules automoteurs, – autres que les motocycles, les véhicules automoteurs d’infirme, les tracteurs et les machines automotrices –, qui ne comprennent pas plus de neuf places assises,
 y compris celle du conducteur, et dont la masse maximale autorisée ne dépasse pas 3.500 kg.
 Aux véhicules correspondant à la catégorie B peut être attelée une remorque dont la masse maximale autorisée
@@ -10562,7 +10562,7 @@ La catégorie B autorise également la conduite de tricycles et de quadricycles 
 la masse maximale autorisée de l’ensemble ne dépasse pas 3.500 kg, et que celle de la remorque ne dépasse pas
 la masse à vide du véhicule tracteur.
 2.2.	 La catégorie B+E autorise la conduite d’ensembles de véhicules couplés, composés d’un véhicule tracteur correspondant à la catégorie B et d’une remorque, lorsque la catégorie B n’autorise pas la conduite d’un tel ensemble.
-3.
+3\.
 
 Les catégories C et C+E et leurs sous-catégories
 3.1. La catégorie C autorise la conduite de véhicules automoteurs autres que les autobus et les autocars dont la masse
@@ -10578,7 +10578,7 @@ masse maximale autorisée est inférieure ou égale à 750 kg.
 dépasser la masse à vide du véhicule tracteur, à condition que la masse maximale autorisée de l’ensemble ne
 dépasse pas 12.000 kg.
 
-4.
+4\.
 
 Les catégories D et D+E et leurs sous-catégories
 4.1. La catégorie D autorise la conduite d’autobus et d’autocars.
@@ -10599,14 +10599,14 @@ Renuméroté par le règlement grand-ducal du 8 décembre 2011.
 
 \- 156 -
 
-5.
+5\.
 
 La catégorie F
 La catégorie F autorise la conduite de tracteurs et de machines automotrices d’une masse maximale autorisée inférieure ou égale à 12.000 kg.
 Aux véhicules dont la conduite requiert la détention de la catégorie F ainsi qu’aux machines automotrices d’une masse
 maximale autorisée ne dépassant pas 12.000 kg peuvent être attelés une remorque ou un ou plusieurs véhicules traînés.
 
-6.
+6\.
 
 Dispositions diverses
 6.1. Pour l’obtention des catégories C, C1, D et D1 du permis de conduire, l’intéressé doit justifier avoir réussi aux
@@ -10639,22 +10639,22 @@ Paragraphe 1er: les permis de conduire correspondant au modèle de la directive 
 (Règl. g.-d. du 8 décembre 2011)
 «Sans préjudice des prescriptions des articles 86 et 176, les permis de conduire établis suivant le modèle de la directive
 80/1263/CEE comprennent les catégories suivantes:»
-\1. La catégorie A est valable pour la conduite de
-\1) motocycles avec ou sans side-car;
-\2) véhicules automoteurs d’infirme;
-\3) cycles à moteur auxiliaire.
+1\. La catégorie A est valable pour la conduite de
+1\) motocycles avec ou sans side-car;
+2\) véhicules automoteurs d’infirme;
+3\) cycles à moteur auxiliaire.
 La catégorie A sous 1) est également valable pour conduire des véhicules dont la conduite requiert la détention des
 catégories A sous 2) ou 3). Elle n’est pas valable pour conduire des motocoupés assimilés aux motocycles.
 Aux véhicules dont la conduite requiert la détention de la catégorie A peut être attelée une remorque ou un véhicule
 traîné d’un poids total maximum autorisé, ou à défaut, d’un poids en charge inférieur à 150 kg.
-\2.	 La catégorie B est valable pour la conduite de véhicules automoteurs, autres que les motocycles, les véhicules automoteurs d’infirme, les tracteurs agricoles ou industriels et les machines automotrices, qui ne comprennent pas plus de neuf
+2\.	 La catégorie B est valable pour la conduite de véhicules automoteurs, autres que les motocycles, les véhicules automoteurs d’infirme, les tracteurs agricoles ou industriels et les machines automotrices, qui ne comprennent pas plus de neuf
 places assises, y compris celle du conducteur, et dont le poids total maximum autorisé ne dépasse pas 3.500 kg.
 Elle est également valable pour conduire des véhicules dont la conduite requiert la détention des catégories A sous 2)
 ou 3) ou F.
 Aux véhicules dont la conduite requiert la détention de la catégorie B peut être attelée une remorque d’un poids total
 maximum autorisé inférieur ou égal à 750 kg, sous réserve que le poids total maximum autorisé de l’ensemble des
 véhicules couplés ne dépasse pas 3.500 kg.
-\3.	 La catégorie C est valable pour la conduite de véhicules automoteurs dont le poids total maximum autorisé dépasse
+3\.	 La catégorie C est valable pour la conduite de véhicules automoteurs dont le poids total maximum autorisé dépasse
 3.500 kg, à l’exception des autobus et autocars.
 
 Renuméroté par le règlement grand-ducal du 8 décembre 2011.
@@ -10665,7 +10665,7 @@ Elle est également valable pour conduire des véhicules dont la conduite requie
 ou 3), B ou F.
 Aux véhicules dont la conduite requiert la détention de la catégorie C peut être attelée une remorque d’un poids total
 maximum autorisé inférieur ou égal à 750 kg.
-4.
+4\.
 
 La catégorie D est valable pour la conduite d’autobus et d’autocars.
 Elle est également valable pour conduire des véhicules dont la conduite requiert la détention des catégories A sous 2)
@@ -10673,7 +10673,7 @@ ou 3), B ou F.
 Aux véhicules dont la conduite requiert la détention de la catégorie D peut être attelée une remorque d’un poids total
 maximum autorisé inférieur ou égal à 750 kg.
 
-5.
+5\.
 
 Sans préjudice des dispositions sous 6. ci-après, la catégorie E est valable pour la conduite d’ensembles de véhicules
 couplés dont la remorque a un poids total maximum autorisé supérieur à 750 kg.
@@ -10684,12 +10684,12 @@ La catégorie E sous 2) est valable pour la conduite des ensembles dont le poids
 Pour l’obtention de cette catégorie, l’intéressé doit justifier avoir réussi aux examens requis pour la délivrance de la
 catégorie C.
 
-6.
+6\.
 
 La catégorie F est valable pour la conduite de
-\1) tracteurs agricoles;
-\2) tracteurs industriels;
-\3) machines automotrices.
+1\) tracteurs agricoles;
+2\) tracteurs industriels;
+3\) machines automotrices.
 Elles est également valable pour conduire des véhicules dont la conduite requiert la détention des catégories A sous 2)
 ou 3).
 Aux véhicules dont la conduite requiert la détention de la catégorie F peut être attelée une remorque ou un ou plusieurs
@@ -10700,15 +10700,15 @@ Paragraphe 2. les permis de conduire établis avant la directive 80/1263/CEE
 «Sans préjudice des prescriptions des articles 86 et 176, les permis de conduire délivrés avant l’établissement des permis
 selon le modèle communautaire prévu par la directive 80/1263/CEE comprennent les catégories suivantes:»
 Catégorie A
-1)
+1\)
 
 Motocycles avec ou sans side-car;
 
-2)
+2\)
 
 Véhicules automoteurs d’infirme;
 
-3)
+3\)
 
 Cycles à moteur auxiliaire.
 
@@ -10716,20 +10716,20 @@ Ce permis de conduire est valable pour les véhicules spécialement désignés d
 véhicule dont le poids total est inférieur à 150 kg.
 De plus, le permis de conduire de la catégorie A sous 1) est également valable pour la catégorie A sous 3).
 Catégorie B
-1)
+1\)
 
 Voitures automobiles à personnes dont le nombre de places assises entières n’est pas supérieur à neuf, y compris la
 place du conducteur, et dont le poids total maximum autorisé ne dépasse pas 3.500 kg, y compris le poids total maximum autorisé de la remorque;
 
-2)
+2\)
 
 Véhicules automoteurs destinés au transport de choses et ayant un poids total maximum autorisé égal ou inférieur à
 3.500 kg, y compris le poids de la remorque.
 
 Ce permis de conduire est valable pour les véhicules spécialement désignés de cette catégorie et pour les catégories A sous
-\2) et 3), E sous 1) et F.
+2\) et 3), E sous 1) et F.
 Catégorie C
-1)
+1\)
 
 Véhicules automoteurs destinés au transport de choses et dont le poids total maximum autorisé, y compris le poids de
 la remorque, est supérieur à 3.500 kg sans dépasser 7.500 kg; quel que soit le nombre de personnes transportées à
@@ -10737,13 +10737,13 @@ l’aide de ces véhicules.
 Voitures automobiles à personnes, dont le poids total maximum autorisé, y compris le poids total maximum autorisé de
 la remorque, dépasse 3.500 kg;
 
-2)
+2\)
 
 Véhicules automoteurs destinés au transport de choses et dont le poids total maximum autorisé est supérieur à 7.500 kg,
 y compris le poids de la remorque, quel que soit le nombre de personnes transportées à l’aide de ces véhicules.
 
 Ce permis de conduire est valable pour les véhicules spécialement désignés de cette catégorie et pour les catégories A sous
-\2) et 3), B, E sous 1) et F.
+2\) et 3), B, E sous 1) et F.
 De plus, le permis de conduire de la catégorie C sous 1) est également valable pour la catégorie C sous 2), à condition que
 le titulaire ait atteint l’âge de 21 ans au moins.
 
@@ -10751,34 +10751,34 @@ le titulaire ait atteint l’âge de 21 ans au moins.
 
 Catégorie D: autobus et autocars
 Ce permis de conduire est valable pour les véhicules spécialement désignés de cette catégorie et pour les catégories A sous
-\2) et 3), B, C, E sous 1) et F.
+2\) et 3), B, C, E sous 1) et F.
 (…) (Abrogé par le règl. g.-d. du 8 décembre 2011)
 Catégorie E
-1)
+1\)
 
 Remorques ou semi-remorques dont le poids total maximum autorisé est compris entre 750 et 1.750 kg;
 
-2)
+2\)
 
 Remorques ou semi-remorques dont le poids total maximum autorisé est supérieur à 1.750 kg.
 
 Ce permis de conduire n’est délivré que pour autant que le conducteur soit titulaire du permis de conduire requis pour la
 conduite du véhicule tracteur.
 Catégorie F
-1)
+1\)
 
 Tracteurs agricoles;
 
-2)
+2\)
 
 Tracteurs industriels;
 
-3)
+3\)
 
 Machines automotrices d’un poids propre supérieur à 400 kg.
 
 Ce permis de conduire est valable pour les véhicules spécialement désignés de cette catégorie et pour les catégories A sous
-\2) et 3) et E sous 1).»
+2\) et 3) et E sous 1).»
 (Règl. g.-d. du 9 juillet 2013)
 «Art. 76quater.
 Les agents du « Corps grand-ducal d’incendie et de secours »1 « et des associations et organismes de secours agréés ayant
@@ -10916,7 +10916,7 @@ l’acuité visuelle est
 suffisante sans correction, doit néanmoins porter des
 verres protecteurs;
 
-\1) aphakie ou pseu- 1) en cas d’altération
+1\) aphakie ou pseu- 1) en cas d’altération
 do-aphakie uni- ou
 de la sensibilité
 bilatérales lorsque
@@ -10929,9 +10929,9 @@ décidera de l’octroi
 ou du refus du perà 0,8 et un champ
 mis de conduire;
 visuel normal;
-\2) en cas d’aphakie
-\2) diplopie;
-\3) altération de la sensibilité aux contrastes, tel que le
+2\) en cas d’aphakie
+2\) diplopie;
+3\) altération de la sensibilité aux contrastes, tel que le
 daltonisme;
 
 ou pseudo-aphakie
@@ -11449,19 +11449,19 @@ La demande doit être appuyée par les pièces suivantes:
 un certificat médical récent à délivrer par un médecin autorisé à exercer la profession de médecin en qualité de médecingénéraliste et/ou de médecin-spécialiste en médecine interne au Luxembourg, répondant aux conditions à fixer par
 arrêté ministériel et attestant que le candidat présente les aptitudes physiques et mentales requises;»
 
-2)
+2\)
 
 un extrait du casier judiciaire; l’extrait du casier judiciaire n’est requis que pour les personnes ayant atteint l’âge de
 18 ans; pour les personnes qui ont eu leur résidence normale à l’étranger, et qui sont dans l’impossibilité de produire un
 extrait du casier judiciaire, celui-ci peut-être remplacé par un document officiel qui est suffisamment concluant pour faire
 admettre que ces personnes offrent les garanties morales nécessaires pour obtenir un permis de conduire.
 
-3)
+3\)
 
 une attestation d’une police d’assurance couvrant les sinistres causés par l’intéressé pendant la période d’apprentissage et de l’épreuve pratique de l’examen ou un certificat de l’instructeur stipulant que l’apprentissage se fera sur son
 véhicule dûment assuré;
 
-4)
+4\)
 
 une pièce attestant le paiement de la taxe spéciale prévue par la réglementation afférente;
 
@@ -11489,7 +11489,7 @@ Art. 78bis.
 (Règl. g.-d. du 29 mai 1992)
 «E. – L’apprentissage et l’octroi du permis de conduire
 Art. 79.
-\1. Sur présentation de la demande visée à l’article 78 et sans préjudice des dispositions de l’article 90 le candidat au permis
+1\. Sur présentation de la demande visée à l’article 78 et sans préjudice des dispositions de l’article 90 le candidat au permis
 de conduire reçoit un certificat d’apprentissage qui l’autorise à préparer l’examen du permis de conduire sous l’assistance d’un
 instructeur agréé.
 
@@ -11506,7 +11506,7 @@ une attestation certifiant que le véhicule servant à l’apprentissage et à l
 à ce qui précède, la durée de validité du certificat d’apprentissage pour l’obtention du permis de conduire de la catégorie F est
 limitée à un an à compter de la date de son établissement.
 Dans des cas exceptionnels dûment motivés, le ministre des Transports peut accorder des autorisations individuelles prorogeant la durée de validité du certificat d’apprentissage.»
-\2. (…) (Abrogé par le règl. g.-d. du 8 août 2000)
+2\. (…) (Abrogé par le règl. g.-d. du 8 août 2000)
 Pendant la période de l’apprentissage pratique le candidat est tenu d’exhiber ce certificat sur réquisition des agents chargés
 du contrôle de la circulation.
 Le certificat d’apprentissage peut être délivré dès six mois avant que le candidat n’ait atteint l’âge minimal requis pour
@@ -11535,7 +11535,7 @@ au moins 4 leçons d’une heure portant sur la technique automobile, le chargem
 de conduite.
 Par dérogation à ce qui précède, les candidats qui détiennent déjà une des catégories C, D, C1 ou D1 du permis de conduire
 sont dispensés de l’apprentissage théorique dont question à l’alinéa précédent ainsi que de l’examen afférent.
-\2. L’apprentissage pratique s’étend sur
+2\. L’apprentissage pratique s’étend sur
 
 au moins 16 leçons d’une heure pour les catégories A2, A1 et B;
 
@@ -11654,13 +11654,13 @@ Art. 81.
 (Règl. g.-d. du 26 mai 2009)
 «1. Nonobstant le régime applicable en matière d’examen du permis de conduire de la catégorie «apprenti-instructeur»,
 l’épreuve théorique est reçue sous forme d’un test écrit sur micro-ordinateur ou sous forme orale.»
-\2. (…) (Abrogé par le règl. g.-d. du 22 avril 2009)
+2\. (…) (Abrogé par le règl. g.-d. du 22 avril 2009)
 (…) (Abrogé par le règl. g.-d. du 8 août 2000)
 (Règl. g.-d. du 29 mai 1992)
 «Le ministre des Transports arrête les critères minima auxquels doivent répondre les véhicules servant aux épreuves pratiques en vue de l’obtention des différentes catégories de permis de conduire.
 Nul ne peut se présenter à l’épreuve pratique avant d’avoir atteint l’âge minimum requis pour conduire les véhicules correspondant à la catégorie de permis de conduire sollicitée.
 S’il existe des doutes sur les facultés du candidat de conduire la nuit, il peut être procédé à une épreuve pratique de nuit.
-\3. L’examen prévu suite à une interdiction de conduire judiciaire d’au moins six mois ou à une mesure administrative de
+3\. L’examen prévu suite à une interdiction de conduire judiciaire d’au moins six mois ou à une mesure administrative de
 retrait, de suspension, d’octroi sous condition ou de restriction du droit de conduire, aura lieu d’après les dispositions suivantes:
 Avant la mainlevée du retrait administratif ou la fin de l’interdiction de conduire judiciaire, l’intéressé devra solliciter un certificat d’apprentissage pour se préparer et se présenter, sous l’assistance d’un instructeur agréé, à l’examen.
 L’examen théorique peut consister dans des épreuves orales ou écrites.
@@ -11744,7 +11744,7 @@ législation routière dans un rapport qu’il fait parvenir au ministère des T
 la période de stage de 24 mois.»
 (Règl. g.-d. du 8 décembre 2011)
 «2. La validité des permis de conduire des catégories A2 et B délivrés dans les conditions du premier alinéa du paragraphe
-\1. n’est prolongée ou renouvelée pour la durée prévue à l’article 87 que si leurs titulaires justifient avoir participé avec succès à
+1\. n’est prolongée ou renouvelée pour la durée prévue à l’article 87 que si leurs titulaires justifient avoir participé avec succès à
 un cours de formation d’une journée, dispensé dans un centre de formation agréé à ces fins par le ministre (. . .)1.»
 (Règl. g.-d. du 13 janvier 2005)
 «L’admission à ce cours de formation requiert la détention de la catégorie concernée du permis de conduire depuis trois
@@ -11772,7 +11772,7 @@ est en cours au moment de l’expiration du permis de conduire établi dans les 
 validité de ce permis est prolongée pour un terme de six mois aux conditions de la période de stage.
 (Règl. g.-d. du 13 janvier 2005)
 «3. Sans préjudice de l’application des dispositions de l’article 90 et par dérogation aux dispositions prévues au paragraphe
-\2. ci-dessus la période de stage peut être prolongée ou renouvelée par le ministre (. . .)1 pour une durée maximale de 24 mois s’il
+2\. ci-dessus la période de stage peut être prolongée ou renouvelée par le ministre (. . .)1 pour une durée maximale de 24 mois s’il
 est constaté à charge de l’intéressé des faits qui font admettre qu’il n’offre pas les garanties nécessaires à la sécurité routière.
 Seuls des faits commis pendant la période de stage seront pris en considération.
 Une interdiction de conduire judiciaire « ferme »3 ou un retrait administratif du permis de conduire prolonge la période de
@@ -11784,7 +11784,7 @@ La prolongation ou le renouvellement de la période de stage donnent lieu à une
 inscription est faite par le ministre et comporte l’obligation pour les intéressés d’observer les prescriptions du deuxième alinéa
 du paragraphe 1. »
 La durée de validité d’un permis de conduire est de plein droit prorogée pour le terme de la prolongation ou du renouvellement de la période de stage.»
-\4. Pendant la période probatoire prévue au paragraphe 1er de l’article 2 de la loi du 14 février 1955 précitée, les intéressés
+4\. Pendant la période probatoire prévue au paragraphe 1er de l’article 2 de la loi du 14 février 1955 précitée, les intéressés
 sont tenus d’exhiber sur réquisition un carnet de période probatoire destiné à informer le ministre (. . .)1 en cas d’avertissement
 taxé ou de procès-verbal pour infraction à la législation routière.
 (Règl. g.-d. du 13 janvier 2005)
@@ -11808,7 +11808,7 @@ par un autre État membre de l’Espace Économique Européen qui a établi sa r
 moment échanger ce permis contre un permis de conduire luxembourgeois ou le faire enregistrer.
 (Règl. g.-d. du 30 janvier 2024)
 « Les permis de conduire délivrés par la voie d’échange ont une durée de validité conformément aux dispositions de l’article
-\87. »
+87\. »
 
 Supprimé par le règl. g.-d. du 30 janvier 2024.
 Tel que modifié implicitement par la loi du 1er août 2001 (basculement vers l’euro).
@@ -11907,7 +11907,7 @@ Art. 85.
 à renforcer la prise de conscience des participants pour les dangers de la circulation routière et le sens des responsabilités
 requis de la part des conducteurs, tout en tenant dûment compte du comportement individuel des participants et des infractions
 que ceux-ci ont commises; les programmes de formation peuvent être adaptés en conséquence.
-\2. La partie théorique et la partie pratique des formations visées sont conçues pour être complémentaires l’une de l’autre et
+2\. La partie théorique et la partie pratique des formations visées sont conçues pour être complémentaires l’une de l’autre et
 pour être agencées selon une même logique pédagogique répondant à l’objectif déterminé au paragraphe premier.
 Les parties théoriques et pratiques sont subdivisées en ateliers de formation comportant chacun une ou plusieurs unités
 d’instruction. La durée d’une unité est de 45 minutes. L’ordre de passage dans les ateliers de formation a lieu selon la logique
@@ -11945,7 +11945,7 @@ A2 ou A1.»
 La participation au cours est constatée par un certificat délivré par le centre de formation. Le certificat mentionne, le cas
 échéant, le désintérêt manifeste aux cours dispensés, le manque manifeste de prise de conscience des dangers de la circulation routière, le manque manifeste du sens des responsabilités, requis de la part des conducteurs ou encore l’inhabileté
 évidente au cours des exercices pratiques. Une copie du certificat est adressée au ministre des Transports.
-\3. La formation prévue au paragraphe 3 de l’article 2bis de la loi du 14 février 1955 précitée s’étend sur dix-huit unités d’instruction réparties sur cinq jours. Elle comprend un audit individuel de conduite, une instruction théorique et un cours pratique
+3\. La formation prévue au paragraphe 3 de l’article 2bis de la loi du 14 février 1955 précitée s’étend sur dix-huit unités d’instruction réparties sur cinq jours. Elle comprend un audit individuel de conduite, une instruction théorique et un cours pratique
 ainsi qu’une évaluation finale de la prise de conscience et des expériences acquises pendant la formation.
 L’audit individuel de conduite est effectué par un instructeur agréé et comprend deux unités d’instruction. A la suite de l’audit,
 l’instructeur établit un rapport destiné à être évalué et utilisé ultérieurement par le psychologue agréé dispensant l’enseignement théorique.
@@ -11963,7 +11963,7 @@ aux matières de la formation complémentaire énoncée au règlement grand-duca
 rendre les participants conscients de la gravité des conséquences potentielles du non-respect des règles de la circulation routière. Une unité d’instruction sera spécialement réservée aux effets sur le comportement d’un conducteur de la consommation
 d’alcool, de produits hallucinogènes et de drogues ainsi que de substances médicamenteuses à caractère toxique, soporifique
 ou psychotrope.
-\4. La formation prévue au paragraphe 4. de l’article 2bis de la loi du 14 février 1955 précitée s’étend sur une durée d’un
+4\. La formation prévue au paragraphe 4. de l’article 2bis de la loi du 14 février 1955 précitée s’étend sur une durée d’un
 jour, elle est subdivisée en huit unités d’instruction, et elle comprend une évaluation finale de la prise de conscience et des
 expériences acquises pendant les cours.
 La partie théorique comprend quatre unités d’instruction portant notamment sur l’enseignement des facteurs généraux de la
@@ -11972,7 +11972,7 @@ La partie pratique est subdivisée en quatre unités d’instruction. Elle consi
 aux matières de la formation complémentaire énoncées au règlement grand-ducal du 8 mai 1999 précité ainsi que des lois
 physiques agissant sur un véhicule en mouvement. Les exercices et les démonstrations qui peuvent les compléter, ont principalement pour objet de rendre les participants conscients de la gravité des conséquences potentielles du non-respect des règles
 de la circulation routière.
-\5. Le prix, hors taxe sur la valeur ajoutée, est de 400 euros pour la formation prévue au paragraphe 3. et de 190 euros pour
+5\. Le prix, hors taxe sur la valeur ajoutée, est de 400 euros pour la formation prévue au paragraphe 3. et de 190 euros pour
 la formation prévue au paragraphe 4, au nombre indice valable au 1er janvier 2001, toute variation de 2,5% points de ce nombre
 indice donnant de plein droit lieu à une adaptation tarifaire proportionnelle.»
 (Règl. g.-d. du 29 mai 1992)
@@ -11999,7 +11999,7 @@ du permis de conduire ainsi que l’exercice de la profession d’instructeur de
 «J. – La durée de validité du permis de conduire»
 (Règl. g.-d. du 8 décembre 2011)
 «Art. 87.
-\1. Sans préjudice des dispositions de l’article 83 relatives à la durée de validité du permis de conduire pendant la période
+1\. Sans préjudice des dispositions de l’article 83 relatives à la durée de validité du permis de conduire pendant la période
 de stage, la durée de validité des permis de conduire des catégories A, A1, A2, AM, B, BE et F est de dix ans, sans dépasser
 l’âge de 70 ans des titulaires.
 (Règl. g.-d. du 30 janvier 2024)
@@ -12011,7 +12011,7 @@ renouvelé que pour une durée maximale de deux ans à la fois. »
 la pièce spécifiée sous 5) de l’alinéa 2 de l’article 78. Toutefois, en vue du renouvellement de son permis de conduire au-delà
 de l’âge de 60 ans, le titulaire doit présenter en outre avec sa demande, le certificat médical dont question sous 1) de l’alinéa
 2 de l’article 78.»
-\2. Les permis de conduire des catégories C, CE, C1, C1E, D, DE, D1 et D1E ont une durée de validité de 5 ans sans dépasser l’âge de 70 ans des titulaires.
+2\. Les permis de conduire des catégories C, CE, C1, C1E, D, DE, D1 et D1E ont une durée de validité de 5 ans sans dépasser l’âge de 70 ans des titulaires.
 (Règl. g.-d. du 30 janvier 2024)
 « À partir de l’âge de 70 ans de leurs titulaires, le permis n’est plus renouvelé respectivement que pour une durée maximale
 de trois ans sans que la durée de validité puisse dépasser 75 ans. À partir de l’âge de 75 ans de leurs titulaires, les permis des
@@ -12027,7 +12027,7 @@ ans, le renouvellement requiert la réussite à un examen de contrôle. L’exam
 renouveler répond aux modalités du paragraphe 3. de l’article 81.»
 (Règl. g.-d. du 30 janvier 2024)
 « Un permis de conduire est périmé si sa validité administrative est venue à échéance. »
-\3. Si la production de l’extrait du casier judiciaire demande plus d’un mois, ou si une enquête judiciaire s’impose, un permis
+3\. Si la production de l’extrait du casier judiciaire demande plus d’un mois, ou si une enquête judiciaire s’impose, un permis
 de conduire d’une durée de validité limitée à 3 mois peut être délivré. Il en est de même, lorsque, en cas de renouvellement du
 permis de conduire, la production d’un certificat médical demande plus d’un mois.»
 
@@ -12067,7 +12067,7 @@ A ces fins, le ministre (. . .)5 adresse quinze jours au moins avant la séance 
 recommandée à l’intéressé, l’invitant à s’y présenter soit seul, soit assisté par un avocat.
 Si l’intéressé ne comparaît pas devant la commission spéciale malgré deux convocations par lettre recommandée la procédure déterminée ci-dessus est faite par défaut.
 Le ministre (. . .)5 prend sa décision sur le vu de l’avis motivé de la commission spéciale.
-\2. Afin d’examiner les personnes souffrant d’infirmités ou de troubles susceptibles d’entraver leurs aptitudes ou capacités
+2\. Afin d’examiner les personnes souffrant d’infirmités ou de troubles susceptibles d’entraver leurs aptitudes ou capacités
 de conduire un véhicule automoteur ou un «cyclo-moteur»3, il est institué une commission médicale dont les membres sont
 nommés par le ministre (. . .)5.
 Avant de pouvoir restreindre l’emploi ou la validité des permis de conduire, refuser leur octroi, leur renouvellement ou leur
@@ -12139,7 +12139,7 @@ Supprimé par le règl. g.-d. du 30 janvier 2024.
 
 \- 178 -
 
-\5. En cas de mainlevée d’une décision administrative de retrait, de refus du renouvellement ou de restriction de l’emploi ou
+5\. En cas de mainlevée d’une décision administrative de retrait, de refus du renouvellement ou de restriction de l’emploi ou
 de la validité du permis de conduire, le permis de conduire est restitué par le ministre (. . .)1. Il en est de même à la fin de la
 suspension du droit de conduire.
 Le ministre en informe la police grand-ducale.»
@@ -12155,13 +12155,13 @@ les conditions du paragraphe 4 de l’article 82.
 Dans le cas d’un examen théorique et pratique, la partie théorique précède la partie pratique.
 L’échec à un examen théorique ou pratique prévu au présent article place l’intéressé dans la situation d’un candidat ayant
 échoué à l’épreuve théorique ou pratique de l’examen du permis de conduire prévu à l’article 82.
-\2. Pendant la période probatoire prévue au paragraphe 1er de l’article 2 modifié de la loi du 14 février 1955 précitée, les intéressés sont tenus d’exhiber sur réquisition un carnet de période probatoire destiné à informer le ministre des Transports en cas
+2\. Pendant la période probatoire prévue au paragraphe 1er de l’article 2 modifié de la loi du 14 février 1955 précitée, les intéressés sont tenus d’exhiber sur réquisition un carnet de période probatoire destiné à informer le ministre des Transports en cas
 d’avertissement taxé ou de procès-verbal pour infraction à la législation routière.
 (Règl. g.-d. du 8 décembre 2011)
 «La forme et l’usage du carnet de période probatoire sont ceux prévus par l’article 83 pour le carnet de stage.»
 Il est fait mention de la durée de la période probatoire sur le permis de conduire.»
 (Règl. g.-d. du 8 décembre 2011)
-\3. «Toute extension du droit de conduire à d’autres catégories, toute restriction du droit de conduire par décision judiciaire
+3\. «Toute extension du droit de conduire à d’autres catégories, toute restriction du droit de conduire par décision judiciaire
 ou administrative qui comporte une inscription sur le permis de conduire, ainsi que toute restitution du permis de conduire
 après une interdiction de conduire judiciaire ou un retrait du droit de conduire par décision administrative obligent le titulaire
 d’un permis de conduire établi par les autorités compétentes d’un autre Etat membre de l’Espace Economique Européen qui
@@ -12286,7 +12286,7 @@ restriction ou d’obligation doivent être mis en place par l’autorité comp�
 (Règl. g.-d. du 15 janvier 2003)
 «L’accès aux chantiers est interdit aux conducteurs de véhicules et d’animaux, à l’exception des conducteurs investis d’une
 mission de gestion et de contrôle du chantier.
-\2. La mise en place d’un chantier est soumise aux dispositions suivantes:
+2\. La mise en place d’un chantier est soumise aux dispositions suivantes:
 «a)»1 Les chantiers sont indiqués par les signaux A,15 ou A,21; dans le cas d’un chantier mobile, lesdits signaux sont complétés par un panneau additionnel portant l’inscription ‘Chantier mobile’.
 «b)»1 Les chantiers dont le côté jouxte une partie de la voie publique ouverte à la circulation, sont délimités de ce côté par une
 signalisation appropriée dès lors que la sécurité de la circulation l’exige. Sur autoroute cette signalisation comprend le
@@ -12331,7 +12331,7 @@ peuvent régler la circulation lorsque la mise en place ou la bonne marche d’u
 Dans l’accomplissement de cette mission, les agents dont question au présent paragraphe doivent porter les insignes de leur
 fonction de façon visible et sans confusion possible de jour comme de nuit.
 La compétence des agents communaux est limitée à la voirie normale de l’Etat et à la voirie communale relevant de la compétence de la commune à laquelle ils sont affectés.
-\4. Les agents dont question au paragraphe 3. doivent avoir participé à une formation spécifique dont les modalités sont
+4\. Les agents dont question au paragraphe 3. doivent avoir participé à une formation spécifique dont les modalités sont
 arrêtées par le ministre ayant les Travaux publics dans ses attributions.»
 Art. 102bis.
 (Règl. g.-d. du 30 janvier 2024)
@@ -12358,24 +12358,24 @@ Inséré par le règl. g. - d. du 12 novembre 2022.
 présent article sont d’application. Il en est de même des chantiers fixes dont la bonne marche requiert que la circulation soit
 soumise aux mêmes règles dès lors que ceux-ci sont soit en place sur la voie publique moins de 12 heures, soit établis à la
 suite d’un cas de force majeure et restent dans ce cas en place sur la voie publique pour une durée de moins de 72 heures.»
-1.
+1\.
 
 Lorsque le chantier entrave complètement la circulation sur la chaussée d’une voie publique autre qu’une autoroute,
 l’accès à la chaussée est interdit dans les deux sens aux conducteurs de véhicules et d’animaux, à l’exception des
 conducteurs investis d’une mission de gestion et de contrôle du chantier; cette disposition est indiquée par le signal
 C,2a.
 
-2.
+2\.
 
 Lorsque le chantier entrave complètement la circulation sur la chaussée d’une autoroute et que la circulation empruntant
 la chaussée entravée est dirigée sur la chaussée à contresens, sans préjudice des dispositions (Règl. g.-d. du 25 juillet
-\2015) «de l’article 156bis, paragraphe 1er, alinéa 4:»
+2015\) «de l’article 156bis, paragraphe 1er, alinéa 4:»
 
 (Règl. g.-d. du 13 janvier 2005)
 
-3.
+3\.
 
-4.
+4\.
 
 «–
 
@@ -12428,7 +12428,7 @@ est encombrée ou impraticable, à condition de respecter les règles relatives 
 les conducteurs de cycles qui empruntent une piste cyclable obligatoire ou un chemin obligatoire pour cyclistes et piétons qui longent une chaussée, peuvent emprunter cette chaussée, lorsque la piste cyclable obligatoire ou le chemin
 obligatoire sont encombrés ou impraticables.
 
-\2. L’accès aux parties de la voie publique réservées à la circulation ou à l’utilisation de certaines catégories d’usagers, est
+2\. L’accès aux parties de la voie publique réservées à la circulation ou à l’utilisation de certaines catégories d’usagers, est
 interdit aux autres catégories d’usagers. Toutefois,
 
 Modifié par le règlement grand-ducal du 24 août 2007.
@@ -12492,7 +12492,7 @@ Art. 107.
 
 (Règl. g.-d. du 23 mai 2012)
 «I. SIGNAUX D’AVERTISSEMENT DE DANGER
-\1. Virage dangereux ou virages dangereux
+1\. Virage dangereux ou virages dangereux
 
 A,1a
 
@@ -12501,17 +12501,17 @@ A,1b
 Le signal A,1a indique l’approche d’un virage dangereux à gauche ou à droite.
 Le signal A,1b indique l’approche d’un double virage ou d’une succession de virages dangereux, dont le premier virage va
 respectivement à gauche et à droite.
-\2. Descente dangereuse
+2\. Descente dangereuse
 
 A,2
 Le signal A,2 indique l’approche d’une descente à forte inclinaison. Le chiffre indique la pente en pourcentage dans sa partie
 la plus accentuée.
-\3. Montée à forte inclinaison
+3\. Montée à forte inclinaison
 
 A,3
 Le signal A,3 indique l’approche d’une montée à forte inclinaison. Le chiffre indique la pente en pourcentage dans sa partie
 la plus accentuée.
-\4. Chaussée rétrécie
+4\. Chaussée rétrécie
 
 A,4a
 
@@ -12519,14 +12519,14 @@ A,4b
 
 Les signaux A,4a et A,4b indiquent l’approche d’un rétrécissement de la chaussée. Le signal A,4a indique un rétrécissement
 des deux côtés de la chaussée, le signal A,4b un rétrécissement d’un seul côté.
-\5. Quai ou berge
+5\. Quai ou berge
 
 A,6
 Le signal A,6 indique que la voie publique débouche sur un quai ou sur une berge.
 
 \- 185 -
 
-\6. Profil irrégulier
+6\. Profil irrégulier
 
 A,7a
 
@@ -12537,28 +12537,28 @@ A,7c
 Le signal A,7a indique l’approche d’un tronçon de voie publique où la chaussée est en mauvais état.
 Le signal A,7b indique l’approche d’un dos-d’âne ou d’un pont en dos-d’âne.
 Le signal A,7c indique l’approche d’un cassis.
-\7. Chaussée glissante
+7\. Chaussée glissante
 
 A,8
 Le signal A,8 indique l’approche d’un tronçon de voie publique où la chaussée risque d’être particulièrement glissante. Un
 panneau additionnel du modèle 8 peut compléter le signal.
-\8. Projections de gravillons
+8\. Projections de gravillons
 
 A,9
 Le signal A,9 indique l’approche d’un tronçon de voie publique où des projections de gravillons risquent de se produire.
-\9. Chutes de pierres
+9\. Chutes de pierres
 
 A,10
 Le signal A,10 indique l’approche d’un tronçon de voie publique où existe un risque de chutes de pierres ou de présence de
 pierres sur la chaussée.
-\10. Approche d’un passage pour piétons
+10\. Approche d’un passage pour piétons
 
 A,11a
 Le signal A,11a indique l’approche d’un passage pour piétons.
 
 \- 186 -
 
-\11. Approche d’un passage pour piétons et cyclistes
+11\. Approche d’un passage pour piétons et cyclistes
 
 A,11b
 Le signal A,11b indique l’approche d’un passage pour piétons et cyclistes.
@@ -12579,7 +12579,7 @@ cyclistes traversent la chaussée ou débouchent sur celle-ci. Le signal A,12a i
 A,12c
 Le signal A,12c indique l’approche d’un tronçon de voie publique où des cavaliers traversent la chaussée ou débouchent
 sur celle-ci. »
-\13. Enfants
+13\. Enfants
 
 A,13
 Le signal A,13 indique l’approche d’un tronçon de voie publique souvent fréquenté par des enfants.
@@ -12595,24 +12595,24 @@ la chaussée ou débouchent sur celle-ci. »
 
 \- 187 -
 
-\15. Travaux
+15\. Travaux
 
 A,15
 Le signal A,15 indique l’approche d’un tronçon de voie publique où des travaux sont en cours.
-\16. Signalisation lumineuse
+16\. Signalisation lumineuse
 
 A,16a
 Le signal A,16a indique l’approche d’un tronçon de voie publique où la circulation est réglée par des signaux colorés lumineux.
-\17. Visibilité réduite
+17\. Visibilité réduite
 
 A,17
 Le signal A,17 indique l’approche d’un tronçon de voie publique où la circulation est entravée ou risque d’être entravée par
 une visibilité réduite due aux conditions météorologiques ou à d’autres causes.
-\18. Vent latéral
+18\. Vent latéral
 
 A,18
 Le signal A,18 indique l’approche d’un tronçon de voie publique où souffle souvent un vent latéral violent.
-\19. Circulation dans les deux sens
+19\. Circulation dans les deux sens
 
 A,19
 Le signal A,19 indique l’approche ou le début d’un tronçon de voie publique où la circulation se fait dans les deux sens sur la
@@ -12621,22 +12621,22 @@ répété sur le tronçon où la circulation se fait dans les deux sens.
 
 \- 188 -
 
-\20. Bouchon
+20\. Bouchon
 
 A,20a
 Le signal A,20a indique l’approche d’un tronçon de voie publique où la circulation est entravée ou risque d’être entravée par
 un bouchon.
-\21. Obstruction de la chaussée
+21\. Obstruction de la chaussée
 
 A,20b
 Le signal A,20b indique l’approche d’un tronçon de voie publique où un ou des véhicules font temporairement obstruction
 sur la chaussée.
-\22. Autres dangers
+22\. Autres dangers
 
 A,21
 Le signal A,21 indique l’approche d’un tronçon de voie publique qui comporte ou peut comporter un danger autre que ceux
 indiqués par les autres signaux d’avertissement de danger.
-\23. Intersection avec une ou plusieurs routes sans priorité
+23\. Intersection avec une ou plusieurs routes sans priorité
 
 A,22a
 
@@ -12649,7 +12649,7 @@ de passage par rapport aux usagers qui circulent sur l’autre ou les autres cha
 schématiquement la configuration de l’intersection.
 Les signaux A,22a, A,22b et A,22c ne peuvent être mis en place sur la chaussée prioritaire que si les signaux B,1 ou B,2a
 sont mis en place sur la ou les chaussées non prioritaires de l’intersection.
-\24. Intersection à priorité de droite
+24\. Intersection à priorité de droite
 
 A,23
 Le signal A,23 indique l’approche d’une intersection où la priorité de droite est d’application, sans préjudice des dispositions
@@ -12657,19 +12657,19 @@ de l’article 136.
 
 \- 189 -
 
-\25. Intersection à sens giratoire
+25\. Intersection à sens giratoire
 
 A,24
 Le signal A,24 indique l’approche d’une intersection à sens giratoire.
-\26. Passage à niveau avec barrières
+26\. Passage à niveau avec barrières
 
 A,25
 Le signal A,25 indique l’approche d’un passage à niveau muni de barrières ou de demi-barrières.
-\27. Passage à niveau sans barrières
+27\. Passage à niveau sans barrières
 
 A,26
 Le signal A,26 indique l’approche d’un passage à niveau sans barrières ou demi-barrières.
-\28. Signaux de distance aux passages à niveau
+28\. Signaux de distance aux passages à niveau
 
 A,27a
 
@@ -12688,7 +12688,7 @@ Modifié par le règlement grand-ducal du 22 juin 2017.
 
 \- 190 -
 
-\30. Approche d’un arrêt d’autobus
+30\. Approche d’un arrêt d’autobus
 
 A,29
 Le signal A,29 indique l’approche d’un arrêt d’autobus.
@@ -12709,7 +12709,7 @@ Le côté des signaux A,1a à A,26, A,28 et A,29 est au minimum de 600 mm en agg
 cyclistes ou à la circulation des cyclistes et des piétons ainsi que dans des cas exceptionnels sur les autres voies, en fonction
 notamment de la situation particulière des lieux et des besoins de la sécurité de la circulation.
 II. SIGNAUX DE PRIORITE
-\1. Cédez le passage
+1\. Cédez le passage
 
 B,1
 Le signal B,1 indique aux conducteurs qu’ils doivent céder le passage aux conducteurs qui circulent dans les deux sens sur
@@ -12721,7 +12721,7 @@ doit être indiqué par le signal B,1 ou B,2a. »
 
 \- 191 -
 
-\2. Arrêt
+2\. Arrêt
 
 B,2a
 Le signal B,2a indique aux conducteurs qu’ils doivent marquer l’arrêt avant de s’engager sur la chaussée dont ils s’approchent et céder le passage aux conducteurs qui circulent dans les deux sens sur cette chaussée.
@@ -12732,7 +12732,7 @@ Aux passages à niveau sans barrières, le signal B,2a indique aux conducteurs q
 « Aux passages pour cyclistes, le signal B,2a indique aux conducteurs qu’ils doivent marquer l’arrêt avant de s’engager sur
 le passage pour cyclistes et céder le passage aux conducteurs de cycles qui traversent ou marquent leur intention de traverser
 la chaussée sur le passage. L’aplomb des passages pour cyclistes doit être indiqué par le signal B,2a ou B,1. »
-\3. Route à priorité
+3\. Route à priorité
 
 B,3
 
@@ -12745,12 +12745,12 @@ de la route à priorité. Il doit être placé à l’approche des intersections
 Le signal B,3 ne peut être mis en place que si les signaux B,1 ou B,2a sont mis en place sur la chaussée non prioritaire de
 l’intersection.
 Le signal B,4 indique la fin d’une route à priorité.
-\4. Panneau de configuration
+4\. Panneau de configuration
 
 Le panneau de configuration, dont l’illustration ci-dessus est un exemple, indique le tracé d’une route à priorité; il doit compléter les signaux B,1 ou B,2a ainsi que B,3, lorsque la route à priorité s’infléchit de manière que sa continuité n’apparaît pas
 clairement. Le panneau indique la configuration de l’intersection, la chaussée à priorité étant indiquée d’un trait plus large que
 celui ou ceux des chaussées non prioritaires.
-\5. Priorité à la circulation venant en sens inverse
+5\. Priorité à la circulation venant en sens inverse
 
 B,5
 Le signal B,5 indique à un passage étroit que les conducteurs doivent céder le passage aux conducteurs qui viennent en
@@ -12761,14 +12761,14 @@ sens inverse et qu’il leur est interdit de s’engager dans le passage étroit
 obliger les conducteurs en sens inverse à s’arrêter.
 Ledit signal ne peut être mis en place que si les conducteurs peuvent se voir mutuellement sur toute l’étendue du passage
 étroit. Le signal B,6 doit être mis en place dans le sens inverse de celui du signal B,5.
-\6. Priorité par rapport à la circulation venant en sens inverse
+6\. Priorité par rapport à la circulation venant en sens inverse
 
 B,6
 Le signal B,6 indique à un passage étroit que les conducteurs ont la priorité de passage par rapport aux conducteurs qui
 viennent en sens inverse.
 Ledit signal ne peut être mis en place que si les conducteurs peuvent se voir mutuellement sur toute l’étendue du passage
 étroit. Le signal B,5 doit être mis en place dans le sens inverse de celui du signal B,6.
-\7. Croix de Saint-André
+7\. Croix de Saint-André
 
 B,7a
 
@@ -12795,7 +12795,7 @@ notamment de la situation particulière des lieux et des besoins de la sécurit�
 \- 193 -
 
 III. SIGNAUX D’INTERDICTION ET DE RESTRICTION
-\1. Accès interdit
+1\. Accès interdit
 
 C,1a
 Le signal C,1a indique l’interdiction d’accès aux conducteurs de véhicules et d’animaux, auxquels la voie publique est
@@ -12813,7 +12813,7 @@ Le signal C,2a indique que l’accès est interdit dans les deux sens aux conduc
 d’un chantier sur le tronçon de voie publique concerné, les conducteurs de véhicules et de machines investis d’une mission de
 gestion et de contrôle du chantier sont autorisés à y accéder.
 Dans le cas d’un chantier, l’inscription du panneau additionnel peut se présenter en caractères blancs sur fond rouge.»
-\3. Interdiction d’accès à une certaine catégorie de véhicules ou d’usagers
+3\. Interdiction d’accès à une certaine catégorie de véhicules ou d’usagers
 
 C,3a
 (Règl. g.-d. du 13 janvier 2005)
@@ -12879,7 +12879,7 @@ Le signal C,3n indique que l’accès est interdit aux conducteurs de véhicules
 pour lesquelles une signalisation de danger spéciale est prévue par la réglementation sur le transport par route de marchandises dangereuses.
 (Règl. g.-d. du 19 décembre 2020)
 « Le signal peut être complété par un panneau additionnel du modèle 10 portant la lettre B, C, D ou E. »
-\4. Accès interdit à plusieurs catégories de véhicules
+4\. Accès interdit à plusieurs catégories de véhicules
 
 C,4a
 
@@ -12887,38 +12887,38 @@ C4b
 
 Les signaux C,4a et C,4b, dont les illustrations ci-dessus sont des exemples, indiquent que l’accès est respectivement interdit
 à deux catégories et à trois catégories d’usagers. Le signal C,4b ne peut être mis en place qu’à l’intérieur des agglomérations.»
-\5. Accès interdit aux véhicules ayant une largeur supérieure à ... mètres
+5\. Accès interdit aux véhicules ayant une largeur supérieure à ... mètres
 
 C,5
 Le signal C,5 indique que l’accès est interdit aux véhicules ayant une largeur totale supérieure à ... mètres.
-\6. Accès interdit aux véhicules ayant une hauteur supérieure à ... mètres
+6\. Accès interdit aux véhicules ayant une hauteur supérieure à ... mètres
 
 C,6
 Le signal C,6 indique que l’accès est interdit aux véhicules ayant une hauteur totale supérieur à ... mètres.
 
 \- 197 -
 
-\7. Accès interdit aux véhicules ayant un poids en charge de plus de ... tonnes
+7\. Accès interdit aux véhicules ayant un poids en charge de plus de ... tonnes
 
 C,7
 Le signal C,7 indique que l’accès est interdit aux véhicules ayant un poids en charge supérieur à ...
 
 tonnes.
 
-\8. Accès interdit aux véhicules pesant plus de ... tonnes sur un essieu
+8\. Accès interdit aux véhicules pesant plus de ... tonnes sur un essieu
 
 C,8
 Le signal C,8 indique que l’accès est interdit aux véhicules pesant plus de . . . tonnes sur un essieu.
-\9. Accès interdit aux véhicules ou ensembles de véhicules ayant une longueur supérieure à ... mètres
+9\. Accès interdit aux véhicules ou ensembles de véhicules ayant une longueur supérieure à ... mètres
 
 C,9
 Le signal C,9 indique que l’accès est interdit aux véhicules ou ensembles de véhicules ayant une longueur supérieure à ...
 mètres.
-\10. Interdiction aux véhicules de circuler sans maintenir entre eux un intervalle d’au moins ... mètres
+10\. Interdiction aux véhicules de circuler sans maintenir entre eux un intervalle d’au moins ... mètres
 
 C,10
 Le signal C,10 indique qu’il est interdit aux conducteurs de véhicules automoteurs de circuler sans maintenir entre les véhicules un intervalle d’au moins ... mètres.
-\11. Interdiction de tourner
+11\. Interdiction de tourner
 
 C,11a
 Le signal C,11a indique qu’il est interdit aux conducteurs de tourner à gauche.
@@ -12927,11 +12927,11 @@ Le signal C,11a indique qu’il est interdit aux conducteurs de tourner à gauch
 
 C,11b
 Le signal C,11b indique qu’il est interdit aux conducteurs de tourner à droite.
-\12. Interdiction de faire demi-tour
+12\. Interdiction de faire demi-tour
 
 C,12
 Le signal C,12 indique qu’il est interdit aux conducteurs de faire demi-tour.
-\13. Interdiction de dépassement
+13\. Interdiction de dépassement
 
 C,13aa
 «Le signal C,13aa indique aux conducteurs de véhicules automoteurs qu’il leur est interdit de dépasser des véhicules automoteurs autres que les motocycles à deux roues sans side-car et les cyclomoteurs à deux roues.
@@ -12940,7 +12940,7 @@ C,13ba
 Le signal C,13ba indique aux conducteurs de véhicules automoteurs destinés au transport de choses et dont la masse maximale autorisée dépasse 3,5 tonnes qu’il leur est interdit de dépasser des véhicules automoteurs autres que les motocycles à
 deux roues sans side-car et les cyclomoteurs à deux roues. Lorsque le seuil d’application de l’interdiction ne correspond pas à
 3,5 tonnes, le signal est complété par un panneau additionnel portant l’inscription du tonnage visé.»
-\14. Limitation de vitesse
+14\. Limitation de vitesse
 (Règl. g.-d. du 18 mars 2000)
 «
 
@@ -12955,16 +12955,16 @@ déterminé, une inscription complémentaire est placée dans un panneau additio
 
 \- 199 -
 
-\15. Interdiction de faire usage d’avertisseurs sonores
+15\. Interdiction de faire usage d’avertisseurs sonores
 
 C,15
 Le signal C,15 est employé pour rappeler qu’il est interdit de faire usage d’avertisseurs sonores.
-\16. Interdiction de passer sans s’arrêter
+16\. Interdiction de passer sans s’arrêter
 
 C,16
 Le signal C,16 indique qu’il est interdit de passer un poste de douane sans s’y arrêter. Le même signal portant une autre
 inscription peut être employé pour indiquer d’autres interdictions de passer sans s’arrêter.
-\17. Fin d’interdiction ou de restriction
+17\. Fin d’interdiction ou de restriction
 «
 
 C,17a
@@ -13001,12 +13001,12 @@ Ces dimensions peuvent être réduites sur les voies publiques réservées à la
 cyclistes et des piétons ainsi que dans des cas exceptionnels sur les autres voies, en fonction notamment de la situation particulière des lieux et des besoins de la sécurité de la circulation.»
 
 IV. SIGNAUX D’OBLIGATION
-\1. Direction obligatoire
+1\. Direction obligatoire
 
 D,1a
 Le signal D,1a indique aux conducteurs la ou les directions à suivre obligatoirement selon la ou les directions dans lesquelles
 sont dirigées les flèches. Celles-ci peuvent être modifiées en fonction de la configuration des lieux.
-\2. Contournement obligatoire
+2\. Contournement obligatoire
 
 D,2
 Le signal D,2, placé sur un refuge ou devant un obstacle, indique aux conducteurs l’obligation de passer du côté du refuge
@@ -13014,7 +13014,7 @@ ou de l’obstacle suivant la direction indiquée par la flèche. Celle-ci peut 
 
 \- 201 -
 
-\3. Intersection à sens giratoire obligatoire
+3\. Intersection à sens giratoire obligatoire
 (Règl. g.-d. du 10 février 1999)
 «
 
@@ -13097,17 +13097,17 @@ Le signal D,6a indique la fin d’un chemin pour cavaliers.»
 
 \- 203 -
 
-\7. Vitesse minimale obligatoire
+7\. Vitesse minimale obligatoire
 
 D,7
 Le signal D,7 indique aux conducteurs de véhicules automoteurs qu’ils sont tenus de circuler au moins à la vitesse indiquée.
 (. . .)1
-\8. Fin de la vitesse minimale obligatoire
+8\. Fin de la vitesse minimale obligatoire
 
 D,8
 (Règl. g.-d. du 30 janvier 2024)
 « Le signal D,8 indique la fin de la vitesse minimale obligatoire qui est inscrite sur le signal. »
-\9. Chaînes à neige obligatoires
+9\. Chaînes à neige obligatoires
 
 D,9
 Le signal D,9 indique aux conducteurs de véhicules automoteurs à l’exception des motocycles qu’ils sont tenus de circuler
@@ -13246,7 +13246,7 @@ Le présignal E,2a ou E,2b indique une voie publique sans issue. Le symbole figu
 répondre à la configuration des lieux. La barre rouge peut être remplacée par un signal d’interdiction ou de restriction.
 Le présignal E,2c indique une voie publique sans issue, excepté pour les conducteurs de cycles. Le symbole figurant sur ce
 signal peut être modifié pour répondre à la configuration des lieux. »
-\3. Présignalisation d’un itinéraire pour aller à gauche
+3\. Présignalisation d’un itinéraire pour aller à gauche
 
 E,3
 Le présignal E,3 est employé pour indiquer aux conducteurs l’itinéraire à suivre pour aller à gauche dans le cas où il est
@@ -13384,7 +13384,7 @@ E,8b
 Les signaux E,8a et E,8b, dont les illustrations ci-dessus sont des exemples, indiquent les directions à suivre pour atteindre
 les destinations indiquées. Les inscriptions des lieux-dits et des quartiers d’agglomération apparaissent en italique. Les inscriptions des destinations locales apparaissent en italique dans un cartouche blanc ou sur un panneau blanc. La voie publique à
 emprunter pour atteindre une destination est indiquée par son numéro d’identification.
-\6. Localisation
+6\. Localisation
 
 E,9a
 
@@ -13406,7 +13406,7 @@ la fin d’une agglomération ou d’un lieu-dit assimilé à une agglomération
 
 \- 212 -
 
-\7. Signal de confirmation
+7\. Signal de confirmation
 
 E,10
 
@@ -13436,7 +13436,7 @@ l’approche d’un passage pour piétons et cyclistes est annoncée par le sign
 
 \- 213 -
 
-\10. Passage souterrain ou passage supérieur pour piétons
+10\. Passage souterrain ou passage supérieur pour piétons
 
 E,11c
 Le signal E,11c indique la proximité d’un passage souterrain ou d’un passage supérieur pour piétons. Le symbole peut être
@@ -13723,7 +13723,7 @@ Le signal E,25a indique l’endroit à partir duquel s’appliquent les règles 
 « Le signal E,25b indique l’endroit à partir duquel les règles de circulation particulières de zone résidentielle cessent d’être
 applicables. Il peut être placé au revers du signal E,25a. Lorsqu’à un endroit de fin de zone résidentielle débute une autre zone,
 le signal E,25b n’est pas requis pour que les règles de circulation particulières de zone résidentielle cessent d’être applicables. »
-\26. Zone de rencontre
+26\. Zone de rencontre
 (Règl. g.-d. du 25 juillet 2015)
 «
 
@@ -14088,7 +14088,7 @@ Hormis le cas de la signalisation zonale, les interdictions et limitations visan
 de la chaussée où le signal est placé. Elles sont applicables à partir de l’aplomb du signal jusqu’à la prochaine intersection
 située du côté du signal. Un panneau additionnel du modèle 3b, 3c ou 3d peut toutefois indiquer une application dérogatoire du
 signal. Le signal complété par le panneau additionnel 3e indique le rappel de l’interdiction ou de la limitation de stationnement.
-\2. Arrêt et stationnement interdits
+2\. Arrêt et stationnement interdits
 
 C,19
 Le signal C,19 indique que l’arrêt et le stationnement sont interdits. Le signal C,19 complété par un panneau additionnel
@@ -14097,7 +14097,7 @@ Hormis le cas de la signalisation zonale, les interdictions et limitations visan
 du côté de la chaussée où le signal est placé. Elles sont applicables à partir de l’aplomb du signal jusqu’à la prochaine intersection située du côté du signal. Un panneau additionnel du modèle 3b, 3c ou 3d peut toutefois indiquer une application dérogatoire
 du signal. Le signal complété par le panneau additionnel 3e indique le rappel de l’interdiction ou de la limitation d’arrêt et de
 stationnement.
-\3. Stationnement alterné
+3\. Stationnement alterné
 
 C,20a
 
@@ -14112,7 +14112,7 @@ des signaux. Les signaux complétés par le panneau additionnel 3e indiquent le 
 
 \- 233 -
 
-\4. Parking
+4\. Parking
 
 E,23
 
@@ -14123,7 +14123,7 @@ par un panneau additionnel indiquent soit que le parcage est limité selon les m
 la direction à suivre pour rejoindre le parking.
 Ces signaux peuvent porter dans le coin inférieur droit une inscription additionnelle de couleur blanche qui renseigne les
 usagers sur un système de guidage en matière de parcage.
-\5. Parking-relais
+5\. Parking-relais
 
 E,23b
 
@@ -14150,13 +14150,13 @@ cyclistes et des piétons ainsi que dans des cas exceptionnels sur les autres vo
 (Règl. g.-d. du 11 octobre 1983)
 ««VII.»1 SIGNAUX APPLICABLES A UNE OU PLUSIEURS VOIES D’UNE CHAUSSEE
 COMPORTANT PLUSIEURS VOIES DE CIRCULATION DANS LE MEME SENS
-\1. Signaux comportant un avertissement de danger
+1\. Signaux comportant un avertissement de danger
 
 G,1a
 
 G,1b
 
-2.
+2\.
 « Signaux comportant une interdiction ou une restriction
 (Règl. g.-d. du 7 février 2013)
 
@@ -14164,7 +14164,7 @@ G,2a
 
 G,2b
 
-\3. Signaux comportant une obligation
+3\. Signaux comportant une obligation
 
 G,3a
 
@@ -14236,7 +14236,7 @@ H,1
 Le signal H,1, dont les illustrations ci-dessus sont des exemples, indique le début d’une zone formée d’un ensemble de voies
 et places soumises aux dispositions réglementaires qu’indiquent le ou les signaux qu’il porte.
 Le signal H,1 porte des signaux d’interdiction ou de restriction, des signaux d’obligation ou des signaux d’arrêt, de stationnement ou de parcage.
-\2. Fin de zone
+2\. Fin de zone
 
 H,2
 (Règl. g.-d. du 30 janvier 2024)
@@ -14249,7 +14249,7 @@ Modifié par le règlement grand-ducal du 19 mars 2008.
 
 \- 237 -
 
-\3. Gare routière
+3\. Gare routière
 
 H,3a
 
@@ -14259,7 +14259,7 @@ H,3c
 
 Les signaux H,3a, H,3b et H,3c indiquent une gare routière. Ils portent le ou les symboles des moyens des transports en
 commun qui desservent la gare routière.
-\4. Fin de la gare routière
+4\. Fin de la gare routière
 
 H,4a
 
@@ -14287,7 +14287,7 @@ lieux et des besoins de la sécurité de la circulation.»
 \- 238 -
 
 «IX. SYMBOLES ET INSCRIPTIONS ADDITIONNELS
-\1. Les signaux du présent article peuvent être complétés par les symboles et inscriptions additionnels repris ci-après.
+1\. Les signaux du présent article peuvent être complétés par les symboles et inscriptions additionnels repris ci-après.
 En dehors de ces symboles et inscriptions, les symboles qui figurent sur les signaux du présent article peuvent également
 compléter un signal, sans modification de leur signification. Les inscriptions peuvent désigner une catégorie d’usagers ou de
 véhicules.
@@ -14697,7 +14697,7 @@ rouge selon l’orientation de la flèche, sous réserve de céder le passage au
 pour piétons et cyclistes non situés aux intersections, les feux sont éteints pour les piétons et les conducteurs de cycles qui
 traversent la chaussée, lorsque le feu orange clignotant est affiché à l’intention des conducteurs de véhicules et d’animaux qui
 circulent sur cette chaussée. »
-\3. Un feu rouge clignotant ou deux feux rouges clignotant alternativement à proximité immédiate d’un passage à niveau
+3\. Un feu rouge clignotant ou deux feux rouges clignotant alternativement à proximité immédiate d’un passage à niveau
 indiquent l’approche d’un véhicule sur rails ainsi que, dans le cas des passages à niveau avec barrières ou demi-barrières,
 l’imminence de la fermeture des barrières ou demi-barrières; ces feux peuvent être complétés par un signal sonore.
 Le ou les feux rouges clignotants indiquent l’interdiction pour les usagers de s’engager sur le passage à niveau.
@@ -14733,7 +14733,7 @@ Lorsque ces signaux sont placés sur une voie réservée aux tramways où les v�
 de véhicules effectuant le ramassage scolaire sont autorisés à circuler, ils peuvent être complétés par un panneau additionnel
 conforme au modèle 1 de l’article 107, qui porte les inscriptions en majuscules « TRAM » ou « BUS » pour indiquer la catégorie
 de véhicules à laquelle les signaux s’adressent respectivement. »
-\5. Les signaux colorés lumineux et les signaux lumineux blancs ou jaune clair priment les signaux de priorité, le cas échéant
+5\. Les signaux colorés lumineux et les signaux lumineux blancs ou jaune clair priment les signaux de priorité, le cas échéant
 en place. En cas de non fonctionnement desdits signaux lumineux ou en cas de feux éteints, les règles générales en matière
 de priorité, ou, le cas échéant, les signaux de priorité en place s’appliquent.
 Lorsque les supports qui portent les signaux colorés lumineux sont peints, la teinte est constituée de bandes alternées
@@ -14804,7 +14804,7 @@ signal B,1 ou B,2a. »
 Les passages pour piétons et cyclistes ; ils comportent un marquage transversal ou oblique à l’axe de la chaussée,
 qui est constitué du marquage d’un passage pour piétons auquel est juxtaposé le marquage d’un gué pour piétons et
 cyclistes ; l’aplomb des passages pour piétons et cyclistes doit être indiqué par le signal E,11b, conformément à l’article
-\107. »
+107\. »
 
 (Règl. g.-d. du 23 mai 2012)
 «m) Les emplacements réservés aux véhicules à l’arrêt, en vue notamment d’effectuer l’approvisionnement des commerces
@@ -14882,7 +14882,7 @@ Art. 111.
 (Règl. g.-d. du 5 juin 1984)
 «1. Les signaux d’indication de direction et les signaux de localisation sont posés et conservés sur la voirie de l’Etat par
 l’Administration des Ponts et Chaussées et sur la voirie communale par les administrations communales compétentes.
-\2. Sans préjudice des dispositions de l’article 102, les autres signaux d’indication sans effet obligatoire pour les usagers
+2\. Sans préjudice des dispositions de l’article 102, les autres signaux d’indication sans effet obligatoire pour les usagers
 de la route et les signaux d’avertissement de danger sont posés et conservés par l’administration des Ponts et Chaussées à
 l’extérieur des agglomérations et exception faite pour la voirie communale.
 Sur la voirie communale ainsi qu’à l’intérieur des agglomérations ces signaux sont posés et conservés par les administrations communales compétentes. Toutefois, si celles-ci restent en défaut de le faire sur la voirie de l’Etat, l’administration des
@@ -15003,7 +15003,7 @@ B40, liaison Micheville.»
 ferroviaire, sous réserve d’approbation par le ministre ayant les Transports dans ses attributions; ne sont pas visés par cette
 disposition les signaux A,25, A,26, A,27a à A,27c, B,2a, C,13aa et C,13ba qui sont posés et conservés par l’Administration des
 ponts et chaussées sur la voirie de l’Etat et par les autorités communales sur la voirie communale.»
-\7. Sauf ce qui est disposé aux paragraphes 2, alinéa 2, et 4, alinéa 3, les frais relatifs à la pose et à la conservation des
+7\. Sauf ce qui est disposé aux paragraphes 2, alinéa 2, et 4, alinéa 3, les frais relatifs à la pose et à la conservation des
 signaux sont à charge de l’Etat, si ceux-ci sont posés et conservés par l’administration des Ponts et Chaussées; et ils sont à
 charge de la commune concernée, si les signaux sont posés et conservés par l’administration communale.
 Les frais relatifs à la pose et à la conservation des signaux et feux protégeant les passages à niveau sont à charge de la
@@ -15032,7 +15032,7 @@ ou avec son autorisation, est passible des peines prévues au présent arrêté.
 Ve section. – Des injonctions aux usagers
 (Règl. g.-d. du 23 mai 2012)
 «Art. 115.
-\1. Les usagers doivent s’arrêter à toute réquisition
+1\. Les usagers doivent s’arrêter à toute réquisition
 
 des agents chargés du contrôle de la circulation,
 
@@ -15351,7 +15351,7 @@ les signaux respectifs.
 « o) dans les rues cyclables, en tant que conducteur d’un véhicule automoteur. »
 Toutefois, dans les cas sous f) à k), le dépassement est autorisé, lorsqu’il peut s’effectuer sans franchir la ligne de sécurité
 ou, à défaut de ligne de sécurité, sans emprunter la moitié gauche de la chaussée; cette autorisation ne vise pas les conducteurs de camions dans le cas sous k).
-\2. En présence d’un chantier fixe sur la voie publique, il est interdit aux conducteurs de véhicules automoteurs de dépasser
+2\. En présence d’un chantier fixe sur la voie publique, il est interdit aux conducteurs de véhicules automoteurs de dépasser
 ou de tenter de dépasser un véhicule automoteur autre qu’un motocycle à deux roues sans side-car et un cyclomoteur à deux
 roues:
 
@@ -15408,7 +15408,7 @@ Les avertissements doivent toujours être donnés sans exagération.
 (…) (Abrogé par le règl. g.-d. du 13 janvier 2005)
 (Règl. g.-d. du 13 janvier 2005)
 «Art. 131bis.
-\1. L’usage de l’avertisseur sonore spécial prévu à l’article 39 ou des feux bleus clignotants prévus à l’article 44 n’est autorisé
+1\. L’usage de l’avertisseur sonore spécial prévu à l’article 39 ou des feux bleus clignotants prévus à l’article 44 n’est autorisé
 que pour autant que le service l’exige. Tout conducteur qui circule sous le couvert de l’avertisseur sonore spécial ou des feux
 bleus clignotants doit tenir compte en toute circonstance des exigences de la sécurité de la circulation.»
 (Règl. g.-d. du 21 septembre 2023)
@@ -15458,12 +15458,12 @@ en dehors des agglomérations, lorsqu’il y a lieu d’avertir un conducteur qu
 
 toutes les fois que la sécurité de la circulation l’exige et notamment pour donner des avertissements utiles en vue d’éviter un accident.
 
-\2. Entre la tombée de la nuit et le lever du jour ainsi que de jour, lorsque cette façon de faire convient mieux en raison des
+2\. Entre la tombée de la nuit et le lever du jour ainsi que de jour, lorsque cette façon de faire convient mieux en raison des
 circonstances, l’usage de l’avertisseur sonore peut être remplacé par des avertissements lumineux.
 Les avertissements lumineux consistent en l’allumage alterné à de courts intervalles des feux-croisements et des feux-route,
 lorsque l’usage des feux est prescrit, et en l’allumage intermittent à de courts intervalles des feux-croisement ou des feux-route
 dans les autres cas.
-\3. L’emploi de l’avertisseur sonore et le recours aux avertissements lumineux ne doit pas se prolonger au-delà de la durée
+3\. L’emploi de l’avertisseur sonore et le recours aux avertissements lumineux ne doit pas se prolonger au-delà de la durée
 nécessaire.»
 B. – Signaux de direction et d’arrêt
 Art. 134.
@@ -15498,7 +15498,7 @@ Art. 135.
 Art. 136.
 «1. Tout conducteur qui aborde une intersection ou qui s’y engage, doit prendre toutes précautions utiles pour ne pas gêner
 sans nécessité ou ne pas mettre en danger les autres usagers et pour éviter tout accident.
-\2. Aux intersections, aux intersections à sens giratoire ainsi que sur les places publiques, la priorité de passage appartient
+2\. Aux intersections, aux intersections à sens giratoire ainsi que sur les places publiques, la priorité de passage appartient
 aux conducteurs qui viennent de la droite par rapport aux conducteurs qui viennent de la gauche, quelle que soit la direction
 que les conducteurs venant de la droite vont emprunter.
 Cette disposition comporte les exceptions suivantes:
@@ -15538,7 +15538,7 @@ le cas où la route à priorité s’infléchit et où la priorité est indiqué
 
 les cas repris au paragraphe 2., lettre c), troisième à « sixième »1 tirets.
 
-\4. Sur une chaussée à sens unique ou à une voie de circulation dans chaque sens, le conducteur qui oblique vers la gauche
+4\. Sur une chaussée à sens unique ou à une voie de circulation dans chaque sens, le conducteur qui oblique vers la gauche
 a la priorité par rapport aux conducteurs qui le suivent.
 Sur une chaussée à plus d’une voie de circulation dans le même sens, le conducteur qui circule sur la voie de droite ne doit
 pas, en obliquant vers la gauche, couper la marche aux conducteurs qui circulent à sa gauche. Le conducteur qui circule sur
@@ -15550,17 +15550,17 @@ immédiate du tronçon fermé, encombré ou supprimé, faciliter le changement d
 voie de manière à ce qu’ils puissent se rabattre sur la voie ouverte selon le principe de la fermeture éclair, en alternance avec
 les véhicules qui y circulent. Les conducteurs qui changent de voie de circulation à l’approche immédiate du tronçon fermé,
 encombré ou supprimé, doivent se conformer aux dispositions des articles 118, sous 1., lettre a), dernier alinéa et 134, sous 1.»
-\5. Les usagers autorisés à traverser une partie réservée de la voie publique, conformément à l’article 104, paragraphe 2.,
+5\. Les usagers autorisés à traverser une partie réservée de la voie publique, conformément à l’article 104, paragraphe 2.,
 sous d), doivent céder le passage aux usagers qui circulent sur les parties de la voie publique qu’ils traversent.
 Les conducteurs qui s’engagent dans une zone piétonne ou la traversent doivent céder la priorité aux piétons qui y circulent.
-\6. Tout usager tenu de céder le passage ne doit poursuivre sa marche ou remettre son véhicule en mouvement que s’il peut
+6\. Tout usager tenu de céder le passage ne doit poursuivre sa marche ou remettre son véhicule en mouvement que s’il peut
 le faire sans mettre en danger les autres usagers.
 
 Remplacé par le règl. g.-d. du 30 janvier 2024.
 
 \- 259 -
 
-\7. A l’exception du cas repris au paragraphe 2. sous a), les dispositions des paragraphes 2. à 5. ne s’appliquent pas aux
+7\. A l’exception du cas repris au paragraphe 2. sous a), les dispositions des paragraphes 2. à 5. ne s’appliquent pas aux
 véhicules en service urgent énumérés à l’article 39, pour autant que le service urgent l’exige et à condition que l’approche de
 ces véhicules soit signalée au moyen de l’avertisseur sonore spécial prévu audit article 39 et des feux bleus clignotants prévus
 à l’article 44 et que les conducteurs tiennent compte en toute circonstance des exigences de la sécurité de la circulation.»
@@ -15661,7 +15661,7 @@ conformément à l’article 104, lettre d). »
 Les conducteurs qui s’approchent d’un véhicule qui fait usage du signal de détresse, conformément à l’article 171, doivent
 adapter leur vitesse de façon à pouvoir tenir compte en toutes circonstances des exigences de la sécurité de la circulation et
 des autres usagers.
-\2. Sans préjudice des autres dispositions du présent article et sans préjudice de limitations de vitesse dérogatoires indiquées
+2\. Sans préjudice des autres dispositions du présent article et sans préjudice de limitations de vitesse dérogatoires indiquées
 par le signal C,14, la vitesse maximale autorisée est fixée comme suit, même en l’absence d’une signalisation spécifique:
 (Règl. g.-d. du 10 septembre 2009)
 «a)
@@ -15728,7 +15728,7 @@ sur les autoroutes
 
 En amont des tronçons soumis aux limitations du présent paragraphe, et à distance adéquate, la vitesse maximale autorisée
 est réduite de façon progressive.
-\4. Sans préjudice des autres dispositions du présent article, il est interdit
+4\. Sans préjudice des autres dispositions du présent article, il est interdit
 
 de conduire un cyclomoteur à une vitesse supérieure à 45 km/h;
 
@@ -15745,7 +15745,7 @@ d)
 de conduire un véhicule automoteur équipé de pneus à crampons à une vitesse supérieure à 90 km/h sur les autoroutes
 et à une vitesse supérieure à 70 km/h sur les autres voies publiques.
 
-\5. Hormis le premier alinéa du paragraphe 1., les prescriptions du présent article ne sont pas applicables:
+5\. Hormis le premier alinéa du paragraphe 1., les prescriptions du présent article ne sont pas applicables:
 (Règl. g.-d. du 23 mai 2012)
 «a)
 
@@ -15780,7 +15780,7 @@ ralentir, de s’écarter ou de s’arrêter. L’obligation de s’écarter ne 
 «Il est interdit d’empêcher la marche normale des autres véhicules, soit en circulant sans raison valable à une vitesse excessivement réduite, soit en effectuant un freinage soudain ou un arrêt brusque non exigé par des raisons de sécurité.»
 Art. 141.
 (Règl. g.-d. du 23 mai 2012)
-\1. Tout conducteur d’un véhicule en mouvement doit observer une distance suffisante, selon les circonstances, entre son
+1\. Tout conducteur d’un véhicule en mouvement doit observer une distance suffisante, selon les circonstances, entre son
 véhicule et le véhicule qui précède, pour qu’en cas de ralentissement ou d’arrêt subits du véhicule qui précède, une collision
 puisse être évitée.
 \- 262 -
@@ -16051,12 +16051,12 @@ Art. 150.
 (Règl. g.-d. du 11 avril 1964)
 «Dès la tombée et jusqu’au lever du jour ainsi que de jour lorsque les circonstances notamment d’ordre atmosphérique
 l’exigent:
-1)
+1\)
 
 la face arrière de la dernière remorque, du dernier véhicule forain ou de la dernière roulotte accouplés en mouvement
 doit être éclairée par les feux prévus au deuxième alinéa de l’article 45 ci-dessus.
 
-2)
+2\)
 
 les remorques, les véhicules forains et les roulottes accouplés en mouvement, dont la largeur dépasse celle du véhicule
 tracteur, doivent être éclairés en outre sur chaque côté de la face avant par les feux d’encombrement prévus au premier
@@ -16069,12 +16069,12 @@ les remorques, les véhicules forains et les roulottes accouplés en mouvement d
 dépasser 2,50 m, peuvent être éclairés en outre par les deux d’encombrement prévus à l’article 44; cet éclairage est
 obligatoire si la largeur de ces véhicules dépasse 2,50 m;»
 
-4)
+4\)
 
 la remorque tirée par un motocycle est suffisamment signalée si la face arrière de la remorque est éclairée par un feu
 rouge non éblouissant et par un feu blanc éclairant la plaque d’identité.
 
-5)
+5\)
 
 la face arrière gauche du dernier des autres véhicules traînés par un véhicule automoteur, doit être signalée par un feu
 non éblouissant éclairant rouge vers l’arrière.
@@ -16082,7 +16082,7 @@ non éblouissant éclairant rouge vers l’arrière.
 Les prescriptions qui précèdent sont également applicables, lorsque les véhicules précités sub 1) à 5), accouplés à un véhicule automoteur, se trouvent à l’arrêt ou en stationnement sur la voie publique et que l’éclairage de la voie publique ne permet
 pas de les voir distinctement à une distance suffisante.
 (…) (Abrogé par le règl. g.-d. du 20 septembre 1994)
-7)
+7\)
 
 Les remorques, les véhicules forains et les roulottes non accouplés doivent être éclairés par au moins un feu blanc non
 éblouissant à l’avant et par au moins un feu rouge non éblouissant à l’arrière, placés l’un et l’autre sur le côté du véhicule
@@ -16112,7 +16112,7 @@ Art. 152.
 (Règl. g.-d. du 11 avril 1964)
 «Dès la tombée et jusqu’au lever du jour ainsi que de jour lorsque les circonstances notamment d’ordre atmosphérique
 l’exigent:
-1)
+1\)
 
 les «tracteurs»1 et les machines automotrices d’un poids propre supérieur à 400 kg qui ne peuvent être éclairés conformément aux prescriptions des articles 146 et 147 ci-dessus et dont la vitesse ne peut dépasser en palier 10 km/h.
 doivent être éclairés au moins par les feux suivants placés sur le côté gauche du véhicule:
@@ -16125,7 +16125,7 @@ doivent être éclairés au moins par les feux suivants placés sur le côté ga
 les fauteuils roulants et les fauteuils roulants à moteur circulant sur la chaussée ou conduits sur la chaussée par une personne en tant que piéton, doivent être éclairés à l’avant par au moins un feu blanc et à l’arrière par au moins un feu rouge.
 Ces feux peuvent être remplacés par un dispositif émettant tant vers l’avant que vers l’arrière un feu non éblouissant.»
 
-3)
+3\)
 
 les véhicules en mouvement dont l’éclairage n’est pas spécifié à la présente section, doivent être signalés par au moins
 un feu unique non éblouissant fixé au côté gauche du véhicule et éclairant blanc ou jaune vers l’avant et rouge ou jaune
@@ -16133,7 +16133,7 @@ vers l’arrière. Si le feu unique en question ne peut être fixé au véhicule
 immédiatement à la gauche du véhicule. Dans ce cas l’appareil unique doit émettre tant vers l’avant que vers l’arrière un
 feu jaune non éblouissant.
 
-4)
+4\)
 
 les bêtes de trait non attelées, de charge ou de selle et les animaux isolés ou en troupeaux circulant sur une voie publique autre qu’un chemin de terre doivent être éclairés à l’avant par un feu blanc ou jaune non éblouissant et à l’arrière
 par un feu rouge non éblouissant. Toutefois, l’éclairage peut être assuré par un appareil unique qui doit être porté du
@@ -16210,13 +16210,13 @@ machines, si la présence sur autoroute de ces véhicules est indispensable pour
 mission de secours.»
 «2. Les véhicules admis à circuler sur les autoroutes ne peuvent y avoir accès que par les bretelles d’accès ou les chaussées
 munies du signal E,15 et ne peuvent en sortir que par les bretelles de sortie ou les chaussées munies du signal E,16.
-\3. Le conducteur qui circule sur une bretelle ou une chaussée d’accès à une autoroute, doit emprunter la voie d’accélération
+3\. Le conducteur qui circule sur une bretelle ou une chaussée d’accès à une autoroute, doit emprunter la voie d’accélération
 avant de s’engager sur les voies de circulation de l’autoroute et céder le passage aux conducteurs qui y circulent; si nécessaire,
 il doit s’arrêter avant de s’y engager.»
 (Règl. g.-d. du 11 avril 1964)
 «4. Le conducteur qui veut quitter l’autoroute doit emprunter à temps la voie de circulation de droite et s’engager au plus tôt
 sur la voie de décélération si une telle voie existe.
-\5. Il est interdit de pénétrer sur les bandes de terrain et les raccordements reliant les chaussées d’une autoroute, sauf signalisation contraire.
+5\. Il est interdit de pénétrer sur les bandes de terrain et les raccordements reliant les chaussées d’une autoroute, sauf signalisation contraire.
 (Règl. g.-d. du 13 janvier 2005)
 «6. Il est interdit de faire demi-tour ou marche arrière sur une autoroute.
 En cas d’encombrement de la chaussée, et pour autant que le service l’exige, l’interdiction de faire marche arrière ne s’applique pas aux véhicules utilisés en service urgent et énumérés à l’article 39, pour autant que le service l’exige et à condition
@@ -16441,9 +16441,9 @@ mission de secours.»
 «2. Les véhicules admis à circuler sur les routes pour véhicules automoteurs ne peuvent y avoir accès que par les bretelles
 d’accès ou les chaussées munies du signal E,17 et ne peuvent en sortir que par les bretelles de sortie ou les chaussées munies
 du signal E,18.
-\3. Le conducteur qui circule sur une bretelle ou une chaussée d’accès à une route pour véhicules automoteurs, doit emprunter la voie d’accélération avant de s’engager sur les voies de circulation de la route pour véhicules automoteurs et céder le
+3\. Le conducteur qui circule sur une bretelle ou une chaussée d’accès à une route pour véhicules automoteurs, doit emprunter la voie d’accélération avant de s’engager sur les voies de circulation de la route pour véhicules automoteurs et céder le
 passage aux conducteurs qui y circulent; si nécessaire, il doit s’arrêter avant de s’y engager.»
-\4. Le conducteur qui veut quitter une route pour véhicules automoteurs doit s’engager au plus tôt sur la voie de décélération
+4\. Le conducteur qui veut quitter une route pour véhicules automoteurs doit s’engager au plus tôt sur la voie de décélération
 si une telle voie existe.
 (Règl. g.-d. du 13 janvier 2005)
 «5. Il est interdit de faire demi-tour ou marche arrière sur une route pour véhicules automoteurs.
@@ -16507,7 +16507,7 @@ faire descendre des voyageurs sur la chaussée du côté emprunté par la circul
 de la chaussée.
 Il est interdit aux voyageurs de monter dans un autobus ou un tramway ou d’en descendre avant l’arrêt complet du véhicule
 et à des endroits autres que les arrêts d’autobus, les arrêts de tramways et les gares routières signalés comme tels.
-\2. Il est interdit aux conducteurs d’autobus et de tramways de laisser ou de faire monter plus de voyageurs que le véhicule
+2\. Il est interdit aux conducteurs d’autobus et de tramways de laisser ou de faire monter plus de voyageurs que le véhicule
 ne comporte de places assises et de places debout.»
 Art. 159.
 (Règl. g.-d. du 22 juin 2017)
@@ -16612,11 +16612,11 @@ largeur de la chaussée lorsqu’elle leur est réservée.
 
 (Règl. g.-d. du 8 avril 2018)
 « d) Ils doivent se mettre en file:
-\1. dans les virages, à l’approche du sommet d’une côte ainsi que sur les passages à niveau et à leur approche ;
-\2. entre la tombée de la nuit et le lever du jour ;
-\3. à l’intérieur d’une agglomération aux endroits où la vitesse maximale autorisée est supérieure ou égale à 50 km/h,
+1\. dans les virages, à l’approche du sommet d’une côte ainsi que sur les passages à niveau et à leur approche ;
+2\. entre la tombée de la nuit et le lever du jour ;
+3\. à l’intérieur d’une agglomération aux endroits où la vitesse maximale autorisée est supérieure ou égale à 50 km/h,
 lorsqu’ils sont dépassés ou lorsqu’ils doivent s’attendre à être dépassés par un véhicule automoteur ;
-\4. lorsqu’ils occasionnent sans nécessité une gêne excessive pour les autres usagers de la route. »
+4\. lorsqu’ils occasionnent sans nécessité une gêne excessive pour les autres usagers de la route. »
 (Règl. g.-d. du 30 janvier 2024)
 « e) Aux passages pour cyclistes et aux passages pour piétons et cyclistes où la circulation n’est pas réglée par des agents
 chargés du contrôle de la circulation ou par des signaux colorés lumineux, ils ne doivent s’engager sur le passage
@@ -16674,13 +16674,13 @@ catégories M2 et M3;
 pour le transport d’enfants âgés de 3 ans à 17 ans accomplis dont la taille n’atteint pas 150 cm dans les véhicules et
 dans les conditions dont question aux deuxième et troisième alinéas du paragraphe 5.
 
-\2. Les conducteurs de véhicules routiers automoteurs, autres que ceux des catégories M2 et M3, sont responsables du
+2\. Les conducteurs de véhicules routiers automoteurs, autres que ceux des catégories M2 et M3, sont responsables du
 transport des enfants mineurs dans les conditions du présent article.
 (Règl. g.-d. du 30 janvier 2024)
 « 3. Les dispositions du paragraphe 1er ne sont pas applicables aux passagers des véhicules routiers des catégories M2 et
 M3 affectés au transport local et circulant en zone urbaine ou en agglomération, dans le cadre des services réguliers ou des
 services occasionnels de transports publics, tels que définis à l’article 4 de la loi du 5 février 2021 sur les transports publics. »
-\4. (Règl. g.-d. du 1er octobre 2018) «Il est interdit dans les véhicules routiers automoteurs, autres que ceux des catégories M2
+4\. (Règl. g.-d. du 1er octobre 2018) «Il est interdit dans les véhicules routiers automoteurs, autres que ceux des catégories M2
 et M3, de transporter des enfants âgés de moins de trois ans autrement que placés dans un dispositif de retenue spécial couvert
 par une marque d’homologation délivrée soit sur base du règlement (ECE) N° 44 concernant les prescriptions uniformes relatives
 à l’homologation des dispositifs de retenue pour enfants, soit du règlement (ECE) N° 129 concernant les prescriptions uniformes
@@ -16717,13 +16717,13 @@ et occuper des places assises qui ne font pas partie de la rangée avant du véh
 inscrites sur le certificat d’immatriculation.
 Dans les véhicules routiers automoteurs non munis de ceintures de sécurité, ces enfants doivent occuper une place assise
 qui ne fait pas partie de la rangée avant du véhicule.»
-\6. Les prescriptions du présent article s’appliquent également aux conducteurs et passagers des véhicules routiers automoteurs qui sont immatriculés à l’étranger dans la mesure où ces véhicules sont équipés de ceintures de sécurité ou que des
+6\. Les prescriptions du présent article s’appliquent également aux conducteurs et passagers des véhicules routiers automoteurs qui sont immatriculés à l’étranger dans la mesure où ces véhicules sont équipés de ceintures de sécurité ou que des
 dispositifs de retenue pour enfants se trouvent à bord de ces véhicules, à moins que ces conducteurs ou passagers ne soient
 munis d’autorisations les exemptant du port de la ceinture de sécurité pour des raisons médicales et portant le symbole prévu
 par l’article 5 de la directive modifiée 91/671/CEE du Conseil du 16 décembre 1991 relative à l’utilisation obligatoire de ceintures
 de sécurité et de dispositifs de retenue pour enfants dans les véhicules.»
 «Art. 160ter.
-\1. Les prescriptions de l’article 160bis ne sont pas applicables:
+1\. Les prescriptions de l’article 160bis ne sont pas applicables:
 
 aux conducteurs et passagers de véhicules routiers automoteurs, lorsqu’ils assurent, à l’intérieur d’une agglomération,
 « une collecte ou »2 une distribution de porte-à-porte nécessitant des descentes répétées du véhicule;
@@ -17024,7 +17024,7 @@ s’arrêtent à un arrêt d’autobus signalé comme tel, dès lors qu’ils s�
 de la chaussée;
 «e)»2 ne pas entraver les entrées et les sorties des parkings et des garages publics ou privés, les accès carrossables des
 immeubles et les accès aux emplacements de stationnement privés.
-\2. L’arrêt des véhicules ou animaux est interdit:
+2\. L’arrêt des véhicules ou animaux est interdit:
 
 aux endroits pourvus du signal C,19;
 
@@ -17258,7 +17258,7 @@ Art. 168.
 E,23, les conducteurs doivent se conformer aux dispositions de l’article 167bis, notamment en faisant usage d’un disque de
 parcage répondant aux exigences du modèle de disque dudit article.
 Les dispositions du présent article sont applicables sans préjudice d’éventuelles modalités particulières émises par les autorités communales en matière de parcage et dûment approuvées par l’autorité supérieure.
-\2. Tout véhicule parqué doit être placé de façon à ne pas gêner l’accès des autres véhicules au parking et leur sortie du
+2\. Tout véhicule parqué doit être placé de façon à ne pas gêner l’accès des autres véhicules au parking et leur sortie du
 parking, ainsi qu’en conformité des emplacements délimités par l’autorité ou des injonctions de ses agents.»
 (Règl. g.-d. du 19 décembre 2020)
 « 3. Les dispositions du présent article ne s’appliquent pas aux véhicules utilisés en service urgent et énumérés à l’article
@@ -17287,7 +17287,7 @@ tramways.»
 sont placés en pente.
 Les attelages ainsi que les bêtes de trait et de charge doivent être confiés à la garde d’une personne en état d’exercer une
 surveillance efficace ou doivent être attachés de manière qu’ils ne puissent s’échapper ni se déplacer.
-\2. A moins de se mettre en sécurité sur le chemin le plus court possible, toute personne qui emprunte à pied une chaussée,
+2\. A moins de se mettre en sécurité sur le chemin le plus court possible, toute personne qui emprunte à pied une chaussée,
 une bande ou une place d’arrêt d’urgence de la grande voirie, doit porter un vêtement de sécurité qui répond aux exigences du
 paragraphe L) de l’article 49.
 A moins de traverser la chaussée ou de se mettre en sécurité sur le chemin le plus court possible, toute personne qui
@@ -17300,7 +17300,7 @@ places publiques, les pistes cyclables et les chemins pour cyclistes et piétons
 
 (Règl. g.-d. du 6 juillet 2001)
 «Art. 170bis.
-\1. Il est interdit de conduire un véhicule en portant un dispositif entravant une bonne perception des bruits de la circulation
+1\. Il est interdit de conduire un véhicule en portant un dispositif entravant une bonne perception des bruits de la circulation
 « , à l’exception des appareils qui sont portés à une seule oreille et qui servent à la communication »1.»
 (Règl. g.-d. du 30 janvier 2024)
 « 2. Il est interdit à tout conducteur d’un véhicule qui n’est pas en stationnement ou en parcage d’utiliser, de tenir en main ou
@@ -17312,7 +17312,7 @@ Il est interdit à tout conducteur d’un véhicule qui n’est pas en stationne
 spécialement conçu à cette fin.
 Il est interdit à tout conducteur d’utiliser un casque homologué obligatoire où l’équipement de communication n’est ni intégré,
 ni fixé au casque conformément aux prescriptions du fabricant.»
-\3. (. . .) (supprimé par le règl. g.-d. du 30 janvier 2024)
+3\. (. . .) (supprimé par le règl. g.-d. du 30 janvier 2024)
 Art. 171.
 (Règl. g.-d. du 23 mai 2012)
 «1. Hormis le cas d’une dégradation de la fluidité de la circulation, tout véhicule immobilisé sur une voie de circulation d’une
@@ -17331,9 +17331,9 @@ gabarit du véhicule du côté de la circulation; il lui est en outre interdit d
 «2. Dans le cas d’une dégradation de la fluidité de la circulation, le conducteur qui s’approche d’un bouchon qui s’est formé
 sur la voie de circulation qu’il emprunte et qui est contraint de ralentir ou d’immobiliser son véhicule, doit faire usage du signal
 de détresse, pour autant que le véhicule en soit muni.
-\3. Les conducteurs des véhicules qui effectuent le ramassage scolaire doivent faire usage du signal de détresse pendant
+3\. Les conducteurs des véhicules qui effectuent le ramassage scolaire doivent faire usage du signal de détresse pendant
 leurs arrêts, pour la durée de la prise en charge ou du déchargement des passagers.
-\4. L’usage du signal de détresse commande aux autres conducteurs la prudence et l’obligation de se conformer aux dispositions de l’article 139, paragraphe 1., troisième alinéa. Son usage n’est autorisé que dans les conditions et circonstances
+4\. L’usage du signal de détresse commande aux autres conducteurs la prudence et l’obligation de se conformer aux dispositions de l’article 139, paragraphe 1., troisième alinéa. Son usage n’est autorisé que dans les conditions et circonstances
 prévues au présent article.»
 
 Chapitre VIII.- Véhicules immatriculés à l’étranger et leurs conducteurs
@@ -17475,7 +17475,7 @@ encore réussi l’examen théorique.»
 est considérée comme équivalente à une puissance de 25 kW.
 (…) (Abrogé par le règl. g.-d. du 19 mars 2008)
 «5.»1 Les dispositions du paragraphe 3. de l’article 79 ne sont pas applicables aux candidats aux catégories C, D et E sous
-\2) du permis de conduire qui détenaient la catégorie B avant le 1er juillet 1995.
+2\) du permis de conduire qui détenaient la catégorie B avant le 1er juillet 1995.
 
 Renuméroté par le règlement grand-ducal du 19 mars 2008.
 
@@ -17527,9 +17527,9 @@ avant le 19 janvier 2033 contre le modèle de permis de conduire communautaire d
 dispositions des paragraphes 1. et 2. de l’article 87.
 (. . .) (supprimé par le règl. g.-d. du 19 décembre 2020)
 L’équivalence à la catégorie A2 n’est pas accordée à la sous-catégorie A2 des permis de conduire délivrés avant le 19 janvier
-2013.
+2013\.
 L’équivalence à la catégorie AM est accordée à la sous-catégorie A3 des permis de conduire délivrés avant le 19 janvier
-2013.
+2013\.
 Par dérogation aux dispositions du paragraphe 2. de l’article 76, les permis de conduire correspondant à la catégorie A1 du
 permis de conduire, délivrés avant le 19 janvier 2013, sont également valables pour la conduite de motocycles légers, avec ou
 sans side-car, pourvus d’un moteur d’une cylindrée maximale de 125 cm3 et d’une puissance maximale de 11 kW.
@@ -17574,7 +17574,7 @@ JURISPRUDENCE
 
 Article 24
 
-\4. Renouvellement du permis – refus – condition médicale minimale –
+4\. Renouvellement du permis – refus – condition médicale minimale –
 expertise judiciaire – erreur manifeste d’appréciation (non) – a. g.-d. du 23
 
 Immatriculation – plaques rouges – pouvoir du Ministre des transports –
@@ -17629,7 +17629,7 @@ applicable, a pu amener l’autorité compétente à retenir le refus prononcé.
 Article 55
 
 CA 24-6-08 (24103C)
-\5. Renouvellement du permis - conditions - condition médicale minimale -
+5\. Renouvellement du permis - conditions - condition médicale minimale -
 
 Agrément d’installateurs de taxis – compétence du ministre (non) – loi du
 
@@ -17663,7 +17663,7 @@ Article 80
 
 Article 74
 
-\1. Carte de légitimation pour accompagnateur – absence de condamna-
+1\. Carte de légitimation pour accompagnateur – absence de condamna-
 
 Permis de conduire – titulaire déménageant vers l’étranger – délai accordé
 
@@ -17691,7 +17691,7 @@ TA 13-10-08 (24038)
 
 seconde prolongation.
 
-\2. Carte de légitimation pour accompagnateur – absence de condamna-
+2\. Carte de légitimation pour accompagnateur – absence de condamna-
 
 TA 31-3-03 (15693, c. 6-11-03, 16425C)
 
@@ -17701,7 +17701,7 @@ Article 77
 
 Le texte de l’article 80 de l’arrêté grand-ducal modifié du 23 novembre
 
-\1. Restitution du permis de conduire – catégorie C + E – maladies du sys-
+1\. Restitution du permis de conduire – catégorie C + E – maladies du sys-
 
 1955 portant règlement de la circulation sur toutes les voies publiques fait
 
@@ -17745,7 +17745,7 @@ TA 25-10-1999 (11143)
 
 la réglementation de la circulation sur les voies publiques moyennant consul-
 
-\2. Restitution du permis de conduire – catégorie C + E – maladies du sys-
+2\. Restitution du permis de conduire – catégorie C + E – maladies du sys-
 
 tation du bulletin n° 2 est donc acquise par un moyen illégal, de sorte qu’une
 décision de refus de délivrance d’une carte de légitimation pour accompagna-
@@ -17779,7 +17779,7 @@ TA 9-7-03 (15441 et 16116)
 
 infractions au code de la route et, après un avertissement et une prolongation
 
-\3. Restitution du permis de conduire – catégorie C + E – différente mala-
+3\. Restitution du permis de conduire – catégorie C + E – différente mala-
 
 de sa durée de stage, a commis quatre nouvelles infractions.
 
@@ -17798,7 +17798,7 @@ Article 84
 épileptique se trouvent inscrites aux alinéas 2, 3 et 5, précités, de l’article 77,
 paragraphe 5, point b) de l’arrêté grand-ducal du 23 novembre 1995, les condi-
 
-\1. Permis de conduire – reconnaissance mutuelle entre États membres
+1\. Permis de conduire – reconnaissance mutuelle entre États membres
 
 tions à remplir par une personne souffrant d’une lésion intracérébrale struc-
 
@@ -17852,7 +17852,7 @@ de conduire délivré par un autre Etat membre de l’Espace Economique Europée
 ministre à vérifier si les permis présentés à l’échange sont en cours de validité.
 TA 16-05-2013 (30530)
 
-\5. Retrait administratif du permis – audition préalable par la commission
+5\. Retrait administratif du permis – audition préalable par la commission
 spéciale des permis de conduire – preuve de la notification des convocations –
 absence de preuve – procédure viciée – r. g.-d. du 23 novembre 1955, art. 90
 Il appartient au ministre de prouver que la notification des convocations
@@ -17862,7 +17862,7 @@ nature à entraîner la nullité de la décision administrative prise sur base e
 suite de la procédure en question.
 TA 25-7-01 (12443)
 
-\2. Échange du permis étranger contre un permis luxembourgeois – conditions – loi du 14 février 1955, art. 2; a. g.-d. du 23 novembre 1955, art. 84
+2\. Échange du permis étranger contre un permis luxembourgeois – conditions – loi du 14 février 1955, art. 2; a. g.-d. du 23 novembre 1955, art. 84
 Le ministre des Transports peut refuser la transcription d’un permis de
 conduire si le titulaire n’offre pas, compte tenu des faits d’inhabilité ou de
 maladresse suffisamment concluant et constatés à sa charge, les garanties
@@ -17878,12 +17878,12 @@ les permis de conduire délivrés par les États membres que ceux délivrés par
 les États tiers.
 TA 18-7-12 (29119)
 
-\6. Convocation – mentions obligatoires – assistance par un médecin –
+6\. Convocation – mentions obligatoires – assistance par un médecin –
 omission – irrégularité – r. g.-d. du 23 novembre 1955, art. 90, par. 2
 L’omission, dans la convocation devant la commission médicale, de l’indication que l’administré peut se faire accompagner d’un médecin de son choix,
 rend la convocation irrégulière et vicie la décision prise dans la suite.
 TA 16-4-12 (28829)
-\7. Retrait administratif du permis – audition préalable par la commission
+7\. Retrait administratif du permis – audition préalable par la commission
 spéciale des permis – intéressé incarcéré – preuve de la notification valable
 des convocations – notification valable au domicile privé – r. g.-d. du 23 novembre 1955, art. 90
 En présence de deux lettres de convocation adressées au domicile privé
@@ -17894,11 +17894,11 @@ l’administration.
 TA 2-4-03 (15687)
 
 Article 90
-\1. Commission spéciale des permis de conduire – audition obligatoire (oui)
+1\. Commission spéciale des permis de conduire – audition obligatoire (oui)
 – communication de la nouvelle adresse - arrêté grand-ducal du 23 novembre
 1955, art. 90
 
-\8. Convocation devant la commission médicale – non-comparution – lettre
+8\. Convocation devant la commission médicale – non-comparution – lettre
 d’excuse – avis rendu par défaut – régularité de la procédure – a. g.- d. du 23
 novembre 1955, art. 90
 
@@ -17919,13 +17919,13 @@ de l’administré, de sorte que la procédure d’instruction devant la commiss
 médicale est viciée.
 TA 25-11-02 (14990)
 
-\2. Retrait administratif – légalité du retrait – décision prise sur base des
+2\. Retrait administratif – légalité du retrait – décision prise sur base des
 mêmes faits que ceux qui ont conduit à une interdiction judiciaire de conduire
 – contrariété à la Convention européenne des droits de l’homme consacrant le
 principe «ne bis in idem» (non) – Conv. eur. des droits de l’homme, Protocole
 additionnel n° 7, art. 4 – arrêté grand-ducal du 23 novembre 1955, art. 90
 
-\9. Retrait administratif du permis – audition préalable par la commission
+9\. Retrait administratif du permis – audition préalable par la commission
 spéciale des permis – infirmités ou troubles susceptibles d’entraver les aptitudes ou capacité de conduire – examen pouvant inclure un test pratique – a.
 g.-d. du 23 novembre 1955, art. 90
 
@@ -17946,14 +17946,14 @@ troubles résultant d’autres éléments du dossier et de l’audition personne
 la personne concernée entravent effectivement sa capacité de conduire.
 TA 9-11-06 (21402)
 
-\3. Retrait administratif – retrait non limité dans le temps – légalité - arrêté
+3\. Retrait administratif – retrait non limité dans le temps – légalité - arrêté
 grand-ducal du 23 novembre 1955, art. 90
 Il n’existe aucune disposition légale ou réglementaire qui interdit au ministre de prononcer un retrait du permis de conduire pour une durée indéterminée, rien n’empêchant par ailleurs l’administré de solliciter une nouvelle
 délivrance lorsqu’il s’estimera de nouveau en droit de conduire une voiture
 automobile.
 TA 23-8-06 (20989)
 
-\10. Infractions au code de la route – existence de condamnations pénales
+10\. Infractions au code de la route – existence de condamnations pénales
 afférentes – incidence (non) – a. g.-d. du 23 novembre 1955, art. 90
 Des condamnations répétées de dépassement de la vitesse réglementaire
 et de conduite d’un véhicule automoteur malgré une interdiction de conduire
@@ -17965,14 +17965,14 @@ sanctionner des faits précis contrairement au retrait administratif du permis d
 conduire basé sur le comportement global du titulaire.
 TA 28-5-97 (9667, c. 16-10-97, 10082C)
 
-\4. Demande en mainlevée d’une restriction du permis de conduire – réponse ministérielle consistant en un retrait pur et simple – validité (non) – arrêté grand-ducal du 23 novembre 1955, art. 90
+4\. Demande en mainlevée d’une restriction du permis de conduire – réponse ministérielle consistant en un retrait pur et simple – validité (non) – arrêté grand-ducal du 23 novembre 1955, art. 90
 Étant donné que la prise d’une mesure administrative suite à l’initiative
 afférente du ministre suppose au préalable l’exécution d’une enquête spécifique faisant l’objet d’un avis du procureur général d’État et d’un avis motivé
 de la commission spéciale après une audition de l’intéressé, le ministre saisi
 
 \- 291 -
 
-\11. Demande de délivrance d’un duplicata – refus – décision équivalant à
+11\. Demande de délivrance d’un duplicata – refus – décision équivalant à
 un retrait – obligations de l’administration – information préalable de l’administré – loi du 14 février 1955, art. 2; arrêté grand-ducal du 23 novembre 1955, art.
 90; r. g.-d. du 8 juin 1979, art. 9
 
@@ -18000,7 +18000,7 @@ conduire allemand du demandeur en un permis luxembourgeois), qui consacre
 le principe de la reconnaissance mutuelle des permis de conduire entre les
 Etats membres.
 
-\12. Délivrance d’un duplicata – directive du Conseil 91/439 CEE du 29
+12\. Délivrance d’un duplicata – directive du Conseil 91/439 CEE du 29
 juillet 1991, art. 8 sub 5 – applicabilité directe
 
 Au regard du libellé de l’article 8, point 1 de ladite directive, le permis de
@@ -18033,7 +18033,7 @@ membre la validité de tout permis qui puisse, après cette période d’interdi
 lui être délivré par un autre État membre.
 TA 16-05-2013 (30683)
 
-\13. Directive du Conseil 91/439 CEE du 29 juillet 1991 – but – levée des
+13\. Directive du Conseil 91/439 CEE du 29 juillet 1991 – but – levée des
 obstacles à la libre circulation – restriction des droits du titulaire d’un permis
 par rapport à la situation antérieure (non) – situations visées – transferts de
 résidence à l’intérieur de l’Union européenne – exception échange dans les
@@ -18053,7 +18053,7 @@ Biens- propriété – véhicules – immatriculation – effet – simple forma
 administrative (non) présomption de propriété (oui) - arrêté grand-ducal 23
 novembre 1955, art. 95
 
-\14. Retrait de permis de conduire - avis de la Commission médicale –
+14\. Retrait de permis de conduire - avis de la Commission médicale –
 recours contentieux ouvert (non) - arrêté grand-ducal du 23 novembre 1955,
 art. 90
 
@@ -18257,9 +18257,9 @@ Modifié par le règlement grand-ducal du 2 août 2002.
 (Règl. g.-d. du 5 juin 1998)
 «2. La copie est remise respectivement au «directeur général de la police grand-ducale»1� ou au directeur de l’administration
 des douanes et des accises.
-\3. L’information au procureur d’Etat des avertissements taxés donnés se fait moyennant l’établissement par le «directeur
+3\. L’information au procureur d’Etat des avertissements taxés donnés se fait moyennant l’établissement par le «directeur
 général de la police grand-ducale»1 et par le directeur de l’administration des douanes et des accises de relevés mensuels.
-\4. La souche reste dans le carnet de formules.
+4\. La souche reste dans le carnet de formules.
 Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches et les quittances de dépôt y relatives, par les
 «membres de la police grand-ducale au directeur général de la police grand-ducale»1 et par les membres de l’administration
 des douanes et des accises au directeur de l’administration des douanes et des accises.
@@ -18277,22 +18277,22 @@ les membres de la police grand-ducale au directeur général de la police et par
 accises au directeur de cette administration.»
 (Règl. g.-d. du 2 août 2002)
 «Art. 4bis.
-\1. Lorsque le paiement de l’avertissement taxé est susceptible d’entraîner une réduction des points, le membre de la police
+1\. Lorsque le paiement de l’avertissement taxé est susceptible d’entraîner une réduction des points, le membre de la police
 grand-ducale ou de l’administration des douanes et accises informe le contrevenant de la réduction de points qu’entraîne le
 règlement de la taxe. Il fait en outre signer par celui-ci la déclaration sur les formules spéciales publiées en annexe du présent
 règlement moyennant laquelle le contrevenant déclare avoir été avisé dans les termes de la loi de la réduction de points résultant de l’application de l’avertissement taxé en cause, la formule étant complétée par les mots «lu et approuvé».
 Par ailleurs, le contrevenant se voit remettre le reçu contre paiement de la somme due en vertu du catalogue des avertissements taxés repris en annexe, la rubrique permis à points dûment remplie.
-\2. Lorsque la taxe est réglée par versement ou par virement à un des comptes chèques postaux prévus à l’article 2 le récépissé en cas de versement et la copie en cas de virement servent de reçu au contrevenant. Le règlement de la taxe par virement
+2\. Lorsque la taxe est réglée par versement ou par virement à un des comptes chèques postaux prévus à l’article 2 le récépissé en cas de versement et la copie en cas de virement servent de reçu au contrevenant. Le règlement de la taxe par virement
 ou versement ne dispense pas le membre de police grand-ducale ou de l’administration des douanes et accises de faire signer
 par le contrevenant la déclaration dont question au premier alinéa du paragraphe 1.
-\3. Lorsque l’avertissement taxé est susceptible d’entraîner une réduction de points et que le montant ne peut pas être perçu
+3\. Lorsque l’avertissement taxé est susceptible d’entraîner une réduction de points et que le montant ne peut pas être perçu
 sur le lieu même de l’infraction le contrevenant se verra remettre la convocation, la rubrique permis à points dûment remplie.
 En cas d’établissement d’un procès-verbal, la copie est annexée audit procès-verbal et sera transmise au procureur d’Etat.
 La souche reste dans le carnet de formules. Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches par
 les membres de la police grand-ducale au directeur général de la police et par les membres de l’administration des douanes et
 accises au directeur de cette administration.
-\4. L’information au procureur d’Etat des avertissements taxés donnés se fait moyennant l’établissement par le directeur général de la police grand-ducale et par le directeur de l’administration des douanes et accises de relevés mensuels.
-\5. La souche reste dans le carnet de formules.
+4\. L’information au procureur d’Etat des avertissements taxés donnés se fait moyennant l’établissement par le directeur général de la police grand-ducale et par le directeur de l’administration des douanes et accises de relevés mensuels.
+5\. La souche reste dans le carnet de formules.
 Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches et les quittances de dépôt y relatives, par les
 membres de la police grand-ducale au directeur général de la police grand-ducale et par les membres de l’administration des
 douanes et accises au directeur de cette administration.
@@ -18365,13 +18365,13 @@ et des accises.
 «Toutes les sommes à consigner perçues par les membres de la police grand-ducale et de l’administration des douanes et
 des accises sont versées sans retard à la caisse de consignation conformément à la loi du 29 avril 1999 sur les consignations
 auprès de l’Etat.»
-\2. Le reçu est immédiatement remis au contrevenant contre paiement de la somme à consigner fixée conformément aux
+2\. Le reçu est immédiatement remis au contrevenant contre paiement de la somme à consigner fixée conformément aux
 dispositions de l’article 6.
-\3. La première copie est remise «à la caisse de consignation»2 en même temps que le montant de la somme à consigner.
+3\. La première copie est remise «à la caisse de consignation»2 en même temps que le montant de la somme à consigner.
 Les frais d’encaissement éventuels en sont déduits, lorsque la somme à consigner est réglée par chèque; dans ce dernier cas,
 la pièce justificative renseignant sur ces frais est annexée à la copie.
-\4. La deuxième copie certifiée «par la caisse de consignation»2 est annexée au procès-verbal établi en la matière.
-\5. La souche, dûment certifiée «par la caisse de consignation»2 ou, en cas de virement postal de la somme à consigner, par
+4\. La deuxième copie certifiée «par la caisse de consignation»2 est annexée au procès-verbal établi en la matière.
+5\. La souche, dûment certifiée «par la caisse de consignation»2 ou, en cas de virement postal de la somme à consigner, par
 le préposé du bureau des postes, reste dans le carnet de formules. Du moment que le carnet est épuisé, il est renvoyé avec
 toutes les souches dûment certifiées «par les membres de la police grand-ducale au directeur générale de la police grand-ducale»1 et par les membres de l’administration des douanes et des accises au directeur de l’administration des douanes et des
 accises.
@@ -18500,14 +18500,14 @@ pour une des infractions reprises au paragraphe 2 de l’article 2bis de la loi 
 La communication qui a lieu dans les 30 jours suivant la date à laquelle la condamnation est devenue irrévocable, consiste
 dans la transmission de la décision judiciaire intervenue.
 Art. 15.
-\1. Le ministre des Transports procède à l’imputation des points retirés et en informe l’intéressé endéans les huit jours
+1\. Le ministre des Transports procède à l’imputation des points retirés et en informe l’intéressé endéans les huit jours
 ouvrables à compter des communications prévues aux articles 13 et 14.
 (Règl. g.-d. du 18 octobre 2006)
 «Cette information est faite sous pli fermé et recommandé dans le cas d’une déduction de points.» Elle est faite par simple
 lettre postale en cas de reconstitution partielle ou intégrale des points. Dans le cas d’une personne qui n’a pas sa résidence
 normale au Luxembourg, cette information est valablement faite, lorsqu’elle est adressée selon les modalités qui précèdent à
 l’adresse indiquée suivant le cas dans la décision judiciaire ou dans la communication prévue à l’article 13.
-\2. L’information prévue au dernier alinéa du paragraphe 2. de l’article 2bis de la loi du 14 février 1955 précitée mentionne le
+2\. L’information prévue au dernier alinéa du paragraphe 2. de l’article 2bis de la loi du 14 février 1955 précitée mentionne le
 libellé de l’infraction et le nombre de points déduits ainsi que les date et lieu des faits. Elle indique en outre si la déduction des
 points intervient sur base d’une décision judiciaire ou sur base d’un avertissement taxé. Dans le premier cas l’instance judiciaire,
 la date de la décision ainsi que la date où cette décision est devenue irrévocable sont mentionnées. Dans le second cas, la date
@@ -18517,9 +18517,9 @@ du paiement de la taxe est mentionnée.
 
 L’information indique en outre le nombre résiduel de points et comporte, le cas échéant, un rappel sommaire des antécédents ayant entraîné une perte de points. Elle énonce, la possibilité éventuelle de la reconstitution partielle de points ainsi que
 les voies de recours.
-\3. L’information prévue au premier alinéa du paragraphe 4. dudit article 2bis mentionne la date du cours de formation ainsi
+3\. L’information prévue au premier alinéa du paragraphe 4. dudit article 2bis mentionne la date du cours de formation ainsi
 que le nombre de points restitués. Elle énonce le nouveau nombre de points dont dispose l’intéressé.
-\4. L’information prévue à l’alinéa premier du paragraphe 5. dudit article 2bis mentionne la date où la reconstitution du nombre
+4\. L’information prévue à l’alinéa premier du paragraphe 5. dudit article 2bis mentionne la date où la reconstitution du nombre
 intégral de 12 points est devenue effective.»
 
 Chapitre «V.-»1� Dispositions ﬁnales
@@ -26702,7 +26702,7 @@ d’alcool par litre d’air expiré
 (Règl. g.-d. du 16 juin 2011)
 «M. Règlement grand-ducal du 16 juin 2011 concernant les modalités et les sanctions relatives à l’installation
 et l’utilisation des tachygraphes
-\1.	 Groupes d’infractions au règlement (CE) n° 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à
+1\.	 Groupes d’infractions au règlement (CE) n° 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à
 l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route,
 modifiant les règlements (CEE) n° 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n°
 3820/85 du Conseil et à l’Accord européen relatif au travail des équipages des véhicules effectuant des transports
@@ -26891,7 +26891,7 @@ Temps de repos hebdomadaire inférieur à 45h si réduction non accordée 36h<�
 
 – Règlement (CE) n° 561/2006: art. 8.6.
 – AETR: art. 8.3.
-\2.	 Groupes d’infractions au règlement (CEE) n° 3821/85 modifié du Conseil des Communautés Européennes
+2\.	 Groupes d’infractions au règlement (CEE) n° 3821/85 modifié du Conseil des Communautés Européennes
 concernant l’appareil de contrôle dans le domaine des transports par route et à l’Accord européen relatif au
 travail des équipages des véhicules effectuant des transports internationaux par route (AETR)
 
@@ -27898,7 +27898,7 @@ contestations et des réclamations ainsi que les travaux et services administrat
 réclamations est opéré sous le contrôle du procureur d’État à qui elles ont été notifiées. »
 Art. 2. Finalités du système CSA.
 (1) Le système CSA a les finalités suivantes:
-\1.	 constater et enregistrer, au moyen d’appareils automatiques définis à l’article 3, les infractions à la législation routière
+1\.	 constater et enregistrer, au moyen d’appareils automatiques définis à l’article 3, les infractions à la législation routière
 concernant:
 a) le dépassement de la limitation réglementaire de la vitesse, considéré comme contravention ou contravention grave
 en vertu de l’article 7 de la loi modifiée du 14 février 1955 concernant la règlementation de la circulation sur toutes
@@ -27915,7 +27915,7 @@ véhicule routier ayant servi à commettre une infraction aux règles de circula
 (Loi du 10 avril 2018)
 « 3.	 traiter les infractions visées au présent article en vue de décerner et de gérer les avertissements taxés visés à l’article
 15 de la loi précitée du 14 février 1955 et les amendes forfaitaires prévues à l’article 6 ; »
-\4.	 traiter les infractions donnant lieu à un procès-verbal conformément à l’article 15, alinéa 4, points 1., 3., 4 et 5. de la loi
+4\.	 traiter les infractions donnant lieu à un procès-verbal conformément à l’article 15, alinéa 4, points 1., 3., 4 et 5. de la loi
 précitée du 14 février 1955;
 (Loi du 10 avril 2018)
 « 5.	 gérer les courriers des personnes concernées en relation avec les avertissements taxés qui leur sont envoyés et les
@@ -27946,15 +27946,15 @@ frais des fabricants, importateurs ou distributeurs qui demandent l’agrément 
 (Loi du 16 avril 2021)
 « Les appareils automatiques visés à l’alinéa 1er peuvent se présenter sous forme fixe ou mobile et peuvent être conçus
 pour mesurer :
-\1.	 la vitesse des véhicules en rapprochement ou en éloignement ;
-\2.	 la vitesse moyenne des véhicules entre deux points ;
-3.
+1\.	 la vitesse des véhicules en rapprochement ou en éloignement ;
+2\.	 la vitesse moyenne des véhicules entre deux points ;
+3\.
 
 l’inobservation d’un signal lumineux rouge ou rouge clignotant ou d’un signal lumineux blanc ou jaune à barre horizontale,
 considérée comme contravention grave en vertu de l’article 7 de la loi précitée du 14 février 1955 ;
 
-\4.	 la distance par rapport au véhicule qui précède correspondant à un temps de parcours d’au moins deux secondes ;
-\5.	 le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie
+4\.	 la distance par rapport au véhicule qui précède correspondant à un temps de parcours d’au moins deux secondes ;
+5\.	 le fait de circuler sur une bande d’arrêt d’urgence, une partie de la chaussée réservée à d’autres usagers ou une voie
 fermée.
 Ces comportements et situations de fait peuvent être constatés et enregistrés simultanément par un seul appareil. »
 (2) Les données enregistrées par ces appareils automatiques font foi jusqu’à preuve du contraire.
@@ -28082,20 +28082,20 @@ Modifié par la loi du 10 avril 2018.
 
 (Loi du 10 avril 2018)
 « À cette fin, elle adresse le formulaire de contestation, dûment rempli et signé, au Centre et accompagné de l’un des documents suivants : »
-\1.	 du récépissé du dépôt de plainte pour soustraction frauduleuse ou détournement frauduleux ou d’une copie de la déclaration de destruction du véhicule;
+1\.	 du récépissé du dépôt de plainte pour soustraction frauduleuse ou détournement frauduleux ou d’une copie de la déclaration de destruction du véhicule;
 (Loi du 10 avril 2018)
 « 2.	 d’une attestation écrite, datée et signée de la main de son auteur précisant les nom, prénoms, date de naissance, sexe
 et adresse de la personne qu’elle désigne comme conducteur du véhicule au moment de l’infraction ; »
-\3.	 d’une copie de contrat de cession du véhicule dûment rempli et cosigné par le cessionnaire et de la preuve de la transaction dans le fichier des véhicules routiers et de leurs propriétaires et détenteurs;
-\4.	 d’une copie du contrat de location.
+3\.	 d’une copie de contrat de cession du véhicule dûment rempli et cosigné par le cessionnaire et de la preuve de la transaction dans le fichier des véhicules routiers et de leurs propriétaires et détenteurs;
+4\.	 d’une copie du contrat de location.
 Le formulaire de contestation indique en outre que son auteur a connaissance qu’une fausse déclaration de sa part l’expose
 à des sanctions pénales.
 (Loi du 10 avril 2018)
 « La contestation peut également être adressée de façon dématérialisée par le biais de la plateforme interactive sécurisée
 de l’État. Elle doit comporter une signature électronique avancée sur base d’un certificat qualifié. »
 (2) La contestation est admise, à condition:
-\1.	 d’être conforme aux exigences du paragraphe 1er ainsi que de l’article 9 et
-\2.	 en cas d’attestation dont question au paragraphe 1er, alinéa 2, point 2., de permettre d’identifier le conducteur du véhicule au moment de l’infraction.
+1\.	 d’être conforme aux exigences du paragraphe 1er ainsi que de l’article 9 et
+2\.	 en cas d’attestation dont question au paragraphe 1er, alinéa 2, point 2., de permettre d’identifier le conducteur du véhicule au moment de l’infraction.
 Dans ce cas, la responsabilité pécuniaire dont question à l’article 4, paragraphe 1er, n’est pas engagée et le concerné en est
 informé par écrit.
 (Loi du 16 avril 2021)
@@ -28155,7 +28155,7 @@ peine d’emprisonnement de huit jours à un an et d’une amende de 251 à 5 00
 à commettre l’infraction pourra être prononcée par le juge dans les conditions de l’article 31, paragraphe 2, point 2°, du Code
 pénal. »
 Art. 13. Dispositions modificatives.
-\1. La loi précitée du 14 février 1955 est modifiée comme suit:
+1\. La loi précitée du 14 février 1955 est modifiée comme suit:
 
 L’article 15, alinéa 4, est complété par un point 5) à insérer après le point 4) avec le libellé suivant:
 « 5)
@@ -28170,7 +28170,7 @@ L’article 16 est complété in fine par un alinéa nouveau avec le libellé su
 « Les dispositions du présent article ne s’appliquent pas aux avertissements taxés décernés en application de la loi du
 25 juillet 2015 portant création du système de contrôle et de sanction automatisés. »
 
-\2. L’article 48-24 du «Code de procédure pénale»1 est complété in fine par un point 11 libellé comme suit:
+2\. L’article 48-24 du «Code de procédure pénale»1 est complété in fine par un point 11 libellé comme suit:
 « 11. Le fichier créé dans le cadre du système de contrôle et de sanction automatisés. »
 Art 14. Disposition finale.
 La référence à la présente loi peut se faire sous une forme abrégée en recourant à l’intitulé suivant: «loi du 25 juillet 2015
@@ -28183,7 +28183,7 @@ dénomination de Code de procédure pénale (Mém. A - 346 du 30 mars 2017; doc.
 
 JURISPRUDENCE
 
-\1. Avertissement taxé – caractère substantiel de l’information préalable du
+1\. Avertissement taxé – caractère substantiel de l’information préalable du
 conducteur - R. g.-d. du 26 août 1993 tel que modifié par le r. g.-d. du 2 août
 2002, art. 4 bis
 
@@ -28209,7 +28209,7 @@ dont chacun doit exister à travers sa propre forme, l’un ne pouvant pas se
 confondre avec l’autre.
 TA 30-06-2003 (16018)
 
-\3. Permis à points – absence de notification des décisions portant retrait de
+3\. Permis à points – absence de notification des décisions portant retrait de
 points – effet sur la décision constatant l’épuisement des points
 Les dispositions qui prévoient les conditions de la notification des décisions
 portant retrait de points du capital dont est affecté un permis de conduire ne
@@ -28229,7 +28229,7 @@ retraits de points à l’administré concerné, qui demeure, par ailleurs, rece
 à exciper de l’illégalité de chacun de ces retraits.
 TA 30-6-10 (26091)
 
-\2. Permis à points – avertissements taxés – retrait de points – information
+2\. Permis à points – avertissements taxés – retrait de points – information
 du titulaire du permis – notification – intéressé non touché – suspension des
 délais – information lors d’un retrait subséquent – caractère suffisant – r. g.-d.
 26 août 1993, art. 15
@@ -28245,7 +28245,7 @@ question de l’effet de l’omission ou de l’irrégularité dépend du point 
 celle-ci a trait à une réduction de points aboutissant à un solde supérieur à zéro
 ou à une réduction faisant toucher ledit solde à zéro point. L’information minis-
 
-\4. Permis à points – mention «lu et approuvé» – élément de preuve de la
+4\. Permis à points – mention «lu et approuvé» – élément de preuve de la
 connaissance de l’administré des conséquences qu’entraîne le paiement de
 l’avertissement taxé
 Si l’apposition de la mention «lu et approuvé» est destinée à assurer que le
@@ -28269,9 +28269,9 @@ Règlement grand-ducal du 4 décembre 2008 concernant la réglementation de la c
 Luxembourg-Kirchberg  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
 Règlement grand-ducal du 12 avril 2015
-\1.	 portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
+1\.	 portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
 Mertert et
-\2.	 portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du
+2\.	 portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du
 Port de Mertert et de ses dépendances (tel qu’il a été modifié) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
 «Règlement grand-ducal du 26 février 2016 concernant les voies réservées aux véhicules des services de transports
@@ -28371,16 +28371,16 @@ Taxis
 «Loi du 5 juillet 2016 portant», page 509«a) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . organisation des services de taxis et», page 509
 «b) .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . modification du Code de la consommation.», page 509
 Règlement grand-ducal du 23 juillet 2016
-\1) fixant les modalités d’application de la législation portant organisation des services de taxis;
-\2) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
+1\) fixant les modalités d’application de la législation portant organisation des services de taxis;
+2\) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
 les voies publiques;
-\3) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
+3\) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
 pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en
 fourrière des véhicules et en matière de permis à points;
-\4) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
+4\) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
 voies et places ouvertes à la circulation publique aux abords de la Gare de Luxembourg;
-\5) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
-\6) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
+5\) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
+6\) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
 l’Aéroport de Luxembourg .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 .  .  .  .  .  .  .  .  .  .
 .  .  .  .  .  .
@@ -28488,25 +28488,25 @@ Art. 2.
 La circulation des véhicules automoteurs est interdite sur la place de l’Europe. Le stationnement y est interdit.
 Par dérogation à l’interdiction de circuler, les conducteurs de véhicules automoteurs suivants sont autorisés à accéder à la
 place de l’Europe:
-1)
+1\)
 
 les fournisseurs des institutions riveraines de la place de l’Europe;
 
-2)
+2\)
 
 les conducteurs de véhicules en service urgent conformément à l’article 105 de l’arrêté grand-ducal modifié du 23
 novembre 1955;
 
-3)
+3\)
 
 les conducteurs de véhicules affectés aux services d’entretien et aux services de la voirie et de l’hygiène conformément
 à l’article 104 2. b) de l’arrêté grand-ducal modifié du 23 novembre 1955;
 
-4)
+4\)
 
 les conducteurs de véhicules des représentations étrangères officielles;
 
-5)
+5\)
 
 les usagers du parking souterrain situé sur la place de l’Europe.
 
@@ -28531,9 +28531,9 @@ Base légale: loi du 14 février 1955 concernant la réglementation de la circul
 \- 442 -
 
 Règlement grand-ducal du 12 avril 2015
-\1.	 portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
+1\.	 portant réglementation de la circulation sur les voies et places publiques situées dans l’enceinte du Port de
 Mertert et
-\2.	 portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du Port
+2\.	 portant modification du règlement grand-ducal modifié du 11 mars 1997 portant règlement de la police du Port
 de Mertert et de ses dépendances,
 (Mém. A - 76 du 20 avril 2015, p. 1462)
 modifié par:
@@ -29701,16 +29701,16 @@ Contourn. de Junglinster
 
 Art. 3.
 Aux intersections à sens giratoire énumérées à l’article 2, la circulation est réglementée comme suit :
-\1) Les conducteurs de véhicules et d’animaux qui circulent sur les chaussées aboutissant dans le giratoire doivent céder le
+1\) Les conducteurs de véhicules et d’animaux qui circulent sur les chaussées aboutissant dans le giratoire doivent céder le
 passage aux conducteurs de véhicules et d’animaux qui circulent sur la chaussée du giratoire.
 Cette disposition est indiquée par le signal B,1.
 
 \- 455 -
 
-\2) Les conducteurs de véhicules et d’animaux qui circulent sur les chaussées aboutissant dans le giratoire doivent passer
+2\) Les conducteurs de véhicules et d’animaux qui circulent sur les chaussées aboutissant dans le giratoire doivent passer
 du côté droit de l’îlot médian situé à la hauteur de l’intersection.
 Cette disposition est indiquée par le signal D,2.
-\3) Les conducteurs de véhicules et d’animaux qui s’engagent dans le giratoire doivent suivre le sens indiqué par les flèches
+3\) Les conducteurs de véhicules et d’animaux qui s’engagent dans le giratoire doivent suivre le sens indiqué par les flèches
 du signal.
 Cette disposition est indiquée par le signal D,3.
 Sur les chaussées aboutissant dans les giratoires énumérés ci-dessous, un passage pour piétons est aménagé à l’intersection avec le giratoire :
@@ -30321,7 +30321,7 @@ précité et comportent selon la limitation applicable les inscriptions « 50 »
 Par dérogation à ce qui précède, les limitations de la vitesse dont question au point 4 du présent article sont indiquées par
 le signal C,14 comportant l’inscription « 110 » ainsi que par le signal C,14 comportant l’inscription « 90 », complété par un
 panneau additionnel comportant l’inscription « en cas de pluie ou d’autres précipitations ».
-\1. La vitesse maximale autorisée est de 50km/h sur les tronçons de voie publique suivants :
+1\. La vitesse maximale autorisée est de 50km/h sur les tronçons de voie publique suivants :
 voie
 publique
 
@@ -30510,7 +30510,7 @@ Rond-point Rue de Strassen – Bertrange
 
 entre le PK 1.675 et le PK 2.010, dans les deux sens
 
-\2. La vitesse maximale autorisée est de 70km/h sur les tronçons de voie publique suivants :
+2\. La vitesse maximale autorisée est de 70km/h sur les tronçons de voie publique suivants :
 voie
 publique
 
@@ -32258,7 +32258,7 @@ du PK 740 jusqu’au PK 1.150
 
 \- 466 -
 
-\3. La vitesse maximale autorisée est de 110km/h sur les tronçons de voie publique suivants :
+3\. La vitesse maximale autorisée est de 110km/h sur les tronçons de voie publique suivants :
 voie
 publique
 
@@ -32308,7 +32308,7 @@ Weiswampach – Lausdorn
 
 du PK 69.450 jusqu’au PK 68.450
 
-\4. La vitesse maximale autorisée est respectivement de 110km/h ou de 90km/h en cas de pluie ou d’autres précipitations,
+4\. La vitesse maximale autorisée est respectivement de 110km/h ou de 90km/h en cas de pluie ou d’autres précipitations,
 sur les tronçons de voie publique suivants :
 voie
 publique
@@ -32422,21 +32422,21 @@ zone d’approvisionnement camions et autocars : zone réservée à la circulati
 de leur approvisionnement en carburant.
 Art. 3.
 Les dispositions suivantes sont applicables sur les autoroutes et les routes pour véhicules automoteurs :
-\1. À la hauteur des bretelles d’accès et à la hauteur des aires de service, les conducteurs qui circulent sur la chaussée de
+1\. À la hauteur des bretelles d’accès et à la hauteur des aires de service, les conducteurs qui circulent sur la chaussée de
 l’autoroute et les conducteurs qui circulent sur la voie d’accélération doivent suivre la direction indiquée par le signal en
 place.
 Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre.
-\2. Aux points-frontière, les conducteurs de camions doivent, le cas échéant, suivre la direction indiquée par le signal en
+2\. Aux points-frontière, les conducteurs de camions doivent, le cas échéant, suivre la direction indiquée par le signal en
 place.
 Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre et complété par un panneau additionnel du modèle 1 portant le symbole du véhicule automoteur destiné au transport de choses avec l’inscription
 de « 3,5t » sur la silhouette du véhicule.
 \- 468 -
 
-\3. Sur les bretelles d’accès et les aires de service, les conducteurs qui circulent sur la voie d’accélération doivent céder le
+3\. Sur les bretelles d’accès et les aires de service, les conducteurs qui circulent sur la voie d’accélération doivent céder le
 passage aux conducteurs qui circulent sur les voies de circulation de l’autoroute, conformément à l’article 156 de l’arrêté
 grand-ducal modifié précité du 23 novembre 1955.
 Cette disposition est indiquée par le signal B,1.
-\4. Sur les bretelles d’accès, les dispositions suivantes sont applicables conformément au plan de signalisation qui est
+4\. Sur les bretelles d’accès, les dispositions suivantes sont applicables conformément au plan de signalisation qui est
 annexé au présent règlement comme annexe 1 et qui en fait partie intégrante :
 • en présence d’un îlot médian séparant la bretelle d’accès de la bretelle de sortie, les conducteurs doivent, le cas
 échéant, contourner celui-ci conformément au signal en place ;
@@ -32450,13 +32450,13 @@ débouche dans l’autre bretelle doivent céder le passage aux conducteurs qui 
 ces bretelles doivent suivre les directions indiquées par les signaux en place.
 Ces dispositions sont indiquées respectivement par les signaux D,2, E,11a, B,1 et D,1a portant l’indication de la ou les
 directions à suivre.
-\5. La circulation est réglée par des signaux colorés lumineux conformément à l’article 109 de l’arrêté grand-ducal modifié
+5\. La circulation est réglée par des signaux colorés lumineux conformément à l’article 109 de l’arrêté grand-ducal modifié
 précité sur les bretelles d’accès suivantes :
 • sur l’autoroute A6, échangeur Windhof, en direction de Luxembourg-ville ;
 • sur l’autoroute A6, échangeur Mamer, en direction de Luxembourg-ville ;
 • sur l’autoroute A6, échangeur Bridel, en direction de Luxembourg-ville ;
 • sur l’autoroute A6, échangeur Strassen, en direction de Luxembourg-ville.
-\6. Sur les bretelles de sortie, les dispositions suivantes sont applicables conformément au plan de signalisation de l’annexe
+6\. Sur les bretelles de sortie, les dispositions suivantes sont applicables conformément au plan de signalisation de l’annexe
 1:
 • à l’intersection avec la voirie normale, les conducteurs qui circulent sur la bretelle doivent céder le passage aux
 conducteurs de véhicules et d’animaux qui circulent dans les deux sens sur la voirie normale et, le cas échéant,
@@ -32465,7 +32465,7 @@ lorsque les conditions de visibilité sont réduites, marquer l’arrêt et céd
 • l’accès à la bretelle est interdit aux conducteurs à partir de la voirie normale ou, le cas échéant, à partir de la zone
 d’approche d’une aire de service en direction de la chaussée de l’autoroute.
 Ces dispositions sont indiquées respectivement par les signaux B,1, B,2a, E,11a et C,1a.
-\7. La vitesse maximale autorisée est limitée :
+7\. La vitesse maximale autorisée est limitée :
 • à 70 km/h sur les voies de décélération menant vers les aires de service et, le cas échéant, sur les bretelles de sortie
 menant vers les aires de service ;
 • à 70 km/h sur l’A13 (PK 38,450 – PK 40,790) en provenance de l’échangeur Mondorf et en direction de la frontière
@@ -32475,12 +32475,12 @@ modèle 1 portant le symbole du véhicule automoteur destiné au transport de ch
 silhouette du véhicule et par un panneau additionnel du modèle 3b avec l’inscription « ↑ 2 km ↑ » ;
 • aux vitesses telles que reprises à l’annexe 3, qui fait partie intégrante du présent règlement, aux endroits y indiqués.
 Ces dispositions sont indiquées par le signal C,14 portant le chiffre de la vitesse maximale limitée.
-\8. Aux endroits repris à l’annexe 4, qui fait partie intégrante du présent règlement, il est interdit aux conducteurs de véhicules
+8\. Aux endroits repris à l’annexe 4, qui fait partie intégrante du présent règlement, il est interdit aux conducteurs de véhicules
 automoteurs de dépasser des véhicules automoteurs autres que les motocycles à deux roues sans sidecar et les cyclomoteurs à deux roues.
 Cette interdiction est indiquée par le signal C,13aa.
 Art. 4.
 Sur les aires de service et la voirie reliant la voirie étatique aux aires de service, les dispositions suivantes sont applicables :
-\1. La vitesse maximale autorisée est limitée :
+1\. La vitesse maximale autorisée est limitée :
 • à 50 km/h dans la zone d’approche et la voirie d’accès par la voirie normale ;
 • à 30 km/h sur les voiries publiques à l’exception de la voirie d’accès par la voirie normale et dans les zones autres que
 la zone d’approche.
@@ -32488,23 +32488,23 @@ Ces dispositions sont indiquées par le signal C,14 portant le chiffre de la vit
 
 \- 469 -
 
-\2. L’accès à la zone d’approche en provenance des zones d’approvisionnement ou des voies de circulation des aires de
+2\. L’accès à la zone d’approche en provenance des zones d’approvisionnement ou des voies de circulation des aires de
 service est interdit.
 Cette interdiction est indiquée par le signal C,1a.
-\3. Aux sorties des zones de parking, les conducteurs doivent, le cas échéant, suivre la ou les directions indiquées par le
+3\. Aux sorties des zones de parking, les conducteurs doivent, le cas échéant, suivre la ou les directions indiquées par le
 signal en place.
 Cette disposition est indiquée par le signal D,1a portant l’indication de la ou les directions à suivre.
-\4. L’accès aux voies pour voitures et aux zones d’approvisionnement pour voitures et caravanes est interdit aux conducteurs de camions et aux conducteurs d’autocars. Toutefois, les véhicules des fournisseurs des établissements à caractère commercial sont autorisés à y circuler.
+4\. L’accès aux voies pour voitures et aux zones d’approvisionnement pour voitures et caravanes est interdit aux conducteurs de camions et aux conducteurs d’autocars. Toutefois, les véhicules des fournisseurs des établissements à caractère commercial sont autorisés à y circuler.
 Cette interdiction est indiquée par le signal C,4a portant les symboles des catégories de véhicules concernées, complété
 par un panneau additionnel du modèle 5a portant l’inscription « excepté fournisseurs ».
-\5. L’accès aux voies pour autocars et aux voies pour camions ainsi qu’aux zones d’approvisionnement pour autocars et
+5\. L’accès aux voies pour autocars et aux voies pour camions ainsi qu’aux zones d’approvisionnement pour autocars et
 pour camions est interdit aux conducteurs de véhicules automoteurs d’une masse maximale autorisée inférieure ou
 égale à 3,5 tonnes. Toutefois, les véhicules des fournisseurs des établissements à caractère commercial sont autorisés
 à y circuler.
 Cette interdiction est indiquée par le signal C,3a, complété par un panneau additionnel du modèle 1 portant le symbole
 du véhicule automoteur suivi de l’inscription « ≤ 3,5t » et par un panneau additionnel du modèle 5a portant l’inscription
 « excepté fournisseurs ».
-\6. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent céder le passage aux conducteurs qui circulent sur la chaussée de la voie publique citée en deuxième lieu dont ils s’approchent :
+6\. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent céder le passage aux conducteurs qui circulent sur la chaussée de la voie publique citée en deuxième lieu dont ils s’approchent :
 • les sorties des parkings à hauteur du croisement avec les voies pour autocars et camions, les voies mixtes et les voies
 pour voitures ;
 • les voies voitures à hauteur du croisement avec les voies pour autocars et camions et les voies mixtes ;
@@ -32514,49 +32514,49 @@ rejoignent, à hauteur du croisement avec les voies mixtes de la branche gauche 
 • les voies camions de la branche droite, dans le sens de la circulation, lorsque deux branches de voies camions se
 rejoignent, à hauteur du croisement avec les voies camions de la branche gauche.
 Cette disposition est indiquée sur les voies non prioritaires par le signal B,1.
-\7. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent marquer l’arrêt
+7\. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent marquer l’arrêt
 et céder le passage aux conducteurs qui circulent sur la chaussée de la voie publique citée en deuxième lieu dont ils
 s’approchent :
 • les voies pour voitures à hauteur du croisement avec les zones d’approvisionnement voitures et caravanes ;
 • les voies mixtes à hauteur du croisement avec les zones d’approvisionnement voitures et caravanes.
 Cette disposition est indiquée sur les voies non prioritaires par le signal B,2a.
-\8. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent céder le passage aux conducteurs qui circulent sur la chaussée de la voie publique citée en deuxième lieu dont ils s’approchent :
+8\. Les conducteurs qui circulent sur la chaussée de la voie publique citée ci-dessous en premier lieu doivent céder le passage aux conducteurs qui circulent sur la chaussée de la voie publique citée en deuxième lieu dont ils s’approchent :
 • les voies camions à hauteur du croisement avec les zones d’approvisionnement pour autocars et pour camions.
 Cette disposition est indiquée sur les voies non prioritaires par le signal B,1.
-\9. L’endroit de l’échangeur de Wasserbillig sur la bretelle de sortie T-T15 (PK 175) est considéré comme intersection à sens
+9\. L’endroit de l’échangeur de Wasserbillig sur la bretelle de sortie T-T15 (PK 175) est considéré comme intersection à sens
 giratoire. La circulation est réglementée comme suit :
 • Les conducteurs qui s’engagent dans le giratoire doivent suivre le sens indiqué par les flèches du signal.
 Cette disposition est indiquée par le signal D,3 ;
 • Les conducteurs qui circulent sur la chaussée du giratoire doivent marquer l’arrêt et céder le passage aux conducteurs qui circulent sur les chaussées aboutissant dans le giratoire.
 Cette disposition est indiquée par le signal B,2a.
-\10.	Aux endroits indiqués par le signal E,11a et par un marquage au sol conformément à l’article 110 de l’arrêté grand-ducal
+10\.	Aux endroits indiqués par le signal E,11a et par un marquage au sol conformément à l’article 110 de l’arrêté grand-ducal
 modifié précité, un passage pour piétons est aménagé.
-\11. Les zones de parking pour camions définies dans l’article 4 et indiquées sur les plans annexés au présent règlement
+11\. Les zones de parking pour camions définies dans l’article 4 et indiquées sur les plans annexés au présent règlement
 comme annexe 2 sont considérées comme parkings réservés aux camions, le cas échéant, à une ou plusieurs catégories de véhicules. La durée maximale de parcage est limitée à 45 heures.
 Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.
-\12. Les zones de parking pour voitures définies dans l’article 4 et indiqués sur les plans annexés au présent règlement
+12\. Les zones de parking pour voitures définies dans l’article 4 et indiqués sur les plans annexés au présent règlement
 comme annexe 2 sont considérés comme parkings réservés aux voitures, le cas échéant, à une ou plusieurs catégories
 de véhicules. La durée maximale de parcage est limitée à 9 heures.
 
 \- 470 -
 
 Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.
-\13. Les zones de parking pour caravanes définies dans l’article 4 et indiquées sur les plans annexés au présent règlement
+13\. Les zones de parking pour caravanes définies dans l’article 4 et indiquées sur les plans annexés au présent règlement
 comme annexe 2 sont considérées comme parkings réservés aux caravanes, le cas échéant, à une ou plusieurs catégories de véhicules. La durée maximale de parcage est limitée à 9 heures.
 Cette disposition est indiquée par le signal E,23 complété par un panneau additionnel adapté.
-\14. Le stationnement et l’arrêt sont interdits dans la zone d’approche.
+14\. Le stationnement et l’arrêt sont interdits dans la zone d’approche.
 Cette disposition est indiquée par le signal C,19.
-\15. Le stationnement est interdit dans les zones d’approvisionnement ainsi que sur les voies pour voitures, les voies pour
+15\. Le stationnement est interdit dans les zones d’approvisionnement ainsi que sur les voies pour voitures, les voies pour
 autocars, les voies pour camions et les voies mixtes.
 Cette disposition est indiquée par le signal C,18.
-\16. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté »
+16\. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté »
 et « max. 1 h » suivie du symbole des véhicules automoteurs électriques et véhicules automoteurs électriques hybrides, le
 stationnement est interdit, à l’exception du stationnement des véhicules automoteurs électriques et véhicules automoteurs
 électriques hybrides raccordés au point de recharge. La durée maximale de stationnement est limitée à 1 heure.
-\17. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5b portant l’inscription « excepté
+17\. Aux endroits indiqués par le signal C,18 complété par un panneau additionnel du modèle 5b portant l’inscription « excepté
 handicapés max. 9 h » suivie du symbole du fauteuil roulant, le stationnement est interdit, à l’exception du stationnement
 des véhicules servant au transport de personnes handicapées à condition qu’ils soient munis d’une carte de stationnement pour personnes handicapées en cours de validité. La durée maximale de stationnement est limitée à 9 heures.
-\18. Aux endroits indiqués par le signal C,19 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté
+18\. Aux endroits indiqués par le signal C,19 complété par un panneau additionnel du modèle 5a portant l’inscription « excepté
 autocars », l’arrêt et le stationnement sont interdits, à l’exception de l’arrêt et du stationnement des autocars.
 Art. 5.
 La pose, l’entretien et la conservation des signaux routiers incombent à l’Administration des Ponts et Chaussées.
@@ -32573,13 +32573,13 @@ au Journal officiel du Grand-Duché de Luxembourg.
 
 \- 471 -
 
-\1. Plans
+1\. Plans
 de signalisationdes
 des bretelles
 bretelles d’accès
 et deetsortie
 AnnexeAnnexe
-\1. Plans
+1\. Plans
 de signalisation
 d’accès
 de sortie
@@ -32593,7 +32593,7 @@ de sortie
 \- 475 -
 
 Annexe
-\2. Plans de situation des aires de service
+2\. Plans de situation des aires de service
 Annexe 2. Plans de situation des aires de service
 
 \- 476 -
@@ -33059,7 +33059,7 @@ aux véhicules qui traversent le Luxembourg en provenance de la Rhénanie-Palati
 Art. 2.
 (Règl. g.-d. du 14 juin 2001)
 «Les véhicules en transit visés à l’article 1er sont obligés de suivre les itinéraires ci-après:
-1.
+1\.
 
 Les véhicules en provenance de la Belgique et en direction de la France doivent obligatoirement emprunter ou rejoindre
 par le chemin le plus court l’autoroute A6 et continuer par l’autoroute A3 jusqu’au «point-frontière»2 de Dudelange-Zoufftgen.
@@ -33080,7 +33080,7 @@ Toutefois, les véhicules en provenance de la Belgique et en direction de l’Al
 Grand-Duché par une voie publique qui aboutit à la route N31 ou qui la croise, doivent rejoindre par le chemin le plus
 court la route N31 et continuer par l’autoroute A13 ainsi que soit par les autoroutes A4, A6 et A1 jusqu’au point-frontière
 de Wasserbillig, soit par l’autoroute A13 jusqu’au point-frontière de Schengen-Perl.
-3.
+3\.
 
 Les véhicules en provenance de la France et en direction de la Belgique doivent emprunter l’autoroute A3 ou rejoindre
 par le chemin le plus court l’autoroute A3 ou A13, et continuer soit par les autoroutes A3 et A6, soit par les autoroutes
@@ -33096,7 +33096,7 @@ la route N5, doivent soit rejoindre l’autoroute A13 par l’itinéraire formé
 autoroutes A4 et A6 jusqu’au point-frontière Kleinbettingen-Sterpenich, soit emprunter la route N5F jusqu’à la frontière
 belge.
 
-4.
+4\.
 
 Les véhicules en provenance de la France et en direction de l’Allemagne doivent emprunter l’autoroute A3 ou rejoindre
 par le chemin le plus court l’autoroute A13, et continuer soit par les autoroutes A3 et A1, ou par les autoroutes A4, A6
@@ -33156,7 +33156,7 @@ Les véhicules qui se rendent au Pôle européen de développement doivent rejoi
 
 (Règl. g.-d. du 17 novembre 2003)
 «–
-8.
+8\.
 
 à partir de la Croix de Bettembourg, l’autoroute A13 et la route N31.
 
@@ -33167,7 +33167,7 @@ lourds sur certaines voies publiques dans le coin des trois frontières entre la
 les véhicules en provenance de la Sarre et en direction de la Rhénanie-Palatinat doivent emprunter ou rejoindre par le
 chemin le plus court l’autoroute A13 et continuer par les autoroutes A3 et A1 jusqu’à la frontière allemande.
 
-9.
+9\.
 
 Sans préjudice des dispositions de l’article 2 modifié du règlement du 13 juillet 1995 déviant certains trafics de poids
 lourds sur la Collectrice du Sud (A13) et de l’article 1er du règlement grand-ducal du 17 novembre 2003 interdisant la
@@ -33191,13 +33191,13 @@ la route N11A et son intersection avec la route N11.»
 
 Art. 3.
 Les prescriptions qui précèdent sont indiquées par la signalisation routière suivante:
-1)
+1\)
 
 le signal C,3e comportant l’inscription du chiffre 3,5 t sur la silhouette du véhicule, complété par un panneau additionnel
 avec respectivement les inscriptions «Transit Belgique», «Transit France», «Transit Allemagne» et «Transit Allemagne/
 France»;
 
-2)
+2\)
 
 un présignal comportant les inscriptions suivantes:
 
@@ -33282,23 +33282,23 @@ Art. 1er
 (Règl. g.-d. du 14 juin 2001)
 «L’accès des voies publiques suivantes est interdit dans le sens indiqué ou les deux sens aux conducteurs des véhicules
 automoteurs destinés au transport de choses et dont la masse maximale autorisée dépasse 3.500 kg:
-1)
+1\)
 
 la N5 dans la traversée de Pétange, de l’intersection avec les chemins vicinaux dénommés «rue des Ateliers» et «rue
 Jules Hemmer» jusqu’à l’intersection avec la N5B, de l’intersection avec la N5D jusqu’à l’intersection avec le chemin
 vicinal dénommé «rue Pierre Grégoire» ainsi que, dans la traversée de Rodange, de l’intersection avec la N5F jusqu’à
 l’intersection avec le chemin vicinal dénommé «chemin de Brouck»;
 
-2)
+2\)
 
 la N5E, de l’intersection avec la N31 jusqu’à l’intersection avec la N5;
 
-3)
+3\)
 
 la N31, du rond-point «Raemerich» à Esch-sur-Alzette jusqu’à l’intersection avec le chemin vicinal dénommé «rue Jean
 Anen» à Belvaux, dans les deux sens;
 
-4)
+4\)
 
 le CR110,
 a) de l’intersection avec la N5 à Bascharage jusqu’à l’intersection avec la N32 vers l’échangeur «Woeller» de la A13,
@@ -33306,21 +33306,21 @@ dans les deux sens;
 b) de l’intersection avec le CR178 au lieu-dit «Aessen» jusqu’au carrefour giratoire avec la N37 au lieu-dit «Neiwiss» à
 proximité du passage supérieur de la A4, dans les deux sens;
 
-5)
+5\)
 
 le CR164, du giratoire «Bicheler» à la hauteur de l’échangeur de Foetz de la A4 jusqu’à l’intersection avec le CR172 à
 Mondercange, dans les deux sens;
 
-6)
+6\)
 
 le CR168, du giratoire «Viaduc» à Esch-sur-Alzette jusqu’au giratoire à l’intérieur de Belvaux, dans les deux sens;
 
-7)
+7\)
 
 le CR172, de l’intersection avec le CR110 à Ehlerange jusqu’à l’intersection avec le CR106 à Mondercange, dans les
 deux sens;
 
-8)
+8\)
 
 le CR174,
 a) de l’intersection avec la N31 à proximité du poste de distribution S.O.T.E.L. à Esch-sur-Alzette jusqu’à l’intersection
@@ -33329,16 +33329,16 @@ b) du carrefour giratoire avec le «Petit Contournement» à Differdange jusqu�
 l’établissement EFCO, dans les deux sens;
 c) du chemin vicinal menant vers le lieu-dit «Bache-Jang» jusqu’au point de repère pr 1.900, dans les deux sens.
 
-9)
+9\)
 
 le CR175, de l’échangeur «de Sanem» de la A13 jusqu’à l’intersection avec le CR110 à Sanem, dans les deux sens;
 
-10)
+10\)
 
 le CR176 de l’intersection avec le CR174 jusqu’à l’intersection au lieu-dit «um Réierwee» avec le chemin vicinal, dans
 les deux sens;
 
-11)
+11\)
 
 le CR178,
 a) à partir de l’intersection avec la N31 à Belvaux, jusqu’à et y compris l’intersection avec le chemin vicinal dénommé
@@ -33346,7 +33346,7 @@ a) à partir de l’intersection avec la N31 à Belvaux, jusqu’à et y compris
 b) du carrefour giratoire avec la N31 à Belvaux jusqu’à l’intersection avec le CR110 au lieu-dit «Aessen», dans les deux
 sens.
 
-12)
+12\)
 
 les chemins vicinaux
 a) situé entre les lieux-dits «Pëllestack» et «Rädenschleed», de l’intersection avec le CR176 jusqu’à l’intersection avec
@@ -33403,7 +33403,7 @@ Règlement grand-ducal du 6 janvier 1997 interdisant la circulation des poids lo
 menant vers la N 7 entre Luxembourg et Lorentzweiler.1
 (Mém. A - 1 du 13 janvier 1997, p. 2)
 Art. 1er.
-\1. L’accès des voies publiques suivantes est interdit aux conducteurs de véhicules automoteurs qui sont destinés au transport de choses et dont la masse maximale autorisée dépasse 3.500 kg, à l’exception des véhicules affectés au service du
+1\. L’accès des voies publiques suivantes est interdit aux conducteurs de véhicules automoteurs qui sont destinés au transport de choses et dont la masse maximale autorisée dépasse 3.500 kg, à l’exception des véhicules affectés au service du
 combat de gel, dans les sens indiqués ci-après:
 
 le CR 125 à partir de son intersection avec le CR 126 en direction de son intersection avec la N 7;
@@ -33416,10 +33416,10 @@ le CR 124 à partir de son intersection avec le CR 125 jusqu’à son intersecti
 d)
 
 le CR 124 à partir de son intersection avec le CR 125 à l’intérieur de Asselscheuer jusqu’à son intersection avec le CR
-119.
+119\.
 
 Ces interdictions s’appliquent jusqu’au pied de la descente des tronçons visés au présent paragraphe.
-\2. L’accès des voies publiques suivantes est interdit aux conducteurs de véhicules automoteurs qui sont destinés au transport de choses et dont la masse maximale autorisée dépasse 3.500 kg, à l’exception des riverains et des fournisseurs, dans
+2\. L’accès des voies publiques suivantes est interdit aux conducteurs de véhicules automoteurs qui sont destinés au transport de choses et dont la masse maximale autorisée dépasse 3.500 kg, à l’exception des riverains et des fournisseurs, dans
 les sens indiqués ci-après:
 
 le CR 122 à partir de son intersection avec le CR 125 à l’intérieur de Blaschette jusqu’à son intersection avec la N 7 à
@@ -33449,7 +33449,7 @@ le CR 233 à partir de son intersection avec la N 7 à l’intérieur de Walferd
 vicinal «Ancienne route d’Echternach» à l’intérieur de Dommeldange.
 
 La même interdiction vaut pour les chemins vicinaux adjacents aux voies publiques interdites en vertu du présent paragraphe, pour autant que ces chemins vicinaux sont seulement accessibles par lesdites voies publiques.
-\3. L’accès de l’itinéraire formé par les tronçons du CR 215 et du CR 181 à partir de l’intersection du CR 215 avec la N 12
+3\. L’accès de l’itinéraire formé par les tronçons du CR 215 et du CR 181 à partir de l’intersection du CR 215 avec la N 12
 à l’intérieur de Bridel jusqu’à l’intersection du CR 181 avec la N 7 à l’intérieur de Béreldange est interdit aux conducteurs de
 véhicules automoteurs qui effectuent des transports de marchandises dangereuses soumis à la signalisation de danger prévue
 par le règlement grand-ducal modifié du 10 avril 1986 sur les transports par route de marchandises dangereuses.
@@ -33761,11 +33761,11 @@ Art. 2.
 (1) À partir des tronçons de la voirie normale menant vers le réseau autoroutier, énumérés ci-dessous, les conducteurs de
 véhicules automoteurs destinés au transport de choses et dont la masse maximale autorisée, avec ou sans remorque, est supérieure à 3,5 tonnes, qui ont pour destination les zones d’activités économiques dénommées Wolser A-H, la zone industrielle de
 Livange ou le Terminal ferroviaire, doivent suivre la direction obligatoire telle qu’indiquée par la signalisation en place :
-\1) de la N13 en amont de l’échangeur Pontpierre de l’autoroute A4, en direction de Pontpierre ;
-\2) du CR169 en amont de l’échangeur Schifflange de l’autoroute A13, en direction du lieu-dit « Dumontshaff » ;
-\3) du CR164 en amont du Rond-point Z.I. Lëtzebuerger Heck, en venant de Foetz, en direction de l’échangeur de Schifflange
+1\) de la N13 en amont de l’échangeur Pontpierre de l’autoroute A4, en direction de Pontpierre ;
+2\) du CR169 en amont de l’échangeur Schifflange de l’autoroute A13, en direction du lieu-dit « Dumontshaff » ;
+3\) du CR164 en amont du Rond-point Z.I. Lëtzebuerger Heck, en venant de Foetz, en direction de l’échangeur de Schifflange
 et de Schifflange ;
-\4) du CR165 en amont de l’échangeur de Kayl de l’autoroute A13, en direction de Noertzange.
+4\) du CR165 en amont de l’échangeur de Kayl de l’autoroute A13, en direction de Noertzange.
 (2) Les dispositions qui précèdent sont indiquées par le signal D,1a adapté, complété par un panneau additionnel reproduisant le symbole du véhicule automoteur destiné au transport de choses portant l’inscription 3,5t et comportant respectivement
 les inscriptions « Wolser A-H » complété du pictogramme de la zone artisanale ou « Terminal ferroviaire » complété du pictogramme associé.
 Ces signaux sont placés et conservés par l’Administration des Ponts et Chaussées.
@@ -33773,13 +33773,13 @@ Art. 3.
 (1) Les conducteurs de véhicules automoteurs destinés au transport de choses et dont la masse maximale autorisée, avec
 ou sans remorque, est supérieure à 3,5 tonnes doivent suivre la direction obligatoire telle qu’indiquée par la signalisation en
 place :
-\1) sortant de la zone d’activité économique Wolser A sur la N31 (PK 4.253 ; PK 4.912), en direction de l’A13 ;
-\2) sortant de la zone d’activité économique Wolser A ou Wolser B sur la N31 (Rond-point Z.A.E. Wolser A-B), en direction de
+1\) sortant de la zone d’activité économique Wolser A sur la N31 (PK 4.253 ; PK 4.912), en direction de l’A13 ;
+2\) sortant de la zone d’activité économique Wolser A ou Wolser B sur la N31 (Rond-point Z.A.E. Wolser A-B), en direction de
 l’A13 ;
-\3) du CR161 en amont du croisement avec la N13, en direction de l’A13 ;
-\4) de la N13 en amont du croisement avec la N13B, en direction de l’A13 ;
-\5) du CR161 en amont du Rond-point Z.I. Riedchen, en direction de l’A3 ;
-\6) de la N31 en amont du Rond-point Échangeur Burange, en direction de l’A13.
+3\) du CR161 en amont du croisement avec la N13, en direction de l’A13 ;
+4\) de la N13 en amont du croisement avec la N13B, en direction de l’A13 ;
+5\) du CR161 en amont du Rond-point Z.I. Riedchen, en direction de l’A3 ;
+6\) de la N31 en amont du Rond-point Échangeur Burange, en direction de l’A13.
 
 \- 494 -
 
@@ -33790,8 +33790,8 @@ Art. 4.
 (1) Les conducteurs de véhicules automoteurs, destinés au transport de choses et dont la masse maximale autorisée, avec
 ou sans remorque, est supérieure à 3,5 tonnes et ayant pour destination les zones d’activités économiques dénommées Wolser
 A-H ou le Terminal ferroviaire doivent suivre la direction obligatoire telle qu’indiquée par la signalisation en place :
-\1) de la N13 en amont du croisement avec le CR161, en provenance de l’A13 ou de Hellange ;
-\2) de la N38 en amont du Rond-point Z.I. Riedchen, en provenance de l’A3.
+1\) de la N13 en amont du croisement avec le CR161, en provenance de l’A13 ou de Hellange ;
+2\) de la N38 en amont du Rond-point Z.I. Riedchen, en provenance de l’A3.
 (2) Les dispositions qui précèdent sont indiquées par le signal D,1a adapté, complété par un panneau additionnel reproduisant le symbole du véhicule automoteur destiné au transport de choses portant l’inscription 3,5t et comportant respectivement
 l’inscription « Wolser A-H » complété du pictogramme de la zone artisanale et du pictogramme du Terminal ferroviaire.
 Ces signaux sont placés et conservés par l’Administration des Ponts et Chaussées.
@@ -33822,7 +33822,7 @@ Art. 1er.
 Les dispositions de la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques,
 telle qu’elle a été modifiée dans la suite, ainsi que ses mesures d’exécution, sont applicables aux voies et places suivantes, non
 ouvertes au public, mais accessibles à un certain nombre d’usagers:
-1)
+1\)
 
 le plateau du St. Esprit, emplacement de l’ancienne caserne, à Luxembourg;
 
@@ -33928,7 +33928,7 @@ la cour d’honneur du Ministère des Affaires étrangères aux véhicules immat
 la cour devant les Ministères des Finances et de l’Agriculture aux véhicules immatriculés au nom d’un de ces deux
 Ministères.
 
-\2. Par dérogation au paragraphe 1er, le stationnement est interdit sur la place Clairefontaine.»
+2\. Par dérogation au paragraphe 1er, le stationnement est interdit sur la place Clairefontaine.»
 Art. 3.
 Les prescriptions qui précèdent sont indiquées par le signal à validité zonale du type H,1c portant les signaux C,2 et C,18
 prévus par l’article 107 modifié de l’arrêté grand-ducal du 23 novembre 1955 portant règlement de la circulation sur toutes les
@@ -34037,8 +34037,8 @@ les véhicules affectés aux services d’entretien, aux services de la voirie e
 
 L’accès des véhicules énumérés au deuxième tiret est limité à la voirie menant de la rue de Trèves jusqu’au bâtiment central.»
 Art. 3
-\1. Sur les voies et places énumérées à l’article 1er la vitesse des véhicules est limitée à 30 km/h.
-\2. Sur ces voies et places, le stationnement et le parcage ne sont autorisés qu’aux endroits et emplacements spécialement
+1\. Sur les voies et places énumérées à l’article 1er la vitesse des véhicules est limitée à 30 km/h.
+2\. Sur ces voies et places, le stationnement et le parcage ne sont autorisés qu’aux endroits et emplacements spécialement
 prévus à cette fin et marqués comme tels sur le plan de situation repris en annexe. Les véhicules parqués ou stationnés sans
 raison valable au-delà de 48 heures doivent être enlevés sur première injonction des agents de la Force Publique.
 Les emplacements portant respectivement les numéros 54 et 55 sur ledit plan de situation sont réservés exclusivement aux
@@ -34736,14 +34736,14 @@ Chapitre IX – Traitement des données à caractère personnel
 Art. 18.
 (1) Le ministre tient un registre des exploitants de taxi, des intéressés figurant sur la liste d’attente dont question au paragraphe (4) de l’article 6 et des conducteurs de taxi.
 Dans ce registre figurent toutes les données nécessaires pour les finalités suivantes:
-\1.	 l’attribution et la délivrance de la licence d’exploitation de taxi, la délivrance d’une licence d’exploitation de taxi provisoire, l’extension temporaire, la modification, la transcription, le renouvellement, le duplicata et l’échange d’une licence
+1\.	 l’attribution et la délivrance de la licence d’exploitation de taxi, la délivrance d’une licence d’exploitation de taxi provisoire, l’extension temporaire, la modification, la transcription, le renouvellement, le duplicata et l’échange d’une licence
 d’exploitation de taxi;
-\2.	 la délivrance d’une carte de conducteur de taxi, d’un duplicata, la modification et le renouvellement de la carte de
+2\.	 la délivrance d’une carte de conducteur de taxi, d’un duplicata, la modification et le renouvellement de la carte de
 conducteur;
-\3.	 les inscriptions, le renouvellement et les radiations de la liste d’attente;
-\4.	 la gestion des réclamations visée à l’article 17;
-\5.	 la mise en œuvre des mesures et sanctions administratives visées à l’article 19; et
-\6.	 la mise en œuvre d’analyses et de recherches à des fins de planification et d’évaluation de la qualité des services de
+3\.	 les inscriptions, le renouvellement et les radiations de la liste d’attente;
+4\.	 la gestion des réclamations visée à l’article 17;
+5\.	 la mise en œuvre des mesures et sanctions administratives visées à l’article 19; et
+6\.	 la mise en œuvre d’analyses et de recherches à des fins de planification et d’évaluation de la qualité des services de
 taxi après dépersonnalisation des données afférentes.
 Dans l’exercice des missions leur conférées en vertu de la présente loi, les membres de la Police grand-ducale habilités à
 cet effet par le directeur général de la Police grand-ducale et les agents de l’Administration des douanes et accises habilités à
@@ -34824,15 +34824,15 @@ demande d’un intéressé et le suivi de celle-ci en relation avec la licence d
 ou la liste d’attente.
 (8) Au moment de l’octroi d’une licence d’exploitation de taxis, d’une carte de conducteur ou de l’inscription sur la liste
 d’attente, l’exploitant ou le conducteur de taxi, de même que le titulaire de l’inscription sur la liste d’attente, sont informés individuellement par écrit:
-\1.	 des finalités du traitement des données;
-\2.	 des destinataires des données;
-\3.	 de leur droit d’accès aux données;
+1\.	 des finalités du traitement des données;
+2\.	 des destinataires des données;
+3\.	 de leur droit d’accès aux données;
 
 \- 517 -
 
-\4.	 de leur droit de rectification des données;
-\5.	 des modalités d’exercer les droits visés aux points 3 et 4;
-\6.	 des conséquences du refus de fournir les renseignements demandés aux articles 3 à 10, du refus de les fournir dans le
+4\.	 de leur droit de rectification des données;
+5\.	 des modalités d’exercer les droits visés aux points 3 et 4;
+6\.	 des conséquences du refus de fournir les renseignements demandés aux articles 3 à 10, du refus de les fournir dans le
 délai prescrit, ainsi que du fait de fournir intentionnellement des renseignements inexacts ou incomplets.
 (9) L’accès aux données et la possibilité de les traiter sont gérés par un système de gestion des identités et des droits
 d’accès. Ce système constitue la base de la gestion des droits d’accès, de leur attribution à leur suppression, à l’échelle de
@@ -34861,13 +34861,13 @@ de taxi ou de la carte de conducteur de taxi ou encore la radiation d’un inscr
 de l’article 6 dans le cas où, dans le chef de l’intéressé, une ou plusieurs des conditions à la base de la délivrance de la licence
 d’exploitation de taxi ou de la carte de conducteur de taxi ou de l’inscription sur la liste d’attente ne sont plus remplies.
 Il peut, à titre de sanction administrative, en outre décider:
-1)
+1\)
 
 le retrait définitif de la licence d’exploitation de taxi ou de la carte de conducteur de taxi:
 a) si le titulaire a fait une fausse déclaration ou a fait usage de moyens frauduleux en vue de l’obtention, du renouvellement ou de l’échange, respectivement de la licence d’exploitation de taxi ou de la carte de conducteur de taxi;
 b) en cas de cession totale ou partielle de la carte de conducteur ou de la licence d’exploitation de taxi;
 
-2)
+2\)
 
 la suspension temporaire de la licence d’exploitation de taxi ou de la carte de conducteur de taxi pour une durée maximale d’un an:
 a) en cas de non-paiement ou de défaut de preuve de paiement d’une des taxes prévues à l’article 20;
@@ -34998,18 +34998,18 @@ consigner conformément à l’article 16 de la loi modifiée du 14 février 195
 (2) Les fonctionnaires de l’Administration des douanes et accises sont en droit d’immobiliser un taxi sur la voie publique, soit
 en enlevant au conducteur les clés de contact, soit en procédant à l’immobilisation du taxi au moyen d’un système mécanique,
 lorsque:
-1.
+1\.
 
 le conducteur du taxi qui n’a pas sa résidence normale au Luxembourg et qui est en infraction à la présente loi ou à la
 législation routière, pour autant que sont concernés l’aménagement des véhicules ainsi que les plaques d’immatriculation, les numéros d’identification et les documents de bord, omet de payer l’avertissement taxé ou, à défaut, de régler la
 somme à consigner conformément à l’article 16 de la loi modifiée du 14 février 1955;
 
-2.
+2\.
 
 le taxi présente soit une irrégularité grave au point de vue des documents de bord, soit un défaut technique manifeste
 de nature à mettre gravement en danger la circulation;
 
-3.
+3\.
 
 il se révèle que la taxe sur les véhicules routiers n’a pas été payée pour le taxi en question depuis plus de 60 jours.
 
@@ -35088,15 +35088,15 @@ Canton Clervaux
 Canton Vianden
 
 Règlement grand-ducal du 23 juillet 2016
-\1) fixant les modalités d’application de la législation portant organisation des services de taxis;
-\2) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
+1\) fixant les modalités d’application de la législation portant organisation des services de taxis;
+2\) modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlementation de la circulation sur toutes
 les voies publiques;
-\3) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
+3\) modifiant le règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations
 pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points;
-\4) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
+4\) modifiant le règlement grand-ducal modifié du 5 novembre 2015 portant réglementation de la circulation sur les
 voies et places ouvertes à la circulation publique aux abords de la Gare de Luxembourg;
-\5) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
-\6) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
+5\) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour courses en taxi; et
+6\) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
 l’Aéroport de Luxembourg.
 (Mém. A - 163 du 11 août 2016, p. 2708)
 
@@ -35106,27 +35106,27 @@ Art. 1er.
 (1) Pour l’obtention et le renouvellement d’une licence d’exploitation de taxi il y a lieu de joindre:
 
 aux demandes émanant des personnes physiques les pièces suivantes:
-\1.	 une copie du passeport, de la carte d’identité, du titre de voyage ou de tout autre document en tenant lieu, en cours
+1\.	 une copie du passeport, de la carte d’identité, du titre de voyage ou de tout autre document en tenant lieu, en cours
 de validité, permettant l’identification de l’intéressé;
-\2.	 une copie de l’autorisation d’établissement ou d’une décision de principe d’établissement de loueur de taxis délivrée
+2\.	 une copie de l’autorisation d’établissement ou d’une décision de principe d’établissement de loueur de taxis délivrée
 sur base de la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel
 ainsi qu’à certaines professions libérales, en cours de validité;
-\3.	 une copie du certificat d’immatriculation (partie I) ou, le cas échéant, un certificat du constructeur renseignant le
+3\.	 une copie du certificat d’immatriculation (partie I) ou, le cas échéant, un certificat du constructeur renseignant le
 numéro de châssis;
-\4.	 une preuve de paiement de la taxe d’instruction;
-\5.	 une attestation de l’Administration de l’enregistrement indiquant le numéro de TVA;
+4\.	 une preuve de paiement de la taxe d’instruction;
+5\.	 une attestation de l’Administration de l’enregistrement indiquant le numéro de TVA;
 
 aux demandes émanant des sociétés commerciales les pièces suivantes:
-\1.	 une copie des statuts de la société commerciale;
-\2.	 une copie du passeport, de la carte d’identité, du titre de voyage ou de tout autre document en tenant lieu, en cours
+1\.	 une copie des statuts de la société commerciale;
+2\.	 une copie du passeport, de la carte d’identité, du titre de voyage ou de tout autre document en tenant lieu, en cours
 de validité, permettant l’identification du dirigeant;
-\3.	 une copie de l’autorisation d’établissement ou d’une décision de principe d’établissement de loueur de taxis délivrée
+3\.	 une copie de l’autorisation d’établissement ou d’une décision de principe d’établissement de loueur de taxis délivrée
 sur base de la loi précitée du 2 septembre 2011, en cours de validité;
-\4.	 une copie du certificat d’immatriculation (partie I) ou, le cas échéant, un certificat du constructeur renseignant le
+4\.	 une copie du certificat d’immatriculation (partie I) ou, le cas échéant, un certificat du constructeur renseignant le
 numéro de châssis;
-\5.	 une preuve de paiement de la taxe d’instruction;
-\6.	 une attestation de l’Administration de l’enregistrement indiquant le numéro de TVA;
-\7.	 un extrait du Registre de Commerce et des Sociétés renseignant le numéro de la société.
+5\.	 une preuve de paiement de la taxe d’instruction;
+6\.	 une attestation de l’Administration de l’enregistrement indiquant le numéro de TVA;
+7\.	 un extrait du Registre de Commerce et des Sociétés renseignant le numéro de la société.
 
 (2) Pour l’obtention et le renouvellement d’une licence d’exploitation de taxi zéro émissions, il y a lieu de joindre en outre des
 documents visés au paragraphe 1er, une copie du contrat d’achat ou du contrat de crédit-bail indiquant la date de livraison d’un
@@ -35171,18 +35171,18 @@ Art. 3.
 
 les taxis qui font l’objet d’une licence d’exploitation de taxi nouvelle ou d’une transcription après l’entrée en vigueur de
 la loi du 5 juillet 2016 portant organisation des services de taxis, doivent respecter les normes environnementales suivantes après le 1er janvier 2017:
-\1.	 en matière d’émissions de CO2: max. 130 g de CO2/km; et
-\2.	 en matière de norme EURO: min. EURO 5;
+1\.	 en matière d’émissions de CO2: max. 130 g de CO2/km; et
+2\.	 en matière de norme EURO: min. EURO 5;
 
 les taxis qui font l’objet d’une licence d’exploitation de taxi nouvelle ou d’une transcription après l’entrée en vigueur de
 la loi du 5 juillet 2016 portant organisation des services de taxis, doivent respecter les normes environnementales suivantes après le 1er janvier 2021:
-\1.	 en matière d’émissions de CO2: max. 95 g de CO2/km; et
-\2.	 en matière de norme EURO: min. EURO 6.
+1\.	 en matière d’émissions de CO2: max. 95 g de CO2/km; et
+2\.	 en matière de norme EURO: min. EURO 6.
 
 (2) Pour les véhicules comportant entre cinq et huit places assises, hormis celle du conducteur, les taxis qui font l’objet d’une
 licence d’exploitation de taxi nouvelle ou d’une transcription après l’entrée en vigueur de la loi du 5 juillet 2016 portant organisation des services de taxis, doivent respecter les normes environnementales suivantes après le 1er janvier 2022:
-\1.	 en matière d’émissions de CO2: max. 147 g de CO2/km; et
-2.
+1\.	 en matière d’émissions de CO2: max. 147 g de CO2/km; et
+2\.
 
 en matière de norme EURO: min. EURO 6.
 
@@ -35198,13 +35198,13 @@ Ce tableau-taxi doit répondre aux conditions suivantes:
 avoir une largeur d’au moins 200 mm et une hauteur d’au moins 140 mm;
 
 indiquer en caractères bien lisibles:
-\1.	 le ou les noms et le ou les prénoms ou la raison sociale de l’exploitant de taxi,
-\2.	 l’adresse du principal établissement de l’exploitant de taxi,
-\3.	 le nombre de places assises,
-\4.	 la date de validité de la licence,
-\5.	 le type de la licence d’exploitation de taxi,
-\6.	 le type de taxi,
-\7.	 les tarifs.
+1\.	 le ou les noms et le ou les prénoms ou la raison sociale de l’exploitant de taxi,
+2\.	 l’adresse du principal établissement de l’exploitant de taxi,
+3\.	 le nombre de places assises,
+4\.	 la date de validité de la licence,
+5\.	 le type de la licence d’exploitation de taxi,
+6\.	 le type de taxi,
+7\.	 les tarifs.
 Ces indications doivent figurer dans les champs prévus;
 
 d)
@@ -35277,9 +35277,9 @@ avoir une hauteur au minimum de 75 mm et au maximum de 120 mm;
 d)
 
 porter à ses faces avant et arrière l’inscription «Taxi»:
-\1.	 en jaune avec un contour noir;
-\2.	 d’une hauteur au minimum de 50 mm;
-\3.	 composée de lettres ayant une épaisseur au minimum de 10 mm et au maximum de 15 mm;
+1\.	 en jaune avec un contour noir;
+2\.	 d’une hauteur au minimum de 50 mm;
+3\.	 composée de lettres ayant une épaisseur au minimum de 10 mm et au maximum de 15 mm;
 
 e)
 
@@ -35391,7 +35391,7 @@ un bris de scellement, par l’installateur bénéficiant d’un agrément par l
 (3) Une vignette ne doit être apposée sur un taximètre par la SNCA ou l’installateur que si le taximètre, ses dispositifs complémentaires et son installation répondent à toutes les exigences du présent règlement et de ses dispositions d’exécution. Toute
 vignette apposée sur un taximètre non conforme à ces exigences doit, le cas échéant, en être enlevée.
 (4) Une nouvelle vignette est apposée par la SNCA sur un taximètre dans tous les cas prévus au paragraphe 1er de l’article
-\9. Par ailleurs une nouvelle vignette peut être apposée sur un taximètre en cas de dégradation accidentelle de la vignette dont
+9\. Par ailleurs une nouvelle vignette peut être apposée sur un taximètre en cas de dégradation accidentelle de la vignette dont
 ce taximètre est pourvu, à condition que la SNCA se soit assurée qu’il n’y a pas de doute sur la raison de la dégradation en
 question. Le cas échéant, le remplacement de la vignette doit être mentionné dans le carnet métrologique du taximètre afférent.
 (5) Une nouvelle vignette est apposée par l’installateur sur un taximètre dans tous les cas prévus à l’article 8, paragraphe 3
@@ -35658,18 +35658,18 @@ Chapitre VIII – Dispositions modificatives
 Art. 21.
 L’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques est
 modifié comme suit:
-\1.	 A l’article 2, la rubrique 2.8 est remplacée par le texte suivant:
+1\.	 A l’article 2, la rubrique 2.8 est remplacée par le texte suivant:
 «Taxi: voiture automobile à personnes, telle que définie à l’article 1er de la loi du 5 juillet 2016 portant organisation des
 services de taxis.»
-\2.	 A l’article 45bis, l’alinéa 9 est supprimé.
-\3.	 L’intitulé «C. – Taxis, voitures de location avec chauffeur et location de voitures sans chauffeur», figurant au-dessus de
+2\.	 A l’article 45bis, l’alinéa 9 est supprimé.
+3\.	 L’intitulé «C. – Taxis, voitures de location avec chauffeur et location de voitures sans chauffeur», figurant au-dessus de
 l’article 55, est remplacé par «Voitures de location avec chauffeur et location de voitures sans chauffeur».
-\4.	 Les articles 55 et 56 sont abrogés.
-\5.	 L’article 56ter est remplacé par le libellé suivant:
+4\.	 Les articles 55 et 56 sont abrogés.
+5\.	 L’article 56ter est remplacé par le libellé suivant:
 «Art. 56ter. Les propriétaires et les conducteurs sont responsables de l’observation de l’article 56bis.»
-\6.	 A l’article 57, l’alinéa 1er est remplacé par le libellé suivant:
+6\.	 A l’article 57, l’alinéa 1er est remplacé par le libellé suivant:
 «Les véhicules destinés à la location sans chauffeur ne sont pas soumis aux dispositions des articles 56bis et 56ter.»
-\7.	 A l’article 115, la lettre c) du paragraphe 1er est remplacée par le libellé suivant:
+7\.	 A l’article 115, la lettre c) du paragraphe 1er est remplacée par le libellé suivant:
 «c) des agents de l’Administration des douanes et accises contrôlant les dispositions légales relatives soit à la vignette
 prévue par la législation portant approbation et application de l’accord relatif à la perception d’un droit d’usage pour
 l’utilisation de certaines routes par des véhicules utilitaires lourds, soit à la surcharge des véhicules, soit aux documents de bord et d’équipements spéciaux des véhicules destinés à transporter ou à utiliser comme carburant des
@@ -36230,8 +36230,8 @@ législation portant organisation des services de taxis, 2) modifiant l’arrêt
 résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des véhicules et en
 matière de permis à points, 4) modifiant le règlement grand-ducal du 5 novembre 2015 portant réglementation
 de la circulation sur les voies et places ouvertes à la circulation publique aux abords de la Gare de Luxembourg;
-\5) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour des courses de taxi; et
-\6) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
+5\) abrogeant le règlement grand-ducal du 9 juillet 2004 fixant des prix maxima pour des courses de taxi; et
+6\) abrogeant le règlement grand-ducal modifié du 3 décembre 1997 portant règlementation des services de taxis à
 l’aéroport.
 
 Chapitre II - Exigences techniques pour les taximètres et leurs dispositifs complémentaires
@@ -36600,25 +36600,25 @@ Le présent règlement est publié au Mémorial et entre en vigueur le 1er septe
 \- 545 -
 
 Annexe A: Modèle du carnet métrologique
-\1. Couverture
+1\. Couverture
 
 \- 546 -
 
-\2.	 Page d’installation
+2\.	 Page d’installation
 
 \- 547 -
 
-\3. Page de modification d’installation
+3\. Page de modification d’installation
 
 \- 548 -
 
-\4. Etiquette d’installation
+4\. Etiquette d’installation
 
-\5. Etiquette d’intervention
+5\. Etiquette d’intervention
 
 \- 549 -
 
-\6. Etiquette de vérification SNCA
+6\. Etiquette de vérification SNCA
 
 Annexe B: Modèles de la vignette de taximètre
 
@@ -36881,13 +36881,13 @@ du parallélisme entre la ligne d’arrêt et la ligne d’effet doit être réa
 doit être déterminée ainsi que tout autre paramètre indispensable pour faire opérer l’appareil automatique conformément aux
 prescriptions édictées par le constructeur. Pour ces fins, la SNCH peut recourir à des méthodes scientifiquement reconnues et
 applicables au niveau international. »
-\3. A l’issue de la vérification de l’installation, un certificat d’installation est délivré par la SNCH.»
+3\. A l’issue de la vérification de l’installation, un certificat d’installation est délivré par la SNCH.»
 
 Chapitre «V»1.- Disposition finale
 Art. «13»1.
 Notre Ministre des Transports, Notre Ministre de l’Intérieur et Notre Ministre de la Justice sont chargés, chacun en ce qui le
 concerne, de l’exécution du présent règlement grand-ducal qui sera publié au Mémorial et qui entrera en vigueur le 1er novembre
-2002.
+2002\.
 
 Renuméroté par le règlement grand-ducal du 7 août 2015.
 
@@ -37092,12 +37092,12 @@ nombre de contrôles techniques routiers,
 
 facteur temps.
 
-1)
+1\)
 
 Les défectuosités ou non-conformités sont pondérées en fonction de leur gravité en appliquant les facteurs de gravité
 suivants:
 
-2)
+2\)
 
 défectuosité ou non-conformité critique = 40
 
@@ -37121,7 +37121,7 @@ année 2 = 13 à 24 derniers mois = facteur 2
 année 3 = 25 à 36 derniers mois = facteur 1.
 
 Cette pondération sert uniquement à la détermination de la classification globale par niveau de risque.
-3)
+3\)
 
 La classification par niveau de risque est déterminée selon les formules suivantes:
 a) Formule pour la classification globale par niveau de risque
@@ -37244,7 +37244,7 @@ les feuilles d’enregistrement des jours précédents, qui doivent se trouver �
 36, paragraphes 1er et 2, du règlement (UE) n° 165/2014 précité et/ou les données mémorisées pour la même période
 dans la carte de conducteur et/ou dans la mémoire de l’appareil de contrôle conformément aux articles 2, paragraphe
 5, alinéa 2, et 3, paragraphe 3, alinéa 2, du présent règlement et/ou sur les sorties imprimées ;
-2)
+2\)
 
 pour la période visée à l’article 36, paragraphes 1 et 2, du règlement (UE) n° 165/2014 précité, les éventuels dépassements de la vitesse autorisée du véhicule, définis comme étant toutes les périodes de plus d’une minute pendant
 lesquelles la vitesse du véhicule excède 90 km/h pour les véhicules de la catégorie N3 ou 105 km/h pour les véhicules de
@@ -37252,12 +37252,12 @@ la catégorie M3 (les catégories N3 et M3 s’entendant comme celles définies 
 européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs
 remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules ;»
 
-3)
+3\)
 
 le cas échéant, les vitesses instantanées du véhicule telles qu’enregistrées par l’appareil de contrôle pendant, au plus,
 les dernières vingt-quatre heures d’utilisation du véhicule;
 
-4)
+4\)
 
 le fonctionnement correct de l’appareil de contrôle (constatation d’une éventuelle manipulation de l’appareil et/ou de
 la carte de conducteur et/ou des feuilles d’enregistrement) ou, le cas échéant, la présence des documents visés « à
@@ -37281,22 +37281,22 @@ directive 2002/15/CE précitée, uniquement lorsque la technologie existante per
 PARTIE B. - Contrôles dans les locaux des entreprises
 Outre les éléments soumis aux contrôles exposés dans la partie A, les éléments suivants font l’objet de contrôles dans les
 locaux des entreprises:
-1)
+1\)
 
 les temps de repos hebdomadaires et les durées de conduite entre ces temps de repos;
 
-2)
+2\)
 
 le respect de la limitation sur deux semaines des durées de conduite;
 
-3)
+3\)
 
 les feuilles d’enregistrement, les données et les copies papier provenant de l’unité embarquée et de la carte de conducteur « ; »2
 
 (Règl. g.-d. du 19 juin 2023)
 «4) le respect des exigences relatives aux durées maximales hebdomadaires moyennes du travail, aux temps de pause et
 au travail de nuit énoncées aux articles 4, 5 et 7 de la directive 2002/15/CE précitée ;
-5)
+5\)
 
 le respect des obligations incombant aux entreprises en ce qui concerne le paiement pour l’hébergement des conducteurs et l’organisation du travail des conducteurs, conformément à l’article 8, paragraphes 8 et 8 bis, du règlement (CE)
 n° 561/2006 précité.»
@@ -37313,7 +37313,7 @@ avec les règlements (CE) n° 561/2006 précité et (UE) n° 165/2014 précité 
 
 (Règl. g.-d. du 19 juin 2023)
 «ANNEXE II
-\1. Groupes d’infractions au règlement (CE) n° 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à l’harmonisation
+1\. Groupes d’infractions au règlement (CE) n° 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à l’harmonisation
 de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements
 (CEE) n° 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil
 
@@ -37760,7 +37760,7 @@ IM
 
 (*) ILPG = infractions les plus graves / ITG = infraction très grave / IG = infraction grave / IM = infraction mineure
 
-\2. Groupes d’infractions au règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif
+2\. Groupes d’infractions au règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4 février 2014 relatif
 aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n° 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n° 561/2006 du Parlement
 européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine
 des transports par route (Tachygraphe)
@@ -38057,11 +38057,11 @@ Version consolidée applicable au 24 octobre 2023
 Chapitre 1er.- Compétences, principes et champ d’application
 
 Art. 1er.
-\1. L’autorité compétente au sens du règlement (CE) no 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements
+1\. L’autorité compétente au sens du règlement (CE) no 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements
 (CEE) no 3821/85 et (CE) no 2135/98 du Conseil et abrogeant le règlement (CEE) no 3820/85 du Conseil et du règlement (CEE)
 no 3821/85 modifié du Conseil des Communautés Européennes du 20 décembre 1985, concernant l’appareil de contrôle dans
 le domaine des transports par route, est pour le Grand-Duché de Luxembourg le ministre qui a les transports dans ses attributions, désigné ci-après par le ministre.
-\2. En application de l’article 14 du règlement (CE) no 561/2006 précité, le ministre peut accorder une dérogation aux articles
+2\. En application de l’article 14 du règlement (CE) no 561/2006 précité, le ministre peut accorder une dérogation aux articles
 6 à 9 du règlement (CE) no 561/2006 précité pour des transports effectués dans des circonstances exceptionnelles.
 L’autorisation de dérogation doit mentionner obligatoirement les circonstances exceptionnelles, les catégories de véhicules
 visées et la période pour laquelle la dérogation est accordée.
@@ -38101,13 +38101,13 @@ Les feuilles d’enregistrement et le papier en continu doivent correspondre res
 règlement (CEE) no 3821/85 précité.
 (Règl. g.-d. du 19 octobre 2018)
 « Art. 3.
-\1. En application de l’article 3, paragraphe 5, du règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4
+1\. En application de l’article 3, paragraphe 5, du règlement (UE) n° 165/2014 du Parlement européen et du Conseil du 4
 février 2014 relatif aux tachygraphes dans les transports routiers, abrogeant le règlement (CEE) n° 3821/85 du Conseil concernant l’appareil de contrôle dans le domaine des transports par route et modifiant le règlement (CE) n° 561/2006 du Parlement
 européen et du Conseil relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, les autobus et autocars doivent être équipés d’un tachygraphe lorsqu’ils effectuent des transports nationaux au
 Luxembourg.
 Le tachygraphe doit être utilisé, sauf en cas de transports visés par le paragraphe 2.
 Les articles 6 à 9 et 12 du règlement (CE) n° 561/2006 précité sont applicables.
-\2. Par dérogation au paragraphe précédent, sont applicables les dispositions ci-après pour les conducteurs de véhicules
+2\. Par dérogation au paragraphe précédent, sont applicables les dispositions ci-après pour les conducteurs de véhicules
 affectés au transport de voyageurs par des services réguliers dont le parcours de la ligne ne dépasse pas 50 kilomètres.
 Les conducteurs de véhicules affectés au transport de voyageurs par des services réguliers dont le parcours de la ligne ne
 dépasse pas 50 kilomètres doivent respecter les dispositions prévues aux articles 6 à 9 et 12 du règlement (CE) n° 561/2006
@@ -38141,7 +38141,7 @@ présent règlement.
 L’article 12 du présent règlement est applicable dans ce cas.
 \- 567 -
 
-\3. En application de l’article 13 du règlement (CE) n° 561/2006 précité, les articles 6 à 9 de ce même règlement ne sont pas
+3\. En application de l’article 13 du règlement (CE) n° 561/2006 précité, les articles 6 à 9 de ce même règlement ne sont pas
 applicables aux transports nationaux effectués par les véhicules suivants :
 
 tracteurs agricoles ou forestiers utilisés pour des activités agricoles ou forestières, dans un rayon de 100 kilomètres
@@ -38219,7 +38219,7 @@ la « SNCA » et tenues à la disposition de l’Administration des douanes et a
 du travail et des mines ainsi que des autorités compétentes de délivrance et de contrôle routier des autres Etats membres de
 l’Espace Economique Européen, de la Suisse ainsi que de ceux étant partie à l’AETR précité.
 Art. 5.
-\1. « En vue de leur agrément par le ministre, l’Administration des douanes et accises procède à la vérification de la conformité des ateliers de tachygraphe conformément aux dispositions de l’annexe I. Au cas où elle le juge nécessaire, elle peut avoir
+1\. « En vue de leur agrément par le ministre, l’Administration des douanes et accises procède à la vérification de la conformité des ateliers de tachygraphe conformément aux dispositions de l’annexe I. Au cas où elle le juge nécessaire, elle peut avoir
 recours à des experts externes. »1
 La décision du ministre sur l’agrément d’un atelier de tachygraphe intervient après instruction de la demande afférente par
 l’Administration des douanes et accises.
@@ -38232,13 +38232,13 @@ Aux articles 4, 7, 8, 9, 10, 11, 12 ainsi qu’à l’annexe I « SNCT » est re
 Le ministre attribue à chaque atelier agréé une marque particulière, à apposer sur les scellements que l’atelier en question
 effectuera sur des installations de tachygraphes. La marque est constituée par la lettre latine «L», suivie d’un numéro d’ordre
 composé de trois chiffres arabes.
-\2. L’Administration des douanes et accises est chargée de la surveillance de l’activité des ateliers de tachygraphes agréés.
+2\. L’Administration des douanes et accises est chargée de la surveillance de l’activité des ateliers de tachygraphes agréés.
 Dans ce contexte, elle procède à au moins un audit par année de chacun de ces ateliers et elle adresse au ministre un rapport
 sur les audits effectués.
 Tout manquement d’un atelier agréé aux dispositions en vigueur qui lui sont applicables peut entraîner le retrait temporaire
 ou définitif par le ministre de l’agrément de l’atelier ou de la carte de tachygraphe du technicien responsable du manquement
 en question.
-\3. Seuls les ateliers agréés suivant les dispositions de l’annexe du présent règlement sont autorisés à effectuer les opérations liées à l’installation, l’activation, l’étalonnage, la vérification, la réparation et la mise hors service des tachygraphes.
+3\. Seuls les ateliers agréés suivant les dispositions de l’annexe du présent règlement sont autorisés à effectuer les opérations liées à l’installation, l’activation, l’étalonnage, la vérification, la réparation et la mise hors service des tachygraphes.
 Art. 6.
 La Société Nationale de Certification et d’Homologation, désignée ci-après par le sigle SNCH, est chargée des travaux
 d’homologation des tachygraphes, des feuilles d’enregistrement, du papier en continu et des cartes de tachygraphe prévus à
@@ -38295,42 +38295,42 @@ Les cartes de tachygraphe délivrées à des fabricants de tachygraphes ne peuve
 sous leur responsabilité et peuvent être des données fictives. Par dérogation à l’alinéa 7, la taxe de mise à disposition de toute
 carte délivrée à un fabricant de tachygraphe est basé sur le coût de revient de cette carte.
 Art. 8.
-\1. En vue de l’obtention d’une carte de conducteur, l’intéressé est tenu de présenter à la « SNCA » une demande portant
+1\. En vue de l’obtention d’une carte de conducteur, l’intéressé est tenu de présenter à la « SNCA » une demande portant
 sa signature et indiquant notamment ses noms et prénoms, le lieu et la date de sa naissance ainsi que le lieu de sa résidence
 normale.
 La demande doit être appuyée par les éléments suivants:
-1)
+1\)
 
 une copie d’un document d’identité du requérant, en cours de validité;
 
-2)
+2\)
 
 une copie du permis de conduire du requérant, valable pour la conduite d’un véhicule tombant sous l’application du
 présent règlement;
 
-3)
+3\)
 
 une déclaration de l’intéressé attestant qu’il n’est pas encore ni déjà titulaire d’une carte de conducteur en cours de
 validité, ayant été émise par une autorité étrangère;
 
-4)
+4\)
 
 deux photographies récentes identiques, établies sur papier souple, d’une largeur de 35 mm et d’une hauteur de 45 mm,
 la tête de l’intéressé - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
 
-5)
+5\)
 
 un certificat de résidence datant de moins d’un mois, attestant que l’intéressé a sa résidence normale au Grand-Duché
 de Luxembourg.
 
 La durée de validité maximale d’une carte de conducteur est de cinq ans.
-\2. Une carte de conducteur peut être renouvelée pour des nouveaux termes consécutifs d’au plus cinq ans, à condition pour
+2\. Une carte de conducteur peut être renouvelée pour des nouveaux termes consécutifs d’au plus cinq ans, à condition pour
 le titulaire d’en présenter la demande au moins 15 jours ouvrables avant l’expiration de la carte à la « SNCA », accompagnée
 des éléments prévus au deuxième alinéa du paragraphe 1.
 Le renouvellement d’une carte de conducteur intervient dans les cinq jours ouvrables suivant la réception, par la « SNCA »,
 de la demande conforme aux exigences du premier alinéa et de la taxe prévue à l’article 7.
 Le titulaire doit conserver l’ancienne carte pendant au moins un mois après son expiration. Il est par ailleurs tenu de décharger les données y mémorisées suivant les modalités du paragraphe 1 de l’article 12 du présent règlement.
-\3. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte de conducteur peut être remplacée.
+3\. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte de conducteur peut être remplacée.
 Dans le cas de perte ou de vol, le titulaire est obligé de déclarer immédiatement cette perte ou ce vol aussi bien à une autorité
 compétente du pays où la perte ou le vol ont été constatés qu’à la « SNCA » à laquelle il doit présenter par ailleurs dans les sept
 jours de calendrier, ensemble avec sa demande de remplacement, une déclaration par laquelle il atteste le motif du remplacement sollicité. Dans le cas d’un mauvais fonctionnement d’une carte, la « SNCA » peut, le cas échéant, demander au titulaire
@@ -38342,12 +38342,12 @@ Une carte de remplacement a la même échéance que la carte perdue, volée, end
 Si en application de cette disposition, la carte à remplacer a une durée de validité résiduelle inférieure à deux mois, elle est
 renouvelée selon les modalités du paragraphe 2. Si la carte à remplacer a été établie par une autorité compétente étrangère, il
 est procédé selon les modalités du paragraphe 1.
-\4. Une carte de conducteur peut être échangée à la demande de son titulaire, lorsqu’une des données administratives de la
+4\. Une carte de conducteur peut être échangée à la demande de son titulaire, lorsqu’une des données administratives de la
 carte est modifiée. L’échange a lieu selon les modalités du paragraphe 2.
 Une carte de conducteur peut également être échangée à la demande de son titulaire lorsqu’elle a été émise par une autorité compétente étrangère et que le titulaire a transféré sa résidence normale au Grand-Duché de Luxembourg. En vue de cet
 échange, les conditions du paragraphe 1 sont applicables et la carte est délivrée contre remise de la carte à échanger.
 Art. 9.
-\1. En vue de l’obtention d’une carte d’entreprise, le mandataire de l’entreprise ou de l’organisme intéressé est tenu de
+1\. En vue de l’obtention d’une carte d’entreprise, le mandataire de l’entreprise ou de l’organisme intéressé est tenu de
 présenter à la « SNCA » une demande dûment signée et indiquant le nom et le numéro d’identité national de l’entreprise ou
 de l’organisme.
 La demande doit être appuyée par une copie d’un document d’identité du mandataire de l’entreprise ou de l’organisme, en
@@ -38356,27 +38356,27 @@ cours de validité.
 \- 570 -
 
 La durée de validité maximale d’une carte d’entreprise est de cinq ans.
-\2. Une carte d’entreprise peut être renouvelée pour des nouveaux termes consécutifs d’au plus cinq ans, à condition pour le
+2\. Une carte d’entreprise peut être renouvelée pour des nouveaux termes consécutifs d’au plus cinq ans, à condition pour le
 mandataire de l’entreprise ou de l’organisme titulaire d’en présenter la demande à la « SNCA », accompagnée des éléments
 prévus au deuxième alinéa du paragraphe 1.
 Le renouvellement d’une carte d’entreprise intervient dans les cinq jours ouvrables suivant la réception, par la « SNCA », de
 la demande conforme aux exigences du premier alinéa et de la taxe prévue à l’article 7.
-\3. En cas de perte, de vol, d’endommagement, de mauvais fonctionnement ou de modification de données administratives,
+3\. En cas de perte, de vol, d’endommagement, de mauvais fonctionnement ou de modification de données administratives,
 une carte d’entreprise peut également être renouvelée selon les modalités du paragraphe 2. Dans ce cas, le mandataire de
 l’entreprise ou de l’organisme titulaire concerné est obligé de présenter, ensemble avec sa demande de remplacement, une
 déclaration par laquelle il atteste le motif de renouvellement sollicité ainsi que, le cas échéant, la carte endommagée ou à
 échanger. Dans le cas d’un mauvais fonctionnement d’une carte, la « SNCA » peut, le cas échéant, demander à l’entreprise ou
 l’organisme titulaire des informations écrites sur le mauvais fonctionnement lors du remplacement de la carte.
 Art. 10.
-\1. En vue de l’obtention d’une carte de contrôle, le directeur général de la Police grand-ducale, le directeur de l’Administration
+1\. En vue de l’obtention d’une carte de contrôle, le directeur général de la Police grand-ducale, le directeur de l’Administration
 des douanes et accises ou le directeur de l’Inspection du travail et des mines est tenu de présenter à la « SNCA » une demande
 indiquant les noms, prénoms et fonctions des candidats-titulaires retenus à cet effet et accompagnée pour chaque candidattitulaire d’un spécimen de sa signature ainsi que d’une photographie récente, établie sur papier souple, d’une largeur de 35 mm
 et d’une hauteur de 45 mm, la tête du candidat-titulaire - prise de face devant un fond clair - ayant au moins 20 mm de hauteur.
 La durée de validité maximale d’une carte de contrôle est de cinq ans.
-\2. Une carte de contrôle peut être renouvelée pour des nouveaux termes consécutifs de cinq ans, à condition pour l’administration concernée d’en présenter la demande à la « SNCA » selon les modalités du premier alinéa du paragraphe 1.
+2\. Une carte de contrôle peut être renouvelée pour des nouveaux termes consécutifs de cinq ans, à condition pour l’administration concernée d’en présenter la demande à la « SNCA » selon les modalités du premier alinéa du paragraphe 1.
 Le renouvellement de la carte de contrôle intervient dans les cinq jours ouvrables suivant la réception, par la « SNCA », de
 la demande conforme aux exigences du premier alinéa.
-\3. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte de contrôle peut être remplacée.
+3\. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte de contrôle peut être remplacée.
 Dans ce cas, le directeur général de la Police grand-ducale, le directeur de l’Administration des douanes et accises ou le directeur de l’Inspection du travail et des mines est obligé de présenter, ensemble avec la demande de remplacement, une déclaration par laquelle il atteste le motif de remplacement sollicité. Dans le cas d’un mauvais fonctionnement de la carte, la « SNCA »
 peut, le cas échéant, demander au directeur général de la Police grand-ducale, au directeur de l’Administration des douanes et
 accises ou au directeur de l’Inspection du travail et des mines des informations écrites sur le mauvais fonctionnement lors du
@@ -38385,32 +38385,32 @@ Le remplacement d’une carte de contrôle se fait selon les modalités du parag
 Une carte de remplacement a la même échéance que la carte perdue, volée, endommagée ou défectueuse. Si en application
 de cette disposition la carte à remplacer a une durée de validité résiduelle inférieure à deux mois, elle est renouvelée selon les
 modalités du paragraphe 2.
-\4. Une carte de contrôle peut être échangée à la demande de l’administration concernée, lorsqu’une des données administratives de la carte est modifiée. L’échange a lieu selon les modalités du paragraphe 3.
-\5. La cessation des fonctions donnant droit à une carte de contrôle comporte l’obligation pour son titulaire de restituer la
+4\. Une carte de contrôle peut être échangée à la demande de l’administration concernée, lorsqu’une des données administratives de la carte est modifiée. L’échange a lieu selon les modalités du paragraphe 3.
+5\. La cessation des fonctions donnant droit à une carte de contrôle comporte l’obligation pour son titulaire de restituer la
 carte sans délai au directeur de l’administration dont il dépend ou dont il a dépendu, ledit directeur devant restituer la carte sans
 délai à la « SNCA ».
 Art. 11.
-\1. Les cartes d’atelier sont uniquement délivrées aux ateliers agréés conformément à l’annexe IB du règlement (CEE)
+1\. Les cartes d’atelier sont uniquement délivrées aux ateliers agréés conformément à l’annexe IB du règlement (CEE)
 no 3821/85 précité et qui, sauf dans des cas dûment motivés, ne sont pas éligibles pour une carte d’entreprise ou dont les autres
 activités professionnelles ne sont pas de nature à compromettre la sécurité globale du système.
-\2. En vue de l’obtention d’une carte d’atelier, le mandataire de l’atelier agréé intéressé est tenu de présenter à la « SNCA »une
+2\. En vue de l’obtention d’une carte d’atelier, le mandataire de l’atelier agréé intéressé est tenu de présenter à la « SNCA »une
 demande dûment signée, indiquant le nom et l’adresse de l’atelier ainsi que les noms et prénoms et le lieu et la date de naissance du candidat-titulaire à l’obtention de la carte, ce dernier devant justifier de la qualification technique requise en vertu du
 règlement (CEE) no 3821/85 précité.
 La demande doit être appuyée par les éléments suivants:
-1)
+1\)
 
 une copie d’un document d’identité du candidat-titulaire, en cours de validité;
 
-2)
+2\)
 
 un document attestant les relations professionnelles entre l’atelier et le candidat-titulaire;
 
-3)
+3\)
 
 une photographie récente du candidat-titulaire, établie sur papier souple, d’une largeur de 35 mm et d’une hauteur de
 45 mm, la tête du candidat-titulaire - prise de face devant un fond clair - ayant au moins 20 mm de hauteur;
 
-4)
+4\)
 
 une attestation, datant de moins de 24 mois, relative à la participation du candidat-titulaire avec succès à un cours de
 formation technique d’au moins cinq jours auprès d’un fabricant de tachygraphes.
@@ -38418,7 +38418,7 @@ formation technique d’au moins cinq jours auprès d’un fabricant de tachygra
 \- 571 -
 
 La durée de validité maximale d’une carte d’atelier est d’un an.
-\3. Une carte d’atelier peut être renouvelée pour des nouveaux termes consécutifs d’un an, à condition pour l’atelier agréé
+3\. Une carte d’atelier peut être renouvelée pour des nouveaux termes consécutifs d’un an, à condition pour l’atelier agréé
 d’en présenter la demande à la « SNCA », accompagnée des éléments prévus au deuxième alinéa du paragraphe 2. Dans le
 cas d’un mauvais fonctionnement de la carte, la « SNCA » peut, le cas échéant, demander au titulaire des informations écrites
 sur le mauvais fonctionnement lors du remplacement de la carte.
@@ -38426,27 +38426,27 @@ Le renouvellement de la carte d’atelier intervient dans les cinq jours ouvrabl
 la demande conforme aux exigences du premier alinéa et de la taxe prévue à l’article 7. La nouvelle carte est délivrée contre
 remise de celle venant à échéance, l’atelier ayant l’autorité sur le titulaire de cette carte étant par ailleurs tenu de décharger
 et de conserver les données y mémorisées suivant les modalités des paragraphes 2 et 6 de l’article 12 du présent règlement.
-\4. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte d’atelier peut être remplacée. Dans
+4\. En cas de perte, de vol, d’endommagement ou de mauvais fonctionnement, une carte d’atelier peut être remplacée. Dans
 ce cas, le titulaire est obligé de présenter, ensemble avec sa demande de remplacement, une déclaration par laquelle il atteste
 le motif de remplacement sollicité.
-\5. Le remplacement d’une carte d’atelier se fait selon les modalités du paragraphe 3. Toutefois, lorsque la carte a été volée
+5\. Le remplacement d’une carte d’atelier se fait selon les modalités du paragraphe 3. Toutefois, lorsque la carte a été volée
 ou perdue ou que son état défectueux ne le permet plus, l’atelier ayant l’autorité sur le titulaire n’est pas tenu par l’obligation de
 décharger et de conserver les données mémorisées sur la carte.
 Une carte de remplacement a la même échéance que la carte perdue, volée, endommagée ou défectueuse qu’elle remplace.
 Si en application de cette disposition, la carte à remplacer a une durée de validité résiduelle inférieure à deux mois, elle est
 renouvelée selon les modalités du paragraphe 3.
-\6. La carte d’atelier peut être échangée à la demande de l’atelier ayant l’autorité sur son titulaire, lorsqu’une des données
+6\. La carte d’atelier peut être échangée à la demande de l’atelier ayant l’autorité sur son titulaire, lorsqu’une des données
 administratives de la carte est modifiée. L’échange a lieu selon les modalités du paragraphe 4.
-\7. La cessation des relations professionnelles entre l’atelier et le titulaire d’une carte d’atelier comporte l’obligation pour
+7\. La cessation des relations professionnelles entre l’atelier et le titulaire d’une carte d’atelier comporte l’obligation pour
 l’atelier concerné de restituer la carte sans délai à la « SNCA ».
 
 Chapitre 3.- La manipulation des données enregistrées
 
 Art. 12.
-\1. Tout titulaire d’une carte de conducteur doit télécharger les données enregistrées sur sa carte au plus tard tous les 28
+1\. Tout titulaire d’une carte de conducteur doit télécharger les données enregistrées sur sa carte au plus tard tous les 28
 jours ou avant que celles-ci ne soient perdues et les transmettre à l’entreprise ou aux entreprises pour compte de laquelle ou
 desquelles il a effectué des transports depuis le dernier téléchargement de la mémoire de sa carte.
-\2. Les données mémorisées sur une carte d’atelier doivent être téléchargées régulièrement par l’atelier ayant l’autorité sur le
+2\. Les données mémorisées sur une carte d’atelier doivent être téléchargées régulièrement par l’atelier ayant l’autorité sur le
 titulaire de la carte et au plus tard avant la remise de celle-ci à la « SNCA » soit en vu du renouvellement ou de l’échange de la
 carte, soit comme suite à la cessation des relations professionnelles entre l’atelier et le titulaire de la carte.
 (Règl. g.-d. du 21 septembre 2023)
@@ -38455,7 +38455,7 @@ carte, soit comme suite à la cessation des relations professionnelles entre l�
 d’immatriculation du véhicule routier qui en est équipé. » Le locataire d’un véhicule équipé d’un tachygraphe numérique est en
 droit de récupérer les données qui ont été enregistrées par ce tachygraphe pendant le temps que le véhicule s’est trouvé à sa
 disposition.
-\4. Au cas où un tachygraphe numérique est mis hors service, soit de façon définitive, soit pour être utilisé sur un autre véhicule, les données enregistrées dans la mémoire de ce tachygraphe doivent être téléchargées par l’atelier procédant à ladite
+4\. Au cas où un tachygraphe numérique est mis hors service, soit de façon définitive, soit pour être utilisé sur un autre véhicule, les données enregistrées dans la mémoire de ce tachygraphe doivent être téléchargées par l’atelier procédant à ladite
 mise hors service. (Règl. g.-d. du 21 septembre 2023) « Cet atelier doit en outre faire tenir les données téléchargées, selon
 le cas, soit au propriétaire ou détenteur du véhicule routier, soit au titulaire du certificat d’immatriculation du véhicule routier,
 soit au locataire du véhicule sur lequel le tachygraphe en question était monté. » Il en est de même en cas de réparation d’un
@@ -38465,7 +38465,7 @@ tachygraphe de nature à effacer les enregistrements qui y sont stockés.
 intervenu sur ce tachygraphe doit délivrer soit au propriétaire ou détenteur du véhicule routier, soit au titulaire du certificat
 d’immatriculation du véhicule routier, soit au locataire du véhicule concerné, un certificat correspondant au modèle reproduit à
 l’annexe au présent règlement et attestant l’état de choses visé ci-avant. »
-\6. Les entreprises doivent garder les données des cartes de conducteur qui leur ont été transmises pendant au moins deux
+6\. Les entreprises doivent garder les données des cartes de conducteur qui leur ont été transmises pendant au moins deux
 ans et elles sont tenues de communiquer ces données sans délai sur réquisition des agents de contrôle.
 Les ateliers agréés doivent conserver les données téléchargées de cartes d’atelier pendant au moins deux ans et ils sont
 tenus de communiquer ces données sans délai sur réquisition des agents de contrôle.
@@ -38477,12 +38477,12 @@ tenus de communiquer ces données sans délai sur réquisition des agents de con
 par le propriétaire ou détenteur du véhicule routier, soit par le titulaire du certificat d’immatriculation du véhicule routier, soit par
 le locataire du véhicule afférent, ceux-ci étant par ailleurs tenus de communiquer ces données sans délai sur réquisition des
 agents de contrôle. »
-\7. Tout téléchargement en vertu des dispositions des paragraphes 1 à 6 doit être effectué de manière à préserver l’authenticité des données et, le cas échéant, des signatures électroniques afférentes.
+7\. Tout téléchargement en vertu des dispositions des paragraphes 1 à 6 doit être effectué de manière à préserver l’authenticité des données et, le cas échéant, des signatures électroniques afférentes.
 
 Chapitre 4.- Dispositions finales
 
 Art. 13.
-\1. Les infractions aux dispositions prévues aux articles 5, 6, 7, 8, 9, 10, 12, 16 et 20 paragraphe 3 du règlement (CE)
+1\. Les infractions aux dispositions prévues aux articles 5, 6, 7, 8, 9, 10, 12, 16 et 20 paragraphe 3 du règlement (CE)
 no 561/2006 précité, aux articles 1er, 3 alinéa 1, 12, 13, 14, 15, 16 et aux annexes I, IB et II du règlement (CEE) no 3821/85
 précité, aux articles 5, 6, 7, 8, 9, 10, 11 de l’AETR précité, aux articles 9, 10, 11, 12, 13, 14 et aux appendices 1, 1B et 2 de
 l’annexe de l’AETR précité ainsi qu’aux articles 2, 3, 5, 7 et 12 du présent règlement sont punies d’un emprisonnement de huit
@@ -38490,13 +38490,13 @@ jours à cinq ans et d’une amende de 251 euros à 25.000 euros ou d’une de c
 énumérées à l’annexe II du présent règlement qui sont punies d’une amende de 145 à 250 euros.
 De même, la mise à disposition d’une carte de conducteur à une tierce personne est punie des peines prévues à l’alinéa
 premier.
-\2. Les sanctions prévues au paragraphe 1 sont également applicables aux infractions commises sur le territoire d’un autre
+2\. Les sanctions prévues au paragraphe 1 sont également applicables aux infractions commises sur le territoire d’un autre
 Etat membre de l’Union européenne ou d’un pays tiers et constatées sur le territoire du Grand-Duché de Luxembourg.
 Au cas où l’entreprise ou le conducteur ayant commis l’infraction prévue à l’alinéa précédent prouve que cette infraction a
 déjà été sanctionnée ou qu’une procédure a été ouverte, aucune sanction n’est appliquée.
-\3. Pour toute infraction constatée sur le territoire luxembourgeois, les agents de contrôle fournissent au conducteur une
+3\. Pour toute infraction constatée sur le territoire luxembourgeois, les agents de contrôle fournissent au conducteur une
 preuve écrite.
-\4. Il est interdit au conducteur de reprendre la conduite tant qu’il n’est pas en mesure de respecter les dispositions ci-avant.
+4\. Il est interdit au conducteur de reprendre la conduite tant qu’il n’est pas en mesure de respecter les dispositions ci-avant.
 Art. 14.
 A l’article 20 du règlement grand-ducal modifié du 8 août 2000 déterminant le contenu de l’instruction préparatoire aux
 examens du permis de conduire ainsi que l’exercice de la profession d’instructeur de candidats-conducteurs il est ajouté un
@@ -38507,7 +38507,7 @@ chronotachygraphe conformément aux dispositions de la réglementation communaut
 dispositions de la législation sociale dans le domaine des transports par route, modifiant les règlements (CEE) no 3821/85 et
 (CE) no 2135/98 du Conseil et abrogeant le règlement (CEE) no 3820/85 du Conseil lui sont applicables.»
 Art. 15.
-\1. L’article 4 du règlement grand-ducal du 15 mars 1993 portant exécution et sanction du règlement (CEE) no 881/92 du
+1\. L’article 4 du règlement grand-ducal du 15 mars 1993 portant exécution et sanction du règlement (CEE) no 881/92 du
 Conseil des Communautés Européennes du 26 mars 1992 concernant l’accès au marché des transports par route dans la
 Communauté exécutés au départ ou à destination du territoire d’un Etat membre ou traversant le territoire d’un ou plusieurs
 Etats membres est remplacé par le texte suivant:
@@ -38520,7 +38520,7 @@ agents chargés du contrôle une autorisation bilatérale ou multilatérale en c
 sauf le cas où une libéralisation a été convenue entre le Luxembourg et l’Etat d’établissement du transporteur.
 En cas de cessation de l’activité de l’entreprise de transports, l’original et les copies conformes de la licence communautaire
 doivent être restitués à l’autorité émettrice.
-\2. Tout conducteur originaire d’un pays tiers à l’Espace Economique Européen autre que la Suisse doit disposer de l’attestation de conducteur prévue à l’article 6 du règlement (CEE) no 881/92.
+2\. Tout conducteur originaire d’un pays tiers à l’Espace Economique Européen autre que la Suisse doit disposer de l’attestation de conducteur prévue à l’article 6 du règlement (CEE) no 881/92.
 
 \- 573 -
 
@@ -38528,7 +38528,7 @@ L’attestation de conducteur est délivrée par le Ministre pour l’année civ
 L’attestation de conducteur respectivement sa copie conforme doit être présentée à toute demande des agents chargés du
 contrôle.
 Si les conditions de délivrance ne sont plus remplies ou en cas de cessation de l’activité de l’entreprise de transports, l’original et la copie conforme de l’attestation de conducteur doivent être restitués à l’autorité émettrice.»
-\2. L’article 6 de ce même règlement est remplacé par le texte suivant:
+2\. L’article 6 de ce même règlement est remplacé par le texte suivant:
 «Art. 6. Les infractions aux dispositions de l’article 3, paragraphe 1, de l’article 5, paragraphe 4, de l’article 6, paragraphe 4
 et aux dispositions générales des annexes I et III du règlement (CEE) no 881/92 ainsi qu’aux dispositions des articles 4 et 5
 du présent règlement sont punies d’un emprisonnement de huit jours à trois mois et d’une amende de 251 euros à 15.000
@@ -38543,11 +38543,11 @@ présentation d’une autorisation bilatérale ou multilatérale non remplie des
 défaut de pouvoir présenter une attestation de conducteur valable.»
 
 Art. 16.
-\1. A l’annexe I, point A., du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des
+1\. A l’annexe I, point A., du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu’aux mesures d’exécution de la législation en matière de mise en fourrière des
 véhicules et en matière de permis à points, le montant de la taxe pour les infractions 49-07 à 49-10 est porté à 145 euros.
-\2. Au même point A, la phrase introductive précédant les infractions 72-02 à 72-04 est modifiée comme suit:
+2\. Au même point A, la phrase introductive précédant les infractions 72-02 à 72-04 est modifiée comme suit:
 «Conduite ou fait de laisser conduire ou de faire conduire un taxi, une voiture de location ou un véhicule d’écolage:»
-\3. A la même annexe I, il est ajouté un point M. et un point N. tels qu’énoncés aux annexes II et III du présent règlement.
+3\. A la même annexe I, il est ajouté un point M. et un point N. tels qu’énoncés aux annexes II et III du présent règlement.
 Art. 17.
 Le règlement grand-ducal du 13 octobre 2006 concernant les modalités relatives à l’appareil de contrôle dans le domaine
 des transports par route et fixant les sanctions des infractions aux dispositions du règlement (CE) no 561/2006 du Parlement
@@ -39620,7 +39620,7 @@ tentatives visant à compromettre les éléments de sécurité des tachygraphes 
 ANNEXE II
 M. Règlement grand-ducal du 16 juin 2011 concernant les modalités et les sanctions relatives à l’installation et l’utilisation
 des tachygraphes
-1.
+1\.
 
 Groupes d’infractions au règlement (CE) n° 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif à l’harmonisation de certaines dispositions de la législation sociale dans le domaine des transports par route, modifiant les
 règlements (CEE) n° 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil
@@ -39840,7 +39840,7 @@ accordée - 36h<….<42h
 – Règlement (CE) n° 561/2006: art. 8.6.
 – AETR: art. 8.3.
 
-2.
+2\.
 
 Groupes d’infractions au règlement (CEE) n° 3821/85 modifié du Conseil des Communautés Européennes concernant
 l’appareil de contrôle dans le domaine des transports par route et à l’Accord européen relatif au travail des équipages
@@ -40010,10 +40010,10 @@ Chapitre Ier.- Les critères techniques et les conditions d’homologation et de
 
 Section 1. – L’appareil servant à l’examen sommaire de l’haleine
 Art. 1er.
-\1. L’appareil qui est utilisé pour effectuer l’examen sommaire de l’haleine prévu à l’article 12 de la loi modifiée du 14 février
+1\. L’appareil qui est utilisé pour effectuer l’examen sommaire de l’haleine prévu à l’article 12 de la loi modifiée du 14 février
 1955 concernant la réglementation de la circulation sur toutes les voies publiques est l’éthylotest.
-\2. L’éthylotest se présente sous la forme d’un appareil permettant l’analyse électrochimique de l’haleine.
-\3. Sont reconnus pour pouvoir servir à l’examen sommaire de l’haleine les types d’éthylotest homologués par un Etat
+2\. L’éthylotest se présente sous la forme d’un appareil permettant l’analyse électrochimique de l’haleine.
+3\. Sont reconnus pour pouvoir servir à l’examen sommaire de l’haleine les types d’éthylotest homologués par un Etat
 membre de l’Union européenne.
 L’appareil qui est destiné à être utilisé pour l’examen sommaire de l’haleine et qui correspond aux types précités fait l’objet
 d’un contrôle de conformité avant sa mise en service. Ce contrôle est répété à la demande des autorités judiciaires ou de la
@@ -40029,15 +40029,15 @@ en service des types d’éthylotest.
 
 Section 2. – L’appareil servant à déterminer le taux d’alcool par l’analyse de l’air expiré
 Art. 2.
-\1. L’examen de l’air expiré prévu par l’article 12 de la loi modifiée du 14 février 1955 précitée se fait par un éthylomètre permettant de déterminer le taux d’alcool par l’analyse de l’air expiré.
-\2. L’éthylomètre est un instrument qui mesure la concentration d’alcool par analyse de l’air alvéolaire expiré et qui peut
+1\. L’examen de l’air expiré prévu par l’article 12 de la loi modifiée du 14 février 1955 précitée se fait par un éthylomètre permettant de déterminer le taux d’alcool par l’analyse de l’air expiré.
+2\. L’éthylomètre est un instrument qui mesure la concentration d’alcool par analyse de l’air alvéolaire expiré et qui peut
 mesurer, outre la concentration d’alcool éthylique, la concentration d’autres alcools notamment d’alcool méthylique ou d’alcool
 isopropylique.
-\3. Les indications de l’éthylomètre sont exprimées en milligrammes d’alcool par litre d’air et la valeur de l’échelon d’indication
+3\. Les indications de l’éthylomètre sont exprimées en milligrammes d’alcool par litre d’air et la valeur de l’échelon d’indication
 de l’instrument doit être égale à 0,01 mg/l.
-\4. Pour chaque analyse l’appareil fournit par écrit le résultat de l’analyse, la date et l’heure de l’analyse ainsi qu’un numéro
+4\. Pour chaque analyse l’appareil fournit par écrit le résultat de l’analyse, la date et l’heure de l’analyse ainsi qu’un numéro
 d’ordre courant distinct pour chaque appareil.
-5.
+5\.
 
 a) L’éthylomètre doit faire l’objet d’une homologation par la SNCH.
 b) Lorsque l’instrument est destiné à être connecté à des éléments périphériques, les interfaces de liaison doivent être
@@ -40053,21 +40053,21 @@ Base légale: loi du 14 février 1955 concernant la réglementation de la circul
 
 \- 595 -
 
-\6. La SNCH procède à l’homologation des types d’éthylomètre sur base du cahier des charges dont question à l’article 3. Elle
+6\. La SNCH procède à l’homologation des types d’éthylomètre sur base du cahier des charges dont question à l’article 3. Elle
 peut, en cas de besoin, avoir recours à des organismes spécialisés pour procéder ou faire procéder aux essais et constatations
 requis en vue de l’homologation des éthylomètres. Les frais d’homologation sont à charge du fabricant de l’appareil ou de son
 mandataire.
 L’homologation d’un type d’éthylomètre est subordonnée à l’exécution ou à la certification d’essais consistant à mesurer la
 concentration d’alcool éthylique sans que les tolérances d’erreurs maximales, en plus ou en moins, fixées par le cahier des
 charges, ne soient dépassées.
-\7. Après exécution des vérifications et essais jugés nécessaires pour établir la conformité d’un type d’éthylomètre aux dispositions spécifiées aux paragraphes 2 à 5, la SNCH attribue au type d’appareil présenté un numéro d’homologation et délivre au
+7\. Après exécution des vérifications et essais jugés nécessaires pour établir la conformité d’un type d’éthylomètre aux dispositions spécifiées aux paragraphes 2 à 5, la SNCH attribue au type d’appareil présenté un numéro d’homologation et délivre au
 fabricant ou à son mandataire un certificat de réception nationale.
-\8. L’homologation d’un éthylomètre peut être retirée toutes les fois que des irrégularités sont constatées par rapport aux données ayant servi pour sa délivrance, et notamment lorsque les contrôles initiaux et les vérifications périodiques ne permettent
+8\. L’homologation d’un éthylomètre peut être retirée toutes les fois que des irrégularités sont constatées par rapport aux données ayant servi pour sa délivrance, et notamment lorsque les contrôles initiaux et les vérifications périodiques ne permettent
 pas la mise en service ou le maintien en service des éthylomètres en question.
 
 Section 3. – Le cahier des charges pour la mise en service des éthylomètres
 Art. 3.
-\1. La demande d’homologation d’un type d’éthylomètre doit être adressée à la SNCH; elle doit être accompagnée des pièces
+1\. La demande d’homologation d’un type d’éthylomètre doit être adressée à la SNCH; elle doit être accompagnée des pièces
 énumérées ci-après:
 
 une description détaillée de l’appareil comportant tous les dessins et photographies utiles;
@@ -40085,7 +40085,7 @@ reconnu par une telle autorité et attestant la conformité du type d’appareil
 La demande d’homologation doit en outre être accompagnée d’un spécimen du type d’appareil à homologuer ainsi que des
 moyens nécessaires pour procéder au calibrage et aux épreuves de vérification de la conformité.
 La SNCH peut demander la fourniture de toute autre pièce ou document qu’elle juge utile pour procéder à l’homologation.
-\2. La mise ou la remise en service d’un éthylomètre neuf, modifié ou réparé, comporte en outre l’obligation de soumettre
+2\. La mise ou la remise en service d’un éthylomètre neuf, modifié ou réparé, comporte en outre l’obligation de soumettre
 chaque appareil individuellement à un contrôle à effectuer par la SNCH en vue d’établir sa conformité au modèle homologué.
 Ce contrôle comprend un examen de la conformité au modèle approuvé. Cet examen ainsi que la liste des essais éventuels
 doivent être documentés dans le carnet métrologique.
@@ -40098,7 +40098,7 @@ le numéro et la date de l’homologation du modèle.
 Il doit être accompagné d’un carnet métrologique où doivent être reportés toutes les indications relatives à l’identification de
 l’instrument, les opérations de contrôle exercées, les résultats de ces contrôles et la nature d’éventuelles réparations subies par
 l’instrument. La SNCH est seule autorisée à faire des inscriptions dans le carnet métrologique.
-\3. Les éthylomètres sont en outre soumis à des vérifications périodiques qui ont lieu à la diligence et aux frais du détenteur
+3\. Les éthylomètres sont en outre soumis à des vérifications périodiques qui ont lieu à la diligence et aux frais du détenteur
 de l’instrument; celles-ci sont effectuées aux moins tous les douze mois par la SNCH.
 Ces vérifications périodiques comprennent les opérations suivantes:
 
@@ -40109,7 +40109,7 @@ consigner les résultats de l’examen et des essais éventuels dans le carnet m
 
 apposer sur les éthylomètres qui satisfont aux essais la vignette prévue au paragraphe 4 et, dans le cas contraire, signaler au détenteur les anomalies constatées.
 
-\4. Le contrôle précédant l’homologation et la vérification périodique est sanctionné par l’apposition d’une vignette portant
+4\. Le contrôle précédant l’homologation et la vérification périodique est sanctionné par l’apposition d’une vignette portant
 l’inscription indélébile de la date avant laquelle la prochaine vérification périodique doit être effectuée.
 La vignette porte la mention: «prochaine vérification avant le ...», la date indiquée étant postérieure d’un an à la date de la
 dernière vérification. Cette vignette doit être adhésive et son retrait doit entraîner sa destruction. La décision d’homologation
@@ -40118,7 +40118,7 @@ La vignette est de couleur verte et a la forme d’un carré de 5 centimètres d
 avoir une hauteur au moins égale à 5 millimètres.
 \- 596 -
 
-\5. La SNCH dresse et tient à jour, pour compte du ministre ayant les transports dans ses attributions, le relevé des types
+5\. La SNCH dresse et tient à jour, pour compte du ministre ayant les transports dans ses attributions, le relevé des types
 d’éthylomètres homologués.
 
 Section 4. – Les appareils servant à déterminer la présence dans l’organisme de stupéfiants
@@ -40160,20 +40160,20 @@ police grand-ducale au procès-verbal.
 
 Section 3. – Les modalités de la prise de sang
 Art. 8.
-\1. La prise de sang prévue à l’article 12 de la loi modifiée du 14 février 1955 précitée ne peut être effectuée que par un
+1\. La prise de sang prévue à l’article 12 de la loi modifiée du 14 février 1955 précitée ne peut être effectuée que par un
 médecin autorisé à exercer la profession de médecin au Grand-Duché de Luxembourg ou, dans un centre hospitalier et sous la
 responsabilité d’un médecin, par un infirmier, un laborantin ou un assistant technique médical de laboratoire, autorisé à exercer
 sa profession au Grand-Duché de Luxembourg.
-\2. Les instruments servant à la prise de sang doivent être exempts de toute trace d’alcool ou d’une des substances prévues
+2\. Les instruments servant à la prise de sang doivent être exempts de toute trace d’alcool ou d’une des substances prévues
 à l’alinéa 1. du paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée. Le nettoyage de la peau doit se faire
 à l’eau distillée ou à l’aide d’un désinfectant qui n’a pas d’incidence sur le taux d’alcool dans le sang. Le récipient destiné au
 transport du sang doit être rempli aussi complètement que possible.
-\3. La personne qui a procédé à la prise de sang en dresse procès-verbal conformément aux exigences de l’article 9.
-\4. Tous les instruments destinés à la prise de sang ainsi que l’imprimé servant à l’établissement du procès-verbal sont remis
+3\. La personne qui a procédé à la prise de sang en dresse procès-verbal conformément aux exigences de l’article 9.
+4\. Tous les instruments destinés à la prise de sang ainsi que l’imprimé servant à l’établissement du procès-verbal sont remis
 à la personne ci-avant désignée par les membres de la police grand-ducale.
 \- 597 -
 
-\5. La personne qui a procédé à la prise de sang remet, ensemble avec le procès-verbal sous enveloppe fermée, le récipient
+5\. La personne qui a procédé à la prise de sang remet, ensemble avec le procès-verbal sous enveloppe fermée, le récipient
 contenant le sang, après l’avoir muni d’une étiquette renseignant avec précision de l’identité de la personne sur laquelle la prise
 de sang a été effectuée, aux fonctionnaires précités qui le font parvenir sans retard au Laboratoire National de Santé aux fins
 de déterminer le taux d’alcool dans le sang ou la présence de stupéfiants dans l’organisme.
@@ -40181,34 +40181,34 @@ Cette analyse se fait pour la détermination du taux d’alcool d’après deux 
 Pour la détermination de la présence de stupéfiants dans l’organisme, l’analyse du sang est positive dès qu’une ou plusieurs
 des substances prévues à l’alinéa 1. du paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée, y ont été
 décelées dans des quantités supérieures ou égales aux seuils maxima correspondants y spécifiés.
-\6. La personne qui a procédé à l’analyse du sang transmet le résultat de l’analyse sous enveloppe fermée au procureur
+6\. La personne qui a procédé à l’analyse du sang transmet le résultat de l’analyse sous enveloppe fermée au procureur
 d’Etat.
 Art. 9.
 Le procès-verbal de la prise de sang porte les indications suivantes:
 A.	 1) Nom, prénoms, qualité et domicile de la personne procédant à la prise de sang;
-\2) Nom, prénoms, domicile du médecin sous la responsabilité duquel la prise de sang est effectuée, lorsque la prise
+2\) Nom, prénoms, domicile du médecin sous la responsabilité duquel la prise de sang est effectuée, lorsque la prise
 de sang est effectuée par une personne autre qu’un médecin;
-\3) Nom, prénoms, domicile et date de naissance de la personne examinée;
-\4) Date et heure de l’événement qui a provoqué la prise de sang;
-\5) Date et heure précise de la prise de sang;
-\6) Lieu de la prise de sang.
+3\) Nom, prénoms, domicile et date de naissance de la personne examinée;
+4\) Date et heure de l’événement qui a provoqué la prise de sang;
+5\) Date et heure précise de la prise de sang;
+6\) Lieu de la prise de sang.
 B.	 But de la prise de sang
-\1) La prise de sang a été ordonnée pour déterminer le taux d’alcool;
-\2) La prise de sang a été ordonnée pour déterminer le taux d’une ou de plusieurs substances prévues à l’alinéa 1. du
+1\) La prise de sang a été ordonnée pour déterminer le taux d’alcool;
+2\) La prise de sang a été ordonnée pour déterminer le taux d’une ou de plusieurs substances prévues à l’alinéa 1. du
 paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée.
 C.
 
 Déclaration de la personne examinée en cas d’accident:
-\1) Désignation et quantité des boissons alcooliques ingérées éventuellement après l’accident;
-\2) Désignation et quantité de stupéfiants consommés éventuellement après l’accident;
-\3) Heure d’ingestion de ces boissons ou stupéfiants.
+1\) Désignation et quantité des boissons alcooliques ingérées éventuellement après l’accident;
+2\) Désignation et quantité de stupéfiants consommés éventuellement après l’accident;
+3\) Heure d’ingestion de ces boissons ou stupéfiants.
 
 D.
 
 Renseignements sur la personne examinée en cas d’accident:
-\1) Anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
-\2) Anesthésique employé;
-\3) Heure exacte de cet emploi.
+1\) Anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
+2\) Anesthésique employé;
+3\) Heure exacte de cet emploi.
 
 E.
 
@@ -40223,16 +40223,16 @@ Date et signature de la personne ayant procédé à la prise de sang.
 Section 4. – Les modalités de la prise d’urine
 
 Art. 10.
-\1. La prise d’urine prévue à l’article 12 de la loi modifiée du 14 février 1955 précitée ne peut être effectuée que par un
+1\. La prise d’urine prévue à l’article 12 de la loi modifiée du 14 février 1955 précitée ne peut être effectuée que par un
 médecin autorisé à exercer la profession de médecin au Grand-Duché de Luxembourg ou, dans un centre hospitalier et sous la
 responsabilité d’un médecin, par un infirmier, un laborantin ou un assistant technique médical de laboratoire, autorisé à exercer
 sa profession au Grand-Duché de Luxembourg.
-\2. Le récipient servant à la prise d’urine doit être exempt de toute trace d’une des substances prévues à l’alinéa 1. du paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée. Le récipient destiné au transport de l’urine doit être rempli
+2\. Le récipient servant à la prise d’urine doit être exempt de toute trace d’une des substances prévues à l’alinéa 1. du paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée. Le récipient destiné au transport de l’urine doit être rempli
 aussi complètement que possible.
-\3. La personne qui procède à la prise d’urine doit prendre toutes les précautions nécessaires en vue d’éviter la fraude.
-\4. La personne qui a procédé à la prise d’urine en dresse procès-verbal conformément aux exigences de l’article 11.
-\5. Le récipient servant à la prise d’urine ainsi que l’imprimé servant à l’établissement du procès-verbal est remis à la personne ci-avant désignée par les membres de la police grand-ducale.
-\6. La personne qui a procédé à la prise d’urine remet, ensemble avec le procès-verbal sous enveloppe fermée, le récipient
+3\. La personne qui procède à la prise d’urine doit prendre toutes les précautions nécessaires en vue d’éviter la fraude.
+4\. La personne qui a procédé à la prise d’urine en dresse procès-verbal conformément aux exigences de l’article 11.
+5\. Le récipient servant à la prise d’urine ainsi que l’imprimé servant à l’établissement du procès-verbal est remis à la personne ci-avant désignée par les membres de la police grand-ducale.
+6\. La personne qui a procédé à la prise d’urine remet, ensemble avec le procès-verbal sous enveloppe fermée, le récipient
 contenant l’urine, après l’avoir muni d’une étiquette renseignant avec précision l’identité de la personne sur laquelle la prise
 d’urine a été effectuée, aux fonctionnaires précités qui le font parvenir sans retard au Laboratoire National de Santé aux fins de
 déterminer la présence de stupéfiants dans l’organisme.
@@ -40245,13 +40245,13 @@ Art. 11.
 Le procès-verbal de la prise d’urine porte les indications suivantes:
 A.
 
-\1) Nom, prénoms, qualité et domicile de la personne procédant à la prise d’urine;
-\2) Nom, prénoms, domicile du médecin sous la responsabilité duquel la prise d’urine est effectuée, lorsque la prise
+1\) Nom, prénoms, qualité et domicile de la personne procédant à la prise d’urine;
+2\) Nom, prénoms, domicile du médecin sous la responsabilité duquel la prise d’urine est effectuée, lorsque la prise
 d’urine est effectuée par une personne autre qu’un médecin;
-\3) Nom, prénoms, domicile et date de naissance de la personne examinée;
-\4) Date et heure de l’événement qui a provoqué la prise d’urine;
-\5) Date et heure précise de la prise d’urine;
-\6) Lieu de la prise d’urine.
+3\) Nom, prénoms, domicile et date de naissance de la personne examinée;
+4\) Date et heure de l’événement qui a provoqué la prise d’urine;
+5\) Date et heure précise de la prise d’urine;
+6\) Lieu de la prise d’urine.
 
 B.
 
@@ -40262,22 +40262,22 @@ le sang.
 C.
 
 Déclaration de la personne examinée en cas d’accident:
-\1) Désignation et quantité de stupéfiants consommés éventuellement après l’accident;
-\2) Heure exacte de cette consommation.
+1\) Désignation et quantité de stupéfiants consommés éventuellement après l’accident;
+2\) Heure exacte de cette consommation.
 
 D.
 
 Renseignements sur la personne examinée en cas d’accident:
-\1) Anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
-\2) Anesthésique employé;
-\3) Heure exacte de cet emploi.
+1\) Anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
+2\) Anesthésique employé;
+3\) Heure exacte de cet emploi.
 
 E.
 
 Attestation de la personne ayant procédé à la prise d’urine que
-\1) Le récipient utilisé a été exempt de toute trace d’une des substances prévues à l’alinéa 1. du paragraphe 4 de
+1\) Le récipient utilisé a été exempt de toute trace d’une des substances prévues à l’alinéa 1. du paragraphe 4 de
 l’article 12 de la loi modifiée du 14 février 1955 précitée;
-\2) Toutes les précautions nécessaires en vue d’éviter la fraude ont été prises.
+2\) Toutes les précautions nécessaires en vue d’éviter la fraude ont été prises.
 
 F.
 
@@ -40285,12 +40285,12 @@ Date et signature de la personne ayant procédé à la prise d’urine.
 
 Section 5. – Les modalités de l’examen médical
 Art. 12.
-\1. L’examen médical ayant pour objet de déterminer si une personne se trouve sous l’emprise d’un des états alcooliques prévus à l’article 12 de la loi modifiée du 14 février 1955 précitée ou d’une ou de plusieurs des substances prévues à l’alinéa 1. du
+1\. L’examen médical ayant pour objet de déterminer si une personne se trouve sous l’emprise d’un des états alcooliques prévus à l’article 12 de la loi modifiée du 14 février 1955 précitée ou d’une ou de plusieurs des substances prévues à l’alinéa 1. du
 paragraphe 4 de l’article 12 de la loi modifiée du 14 février 1955 précitée ou a consommé de manière excessive des substances
 médicamenteuses à caractère toxique, soporifique ou psychotrope consiste en un examen clinique exécuté par un médecin
 autorisé à exercer la profession de médecin au Grand-Duché de Luxembourg. Le médecin est tenu de dresser procès-verbal de
 l’examen médical conformément aux exigences des articles 12 et 13.
-\2. L’imprimé servant à l’établissement du procès-verbal est remis au médecin par les membres de la police grand-ducale.
+2\. L’imprimé servant à l’établissement du procès-verbal est remis au médecin par les membres de la police grand-ducale.
 Le médecin remet ce procès-verbal sous enveloppe fermée aux fonctionnaires précités qui le transmettent au procureur d’Etat.
 Art. 13.
 Le rapport à remplir par le médecin à l’occasion de l’examen médical prévu à l’article 12 de la loi modifiée du 14 février 1955
@@ -40302,10 +40302,10 @@ sous l’emprise d’un des états alcooliques prévus à l’article 12 de la l
 abusive de médicaments à caractères toxique, soporifique ou psychotrope porte les indications suivantes:
 A.
 
-\1) Nom, prénoms et domicile du médecin-examinateur;
-\2) Nom, prénoms, domicile et date de naissance de la personne examinée;
-\3) Date et heure de l’événement qui a provoqué l’examen clinique;
-\4) Date et heure précise de l’examen clinique.
+1\) Nom, prénoms et domicile du médecin-examinateur;
+2\) Nom, prénoms, domicile et date de naissance de la personne examinée;
+3\) Date et heure de l’événement qui a provoqué l’examen clinique;
+4\) Date et heure précise de l’examen clinique.
 
 \- 599 -
 
@@ -40315,41 +40315,41 @@ Personne à examiner abordable:
 I.
 
 Déclarations de la personne à examiner concernant:
-\1) la désignation et la quantité des boissons alcooliques ou des stupéfiants ingérés pendant les 24 heures précédant l’examen clinique;
-\2) les heures d’ingestion de ces boissons ou stupéfiants;
-\3) l’heure et la composition du dernier repas pris avant l’examen clinique;
-\4) la désignation et la quantité des boissons alcooliques ou des stupéfiants ingérés éventuellement après l’accident;
-\5) la nature et la quantité de médicaments reçus ou pris durant la journée et le jour précédant l’examen clinique
+1\) la désignation et la quantité des boissons alcooliques ou des stupéfiants ingérés pendant les 24 heures précédant l’examen clinique;
+2\) les heures d’ingestion de ces boissons ou stupéfiants;
+3\) l’heure et la composition du dernier repas pris avant l’examen clinique;
+4\) la désignation et la quantité des boissons alcooliques ou des stupéfiants ingérés éventuellement après l’accident;
+5\) la nature et la quantité de médicaments reçus ou pris durant la journée et le jour précédant l’examen clinique
 avec indication précise du moment de la dernière administration ou injection.
 
 II. Renseignements sur la personne à examiner en cas d’accident:
-\1) l’anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
-\2) l’anesthésique employé;
-\3) l’heure exacte de cet emploi.
+1\) l’anesthésie générale pratiquée éventuellement sur la personne examinée après l’accident;
+2\) l’anesthésique employé;
+3\) l’heure exacte de cet emploi.
 III. Examen:
-\1) Antécédents pathologiques (épilepsie, troubles mentaux, diabète, affection cardio-vasculaire grave, autres maladies):
-\2) Accidents antérieurs et séquelles:
+1\) Antécédents pathologiques (épilepsie, troubles mentaux, diabète, affection cardio-vasculaire grave, autres maladies):
+2\) Accidents antérieurs et séquelles:
 blessures actuelles
-\3) Etat de conscience:
+3\) Etat de conscience:
 conservé - obnubilé - aboli
-\4) Orientation:
+4\) Orientation:
 conservée - troublée
-\5) Etat de vigilance:
+5\) Etat de vigilance:
 non altéré - altéré (fatigue, alcool éthylique, médicaments, drogues)
-\6) Etat général: constitution robuste - modérée - médiocre
+6\) Etat général: constitution robuste - modérée - médiocre
 Aspect: (pâleur - rougeur - congestion - cyanose) état des muqueuses et conjonctives
-\7) Comportement:
+7\) Comportement:
 adapté à la situation - calme - indifférent - apathique - euphorique - nerveux - agité - agressif - loquace - délirant
-\8) Vêtements:
+8\) Vêtements:
 en désordre - vomissements - autres traces
-\9) Etat des organes sensoriels:
+9\) Etat des organes sensoriels:
 pupilles - réactions pupillaires - myosis ou mydriase - nystagmus vertical
-\10) Odeur de l’haleine:
+10\) Odeur de l’haleine:
 alcool éthylique - acétone - autres
-\11) Langage articulé: correct - troublé
-\12) Mobilité:
-\13) Démarche: assurée - mal assurée - titubante - antérieurement compromise
-\14) Coordination:
+11\) Langage articulé: correct - troublé
+12\) Mobilité:
+13\) Démarche: assurée - mal assurée - titubante - antérieurement compromise
+14\) Coordination:
 épreuve de Romberg, les yeux fermés
 épreuve de la marche suivant la ligne droite
 épreuve du doigt au nez, à gauche
@@ -40358,11 +40358,11 @@ alcool éthylique - acétone - autres
 épreuve des membres supérieurs étendus en avant
 épreuve de ramassage des allumettes éparpillées sur le sol
 Tremblement
-\15) Etat des réflexes:
+15\) Etat des réflexes:
 Réflexes pathologiques
-\16) Sensibilité à la douleur et au toucher: normale - troublée - abolie.
+16\) Sensibilité à la douleur et au toucher: normale - troublée - abolie.
 C.	 Personne à examiner non ou difficilement abordable:
-\1) Etat de conscience:
+1\) Etat de conscience:
 coma profond, sans réactions aux incitations
 coma avec réaction aux incitations
 obnubilation profonde - légère
@@ -40370,15 +40370,15 @@ confusion mentale
 \- 600 -
 
 choc traumatique
-\2) Orientation:
+2\) Orientation:
 par rapport à sa propre personne
 dans le temps
 dans l’espace
-\3) Souvenir de l’événement en cause:
+3\) Souvenir de l’événement en cause:
 conservé
 aboli - amnésie rétrograde
 aboli - amnésie antérograde
-\4) Comportement:
+4\) Comportement:
 sans réaction aux interpellations
 sans réactions motrices aux incitations
 remuant
@@ -40387,25 +40387,25 @@ incapable de se lever
 tendance à déambuler
 tendance à la fugue
 propos décousus, incohérents, inintelligibles
-\5) Aspect:
+5\) Aspect:
 pâleur
 rougeur ou congestion
 cyanose
-\6) Vomissements ou traces de vomissements:
-\7) Respiration:
+6\) Vomissements ou traces de vomissements:
+7\) Respiration:
 libre
 gênée ou encombrée
-\8) Odeur de l’haleine:
+8\) Odeur de l’haleine:
 alcool éthylique - acétone - autres
-\9) Pouls:
+9\) Pouls:
 normal - accéléré - ralenti - irrégulier - faible - imperceptible
-\10) Blessures:
+10\) Blessures:
 perte de sang ou liquide sanguinolent par les orifices naturels du crâne (oreille gauche, oreille droite, bouche, nez)
 contusions, plaies ouvertes
 luxation ou fracture
 autres blessures caractérisées
 blessures internes (ou suspicion)
-\11) Etat des réflexes:
+11\) Etat des réflexes:
 état des pupilles, réactions pupillaires, et le cas échéant réflexe cornéen et oculomoteur, réaction à la douleur
 réflexes rotuliens
 réflexes achilléens
@@ -40416,11 +40416,11 @@ perte des matières
 D.
 
 Impossibilité pour la personne examinée de se soumettre:
-\1. à un examen de l’air expiré
+1\. à un examen de l’air expiré
 
 motif:
 
-\2. à une prise de sang
+2\. à une prise de sang
 
 motif:
 
@@ -40432,15 +40432,15 @@ Date et signature du médecin.
 Chapitre III.- Dispositions finales
 
 Art. 15.
-\1. L’intitulé de la sous-section K. de la Ire section du chapitre IV de l’arrêté grand-ducal modifié du 23 novembre 1955 portant
+1\. L’intitulé de la sous-section K. de la Ire section du chapitre IV de l’arrêté grand-ducal modifié du 23 novembre 1955 portant
 règlement de la circulation sur toutes les voies publiques est supprimé.
 \- 601 -
 
-\2. L’article 88 de l’arrêté grand-ducal modifié du 23 novembre 1955 précité est abrogé.
-\3. L’intitulé de la sous-section L. de la Ire section du chapitre IV de l’arrêté grand-ducal modifié du 23 novembre 1955 précité
+2\. L’article 88 de l’arrêté grand-ducal modifié du 23 novembre 1955 précité est abrogé.
+3\. L’intitulé de la sous-section L. de la Ire section du chapitre IV de l’arrêté grand-ducal modifié du 23 novembre 1955 précité
 est remplacé par le libellé suivant:
 «K.- L’interdiction de conduire judiciaire».
-\4. L’intitulé de la sous-section M. de la Ire section précitée est remplacé par le libellé suivant:
+4\. L’intitulé de la sous-section M. de la Ire section précitée est remplacé par le libellé suivant:
 «L.- Les mesures administratives de retrait, de refus et de restriction du droit de conduire».
 Art. 16.
 Notre Ministre du Développement durable et des Infrastructures, Notre Ministre de l’Intérieur et à la Grande Région, Notre
@@ -40533,21 +40533,21 @@ Européennes portant modalité d’application du
 règlement (CEE) n° 684/92 du Conseil.
 
 CA 30-04-2013 (30628C et 30647C)
-\3. Autorisation de transports – conditions de délivrance et de renouvellement – pouvoir de retrait du ministre (oui) - règlement (CEE) n° 684/92, art. 7
+3\. Autorisation de transports – conditions de délivrance et de renouvellement – pouvoir de retrait du ministre (oui) - règlement (CEE) n° 684/92, art. 7
 Le ministre est en droit de procéder au retrait d’une décision si des éléments ayant conditionné la prise de décision ont changé, voire si les conditions
 pour l’octroi d’une autorisation ne sont plus remplies, en l’espèce celles inscrites à l’article 7, paragraphe (4), du règlement n° 684/92.
 TA 18-04-2012 (23981a et 25192a)
 
 Taxis
 
-\1. Transports internationaux de voyageurs – licence communautaire – co-
+1\. Transports internationaux de voyageurs – licence communautaire – co-
 
 Loi du 18 mars 1997 portant réglementation des
 services de taxis.
 
 pies certifiées conformes de la licence – présence constante à bord du véhicule (oui) – durée de validité identique (oui) – contrôle - r. g.-d. du 28 février
 
-\1. Règlement communal de la Ville de Luxembourg concernant le service
+1\. Règlement communal de la Ville de Luxembourg concernant le service
 
 1994 – règlement (CEE) n° 684/92, art. 3bis
 
@@ -40588,7 +40588,7 @@ CA 29-9-98 (10626C)
 
 fiées conformes de la licence communautaire devant se trouver constamment
 
-\2. Agrément d’installateurs de taxis – compétence du ministre (non) – loi du
+2\. Agrément d’installateurs de taxis – compétence du ministre (non) – loi du
 
 à bord des véhicules utilisés pour les transports internationaux de voyageurs,
 
@@ -40621,7 +40621,7 @@ TA 13-6-07 (22317)
 
 satisfaction par un transporteur à toutes les prescriptions légales et réglemen-
 
-\3. Autorisation d’exercice – retrait vaut révocation (oui) – préjudice grave et
+3\. Autorisation d’exercice – retrait vaut révocation (oui) – préjudice grave et
 
 taires relatives à l’exercice de la profession de transporteur et aux véhicules
 
@@ -40684,7 +40684,7 @@ TA 23-02-2005 (17931)
 
 rée à cet égard comme empêchant la réalisation d’un préjudice définitif.
 
-\2. Autorisation de transports – conditions de délivrance et de renouvelle-
+2\. Autorisation de transports – conditions de délivrance et de renouvelle-
 
 Un préjudice exclusivement financier subi par une entreprise à la suite
 
@@ -40817,8 +40817,8 @@ CODE DE LA ROUTE – Permis de conduire
 Loi du 5 juin 2009 relative à la qualification initiale et à la formation continue des conducteurs de certains
 véhicules routiers affectés aux transports de marchandises ou de voyageurs et modifiant la loi modifiée
 du 27 juillet 1993 ayant pour objet
-\1.	 le développement et la diversification économiques et
-\2.	 l’amélioration de la structure générale et de l’équilibre régional de l’économie,
+1\.	 le développement et la diversification économiques et
+2\.	 l’amélioration de la structure générale et de l’équilibre régional de l’économie,
 (Mém. A - 176 du 6 août 2009, p. 2564; doc. parl. 5905; Dir. 2003/59)
 modifiée par:
 Loi du 16 mars 2012 (Mém. A - 77 du 24 avril 2012, p. 850; doc. parl. 6286)
@@ -40889,7 +40889,7 @@ du conducteur sur un mois glissant, celle-ci est à considérer comme activité 
 Art. 3. Qualification initiale et formation continue
 L’activité de conduite, telle que définie à l’article 1er, est subordonnée à une obligation de qualification initiale et à une obligation de formation continue. Ces formations doivent être dispensées dans un centre de formation agréé, ci-après dénommé «le
 centre», par le ministre ayant les transports dans ses attributions, ci-après «le ministre». A cette fin, il est prévu:
-\1.	 un système de qualification initiale
+1\.	 un système de qualification initiale
 La qualification initiale comporte la fréquentation obligatoire de cours de formation dont le programme et les modalités
 sont déterminés par règlement grand-ducal.
 La qualification initiale se clôture par un examen théorique dont les modalités sont déterminées par règlement grandducal.
@@ -40898,7 +40898,7 @@ selon les modalités à déterminer par règlement grand-ducal.
 (Loi du 16 mars 2012)
 «Le financement de la qualification initiale est pris entièrement en charge par l’Etat suivant les modalités arrêtées par
 voie contractuelle avec le centre.»
-\2.	 un système de qualification initiale accélérée
+2\.	 un système de qualification initiale accélérée
 La qualification initiale accélérée comporte la fréquentation obligatoire de cours de formation dont le programme et les
 modalités sont déterminés par règlement grand-ducal.
 La qualification initiale accélérée se clôture par un examen théorique dont les modalités sont déterminées par règlement
@@ -40908,7 +40908,7 @@ formation selon les modalités à déterminer par règlement grand-ducal.
 (Loi du 16 mars 2012)
 «Le financement de la qualification initiale accélérée est pris entièrement en charge par l’Etat suivant les modalités
 arrêtées par voie contractuelle avec le centre.»
-\3.	 un système de formation continue
+3\.	 un système de formation continue
 (Loi du 5 août 2020)
 « La formation continue doit permettre aux titulaires du certificat de formation dont question aux points 1. et 2. ou d’un
 document reconnu comme équivalent par le ministre, de mettre à jour les connaissances essentielles pour leur métier,
@@ -41025,10 +41025,10 @@ dans ces certificats ainsi que les informations concernant les procédures admin
 dans la banque de données nationale relative au permis de conduire tenu par le ministre en exécution du Traité sur un système
 d’information européen concernant les véhicules et les permis de conduire (EUCARIS), signé à Luxembourg, le 29 juin 2000.
 (2) Dans la banque de données visée au paragraphe 1er figurent toutes les données nécessaires pour les finalités suivantes :
-\1.	 permettre le contrôle du respect des dispositions de la directive 2003/59/CE relative à la qualification initiale et à la
+1\.	 permettre le contrôle du respect des dispositions de la directive 2003/59/CE relative à la qualification initiale et à la
 formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs ainsi que de la présente loi et de ses règlements d’exécution ;
-\2.	 émission et gestion administrative des certificats de formation prévus à l’article 3 ;
-\3.	 échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux
+2\.	 émission et gestion administrative des certificats de formation prévus à l’article 3 ;
+3\.	 échange d’informations relatif au certificats de formation prévus à l’article 3 avec les réseaux électroniques nationaux
 des autres États membres de l’Union européenne tel que prévue à l’article 10bis de la directive 2003/59/CE précitée.
 (3) Le ministre a la qualité de responsable du traitement conformément aux dispositions de l’article 4, point 7), du règlement
 (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard
@@ -41040,9 +41040,9 @@ l’égard du traitement des données à caractère personnel et à la libre cir
 CE (règlement général sur la protection des données).
 (4) Les organismes de formation prévus à l’article 6 transmettent aux fins de la présente loi les informations suivantes au
 ministre :
-\1.	 pour la formation prévue à l’article 3, points 1. et 2., le nom et le prénom du candidat, le numéro du permis de conduire
+1\.	 pour la formation prévue à l’article 3, points 1. et 2., le nom et le prénom du candidat, le numéro du permis de conduire
 du candidat, la date du cours, le type de cours et les notes d’examen du candidat ;
-\2.	 pour la formation prévue à l’article 3, point 3., le nom et le prénom du candidat, le numéro du permis de conduire du
+2\.	 pour la formation prévue à l’article 3, point 3., le nom et le prénom du candidat, le numéro du permis de conduire du
 candidat, la date du cours et le type de cours.
 (5) Le ministre peut communiquer les données contenues dans la banque de données aux banques de données des autres
 États membres de l’Union européenne et de l’Espace Économique Européen participant au réseau d’exécution prévu à l’article
@@ -41205,20 +41205,20 @@ interdits dans l’enceinte du centre dont le site doit en plus se trouver à l�
 
 CODE DE LA ROUTE – Permis de conduire
 Art. 14.
-\1. Le centre comporte au moins trois pistes d’exercice conçues pour la formation pratique relative à la conduite automobile
+1\. Le centre comporte au moins trois pistes d’exercice conçues pour la formation pratique relative à la conduite automobile
 et pour la formation relative à la conduite motocycliste. A condition de répondre aux exigences spécifiques des deux types de
 formation une même piste peut servir aux deux fins visées.
 L’équipement technique des pistes doit être conçue de manière à permettre une exploitation continue, hormis les interruptions dictées par les besoins de maintenance et de réparation du matériel ou par des conditions atmosphériques exceptionnelles.
-\2. Toutes les pistes doivent être munies d’un abri de dimensions suffisantes pour permettre à l’ensemble des candidats d’un
+2\. Toutes les pistes doivent être munies d’un abri de dimensions suffisantes pour permettre à l’ensemble des candidats d’un
 groupe de se protéger contre les intempéries lors de l’instruction introductive à un atelier pratique.
 Un extincteur portatif d’une capacité d’au moins 6 kg doit être installé à proximité de chaque piste.
-\3. Toutes les pistes doivent être longées de zones de sécurité latérales permettant l’immobilisation en toute sécurité de véhicules quittant la piste, en particulier après un exercice mal exécuté.
+3\. Toutes les pistes doivent être longées de zones de sécurité latérales permettant l’immobilisation en toute sécurité de véhicules quittant la piste, en particulier après un exercice mal exécuté.
 Tout objet rigide qui est implanté dans les zones de sécurité des pistes ou dans les terre-pleins situés entre les pistes, et qui
 est susceptible de représenter un danger potentiel de collision pour un véhicule ayant quitté la piste, doit être protégé par des
 moyens appropriés d’absorption du choc.
-\4. Le déroulement des exercices avant le lever du jour ou après la tombée de la nuit doit être garanti au moyen d’un éclairage adéquat des pistes d’une intensité suffisante et d’une localisation telle que les exercices puissent être effectués en toute
+4\. Le déroulement des exercices avant le lever du jour ou après la tombée de la nuit doit être garanti au moyen d’un éclairage adéquat des pistes d’une intensité suffisante et d’une localisation telle que les exercices puissent être effectués en toute
 sécurité.
-\5. Abstraction faite des infrastructures servant exclusivement à la formation de conduite motocycliste et de la piste circulaire,
+5\. Abstraction faite des infrastructures servant exclusivement à la formation de conduite motocycliste et de la piste circulaire,
 toutes les pistes doivent être munies de deux ou de plusieurs obstacles qui fonctionnent indépendamment des conditions
 atmosphériques, qui assurent l’effet de surprise auprès d’un conducteur non averti, qui sont commandés à distance, et qui sont
 conçus pour empêcher tout dégât au véhicule qui les heurte.
@@ -41227,18 +41227,18 @@ une lisibilité adéquate pour le candidat.
 Art. 15.
 Sans préjudice des conditions de l’article 14 les pistes d’exercice servant à la formation relative à la conduite automobile
 doivent répondre aux critères spécifiés ci-après.
-\1.	 Une des pistes doit comporter une surface de freinage minimale de 8 fois 100 mètres dont le coefficient de friction se
+1\.	 Une des pistes doit comporter une surface de freinage minimale de 8 fois 100 mètres dont le coefficient de friction se
 situe entre 0,1 et 0,3 mesuré selon la méthode d’évaluation du coefficient de friction longitudinal utilisée par l’administration des Ponts et Chaussées.
 Cette surface doit être intercalée entre un tronçon d’accélération et un tronçon de sécurité comportant un revêtement
 routier avec un coefficient de friction supérieur à 0,6. Le premier tronçon doit permettre une accélération à une vitesse
 d’au moins 60 km/h, le second tronçon doit avoir une longueur suffisante pour immobiliser sans risque un véhicule
 circulant à une vitesse de 100 km/h.
-\2.	 (Règl. g.-d. du 23 décembre 2003) «La deuxième piste doit être aménagée en pente, et elle doit présenter une déclivité
+2\.	 (Règl. g.-d. du 23 décembre 2003) «La deuxième piste doit être aménagée en pente, et elle doit présenter une déclivité
 d’au moins 9%, une largeur d’au moins 22 mètres ainsi qu’une longueur d’au moins 100 mètres.»
 Le revêtement doit présenter le coefficient de friction dont question au paragraphe 1.
 Le tronçon d’accélération doit avoir une longueur minimale de 80 mètres. Le tronçon de sécurité doit avoir des dimensions suffisantes pour immobiliser sans risque un véhicule circulant à une vitesse de 70 km/h.
-\3.	 La troisième piste de configuration circulaire doit présenter un diamètre extérieur d’au moins 60 mètres. 30% du revêtement de la piste servant à la formation automobile doivent présenter un coefficient de friction situé entre 0,1 et 0,3.
-\4.	 Les infrastructures dont question doivent en outre comporter une plaque de dérapage conçue de manière à empêcher
+3\.	 La troisième piste de configuration circulaire doit présenter un diamètre extérieur d’au moins 60 mètres. 30% du revêtement de la piste servant à la formation automobile doivent présenter un coefficient de friction situé entre 0,1 et 0,3.
+4\.	 Les infrastructures dont question doivent en outre comporter une plaque de dérapage conçue de manière à empêcher
 le candidat de connaître à l’avance la direction de la force latérale exercée sur l’essieu arrière du véhicule conduit. Cet
 équipement ne doit pas se présenter sous forme de plaque rotative.
 Art. 16.
@@ -41524,13 +41524,13 @@ loi du 14 février 1955 concernant la circulation sur toutes les voies publiques
 Chapitre II.- Les permis de conduire «instructeur» et «apprenti-instructeur»
 
 Art. 10.
-\1. Toute demande en obtention d’un permis de conduire «apprenti-instructeur» ou «instructeur» doit être accompagnée des
+1\. Toute demande en obtention d’un permis de conduire «apprenti-instructeur» ou «instructeur» doit être accompagnée des
 pièces visées à l’article 78 modifié de l’arrêté grand-ducal du 23 novembre 1955 portant règlement de la circulation sur toutes
 les voies publiques.
 De plus, les demandes en obtention d’un permis de conduire «apprenti-instructeur» doivent être accompagnées d’un
 curriculum vitae, d’un certificat renseignant sur le résultat d’un examen psychotechnique ainsi que d’un diplôme ou d’un
 certificat renseignant sur le niveau d’études scolaires suivies.
-\2. Toute personne qui enseigne l’art de conduire un véhicule automoteur doit être titulaire du permis de conduire «instructeur» ou «apprenti-instructeur» valable pour la conduite du véhicule servant à l’apprentissage ou à la réception de l’épreuve
+2\. Toute personne qui enseigne l’art de conduire un véhicule automoteur doit être titulaire du permis de conduire «instructeur» ou «apprenti-instructeur» valable pour la conduite du véhicule servant à l’apprentissage ou à la réception de l’épreuve
 pratique de l’examen de conduire.
 
 \- 619 -
@@ -41540,7 +41540,7 @@ CODE DE LA ROUTE – Permis de conduire
 «Le permis de conduire «instructeur» est valable pour la conduite des véhicules visés à l’article 76 de l’arrêté grand-ducal
 modifié du 23 novembre 1955 précité, selon les catégories y spécifiées. Le permis de conduire «apprenti-instructeur» n’est
 valable que pour la conduite des véhicules des catégories AM, B, BE et F du permis de conduire.»
-\3. Pour être admis à l’examen pratique en vue de l’obtention d’un permis de conduire «instructeur», le candidat doit satisfaire
+3\. Pour être admis à l’examen pratique en vue de l’obtention d’un permis de conduire «instructeur», le candidat doit satisfaire
 aux dispositions de l’article 78 modifié de l’arrêté grand-ducal du 23 novembre 1955 précité et remplir les conditions suivantes:
 
 être titulaire d’un permis de conduire de la catégorie B depuis trois ans au moins;
@@ -41553,7 +41553,7 @@ Métiers, conformément à l’arrêté grand-ducal du 8 octobre 1945 sur l’ap
 aux catégories A1, A2 et A, aux catégories C, CE, D et DE du permis de conduire «instructeur» doit se soumettre à un nouvel
 examen pratique. Les candidats à la catégorie A2 du permis de conduire «instructeur» doivent en outre être titulaires du permis
 de conduire de la catégorie A.»
-\4. Pour être admis aux épreuves théoriques et pratiques de l’examen du permis de conduire «apprenti-instructeur», il faut
+4\. Pour être admis aux épreuves théoriques et pratiques de l’examen du permis de conduire «apprenti-instructeur», il faut
 satisfaire aux dispositions de l’article 78 modifié mentionné au paragraphe ci-avant et remplir les conditions suivantes:
 
 être titulaire d’un permis de conduire de la catégorie B depuis deux ans au moins;
@@ -41580,45 +41580,45 @@ pédagogiques et linguistiques, dans les langues administratives prévues par la
 Art. 13.
 Tout candidat au permis de conduire «apprenti-instructeur» doit faire preuve de connaissances suffisantes en matière de
 technique automobile et de l’art de conduire, notamment concernant les matières suivantes:
-1)
+1\)
 
 Principe de fonctionnement du moteur à 4 temps (essence, diesel)
 
-2)
+2\)
 
 Pneumatiques
 
-3)
+3\)
 
 Systèmes de freinage (hydraulique, air-comprimé, mécanique)
 
-4)
+4\)
 
 Systèmes de refroidissement (air, eau)
 
-5)
+5\)
 
 Fonctions et entretien d’une batterie
 
-6)
+6\)
 
 Caractéristiques des différents carburants
 
-7)
+7\)
 
 Vérification du véhicule avant le démarrage
 
-8)
+8\)
 
 Arrêt, freinage, accélération, direction et virages corrects
 
-9)
+9\)
 
 Conduite par temps d’intempéries.
 
 Art. 14.
 La connaissance de la législation se rapportant à la circulation doit s’étendre:
-1)
+1\)
 
 sur la législation luxembourgeoise comprenant:
 a) la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques;
@@ -41628,7 +41628,7 @@ a) la loi modifiée du 14 février 1955 concernant la réglementation de la circ
 CODE DE LA ROUTE – Permis de conduire
 b) l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques;
 c) les autres textes légaux en vigueur qui se rapportent à la circulation routière;
-2)
+2\)
 
 sur la législation étrangère en matière de circulation routière, avec notamment un aperçu général sur les particularités
 des dispositions légales en vigueur dans les pays limitrophes.
@@ -41655,22 +41655,22 @@ Pour être autorisé à exercer la profession d’instructeur, il faut justifier
 A)
 
 pour l’enseignement théorique
-\1) des candidats au permis de conduire des catégories B et F:
+1\) des candidats au permis de conduire des catégories B et F:
 a) de la législation portant sur la circulation routière en vigueur,
 b) du matériel d’instruction relatif à la signalisation routière et aux règles de priorité,
 c) du matériel didactique reproduisant la technique de conduite des différents véhicules,
 d) du matériel d’instruction reproduisant les principaux éléments du véhicule et leur fonctionnement (moteurs essence et diesel),
 e) d’un tableau;
-\2) des candidats au permis de conduire des catégories AM, A1, A2 et A:
+2\) des candidats au permis de conduire des catégories AM, A1, A2 et A:
 a) du matériel visé sous 1),
 b) du matériel d’instruction reproduisant un motocycle et ses principaux éléments,
 c) du matériel illustrant un casque de protection homologué conformément aux exigences réglementaires, ainsi que
 les vêtements de protection à porter par les conducteurs;
-\3) des candidats au permis de conduire des catégories C, C1, D et D1:
+3\) des candidats au permis de conduire des catégories C, C1, D et D1:
 a) du matériel visé sous 1),
 b) du matériel d’instruction reproduisant les systèmes de frein à air comprimé,
 c) du matériel d’instruction reproduisant les différents systèmes de ralentisseurs;
-\4) des candidats au permis de conduire des catégories BE, CE, C1E, DE et D1E:
+4\) des candidats au permis de conduire des catégories BE, CE, C1E, DE et D1E:
 a) du matériel visé sous 1),
 b) du matériel d’instruction reproduisant les modèles d’attaches pour remorques correspondant à la catégorie du
 permis de conduire sollicitée;
@@ -41678,7 +41678,7 @@ permis de conduire sollicitée;
 B)
 
 pour l’instruction pratique
-\1) des candidats au permis de conduire de la catégorie A1:
+1\) des candidats au permis de conduire de la catégorie A1:
 (Règl. g.-d. du 3 décembre 2013)
 «– d’un motocycle de la catégorie A1 sans side-car, d’une puissance ne dépassant pas 11 kW, avec un rapport puissance/poids ne dépassant pas 0,1 kW/kg, d’une cylindrée minimale de 115 cm3 et pouvant atteindre une vitesse
 
@@ -41690,7 +41690,7 @@ condure et permettant à l’instructeur d’accompagner le candidat lors de l�
 émetteur-récepteur assurant un contact radiophonique entre l’instructeur et le candidat; si le motocycle est équipé
 d’un moteur électrique, le rapport puissance/poids doit être d’au moins 0,08 kW/kg,»
 – de vestes de sécurité de couleur vive, comportant des matériaux rétroréfléchissants et sur la face arrière, de manière bien visible, l’inscription «MOTO-ECOLE»;
-\2) des candidats au permis de conduire de la catégorie A2:
+2\) des candidats au permis de conduire de la catégorie A2:
 (Règl. g.-d. du 3 décembre 2013)
 «– d’un motocycle sans side-car, « d’une cylindrée minimale de 250 cm3 »1 et d’une puissance d’au moins 20 kW
 sans dépasser 35 kW et avec un rapport puissance/ poids ne dépassant pas 0,2 kW/kg, ainsi que d’un véhicule automoteur correspondant aux catégories A2, A ou B du permis de conduire et permettant à l’instructeur
@@ -41699,7 +41699,7 @@ un contact radiophonique entre l’instructeur et le candidat; si le motocycle e
 rapport puissance/poids doit être d’au moins 0,15 kW/kg,»
 – de vestes de sécurité de couleur vive, comportant des matériaux rétroréfléchissants et sur la face arrière, de
 manière bien visible, l’inscription «MOTO-ECOLE»;
-\3) des candidats au permis de conduire de la catégorie A:
+3\) des candidats au permis de conduire de la catégorie A:
 (Règl. g.-d. du 3 décembre 2013)
 «– d’un motocycle sans side-car dont la masse à vide est supérieure à 175 kg, d’une cylindrée minimale de 595
 cm3 et d’une puissance d’au moins 50 kW, ainsi que d’un véhicule automoteur correspondant à la catégorie A
@@ -41708,7 +41708,7 @@ et équipé d’un système émetteur-récepteur assurant un contact radiophoniq
 si le motocycle est équipé d’un moteur électrique, le rapport puissance/poids doit être d’au moins 0,25 kW/kg,»
 – de vestes de sécurité de couleur vive, comportant des matériaux rétroréfléchissants et sur la face arrière, de
 manière bien visible, l’inscription «MOTO-ECOLE»;
-\4) des candidats au permis de conduire de la catégorie B:
+4\) des candidats au permis de conduire de la catégorie B:
 d’une voiture automobile à personnes d’une longueur supérieure à 3,90 m (sans la longueur de l’attache de remorque) à 4 roues, à cabine fermée, à 4 portes et conçue et construite pour le transport de 4 passagers au moins,
 y compris le conducteur; la voiture devant atteindre une vitesse d’au moins 100 km/h et être munie:
 • de deux rétroviseurs intérieurs conformes aux exigences de l’article 48 de l’arrêté grand-ducal modifié du 23
@@ -41721,7 +41721,7 @@ voiture.
 (…) (Abrogé par le règl. g.-d. du 3 décembre 2013)
 Ces mêmes véhicules peuvent être équipés d’un panneau lumineux ou rétroréfléchissant installé sur le toit du véhicule, portant à ses faces avant et arrière sur fond blanc en couleur rouge l’inscription «AUTO-ECOLE» ou «MOTOECOLE», en fonction du type d’instruction dispensée. Si le véhicule ne sert pas à l’instruction pratique, le panneau
 doit être enlevé ou masqué. Il en est de même lors de l’examen pratique;
-\5) des candidats au permis de conduire de la catégorie BE:
+5\) des candidats au permis de conduire de la catégorie BE:
 d’un ensemble de véhicules couplés dont le véhicule tracteur répond aux exigences des véhicules d’instruction correspondant à la catégorie B du permis de conduire et dont la remorque a une masse maximale autorisée d’au moins
 1.000 kg; l’ensemble doit atteindre une vitesse d’au moins 100 km/h et il ne doit pas correspondre aux ensembles
 de véhicules couplés dont la conduite est autorisée pour un titulaire de la catégorie B du permis de conduire. Le
@@ -41729,7 +41729,7 @@ compartiment à marchandises de la remorque doit consister en une caisse fermée
 haute que le véhicule tracteur; la caisse fermée peut également être légèrement moins large que le véhicule tracteur
 à condition que la vue vers l’arrière ne soit possible qu’en utilisant les rétroviseurs extérieurs. La remorque doit avoir
 une masse en charge d’au moins 800 kg;
-\6) des candidats au permis de conduire de la catégorie C:
+6\) des candidats au permis de conduire de la catégorie C:
 d’un véhicule automoteur destiné au transport de choses d’une masse maximale autorisée égale ou supérieure à
 12.000 kg, d’une longueur d’au moins 8 m et d’une largeur d’au moins 2,40 m et qui atteint une vitesse d’au moins
 80 km/h, qui est équipé du système ABS et qui est muni:
@@ -41747,7 +41747,7 @@ l’appareil de contrôle dans le domaine des transports par route,
 modifié du 23 novembre 1955 précité.
 Le compartiment à marchandises doit consister en une caisse fermée au moins aussi large et aussi haute que
 la cabine. Le véhicule doit avoir une masse en charge d’au moins 10.000 kg;
-\7) des candidats au permis de conduire de la catégorie CE:
+7\) des candidats au permis de conduire de la catégorie CE:
 soit d’un véhicule articulé dont la masse maximale autorisée est égale ou supérieure à 20.000 kg et dont la longueur
 est d’au moins 14 m et la largeur d’au moins 2,40 m, soit d’un ensemble composé d’un véhicule correspondant à
 la catégorie C du permis de conduire et d’une remorque d’une longueur minimale de 7,5 m qui a au moins deux
@@ -41759,39 +41759,39 @@ système ABS, munis d’un système de transmission permettant au conducteur de 
 et d’un chronotachygraphe conforme au règlement (CEE) n° 3821/85 précité. Le compartiment à marchandises de
 la remorque doit consister en une caisse fermée au moins aussi large et aussi haute que la cabine. Tant le véhicule
 articulé que l’ensemble couplé doivent avoir une masse en charge d’au moins 15.000 kg;»
-\8) des candidats au permis de conduire de la catégorie C1:
+8\) des candidats au permis de conduire de la catégorie C1:
 d’un véhicule automoteur destiné au transport de choses d’une masse maximale autorisée d’au moins 4.000 kg,
 d’une longueur d’au moins 5 m, qui atteint une vitesse d’au moins 80 km/h, qui est équipé du système ABS et d’un
 chronotachygraphe conforme au règlement (CEE) n° 3821/85 précité et qui est muni de deux rétroviseurs extérieurs
 de chaque côté conformes aux exigences de l’article 48 de l’arrêté grand-ducal modifié du 23 novembre 1955 précité.
 Le compartiment à marchandises doit consister en une caisse fermée au moins aussi large et aussi haute que la
 cabine;
-\9) des candidats au permis de conduire de la catégorie C1E:
+9\) des candidats au permis de conduire de la catégorie C1E:
 d’un train routier qui a une longueur d’au moins 8 m, qui atteint une vitesse d’au moins 80 km/h, dont le véhicule
 tracteur répond aux exigences des véhicules d’instruction correspondant à la catégorie C1 du permis de conduire,
 et dont la remorque a une masse maximale autorisée d’au moins 1.250 kg. Le compartiment à marchandises de la
 remorque doit consister en une caisse fermée au moins aussi large et aussi haute que la cabine; la caisse fermée
 peut également être légèrement moins large que le véhicule tracteur à condition que la vue vers l’arrière ne soit
 possible qu’en utilisant les rétroviseurs extérieurs. La remorque doit avoir une masse en charge d’au moins 800 kg;
-\10) des candidats au permis de conduire de la catégorie D:
+10\) des candidats au permis de conduire de la catégorie D:
 d’un véhicule automoteur destiné au transport de personnes d’une longueur de plus de 11,5 m et d’une largeur
 d’au moins 2,40 m et qui atteint une vitesse d’au moins 80 km/h, qui est équipé du système ABS et d’un chronotachygraphe conforme au règlement (CEE) n° 3821/85 précité ainsi que de deux rétroviseurs extérieurs de chaque
 côté conformes aux exigences de l’article 48 de l’arrêté grand-ducal modifié du 23 novembre 1955 précité et qui est
 conçu et construit pour le transport de 28 passagers au moins, outre le conducteur, strapontins exclus;
-\11) des candidats au permis de conduire de la catégorie DE:
+11\) des candidats au permis de conduire de la catégorie DE:
 d’un ensemble de véhicules couplés qui atteint une vitesse d’au moins 80 km/h, dont le véhicule tracteur répond aux
 exigences des véhicules d’instruction correspondant à la catégorie D et dont la remorque a une masse maximale
 autorisée d’au moins 1.250 kg et une largeur d’au moins 2,40 m. Le compartiment à marchandises de la remorque
 doit consister en une caisse fermée d’une largeur et d’une hauteur de 2 m au moins. La remorque doit avoir une
 masse en charge d’au moins 800 kg;
-\12) des candidats au permis de conduire de la catégorie D1:
+12\) des candidats au permis de conduire de la catégorie D1:
 d’un véhicule automoteur destiné au transport de personnes, d’une masse maximale autorisée d’au moins 4.000 kg,
 d’une longueur d’au moins 5 m, qui atteint une vitesse d’au moins 80 km/h et qui est équipé du système ABS et d’un
 chronotachygraphe conforme au règlement (CEE) n° 3821/85 précité ainsi que de deux rétroviseurs extérieurs de
 chaque côté conformes aux exigences de l’article 48 de l’arrêté grand-ducal modifié du 23 novembre 1955 précité
 et qui est conçu et construit pour le transport de 12 passagers au moins et de 16 passagers au maximum, outre le
 conducteur;
-\13) des candidats au permis de conduire de la catégorie D1E:
+13\) des candidats au permis de conduire de la catégorie D1E:
 d’un ensemble de véhicules couplés qui atteint une vitesse d’au moins 80 km/h, dont le véhicule tracteur répond
 aux exigences des véhicules d’instruction correspondant à la catégorie D1 et dont la remorque a une masse maximale autorisée d’au moins 1.250 kg. Le compartiment à marchandises de la remorque doit consister en une caisse
 \- 623 -
@@ -41928,15 +41928,15 @@ conduire ainsi que l’exercice de la profession d’instructeur des candidats-c
 modifié et complété dans la suite, est abrogé.
 Art. 26.
 L’arrêté grand-ducal du 23 novembre 1955 précité est modifié comme suit:
-\1.	 La dernière phrase du paragraphe 2. de l’article 72 modifié est supprimée.
-\2.	 Le premier alinéa du paragraphe 2. de l’article 79 modifié est supprimé.
-\3.	 Les trois derniers alinéas du paragraphe 3. ainsi que le deuxième alinéa sous b) du paragraphe 4. de l’article 80 modifié
+1\.	 La dernière phrase du paragraphe 2. de l’article 72 modifié est supprimée.
+2\.	 Le premier alinéa du paragraphe 2. de l’article 79 modifié est supprimé.
+3\.	 Les trois derniers alinéas du paragraphe 3. ainsi que le deuxième alinéa sous b) du paragraphe 4. de l’article 80 modifié
 sont supprimés.
-\4.	 Le deuxième alinéa du paragraphe 2. de l’article 81 modifié est supprimé.
+4\.	 Le deuxième alinéa du paragraphe 2. de l’article 81 modifié est supprimé.
 Le quatrième alinéa du paragraphe 3. dudit article 81 est remplacé par le texte suivant: «L’examen pratique consiste
 dans la conduite d’un véhicule correspondant à la catégorie de permis à délivrer ou à restituer.»
 Le paragraphe 4. dudit article 81 est remplacé par le texte suivant: «Sans préjudice des modalités de réception particulières des épreuves prévues pour l’obtention des permis de conduire «instructeur» et «apprenti-instructeur» les candidats sont examinés par un examinateur agréé par le ministre des Transports.»
-\5.	 L’article 85 modifié est abrogé.
+5\.	 L’article 85 modifié est abrogé.
 Art. 27.
 Notre Ministre des Transports est chargé de l’exécution du présent règlement qui sera publié au Mémorial et entrera en
 vigueur le 1er septembre 2000.
@@ -42459,7 +42459,7 @@ Pour les conducteurs visés au paragraphe (5) de l’article 6, la durée de la 
 heures dont deux heures et demie de conduite individuelle.
 (. . .) (supprimé par le règl. g.-d. du 5 août 2020)
 Art. 3. Certificat de formation attestant de la qualification initiale
-\1. Certificat de formation attestant d’une qualification initiale.
+1\. Certificat de formation attestant d’une qualification initiale.
 La formation et l’examen ont lieu dans un centre de formation agréé, ci-après dénommé «centre de formation», par le
 ministre ayant dans ses attributions les transports, ci-après désigné «le ministre».
 (Règl. g.-d. du 5 août 2020)
@@ -42469,7 +42469,7 @@ prend sa décision sur le vu de l’avis d’une commission consultative visée 
 consultative».
 En cas de réussite de l’examen, un certificat de formation attestant d’une qualification initiale est délivré au conducteur par
 le ministre. (Règl. g.-d. du 5 août 2020) «Ce certificat est émis sur papier sécurisé.»
-\2. Certificat de formation attestant d’une qualification initiale accélérée.
+2\. Certificat de formation attestant d’une qualification initiale accélérée.
 La formation et l’examen ont lieu dans un centre de formation.
 (Règl. g.-d. du 5 août 2020)
 «À l’issue de cette formation, le conducteur est soumis à un examen écrit ou oral. Cet examen doit comporter au minimum
@@ -42549,7 +42549,7 @@ Cette disposition s’applique dans les mêmes conditions aux conducteurs effect
 catégories visées au paragraphe (2).
 (5) Les conducteurs effectuant des transports de marchandises qui élargissent ou changent leurs activités pour effectuer
 du transport de voyageurs, ou inversement, et qui sont titulaires du certificat de formation visé respectivement à l’article 3 sous
-\1. et 2. de la loi du 5 juin 2009 précitée, ne doivent plus refaire les parties communes aux qualifications initiales, mais uniquement les parties spécifiques à la nouvelle qualification.
+1\. et 2. de la loi du 5 juin 2009 précitée, ne doivent plus refaire les parties communes aux qualifications initiales, mais uniquement les parties spécifiques à la nouvelle qualification.
 (6) Le ministre peut dispenser, sur avis de la commission consultative, le conducteur, titulaire du certificat de capacité professionnelle prévu par la directive 96/26/CE du Conseil des examens visés à l’article 3, sous 1. et 2. dans les matières couvertes
 par l’examen prévu dans le cadre de ladite directive et, le cas échéant, de la fréquentation de la partie des cours correspondant
 à ces matières.
@@ -42760,7 +42760,7 @@ La division en sections est supprimée par le règl. g.-d. du 5 août 2020.
 \- 637 -
 
 CODE DE LA ROUTE – Permis de conduire
-\1. Perfectionnement à la conduite rationnelle axé sur les règles de sécurité
+1\. Perfectionnement à la conduite rationnelle axé sur les règles de sécurité
 •
 
 Tous les permis
@@ -42855,7 +42855,7 @@ Permis D, DE, D1, D1E
 2.3. objectif : connaître la réglementation relative au transport de voyageurs
 transport de groupes spécifiques, équipements de sécurité à bord du bus, ceintures de sécurité, chargement du
 véhicule.»
-\3. Santé, sécurité routière et sécurité environnementale, service, logistique
+3\. Santé, sécurité routière et sécurité environnementale, service, logistique
 
 •
 
@@ -42910,13 +42910,13 @@ de la réception des examens en vue de l’obtention du permis de conduire1.
 
 Chapitre Ier.- Agrément ministériel d’examinateur
 Art. 1er.
-\1. Les agents de la Société Nationale de Circulation Automobile (SNCA) et ceux mis à sa disposition, qui sont chargés de
+1\. Les agents de la Société Nationale de Circulation Automobile (SNCA) et ceux mis à sa disposition, qui sont chargés de
 la réception des examens en vue de l’obtention d’un permis de conduire, sont agréés par le ministre ayant les Transports dans
 ses attributions, ci-après désigné le ministre.
 En ce qui concerne la réception des examens pratiques, l’agrément ministériel n’est valable que pour la réception des examens de la ou des catégories du permis de conduire pour lesquelles il est délivré.
 Cet agrément est strictement personnel et incessible et son titulaire ne peut déléguer quiconque pour exercer ses fonctions
 ni en tout ni en partie.
-\2. L’agrément ministériel a une durée de validité de cinq ans. Il peut être renouvelé pour de nouveaux termes de cinq ans, à
+2\. L’agrément ministériel a une durée de validité de cinq ans. Il peut être renouvelé pour de nouveaux termes de cinq ans, à
 condition pour l’intéressé d’avoir fait l’objet des dispositions relatives à l’assurance de la qualité prévue au Chapitre III. et d’avoir
 participé à la formation continue obligatoire prévue au Chapitre IV.
 L’agrément ministériel perd sa validité de plein droit en cas de cessation des fonctions d’examinateur. Il doit être restitué sans
@@ -42924,14 +42924,14 @@ délai à l’autorité l’ayant délivré.
 En cas de reprise ultérieure des fonctions, l’agrément est délivré aux conditions de l’article 2 pour autant que l’interruption
 n’excède pas 24 mois; dans le cas contraire, sa délivrance est subordonnée, en outre, à la condition pour l’intéressé de faire
 l’objet de la réévaluation dont question à l’article 7.
-\3. L’agrément ministériel peut être retiré, sa durée de validité limitée, son octroi ou son renouvellement refusé, s’il est établi que son titulaire est inapte à exercer ses fonctions, s’il ne remplit plus les conditions à la base de sa délivrance ou s’il est
+3\. L’agrément ministériel peut être retiré, sa durée de validité limitée, son octroi ou son renouvellement refusé, s’il est établi que son titulaire est inapte à exercer ses fonctions, s’il ne remplit plus les conditions à la base de sa délivrance ou s’il est
 constaté à sa charge une des raisons pouvant donner lieu au retrait administratif du permis de conduire selon l’article 2 de la loi
 modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques.
 A ces fins, le ministre peut instituer une commission pour procéder à l’instruction des dossiers et pour émettre un avis sur la
 conformité des dossiers avec les dispositions du présent règlement grand-ducal.
 Les mesures administratives prévues à l’alinéa 1er du présent paragraphe interviennent dans les formes légales de la législation sur la procédure administrative non contentieuse.
 Art. 2.
-\1. En vue de l’obtention de l’agrément en tant qu’examinateur de la catégorie B du permis de conduire, les candidats doivent
+1\. En vue de l’obtention de l’agrément en tant qu’examinateur de la catégorie B du permis de conduire, les candidats doivent
 remplir les conditions suivantes:
 
 être titulaires d’un permis de conduire de la catégorie B depuis trois ans au moins;
@@ -42969,7 +42969,7 @@ ne pas exercer simultanément l’activité d’instructeur de la conduite autom
 entreprise exerçant cette activité, de manière à ce que la neutralité et la non-discrimination dans l’exercice de leurs
 fonctions soient garanties.
 
-\2. En vue de l’obtention de l’agrément en tant qu’examinateur des autres catégories du permis de conduire, les candidats
+2\. En vue de l’obtention de l’agrément en tant qu’examinateur des autres catégories du permis de conduire, les candidats
 doivent remplir les conditions suivantes:
 
 avoir été examinateur agréé de la catégorie B pendant au moins trois ans; cette condition de durée peut être levée si
@@ -42984,7 +42984,7 @@ par une qualification professionnelle adéquate;
 conduire en question ou d’un certificat délivré par les autorités compétentes d’un autre pays, attestant une qualification
 reconnue équivalente par le ministre ayant l’Education nationale et la Formation professionnelle dans ses attributions.
 
-\3. Un examinateur est autorisé à recevoir des examens pratiques des catégories A1, A2 et A, à condition qu’il ait réussi la
+3\. Un examinateur est autorisé à recevoir des examens pratiques des catégories A1, A2 et A, à condition qu’il ait réussi la
 qualification initiale prévue à l’article 3 pour l’une de ces catégories.
 Un examinateur est autorisé à recevoir des examens pratiques des catégories C1, C, D1 et D, à condition qu’il ait réussi la
 qualification initiale prévue à l’article 3 pour l’une de ces catégories.
@@ -43002,15 +43002,15 @@ selon les modalités prévues à l’article 5.
 Nul ne peut entreprendre la formation initiale obligatoire, s’il ne justifie pas d’un contrat de travail conclu avec la SNCA.
 Le financement de la formation initiale obligatoire est pris entièrement en charge par l’Etat.
 Art. 4.
-\1. La formation initiale obligatoire en vue de la qualification initiale requise en vue de l’agrément ministériel en tant qu’examinateur de la catégorie B du permis de conduire comporte au moins l’enseignement de toutes les matières visées à l’annexe
+1\. La formation initiale obligatoire en vue de la qualification initiale requise en vue de l’agrément ministériel en tant qu’examinateur de la catégorie B du permis de conduire comporte au moins l’enseignement de toutes les matières visées à l’annexe
 du présent règlement.
-\2. En vue de la qualification initiale requise pour l’obtention de l’agrément en tant qu’examinateur des autres catégories du
+2\. En vue de la qualification initiale requise pour l’obtention de l’agrément en tant qu’examinateur des autres catégories du
 permis de conduire, le candidat doit avoir suivi une formation initiale obligatoire pour la catégorie en question qui comporte au
 moins l’enseignement des matières visées aux points 3., 5. et 6. de l’annexe du présent règlement.
-\3. Sur demande du candidat et sur avis de la commission d’examen dont question à l’article 6, le ministre ayant la Formation
+3\. Sur demande du candidat et sur avis de la commission d’examen dont question à l’article 6, le ministre ayant la Formation
 professionnelle dans ses attributions peut accorder une dispense partielle ou totale de la formation initiale obligatoire.
 Art. 5.
-\1. A l’issue de la formation initiale obligatoire, les candidats sont soumis à un examen qui comprend une partie théorique
+1\. A l’issue de la formation initiale obligatoire, les candidats sont soumis à un examen qui comprend une partie théorique
 et une partie pratique portant sur les matières visées à l’article 4. Cet examen est organisé par le ministre ayant la Formation
 professionnelle dans ses attributions. Les candidats doivent en outre fournir la preuve d’une connaissance adéquate des trois
 langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.
@@ -43020,7 +43020,7 @@ langues administratives telles que définies par la loi du 24 février 1984 sur 
 CODE DE LA ROUTE – Permis de conduire
 Pour être admis à l’examen, les candidats doivent justifier avoir assisté à la formation initiale obligatoire dont question à
 l’article 4.
-\2. La décision de réussite se fonde sur le bilan de l’examen, qui se compose des notes de chacune des matières. Est considérée comme note suffisante, toute note supérieure ou égale à 30 points sur un maximum de 60 points.
+2\. La décision de réussite se fonde sur le bilan de l’examen, qui se compose des notes de chacune des matières. Est considérée comme note suffisante, toute note supérieure ou égale à 30 points sur un maximum de 60 points.
 A réussi à l’examen, le candidat qui a obtenu une note suffisante dans chacune des matières.
 A échoué à l’examen, le candidat qui a obtenu plus de deux notes insuffisantes et le candidat qui a obtenu une note insuffisante inférieure à 20 points.
 Le candidat qui a obtenu une ou deux notes insuffisantes supérieures ou égales à 20 points, est autorisé à se soumettre
@@ -43032,7 +43032,7 @@ article, dans un délai de 6 mois à compter de la date de réadmission à cet e
 à l’examen n’est plus possible.
 Pour se soumettre aux épreuves supplémentaires ou être réadmis à l’examen, la condition dont question au dernier alinéa
 du paragraphe 1., n’est pas requise.
-\3. En cas de réussite à l’examen, un certificat de qualification initiale, correspondant à la ou les catégories du permis de
+3\. En cas de réussite à l’examen, un certificat de qualification initiale, correspondant à la ou les catégories du permis de
 conduire concernée(s), est délivré au candidat par le ministre ayant la Formation professionnelle dans ses attributions, sur le vu
 d’un procès-verbal de la commission d’examen dont question à l’article 6.
 Art. 6.
@@ -43041,12 +43041,12 @@ dans ses attributions.
 La commission d’examen a pour mission d’élaborer des propositions pour les plans d’études dans le cadre de la formation
 initiale obligatoire, comportant les programmes et les examens ainsi que les méthodologies pédagogiques respectives.
 Ladite commission a également comme attributions:
-1.
+1\.
 
 d’émettre, le cas échéant, un avis sur l’admissibilité des candidats à l’examen et sur la dispense partielle ou totale des
 candidats d’assister à la formation initiale obligatoire ou de se soumettre à l’examen;
 
-2.
+2\.
 
 d’établir un procès-verbal d’examen, à remettre au ministre ayant la Formation professionnelle dans ses attributions, en
 vue de la délivrance des certificats de qualification initiale.
@@ -43068,7 +43068,7 @@ alinéa du présent article, si un de leurs parents ou alliés jusqu’au quatri
 Chapitre III.- Contrôle d’assurance de la qualité
 
 Art. 7
-\1. Il est mis en place un système de contrôle d’assurance de la qualité en vue d’assurer et de maintenir le niveau d’expertise
+1\. Il est mis en place un système de contrôle d’assurance de la qualité en vue d’assurer et de maintenir le niveau d’expertise
 des examinateurs.
 Ce système comporte:
 
@@ -43083,11 +43083,11 @@ une observation des examinateurs lors de la réception des examens pratiques, au
 La SNCA est chargée de la mise en oeuvre de ce système de contrôle d’assurance de la qualité. L’observation dont question
 au dernier tiret de l’alinéa précédent est effectuée par un expert externe indépendant, compétent en matière d’évaluation d’examinateurs chargés de la réception des examens pratiques du permis de conduire, à approuver par le ministre.
 Le financement de ce système de contrôle d’assurance de la qualité est à charge de la SNCA.
-\2. Lorsqu’un examinateur est agréé pour recevoir des examens pratiques pour plusieurs catégories du permis de conduire,
+2\. Lorsqu’un examinateur est agréé pour recevoir des examens pratiques pour plusieurs catégories du permis de conduire,
 il suffit qu’il fasse l’objet des mesures de contrôle d’assurance de la qualité dont question au paragraphe 1. pour une de ces
 catégories seulement.
 Art. 8.
-\1. Le contrôle annuel des examinateurs sur leur lieu de travail consiste notamment en un contrôle de leur développement et
+1\. Le contrôle annuel des examinateurs sur leur lieu de travail consiste notamment en un contrôle de leur développement et
 de leur perfectionnement professionnels ainsi qu’en une analyse périodique des résultats enregistrés aux examens pratiques
 qu’ils ont reçus. Cette analyse comporte en particulier une évaluation comparative des taux de réussite et d’échec aux examens
 pratiques reçus par les différents examinateurs en tenant compte à cet égard de différents indicateurs dont notamment la catégorie du permis de conduire sollicitée, la durée de l’examen, le trajet parcouru et les causes qui étaient à l’origine d’un échec.
@@ -43096,19 +43096,19 @@ a notamment comme objectif d’évaluer la conformité et les compétences des e
 aux points 2. et 4. de l’annexe du présent règlement.
 Cette évaluation porte également sur la qualité de l’examen pratique en général en termes d’organisation, de contenu et
 d’évaluation, de sorte à assurer des examens équitables et homogènes.
-\2. Par ailleurs, la SNCA soumet aux candidats qui se sont présentés à un examen pratique en vue de l’obtention du permis
+2\. Par ailleurs, la SNCA soumet aux candidats qui se sont présentés à un examen pratique en vue de l’obtention du permis
 de conduire, suivant une méthode statistique adéquate, un questionnaire aux fins d’une évaluation individuelle des modalités et
 de la qualité de l’examen qu’elle a organisé.
-\3. La SNCA tient, pour chaque examinateur un dossier comprenant les pièces justificatives attestant que l’examinateur a fait
+3\. La SNCA tient, pour chaque examinateur un dossier comprenant les pièces justificatives attestant que l’examinateur a fait
 l’objet des dispositions relatives au contrôle d’assurance de la qualité et renseignant sur le résultat du contrôle ainsi que, le cas
 échéant, sur le suivi y réservé.
 Une formation spécifique est dispensée dans les meilleurs délais aux examinateurs jugés gravement défaillants par le système de contrôle d’assurance de la qualité. Cette formation qui est axée sur les besoins spécifiques de l’examinateur concerné,
 est organisée par la SNCA. Elle est dispensée par un expert externe indépendant, approuvé par le ministre.
-\4. La SNCA effectue régulièrement et au moins une fois par an une synthèse des réponses reçues par les candidats au
+4\. La SNCA effectue régulièrement et au moins une fois par an une synthèse des réponses reçues par les candidats au
 questionnaire leur remis à l’occasion de l’examen pratique, qu’elle communique au ministre.
 La SNCA communique régulièrement et au moins tous les cinq ans au ministre un rapport sur le système de contrôle d’assurance de la qualité qui porte en particulier sur l’évaluation de la qualité de l’examen pratique en général et qui contient une
 synthèse des réponses reçues par les candidats au questionnaire leur remis à l’occasion de l’examen pratique.
-\5. Le ministre peut vérifier ou faire vérifier à tout moment et par tous les moyens si la SNCA répond aux exigences en matière
+5\. Le ministre peut vérifier ou faire vérifier à tout moment et par tous les moyens si la SNCA répond aux exigences en matière
 de contrôle d’assurance de la qualité.
 A ces fins la SNCA conserve les questionnaires remis par les candidats à l’occasion de l’examen pratique pendant au moins
 deux ans. Toutes les autres pièces en relation avec le système de contrôle d’assurance de la qualité doivent être conservées
@@ -43117,7 +43117,7 @@ pendant une durée minimale de cinq ans.
 Chapitre IV.- Formation continue obligatoire
 
 Art. 9.
-\1. Les examinateurs, indépendamment du nombre de catégories pour lesquelles ils sont agréés, doivent suivre une formation continue obligatoire.
+1\. Les examinateurs, indépendamment du nombre de catégories pour lesquelles ils sont agréés, doivent suivre une formation continue obligatoire.
 Cette formation continue obligatoire comporte:
 
 une formation continue régulière minimale de quatre jours au total par période de deux ans, pour maintenir et développer les compétences nécessaires pour l’exercice de leur profession;
@@ -43130,14 +43130,14 @@ La SNCA prend les mesures nécessaires pour que les examinateurs répondent aux 
 \- 643 -
 
 CODE DE LA ROUTE – Permis de conduire
-\2. Lorsqu’un examinateur est agréé pour recevoir des examens pratiques pour plusieurs catégories du permis de conduire, il
+2\. Lorsqu’un examinateur est agréé pour recevoir des examens pratiques pour plusieurs catégories du permis de conduire, il
 suffit qu’il suive une formation continue obligatoire pour une de ces catégories seulement, à condition d’avoir reçu des examens
 pratiques dans les autres catégories au cours des 24 derniers mois.
 Si un examinateur n’a pas reçu d’examen pratique dans une catégorie du permis de conduire sur une période dépassant 24
 mois, il doit faire l’objet d’une réévaluation adaptée avant d’être autorisé à recevoir de nouveau des examens pratiques relatifs
 à cette catégorie. Cette réévaluation a lieu dans le cadre de la formation continue obligatoire telle que prévue au paragraphe 1.
 Art. 10.
-\1. La formation continue obligatoire peut prendre la forme d’une séance d’information, d’une formation en salle de classe,
+1\. La formation continue obligatoire peut prendre la forme d’une séance d’information, d’une formation en salle de classe,
 d’un apprentissage traditionnel ou en ligne; elle peut être individuelle ou collective. Cette formation vise notamment à approfondir et à réviser certaines des matières figurant à l’annexe du présent règlement.
 La formation continue régulière minimale de quatre jours au total par période de deux ans doit permettre de:
 
@@ -43149,7 +43149,7 @@ assurer que les examinateurs continuent à recevoir des épreuves de manière é
 
 La formation continue minimale d’au moins cinq jours au total par période de cinq ans doit permettre à l’examinateur de
 développer et de maintenir les compétences pratiques nécessaires à la conduite.
-\2. La SNCA doit tenir, pour chaque examinateur, un dossier comprenant les pièces justificatives, attestant la participation de
+2\. La SNCA doit tenir, pour chaque examinateur, un dossier comprenant les pièces justificatives, attestant la participation de
 l’examinateur à la formation continue obligatoire.
 
 Chapitre V.- Dispositions transitoires
@@ -43174,7 +43174,7 @@ publié au Mémorial et qui entrera en vigueur le 19 janvier 2013.
 
 ANNEXE
 Exigences minimales pour la qualification initiale
-\1. Connaissances et compréhension de la conduite et de l’évaluation
+1\. Connaissances et compréhension de la conduite et de l’évaluation
 
 théorie du comportement du conducteur;
 
@@ -43194,7 +43194,7 @@ théorie et techniques en matière d’évaluation;
 
 conduite défensive.
 
-\2. Compétences en matière d’évaluation
+2\. Compétences en matière d’évaluation
 
 être capable d’observer avec précision, de surveiller et d’évaluer les aptitudes générales du candidat, en particulier:
 
@@ -43212,10 +43212,10 @@ se tourner vers l’avenir, identifier les problèmes potentiels et élaborer de
 
 donner en temps utile des informations constructives en retour.
 
-\3. Compétences personnelles en matière de conduite
+3\. Compétences personnelles en matière de conduite
 Une personne habilitée à recevoir les examens pratiques d’une catégorie donnée doit être capable de conduire le type
 d’automobile en question à un niveau constamment élevé.
-\4. Qualité du service
+4\. Qualité du service
 
 déterminer et dire ce à quoi le candidat peut s’attendre pendant l’examen;
 
@@ -43226,7 +43226,7 @@ informer clairement les intéressés des résultats de l’examen;
 
 traiter les candidats avec respect et sans discrimination.
 
-\5. Connaissance de la technique et de la physique automobile
+5\. Connaissance de la technique et de la physique automobile
 
 connaissance de la technique automobile (par ex. direction, pneus, freinage, feux), surtout pour les motocycles et les
 poids lourds;
@@ -43235,7 +43235,7 @@ sécurité du chargement;
 
 connaissance de la physique automobile (par ex. vitesse, frottements, dynamique, énergie).
 
-\6. Conduite économe en carburant et respectueuse de l’environnement
+6\. Conduite économe en carburant et respectueuse de l’environnement
 
 \- 645 -
 
@@ -43267,13 +43267,13 @@ A. Un questionnaire libellé comme suit:
 
 □ oui
 
-\2. Antécédents d’épilepsie, de crises convulsives ou crises équivalentes?
+2\. Antécédents d’épilepsie, de crises convulsives ou crises équivalentes?
 
 □ non
 
 □ oui
 
-\1. Diabète insulinodépendant ou non insulinodépendant?
+1\. Diabète insulinodépendant ou non insulinodépendant?
 Si oui, prière d’indiquer
 \- les traitements:
 
@@ -43283,19 +43283,19 @@ Si oui, prière d’indiquer
 
 □ > 5 ans
 
-\3. Affection cognitive – MMS indiqué?
+3\. Affection cognitive – MMS indiqué?
 
 □ non
 
 □ oui
 
-\4. Antécédents cardiologiques?
+4\. Antécédents cardiologiques?
 
 □ non
 
 □ oui
 
-\5. Antécédents d’apnées du sommeil?
+5\. Antécédents d’apnées du sommeil?
 
 □ non
 
@@ -43307,13 +43307,13 @@ Si oui: compliance au traitement correcte? ...........................
 
 □ non
 
-\6. Pratiques addictives avérées (-OH, substances illicites)?......
+6\. Pratiques addictives avérées (-OH, substances illicites)?......
 
 □ non
 
 □ oui
 
-\7. Affections psychiatriques chroniques et sévères?
+7\. Affections psychiatriques chroniques et sévères?
 
 □ non
 
@@ -43322,7 +43322,7 @@ Si oui: compliance au traitement correcte? ...........................
 Défibrillateur interne, Pacemaker, Pontages, Stents coronaires, ACFA
 Autres:
 
-\8. Autres antécédents et traitements pouvant influencer l’aptitude à conduire?
+8\. Autres antécédents et traitements pouvant influencer l’aptitude à conduire?
 Le questionnaire comprend en outre une déclaration, datée et signée par la personne examinée, ayant la teneur suivante:
 «Je soussigné(e) Madame/Monsieur . . . . . . . . . . . . . . . . . déclare avoir répondu sincèrement à toutes les questions posées
 par le médecin. Toute déclaration inexacte pourra entraîner le refus ou le retrait du permis de conduire (Art. 2 de la loi modifiée
@@ -43336,7 +43336,7 @@ Base légale: Loi modifiée du 14 février 1955 concernant la réglementation de
 CODE DE LA ROUTE – Permis de conduire
 Au verso:
 B. Le résultat de l’examen médical libellé comme suit:
-1.
+1\.
 
 Taille:.......................................
 
@@ -43366,7 +43366,7 @@ altération du champ visuel:
 
 □ oui
 
-\2.	Yeux:
+2\.	Yeux:
 
 Pour permis C et/ou D uniquement (camion/bus, selon indications de l’ophtalmologue ou opticien)
 \- indiquer la correction optique en dioptries: OD:...........
@@ -43381,15 +43381,15 @@ OG:............
 
 « Amélioration de l’acuité visuelle suite à une intervention ophtalmologique (opération cataracte, chirurgie
 réfractive ou autres) »1
-3.
+3\.
 
 Examen clinique général
 
-4.
+4\.
 
 Nécessité d’un avis spécialisé:
 
-\5.	Restrictions:
+5\.	Restrictions:
 
 non
 
@@ -43406,7 +43406,7 @@ port obligatoire de lunettes/lentilles de contact □ boîte
 □		autres
 
 automatique obligatoire
-6.
+6\.
 
 □
 
@@ -43450,7 +43450,7 @@ Nom et prénom : .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
 Matricule national : .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . Profession : .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 Adresse : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 A. QUESTIONNAIRE
-\1. Diabète insulinodépendant ou non insulinodépendant ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+1\. Diabète insulinodépendant ou non insulinodépendant ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
@@ -43468,19 +43468,19 @@ non
 
 □ oui
 
-\2. Antécédents d’épilepsie, de crises convulsives ou crises équivalentes ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+2\. Antécédents d’épilepsie, de crises convulsives ou crises équivalentes ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
 □ oui
 
-\3. Affection cognitive – MMS indiqué ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+3\. Affection cognitive – MMS indiqué ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
 □ oui
 
-\4. Antécédents cardiologiques ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+4\. Antécédents cardiologiques ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
@@ -43490,13 +43490,13 @@ non
 
 □ oui
 
-\6. Pratiques addictives avérées (-OH, substances illicites) ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+6\. Pratiques addictives avérées (-OH, substances illicites) ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
 □ oui
 
-\7. Affections psychiatriques chroniques et sévères ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+7\. Affections psychiatriques chroniques et sévères ?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 
 non
 
@@ -43511,10 +43511,10 @@ Si oui, prière d’indiquer
 
 Défibrillateur interne, Pacemaker, Pontages, Stents coronaires, ACFA
 Autres :
-\5. Antécédents d’apnées du sommeil ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
+5\. Antécédents d’apnées du sommeil ? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . □
 Si oui : compliance au traitement correcte ? ............... □ oui □ non
 
-\8. Autres antécédents et traitements pouvant influencer l’aptitude à conduire ?
+8\. Autres antécédents et traitements pouvant influencer l’aptitude à conduire ?
 Je soussigné(e) Madame/Monsieur................................................................................................................ déclare avoir répondu sincèrement à toutes les questions posées par le médecin. Toute déclaration inexacte pourra entraîner le refus ou le retrait
 du permis de conduire (Art. 2 de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur toutes les
 voies publiques).
@@ -43527,7 +43527,7 @@ Le présent certificat a une durée de validité de trois mois à compter de sa 
 CODE DE LA ROUTE – Permis de conduire
 B. EXAMEN MÉDICAL
 ​1. Taille : ......................... Poids : ................... État Général : ...................
-\2. Yeux :
+2\. Yeux :
 acuité visuelle sans correction : OD : ......... /10
 
 OG : ......... /10
@@ -43551,9 +43551,9 @@ OD : .................... OG : ....................
 
 □ non □ oui
 
-\3. Examen clinique général
-\4. Nécessité d’un avis spécialisé : □ non □ oui (si oui lesquels :.................................)
-\5. Restrictions :
+3\. Examen clinique général
+4\. Nécessité d’un avis spécialisé : □ non □ oui (si oui lesquels :.................................)
+5\. Restrictions :
 
 □ aucune
 
@@ -43563,7 +43563,7 @@ OD : .................... OG : ....................
 
 □ autres :
 
-\6. Remarques spéciales :
+6\. Remarques spéciales :
 Je soussigné(e) certifie que la personne susmentionnée est :
 
 □ apte
@@ -43603,10 +43603,10 @@ Les certificats de formation dont question à l’article 3 du règlement grand-
 le ministre ayant les Transports dans ses attributions, ci-après désigné le «ministre», sur le vu d’un procès-verbal de la commission consultative dont question à l’article 3 du présent règlement.
 Art. 3. Instauration d’une commission consultative
 Il est institué une commission consultative dont les attributions sont les suivantes:
-\1.	 Emettre, le cas échéant, un avis sur l’admissibilité des candidats à l’examen et sur la dispense partielle ou totale des
+1\.	 Emettre, le cas échéant, un avis sur l’admissibilité des candidats à l’examen et sur la dispense partielle ou totale des
 candidats d’assister à l’enseignement ou de se soumettre à l’examen;
-\2.	 Etablir un procès-verbal d’examen, à remettre au ministre en vue de la délivrance des certificats de formation;
-\3.	 Elaborer, en collaboration avec les chambres professionnelles concernées, des propositions pour les plans d’études, les
+2\.	 Etablir un procès-verbal d’examen, à remettre au ministre en vue de la délivrance des certificats de formation;
+3\.	 Elaborer, en collaboration avec les chambres professionnelles concernées, des propositions pour les plans d’études, les
 programmes et les examens ainsi que les méthodologies pédagogiques respectives.
 Art. 4. Composition de la commission consultative
 La commission consultative se compose de
@@ -43675,17 +43675,17 @@ Art. 1er.
 Le présent règlement a pour objet d’arrêter les modalités des cours de formation prévus aux articles 76 et 82 de l’arrêté
 grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
 La participation à ces cours de formation est requise en vue respectivement:
-1.
+1\.
 
 de la conduite de motocycles légers de la catégorie A1 du permis de conduire avec un permis de conduire de la catégorie B
 
-2.
+2\.
 
 de la conduite d’ensembles de véhicules couplés composés d’un véhicule tracteur de la catégorie B du permis de
 conduire ainsi que d’une remorque ou semi-remorque dont la masse maximale autorisée dépasse 750 kg, si la masse
 maximale autorisée de ces ensembles est supérieure à 3.500 kg sans dépasser 4.250 kg
 
-3.
+3\.
 
 de l’accès progressif à la conduite des véhicules automoteurs correspondant aux catégories A2 et A du permis de
 conduire.
@@ -44222,7 +44222,7 @@ contenu de l’instruction préparatoire aux examens du
 permis de conduire ainsi que l’exercice de la profession d’instructeur de candidats-conducteurs.
 
 TA 20-1-03 (15227)
-\2. Instructeur – exercice de l’activité professionnelle à titre accessoire –
+2\. Instructeur – exercice de l’activité professionnelle à titre accessoire –
 accord de l’employeur (oui) – agrément ministériel préalable (non) – limitation
 de la validité de l’agrément (non) – r. g.-d. du 8 août 2000, art. 6
 Sans remettre en question l’obligation parallèle au titre de laquelle l’exercice de l’activité professionnelle d’instructeur à titre accessoire requiert l’accord de l’employeur de la demanderesse, force est de constater que cette
@@ -44233,7 +44233,7 @@ Transports, lequel est nécessairement cantonné dans les limites de ses attribu
 d’une limitation qui n’est pas prévue par les dispositions spécifiques gouvernant l’agrément ministériel des instructeurs de candidats-conducteurs.
 TA 17-03-2004 (17061)
 
-\1. Instructeurs de candidats-conducteurs –conditions d’agrément – durée
+1\. Instructeurs de candidats-conducteurs –conditions d’agrément – durée
 minimale d’exercice (non) – dosage par plages horaires des activités respectives d’enseignement théorique et d’enseignement pratique (non) – r. g.-d. du
 8 août 2000, art. 6
 L’article 6 du règlement grand-ducal du 8 août 2000, en précisant que
@@ -49898,10 +49898,10 @@ La commission d’examen instituée en vertu de l’article 4quater de la loi pr
 des propositions pour les plans d’études dans le cadre de la formation de base, comportant les programmes et les examens
 ainsi que les méthodologies pédagogiques respectives.
 Ladite commission a également comme attributions:
-\1.	 d’émettre un avis sur l’admissibilité des candidats à la formation de base;
-\2.	 d’émettre un avis quant aux dispenses visées à l’article 7;
-\3.	 d’émettre un avis sur l’admissibilité des candidats à l’examen;
-\4.	 d’établir un procès-verbal d’examen, à remettre au ministre ayant la Formation professionnelle dans ses attributions, en
+1\.	 d’émettre un avis sur l’admissibilité des candidats à la formation de base;
+2\.	 d’émettre un avis quant aux dispenses visées à l’article 7;
+3\.	 d’émettre un avis sur l’admissibilité des candidats à l’examen;
+4\.	 d’établir un procès-verbal d’examen, à remettre au ministre ayant la Formation professionnelle dans ses attributions, en
 vue de la délivrance des certificats de qualification d’inspecteur de contrôle technique.
 Le ministre ayant la Formation professionnelle dans ses attributions nomme les membres et les membres suppléants de la
 commission d’examen et arrête les plans d’études, les programmes, les examens ainsi que les méthodologies pédagogiques
@@ -49971,7 +49971,7 @@ et à soumettre ceux-ci aux inspecteurs de contrôle.
 Art. 14.
 Les inspecteurs sélectionnent dans la mesure du possible les véhicules à soumettre à un contrôle technique routier initial
 selon l’ordre de priorité suivant:
-1)
+1\)
 
 les véhicules exploités par des entreprises présentant un risque élevé conformément au règlement grand-ducal modifié
 du 12 août 2008 portant application de la directive 2006/22/CE du Parlement européen et du Conseil du 15 mars 2006
@@ -49979,11 +49979,11 @@ du 12 août 2008 portant application de la directive 2006/22/CE du Parlement eur
 et (CEE) n° 3821/85 concernant la législation sociale relative aux activités de transport routier et abrogeant la directive
 88/599/CEE du Conseil;
 
-2)
+2\)
 
 les véhicules présentant un risque perceptible pour la sécurité routière ou pour l’environnement;
 
-3)
+3\)
 
 les autres véhicules sélectionnés de manière aléatoire sans discrimination fondée sur la nationalité du conducteur ou
 sur le pays d’immatriculation ou de mise en circulation du véhicule.
@@ -50066,11 +50066,11 @@ durée de trois ans à compter de la date de leur réception.
 (3) Le tarif unitaire que l’organisme de contrôle technique est en droit de percevoir du conducteur conformément à l’alinéa
 6 du paragraphe 6 de l’article 4bis de la loi précitée du 14 février 1955 est fixé, hors taxe sur la valeur ajoutée, en fonction du
 nombre d’essieux du véhicule comme suit:
-\1.	 Contrôle technique routier d’un véhicule ayant 2 essieux
+1\.	 Contrôle technique routier d’un véhicule ayant 2 essieux
 
 22 euros
 
-\2.	 Contrôle technique routier d’un véhicule ayant 3 essieux
+2\.	 Contrôle technique routier d’un véhicule ayant 3 essieux
 
 30 euros.
 
@@ -50149,11 +50149,11 @@ Art. 21.
 (1) La commission du contrôle technique instituée en vertu de l’article 4ter de la loi précitée du 14 février 1955, a pour mission d’instruire les demandes en vue de l’obtention ou de la modification de l’agrément comme organisme de contrôle technique
 et d’émettre un avis motivé au ministre.
 Ladite commission a également comme attributions:
-\1.	 de vérifier si les conditions à la base de la délivrance de l’agrément comme organisme de contrôle technique sont remplies;
-\2.	 d’instruire les dossiers en relation avec les recours introduits contre une décision d’un organisme de contrôle technique;
-\3.	 d’effectuer les enquêtes administratives en vue d’une décision ministérielle de suspension ou de retrait de l’agrément
+1\.	 de vérifier si les conditions à la base de la délivrance de l’agrément comme organisme de contrôle technique sont remplies;
+2\.	 d’instruire les dossiers en relation avec les recours introduits contre une décision d’un organisme de contrôle technique;
+3\.	 d’effectuer les enquêtes administratives en vue d’une décision ministérielle de suspension ou de retrait de l’agrément
 comme organisme de contrôle technique;
-\4.	 d’instruire les dossiers et d’émettre un avis en vue d’une décision ministérielle de retrait, de limitation de la durée de
+4\.	 d’instruire les dossiers et d’émettre un avis en vue d’une décision ministérielle de retrait, de limitation de la durée de
 validité ainsi que de refus d’octroi ou de renouvellement de l’agrément comme inspecteur de contrôle technique.
 (2) Dans le cadre des attributions dont question au point 4. de l’alinéa 2 du paragraphe 1er, la commission a pour mission
 d’instruire le dossier, d’entendre les intéressés dans leurs explications et moyens de défense, de dresser un procès-verbal et
@@ -50204,15 +50204,15 @@ aux effets légaux de certains partenariats, sont concernés.
 (Règl. g.-d. du 11 septembre 2018)
 «Les membres et le secrétaire de la commission bénéficient d’une indemnité de 40 euros par session.»
 (4) Conformément aux paragraphes 4, 5 et 6 de l’article 4ter de la loi précitée du 14 février 1955, les frais relatifs à l’instruction des dossiers sont fixés comme suit:
-\1.	 Délivrance d’un agrément comme organisme de contrôle technique
+1\.	 Délivrance d’un agrément comme organisme de contrôle technique
 
 7.500 euros
 
-\2.	 Modification d’un agrément
+2\.	 Modification d’un agrément
 
 1.500 euros
 
-\3.	 Vérification des conditions d’un agrément
+3\.	 Vérification des conditions d’un agrément
 
 3.000 euros.
 
@@ -50279,12 +50279,12 @@ nombre de contrôles techniques routiers,
 
 facteur temps.
 
-1)
+1\)
 
 Les défectuosités ou non-conformités sont pondérées en fonction de leur gravité en appliquant les facteurs de gravité
 suivants:
 
-2)
+2\)
 
 défectuosité ou non-conformité critique = 40
 
@@ -50303,7 +50303,7 @@ année 2 = 13 à 24 derniers mois = facteur 2
 année 3 = 25 à 36 derniers mois = facteur 1.
 
 Cette pondération sert uniquement à la détermination de la classification globale par niveau de risque.
-3)
+3\)
 
 La classification par niveau de risque est déterminée selon les formules suivantes:
 a) Formule pour la classification globale par niveau de risque
@@ -50420,16 +50420,16 @@ Installations et équipements
 
 Les équipements de contrôle nécessaires dépendent des catégories de véhicule routier à contrôler décrites dans le tableau I.
 Les installations et les équipements comprennent au moins :
-1)
+1\)
 
 l’espace adéquat pour l’évaluation des véhicules, dans le respect des exigences de santé et de sécurité ;
 
-2)
+2\)
 
 une allée suffisamment spacieuse pour chaque essai, une fosse ou un pont de levage et, pour les véhicules ayant une
 masse maximale autorisée supérieure à 3,5 tonnes, un dispositif de levage du véhicule par l’un des essieux suffisamment éclairé et, le cas échéant, aéré ;
 
-3)
+3\)
 
 pour le contrôle de tout véhicule, un banc d’essai de freinage à rouleaux capable de mesurer, afficher et enregistrer les
 forces de freinage et la pression pneumatique dans les systèmes de freinage pneumatiques, conformément à l’annexe
@@ -50443,21 +50443,21 @@ ou
 un banc d’essai de freinage à plateau équivalent au banc d’essai de freinage à rouleaux conformément au point 3, éventuellement sans la faculté d’enregistrer les forces de freinage et l’effort à la pédale ni d’afficher la pression pneumatique
 des systèmes de freinage pneumatiques ;
 
-5)
+5\)
 
 un instrument d’enregistrement des décélérations, les instruments de mesure non continue devant enregistrer et stocker
 les mesures au moins 10 fois par seconde ;
 
-6)
+6\)
 
 une installation d’essai des systèmes de freinage pneumatiques tels que les manomètres, les connexions et les flexibles;
 
-7)
+7\)
 
 un instrument de mesure de la charge supportée par les essieux/les roues (éventuellement pour mesurer la charge
 supportée par deux roues, tel que des plateformes pèse-roue et des plateformes pèse-essieu) ;
 
-8)
+8\)
 
 un dispositif permettant d’essayer la suspension des essieux (détecteur de jeu dans les roues) sans lever les essieux,
 respectant les exigences suivantes :
@@ -50466,7 +50466,7 @@ longitudinal et selon l’axe transversal ;
 b) le mouvement des plateaux doit pouvoir être commandé par l’opérateur à partir de sa position ;
 c) pour les véhicules ayant une masse maximale autorisée supérieure à 3,5 tonnes, les plateaux respectent les exigences techniques suivantes :
 
-9)
+9\)
 
 mouvement longitudinal et transversal d’au moins 95 mm,
 
@@ -50474,18 +50474,18 @@ vitesse de mouvement longitudinal et transversal comprise entre 5 cm/s et 15 cm/
 
 un sonomètre de classe II, si le niveau sonore est mesuré ;
 
-\10) un analyseur de quatre gaz conformément à la directive 2004/22/CE du Parlement européen et du Conseil du 31 mars
+10\) un analyseur de quatre gaz conformément à la directive 2004/22/CE du Parlement européen et du Conseil du 31 mars
 2004 sur les instruments de mesure ;
-\11) un dispositif permettant de mesurer le coefficient d’absorption avec suffisamment de précision ;
-\12) un dispositif permettant de tester le réglage des phares conformément aux dispositions correspondantes de la directive
+11\) un dispositif permettant de mesurer le coefficient d’absorption avec suffisamment de précision ;
+12\) un dispositif permettant de tester le réglage des phares conformément aux dispositions correspondantes de la directive
 76/756/CEE, la limite lumière/obscurité devant être facilement reconnaissable à la lueur du jour (sans lumière directe
 provenant du soleil) ;
-\13) un dispositif permettant de mesurer la profondeur des rainures des pneus ;
-\14) à partir du 20 mai 2023, un dispositif permettant de se connecter à l’interface électronique du véhicule tel qu’un outil
+13\) un dispositif permettant de mesurer la profondeur des rainures des pneus ;
+14\) à partir du 20 mai 2023, un dispositif permettant de se connecter à l’interface électronique du véhicule tel qu’un outil
 d’analyse OBD ; (Règl. g.-d- du 21 septembre 2023) « Ce dispositif est capable de traiter les données des véhicules
 mises à disposition par un prestataire de service répondant à des exigences définies à l’article 1er bis du présent règlement ; »
-\15) un dispositif de détection des fuites de GPL/GNC/GNL ;
-\16) un dispositif pour mesurer la voie « ripomètre ».
+15\) un dispositif de détection des fuites de GPL/GNC/GNL ;
+16\) un dispositif pour mesurer la voie « ripomètre ».
 Tous les dispositifs susmentionnés peuvent être combinés en un seul dispositif, à condition que cela n’affecte pas la précision de chacun d’entre eux.
 II.
 
@@ -50516,7 +50516,7 @@ ANNEXE II
 
 « ANNEXE II »1
 EXIGENCES POUR LA FORMATION DE BASE
-\1.	 Technique automobile
+1\.	 Technique automobile
 
 systèmes de freinage
 
@@ -50534,12 +50534,12 @@ nuisances et émissions
 
 exigences supplémentaires pour les véhicules spéciaux
 
-\2.	 Méthodes d’essai
-\3.	 Appréciation des défectuosités et non-conformités
-\4.	 Exigences légales applicables concernant l’état des véhicules routiers en vue de leur réception
-\5.	 Exigences légales applicables concernant le contrôle technique
-\6.	 Dispositions administratives relatives à la réception, l’immatriculation et le contrôle technique des véhicules routiers
-\7.	 Applications informatiques relatives au contrôle et à l’administration
+2\.	 Méthodes d’essai
+3\.	 Appréciation des défectuosités et non-conformités
+4\.	 Exigences légales applicables concernant l’état des véhicules routiers en vue de leur réception
+5\.	 Exigences légales applicables concernant le contrôle technique
+6\.	 Dispositions administratives relatives à la réception, l’immatriculation et le contrôle technique des véhicules routiers
+7\.	 Applications informatiques relatives au contrôle et à l’administration
 
 Renuméroté par le règl. g.-d. du 21 septembre 2023.
 
@@ -50554,23 +50554,23 @@ Logo commercial
 ou
 marque figurative
 
-9)
+9\)
 
 NOM ET ADRESSE DE L’ORGANISME DE CONTRÔLE
 TECHNIQUE
 
 Page 1/1
 
-\2) Numéro d’immatriculation: XX YYYY
+2\) Numéro d’immatriculation: XX YYYY
 
 Catégorie du véhicule:
 
-5)
+5\)
 
 CATÉGORIE
 communautaire)
 
-\1) Numéro d’identification du véhicule:
+1\) Numéro d’identification du véhicule:
 
 complété par (Code
 
@@ -50582,15 +50582,15 @@ MARQUE
 
 NNNNNNNNNNNNNNNNN
 
-\4) Kilomètres/Miles/Heures:
+4\) Kilomètres/Miles/Heures:
 
 VALEUR ENREGISTRÉE
 
 Certificat de contrôle valable jusqu’au: 8) JJ.MM.AAAA
 sous réserve des dispositions de l’article 4bis de la loi modifiée du 14 février 1955 concernant la réglementation de la circulation sur
 toutes les voies publiques
-\3) Contrôle technique effectué à LIEU DU CONTRÔLE: le JJ.MM.AAAA
-\6) Défectuosités et non-conformités constatées:
+3\) Contrôle technique effectué à LIEU DU CONTRÔLE: le JJ.MM.AAAA
+6\) Défectuosités et non-conformités constatées:
 
 mineures:
 Néant ou
@@ -50604,13 +50604,13 @@ critiques:
 Néant ou
 Code(s) et libellé(s) des défectuosités et non-conformités constatées
 
-\7) Résultat du contrôle technique: Le véhicule sus-visé est accepté / rejeté / interdit à la
+7\) Résultat du contrôle technique: Le véhicule sus-visé est accepté / rejeté / interdit à la
 
 circulation
 
-\10) Autres informations:
+10\) Autres informations:
 
-9)
+9\)
 
 Identification de l’inspecteur technique responsable: CODE INSPECTEUR
 Réservé à l’organisme de contrôle technique
@@ -50645,11 +50645,11 @@ Renuméroté par le règl. g.-d. du 21 septembre 2023.
 \- 782 -
 
 Modèle du certificat de contrôle technique routier (verso)
-\0. IDENTIFICATION DU VÉHICULE
+0\. IDENTIFICATION DU VÉHICULE
 0.1. Plaques d'immatriculation
 0.2. Numéro d'identification du véhicule
 (NIV)/numéro du châssis/numéro de série
-\1. ÉQUIPEMENTS DE FREINAGE
+1\. ÉQUIPEMENTS DE FREINAGE
 1.1. État mécanique et fonctionnement
 1.1.1. Pivot de la pédale de frein de service
 1.1.2. État et course de la pédale du
@@ -50706,7 +50706,7 @@ d'endurance
 1.6. Dispositif antiblocage
 1.7. Système de freinage électronique
 1.8. Liquide de frein
-\2. DIRECTION
+2\. DIRECTION
 2.1. État mécanique
 2.1.1. État de la direction
 2.1.2. Fixation du boîtier de direction
@@ -50724,7 +50724,7 @@ direction
 de la remorque
 2.6. Direction assistée électronique
 
-\4. FEUX, DISPOSITIFS RÉFLÉCHISSANTS ET ÉQUIPEMENT
+4\. FEUX, DISPOSITIFS RÉFLÉCHISSANTS ET ÉQUIPEMENT
 ÉLECTRIQUE
 4.1. Phares
 4.1.1. État et fonctionnement
@@ -50787,7 +50787,7 @@ ESSIEUX, ROUES, PNEUS, SUSPENSION
 triangle de suspension avant et bras de suspension
 5.3.4. Points de suspension
 5.3.5. Suspension pneumatique
-\6. CHÂSSIS ET ACCESSOIRES DU CHÂSSIS
+6\. CHÂSSIS ET ACCESSOIRES DU CHÂSSIS
 6.1. Châssis ou cadre et accessoires
 6.1.1. État général
 6.1.2. Tuyaux d'échappement et silencieux
@@ -50800,7 +50800,7 @@ de protection arrière contre l'encastrement
 6.1.6. Accouplement mécanique et dispositif de
 remorquage
 
-\3. VISIBILITÉ
+3\. VISIBILITÉ
 3.1. Champ de vision
 3.2. État des vitrages
 3.3. Rétroviseurs
@@ -50824,7 +50824,7 @@ remorquage
 intérieurs et extérieurs
 6.2.10. Garde-boue (ailes), dispositifs
 antiprojections
-\7. AUTRE MATÉRIEL
+7\. AUTRE MATÉRIEL
 7.1. Ceintures/boucles de sécurité
 7.1.1. Sécurité de montage
 7.1.2. État
@@ -50844,7 +50844,7 @@ antiprojections
 7.11. Compteur kilométrique
 7.12. Systèmes de contrôle électronique de
 stabilité (ESC)
-\8. NUISANCES
+8\. NUISANCES
 8.1 Système de suppression du bruit
 8.2. Émissions à l'échappement
 8.2.1. Émissions des moteurs à allumage
@@ -50859,7 +50859,7 @@ compression
 8.2.2.2. Opacité
 8.4. Autres points liés à l'environnement
 8.4.1. Pertes de liquides
-\9. CONTRÔLES SUPPLÉMENTAIRES POUR LES
+9\. CONTRÔLES SUPPLÉMENTAIRES POUR LES
 VÉHICULES DE TRANSPORT DE PASSAGERS DES
 CATEGORIES M2 ET M3
 9.1 Portes
@@ -51117,34 +51117,34 @@ Renuméroté par le règlement grand-ducal du 11 septembre 2018.
 \- 787 -
 
 ANNEXE 1: Équipements et installations requis pour le CTE
-\1.	 freinomètre à rouleaux (A1, A2, A3, A4), avec blocage automatique du résultat de l’essai à la fin de celui-ci
+1\.	 freinomètre à rouleaux (A1, A2, A3, A4), avec blocage automatique du résultat de l’essai à la fin de celui-ci
 (A1) peut être remplacé par un décéléromètre pour le contrôle des freins de tracteurs et de machines
 (A2) les freinomètres à rouleaux destinés à l’inspection de véhicules d’une masse supérieure à 3,5t doivent correspondre
 aux exigences des normes ISO 21069-1 et ISO 21069-2
 (A3) pour l’inspection de motocycles le freinomètre doit disposer d’un mode manuel permettant son activation et d’une
 plaque de guidage adaptée
 (A4) freinomètre adapté à l’utilisation de véhicules munis d’une traction à toutes roues motrices
-\2.	 manomètre (A2), muni d’un tuyau de raccordement ISO d’une longueur d’au moins six (6) m
+2\.	 manomètre (A2), muni d’un tuyau de raccordement ISO d’une longueur d’au moins six (6) m
 (A2) seulement requis pour le contrôle de véhicules équipés d’un système de freinage à air comprimé
-\3.	ripomètre
-\4.	luminoscope
-\5.	 pont-élévateur ou fosse d’inspection, éclairé de façon adéquate et équipé d’un cric et d’une lampe du type baladeuse
-\6.	 analyseur de gaz (A3), fonctionnant sur base de rayons infrarouges et permettant la mesure de la teneur des gaz
+3\.	ripomètre
+4\.	luminoscope
+5\.	 pont-élévateur ou fosse d’inspection, éclairé de façon adéquate et équipé d’un cric et d’une lampe du type baladeuse
+6\.	 analyseur de gaz (A3), fonctionnant sur base de rayons infrarouges et permettant la mesure de la teneur des gaz
 d’échappement en CO (%) ainsi que de la valeur ‘l’ d’un système de régulation catalytique à trois voies
 (A3) seulement requis pour le contrôle des émissions de véhicules équipés d’un moteur à allumage commandé
 (essence ou gaz)
-\7.	 opacimètre (A4), fonctionnant suivant le principe de la mesure du flux partiel et permettant la mesure du coefficient
+7\.	 opacimètre (A4), fonctionnant suivant le principe de la mesure du flux partiel et permettant la mesure du coefficient
 d’absorption ‘k’
 (A4) seulement requis pour le contrôle des émissions de véhicules équipés d’un moteur à allumage par compression
 (diesel)
 et immatriculés depuis plus de dix (10) mois
-\8.	 détecteur de jeu
-\9.	 extincteur, dûment contrôlé et certifié, à portée de main de l’endroit où ont lieu les inspections
-\10.	trousse de premier secours, à portée de main de l’endroit où ont lieu les inspections
-\11.	installations sanitaires (vestiaire, lavabo, toilette)
-\12.	équipement de bureau (pupitre, chaise, fax, photocopieur)
-\13.	ligne téléphonique, y compris un téléphone fixe ou portable
-\14.	un accès Internet à haut débit, type DSL permettant une connexion VPN entre l’atelier de l’entreprise-CTE et le site de
+8\.	 détecteur de jeu
+9\.	 extincteur, dûment contrôlé et certifié, à portée de main de l’endroit où ont lieu les inspections
+10\.	trousse de premier secours, à portée de main de l’endroit où ont lieu les inspections
+11\.	installations sanitaires (vestiaire, lavabo, toilette)
+12\.	équipement de bureau (pupitre, chaise, fax, photocopieur)
+13\.	ligne téléphonique, y compris un téléphone fixe ou portable
+14\.	un accès Internet à haut débit, type DSL permettant une connexion VPN entre l’atelier de l’entreprise-CTE et le site de
 l’organisme de contrôle technique
 c Les différents appareils de mesure doivent de préférence être disposés en ligne droite et à l’intérieur d’un hall couvert
 et chauffé.
@@ -52181,7 +52181,7 @@ personnalisé réservé.
 une période d’une année à partir de la date de la confirmation de cette réservation.
 (3) La réservation d’un numéro personnalisé ainsi que la réutilisation d’un numéro personnalisé lors d’une immatriculation
 d’un véhicule routier est assujettie au paiement de la taxe telle que définie par le règlement grand-ducal précité du 12 novembre
-\1981. »
+1981\. »
 (Règl. g.-d. du 21 septembre 2023)
 « Art. 24.
 Sur base d’une autorisation du ministre :
@@ -52654,7 +52654,7 @@ b) délivrance d’un duplicata d’un disque de taxi
 à partir
 du 1er
 septembre
-2016)
+2016\)
 
 c) mise à disposition d’un disque de taxi de remplacement:
 \-i.
@@ -53531,18 +53531,18 @@ Annexe 9:
 
 Zone N d’une plaque d’immatriculation
 
-1.
+1\.
 
 Modèle d’une plaque d'immatriculation
 
-2.
+2\.
 
 Définition de la zone N
 
 Zone dans laquelle est gravé, par rayon laser, de façon indélébile, le code de sécurité unique visé à l'article 33,
 paragraphe 2.
 
-3.
+3\.
 
 Couleurs et forme de la zone N
 Zone N
@@ -53561,7 +53561,7 @@ Page 39 sur 41
 
 \- 823 -
 
-4.
+4\.
 
 Dimensions et emplacement de la zone N
 
@@ -53612,7 +53612,7 @@ Exemples:
 
 hF1
 
-5.
+5\.
 
 Tolérances applicables aux dimensions définies sous 4.
 
@@ -54063,7 +54063,7 @@ Supprimé par le règl. min. du 20 octobre 2023.
 
 Annexe 1: La dénomination technique des plaques d’immatriculation, leurs zones, leurs dimensions, leurs couleurs,
 leur contenu et les exigences qui leur sont applicables en matière de qualité d’exécution
-\1. La dénomination technique des plaques d’immatriculation
+1\. La dénomination technique des plaques d’immatriculation
 Les abréviations définies dans le tableau de l’article 2, paragraphe 1er sont suivies:
 \-
 
@@ -54089,7 +54089,7 @@ plaque standard, numéro d’immatriculation apposé sur une ligne et composé d
 plaque corps diplomatique, numéro d’immatriculation réparti sur deux lignes et composé de deux
 lettres et de quatre chiffres
 
-\2. Les zones d’une plaque d’immatriculation
+2\. Les zones d’une plaque d’immatriculation
 La surface d’une plaque d’immatriculation est composée de plusieurs zones. L’utilisation et le contenu de ces zones varient
 en fonction du type de plaque. Les zones et leur abréviation se présentent comme suit:
 A1 – A6: composition alphanumérique du numéro d’immatriculation de sorte que les caractères se suivent sur la plaque
@@ -54136,7 +54136,7 @@ tiret séparant les deux groupes de chiffres sur les plaques de type «CD»;
 V:
 
 zone dans laquelle est inscrite la durée de validité d’une plaque d’immatriculation.
-\3. Les dimensions des zones visées au point 2
+3\. Les dimensions des zones visées au point 2
 Les paramètres utilisés pour les dimensions des zones d’une plaque d’immatriculation sont définis comme suit:
 
 a: paramètre qui définit la taille des caractères alphanumériques;
@@ -56325,7 +56325,7 @@ dH [mm]
 Remarque: Les plaques d’immatriculation des véhicules encore immatriculés sous un numéro à deux ou à trois chiffres
 peuvent être remplacées en cas de perte, de vol ou d’endommagement de la plaque originale. Les plaques de remplacement correspondent au type VH ou MH et le numéro d’immatriculation à deux ou à trois chiffres est représenté de façon
 symétrique aussi bien de haut en bas que de gauche à droite sur le fond F1 ou F2 afférent.
-\4. Les tolérances applicables aux dimensions définies sous 3.
+4\. Les tolérances applicables aux dimensions définies sous 3.
 Dimensions simples
 
 Dimensions cumulées
@@ -56433,7 +56433,7 @@ EX-1-1 ou RG-1-1 ;
 
 203 mm pour les plaques des types MC-2-3 et CD-2-2.
 
-\5. Couleurs des zones visées sous 2.
+5\. Couleurs des zones visées sous 2.
 Les couleurs utilisées pour les différentes zones de plaques sont les suivantes:
 \-
 
@@ -57385,7 +57385,7 @@ horizontal de 45 mm de largeur et de 3 mm de hauteur.
 
 \- 847 -
 
-\7. Exigences qualité
+7\. Exigences qualité
 Les plaques d’immatriculation ne relevant pas des types de plaques à usage limité aux véhicules historiques doivent satisfaire aux exigences de qualité validées par des essais exécutés en conformité avec les règles de l’art. Il s’agit notamment des
 essais suivants:
 \-
@@ -57509,7 +57509,7 @@ MC-2-3
 
 (Règl. min. du
 20 octobre
-2023)
+2023\)
 
 520 x 110 [mm]
 ÉCH 1:5 »
@@ -57518,7 +57518,7 @@ MC-2-3
 
 (Règl. min. du
 20 octobre
-2023)
+2023\)
 
 520 x 110 [mm]
 ÉCH 1:5
@@ -57984,10 +57984,10 @@ commises en sa qualité de conseiller à la sécurité.
 Un règlement grand-ducal déterminera les modalités du retrait, du refus d’octroi ou du refus de renouvellement du certificat
 de formation.
 Art. 7.
-\1. Les officiers de police judiciaire, les membres de la «Police grand-ducale»1� ainsi que les agents de l’administration des
+1\. Les officiers de police judiciaire, les membres de la «Police grand-ducale»1� ainsi que les agents de l’administration des
 douanes et accises sont chargés de contrôler l’exécution des dispositions de la présente loi et de ses règlements d’exécution
 et de dresser procès-verbal des infractions.
-\2. Les infractions aux articles 1er et 4 de la présente loi et aux règlements pris en son exécution sont punies d’un emprisonnement de 8 jours à 5 ans et d’une amende de «251 à 25.000 euros»2 ou d’une de ces peines seulement.
+2\. Les infractions aux articles 1er et 4 de la présente loi et aux règlements pris en son exécution sont punies d’un emprisonnement de 8 jours à 5 ans et d’une amende de «251 à 25.000 euros»2 ou d’une de ces peines seulement.
 Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la
 chose concerne.
 
@@ -58502,27 +58502,27 @@ Le transport en citernes est exclu
 
 ANNEXE II
 Procédure de réévaluation de la conformité
-\1. La méthode visant à garantir que les équipements sous pression transportables visés à l’article 1er, paragraphe 2, point c),
+1\. La méthode visant à garantir que les équipements sous pression transportables visés à l’article 1er, paragraphe 2, point c),
 fabriqués et mis sur le marché avant le 1er juillet 2001, satisfont aux dispositions pertinentes des annexes des accords internationaux sur le transport de marchandises dangereuses et aux dispositions pertinentes de la présente loi, applicables au moment
 de la réévaluation de la conformité, est définie dans la présente annexe.
-\2. Le propriétaire ou l’opérateur doit fournir à un organisme notifié répondant à la norme EN ISO/IEC 17020:2004 type A, notifié pour la réévaluation de la conformité, les informations concernant l’équipement sous pression transportable qui permettent
+2\. Le propriétaire ou l’opérateur doit fournir à un organisme notifié répondant à la norme EN ISO/IEC 17020:2004 type A, notifié pour la réévaluation de la conformité, les informations concernant l’équipement sous pression transportable qui permettent
 à cet organisme de l’identifier précisément (origine, règles appliquées en matière de conception et, en ce qui concerne les
 bouteilles à acétylène, également des indications relatives à la masse poreuse). Ces informations comprennent, le cas échéant,
 les restrictions d’utilisation prescrites, les notes concernant d’éventuels dommages ou les réparations qui ont été effectuées.
-\3. L’organisme notifié de type A, notifié pour la réévaluation de la conformité, évalue si l’équipement sous pression transportable fournit au minimum le même degré de sécurité que l’équipement sous pression transportable visé dans les annexes des
+3\. L’organisme notifié de type A, notifié pour la réévaluation de la conformité, évalue si l’équipement sous pression transportable fournit au minimum le même degré de sécurité que l’équipement sous pression transportable visé dans les annexes des
 accords internationaux sur le transport de marchandises dangereuses. L’évaluation est effectuée sur la base des informations
 fournies conformément au paragraphe 2 et, le cas échéant, de contrôles supplémentaires.
-\4. Si les résultats de l’évaluation prévue au paragraphe 3 sont satisfaisants, l’équipement sous pression transportable est
+4\. Si les résultats de l’évaluation prévue au paragraphe 3 sont satisfaisants, l’équipement sous pression transportable est
 soumis au contrôle périodique prévu dans les annexes des accords internationaux sur le transport de marchandises dangereuses. S’il est satisfait aux exigences de ce contrôle périodique, le marquage Pi est apposé par ou sous le contrôle de l’organisme notifié responsable du contrôle périodique conformément à l’article 14, paragraphes 1 à 5. Le marquage Pi est suivi du
 numéro d’identification de l’organisme notifié responsable du contrôle périodique. L’organisme notifié responsable du contrôle
 périodique délivre un certificat de réévaluation conformément au paragraphe 6.
-\5. Lorsque les récipients à pression sont fabriqués en série, chaque récipient à pression, y compris ses robinets et autres
+5\. Lorsque les récipients à pression sont fabriqués en série, chaque récipient à pression, y compris ses robinets et autres
 accessoires utilisés pour le transport, font l’objet d’une réévaluation de la conformité par un organisme notifié, notifié pour le
 contrôle périodique des récipients sous pression transportables concernés, sous réserve que la conformité du type ait été
 évaluée conformément au paragraphe 3 par un organisme notifié de type A, responsable de la réévaluation de la conformité, et
 qu’un certificat de réévaluation de type ait été délivré. Le marquage Pi est suivi du numéro d’identification de l’organisme notifié
 responsable du contrôle périodique.
-\6. Dans tous les cas, l’organisme notifié responsable du contrôle périodique délivre le certificat de réévaluation comportant,
+6\. Dans tous les cas, l’organisme notifié responsable du contrôle périodique délivre le certificat de réévaluation comportant,
 au minimum, les mentions suivantes:
 
 l’identification de l’organisme notifié délivrant le certificat et, s’il est différent, le numéro d’identification de l’organisme
@@ -58545,7 +58545,7 @@ e)
 
 la date de délivrance.
 
-\7. Un certificat de réévaluation de type est délivré.
+7\. Un certificat de réévaluation de type est délivré.
 Lorsque la procédure prévue au paragraphe 5 est appliquée, l’organisme de type A responsable de la réévaluation de la
 conformité délivre le certificat de réévaluation de type, qui comprend au moins les mentions suivantes:
 
@@ -58564,7 +58564,7 @@ e)
 la mention suivante: «le présent certificat n’autorise pas la fabrication d’équipements sous pression transportables ou
 d’éléments d’un tel équipement».
 
-\8. En apposant ou en faisant apposer le marquage Pi, le propriétaire ou l’opérateur indique qu’il assume la responsabilité
+8\. En apposant ou en faisant apposer le marquage Pi, le propriétaire ou l’opérateur indique qu’il assume la responsabilité
 de la conformité de l’équipement sous pression transportable avec toutes les exigences définies dans les annexes des accords
 internationaux sur le transport de marchandises dangereuses et dans la présente loi applicables au moment de la réévaluation.
 
@@ -59002,7 +59002,7 @@ ci-après dénommé le ministre, est désigné comme autorité compétente pour 
 Chapitre II.- Les fonctions du conseiller à la sécurité
 
 Art. 4.
-\1. Le conseiller à la sécurité est notamment chargé des tâches suivantes:
+1\. Le conseiller à la sécurité est notamment chargé des tâches suivantes:
 
 il vérifie le respect des règles relatives au transport de marchandises dangereuses par les personnes qui, au sein de
 l’entreprise, sont responsables pour le transport ou pour les opérations de chargement ou de déchargement de marchandises dangereuses;
@@ -59019,7 +59019,7 @@ CODE DE LA ROUTE – Marchandises dangereuses
 
 il assure la rédaction d’un rapport annuel sur les activités de l’entreprise relatives au transport de marchandises dangereuses qui est adressé au chef d’entreprise et qui est conservé pendant au moins cinq ans par l’entreprise.
 
-\2. La mission du conseiller comprend en outre l’examen des pratiques et procédures suivantes concernant les activités de
+2\. La mission du conseiller comprend en outre l’examen des pratiques et procédures suivantes concernant les activités de
 l’entreprise liées au transport de marchandises dangereuses:
 
 les procédés visant au respect des règles relatives à l’identification des marchandises dangereuses transportées;
@@ -59058,9 +59058,9 @@ l’introduction ou la mise en œuvre du plan de sûreté prévu à l’article 
 2003 sur les transports par route de marchandises dangereuses.»
 
 Art. 5.
-\1. Les entreprises qui doivent désigner un conseiller à la sécurité sont tenues de communiquer, si la demande leur en est
+1\. Les entreprises qui doivent désigner un conseiller à la sécurité sont tenues de communiquer, si la demande leur en est
 faite par le ministre ou par l’Inspection du Travail et des Mines, l’identité de son ou de ses conseillers à la sécurité.
-\2. Le conseiller à la sécurité et le chef d’entreprise concernés sont responsables des obligations du conseiller
+2\. Le conseiller à la sécurité et le chef d’entreprise concernés sont responsables des obligations du conseiller
 
 d’être titulaire d’un certificat de formation en cours de validité, et
 
@@ -59076,7 +59076,7 @@ l’Inspection du Travail et des Mines.
 Chapitre III.- La formation du conseiller à la sécurité
 
 Art. 7.
-\1. Le certificat de formation prévu par les articles 4 et 5 de la loi du 24 décembre 1999 précitée est délivré sur le vu d’un
+1\. Le certificat de formation prévu par les articles 4 et 5 de la loi du 24 décembre 1999 précitée est délivré sur le vu d’un
 procès-verbal attestant la réussite par l’intéressé d’un examen portant sur les matières énumérées à l’Annexe II de la directive
 96/35/CE précitée.
 Le certificat correspond au modèle prévu par l’annexe III de cette directive.
@@ -59085,7 +59085,7 @@ Il a une durée de validité de cinq ans.
 \- 892 -
 
 CODE DE LA ROUTE – Marchandises dangereuses
-\2. Le conseiller à la sécurité d’une entreprise tombant sous le champ d’application du règlement grand-ducal du 29 octobre
+2\. Le conseiller à la sécurité d’une entreprise tombant sous le champ d’application du règlement grand-ducal du 29 octobre
 1990 concernant la protection de la population contre les dangers résultant des rayonnements ionisants doit être titulaire du
 certificat de formation visé au paragraphe 1. ci-avant, sans préjudice des exigences de qualification en radioprotection des
 personnes chargées du contrôle physique et de l’exécution des mesures nécessaires pour assurer le respect des conditions
@@ -59122,28 +59122,28 @@ indépendant ou en avoir introduit la demande, la production des documents sous 
 La langue véhiculaire de la formation et de l’examen est le français.
 Art. 9.
 La formation dont question à l’article 8 porte sur les matières suivantes:
-1)
+1\)
 
 aperçu général sur les caractéristiques et les dangers des matières dangereuses ainsi que sur les mesures de prévention et de sécurité tels que rejets opérationnels ou accidentels de substances polluantes, connaissance des principales
 causes d’accident et des différents types de conséquences d’un accident impliquant des marchandises dangereuses,
 comportement en cas de sinistre et premier secours;
 
-2)
+2\)
 
 aperçu sur les prescriptions légales générales applicables au transport de marchandises dangereuses, telles que classification et identification des marchandises dangereuses, inscriptions et étiquetage, signalisation de danger des véhicules et des marchandises transportées;
 
-3)
+3\)
 
 équipement technique des véhicules et manutention des marchandises dangereuses et notamment conditions générales d’emballage, y compris les citernes et les conteneurs-citernes, mode d’envoi et restrictions d’expédition, interdictions et précautions de chargement en commun, limitation des quantités transportées, manutention et arrimage,
 nettoyage et dégazage après déchargement;
 
-4)
+4\)
 
 conditions d’expédition et prescriptions à observer en cours de route concernant notamment les documents de bord et
 mentions spéciales à y inscrire, la formation professionnelle du personnel de conduite, les règles de circulation et de
 stationnement;
 
-5)
+5\)
 
 obligations et responsabilités en relation avec le transport de marchandises dangereuses par route, par rail et par voie
 navigable.
@@ -59159,7 +59159,7 @@ suivre en tout ou en partie l’instruction préparatoire.
 
 CODE DE LA ROUTE – Marchandises dangereuses
 Art. 11.
-\1. Il est institué une commission d’examen dont les attributions sont les suivantes:
+1\. Il est institué une commission d’examen dont les attributions sont les suivantes:
 
 elle émet un avis sur l’admissibilité des candidats à l’examen et sur la dispense partielle ou totale des candidats d’assister aux cours de l’instruction préparatoire;
 
@@ -59169,7 +59169,7 @@ ministre en vue de la délivrance des certificats;
 elle émet un avis sur les demandes en reconnaissance par les autorités luxembourgeoises des certificats de formation
 établis par les autorités nationales d’un autre Etat membre de la Communauté Européenne.
 
-\2. La commission d’examen se compose de
+2\. La commission d’examen se compose de
 
 deux représentants du ministre ayant les Transports dans ses attributions;
 
@@ -59181,29 +59181,29 @@ un représentant proposé par la Chambre des métiers.
 
 A chaque membre effectif de la commission est adjoint un membre suppléant appelé à le remplacer en cas d’empêchement.
 La Commission est assistée par un secrétaire.
-\3. L’un des deux représentants du ministre ayant les Transports dans ses attributions assumera la présidence de la commission d’examen. En cas d’empêchement il désignera son remplaçant parmi les membres effectifs.
+3\. L’un des deux représentants du ministre ayant les Transports dans ses attributions assumera la présidence de la commission d’examen. En cas d’empêchement il désignera son remplaçant parmi les membres effectifs.
 Le président et les membres de la commission d’examen ainsi que le secrétaire sont nommés par le ministre.
-\4. La commission délibère valablement si au moins trois membres sont présents. Ses avis et décisions doivent être motivés.
+4\. La commission délibère valablement si au moins trois membres sont présents. Ses avis et décisions doivent être motivés.
 Ses décisions sont sans recours.
 Les membres de la commission ne peuvent prendre part ni aux examens ni à l’émission des avis prévus au premier paragraphe, si un de leurs parents ou alliés jusqu’au quatrième degré en est concerné.
 Art. 12.
-\1. La décision de réussite à l’examen se fonde sur le bilan de l’examen qui se compose des notes finales de chacune des
+1\. La décision de réussite à l’examen se fonde sur le bilan de l’examen qui se compose des notes finales de chacune des
 matières et de la moyenne générale de ces matières.
 La moyenne générale est égale à la somme des notes finales des différentes matières, divisée par le nombre de ces
 matières.
 Pour chaque note finale et pour la moyenne générale, les fractions de points sont arrondies à l’unité supérieure.
 Est considérée comme note finale suffisante, toute note finale supérieure ou égale à 30 points sur un maximum de 60 points.
-\2. A réussi l’examen le candidat qui a obtenu une note finale suffisante dans chacune des matières.
+2\. A réussi l’examen le candidat qui a obtenu une note finale suffisante dans chacune des matières.
 A également réussi l’examen, le candidat qui a obtenu une seule note finale insuffisante mais supérieure ou égale à
 24 points, si la moyenne générale est supérieure ou égale à 40 points.
 Est autorisé à se soumettre à des épreuves supplémentaires sans obligation d’assister à des cours d’instruction, le candidat
 qui a obtenu une moyenne générale supérieure ou égale à 30 points, et qui a eu au plus deux notes finales insuffisantes.
 A échoué le candidat qui a obtenu une moyenne générale inférieure à 30 points ou qui a obtenu plus de deux notes insuffisantes, ou qui a obtenu au moins une note insuffisante à l‘épreuve supplémentaire.
-\3. En cas d’échec, le candidat refusé doit attendre la prochaine session pour se présenter. Pour être réadmis à l’examen, le
+3\. En cas d’échec, le candidat refusé doit attendre la prochaine session pour se présenter. Pour être réadmis à l’examen, le
 candidat directement refusé doit justifier avoir assisté aux cours de l’instruction préparatoire portant sur toutes les matières. Le
 candidat refusé à la suite de notes insuffisantes obtenues aux épreuves supplémentaires doit justifier avoir assisté aux cours
 correspondant aux matières de ces épreuves.
-\4. Après quatre échecs totaux ou partiels, le candidat est définitivement éliminé.
+4\. Après quatre échecs totaux ou partiels, le candidat est définitivement éliminé.
 Art. 13.
 La décision d’admissibilité des candidats à l’examen intervient sur avis de la commission d’examen.
 Sur avis favorable de la commission un candidat peut être dispensé de l’obligation de suivre en tout ou en partie les cours
@@ -59785,19 +59785,19 @@ l’équipement nécessaire à l’application des mesures sous c), et, le cas �
 
 CODE DE LA ROUTE – Marchandises dangereuses
 Art. 19.
-\1. Les consignes doivent être fournies par l’expéditeur qui est responsable du contenu de celles-ci.
+1\. Les consignes doivent être fournies par l’expéditeur qui est responsable du contenu de celles-ci.
 Elles doivent être remises au conducteur au plus tard lorsque les marchandises dangereuses sont chargées sur le véhicule.
 Les consignes doivent être établies dans une langue que les conducteurs prenant en charge les marchandises dangereuses
 sont à même de lire et de comprendre, ainsi que dans toutes les langues des pays d’origine, de transit et de destination du
 transport.
-\2. Des renseignements sur le contenu de ces consignes doivent être communiqués au transporteur au plus tard lorsque
+2\. Des renseignements sur le contenu de ces consignes doivent être communiqués au transporteur au plus tard lorsque
 l’ordre de transport est donné, de sorte à lui permettre de prendre les mesures nécessaires pour veiller à ce que les personnes
 à son service qu’il a chargées de l’exécution du chargement soient informées de ces consignes et soient à même d’exécuter
 celles-ci correctement et de veiller à ce que l’équipement nécessaire se trouve à bord de l’unité de transport. Le transporteur
 doit veiller à ce que les conducteurs concernés soient à même de comprendre et d’appliquer ces instructions correctement.
-\3. Pendant le transport un exemplaire des consignes doit se trouver dans la cabine de conduite.
+3\. Pendant le transport un exemplaire des consignes doit se trouver dans la cabine de conduite.
 Il ne doit se trouver dans la cabine de conduite que les consignes concernant la ou les marchandises dangereuses transportées.
-\4. Sans préjudice des dispositions du point 2 du présent article, sur le territoire luxembourgeois les consignes écrites en cas
+4\. Sans préjudice des dispositions du point 2 du présent article, sur le territoire luxembourgeois les consignes écrites en cas
 d’accident doivent être rédigées en langue française ou allemande.
 Art. 20.
 Dans le cas de chargement en commun de marchandises emballées, comprenant des marchandises dangereuses appartenant à des groupes différents de marchandises présentant les mêmes dangers, les consignes écrites peuvent être limitées
@@ -59836,8 +59836,8 @@ mentionnés aux numéros 8.2.2.3.4 et 8.2.2.3.5 de l’Annexe B de l’ADR.
 
 CODE DE LA ROUTE – Marchandises dangereuses
 Art. 25.
-\1. Le certificat de formation est délivré par le ministre sur le vu d’un procès-verbal attestant que l’intéressé a réussi un examen portant sur les sujets repris par l’article 27 du présent règlement grand-ducal. Les épreuves ont lieu devant une commission dont la composition et les modalités de fonctionnement sont arrêtées par le ministre.
-\2. Pour être admis à l’examen, le candidat doit justifier:
+1\. Le certificat de formation est délivré par le ministre sur le vu d’un procès-verbal attestant que l’intéressé a réussi un examen portant sur les sujets repris par l’article 27 du présent règlement grand-ducal. Les épreuves ont lieu devant une commission dont la composition et les modalités de fonctionnement sont arrêtées par le ministre.
+2\. Pour être admis à l’examen, le candidat doit justifier:
 
 avoir sa résidence au Grand-Duché de Luxembourg ou avoir besoin du certificat à des fins professionnelles auprès d’un
 employeur établi au Grand-Duché de Luxembourg;
@@ -59850,17 +59850,17 @@ avoir suivi une formation conforme aux exigences des articles 22 à 24 du prése
 Le candidat doit soumettre sa demande d’admission au ministre, accompagnée des pièces attestant que les conditions ciavant sont remplies.
 Le ministre décide de l’admissibilité des candidats à l’examen sur avis favorable de la commission instituée en vertu du
 paragraphe 1.
-\3. Le certificat de formation du conducteur qui est de couleur orange correspond au modèle prévu au numéro 8.2.2.8.3 de
+3\. Le certificat de formation du conducteur qui est de couleur orange correspond au modèle prévu au numéro 8.2.2.8.3 de
 l’Annexe B de l’ADR.
-\4. Le certificat de formation a une durée de validité de cinq ans.
-\5. Le ministre peut proroger la durée de validité du certificat pour de nouveaux termes consécutifs de cinq ans, à condition
+4\. Le certificat de formation a une durée de validité de cinq ans.
+5\. Le ministre peut proroger la durée de validité du certificat pour de nouveaux termes consécutifs de cinq ans, à condition
 pour le titulaire d’avoir suivi un cours de recyclage d’au moins 8 séances d’enseignement de 45 minutes chacune au cours de
 l’année qui précède la date d’expiration du certificat et répondant aux modalités de l’instruction prévue aux articles 22 à 24, et
 d’avoir réussi à un examen suivant les modalités de l’article 27.
-\6. A partir de l’âge de 65 ans du titulaire, le certificat n’est plus prorogé que pour des termes d’un an sur production par le
+6\. A partir de l’âge de 65 ans du titulaire, le certificat n’est plus prorogé que pour des termes d’un an sur production par le
 titulaire du certificat médical spécifié à l’article 78 modifié de l’arrêté grand-ducal du 23 novembre 1955 précité.
 La validité du certificat expire de plein droit à l’âge de 70 ans accomplis de son titulaire.
-\7. Les certificats de formation délivrés par des autorités compétentes étrangères sont valables pour la circulation sur le
+7\. Les certificats de formation délivrés par des autorités compétentes étrangères sont valables pour la circulation sur le
 territoire du Grand-Duché de Luxembourg dans les limites des restrictions et conditions de validité qui y sont, le cas échéant,
 inscrites.
 Art. 26.
@@ -59910,7 +59910,7 @@ des éléments de sensibilisation à la sûreté.»
 
 CODE DE LA ROUTE – Marchandises dangereuses
 Art. 27.
-\1. L’examen comprend une partie théorique et une partie pratique.
+1\. L’examen comprend une partie théorique et une partie pratique.
 La partie théorique consiste dans des épreuves orales ou écrites.
 Pour l’examen clôturant la formation de base elle porte sur les matières suivantes:
 
@@ -59968,7 +59968,7 @@ Les questions d’examen portent sur les sujets traités lors des cours de l’i
 La partie pratique sera annotée soit sur le vu d’un certificat des chargés de cours attestant la participation active du candidat
 aux cours pratiques de l’instruction, soit, en cas d’assistance de la commission d’examen à ces cours, sur son appréciation du
 candidat.
-\2. Pour l’examen de la formation de base la décision de réussite se fonde sur le bilan de l’examen qui se compose des notes
+2\. Pour l’examen de la formation de base la décision de réussite se fonde sur le bilan de l’examen qui se compose des notes
 finales de chacune des matières et de la moyenne générale de ces matières.
 La moyenne générale est égale à la somme des notes finales des différentes matières, divisée par le nombre des ces
 matières.
@@ -59995,7 +59995,7 @@ Le candidat refusé à l’examen de la formation de base, tout en ayant obtenu 
 spécialisations, se voit bonifier cette (ces) note(s) pour une durée d’une année, à compter de la notification des résultats au
 candidat.
 Art. 28.
-\1. Il est institué une commission d’examen dont les attributions sont les suivantes:
+1\. Il est institué une commission d’examen dont les attributions sont les suivantes:
 
 elle émet un avis sur l’admissibilité des candidats à l’examen;
 
@@ -60005,7 +60005,7 @@ elle émet un avis sur la dispense de l’instruction et de l’examen prévus a
 
 elle se prononce sur l’obligation des titulaires des certificats à proroger de suivre un cours de recyclage et de se soumettre à l’examen afférent.
 
-\2. La commission d’examen est composée comme suit:
+2\. La commission d’examen est composée comme suit:
 
 deux représentants du ministère des Transports;
 
@@ -60017,31 +60017,31 @@ un représentant de la Chambre de Travail.
 
 A chaque membre effectif de la commission, il sera adjoint un membre suppléant appelé à le remplacer en cas d’empêchement.
 Les membres effectifs et suppléants ainsi que le secrétaire de la commission sont désignés par le ministre.
-\3. L’un des deux représentants du ministère des Transports assumera la présidence de la commission d’examen. En cas
+3\. L’un des deux représentants du ministère des Transports assumera la présidence de la commission d’examen. En cas
 d’empêchement il désignera son remplaçant parmi les membres effectifs.
 La commission sera assistée par un secrétaire.
-\4. La commission délibère valablement si au moins trois membres sont présents.
+4\. La commission délibère valablement si au moins trois membres sont présents.
 Ses avis et décisions doivent être motivés. Les membres de la commission ne peuvent prendre part ni aux examens ni à
 l’émission des avis prévus au point 1 du présent article, si un de leurs parents ou alliés jusqu’au quatrième degré est concerné.
 
 Chapitre «IV.»1�- Précautions à prendre lors de la manutention et le transport des marchandises dangereuses
 
 Art. 29.
-\1. Les intervenants dans le transport de marchandises dangereuses doivent prendre les mesures appropriées selon la
+1\. Les intervenants dans le transport de marchandises dangereuses doivent prendre les mesures appropriées selon la
 nature et l’ampleur des dangers prévisibles, afin d’éviter des dommages et le cas échéant, d’en minimiser leurs effets. Ils doivent
 en tout cas respecter les prescriptions de l’ADR en ce qui les concerne.
 Les obligations de l’expéditeur, du transporteur, du destinataire, et de l’équipage du véhicule et des personnes commises
 au chargement et au déchargement reprises aux articles 30 à 34 s’appliquent sans préjudice de celles des autres intervenants
 concernés par un transport déterminé.
 (Règl. g.-d. du 1er mars 2007)
-\2. «Il est interdit de fumer au cours d’un transport et pendant les opérations afférentes de chargement, de déchargement ou
+2\. «Il est interdit de fumer au cours d’un transport et pendant les opérations afférentes de chargement, de déchargement ou
 de manutention quelconque de marchandises dangereuses.
-\3. A moins d’un danger particulier résultant pour les autres usagers de la route, pour les riverains ou pour l’environnement
+3\. A moins d’un danger particulier résultant pour les autres usagers de la route, pour les riverains ou pour l’environnement
 naturel des marchandises dangereuses transportées par un véhicule, il est interdit de procéder à des opérations de transbordement de marchandises dangereuses d’un véhicule à un autre, ou d’une citerne mobile à un véhicule citerne en un endroit
 autre que les dépôts ou les dépendances d’entreprises autorisées conformément à la loi modifiée du 10 juin 1999 relative aux
 établissements classés et soumises à l’obligation de désigner un conseiller à la sécurité en vertu de la loi du 24 décembre 1999
 relative aux conseillers à la sécurité pour le transport par route, par rail ou par voie navigable de marchandises dangereuses.»
-\4. Une marchandise dangereuse ne peut être transportée en citernes fixes ou démontables, en matériaux métalliques ou
+4\. Une marchandise dangereuse ne peut être transportée en citernes fixes ou démontables, en matériaux métalliques ou
 en matières plastiques renforcées, en conteneurs-citernes et en batteries de récipients que si le transport dans chacun de ces
 types de réservoirs est explicitement admis par l’ADR.
 
@@ -60117,7 +60117,7 @@ veiller à ce que les conteneurs, une fois entièrement déchargés, nettoyés, 
 
 Section 4. – L’équipage du véhicule et les personnes commises au chargement et au déchargement
 Art. 33.
-\1. Dans le cadre d’un transport de marchandises dangereuses le conducteur et, le cas échéant, le convoyeur sont tenus par
+1\. Dans le cadre d’un transport de marchandises dangereuses le conducteur et, le cas échéant, le convoyeur sont tenus par
 les prescriptions suivantes:
 
 Il est interdit de laisser tourner le moteur pendant la manutention des marchandises, à moins que l’utilisation du moteur
@@ -60181,7 +60181,7 @@ dangereuses.
 «k)»1 Après le déchargement des matières dangereuses, le véhicule doit être nettoyé et, dans l’hypothèse d’une citerne,
 dégazé, à moins qu’il ne s’agisse d’un chargement en vrac et que le nouveau chargement ne présente pas la même
 composition de matières dangereuses.
-\2. Les prescriptions applicables aux véhicules effectuant un transport de marchandises dangereuses, sont également valables pour un véhicule déchargé, dans la mesure où le véhicule n’a pas encore été ni nettoyé ni éventuellement dégazé. Pour
+2\. Les prescriptions applicables aux véhicules effectuant un transport de marchandises dangereuses, sont également valables pour un véhicule déchargé, dans la mesure où le véhicule n’a pas encore été ni nettoyé ni éventuellement dégazé. Pour
 les moyens de confinement vides, non nettoyés, les prescriptions du numéro 5.4.1.1.6 de l’Annexe A de l’ADR sont applicables.
 Les citernes fixes et démontables, les conteneurs-citernes et les batteries de récipients, vides et non nettoyés, doivent être
 fermés de la même façon et présenter les mêmes garanties d’étanchéité que s’ils étaient remplis.
@@ -60213,7 +60213,7 @@ Art. 38.
 ou qui ont transporté des marchandises dangereuses sans avoir encore été nettoyées ou éventuellement dégazées, est limitée
 aux dépôts ou aux dépendances d’entreprises autorisées conformément à la loi modifiée du 10 juin 1999 relative aux établissements classés et soumises à l’obligation de désigner un conseiller à la sécurité en vertu de la loi du 24 décembre 1999
 précitée.»
-\2. Si ces possibilités de stationnement ne sont pas données, l’unité de transport ou la remorque détachée peut également
+2\. Si ces possibilités de stationnement ne sont pas données, l’unité de transport ou la remorque détachée peut également
 être immobilisée à l’écart en un endroit répondant aux conditions énoncées ci-après:
 
 Une place de parcage surveillée par un préposé désigné à ces fins qui aura été informé tant de la nature du chargement
@@ -60274,12 +60274,12 @@ Le numéro d’identification du danger et le numéro ONU doivent être constitu
 ONU dans la partie inférieure; ils doivent être séparés par une ligne noire horizontale de 15 mm d’épaisseur traversant le panneau à mi-hauteur. Le numéro d’identification du danger et le numéro ONU doivent être indélébiles et rester visibles après un
 incendie d’une durée de 15 minutes.
 Art. 44.
-\1. Si un numéro d’identification du danger est indiqué dans la colonne (20) du tableau A du chapitre 3.2 de l’Annexe A de
+1\. Si un numéro d’identification du danger est indiqué dans la colonne (20) du tableau A du chapitre 3.2 de l’Annexe A de
 l’ADR, les véhicules-citernes ou les unités de transport comportant une ou plusieurs citernes qui transportent des marchandises dangereuses doivent porter sur les côtés de chaque citerne ou de compartiment de citerne, parallèlement à l’axe longitudinal du véhicule, de manière clairement visible, des panneaux de couleur orange identiques à ceux prescrits à l’article 43. Ces
 panneaux orange doivent être munis du numéro d’identification du danger et du numéro ONU prescrits respectivement dans
 les colonnes (20) et (1) du tableau A du chapitre 3.2 de l’Annexe A de l’ADR pour chacune des matières transportées dans la
 citerne ou dans le compartiment de la citerne.
-\2. Si un numéro d’identification du danger est indiqué dans la colonne (20) du tableau A du chapitre 3.2 de l’Annexe A de
+2\. Si un numéro d’identification du danger est indiqué dans la colonne (20) du tableau A du chapitre 3.2 de l’Annexe A de
 l’ADR, les unités de transport et les conteneurs transportant des marchandises dangereuses solides en vrac doivent porter
 sur les côtés de chaque unité de transport ou de chaque conteneur, parallèlement à l’axe longitudinal du véhicule, de manière
 visible, des panneaux de couleur orange identiques à ceux prescrits à l’article 43. Ces panneaux orange doivent être munis
@@ -60287,15 +60287,15 @@ du numéro d’identification du danger et du numéro ONU prescrits respectiveme
 du chapitre 3.2 de l’Annexe A de l’ADR pour chacune des matières transportées en vrac dans l’unité de transport ou dans le
 conteneur.
 Art. 45.
-\1. Les panneaux de couleur orange prescrits à l’article 43 ne sont pas obligatoires sur les véhicules-citernes ou les unités
+1\. Les panneaux de couleur orange prescrits à l’article 43 ne sont pas obligatoires sur les véhicules-citernes ou les unités
 de transport comportant une ou plusieurs citernes qui transportent des matières des numéros ONU 1202, 1203 ou 1223 ou du
 carburant aviation classé sous les numéros ONU 1268 ou 1863. Toutefois, le véhicule-citerne ou l’unité de transport en question
 doit comporter à l’avant et à l’arrière les panneaux qui portent le numéro d’identification de danger et le numéro ONU de la
 matière transportée, qui a le point d’éclair le plus bas.
-\2. Pour les conteneurs transportant des marchandises dangereuses solides en vrac et pour les conteneurs-citernes, CGEM
+2\. Pour les conteneurs transportant des marchandises dangereuses solides en vrac et pour les conteneurs-citernes, CGEM
 et citernes mobiles, les panneaux orange latéraux peuvent être remplacés par une feuille autocollante, une peinture ou tout
 autre procédé équivalent, à condition que le matériau utilisé à cet effet soit résistant aux intempéries et garantisse une signalisation durable. Dans ces conditions, les dispositions relatives à la résistance au feu ne sont pas applicables.
-\3. Pour les unités de transport qui ne transportent qu’une seule matière, les panneaux orange latéraux ne sont pas obligatoires lorsque ceux apposés à l’avant et à l’arrière sont munis du numéro d’identification de danger et du numéro ONU prescrits
+3\. Pour les unités de transport qui ne transportent qu’une seule matière, les panneaux orange latéraux ne sont pas obligatoires lorsque ceux apposés à l’avant et à l’arrière sont munis du numéro d’identification de danger et du numéro ONU prescrits
 respectivement dans les colonnes (20) et (1) du tableau A du chapitre 3.2 de l’Annexe A de l’ADR.
 Art. 46.
 Les prescriptions de la présente section sont également applicables aux citernes fixes ou démontables, aux conteneursciternes, CGEM et citernes mobiles et aux véhicules-batteries vides, non nettoyés et non dégazés, ainsi qu’aux véhicules et
@@ -60326,10 +60326,10 @@ de l’Annexe A de l’ADR.
 
 Section 2. – L’équipement des véhicules
 Art. 50.
-\1. Toute unité de transport doit être munie d’au moins un extincteur d’incendie portatif d’une capacité minimale de 2 kg de
+1\. Toute unité de transport doit être munie d’au moins un extincteur d’incendie portatif d’une capacité minimale de 2 kg de
 poudre ou de capacité correspondante pour un agent d’extinction équivalent, apte à combattre un incendie du moteur ou de la
 cabine.
-\2. Les appareils supplémentaires suivants sont requis comme suit:
+2\. Les appareils supplémentaires suivants sont requis comme suit:
 
 pour les unités de transport ayant une masse maximale admissible supérieure à 7,5 tonnes, un ou plusieurs extincteurs
 d’incendie portatifs d’une capacité minimale totale de 12 kg de poudre ou de capacité correspondante pour un agent
@@ -60344,7 +60344,7 @@ pour les unités de transport ayant une masse maximale admissible inférieure ou
 extincteurs d’incendie portatifs d’une capacité minimale totale de 4 kg de poudre ou de capacité correspondante pour
 un agent d’extinction équivalent.
 
-\3. La capacité du ou des extincteurs prescrits sous 1. peut être déduite de la capacité minimale totale des extincteurs prescrits sous 2.
+3\. La capacité du ou des extincteurs prescrits sous 1. peut être déduite de la capacité minimale totale des extincteurs prescrits sous 2.
 (…)2
 Art. 51.
 Les agents d’extinction des appareils portatifs mentionnés à l’article 50 ne doivent pas dégager des gaz toxiques, ni dans la
@@ -60388,11 +60388,11 @@ Art. 54.
 « 1. La coordination des contrôles des transports de marchandises dangereuses par route à effectuer selon la directive(UE)
 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de
 contrôle des transports de marchandises dangereuses par route, est assurée par le ministre. »
-\2. Les organes de contrôles désignés par la loi du 09 avril 1986 relative aux équipements spéciaux des véhicules destinés
+2\. Les organes de contrôles désignés par la loi du 09 avril 1986 relative aux équipements spéciaux des véhicules destinés
 à transporter ou à utiliser comme carburant des matières pouvant présenter un danger pour la sécurité, la salubrité ou la santé
 publiques, exercent les prérogatives leur attribuées en vertu des articles 4 et 5 de ladite loi de façon à permettre de compléter
 la liste de contrôle reprise en Annexe II du présent règlement.
-\3. Une proportion représentative des transports par route de marchandises dangereuses est soumise aux contrôles qui
+3\. Une proportion représentative des transports par route de marchandises dangereuses est soumise aux contrôles qui
 porteront en particulier sur la prévention et la détection des infractions graves reprises à l’article 55.
 Les contrôles couvrent l’ensemble du réseau routier national, et sont effectués par sondage.
 Les contrôles ne préjugent nullement des prérogatives légales des organes de contrôle mentionnés au paragraphe 2, et
@@ -60460,7 +60460,7 @@ des infractions graves dont objet à l’alinéa précédent, ils sont en droit 
 ces conditions et de lui enlever les clés de contact jusqu’à ce que les dispositions du présent règlement grand-ducal soient de
 nouveau respectées. Le véhicule peut également faire l’objet d’une immobilisation temporaire à appliquer au véhicule au moyen
 d’un système mécanique.
-\2. Sont considérées comme infractions entraînant un risque de dommages corporels ou de dommages environnementaux
+2\. Sont considérées comme infractions entraînant un risque de dommages corporels ou de dommages environnementaux
 les infractions suivantes, classées sous la catégorie de risques II de l’Annexe II de la directive 2004/112/CE précitée:
 
 le fait que l’unité de transport soit composée de plus d’une remorque/semi-remorque;
@@ -60492,7 +60492,7 @@ le fait que le véhicule ne soit pas convenablement surveillé ou garé.
 Au cas où les membres de la Police grand-ducale ou de l’Administration des Douanes et Accises constatent une ou plusieurs
 des infractions dont objet à l’alinéa précédent, ils sont en droit de demander la mise en ordre sur les lieux mêmes du contrôle,
 dans la mesure du possible, ou, au plus tard, à l’issue de l’opération de transport en cours.
-\3. Sont considérées comme infractions entraînant un faible risque de dommages corporels ou de dommages environnementaux les infractions suivantes, classées sous la catégorie de risques III de l’Annexe II de la directive 2004/112/CE précitée:
+3\. Sont considérées comme infractions entraînant un faible risque de dommages corporels ou de dommages environnementaux les infractions suivantes, classées sous la catégorie de risques III de l’Annexe II de la directive 2004/112/CE précitée:
 
 le fait que la taille des panneaux ou des étiquettes, ou des lettres, chiffres ou symboles figurant sur les panneaux ou les
 étiquettes ne soit pas réglementaire;
@@ -60503,7 +60503,7 @@ le fait que le certificat de formation ne se trouve pas à bord du véhicule mai
 conducteur en est détenteur.»
 
 Art. 56.
-\1. Les conducteurs des unités de transport contrôlées reçoivent une attestation constatant l’opération de contrôle qui leur
+1\. Les conducteurs des unités de transport contrôlées reçoivent une attestation constatant l’opération de contrôle qui leur
 est remise par les fonctionnaires qui y ont procédé. Ce document correspond au modèle b) de l’Annexe II du présent règlement.
 Lorsqu’un véhicule ou une unité de transport chargé de marchandises dangereuses est immobilisé en vue d’un contrôle, et
 que son conducteur exhibe ledit document attestant un contrôle antérieur effectué sur le véhicule ou l’unité de transport dans le
@@ -60513,11 +60513,11 @@ de son chargement avec les dispositions de l’ADR.
 \- 913 -
 
 CODE DE LA ROUTE – Marchandises dangereuses
-\2. Les contrôles ont lieu en des endroits qui ne préjudicient pas à la sécurité de la circulation, et qui permettent une mise
+2\. Les contrôles ont lieu en des endroits qui ne préjudicient pas à la sécurité de la circulation, et qui permettent une mise
 en conformité des véhicules en infraction. Des prises d’échantillons des produits transportés ne sont effectuées qu’en cas de
 besoin et lorsqu’elles ne représentent pas de danger pour la sécurité. L’immobilisation d’un véhicule pour le temps d’un contrôle
 ne dépasse pas une durée raisonnable.
-\3. Les indications utiles des listes de contrôle utilisées lors des opérations de contrôle sont reprises sur le modèle a) de
+3\. Les indications utiles des listes de contrôle utilisées lors des opérations de contrôle sont reprises sur le modèle a) de
 l’Annexe II du présent règlement. Le directeur-général de la police grand-ducale et le directeur des douanes et accises se
 chargent de la transmission annuelle du formulaire au ministre des Transports qui en saisira la Commission de coordination.
 Art. 57.
@@ -60545,8 +60545,8 @@ Art. 59.
 Les dispositions des accords qui sont conclus au titre du chapitre 1.5 de l’ADR et auxquels est partie le Grand-Duché de
 Luxembourg, sont également applicables aux transports nationaux.
 Art. 60.
-\1. Les mesures transitoires prévues par les annexes de l’ADR sont d’application.
-\2. Les certificats de formation des conducteurs en cours de validité au moment de l’entrée en vigueur du présent règlement
+1\. Les mesures transitoires prévues par les annexes de l’ADR sont d’application.
+2\. Les certificats de formation des conducteurs en cours de validité au moment de l’entrée en vigueur du présent règlement
 grand-ducal restent valables jusqu’à la date de leur expiration.
 Art. 61.
 Un alinéa avec le libellé suivant est inséré entre les alinéas 2 et 3 de l’article 141 modifié de l’arrêté grand-ducal du 23
@@ -60578,10 +60578,10 @@ européennes en matière économique, technique, agricole, forestière, sociale 
 
 Section 3. – Dispositions finales
 Art. 63.
-\1. Le règlement grand-ducal modifié du 10 avril 1986 sur les transports par route de marchandises dangereuses est abrogé.
-\2. Le règlement ministériel du 30 juin 1982 sur l’instruction, l’examen et les cours de recyclage prévus pour l’obtention du
+1\. Le règlement grand-ducal modifié du 10 avril 1986 sur les transports par route de marchandises dangereuses est abrogé.
+2\. Le règlement ministériel du 30 juin 1982 sur l’instruction, l’examen et les cours de recyclage prévus pour l’obtention du
 certificat de formation spéciale ADR est abrogé.
-\3. Le règlement ministériel du 13 mai 1986 sur l’agrément des experts et les documents de bord spéciaux prévus pour le
+3\. Le règlement ministériel du 13 mai 1986 sur l’agrément des experts et les documents de bord spéciaux prévus pour le
 transport par route de marchandises dangereuses est abrogé.
 
 Section 4. – Entrée en vigueur
@@ -60601,12 +60601,12 @@ Nom, prénom et fonction de l’agent ayant procédé aux opérations de contrô
 ATTESTATION
 de l’inspection d’un véhicule-citerne suivant les prescriptions de l’Accord européen relatif au transport international de marchandises dangereuses par route (ADR) et du règlement grand-ducal modifié du 31 janvier 2003 sur les transports par route
 de marchandises dangereuses.
-1.
+1\.
 
 Demande de
 Nom et adresse: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-2.
+2\.
 
 Véhicule
 Propriétaire ou détenteur:. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
@@ -60616,7 +60616,7 @@ N° d’immatriculation:.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
 \- 915 -
 
 CODE DE LA ROUTE – Marchandises dangereuses
-3.
+3\.
 
 Citerne
 a) Genre de citerne: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
@@ -60637,7 +60637,7 @@ g) Pression d’épreuve: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
 
 h) Pression de calcul:.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . bar
 
-\4.	Constat
+4\.	Constat
 4.1 Le réservoir a été contrôlé suivant les prescriptions de l’ADR et il est conforme pour le transport par route des marchandises dangereuses énumérées ci-après:
 Numéro ONU et désignation
 
@@ -60660,7 +60660,7 @@ b) fixation citerne-châssis;
 c) protection contre les chocs (robinets et vannes);
 d) protection des vannes contre usage intempestif;
 e) exigence d’échelle(s), de passerelle(s) et de balustrades(s) pour le véhicule à remplissage par le haut.
-\5.	Accessoires
+5\.	Accessoires
 L’examen des accessoires (robinetterie et appareils de sécurité, tuyauterie, pompes, compresseurs) donnait un
 résultat: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 Dispositif contre l’électricité statique: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
@@ -60668,29 +60668,29 @@ L’élimination des dangers dus aux charges produites par frottement des citern
 le résultat suivant:.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 Les mesures de la résistance en surface ou de la résistance de déchargement à la terre doivent être répétées
 le: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-6.
+6\.
 
 La citerne désignée ci-avant remplit / ne remplit pas / ne remplit pas entièrement / les conditions requises par
 l’ADR pour être admise au transport international de marchandises dangereuses par route en vigueur et applicables
 au Grand-Duché de Luxembourg.
 
-7.
+7\.
 
 Le contrôle périodique de la citerne doit se faire au plus tard le: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 L’épreuve d’étanchéité et la vérification du bon fonctionnement de tout l’équipement doivent être effectuées au plus
 tard le:. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-8.
+8\.
 
 Numéro d’agrément du prototype: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-9.
+9\.
 
 Date et mise hors service de la citerne (svt. Chapitre 1.6): .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-\10. Documentation de base ayant servi à l’expert:
-\11. Observations:
-\12. Numéro de référence:
+10\. Documentation de base ayant servi à l’expert:
+11\. Observations:
+12\. Numéro de référence:
 Vu et certifié conforme aux normes ADR
 . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . ,
 le .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
@@ -60704,29 +60704,29 @@ ANNEXE II
 «CONTROLE DES TRANSPORTS DE MARCHANDISES DANGEREUSES PAR ROUTE
 en application de la directive modifiée 95/50/CE du Conseil du 6 octobre 1995 concernant des procédures uniformes en
 matière de contrôle des transports de marchandises dangereuses par route, et des articles 54 à 57 du règlement grandducal modifié du 31 janvier 2003 sur les transports par route de marchandises dangereuses
-1.
+1\.
 
 Lieu de contrôle: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2. Date: . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3. Heure:.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-\4.	 Marque de nationalité et numéro d’immatriculation du véhicule: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\5.	 Marque de nationalité et numéro d’immatriculation de la remorque/
+4\.	 Marque de nationalité et numéro d’immatriculation du véhicule: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+5\.	 Marque de nationalité et numéro d’immatriculation de la remorque/
 semi-remorque: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-6.
+6\.
 
 Entreprise effectuant le transport/adresse:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-7.
+7\.
 
 Conducteur/Convoyeur:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-8.
+8\.
 
 Expéditeur, adresse, lieu du chargement1 2: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
 
-\9.	 Destinataire, adresse, lieu du chargement1 2:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\10.	 Quantité totale de marchandises dangereuses par unité de transport: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\11.	 Limite de quantité ADR 1.1.3.6 dépassée
-\12.	 Mode de transport
+9\.	 Destinataire, adresse, lieu du chargement1 2:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+10\.	 Quantité totale de marchandises dangereuses par unité de transport: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+11\.	 Limite de quantité ADR 1.1.3.6 dépassée
+12\.	 Mode de transport
 
 □
 
@@ -60761,11 +60761,11 @@ infraction relevée
 sans objet
 
 Documents de bord
-\13. Document de transport
-\14. Consignes écrites
-\15. Accord bilatéral/multilatéral/autorisation nationale
-\16. Certificat d’agrément des véhicules
-\17. Certificat de formation du conducteur
+13\. Document de transport
+14\. Consignes écrites
+15\. Accord bilatéral/multilatéral/autorisation nationale
+16\. Certificat d’agrément des véhicules
+17\. Certificat de formation du conducteur
 
 □
 □
@@ -60804,7 +60804,7 @@ sans objet
 sans objet
 
 Opération de transport
-\18. Marchandise autorisée pour le transport
+18\. Marchandise autorisée pour le transport
 
 contrôlé
 
@@ -60812,7 +60812,7 @@ contrôlé
 
 infraction relevée
 
-\19. Véhicules autorisés pour les marchandises
+19\. Véhicules autorisés pour les marchandises
 transportées
 
 □
@@ -60827,7 +60827,7 @@ infraction relevée
 
 sans objet
 
-\20. Dispositions relatives au mode de transport
+20\. Dispositions relatives au mode de transport
 (en vrac, en colis, en citerne)
 
 □
@@ -60842,7 +60842,7 @@ infraction relevée
 
 sans objet
 
-\21. Interdiction de chargement en commun
+21\. Interdiction de chargement en commun
 
 □
 
@@ -60856,7 +60856,7 @@ infraction relevée
 
 sans objet
 
-\22. Chargement, arrimage de la charge et
+22\. Chargement, arrimage de la charge et
 manutention3
 
 □
@@ -60871,7 +60871,7 @@ infraction relevée
 
 sans objet
 
-\23. Fuite de marchandises ou endommagement
+23\. Fuite de marchandises ou endommagement
 de colis3
 
 □
@@ -60886,7 +60886,7 @@ infraction relevée
 
 sans objet
 
-\24.	 Numéro ONU colis/citerne2 3 (ADR 6)
+24\.	 Numéro ONU colis/citerne2 3 (ADR 6)
 
 □
 
@@ -60900,7 +60900,7 @@ infraction relevée
 
 sans objet
 
-\25. Marquage (ex. n° ONU) et étiquetage
+25\. Marquage (ex. n° ONU) et étiquetage
 des colis (ADR 5.2)2
 
 □
@@ -60915,7 +60915,7 @@ infraction relevée
 
 sans objet
 
-\26. Placardage des citernes/véhicules (ADR 5.3.1)
+26\. Placardage des citernes/véhicules (ADR 5.3.1)
 
 □
 
@@ -60929,7 +60929,7 @@ infraction relevée
 
 sans objet
 
-\27. Marquage véhicule/unité de transport
+27\. Marquage véhicule/unité de transport
 (panneau orange, température élevée)
 (ADR 5.3.2-3)
 
@@ -60955,7 +60955,7 @@ sans objet
 
 CODE DE LA ROUTE – Marchandises dangereuses
 Equipements à bord
-\28. Equipements de sécurité d’usage général
+28\. Equipements de sécurité d’usage général
 indiqués dans l’ADR
 
 □
@@ -60970,7 +60970,7 @@ infraction relevée
 
 sans objet
 
-\29. Equipements adaptés aux marchandises
+29\. Equipements adaptés aux marchandises
 transportées
 
 □
@@ -60985,7 +60985,7 @@ infraction relevée
 
 sans objet
 
-\30. Autres équipements indiqués dans les
+30\. Autres équipements indiqués dans les
 consignes écrites
 
 □
@@ -61000,7 +61000,7 @@ infraction relevée
 
 sans objet
 
-\31. Extincteur(s) d’incendie
+31\. Extincteur(s) d’incendie
 
 □
 
@@ -61014,7 +61014,7 @@ infraction relevée
 
 sans objet
 
-\39. Catégorie du risque le plus grave de
+39\. Catégorie du risque le plus grave de
 l’infraction relevée
 
 □
@@ -61029,8 +61029,8 @@ Catégorie II
 
 catégorie III
 
-\40.	Remarques:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\41.	 Autorité/agent ayant effectué le contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . »
+40\.	Remarques:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+41\.	 Autorité/agent ayant effectué le contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . »
 
 ANNEXE II b)
 (Règl. g.-d. du 1 mars 2007)
@@ -61041,13 +61041,13 @@ constatant le contrôle effectué en application de l’article 4 de la directiv
 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route, et
 des articles 54 à 57 du règlement grand-ducal modifié du 31 janvier 2003 sur les transports par route de marchandises
 dangereuses.
-\1.	 Lieu de contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\2.	Date: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3. Heure: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\4.	 Marque de nationalité et numéro d’immatriculation du véhicule:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\5.	 Marque de nationalité et numéro d’immatriculation de la remorque/semi-remorque:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\6.	 Entreprise effectuant le transport/adresse:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\7.	Conducteur/convoyeur:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-\8.	 Autorité/agent ayant effectué le contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . »
+1\.	 Lieu de contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+2\.	Date: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3. Heure: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+4\.	 Marque de nationalité et numéro d’immatriculation du véhicule:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+5\.	 Marque de nationalité et numéro d’immatriculation de la remorque/semi-remorque:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+6\.	 Entreprise effectuant le transport/adresse:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+7\.	Conducteur/convoyeur:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+8\.	 Autorité/agent ayant effectué le contrôle:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . »
 
 \- 918 -
 
@@ -61211,7 +61211,7 @@ Dans le cas des personnes ne remplissant pas cette condition au moment de la dem
 d’examen de la demande porte en outre sur la durée prévisionnelle du handicap.
 Dans des cas exceptionnels dûment justifiés, en présence d’une maladie ou d’un handicap induisant la perte de la mobilité,
 le ministre peut délivrer une carte de stationnement à d’autres personnes que celles visées par les critères énumérés à l’alinéa
-3.
+3\.
 La carte de stationnement est uniquement délivrée à des personnes résidant sur le territoire du Grand-Duché de Luxembourg.
 Les modèles et le contenu de la carte de stationnement sont arrêtés par règlement grand-ducal.
 Art. 2.
@@ -61673,11 +61673,11 @@ pour personnes handicapées.
 
 béquilles ou d’une chaise roulante, respectivement qu’il est aveugle, les conditions sus-énoncées étant alternatives et non pas cumulatives.
 TA 25-04-2013 (27505a)
-\3. Carte de stationnement – conditions d’obtention – notion d’handicap
+3\. Carte de stationnement – conditions d’obtention – notion d’handicap
 – déplacement – usage ou non d’une aide mécanique - r. g.-d. du 31 janvier
 2003, art. 1er
 
-\1. Carte de stationnement – conditions d’obtention – canne anglaise – définition – béquille (non) – r. g.-d. du 31 janvier 2003, art. 1er
+1\. Carte de stationnement – conditions d’obtention – canne anglaise – définition – béquille (non) – r. g.-d. du 31 janvier 2003, art. 1er
 Si la canne anglaise est une forme relativement moderne de la canne, pratique comme permettant un appui sur l’avant-bras, l’instrument (unique) (…) ne
 saurait être assimilé à une paire de béquilles (au pluriel), circonstance exigée
 par le règlement et que ce même texte, par rapport à la gravité de l’affectation
@@ -61695,7 +61695,7 @@ par la première hypothèse d’handicap relative à l’incapacité de se dépl
 seul, avec ou sans une telle aide mécanique, sur une distance de 100 mètres.
 TA 16-03-2005 (17368a)
 
-\2. Carte de stationnement – conditions d’obtention – conditions alternatives (oui) – conditions cumulatives (non) - r. g.-d. du 31 janvier 2003, art. 1er
+2\. Carte de stationnement – conditions d’obtention – conditions alternatives (oui) – conditions cumulatives (non) - r. g.-d. du 31 janvier 2003, art. 1er
 Pour pouvoir bénéficier d’une carte de stationnement pour personnes handicapées, le demandeur doit rapporter la preuve qu’il est incapable de faire
 seul et/ou de façon continue plus de 100 mètres, qu’il se déplace à l’aide de
 
@@ -61855,7 +61855,7 @@ PARTIE II. - De l’assurance obligatoire de la responsabilité civile en matiè
 Chapitre 1er.- De l’obligation d’assurance
 
 Art. 2.
-\1. Les véhicules ne sont admis à la circulation sur la voie publique, les terrains ouverts au public et les terrains non publics
+1\. Les véhicules ne sont admis à la circulation sur la voie publique, les terrains ouverts au public et les terrains non publics
 mais ouverts à un certain nombre de personnes ayant le droit de les fréquenter, que si la responsabilité civile à laquelle ils
 peuvent donner lieu est couverte par un contrat d’assurance répondant aux dispositions de la présente loi et dont les effets ne
 sont pas suspendus.
@@ -61873,12 +61873,12 @@ de l’article 4, paragraphe 2, de la loi modifiée du 14 février 1955 concerna
 voies publiques, l’obligation de contracter l’assurance incombe au propriétaire. Si une autre personne a contracté l’assurance,
 l’obligation du propriétaire du véhicule non immatriculé est suspendue pour la durée du contrat conclu par cette autre personne. »
 L’assurance doit être contractée auprès d’une entreprise d’assurances autorisée.
-\2. Les véhicules ayant leur stationnement habituel à l’étranger sont admis à la circulation au Grand-Duché de Luxembourg
+2\. Les véhicules ayant leur stationnement habituel à l’étranger sont admis à la circulation au Grand-Duché de Luxembourg
 à la condition que le Bureau tel que visé à l’article 24 assume lui-même à l’égard des personnes lésées la charge de réparer
 conformément aux dispositions de la présente loi les dommages causés au Luxembourg par ces véhicules.
 Un règlement grand-ducal fixe les modalités d’admission de ces véhicules à la circulation sur le territoire du Grand-Duché
 de Luxembourg.
-\3. Lorsque, pour des conducteurs de véhicules ayant leur stationnement habituel dans les pays étrangers déterminés par
+3\. Lorsque, pour des conducteurs de véhicules ayant leur stationnement habituel dans les pays étrangers déterminés par
 règlement grand-ducal, le port du certificat international d’assurance n’est pas exigé, les obligations du Bureau telles que visées
 au point 2 du présent article sont maintenues même si l’obligation d’assurance n’a pas été respectée.
 Art. 3.
@@ -61912,16 +61912,16 @@ d)
 
 du fait que le conducteur du véhicule soit présent ou non. »
 
-\2. L’assurance doit comprendre l’indemnisation des dommages causés aux personnes et aux biens par des faits survenus
+2\. L’assurance doit comprendre l’indemnisation des dommages causés aux personnes et aux biens par des faits survenus
 sur le territoire du Grand-Duché de Luxembourg, conformément aux dispositions de la présente loi et de ses règlements d’exécution. Elle doit comprendre les dommages causés aux personnes transportées, à quelque titre que ce soit, par le véhicule
 ayant occasionné le dommage.
 Les biens transportés par le véhicule peuvent être exclus de l’assurance.
-\3. L’assurance doit couvrir les dommages causés en territoire étranger par un véhicule ayant son stationnement habituel au
+3\. L’assurance doit couvrir les dommages causés en territoire étranger par un véhicule ayant son stationnement habituel au
 Grand-Duché de Luxembourg, conformément à la loi du pays de survenance du sinistre.
 Un règlement grand-ducal détermine la liste des Etats sur le territoire desquels l’assurance doit accorder couverture.
-\4. L’assurance portant sur une remorque assimilée à un véhicule par l’article 1er littera a) ne doit couvrir que les dommages
+4\. L’assurance portant sur une remorque assimilée à un véhicule par l’article 1er littera a) ne doit couvrir que les dommages
 causés par la remorque non attelée.
-\5. Sont exclus de la garantie les dommages corporels et matériels résultant des effets directs ou indirects d’explosion, de
+5\. Sont exclus de la garantie les dommages corporels et matériels résultant des effets directs ou indirects d’explosion, de
 dégagement de chaleur, d’irradiation, de contamination provenant de la transmutation d’atomes ou de radioactivité, ainsi que
 des effets de radiations provoquées par l’accélération artificielle de particules nucléaires.
 Art. 6.
@@ -61935,8 +61935,8 @@ Art. 7.
 « 1. L’entreprise d’assurance et le Bureau sont subrogés dans les droits que possède le créancier de l’indemnité contre la
 personne responsable de l’accident lorsque la détention ou la conduite du véhicule a été obtenue contre le gré du propriétaire,
 du détenteur ou du titulaire du certificat d’immatriculation du véhicule. »
-\2. Un règlement grand-ducal détermine les exclusions du bénéfice de l’indemnisation.
-\3. Un règlement grand-ducal peut fixer les modalités et limites dans lesquelles le contrat d’assurance peut prévoir une
+2\. Un règlement grand-ducal détermine les exclusions du bénéfice de l’indemnisation.
+3\. Un règlement grand-ducal peut fixer les modalités et limites dans lesquelles le contrat d’assurance peut prévoir une
 contribution personnelle de l’assuré au règlement du dommage. Dans ce cas, l’assureur n’en demeure pas moins tenu envers
 la personne lésée au paiement de l’indemnité qui, en vertu du contrat, reste à la charge de l’assuré.
 (Loi du 21 septembre 2023)
@@ -61944,14 +61944,14 @@ la personne lésée au paiement de l’indemnité qui, en vertu du contrat, rest
 transportées a excédé celui des places inscrites sur le certificat d’immatriculation ou en cas de transport de personnes sur des
 places non inscrites. »
 Art. 8.
-\1. On ne peut déroger, par convention entre particuliers, aux dispositions de la présente loi, sauf si cette faculté résulte de
+1\. On ne peut déroger, par convention entre particuliers, aux dispositions de la présente loi, sauf si cette faculté résulte de
 la disposition même.
-\2. Un règlement grand-ducal fixe les dispositions impératives auxquelles doivent satisfaire les contrats d’assurance ainsi que
+2\. Un règlement grand-ducal fixe les dispositions impératives auxquelles doivent satisfaire les contrats d’assurance ainsi que
 les dispositions supplétives applicables à défaut de convention contraire entre parties.
 
 Chapitre 3.- Du règlement des dommages
 Art. 9.
-\1. L’assureur ou le représentant chargé du règlement des sinistres est tenu de présenter à toute personne lésée dans un
+1\. L’assureur ou le représentant chargé du règlement des sinistres est tenu de présenter à toute personne lésée dans un
 délai de trois mois à compter de la date à laquelle cette dernière a présenté sa demande d’indemnisation:
 
 soit une offre d’indemnisation motivée, dans le cas où la responsabilité n’est pas contestée et où le dommage a été
@@ -61960,28 +61960,28 @@ quantifié;
 soit une réponse motivée aux éléments invoqués dans la demande dans les cas où la responsabilité est rejetée ou n’a
 pas été clairement établie ou lorsque le dommage n’a pas été entièrement quantifié.
 
-\2. La personne lésée doit adresser sa demande d’indemnisation à l’assureur ou au représentant chargé du règlement des
+2\. La personne lésée doit adresser sa demande d’indemnisation à l’assureur ou au représentant chargé du règlement des
 sinistres dans une des langues officielles du Grand-Duché de Luxembourg. L’assureur ou le représentant chargé du règlement
 des sinistres doit formuler son offre d’indemnisation ou sa réponse motivée telles que visées au point 1 dans la même langue
 que celle dans laquelle la demande d’indemnisation lui a été adressée.
 Art. 10.
-\1. Dans le cas où la responsabilité n’est pas contestée et que le dommage a été quantifié et à défaut par l’entreprise d’assurances ou son représentant chargé du règlement des sinistres d’avoir présenté une offre dans le délai de trois mois à compter
+1\. Dans le cas où la responsabilité n’est pas contestée et que le dommage a été quantifié et à défaut par l’entreprise d’assurances ou son représentant chargé du règlement des sinistres d’avoir présenté une offre dans le délai de trois mois à compter
 de la date à laquelle la demande d’indemnisation lui a été présentée, des intérêts au taux d’intérêt légal luxembourgeois sont
 dus de plein droit dès l’expiration du délai de trois mois sur le montant de l’indemnisation offerte ou octroyée par le juge à la
 personne lésée.
-\2. Dans les cas où la responsabilité est rejetée ou n’a pas été clairement établie ou lorsque le dommage n’a pas été entièrement quantifié et à défaut par l’entreprise d’assurances ou son représentant chargé du règlement des sinistres d’avoir donné
+2\. Dans les cas où la responsabilité est rejetée ou n’a pas été clairement établie ou lorsque le dommage n’a pas été entièrement quantifié et à défaut par l’entreprise d’assurances ou son représentant chargé du règlement des sinistres d’avoir donné
 une réponse motivée dans le délai de trois mois à compter de la date à laquelle la demande d’indemnisation lui a été présentée,
 toute personne lésée résidant au Grand-Duché de Luxembourg est en droit de présenter sa demande d’indemnisation au « FGA »1.
-\3. A défaut par une entreprise d’assurances non établie au Grand-Duché de Luxembourg d’avoir désigné un représentant
+3\. A défaut par une entreprise d’assurances non établie au Grand-Duché de Luxembourg d’avoir désigné un représentant
 chargé du règlement des sinistres, toute personne lésée résidant au Grand-Duché de Luxembourg est en droit de présenter sa
 demande d’indemnisation directement au « FGA »1.
 Ce droit lui est refusé si elle a présenté une demande d’indemnisation directement à l’entreprise d’assurances non établie
 au Grand-Duché de Luxembourg et que celle-ci lui ait présenté une offre d’indemnisation ou une réponse motivée dans un délai
 de trois mois à compter de la présentation de la demande.
-\4. Les personnes lésées ne peuvent pas présenter une demande d’indemnisation au « FGA »1 si elles ont engagé une action
+4\. Les personnes lésées ne peuvent pas présenter une demande d’indemnisation au « FGA »1 si elles ont engagé une action
 en justice directement à l’encontre de l’entreprise d’assurances ayant assuré la responsabilité civile du véhicule ayant causé
 l’accident.
-\5. Le « FGA »1 intervient dans un délai de deux mois à compter de la date à laquelle la personne lésée lui a présenté une
+5\. Le « FGA »1 intervient dans un délai de deux mois à compter de la date à laquelle la personne lésée lui a présenté une
 demande d’indemnisation, mais cesse d’intervenir si l’entreprise d’assurances ou son représentant chargé du règlement des
 sinistres a, par la suite, donné une réponse motivée à la demande.
 
@@ -62007,9 +62007,9 @@ précitée du 14 février 1955, quelle que soit leur cause, doivent être notifi
 automobile des véhicules routiers visée à l’article 4, paragraphe 7, alinéa 4, de la loi précitée du 14 février 1955 par la Société
 Nationale de Circulation Automobile, en abrégé « SNCA », agissant pour le compte du ministre ayant les Transports dans ses
 attributions conformément à l’article 4, paragraphe 7, de la loi précitée du 14 février 1955. »
-\2. Les obligations de l’entreprise d’assurances autorisée à l’égard de la personne lésée subsistent pour les sinistres survenus avant l’expiration d’un délai de seize jours suivant la notification prévue au paragraphe précédent; ce délai ne peut prendre
+2\. Les obligations de l’entreprise d’assurances autorisée à l’égard de la personne lésée subsistent pour les sinistres survenus avant l’expiration d’un délai de seize jours suivant la notification prévue au paragraphe précédent; ce délai ne peut prendre
 cours avant le jour qui suit la fin du contrat ou de la garantie.
-\3. Toutefois, ces obligations cessent de plein droit, sans notification, en ce qui concerne les sinistres survenant:
+3\. Toutefois, ces obligations cessent de plein droit, sans notification, en ce qui concerne les sinistres survenant:
 
 après l’entrée en vigueur d’une nouvelle assurance couvrant le même risque;
 
@@ -62020,7 +62020,7 @@ après l’expiration du terme pour lequel a été émis un certificat internati
 par le Bureau, conformément à l’article 2 point 2 est subordonnée à l’existence de ce certificat.
 
 Art. 13.
-\1. Par dérogation aux dispositions de l’article précédent, en cas « changement de titulaire du certificat d’immatriculation »1,
+1\. Par dérogation aux dispositions de l’article précédent, en cas « changement de titulaire du certificat d’immatriculation »1,
 les stipulations du contrat qui ont pour objet de mettre fin à l’assurance par « ce changement »1 sont opposables à la personne
 lésée.
 (Loi du 21 septembre 2023)
@@ -62050,7 +62050,7 @@ Remplacé par la loi du 29 mars 2024.
 CODE DE LA ROUTE – Assurances
 Art. 16.
 Le « FGA »1 a pour mission, dans les limites et aux conditions déterminées par règlement grand-ducal:
-1.
+1\.
 
 de réparer les préjudices causés par un véhicule non identifié:
 
@@ -62062,7 +62062,7 @@ ou
 autre que le Grand-Duché de Luxembourg;
 
 (Loi du 1er juin 2007)
-2.
+2\.
 
 «de réparer les préjudices résultant d’un accident dont la responsabilité civile à laquelle il donne lieu n’est couverte
 ni par une assurance conforme à la présente loi « , y compris les véhicules qui sont retirés temporairement ou définitivement de la circulation, »2 ni par un bureau national d’assurance au sens de « l’article 1er, point 3), de la directive
@@ -62083,7 +62083,7 @@ par un véhicule dont le Grand-Duché de Luxembourg est l’Etat de situation du
 2-1.	 de réparer les préjudices résultant d’un accident causé au Grand-Duché de Luxembourg par un véhicule exempté de
 l’obligation d’assurance en vertu de l’article 4 (. . .)3 du règlement grand-ducal du 11 novembre 2003 pris en exécution
 de la présente loi ou de « l’article 5, paragraphe 2, de la directive 2009/103/CE ; »1»
-3.
+3\.
 
 de réparer les préjudices causés à une personne lésée résidant au Grand-Duché du fait d’un accident:
 
@@ -62096,11 +62096,11 @@ survenu sur le territoire d’un Etat membre ou d’un pays tiers adhérant au s
 
 à condition que l’entreprise d’assurances couvrant la responsabilité civile de ce véhicule n’a pas pu être identifiée dans
 un délai de deux mois après l’accident;
-4.
+4\.
 
 (supprimé par la loi du 29 mars 2024)
 
-5.
+5\.
 
 de prendre en charge l’indemnisation d’une personne lésée résidant au Grand-Duché de Luxembourg du fait d’un
 accident causé sur le territoire de l’Union Européenne ou d’un pays tiers adhérant au système de la carte verte par un
@@ -62132,7 +62132,7 @@ Toutefois, la personne lésée n’est pas indemnisée si elle a conduit elle-m�
 terrestre automoteur ou si l’accident résulte de sa faute intentionnelle.
 Les modalités d’application du présent point sont déterminées par règlement grand-ducal.»
 (Loi du 1er juin 2007)
-6.
+6\.
 
 «d’informer sur demande, et sans délai toute personne impliquée dans un accident causé par la circulation d’un véhicule ayant son stationnement habituel sur le territoire d’un Etat membre et survenu au cours des sept dernières années:
 a) du nom et de l’adresse de l’entreprise d’assurances du véhicule ayant causé l’accident,
@@ -62190,11 +62190,11 @@ Art. 22.
 «1. Tout sinistre devant donner lieu à l’intervention du « FGA »1 conformément aux points 1, 2, « 2-1, »2 3 (. . .)3 et 5bis de
 l’article 16 de la présente loi doit lui être dénoncé dans les trois ans, à peine de forclusion, à moins que la personne lésée ne
 prouve qu’elle a été dans l’impossibilité physique ou morale de faire cette dénonciation dans le délai prescrit.»
-\2. Toute action récursoire du « FGA »1 sera prescrite après trois ans à compter du règlement effectué par le Fonds en conformité des dispositions de la présente loi.
-\3. Dans les affaires portées devant les juridictions répressives, le ministère public est tenu d’informer le « FGA »1 de l’ouverture de l’instruction, de l’inviter à prendre inspection des dossiers dès la clôture de l’instruction et de lui faire tenir une copie de
+2\. Toute action récursoire du « FGA »1 sera prescrite après trois ans à compter du règlement effectué par le Fonds en conformité des dispositions de la présente loi.
+3\. Dans les affaires portées devant les juridictions répressives, le ministère public est tenu d’informer le « FGA »1 de l’ouverture de l’instruction, de l’inviter à prendre inspection des dossiers dès la clôture de l’instruction et de lui faire tenir une copie de
 la citation à l’audience notifiée aux prévenus.
 Art. 23.
-\1. Toute entreprise d’assurances autorisée membre du « FGA »1 est tenue de fournir les informations dont le contenu et les
+1\. Toute entreprise d’assurances autorisée membre du « FGA »1 est tenue de fournir les informations dont le contenu et les
 modalités sont fixés par règlement grand-ducal au gestionnaire de la banque de données des véhicules routiers et de leurs
 propriétaires et détenteurs.
 Ces informations doivent être conservées par le gestionnaire de cette banque de données pendant une période à déterminer
@@ -62207,14 +62207,14 @@ h) de la loi modifiée du 7 décembre 2015 sur le secteur des assurances. »
 « Partie IIIbis - Le Fonds d’insolvabilité en assurance automobile
 
 Article 23-1
-\1.	 Il est créé un organisme sous le statut juridique d’un établissement public dénommé Fonds d’insolvabilité en assurance
+1\.	 Il est créé un organisme sous le statut juridique d’un établissement public dénommé Fonds d’insolvabilité en assurance
 automobile, désigné ci-après « FIAA », auquel les entreprises d’assurances de droit luxembourgeois, telles que définies
 à l’article 1er, lettre r), sont tenues d’adhérer (ci-après, « entreprises adhérentes »). Le FIAA est doté de la personnalité
 juridique et est placé sous la tutelle du ministre ayant le secteur des assurances dans ses attributions. Il a son siège à
 Luxembourg.
 Le FIAA constitue, au Grand-Duché de Luxembourg, l’organisme visé à l’article 10bis, paragraphe 1er, et à l’article 25bis,
 paragraphe 1er, de la directive 2009/103/CE.
-\2.	 Les avoirs du FIAA visés à l’article 23-4 détenus en espèces sont placés sur des comptes auprès de la Banque centrale
+2\.	 Les avoirs du FIAA visés à l’article 23-4 détenus en espèces sont placés sur des comptes auprès de la Banque centrale
 du Luxembourg ouverts au nom du FIAA.
 
 Article 23-2
@@ -62255,7 +62255,7 @@ d)
 de collecter les contributions dues par les entreprises adhérentes et de gérer les moyens financiers visés à l’article 23-4.
 
 Article 23-3
-\1.	 L’organe du FIAA est le comité de direction.
+1\.	 L’organe du FIAA est le comité de direction.
 Le comité de direction est composé des membres effectifs et suppléants suivants :
 a) Un membre effectif et un membre suppléant nommés parmi la direction du CAA par le Gouvernement en conseil sur
 proposition du ministre ayant le secteur des assurances dans ses attributions ;
@@ -62276,50 +62276,50 @@ de sa nomination.
 (Loi du 20 décembre 2024)
 « Les membres du comité de direction perçoivent une indemnité à charge du FIAA, dont le montant est fixé par règlement
 grand-ducal. »
-\2.	 Sans préjudice du paragraphe 10, le comité de direction ne peut délibérer que si les membres effectifs ou leur suppléant
+2\.	 Sans préjudice du paragraphe 10, le comité de direction ne peut délibérer que si les membres effectifs ou leur suppléant
 sont présents. Les décisions sont prises à la majorité des voix exprimées. Chaque membre dispose d’une voix. En cas
 de partage des votes, la voix du président est prépondérante.
-\3.	 Le secrétariat est assuré par un agent du CAA, désigné par la direction du CAA.
+3\.	 Le secrétariat est assuré par un agent du CAA, désigné par la direction du CAA.
 Le CAA assiste le comité de direction dans l’exercice de ses missions. À cet effet, le FIAA et le CAA collaborent étroitement et s’échangent les informations nécessaires dans le cadre des missions visées à l’article 23-2.
 Dans le cadre de ses missions visées à l’article 23-2, le FIAA peut faire appel à des experts et conseillers externes.
 Le FIAA et le FGA collaborent étroitement entre eux dans le cadre de la mission visée à l’article 23-2, lettre c).
-\4.	 Le comité de direction détermine la politique d’investissement du FIAA en conformité avec les principes d’une gestion
+4\.	 Le comité de direction détermine la politique d’investissement du FIAA en conformité avec les principes d’une gestion
 saine et prudente. À cette fin, il peut se faire assister par des experts et conseillers externes. Le comité de direction
 veille à ce que dans le cadre de la politique d’investissement, les moyens financiers visés à l’article 23-4 fassent l’objet
 d’investissements peu risqués et suffisamment diversifiés.
-\5.	 Le comité de direction adresse chaque année au Gouvernement en conseil et à la Chambre des Députés, pour le 30
+5\.	 Le comité de direction adresse chaque année au Gouvernement en conseil et à la Chambre des Députés, pour le 30
 avril au plus tard, le rapport d’activités de l’année écoulée.
-\6.	 Le comité de direction nomme un réviseur d’entreprises agréé. Il est nommé pour une période de trois années. Sa nomination est renouvelable. Sa rémunération est à charge du FIAA.
+6\.	 Le comité de direction nomme un réviseur d’entreprises agréé. Il est nommé pour une période de trois années. Sa nomination est renouvelable. Sa rémunération est à charge du FIAA.
 Le réviseur d’entreprises agréé a pour mission de vérifier et de certifier les comptes du FIAA. Il dresse, à l’intention du
 comité de direction et du Gouvernement un rapport détaillé sur les comptes du FIAA à la clôture de l’exercice financier.
 Il peut être chargé par le comité de direction de procéder à des vérifications spécifiques. L’exercice financier du FIAA
 coïncide avec l’année civile.
-\7.	 Toutes les personnes appelées à recevoir ou à donner des informations dans le cadre des missions incombant au FIAA
+7\.	 Toutes les personnes appelées à recevoir ou à donner des informations dans le cadre des missions incombant au FIAA
 prévues à l’article 23-2, sont tenues au secret professionnel, selon les règles et conditions prévues par l’article 7, alinéa
 1er, de la loi modifiée du 7 décembre 2015 sur le secteur des assurances.
 En dehors des communications que le FIAA décide de rendre officielles, les membres du FIAA, leurs suppléants et toute
 autre personne appelée à assister aux réunions du FIAA sont tenus au secret des délibérations.
-\8.	 Le comité de direction se dote d’un règlement d’ordre intérieur soumis à l’approbation du ministre ayant le secteur des
+8\.	 Le comité de direction se dote d’un règlement d’ordre intérieur soumis à l’approbation du ministre ayant le secteur des
 assurances dans ses attributions.
 
 \- 946 -
 
 CODE DE LA ROUTE – Assurances
 Le comité de direction tient compte, pour les décisions prises conformément à la présente partie, de l’incidence potentielle des décisions sur la stabilité financière.
-\9.	 Le FIAA ne peut être engagé que par la signature conjointe des membres visés au paragraphe 1er, lettres a) et b), en
+9\.	 Le FIAA ne peut être engagé que par la signature conjointe des membres visés au paragraphe 1er, lettres a) et b), en
 leur qualité de membre du comité de direction.
-\10.	 Un membre qui, dans l’exercice de ses fonctions est amené à se prononcer sur une affaire dans laquelle il peut avoir un
+10\.	 Un membre qui, dans l’exercice de ses fonctions est amené à se prononcer sur une affaire dans laquelle il peut avoir un
 intérêt personnel, direct ou indirect, de nature à compromettre son indépendance, en informe le comité de direction du
 FIAA et ne prend part ni à la délibération, ni à la décision en question.
 Pour que la responsabilité civile du FIAA pour des dommages individuels puisse être engagée, il doit être prouvé que le
 dommage a été causé par une négligence grave dans le choix et l’application des moyens mis en œuvre pour l’accomplissement de la mission de service public du FIAA.
 L’alinéa 2 s’applique également aux membres du comité de direction, qui ne sont responsables que collectivement,
 lorsque ces derniers exercent une mission de service public en représentant le FIAA.
-\11.	 Le FIAA est exempt de tous droits, impôts et taxes au profit de l’État et des communes, à l’exception de la taxe sur la
+11\.	 Le FIAA est exempt de tous droits, impôts et taxes au profit de l’État et des communes, à l’exception de la taxe sur la
 valeur ajoutée.
 
 Article 23-4
-\1.	 Le FIAA dispose de moyens financiers suffisants, utilisés pour répondre aux missions qui incombent au FIAA selon
+1\.	 Le FIAA dispose de moyens financiers suffisants, utilisés pour répondre aux missions qui incombent au FIAA selon
 l’article 23-2, lettres a) et b).
 À cet effet, les entreprises adhérentes sont tenues de contribuer au FIAA les sommes nécessaires pour indemniser les
 personnes lésées au titre de l’article 23-2, lettre a), et pour rembourser l’organisme équivalent d’un autre État membre
@@ -62329,7 +62329,7 @@ biais de mécanismes de financement appropriés additionnels visés au paragraph
 Le FIAA peut se doter de couvertures d’assurance ou de réassurance.
 Le comité de direction veille à ce que le FIAA dispose de mécanismes adéquats pour déterminer ses engagements
 éventuels, pouvant notamment découler de l’article 23-2, lettres a) et b).
-\2.	 Toute entreprise adhérente contribue annuellement, par rapport au dernier exercice clôturé au moment de l’appel de
+2\.	 Toute entreprise adhérente contribue annuellement, par rapport au dernier exercice clôturé au moment de l’appel de
 fonds, le plus élevé des montants obtenus par application des formules suivantes :
 a) 0,5 pour cent de ses primes émises, brutes de réassurance, dans la branche d’assurances de la responsabilité civile
 véhicules terrestres automoteurs, nettes d’annulation ; et
@@ -62338,27 +62338,27 @@ b) 0,125 pour cent de ses provisions pour sinistres, telles que définies à l�
 réassurance, dans la branche d’assurances de la responsabilité civile véhicules terrestres automoteurs.
 Le CAA détermine le montant de la contribution annuelle pour chaque entreprise adhérente et transmet ce montant ainsi
 que le détail du calcul au comité de direction du FIAA, qui fait les appels de fonds.
-\3.	 Si les contributions collectées suivant les modalités visées au paragraphe 2 sont insuffisantes pour répondre aux engagements du FIAA, les entreprises adhérentes s’acquittent de contributions supplémentaires.
+3\.	 Si les contributions collectées suivant les modalités visées au paragraphe 2 sont insuffisantes pour répondre aux engagements du FIAA, les entreprises adhérentes s’acquittent de contributions supplémentaires.
 Ces contributions supplémentaires sont calculées en fonction des primes émises, brutes de réassurance, nettes d’annulation, ou des provisions pour sinistres, brutes de réassurance dans la branche d’assurances de la responsabilité civile
 véhicules terrestres automoteurs et se rapportant au dernier exercice clôturé au moment de l’appel de fonds.
 Le CAA détermine le montant de la contribution supplémentaire pour chaque entreprise adhérente et transmet ce montant ainsi que le détail du calcul au comité de direction du FIAA, qui fait les appels de fonds.
-\4.	 Lorsque le montant de la contribution supplémentaire risque de compromettre la liquidité ou la couverture du capital de
+4\.	 Lorsque le montant de la contribution supplémentaire risque de compromettre la liquidité ou la couverture du capital de
 solvabilité requis, tel que visé à l’article 105 de la loi modifiée du 7 décembre 2015 sur le secteur des assurances, le
 CAA peut, sur demande valablement justifiée par l’entreprise adhérente, différer entièrement ou partiellement le versement de cette contribution. Ce report n’est pas accordé pour une durée de plus de six mois, mais peut être renouvelé à
 la demande de l’entreprise adhérente.
 Les contributions différées en vertu de l’alinéa 1er sont versées lorsque le CAA considère que ce paiement ne compromet plus la liquidité ni la couverture du capital de solvabilité requis de l’entreprise adhérente.
-\5.	 Le FIAA peut se doter de mécanismes de financement additionnels, notamment un financement par emprunt. Il peut
+5\.	 Le FIAA peut se doter de mécanismes de financement additionnels, notamment un financement par emprunt. Il peut
 également se doter de mécanismes lui permettant, d’obtenir, à brève échéance, des fonds afin d’honorer ses engagements. À cette fin, le FIAA peut notamment contracter des lignes de crédit.
-\6.	 Les entreprises adhérentes du FIAA versent les contributions visées au présent article sur les comptes du FIAA, visés
+6\.	 Les entreprises adhérentes du FIAA versent les contributions visées au présent article sur les comptes du FIAA, visés
 à l’article 23-1, paragraphe 2.
-\7.	 Toute somme due en exécution du présent article, non payée au plus tard un mois après la demande de paiement
+7\.	 Toute somme due en exécution du présent article, non payée au plus tard un mois après la demande de paiement
 adressée par le FIAA à l’entreprise adhérente, produit des intérêts au taux d’intérêt légal luxembourgeois, à dater de
 cette demande.
 
 \- 947 -
 
 CODE DE LA ROUTE – Assurances
-8.
+8\.
 
 Le FIAA est autorisé à prélever des contributions administratives, proportionnelles aux primes émises, brutes de réassurance, dans la branche d’assurances de la responsabilité civile véhicules terrestres automoteurs, nettes d’annulations,
 par rapport au dernier exercice clôturé au moment de l’appel de fonds, auprès des entreprises adhérentes, afin de
@@ -62377,7 +62377,7 @@ sinistres, leurs administrateurs ou liquidateurs tels que définis respectivemen
 et f), de la directive 2009/138/CE, et les autorités nationales compétentes impliquées.
 
 Article 23-6
-\1.	 Dans la demande d’indemnisation, adressée au FIAA, la personne lésée indique dans la mesure du possible :
+1\.	 Dans la demande d’indemnisation, adressée au FIAA, la personne lésée indique dans la mesure du possible :
 a) la date et le lieu de l’accident ;
 b) le nom de l’entreprise d’assurances assurant l’auteur de l’accident et, le cas échéant, le nom de l’entreprise d’assurances assurant la personne civilement responsable ;
 c) tout élément prouvant que l’entreprise d’assurances fait l’objet d’une procédure visée sous l’article 23-2, lettre a),
@@ -62406,14 +62406,14 @@ l)
 
 tout autre élément ou fait pertinent en la possession de la personne lésée.
 
-\2.	 Dès réception d’une demande d’indemnisation de la personne lésée, le FIAA informe :
+2\.	 Dès réception d’une demande d’indemnisation de la personne lésée, le FIAA informe :
 a) l’organisme équivalent du FIAA de l’État membre d’origine de l’entreprise d’assurances concernée faisant l’objet
 d’une procédure de faillite ou d’une procédure de liquidation au sens de l’article 268, paragraphe 1er, lettre d), de la
 directive 2009/138/CE ;
 b) l’entreprise d’assurances concernée, ou son administrateur ou liquidateur ; et le cas échéant
 c) le FGA, dans son rôle d’organisme d’information selon l’article 23 de la directive 2009/103/CE et tout organisme
 équivalent de l’État membre d’origine de l’entreprise d’assurances concernée.
-\3.	 Le FIAA présente à la personne lésée dans un délai de trois mois à compter de la date à laquelle cette dernière a
+3\.	 Le FIAA présente à la personne lésée dans un délai de trois mois à compter de la date à laquelle cette dernière a
 présenté une demande d’indemnisation telle que visée au paragraphe 1er :
 a) soit une offre d’indemnisation motivée, dans le cas où la responsabilité n’est pas contestée et où le dommage a été
 quantifié partiellement ou entièrement ;
@@ -62423,7 +62423,7 @@ La décision relative à l’indemnisation peut faire l’objet d’un recours p
 la décision du FIAA. En cas de rejet total ou partiel de la réclamation, un recours en réformation contre la décision du
 FIAA peut être introduit devant le tribunal administratif endéans trois mois à compter de la notification de la décision du
 FIAA.
-\4.	 Le FIAA indemnise la personne lésée dans un délai de trois mois à compter de l’acceptation par la personne lésée de
+4\.	 Le FIAA indemnise la personne lésée dans un délai de trois mois à compter de l’acceptation par la personne lésée de
 l’offre d’indemnisation motivée visée au paragraphe 3, lettre a). Le FIAA n’est pas en droit de subordonner le paiement
 
 \- 948 -
@@ -62431,7 +62431,7 @@ l’offre d’indemnisation motivée visée au paragraphe 3, lettre a). Le FIAA 
 CODE DE LA ROUTE – Assurances
 de l’indemnisation à d’autres exigences que celles établies dans la présente loi, ni à l’exigence que la personne lésée
 établisse que la personne morale ou physique responsable n’est pas en mesure ou refuse de payer.
-\5.	 La personne lésée qui est en droit d’être indemnisée des suites d’un accident par un organisme de la sécurité sociale
+5\.	 La personne lésée qui est en droit d’être indemnisée des suites d’un accident par un organisme de la sécurité sociale
 ou par son employeur, en vertu de dispositions légales, ne peut faire valoir de prétentions à l’égard du FIAA que dans la
 mesure où ses droits contre l’auteur responsable ne passent pas à l’organisme de la sécurité sociale en question ou à
 l’employeur.
@@ -62441,7 +62441,7 @@ Si, en vertu d’une assurance dommage ou de responsabilité, des indemnités so
 n’est tenu qu’au paiement de la différence entre le montant total du dommage et les indemnités allouées.
 Les assureurs dommages ou de responsabilité n’ont aucun droit de subrogation contre le FIAA pour le dommage qu’ils
 ont pris en charge.
-\6.	 Toute demande d’indemnisation visée au paragraphe 1er devant donner lieu à l’intervention du FIAA conformément à
+6\.	 Toute demande d’indemnisation visée au paragraphe 1er devant donner lieu à l’intervention du FIAA conformément à
 l’article 23-2, lettre a), point i), parvient au FIAA dans les trois ans suivant l’ouverture de la procédure visée à l’article 232, lettre a), point i), sous peine de forclusion, à moins que la personne lésée ne prouve qu’elle a été dans l’impossibilité
 physique ou morale de faire la demande d’indemnisation dans le délai prescrit.
 Toute action récursoire du FIAA sera prescrite après trois ans à compter du règlement effectué par le FIAA conformément à la présente loi.
@@ -62450,17 +62450,17 @@ de l’instruction, de l’inviter à prendre inspection des dossiers dès la cl
 de la citation à l’audience notifiée aux prévenus.
 
 Article 23-7
-\1.	 Le FIAA peut être appelé en cause et a le droit d’intervenir devant les juridictions répressives, en tout état de cause et
+1\.	 Le FIAA peut être appelé en cause et a le droit d’intervenir devant les juridictions répressives, en tout état de cause et
 même en instance d’appel, aux fins de voir statuer sur les prestations auxquelles il peut être tenu.
-\2.	 Dans la mesure de ses prestations, le FIAA est subrogé à concurrence des sommes versées à titre d’indemnisation,
+2\.	 Dans la mesure de ses prestations, le FIAA est subrogé à concurrence des sommes versées à titre d’indemnisation,
 telles que visées à l’article 23-6, paragraphe 4, dans les droits de la personne lésée à l’encontre de la personne qui
 a causé l’accident ou à l’encontre de l’entreprise adhérente à l’égard de laquelle une procédure de liquidation a été
 ouverte à la requête du CAA ou du procureur d’État. Pour l’exercice de ces droits, le FIAA peut se constituer partie civile
 devant les juridictions répressives.
-\3.	 La subrogation visée au paragraphe 2 implique que les privilèges visés aux articles 118 et 119 de la loi modifiée du
+3\.	 La subrogation visée au paragraphe 2 implique que les privilèges visés aux articles 118 et 119 de la loi modifiée du
 7 décembre 2015 sur le secteur des assurances, dont bénéficie la personne lésée pour le paiement de ses créances
 d’assurance, sont transférés au FIAA.
-\4.	 Par dérogation au paragraphe 2, le FIAA n’a aucun droit de recours à l’encontre du preneur d’assurance ou de toute
+4\.	 Par dérogation au paragraphe 2, le FIAA n’a aucun droit de recours à l’encontre du preneur d’assurance ou de toute
 autre personne assurée qui a causé l’accident, dans la mesure où la responsabilité de celui-ci serait couverte par
 l’entreprise d’assurances de droit luxembourgeois à l’égard de laquelle une procédure de liquidation a été ouverte à la
 requête du CAA ou du procureur d’État.
@@ -62482,15 +62482,15 @@ PARTIE IV. - Des autres organismes
 Chapitre 1er.- Le Bureau
 
 Art. 24.
-\1. Toutes les entreprises d’assurances autorisées telles que définies à l’article 1er littera e) sont obligatoirement réunies dans
+1\. Toutes les entreprises d’assurances autorisées telles que définies à l’article 1er littera e) sont obligatoirement réunies dans
 un Bureau, qui a pour mission de régler les dommages causés au Grand-Duché de Luxembourg par des véhicules visés à
 l’article 2 point 2.
 
 \- 949 -
 
 CODE DE LA ROUTE – Assurances
-\2. Un règlement grand-ducal détermine les conditions de fonctionnement du Bureau.
-\3. Le Bureau jouit de la personnalité civile dès la publication de ses statuts au Mémorial. Il revêt la forme d’une association
+2\. Un règlement grand-ducal détermine les conditions de fonctionnement du Bureau.
+3\. Le Bureau jouit de la personnalité civile dès la publication de ses statuts au Mémorial. Il revêt la forme d’une association
 sans but lucratif et est soumis à la législation régissant les associations sans but lucratif sans préjudice des dispositions du
 point 2 ci-dessus.
 (Loi du 29 mars 2024)
@@ -62498,17 +62498,17 @@ point 2 ci-dessus.
 l’entreprise d’assurances et tout autre organisme tenu d’intervenir. Pour l’exercice de ces droits, le Bureau peut se constituer
 partie civile devant les juridictions répressives. »
 Art. 25.
-\1. Le Bureau est soumis à la surveillance du Gouvernement par l’intermédiaire d’un commissaire de gouvernement désigné
+1\. Le Bureau est soumis à la surveillance du Gouvernement par l’intermédiaire d’un commissaire de gouvernement désigné
 à cette fin.
-\2. Les entreprises d’assurances autorisées sont solidairement tenues de verser à ce Bureau les sommes nécessaires pour
+2\. Les entreprises d’assurances autorisées sont solidairement tenues de verser à ce Bureau les sommes nécessaires pour
 l’accomplissement de sa mission et pour assurer ses frais de fonctionnement.
 
 Chapitre 2.- Le pool des risques aggravés
 Art. 26.
-\1. Il est créé un organisme dénommé «le pool des risques aggravés» ayant pour objet la répartition parmi toutes les entreprises d’assurances autorisées des risques jugés trop graves pour être supportés par une seule d’entre elles. Toutes les
+1\. Il est créé un organisme dénommé «le pool des risques aggravés» ayant pour objet la répartition parmi toutes les entreprises d’assurances autorisées des risques jugés trop graves pour être supportés par une seule d’entre elles. Toutes les
 entreprises d’assurances autorisées telles que définies à l’article 1er littera e) y adhèrent obligatoirement. Les modalités de
 fonctionnement de cet organisme sont fixées par règlement grand-ducal.
-\2. Le pool des risques aggravés est soumis à la surveillance du Gouvernement par l’intermédiaire d’un commissaire de
+2\. Le pool des risques aggravés est soumis à la surveillance du Gouvernement par l’intermédiaire d’un commissaire de
 gouvernement désigné à cette fin.
 
 PARTIE V. - Des sanctions et peines
@@ -62519,7 +62519,7 @@ Art. 28.
 « 1. Le propriétaire, le détenteur du véhicule ou le titulaire du certificat d’immatriculation d’un véhicule qui le met en circulation ou tolère qu’il soit mis en circulation dans l’un des endroits prévus à l’article 2, point 1, sans que la responsabilité civile
 à laquelle il peut donner lieu soit couverte conformément à la présente loi, ainsi que le conducteur de ce véhicule, sont punis
 d’un emprisonnement de huit jours à trois ans et d’une amende de 500 à 10°000 euros, ou d’une de ces peines seulement. »
-\2. Est puni des peines prévues au point 1 quiconque organise des courses ou concours de vitesse, de régularité ou d’adresse
+2\. Est puni des peines prévues au point 1 quiconque organise des courses ou concours de vitesse, de régularité ou d’adresse
 ou y participe, sans être couvert par l’assurance spéciale prévue à l’article 32.
 Art. 29.
 Les articles 13, 14 et 16 de la loi modifiée du 14 février 1955 « précitée »2 sont applicables aux infractions prévues à l’article
@@ -62604,19 +62604,19 @@ d’indemnisation par le FGA ou le cas échéant par des organismes équivalents
 Partie VII. - Dispositions transitoires et abrogatoires
 
 Art. 33.
-\1. Les demandes d’indemnisation adressées au « FGA »1 résultant d’un accident survenu avant l’entrée en vigueur de la
+1\. Les demandes d’indemnisation adressées au « FGA »1 résultant d’un accident survenu avant l’entrée en vigueur de la
 présente loi continuent à être régies par les dispositions de la loi modifiée du 16 décembre 1963 portant création d’un Fonds
 commun de garantie automobile.
-\2. L’obligation d’information incombant au « FGA »1 en vertu de l’article 16 point 6 ne s’applique qu’aux accidents survenus
+2\. L’obligation d’information incombant au « FGA »1 en vertu de l’article 16 point 6 ne s’applique qu’aux accidents survenus
 après l’entrée en vigueur de la présente loi.
 (Loi du 29 mars 2024)
 « 3. Le FIAA exerce les missions visées à l’article 23-2, lettres a), b) et d), à partir du 23 décembre 2023.
-\4. Le FIAA fait le premier appel de la contribution financière visée à l’article 23-4, paragraphe 2, sur la base de l’exercice
+4\. Le FIAA fait le premier appel de la contribution financière visée à l’article 23-4, paragraphe 2, sur la base de l’exercice
 clôturé de 2023. »
 Art. 34.
-\1. Sans préjudice des dispositions de l’article 33 point 1, la loi du 16 décembre 1963 portant création d’un Fonds commun
+1\. Sans préjudice des dispositions de l’article 33 point 1, la loi du 16 décembre 1963 portant création d’un Fonds commun
 de garantie automobile est abrogée.
-\2. La loi du 7 avril 1976 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs est
+2\. La loi du 7 avril 1976 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs est
 abrogée.
 Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la
 chose concerne.
@@ -62651,9 +62651,9 @@ L’assurance doit être valable dans tous les pays dont les bureaux nationaux s
 à l’article 1er lettre g) de la loi R.C. Autos sur base de l’accord conclu en date du 30 mai 2002 entre les bureaux nationaux d’assurances des Etats membres de l’Espace économique européen et d’autres Etats associés et ses modifications subséquentes.
 (Règl. g.-d. du 8 juin 2007)
 «Art. 3-1.
-\1. La garantie doit être illimitée « pour les dommages corporels et peut être limitée à un montant total maximal de deux cent
+1\. La garantie doit être illimitée « pour les dommages corporels et peut être limitée à un montant total maximal de deux cent
 cinquante millions d’euros par sinistre pour les dommages matériels »1.
-\2. La garantie peut être limitée à douze millions cinq cent mille euros pour des dommages résultant d’actes de terrorisme
+2\. La garantie peut être limitée à douze millions cinq cent mille euros pour des dommages résultant d’actes de terrorisme
 ou des dommages qui découlent de la participation du véhicule à des courses et concours ainsi qu’aux essais préparatoires à
 ces courses et concours; les exercices de vitesse, de régularité ou d’adresse même autorisés sont assimilés à des courses ou
 concours.»
@@ -62693,14 +62693,14 @@ Est interdite toute clause contenue dans un contrat d’assurance qui aurait pou
 
 de limiter les garanties accordées à des montants inférieurs aux garanties exigées par le présent règlement;»
 
-\2.	 de prévoir des restrictions quant aux personnes couvertes par le contrat hors les cas prévus par la loi ou le présent
+2\.	 de prévoir des restrictions quant aux personnes couvertes par le contrat hors les cas prévus par la loi ou le présent
 règlement;
-\3.	 d’étendre les cas de non assurance ou d’exclusions d’assurance à des cas non prévus par la loi ou le présent règlement.
+3\.	 d’étendre les cas de non assurance ou d’exclusions d’assurance à des cas non prévus par la loi ou le présent règlement.
 
 Chapitre 3.- Des recours, des exclusions et des franchises
 
 Art. 6.
-\1. Est interdite toute clause contenue dans un contrat d’assurance prévoyant des actions récursoires autres que celles énumérées ci-dessous, sous réserve des actions récursoires prévues spécifiquement par d’autres articles du présent règlement:
+1\. Est interdite toute clause contenue dans un contrat d’assurance prévoyant des actions récursoires autres que celles énumérées ci-dessous, sous réserve des actions récursoires prévues spécifiquement par d’autres articles du présent règlement:
 
 les recours prévus par l’article 7 point 4 de la loi R.C. Autos;
 
@@ -62736,15 +62736,15 @@ lieu de l’accident;
 
 les recours qu’une entreprise d’assurances peut exercer dans les cas d’un sinistre causé intentionnellement.
 
-\2. L’entreprise d’assurances ne peut exercer une action récursoire que si cette action est expressément prévue au contrat.
+2\. L’entreprise d’assurances ne peut exercer une action récursoire que si cette action est expressément prévue au contrat.
 L’action récursoire que l’entreprise d’assurances est en droit d’exercer en vertu d’un contrat valable en vigueur au jour du
 sinistre est limitée à un montant maximum de 3.000 euros par sinistre, lorsqu’elle est exercée contre une personne physique.
 Cette limitation n’est pas applicable en cas d’action récursoire exercée en application de l’article 9 points 1, 6 et 7 ainsi qu’en
 cas de sinistre occasionné intentionnellement.
 Art. 7.
-\1. Le nombre de places assurées doit correspondre au nombre de places inscrites sur la carte d’immatriculation.
+1\. Le nombre de places assurées doit correspondre au nombre de places inscrites sur la carte d’immatriculation.
 La détermination du nombre des personnes transportées se fera conformément aux dispositions de la législation sur la circulation routière. Le conducteur est compris dans le nombre de personnes transportées.
-\2. En cas de transport de personnes
+2\. En cas de transport de personnes
 
 à l’intérieur d’un véhicule destiné au transport de personnes
 
@@ -62758,33 +62758,33 @@ Modifié par le règlement grand-ducal du 21 décembre 2012.
 \- 954 -
 
 CODE DE LA ROUTE – Assurances
-\3. Au regard du surnombre et de la non-assurance proportionnelle, les places avant et les places arrière doivent être considérées séparément.
+3\. Au regard du surnombre et de la non-assurance proportionnelle, les places avant et les places arrière doivent être considérées séparément.
 En cas de transport de personnes occupant des places non inscrites sur la carte d’immatriculation il y a non-assurance à
 l’égard de ces personnes.
-\4. La non-assurance est toujours inopposable aux personnes transportées et à leurs ayants droit.
-\5. L’assureur garde, dans les limites prévues à l’article 6 point 2, un droit de recours contre l’assuré.
+4\. La non-assurance est toujours inopposable aux personnes transportées et à leurs ayants droit.
+5\. L’assureur garde, dans les limites prévues à l’article 6 point 2, un droit de recours contre l’assuré.
 Art. 8.
 Sont exclus du bénéfice de l’indemnisation:
-\1.	 Tout assuré dont la responsabilité est engagée dans la survenance du sinistre.
-\2.	 Les auteurs, co-auteurs et complices de vol du véhicule ayant occasionné le dommage.
-\3.	 Les personnes ayant de leur plein gré pris place dans le véhicule ayant occasionné le dommage, lorsque l’assureur peut
+1\.	 Tout assuré dont la responsabilité est engagée dans la survenance du sinistre.
+2\.	 Les auteurs, co-auteurs et complices de vol du véhicule ayant occasionné le dommage.
+3\.	 Les personnes ayant de leur plein gré pris place dans le véhicule ayant occasionné le dommage, lorsque l’assureur peut
 prouver qu’elles savaient que le véhicule était volé.
 Art. 9.
 Peuvent être exclus de l’assurance:
-1.
+1\.
 
 les dommages qui découlent de la participation du véhicule à des courses ou concours ainsi qu’aux essais préparatoires
 à ces courses et concours; les exercices de vitesse, de régularité ou d’adresse même autorisés sont assimilés à des
 courses et concours;
 
-\2.	 les dommages matériels subis par:
+2\.	 les dommages matériels subis par:
 (Règl. g.-d. du 21 septembre 2023)
 « a) le preneur d’assurance, le propriétaire, le détenteur, le titulaire du certificat d’immatriculation et le conducteur du
 véhicule ayant occasionné le dommage ; »
 b) le conjoint des personnes visées à l’article 8;
 c) les parents et alliés en ligne directe de ces mêmes personnes à la double condition qu’ils habitent sous leur toit et
 soient entretenus de leurs deniers.
-\3.	 les dommages causés lorsque le conducteur n’est pas titulaire du permis de conduire valable, prescrit par la réglementation afférente. Lorsque le conducteur a omis de faire renouveler conformément aux prescriptions légales la validité de
+3\.	 les dommages causés lorsque le conducteur n’est pas titulaire du permis de conduire valable, prescrit par la réglementation afférente. Lorsque le conducteur a omis de faire renouveler conformément aux prescriptions légales la validité de
 son permis, cette exclusion sera inapplicable si le permis de conduire ainsi périmé fut valable pour le genre de véhicule
 conduit au moment du sinistre.
 Le permis est néanmoins considéré comme valable:
@@ -62801,14 +62801,14 @@ de l’Union Européenne.
 
 L’interdiction judiciaire de conduire ainsi que le retrait ou la suspension du permis de conduire résultant d’une décision
 administrative de même que l’inobservation des restrictions (par exemple: «seulement valable pour véhicule spécialement aménagé en raison d’une infirmité») ou des conditions (par exemple: «seulement valable avec verres correcteurs») inscrites sur le permis de conduire équivalent à l’absence d’un permis de conduire valable.
-\4.	 les dommages causés par les conducteurs qui sont candidats au permis de conduire luxembourgeois;
-\5.	 les dommages causés lorsque le véhicule a été donné en location;
-\6.	 les dommages causés par les véhicules transportant des matières inflammables, corrosives, explosives ou comburantes, si lesdites matières sont intervenues soit dans la cause, soit dans la gravité du sinistre. Dans ce cas, il est cependant admis une tolérance de 500 kilogrammes ou 600 litres d’huile, d’essences minérales ou de produits similaires y
+4\.	 les dommages causés par les conducteurs qui sont candidats au permis de conduire luxembourgeois;
+5\.	 les dommages causés lorsque le véhicule a été donné en location;
+6\.	 les dommages causés par les véhicules transportant des matières inflammables, corrosives, explosives ou comburantes, si lesdites matières sont intervenues soit dans la cause, soit dans la gravité du sinistre. Dans ce cas, il est cependant admis une tolérance de 500 kilogrammes ou 600 litres d’huile, d’essences minérales ou de produits similaires y
 compris carburants liquides ou gazeux nécessaires au moteur;
-\7.	 les dommages causés au cours du transport de personnes effectué contre une rémunération dépassant de façon appréciable les frais se rapportant à la mise en circulation et à l’utilisation du véhicule;
-\8.	 les dommages causés soit aux véhicules dont se sert l’assuré, soit à leur contenu, soit à des biens meubles ou immeubles dont l’assuré est propriétaire, locataire, possesseur, gardien ou détenteur;
-\9.	 les dommages qui, sans résulter de la circulation du véhicule, sont causés par le fait des marchandises et objets transportés ou par les manipulations nécessitées par le transport;
-\10.	 les recours basés sur l’article 116 du Code des Assurances Sociales contre le preneur d’assurance ou l’assuré.
+7\.	 les dommages causés au cours du transport de personnes effectué contre une rémunération dépassant de façon appréciable les frais se rapportant à la mise en circulation et à l’utilisation du véhicule;
+8\.	 les dommages causés soit aux véhicules dont se sert l’assuré, soit à leur contenu, soit à des biens meubles ou immeubles dont l’assuré est propriétaire, locataire, possesseur, gardien ou détenteur;
+9\.	 les dommages qui, sans résulter de la circulation du véhicule, sont causés par le fait des marchandises et objets transportés ou par les manipulations nécessitées par le transport;
+10\.	 les recours basés sur l’article 116 du Code des Assurances Sociales contre le preneur d’assurance ou l’assuré.
 Les exclusions prévues aux points 1 et 3 à 7 ne sont pas opposables aux personnes lésées, mais l’entreprise d’assurances
 garde un droit de recours contre le preneur d’assurance et l’assuré dans les limites prévues à l’article 6 point 2.
 
@@ -62830,15 +62830,15 @@ comme des grands risques au sens de l’article 25 lettre s) de la loi modifiée
 Chapitre 4.- De l’échelle Bonus/Malus
 (Règl. g.-d. du 19 décembre 2014)
 «Art. 11.
-\1. Lorsque le preneur d’assurance est une personne physique, le contrat d’assurance prévoit un système de personnalisation de la prime d’assurance. La prime personnalisée se compose d’une prime d’assurance de base à laquelle est appliquée
+1\. Lorsque le preneur d’assurance est une personne physique, le contrat d’assurance prévoit un système de personnalisation de la prime d’assurance. La prime personnalisée se compose d’une prime d’assurance de base à laquelle est appliquée
 l’échelle Bonus/Malus, fixée au point 4.
-\2. La prime de base de toute nouvelle couverture d’assurance est déterminée par l’entreprise d’assurances sur base de
+2\. La prime de base de toute nouvelle couverture d’assurance est déterminée par l’entreprise d’assurances sur base de
 critères de risques légitimes et librement choisis par elle.
-\3. Tout nouveau preneur d’assurance est classé au degré 11 de l’échelle Bonus/Malus, fixée au point 4.
+3\. Tout nouveau preneur d’assurance est classé au degré 11 de l’échelle Bonus/Malus, fixée au point 4.
 Est à considérer comme nouveau preneur d’assurance, toute personne physique qui souscrit pour la première fois une
 couverture d’assurance, auprès d’une entreprise d’assurances ou toute personne physique qui, tout en étant déjà preneur
 d’assurance, pour un ou plusieurs véhicules, souscrit une couverture d’assurance pour un véhicule supplémentaire.
-\4. L’échelle Bonus/Malus est fixée comme suit:
+4\. L’échelle Bonus/Malus est fixée comme suit:
 
 Degré Bonus/Malus
 
@@ -62885,7 +62885,7 @@ BONUS
 \- 956 -
 
 CODE DE LA ROUTE – Assurances
-\5. Le degré de l’échelle Bonus/Malus varie à chaque échéance anniversaire du contrat comme suit:
+5\. Le degré de l’échelle Bonus/Malus varie à chaque échéance anniversaire du contrat comme suit:
 
 l’absence de sinistre au cours d’une période d’observation, au sens du point 7, pendant laquelle l’assurance était en
 vigueur entraîne une descente d’un degré sur l’échelle Bonus/Malus, la descente se terminant au degré -3;
@@ -62897,7 +62897,7 @@ cependant le degré applicable après 4 années consécutives sans sinistre ne p
 
 L’absence ou la survenance de sinistres ne peut être prise en considération pour une modification de la prime d’assurance
 de base en cours de contrat.
-\6. Est considéré comme un sinistre, au sens du point 5, tout sinistre pour lequel l’entreprise d’assurances a payé ou doit
+6\. Est considéré comme un sinistre, au sens du point 5, tout sinistre pour lequel l’entreprise d’assurances a payé ou doit
 payer une indemnité en faveur de tiers lésés.
 Ne sont cependant pas pris en considération :
 
@@ -62908,7 +62908,7 @@ du paiement effectué par l’entreprise d’assurances;
 
 les indemnités accordées par l’entreprise d’assurances au titre de l’article 13 du présent règlement.
 
-\7. La période d’observation est constituée par les 12 mois précédant d’un mois le 1er jour du mois de l’échéance anniversaire.
+7\. La période d’observation est constituée par les 12 mois précédant d’un mois le 1er jour du mois de l’échéance anniversaire.
 L’absence de sinistre pendant cette période n’entraîne pas la descente d’un degré, si au cours de cette période l’assurance
 était en vigueur pendant moins de 10 mois.
 Toutefois, s’il est constaté à une échéance anniversaire que la descente pour absence de sinistres au cours de la période
@@ -62922,7 +62922,7 @@ s’il est constaté qu’au cours de cette seule et unique période d’observa
 interrompues, pendant 12 mois au moins, la descente d’un degré est opérée normalement à l’échéance anniversaire en
 cause.
 
-\8. Le changement de véhicule ou d’entreprise d’assurances n’a aucune incidence sur le degré Bonus/Malus.»
+8\. Le changement de véhicule ou d’entreprise d’assurances n’a aucune incidence sur le degré Bonus/Malus.»
 
 Chapitre 5.- (abrogé par le règl. g.-d. du 29 mars 2024)
 
@@ -62953,7 +62953,7 @@ rapportée que par un certificat délivré par un bureau national lié contractu
 R.C. Autos, sur base de l’accord conclu en date du 30 mai 2002 entre les bureaux nationaux d’assurances des Etats membres
 de l’Espace économique européen et d’autres Etats associés et ses modifications subséquentes.
 Art. 15.
-\1. De même, le Bureau défini à l’article 1er lettre g) de la loi R.C. Autos, se portera garant pour le règlement conformément
+1\. De même, le Bureau défini à l’article 1er lettre g) de la loi R.C. Autos, se portera garant pour le règlement conformément
 à l’article 2 de la loi précitée, des sinistres survenus sur le territoire du Grand-Duché de Luxembourg et provoqués par la circulation des véhicules:
 
 qui sont porteurs d’une plaque d’immatriculation d’un pays ayant adhéré à la section III de l’accord conclu en date du
@@ -62967,25 +62967,25 @@ qui ne sont pas immatriculés et ne portent pas un signe distinctif analogue à 
 d’assurance, mais dont le propriétaire ou détenteur a son domicile dans un des pays visés sous a) et y est soumis à
 l’obligation légale d’assurer la responsabilité civile résultant de la circulation des véhicules.
 
-\2. Pour les conducteurs des véhicules énumérés au présent article, la preuve de l’existence du contrat conclu dans un des
+2\. Pour les conducteurs des véhicules énumérés au présent article, la preuve de l’existence du contrat conclu dans un des
 pays visés sous a) n’est pas exigée.
 Les obligations du Bureau sont maintenues même si l’obligation d’assurance n’a pas été respectée.
 
 Chapitre 8.- Conditions de fonctionnement du Bureau
 
 Art. 16.
-\1. Le Bureau prévu par l’article 1er lettre g) de la loi R.C. Autos est constitué pour une durée indéterminée.
-\2. Sont membres du Bureau toutes les entreprises d’assurances autorisées telles que définies à l’article 1er lettre e) de la loi
+1\. Le Bureau prévu par l’article 1er lettre g) de la loi R.C. Autos est constitué pour une durée indéterminée.
+2\. Sont membres du Bureau toutes les entreprises d’assurances autorisées telles que définies à l’article 1er lettre e) de la loi
 R.C. Autos.
-\3. Le fonctionnement du Bureau est réglé par ses statuts adoptés par l’assemblée générale de ses membres et soumis pour
+3\. Le fonctionnement du Bureau est réglé par ses statuts adoptés par l’assemblée générale de ses membres et soumis pour
 approbation au Gouvernement.
-\4. Tout membre est obligé de rembourser au Bureau toutes les sommes payées par le Bureau à l’occasion d’un sinistre.
+4\. Tout membre est obligé de rembourser au Bureau toutes les sommes payées par le Bureau à l’occasion d’un sinistre.
 Ce remboursement se fait proportionnellement aux primes émises pour des véhicules immatriculés au Grand-Duché de
 Luxembourg, nettes d’annulation, relatives à la branche d’assurance «Responsabilité civile en matière de véhicules terrestres
 automoteurs» et se rapportant à l’exercice au cours duquel le sinistre est survenu.
 Si une compagnie n’est plus membre du Bureau, le conseil d’administration peut exiger de la compagnie sortante le versement immédiat de sa quote-part dans la provision pour sinistres en suspens à valoir sur le décompte définitif qui, pour ce qui la
 concerne, sera établi après liquidation finale de tous les sinistres pour lesquels elle est tenue.
-\5. La contribution des membres et le remboursement des frais relatifs au fonctionnement du Bureau sont réglés par les
+5\. La contribution des membres et le remboursement des frais relatifs au fonctionnement du Bureau sont réglés par les
 statuts.
 Art. 17.
 Le ministre ayant dans ses attributions la surveillance des assurances privées nomme un commissaire de gouvernement
@@ -63014,22 +63014,22 @@ des infractions à la législation et aux règlements en matière de circulation
 des manquements graves aux obligations imposées à l’assuré par le contrat d’assurance.
 
 Art. 19.
-\1. Le Pool est dirigé par une commission qui aura à statuer sur le principe de la prise en charge des risques ainsi que sur les
+1\. Le Pool est dirigé par une commission qui aura à statuer sur le principe de la prise en charge des risques ainsi que sur les
 conditions et tarifs auxquels doit correspondre le contrat d’assurance.
-\2. Elle se compose de trois membres effectifs et de six suppléants à désigner par le Commissariat aux assurances sur une
+2\. Elle se compose de trois membres effectifs et de six suppléants à désigner par le Commissariat aux assurances sur une
 liste à présenter par le Fonds de Garantie Automobile visé à l’article 1er lettre o) de la loi R.C. Autos.
-\3. La commission se dote d’un règlement d’ordre intérieur.
-\4. La commission choisit un président parmi ses membres.
-\5. Elle statue à la majorité des voix.
-\6. Le représentant d’une entreprise d’assurances autorisée concernée par les risques dont la commission est saisie ne peut
+3\. La commission se dote d’un règlement d’ordre intérieur.
+4\. La commission choisit un président parmi ses membres.
+5\. Elle statue à la majorité des voix.
+6\. Le représentant d’une entreprise d’assurances autorisée concernée par les risques dont la commission est saisie ne peut
 pas siéger comme membre de cette commission.
 Art. 20.
-\1. Le ministre ayant dans ses attributions la surveillance des assurances privées nomme un commissaire de gouvernement
+1\. Le ministre ayant dans ses attributions la surveillance des assurances privées nomme un commissaire de gouvernement
 auprès du Pool qui est choisi parmi les fonctionnaires du Commissariat aux assurances.
 Le commissaire exerce au nom du ministre ayant dans ses attributions la surveillance des assurances privées un contrôle
 sur l’ensemble de la gestion du Pool. Il peut assister avec voix consultative à toutes les réunions du conseil d’administration et
 aux assemblées générales. Il peut prendre inspection de tous les livres et documents comptables et demander tous renseignements utiles à l’appréciation de la marche des opérations du Pool.
-\2. Peut également assister aux réunions de la commission un représentant du Ministre des Transports avec voix consultative.
+2\. Peut également assister aux réunions de la commission un représentant du Ministre des Transports avec voix consultative.
 Art. 21.
 Les entreprises d’assurances autorisées participent à la couverture des risques en proportion de leur encaissement au
 Grand-Duché de Luxembourg, correspondant à l’avant-dernier exercice, sans que la part d’une compagnie ne puisse être
@@ -63040,9 +63040,9 @@ Les entreprises d’assurances autorisées ayant antérieurement couvert les ris
 Chapitre 10.- Dispositions finales
 
 Art. 23.
-\1. Le règlement grand-ducal du 20 décembre 1991 pris en exécution de la loi modifiée du 7 avril 1976 relative à l’assurance
+1\. Le règlement grand-ducal du 20 décembre 1991 pris en exécution de la loi modifiée du 7 avril 1976 relative à l’assurance
 obligatoire de la responsabilité civile en matière de véhicules automoteurs est abrogé.
-\2. Le règlement grand-ducal du 20 décembre 1994 pris en exécution de l’article 17 par. 2 et 3 de la loi modifiée du 7 avril
+2\. Le règlement grand-ducal du 20 décembre 1994 pris en exécution de l’article 17 par. 2 et 3 de la loi modifiée du 7 avril
 1976 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs et fixant les conditions
 auxquelles doivent répondre les contrats d’assurance de la responsabilité civile des véhicules automoteurs est abrogé.
 Art. 24.
@@ -63166,7 +63166,7 @@ Version consolidée applicable au 24 octobre 2023
 « Art. 1er.
 « Les taxes ci-après seront perçues lors de la présentation des demandes en obtention des documents requis pour la mise
 en circulation et la conduite des véhicules soumis à l’immatriculation au Grand-Duché de Luxembourg :
-1)
+1\)
 
 50 euros pour une demande en obtention :
 \-
@@ -63177,15 +63177,15 @@ d’un signe distinctif particulier ;
 
 d’une autorisation ministérielle pour l’utilisation de plaques rouges ;
 
-2)
+2\)
 
 30 euros pour une demande en obtention d’un permis de conduire ;
 
-3)
+3\)
 
 24 euros pour une demande de réutilisation d’un numéro d’immatriculation personnalisé ;
 
-4)
+4\)
 
 200 euros pour une demande de réservation d’un numéro d’immatriculation personnalisé. »
 
@@ -63316,25 +63316,25 @@ novembre 1968, fait à Genève, le 1er mai 1971
 (Mém. A - 41 du 14 juillet 1975, p. 818; doc. parl. 1865)
 Art. 1er.
 Sont approuvés:
-1)
+1\)
 
 La Convention sur la circulation routière, signée à Vienne, le 8 novembre 1968;
 
-2)
+2\)
 
 la Convention sur la signalisation routière, signée à Vienne, le 8 novembre 1968;
 
-3)
+3\)
 
 l’Accord européen complétant la Convention sur la circulation routière, ouverte à la signature à Vienne le 8 novembre
 1968, fait à Genève, le 1er mai 1971;
 
-4)
+4\)
 
 l’Accord européen complétant la Convention sur la signalisation routière, ouverte à la signature à Vienne le 8 novembre
 1968, fait à Genève, le 1er mai 1971;
 
-5)
+5\)
 
 le Protocole sur les marques routières, additionnel à l’Accord européen complétant la Convention sur la signalisation
 routière, ouverte à la signature à Vienne le 8 novembre 1968, en date, à Genève, du 1er mars 1973.
@@ -63356,7 +63356,7 @@ chose concerne.
 CODE DE LA ROUTE – Conventions internationales
 Loi du 13 décembre 1975 portant approbation de la Convention Benelux relative à l’assurance obligatoire de la
 responsabilité civile en matière de véhicules automoteurs et des actes annexes, signés à Luxembourg, le 24 mai
-1966.
+1966\.
 (Mém. A - 83 du 19 décembre 1975, p. 1810; doc. parl. 1346)
 
 Article unique.

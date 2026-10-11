@@ -114,7 +114,7 @@ La loi peut prévoir une différence de traitement qui procède d’une disparit
 
 L’État veille à promouvoir activement l’élimination des entraves pouvant exister en matière d’égalité entre femmes et hommes.
 
-La liberté d’avoir recours à l’interruption volontaire de grossesse est garantie. La loi détermine les conditions dans lesquelles s’exerce cette liberté. [^110]
+La liberté d’avoir recours à l’interruption volontaire de grossesse est garantie. La loi détermine les conditions dans lesquelles s’exerce cette liberté.[^110]
 
 (4) Toute personne a le droit de fonder une famille.
 
@@ -444,10 +444,13 @@ Le vote est obligatoire et secret. Ses modalités sont déterminées par la loi.
 
 (4) Le pays est divisé en quatre circonscriptions électorales :
 
-1. le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
-2. le Centre avec les cantons de Luxembourg et Mersch ;
-3. le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
-4. l’Est avec les cantons de Grevenmacher, Remich et Echternach.
+1° le Sud avec les cantons d’Esch-sur-Alzette et Capellen ;
+
+2° le Centre avec les cantons de Luxembourg et Mersch ;
+
+3° le Nord avec les cantons de Diekirch, Redange, Wiltz, Clervaux et Vianden ;
+
+4° l’Est avec les cantons de Grevenmacher, Remich et Echternach.
 
 Une loi adoptée à la majorité qualifiée fixe le nombre des députés à élire dans chacune des circonscriptions.
 
@@ -535,10 +538,13 @@ Les membres du Gouvernement ont entrée dans la Chambre des Députés et doivent
 
 Aux fins d’exercer les missions prévues à l’article 62, la Chambre des Députés peut :
 
-1. demander la présence d’un ou de plusieurs membres du Gouvernement ;
-2. adresser au Gouvernement des questions et interpellations auxquelles le Gouvernement est tenu de répondre ;
-3. requérir de la part du Gouvernement tous informations et documents ;
-4. adopter une motion de confiance ou de censure à l’égard du Gouvernement.
+1° demander la présence d’un ou de plusieurs membres du Gouvernement ;
+
+2° adresser au Gouvernement des questions et interpellations auxquelles le Gouvernement est tenu de répondre ;
+
+3° requérir de la part du Gouvernement tous informations et documents ;
+
+4° adopter une motion de confiance ou de censure à l’égard du Gouvernement.
 
 L’exercice de ces prérogatives est organisé par le [Règlement de la Chambre des Députés](https://legilux.public.lu/eli/etat/leg/ri/2007/03/15/n1/jo).
 
@@ -784,11 +790,13 @@ Les dispositions de la Constitution ne font pas obstacle aux obligations découl
 
 (5) La Cour Constitutionnelle est composée :
 
-1. de neuf membres effectifs :
+1° de neuf membres effectifs :
 
-   1. le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
-   2. deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
-2. de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
+a) le Président de la Cour Supérieure de Justice et le Président de la Cour administrative ;
+
+b) deux conseillers à la Cour de Cassation et cinq magistrats nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative ;
+
+2° de sept membres suppléants nommés par le Grand-Duc, sur l’avis conforme de la Cour Supérieure de Justice et de la Cour administrative.
 
 (6) La Cour Constitutionnelle siège en chambre de cinq membres. Lorsque la Cour Constitutionnelle estime qu’une affaire, dont elle est saisie, revêt une importance particulière, elle siège en formation plénière de neuf membres.
 
@@ -946,7 +954,7 @@ Le texte adopté en première lecture par la Chambre des Députés est soumis à
 
 ### Art. 132.
 
-Les dispositions de l’article 56 sont pour la première fois applicables à la descendance de Son Altesse Royale Henri, Grand-Duc de Luxembourg, Duc de Nassau. [^109]
+Les dispositions de l’article 56 sont pour la première fois applicables à la descendance de Son Altesse Royale Henri, Grand-Duc de Luxembourg, Duc de Nassau.[^109]
 
 ---
 
