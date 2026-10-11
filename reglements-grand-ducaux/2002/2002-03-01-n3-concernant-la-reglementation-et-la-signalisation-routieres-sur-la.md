@@ -1,0 +1,46 @@
+---
+title: "Règlement grand-ducal du 1er mars 2002 concernant la réglementation et la signalisation routières sur la route N8 entre Saeul et Kreutzerbuch."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n3"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 2002-03-01
+consolidated: false
+publication_date: 2002-04-03
+entry_into_force: 2002-04-07
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n3/jo"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 1er mars 2002 concernant la réglementation et la signalisation routières sur la route N8 entre Saeul et Kreutzerbuch.
+
+Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,
+
+Vu la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques, telle qu'elle a été modifiée et complétée dans la suite;
+
+Vu l'arrêté grand-ducal du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques, tel qu'il a été modifié et complété dans la suite;
+
+Vu l'article 2 (1) de la loi du 12 juillet 1996 portant réforme du Conseil d'Etat et considérant qu'il y a urgence;
+
+Sur le rapport de Notre Ministre des Travaux Publics et après délibération du Gouvernement en Conseil;
+
+Arrêtons:
+
+## Art. 1<sup>er</sup>.
+
+Sur la route N 8 entre Saeul et Kreutzerbuch, p.k. 8,244, il est interdit aux conducteurs circulant sur la route N 8 en provenance de Saeul de tourner à gauche dans le chemin vicinal menant vers Septfontaines.
+
+Cette prescription est indiquée par le signal C, 11a.
+
+## Art. 2.
+
+Les infractions aux dispositions du présent règlement sont punies conformément à l'article 7 modifié de la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques.
+
+## Art. 3.
+
+Notre Ministre des Travaux Publics est chargé de l'exécution du présent règlement qui sera publié au Mémorial.
+
+La Ministre des Travaux Publics, <br> Erna Hennicot-Schoepges
+
+Palais de Luxembourg, le 1<sup>er</sup> mars 2002. <br> Henri

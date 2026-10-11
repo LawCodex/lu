@@ -1,0 +1,74 @@
+---
+title: "Règlement grand-ducal du 10 avril 1987 sur la réglementation et la signalisation routières sur le CR 122 entre les points kilométriques 26,600 et 27,300."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/04/10/n5"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 1987-04-10
+consolidated: false
+publication_date: 1987-06-01
+entry_into_force: 1987-06-05
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/1987/04/10/n5/jo"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 10 avril 1987 sur la réglementation et la signalisation routières sur le CR 122 entre les points kilométriques 26,600 et 27,300.
+
+Nous JEAN, par la grâce de Dieu, Grand-Duc de Luxembourg, Duc de Nassau;
+
+Vu la loi du 14 février 1955 concernant la réglementation de la circulation sur toutes les voies publiques telle qu'elle a été modifiée dans la suite;
+
+Vu l'arrêté grand-ducal du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques tel qu'il a été modifié dans la suite;
+
+Vu l'article 27 de la loi du 8 février 1961 portant organisation du Conseil d'Etat et considérant qu'il y a urgence;
+
+Sur le rapport de Notre Ministre des Travaux Publics et après délibération du Gouvernement en Conseil;
+
+Arrêtons:
+
+## Art. 1<sup>er</sup>.
+
+Lors de l'exécution des travaux de voirie sur le CR 122 entre les points kilométriques 26,600 et 27,300, l'accès est interdit dans les deux sens sur ce tronçon de route aux conducteurs de véhicules et d'animaux à l'exception des piétons, riverains et fournisseurs.
+
+Cette prescription est indiquée par la signal C,2.
+
+## Art. 2.
+
+L'approche de la section de route où les travaux sont en cours est indiquée par les signaux A,15 et C,14 portant le chiffre 40 posés à une distance de respectivement 400 m et 200 m.
+
+## Art. 3.
+
+Le cas échéant, la circulation est réglée sur le tronçon de route où les travaux sont en cours au moyen d'une signalisation lumineuse.
+
+Cette prescription est indiquée par le signal A,16a
+
+## Art. 4.
+
+Sur le tronçon de route où les travaux sont en cours, la vitesse maximale est limitée à 40 km /heure et il est interdit aux conducteurs de véhicules automoteurs de dépasser des véhicules automoteurs autres que les motocycles à deux roues sans side-car.
+
+Ces prescriptions sont indiquées par les signaux C,14 portant le chiffre 40 et C,13aa. La fin de la réglementation est indiquée par les signaux C,17b et C,17c.
+
+## Art. 5.
+
+Les conducteurs sont obligés de passer à côté des obstacles formés par l'exécution des travaux suivant la direction indiquée par le signal D,2.
+
+## Art. 6.
+
+Les obstacles formés par l'exécution des travaux doivent être signalés conformément aux dispositions de l'article 102 modifié de l'arrêté grand-ducal du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
+
+## Art. 7.
+
+Une déviation par le CR 146 de Dreiborn à Niederdonven est mise en place. Cette prescription est indiquée par le signal E,22a.
+
+## Art. 8.
+
+Les infractions aux prescriptions du présent règlement seront punies conformément à l'article 7 modifié de la loi du 14 février 1955 précitée, modifié de la loi du 14 février 1955 précitée.
+
+## Art. 9.
+
+Notre Ministre des Travaux Publics est chargé de l'exécution du présent règlement qui sera publié au Mémorial et qui produira ses effets de l'installation du chantier jusqu'à l'achèvement des travaux.
+
+Le Ministre des Travaux Publics, <br> Marcel Schlechter
+
+Palais de Luxembourg, le 10 avril 1987. <br> Jean

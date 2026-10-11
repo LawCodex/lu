@@ -1,0 +1,441 @@
+---
+title: "Règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a797"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 2017-08-29
+last_amended: 2018-09-17
+consolidated: true
+publication_date: 2017-09-07
+entry_into_force: 2017-09-15
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a797/consolide/20180917"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.
+
+## Chapitre 1<sup>er</sup> — Définitions.
+
+### Art. **1<sup>er</sup>** .
+
+Au sens du présent règlement, on entend par :
+
+1\. Centre : centre psycho-social et d’accompagnement scolaires ;
+
+2\. demandeur : personne physique qui introduit une demande en obtention d’une subvention pour ménage à faible revenu ;
+
+3\. élève : personne pour qui la demande est introduite et qui est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire et qui bénéficie des allocations familiales[^1] ;
+
+4\. élève majeur : personne ayant atteint la majorité qui introduit la demande en obtention de la subvention du maintien scolaire ;
+
+5\. enfant : personne autre que l’élève faisant partie du ménage du demandeur, y étant déclarée et pour laquelle le demandeur perçoit des allocations familiales ou qui soit est inscrite à temps plein, ou en formation concomitante, dans un établissement scolaire, soit poursuit des études supérieures conformément à l’article 2 de la [loi du 24 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/jo) concernant l’aide financière de l’État pour études supérieures. Est également considéré comme enfant l’élève de l’enseignement secondaire classique et de l’enseignement secondaire général qui est autorisé par le ministre ayant la formation professionnelle dans ses attributions à suivre sa formation professionnelle à l’étranger, ainsi que le membre résidant de fait au ménage et qui poursuit un service volontaire des jeunes en application de la [loi modifiée du 31 octobre 2007](https://legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1/jo) sur le service volontaire des jeunes[^2] ;
+
+6\. établissement scolaire : un établissement de l’enseignement secondaire classique ou secondaire général luxembourgeois, y compris les établissements d’enseignement privé sous régime contractuel suivant les programmes de l’enseignement luxembourgeois ;
+
+7\. ménage : communauté domestique dans laquelle habitent le demandeur, l’élève, tout autre enfant, ainsi que toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. La situation de composition du ménage prise en compte est celle du moment de l’introduction de la demande en obtention d’une subvention pour ménage à faible revenu ou d’une subvention du maintien scolaire, dûment documentée par le registre national des personnes physiques ;
+
+8\. ministre : ministre ayant l’Éducation nationale dans ses attributions ;
+
+9\. Service : service psycho-social et d’accompagnement scolaires d’un établissement de l’enseignement secondaire classique ou secondaire général ;
+
+## Chapitre 2 — La subvention pour ménage à faible revenu.
+
+### Art. 2.
+
+(1) La demande de subvention pour ménage à faible revenu est introduite par le demandeur pour l’élève qui est à sa charge.
+
+(2) Pour pouvoir obtenir la subvention pour ménage à faible revenu, le demandeur doit :
+
+1\. être une personne physique majeure au jour de l’introduction de la demande ;
+
+2\. résider avec l’élève pour le compte duquel la demande est introduite et être investi de l’autorité parentale ;
+
+3\. faire partie d’un ménage vivant en dessous du seuil de faible revenu, tel que fixé à l’article 4[^3] ;
+
+4\. introduire la demande au plus tard pour le 31 octobre[^4] de l’année scolaire pour laquelle la subvention est demandée.
+
+(3) Le demandeur doit introduire une demande séparée pour chaque élève qui est à sa charge.
+
+### Art. 3.
+
+(1) Le demandeur adresse la demande en obtention de la subvention pour ménage à faible revenu signée, ensemble avec les pièces justificatives, au Service ou, à défaut, au Centre moyennant le formulaire spécifique disponible auprès du Service et du Centre.
+
+(2) La demande signée doit être accompagnée des pièces suivantes :
+
+1\. un certificat d’affiliation du Centre commun de la sécurité sociale pour toute l’année calendaire précédant la date du dépôt de la demande. Un tel certificat est à présenter pour le demandeur et son époux(se), ou sa/son partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou de sa/son concubin(e), pour autant qu’ils sont membres du ménage ;[^5]
+
+2\. les attestations de revenus des trois derniers mois, hormis le mois d’août, du demandeur et le cas échéant[^6] de son époux(se), ou de sa/son partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou de sa/son concubin(e), ainsi que de l’élève lui-même[^7] ;
+
+3\. un certificat attestant le versement des allocations familiales, ou à défaut une copie de l’extrait du dernier versement des allocations familiales. L’allocation de rentrée scolaire n’est pas prise en compte ;
+
+4\. pour les personnes concernées, le plus récent certificat de revenu du bureau d’imposition attestant le revenu des indépendants, agriculteurs et viticulteurs, ou une[^8] copie du dernier relevé du Centre commun de la sécurité sociale déclarant le revenu imposable sur base duquel sont fixées les cotisations en matière de sécurité sociale ;
+
+5\. pour les personnes concernées, un rapport social ou une enquête sociale du Service ou, à défaut, du Centre concernant l’élève ;
+
+6\. le certificat d’inscription de l’élève dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription ;
+
+7\. pour les personnes concernées, un certificat d’inscription aux études post-secondaires d’autres membres du ménage.
+
+(3) Le demandeur est tenu, dans un délai de dix jours ouvrables de fournir, sur demande du Service ou du Centre, tous les renseignements et documents jugés nécessaires pour constater si les conditions d’octroi de la subvention demandée sont remplies. Le défaut de présentation des pièces dans les délais prévus vaut refus de la demande.
+
+### Art. 4.
+
+(1) La subvention pour ménage à faible revenu dépend d’un indice social attribué en fonction de la situation du ménage et du revenu mensuel net disponible adapté aux variations de l’indice du coût de la vie arrêtés au moment de l’introduction de la demande selon le tableau prévu à l’annexe 1. Elle reste acquise en cas de changement de la situation après notification de la décision du ministre.
+
+Pour la détermination du revenu mensuel net disponible du ménage, celui du demandeur et de son époux(se), ou de sa/son partenaire au sens de la [loi modifiée du 9 juillet 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/jo) relative aux effets légaux de certains partenariats ou de sa/son concubin(e), ainsi que celui de l’élève, sont pris en compte.[^9]
+
+Pour la détermination des personnes du ménage à considérer à l’annexe 1, les autres enfants membres et à charge du ménage sont ajoutés aux personnes mentionnées à l’alinéa précédent.[^10]
+
+(2) Le montant est accordé selon l’indice social attribué au ménage, conformément à l’annexe 2. Il est adapté aux variations de l’indice du coût de la vie.
+
+(3) En cas d’autorité parentale conjointe et de résidence alternée de l’enfant, les parents décident librement lequel des parents agit comme demandeur.
+
+(4) Pour le calcul de l’indice social, l’élève est considéré comme enfant s’il vit soit avec ses père ou mère, soit avec toute autre personne physique l’ayant à sa charge.
+
+Par dérogation à l’alinéa 1<sup>er</sup>, l’élève est considéré comme adulte pour la détermination de l’indice social lorsque l’élève vit seul ou en concubinage avec ou sans enfants à charge, et ne peut prétendre au bénéfice de la subvention du maintien scolaire.
+
+(5) Le revenu mensuel net disponible du ménage est constitué par[^11] :
+
+1\. des revenus nets visés à l’article 10 de la [loi modifiée du 4 décembre 1967](https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo) concernant l’impôt sur le revenu, y compris les rémunérations pour les heures de travail supplémentaires et déduction faite des cotisations sociales, des impôts effectivement retenus et des éléments non périodiques ;[^12]
+
+2\. des indemnités de chômage ;
+
+3\. du revenu minimum garanti et du revenu pour personnes gravement handicapées[^13] ;
+
+4\. des pensions de survie ou des pensions attribuées par une caisse de pension d’un pays à l’étranger ;
+
+5\. de l’indemnité perçue pendant le congé parental ;
+
+6\. des pensions alimentaires perçues ;
+
+7\. des rentes d’invalidité et d’accident , ainsi que de tout autre revenu de remplacement[^14];
+
+8\. de l’allocation d’éducation ;
+
+9\. des revenus provenant de la location de biens ;
+
+10\. du forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour, conformément à l’article 15 de la [loi modifiée du 16 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n4/jo) relative à l’aide à l’enfance et à la famille, limité à la part indemnisation ;
+
+11\. des revenus imposables d’une activité d’indépendant, d’agriculteur ou de viticulteur, documenté par le certificat le plus récent du bureau d’imposition.
+
+12\. de l’indemnité d’apprentissage, de l’indemnité à la formation, de la prime à la formation et des indemnités versées dans le cadre de l’apprentissage pour adultes ;
+
+13\. des indemnités payées dans le cadre du service volontaire des jeunes ;
+
+14\. de la rente d’orphelin ;
+
+15\. de l’allocation mensuelle versée aux demandeurs de protection internationale ;
+
+16\. des allocations pour frais de vie et d’hébergement versées à l’élève majeur dans le cadre de la [loi modifiée du 16 décembre 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n4/jo) relative à l’aide à l’enfance et à la famille.[^15]
+
+Les pensions alimentaires versées sont déduites du revenu mensuel net disponible.
+
+La moyenne arithmétique des trois derniers mois précédant l’introduction de la demande détermine le seuil de revenu, le mois d’août n’étant pas pris en considération.
+
+### Art. 5.
+
+La subvention pour ménage à faible revenu au profit de l’élève est versée par le Centre au demandeur avant le 1<sup>er</sup> mai de l’année scolaire pour laquelle elle est demandée.
+
+Le Centre peut cependant verser une première tranche de la subvention, dont le montant ne peut être supérieur à 300 euros, endéans le premier trimestre de l’année scolaire. Le solde est versé aux conditions décrites à l’alinéa précédent.
+
+### Art. 6.
+
+Les demandes introduites après le délai fixé, ou ne remplissant pas les conditions d’éligibilité relatives au revenu[^16] sont refusées. Le demandeur est informé par le Centre des motifs du refus de la demande.
+
+Le Centre notifie la décision au demandeur et informe le[^17] Service.
+
+## Chapitre 3 — La subvention du maintien scolaire.
+
+### Art. 7.
+
+(1) La demande en obtention de la subvention du maintien scolaire est introduite par l’élève majeur auprès du Service ou, à défaut, auprès du Centre à tout moment de l’année scolaire.
+
+La demande est accompagnée d’un rapport social et financier établi par le Service ou, à défaut, par le Centre et des pièces justificatives suivantes :
+
+1\. le contrat de bail, le contrat de mise à disposition, la facture de l’internat scolaire ou la convention conclue avec un tiers, spécifiant le mode de paiement des charges locatives privatives et communes ;
+
+2\. le certificat d’inscription de l’élève majeur dans un établissement scolaire. Le tampon de l’établissement scolaire, signé et daté, apposé sur la demande vaut certificat d’inscription.
+
+(2) Le demandeur est tenu, dans un délai de dix jours ouvrables,[^18] de fournir, sur demande du Service ou du Centre, tous les renseignements et documents jugés nécessaires pour constater si les conditions d’octroi de la subvention du maintien scolaire demandée sont remplies. Il en est de même après l’octroi de la subvention du maintien scolaire. Le défaut de présentation des pièces dans les délais prévus vaut refus de la demande.[^19]
+
+(3) Pour l’obtention de la subvention du maintien scolaire, le revenu mensuel net de l’élève majeur est pris en compte afin de fixer le montant de la subvention du maintien scolaire à accorder.
+
+Le revenu mensuel net disponible est calculé en additionnant :
+
+1\. les allocations familiales, à l’exception des allocations familiales versées pour le ou les enfant(s) du demandeur ;
+
+2\. la pension alimentaire ;
+
+3\. la rente d’orphelin ;
+
+4\. le salaire autre qu’un salaire étudiant payé dans le cadre d’un emploi étudiant ;
+
+5\. la subvention loyer en application de la [loi du 9 décembre 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/12/09/n1/jo) portant introduction d'une subvention de loyer et modifiant : a) la [loi modifiée du 25 février 1979](https://legilux.public.lu/eli/etat/leg/loi/1979/02/25/n3/jo) concernant l'aide au logement ; b) la [loi modifiée du 29 avril 1999](https://legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo) portant création d'un droit à un revenu minimum garanti ; c) la [loi modifiée du 21 septembre 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/jo) sur le bail à usage d'habitation et modifiant certaines dispositions du [Code civil](https://legilux.public.lu/eli/etat/leg/code/civil) ;
+
+6\. l’allocation de chômage, le revenu minimum garanti et l’allocation de loyer ;
+
+7\. tout revenu de remplacement ou indemnité non-occasionnelle, y compris les bourses d’études[^24] ;
+
+8\. les intérêts et produits en capitaux ;
+
+9\. l’indemnité d’apprentissage et l’indemnité versée dans le cadre de l’apprentissage pour adultes[^25] ;
+
+10\. la prime et[^26] l’indemnité à la formation accordée par le Service de la formation professionnelle.
+
+### Art. 8.
+
+Le montant attribué est calculé en fonction des frais de vie garantis à chaque élève majeur, des frais de logement et des charges locatives privatives et communes et du revenu mensuel net disponible du ménage de l’élève. Il est adapté aux variations de l’indice du coût de la vie.
+
+Le jeune perçoit un montant de 570 euros par mois pour frais de vie.
+
+A ce montant s’ajoute un montant plafonné en fonction de la situation de logement de l’élève majeur :
+
+1\. un maximum de 700 euros par mois, charges communes incluses, si l’élève loue un bien. Le montant alloué est majoré de maximum 90 euros par mois pour charges locatives privatives ;
+
+2\. un forfait de 300 euros par mois si l’élève est logé auprès d’un tiers, conformément aux dispositions de l’article 7, paragraphe 1<sup>er</sup>[^20], alinéa 2, point 1.
+
+Le total mensuel obtenu par l'addition des montants ci-dessus est diminué du revenu éventuel prévu à l’article 7[^21].
+
+Nonobstant le montant de la subvention du maintien scolaire accordé, l’élève majeur a droit, pour l’achat du matériel scolaire, à un montant forfaitaire de 100 euros par trimestre scolaire entamé ou subsistant. Ce montant forfaitaire s’ajoute au montant de la subvention du maintien scolaire dû et il est versé en une fois pendant l’année scolaire en cours. Le montant cumulé ne peut pas dépasser 300 euros par année scolaire. Un douzième de ce montant annuel est comptabilisé pour le calcul du plafond mensuel maximal autorisé tel que prévu par l’article 2 de la [loi modifiée du 13 juillet 2006](https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/jo) portant organisation du Centre psycho-social et d’accompagnement scolaires.[^22]
+
+La subvention du maintien scolaire est majorée de 180 euros par mois par enfant vivant dans le ménage de l’élève majeur et pour lequel il perçoit des allocations familiales.
+
+Les montants susmentionnés sont ceux valables au 1<sup>er</sup> janvier 2017 (indice : 794,54).
+
+Sous peine de restitution de l’aide, l’élève majeur bénéficiant de la subvention du maintien scolaire est tenu d’informer sans délai le directeur du Centre de tout changement de sa situation susceptible d’influencer l’octroi, la suppression ou le montant de la subvention du maintien scolaire.
+
+### Art. 9.
+
+(1) La subvention du maintien scolaire est accordée à partir du mois de la date de transmission de la demande signée au Centre. Elle est accordée pour l’année scolaire en cours.
+
+Elle est versée sur le compte de l’élève majeur demandeur par tranche de trois mois. À titre exceptionnel, par décision du Centre, le Service entendu en son avis et dans l’intérêt de l’élève majeur, le versement peut être mensuel pour une période limitée à l’année scolaire en cours.
+
+Le droit à la subvention du maintien scolaire est maintenu pour le prochain trimestre de l’année scolaire subséquente si les conditions suivantes se trouvent toujours remplies :
+
+1\. l’élève majeur poursuit sa scolarité à temps plein ou en régime concomitant ;
+
+2\. l’élève majeur est suivi par le service psycho-social et d’accompagnement scolaires de son établissement scolaire ;
+
+3\. la situation de revenu reste inchangée. Au cas contraire, le montant de la subvention du maintien scolaire est revue pour le trimestre suivant compte tenu du changement des conditions de base ;
+
+4\. L’élève majeur n’est pas en possession d’un diplôme de fin d'études secondaires, d'un diplôme de technicien, d'un diplôme d'aptitude professionnelle, d'un certificat de capacité professionnelle ou d’un diplôme du dernier degré délivré dans l’enseignement secondaire.[^23]
+
+(2) Après la délivrance d’un diplôme tel que prévu au point 4 du paragraphe 1<sup>er</sup>, l’élève majeur conserve le droit à la subvention du maintien scolaire pendant une période maximale de trois mois, s’il est inscrit à des études universitaires ou post-secondaires, ou s’il n’est pas entré dans la vie professionnelle pendant cette période. Sur demande de l’élève majeur et en concertation avec le Service, le Centre maintiendra pour cette période le dernier montant versé. La subvention du maintien scolaire expire de plein droit après trois mois, respectivement avant cette date avec l’obtention, soit de bourses d’études, soit d’un revenu professionnel ou de remplacement.
+
+### Art. 10.
+
+Les demandes introduites incomplètes ou ne remplissant pas les conditions d’éligibilité relatives au revenu sont refusées. Le demandeur est informé par le Centre des motifs du refus de la demande.
+
+La décision d’octroi ou de refus de la subvention du maintien scolaire est prise par le ministre. Elle renseigne sur le montant accordé, respectivement sur le ou les motifs du refus et sur les voies et délais de recours.
+
+### Art. 11.
+
+Sur initiative soit du Service ou soit du Centre, ou sur demande des personnes concernées, toute décision d’octroi de la subvention du maintien scolaire est susceptible d’un réexamen notamment en cas de changement de leur revenu, de la composition du ménage, des frais liés au logement ou de la situation scolaire. Si les données du dossier justifient l’allocation de la subvention ou l’augmentation du montant de la subvention du maintien scolaire déjà allouée, cette aide est accordée à partir de la date de la demande en réexamen.
+
+## Chapitre 4 — Dispositions additionnelles et finales.
+
+### Art. 12.
+
+Le présent règlement entre en vigueur à partir de la rentrée scolaire 2017/2018.
+
+### Art. 13.
+
+Notre Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
+
+\**ANNEXE 1 :**
+
+\**Montant mensuel net disponible** (valable au 1<sup>er</sup> janvier 2017 (indice : 794,54)).
+
+|  | **Montant mensuel net** |
+|---|---|
+| Premier adulte | 1.822 € |
+| Adulte subséquent | 911 € |
+| Supplément par enfant | 607 € |
+
+\**Tableau des indices sociaux au 1<sup>er</sup> janvier 2017** (indice : 794,54)
+
+<table>
+<tr>
+<td></td>
+<td colspan="5"><b>Revenu mensuel net disponible du ménage</b></td>
+</tr>
+<tr>
+<td>1 adulte avec 1 enfant</td>
+<td>2.429 €</td>
+<td>2.186 €</td>
+<td>1.943 €</td>
+<td>1.700 €</td>
+<td>1.457 €</td>
+</tr>
+<tr>
+<td>1 adulte avec 2 enfants</td>
+<td>3.036 €</td>
+<td>2.732 €</td>
+<td>2.429 €</td>
+<td>2.125 €</td>
+<td>1.822 €</td>
+</tr>
+<tr>
+<td>1 adulte avec 3 enfants</td>
+<td>3.643 €</td>
+<td>3.279 €</td>
+<td>2.914 €</td>
+<td>2.550 €</td>
+<td>2.186 €</td>
+</tr>
+<tr>
+<td>1 adulte avec 4 enfants</td>
+<td>4.250 €</td>
+<td>3.825 €</td>
+<td>3.400 €</td>
+<td>2.975 €</td>
+<td>2.550 €</td>
+</tr>
+<tr>
+<td>1 adulte avec 5 enfants</td>
+<td>4.857 €</td>
+<td>4.371 €</td>
+<td>3.886 €</td>
+<td>3.400 €</td>
+<td>2.914 €</td>
+</tr>
+<tr>
+<td>1 adulte avec 6 enfants</td>
+<td>5.464 €</td>
+<td>4.817 €</td>
+<td>4.372 €</td>
+<td>3.825 €</td>
+<td>3.278 €</td>
+</tr>
+<tr>
+<td>+ par enfant supplémentaire au-delà du 6<sup>e</sup> enfant</td>
+<td>+ 607 €</td>
+<td>+ 546 €</td>
+<td>+ 486 €</td>
+<td>+ 425 €</td>
+<td>+ 364 €</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 adultes avec 1 enfant</td>
+<td>3.340 €</td>
+<td>3.006 €</td>
+<td>2.672 €</td>
+<td>2.338 €</td>
+<td>2.004 €</td>
+</tr>
+<tr>
+<td>2 adultes avec 2 enfants</td>
+<td>3.947 €</td>
+<td>3.552 €</td>
+<td>3.158 €</td>
+<td>2.763 €</td>
+<td>2.368 €</td>
+</tr>
+<tr>
+<td>2 adultes avec 3 enfants</td>
+<td>4.554 €</td>
+<td>4.099 €</td>
+<td>3.643 €</td>
+<td>3.188 €</td>
+<td>2.732 €</td>
+</tr>
+<tr>
+<td>2 adultes avec 4 enfants</td>
+<td>5.161 €</td>
+<td>4.645 €</td>
+<td>4.129 €</td>
+<td>3.613 €</td>
+<td>3.097 €</td>
+</tr>
+<tr>
+<td>2 adultes avec 5 enfants</td>
+<td>5.768 €</td>
+<td>5.191 €</td>
+<td>4.614 €</td>
+<td>4.038 €</td>
+<td>3.461 €</td>
+</tr>
+<tr>
+<td>2 adultes avec 6 enfants</td>
+<td>6.375 €</td>
+<td>5.738 €</td>
+<td>5.100 €</td>
+<td>4.463 €</td>
+<td>3.825 €</td>
+</tr>
+<tr>
+<td>+ par enfant supplémentaire au-delà du 6<sup>e</sup> enfant</td>
+<td>+ 607 €</td>
+<td>+ 546 €</td>
+<td>+ 486 €</td>
+<td>+ 425 €</td>
+<td>+ 364 €</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Indice social</b></td>
+<td><b>1</b></td>
+<td><b>2</b></td>
+<td><b>3</b></td>
+<td><b>4</b></td>
+<td><b>5</b></td>
+</tr>
+</table>
+
+\**ANNEXE 2 :**
+
+\**Tableau des montants annuels de la subvention pour ménage à faible revenu en fonction de l’indice social** (valable au 1<sup>er</sup> janvier 2017 (indice : 794,54)).
+
+| Indice social | Subvention pour ménage à faible revenu |
+|---|---|
+| 5 | 900 € |
+| 4 | 900 € |
+| 3 | 800 € |
+| 2 | 700 € |
+| 1 | 600 € |
+
+---
+
+[^1]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^2]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^3]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^4]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^5]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^6]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^7]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^8]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^9]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^10]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^11]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^12]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^13]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^14]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^15]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^16]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^17]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^18]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^19]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^24]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^25]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^26]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^20]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^21]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^22]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)
+[^23]: [Règlement grand-ducal du 20 juillet 2018 portant modification du règlement grand-ducal du 29 août 2017 fixant les modalités d’octroi de la subvention pour ménage à faible revenu et de la subvention du maintien scolaire.](https://legilux.public.lu/eli/etat/leg/rgd/2018/07/20/a692/jo)

@@ -1,0 +1,358 @@
+---
+title: "Règlement grand-ducal du 9 avril 1987 ayant pour objet les élections pour la caisse de pension des artisans, des commerçants et industriels."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/04/09/n7"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 1987-04-09
+consolidated: false
+publication_date: 1987-05-14
+entry_into_force: 1987-05-18
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/1987/04/09/n7/jo"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 9 avril 1987 ayant pour objet les élections pour la caisse de pension des artisans, des commerçants et industriels.
+
+Nous JEAN, par la grâce de Dieu, Grand-Duc de Luxembourg, Duc de Nassau;
+
+Vu la loi modifiée du 21 mai 1951 ayant pour objet la création d'une caisse de pension des artisans, telle qu'elle a été modifiée notamment par la loi du 23 décembre 1976 portant fusion des régimes de pension des artisans et des commerçants et industriels, notamment les articles 39, 40, 41 sub 4, 42 et 46;
+
+Vu l'avis de la chambre de commerce et de la chambre des métiers;
+
+Notre Conseil d'Etat entendu;
+
+Sur le rapport de Notre Ministre de la sécurité sociale et de Notre Ministre des finances et après délibération du Gouvernement en Conseil;
+
+Arrêtons:
+
+## Titre I<sup>er</sup>. De la commission
+
+### Date des élections
+
+#### Art. 1<sup>er</sup>.
+
+La date des élections pour les membres de la commission est fixée par arrêté du ministre de la sécurité sociale et publiée au Mémorial.
+
+### Mode électoral
+
+#### Art. 2.
+
+L'élection des membres effectifs et suppléants se fait au scrutin de liste d'après les règles de la représentation proportionnelle séparément pour chaque groupe visé à l'alinéa 3.
+
+Elle a lieu par correspondance.
+
+Les assurés sont répartis entre les deux groupes suivants:
+
+| 1<sup>er</sup> groupe: | ressortissants de la chambre des métiers; |
+|---|---|
+| 2<sup>me</sup> groupe: | ressortissants de la chambre de commerce. |
+
+Chaque groupe est représenté par vingt délégués effectifs et vingt délégués suppléants.
+
+Parmi les délégués ressortissant de la chambre des métiers aucune profession ne peut être représentée par plus de cinq membres effectifs et cinq membres suppléants élus par liste.
+
+Le groupe des ressortissants de la chambre de commerce est subdivisé en trois sous-groupes à savoir: le sous-groupe des commerçants détaillants, le sous-groupe des cafetiers, restaurateurs, hôteliers ou exploitants de pension de famille et le sous-groupe des autres professions assujetties. Chacun des sous-groupes est représenté par un maximum de huit délégués effectifs et de huit délégués suppléants élus par liste.
+
+### Liste électorale
+
+#### Art. 3.
+
+La liste des électeurs est établie par le comité-directeur et arrêtée le vingtième jour après la publication de la date des élections.
+
+Y sont portés les assurés obligatoires qui ont accompli l'âge de dix-huit ans à la date à laquelle la liste électorale est arrêtée.
+
+La liste est déposée au siège de la caisse pendant les trois jours qui suivent la clôture.
+
+Tout électeur est autorisé à en prendre inspection pendant les heures de bureau. Il peut en demander la rectification par requête circonstanciée et motivée au président du conseil arbitral des assurances sociales, à déposer au siège dudit conseil endéans le délai ci-dessus.
+
+Le président du conseil arbitral statue dans les trois jours qui suivent l'expiration du même délai. Sa décision est définitive.
+
+### Déclaration de candidature
+
+#### Art. 4.
+
+Ne peuvent être candidats ou témoins que les personnes de nationalité luxembourgeoise, portées sur la liste électorale et remplissant au jour des élections les conditions d'éligibilité prévues à l'article 39 de la loi modifiée du 21 mai 1951 ayant pour objet la création d'une caisse de pension des artisans, telle qu'elle a été modifiée notamment par la loi du 23 décembre 1976 portant fusion des régimes de pension des artisans et des commerçants et industriels.
+
+#### Art. 5.
+
+La présentation des candidats se fait, séparément pour les groupes visés à l'article 2, sous forme de listes à remettre au président du bureau électoral principal, au plus tard avant six heures du soir du dixième jour suivant la clôture de la liste électorale. Passé ce délai, les candidatures ne sont plus recevables.
+
+Toute liste doit comprendre au moins un nombre de candidats égal au nombre des délégués effectifs à élire.
+
+Chaque liste de candidats doit être présentée sous leur signature par vingt-cinq électeurs.
+
+Chaque liste de candidats doit être accompagnée:
+
+1\) d'une attestation délivrée à chaque candidat par le comité-directeur de la caisse, attestant qu'il est éligible et dans quel groupe, ou de la décision du président du conseil arbitral en tenant lieu;
+
+2\) d'une déclaration signée par les candidats et attestant qu'ils acceptent la candidature dans ce groupe.
+
+La liste indique le groupe auquel appartiennent les candidats, leurs noms, prénoms, professions et domiciles, ainsi que les personnes qui les présentent.
+
+Toute liste peut comprendre un nombre de candidats égal au double du nombre des délégués effectifs à élire.
+
+Chaque liste est déposée par un mandataire désigné parmi ceux qui la présentent.
+
+Lors du dépôt de la liste, le mandataire peut désigner un témoin et un témoin suppléant pour assister aux opérations du bureau électoral principal. Pour les bureaux auxiliaires un témoin et un témoin suppléant peuvent être désignés.
+
+#### Art. 6.
+
+Nul ne peut figurer comme candidat, témoin ou présentant d'une liste, s'il ne remplit pas les conditions d'électorat prévues à l'article 4.
+
+Nul ne peut figurer comme candidat sur plus d'une liste, sous peine de nullité de ses différentes candidatures.
+
+Aucun électeur ne peut valablement appuyer une candidature s'il est lui-même candidat
+
+#### Art. 7.
+
+Le président du bureau électoral principal vérifie, arrête et enregistre les listes de candidats. Il les munit de numéros d'ordre correspondant à leur ordre de présentation et les dépose à partir du onzième jour suivant la clôture de la liste électorale à l'inspection des électeurs au siège de la caisse.
+
+#### Art. 8.
+
+Les réclamations contre les candidatures sont à adresser dans les trois jours au président du conseil arbitral des assurances sociales qui statue définitivement dans les trois jours après expiration de ce délai.
+
+#### Art. 9.
+
+Si un candidat veut retirer sa candidature, il doit notifier sa volonté par exploit d'huissier au président du bureau électoral principal avant l'expiration du délai fixé pour les déclarations de candidature.
+
+### Dispense d'élection
+
+#### Art. 10.
+
+Lorsque le nombre des candidats d'un groupe ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans ce groupe ou lorsque le nombre des candidats proposés est inférieur à celui des membres effectifs et des membres suppléants à élire dans ce groupe, les candidats sont proclamés élus par le président du bureau électoral principal sans autre formalité, à condition toutefois que pour ce groupe il n'ait été présenté qu'une seule liste de candidats et que cette liste désigne expressément, d'une part, les membres effectifs et, d'autre part, les membres suppléants dans l'ordre suivant lequel ils doivent remplacer les membres effectifs. Il est tenu compte de l'article 23 du présent règlement. Il est dressé procès-verbal qui est signé par le président du bureau électoral principal; une expédition en est transmise sans retard au ministre de la sécurité sociale.
+
+En cas de présentation de deux ou de plusieurs listes pour un groupe ou d'une liste ne remplissant pas les conditions prévues à l'alinéa qui précède, il est procédé à des élections pour ce groupe nonobstant le fait que le nombre des candidats ne dépasse pas celui des candidats effectifs et suppléants à élire.
+
+#### Art. 11.
+
+Lorsque le nombre des candidats effectifs et/ou suppléants est insuffisant pour aboutir au nombre des membres prévus, le ministre de la sécurité sociale procède aux nominations nécessaires.
+
+### Bureau électoral
+
+#### Art. 12.
+
+Le bureau électoral se compose d'un président et de deux scrutateurs. Le président du bureau est nommé par le ministre de la sécurité sociale. Le président choisit les scrutateurs.
+
+Des bureaux auxiliaires peuvent être installés par le président du bureau électoral principal pour le recensement. Ils ont la même composition que le bureau électoral principal.
+
+Les bureaux sont assistés par un secrétaire.
+
+Aucun candidat ne peut faire partie des bureaux principal et auxiliaires.
+
+L'indemnisation des présidents, des membres et des secrétaires des bureaux principal et auxiliaires est fixée par le ministre de la sécurité sociale.
+
+### Bulletin de vote
+
+#### Art. 13.
+
+Le président du bureau électoral principal établit la formule des bulletins de vote qui reproduisent les numéros d'ordre des listes, leur dénomination ainsi que les noms et prénoms des candidats.
+
+Les bulletins sont uniformes pour tous les électeurs d'un même groupe.
+
+Chaque liste est surmontée d'une case réservée au vote, deux autres cases se trouvant à la suite des noms et prénoms de chaque candidat. La case de tête est noire et présente au milieu un cercle de la couleur du papier.
+
+Les bulletins de vote doivent porter au verso l'estampille de la caisse.
+
+### Droit de vote
+
+#### Art. 14.
+
+Le droit de vote est exercé personnellement.
+
+Chaque électeur dispose pour chaque groupe visé à l'article 2, alinéa 3 d'autant de suffrages qu'il y a de délégués effectifs et suppléants à élire.
+
+L'électeur peut attribuer deux suffrages aux candidats de son choix jusqu'à concurrence du total des suffrages dont il dispose. Chaque croix (+ ou x) inscrite dans l'une des deux cases réservées derrière les noms des candidats vaut un suffrage.
+
+L'électeur qui remplit le cercle de la case placée en tête d'une liste ou qui y inscrit une croix (+ ou x), adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste. Tout cercle rempli même incomplètement et toute croix, même imparfaite, expriment valablement le vote, à moins que l'intention de rendre le bulletin reconnaissable ne soit manifeste.
+
+L'électeur qui aurait détérioré son bulletin, peut en obtenir un autre du président du bureau électoral contre remise du premier qui est détruit; acte en est pris au procès-verbal. Il en est de même pour les enveloppes prévues à l'article 15.
+
+### Opérations de vote
+
+#### Art. 16.
+
+Le jour du scrutin le président remet au bureau principal les enveloppes qu'il a reçues. Aucune enveloppe n'est admise après cette opération, à moins qu'elle n'ait été remise à la poste l'avant-veille du jour de l'élection.
+
+Les noms des votants sont pointés par le secrétaire sur la liste électorale. Le nombre des votants est inscrit au procès-verbal. Après cette opération aucune enveloppe n'est plus admise quelle que soit la date de la remise à la poste. Les enveloppes extérieures sont ensuite ouvertes et détruites immédiatement. En cas de tentative de rendre l'enveloppe neutre reconnaissable, le vote est considéré comme nul et l'enveloppe neutre est détruite sans avoir été ouverte.
+
+#### Art. 17.
+
+Les enveloppes neutres sont ouverte s, les bulletins en sont retirés, et le cas échéant distribués entre le bureau principal et les bureaux auxiliaires dans les nombres inscrits au procès-verbal. Lorsqu'une enveloppe neutre contient plus de deux bulletins de vote, le vote est considéré comme nul et l'enveloppe, aussi bien que les bulletins, qui ne sont pas dépliés, sont détruits. Le procès-verbal en fait mention. Les bulletins sont dépliés par l'un des scrutateurs, soumis à l'inspection du bureau et rmis au président qui énonce nominativement les suffrages.
+
+Le second scrutateur et le secrétaire font le recensement et en tiennent note séparément. Ces notes sont paraphées par le président du bureau de recensement et annexées au procès-verbal.
+
+Les bulletins ayant donné lieu à contestation dans les bureaux auxiliaires sont renvoyés au bureau principal pour décision.
+
+Lorsque les opérations qui précèdent ne peuvent se poursuivre sans interruption, les bulletins sont gardés par le président sous enveloppes scellées.
+
+#### Art. 18.
+
+Est nul
+
+1\) tout bulletin qui n'a pas été remis par le président;
+
+2\) tout bulletin qui
+
+a) ne contient l'expression d'aucun suffrage;
+
+b) contient plus de suffrages qu'il y a de membres à élire;
+
+c) porte une marque quelconque;
+
+d) fait connaître le votant.
+
+### Attribution des sièges
+
+#### Art. 19.
+
+Pour chaque groupe le bureau principal arrête le nombre des bulletins nuls et des bulletins valables et les fait inscrire au procès-verbal. Il en est de même pour les suffrages de liste et les suffrages nominatifs.
+
+#### Art. 20.
+
+Les suffrages donnés à une liste en totalité (suffrages de liste) ou aux candidats individuellement (suffrages nominatifs) comptent à la liste pour le calcul de la répartition proportionnelle des sièges entre les listes.
+
+Le nombre total des suffrages valables des listes est divisé par le nombre des délégués effectifs à élire augmenté de un. Est appelé «nombre électoral» le nombre entier immédiatement supérieur au quotient ainsi obtenu.
+
+#### Art. 21.
+
+A l'intérieur de chaque groupe, chaque liste reçoit à la répartition autant de sièges que le nombre électoral est contenu de fois dans le nombre des suffrages qu'elle a recueillis.
+
+Une liste qui n'a pas obtenu au moins 7,5% des voix valablement exprimées n'est pas prise en considération pour la répartition des sièges.
+
+Lorsque le nombre des délégués élus à la suite de la répartition prévue par l'alinéa 1<sup>er</sup> reste inférieur à celui des délégués effectifs à élire, on divise le nombre des suffrages de chaque liste par le nombre de sièges qu'elle a déjà obtenus, augmenté de un; le siège est attribué à la liste qui obtient le quotient le plus élevé. On répète le même procédé s'il reste encore des sièges disponibles.
+
+En cas d'égalité, le siège disponible est attribué à la liste qui a recueilli le plus de suffrages.
+
+Les opérations de calcul sont à faire par un scrutateur et le secrétaire sous le contrôle du bureau.
+
+#### Art. 22.
+
+Les sièg es sont attribués, dans chaque liste et à l'intérieur de chaque groupe, aux candidats ayant obtenu le plus grand nombre de suffrages nominatifs.
+
+En cas d'égalité de suffrages, le candidat le plus âgé est élu.
+
+#### Art. 23.
+
+Aucune liste n'aura, quant aux représentants des artisans, plus d'élus par profession que le nombre maximum visé à l'article 2, alinéa S.
+
+Aucune liste n'aura, quant aux représentants des commerçants, plus d'élus par sous-groupe que le nombre maximum visé à l'article 2, alinéa 6.
+
+Les candidats qui par application des dispositions qui précèdent n'auront pas été proclamés élus, seront appelés, lors de chaque vacance, dans l'ordre des voix qu'ils ont obtenues au mandat devenu disponible dans les limites de ces dispositions.
+
+Lorsque des sièges attribués à une liste, conformément à l'article 21 restent vacants par application des deux premiers alinéas du présent article, ils sont dévolus aux autres listes du même groupe suivant la méthode prévue aux alinéas 3 et 4 de l'article 21.
+
+#### Art. 24.
+
+Les noms des délégués effectifs élus sont proclamés par le président du bureau électoral principal dès que le résultat de l'élection est connu.
+
+Il en est de même des délégués suppléants qui sont proclamés pour chaque liste au même nombre que les délégués effectifs de la liste, dans l'ordre des voix que chacun a obtenues.
+
+Il est tenu compte de l'alinéa final de l'article qui précède.
+
+Est de même proclamé le nombre de suffrages nominatifs obtenus pour chacun des autres candidats dans l'ordre des suffrages obtenus. Ils acquièrent rang de suppléant au fur et à mesure qu'il y a lieu de compléter le nombre de ceux-ci.
+
+#### Art. 25.
+
+Le procès-verbal des opérations qui précédent est dressé et signé séance tenante et conservé dans les archives de la caisse. Expédition en est transmise au plus tard le lendemain de sa signature au ministre de la sécurité sociale. Les bulletins sont tenus à la disposition du ministre de la sécurité sociale jusqu'au surlendemain de l'expiration du délai prévu pour les réclamations, dans des contenants scellés par le président. Ils peuvent être détruits dans la suite.
+
+#### Art. 26.
+
+Lorsqu'un délégué est exclu ou déchargé de ses fonctions ou lorsque, pour un motif quelconque, un délégué quitte ses fonctions avant l'expiration de son mandat, il n'est pas procédé à une élection complémentaire endéans le délai de cinq ans, mais les suppléants sont appelés aux fonctions de délégués effectifs dans l'ordre correspondant au résultat des élections, compte tenu des dispositions de l'article 23. Le remplaçant achève le mandat de celui qu'il remplace.
+
+En cas d'empêchement des membres effectifs d'une liste, et compte tenu des dispositions de l'article 23, les délégués suppléants de la même liste, dans l'ordre correspondant au résultat des élections, sont convoqués aux séances de la commission pour y siéger avec voix délibérative.
+
+S'il n'y a plus de suppléant d'une même liste, soit par l'effet du remplacement des membres effectifs, soit pour toute autre cause, il est procédé à des élections complémentaires, à moins que la vancance ne se produise dans l'année qui précède immédiatement les élections normales.
+
+### Contestations
+
+#### Art. 27.
+
+Toutes les contestations qui surgissent au sein du bureau électoral au cours du dépouillement des bulletins ou de l'attribution des sièges ou qui ont été soulevées par les témoins, sont toisées à la majorité des voix, celle du président étant prépondérante en cas de parité.
+
+Les contestations surgies dans un bureau auxiliaire sont envoyées au bureau principal.
+
+Ces contestations et décisions sont relatées succinctement au procès-verbal.
+
+La validité de l'élection peut être contestée par les candidats dans les cinq jours après la proclamation du résultat.
+
+Les recours motivés sont à adresser par écrit sous pli recommandé à la poste, au ministre de la sécurité sociale qui décide d'urgence et en dernier ressort.
+
+Suivant les circonstances il y a lieu à annulation des élections dans leur ensemble ou à révision de leur résultat.
+
+## Titre II. Du comité-directeur et des assesseurs auprès du conseil arbitral et du conseil supérieur des assurances sociales
+
+### Composition
+
+#### Art. 28.
+
+Aucune profession artisanale relevant du premier groupe ne peut être représentée par plus d'un délégué effectif et suppléant élus par liste.
+
+Chacun des trois sous-groupes mentionnés à l'alinéa final de l'article 2 a droit à au plus un délégué effectif et un délégué suppléant élus par liste, sauf que pour la période où le deuxième groupe assume la présidence, un sous-groupe a exceptionnellement droit à au plus deux délégués effectifs et deux délégués suppléants élus par liste.
+
+### Elections
+
+#### Art. 29.
+
+Le comité-directeur est élu par la commission après l'élection de celle-ci, à la date à fixer conformément à l'article 1<sup>er</sup>.
+
+L'élection se fait par vote à l'urne.
+
+Sont applicables aux élections du comité-directeur, sauf adaptation de la terminologie et pour autant que de besoin, l'article 2, alinéa 1; l'article 4; l'article S à l'exception de l'alinéa 3; les articles 6 à 11, sauf que la référence faite à l'article 23, dans le cadre de l'article 10, est à remplacer par la référence à l'article 28; l'article 12, sauf qu'il n'y a lieu qu'à constitution d'un seul bureau électoral; les articles 13 et 14; les articles 17 à 20; l'article 21, alinéas 1, 3, 4 et 5; l'article 22; l'article 23, sauf que la référence faite à l'article 2, alinéa 5 est à remplacer par la référence à l'article 28, alinéa 1 et que la référence faite à l'article 2, alinéa 6 est à remplacer par la référence à l'article 28, alinéa 2; les articles 24 à 26, sauf que la référence faite à l'article 2 dans le cadre de l'article 23 est à remplacer par la référence à l'article 28; l'article 27 à l'exception de l'alinéa 2.
+
+La présentation des candidats pour l'élection du comité-directeur se fait sous forme de listes proposées par les électeurs.
+
+Le président du bureau électoral fixe l'heure et la durée du scrutin qui sont communiquées aux électeurs par lettre recommandée.
+
+Les noms des électeurs qui se présentent pour voter sont pointés sur la liste électorale; l'électeur reçoit ensuite, des mains du président un bulletin de vote plié en quatre, à angle droit, l'estampille de la caisse à l'extérieur, et se rend dans un compartiment isolé pour le remplir.
+
+Après avoir exprimé son vote, l'électeur montre au président le bulletin dûment replié et le dépose dans l'urne; le secrétaire prend note du dépôt.
+
+#### Art. 30.
+
+Au cours de la première réunion qui est présidée par le membre le plus âgé, le comité élit dans son sein un président et un vice-président.
+
+Le président du comité-directeur est élu dans le groupe représenté par quatre membres et le vice-président dans l'autre groupe.
+
+Il est procédé par bulletins manuscrits, sans qu'il y ait lieu à présentation formelle de candidatures.
+
+Est élu président celui qui a obtenu la majorité absolue des voix. A défaut de cette majorité, l'élection est reportée à un autre jour. Si cette deuxième élection n'a pas encore donné de résultat, l'autorité de surveillance désigne un délégué, pris en dehors des membres du comité-directeur, pour exercer les droits et devoirs du président aux frais de la caisse jusqu'à ce qu'une décision définitive soit intervenue. Un recours contre cette désignation peut être formé par le comité-directeur auprès du membre du Gouvernement ayant dans ses attributions l'exécution de la présente loi, dans le délai de dix jours après la notification de la décision.
+
+L'élection du vice-président se fait à la majorité relative. En cas de parité des voix, le membre le plus âgé l'emporte. En cas d'égalité d'âge, le sort décide.
+
+#### Art. 31.
+
+La détermination des assesseurs auprès du conseil arbitral et du conseil supérieur des assurances sociales et de leurs suppléants a lieu d'après les dispositions de l'article 29, sauf que les articles 23 et 28 ne sont pas applicables.
+
+Les assesseurs et leurs suppléants sont choisis moitié parmi les ressortissants de la chambre des métiers et moitié parmi les ressortissants de la chambre de commerce.
+
+En cas de besoin, les assesseurs auprès du conseil arbitral et du conseil supérieur des assurances sociales sont compétents pour siéger dans toutes les affaires déférées à ces juridictions, quelle que soit leur appartenance à un des groupes professionnels prévus à l'article 2 du présent règlement.
+
+Si les assesseurs n'ont pas pu être désignés, les contestations sont jugées en première instance par le président du conseil arbitral et en instance d'appel par le conseil supérieur des assurances sociales, composé de son président et de deux assesseurs magistrats.
+
+#### Art. 32.
+
+Les fonctions de membre du comité-directeur, de membre de la commission, d'assesseur auprès du conseil arbitral des assurances sociales ou d'assesseurs auprès du conseil supérieur des assurances sociales, sont incompatibles. L'acceptation d'une de ces fonctions entraîne la perte d'une autre de ces fonctions.
+
+## Titre III. Disposition s finales
+
+### Art. 33.
+
+Les jours indiqués dans le présent règlement s'étendent comme jours ouvrables à l'exclusion des samedis, dimanches, jours fériés légaux et jours fériés de rechange.
+
+### Art. 34.
+
+Les frais des élections sont considérés comme frais administratifs.
+
+### Art. 35.
+
+Le règlement grand-ducal du 12 avril 1977 concernant les élections prévues par la loi du 21 mai 1951 ayant pour objet la création d'une caisse de pension des artisans, telle qu'elle a été modifiée notamment par la loi du 23 décembre 1976 portant fusion des régimes de pension des artisans et des commerçants et industriels est abrogé.
+
+## Art. 36.
+
+Notre Ministre de la sécurité sociale et Notre Ministre des finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.
+
+Le Ministre de la Sécurité sociale, <br> Benny Berg <br> Le Ministre des Finances, <br> Jacques Santer
+
+Château de Berg, le 9 avril 1987. <br> Jean

@@ -1,0 +1,71 @@
+---
+title: "Règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public et modifiant \\n a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, \\n b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 2011-02-27
+last_amended: 2023-07-01
+consolidated: true
+publication_date: 2011-03-23
+entry_into_force: 2011-03-27
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/consolide/20230701"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public et modifiant \n a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, \n b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal.
+
+## Art. 1<sup>er</sup>.
+
+Sont désignés comme emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes comportant une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public:
+
+1\. les fonctions de secrétaire général adjoint, de secrétaire général et de secrétaire-administrateur général;
+
+2\. les fonctions de receveur général;
+
+3\. les fonctions de secrétaire communal et de secrétaire-rédacteur;
+
+4\. les fonctions de receveur communal;
+
+5\. les fonctions de garde champêtre.
+
+6\. les fonctions d’agent municipal qui constate les infractions qui peuvent faire l’objet de sanctions administratives communales et les fonctions d’agent municipal qui remplit les conditions de l’article 15-1*bis* du [Code de procédure pénale](https://legilux.public.lu/eli/etat/leg/code/procedure_penale).[^1]
+
+## Art. 2.
+
+Le [règlement grand-ducal du 15 novembre 2001](https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n1) concernant le régime des employés communaux est modifié comme suit:
+
+1\. A l’article 2, alinéa 1<sup>er</sup>, les termes à durée indéterminée et pour une tâche égale ou supérieure à 25 pour cent d’une tâche complète, sont remplacés par les termes pour une tâche complète ou partielle et à durée déterminée ou indéterminée.
+
+2\. A l’article 3, alinéa 1<sup>er</sup>, le point a) est remplacé comme suit: être ressortissant d’un Etat membre de l’Union Européenne;».
+
+3\. A l’article 3, alinéa 1<sup>er</sup>, au point e) le terme adéquate est remplacé par les termes adaptée au niveau de carrière.
+
+4\. Le deuxième alinéa de l’article 3 est abrogé.
+
+5\. A l’article 6, au paragraphe 1., le point a) est remplacé comme suit: de la perte de la nationalité de l’un des Etats membres de l’Union Européenne;».
+
+6\. Au deuxième alinéa du paragraphe 2. de l’article 6, le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne.
+
+7\. L’alinéa 1<sup>er</sup> du premier paragraphe de l’article 8 est remplacé comme suit: 1. Sans préjudice de l’application des dispositions de l’article 9 du présent règlement, l’employé communal en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit, pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires communaux s’il remplit une des conditions suivantes: s’il a à son actif vingt ans de service à compter de l’entrée en vigueur du contrat à durée indéterminée; à partir de l’âge de cinquante-cinq ans.
+
+8\. A l’article 9, au paragraphe 1. sous le point c), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne.
+
+9\. A l’article 9, au paragraphe 1. sous le point d), le mot luxembourgeoise est remplacé par les termes de l’un des Etats membres de l’Union Européenne.
+
+10\. A l’article 9, au paragraphe 1., il est ajouté un nouvel point e), libellé comme suit: les périodes passées au service de l’Etat en qualité de fonctionnaire ou d’employé de l’Etat à condition que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée; l’interruption de cette dernière ne nuit pas à la prise en compte des périodes antérieures passées au service d’une commune ou de l’Etat, lorsqu’il y a reprise de service ultérieure.
+
+## Art. 3.
+
+Le [règlement grand-ducal modifié du 25 septembre 1998](https://legilux.public.lu/eli/etat/leg/rgd/1998/09/25/n4/jo) fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal est modifié comme suit:
+
+A l’article 2, alinéa 1<sup>er</sup>, au point 4., le terme adéquate est remplacé par les termes adaptée au niveau de carrière.
+
+## Art. 4.
+
+Notre Ministre de l’Intérieur et à la Grande Région est chargé de l’exécution du présent règlement qui sera publié au Mémorial.
+
+---
+
+[^1]: [Règlement grand-ducal du 25 mai 2023 : 1° modifiant : a) le règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux ; b) le règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux ; c) le règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’État ou des autres personnes morales de droit public et modifiant a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal ; d) le règlement grand-ducal modifié du 14 août 2017 déterminant pour les fonctionnaires et employés communaux : I. les cas d’exception ou de tempérament aux conditions du service provisoire ; II. la bonification d’ancienneté de service pour la fixation du traitement initial ; III. la procédure d’attribution d’une prime pour les détenteurs d’un doctorat ; 2° abrogeant l’arrêté grand-ducal du 16 novembre 1939 concernant la création de gardes civiques dans les communes.](https://legilux.public.lu/eli/etat/leg/rgd/2023/05/25/a292/jo)

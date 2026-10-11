@@ -1,0 +1,184 @@
+---
+title: "Règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/07/22/a322"
+type: regulation
+jurisdiction: lu
+language: fr
+date: 2024-07-22
+last_amended: 2026-02-23
+consolidated: true
+publication_date: 2024-07-30
+entry_into_force: 2023-01-01
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/22/a322/consolide/20260223"
+retrieved: 2026-10-12
+---
+
+# Règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.
+
+## Chapitre 1<sup>er</sup> — Dispositions générales
+
+### Art. 1<sup>er</sup>.
+
+Pour l’application du présent règlement, on entend par :
+
+1° « parcelle viticole » : toute surface contiguë plantée de vignes et déclarée dans la demande géospatialisée prévue à l’article 97 de la [loi du 2 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/02/a489/jo) concernant le soutien au développement durable des zones rurales ;
+
+2° « vignoble en pente » : la parcelle viticole dont la pente moyenne est inférieure à 30 pour cent ;
+
+3° « vignoble en pente raide » : la parcelle viticole dont la pente moyenne est supérieure ou égale à 30 pour cent ;
+
+4° « vignoble en pente très raide » : la parcelle viticole dont la pente moyenne est supérieure ou égale à 45 pour cent et sur laquelle les travaux d’entretien ne peuvent être exécutés moyennant des engins à traction directe ;
+
+5° « vignoble en terrasses » : la parcelle viticole qui est constituée d’un exhaussement de sol maintenu par un ouvrage de soutènement et sur laquelle les travaux d’entretien ne peuvent être exécutés moyennant des engins à traction directe ;
+
+6° « variétés traditionnelles » : Auxerrois, Blauer Limberger (ou Lemberger), Cabernet Dorsa, Chardonnay, Dakapo, Dornfelder, Elbling,[^1] Gamaret, Gamay, Gewürztraminer, Merlot, Muscat Ottonel, Pinot blanc, Pinot gris (ou Ruländer), Pinot meunier (ou Schwarzriesling), Pinot noir, Pinot noir précoce, Pinotage, Riesling, Rivaner (ou Muller Thurgau),[^2] Saint Laurent, Sauvignon blanc, Sauvignon gris, Sylvaner ou Zweigelt ;
+
+7° « variétés interspécifiques » : Blütenmuskateller, Bronner, Cabaret Noir, Cabernet Blanc, Cabernet Cortis, Cabernet Jura, Cabertin, Calardis Blanc, Calardis Royal, Carillon, Divico, Donauriesling, Donauveltliner, Fidelio, Floreal, Helios, Hibernal, Johanniter, Laurot, Merzling, Muscaris, Pamina, Pinotin, Pinot Nova, Regent, Rondo, Satin Noir, Sauvignac, Solaris, Souvignier gris, Villaris, Voltis ;[^3]
+
+8° « Unité de contrôle » : le service tel que défini à l’article 1<sup>er</sup> du [règlement grand-ducal du 22 décembre 2023](https://legilux.public.lu/eli/etat/leg/rgd/2023/12/22/a867/jo) portant introduction de règles communes à certaines interventions financières prévues par la [loi du 2 août 2023](https://legilux.public.lu/eli/etat/leg/loi/2023/08/02/a489/jo) concernant le soutien au développement durable des zones rurales.
+
+## Chapitre 2 — Conditions d’admissibilité
+
+### Art. 2.
+
+Avant l’arrachage, les conditions suivantes doivent être respectées :
+
+1° les parcelles viticoles doivent avoir une superficie contiguë minimale de 5 ares pour les vignobles en pente très raide ou en terrasses et une superficie minimale de 10 ares pour les autres vignobles. Cette condition n’est pas applicable à la plantation de vignobles à des fins expérimentales ;
+
+2° les surfaces plantées ne doivent pas être comprises dans le périmètre d’un remembrement, à partir de la publication du règlement grand-ducal donnant suite à un projet de remembrement ;
+
+3° les parcelles viticoles doivent avoir été plantées depuis plus de dix ans au moment de l’introduction de la demande ;
+
+4° l’écartement des rangs avant l’arrachage doit être inférieur à 1,90 mètres pour les vignobles en pente et pour les vignobles en pente raide ou 1,60 mètres pour les vignobles en pente très raide et pour les vignobles en terrasses. Cette condition est uniquement applicable à l’augmentation de l’écartement des rangs.
+
+## Chapitre 3 — Conditions d’allocation
+
+### Art. 3.
+
+(1) Dans les vignobles en pente raide, les vignobles en pente très raide et les vignobles en terrasses, les mesures de restructuration et de reconversion doivent porter au moins sur l’une des actions suivantes :
+
+1° l’augmentation de l’écartement des rangs ;
+
+2° la reconversion variétale par plantation des variétés traditionnelles ou des variétés interspécifiques ;
+
+3° la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1<sup>er</sup>, points 6 et 7.
+
+(2) Dans les vignobles en pente raide, la mesure de restructuration et de reconversion peut également porter sur la plantation des variétés traditionnelles ou des variétés interspécifiques avec utilisation de piquets métalliques, le piquet de tête pouvant être un piquet en bois.
+
+### Art. 4.
+
+Dans les vignobles en pente, les mesures de restructuration et de reconversion doivent porter au moins sur l’une des actions suivantes :
+
+1° l’augmentation de l’écartement des rangs ;
+
+2° la reconversion variétale par plantation des variétés interspécifiques ;
+
+3° la plantation à des fins expérimentales, sur une surface maximale de 10 ares, de variétés de raisins de cuve autres que celles prévues à l’article 1<sup>er</sup>, points 6 et 7 ;
+
+4° la plantation des variétés traditionnelles ou des variétés interspécifiques avec utilisation de piquets métalliques, le piquet de tête pouvant être un piquet en bois.
+
+### Art. 5.
+
+L’allocation de l’aide est subordonnée, après achèvement des travaux, au respect des conditions suivantes :
+
+1° après la mise en place des mesures, la densité de plantation ne peut être inférieure à deux mille cinq cents pieds par hectare ;
+
+2° le nouvel écartement des rangs doit mesurer au moins 1,60 mètres pour les vignobles en pente très raide ou en terrasses et 1,90 mètres pour les autres vignobles ;
+
+3° le matériel utilisé pour la constitution de la surface plantée de vignes doit être à l’état neuf.
+
+## Chapitre 4 — Montants de l’aide
+
+### Art. 6.
+
+(1) L’aide par hectare pour les surfaces plantées présentant une densité de plantation minimale de quatre mille pieds par hectare est fixée à :
+
+1° 30 000 euros pour les vignobles en terrasses ;
+
+2° 22 000[^4] euros pour les vignobles en pente très raide ;
+
+3° 16 000[^5] euros pour les vignobles en pente raide ;
+
+4° 14 000[^6] euros pour les vignobles en pente.
+
+(2) L’aide est diminuée de 30 pour cent :
+
+1° si la densité de plantation de la surface replantée est inférieure à quatre mille pieds par hectare ;
+
+2° pour les vignes non palissées.
+
+(3) Pour la détermination de la pente moyenne des vignobles en terrasses qui peuvent être entretenus avec un tracteur viticole, il est tenu compte de la pente naturelle du terrain.
+
+(4) Une tolérance en faveur de l’administré de 3 points de pourcentage est appliquée au pourcentage de la pente.
+
+(5) L’aide ne peut être cumulée avec une autre aide à l’arrachage ou à la plantation d’une parcelle viticole.
+
+## Chapitre 5 — Dispositions administratives et de contrôle
+
+### Art. 7.
+
+Sont exclues du bénéfice de l’aide :
+
+1° les entreprises faisant l’objet d’une injonction de récupération suivant une décision de la Commission déclarant une aide illégale et incompatible avec le marché intérieur ;
+
+2° les entreprises en difficulté au sens du [règlement (UE) 2022/2472](https://legilux.public.lu/eli/reg_ue/2022/2472/jo) de la Commission du 14 décembre 2022 déclarant certaines catégories d’aides dans les secteurs agricole et forestier et dans les zones rurales compatibles avec le marché intérieur en application des articles 107 et 108 du [traité sur le fonctionnement de l’Union européenne](http://data.europa.eu/eli/treaty/tfeu_2012/oj), tel que modifié.
+
+### Art. 8.
+
+La demande d’aide comporte pour chaque parcelle viticole :
+
+1° les nom, prénom et adresse du demandeur ;
+
+2° les nom, prénom et adresse du propriétaire si le demandeur n’est pas propriétaire de la parcelle viticole ;
+
+3° la localisation et l’identification de la parcelle viticole à arracher ;
+
+4° la surface à replanter, exprimée en ares ;
+
+5° la pente moyenne de la parcelle viticole et l’indication si la parcelle viticole peut être exploitée à l’aide d’un tracteur viticole ;
+
+6° l’âge, la variété cultivée, l’inter-rang et le mode de conduite de la surface viticole à arracher ;
+
+7° la variété, l’inter-rang et le mode de conduite de la surface viticole à replanter ;
+
+8° la date à laquelle l’arrachage est prévu.
+
+Pour les parcelles viticoles dont le demandeur n’est pas propriétaire, l’autorisation des travaux par le propriétaire est à joindre.
+
+### Art. 9.
+
+(1) La demande d’aide est à introduire auprès du Service d’économie rurale au moins un mois avant l’arrachage de la vigne. Un formulaire est mis à la disposition des intéressés.
+
+L’Institut viti-vinicole contrôle l’état de la parcelle avant arrachage et fait rapport au Service d’économie rurale.
+
+(2) La demande de paiement est à introduire auprès du Service d’économie rurale. Un formulaire est mis à la disposition des intéressés. La demande de paiement comporte la date de la fin des travaux qui doit se situer au plus tard dans l’année qui suit la demande de paiement.
+
+(3) L’Unité de contrôle fait rapport au Service d’économie rurale sur l’exécution des travaux.
+
+(4) Après instruction de la demande d’aide et de la demande de paiement, le Service d’économie rurale la soumet au ministre ayant la Viticulture dans ses attributions pour décision. La décision est notifiée au demandeur.
+
+(5) Le paiement de l’aide est effectué après la fin des travaux sur proposition du Service d’économie rurale.
+
+### Art. 10.
+
+Le [règlement grand-ducal du 28 avril 2017](https://legilux.public.lu/eli/etat/leg/rgd/2017/04/28/a477/jo) relatif à l’aide à la restructuration et à la reconversion des vignobles est abrogé.
+
+Il continue de s’appliquer aux demandes d’aide approuvées sur sa base.
+
+### Art. 11.
+
+Le présent règlement produit ses effets au 1<sup>er</sup> janvier 2023.
+
+### Art. 12.
+
+Le ministre ayant la Viticulture dans ses attributions et le ministre ayant les Finances dans ses attributions, sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.
+
+---
+
+[^1]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
+[^2]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
+[^3]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
+[^4]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
+[^5]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
+[^6]: [Règlement grand-ducal du 11 février 2026 modifiant le règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.](https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/jo)
