@@ -21,7 +21,9 @@ Retrieved: {{date}}.
 | **Total** | | **{{total}}** | | |
 
 Images embedded in the official XML (formulas, diagrams, signs, forms; {{images}} files) are
-extracted to [`images/`](images/) and linked from the texts.
+extracted to [`images/`](images/) and linked from the texts. Images larger than 500 KB (scanned
+maps, cadastral plans, large forms — about 340 images, ~1 GB in total) are not copied; the text
+then contains a note *"[image omitted (… MB) — see the official version: <URL>]"*.
 
 ### Codes
 
