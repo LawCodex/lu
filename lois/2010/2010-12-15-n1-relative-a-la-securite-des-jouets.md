@@ -1,0 +1,614 @@
+---
+title: "Loi du 15 décembre 2010 relative à la sécurité des jouets."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1"
+type: act
+jurisdiction: lu
+language: fr
+date: 2010-12-15
+last_amended: 2016-04-20
+consolidated: true
+publication_date: 2010-12-17
+entry_into_force: 2010-12-21
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20160420"
+retrieved: 2026-10-12
+---
+
+# Loi du 15 décembre 2010 relative à la sécurité des jouets.
+
+## Chapitre 1<sup>er</sup> — Dispositions générales
+
+### Art. 1<sup>er</sup> — *- Objet*
+
+La présente loi fixe des règles en matière de sécurité des jouets et de leur libre circulation dans l’Union européenne.
+
+### Art. 2 — *- Champ d’application*
+
+(1) La présente loi s’applique aux produits conçus ou destinés, exclusivement ou non, à être utilisés à des fins de jeu par des enfants de moins de 14 ans, ci-après dénommés «jouets».
+
+Ne sont pas considérés comme des jouets au sens de la présente loi les produits énumérés à l’annexe I de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive.
+
+(2) La présente loi ne s’applique pas aux jouets suivants:
+
+a) équipements pour aires collectives de jeu destinées à une utilisation publique;
+
+b) machines de jeu automatiques, à pièces ou non, destinées à une utilisation publique;
+
+c) véhicules de jeu équipés de moteurs à combustion;
+
+d) jouets machine à vapeur, et
+
+e) frondes et lance-pierres.
+
+### Art. 3 — *- Définitions*
+
+Aux fins de la présente loi, on entend par:
+
+\*accréditation*: l’accréditation au sens du [règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo);
+
+\*danger*: une source potentielle d’effet dommageable;
+
+\*[décision n° 768/2008/CE](https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32008D0768)* : décision du Parlement européen et du Conseil du 9 juillet 2008 relative à un cadre commun pour la commercialisation des produits et abrogeant la [décision 93/465/CEE](http://data.europa.eu/eli/dec/1993/465/oj) du Conseil;
+
+\*destiné à être utilisé par*: les parents ou la personne chargée de la surveillance peuvent raisonnablement déduire des fonctions, dimensions et caractéristiques d’un jouet que celui-ci est destiné à être utilisé par des enfants de la catégorie d’âge indiquée;
+
+\*distributeur*: toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un jouet à disposition sur le marché;
+
+\*effet dommageable*: une blessure physique ou tout autre effet néfaste pour la santé, en ce compris les effets à long terme;
+
+\*ensemble cosmétique*: un jouet dont l’objet est d’aider l’enfant à apprendre à fabriquer des produits tels que substances parfumantes, savons, crèmes, shampoings, mousses pour le bain, vernis, rouge à lèvres, autre maquillage, dentifrice et adjuvants;
+
+\*évaluation de la conformité*: le processus démontrant si des exigences spécifiées relatives à un jouet ont ou non été respectées;
+
+\*fabricant*: toute personne physique ou morale qui fabrique un jouet, ou fait concevoir ou fabriquer un jouet, et le commercialise sous son propre nom ou sa propre marque;
+
+\*importateur*: toute personne physique ou morale établie dans l’Union européenne qui met un jouet provenant d’un pays tiers sur le marché communautaire;
+
+\*Institut*: Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services créé par la [loi du 4 juillet 2014[^1]](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo) ;
+
+\*jeu de table olfactif*: un jeu dont l’objet est d’aider un enfant à apprendre à reconnaître différents parfums ou odeurs;
+
+\*jeu gustatif*: un jouet pouvant comporter l'utilisation d'ingrédients alimentaires, tels qu'édulcorants, liquides, poudres et arômes, permettant aux enfants de confectionner des friandises ou des préparations culinaires[^11];
+
+\*jouet aquatique*: un jouet destiné à être utilisé en eaux peu profondes et apte à porter ou à soutenir un enfant sur l’eau;
+
+\*jouet chimique*: un jouet destiné à la manipulation directe de substances et de mélanges chimiques et qui est destiné à être utilisé, à un âge approprié, sous la surveillance d’adultes;
+
+\*jouet d’activité*: un jouet destiné à un usage familial et dont la structure portante reste fixe pendant l’activité et qui est destiné aux enfants pour pratiquer l’une des activités suivantes: grimper, sauter, se balancer, glisser, basculer, tournoyer, ramper, se faufiler ou toute combinaison de ces activités;
+
+\*jouet fonctionnel*: un jouet qui fonctionne et qui est utilisé de la même manière qu’un produit, un appareil ou une installation destinés à être utilisés par des adultes, et qui peut constituer un modèle réduit d’un tel produit, appareil ou installation;
+
+\*législation communautaire d’harmonisation*: toute législation communautaire harmonisant les conditions de commercialisation des produits;
+
+\*[loi du 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)* : [loi du 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo) portant réorganisation de l’ILNAS[^2];
+
+\*[loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo)* : [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo) sur le régime des langues;
+
+\*mandataire*: toute personne physique ou morale établie dans l’Union européenne ayant reçu mandat écrit d’un fabricant pour agir en son nom aux fins de l’accomplissement de tâches déterminées;
+
+\*marquage CE*: le marquage par lequel le fabricant indique que le jouet est conforme aux exigences applicables énoncées dans la législation communautaire d’harmonisation prévoyant son apposition;
+
+\*mise à disposition sur le marché:* toute fourniture d’un jouet destiné à être distribué, consommé ou utilisé sur le marché communautaire dans le cadre d’une activité commerciale, à titre onéreux ou gratuit;
+
+\*mise sur le marché*: la première mise à disposition d’un jouet sur le marché communautaire;
+
+\*norme harmonisée*: une norme adoptée par l’un des organismes européens de normalisation énumérés à l’annexe I de la [directive 98/34/CE](http://legilux.public.lu/eli/dir_ue/1998/34/jo) sur la base d’une demande formulée par la Commission européenne, conformément à l’article 6 de ladite directive;
+
+\*opérateurs économiques*: le fabricant, le mandataire, l’importateur et le distributeur;
+
+\*organisme d’évaluation de la conformité*: l’organisme procédant à des activités d’évaluation de la conformité, y compris l’étalonnage, les essais, la certification et l’inspection;
+
+\*produit fonctionnel*: un produit qui fonctionne et est utilisé de la même manière qu’un produit, un appareil ou une installation destinés à être utilisés par des adultes, et qui peut constituer un modèle réduit d’un tel produit, appareil ou installation;
+
+\*rappel*: toute mesure visant à obtenir le retour d’un jouet qui a déjà été mis à la disposition de l’utilisateur final;
+
+\*[règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo)* : [règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo) du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le [règlement (CEE) n° 339/93](http://legilux.public.lu/eli/reg_ue/1993/339/jo) du Conseil;
+
+\*retrait*: toute mesure visant à empêcher la mise à disposition sur le marché d’un jouet de la chaîne d’approvisionnement;
+
+\*risque*: un taux probable de fréquence d’un danger causant un effet dommageable et le degré de gravité de ce dernier;
+
+\*surveillance du marché*: les opérations effectuées et les mesures prises par l’Institut pour veiller à ce que les jouets soient conformes aux exigences applicables énoncées par la législation communautaire d’harmonisation et ne portent pas atteinte à la santé, ni à la sécurité ou à tout autre aspect de la protection de l’intérêt public;
+
+\*vitesse nominale*: la vitesse de fonctionnement normale déterminée par la conception du jouet.
+
+## Chapitre 2 — Obligations des opérateurs économiques
+
+### Art. 4 — *- Obligations des fabricants*
+
+(1) Lorsqu’ils mettent leurs jouets sur le marché, les fabricants s’assurent que ceux-ci ont été conçus et fabriqués conformément aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](https://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+(2) Les fabricants rédigent la documentation technique exigée conformément à l’article 20 et effectuent, ou ont effectué, la procédure d’évaluation de la conformité applicable conformément à l’article 18.
+
+Lorsqu’il a été démontré, à l’aide de cette procédure, que le jouet respecte les exigences applicables, les fabricants établissent une déclaration «CE» de conformité, telle que visée à l’article 14, et apposent le marquage CE visé à l’article 16, paragraphe 1<sup>er</sup>.
+
+(3) Les fabricants conservent la documentation technique et la déclaration «CE» de conformité pendant une durée de dix ans à partir de la mise du jouet sur le marché.
+
+(4) Les fabricants veillent à ce que des procédures soient en place pour que la production en série reste conforme. Il est dûment tenu compte des modifications de la conception ou des caractéristiques du jouet ainsi que des modifications des normes harmonisées par rapport auxquelles la conformité d’un jouet est déclarée.
+
+Lorsque cela est jugé approprié eu égard aux risques présentés par un jouet, les fabricants effectuent, pour protéger la santé et la sécurité des consommateurs, des essais par sondage sur les jouets commercialisés, enquêtent sur les réclamations et, le cas échéant, tiennent un registre de celles-ci ainsi que des jouets non conformes et rappelés, et informent les distributeurs d’un tel suivi.
+
+(5) Les fabricants veillent à ce que leurs jouets portent un numéro de type, de lot, de série ou de modèle ou tout autre élément permettant leur identification ou, lorsque la taille ou la nature du jouet ne le permet pas, que les information requises figurent sur l’emballage ou dans un document accompagnant le jouet.
+
+(6) Les fabricants indiquent sur le jouet leur nom, leur raison sociale ou leur marque déposée et l’adresse à laquelle ils peuvent être contactés ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le jouet. L’adresse indique un seul endroit où le fabricant peut être contacté.
+
+(7) Les fabricants veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité rédigées dans au moins une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo).
+
+(8) Les fabricants qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire. En outre, si le jouet présente un risque, les fabricants en informent immédiatement l’Institut et les autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et toute mesure corrective adoptée.
+
+(9) A la demande motivée de l’Institut, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo). Ils coopèrent, à la demande de l’Institut, à toute mesure prise pour éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+
+### Art. 5 — *- Mandataires*
+
+(1) Un fabricant peut désigner, par mandat écrit, un mandataire.
+
+(2) Les obligations prévues à l’article 4, paragraphe 1<sup>er</sup>, et l’établissement de la documentation technique ne peuvent être confiés au mandataire.
+
+(3) Le mandataire exécute les tâches spécifiées dans le mandat reçu du fabricant. Le mandat autorise le mandataire, au minimum:
+
+a) à tenir la déclaration «CE» de conformité et la documentation technique à la disposition de l’Institut pendant une durée de dix ans à partir de la mise du jouet sur le marché;
+
+b) à la demande motivée de l’Institut, à lui communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité d’un jouet;
+
+c) à coopérer à la demande de l’Institut à toute mesure prise pour éliminer les risques présentés par les jouets couverts par le mandat.
+
+### Art. 6 — *- Obligations des importateurs*
+
+(1) Les importateurs ne mettent sur le marché communautaire que des jouets conformes.
+
+(2) Avant de mettre un jouet sur le marché, les importateurs s’assurent que la procédure appropriée d’évaluation de la conformité a été appliquée par le fabricant.
+
+Ils s’assurent que le fabricant a établi la documentation technique relative au produit, que le jouet porte le marquage de conformité requis, qu’il est accompagné des documents nécessaires et que le fabricant a satisfait aux exigences visées à l’article 4, paragraphes 5 et 6.
+
+Lorsqu’un importateur considère, ou a des raisons de croire, qu’un jouet n’est pas conforme aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il ne met pas le jouet sur le marché tant que le jouet n’a pas été mis en conformité avec ces exigences. En outre, dans le cas où le jouet présente un risque, l’importateur en informe le fabricant ainsi que l’Institut.
+
+(3) Les importateurs indiquent leur nom, leur raison sociale ou leur marque déposée et l’adresse à laquelle ils peuvent être contactés sur le jouet ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le jouet.
+
+(4) Les importateurs veillent à ce que le jouet soit accompagné d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo).
+
+(5) Tant qu’un jouet est sous leur responsabilité, les importateurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité avec les exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+(6) Lorsqu’une telle mesure apparaît nécessaire compte tenu des risques présentés par un jouet, les importateurs effectuent, aux fins de la protection de la santé et de la sécurité des consommateurs, des essais par sondage sur les jouets commercialisés, examinent les réclamations, les jouets non conformes et les rappels de jouets et, le cas échéant, tiennent un registre en la matière, et informent les distributeurs de ce suivi.
+
+(7) Les importateurs qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire. En outre, au cas où le jouet présente un risque, les importateurs en informent immédiatement l’Institut et les autres autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective adoptée.
+
+(8) Pendant une durée de dix ans à partir de la mise du jouet sur le marché, les importateurs tiennent une copie de la déclaration «CE» de conformité à la disposition de l’Institut et s’assurent que la documentation technique peut être fournie à l’Institut, sur demande.
+
+(9) A la demande motivée de l’Institut, les importateurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la [loi du 24 février 1984](http://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo). Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+
+### Art. 7 — *- Obligations des distributeurs*
+
+(1) Lorsqu’ils mettent un jouet à disposition sur le marché, les distributeurs agissent avec la diligence requise en ce qui concerne les exigences applicables.
+
+(2) Avant de mettre un jouet à disposition sur le marché, les distributeurs vérifient qu’il porte le marquage ou les marquages de conformité requis, qu’il est accompagné des documents requis et d’instructions et d’informations de sécurité dans au moins une des trois langues administratives désignées dans la [loi du 24 février 1984](http://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo), et que le fabricant et l’importateur ont respecté les exigences visées respectivement à l’article 4, paragraphes 5 et 6, et à l’article 6, paragraphe 3.
+
+Lorsqu’un distributeur considère, ou a des raisons de croire, qu’un jouet n’est pas conforme aux exigences essentielles de sécurité visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il ne met le jouet à disposition sur le marché qu’après que ce jouet a été mis en conformité avec ces exigences. En outre, si le produit présente un risque, le distributeur en informe le fabricant ou l’importateur ainsi que l’Institut.
+
+(3) Tant qu’un jouet est sous leur responsabilité, les distributeurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+(4) Les distributeurs qui considèrent, ou ont des raisons de croire, qu’un jouet qu’ils ont mis à disposition sur le marché n’est pas conforme à la législation communautaire d’harmonisation applicable, veillent à ce que les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire, soient prises. En outre, si le jouet présente un risque, les distributeurs en informent immédiatement l’Institut et les autres autorités nationales compétentes des Etats membres dans lesquels ils ont mis le jouet à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective adoptée.
+
+(5) A la demande motivée de l’Institut, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du jouet, en anglais ou dans une des trois langues administratives désignées dans la [loi du 24 février 1984](http://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo). Ils coopèrent, à la demande de l’Institut, à toute mesure adoptée en vue d’éliminer les risques présentés par des jouets qu’ils ont mis sur le marché.
+
+### Art. 8 — *- Cas dans lesquels les obligations des fabricants s’appliquent aux importateurs et aux distributeurs*
+
+Un importateur ou un distributeur est considéré comme un fabricant aux fins de la présente loi et il est soumis aux obligations incombant au fabricant en vertu de l’article 4, lorsqu’il met un jouet sur le marché sous son propre nom ou sa propre marque, ou modifie un jouet déjà mis sur le marché de telle sorte que sa conformité avec les exigences applicables risque d’en être affectée.
+
+### Art. 9 — *- Identification des opérateurs économiques*
+
+Sur demande, les opérateurs économiques identifient à l’intention de l’Institut:
+
+a) tout opérateur économique qui leur a fourni un jouet;
+
+b) tout opérateur économique auquel ils ont fourni un jouet.
+
+Les opérateurs économiques doivent être en mesure de fournir les informations visées au premier alinéa pendant une durée de dix ans à partir de la date de mise du jouet sur le marché, dans le cas du fabricant, et pendant une durée de dix ans à partir de la date où le jouet leur a été fourni, dans le cas des autres opérateurs économiques.
+
+## Chapitre 3 — Conformité des jouets
+
+### Art. 10 — *- Exigences essentielles de sécurité*
+
+(1) Les jouets mis sur le marché doivent répondre aux exigences essentielles de sécurité visées au paragraphe 2, en ce qui concerne l’obligation générale de sécurité, et à l’annexe II de la [directive 2009/48/CE](https://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, en ce qui concerne les exigences particulières de sécurité.
+
+(2) Les jouets, y compris les produits chimiques qu’ils contiennent, ne doivent pas mettre en danger la sécurité ou la santé des utilisateurs ou celles de tiers lorsqu’ils sont utilisés conformément à la destination du jouet ou à l’usage prévisible, en tenant compte du comportement des enfants.
+
+La capacité des utilisateurs et, le cas échéant, de leurs surveillants est prise en compte, notamment dans le cas de jouets qui sont destinés à des enfants de moins de trente-six mois ou à d’autres tranches d’âge déterminées.
+
+Les étiquettes apposées conformément à l’article 11, paragraphe 2, ainsi que le mode d’emploi qui accompagne les jouets attirent l’attention des utilisateurs ou de leurs surveillants sur les dangers et les risques d’effets dommageables inhérents à l’utilisation des jouets, et sur la manière de les éviter.
+
+(3) Les jouets mis sur le marché sont conformes aux exigences essentielles de sécurité durant leur durée d'utilisation prévisible et normale.[^12]
+
+### Art. 11 — - Avertissements
+
+(1) Pour assurer une utilisation en toute sécurité, les avertissements donnés aux fins de l’article 10, paragraphe 2, spécifient les limites d’utilisation appropriées, conformément à la partie A de l’annexe V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive.
+
+En ce qui concerne les catégories de jouets énumérées dans la partie B de l’annexe V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive, les avertissements qui y figurent sont pris en compte. Les avertissements visés aux points 2 à 10 de la partie B de l’annexe V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive sont utilisés tels quels.
+
+Aucun des avertissements spécifiques établis dans la partie B de l’annexe V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive ne peut être apposé, si ces avertissements sont en contradiction avec l’utilisation à laquelle le jouet est destiné de par ses fonctions, ses dimensions ou ses caractéristiques.
+
+(2) Le fabricant indique les avertissements de manière clairement visible et facilement lisible, aisément compréhensible et précise sur le jouet, sur une étiquette apposée ou sur l’emballage et, le cas échéant, dans les instructions d’utilisation qui accompagnent le jouet. Les petits jouets vendus sans emballage portent directement le marquage des avertissements appropriés.
+
+Les avertissements sont précédés du mot «attention».
+
+Les avertissements qui déterminent la décision d’achat du jouet, par exemple ceux spécifiant l’âge minimum et l’âge maximum des utilisateurs, et les autres avertissements applicables visés à l’annexe V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par les actes de la Commission européenne pris en conformité de l’article 46 de cette directive figurent sur l’emballage de vente ou figurent de manière clairement visible pour le consommateur avant l’achat, y compris lorsque l’achat est effectué en ligne.
+
+(3) Conformément à l’article 4, paragraphe 7 les avertissements et consignes de sécurité sont libellés dans aux moins une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo).
+
+### Art. 12 — - Libre circulation
+
+Il ne peut être fait obstacle à la mise sur le marché, au Luxembourg, des jouets qui satisfont à la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil du 18 juin 2009 relative à la sécurité des jouets.
+
+### Art. 13 — *- Présomption de conformité*
+
+Les jouets conformes à des normes harmonisées ou à des parties de normes harmonisées, dont les références ont été publiées au Journal officiel de l’Union européenne, sont présumés conformes aux exigences couvertes par ces normes ou parties de normes visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+### Art. 14 — - Déclaration «CE» de conformité
+
+(1) La déclaration «CE» de conformité atteste que le respect des exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite a été démontré.
+
+(2) La déclaration «CE» de conformité contient au minimum les éléments précisés à l’annexe III et dans les modules pertinents de l’annexe II de la [décision n° 768/2008/CE](https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32008D0768) et est mise à jour en permanence. Elle est établie selon le modèle figurant à l’annexe III de la présente loi. Elle est traduite en anglais ou dans une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo).
+
+(3) En établissant la déclaration «CE» de conformité, le fabricant assume la responsabilité de la conformité du jouet.
+
+### Art. 15 — - Principes généraux du marquage «CE»
+
+(1) Les jouets mis à disposition sur le marché portent le marquage «CE».
+
+(2) Le marquage «CE» obéit aux principes généraux énoncés à l’article 30 du [règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo).
+
+(3) Les jouets portant le marquage «CE» sont présumés conformes à la présente loi.
+
+(4) Les jouets non munis d’un marquage «CE» ou qui, d’une autre manière, ne satisfont pas peuvent être exposés et utilisés dans des salons professionnels et des expositions à condition qu’ils soient accompagnés d’une indication montrant clairement que les jouets ne satisfont pas à la présente loi et qu’ils ne seront pas mis à disposition dans l’Union européenne avant d’avoir été mis en conformité.
+
+### Art. 16 — *- Règles et conditions d’apposition du marquage «CE»*
+
+(1) Le marquage «CE» est apposé de manière visible, lisible et indélébile sur le jouet, sur une étiquette attachée à celui-ci ou sur son emballage. Dans le cas de jouets de petites dimensions et de jouets composés de petites pièces, le marquage «CE» peut être apposé sur une étiquette ou sur un feuillet accompagnant le jouet. Si cela n’est pas techniquement possible dans le cas de jouets vendus en présentoirs de comptoir, et à condition que le présentoir ait été utilisé comme emballage du jouet, le marquage «CE» est apposé sur le présentoir de comptoir.
+
+Si le marquage «CE» n’est pas visible de l’extérieur de l’emballage, il est au moins apposé sur l’emballage.
+
+(2) Le marquage «CE» est apposé avant que le produit ne soit mis sur le marché. Il peut être suivi d’un pictogramme ou de toute autre marque indiquant un risque ou un usage particulier.
+
+## Chapitre 4 — Evaluation de la conformité
+
+### Art. 17 — - Evaluations de la sécurité
+
+Avant de mettre un jouet sur le marché, les fabricants procèdent à une analyse des dangers de nature chimique, physique, mécanique, électrique, des risques d’inflammabilité, de radioactivité et en matière d’hygiène que le jouet peut présenter, et procèdent à une évaluation de l’exposition potentielle à ces dangers.
+
+### Art. 18 — *- Procédures d’évaluation de la conformité applicables*
+
+(1) Avant de mettre un jouet sur le marché, les fabricants appliquent les procédures d’évaluation de la conformité visées aux paragraphes 2 et 3, afin de démontrer que le jouet satisfait aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+(2) Si le fabricant a appliqué les normes harmonisées, dont le numéro de référence a été publié au *Journal officiel de l’Union européenne*, couvrant toutes les exigences de sécurité pertinentes pour le jouet, il utilise la procédure de contrôle de production interne figurant dans le module A de l’annexe II de la [décision n° 768/2008/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1594979673341&uri=CELEX:32008D0768).
+
+(3) Le jouet est soumis à un examen CE de type visé à l’article 19, combiné à la procédure «Conformité au type» présentée dans le module C de l’annexe II de la [décision n° 768/2008/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1594979673341&uri=CELEX:32008D0768), dans les cas suivants:
+
+a) lorsque les normes harmonisées, dont le numéro de référence a été publié au *Journal officiel de l’Union européenne*, couvrant toutes les exigences de sécurité requises pour le jouet, n’existent pas;
+
+b) lorsque les normes harmonisées visées au point a) existent, mais que le fabricant ne les a pas appliquées ou seulement en partie;
+
+c) lorsque les normes harmonisées visées au point a), ou certaines d’entre elles, ont été publiées assorties d’une restriction;
+
+d) lorsque le fabricant estime que la nature, la conception, la construction ou la destination du jouet nécessitent une vérification par un tiers.
+
+### Art. 19 — *- Examen CE de type*
+
+(1) Une demande d’examen CE de type, la réalisation de cet examen et l’émission d’une attestation d’examen CE de type sont effectuées conformément aux procédures figurant dans le module B, à l’annexe II de la [décision n° 768/2008/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1594979673341&uri=CELEX:32008D0768).
+
+L’examen CE de type est effectué de la manière décrite au paragraphe 2, second tiret, de ce module.
+
+Outre ces dispositions, les exigences visées aux paragraphes 2 à 5 du présent article s’appliquent.
+
+(2) La demande d’examen CE de type comprend une description du jouet et une indication du lieu de fabrication, y compris l’adresse.
+
+(3) Lorsqu’un organisme d’évaluation de la conformité notifié en vertu de l’article 22 (ci-après dénommé «organisme notifié») effectue un examen CE de type, il évalue, le cas échéant, conjointement avec le fabricant, l’analyse effectuée par le fabricant conformément à l’article 17 concernant les dangers que le jouet peut présenter.
+
+(4) L’attestation d’examen CE de type comprend une référence à la [directive 2009/48/CE](https://legilux.public.lu/eli/dir_ue/2009/48/jo)[^14], une représentation en couleur et une claire description du jouet, notamment ses dimensions, ainsi qu’une liste des essais effectués, accompagnée d’une référence au rapport d’essai correspondant.
+
+L’attestation d’examen CE de type est revue à tout moment en cas de nécessité, notamment en cas de modification du processus de fabrication, des matières premières ou des composants du jouet, et, en tout état de cause, tous les cinq ans.
+
+L’attestation d’examen CE de type est retirée si le jouet ne satisfait plus aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite.
+
+L’Institut veille à ce que leurs organismes notifiés n’accordent pas d’attestation d’examen CE de type aux jouets auxquels une attestation a été refusée ou retirée.
+
+(5) La documentation technique et la correspondance se rapportant aux procédures de l’examen CE de type sont rédigées dans une langue officielle de l’Etat membre dans lequel est établi l’organisme notifié ou dans une langue acceptée par celui-ci.
+
+### Art. 20 — - Documentation technique
+
+(1) La documentation technique visée à l’article 4, paragraphe 2, contient l’ensemble des données et des précisions pertinentes quant aux moyens utilisés par le fabricant pour garantir que les jouets satisfont aux exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite. Elle contient notamment les documents énumérés à l’annexe IV.
+
+(2) La documentation technique est rédigée dans une des langues officielles de l’Union européenne, sous réserve de l’exigence énoncée à l’article 19, paragraphe 5.
+
+(3) Sur demande motivée de l’Institut, le fabricant fournit une traduction des parties pertinentes de la documentation technique en anglais ou dans une des trois langues administratives désignées dans la [loi du 24 février 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/jo).
+
+Lorsque l’Institut demande à un fabricant la documentation technique ou une traduction de certaines de ses parties, il peut lui fixer un délai de 30 jours, sauf si un délai plus court est justifié en raison d’un risque sérieux et immédiat.
+
+(4) Si le fabricant ne respecte pas les obligations prévues aux paragraphes 1<sup>er</sup>, 2 et 3, l’Institut peut exiger de ce fabricant qu’un test soit effectué par un organisme notifié, aux frais de ce fabricant, dans un délai précis afin de vérifier le respect des normes harmonisées et des exigences essentielles de sécurité.
+
+## Chapitre 5 — Notification des organismes d’évaluation de la conformité
+
+### Art. 21 — - Notification
+
+Conformément à l’article 7, paragraphes 2 à 4 de la [loi du 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo) portant réorganisation de l’ILNAS, l’ILNAS notifie à la Commission européenne et aux autres Etats membres, les organismes autorisés à effectuer des tâches d’évaluation de la conformité par un tiers, au titre de l’article 19 de la présente loi.[^3]
+
+### Art. 22 — - Autorité notifiante
+
+Conformément au paragraphe (1) de l’article 9 de la [loi du 20 mai 2008](https://legilux.public.lu/eli/etat/leg/loi/2008/05/20/n1/jo), l’Institut assiste le ministre dans sa mission d’autorité de notification dans le cadre de la présente loi.[^4]
+
+### Art. 23 — - Obligation d’information de l’Institut
+
+L’Institut informe la Commission européenne des procédures concernant l’évaluation et la notification des organismes d’évaluation de la conformité ainsi que le contrôle des organismes notifiés, et de toute modification en la matière.
+
+### Art. 24 — - Exigences concernant les organismes notifiés
+
+(1) Aux fins de la notification dans le cadre de la présente loi, un organisme d’évaluation de la conformité répond aux exigences fixées aux paragraphes 2 à 11.
+
+(2) Les organismes d’évaluation de la conformité sont constitués en vertu du droit national et possèdent la personnalité juridique.
+
+(3) Un organisme d’évaluation de la conformité doit être un organisme tiers indépendant de l’organisation ou du jouet qu’il évalue.
+
+Un organisme issu d’une association d’entreprises ou d’une fédération professionnelle représentant des entreprises engagées dans la conception, la fabrication, la fourniture, l’assemblage, l’utilisation ou l’entretien des jouets qu’il évalue, peut, à condition que son indépendance et l’absence de tout conflit d’intérêts soient démontrées, être considéré comme tel.
+
+(4) Un organisme d’évaluation de la conformité, ses cadres supérieurs et le personnel chargé d’exécuter les tâches d’évaluation de la conformité ne peuvent être le concepteur, le fabricant, le fournisseur, l’installateur, l’acheteur, le propriétaire, l’utilisateur ou le responsable de l’entretien des jouets qu’ils évaluent, ni le mandataire d’aucune de ces parties. Cela n’exclut pas l’utilisation de jouets évalués qui sont nécessaires au fonctionnement de l’organisme d’évaluation de la conformité ou l’utilisation de tels jouets à des fins personnelles.
+
+Un organisme d’évaluation de la conformité, ses cadres supérieurs et le personnel chargés d’exécuter les tâches d’évaluation de la conformité ne peuvent intervenir, ni directement ni comme mandataires, dans la conception, la fabrication, la commercialisation, l’installation, l’utilisation ou l’entretien de ces jouets. Ils ne s’engagent dans aucune activité pouvant compromettre leur indépendance de jugement ou leur intégrité à l’égard des activités d’évaluation de la conformité pour lesquelles ils sont notifiés. Ceci s’applique notamment aux services de conseil.
+
+Les organismes d’évaluation de la conformité veillent à ce que les activités de leurs filiales ou sous-traitants n’affectent pas la confidentialité, l’objectivité ou l’impartialité de leurs activités d’évaluation de la conformité.
+
+(5) Les organismes d’évaluation de la conformité et leur personnel accomplissent les activités d’évaluation de la conformité avec la plus haute intégrité professionnelle et la compétence technique requise dans le domaine spécifique et doivent être à l’abri de toute pression et incitation, notamment d’ordre financier, susceptibles d’influencer leur jugement ou les résultats de leurs travaux d’évaluation de la conformité, notamment de la part de personnes ou groupes de personnes intéressés par ces résultats.
+
+(6) L’organisme d’évaluation de la conformité doit être capable d’exécuter toutes les tâches d’évaluation de la conformité qui lui ont été assignées conformément à l’article 19 et pour lesquelles il a été notifié, que ces tâches soient exécutées par lui-même ou en son nom et sous sa responsabilité.
+
+A tout moment et pour chaque procédure d’évaluation de la conformité, ainsi que tout type ou toute catégorie de jouet pour lesquels il a été notifié, l’organisme d’évaluation de la conformité dispose:
+
+a) du personnel requis ayant les connaissances techniques et l’expérience suffisante et appropriée pour effectuer les tâches d’évaluation de la conformité;
+
+b) de descriptions des procédures selon lesquelles l’évaluation de conformité est effectuée, en veillant à la transparence et à la reproductibilité de ces procédures; il se dote de méthodes et de procédures qui distinguent entre les tâches qu’il effectue en qualité d’organisme notifié et ses autres activités;
+
+c) de procédures pour l’exercice d’activités qui tiennent dûment compte de la taille de l’entreprise, du secteur dans lequel elle opère, de sa structure, du degré de complexité de la technique de production employée et du caractère en masse ou de série du processus de production.
+
+L’organisme d’évaluation de la conformité se dote des moyens nécessaires à la bonne exécution des tâches techniques et administratives liées aux activités d’évaluation de la conformité et a accès à tous les équipements ou installations nécessaires.
+
+(7) Le personnel chargé de l’exécution des activités d’évaluation de la conformité possède:
+
+a) une solide formation technique et professionnelle couvrant toutes les activités d’évaluation de la conformité du domaine pertinent, pour lesquelles l’organisme d’évaluation de la conformité a été notifié;
+
+b) une connaissance satisfaisante des exigences applicables aux évaluations qu’il effectue et l’autorité nécessaire pour effectuer ces évaluations;
+
+c) une connaissance et une compréhension adéquates des exigences essentielles, des normes harmonisées applicables ainsi que des dispositions de la législation communautaire d’harmonisation pertinente et de ses règlements d’application;
+
+d) l’aptitude nécessaire pour rédiger les attestations, procès-verbaux et rapports qui constituent la matérialisation des évaluations effectuées.
+
+(8) L’impartialité des organismes d’évaluation de la conformité, de leurs cadres supérieurs et du personnel effectuant l’évaluation doit être garantie.
+
+La rémunération des cadres supérieurs et du personnel chargé de l’évaluation au sein d’un organisme d’évaluation de la conformité ne peut dépendre ni du nombre d’évaluations effectuées, ni de leurs résultats.
+
+(9) Les organismes d’évaluation de la conformité souscrivent une assurance de responsabilité civile, à moins que l’évaluation de la conformité ne soit effectuée sous la responsabilité directe de l’Etat luxembourgeois.
+
+(10) Le personnel d’un organisme d’évaluation de la conformité est lié par le secret professionnel à l’égard de l’ensemble des informations qu’il obtient dans l’exercice de ses fonctions en vertu de l’article 19, sauf à l’égard de l’Institut. Les droits de propriété sont protégés.
+
+(11) Les organismes d’évaluation de la conformité participent aux activités de normalisation pertinentes et aux activités du groupe de coordination de l’organisme notifié établi en vertu de l’article 34[^15], ou veillent à ce que leur personnel d’évaluation en soit informé, et applique comme lignes directrices les décisions et les documents administratifs résultant du travail de ce groupe.
+
+### Art. 25 — *- Présomption de conformité*
+
+Lorsqu’un organisme d’évaluation de la conformité démontre sa conformité aux critères applicables ou à une partie d’entre eux, exposés dans les normes harmonisées dont les références ont été publiées au *Journal officiel de l’Union européenne*, il est présumé répondre aux exigences définies à l’article 24, dans la mesure où ces exigences sont couvertes par les normes harmonisées applicables.
+
+### Art. 26 — *- Filiales et sous-traitants des organismes notifiés*
+
+(1) Lorsque l’organisme notifié sous-traite certaines tâches spécifiques dans le cadre de l’évaluation de la conformité ou a recours à une filiale, il s’assure que le sous-traitant ou la filiale répond aux exigences définies à l’article 24 et il en informe l’autorité notifiante.
+
+(2) L’organisme notifié assume l’entière responsabilité des tâches effectuées par des sous-traitants ou des filiales, quel que soit leur lieu d’établissement.
+
+(3) Des activités ne peuvent être sous-traitées ou réalisées par une filiale qu’avec l’accord du client.
+
+(4) L’organisme notifié tient à la disposition de l’autorité notifiante les documents pertinents concernant l’évaluation des qualifications du sous-traitant ou de la filiale et le travail qu’ils ont exécuté en vertu de l’article 19.
+
+### Art. 27 — *- Demande de notification*
+
+(1) Un organisme d’évaluation de la conformité soumet une demande de notification au titre de la présente loi à l’Institut.
+
+(2) La demande visée au paragraphe 1<sup>er</sup> est accompagnée d’une description des activités d’évaluation de la conformité, du ou des modules d’évaluation de la conformité et du ou des jouets pour lesquels cet organisme s’estime compétent, ainsi que d’un certificat d’accréditation, délivré par un organisme national d’accréditation attestant que l’organisme d’évaluation de la conformité remplit les exigences définies à l’article 24.
+
+### Art. 28 — *- Procédure de notification*
+
+(1) L’Institut[^5] ne peut notifier que les organismes d’évaluation de la conformité qui satisfont aux exigences définies à l’article 24 de la présente loi et à l’article 7 de la [loi du 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo) portant réorganisation de l’ILNAS[^6].
+
+(2) L’Institut notifie , au nom du ministre,[^7] les organismes d’évaluation de la conformité à la Commission européenne et aux autres Etats membres à l’aide de l’outil de notification électronique géré par la Commission européenne.
+
+(3) La notification comprend des informations complètes sur les activités d’évaluation de la conformité, les modules d’évaluation de la conformité et les jouets concernés, ainsi que l’attestation de compétence correspondante.
+
+(4) L’organisme d’évaluation de la conformité concerné ne peut effectuer les activités propres à un organisme notifié que si aucune objection n’est émise par la Commission européenne ou les autres Etats membres dans les deux semaines qui suivent sa notification.
+
+Seul un tel organisme est considéré comme un organisme notifié aux fins de la présente loi.
+
+(5) La Commission européenne et les autres Etats membres sont avertis par l’Institut de toute modification pertinente apportée ultérieurement à la notification.
+
+### Art. 29 — *- Modifications apportées aux notifications*
+
+(1) Lorsque l’Institut a établi ou a été informé qu’un organisme notifié ne répond plus aux exigences définies à l’article 24, ou qu’il ne s’acquitte pas de ses obligations, le ministre sur proposition de[^8] l’Institut soumet la notification à des restrictions, la suspend ou la retire, selon le cas, en fonction de la gravité du manquement au regard des exigences requises ou des obligations à satisfaire. L’Institut en informe immédiatement la Commission européenne et les autres Etats membres.
+
+(2) En cas de restriction, de suspension ou de retrait d’une notification, ou lorsque l’organisme notifié a cessé ses activités, l’Institut prend les mesures appropriées pour que les dossiers de cet organisme notifié soient traités par un autre organisme.
+
+### Art. 30 — *- Contestation de la compétence des organismes notifiés*
+
+(1) Sur demande de la Commission européenne, l’Institut lui communique toutes les informations relatives au fondement d’une notification ou au maintien de la compétence d’un organisme notifié pour lequel la Commission européenne émet des doutes ou est avertie de doutes quant à la compétence de l’organisme notifié ou au fait que l’organisme notifié continue à remplir les exigences qui lui sont applicables et à s’acquitter des responsabilités qui lui incombent
+
+(2) Lorsque la Commission européenne a établi qu’un organisme notifié ne répond pas ou plus aux exigences relatives à la notification, le ministre sur avis de[^9] l’Institut prend les mesures correctives qui s’imposent, y compris la dénotification, si nécessaire.
+
+### Art. 31 — *- Obligations opérationnelles des organismes notifiés*
+
+(1) Les organismes notifiés réalisent les évaluations de la conformité dans le respect de la procédure d’évaluation de la conformité prévue à l’article 19.
+
+(2) Les évaluations de la conformité sont effectuées de manière proportionnée, en évitant d’imposer des charges inutiles aux opérateurs économiques. Les organismes d’évaluation de la conformité exercent leurs activités en tenant dûment compte de la taille de l’entreprise, du secteur dans lequel elle opère, de sa structure, du degré de complexité de la technologie du jouet en question et du caractère en masse ou de série du processus de production.
+
+Ce faisant, ils observent, néanmoins, le degré de rigueur et le niveau de protection requis pour la conformité du jouet avec la présente directive.
+
+(3) Lorsqu’un organisme notifié estime que les exigences visées à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite ou que dans les normes harmonisées ou les spécifications techniques correspondantes n’ont pas été respectées par un fabricant, il exige de ce dernier de prendre les mesures correctives appropriées et ne délivre pas le certificat d’examen CE de type visé à l’article 19, paragraphe 4.
+
+(4) Lorsque, au cours du contrôle de la conformité qui suit la délivrance d’un certificat de l’examen CE de type, un organisme notifié constate qu’un jouet n’est plus conforme, il invite le fabricant à prendre les mesures correctives appropriées et suspend ou retire le certificat de l’examen CE de type, si nécessaire.
+
+(5) Lorsque les mesures correctives ne sont pas adoptées ou n’ont pas l’effet requis, l’organisme notifié soumet l’attestation à des restrictions, la suspend ou la retire, selon le cas.
+
+### Art. 32 — *- Obligation d’information des organismes notifiés*
+
+(1) Les organismes notifiés communiquent à l’Institut:
+
+a) tout refus, restriction, suspension ou retrait d’une attestation de l’examen CE de type;
+
+b) toute circonstance ayant une incidence sur la portée et les conditions de la notification;
+
+c) sur demande, les activités d’évaluation de la conformité réalisées dans le cadre de leur notification et toute autre activité, y compris les activités et sous-traitances transfrontalières.
+
+(2) Les organismes notifiés fournissent aux autres organismes notifiés en vertu de la présente loi qui effectuent des activités similaires d’évaluation de la conformité couvrant les mêmes jouets les informations pertinentes sur les questions relatives aux résultats négatifs et, sur demande, aux résultats positifs, de l’évaluation de la conformité.
+
+### Art. 33 — - Partage d’expérience
+
+L’Institut partage son expérience avec les autorités nationales des Etats membres responsables de la politique de notification.
+
+### Art. 34 — *- Coordination des organismes notifiés*
+
+Dans le cadre de la présente loi, les organismes notifiés doivent participer directement ou par l’intermédiaire de mandataires, aux travaux de coordination et de coopération réalisés par les groupes sectoriels d’organismes notifiés mis en place par la Commission européenne.
+
+## Chapitre 6 — Obligations et pouvoirs de l’Institut
+
+### Art. 35 — *- Principe de précaution*
+
+Lorsque l’Institut prend des mesures prévues dans la présente loi, il tient dûment compte du principe de précaution.
+
+### Art. 36 — - Instructions à l’organisme notifié
+
+(1) L’Institut peut demander à un organisme notifié de fournir des informations concernant toute attestation d’examen CE de type qu’il a délivrée ou retirée, ou concernant tout refus de délivrer une telle attestation, y compris les rapports d’essais et la documentation technique.
+
+(2) Lorsque l’Institut constate qu’un jouet n’est pas conforme aux exigences définies à l’article 10 et à l’annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, il demande à l’organisme notifié, le cas échéant, de retirer l’attestation d’examen CE de type concernant le jouet en question.
+
+(3) Le cas échéant, et notamment dans les cas spécifiés à l’article 19, paragraphe 4, deuxième alinéa, l’Institut demande à l’organisme notifié de revoir l’attestation d’examen CE de type.
+
+### Art. 37 — *- Procédure applicable aux jouets qui présentent un risque au niveau national*
+
+(1) Lorsque l’Institut a pris des mesures conformément à l’article 13 de la [loi du 4 juillet 2014](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)[^10] et de l’article 20 du [règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo) ou qu’il a des raisons suffisantes de croire qu’un jouet couvert par la présente loi présente un risque pour la santé ou la sécurité des personnes, il effectue une évaluation du jouet en question en tenant compte de toutes les exigences définies par la présente loi. Les opérateurs économiques concernés coopèrent, au besoin, avec l’Institut.
+
+Si, au cours de cette évaluation, l’Institut constate que le jouet ne respecte pas les exigences définies par la présente loi, il invite immédiatement l’opérateur économique concerné à prendre des mesures correctives appropriées pour mettre le jouet en conformité avec ces exigences, le retirer du marché ou le rappeler dans un délai raisonnable, proportionné à la nature du risque, qu’il peut prescrire.
+
+L’Institut informe en conséquence l’organisme notifié concerné.
+
+L’article 21 du [règlement (CE) n° 765/2008](http://legilux.public.lu/eli/reg_ue/2008/765/jo) s’applique aux mesures visées au deuxième alinéa du présent paragraphe.
+
+(2) Lorsque l’Institut considère que le non-respect n’est pas limité à son territoire national, il informe la Commission européenne et les autres Etats membres des résultats de l’évaluation et des mesures qu’il a prescrites à l’opérateur économique concerné.
+
+(3) L’opérateur économique concerné s’assure que les mesures correctives appropriées sont prises vis-à-vis des jouets que cet opérateur a mis à disposition sur le marché communautaire.
+
+(4) Lorsque l’opérateur économique concerné ne prend pas des mesures correctives adéquates dans le délai visé au paragraphe 1<sup>er</sup>, l’Institut adopte toutes les mesures provisoires appropriées pour interdire ou restreindre la mise à disposition du jouet sur leur marché national, pour le retirer de ce marché ou pour le rappeler.
+
+L’Institut en informe immédiatement la Commission européenne et les autres Etats membres.
+
+(5) Les informations visées au paragraphe 4 contiennent toutes les précisions disponibles, notamment les données nécessaires pour identifier le jouet non conforme, son origine, la nature de la non-conformité présumée et du risque encouru, la nature et la durée des mesures nationales adoptées ainsi que les arguments soulevés par l’opérateur économique concerné. En particulier, l’Institut indique si la non-conformité est liée:
+
+a) à la non-conformité du jouet avec les exigences liées à la santé ou à la sécurité des personnes, ou
+
+b) aux lacunes dans les normes harmonisées visées à l’article 13, qui confèrent une présomption de conformité.
+
+(6) Si une autorité nationale de surveillance du marché d’un autre Etat membre a entamé une procédure à l’encontre d’un jouet, l’Institut informe immédiatement la Commission européenne et les autres Etats membres de toute mesure adoptée et de toute information supplémentaire dont il dispose en ce qui concerne la non-conformité du jouet concerné, et, en contestation de la mesure nationale notifiée, de ses objections.
+
+(7) Lorsque, dans les trois mois à partir de la réception des informations visées au paragraphe 4, aucune objection n’a été émise par un Etat membre ou par la Commission européenne à l’encontre de la mesure provisoire de l’Institut, la mesure est réputée être justifiée.
+
+(8) L’Institut veille à ce que des mesures restrictives appropriées, tel que le retrait du marché du jouet concerné, soient prises immédiatement.
+
+### Art. 38 — *Non-conformité formelle*
+
+(1) Sans préjudice de l’article 37, lorsque l’Institut fait l’une des constatations suivantes, il invite l’opérateur économique en cause à mettre un terme à la non-conformité en question:
+
+a) le marquage CE a été apposé en violation de l’article 15 ou 16;
+
+b) le marquage CE n’a pas été apposé;
+
+c) la déclaration CE de conformité n’a pas été établie;
+
+d) la déclaration CE de conformité n’a pas été établie correctement;
+
+e) la documentation technique est indisponible ou incomplète.
+
+(2) Si la non-conformité visée au paragraphe 1<sup>er</sup> persiste, l’Institut prend les mesures appropriées pour restreindre ou interdire la mise à disposition du jouet sur le marché, ou pour assurer son rappel ou son retrait du marché.
+
+## Chapitre 7 — Dispositions finales
+
+### Art. 39 — *Périodes de transition*
+
+(1) L’Institut n’empêche pas la mise à disposition sur le marché de jouets qui sont conformes à la [directive 88/378/CEE](http://legilux.public.lu/eli/dir_ue/1988/378/jo) du Conseil du 3 mai 1988 concernant le rapprochement des législations des Etats membres relatives à la sécurité des jouets, et qui ont été mis sur le marché avant le 20 juillet 2011.
+
+(2) Outre les exigences prévues au paragraphe (1), l'Institut n'empêche pas la mise à disposition sur le marché de jouets qui sont conformes aux exigences de la présente loi, hormis celles énoncées dans la partie III de l'annexe II de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets telle que modifiée par la suite, à condition que ces jouets satisfassent aux exigences prévues à l'annexe II, partie II, section 3, de la [directive 88/378/CEE](http://legilux.public.lu/eli/dir_ue/1988/378/jo) et qu'ils aient été mis sur le marché avant le 20 juillet 2013.[^13]
+
+### Art. 40.
+
+Les modifications aux annexes I, II et V de la [directive 2009/48/CE](http://legilux.public.lu/eli/dir_ue/2009/48/jo) du Parlement européen et du Conseil relative à la sécurité des jouets s’appliquent avec effet au jour de la date de l’entrée en vigueur des actes modificatifs afférents de l’Union européenne.
+
+Le ministre publiera un avis au Mémorial, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l’acte publié au Journal officiel de l’Union européenne.
+
+Annexe III
+
+Déclaration CE de conformité
+
+1\. N° … (identification unique du ou des jouets).
+
+2\. Nom et adresse du fabricant ou de son mandataire:
+
+3\. La présente déclaration de conformité est établie sous la seule responsabilité du fabricant:
+
+4\. Objet de la déclaration (identification du jouet permettant sa traçabilité), accompagné d’une image couleur suffisamment claire pour permettre l’identification du jouet.
+
+5\. L’objet de la déclaration visé au point 4 est conforme à la législation communautaire d’harmonisation applicable:
+
+6\. Références des normes harmonisées pertinentes appliquées ou des spécifications par rapport auxquelles la conformité est déclarée:
+
+7\. Le cas échéant: l’organisme notifié … (nom, numéro) … a effectué … (description de l’intervention) et a établi l’attestation:
+
+8\. Informations complémentaires:
+
+Signé par et au nom de:
+
+(date et lieu d’établissement)
+
+(nom, fonction) (signature)
+
+\*
+
+Annexe IV
+
+Documentation technique
+
+Dans la mesure nécessaire à l’évaluation, la documentation technique visée à l’article 20 contient, notamment, les éléments suivants:
+
+a) une description détaillée de la conception et de la fabrication, y compris une liste des composants et des matériaux utilisés dans les jouets, ainsi que les fiches de données de sécurité relatives aux substances chimiques utilisées à obtenir auprès des fournisseurs de substances chimiques;
+
+b) la ou les évaluations de la sécurité effectuées en vertu de l’article 17[^16];
+
+c) une description de la procédure suivie pour évaluer la conformité;
+
+d) une copie de la déclaration CE de conformité;
+
+e) l’adresse des lieux de fabrication et d’entreposage;
+
+f) copies des documents que le fabricant a communiqués à l’organisme notifié, si ce dernier intervient;
+
+g) les rapports d’essais et la description des moyens par lesquels le fabricant garantit la conformité de la production aux normes harmonisées, si ce fabricant a suivi la procédure de contrôle interne de la fabrication visée à l’article 18, paragraphe 2, et
+
+h) une copie de l’attestation d’examen CE de type, une description des moyens par lesquels le fabricant garantit la conformité de la production au type de produit décrit dans l’attestation d’examen CE de type, ainsi que des copies des documents que le fabricant a communiqués à l’organisme notifié, si le fabricant a soumis le jouet à un examen CE de type et suivi la procédure de conformité au type visées à l’article 18, paragraphe 3.
+
+\*
+
+---
+
+[^1]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^11]: [Loi du 24 juillet 2014 modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n3/jo)
+[^2]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^12]: [Loi du 24 juillet 2014 modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n3/jo)
+[^14]: [Loi du 27 mai 2016 concernant les ascenseurs et les composants de sécurité pour ascenseurs et modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n3/jo)
+[^3]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^4]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^15]: [Loi du 27 mai 2016 concernant les ascenseurs et les composants de sécurité pour ascenseurs et modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n3/jo)
+[^5]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^6]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^7]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^8]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^9]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^10]: [Loi du 4 juillet 2014 - portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits, - modifiant * la loi modifiée du 17 mai 1882 sur les poids et mesures, * la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits, * la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie, * la loi du 25 mars 2009 relative à la compatibilité électromagnétique, * la loi modifiée du 27 mai 2010 relative aux machines, * la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et * la loi du 21 décembre 2012 concernant les équipements sous pression transportables, - abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/jo)
+[^13]: [Loi du 24 juillet 2014 modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n3/jo)
+[^16]: [Loi du 27 mai 2016 concernant les ascenseurs et les composants de sécurité pour ascenseurs et modifiant la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets.](https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n3/jo)

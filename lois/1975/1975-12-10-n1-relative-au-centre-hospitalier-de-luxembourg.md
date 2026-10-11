@@ -1,0 +1,517 @@
+---
+title: "Loi du 10 décembre 1975 relative au Centre hospitalier de Luxembourg."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1"
+type: act
+jurisdiction: lu
+language: fr
+date: 1975-12-10
+last_amended: 2010-02-23
+consolidated: true
+publication_date: 1975-12-19
+entry_into_force: 1975-12-23
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/consolide/20100223"
+retrieved: 2026-10-12
+---
+
+# Loi du 10 décembre 1975 relative au Centre hospitalier de Luxembourg.
+
+## Art. 1<sup>er</sup>.
+
+II est créé, sous la dénomination «Centre hospitalier de Luxembourg», un établissement public jouissant de la personnalité juridique, groupant la maternité Grande-Duchesse Charlotte, la clinique pédiatrique fondation Grand-Duc Jean et Grande-Duchesse Joséphine Charlotte et l’hôpital municipal, inscrits au cadastre de l’ancienne commune de Hollerich, section F de Merl Nord, suivant relevé joint en annexe à la présente loi dont il fait partie intégrante.
+
+Le siège de l’établissement est fixé à Luxembourg.
+
+L’établissement a l’autonomie financière et administrative sous la tutelle du ministre de la santé publique.
+
+II est géré dans les formes et d’après les méthodes du droit privé.
+
+## Art. 2.
+
+Les terrains visés à l’article 1<sup>er</sup> et les bâtiments y construits ou en voie de construction ainsi que leurs équipements sont affectés par l’Etat et la Ville de Luxembourg à l’établissement dans l’intérêt de la réalisation de ses missions. L’établissement assumera l’actif et le passif tels qu’ils seront constatés par un bilan d’ouverture au moment de l’entrée en vigueur de la présente loi. Le passif comprendra les engagements que l’Etat et la Ville de Luxembourg ont pu souscrire à l’égard des tiers, à l’exception des sommes empruntées ayant servi en tout ou en partie à l’acquisition ou à la constitution des biens affectés.
+
+## Art. 3.
+
+L’établissement est un centre de diagnostic, de soins, de traitement, d’hospitalisation, de recherche et d’enseignement.
+
+Des établissements et services à caractère sanitaire, hospitalier, éducatif et social, pourront être intégrés ou rattachés, à leur demande ou de leur accord, par arrêté grand-ducal et sur avis du collège médical, au Centre hospitalier de Luxembourg.
+
+## Art. 4.
+
+L’établissement est administré par une commission administrative composée de treize membres effectifs, à savoir six délégués de l’Etat, dont deux médecins et un délégué du ministre ayant le Budget dans ses attributions, trois délégués de la Ville de Luxembourg, deux délégués de la Fondation Norbert-Metz et deux délégués du personnel du Centre hospitalier, dont un médecin et un membre du personnel de soins, administratif, technique ou ouvrier.
+
+Pour chaque membre effectif il y a un membre suppléant.
+
+La présidence de la commission administrative est assumée par un des délégués de l’Etat désigné à cet effet par le ministre de la Santé. En l’absence du président, la commission est présidée par le vice-président désigné à cet effet par le ministre de la Santé parmi les délégués de la Ville de Luxembourg, et sur proposition de celle-ci. Le président peut se faire représenter par le vice-président. La commission administrative choisit un secrétaire qui peut être un employé ou un fonctionnaire.
+
+Les membres de la commission administrative sont nommés par le Grand-Duc sur proposition, par le ministre ayant la Santé dans ses attributions, d’une liste de candidats à présenter par les ministres concernés pour les délégués de l’Etat, par le conseil communal de la Ville de Luxembourg pour les délégués de la Ville de Luxembourg, par le conseil d’administration de la Fondation Norbert-Metz pour les délégués de cette fondation, par le conseil médical du Centre hospitalier pour le délégué des médecins du Centre hospitalier, par la délégation des ouvriers et la délégation des employés du Centre hospitalier pour le délégué du personnel du Centre hospitalier, conformément aux dispositions établies à l’article 5 ci-dessous.
+
+Ne peuvent devenir membres de la commission administrative le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Centre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs ou signent des ordonnances de paiement ou d’autres pièces administratives entraînant une dépense de l’Etat en faveur du Centre.
+
+## Art. 5.
+
+Les membres de la commission administrative sont nommés pour tin terme de six ans. Toutefois, le Grand-Duc pourra révoquer un membre avant l’expiration de son mandat sur proposition du ministre de la santé publique et à la demande de l’autorité ou de l’organisme qui l’a proposé, la commission entendue au préalable en son avis.
+
+La commission se renouvelle par moitié tous les trois ans. Pour le premier ordre de sortie il est procédé par tirage au sort à la désignation des membres dont le mandat prend fin après trois ans.
+
+Le mandat des membres sortants est renouvelable.
+
+En cas de vacance au sein de la commission, le suppléant achève le mandat du membre qu’il remplace. II est procédé à la nomination d’un nouveau suppléant suivant les modalités prévues à l’article 4.
+
+Par dérogation à l’alinéa premier ci-dessus le mandat du délégué du personnel de soins, administratif, technique ou ouvrier est scindé en deux périodes de trois années chacune, en ce sens que le délégué proposé par la délégation des ouvriers et celui proposé par la délégation des employés exercent chacun un mandat de trois ans comme membre effectif et un mandat de trois ans comme membre suppléant de la commission administrative. Un règlement grand-ducal arrête la mise en œuvre des modalités d’exécution des dispositions qui précèdent.
+
+## Art. 6.
+
+La commission se réunit sur convocation de son président aussi souvent que les intérêts de l’établissement l’exigent. Elle doit être convoquée à la demande de trois de ses membres et au moins une fois tous les trois mois.
+
+Le délai de convocation est de cinq jours, sauf le cas d’urgence à apprécier par le président. La convocation indiquera l’ordre du jour.
+
+## Art. 7.
+
+La commission ne peut prendre de résolution que si la majorité de ses membres en fonction est présente.
+
+Cependant, si sur une première convocation la commission ne peut pas délibérer valablement parce qu’elle ne s’est pas trouvée en nombre requis, elle pourra, après une deuxième convocation et quel que soit le nombre des membres présents, prendre une résolution sur les objets mis pour la deuxième fois à l’ordre du jour.
+
+La commission décide à la majorité absolue des suffrages.
+
+En cas de partage le président a voix prépondérante.
+
+Les membres de la commission votent à haute voix ou par mains levées. Toutefois, il est procédé par scrutin secret aux nominations et licenciements prévus à l’article 10. Dans ce cas le scrutin se fait conformément aux article 41, 42 et 43 de la [loi du 24 février 1843](https://legilux.public.lu/eli/etat/leg/loi/1843/02/24/n1/jo) sur l’organisation communale et des districts.
+
+## Art. 8.
+
+Les résolutions de la commission administrative sont consignées dans des procès-verbaux signés par le président et le secrétaire.
+
+Les procès-verbaux sont communiqués au ministre de la santé publique et au bourgmestre de la Ville de Luxembourg.
+
+## Art. 9.
+
+Un règlement grand-ducal pris sur avis du Collège médical, le Conseil d’Etat entendu, arrête l’organisation médicale, pharmaceutique et paramédicale du Centre hospitalier, notamment en ce qui concerne les principes régissant l’admission, les activités professionnelles et les rémunérations.
+
+Ce règlement prévoira que les médecins sont payés forfaitairement et que leur rémunération est prélevée sur la masse des honoraires pour prestations et actes médicaux qui sont recouvrés par l’établissement et comptabilisés à part.
+
+Un règlement grand-ducal, à prendre sur avis du collège médical, le Conseil d’Etat entendu, peut déroger exceptionnellement à la rémunération forfaitaire pour des médecins admis à exercer leur profession au service d’obstétrique.
+
+Le même règlement grand-ducal détermine notamment la durée de l’engagement de ces médecins, leur mode de rémunération et de participation aux frais d’exploitation du Centre hospitalier ainsi que les modalités de leur participation au tour de garde.
+
+## Art. 10.
+
+La commission administrative décide sur:
+
+1\) le budget, les crédits supplémentaires, le bilan et les comptes de profits et pertes;
+
+2\) les acquisitions, aliénations et échanges d’immeubles et leur affectation, les conditions des baux de plus de neuf ans;
+
+3\) les emprunts;
+
+4\) les projets de travaux de constructions, grosses réparations et démolitions;
+
+5\) le règlement général qui comporte entre autres:
+
+a) le règlement intérieur,
+
+b) les règles concernant l’emploi des diverses catégories de personnel pour autant qu’elles n’ont pas été fixées par des dispositions législatives ou réglementaires,
+
+c) le tableau des effectifs du personnel,
+
+d) les descriptions d’emplois du directeur, des chefs de département et des différentes catégories de personnel,
+
+e) un modèle de contrat déterminant les conditions de travail et de rémunération des médecins, élaboré après négociation avec l’organisation professionnelle nationale représentative des médecins,
+
+f) les règles relatives à la composition du conseil médical.
+
+Si après un délai de deux mois les parties n’arrivent pas à se mettre d’accord sur le modèle de contrat, chacune des parties peut soumettre le désaccord à une commission de conciliation et d’arbitrage qui statuera.
+
+Celle-ci sera présidée par le ministre de la santé publique ou son délégué et comprendra un membre d’une commission administrative d’un hôpital et un médecin agréé à exercer dans un établissement hospitalier du pays. Ces deux membres seront désignés par le ministre de la santé publique et choisis sur deux listes doubles présentées l’une par l’Entente des hôpitaux pour le membre d’une commission administrative d’un hôpital et l’autre par l’organisation professionnelle nationale représentative des médecins pour le membre médecin.
+
+6\) les créations, transformations et suppressions de services;
+
+7\) l’acceptation et le refus de dons et de legs;
+
+8\) les actions judiciaires et les transactions;
+
+9\) l’engagement et le licenciement du directeur, des chefs de département, des médecins, du personnel de la carrière supérieure ainsi que du personnel responsable de services à désigner au règlement général;
+
+10\) l’acquisition des appareils et équipements nécessitant une autorisation préalable du ministre de la santé publique, en vertu de dispositions légales ou réglementaires;
+
+11\) la fixation des modalités selon lesquelles le centre sera obligé à l’égard des tiers ainsi que la délégation de signatures.
+
+Poursuite et diligence de son président ou de celui qui le remplace, elle représente l’établissement dans les actions judiciaires.
+
+Sont soumises à l’approbation du ministre de la santé publique les délibérations prévues sous 1 à 7 ainsi que la nomination et le licenciement du directeur, des chefs de département et des médecins.
+
+Les délibérations prévues sub 1 à 4 sont également soumises à l’approbation de la Ville de Luxembourg dans la mesure où la Ville est appelée à participer au financement.
+
+## Art. 12.
+
+1\. La direction du Centre hospitalier est confiée à un directeur. Le directeur est assisté d’un chef de département pour chacun des départements médical, de soins et administratif.
+
+2\. Les chefs de département doivent répondre aux qualifications suivantes:
+
+aash le chef du département médical
+
+médecin autorisé à exercer sa profession au Luxembourg.
+
+bash le chef du département paramédical:
+
+titulaire d’un diplôme d’études supérieures en soins infirmiers ou en organisation hospitalière
+
+ou titulaire d’un diplôme d’infirmier hospitalier gradué
+
+ou titulaire d’un diplôme d’infirmier pouvant se prévaloir d’une large expérience en matière de soins infirmiers;
+
+cash le chef du département administratif:
+
+titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie
+
+ou en gestion hospitalière
+
+ou titulaire d’un diplôme de fin d’études secondaires pouvant se prévaloir d’une large expérience en matière de gestion hospitalière.
+
+3\. Le directeur doit répondre à l’une des qualifications suivantes:
+
+soit être médecin autorisé à exercer sa profession au Luxembourg,
+
+soit être titulaire d’un diplôme d’études supérieures en soins infirmiers et en organisation hospitalière
+
+soit être titulaire d’un diplôme sanctionnant un cycle universitaire complet de quatre années au moins en droit ou en économie ou en gestion hospitalière.
+
+4\. En cas d’empêchement ou de vacance de poste du directeur ses fonctions sont exercées temporairement par le chef de département à désigner par la commission administrative.
+
+## Art. 13.
+
+Le directeur est chargé de l’exécution des décisions de la commission administrative et a compétence pour régler toutes les autres affaires non spécialement dévolues à celle-ci. Il doit tenir la commission administrative régulièrement informée de la marche générale des services et lui présenter trimestriellement un rapport d’activité.
+
+Sous l’autorité du directeur les chefs de département sont responsables de l’organisation, de la planification et du contrôle des activités de leur département respectif.
+
+## Art. 14.
+
+Au Centre hospitalier il y a un comité mixte régi selon les dispositions de la [loi du 6 mai 1974](https://legilux.public.lu/eli/etat/leg/loi/1974/05/06/n1/jo) instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes.
+
+## Art. 15.
+
+Le directeur, les chefs de département et les membres du personnel médical, paramédical, administratif et ouvrier sont liés au Centre hospitalier par un contrat de droit privé.
+
+Des fonctionnaires ou employés de l’Etat ou de la Ville de Luxembourg peuvent être détachés à titre temporaire au service du Centre hospitalier. Ce détachement est fait respectivement par le ministre du département auquel ressortit le fonctionnaire ou l’employé concerné ou par le collège des bourgmestre et échevins de la Ville de Luxembourg.
+
+Les rémunérations restant à charge de l’Etat ou de la Ville leur seront remboursés par le Centre hospitalier de Luxembourg.
+
+## Art. 16.
+
+Les ressources du Centre hospitalier comprennent notamment:
+
+1\. les paiements pour prestations et actes médicaux;
+
+2\. le paiement pour prestations hospitalières, médicales et autres;
+
+3\. les donations et legs;
+
+4\. les subventions prévues aux budgets de l’Etat et de la Ville de Luxembourg;
+
+5\. les emprunts.
+
+## Art. 17.
+
+L’exercice budgétaire et comptable coïncide avec l’année civile, sauf que le premier exercice courra de la date du bilan d’ouverture visé par l’article 2 jusqu’au 31 décembre de l’année subséquente.
+
+Les comptes du Centre sont tenus suivant les principes et règles applicables aux sociétés commerciales tels que ceux-ci sont notamment définis par la [loi modifiée du 10 août 1915](https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/jo) concernant les sociétés commerciales.
+
+A la clôture de chaque exercice le directeur établit un projet de bilan et un projet de compte de profits et pertes, dans lesquels les amortissements nécessaires doivent être faits.
+
+## Art. 18.
+
+Le directeur fait annuellement un rapport sur la situation de l’établissement. Il soumet ce rapport, avant le 1<sup>er</sup> avril de l’année qui suit la date de clôture de l’exercice ensemble avec le projet de bilan et le projet de compte de profits et pertes visés à l’article qui précède, à la commission administrative et au réviseur d’entreprises agréé mentionnés à l’article 19.
+
+## Art. 19.
+
+Le Gouvernement nomme un réviseur d’entreprises agréé sur proposition de la commission administrative.
+
+Son mandat a une durée de trois ans et est renouvelable. Sa rémunération est à charge du Centre hospitalier de Luxembourg.
+
+Le réviseur d’entreprises agréé a pour mission de contrôler les comptes du Centre hospitalier de Luxembourg ainsi que la régularité des opérations effectuées et des écritures comptables. Il dresse, à l’intention de la commission administrative, du Gouvernement et de la Ville de Luxembourg, un rapport détaillé sur les comptes du Centre hospitalier à la clôture de l’exercice financier. Il peut être chargé par la commission administrative de procéder à des vérifications spécifiques.
+
+## Art. 20.
+
+Après examen des documents visés aux articles 18 et 19, la commission arrête le bilan et le compte de profits et pertes et envoie ceux-ci ainsi que les rapports du directeur et du réviseur d’entreprises agréé au ministre de la santé publique et au collège des bourgmestre et échevins de la Ville de Luxembourg, avant le 15 mai de l’année qui suit la date de clôture de l’exercice.
+
+## Art. 21.
+
+La commission établit tous les ans, à l’époque déterminée par le ministre de la santé publique, le budget des recettes et des dépenses de l’établissement pour l’année suivante.
+
+## Art. 22.
+
+Le Centre hospitalier est affranchi de tous impôts et taxes au profit de l’Etat et des communes à l’exception des taxes rémunératoires.
+
+L’application de l’article 150 de la [loi du 4 décembre 1967](https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo) concernant l’impôt sur le revenu est étendue au Centre hospitalier.
+
+Les actes passés au nom et en faveur du Centre hospitalier sont exempts des droits de timbre, d’enregistrement, d’hypothèque et de succession.
+
+Les dons en espèces faits à l’établissement sont déductibles comme dépenses spéciales conformément à l’article 109 de la [loi du 4 décembre 1967](https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo) concernant l’impôt sur le revenu. A cet effet, l’article 112, alinéa 1<sup>er</sup>, numéro 1 de la [loi précitée](https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo) est modifié comme suit:
+
+> 1\. «Les dons en espèces à des sociétés reconnues d’utilité publique par la loi pour autant qu’elles seront désignées par arrêté grand-ducal, aux bureaux de bienfaisance et hospices civils, au Centre hospitalier de Luxembourg, à l’institut grand-ducal, au Centre universitaire de Luxembourg, aux musées de l’Etat et des communes, à la bibliothèque nationale et aux bibliothèques municipales.»
+
+\**Dispositions transitoires**
+
+## Art. 23.
+
+Les membres du personnel entrés en service avant la mise en vigueur de la présente loi et jouissant du statut d’employés de l’Etat auront le droit d’opter dans un délai de trois mois à partir de l’entrée en vigueur de la loi, soit pour leur statut actuel, soit pour le nouveau statut visé à l’article 15. S’ils n’ont pas fait connaître leur option endéans ledit délai, ils sont censés avoir opté pour le nouveau statut.
+
+Les rémunérations restant à charge de l’Etat lui seront remboursées par le Centre hospitalier de Luxembourg.
+
+## Art. 24.
+
+Pendant un délai de quatre années à partir de la date d’entrée en vigueur de la présente loi, les conditions actuelles de travail et de rémunération des médecins exerçant à cette date à la maternité Grande-Duchesse Charlotte et à la clinique pédiatrique fondation Grand-Duc Jean et Grande-Duchesse Joséphine-Charlotte resteront applicables.
+
+Si cependant la majorité du corps médical de l’un des deux établissements en question se prononce, en accord avec la commission administrative, pour le statut à édicter par le règlement grand-ducal prévu à l’article 9 et pour le contrat-type visé à l’article 10 n° 5 de la présente loi, ceux-ci seront immédiatement applicables.
+
+## Art. 25.
+
+Le cadre des fonctionnaires du Centre hospitalier comprendra dans la carrière de l’artisan:
+
+aash un artisan dirigeant;
+
+bash un premier artisan principal;
+
+cash trois artisans principaux ou premiers artisans ou artisans.
+
+Les artisans détenteurs du brevet de maîtrise âgés de moins de cinquante-cinq ans au moment de l’entrée en vigueur de la présente loi et qui peuvent faire valoir au moins trois années de service sous le régime du contrat collectif des ouvriers de l’Etat pourront être nommés aux fonctions de premier artisan. Ils sont dispensés de l’examen-concours pour l’admission au stage, du stage et de l’examen d’admission définitive.
+
+Ils pourront être nommés aux fonctions d’artisan principal et de premier artisan principal à condition de passer avec succès un examen de promotion conformément aux dispositions du [règlement grand-ducal du 9 mars 1971](https://legilux.public.lu/eli/etat/leg/rgd/1971/03/09/n1/jo) déterminant les conditions d’admission, de nomination et de promotion des fonctionnaires de la carrière de l’artisan dans les administrations et services de l’Etat.
+
+Toutefois, le nombre des emplois de ces fonctions est déterminé par les pourcentages prévus pour la carrière de l’artisan à l’article 17 section II de la [loi modifiée du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat.
+
+Les années passées au service de l’Etat, déduction faite d’une période de stage de trois ans, seront mises en compte au intéressés pour l’application de l’article 8 de la [loi du 22 juin 1963](https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo) fixant le régime des traitements des fonctionnaires de l’Etat tel que cet article a été modifié par la [loi du 21 décembre 1973](https://legilux.public.lu/eli/etat/leg/loi/1973/12/21/n1/jo).
+
+L’artisan dirigeant, ayant été nommé dans les conditions de l’alinéa 2 ci-dessus, pourra accéder à la carrière de l’expéditionnaire technique conformément au [règlement grand-ducal modifié du 5 février 1979](https://legilux.public.lu/eli/etat/leg/rgd/1979/02/05/n1/jo) fixant les conditions et modalités de l’accès du fonctionnaire à une carrière supérieure à la sienne. A cet effet, le cadre des fonctionnaires du Centre hospitalier comprendra les fonctions de commis technique principal et de premier commis technique principal dans la carrière de l’expéditionnaire technique. Le nombre des emplois de cette carrière est limité à une unité.
+
+Le cadre prévu par la présente disposition n’est que temporairement créé pour les maîtres artisans visés à l’alinéa 2 du présent article. Il sera supprimé au moment du départ du dernier titulaire.
+
+## Art. 26.
+
+Par dérogation aux disposition de l’article 5, le mandat des membres de la première commission administrative instituée expirera le 31 mai de la troisième année qui suit l’entrée en vigueur de la présente loi.
+
+## Art. 26-1.
+
+Par dérogation à l’article 9, les médecins agréés par la Fondation Norbert-Metz à la date du 31 décembre 2003, peuvent continuer à exercer leur activité médicale à titre d’indépendant et sous statut libéral au Centre hospitalier de Luxembourg.
+
+## Art. 27.
+
+La [loi du 15 avril 1877](https://legilux.public.lu/eli/etat/leg/loi/1877/04/15/n1/jo) concernant la création d’une école d’accouchement et d’un établissement de maternité est abrogée.
+
+Les règlements pris sur la base de la prédite [loi du 15 avril 1877](https://legilux.public.lu/eli/etat/leg/loi/1877/04/15/n1/jo), pour autant qu’ils ne sont pas contraires à la présente loi, resteront en vigueur aussi longtemps que les nouveaux règlements à prendre en vertu de la présente loi en la même matière, n’auront pas été publiés au Mémorial.
+
+## Art. 28.
+
+La présente loi entrera en vigueur le premier jour du mois qui suit sa publication au Mémorial.
+
+ANNEXE
+
+à la [loi du 10 décembre 1975](https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/jo) créant un établissement public dénommé Centre hospitalier de Luxembourg groupant la Maternité Grande-Duchesse Charlotte, la Clinique pédiatrique fondation Grand-Duc Jean et Grande-Duchesse Joséphine-Charlotte et l’Hôpital Municipal (cf. article 1<sup>er</sup>).
+
+Grand-Duché de Luxembourg
+
+\**BULLETIN DES PROPRIETES**
+
+\**Cadastre**
+
+\**Commune de Hollerich, Section F de Merl-Nord**
+
+<table>
+<tr>
+<td rowspan="3">Section cadastrale</td>
+<td colspan="2">NUMERO</td>
+<td rowspan="3">LIEU-DIT</td>
+<td rowspan="3">NATURE DE CULTURE</td>
+<td colspan="3" rowspan="2">Contenance</td>
+</tr>
+<tr>
+<td>principal</td>
+<td>supplé<br>mentaire</td>
+</tr>
+<tr>
+<td colspan="2">de la parcelle</td>
+<td>H.</td>
+<td>A.</td>
+<td>C.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">article: 704 <b>Domaine de l’Etat</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>partie de</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>68</td>
+<td>4941</td>
+<td>route d’Arlon</td>
+<td>maternité pl.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>clin. infant.</td>
+<td>4</td>
+<td>29</td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">article: 2430 <b>Luxembourg, la Ville</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>30</td>
+<td>5054</td>
+<td>rue Barblé</td>
+<td>place</td>
+<td></td>
+<td>21</td>
+<td>70</td>
+</tr>
+<tr>
+<td></td>
+<td>30</td>
+<td>5055</td>
+<td>Val St-André</td>
+<td>place</td>
+<td></td>
+<td>09</td>
+<td>99</td>
+</tr>
+<tr>
+<td></td>
+<td>30</td>
+<td>5056</td>
+<td>id.</td>
+<td>place</td>
+<td></td>
+<td>10</td>
+<td>44</td>
+</tr>
+<tr>
+<td></td>
+<td>30</td>
+<td>5057</td>
+<td>id.</td>
+<td>place</td>
+<td></td>
+<td>09</td>
+<td>17</td>
+</tr>
+<tr>
+<td></td>
+<td>38</td>
+<td>1472</td>
+<td>Bommenberg</td>
+<td>lab.</td>
+<td></td>
+<td>28</td>
+<td>00</td>
+</tr>
+<tr>
+<td></td>
+<td>48</td>
+<td>152</td>
+<td>id.</td>
+<td>lab.</td>
+<td></td>
+<td>27</td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>49</td>
+<td>4585</td>
+<td>id.</td>
+<td>maison pl.</td>
+<td></td>
+<td>25</td>
+<td>40</td>
+</tr>
+<tr>
+<td></td>
+<td>49</td>
+<td>5052</td>
+<td>rue Nic. Braunshausen</td>
+<td>lab.</td>
+<td>1</td>
+<td>30</td>
+<td>61</td>
+</tr>
+<tr>
+<td></td>
+<td>60</td>
+<td>5059</td>
+<td>rue Barblé</td>
+<td>lab.</td>
+<td>1</td>
+<td>53</td>
+<td>75</td>
+</tr>
+<tr>
+<td></td>
+<td>partie de</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>60</td>
+<td>5058</td>
+<td>id.</td>
+<td>place</td>
+<td></td>
+<td>38</td>
+<td>75</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">partie sans<br>N° cadastral</td>
+<td>id.</td>
+<td>place</td>
+<td></td>
+<td>27</td>
+<td>44</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">sentier sans<br>N° cadastral</td>
+<td>rue Nic. Braunshausen</td>
+<td>sentier</td>
+<td></td>
+<td>01</td>
+<td>70[^1]</td>
+</tr>
+</table>
+
+---
+
+[^1]: [Loi du 18 décembre 2009 relative à la profession de l'audit et: – portant transposition de la directive 2006/43/CE du Parlement européen et du Conseil du 17 mai 2006 concernant les contrôles légaux des comptes annuels et des comptes consolidés et modifiant les directives 78/660/CEE et 83/349/CEE du Conseil, et abrogeant la directive 84/253/CEE du Conseil, – portant organisation de la profession de l'audit, – modifiant certaines autres dispositions légales, et – portant abrogation de la loi modifiée du 28 juin 1984 portant organisation de la profession de réviseur d'entreprises.](https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n17/jo)

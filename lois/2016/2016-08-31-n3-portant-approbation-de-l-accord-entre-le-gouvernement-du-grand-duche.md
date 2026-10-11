@@ -1,0 +1,40 @@
+---
+title: "Loi du 31 août 2016 portant approbation de l’Accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement du Royaume de Belgique sur l’assistance mutuelle en matière de sécurité civile, signé à Bruxelles, le 5 février 2015."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/2016/08/31/n3"
+type: act
+jurisdiction: lu
+language: fr
+date: 2016-08-31
+consolidated: false
+publication_date: 2016-09-09
+entry_into_force: 2016-09-13
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/2016/08/31/n3/jo"
+retrieved: 2026-10-12
+---
+
+# Loi du 31 août 2016 portant approbation de l’Accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement du Royaume de Belgique sur l’assistance mutuelle en matière de sécurité civile, signé à Bruxelles, le 5 février 2015.
+
+Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,
+
+Notre Conseil d’Etat entendu;
+
+De l’assentiment de la Chambre des Députés;
+
+Vu la décision de la Chambre des Députés du 14 juillet 2016 et celle du Conseil d’Etat du 15 juillet 2016 portant qu’il n’y a pas lieu à second vote;
+
+Avons ordonné et ordonnons:
+
+## Article unique.
+
+Est approuvé l’Accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement du Royaume de Belgique sur l’assistance mutuelle en matière de sécurité civile, signé à Bruxelles, le 5 février 2015.
+
+Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
+
+Le Ministre des Affaires étrangères<br> et européennes, <br> Jean Asselborn <br> Le Ministre de l’Intérieur, <br> Dan Kersch
+
+Château de Berg, le 31 août 2016. <br> Henri
+
+Pour visualiser l’annexe, veuillez consulter la [version PDF](https://legilux.public.lu/filestore/eli/etat/leg/memorial/2016/a189/fr/pdf/eli-etat-leg-memorial-2016-a189-fr-pdf.pdf) du Mémorial.
+
+Doc. parl. [6971](https://legilux.public.lu/eli/etat/projet/pl/10135); sess. ord. 2015-2016.

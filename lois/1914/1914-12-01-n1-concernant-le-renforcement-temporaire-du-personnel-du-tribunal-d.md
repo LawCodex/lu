@@ -1,0 +1,40 @@
+---
+title: "Loi du 1er décembre 1914 concernant le renforcement temporaire du personnel du tribunal d'arrondissement de Luxembourg."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/1914/12/01/n1"
+type: act
+jurisdiction: lu
+language: fr
+date: 1914-12-01
+consolidated: false
+publication_date: 1914-12-04
+entry_into_force: 1914-12-08
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/1914/12/01/n1/jo"
+retrieved: 2026-10-12
+---
+
+# Loi du 1er décembre 1914 concernant le renforcement temporaire du personnel du tribunal d'arrondissement de Luxembourg.
+
+Nous MARIE-ADÉLAÏDE, par la grâce de Dieu Grande-Duchesse de Luxembourg, Duchesse de Nassau, etc., etc., etc.;
+
+Notre Conseil d'État entendu;
+
+De l'assentiment de la Chambre des députés;
+
+Vu la décision de la Chambre des députés en date du 26 novembre 1914, et celle du Conseil d'État du 27 du même mois, portant qu'il n'y a pas lieu à second vote;
+
+Avons ordonné et ordonnons:
+
+## Art. 1<sup>er</sup>.
+
+Le tribunal d'arrondissement de Luxembourg est composé d'un président, d'un vice-président, de huit juges, d'un procureur d'État, de deux substituts, d'un greffier et de six greffiers adjoints.
+
+## Art. 2.
+
+Il ne sera pas pourvu à la nomination des trois premières places de juge ni des deux premières places de greffier-adjoint qui viendront à vaquer au tribunal d'arrondissement de Luxembourg après le 1<sup>er</sup> août 1917, et le nombre des juges resp. des greffiers-adjoints près le dit tribunal sera réduit à cinq resp. à quatre.
+
+Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
+
+Le Ministre d'État, <br> Président du Gouvernement, <br> EYSCHEN.
+
+Château de Berg, le 1<sup>er</sup> décembre 1914. <br> MARIE-ADÉLAÏDE.

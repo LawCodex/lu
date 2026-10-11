@@ -1,0 +1,38 @@
+---
+title: "Loi du 8 juillet 2021 portant dérogation temporaire à l’article L. 111-3, paragraphe 4, du Code du travail."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/08/a519"
+type: act
+jurisdiction: lu
+language: fr
+date: 2021-07-08
+consolidated: false
+publication_date: 2021-07-13
+entry_into_force: 2021-07-17
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/2021/07/08/a519/jo"
+retrieved: 2026-10-12
+---
+
+# Loi du 8 juillet 2021 portant dérogation temporaire à l’article L. 111-3, paragraphe 4, du Code du travail.
+
+Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,
+
+Notre Conseil d’État entendu ;
+
+De l’assentiment de la Chambre des Députés ;
+
+Vu la décision de la Chambre des Députés du 9 juin 2021 et celle du Conseil d’État du 15 juin 2021 portant qu’il n’y a pas lieu à second vote ;
+
+Avons ordonné et ordonnons :
+
+## Article unique.
+
+Par dérogation à l’article L. 111-3, paragraphe 4, du [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail), des reprises de contrats sont permises et autorisées pendant le deuxième semestre de l’année scolaire 2020/2021.
+
+Mandons et ordonnons que la présente loi soit insérée au Journal officiel du Grand-Duché de Luxembourg pour être exécutée et observée par tous ceux que la chose concerne.
+
+Le Ministre de l’Éducation nationale,<br>de l’Enfance et de la Jeunesse, <br> Claude Meisch <br> Le Ministre du Travail, de l’Emploi<br>et l’Économie sociale et solidaire, <br> Dan Kersch
+
+Cabasson, le 8 juillet 2021. <br> Henri
+
+Doc. parl. [7816](https://legilux.public.lu/eli/etat/projet/pl/20170440) ; sess. ord. 2020-2021.

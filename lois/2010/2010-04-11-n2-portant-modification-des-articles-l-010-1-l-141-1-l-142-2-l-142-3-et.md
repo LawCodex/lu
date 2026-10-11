@@ -1,0 +1,54 @@
+---
+title: "Loi du 11 avril 2010 portant modification des articles L. 010-1, L. 141-1, L. 142-2, L. 142-3 et L. 142-4 du Code du Travail."
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/2010/04/11/n2"
+type: act
+jurisdiction: lu
+language: fr
+date: 2010-04-11
+consolidated: false
+publication_date: 2010-04-16
+entry_into_force: 2010-04-20
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/2010/04/11/n2/jo"
+retrieved: 2026-10-12
+---
+
+# Loi du 11 avril 2010 portant modification des articles L. 010-1, L. 141-1, L. 142-2, L. 142-3 et L. 142-4 du Code du Travail.
+
+Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,
+
+Notre Conseil d'Etat entendu;
+
+De l'assentiment de la Chambre des Députés;
+
+Vu la décision de la Chambre des Députés du 16 mars 2010 et celle du Conseil d'Etat du 23 mars 2010 portant qu'il n'y a pas lieu à second vote;
+
+Avons ordonné et ordonnons:
+
+## Art. 1<sup>er</sup>.
+
+L'article L. 010-1, paragraphe (1) prend la teneur suivante: Art. L. 010-1. (1) Constituent des dispositions d'ordre public applicables à tous les salariés exerçant une activité sur le territoire du Grand-Duché de Luxembourg toutes les dispositions légales, réglementaires, administratives, ainsi que celles résultant de conventions collectives déclarées d'obligation générale ou d'une décision d'arbitrage ayant un champ d'application similaire à celui des conventions collectives d'obligation générale ou d'un accord en matière de dialogue social interprofessionnel déclaré d'obligation générale ayant trait: au contrat de travail écrit ou au document établi en vertu de la directive [91/533/CEE](https://legilux.public.lu/eli/dir_ue/1991/533) du 14 octobre 1991 relative à l'obligation de l'employeur d'informer le salarié des conditions applicables au contrat ou à la relation de travail; au salaire social minimum et à l'adaptation automatique du salaire à l'évolution du coût de la vie; à la durée du travail, au temps de pause, au repos journalier et au repos hebdomadaire; au congé payé; aux congés collectifs; aux jours fériés légaux; à la réglementation du travail intérimaire et du prêt de main-d'œuvre; à la réglementation du travail à temps partiel et à durée déterminée; aux mesures de protection applicables aux conditions de travail et d'emploi des enfants et des jeunes, des femmes enceintes et des femmes venant d'accoucher; à la non-discrimination; aux conventions collectives de travail; à l'inactivité obligatoire conformément à la législation sur le chômage intempéries et le chômage technique; au travail clandestin ou illégal, y compris les dispositions concernant les autorisations de travail pour salariés non ressortissants d'un Etat membre de l'Espace économique européen; à la sécurité et la santé des salariés sur le lieu de travail en général et plus particulièrement aux prescriptions minimales de sécurité et de santé établies par voie de règlement grand-ducal sur base de l'article L. 314-2.
+
+## Art. 2.
+
+1\. L'article L. 141-1, paragraphe (1) est modifié comme suit: Art. L. 141-1. (1) Les dispositions du paragraphe 1<sup>er</sup> de l'article L. 010-1, à l'exclusion des points 1, 8 et 11, sont applicables aux entreprises qui, dans le cadre d'une prestation de services transnationale, détachent des salariés sur le territoire du Grand-Duché, à l'exception des entreprises de la marine marchande maritime. L'adaptation automatique des salaires à l'évolution du coût de la vie prévue au point 2. du paragraphe (1) de l'article L. 010-1 s'applique, pour les salariés détachés, uniquement par rapport au salaire social minimum légal ou par rapport aux taux de salaires minima applicables dans le secteur, la branche et/ou la profession par application d'une convention collective déclarée d'obligation générale.
+
+2\. L'article L. 141-1, paragraphe (2) est complété par un alinéa final de la teneur suivante: Les détachements visés aux points 1. à 3. qui précèdent doivent avoir lieu dans le cadre d'un contrat de prestations de services portant sur un objet ou une activité précise limitée dans le temps et prenant fin avec l'exécution de l'objet du contrat.»
+
+3\. L'article L. 141-1, paragraphe (3) prend la teneur suivante: (3) On entend par salarié détaché, tout salarié travaillant habituellement à l'étranger et qui exécute son travail sur le territoire du Grand-Duché de Luxembourg, pendant la durée limitée déterminée par l'exécution de la prestation de services précise pour laquelle le contrat de prestations de services au sens du paragraphe (1), et du paragraphe (2) a été conclu. La durée limitée s'apprécie en fonction de la durée, de la fréquence, de la périodicité et de la continuité de la prestation de services ainsi qu'en relation avec la nature de l'activité qui fait l'objet du détachement.
+
+## Art. 3.
+
+1\. L'article L. 142-2 prend la teneur suivante: Art. L. 142-2. Aux fins de l'application du présent titre, l'entreprise, y compris celle dont le siège est établi hors du territoire du Grand-Duché de Luxembourg ou qui effectue son travail habituellement hors du territoire luxembourgeois, dont un ou plusieurs salariés exercent une activité au Luxembourg, y compris ceux qui font l'objet d'un détachement temporaire conformément à l'article L. 141-1 doit, dès le commencement des travaux sur territoire luxembourgeois, sans préjudice de la possibilité d'une déclaration antérieure décidée par l'entreprise détachante, en informer l'Inspection du travail et des mines, en lui communiquant à cet instant, par toute voie utile et retraçable, dont le message électronique, les éléments indispensables au contrôle légal à effectuer par l'Inspection du travail et des mines: les données d'identification de l'employeur détachant et de son représentant effectif; l'identité de la personne morale ou physique déterminée librement par l'entreprise détachante, qui peut être un des salariés détachés, qui détiendra pendant la durée du détachement les documents nécessaires au contrôle du respect des conditions de travail, de salaire et d'emploi notamment visés au présent article et à l'article L. 142-3, et le lieu accessible et clairement identifiable au Grand-Duché de Luxembourg où seront tenus à disposition de l'Inspection du travail et des mines les documents en question; la date de début et la durée prévue du détachement, conformément au contrat de prestation de services; le ou les lieux de travail au Luxembourg et la durée prévisible des travaux; les noms, prénoms, dates de naissance, nationalité et professions des salariés; la qualité dans laquelle les salariés sont engagés dans l'entreprise et la profession ou l'occupation à laquelle ils y sont régulièrement affectés, ainsi que l'activité qu'ils exercent lors du détachement à Luxembourg. Tout changement ultérieur, notamment de lieu ou d'objet du travail, devra être signalé par le même biais à l'Inspection du travail et des mines, sans préjudice de la nécessité d'un nouveau contrat de prestations de services ayant un objet différent.
+
+2\. L'article L. 142-3 prend la teneur suivante: Art. L. 142-3. A compter du jour du commencement du détachement et pendant toute la durée du détachement, en plus des documents nécessaires pour prouver les informations visées à l'article L. 142-2, l'entreprise doit s'assurer de la présence dans le pays entre les mains d'une personne physique ou morale qu'elle détermine librement et clairement, cette personne pouvant être le cas échéant un des salariés détachés, et ce afin de les rendre accessibles à l'Inspection du travail et des mines, sur simple demande et dans le plus bref délai possible, à un lieu accessible et clairement identifiable au Grand-Duché de Luxembourg des documents suivants: la copie du contrat de mise à disposition le cas échéant; le certificat de déclaration préalable ou l'attestation la remplaçant délivrée par le ministère chargé des classes moyennes, prévu par la loi du 19 juin 2009 ayant pour objet la transposition de la directive [2005/36/CE](https://legilux.public.lu/eli/dir_ue/2005/36) pour ce qui est a) du régime général de reconnaissance des titres de formation et des qualifications professionnelles b) de la prestation temporaire de service; l'original ou la copie certifiée conforme du formulaire E 101; ou, le cas échéant, l'indication précise des organismes de sécurité sociale auxquels les travailleurs sont affiliés pendant leur séjour sur le territoire luxembourgeois; le certificat de TVA délivré par l'Administration de l'Enregistrement et des Domaines; soit une attestation de conformité à la directive 91/533/CEE du 14 octobre 1991, relative à l'obligation de l'employeur d'informer le salarié des conditions applicables au contrat ou à la relation de travail, telle que transposée par la législation de l'Etat compétent, délivrée par l'autorité de contrôle compétente du pays dans lequel l'entreprise détachante a son siège ou effectue habituellement ses prestations, soit, sur demande de l'entreprise détachante, la copie du contrat de travail ou des documents visés dans la législation précitée; une attestation de conformité, délivrée par l'autorité de contrôle compétente du pays dans lequel l'entreprise détachante a son siège ou exerce habituellement son travail de la relation de travail des salariés détachés, au moment de leur détachement, par rapport à la législation compétente ayant transposé les directives [97/81/CE](https://legilux.public.lu/eli/dir_ue/1997/81) concernant le travail à temps partiel et [1999/70/CE](https://legilux.public.lu/eli/dir_ue/1999/70) concernant le travail à durée déterminée; les documents officiels attestant les qualifications professionnelles des salariés. La personne morale visée à l'alinéa qui précède doit exercer une activité économique réelle. Les documents doivent être traduits dans une des langues officielles du Luxembourg au cas où l'Inspection du travail et des mines en fait la demande dûment justifiée.
+
+3\. L'article L. 142-4, paragraphe (1) prend la teneur suivante: Art. L. 142-4. (1) Dans le cadre de la mission lui incombant en application du présent titre, l'Inspection du travail et des mines collabore étroitement notamment avec le ministère ayant le droit d'établissement dans ses attributions, le ministère ayant la santé dans ses attributions, l'Administration des douanes et accises, la Police grand-ducale, l'Administration de l'Emploi, l'Administration des Contributions directes, l'Administration de l'enregistrement et des domaines et l'Association d'assurance contre les accidents.
+
+Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne.
+
+Le Ministre du Travail, de l'Emploi et de l'Immigration, <br> Nicolas Schmit
+
+Château de Berg, le 11 avril 2010. <br> Henri
+
+Doc. parl. 5942; sess. ord. 2008-2009 et 2009-2010.

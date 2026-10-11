@@ -1,0 +1,209 @@
+---
+title: "Loi du 5 février 2021 sur les transports publics et modifiant :\\n1° les articles L. 311-5 et L.311-6 du Code de la consommation ;\\n2° la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers ;\\n3° la loi du 10 septembre 2012 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires ;\\n4° la loi du 27 avril 2015 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004, et modifiant 1) les articles L.311-5 et L.311-6 du Code de la consommation, 2) l’article 7bis de la loi modifiée du 29 juin 2004 sur les transports publics.\\n"
+identifier: "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106"
+type: act
+jurisdiction: lu
+language: fr
+date: 2021-02-05
+last_amended: 2021-03-01
+consolidated: true
+publication_date: 2021-02-11
+entry_into_force: 2021-03-01
+status: in_force
+source: "https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301"
+retrieved: 2026-10-12
+---
+
+# Loi du 5 février 2021 sur les transports publics et modifiant :\n1° les articles L. 311-5 et L.311-6 du Code de la consommation ;\n2° la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers ;\n3° la loi du 10 septembre 2012 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires ;\n4° la loi du 27 avril 2015 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004, et modifiant 1) les articles L.311-5 et L.311-6 du Code de la consommation, 2) l’article 7bis de la loi modifiée du 29 juin 2004 sur les transports publics.\n
+
+## Chapitre 1 — Champ d’application et définitions
+
+### Art. **1<sup>er</sup>**.
+
+Le membre du Gouvernement ayant les Transports dans ses attributions, ci-après « ministre », est l’autorité compétente pour les services de transports publics entrant dans le champ d’application de la présente loi.
+
+Il organise les services de transports publics destinés à couvrir les besoins de déplacement de personnes tant sur le territoire du Grand-Duché de Luxembourg que sur les relations entre le Grand-Duché de Luxembourg et les régions transfrontalières allemande, belge et française.
+
+Les services de transports publics comportent les transports publics de voyageurs effectués par rail et par route au sens de la présente loi, et entrant dans le champ d’application du [règlement (CE) n° 1370/2007](https://legilux.public.lu/eli/reg_ue/2007/1370/jo) du Parlement européen et du Conseil du 23 octobre 2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route, et abrogeant les [règlements (CEE) n° 1191/69](https://legilux.public.lu/eli/reg_ue/1969/1191/jo) et [(CEE) n° 1107/70](https://legilux.public.lu/eli/reg_ue/1970/1107/jo) du Conseil, tel que modifié.
+
+Sans préjudice des conventions que peut conclure le ministre en application de l’article 13 avec les autorités des communes et des syndicats de communes concernés, les services de transports publics confinés au territoire d’une même commune ou d’un même syndicat de communes ayant comme objet principal l’activité de transport public sont exclus du champ d’application de la présente loi.
+
+### Art. 2.
+
+Font partie des services de transports publics par rail :
+
+1° les transports intérieurs assurés au moyen de trains et de tramways, assurant les services réguliers sur les relations confinées au territoire national ;
+
+2° les transports transfrontaliers régionaux assurés au moyen de trains assurant les services réguliers sur des relations à l’intérieur de la région transfrontalière délimitée conformément à l’article 1<sup>er</sup> et qui ont comme origine ou comme destination une gare luxembourgeoise.
+
+Sont également considérés comme services de transports publics les services prestés au moyen de trains internationaux, selon des conditions à convenir entre le ministre et les transporteurs et autorités organisatrices concernés sur base du [règlement (CE) n° 1370/2007](https://legilux.public.lu/eli/reg_ue/2007/1370/jo) précité.
+
+### Art. 3.
+
+Les services de transports publics par route sont effectués au moyen d’autobus, d’autocars et de voitures automobiles à personnes pour les cas visés à l’article 4, points 3° et 4°, à condition que ces transports desservent des relations confinées au territoire national ou des relations qui ont leur origine ou leur destination au Grand-Duché de Luxembourg et qui se situent à l’intérieur de la région transfrontalière, délimitée conformément à l’article 1<sup>er</sup>.
+
+### Art. 4.
+
+Les services de transports publics par route sont définis comme suit :
+
+1° les services réguliers : services qui assurent le transport de voyageurs selon une fréquence et sur un trajet déterminé, les voyageurs pouvant être pris en charge et déposés à des arrêts préalablement fixés ;
+
+2° les services réguliers spécialisés : services réguliers visés au point 1° qui sont réservés à des catégories déterminées de voyageurs, à l’exclusion d’autres voyageurs ;
+
+3° les services à la demande : services qui sont offerts et exécutés sur un trajet déterminé en fonction de la demande des voyageurs ;
+
+4° les services spécifiques : services de transports complémentaires à chacun des services visés aux points 1° à 3°, effectués moyennant des véhicules spécifiquement équipés, lorsque les services visés aux points 1° à 3° ne sont pas accessibles à une personne affectée d’un handicap social, mental ou physique ou d’une affection médicale permanente.
+
+Les activités de transport suivantes ne sont pas considérées comme services de transports publics :
+
+1° les services de taxi tels que définis à l’article 1 de la [loi modifiée du 5 juillet 2016](https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/jo) portant organisation des services de taxis ;
+
+2° les services de location de voitures avec chauffeur ;
+
+3° les transports de tourisme d’agrément ;
+
+4° les transports pour compte propre tels que définis à l’article 2 du [règlement (CE) n° 1073/2009](https://legilux.public.lu/eli/reg_ue/2009/1073/jo) du Parlement européen et du Conseil du 21 octobre 209 établissant des règles communes pour l’accès au marché international des services de transport par autocars et autobus, et modifiant le [règlement (CE) n° 561/2006](https://legilux.public.lu/eli/reg_ue/2006/561/jo), tel que modifié.
+
+## Chapitre 2 — Administration des transports publics
+
+### Art. 5.
+
+Il est créé une administration des transports publics, appelée ci-après « administration », qui est placée sous l’autorité du ministre.
+
+L’administration succède à tous les droits et obligations à la Communauté des transports.
+
+L’administration est chargée, dans les limites fixées par les lois et règlements et aux conditions économiques les plus avantageuses pour la collectivité et qui répondent aux besoins des usagers, d’assurer la planification opérationnelle et l’organisation des services de transports publics par route.
+
+### Art. 6.
+
+L’administration :
+
+1° optimise et gère en collaboration et avec le concours des autorités organisatrices compétentes en Allemagne, en Belgique et en France, les services de transports publics par route sur les relations transfrontalières ;
+
+2° participe à l’élaboration de la réglementation luxembourgeoise dans son domaine de compétence et en assure l’application ;
+
+3° assure la coordination entre les différents opérateurs de transports publics nationaux et transfrontaliers ;
+
+4° assure, auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière de l’offre de mobilité, ainsi que l’information multimodale et intégrée sur les modes de transports publics et de mobilité active, à l’aide des moyens de communication et des technologies appropriés ;
+
+5° gère les réclamations qui sont portées à sa connaissance ;
+
+6° élabore les propositions en matière tarifaire et exécute les décisions y afférentes du ministre ;
+
+7° effectue pour le ministre des missions de collecte des données des transports publics par route et d’autres données nécessaires à l’accomplissement de sa mission ;
+
+8° assure la gestion organisationnelle, administrative, technique, financière et comptable ainsi que le contrôle des services de transports publics réguliers, réguliers spécialisés et des services à la demande tels que définis à l’article 4, et assurés par les exploitants suivant un contrat de services publics ;
+
+9° effectue les tâches administratives et procédurales résultant des dispositions de l’Union européenne en matière de transports de voyageurs par route ;
+
+10° est chargée de l’organisation, de la gestion et de la planification des horaires ainsi que du contrôle des transports publics par route tels que définis à l’article 3 et à l’article 4, paragraphe 1<sup>er</sup> ainsi que de l’information multimodale des usagers des moyens de transports publics.
+
+### Art. 7.
+
+L’administration est dirigée par un directeur qui en est le chef d’administration. Le directeur dirige, coordonne et surveille les activités qui relèvent de la compétence de l’administration et représente l’administration dans ses relations avec les autorités et le public.
+
+Le directeur est assisté de deux directeurs adjoints auxquels il peut déléguer certaines de ses attributions et qui le remplacent en cas d’absence.
+
+### Art. 8.
+
+Le cadre du personnel de l’administration comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la [loi modifiée du 25 mars 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/jo) fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
+
+Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.
+
+### Art. 9.
+
+Le directeur et les directeurs adjoints sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil.
+
+Le directeur doit remplir les conditions de diplôme pour l’accès aux fonctions du sous-groupe administratif du groupe de traitement A1.
+
+## Chapitre 3 — Exploitation des services de transports publics
+
+### Art. 10.
+
+(1) L’exploitation des services de transports publics par rail ne peut être confiée qu’à des entreprises ferroviaires, titulaires de la licence et du certificat de sécurité prévus par la [loi précitée du 6 juin 2019](https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/jo) relative à la gestion, à l’accès, à l’utilisation de l’infrastructure ferroviaire et à la régulation du marché ferroviaire.
+
+(2) Sans préjudice de l’action pénale, une entreprise ferroviaire qui contrevient de façon grave ou répétée aux dispositions de la présente loi peut faire l’objet du retrait de son certificat de sécurité et, dans la mesure où elle est établie au Luxembourg, de sa licence. Dans les mêmes conditions, la délivrance, l’extension ou le renouvellement du certificat de sécurité ou de la licence peut lui être refusé. La décision de retrait ou de refus de délivrance ou de renouvellement intervient selon les modalités et dans les conditions de la [loi précitée du 6 juin 2019](http://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/jo).
+
+### Art. 11.
+
+L’exploitation des services de transports publics par route ne peut être confiée qu’à des personnes physiques ou morales, établies dans un État membre de l’Espace économique européen conformément au [règlement (CE) n° 1071/2009](https://legilux.public.lu/eli/reg_ue/2009/1071/jo) du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la [directive 96/26/CE](https://legilux.public.lu/eli/dir_ue/1996/26/jo) du Conseil, tel que modifié.
+
+## Chapitre 4 — Les interventions des communes
+
+### Art. 12.
+
+Le conseil communal désigne pour la durée de son mandat parmi ses membres un délégué aux transports publics.
+
+Le délégué communal aux transports publics a pour mission d’assurer la communication entre la commune et ses habitants et l’administration pour toute question d’organisation des transports publics et d’information afférente du public concerné.
+
+### Art. 13.
+
+Lorsque dans l’intérêt d’une optimisation de l’offre de transport ou d’une organisation rationnelle des transports publics des synergies sont possibles entre les services de transports publics dont question à l’article 4, paragraphe 1<sup>er</sup> et des services qui relèvent des attributions d’une commune ou d’un syndicat de communes, le ministre peut, suite à la constatation du besoin du trafic selon les dispositions de l’article 5, conclure avec la commune ou le syndicat de communes une convention réglant en particulier les modalités d’exécution des prestations de transport en question ainsi que la prise en charge de l’organisation et du coût de celles-ci.
+
+## Chapitre 5 — Aménagement de gares et d’arrêts
+
+### Art. 14.
+
+L’aménagement et l’entretien des arrêts et terminus de ligne mis en place dans le cadre des services de transports publics par route, y compris la pose et l’entretien de la signalisation routière requise, sont à charge de la commune territorialement compétente. Si celle-ci reste en défaut pour ce faire, l’État peut y pourvoir aux frais de celle-ci.
+
+### Art. 15.
+
+Par dérogation aux dispositions de l’article 14, l’État assume les charges d’aménagement et d’entretien des gares de transbordement ainsi que des arrêts créés en vue de la desserte des parkings-relais P+R et des établissements de l’enseignement post-primaire.
+
+## Chapitre 6 — Comité des usagers des transports publics
+
+### Art. 16.
+
+Un comité des usagers de transports publics sert de plate-forme pour l’information et les échanges de vues utiles sur des questions touchant à l’organisation et au fonctionnement des transports publics.
+
+Indépendamment des attributions prévues à l’alinéa 1<sup>er</sup>, le ministre peut consulter le comité sur d’autres sujets en relation avec les transports publics.
+
+Un règlement grand-ducal détermine la composition et les modalités de fonctionnement du comité.
+
+## Chapitre 7 — Dispositions modificatives et abrogatoires
+
+### Art. 17.
+
+Le [Code de la consommation](https://legilux.public.lu/eli/etat/leg/code/consommation) est modifié comme suit :
+
+1° l’article L. 311-5, paragraphe (5) est abrogé ;
+
+2° l’article L. 311-6, paragraphe (5) est abrogé.
+
+### Art. 18.
+
+À l’article 7 de la [loi modifiée du 28 juin 1984](https://legilux.public.lu/eli/etat/leg/loi/1984/06/28/n1/jo) portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers, les mots la Communauté des Transports sont remplacés par ceux de « le ministre ayant la Protection des consommateurs dans ses attributions.
+
+### Art. 19.
+
+Aux articles 1, 2 et 4 de la [loi du 10 septembre 2012](https://legilux.public.lu/eli/etat/leg/loi/2012/09/10/n1/jo) déterminant le régime des sanctions applicables en cas de violation des dispositions du [règlement (CE) n° 1371/2007](https://legilux.public.lu/eli/reg_ue/2007/1371/jo) du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions.
+
+### Art. 20.
+
+À l’article 1<sup>er</sup> de la [loi du 27 avril 2015](https://legilux.public.lu/eli/etat/leg/loi/2015/04/27/n1/jo) déterminant le régime des sanctions applicables en cas de violation des dispositions du [règlement (UE) n° 181/2011](https://legilux.public.lu/eli/reg_ue/2011/181/jo) du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le [règlement (CE) n° 2006/2004](https://legilux.public.lu/eli/reg_ue/2004/2006/jo), et modifiant :
+
+1° les articles L. 311-5 et L. 311-6 du [Code de la consommation](https://legilux.public.lu/eli/etat/leg/code/consommation) ;
+
+2° l’article 7*bis* de la [loi modifiée du 29 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/29/n1/jo) sur les transports publics, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions.
+
+### Art. 21.
+
+La [loi du 29 juin 2004](https://legilux.public.lu/eli/etat/leg/loi/2004/06/29/n1/jo) sur les transports publics est abrogée.
+
+## Chapitre 8 — Dispositions finales
+
+### Art. 22.
+
+Tout le personnel actuellement engagé sous le statut du salarié conformément au [Code du travail](https://legilux.public.lu/eli/etat/leg/code/travail) par la Communauté des Transports est repris par l’État sous le régime de l’employé de l’État et affecté à l’administration des transports publics ou au Ministère de la Mobilité et des travaux publics, département de la mobilité et des transports. Les décisions de classement et l’ancienneté acquises auprès de la Communauté des Transports sont reprises par l’État.
+
+### Art. 23.
+
+La référence à la présente loi se fait sous la forme suivante : « loi du 5 février 2021 sur les transports publics[^1] ».
+
+### Art. 24.
+
+La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.
+
+---
+
+[^1]: [Loi du 5 février 2021 sur les transports publics et modifiant : 1° les articles L. 311-5 et L.311-6 du Code de la consommation ; 2° la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers ; 3° la loi du 10 septembre 2012 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires ; 4° la loi du 27 avril 2015 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004, et modifiant 1) les articles L.311-5 et L.311-6 du Code de la consommation, 2) l’article 7bis de la loi modifiée du 29 juin 2004 sur les transports publics - RECTIFICATIF.](https://legilux.public.lu/eli/etat/leg/rect/2021/02/05/a170/jo)
